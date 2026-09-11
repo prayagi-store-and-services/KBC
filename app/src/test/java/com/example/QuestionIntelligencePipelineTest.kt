@@ -114,6 +114,16 @@ class QuestionIntelligencePipelineTest {
     }
 
     @Test
+    fun testCityStateFallbackStrategiesAndJuniorAdult() = runBlocking {
+        val juniorProfile = UserProfile(name = "Aarav", state = "Maharashtra", city = "Mumbai", age = 14, isStudentMode = true, preparationDomain = "Student")
+        val adultProfile = UserProfile(name = "Ravi", state = "Uttar Pradesh", city = "Lucknow", age = 25, isStudentMode = false, preparationDomain = "UPSC")
+        val juniorLadder = pipeline.prepareSessionQuestionBank("junior_sess", juniorProfile) {}
+        val adultLadder = pipeline.prepareSessionQuestionBank("adult_sess", adultProfile) {}
+        assertEquals(17, juniorLadder.size)
+        assertEquals(17, adultLadder.size)
+    }
+
+    @Test
     fun testUniquenessAcrossSessions() = runBlocking {
         val profile = UserProfile(
             name = "Priya",

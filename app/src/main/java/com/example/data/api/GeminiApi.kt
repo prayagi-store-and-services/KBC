@@ -98,25 +98,31 @@ class GeminiApiClient {
 
         try {
             val userState = userProfile.state.ifBlank { "National" }
+            val userCity = userProfile.city.ifBlank { "Local" }
+            
             val prompt = """
-                Provide a JSON array of the top 6 verified latest 24-48 hour developments in India across:
-                National, Science & Technology (ISRO, AI, Tech), Environment, Economy, Governance/Schemes, Sports, and state-specific updates for $userState.
+                Provide a JSON array of 8 verified facts/events for India.
+                MANDATORY QUOTAS:
+                - At least 2 events MUST be specifically about the city of $userCity (Priority: Recent current affairs. If none, use major historical facts, famous landmarks, or unique culture).
+                - At least 3 events MUST be specifically about the state of $userState (Priority: Recent current affairs. If none, use history, administration, geography).
+                - 3 events about National/Science/Economy.
                 
                 For each event, format strictly as a JSON object:
                 {
                   "eventId": "UNIQUE_STRING_ID",
-                  "headline": "Crisp headline of the verified event",
+                  "headline": "Crisp headline of the verified event or historical fact",
                   "canonicalSummary": "2-sentence factual summary with verified figures/context",
-                  "eventDate": "Recent",
-                  "sourceReferences": "PIB India, Official Dept, ISRO, News",
+                  "eventDate": "Use 'Recent' for current affairs, 'Historical' for history, or 'Static' for geography/culture",
+                  "sourceReferences": "PIB, ISRO, News, or History Book",
                   "country": "India",
                   "state": "$userState",
-                  "topic": "Science & Tech" | "Environment" | "Economy" | "Govt Schemes" | "Sports" | "National" | "Regional",
+                  "districtRegion": "$userCity (ONLY if the fact is specifically about the city, otherwise empty)",
+                  "topic": "Current Affairs, History, Culture, Geography, Science & Tech, Environment, etc.",
                   "juniorEligibility": true,
                   "adultEligibility": true,
                   "minAge": 6,
                   "maxAge": 99,
-                  "examRelevance": "UPSC / SSC / Banking / General"
+                  "examRelevance": "General"
                 }
                 
                 Return strictly the JSON array of objects.

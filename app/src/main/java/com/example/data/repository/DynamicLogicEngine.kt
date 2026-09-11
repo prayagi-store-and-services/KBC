@@ -133,17 +133,7 @@ object DynamicLogicEngine {
             maxAge = 99,
             generate = ::generateNumberSequence
         ),
-        GeneratorDescriptor(
-            id = "regional_geography",
-            familyKey = "regional_geography",
-            category = "Regional Geography & Landmark Deduction",
-            tierRange = 1..5,
-            isJuniorSuitable = true,
-            isAdultSuitable = true,
-            minAge = 7,
-            maxAge = 99,
-            generate = ::generateRegionalGeography
-        ),
+
 
         // Band 2: Tiers 6 - 10 (Intermediate / Multi-Step Logic)
         GeneratorDescriptor(
@@ -749,68 +739,6 @@ object DynamicLogicEngine {
             logicFingerprint = MultiLayerQuestionValidator.computeLogicFingerprint("seq_ap", "${start}_$diff"),
             conceptFingerprint = MultiLayerQuestionValidator.computeConceptFingerprint("Sequences", "Arithmetic Progression", "ap_series"),
             patternFingerprint = MultiLayerQuestionValidator.computePatternFingerprint("pattern_recognition", "linear_difference"),
-            generationVersion = 2
-        )
-    }
-
-    // =========================================================================
-    // 7. REGIONAL GEOGRAPHY & CITY PERSONALIZATION (Tiers 1 - 5)
-    // =========================================================================
-    private fun generateRegionalGeography(qNumber: Int, meta: TierInfo, rand: Random, profile: UserProfile): QuestionItem {
-        val state = profile.state.ifBlank { "Uttar Pradesh" }
-        val city = profile.city.ifBlank { "Lucknow" }
-
-        val qHi = "भारत के भूगोल एवं प्रशासनिक संरचना के अंतर्गत, यदि एक यात्री $city ($state) से ठीक पूर्व (East) दिशा में सीधी रेखा में देशांतरीय यात्रा करता है, तो वह किस प्राकृतिक या भौगोलिक दिशा-विस्तार की ओर अग्रसर होगा?"
-        val qEn = "Under Indian regional geography, if a traveler journeys strictly East from $city in $state along the same latitude, which geographic orientation is being traced?"
-
-        val correctStrEn = "Eastern Longitudinal Displacement towards Purvanchal / Eastern India"
-        val correctStrHi = "पूर्व देशांतरीय विस्थापन (पूर्वांचल / पूर्वी भारत की ओर)"
-        val optsEn = listOf(
-            correctStrEn,
-            "Western Arid Desert Corridor",
-            "Southern Peninsular Coast",
-            "High Himalayan Northern Crest"
-        ).shuffled(rand)
-        val optsHi = listOf(
-            correctStrHi,
-            "पश्चिमी शुष्क मरुस्थलीय गलियारा",
-            "दक्षिणी प्रायद्वीपीय तटीय क्षेत्र",
-            "उत्तरी उच्च हिमालयी पर्वतमाला"
-        )
-        val correctIdx = optsEn.indexOf(correctStrEn).coerceAtLeast(0)
-
-        val normEn = MultiLayerQuestionValidator.normalizeText(qEn)
-        val normAns = MultiLayerQuestionValidator.normalizeText(correctStrEn)
-
-        return QuestionItem(
-            id = UUID.randomUUID().toString(),
-            qNumber = qNumber,
-            difficultyTitle = meta.difficultyTitle,
-            timeLimitSeconds = meta.timeLimitSeconds,
-            points = meta.points,
-            isCheckpoint = meta.isCheckpoint,
-            checkpointTitle = meta.checkpointTitle,
-            category = "Regional Geography & Landmark Deduction",
-            questionHindi = qHi,
-            questionEnglish = qEn,
-            cluesHindi = listOf("स्थान: $city ($state)", "दिशा: शुद्ध पूर्व (East) अक्षांशीय रेखा।", "भारत के मानचित्र पर पूर्व दिशा पूर्वांचल व पूर्वी राज्यों की ओर जाती है।"),
-            cluesEnglish = listOf("Origin: $city ($state)", "Bearing: Pure East vector along parallel of latitude.", "On Indian map, eastward vector traces towards Purvanchal / Eastern plains."),
-            optionsHindi = optsHi,
-            optionsEnglish = optsEn,
-            correctAnswerIndex = correctIdx,
-            deductionPathHindi = "$city ($state) से पूर्व की ओर यात्रा करने पर देशांतर बढ़ता है, जो पूर्वी मैदानों व पूर्वांचल की दिशा है।",
-            deductionPathEnglish = "Moving East increases longitude, tracing towards the eastern plains and Purvanchal.",
-            eliminationReasonsHindi = optsHi.mapIndexed { idx, opt -> if (idx == correctIdx) "भौगोलिक दिशा-अक्ष द्वारा सिद्ध।" else "विपरीत दिशा का द्योतक।" },
-            eliminationReasonsEnglish = optsEn.mapIndexed { idx, opt -> if (idx == correctIdx) "Geographically proven eastward vector." else "Opposite cardinal direction." },
-            expertAdviceHindi = "भारत के राजनीतिक एवं भौतिक मानचित्र में $state की स्थिति का ध्यान करें।",
-            expertAdviceEnglish = "Visualize the cardinal coordinates of $state on the physical map of India.",
-            fiftyFiftyDiscardIndices = (0..3).filter { it != correctIdx }.take(2),
-            fiftyFiftyProofHindi = "उत्तर और दक्षिण दिशा के विकल्प सीधे निरस्त होते हैं।",
-            fiftyFiftyProofEnglish = "North and South perpendicular vectors discarded.",
-            semanticFingerprint = MultiLayerQuestionValidator.computeSemanticFingerprint(normEn, normAns),
-            logicFingerprint = MultiLayerQuestionValidator.computeLogicFingerprint("regional_vector", "${state}_$city"),
-            conceptFingerprint = MultiLayerQuestionValidator.computeConceptFingerprint("Regional Geography", state, city),
-            patternFingerprint = MultiLayerQuestionValidator.computePatternFingerprint("spatial_reasoning", "regional_orientation"),
             generationVersion = 2
         )
     }

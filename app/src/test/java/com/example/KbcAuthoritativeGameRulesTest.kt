@@ -717,4 +717,74 @@ class KbcAuthoritativeGameRulesTest {
         assertEquals(0L, result.totalPointsWon)
         assertEquals(0L, result.guaranteedPointsSecured)
     }
+
+    // ==========================================
+    // TEST 18: Authoritative TTS Synchronization Gate
+    // Countdown timer and thinking timer must NEVER start while phase is QUESTION_READING
+    // ==========================================
+    @Test
+    fun `TEST 18 - Timer gate rejects start during QUESTION_READING phase`() {
+        val readingState = QuizUiState.InGame(
+            question = sampleQuestionQ3,
+            currentQNumber = 3,
+            phase = QuestionPhase.QUESTION_READING,
+            timerMode = TimerMode.TIMED,
+            elapsedThinkingSeconds = 0,
+            isOptionsVisible = true,
+            selectedOptionIndex = null,
+            lockedOptionIndex = null,
+            isLockedIn = false,
+            isAnswerRevealed = false,
+            isCorrect = false,
+            timeRemainingSeconds = 30,
+            totalTimeAllocated = 30,
+            baseTimeSeconds = 30,
+            lifelineUsedInCurrentQuestion = false,
+            isTimerRunning = false,
+            discardedOptionIndices = emptySet(),
+            currentPointsWon = 2000L,
+            guaranteedSecuredPoints = 0L,
+            lifelineState = com.example.data.model.LifelineState()
+        )
+
+        // Strict invariant assertions:
+        assertEquals(QuestionPhase.QUESTION_READING, readingState.phase)
+        assertFalse("Timer MUST NOT run while phase is QUESTION_READING", readingState.isTimerRunning)
+        assertEquals("Time remaining must stay at full allocated time", 30, readingState.timeRemainingSeconds)
+        assertTrue("Options may be visible to player", readingState.isOptionsVisible)
+    }
+
+    // ==========================================
+    // TEST 19: Transition to ANSWER_ACTIVE only after TTS done
+    // Timer is running only after transitioning to ANSWER_ACTIVE
+    // ==========================================
+    @Test
+    fun `TEST 19 - Timer starts only in ANSWER_ACTIVE phase with full remaining time intact`() {
+        val activeState = QuizUiState.InGame(
+            question = sampleQuestionQ3,
+            currentQNumber = 3,
+            phase = QuestionPhase.ANSWER_ACTIVE,
+            timerMode = TimerMode.TIMED,
+            elapsedThinkingSeconds = 0,
+            isOptionsVisible = true,
+            selectedOptionIndex = null,
+            lockedOptionIndex = null,
+            isLockedIn = false,
+            isAnswerRevealed = false,
+            isCorrect = false,
+            timeRemainingSeconds = 30,
+            totalTimeAllocated = 30,
+            baseTimeSeconds = 30,
+            lifelineUsedInCurrentQuestion = false,
+            isTimerRunning = true,
+            discardedOptionIndices = emptySet(),
+            currentPointsWon = 2000L,
+            guaranteedSecuredPoints = 0L,
+            lifelineState = com.example.data.model.LifelineState()
+        )
+
+        assertEquals(QuestionPhase.ANSWER_ACTIVE, activeState.phase)
+        assertTrue("Timer must run in ANSWER_ACTIVE", activeState.isTimerRunning)
+        assertEquals(30, activeState.timeRemainingSeconds)
+    }
 }

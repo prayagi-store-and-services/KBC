@@ -1,4 +1,5 @@
 package com.example.ui.viewmodel
+import android.util.Log
 
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
@@ -563,26 +564,55 @@ class QuizViewModel(application: Application) : AndroidViewModel(application) {
         currentNarrationToken = System.currentTimeMillis()
         val token = currentNarrationToken
         val sessionId = currentSessionId
+        Log.d("QuizViewModel", "QUESTION_READING_STARTED: Q$targetQNum (sessionId=$sessionId, narrationToken=$token, timed=$isTimed, allocated=${allocatedTime}s)")
 
         if (_isVoiceNarrationEnabled.value) {
             speechNarrator.speakQuestionBounded(qText, langMode, userProfile.value.hostGender) {
                 if (currentSessionId == sessionId && currentNarrationToken == token) {
-                    transitionToAnswerActive(targetQNum, allocatedTime, isTimed)
+                    Log.d("QuizViewModel", "TTS_COMPLETED: Genuinely finished question narration callback received for Q$targetQNum")
+                    transitionToAnswerActive(targetQNum, allocatedTime, isTimed, token, sessionId)
+                } else {
+                    Log.w("QuizViewModel", "TTS_CALLBACK_IGNORED: Stale question narration callback discarded (currentQ=$targetQNum, callbackToken=$token, activeToken=$currentNarrationToken)")
                 }
             }
         } else {
-            viewModelScope.launch {
-                delay(600)
-                if (currentSessionId == sessionId && currentNarrationToken == token) {
-                    transitionToAnswerActive(targetQNum, allocatedTime, isTimed)
-                }
-            }
+            // Voice narration is explicitly turned off by user: transition to ANSWER_ACTIVE directly
+            Log.d("QuizViewModel", "VOICE_NARRATION_DISABLED: Transitioning directly to ANSWER_ACTIVE for Q$targetQNum")
+            transitionToAnswerActive(targetQNum, allocatedTime, isTimed, token, sessionId)
         }
     }
 
-    private fun transitionToAnswerActive(targetQNum: Int, mainTimeLimit: Int?, isTimed: Boolean) {
+    private fun transitionToAnswerActive(
+        targetQNum: Int,
+        mainTimeLimit: Int?,
+        isTimed: Boolean,
+        narrationToken: Long = currentNarrationToken,
+        sessionId: String = currentSessionId
+    ) {
+        // Authoritative Gating Verification:
+        // 1. Session must still match
+        if (currentSessionId != sessionId) {
+            Log.w("QuizViewModel", "TRANSITION_REJECTED: Session mismatch (expected $sessionId, current $currentSessionId)")
+            return
+        }
+        // 2. Narration token must match
+        if (currentNarrationToken != narrationToken) {
+            Log.w("QuizViewModel", "TRANSITION_REJECTED: Narration token mismatch (expected $narrationToken, current $currentNarrationToken)")
+            return
+        }
+        // 3. Game must not be finalized/ended
+        if (isFinalized.get()) {
+            Log.w("QuizViewModel", "TRANSITION_REJECTED: Game is already finalized")
+            return
+        }
+
         val currentState = _uiState.value
-        if (currentState is QuizUiState.InGame && currentState.currentQNumber == targetQNum && currentState.phase == QuestionPhase.QUESTION_READING) {
+        // 4. Must be InGame, matching target question number, and strictly in QUESTION_READING phase
+        if (currentState is QuizUiState.InGame &&
+            currentState.currentQNumber == targetQNum &&
+            currentState.phase == QuestionPhase.QUESTION_READING
+        ) {
+            Log.d("QuizViewModel", "ANSWER_ACTIVE_ENTERED: Q$targetQNum entered ANSWER_ACTIVE (isTimed=$isTimed, timeLimit=${mainTimeLimit}s)")
             soundPlayer.playOptionSelected()
             if (mainTimeLimit != null) {
                 _uiState.value = currentState.copy(
@@ -601,12 +631,29 @@ class QuizViewModel(application: Application) : AndroidViewModel(application) {
                 )
                 startUnlimitedThinkingTimer()
             }
+        } else {
+            Log.w("QuizViewModel", "TRANSITION_IGNORED: State not in QUESTION_READING or Q number mismatch (current=$currentState)")
         }
     }
 
     private fun startTimer(totalSeconds: Int) {
+        // HARD DEFENSIVE GATE:
+        // Must NEVER start timer if game is not in ANSWER_ACTIVE or if question is still being read.
+        val stateBeforeStart = _uiState.value
+        if (stateBeforeStart !is QuizUiState.InGame ||
+            stateBeforeStart.phase != QuestionPhase.ANSWER_ACTIVE ||
+            !stateBeforeStart.isTimerRunning ||
+            stateBeforeStart.isLockedIn ||
+            isFinalized.get()
+        ) {
+            Log.w("QuizViewModel", "START_TIMER_REJECTED: Cannot start countdown timer outside of active ANSWER_ACTIVE phase (phase=${(stateBeforeStart as? QuizUiState.InGame)?.phase})")
+            return
+        }
+
         timerJob?.cancel()
-        // Start tension background synthesizer pressure track
+        Log.d("QuizViewModel", "TIMER_STARTED: Authoritative countdown started from ${totalSeconds}s for Q${stateBeforeStart.currentQNumber}")
+
+        // Start tension background synthesizer pressure track ONLY after entering ANSWER_ACTIVE
         soundPlayer.startTimerPressureMusic(
             getRemainingSeconds = {
                 val s = _uiState.value
@@ -623,7 +670,11 @@ class QuizViewModel(application: Application) : AndroidViewModel(application) {
                 delay(1000)
                 remaining--
                 val currentState = _uiState.value
-                if (currentState is QuizUiState.InGame && currentState.isTimerRunning && !currentState.isLockedIn) {
+                if (currentState is QuizUiState.InGame &&
+                    currentState.phase == QuestionPhase.ANSWER_ACTIVE &&
+                    currentState.isTimerRunning &&
+                    !currentState.isLockedIn
+                ) {
                     _uiState.value = currentState.copy(
                         timeRemainingSeconds = remaining
                     )
@@ -632,9 +683,13 @@ class QuizViewModel(application: Application) : AndroidViewModel(application) {
                 }
             }
 
-            // Time Expired!
+            // Time Expired! (strictly unreachable if phase != ANSWER_ACTIVE)
             val state = _uiState.value
-            if (state is QuizUiState.InGame && !state.isLockedIn && remaining == 0) {
+            if (state is QuizUiState.InGame &&
+                state.phase == QuestionPhase.ANSWER_ACTIVE &&
+                !state.isLockedIn &&
+                remaining == 0
+            ) {
                 handleTimeExpired(state)
             }
         }
@@ -647,8 +702,22 @@ class QuizViewModel(application: Application) : AndroidViewModel(application) {
     }
 
     private fun startUnlimitedThinkingTimer() {
+        // HARD DEFENSIVE GATE:
+        // Must NEVER start thinking timer during QUESTION_READING.
+        val stateBeforeStart = _uiState.value
+        if (stateBeforeStart !is QuizUiState.InGame ||
+            stateBeforeStart.phase != QuestionPhase.ANSWER_ACTIVE ||
+            stateBeforeStart.isLockedIn ||
+            isFinalized.get()
+        ) {
+            Log.w("QuizViewModel", "START_UNLIMITED_TIMER_REJECTED: Cannot start thinking timer outside of ANSWER_ACTIVE phase (phase=${(stateBeforeStart as? QuizUiState.InGame)?.phase})")
+            return
+        }
+
         timerJob?.cancel()
-        // Mystical ambient deep-thinking music for Q11-Q17
+        Log.d("QuizViewModel", "TIMER_STARTED: Unlimited thinking timer started for Q${stateBeforeStart.currentQNumber}")
+
+        // Mystical ambient deep-thinking music for Q11-Q17 starts strictly in ANSWER_ACTIVE
         soundPlayer.startUnlimitedDeepThinkingMusic {
             val s = _uiState.value
             if (s is QuizUiState.InGame) s.elapsedThinkingSeconds else 0
@@ -660,7 +729,11 @@ class QuizViewModel(application: Application) : AndroidViewModel(application) {
                 delay(1000)
                 elapsed++
                 val currentState = _uiState.value
-                if (currentState is QuizUiState.InGame && !currentState.isLockedIn && currentState.timerMode == TimerMode.UNLIMITED_ELAPSED) {
+                if (currentState is QuizUiState.InGame &&
+                    currentState.phase == QuestionPhase.ANSWER_ACTIVE &&
+                    !currentState.isLockedIn &&
+                    currentState.timerMode == TimerMode.UNLIMITED_ELAPSED
+                ) {
                     _uiState.value = currentState.copy(elapsedThinkingSeconds = elapsed)
                 } else {
                     break

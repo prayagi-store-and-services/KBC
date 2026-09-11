@@ -21,6 +21,7 @@ object CurrentAffairsReasoningGenerator {
         val headlineEnglish: String,
         val topic: String,
         val state: String = "National",
+        val districtRegion: String = "",
         val juniorEligible: Boolean = true,
         val adultEligible: Boolean = true,
         val minAge: Int = 5,
@@ -192,19 +193,56 @@ object CurrentAffairsReasoningGenerator {
         qNumber: Int,
         userProfile: UserProfile,
         excludedFingerprints: Set<String> = emptySet(),
-        seed: Int = Random.nextInt(1, 999999)
+        seed: Int = Random.nextInt(1, 999999),
+        quotaType: String = "CA",
+        availableAffairs: List<CurrentAffairItem> = emptyList()
     ): QuestionItem {
         val rand = Random(seed)
         val isStudent = userProfile.preparationDomain.contains("Student", true) || userProfile.isStudentMode
-        val userState = userProfile.state
+        val userState = userProfile.state.ifBlank { "National" }
+        val userCity = userProfile.city.ifBlank { "Local" }
 
-        // Filter events matching regional preference or national
-        val matchingEvents = canonicalEvents.filter { ev ->
+        val dynamicEvents = availableAffairs.map { item ->
+            CanonicalEvent(
+                eventId = item.eventId,
+                headlineHindi = item.headline,
+                headlineEnglish = item.headline,
+                topic = item.topic,
+                state = item.state,
+                districtRegion = item.districtRegion,
+                juniorEligible = item.juniorEligibility,
+                adultEligible = item.adultEligibility,
+                minAge = item.minAge,
+                maxAge = item.maxAge,
+                summaryHindi = item.canonicalSummary,
+                summaryEnglish = item.canonicalSummary
+            )
+        }
+
+        val allEvents = (dynamicEvents + canonicalEvents).filter { ev ->
             if (isStudent) ev.juniorEligible && userProfile.age >= ev.minAge
             else ev.adultEligible
-        }.sortedByDescending { if (it.state.equals(userState, ignoreCase = true)) 2 else 1 }
+        }
 
-        val candidates = matchingEvents.shuffled(rand)
+        // Filter based on the requested regional quota
+        val matchingEvents = when (quotaType) {
+            "CITY" -> allEvents.filter { it.districtRegion.equals(userCity, ignoreCase = true) }
+            "STATE" -> allEvents.filter { it.state.equals(userState, ignoreCase = true) }
+            else -> allEvents
+        }
+
+        // Graceful fallback hierarchy:
+        // If City not found -> fallback to State -> fallback to general
+        val finalEvents = when {
+            matchingEvents.isNotEmpty() -> matchingEvents
+            quotaType == "CITY" -> {
+                val stateEvents = allEvents.filter { it.state.equals(userState, ignoreCase = true) }
+                if (stateEvents.isNotEmpty()) stateEvents else allEvents
+            }
+            else -> allEvents
+        }
+
+        val candidates = finalEvents.shuffled(rand)
         for (event in candidates) {
             for (attempt in 0..5) {
                 val candidateRand = Random(seed + attempt * 79 + event.eventId.hashCode())

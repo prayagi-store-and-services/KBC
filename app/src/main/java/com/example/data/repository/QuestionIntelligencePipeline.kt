@@ -11,6 +11,7 @@ import com.example.data.db.QuestionRegistryEntity
 import com.example.data.db.SessionBankCacheDao
 import com.example.data.db.SessionQuestionBankCacheEntity
 import com.example.data.model.QuestionItem
+import com.example.data.model.CurrentAffairItem
 import com.example.data.model.QuestionSerializer
 import com.example.data.model.UserProfile
 import kotlinx.coroutines.Dispatchers
@@ -214,10 +215,39 @@ class QuestionIntelligencePipeline(
             servedConceptFingerprints = servedConceptFps
         )
 
-        // Allocate slots: 2 Current Affairs slots (1 in Q1-5, 1 in Q6-10)
-        val caSlot1 = (2..4).random()
-        val caSlot2 = (7..9).random()
-        val currentAffairsSlots = setOf(caSlot1, caSlot2)
+        // Fetch available current affairs and regional knowledge from DB once
+        val allDbAffairs = currentAffairsDao.getAllActiveCurrentAffairs().map { 
+            CurrentAffairItem(
+                currentAffairId = it.currentAffairId,
+                eventId = it.eventId,
+                headline = it.headline,
+                canonicalSummary = it.canonicalSummary,
+                eventDate = it.eventDate,
+                firstSeenDate = it.firstSeenDate,
+                lastVerifiedDate = it.lastVerifiedDate,
+                sourceReferences = it.sourceReferences,
+                country = it.country,
+                state = it.state,
+                districtRegion = it.districtRegion,
+                topic = it.topic,
+                juniorEligibility = it.juniorEligibility,
+                adultEligibility = it.adultEligibility,
+                minAge = it.minAge,
+                maxAge = it.maxAge,
+                examRelevance = it.examRelevance
+            ) 
+        }
+
+        // Authoritative pre-Padaav regional allocation planner
+        // Q1-Q4 must contain >= 1 City, >= 2 State.
+        val prePadaavSlots = mutableListOf("CITY", "STATE", "STATE", "GENERAL")
+        prePadaavSlots.shuffle()
+        // Map slot index 0..3 to Q1..Q4
+        val regionalQuotaMap = (1..4).zip(prePadaavSlots).toMap()
+
+        // Allocate remaining standard Current Affairs slots
+        val caSlot2 = (7..10).random()
+        val currentAffairsSlots = setOf(caSlot2)
 
         val candidateLadder = mutableMapOf<Int, QuestionItem>()
 
@@ -238,18 +268,21 @@ class QuestionIntelligencePipeline(
                 )
             )
 
-            val isCa = currentAffairsSlots.contains(tier)
+            val quotaType = regionalQuotaMap[tier] ?: if (currentAffairsSlots.contains(tier)) "CA" else "GENERAL"
+
             var question: QuestionItem? = null
             var attempts = 0
 
             while (question == null && attempts < 35) {
                 attempts++
-                val candidate = if (isCa) {
+                val candidate = if (quotaType == "CITY" || quotaType == "STATE" || quotaType == "CA") {
                     CurrentAffairsReasoningGenerator.generateReasoningQuestion(
                         qNumber = tier,
                         userProfile = userProfile,
                         excludedFingerprints = currentHistory.servedSemanticFingerprints,
-                        seed = (sessionId.hashCode() + tier * 101 + attempts * 17).let { if (it == 0) 1 else kotlin.math.abs(it) }
+                        seed = (sessionId.hashCode() + tier * 101 + attempts * 17).let { if (it == 0) 1 else kotlin.math.abs(it) },
+                        quotaType = quotaType,
+                        availableAffairs = allDbAffairs
                     )
                 } else {
                     DynamicLogicEngine.generateUniqueQuestion(
