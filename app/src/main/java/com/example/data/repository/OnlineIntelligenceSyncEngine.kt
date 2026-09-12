@@ -59,8 +59,10 @@ class OnlineIntelligenceSyncEngine(
                 return@withContext
             }
 
-            // Online discovery layer via Gemini / Web intelligence
-            val onlineUpdates = geminiApiClient.fetchRecentCurrentAffairs(userProfile)
+            // Online discovery layer via Gemini / Web intelligence with 3-second circuit breaker
+            val onlineUpdates = kotlinx.coroutines.withTimeoutOrNull(3000L) {
+                geminiApiClient.fetchRecentCurrentAffairs(userProfile)
+            } ?: emptyList()
             if (onlineUpdates.isNotEmpty()) {
                 val entities = onlineUpdates.map { itemToEntity(it) }
                 currentAffairsDao.insertOrUpdateAffairs(entities)

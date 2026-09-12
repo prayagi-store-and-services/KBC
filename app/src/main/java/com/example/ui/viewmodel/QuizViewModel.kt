@@ -124,7 +124,7 @@ class QuizViewModel(application: Application) : AndroidViewModel(application) {
         currentAffairsDao = db.currentAffairsDao(),
         sessionBankCacheDao = db.sessionBankCacheDao()
     )
-    val soundPlayer = SoundEffectsPlayer()
+    val soundPlayer = SoundEffectsPlayer(application)
     val speechNarrator = SpeechNarrator(application)
     val monitoringManager = com.example.monitoring.MonitoringManager(application, viewModelScope)
 
@@ -1208,6 +1208,13 @@ class QuizViewModel(application: Application) : AndroidViewModel(application) {
         viewModelScope.launch {
             repository.saveGameSession(result)
             _uiState.value = QuizUiState.GameSummary(result, lastQ)
+            
+            // Prefetch next game session in background for zero-latency start
+            launch(Dispatchers.IO) {
+                try {
+                    repository.preloadNextGameSession(profile)
+                } catch (_: Exception) {}
+            }
 
             // Payout Reporting - only if not disqualified and winning amount > 0
             if (reason != "DISQUALIFIED" && !profile.upiId.isNullOrBlank() && finalPoints > 0) {

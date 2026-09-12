@@ -16,9 +16,11 @@ import com.example.data.model.GameSessionResult
 import com.example.data.model.KnowledgeProfileVector
 import com.example.data.model.QuestionItem
 import com.example.data.model.UserProfile
+import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.map
+import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
 import org.json.JSONArray
 
@@ -31,6 +33,23 @@ class TarkRepository(
     private val sessionBankCacheDao: SessionBankCacheDao,
     private val geminiApiClient: GeminiApiClient = GeminiApiClient()
 ) {
+
+    init {
+        // Memory & Cache Hygiene: Prune session bank caches older than 24 hours on startup
+        CoroutineScope(Dispatchers.IO).launch {
+            try {
+                val cutoff = System.currentTimeMillis() - 24 * 60 * 60 * 1000L
+                sessionBankCacheDao.pruneOldSessionBanks(cutoff)
+            } catch (_: Exception) {}
+        }
+    }
+
+    suspend fun preloadNextGameSession(userProfile: UserProfile) = withContext(Dispatchers.IO) {
+        try {
+            val prefetchSessionId = "prefetch_${System.currentTimeMillis()}"
+            pipeline.prepareSessionQuestionBank(prefetchSessionId, userProfile) {}
+        } catch (_: Exception) {}
+    }
 
     private val onlineSyncEngine = OnlineIntelligenceSyncEngine(
         context = context,

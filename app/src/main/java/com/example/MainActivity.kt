@@ -98,7 +98,15 @@ fun TarkAppContent(
     modifier: Modifier = Modifier
 ) {
     val uiState by viewModel.uiState.collectAsState()
-    EnsureWindowNotSecure()
+    
+    val isGameActive = when (uiState) {
+        is QuizUiState.QuestionLoading,
+        is QuizUiState.QuestionBankPreparing,
+        is QuizUiState.ProfileInstalling,
+        is QuizUiState.InGame -> true
+        else -> false
+    }
+    EnsureGameSessionWindowFlags(isGameActive = isGameActive)
 
     when (val state = uiState) {
         is QuizUiState.HomeScreen -> {
@@ -196,13 +204,22 @@ fun TarkAppContent(
 }
 
 @Composable
-fun EnsureWindowNotSecure() {
+fun EnsureGameSessionWindowFlags(isGameActive: Boolean) {
     val view = LocalView.current
-    DisposableEffect(view) {
+    DisposableEffect(view, isGameActive) {
         val window = (view.context as? android.app.Activity)?.window
-        window?.clearFlags(WindowManager.LayoutParams.FLAG_SECURE)
+        if (window != null) {
+            // Ensure FLAG_SECURE is always cleared so screen sharing / casting never shows black screen
+            window.clearFlags(WindowManager.LayoutParams.FLAG_SECURE)
+            if (isGameActive) {
+                window.addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON)
+            } else {
+                window.clearFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON)
+            }
+        }
         onDispose {
             window?.clearFlags(WindowManager.LayoutParams.FLAG_SECURE)
+            window?.clearFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON)
         }
     }
 }

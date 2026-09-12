@@ -1,8 +1,10 @@
 package com.example.sound
 
+import android.content.Context
 import android.media.AudioAttributes
 import android.media.AudioFormat
 import android.media.AudioTrack
+import android.os.PowerManager
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.Job
@@ -20,11 +22,13 @@ import kotlin.math.sin
  * - Wrong answer buzzer & 50-50 elimination swoosh
  * - Audio analysis rhythm playback
  */
-class SoundEffectsPlayer {
+class SoundEffectsPlayer(private val context: Context? = null) {
 
     private val soundScope = CoroutineScope(Dispatchers.Default + Job())
     private var isMuted = false
     private var tensionMusicJob: Job? = null
+    private val powerManager = context?.getSystemService(Context.POWER_SERVICE) as? PowerManager
+    private val isPowerSaver = powerManager?.isPowerSaveMode == true
 
     fun setMuted(muted: Boolean) {
         isMuted = muted
@@ -41,7 +45,7 @@ class SoundEffectsPlayer {
      * as remaining time decreases.
      */
     fun startTimerPressureMusic(getRemainingSeconds: () -> Int?, getTotalSeconds: () -> Int?) {
-        if (isMuted) return
+        if (isMuted || isPowerSaver) return // Muted or power save mode active (conserve battery)
         stopTimerPressureMusic()
 
         tensionMusicJob = soundScope.launch {

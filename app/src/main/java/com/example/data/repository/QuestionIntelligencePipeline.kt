@@ -126,7 +126,7 @@ class QuestionIntelligencePipeline(
                 detailMessage = "Analyzing internet speed & intelligence source access"
             )
         )
-        delay(200)
+        delay(20)
 
         val isOnline = isNetworkAvailable()
 
@@ -141,11 +141,13 @@ class QuestionIntelligencePipeline(
             )
         )
 
-        // Fetch or seed current affairs
+        // Fetch or seed current affairs with 4s timeout protection
         var currentAffairEventIds = mutableListOf<String>()
         try {
             if (isOnline) {
-                val updates = geminiApiClient.fetchRecentCurrentAffairs(userProfile)
+                val updates = kotlinx.coroutines.withTimeoutOrNull(4000L) {
+                    geminiApiClient.fetchRecentCurrentAffairs(userProfile)
+                } ?: emptyList()
                 if (updates.isNotEmpty()) {
                     val entities = updates.map { item ->
                         currentAffairEventIds.add(item.eventId)
@@ -273,7 +275,7 @@ class QuestionIntelligencePipeline(
             var question: QuestionItem? = null
             var attempts = 0
 
-            while (question == null && attempts < 35) {
+            while (question == null && attempts < 15) {
                 attempts++
                 val candidate = if (quotaType == "CITY" || quotaType == "STATE" || quotaType == "CA") {
                     CurrentAffairsReasoningGenerator.generateReasoningQuestion(
@@ -359,7 +361,7 @@ class QuestionIntelligencePipeline(
                 totalQuestions = 17
             )
         )
-        delay(150)
+        delay(20)
 
         // Register all generated questions in Room QuestionDao (Permanent Registry)
         val isStudent = userProfile.preparationDomain.contains("Student", true) || userProfile.isStudentMode

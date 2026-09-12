@@ -8,6 +8,7 @@ import androidx.compose.ui.viewinterop.AndroidView
 import androidx.core.content.ContextCompat
 import androidx.compose.ui.platform.LocalLifecycleOwner
 import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.platform.LocalView
 
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.animation.animateColorAsState
@@ -31,6 +32,8 @@ import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
+import android.content.Intent
+import android.provider.Settings
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
@@ -44,6 +47,7 @@ import androidx.compose.material.icons.filled.CheckCircle
 import androidx.compose.material.icons.filled.Close
 import androidx.compose.material.icons.filled.Create
 import androidx.compose.material.icons.filled.EmojiEvents
+import androidx.compose.material.icons.filled.Share
 import androidx.compose.material.icons.filled.HourglassBottom
 import androidx.compose.material.icons.filled.Info
 import androidx.compose.material.icons.filled.Lightbulb
@@ -132,6 +136,9 @@ fun QuizScreen(
     val userProfile by viewModel.userProfile.collectAsState()
     val isVoiceEnabled by viewModel.isVoiceNarrationEnabled.collectAsState()
 
+    val view = LocalView.current
+    val context = LocalContext.current
+    var isScreenSharingActive by remember { mutableStateOf(false) }
     val question = state.question
     var showQuitConfirmation by remember { mutableStateOf(false) }
     var showScratchpad by remember { mutableStateOf(false) }
@@ -168,8 +175,41 @@ fun QuizScreen(
                 onOpenLadder = { viewModel.toggleLadderDrawer(true) },
                 onQuitClick = { showQuitConfirmation = true },
                 onToggleLanguage = { viewModel.toggleLanguage() },
+                onScreenShareClick = {
+                    isScreenSharingActive = !isScreenSharingActive
+                    val intent = try {
+                        Intent(Settings.ACTION_CAST_SETTINGS)
+                    } catch (_: Exception) {
+                        Intent(Settings.ACTION_SETTINGS)
+                    }
+                    try {
+                        context.startActivity(intent)
+                    } catch (_: Exception) {}
+                },
                 isHi = isHi
             )
+
+            if (isScreenSharingActive) {
+                Box(
+                    modifier = Modifier
+                        .fillMaxWidth()
+                        .background(GoldPrimary.copy(alpha = 0.2f))
+                        .padding(horizontal = 16.dp, vertical = 4.dp),
+                    contentAlignment = Alignment.Center
+                ) {
+                    Row(verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                        Text(
+                            text = if (isHi) "🖥️ स्क्रीन शेयर सक्रिय (Smart Class Mode)" else "🖥️ Screen Sharing Active (Smart Class Mode)",
+                            color = GoldGlow,
+                            fontSize = 11.sp,
+                            fontWeight = FontWeight.Bold
+                        )
+                        TextButton(onClick = { isScreenSharingActive = false }) {
+                            Text(text = if (isHi) "छिपाएं" else "Dismiss", color = TextSecondary, fontSize = 10.sp)
+                        }
+                    }
+                }
+            }
 
             // ==========================================
             // 17 LOGIC LEVELS DIFFICULTY LEVEL INDICATOR
@@ -408,6 +448,7 @@ fun QuizScreen(
                         isEnabled = state.phase == QuestionPhase.ANSWER_ACTIVE && !state.isLockedIn,
                         onOptionSelected = { index ->
                             if (state.phase == QuestionPhase.ANSWER_ACTIVE && !state.isLockedIn && !state.discardedOptionIndices.contains(index)) {
+                                view.performHapticFeedback(android.view.HapticFeedbackConstants.KEYBOARD_TAP)
                                 viewModel.selectOption(index)
                             }
                         }
@@ -662,6 +703,7 @@ fun QuizHeaderHud(
     onOpenLadder: () -> Unit,
     onQuitClick: () -> Unit,
     onToggleLanguage: () -> Unit,
+    onScreenShareClick: () -> Unit,
     isHi: Boolean
 ) {
     Card(
@@ -702,6 +744,18 @@ fun QuizHeaderHud(
                         contentDescription = "Scratchpad",
                         tint = InfoCyan,
                         modifier = Modifier.size(19.dp)
+                    )
+                }
+
+                IconButton(
+                    onClick = onScreenShareClick,
+                    modifier = Modifier.testTag("screen_share_button").size(36.dp)
+                ) {
+                    Icon(
+                        imageVector = Icons.Default.Share,
+                        contentDescription = if (isHi) "स्क्रीन शेयर" else "Screen Share",
+                        tint = GoldPrimary,
+                        modifier = Modifier.size(20.dp)
                     )
                 }
 
