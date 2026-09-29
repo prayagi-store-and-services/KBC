@@ -22,6 +22,7 @@ import androidx.compose.foundation.border
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.BoxWithConstraints
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
@@ -32,8 +33,12 @@ import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
+import android.content.Context
 import android.content.Intent
+import android.media.projection.MediaProjectionManager
 import android.provider.Settings
+import androidx.activity.compose.rememberLauncherForActivityResult
+import androidx.activity.result.contract.ActivityResultContracts
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
@@ -139,21 +144,68 @@ fun QuizScreen(
     val view = LocalView.current
     val context = LocalContext.current
     var isScreenSharingActive by remember { mutableStateOf(false) }
+
+    val mediaProjectionManager = remember {
+        context.getSystemService(Context.MEDIA_PROJECTION_SERVICE) as? MediaProjectionManager
+    }
+    val screenCaptureLauncher = rememberLauncherForActivityResult(
+        contract = ActivityResultContracts.StartActivityForResult()
+    ) { result ->
+        if (result.resultCode == android.app.Activity.RESULT_OK && result.data != null) {
+            isScreenSharingActive = true
+        } else {
+            val intent = try {
+                Intent(Settings.ACTION_CAST_SETTINGS)
+            } catch (_: Exception) {
+                Intent(Settings.ACTION_SETTINGS)
+            }
+            try {
+                context.startActivity(intent)
+            } catch (_: Exception) {}
+        }
+    }
+
     val question = state.question
     var showQuitConfirmation by remember { mutableStateOf(false) }
     var showScratchpad by remember { mutableStateOf(false) }
 
-    Box(
+    BoxWithConstraints(
         modifier = modifier
             .fillMaxSize()
             .background(NavyBackground)
             .testTag("quiz_screen_container")
     ) {
+        val isLargeScreen = maxWidth > 800.dp || isScreenSharingActive
+        val widthToHeightRatio = if (maxHeight > 0.dp) maxWidth / maxHeight else 1f
+        val isLargeClassroom = isLargeScreen && (widthToHeightRatio > 1.25f || maxWidth > 950.dp)
+        val layoutVerification = remember(maxWidth, isScreenSharingActive) {
+            com.example.ui.utils.SmartClassLayoutVerifier.verifyLayout(maxWidth, isScreenSharingActive)
+        }
+
         Column(
             modifier = Modifier
                 .fillMaxSize()
                 .padding(bottom = 8.dp)
         ) {
+            if (isLargeScreen) {
+                Box(
+                    modifier = Modifier
+                        .fillMaxWidth()
+                        .background(GoldPrimary.copy(alpha = 0.1f))
+                        .padding(horizontal = 12.dp, vertical = 2.dp)
+                        .testTag("smart_class_verification_banner")
+                ) {
+                    Text(
+                        text = "✓ Smart Class Verified • Min Font: ${layoutVerification.minFontSizeSp}sp • Contrast: ${layoutVerification.contrastRatio}:1 (Optimal for Distance Viewing)",
+                        style = MaterialTheme.typography.labelSmall.copy(
+                            color = GoldGlow,
+                            fontSize = 11.sp,
+                            fontWeight = FontWeight.Medium
+                        ),
+                        modifier = Modifier.align(Alignment.Center)
+                    )
+                }
+            }
             // ==========================================
             // TOP HUD (Header)
             // ==========================================
@@ -176,15 +228,22 @@ fun QuizScreen(
                 onQuitClick = { showQuitConfirmation = true },
                 onToggleLanguage = { viewModel.toggleLanguage() },
                 onScreenShareClick = {
-                    isScreenSharingActive = !isScreenSharingActive
-                    val intent = try {
-                        Intent(Settings.ACTION_CAST_SETTINGS)
-                    } catch (_: Exception) {
-                        Intent(Settings.ACTION_SETTINGS)
-                    }
                     try {
-                        context.startActivity(intent)
-                    } catch (_: Exception) {}
+                        val projectionIntent = mediaProjectionManager?.createScreenCaptureIntent()
+                        if (projectionIntent != null) {
+                            screenCaptureLauncher.launch(projectionIntent)
+                        } else {
+                            isScreenSharingActive = !isScreenSharingActive
+                            val intent = try {
+                                Intent(Settings.ACTION_CAST_SETTINGS)
+                            } catch (_: Exception) {
+                                Intent(Settings.ACTION_SETTINGS)
+                            }
+                            context.startActivity(intent)
+                        }
+                    } catch (_: Exception) {
+                        isScreenSharingActive = !isScreenSharingActive
+                    }
                 },
                 isHi = isHi
             )
@@ -419,40 +478,88 @@ fun QuizScreen(
                     }
                 }
 
-                Spacer(modifier = Modifier.height(6.dp))
+                if (isLargeClassroom) {
+                    // Dedicated LargeClassroom Layout State: High-visibility side-by-side split podium format for wide aspect ratio displays
+                    Row(
+                        modifier = Modifier
+                            .fillMaxWidth()
+                            .weight(1f)
+                            .padding(vertical = 4.dp),
+                        horizontalArrangement = Arrangement.spacedBy(16.dp),
+                        verticalAlignment = Alignment.CenterVertically
+                    ) {
+                        BilingualQuestionCard(
+                            questionHindi = question.questionHindi,
+                            questionEnglish = question.questionEnglish,
+                            preferredLanguage = language,
+                            isLargeScreen = true,
+                            modifier = Modifier.weight(0.48f)
+                        )
 
-                // Primary Bilingual Question Card (Line-by-Line Paired Translation)
-                BilingualQuestionCard(
-                    questionHindi = question.questionHindi,
-                    questionEnglish = question.questionEnglish,
-                    preferredLanguage = language
-                )
-
-                Spacer(modifier = Modifier.height(10.dp))
-
-                // Answer Options — Directly below the Question Card
-                AnimatedVisibility(
-                    visible = state.isOptionsVisible,
-                    enter = fadeIn(tween(400)) + expandVertically(tween(400))
-                ) {
-                    BilingualOptionsGrid2x2(
-                        optionsHindi = question.optionsHindi,
-                        optionsEnglish = question.optionsEnglish,
-                        selectedOptionIndex = state.selectedOptionIndex,
-                        lockedOptionIndex = state.lockedOptionIndex,
-                        discardedIndices = state.discardedOptionIndices,
-                        isAnswerRevealed = state.isAnswerRevealed,
-                        correctAnswerIndex = question.correctAnswerIndex,
-                        isLockedIn = state.isLockedIn,
-                        preferredLanguage = language,
-                        isEnabled = state.phase == QuestionPhase.ANSWER_ACTIVE && !state.isLockedIn,
-                        onOptionSelected = { index ->
-                            if (state.phase == QuestionPhase.ANSWER_ACTIVE && !state.isLockedIn && !state.discardedOptionIndices.contains(index)) {
-                                view.performHapticFeedback(android.view.HapticFeedbackConstants.KEYBOARD_TAP)
-                                viewModel.selectOption(index)
-                            }
+                        AnimatedVisibility(
+                            visible = state.isOptionsVisible,
+                            enter = fadeIn(tween(400)) + expandVertically(tween(400)),
+                            modifier = Modifier.weight(0.52f)
+                        ) {
+                            BilingualOptionsGrid2x2(
+                                optionsHindi = question.optionsHindi,
+                                optionsEnglish = question.optionsEnglish,
+                                selectedOptionIndex = state.selectedOptionIndex,
+                                lockedOptionIndex = state.lockedOptionIndex,
+                                discardedIndices = state.discardedOptionIndices,
+                                isAnswerRevealed = state.isAnswerRevealed,
+                                correctAnswerIndex = question.correctAnswerIndex,
+                                isLockedIn = state.isLockedIn,
+                                preferredLanguage = language,
+                                isEnabled = state.phase == QuestionPhase.ANSWER_ACTIVE && !state.isLockedIn,
+                                isLargeScreen = true,
+                                onOptionSelected = { index ->
+                                    if (state.phase == QuestionPhase.ANSWER_ACTIVE && !state.isLockedIn && !state.discardedOptionIndices.contains(index)) {
+                                        view.performHapticFeedback(android.view.HapticFeedbackConstants.KEYBOARD_TAP)
+                                        viewModel.selectOption(index)
+                                    }
+                                }
+                            )
                         }
+                    }
+                } else {
+                    Spacer(modifier = Modifier.height(6.dp))
+
+                    // Primary Bilingual Question Card (Line-by-Line Paired Translation)
+                    BilingualQuestionCard(
+                        questionHindi = question.questionHindi,
+                        questionEnglish = question.questionEnglish,
+                        preferredLanguage = language,
+                        isLargeScreen = isLargeScreen
                     )
+
+                    Spacer(modifier = Modifier.height(10.dp))
+
+                    // Answer Options — Directly below the Question Card
+                    AnimatedVisibility(
+                        visible = state.isOptionsVisible,
+                        enter = fadeIn(tween(400)) + expandVertically(tween(400))
+                    ) {
+                        BilingualOptionsGrid2x2(
+                            optionsHindi = question.optionsHindi,
+                            optionsEnglish = question.optionsEnglish,
+                            selectedOptionIndex = state.selectedOptionIndex,
+                            lockedOptionIndex = state.lockedOptionIndex,
+                            discardedIndices = state.discardedOptionIndices,
+                            isAnswerRevealed = state.isAnswerRevealed,
+                            correctAnswerIndex = question.correctAnswerIndex,
+                            isLockedIn = state.isLockedIn,
+                            preferredLanguage = language,
+                            isEnabled = state.phase == QuestionPhase.ANSWER_ACTIVE && !state.isLockedIn,
+                            isLargeScreen = isLargeScreen,
+                            onOptionSelected = { index ->
+                                if (state.phase == QuestionPhase.ANSWER_ACTIVE && !state.isLockedIn && !state.discardedOptionIndices.contains(index)) {
+                                    view.performHapticFeedback(android.view.HapticFeedbackConstants.KEYBOARD_TAP)
+                                    viewModel.selectOption(index)
+                                }
+                            }
+                        )
+                    }
                 }
             }
 

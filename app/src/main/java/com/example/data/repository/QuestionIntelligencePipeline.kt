@@ -17,6 +17,7 @@ import com.example.data.model.UserProfile
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.withContext
+import kotlinx.coroutines.*
 import org.json.JSONArray
 import java.util.UUID
 
@@ -107,13 +108,32 @@ class QuestionIntelligencePipeline(
         userProfile: UserProfile,
         onProgress: (PreparationProgress) -> Unit
     ): Map<Int, QuestionItem> = withContext(Dispatchers.IO) {
+        val result = kotlinx.coroutines.withTimeoutOrNull(120000L) {
+            prepareSessionQuestionBankInternal(sessionId, userProfile, onProgress)
+        }
+        result ?: throw java.util.concurrent.TimeoutException("Question Bank Preparation exceeded 120-second hard deadline limit.")
+    }
+
+    private suspend fun prepareSessionQuestionBankInternal(
+        sessionId: String,
+        userProfile: UserProfile,
+        onProgress: (PreparationProgress) -> Unit
+    ): Map<Int, QuestionItem> = withContext(Dispatchers.IO) {
         val startTime = System.currentTimeMillis()
 
-        // 0. Authoritative Hard Reset: Invalidate all previous session banks immediately
-        try {
-            sessionBankCacheDao.invalidateAllSessionBanks()
-        } catch (e: Exception) {
-            e.printStackTrace()
+        // 0. Authoritative Hard Reset & Concurrent Initialization Coordinator
+        kotlinx.coroutines.coroutineScope {
+            val deferred1 = async {
+                try {
+                    sessionBankCacheDao.invalidateAllSessionBanks()
+                } catch (e: Exception) {
+                    e.printStackTrace()
+                }
+            }
+            val deferred2 = async {
+                userProfile.id
+            }
+            awaitAll(deferred1, deferred2)
         }
 
         // 1. Stage: CHECKING_NETWORK

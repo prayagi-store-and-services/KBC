@@ -114,12 +114,16 @@ fun BilingualQuestionCard(
     questionHindi: String,
     questionEnglish: String,
     preferredLanguage: String,
+    isLargeScreen: Boolean = false,
     modifier: Modifier = Modifier
 ) {
     val mode = preferredLanguage.uppercase()
     val isHi = mode == "HINDI" || mode == "HI"
     val isEn = mode == "ENGLISH" || mode == "EN"
     val pairedLines = pairBilingualLines(questionHindi, questionEnglish)
+    val questionFontSize = if (isLargeScreen) 22.sp else 16.sp
+    val questionLineHeight = if (isLargeScreen) 30.sp else 23.sp
+    val secondaryFontSize = if (isLargeScreen) 16.sp else 13.sp
 
     Card(
         modifier = modifier
@@ -134,7 +138,7 @@ fun BilingualQuestionCard(
         )
     ) {
         Column(
-            modifier = Modifier.padding(14.dp),
+            modifier = Modifier.padding(if (isLargeScreen) 20.dp else 14.dp),
             verticalArrangement = Arrangement.spacedBy(10.dp)
         ) {
             pairedLines.forEachIndexed { index, (hindiLine, englishLine) ->
@@ -142,49 +146,46 @@ fun BilingualQuestionCard(
                     modifier = Modifier
                         .fillMaxWidth()
                         .background(NavyDeepest.copy(alpha = 0.45f), RoundedCornerShape(8.dp))
-                        .padding(horizontal = 10.dp, vertical = 8.dp)
+                        .padding(horizontal = 12.dp, vertical = 10.dp)
                 ) {
                     if (isHi) {
-                        // Hindi selected -> Hindi only. Zero English.
                         Text(
                             text = hindiLine,
                             style = MaterialTheme.typography.titleMedium.copy(
                                 color = TextPrimary,
                                 fontWeight = FontWeight.Bold,
-                                fontSize = 16.sp,
-                                lineHeight = 23.sp
+                                fontSize = questionFontSize,
+                                lineHeight = questionLineHeight
                             )
                         )
                     } else if (isEn) {
-                        // English selected -> English only. Zero Hindi.
                         Text(
                             text = englishLine,
                             style = MaterialTheme.typography.titleMedium.copy(
                                 color = TextPrimary,
                                 fontWeight = FontWeight.Bold,
-                                fontSize = 16.sp,
-                                lineHeight = 23.sp
+                                fontSize = questionFontSize,
+                                lineHeight = questionLineHeight
                             )
                         )
                     } else {
-                        // Bilingual (Both) -> Both rendered
                         Text(
                             text = hindiLine,
                             style = MaterialTheme.typography.titleMedium.copy(
                                 color = TextPrimary,
                                 fontWeight = FontWeight.Bold,
-                                fontSize = 16.sp,
-                                lineHeight = 23.sp
+                                fontSize = questionFontSize,
+                                lineHeight = questionLineHeight
                             )
                         )
-                        Spacer(modifier = Modifier.height(4.dp))
+                        Spacer(modifier = Modifier.height(6.dp))
                         Text(
                             text = englishLine,
                             style = MaterialTheme.typography.bodySmall.copy(
                                 color = InfoCyan.copy(alpha = 0.85f),
                                 fontWeight = FontWeight.Medium,
-                                fontSize = 13.sp,
-                                lineHeight = 18.sp
+                                fontSize = secondaryFontSize,
+                                lineHeight = if (isLargeScreen) 22.sp else 18.sp
                             )
                         )
                     }
@@ -336,17 +337,18 @@ fun BilingualOptionsGrid2x2(
     isLockedIn: Boolean,
     preferredLanguage: String,
     isEnabled: Boolean = true,
+    isLargeScreen: Boolean = false,
     onOptionSelected: (Int) -> Unit,
     modifier: Modifier = Modifier
 ) {
     Column(
         modifier = modifier.fillMaxWidth(),
-        verticalArrangement = Arrangement.spacedBy(8.dp)
+        verticalArrangement = Arrangement.spacedBy(if (isLargeScreen) 14.dp else 8.dp)
     ) {
         // Row 1: Options A (index 0) and B (index 1)
         Row(
             modifier = Modifier.fillMaxWidth(),
-            horizontalArrangement = Arrangement.spacedBy(8.dp)
+            horizontalArrangement = Arrangement.spacedBy(if (isLargeScreen) 14.dp else 8.dp)
         ) {
             BilingualOptionGridCard(
                 optionLetter = "A",
@@ -360,6 +362,7 @@ fun BilingualOptionsGrid2x2(
                 isLockedIn = isLockedIn,
                 preferredLanguage = preferredLanguage,
                 isEnabled = isEnabled,
+                isLargeScreen = isLargeScreen,
                 onClick = { onOptionSelected(0) },
                 modifier = Modifier.weight(1f)
             )
@@ -376,6 +379,7 @@ fun BilingualOptionsGrid2x2(
                 isLockedIn = isLockedIn,
                 preferredLanguage = preferredLanguage,
                 isEnabled = isEnabled,
+                isLargeScreen = isLargeScreen,
                 onClick = { onOptionSelected(1) },
                 modifier = Modifier.weight(1f)
             )
@@ -384,7 +388,7 @@ fun BilingualOptionsGrid2x2(
         // Row 2: Options C (index 2) and D (index 3)
         Row(
             modifier = Modifier.fillMaxWidth(),
-            horizontalArrangement = Arrangement.spacedBy(8.dp)
+            horizontalArrangement = Arrangement.spacedBy(if (isLargeScreen) 14.dp else 8.dp)
         ) {
             BilingualOptionGridCard(
                 optionLetter = "C",
@@ -398,6 +402,7 @@ fun BilingualOptionsGrid2x2(
                 isLockedIn = isLockedIn,
                 preferredLanguage = preferredLanguage,
                 isEnabled = isEnabled,
+                isLargeScreen = isLargeScreen,
                 onClick = { onOptionSelected(2) },
                 modifier = Modifier.weight(1f)
             )
@@ -414,6 +419,7 @@ fun BilingualOptionsGrid2x2(
                 isLockedIn = isLockedIn,
                 preferredLanguage = preferredLanguage,
                 isEnabled = isEnabled,
+                isLargeScreen = isLargeScreen,
                 onClick = { onOptionSelected(3) },
                 modifier = Modifier.weight(1f)
             )
@@ -437,6 +443,7 @@ fun BilingualOptionGridCard(
     isLockedIn: Boolean,
     preferredLanguage: String,
     isEnabled: Boolean = true,
+    isLargeScreen: Boolean = false,
     onClick: () -> Unit,
     modifier: Modifier = Modifier
 ) {
@@ -464,6 +471,10 @@ fun BilingualOptionGridCard(
     val animatedBg by animateColorAsState(targetValue = targetBgColor, animationSpec = tween(300), label = "grid_bg")
     val animatedBorder by animateColorAsState(targetValue = targetBorderColor, animationSpec = tween(300), label = "grid_border")
 
+    val optionPrimaryFontSize = if (isLargeScreen) 18.sp else 13.5.sp
+    val optionSecondaryFontSize = if (isLargeScreen) 15.sp else 11.5.sp
+    val cardPadding = if (isLargeScreen) 16.dp else 10.dp
+
     Card(
         modifier = modifier
             .testTag("option_button_$index")
@@ -477,7 +488,7 @@ fun BilingualOptionGridCard(
         Column(
             modifier = Modifier
                 .fillMaxWidth()
-                .padding(10.dp),
+                .padding(cardPadding),
             verticalArrangement = Arrangement.SpaceBetween
         ) {
             // Top Row: Letter Badge + Status Indicator
@@ -488,7 +499,7 @@ fun BilingualOptionGridCard(
             ) {
                 Box(
                     modifier = Modifier
-                        .size(24.dp)
+                        .size(if (isLargeScreen) 30.dp else 24.dp)
                         .background(
                             when {
                                 isDiscarded -> NavyDeepest
@@ -504,7 +515,7 @@ fun BilingualOptionGridCard(
                     Text(
                         text = optionLetter,
                         fontWeight = FontWeight.Bold,
-                        fontSize = 12.sp,
+                        fontSize = if (isLargeScreen) 14.sp else 12.sp,
                         color = when {
                             isDiscarded -> TextMuted
                             isSelected || (isAnswerRevealed && isCorrect) -> NavyDeepest
@@ -514,7 +525,7 @@ fun BilingualOptionGridCard(
                 }
             }
 
-            Spacer(modifier = Modifier.height(6.dp))
+            Spacer(modifier = Modifier.height(if (isLargeScreen) 8.dp else 6.dp))
 
             // Bilingual / Single Paired Option Text
             Column(modifier = Modifier.fillMaxWidth()) {
@@ -525,8 +536,8 @@ fun BilingualOptionGridCard(
                         style = MaterialTheme.typography.bodyMedium.copy(
                             color = if (isDiscarded) TextMuted else TextPrimary,
                             fontWeight = if (isSelected || (isAnswerRevealed && isCorrect)) FontWeight.Bold else FontWeight.SemiBold,
-                            fontSize = 13.5.sp,
-                            lineHeight = 18.sp,
+                            fontSize = optionPrimaryFontSize,
+                            lineHeight = if (isLargeScreen) 24.sp else 18.sp,
                             textDecoration = if (isDiscarded) TextDecoration.LineThrough else TextDecoration.None
                         )
                     )
@@ -537,8 +548,8 @@ fun BilingualOptionGridCard(
                         style = MaterialTheme.typography.bodyMedium.copy(
                             color = if (isDiscarded) TextMuted else TextPrimary,
                             fontWeight = if (isSelected || (isAnswerRevealed && isCorrect)) FontWeight.Bold else FontWeight.SemiBold,
-                            fontSize = 13.5.sp,
-                            lineHeight = 18.sp,
+                            fontSize = optionPrimaryFontSize,
+                            lineHeight = if (isLargeScreen) 24.sp else 18.sp,
                             textDecoration = if (isDiscarded) TextDecoration.LineThrough else TextDecoration.None
                         )
                     )
@@ -549,19 +560,19 @@ fun BilingualOptionGridCard(
                         style = MaterialTheme.typography.bodyMedium.copy(
                             color = if (isDiscarded) TextMuted else TextPrimary,
                             fontWeight = if (isSelected || (isAnswerRevealed && isCorrect)) FontWeight.Bold else FontWeight.SemiBold,
-                            fontSize = 13.5.sp,
-                            lineHeight = 18.sp,
+                            fontSize = optionPrimaryFontSize,
+                            lineHeight = if (isLargeScreen) 24.sp else 18.sp,
                             textDecoration = if (isDiscarded) TextDecoration.LineThrough else TextDecoration.None
                         )
                     )
-                    Spacer(modifier = Modifier.height(2.dp))
+                    Spacer(modifier = Modifier.height(3.dp))
                     Text(
                         text = optionHindi,
                         style = MaterialTheme.typography.bodySmall.copy(
                             color = if (isDiscarded) TextMuted.copy(alpha = 0.6f) else GoldGlow.copy(alpha = 0.85f),
                             fontWeight = FontWeight.Normal,
-                            fontSize = 11.5.sp,
-                            lineHeight = 15.sp,
+                            fontSize = optionSecondaryFontSize,
+                            lineHeight = if (isLargeScreen) 20.sp else 15.sp,
                             textDecoration = if (isDiscarded) TextDecoration.LineThrough else TextDecoration.None
                         )
                     )
