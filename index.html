@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Netra Eco</title>
+<meta name="description" content="Netra Eco - the home of all Netra by Prayagi Team projects.">
+<style>
+:root{--bg:#0b1220;--card:#131c2e;--ink:#e8eefc;--mute:#9db0d0;--acc:#4fd1a5;--line:#22304d}
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--ink);line-height:1.5}
+header{padding:48px 20px 24px;text-align:center}h1{margin:0;font-size:2.2rem}
+.tag{color:var(--mute);margin-top:8px}
+nav{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;padding:8px 16px 24px}
+nav a{color:var(--ink);text-decoration:none;border:1px solid var(--line);border-radius:999px;padding:6px 14px;font-size:.9rem}
+nav a:hover{border-color:var(--acc)}
+main{max-width:860px;margin:0 auto;padding:0 16px 48px}
+section{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:20px;margin:16px 0}
+section h2{margin:0 0 4px}.type{color:var(--acc);font-size:.85rem;text-transform:uppercase;letter-spacing:.06em}
+dl{display:grid;grid-template-columns:110px 1fr;gap:6px 12px;margin:14px 0 0}dt{color:var(--mute)}dd{margin:0;word-break:break-all}
+a{color:var(--acc)}footer{text-align:center;color:var(--mute);padding:24px;font-size:.85rem}
+</style>
+</head>
+<body>
+<header><h1 id="family">Netra Eco</h1><div class="tag" id="tagline"></div></header>
+<nav id="nav"></nav>
+<main id="list"></main>
+<footer>Netra by Prayagi Team. Values shown are read live from GitHub; if a value cannot be read it says "Unavailable".</footer>
+<script>
+const U='Unavailable';
+const el=(t,c,x)=>{const e=document.createElement(t);if(c)e.className=c;if(x!==undefined)e.textContent=x;return e};
+function row(dl,k,v,href){dl.append(el('dt','',k));const dd=el('dd');if(href){const a=el('a','',v);a.href=href;a.rel='noopener';dd.append(a)}else dd.textContent=v;dl.append(dd)}
+async function gh(path){try{const r=await fetch('https://api.github.com/'+path);if(!r.ok)return null;return await r.json()}catch(e){return null}}
+fetch('projects.json',{cache:'no-store'}).then(r=>r.json()).then(async d=>{
+ document.getElementById('family').textContent=d.family;
+ document.getElementById('tagline').textContent=d.tagline;
+ const nav=document.getElementById('nav'),list=document.getElementById('list');
+ for(const p of d.projects){
+  const a=el('a','',p.name);a.href='#'+p.id;nav.append(a);
+  const s=el('section');s.id=p.id;
+  s.append(el('div','type',p.type),el('h2','',p.name),el('div','',p.summary));
+  const dl=el('dl');s.append(dl);list.append(s);
+  row(dl,'Code','github.com/'+p.repo,'https://github.com/'+p.repo);
+  if(p.site)row(dl,'Website',p.site,p.site);
+  row(dl,'Latest release',U);row(dl,'Last update',U);
+  const rel=await gh('repos/'+p.repo+'/releases/latest');
+  const info=await gh('repos/'+p.repo);
+  const rels=dl.querySelectorAll('dd');
+  const set=(label,val,href)=>{const dts=[...dl.querySelectorAll('dt')];const i=dts.findIndex(x=>x.textContent===label);const dd=dl.querySelectorAll('dd')[i];dd.textContent='';if(href){const a=el('a','',val);a.href=href;dd.append(a)}else dd.textContent=val};
+  if(rel&&rel.tag_name){set('Latest release',rel.tag_name,rel.html_url);const apk=(rel.assets||[]).find(x=>/\.apk$/i.test(x.name));if(apk)row(dl,'Download APK',apk.name,apk.browser_download_url)}
+  else set('Latest release','Not released yet');
+  if(info&&info.pushed_at)set('Last update',new Date(info.pushed_at).toLocaleDateString());
+ }
+});
+</script>
+</body>
+</html>
