@@ -954,6 +954,9 @@ fun ProfileScreen(
 
             Spacer(modifier = Modifier.height(24.dp))
 
+            com.example.stats.UsageCountCard()
+            Spacer(modifier = Modifier.height(16.dp))
+
             // Permission Request Card (Camera, Microphone & Notifications)
             Card(
                 modifier = Modifier
