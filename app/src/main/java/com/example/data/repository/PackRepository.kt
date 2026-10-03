@@ -21,7 +21,7 @@ import java.util.concurrent.TimeUnit
 class PackRepository(private val context: Context) {
 
     companion object {
-        const val BASE = "https://raw.githubusercontent.com/prayagideepak-collab/KBC/question-pool/pool/"
+        const val BASE = "https://raw.githubusercontent.com/prayagi-store-and-services/KBC/question-pool/pool/"
         private const val PREFS = "kbc_pack_state"
         private const val REFRESH_MS = 6L * 60L * 60L * 1000L
 

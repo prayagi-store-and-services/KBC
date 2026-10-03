@@ -2,10 +2,10 @@
 
 ## In-app update (new)
 
-What it does: on app open, at most once a day, the app asks `https://github.com/prayagideepak-collab/KBC/releases/latest/download/latest.json` whether a newer version exists. If yes, it shows the version and what changed, and the user taps Update. The app downloads `app-release.apk` from the same release, checks its size and SHA-256 against latest.json, and only then opens the Android package installer. The user confirms with one system tap.
+What it does: on app open, at most once a day, the app asks `https://github.com/prayagi-store-and-services/KBC/releases/latest/download/latest.json` whether a newer version exists. If yes, it shows the version and what changed, and the user taps Update. The app downloads `app-release.apk` from the same release, checks its size and SHA-256 against latest.json, and only then opens the Android package installer. The user confirms with one system tap.
 
 What is protected:
-- Only https://github.com/prayagideepak-collab/KBC/ release URLs are used; the download URL is built from the release tag, never taken from the metadata.
+- Only https://github.com/prayagi-store-and-services/KBC/ release URLs are used; the download URL is built from the release tag, never taken from the metadata.
 - The file is deleted and not installed if its size or SHA-256 does not match.
 - Android installs the update only if it is signed with the same key as the installed app (the Netra release key), so a different signer is rejected by the system.
 - Nothing about the user or device is sent: the check is a plain download of a small public file. No account, no ID, no location.
@@ -33,7 +33,7 @@ Once per UTC day (and once per month) the app adds 1 to a public counter in Fire
 - Cost guard: at most 40 Gemini calls per run, every 6 hours, within the free tier. The job stops when quota is hit.
 
 ## Fresh question packs (new in 1.0.5)
-- At game start the app downloads public JSON question files from `https://raw.githubusercontent.com/prayagideepak-collab/KBC/question-pool/pool/` (one file for the player's class or exam group, plus a general file). The request carries no ID, account or location. It uses the existing OkHttp library, no new dependency.
+- At game start the app downloads public JSON question files from `https://raw.githubusercontent.com/prayagi-store-and-services/KBC/question-pool/pool/` (one file for the player's class or exam group, plus a general file). The request carries no ID, account or location. It uses the existing OkHttp library, no new dependency.
 - Question IDs already played are remembered on the device only (app preferences). Nothing about them is sent anywhere yet. Uploading played IDs for the website archive needs a Firestore rule that the owner has not published yet, so it is not in this version.
 - The app never calls Gemini and holds no AI key. The questions are AI generated and double checked by the generator; they can still be wrong.
 - If no fresh question can be found, this version still falls back to the built-in puzzles (a switch, `REQUIRE_FRESH_PACK`, can make the game refuse instead; pending owner decision).
