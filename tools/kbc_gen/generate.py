@@ -93,7 +93,7 @@ def gen_prompt(group, band, n, special):
     sp = f"\nEvery question must be about: {special}." if special else ""
     return f"""Write {n} multiple-choice quiz questions for a {GROUPS[group]}. Difficulty band: {band}.{sp}
 Rules: factual, verifiable, timeless or clearly dated, one unambiguously correct option, no opinion, no politics-of-the-day,
-nothing about Pakistan, nothing about death anniversaries, no trick questions. Exactly 4 options. Do not repeat a topic inside the list.
+nothing about Pakistan, nothing about death anniversaries, no trick questions, and avoid contested superlatives (e.g. longest river, highest waterfall, first in space) where sources disagree on the measurement or definition. Exactly 4 options. Do not repeat a topic inside the list.
 Options in "optsEn" and the text in "qEn" must be ENGLISH ONLY (no Hindi, no slashes); Hindi goes only in "qHi" and "optsHi". Return a JSON array. Each item: {{"qEn": str, "qHi": str (Hindi), "optsEn": [4 str], "optsHi": [4 str], "correct": 0-3,
 "explainEn": short reason, "sourceHint": a well-known public source such as NCERT chapter, Constitution article, PIB, ISRO, Britannica}}."""
 
