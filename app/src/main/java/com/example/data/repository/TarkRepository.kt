@@ -288,6 +288,11 @@ class TarkRepository(
     }
 
     suspend fun saveGameSession(result: GameSessionResult) = withContext(Dispatchers.IO) {
+        // Questions actually reached in this game are now used on this device and never offered again.
+        try {
+            val ids = pipeline.packRepository.ladderIds(result.sessionId)
+            pipeline.packRepository.markUsed(ids.take(result.highestQuestionReached.coerceIn(0, ids.size)))
+        } catch (_: Exception) { }
         val entity = GameHistoryEntity(
             sessionId = result.sessionId,
             finalPrize = result.totalPointsWon,

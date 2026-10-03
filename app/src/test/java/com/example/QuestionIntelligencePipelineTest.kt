@@ -14,6 +14,7 @@ import kotlinx.coroutines.runBlocking
 import org.junit.After
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertNotNull
+import org.junit.Assert.assertNull
 import org.junit.Assert.assertTrue
 import org.junit.Before
 import org.junit.Test
@@ -175,4 +176,36 @@ class QuestionIntelligencePipelineTest {
 
     /** Measured in CI: the built-in templates run out of fresh questions after 2-3 games. This guards that floor. */
     @Test fun noRepeatsInFirstTwoGames() { assertTrue(firstRepeatGame() >= 2) }
+
+    @Test
+    fun packLadderPicksUnusedQuestionsPerBand() {
+        val pool = (1..40).map { n ->
+            com.example.data.repository.PackRepository.PackQuestion(
+                id = "q$n", band = listOf("easy", "medium", "hard")[n % 3], special = null,
+                qEn = "Q$n", qHi = "प्र$n", optsEn = listOf("a", "b", "c", "d"), optsHi = listOf("अ", "ब", "स", "द"),
+                correct = n % 4, explainEn = "", sourceHint = ""
+            )
+        }
+        val used = setOf("q1", "q2", "q3")
+        val ladder = com.example.data.repository.PackRepository.pickLadder(pool, used, null)
+        assertNotNull(ladder)
+        assertEquals(17, ladder!!.size)
+        assertEquals(17, ladder.values.map { it.id }.toSet().size)
+        assertTrue(ladder.values.none { it.id in used })
+        assertTrue((1..5).all { ladder[it]!!.band == "easy" })
+        assertTrue((12..17).all { ladder[it]!!.band == "hard" })
+        // not enough fresh questions -> null, never a repeat
+        assertNull(com.example.data.repository.PackRepository.pickLadder(pool, pool.map { it.id }.toSet(), null))
+    }
+
+    @Test
+    fun packGroupMappingAndParsing() {
+        val student = UserProfile(isStudentMode = true, preparationDomain = "Student", studentClass = "Class 9")
+        assertEquals("class-10", com.example.data.repository.PackRepository.groupFor(student))
+        assertEquals("upsc", com.example.data.repository.PackRepository.groupFor(UserProfile(preparationDomain = "UPSC / Civil Services")))
+        val json = """[{"id":"q_1","band":"easy","special":null,"qEn":"What is 2+2 in numbers?","qHi":"x","optsEn":["1","2","3","4"],"optsHi":["1","2","3","4"],"correct":3}]"""
+        val parsed = com.example.data.repository.PackRepository.parsePool(json)
+        assertEquals(1, parsed.size)
+        assertEquals(3, parsed[0].correct)
+    }
 }

@@ -31,3 +31,9 @@ Once per UTC day (and once per month) the app adds 1 to a public counter in Fire
 - Output goes to a data-only branch `question-pool` (public JSON, no personal data). `main` is not touched by the job, so branch protection is unchanged.
 - The job sends Gemini only the prompt (class/group, difficulty, a special-day topic). No user data exists on the server side.
 - Cost guard: at most 40 Gemini calls per run, every 6 hours, within the free tier. The job stops when quota is hit.
+
+## Fresh question packs (new in 1.0.5)
+- At game start the app downloads public JSON question files from `https://raw.githubusercontent.com/prayagideepak-collab/KBC/question-pool/pool/` (one file for the player's class or exam group, plus a general file). The request carries no ID, account or location. It uses the existing OkHttp library, no new dependency.
+- Question IDs already played are remembered on the device only (app preferences). Nothing about them is sent anywhere yet. Uploading played IDs for the website archive needs a Firestore rule that the owner has not published yet, so it is not in this version.
+- The app never calls Gemini and holds no AI key. The questions are AI generated and double checked by the generator; they can still be wrong.
+- If no fresh question can be found, this version still falls back to the built-in puzzles (a switch, `REQUIRE_FRESH_PACK`, can make the game refuse instead; pending owner decision).

@@ -65,7 +65,12 @@ class QuestionIntelligencePipeline(
     private val geminiApiClient: GeminiApiClient = GeminiApiClient()
 ) {
 
+    val packRepository = PackRepository(context)
+
     companion object {
+        /** When true the game refuses to start without fresh pack questions (no built-in puzzles). Owner decision pending. */
+        const val REQUIRE_FRESH_PACK = false
+
         val QUESTION_FAMILIES = listOf(
             "LOGIC",
             "REASONING",
@@ -274,7 +279,19 @@ class QuestionIntelligencePipeline(
 
         val candidateLadder = mutableMapOf<Int, QuestionItem>()
 
-        for (tier in 1..17) {
+        // Fresh packs first: real questions written by the Netra question generator, never reused on this device.
+        val packLadder: Map<Int, QuestionItem>? = try {
+            packRepository.buildLadder(sessionId, userProfile)
+        } catch (e: Exception) {
+            null
+        }
+        if (packLadder != null) {
+            candidateLadder.putAll(packLadder)
+        } else if (REQUIRE_FRESH_PACK) {
+            throw IllegalStateException("No fresh questions available right now. Connect to the internet and try again.")
+        }
+
+        for (tier in (if (packLadder != null) emptyList() else (1..17).toList())) {
             val progressFraction = 0.25f + (tier.toFloat() / 17f) * 0.50f
             val isTakingLong = (System.currentTimeMillis() - startTime) > 15000L
 
