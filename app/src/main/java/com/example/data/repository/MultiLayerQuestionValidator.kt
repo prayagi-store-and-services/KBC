@@ -66,7 +66,9 @@ object MultiLayerQuestionValidator {
         val servedNormalizedTexts: Set<String> = emptySet(),
         val servedSemanticFingerprints: Set<String> = emptySet(),
         val servedLogicFingerprints: Set<String> = emptySet(),
-        val servedConceptFingerprints: Set<String> = emptySet()
+        val servedConceptFingerprints: Set<String> = emptySet(),
+        /** Concepts (templates) used in the most recent game; avoided so back-to-back games do not feel the same. */
+        val recentConceptFingerprints: Set<String> = emptySet()
     )
 
     /**
@@ -80,7 +82,8 @@ object MultiLayerQuestionValidator {
     fun validateCandidate(
         candidate: QuestionItem,
         history: HistoricalRegistry,
-        currentSessionQuestions: Collection<QuestionItem>
+        currentSessionQuestions: Collection<QuestionItem>,
+        avoidRecentConcepts: Boolean = false
     ): ValidationResult {
         // 1. Basic structural validity
         if (candidate.optionsEnglish.size != 4 || candidate.optionsHindi.size != 4) {
@@ -143,6 +146,12 @@ object MultiLayerQuestionValidator {
             if (currentSessionQuestions.any { it.conceptFingerprint == candidate.conceptFingerprint }) {
                 return ValidationResult(false, "Concept fingerprint collision in current session")
             }
+        }
+
+        // 6. Cross-game cooldown: skip the template used in the most recent game (soft rule, only when asked)
+        if (avoidRecentConcepts && candidate.conceptFingerprint.isNotBlank() &&
+            history.recentConceptFingerprints.contains(candidate.conceptFingerprint.trim().lowercase())) {
+            return ValidationResult(false, "Same template as the previous game")
         }
 
         return ValidationResult(true)
