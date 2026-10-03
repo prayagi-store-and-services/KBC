@@ -10,7 +10,7 @@ import json, os, re, sys, time, hashlib, datetime, urllib.request, urllib.error
 KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 BASE = "https://generativelanguage.googleapis.com/v1beta"
 OUT = os.environ.get("POOL_DIR", "pool")
-MAX_CALLS = int(os.environ.get("MAX_CALLS", "60"))      # hard cap per run, protects the free tier
+MAX_CALLS = int(os.environ.get("MAX_CALLS", "40"))      # hard cap per run, protects the free tier
 PER_BATCH = int(os.environ.get("PER_BATCH", "8"))
 TARGET_NEW = int(os.environ.get("TARGET_NEW", "100"))
 calls = 0
@@ -94,16 +94,18 @@ def gen_prompt(group, band, n, special):
     return f"""Write {n} multiple-choice quiz questions for a {GROUPS[group]}. Difficulty band: {band}.{sp}
 Rules: factual, verifiable, timeless or clearly dated, one unambiguously correct option, no opinion, no politics-of-the-day,
 nothing about Pakistan, nothing about death anniversaries, no trick questions. Exactly 4 options. Do not repeat a topic inside the list.
-Return a JSON array. Each item: {{"qEn": str, "qHi": str (Hindi), "optsEn": [4 str], "optsHi": [4 str], "correct": 0-3,
+Options in "optsEn" and the text in "qEn" must be ENGLISH ONLY (no Hindi, no slashes); Hindi goes only in "qHi" and "optsHi". Return a JSON array. Each item: {{"qEn": str, "qHi": str (Hindi), "optsEn": [4 str], "optsHi": [4 str], "correct": 0-3,
 "explainEn": short reason, "sourceHint": a well-known public source such as NCERT chapter, Constitution article, PIB, ISRO, Britannica}}."""
 
-def verify_prompt(q):
-    opts = "\n".join(f"{i}: {o}" for i, o in enumerate(q["optsEn"]))
-    return f"""You are a strict fact checker. Answer this quiz question using only well-established facts.
-Question: {q['qEn']}
-Options:
-{opts}
-Return JSON: {{"answer": 0-3 or -1 if no option or more than one option is correct, "confidence": "high"|"low", "reason": short}}"""
+def verify_prompt(qs):
+    blocks = []
+    for i, q in enumerate(qs):
+        opts = "\n".join(f"  {j}: {o}" for j, o in enumerate(q["optsEn"]))
+        blocks.append(f"[{i}] {q['qEn']}\n{opts}")
+    return ("You are a strict fact checker. For each quiz question below, answer using only well-established facts, "
+            "without assuming any answer key. Return a JSON array with one object per question, in order: "
+            '{"i": index, "answer": 0-3 or -1 if no option or more than one option is correct, "confidence": "high"|"low"}.\n\n'
+            + "\n\n".join(blocks))
 
 def valid_shape(q):
     try:
@@ -120,7 +122,9 @@ def load_pool():
     pool = {}
     for g in GROUPS:
         p = os.path.join(OUT, f"{g}.json")
-        pool[g] = json.load(open(p)) if os.path.exists(p) else []
+        items = json.load(open(p)) if os.path.exists(p) else []
+        # drop early entries whose English options carried Hindi text (older prompt)
+        pool[g] = [q for q in items if not re.search(r"[\u0900-\u097f]", " ".join(q.get("optsEn", [])))]
     return pool
 
 def played_ids():
@@ -147,6 +151,8 @@ def main():
     special = SPECIAL_DAYS.get((today.month, today.day))
     stats = {"asked": 0, "kept": 0, "rejected": 0}
     groups = list(GROUPS)
+    off = int(time.time() // 21600) % len(groups)
+    groups = groups[off:] + groups[:off]
     plan = []
     for i in range(1000):
         plan.append((groups[i % len(groups)], list(BANDS)[(i // len(groups)) % 3], special if (special and i % 4 == 0) else None))
@@ -158,12 +164,19 @@ def main():
             items = ask(model, gen_prompt(group, band, PER_BATCH, sp))
             if not isinstance(items, list):
                 continue
+            cands = []
             for q in items:
                 stats["asked"] += 1
                 if not valid_shape(q) or banned(q) or norm(q["qEn"]) in seen:
                     stats["rejected"] += 1; continue
-                v = ask(model, verify_prompt(q), temp=0.0)
-                if not (isinstance(v, dict) and v.get("answer") == q["correct"] and v.get("confidence") == "high"):
+                cands.append(q)
+            if not cands:
+                continue
+            v = ask(model, verify_prompt(cands), temp=0.0)
+            votes = {x.get("i"): x for x in v if isinstance(x, dict)} if isinstance(v, list) else {}
+            for idx, q in enumerate(cands):
+                x = votes.get(idx)
+                if not (x and x.get("answer") == q["correct"] and x.get("confidence") == "high"):
                     stats["rejected"] += 1; continue
                 lo, hi = BANDS[band]
                 qid = "q_" + hashlib.sha256(norm(q["qEn"]).encode()).hexdigest()[:16]
