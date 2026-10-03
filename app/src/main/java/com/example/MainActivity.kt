@@ -55,6 +55,9 @@ class MainActivity : ComponentActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        // Anonymous daily usage count (+1 on a public counter, nothing else). The user can turn it off in Settings.
+        val usageCtx = applicationContext
+        Thread { com.example.stats.UsagePing.pingIfDue(usageCtx) }.start()
         enableEdgeToEdge()
         // Ensure FLAG_SECURE is never active so screenshots and screen recordings work normally
         window.clearFlags(WindowManager.LayoutParams.FLAG_SECURE)
