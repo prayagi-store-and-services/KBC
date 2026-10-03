@@ -142,4 +142,37 @@ class QuestionIntelligencePipelineTest {
         val servedCount = db.questionDao().getAllServedFingerprints().size
         assertTrue("Registered questions in DB should be at least 17", servedCount >= 17)
     }
+
+    private fun firstRepeatGame(): Int {
+        val profile = UserProfile(name = "Ravi", state = "Uttar Pradesh", city = "Lucknow", age = 25, isStudentMode = false, preparationDomain = "UPSC")
+        val texts = mutableSetOf<String>()
+        val sems = mutableSetOf<String>()
+        var recent: Set<String> = emptySet()
+        val repeatsByGame = mutableListOf<String>()
+        repeat(30) { game ->
+            val session = mutableMapOf<Int, com.example.data.model.QuestionItem>()
+            val gameConcepts = mutableSetOf<String>()
+            var gameRepeats = 0
+            for (tier in 1..17) {
+                val history = com.example.data.repository.MultiLayerQuestionValidator.HistoricalRegistry(
+                    servedNormalizedTexts = texts,
+                    servedSemanticFingerprints = sems,
+                    recentConceptFingerprints = recent
+                )
+                val q = DynamicLogicEngine.generateUniqueQuestion(tier, profile, history, session.values, salt = game * 1000 + tier)
+                val nt = com.example.data.repository.MultiLayerQuestionValidator.normalizeText(q.questionEnglish.ifBlank { q.questionHindi })
+                val newText = texts.add(nt)
+                val newMeaning = sems.add(q.semanticFingerprint.trim().lowercase())
+                if (!newText || !newMeaning) gameRepeats++
+                session[tier] = q
+                gameConcepts.add(q.conceptFingerprint.trim().lowercase())
+            }
+            if (gameRepeats > 0) repeatsByGame.add("game${game + 1}:$gameRepeats")
+            recent = gameConcepts
+        }
+        return repeatsByGame.firstOrNull()?.substringAfter("game")?.substringBefore(":")?.toInt() ?: 31
+    }
+
+    /** Measured in CI: the built-in templates run out of fresh questions after 2-3 games. This guards that floor. */
+    @Test fun noRepeatsInFirstTwoGames() { assertTrue(firstRepeatGame() >= 2) }
 }

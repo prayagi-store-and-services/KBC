@@ -356,23 +356,37 @@ object DynamicLogicEngine {
 
         val meta = getTierMeta(qNumber)
 
-        for (gen in candidates) {
-            for (attempt in 0..10) {
-                val rand = Random(salt + attempt * 79 + gen.id.hashCode())
-                val question = gen.generate(qNumber, meta, rand, userProfile)
-                val validation = MultiLayerQuestionValidator.validateCandidate(
-                    candidate = question,
-                    history = history,
-                    currentSessionQuestions = currentSessionQuestions
-                )
-                if (validation.isValid) {
-                    return question
+        // Pass 1 avoids the template used in the previous game; pass 2 allows it but still requires a fresh question.
+        for (avoidRecent in listOf(true, false)) {
+            for (gen in candidates) {
+                for (attempt in 0..10) {
+                    val rand = Random(salt + attempt * 79 + gen.id.hashCode())
+                    val question = gen.generate(qNumber, meta, rand, userProfile)
+                    val validation = MultiLayerQuestionValidator.validateCandidate(
+                        candidate = question,
+                        history = history,
+                        currentSessionQuestions = currentSessionQuestions,
+                        avoidRecentConcepts = avoidRecent
+                    )
+                    if (validation.isValid) {
+                        return question
+                    }
                 }
             }
         }
 
-        // Guaranteed fallback if all eligible candidates collided
-        val fallbackGen = candidates.firstOrNull() ?: allGenerators.first { qNumber in it.tierRange }
+        // Widen the search with many more variations. Never hand back an unchecked repeat while a valid one exists.
+        val pool = candidates.ifEmpty { allGenerators.filter { qNumber in it.tierRange } }
+        for (extra in 1..300) {
+            val gen = pool[extra % pool.size]
+            val question = gen.generate(qNumber, meta, Random(salt + extra * 7919 + gen.id.hashCode()), userProfile)
+            if (MultiLayerQuestionValidator.validateCandidate(question, history, currentSessionQuestions).isValid) {
+                return question
+            }
+        }
+
+        // Truly exhausted (every variation already served): last resort.
+        val fallbackGen = pool.first()
         return fallbackGen.generate(qNumber, meta, Random(salt + 999), userProfile)
     }
 
