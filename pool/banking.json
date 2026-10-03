@@ -1762,5 +1762,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-03T16:20:38Z"
+ },
+ {
+  "id": "q_678bfae3c4633e27",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'I' stand for in the abbreviation 'IMPS', a popular payment service in Indian banking?",
+  "qHi": "भारतीय बैंकिंग में लोकप्रिय भुगतान सेवा 'IMPS' संक्षिप्त नाम में अक्षर 'I' का क्या अर्थ है?",
+  "optsEn": [
+   "Immediate",
+   "Interbank",
+   "International",
+   "Instantaneous"
+  ],
+  "optsHi": [
+   "Immediate",
+   "Interbank",
+   "International",
+   "Instantaneous"
+  ],
+  "correct": 0,
+  "explainEn": "IMPS stands for Immediate Payment Service, an electronic fund transfer system managed by NPCI.",
+  "sourceHint": "National Payments Corporation of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:17:22Z"
+ },
+ {
+  "id": "q_e3141bfb2085b6c2",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following terms is used to describe a loan that has not been serviced for 90 days or more?",
+  "qHi": "निम्नलिखित में से किस शब्द का उपयोग उस ऋण का वर्णन करने के लिए किया जाता है जिसका 90 दिन या उससे अधिक समय तक भुगतान नहीं किया गया है?",
+  "optsEn": [
+   "Standard Asset",
+   "Non-Performing Asset",
+   "Sub-prime Loan",
+   "Venture Capital"
+  ],
+  "optsHi": [
+   "मानक परिसंपत्ति",
+   "गैर-निष्पादित परिसंपत्ति",
+   "सब-प्राइम लोन",
+   "वेंचर कैपिटल"
+  ],
+  "correct": 1,
+  "explainEn": "A loan ceases to generate income for the bank and becomes a Non-Performing Asset (NPA) if interest or principal remains overdue for a period of more than 90 days.",
+  "sourceHint": "Reserve Bank of India Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:17:22Z"
+ },
+ {
+  "id": "q_94774bafa6c04b8c",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the financial term 'LAF' used by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा प्रयुक्त वित्तीय शब्द 'LAF' में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liquidity",
+   "Liability",
+   "Leverage",
+   "Ledger"
+  ],
+  "optsHi": [
+   "तरलता (Liquidity)",
+   "देयता (Liability)",
+   "उत्तोलन (Leverage)",
+   "बहीखाता (Ledger)"
+  ],
+  "correct": 0,
+  "explainEn": "LAF stands for Liquidity Adjustment Facility, a monetary policy tool used by the RBI.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:17:22Z"
+ },
+ {
+  "id": "q_d596ff294208cb34",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of NEFT in the context of Indian banking payment systems?",
+  "qHi": "भारतीय बैंकिंग भुगतान प्रणालियों के संदर्भ में NEFT का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "Net Economic Financial Transfer",
+   "National Easy Fund Transaction",
+   "New Electronic Foreign Transfer"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "नेट इकोनॉमिक फाइनेंशियल ट्रांसफर",
+   "नेशनल इजी फंड ट्रांजैक्शन",
+   "न्यू इलेक्ट्रॉनिक फॉरेन ट्रांसफर"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, a nation-wide centralized payment system owned and operated by RBI.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:17:22Z"
+ },
+ {
+  "id": "q_c7f33bf681c8591c",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is considered a primary function of commercial banks?",
+  "qHi": "निम्नलिखित में से किसे वाणिज्यिक बैंकों का प्राथमिक कार्य माना जाता है?",
+  "optsEn": [
+   "Accepting deposits",
+   "Underwriting shares",
+   "Issuing currency notes",
+   "Formulating fiscal policy"
+  ],
+  "optsHi": [
+   "जमा स्वीकार करना",
+   "शेयरों का हामीदारी करना",
+   "करेंसी नोट जारी करना",
+   "राजकोषीय नीति तैयार करना"
+  ],
+  "correct": 0,
+  "explainEn": "Accepting deposits and granting loans are the core primary functions of any commercial bank.",
+  "sourceHint": "NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:17:22Z"
+ },
+ {
+  "id": "q_5a74f45ef4d29ddc",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following institutions regulates mutual funds in India?",
+  "qHi": "निम्नलिखित में से कौन सी संस्था भारत में म्यूचुअल फंड को नियंत्रित करती है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India",
+   "Insurance Regulatory and Development Authority",
+   "Pension Fund Regulatory and Development Authority"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "बीमा विनियामक और विकास प्राधिकरण",
+   "पेंशन निधि विनियामक और विकास प्राधिकरण"
+  ],
+  "correct": 1,
+  "explainEn": "SEBI was established in 1992 under the SEBI Act to protect the interests of investors in securities and to promote and regulate the securities market, including mutual funds.",
+  "sourceHint": "SEBI Act, 1992",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:18:25Z"
+ },
+ {
+  "id": "q_01cb3d98dd691fba",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the term 'Basel Norms' primarily relate to in the financial sector?",
+  "qHi": "वित्तीय क्षेत्र में 'बेसल मानदंड' शब्द मुख्य रूप से किससे संबंधित है?",
+  "optsEn": [
+   "Foreign direct investment limits",
+   "Banking supervision and capital adequacy",
+   "Agricultural credit targets",
+   "Digital payment security standards"
+  ],
+  "optsHi": [
+   "प्रत्यक्ष विदेशी निवेश सीमा",
+   "बैंकिंग पर्यवेक्षण और पूंजी पर्याप्तता",
+   "कृषि ऋण लक्ष्य",
+   "डिजिटल भुगतान सुरक्षा मानक"
+  ],
+  "correct": 1,
+  "explainEn": "Basel Accords are international banking regulations issued by the Basel Committee on Banking Supervision that set recommendations on capital risk, market risk, and operational risk.",
+  "sourceHint": "Bank for International Settlements (BIS)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:18:25Z"
+ },
+ {
+  "id": "q_7c583e977304448a",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of banking, what is the full form of the acronym 'NEFT'?",
+  "qHi": "बैंकिंग के संदर्भ में, संक्षिप्त नाम 'NEFT' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "Net Economic Financial Transaction",
+   "National Exchange Foreign Trade",
+   "New Electronic Finance Terminal"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "नेट इकोनॉमिक फाइनेंशियल ट्रांजैक्शन",
+   "नेशनल एक्सचेंज फॉरेन ट्रेड",
+   "न्यू इलेक्ट्रॉनिक फाइनेंस टर्मिनल"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, a nation-wide centralized payment system owned and operated by the Reserve Bank of India.",
+  "sourceHint": "Reserve Bank of India payment systems documentation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:18:25Z"
+ },
+ {
+  "id": "q_683df8e2786e36f0",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which financial instrument represents an ownership position in a publicly traded corporation?",
+  "qHi": "कौन सा वित्तीय साधन सार्वजनिक रूप से कारोबार करने वाली निगम में स्वामित्व की स्थिति का प्रतिनिधित्व करता है?",
+  "optsEn": [
+   "Treasury bill",
+   "Certificate of deposit",
+   "Equity share",
+   "Commercial paper"
+  ],
+  "optsHi": [
+   "राजकोषीय विपత్ర",
+   "जमा प्रमाणपत्र",
+   "इक्विटी शेयर",
+   "वाणिज्यिक पत्र"
+  ],
+  "correct": 2,
+  "explainEn": "Equity shares represent fractional ownership in a company, giving shareholders a claim on part of the company's assets and earnings.",
+  "sourceHint": "NCERT Business Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:18:25Z"
+ },
+ {
+  "id": "q_a6a6b1ec4c3db81d",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is a 'Certificate of Deposit' primarily classified as?",
+  "qHi": "एक 'जमा प्रमाणपत्र' को मुख्य रूप से किस रूप में वर्गीकृत किया जाता है?",
+  "optsEn": [
+   "Capital market instrument",
+   "Money market instrument",
+   "Derivative instrument",
+   "Government security"
+  ],
+  "optsHi": [
+   "पूंजी बाजार साधन",
+   "मुद्रा बाजार साधन",
+   "व्युत्पन्न साधन",
+   "सरकारी प्रतिभूति"
+  ],
+  "correct": 1,
+  "explainEn": "A Certificate of Deposit is a negotiable money market instrument issued in dematerialized form or as a usance promissory note against funds deposited at a bank for a specified period.",
+  "sourceHint": "Reserve Bank of India guidelines on money market instruments",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:18:25Z"
+ },
+ {
+  "id": "q_68ea89f05c73cda9",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'P' stand for in the widely used financial term 'PAN' in India?",
+  "qHi": "भारत में व्यापक रूप से प्रयुक्त वित्तीय शब्द 'PAN' में अक्षर 'P' का क्या अर्थ है?",
+  "optsEn": [
+   "Personal",
+   "Primary",
+   "Permanent",
+   "Public"
+  ],
+  "optsHi": [
+   "पर्सनल",
+   "प्राइमरी",
+   "परमानेंट",
+   "पब्लिक"
+  ],
+  "correct": 2,
+  "explainEn": "PAN stands for Permanent Account Number, a ten-digit alphanumeric number issued in the form of a laminated card by the Income Tax Department.",
+  "sourceHint": "Income Tax Department of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:18:25Z"
  }
 ]

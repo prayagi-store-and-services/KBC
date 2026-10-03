@@ -1342,5 +1342,565 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-03T16:20:01Z"
+ },
+ {
+  "id": "q_fd4ab6c00d5a3b3e",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organ in the human body pumps blood to all parts?",
+  "qHi": "मानव शरीर का कौन सा अंग सभी भागों में रक्त पंप करता है?",
+  "optsEn": [
+   "Lungs",
+   "Stomach",
+   "Heart",
+   "Kidney"
+  ],
+  "optsHi": [
+   "फेफड़े",
+   "पेट",
+   "हृदय",
+   "गुर्दे"
+  ],
+  "correct": 2,
+  "explainEn": "The heart is the muscular organ responsible for pumping blood throughout the human body.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:16:52Z"
+ },
+ {
+  "id": "q_296c54adddabdf2a",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary source of energy for planet Earth?",
+  "qHi": "पृथ्वी ग्रह के लिए ऊर्जा का प्राथमिक स्रोत क्या है?",
+  "optsEn": [
+   "The Sun",
+   "The Moon",
+   "Coal",
+   "Wind"
+  ],
+  "optsHi": [
+   "सूर्य",
+   "चन्द्रमा",
+   "कोयला",
+   "वायु"
+  ],
+  "correct": 0,
+  "explainEn": "The Sun provides light and heat energy, which is essential for life on Earth.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:16:52Z"
+ },
+ {
+  "id": "q_bc819962a0f7cb55",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which animal is known as the ship of the desert?",
+  "qHi": "किस जानवर को रेगिस्तान का जहाज कहा जाता है?",
+  "optsEn": [
+   "Elephant",
+   "Camel",
+   "Horse",
+   "Tiger"
+  ],
+  "optsHi": [
+   "हाथी",
+   "ऊँट",
+   "घोड़ा",
+   "बाघ"
+  ],
+  "correct": 1,
+  "explainEn": "Camels are called the ship of the desert because they can walk easily on sand.",
+  "sourceHint": "NCERT Class 3 and 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:16:52Z"
+ },
+ {
+  "id": "q_afceef1d1e41b83b",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which direction does the magnetic needle in a compass usually point towards?",
+  "qHi": "कम्पास में चुंबकीय सुई आमतौर पर किस दिशा की ओर इशारा करती है?",
+  "optsEn": [
+   "East and West",
+   "North and South",
+   "Up and Down",
+   "Left and Right"
+  ],
+  "optsHi": [
+   "पूर्व और पश्चिम",
+   "उत्तर और दक्षिण",
+   "ऊपर और नीचे",
+   "बाएँ और दाएँ"
+  ],
+  "correct": 1,
+  "explainEn": "A magnetic compass needle aligns with Earth's magnetic field, pointing towards the North and South.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:16:52Z"
+ },
+ {
+  "id": "q_3929c206760fceab",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these is a greenhouse gas found in the Earth's atmosphere?",
+  "qHi": "इनमें से कौन सी पृथ्वी के वायुमंडल में पाई जाने वाली ग्रीनहाउस गैस है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "आर्गन"
+  ],
+  "correct": 1,
+  "explainEn": "Carbon dioxide is a greenhouse gas that traps heat in the Earth's atmosphere.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:16:52Z"
+ },
+ {
+  "id": "q_774aa0e34ef8c452",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following imaginary lines divides the Earth into the Northern Hemisphere and the Southern Hemisphere?",
+  "qHi": "निम्नलिखित में से कौन सी काल्पनिक रेखा पृथ्वी को उत्तरी गोलार्ध और दक्षिणी गोलार्ध में विभाजित करती है?",
+  "optsEn": [
+   "Equator",
+   "Tropic of Cancer",
+   "Prime Meridian",
+   "Tropic of Capricorn"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा (विषुवत वृत्त)",
+   "कर्क रेखा",
+   "प्रमुख याम्योत्तर (प्रधान मध्याह्न रेखा)",
+   "मकर रेखा"
+  ],
+  "correct": 0,
+  "explainEn": "The Equator is the 0-degree latitude line that divides the Earth into the Northern and Southern hemispheres.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 2 (Globe: Latitudes and Longitudes)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:17:53Z"
+ },
+ {
+  "id": "q_aa0ec697c669f078",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organ in the human body is primarily responsible for pumping blood to all parts of the body?",
+  "qHi": "मानव शरीर में कौन सा अंग मुख्य रूप से शरीर के सभी अंगों में रक्त पंप करने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Lungs",
+   "Heart",
+   "Kidney",
+   "Liver"
+  ],
+  "optsHi": [
+   "फेफड़े",
+   "हृदय",
+   "गुर्दा",
+   "यकृत"
+  ],
+  "correct": 1,
+  "explainEn": "The heart is a muscular organ that pumps blood through the blood vessels of the circulatory system.",
+  "sourceHint": "NCERT Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:17:53Z"
+ },
+ {
+  "id": "q_2b50b4ca5703bfad",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the process by which plants make their own food using sunlight, water, and carbon dioxide called?",
+  "qHi": "उस प्रक्रिया को क्या कहते हैं जिसके द्वारा पौधे सूर्य के प्रकाश, पानी और कार्बन डाइऑक्साइड का उपयोग करके अपना भोजन बनाते हैं?",
+  "optsEn": [
+   "Respiration",
+   "Transpiration",
+   "Photosynthesis",
+   "Germination"
+  ],
+  "optsHi": [
+   "श्वसन",
+   "वाष्पोत्सर्जन",
+   "प्रकाश संश्लेषण",
+   "अंकुरण"
+  ],
+  "correct": 2,
+  "explainEn": "Photosynthesis is the process used by plants to convert light energy into chemical energy.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:17:53Z"
+ },
+ {
+  "id": "q_b591156675f69162",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which gas makes up the largest percentage of Earth's atmosphere?",
+  "qHi": "पृथ्वी के वायुमंडल में कौन सी गैस सबसे अधिक प्रतिशत में पाई जाती है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon Dioxide",
+   "Argon",
+   "Nitrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "आर्गन",
+   "नाइट्रोजन"
+  ],
+  "correct": 3,
+  "explainEn": "Nitrogen makes up about 78 percent of Earth's atmosphere.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:17:53Z"
+ },
+ {
+  "id": "q_004e4d4692224775",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Seeds of which of the following plants are mainly dispersed by wind?",
+  "qHi": "निम्नलिखित में से किस पौधे के बीज मुख्य रूप से हवा द्वारा फैलाए जाते हैं?",
+  "optsEn": [
+   "Cotton",
+   "Lotus",
+   "Cocklebur",
+   "Mango"
+  ],
+  "optsHi": [
+   "कपास",
+   "कमल",
+   "गोखरू",
+   "आम"
+  ],
+  "correct": 0,
+  "explainEn": "Cotton seeds have hair-like structures that help them float and get carried away easily by the wind.",
+  "sourceHint": "NCERT Class 5 EVS Chapter 2 (A Snake Charmer's Story / Seed related chapters)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:17:53Z"
+ },
+ {
+  "id": "q_bd54f3f86d108e55",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian stepwell is built to store rainwater and is known locally as a 'baoli'?",
+  "qHi": "वर्षा के जल को संचित करने के लिए बनाई गई पारंपरिक भारतीय सीढ़ीनुमा कुएं को स्थानीय रूप से क्या कहा जाता है?",
+  "optsEn": [
+   "Dam",
+   "Baoli",
+   "Canal",
+   "Reservoir"
+  ],
+  "optsHi": [
+   "बांध",
+   "बावड़ी",
+   "नहर",
+   "जलाशय"
+  ],
+  "correct": 1,
+  "explainEn": "Baolis are traditional stepwells found in arid regions of India designed to collect and store rainwater.",
+  "sourceHint": "NCERT Class 5 EVS Chapter 6 (A Drop by Drop)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:17:53Z"
+ },
+ {
+  "id": "q_69fa2fc1137cbb14",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of map shows natural features such as mountains, plateaus, plains, and rivers?",
+  "qHi": "किस प्रकार का मानचित्र पहाड़ों, पठारों, मैदानी इलाकों और नदियों जैसी प्राकृतिक विशेषताओं को दर्शाता है?",
+  "optsEn": [
+   "Political map",
+   "Thematic map",
+   "Physical map",
+   "Road map"
+  ],
+  "optsHi": [
+   "राजनीतिक मानचित्र",
+   "थीम आधारित मानचित्र",
+   "भौतिक मानचित्र",
+   "सड़क मानचित्र"
+  ],
+  "correct": 2,
+  "explainEn": "Physical maps show natural landforms and water bodies of the Earth.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 4 (Maps)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:17:53Z"
+ },
+ {
+  "id": "q_d631320078670e5b",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following vitamins is primarily obtained by the human body from exposure to sunlight?",
+  "qHi": "मानव शरीर को धूप के संपर्क में आने से मुख्य रूप से कौन सा विटामिन प्राप्त होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Vitamin D is produced in the skin when exposed to sunlight, which is why it is often called the sunshine vitamin.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:17:53Z"
+ },
+ {
+  "id": "q_0c8b518f59dcfe95",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional water harvesting system was historically used in the arid region of Rajasthan to collect rainwater from rooftops?",
+  "qHi": "राजस्थान के शुष्क क्षेत्र में वर्षा का पानी इकट्ठा करने के लिए ऐतिहासिक रूप से किस पारंपरिक जल संचयन प्रणाली का उपयोग किया जाता था?",
+  "optsEn": [
+   "Tankha",
+   "Kuls",
+   "Johad",
+   "Baoli"
+  ],
+  "optsHi": [
+   "टांका",
+   "कुल्ज़",
+   "जोहड़",
+   "बावड़ी"
+  ],
+  "correct": 0,
+  "explainEn": "In the semi-arid and arid regions of Rajasthan, particularly Bikaner and Phalodi, underground tanks called tankhas were built inside houses to store drinking water.",
+  "sourceHint": "NCERT Class 5 Environmental Studies (EVS) - A Shelter so High",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:18:36Z"
+ },
+ {
+  "id": "q_b0e0d55549a75b4d",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which part of the pitcher plant is modified to form the trap that catches insects?",
+  "qHi": "कीटों को पकड़ने वाला जाल बनाने के लिए घटपर्णी (पिचर प्लांट) का कौन सा भाग रूपांतरित होता है?",
+  "optsEn": [
+   "Root",
+   "Stem",
+   "Leaf",
+   "Flower"
+  ],
+  "optsHi": [
+   "जड़",
+   "तना",
+   "पत्ती",
+   "फूल"
+  ],
+  "correct": 2,
+  "explainEn": "In the pitcher plant, the leaf is modified into a pitcher-like structure with a lid to trap and digest insects for nitrogen.",
+  "sourceHint": "NCERT Class 5 EVS - Super S1-Senses",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:18:36Z"
+ },
+ {
+  "id": "q_1fe6a0bdd7d2a8bc",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which seed dispersal mechanism is used by soybean pods when they burst suddenly with a sound to scatter seeds?",
+  "qHi": "सोयाबीन की फली जब बीज बिखेरने के लिए अचानक आवाज के साथ फटती है, तो बीज प्रकीर्णन की किस विधि का उपयोग होता है?",
+  "optsEn": [
+   "Wind dispersal",
+   "Water dispersal",
+   "Explosion or bursting",
+   "Animal attachment"
+  ],
+  "optsHi": [
+   "वायु प्रकीर्णन",
+   "जल प्रकीर्णन",
+   "विस्फोट या फटना",
+   "पशुओं द्वारा संलग्न"
+  ],
+  "correct": 2,
+  "explainEn": "Some plants like soybean and pea pods burst with a sudden jerk or explosion to scatter their seeds far from the parent plant.",
+  "sourceHint": "NCERT Class 5 EVS - Every Drop Counts",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:18:36Z"
+ },
+ {
+  "id": "q_c090fb7b80a33cd3",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary function of red blood cells in the human body?",
+  "qHi": "मानव शरीर में लाल रक्त कोशिकाओं का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "Fighting infections",
+   "Carrying oxygen to tissues",
+   "Clotting blood",
+   "Digestive enzyme production"
+  ],
+  "optsHi": [
+   "संक्रमण से लड़ना",
+   "ऊतकों तक ऑक्सीजन पहुंचाना",
+   "रक्त का थक्का जमाना",
+   "पाचक एंजाइम का उत्पादन"
+  ],
+  "correct": 1,
+  "explainEn": "Red blood cells contain hemoglobin, which binds to oxygen and transports it from the lungs to all parts of the body.",
+  "sourceHint": "NCERT Science textbooks / Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:18:36Z"
+ },
+ {
+  "id": "q_fc22c51f03b5a2ab",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the name of the layer of gases surrounding the Earth that is held in place by gravity?",
+  "qHi": "पृथ्वी के चारों ओर गैसों की परत का नाम क्या है जो गुरुत्वाकर्षण के कारण टिकी हुई है?",
+  "optsEn": [
+   "Lithosphere",
+   "Hydrosphere",
+   "Atmosphere",
+   "Biosphere"
+  ],
+  "optsHi": [
+   "स्थलमंडल",
+   "जलमंडल",
+   "वायुमंडल",
+   "जीवमंडल"
+  ],
+  "correct": 2,
+  "explainEn": "The envelope of gases surrounding the Earth is called the atmosphere, retained by Earth's gravity.",
+  "sourceHint": "NCERT Geography basics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:18:36Z"
+ },
+ {
+  "id": "q_086258c3b56d990e",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional Indian stepwell is designed primarily for storing water and is locally known as a baoli?",
+  "qHi": "कौन सी पारंपरिक भारतीय सीढ़ीदार कुएं की संरचना मुख्य रूप से पानी के भंडारण के लिए बनाई जाती है और स्थानीय रूप से बावड़ी कहलाती है?",
+  "optsEn": [
+   "Stepwell",
+   "Windmill",
+   "Bridge",
+   "Lighthouse"
+  ],
+  "optsHi": [
+   "बावड़ी",
+   "पवन चक्की",
+   "पुल",
+   "प्रकाशस्तंभ"
+  ],
+  "correct": 0,
+  "explainEn": "Baolis are traditional stepwells found in dry parts of India used to harvest and store rainwater.",
+  "sourceHint": "NCERT Class 5 EVS - Experiments with Water",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:18:36Z"
+ },
+ {
+  "id": "q_0ea9491666dc1250",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which direction does the magnetic needle of a freely suspended magnetic compass point towards?",
+  "qHi": "स्वतंत्र रूप से लटकाई गई चुंबकीय सुई की चुंबकीय कम्पास किस दिशा की ओर इशारा करती है?",
+  "optsEn": [
+   "East-West",
+   "North-South",
+   "Up-Down",
+   "Circular"
+  ],
+  "optsHi": [
+   "पूर्व-पश्चिम",
+   "उत्तर-दक्षिण",
+   "ऊपर-नीचे",
+   "गोलाकार"
+  ],
+  "correct": 1,
+  "explainEn": "A freely suspended magnet always aligns itself in the geographic north-south direction due to Earth's magnetic field.",
+  "sourceHint": "NCERT Science basics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:18:36Z"
  }
 ]

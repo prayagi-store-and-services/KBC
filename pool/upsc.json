@@ -1202,5 +1202,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-03T16:20:24Z"
+ },
+ {
+  "id": "q_c433d298ae5e87a7",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which national park is famous as the last natural habitat of the Asiatic lion?",
+  "qHi": "कौन सा राष्ट्रीय उद्यान एशियाई शेर के अंतिम प्राकृतिक आवास के रूप में प्रसिद्ध है?",
+  "optsEn": [
+   "Jim Corbett National Park",
+   "Gir National Park",
+   "Kaziranga National Park",
+   "Sundarbans National Park"
+  ],
+  "optsHi": [
+   "जिम कॉर्बेट राष्ट्रीय उद्यान",
+   "गीर राष्ट्रीय उद्यान",
+   "काजीरंगा राष्ट्रीय उद्यान",
+   "सुंदरबन राष्ट्रीय उद्यान"
+  ],
+  "correct": 1,
+  "explainEn": "Gir National Park and Wildlife Sanctuary in Gujarat is the only known habitat of the Asiatic lion.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:17:12Z"
+ },
+ {
+  "id": "q_c6a8261f1efc3afe",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the minimum age requirement for a person to be elected as a member of the Lok Sabha?",
+  "qHi": "लोकसभा के सदस्य के रूप में चुने जाने के लिए किसी व्यक्ति की न्यूनतम आयु सीमा क्या है?",
+  "optsEn": [
+   "21 years",
+   "25 years",
+   "30 years",
+   "35 years"
+  ],
+  "optsHi": [
+   "21 वर्ष",
+   "25 वर्ष",
+   "30 वर्ष",
+   "35 वर्ष"
+  ],
+  "correct": 1,
+  "explainEn": "Under Article 84(b) of the Constitution, the minimum age for contesting an election to the Lok Sabha is 25 years.",
+  "sourceHint": "Constitution of India, Article 84",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:17:12Z"
+ },
+ {
+  "id": "q_4a0eb3a17d592ee9",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which layer of the atmosphere contains the ozone layer that protects us from ultraviolet radiation?",
+  "qHi": "वायुमंडल की किस परत में ओजोन परत पाई जाती है जो हमें पराबैंगनी विकिरण से बचाती है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षوبमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The stratosphere contains a high concentration of ozone, which absorbs harmful ultraviolet radiation from the Sun.",
+  "sourceHint": "NCERT Class 11 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:17:12Z"
+ },
+ {
+  "id": "q_c486ae5b0e2261d8",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which historical site is famous for the rock-cut caves of Ajanta and Ellora?",
+  "qHi": "कौन सा ऐतिहासिक स्थल अजंता और एलोरा की रॉक-कट गुफाओं के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Aurangabad",
+   "Jaipur",
+   "Bhopal",
+   "Madurai"
+  ],
+  "optsHi": [
+   "औरंगाबाद",
+   "जयपुर",
+   "भोपाल",
+   "मदुरै"
+  ],
+  "correct": 0,
+  "explainEn": "The world-famous rock-cut caves of Ajanta and Ellora are located near Aurangabad in Maharashtra.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:17:12Z"
+ },
+ {
+  "id": "q_099492630c2df34a",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The term 'Neolithic Revolution' is primarily associated with which of the following developments?",
+  "qHi": "नपाषाण क्रांति (नियोलिथिक रेवोल्यूशन) शब्द मुख्य रूप से निम्नलिखित में से किस विकास से जुड़ा है?",
+  "optsEn": [
+   "Discovery of fire for metallurgy",
+   "Beginning of agriculture and animal domestication",
+   "Transition from bronze to iron tools",
+   "Development of maritime trade routes"
+  ],
+  "optsHi": [
+   "धातुकर्म के लिए आग की खोज",
+   "कृषि और पशु पालन की शुरुआत",
+   "कांस्य से लोहे के औजारों में संक्रमण",
+   "समुद्री व्यापार मार्गों का विकास"
+  ],
+  "correct": 1,
+  "explainEn": "The Neolithic Revolution refers to the wide-scale transition of many human cultures from a lifestyle of hunting and gathering to one of agriculture and settlement, making an increasing population possible.",
+  "sourceHint": "NCERT Class VI History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:18:13Z"
+ },
+ {
+  "id": "q_46bfb42e960b5654",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of Indian economy, 'Broad Money' (M3) generally includes which of the following components?",
+  "qHi": "भारतीय अर्थव्यवस्था के संदर्भ में, 'व्यापक मुद्रा' (एम3) में सामान्यतः निम्नलिखित में से कौन सा घटक शामिल होता है?",
+  "optsEn": [
+   "Currency with the public only",
+   "Demand deposits with banks only",
+   "Currency with the public, demand deposits, and time deposits with banks",
+   "Total post office savings bank deposits excluding national savings certificates"
+  ],
+  "optsHi": [
+   "केवल जनता के पास मुद्रा",
+   "केवल बैंकों के पास मांग जमा",
+   "जनता के पास मुद्रा, मांग जमा और बैंकों के पास सावधि जमा",
+   "राष्ट्रीय बचत प्रमाणपत्रों को छोड़कर कुल डाकघर बचत बैंक जमा"
+  ],
+  "correct": 2,
+  "explainEn": "In India, M3 (Broad Money) is defined as Currency with the public + Demand deposits with the banking system + Time deposits with the banking system.",
+  "sourceHint": "NCERT Class XII Economics - Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:18:13Z"
+ },
+ {
+  "id": "q_767936677deb8a24",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following biogeographical realms does the Indian subcontinent primarily fall under?",
+  "qHi": "भारतीय उपमहाद्वीप मुख्य रूप से निम्नलिखित में से किस जैव-भौगोलिक क्षेत्र के अंतर्गत आता है?",
+  "optsEn": [
+   "Nearctic",
+   "Palearctic",
+   "Indomalayan",
+   "Afrotropical"
+  ],
+  "optsHi": [
+   "निशार्तिक",
+   "पेलियरटिक",
+   "इंडोमलयन",
+   "एफ़्रोट्रोपिकल"
+  ],
+  "correct": 2,
+  "explainEn": "The Indian subcontinent is part of the Indomalayan realm (also known as the Oriental realm), which extends across South and Southeast Asia.",
+  "sourceHint": "Environment by Shankar IAS Academy, Chapter on Biodiversity",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:18:13Z"
+ },
+ {
+  "id": "q_0680e31be2da7f8f",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The famous rock-cut architecture of the Kailasa Temple at Ellora was patronized by which of the following dynasties?",
+  "qHi": "एलोरा के कैलाश मंदिर की प्रसिद्ध रॉक-कट वास्तुकला को निम्नलिखित में से किस राजवंश द्वारा संरक्षण दिया गया था?",
+  "optsEn": [
+   "Rashtrakutas",
+   "Pallavas",
+   "Cholas",
+   "Chalukyas of Badami"
+  ],
+  "optsHi": [
+   "राष्ट्रकूट",
+   "पल्लव",
+   "चोल",
+   "बादामी के चालुक्य"
+  ],
+  "correct": 0,
+  "explainEn": "The Kailasa temple (Cave 16) at Ellora is a megalith carved out of a rock cliff face, built during the reign of the Rashtrakuta king Krishna I in the 8th century.",
+  "sourceHint": "NCERT Class XI History - An Introduction to Indian Art",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:18:13Z"
+ },
+ {
+  "id": "q_c9ee8ecf94f6acb8",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following taxes is levied by the Union Government but collected and appropriated by the respective State Governments, as per the Constitution of India?",
+  "qHi": "भारत के संविधान के अनुसार, निम्नलिखित में से कौन सा कर केंद्र सरकार द्वारा लगाया जाता है लेकिन संबंधित राज्य सरकारों द्वारा एकत्र और विनियोजित किया जाता है?",
+  "optsEn": [
+   "Corporation Tax",
+   "Stamp Duties on bills of exchange",
+   "Goods and Services Tax",
+   "Taxes on income other than agricultural income"
+  ],
+  "optsHi": [
+   "निगम कर",
+   "विनिमय विपत्र पर स्टाम्प शुल्क",
+   "वस्तु एवं सेवा कर",
+   "कृषि आय के अलावा अन्य आय पर कर"
+  ],
+  "correct": 1,
+  "explainEn": "According to Article 268, stamp duties and duties of excise on medicinal and toilet preparations are levied by the Union but collected and retained by the states within which such duties are leviable.",
+  "sourceHint": "Constitution of India, Part XII, Article 268",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:18:13Z"
  }
 ]

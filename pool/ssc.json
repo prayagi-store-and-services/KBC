@@ -1146,5 +1146,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-03T16:20:30Z"
+ },
+ {
+  "id": "q_3415ab843f6f514b",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which article of the Indian Constitution deals with the abolition of untouchability?",
+  "qHi": "भारतीय संविधान का कौन सा अनुच्छेद अस्पृश्यता के अंत से संबंधित है?",
+  "optsEn": [
+   "Article 14",
+   "Article 17",
+   "Article 19",
+   "Article 21"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14",
+   "अनुच्छेद 17",
+   "अनुच्छेद 19",
+   "अनुच्छेद 21"
+  ],
+  "correct": 1,
+  "explainEn": "Article 17 of the Constitution of India abolishes untouchability and forbids its practice in any form.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:17:17Z"
+ },
+ {
+  "id": "q_e91b6541dfd7e2de",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the standard meridian of India?",
+  "qHi": "भारत की मानक मध्याह्न रेखा कौन सी है?",
+  "optsEn": [
+   "82.5 degree East longitude",
+   "80.5 degree East longitude",
+   "85.5 degree East longitude",
+   "88.5 degree East longitude"
+  ],
+  "optsHi": [
+   "82.5 डिग्री पूर्व देशांतर",
+   "80.5 डिग्री पूर्व देशांतर",
+   "85.5 डिग्री पूर्व देशांतर",
+   "88.5 डिग्री पूर्व देशांतर"
+  ],
+  "correct": 0,
+  "explainEn": "The 82.5 degree East longitude passing through Mirzapur is taken as the Standard Meridian of India.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:17:17Z"
+ },
+ {
+  "id": "q_3739b1cf415fa5d3",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which vitamin deficiency causes scurvy?",
+  "qHi": "किस विटामिन की कमी से स्कर्वी रोग होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 2,
+  "explainEn": "Scurvy is caused by a deficiency of Vitamin C, which is commonly found in citrus fruits.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:17:17Z"
+ },
+ {
+  "id": "q_7d159c10a9194620",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which instrument is used to measure atmospheric pressure?",
+  "qHi": "वायुमंडलीय दबाव मापने के लिए किस उपकरण का उपयोग किया जाता है?",
+  "optsEn": [
+   "Barometer",
+   "Thermometer",
+   "Hygrometer",
+   "Anemometer"
+  ],
+  "optsHi": [
+   "बैरोमीटर",
+   "थर्मोमीटर",
+   "हाइग्रोमीटर",
+   "एनीमोमीटर"
+  ],
+  "correct": 0,
+  "explainEn": "A barometer is a scientific instrument used in meteorology to measure atmospheric pressure.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:17:17Z"
+ },
+ {
+  "id": "q_4bc174ba53cc4324",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "The Battle of Plassey was fought in which year?",
+  "qHi": "प्लासी का युद्ध किस वर्ष लड़ा गया था?",
+  "optsEn": [
+   "1526",
+   "1757",
+   "1761",
+   "1857"
+  ],
+  "optsHi": [
+   "1526",
+   "1757",
+   "1761",
+   "1857"
+  ],
+  "correct": 1,
+  "explainEn": "The Battle of Plassey was fought in 1757 between the British East India Company and the Nawab of Bengal.",
+  "sourceHint": "NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:17:17Z"
+ },
+ {
+  "id": "q_fb7ccc3f7e0e487a",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which mountain range separates the Indo-Gangetic Plain from the Deccan Plateau?",
+  "qHi": "कौन सी पर्वत श्रृंखला भारत-गंगा के मैदान को दक्कन के पठार से अलग करती है?",
+  "optsEn": [
+   "Aravalli",
+   "Vindhya",
+   "Satpura",
+   "Western Ghats"
+  ],
+  "optsHi": [
+   "अरावली",
+   "विंध्य",
+   "सतपुड़ा",
+   "पश्चिमी घाट"
+  ],
+  "correct": 1,
+  "explainEn": "The Vindhya range traditionally marks the boundary between the northern Indo-Gangetic plains and the southern Deccan plateau.",
+  "sourceHint": "NCERT Class 9 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:18:19Z"
+ },
+ {
+  "id": "q_ef42c418e33cf389",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who was the founder of the Maurya Empire in ancient India?",
+  "qHi": "प्राचीन भारत में मौर्य साम्राज्य के संस्थापक कौन थे?",
+  "optsEn": [
+   "Bindusara",
+   "Ashoka",
+   "Chandragupta Maurya",
+   "Brihadratha"
+  ],
+  "optsHi": [
+   "बिंदुसार",
+   "अशोक",
+   "चंद्रगुप्त मौर्य",
+   "बृहद्रथ"
+  ],
+  "correct": 2,
+  "explainEn": "Chandragupta Maurya founded the Maurya Empire with the help of Chanakya by overthrowing the Nanda Dynasty.",
+  "sourceHint": "NCERT Class 11 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:18:19Z"
+ },
+ {
+  "id": "q_1dcdeb349fa2328d",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which wind system brings rainfall to the majority of India during the summer months?",
+  "qHi": "ग्रीष्मकालीन महीनों में भारत के अधिकांश हिस्से में कौन सी पवन प्रणाली वर्षा लाती है?",
+  "optsEn": [
+   "North-East Monsoon",
+   "South-West Monsoon",
+   "Western Disturbances",
+   "Trade Winds"
+  ],
+  "optsHi": [
+   "उत्तर-पूर्व मानसून",
+   "दक्षिण-पश्चिम मानसून",
+   "पश्चिमी विक्षोभ",
+   "व्यापारिक पवनें"
+  ],
+  "correct": 1,
+  "explainEn": "The South-West Monsoon is the primary rain-bearing wind system affecting the Indian subcontinent during summer.",
+  "sourceHint": "NCERT Class 11 Geography - India: Physical Environment",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:18:19Z"
+ },
+ {
+  "id": "q_d992deff4a50ae80",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which year was the first session of the Indian National Congress held?",
+  "qHi": "भारतीय राष्ट्रीय कांग्रेस का प्रथम अधिवेशन किस वर्ष आयोजित किया गया था?",
+  "optsEn": [
+   "1883",
+   "1885",
+   "1905",
+   "1911"
+  ],
+  "optsHi": [
+   "1883",
+   "1885",
+   "1905",
+   "1911"
+  ],
+  "correct": 1,
+  "explainEn": "The first session of the Indian National Congress was held in Bombay in December 1885, presided over by W.C. Bonnerjee.",
+  "sourceHint": "NCERT Class 12 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:18:19Z"
+ },
+ {
+  "id": "q_021ca0b8278e7c3f",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which chemical element has the highest electrical conductivity at room temperature?",
+  "qHi": "कमरे के तापमान पर किस रासायनिक तत्व की विद्युत चालकता सबसे अधिक होती है?",
+  "optsEn": [
+   "Copper",
+   "Gold",
+   "Silver",
+   "Aluminum"
+  ],
+  "optsHi": [
+   "तांबा",
+   "सोना",
+   "चांदी",
+   "एल्युमीनियम"
+  ],
+  "correct": 2,
+  "explainEn": "Silver has the highest electrical conductivity, thermal conductivity, and reflectivity of any metal.",
+  "sourceHint": "NCERT Class 10 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:18:19Z"
+ },
+ {
+  "id": "q_d6db20a7ea7bccf5",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following biosphere reserves was the first to be established in India?",
+  "qHi": "निम्नलिखित में से कौन सा बायोस्फीयर रिजर्व भारत में स्थापित होने वाला पहला था?",
+  "optsEn": [
+   "Sundarbans",
+   "Nanda Devi",
+   "Nilgiri",
+   "Gulf of Mannar"
+  ],
+  "optsHi": [
+   "सुंदरबन",
+   "नंदा देवी",
+   "नीलगिरी",
+   "मन्नार की खाड़ी"
+  ],
+  "correct": 2,
+  "explainEn": "The Nilgiri Biosphere Reserve was established in 1986 as India's first biosphere reserve.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:18:19Z"
  }
 ]

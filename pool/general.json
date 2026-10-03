@@ -1090,5 +1090,565 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-03T16:19:55Z"
+ },
+ {
+  "id": "q_e076a012d39c5d25",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these gases is most abundant in the Earth's atmosphere?",
+  "qHi": "पृथ्वी के वायुमंडल में इनमें से कौन सी गैस सबसे प्रचुर मात्रा में है?",
+  "optsEn": [
+   "Oxygen",
+   "Nitrogen",
+   "Carbon dioxide",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "कार्बन डाइऑक्साइड",
+   "आर्गन"
+  ],
+  "correct": 1,
+  "explainEn": "Nitrogen makes up about 78 percent of the Earth's atmosphere.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:16:48Z"
+ },
+ {
+  "id": "q_5dc9fd816098988e",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who is known as the Father of the Indian Constitution?",
+  "qHi": "भारतीय संविधान के जनक के रूप में किसे जाना जाता है?",
+  "optsEn": [
+   "Mahatma Gandhi",
+   "Jawaharlal Nehru",
+   "B. R. Ambedkar",
+   "Sardar Vallabhbhai Patel"
+  ],
+  "optsHi": [
+   "महात्मा गांधी",
+   "जवाहरलाल नेहरू",
+   "बी. आर. अंबेडकर",
+   "सरदार वल्लभभाई पटेल"
+  ],
+  "correct": 2,
+  "explainEn": "Dr. B. R. Ambedkar served as the Chairman of the Drafting Committee of the Constitution.",
+  "sourceHint": "Constitution of India / NCERT",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:16:48Z"
+ },
+ {
+  "id": "q_0f19b1b113cccd6b",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which classical dance form originates from the state of Kerala?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप केरल राज्य से उत्पन्न हुआ है?",
+  "optsEn": [
+   "Kathakali",
+   "Bharatanatyam",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "कथकली",
+   "भरतनाट्यम",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 0,
+  "explainEn": "Kathakali is a major form of classical Indian dance that originated in Kerala.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:16:48Z"
+ },
+ {
+  "id": "q_6a5e4661797fa545",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the national currency of India?",
+  "qHi": "भारत की राष्ट्रीय मुद्रा क्या है?",
+  "optsEn": [
+   "Taka",
+   "Rupee",
+   "Yen",
+   "Dinar"
+  ],
+  "optsHi": [
+   "टका",
+   "रुपया",
+   "येन",
+   "दीनार"
+  ],
+  "correct": 1,
+  "explainEn": "The Indian rupee is the official currency of the Republic of India.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:16:48Z"
+ },
+ {
+  "id": "q_b93fd9bef65c73e7",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "The festival of Diwali is primarily celebrated to mark the return of whom to Ayodhya?",
+  "qHi": "दीपावली का त्योहार मुख्य रूप से अयोध्या में किसकी वापसी की खुशी में मनाया जाता है?",
+  "optsEn": [
+   "Lord Rama",
+   "Lord Krishna",
+   "Lord Buddha",
+   "Mahavira"
+  ],
+  "optsHi": [
+   "भगवान राम",
+   "भगवान कृष्ण",
+   "भगवान बुद्ध",
+   "महावीर"
+  ],
+  "correct": 0,
+  "explainEn": "Diwali celebrates Lord Rama's return to Ayodhya after 14 years of exile.",
+  "sourceHint": "NCERT Cultural Traditions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:16:48Z"
+ },
+ {
+  "id": "q_c7192963cca72b07",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organ in the human body is primarily responsible for pumping blood?",
+  "qHi": "मानव शरीर में कौन सा अंग मुख्य रूप से रक्त पंप करने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Lungs",
+   "Heart",
+   "Kidney",
+   "Liver"
+  ],
+  "optsHi": [
+   "फेफड़े",
+   "दिल",
+   "गुर्दे",
+   "यकृत"
+  ],
+  "correct": 1,
+  "explainEn": "The heart is a muscular organ that pumps blood through the circulatory system.",
+  "sourceHint": "NCERT Biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:16:48Z"
+ },
+ {
+  "id": "q_87228912b2e2f81b",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian state is the largest producer of raw silk?",
+  "qHi": "कच्चे रेशम का सबसे बड़ा उत्पादक भारतीय राज्य कौन सा है?",
+  "optsEn": [
+   "Karnataka",
+   "West Bengal",
+   "Assam",
+   "Tamil Nadu"
+  ],
+  "optsHi": [
+   "कर्नाटक",
+   "पश्चिम बंगाल",
+   "असम",
+   "तमिलनाडु"
+  ],
+  "correct": 0,
+  "explainEn": "Karnataka consistently produces the highest share of raw mulberry silk in India.",
+  "sourceHint": "Central Silk Board of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:17:47Z"
+ },
+ {
+  "id": "q_566f8f3a0897b9d7",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which planet in our solar system has the maximum number of natural satellites or moons?",
+  "qHi": "हमारे सौर मंडल में किस ग्रह के पास प्राकृतिक उपग्रहों या चंद्रमाओं की अधिकतम संख्या है?",
+  "optsEn": [
+   "Saturn",
+   "Jupiter",
+   "Mars",
+   "Uranus"
+  ],
+  "optsHi": [
+   "शनि",
+   "बृहस्पति",
+   "मंगल",
+   "यूरेनस"
+  ],
+  "correct": 0,
+  "explainEn": "Saturn has the most confirmed natural satellites orbiting it in the solar system.",
+  "sourceHint": "NASA Planetary Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:17:47Z"
+ },
+ {
+  "id": "q_e6a590aadc2b839a",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin is primarily synthesized in the human body through exposure to sunlight?",
+  "qHi": "मानव शरीर में धूप के संपर्क में आने से मुख्य रूप से कौन सा विटामिन बनता है?",
+  "optsEn": [
+   "Vitamin D",
+   "Vitamin C",
+   "Vitamin A",
+   "Vitamin B12"
+  ],
+  "optsHi": [
+   "विटामिन डी",
+   "विटामिन सी",
+   "विटामिन ए",
+   "विटामिन बी12"
+  ],
+  "correct": 0,
+  "explainEn": "The skin synthesizes Vitamin D when exposed to ultraviolet B rays from sunlight.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:17:47Z"
+ },
+ {
+  "id": "q_958b27f4271798f5",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In computing, what does the acronym CPU stand for?",
+  "qHi": "कंप्यूटिंग में, संक्षिप्त नाम CPU का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Central Processing Unit",
+   "Computer Personal Unit",
+   "Central Program Utility",
+   "Control Processing Unit"
+  ],
+  "optsHi": [
+   "सेंट्रल प्रोसेसिंग यूनिट",
+   "कंप्यूटर पर्सनल यूनिट",
+   "सेंट्रल प्रोग्राम यूटिलिटी",
+   "कंट्रोल प्रोसेसिंग यूनिट"
+  ],
+  "correct": 0,
+  "explainEn": "CPU stands for Central Processing Unit, the primary component of a computer that executes instructions.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:17:47Z"
+ },
+ {
+  "id": "q_c049950faf870956",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The Jim Corbett National Park is located in which Indian state?",
+  "qHi": "जिम कॉर्बेट राष्ट्रीय उद्यान किस भारतीय राज्य में स्थित है?",
+  "optsEn": [
+   "Uttarakhand",
+   "Madhya Pradesh",
+   "Rajasthan",
+   "Assam"
+  ],
+  "optsHi": [
+   "उत्तराखंड",
+   "मध्य प्रदेश",
+   "राजस्थान",
+   "असम"
+  ],
+  "correct": 0,
+  "explainEn": "Jim Corbett National Park is the oldest national park in India, located in Uttarakhand.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:17:47Z"
+ },
+ {
+  "id": "q_179db6012aa9d89c",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the standard SI unit of electric current?",
+  "qHi": "विद्युत धारा की मानक एसआई (SI) इकाई क्या है?",
+  "optsEn": [
+   "Ampere",
+   "Volt",
+   "Ohm",
+   "Watt"
+  ],
+  "optsHi": [
+   "एम्पीयर",
+   "वोल्ट",
+   "ओम",
+   "वाट"
+  ],
+  "correct": 0,
+  "explainEn": "The ampere is the base unit of electric current in the International System of Units.",
+  "sourceHint": "NCERT Physics Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:17:47Z"
+ },
+ {
+  "id": "q_266f5ae776c8d599",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which constitutional amendment introduced the Goods and Services Tax (GST) in India?",
+  "qHi": "भारत में किस संविधान संशोधन द्वारा वस्तु एवं सेवा कर (जीएसटी) की शुरुआत की गई थी?",
+  "optsEn": [
+   "100th Amendment",
+   "101st Amendment",
+   "103rd Amendment",
+   "105th Amendment"
+  ],
+  "optsHi": [
+   "100वां संशोधन",
+   "101वां संशोधन",
+   "103वां संशोधन",
+   "105वां संशोधन"
+  ],
+  "correct": 1,
+  "explainEn": "The Constitution (One Hundred and First Amendment) Act, 2016 introduced the Goods and Services Tax in India.",
+  "sourceHint": "Constitution of India / Ministry of Finance",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:18:30Z"
+ },
+ {
+  "id": "q_96c326ad7aaab9c3",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who discovered the Raman Effect, for which he was awarded the Nobel Prize in Physics?",
+  "qHi": "रमन प्रभाव की खोज किसने की थी, जिसके लिए उन्हें भौतिकी में नोबेल पुरस्कार से सम्मानित किया गया था?",
+  "optsEn": [
+   "Homi J. Bhabha",
+   "Satyendra Nath Bose",
+   "C. V. Raman",
+   "Meghnad Saha"
+  ],
+  "optsHi": [
+   "होमी जे. भाभा",
+   "सत्येन्द्र नाथ बोस",
+   "सी. वी. रमन",
+   "मेघनाद साहा"
+  ],
+  "correct": 2,
+  "explainEn": "Chandrasekhara Venkata Raman discovered the Raman Effect in 1928 and won the Nobel Prize in Physics in 1930.",
+  "sourceHint": "Nobel Foundation / Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:18:30Z"
+ },
+ {
+  "id": "q_38a02128312a3243",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which Indian state is the Kaziranga National Park primarily located?",
+  "qHi": "काजीरंगा राष्ट्रीय उद्यान मुख्य रूप से भारत के किस राज्य में स्थित है?",
+  "optsEn": [
+   "West Bengal",
+   "Uttarakhand",
+   "Assam",
+   "Madhya Pradesh"
+  ],
+  "optsHi": [
+   "पश्चिम बंगाल",
+   "उत्तराखंड",
+   "असम",
+   "मध्य प्रदेश"
+  ],
+  "correct": 2,
+  "explainEn": "Kaziranga National Park is located in the Golaghat and Nagaon districts of the state of Assam.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change, India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:18:30Z"
+ },
+ {
+  "id": "q_adbd1b405d5fb45d",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form originates from the state of Kerala and is traditionally performed with elaborate facial makeup and costumes?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप केरल राज्य से उत्पन्न हुआ है और पारंपरिक रूप से विस्तृत फेशियल मेकअप और वेशभूषा के साथ किया जाता है?",
+  "optsEn": [
+   "Kathakali",
+   "Bharatanatyam",
+   "Odissi",
+   "Kuchipudi"
+  ],
+  "optsHi": [
+   "कथकली",
+   "भरतनाट्यम",
+   "ओडिसी",
+   "कुचिपुड़ी"
+  ],
+  "correct": 0,
+  "explainEn": "Kathakali is a major form of classical Indian dance originating from Kerala, known for its vibrant storytelling and elaborate makeup.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:18:30Z"
+ },
+ {
+  "id": "q_738dc08955519c39",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary chemical compound found in natural pearls?",
+  "qHi": "प्राकृतिक मोतियों में पाया जाने वाला मुख्य रासायनिक यौगिक कौन सा है?",
+  "optsEn": [
+   "Silicon dioxide",
+   "Calcium carbonate",
+   "Sodium chloride",
+   "Calcium phosphate"
+  ],
+  "optsHi": [
+   "सिलिकॉन डाइऑक्साइड",
+   "कैल्शियम कार्बोनेट",
+   "सोडियम क्लोराइड",
+   "कैल्शियम फॉस्फेट"
+  ],
+  "correct": 1,
+  "explainEn": "Natural pearls are composed primarily of calcium carbonate, usually in the form of aragonite or a mix of aragonite and calcite.",
+  "sourceHint": "Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:18:30Z"
+ },
+ {
+  "id": "q_7254d8e4445c0a08",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian city is served by the Netaji Subhash Chandra Bose International Airport?",
+  "qHi": "नेताजी सुभाष चंद्र बोस अंतर्राष्ट्रीय हवाई अड्डा किस भारतीय शहर में स्थित है?",
+  "optsEn": [
+   "Mumbai",
+   "Kolkata",
+   "Chennai",
+   "Bengaluru"
+  ],
+  "optsHi": [
+   "मुंबई",
+   "कोलकाता",
+   "चेन्नई",
+   "बेंगलुरु"
+  ],
+  "correct": 1,
+  "explainEn": "Netaji Subhash Chandra Bose International Airport is located in Dum Dum, Kolkata, West Bengal.",
+  "sourceHint": "Airports Authority of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:18:30Z"
+ },
+ {
+  "id": "q_ec2840dc2569f90b",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which planet in our solar system has the most moons confirmed as of recent astronomical data?",
+  "qHi": "हालिया खगोलीय आंकड़ों के अनुसार हमारे सौर मंडल के किस ग्रह के पास सबसे अधिक चंद्रमा हैं?",
+  "optsEn": [
+   "Jupiter",
+   "Saturn",
+   "Uranus",
+   "Neptune"
+  ],
+  "optsHi": [
+   "बृहस्पति",
+   "शनि",
+   "अरुण",
+   "वरुण"
+  ],
+  "correct": 1,
+  "explainEn": "Saturn holds the record for the planet with the highest number of confirmed moons in the solar system.",
+  "sourceHint": "NASA Solar System Exploration",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:18:30Z"
+ },
+ {
+  "id": "q_c01d0cebede6d0e2",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which mountain pass connects the Kullu Valley with the Lahaul and Spiti Valleys in Himachal Pradesh?",
+  "qHi": "हिमाचल प्रदेश में कौन सा दर्रा कुल्लू घाटी को लाहौल और स्पीति घाटियों से जोड़ता है?",
+  "optsEn": [
+   "Zoji La",
+   "Rohtang Pass",
+   "Nathu La",
+   "Khardung La"
+  ],
+  "optsHi": [
+   "जोजी ला",
+   "रोहतांग दर्रा",
+   "नाथू ला",
+   "खारदुंग ला"
+  ],
+  "correct": 1,
+  "explainEn": "The Rohtang Pass is a high mountain pass on the eastern end of the Pir Panjal Range of the Himalayas, connecting Kullu to Lahaul and Spiti.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T21:18:30Z"
  }
 ]
