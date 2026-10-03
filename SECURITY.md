@@ -24,3 +24,10 @@ Once per UTC day (and once per month) the app adds 1 to a public counter in Fire
 - The report contains only: the app name, phone model, Android version, app version, and the crash stack trace (exception class names and code locations; exception messages are dropped on purpose).
 - It contains no name, email, location, files, contacts, device IDs or usage history.
 - It is sent through the same form pipeline as the website forms (FormSubmit) to the developer's email.
+
+## Question generator (new, server side only)
+- A scheduled GitHub Actions job (`.github/workflows/kbc-questions.yml`, script `tools/kbc_gen/generate.py`) writes quiz questions with Google Gemini. Each question is checked by a second, independent Gemini call and kept only if both agree on the correct option with high confidence. It can still be wrong; a wrong question can be reported and removed.
+- The Gemini API key is a GitHub Actions secret (`GEMINI_API_KEY`). It is never in the app, the repo, a site or any log. The app never talks to Gemini.
+- Output goes to a data-only branch `question-pool` (public JSON, no personal data). `main` is not touched by the job, so branch protection is unchanged.
+- The job sends Gemini only the prompt (class/group, difficulty, a special-day topic). No user data exists on the server side.
+- Cost guard: at most 60 Gemini calls per run, every 6 hours, within the free tier. The job stops when quota is hit.
