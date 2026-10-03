@@ -222,5 +222,453 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-03T06:21:46Z"
+ },
+ {
+  "id": "q_89565142c7dc82c9",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which institution regulates all commercial banks in India?",
+  "qHi": "भारत में सभी वाणिज्यिक बैंकों को कौन सी संस्था विनियमित करती है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "State Bank of India",
+   "Ministry of Finance",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय स्टेट बैंक",
+   "वित्त मंत्रालय",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड"
+  ],
+  "correct": 0,
+  "explainEn": "The Reserve Bank of India (RBI) is the central bank and regulatory body for the Indian banking system.",
+  "sourceHint": "RBI Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:27:23Z"
+ },
+ {
+  "id": "q_c5f5f5921a802f23",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'I' stand for in the acronym IFSC, used in electronic fund transfers?",
+  "qHi": "इलेक्ट्रॉनिक फंड ट्रांसफर में प्रयुक्त संक्षिप्त नाम IFSC में अक्षर 'I' का क्या अर्थ है?",
+  "optsEn": [
+   "International",
+   "Indian",
+   "Interbank",
+   "Institutional"
+  ],
+  "optsHi": [
+   "अंतर्राष्ट्रीय",
+   "इंडियन",
+   "इंटरबैंक",
+   "संस्थागत"
+  ],
+  "correct": 1,
+  "explainEn": "IFSC stands for Indian Financial System Code, an alphanumeric code that uniquely identifies a bank-branch participating in NEFT or RTGS.",
+  "sourceHint": "Reserve Bank of India guidelines on payment systems",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:27:23Z"
+ },
+ {
+  "id": "q_b71f7af86c666b2c",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a public sector bank in India?",
+  "qHi": "निम्नलिखित में से कौन सा भारत का एक सार्वजनिक क्षेत्र का बैंक है?",
+  "optsEn": [
+   "HDFC Bank",
+   "ICICI Bank",
+   "Punjab National Bank",
+   "Axis Bank"
+  ],
+  "optsHi": [
+   "एचडीएफसी बैंक",
+   "आईसीआईसीआई बैंक",
+   "पंजाब नेशनल बैंक",
+   "एक्सिस बैंक"
+  ],
+  "correct": 2,
+  "explainEn": "Punjab National Bank (PNB) is a major public sector bank owned by the Government of India, whereas the others are private sector banks.",
+  "sourceHint": "Department of Financial Services, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:27:23Z"
+ },
+ {
+  "id": "q_3c06c95699b134b9",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum deposit insurance coverage provided by DICGC per depositor per bank in India?",
+  "qHi": "भारत में DICGC द्वारा प्रति जमाकर्ता प्रति बैंक अधिकतम जमा बीमा कवरेज कितना प्रदान किया जाता है?",
+  "optsEn": [
+   "Rupees One Lakh",
+   "Rupees Two Lakhs",
+   "Rupees Three Lakhs",
+   "Rupees Five Lakhs"
+  ],
+  "optsHi": [
+   "एक लाख रुपये",
+   "दो लाख रुपये",
+   "तीन लाख रुपये",
+   "पाँच लाख रुपये"
+  ],
+  "correct": 3,
+  "explainEn": "Deposit Insurance and Credit Guarantee Corporation (DICGC) insures bank deposits up to a limit of Rupees Five Lakhs per depositor per bank.",
+  "sourceHint": "DICGC Act, 1961",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:27:23Z"
+ },
+ {
+  "id": "q_f0b13762183da6bc",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which financial instrument is commonly known as plastic money?",
+  "qHi": "किस वित्तीय साधन को आमतौर पर प्लास्टिक मनी के रूप में जाना जाता है?",
+  "optsEn": [
+   "Credit Card",
+   "Promissory Note",
+   "Treasury Bill",
+   "Passbook"
+  ],
+  "optsHi": [
+   "क्रेडिट कार्ड",
+   "प्रोमिसरी नोट",
+   "Treasury Bill",
+   "पासबुक"
+  ],
+  "correct": 0,
+  "explainEn": "Credit cards and debit cards are made of plastic and used for cashless transactions, hence referred to as plastic money.",
+  "sourceHint": "NCERT Economics textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:27:23Z"
+ },
+ {
+  "id": "q_cdce332ca29431ea",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'ATM' stand for in the banking sector?",
+  "qHi": "बैंकिंग क्षेत्र में 'ATM' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Any Time Money",
+   "Automated Teller Machine",
+   "Automated Transfer Mechanism",
+   "Audited Transaction Method"
+  ],
+  "optsHi": [
+   "एनी टाइम मनी",
+   "ऑटोमेटेड टेलर मशीन",
+   "ऑटोमेटेड ट्रांसफर मैकेनिज्म",
+   "ऑडिटेड ट्रांजैक्शन मेथड"
+  ],
+  "correct": 1,
+  "explainEn": "ATM stands for Automated Teller Machine, an electronic telecommunication device that enables customers to perform financial transactions without a human teller.",
+  "sourceHint": "Britannica Encyclopedia",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:27:23Z"
+ },
+ {
+  "id": "q_3814935f55e638d6",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a money market instrument in India?",
+  "qHi": "निम्नलिखित में से कौन सा भारत में एक मुद्रा बाजार उपकरण है?",
+  "optsEn": [
+   "Equity Share",
+   "Debenture",
+   "Treasury Bill",
+   "Mutual Fund Unit"
+  ],
+  "optsHi": [
+   "इक्विटी शेयर",
+   "डिबेंचर",
+   "Treasury Bill",
+   "म्यूचुअल फंड यूनिट"
+  ],
+  "correct": 2,
+  "explainEn": "Treasury Bills (T-Bills) are short-term money market instruments issued by the Government of India.",
+  "sourceHint": "Reserve Bank of India financial markets portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:27:23Z"
+ },
+ {
+  "id": "q_f0b4a21e5493d136",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In the context of bank accounts, what does KYC stand for?",
+  "qHi": "बैंक खातों के संदर्भ में, KYC का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Know Your Customer",
+   "Keep Your Capital",
+   "Key Yield Calculation",
+   "Known Yearly Credit"
+  ],
+  "optsHi": [
+   "नो योर कस्टमर",
+   "कीप योर कैपिटल",
+   "की यील्ड कैलकुलेशन",
+   "नोन इयरली क्रेडिट"
+  ],
+  "correct": 0,
+  "explainEn": "KYC stands for Know Your Customer, a mandatory process by financial institutions to verify the identity of their clients.",
+  "sourceHint": "RBI Master Directions on KYC",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:27:23Z"
+ },
+ {
+  "id": "q_64ebf95c9b8d2181",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following institutions regulates Regional Rural Banks in India?",
+  "qHi": "भारत में क्षेत्रीय ग्रामीण बैंकों को निम्नलिखित में से कौन सी संस्था विनियमित करती है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "NABARD",
+   "State Bank of India",
+   "SIDBI"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "नाबार्ड",
+   "भारतीय स्टेट बैंक",
+   "सिडबी"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD is entrusted with the regulation and supervision of Regional Rural Banks and Cooperative Banks in India.",
+  "sourceHint": "NABARD Act and RBI guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:28:02Z"
+ },
+ {
+  "id": "q_59e392b57977d02b",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the term 'CASA' stand for in the context of banking deposits?",
+  "qHi": "बैंकिंग जमा के संदर्भ में 'CASA' शब्द का क्या अर्थ है?",
+  "optsEn": [
+   "Current Account Savings Account",
+   "Cash Asset Savings Asset",
+   "Capital Advance Standard Asset",
+   "Core Accounting System Application"
+  ],
+  "optsHi": [
+   "करेंट अकाउंट सेविंग्स अकाउंट",
+   "कैश एसेट सेविंग्स एसेट",
+   "कैपिटल एडवांस स्टैंडर्ड एसेट",
+   "कोर अकाउंटिंग सिस्टम एप्लीकेशन"
+  ],
+  "correct": 0,
+  "explainEn": "CASA ratio refers to the proportion of deposits that come from current and savings accounts, which are low-cost deposits for banks.",
+  "sourceHint": "RBI Financial Terms Glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:28:02Z"
+ },
+ {
+  "id": "q_3a2d5f29915f9cc2",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under which section of the Reserve Bank of India Act, 1934 is the Monetary Policy Committee constituted?",
+  "qHi": "भारतीय रिजर्व बैंक अधिनियम, 1934 की किस धारा के तहत मौद्रिक नीति समिति का गठन किया गया है?",
+  "optsEn": [
+   "Section 42",
+   "Section 45ZB",
+   "Section 22",
+   "Section 17"
+  ],
+  "optsHi": [
+   "धारा 42",
+   "धारा 45ZB",
+   "धारा 22",
+   "धारा 17"
+  ],
+  "correct": 1,
+  "explainEn": "Section 45ZB of the RBI Act, 1934 provides for the constitution of the six-member Monetary Policy Committee.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:28:02Z"
+ },
+ {
+  "id": "q_e37254f7ba8d3130",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum amount insured per depositor per bank by DICGC?",
+  "qHi": "DICGC द्वारा प्रति बैंक प्रति जमाकर्ता अधिकतम कितने की बीमा राशि प्रदान की जाती है?",
+  "optsEn": [
+   "One Lakh Rupees",
+   "Two Lakh Rupees",
+   "Five Lakh Rupees",
+   "Ten Lakh Rupees"
+  ],
+  "optsHi": [
+   "एक लाख रुपये",
+   "दो लाख रुपये",
+   "पाँच लाख रुपये",
+   "दस लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "Deposit Insurance and Credit Guarantee Corporation (DICGC) insures bank deposits up to a maximum of five lakh rupees per depositor per bank.",
+  "sourceHint": "DICGC Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:28:02Z"
+ },
+ {
+  "id": "q_073ed6a40b62a20c",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is the apex financial institution for export and import in India?",
+  "qHi": "भारत में निर्यात और आयात के लिए शीर्ष वित्तीय संस्था निम्नलिखित में से कौन सी है?",
+  "optsEn": [
+   "EXIM Bank",
+   "SIDBI",
+   "EXIM Corporation",
+   "NITI Aayog"
+  ],
+  "optsHi": [
+   "एक्सिम बैंक",
+   "सिडबी",
+   "एक्सिम कॉर्पोरेशन",
+   "नीति आयोग"
+  ],
+  "correct": 0,
+  "explainEn": "Export-Import Bank of India (EXIM Bank) is the premier export finance institution in the country, established in 1982.",
+  "sourceHint": "EXIM Bank Act, 1981",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:28:02Z"
+ },
+ {
+  "id": "q_ff6380d9bcbd2c84",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the Liquidity Adjustment Facility terms of the RBI?",
+  "qHi": "RBI की तरलता समायोजन सुविधा (LAF) शर्तों में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liability",
+   "Liquidity",
+   "Ledger",
+   "Leverage"
+  ],
+  "optsHi": [
+   "लायबिलिटी",
+   "लिक्विडिटी",
+   "लेजर",
+   "लीवेज"
+  ],
+  "correct": 1,
+  "explainEn": "LAF stands for Liquidity Adjustment Facility, which is a monetary policy tool used by the RBI.",
+  "sourceHint": "RBI Monetary Policy Documentation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:28:02Z"
+ },
+ {
+  "id": "q_373b97d88061dc65",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which market does the term 'Gilt-Edged Market' refer to?",
+  "qHi": "'गिल्ट-एज्ड मार्केट' शब्द किस बाजार को संदर्भित करता है?",
+  "optsEn": [
+   "Market for corporate bonds",
+   "Market for government securities",
+   "Market for bullion and gold",
+   "Market for foreign exchange"
+  ],
+  "optsHi": [
+   "कॉर्पोरेट बॉन्ड का बाजार",
+   "सरकारी प्रतिभूतियों का बाजार",
+   "बुलियन और सोने का बाजार",
+   "विदेशी मुद्रा का बाजार"
+  ],
+  "correct": 1,
+  "explainEn": "A gilt-edged market is a market where safe instruments like government securities and treasury bills are traded.",
+  "sourceHint": "Indian Economy by Ramesh Singh / NCERT",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:28:02Z"
+ },
+ {
+  "id": "q_52523784e32d159e",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the full form of NEFT in the Indian banking payment systems?",
+  "qHi": "भारतीय बैंकिंग भुगतान प्रणालियों में NEFT का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "National Electronic Fund Transfer",
+   "National Equity Financial Transaction",
+   "New Electronic Foreign Transfer",
+   "Network Exchange Fund Terminal"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड ट्रांसफर",
+   "नेशनल इक्विटी फाइनेंशियल ट्रांजैक्शन",
+   "न्यू इलेक्ट्रॉनिक फॉरेन ट्रांसफर",
+   "नेटवर्क एक्सचेंज फंड टर्मिनल"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Fund Transfer, a nationwide centralized payment system operated by the RBI.",
+  "sourceHint": "RBI Payment Systems Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:28:02Z"
  }
 ]

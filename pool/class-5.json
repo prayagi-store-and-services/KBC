@@ -222,5 +222,341 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-03T06:18:34Z"
+ },
+ {
+  "id": "q_034cbaa77ae6c69d",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the capital city of India?",
+  "qHi": "भारत की राजधानी कौन सा शहर है?",
+  "optsEn": [
+   "Mumbai",
+   "Kolkata",
+   "New Delhi",
+   "Chennai"
+  ],
+  "optsHi": [
+   "मुंबई",
+   "कोलकाता",
+   "नई दिल्ली",
+   "चेन्नई"
+  ],
+  "correct": 2,
+  "explainEn": "New Delhi is the capital of India and houses important government buildings like the Parliament House.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:27:32Z"
+ },
+ {
+  "id": "q_65d3653cc15a766d",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which part of a plant absorbs water and minerals from the soil?",
+  "qHi": "पौधे का कौन सा भाग मिट्टी से जल और खनिज सोखता है?",
+  "optsEn": [
+   "Leaf",
+   "Flower",
+   "Root",
+   "Stem"
+  ],
+  "optsHi": [
+   "पत्ती",
+   "फूल",
+   "जड़",
+   "ततना"
+  ],
+  "correct": 2,
+  "explainEn": "Roots grow underground and absorb water and essential nutrients from the soil for the plant.",
+  "sourceHint": "NCERT Class 3/4 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:27:32Z"
+ },
+ {
+  "id": "q_68ea7b534b693817",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "How many days are there in a leap year?",
+  "qHi": "लीप वर्ष में कितने दिन होते हैं?",
+  "optsEn": [
+   "365",
+   "366",
+   "364",
+   "360"
+  ],
+  "optsHi": [
+   "365",
+   "366",
+   "364",
+   "360"
+  ],
+  "correct": 1,
+  "explainEn": "A normal year has 365 days, but a leap year occurs once every four years and has 366 days, with February having 29 days.",
+  "sourceHint": "NCERT Class 4 Mathematics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:27:32Z"
+ },
+ {
+  "id": "q_1081534667569b69",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which animal is known as the King of the Jungle?",
+  "qHi": "किस जानवर को जंगल का राजा कहा जाता है?",
+  "optsEn": [
+   "Tiger",
+   "Elephant",
+   "Lion",
+   "Cheetah"
+  ],
+  "optsHi": [
+   "बाघ",
+   "हाथी",
+   "शेर",
+   "चीता"
+  ],
+  "correct": 2,
+  "explainEn": "The lion is traditionally referred to as the king of the jungle in stories and general awareness.",
+  "sourceHint": "NCERT Class 3 English/EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:27:32Z"
+ },
+ {
+  "id": "q_fd015aafe6c48fbc",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the main source of natural light on Earth during the day?",
+  "qHi": "दिन के समय पृथ्वी पर प्राकृतिक प्रकाश का मुख्य स्रोत क्या है?",
+  "optsEn": [
+   "The Moon",
+   "The Sun",
+   "Electric bulb",
+   "Stars"
+  ],
+  "optsHi": [
+   "चंद्रमा",
+   "सूर्य",
+   "बिजली का बल्ब",
+   "तारे"
+  ],
+  "correct": 1,
+  "explainEn": "The Sun is the star at the center of our solar system and is the primary natural source of light and heat for Earth.",
+  "sourceHint": "NCERT Class 3 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:27:32Z"
+ },
+ {
+  "id": "q_5b424e40e6e3eb22",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is a Kharif crop grown in India during the monsoon season?",
+  "qHi": "भारत में मानसून के मौसम में उगाई जाने वाली खरीफ की फसल निम्नलिखित में से कौन सी है?",
+  "optsEn": [
+   "Wheat",
+   "Rice",
+   "Barley",
+   "Mustard"
+  ],
+  "optsHi": [
+   "गेहूं",
+   "चावल",
+   "जौ",
+   "सरसों"
+  ],
+  "correct": 1,
+  "explainEn": "Rice is a major Kharif crop that requires a lot of water and is grown during the rainy season in India.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:28:32Z"
+ },
+ {
+  "id": "q_2ee05b3d7cf8349b",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary line of latitude that passes almost through the middle of India?",
+  "qHi": "भारत के लगभग बीच से गुजरने वाली मुख्य अक्षांश रेखा कौन सी है?",
+  "optsEn": [
+   "Equator",
+   "Tropic of Cancer",
+   "Tropic of Capricorn",
+   "Prime Meridian"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा",
+   "कर्क रेखा",
+   "मकर रेखा",
+   "प्रमुख मध्याह्न रेखा"
+  ],
+  "correct": 1,
+  "explainEn": "The Tropic of Cancer (23°30' N) passes almost halfway through the country.",
+  "sourceHint": "NCERT Class 5 Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:28:32Z"
+ },
+ {
+  "id": "q_bb6836710977386a",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organ in the human body purifies blood by filtering waste products to form urine?",
+  "qHi": "मानव शरीर में कौन सा अंग अपशिष्ट पदार्थों को छानकर मूत्र का निर्माण करता है और रक्त को शुद्ध करता है?",
+  "optsEn": [
+   "Heart",
+   "Lungs",
+   "Kidneys",
+   "Liver"
+  ],
+  "optsHi": [
+   "हृदय",
+   "फेफड़े",
+   "गुर्दे",
+   "यकृत"
+  ],
+  "correct": 2,
+  "explainEn": "Kidneys filter waste products from the blood and produce urine.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:28:32Z"
+ },
+ {
+  "id": "q_535a0acbd20495b5",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which historical monument in Agra was built by Mughal Emperor Shah Jahan in memory of his wife?",
+  "qHi": "आगरा में स्थित कौन सा ऐतिहासिक स्मारक मुगल सम्राट शाहजहाँ ने अपनी पत्नी की याद में बनवाया था?",
+  "optsEn": [
+   "Red Fort",
+   "Qutub Minar",
+   "Taj Mahal",
+   "Humayun's Tomb"
+  ],
+  "optsHi": [
+   "लाल किला",
+   "कुतुब मीनार",
+   "ताजमहल",
+   "हुमायूं का मकबरा"
+  ],
+  "correct": 2,
+  "explainEn": "The Taj Mahal was built by Shah Jahan on the banks of the Yamuna river in Agra for Mumtaz Mahal.",
+  "sourceHint": "NCERT Class 5 History and Culture",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:28:32Z"
+ },
+ {
+  "id": "q_cd170356271c096c",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the name of the natural satellite of planet Earth?",
+  "qHi": "पृथ्वी ग्रह के प्राकृतिक उपग्रह का नाम क्या है?",
+  "optsEn": [
+   "Titan",
+   "Moon",
+   "Europa",
+   "Phobos"
+  ],
+  "optsHi": [
+   "टाइटन",
+   "चंद्रमा",
+   "यूरोप",
+   "फोबोस"
+  ],
+  "correct": 1,
+  "explainEn": "The Moon is the only natural satellite of the Earth.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:28:32Z"
+ },
+ {
+  "id": "q_5a11eda3e9904d10",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which desert located in northwestern India is known for its arid climate and sand dunes?",
+  "qHi": "उत्तर-पश्चिम भारत में स्थित कौन सा मरुस्थल अपनी शुष्क जलवायु और रेत के टीलों के लिए जाना जाता है?",
+  "optsEn": [
+   "Thar Desert",
+   "Sahara Desert",
+   "Gobi Desert",
+   "Kalahari Desert"
+  ],
+  "optsHi": [
+   "थार मरुस्थल",
+   "सहारा मरुस्थल",
+   "गोबी मरुस्थल",
+   "कालाहारी मरुस्थल"
+  ],
+  "correct": 0,
+  "explainEn": "The Thar Desert, also known as the Great Indian Desert, is located in the northwestern part of India.",
+  "sourceHint": "NCERT Class 5 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:28:32Z"
+ },
+ {
+  "id": "q_0d3ad83190931d4d",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin is primarily obtained by the human body through exposure to sunlight?",
+  "qHi": "मानव शरीर को धूप के संपर्क में आने से मुख्य रूप से कौन सा विटामिन प्राप्त होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Vitamin D is synthesized in the skin when exposed to ultraviolet rays from sunlight.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:28:32Z"
  }
 ]

@@ -166,5 +166,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-03T06:20:37Z"
+ },
+ {
+  "id": "q_3f822dfe360b4bae",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which Article of the Indian Constitution defines the right to equality before law?",
+  "qHi": "भारतीय संविधान का कौन सा अनुच्छेद कानून के समक्ष समानता के अधिकार को परिभाषित करता है?",
+  "optsEn": [
+   "Article 12",
+   "Article 14",
+   "Article 19",
+   "Article 21"
+  ],
+  "optsHi": [
+   "अनुच्छेद 12",
+   "अनुच्छेद 14",
+   "अनुच्छेद 19",
+   "अनुच्छेद 21"
+  ],
+  "correct": 1,
+  "explainEn": "Article 14 of the Indian Constitution states that the State shall not deny to any person equality before the law or the equal protection of the laws.",
+  "sourceHint": "Constitution of India, Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:27:18Z"
+ },
+ {
+  "id": "q_3fa9dde2cb1a30fe",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "The famous monument Gateway of India is located in which city?",
+  "qHi": "प्रसिद्ध स्मारक गेटवे ऑफ़ इंडिया किस शहर में स्थित है?",
+  "optsEn": [
+   "New Delhi",
+   "Kolkata",
+   "Mumbai",
+   "Chennai"
+  ],
+  "optsHi": [
+   "नई दिल्ली",
+   "कोलकाता",
+   "मुंबई",
+   "चेन्नई"
+  ],
+  "correct": 2,
+  "explainEn": "The Gateway of India is an arch-monument built during the 20th century in Mumbai.",
+  "sourceHint": "NCERT History / Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:27:18Z"
+ },
+ {
+  "id": "q_ce227b516d28d9b8",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who was the first Indian woman to go into space?",
+  "qHi": "अंतरिक्ष में जाने वाली पहली भारतीय महिला कौन थीं?",
+  "optsEn": [
+   "Sunita Williams",
+   "Kalpana Chawla",
+   "Tessy Thomas",
+   "Durba Banerjee"
+  ],
+  "optsHi": [
+   "सुनीता विलियम्स",
+   "कल्पना चावला",
+   "टेसी थॉमस",
+   "दुर्बा बनर्जी"
+  ],
+  "correct": 1,
+  "explainEn": "Kalpana Chawla was an American astronaut and engineer who was the first woman of Indian origin to go to space.",
+  "sourceHint": "ISRO / Public Records",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:27:18Z"
+ },
+ {
+  "id": "q_511b3ea40146cef5",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Bihu is a traditional dance and festival associated with which Indian state?",
+  "qHi": "बिहू किस भारतीय राज्य से संबंधित एक पारंपरिक नृत्य और उत्सव है?",
+  "optsEn": [
+   "Punjab",
+   "Kerala",
+   "Assam",
+   "Odisha"
+  ],
+  "optsHi": [
+   "पंजाब",
+   "केरल",
+   "असम",
+   "ओडिशा"
+  ],
+  "correct": 2,
+  "explainEn": "Bihu is a set of three cultural festivals of Assam and represents the folk dance associated with it.",
+  "sourceHint": "NCERT Art and Culture",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:27:18Z"
+ },
+ {
+  "id": "q_6bae47a7405912bc",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the standard unit of measurement for electrical resistance?",
+  "qHi": "विद्युत प्रतिरोध की माप की मानक इकाई क्या है?",
+  "optsEn": [
+   "Volt",
+   "Ampere",
+   "Ohm",
+   "Watt"
+  ],
+  "optsHi": [
+   "वोल्ट",
+   "एम्पियर",
+   "ओम",
+   "वाट"
+  ],
+  "correct": 2,
+  "explainEn": "The ohm is the SI unit of electrical resistance, named after physicist Georg Ohm.",
+  "sourceHint": "NCERT Science Class 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:27:18Z"
+ },
+ {
+  "id": "q_78e93ae6b7c43cd3",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following mountain passes connects Srinagar with Leh?",
+  "qHi": "निम्नलिखित में से कौन सा दर्रा श्रीनगर को लेह से जोड़ता है?",
+  "optsEn": [
+   "Zoji La",
+   "Shipki La",
+   "Nathu La",
+   "Bara-lacha La"
+  ],
+  "optsHi": [
+   "जोजी ला",
+   "शिपकी ला",
+   "नाथू ला",
+   "बाड़ा-लाचा ला"
+  ],
+  "correct": 0,
+  "explainEn": "Zoji La is a high mountain pass in Ladakh, situated on the Srinagar-Leh highway in the Himalayan mountain range.",
+  "sourceHint": "NCERT Class 11 Geography - India: Physical Environment",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:27:56Z"
+ },
+ {
+  "id": "q_5de70b54e905ba9c",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The Tropic of Cancer passes through which of the following groups of Indian states?",
+  "qHi": "कर्क रेखा निम्नलिखित में से किस भारतीय राज्य समूह से होकर गुजरती है?",
+  "optsEn": [
+   "Gujarat, Madhya Pradesh, Chhattisgarh, Jharkhand",
+   "Rajasthan, Punjab, Himachal Pradesh, Bihar",
+   "Maharashtra, Odisha, West Bengal, Assam",
+   "Uttar Pradesh, Madhya Pradesh, Bihar, Tripura"
+  ],
+  "optsHi": [
+   "गुजरात, मध्य प्रदेश, छत्तीसगढ़, झारखंड",
+   "राजस्थान, पंजाब, हिमाचल प्रदेश, बिहार",
+   "महाराष्ट्र, ओडिशा, पश्चिम बंगाल, असम",
+   "उत्तर प्रदेश, मध्य प्रदेश, बिहार, त्रिपुरा"
+  ],
+  "correct": 0,
+  "explainEn": "The Tropic of Cancer (23.30° N) passes through eight Indian states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram.",
+  "sourceHint": "NCERT Class 9 Geography - Contemporary India I",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:27:56Z"
+ },
+ {
+  "id": "q_eda8fbb0fb328503",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Article of the Indian Constitution provides for the appointment of the Prime Minister and other Ministers?",
+  "qHi": "भारतीय संविधान का कौन सा अनुच्छेद प्रधानमंत्री और अन्य मंत्रियों की नियुक्ति का प्रावधान करता है?",
+  "optsEn": [
+   "Article 75",
+   "Article 65",
+   "Article 80",
+   "Article 56"
+  ],
+  "optsHi": [
+   "अनुच्छेद 75",
+   "अनुच्छेद 65",
+   "अनुच्छेद 80",
+   "अनुच्छेद 56"
+  ],
+  "correct": 0,
+  "explainEn": "Article 75 of the Indian Constitution states that the Prime Minister shall be appointed by the President and the other Ministers shall be appointed by the President on the advice of the Prime Minister.",
+  "sourceHint": "Constitution of India, Part V",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:27:56Z"
+ },
+ {
+  "id": "q_d0a3336f59e9a9c9",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "During whose viceroyalty was the Vernacular Press Act enacted in 1878?",
+  "qHi": "किस वायसराय के कार्यकाल के दौरान 1878 में वर्नाक्युलर प्रेस एक्ट पारित किया गया था?",
+  "optsEn": [
+   "Lord Lytton",
+   "Lord Ripon",
+   "Lord Curzon",
+   "Lord Dufferin"
+  ],
+  "optsHi": [
+   "लॉर्ड लिटन",
+   "लॉर्ड रिपन",
+   "लॉर्ड कर्ज़न",
+   "लॉर्ड डफरिन"
+  ],
+  "correct": 0,
+  "explainEn": "The Vernacular Press Act of 1878 was enacted during the viceroyalty of Lord Lytton to curtail the freedom of the Indian-language press.",
+  "sourceHint": "NCERT Class 12 History - Themes in Indian History Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:27:56Z"
+ },
+ {
+  "id": "q_d03dba7bf42a5a07",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is the highest waterfall in India?",
+  "qHi": "निम्नलिखित में से भारत का सबसे ऊँचा जलप्रपात कौन सा है?",
+  "optsEn": [
+   "Kunchikal Falls",
+   "Jog Falls",
+   "Dudhsagar Falls",
+   "Nohkalikai Falls"
+  ],
+  "optsHi": [
+   "कुंचिकल जलप्रपात",
+   "जोग जलप्रपात",
+   "दुधसागर जलप्रपात",
+   "नोहकलिकाई जलप्रपात"
+  ],
+  "correct": 0,
+  "explainEn": "Kunchikal Falls, located in the Shimoga district of Karnataka, is the highest waterfall in India, formed by the Varahi river.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:27:56Z"
+ },
+ {
+  "id": "q_bbe8150366ff9db5",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary gas responsible for the greenhouse effect on the planet Venus?",
+  "qHi": "शुक्र ग्रह पर ग्रीनहाउस प्रभाव के लिए उत्तरदायी मुख्य गैस कौन सी है?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Methane",
+   "Nitrogen",
+   "Oxygen"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "मीथेन",
+   "नाइट्रोजन",
+   "ऑक्सीजन"
+  ],
+  "correct": 0,
+  "explainEn": "The atmosphere of Venus is composed of about 96.5% carbon dioxide, which creates a runaway greenhouse effect making it the hottest planet.",
+  "sourceHint": "NCERT Class 6 Geography - The Earth in Our Solar System",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:27:56Z"
+ },
+ {
+  "id": "q_283b2383a02b84ca",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The Battle of Buxar was fought in which year?",
+  "qHi": "बक्सर का युद्ध किस वर्ष लड़ा गया था?",
+  "optsEn": [
+   "1764",
+   "1757",
+   "1761",
+   "1770"
+  ],
+  "optsHi": [
+   "1764",
+   "1757",
+   "1761",
+   "1770"
+  ],
+  "correct": 0,
+  "explainEn": "The Battle of Buxar was fought on October 22, 1764, between the British forces led by Hector Munro and the combined army of Mir Kasim, Shuja-ud-Daula, and Shah Alam II.",
+  "sourceHint": "NCERT Class 8 History - Our Pasts III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:27:56Z"
+ },
+ {
+  "id": "q_0809bb47f7e2ec4e",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organelle in a plant cell is responsible for photosynthesis?",
+  "qHi": "पादप कोशिका का कौन सा अंगक प्रकाश संश्लेषण के लिए उत्तरदायी है?",
+  "optsEn": [
+   "Chloroplast",
+   "Mitochondria",
+   "Ribosome",
+   "Golgi apparatus"
+  ],
+  "optsHi": [
+   "हरित लवक (क्लोरोप्लास्ट)",
+   "माइटोकॉन्ड्रिया",
+   "राइबोसोम",
+   "गॉल्जीकाय"
+  ],
+  "correct": 0,
+  "explainEn": "Chloroplasts contain chlorophyll which absorbs sunlight and carries out photosynthesis in plant cells.",
+  "sourceHint": "NCERT Class 9 Science - Fundamental Unit of Life",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:27:56Z"
  }
 ]

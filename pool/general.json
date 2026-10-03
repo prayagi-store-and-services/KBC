@@ -1,1 +1,422 @@
-[]
+[
+ {
+  "id": "q_5d1c7d864b4a2a56",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which planet is known as the Red Planet?",
+  "qHi": "किस ग्रह को लाल ग्रह के रूप में जाना जाता है?",
+  "optsEn": [
+   "Venus",
+   "Mars",
+   "Jupiter",
+   "Saturn"
+  ],
+  "optsHi": [
+   "शुक्र",
+   "मंगल",
+   "बृहस्पति",
+   "शनि"
+  ],
+  "correct": 1,
+  "explainEn": "Mars appears red due to iron oxide prevalent on its surface.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:27:28Z"
+ },
+ {
+  "id": "q_67c6fd262f83d995",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the national flower of India?",
+  "qHi": "भारत का राष्ट्रीय फूल कौन सा है?",
+  "optsEn": [
+   "Rose",
+   "Lotus",
+   "Marigold",
+   "Sunflower"
+  ],
+  "optsHi": [
+   "गुलाब",
+   "कमल",
+   "गेंदा",
+   "सूरजमुखी"
+  ],
+  "correct": 1,
+  "explainEn": "The lotus flower (Nelumbo nucifera) is the national flower of India.",
+  "sourceHint": "Government of India Portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:27:28Z"
+ },
+ {
+  "id": "q_5bd30ce7e629ccd5",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which city is known as the Pink City of India?",
+  "qHi": "भारत के किस शहर को गुलाबी शहर कहा जाता है?",
+  "optsEn": [
+   "Jodhpur",
+   "Udaipur",
+   "Jaipur",
+   "Bikaner"
+  ],
+  "optsHi": [
+   "जोधपुर",
+   "उदयपुर",
+   "जयपुर",
+   "बीकानेर"
+  ],
+  "correct": 2,
+  "explainEn": "Jaipur is famously known as the Pink City due to the distinct color of its buildings.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:27:28Z"
+ },
+ {
+  "id": "q_54d628f0730b8624",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the Indian National Anthem, 'Jana Gana Mana'?",
+  "qHi": "भारत का राष्ट्रीय गान 'जन गण मन' किसने लिखा था?",
+  "optsEn": [
+   "Bankim Chandra Chatterjee",
+   "Rabindranath Tagore",
+   "Mahatma Gandhi",
+   "Subhash Chandra Bose"
+  ],
+  "optsHi": [
+   "बंकिम चंद्र चटर्जी",
+   "रविंद्रनाथ टैगोर",
+   "महात्मा गांधी",
+   "सुभाष चंद्र बोस"
+  ],
+  "correct": 1,
+  "explainEn": "Rabindranath Tagore originally composed the national anthem in Bengali.",
+  "sourceHint": "Constitution of India Constituent Assembly Debates",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:27:28Z"
+ },
+ {
+  "id": "q_52217c510a2c23c4",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which is the longest river in India?",
+  "qHi": "भारत की सबसे लंबी नदी कौन सी है?",
+  "optsEn": [
+   "Yamuna",
+   "Brahmaputra",
+   "Ganga",
+   "Godavari"
+  ],
+  "optsHi": [
+   "यमुना",
+   "ब्रह्मपुत्र",
+   "गंगा",
+   "गोदावरी"
+  ],
+  "correct": 2,
+  "explainEn": "The Ganga is the longest river originating within India, spanning over 2,500 kilometers.",
+  "sourceHint": "NCERT Geography Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:27:28Z"
+ },
+ {
+  "id": "q_38fb2f938785dab3",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which state is the Kaziranga National Park located?",
+  "qHi": "काजीरंगा राष्ट्रीय उद्यान किस राज्य में स्थित है?",
+  "optsEn": [
+   "Assam",
+   "Kerala",
+   "Gujarat",
+   "Uttarakhand"
+  ],
+  "optsHi": [
+   "असम",
+   "केरल",
+   "गुजरात",
+   "उत्तराखंड"
+  ],
+  "correct": 0,
+  "explainEn": "Kaziranga National Park is located in the state of Assam and hosts the world's largest population of great Indian one-horned rhinoceroses.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change, PIB",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:27:28Z"
+ },
+ {
+  "id": "q_7bea422cb104a46b",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the chemical symbol for gold?",
+  "qHi": "सोने का रासायनिक प्रतीक क्या है?",
+  "optsEn": [
+   "Ag",
+   "Au",
+   "Pb",
+   "Fe"
+  ],
+  "optsHi": [
+   "Ag",
+   "Au",
+   "Pb",
+   "Fe"
+  ],
+  "correct": 1,
+  "explainEn": "Au stands for aurum, the Latin word for gold.",
+  "sourceHint": "NCERT Chemistry Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:27:28Z"
+ },
+ {
+  "id": "q_07640dc9ba400391",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which classical dance form originates from Kerala?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप केरल से उत्पन्न हुआ है?",
+  "optsEn": [
+   "Kathak",
+   "Bharatanatyam",
+   "Kathakali",
+   "Odissi"
+  ],
+  "optsHi": [
+   "कथक",
+   "भरतनाट्यम",
+   "कथकली",
+   "ओडिसी"
+  ],
+  "correct": 2,
+  "explainEn": "Kathakali is a major form of classical Indian dance known for its elaborate costumes and makeup, originating in Kerala.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:27:28Z"
+ },
+ {
+  "id": "q_0819fe212bdaf072",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian state is the largest producer of coffee?",
+  "qHi": "कौन सा भारतीय राज्य कॉफी का सबसे बड़ा उत्पादक है?",
+  "optsEn": [
+   "Kerala",
+   "Tamil Nadu",
+   "Karnataka",
+   "Andhra Pradesh"
+  ],
+  "optsHi": [
+   "केरल",
+   "तमिलनाडु",
+   "कर्नाटक",
+   "आंध्र प्रदेश"
+  ],
+  "correct": 2,
+  "explainEn": "Karnataka accounts for over 70 percent of India's total coffee production, primarily grown in the hill districts of Kodagu, Chikkamagaluru, and Hassan.",
+  "sourceHint": "Coffee Board of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:28:27Z"
+ },
+ {
+  "id": "q_01940bd6f5b2f718",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The classical dance form of Kathakali originated in which state?",
+  "qHi": "शास्त्रीय नृत्य शैली कथकली की उत्पत्ति किस राज्य में हुई थी?",
+  "optsEn": [
+   "Andhra Pradesh",
+   "Kerala",
+   "Odisha",
+   "Uttar Pradesh"
+  ],
+  "optsHi": [
+   "आंध्र प्रदेश",
+   "केरल",
+   "ओडिशा",
+   "उत्तर प्रदेश"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a major form of classical Indian dance that originated in the southern state of Kerala, known for its elaborate makeup and costumes.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:28:27Z"
+ },
+ {
+  "id": "q_08bbcd4ecbcf8074",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the famous novel 'Godan'?",
+  "qHi": "प्रसिद्ध उपन्यास 'गोदान' किसने लिखा था?",
+  "optsEn": [
+   "Munshi Premchand",
+   "Rabindranath Tagore",
+   "Bankim Chandra Chattopadhyay",
+   "R. K. Narayan"
+  ],
+  "optsHi": [
+   "मुंशी प्रेमचंद",
+   "रवींद्रनाथ टैगोर",
+   "बंकिम चंद्र चट्टोपाध्याय",
+   "आर. के. नारायण"
+  ],
+  "correct": 0,
+  "explainEn": "'Godan' is a Hindi novel by Munshi Premchand, widely regarded as one of the greatest Hindi novels of modern Indian literature.",
+  "sourceHint": "NCERT Hindi Literature",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:28:27Z"
+ },
+ {
+  "id": "q_1c1de7d38f19ef97",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which chemical element has the symbol 'Fe'?",
+  "qHi": "किस रासायनिक तत्व का प्रतीक 'Fe' है?",
+  "optsEn": [
+   "Fluorine",
+   "Iron",
+   "Francium",
+   "Fermium"
+  ],
+  "optsHi": [
+   "फ्लोरिन",
+   "लोहा (आयरन)",
+   "फ्रांसियम",
+   "फर्मियम"
+  ],
+  "correct": 1,
+  "explainEn": "The symbol 'Fe' comes from the Latin word for iron, 'ferrum'.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:28:27Z"
+ },
+ {
+  "id": "q_178f956a249a1c9a",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which year did India conduct its first nuclear test, code-named Smiling Buddha?",
+  "qHi": "भारत ने किस वर्ष अपना पहला परमाणु परीक्षण किया था, जिसका कूट नाम स्माइलिंग बुद्धा था?",
+  "optsEn": [
+   "1971",
+   "1974",
+   "1982",
+   "1998"
+  ],
+  "optsHi": [
+   "1971",
+   "1974",
+   "1982",
+   "1998"
+  ],
+  "correct": 1,
+  "explainEn": "India conducted its first successful nuclear bomb test on May 18, 1974, at the Pokhran Test Range in Rajasthan.",
+  "sourceHint": "Department of Atomic Energy, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:28:27Z"
+ },
+ {
+  "id": "q_7fcdf5e0b009fc24",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which mountain range separates the Indian subcontinent from the Tibetan Plateau?",
+  "qHi": "कौन सी पर्वत श्रृंखला भारतीय उपमहाद्वीप को तिब्बती पठार से अलग करती है?",
+  "optsEn": [
+   "Aravalli",
+   "Vindhya",
+   "Himalayas",
+   "Satpura"
+  ],
+  "optsHi": [
+   "अरावली",
+   "विंध्य",
+   "हिमालय",
+   "सतपुड़ा"
+  ],
+  "correct": 2,
+  "explainEn": "The Himalayas form a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:28:27Z"
+ },
+ {
+  "id": "q_113eb69b762a148b",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the standard unit of electrical resistance?",
+  "qHi": "विद्युत प्रतिरोध की मानक इकाई क्या है?",
+  "optsEn": [
+   "Volt",
+   "Ampere",
+   "Ohm",
+   "Watt"
+  ],
+  "optsHi": [
+   "वोल्ट",
+   "एम्पियर",
+   "ओम",
+   "वाट"
+  ],
+  "correct": 2,
+  "explainEn": "The ohm is the SI derived unit of electrical resistance, named after the German physicist Georg Ohm.",
+  "sourceHint": "NCERT Physics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:28:27Z"
+ }
+]
