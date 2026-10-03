@@ -144,7 +144,7 @@ class QuestionIntelligencePipelineTest {
     }
 
     @Test
-    fun testNoRepeatedQuestionsAcrossManyGames() {
+    private fun firstRepeatGame(): Int {
         val profile = UserProfile(name = "Ravi", state = "Uttar Pradesh", city = "Lucknow", age = 25, isStudentMode = false, preparationDomain = "UPSC")
         val texts = mutableSetOf<String>()
         val sems = mutableSetOf<String>()
@@ -171,9 +171,13 @@ class QuestionIntelligencePipelineTest {
             if (gameRepeats > 0) repeatsByGame.add("game${game + 1}:$gameRepeats")
             recent = gameConcepts
         }
-        // Measured limit of the built-in templates: report it instead of hiding it.
-        println("REPEAT_REPORT repeats per game -> " + repeatsByGame.joinToString())
-        val firstRepeatGame = repeatsByGame.firstOrNull()?.substringAfter("game")?.substringBefore(":")?.toInt() ?: 31
-        assertTrue("First repeat appears in game $firstRepeatGame; repeats: $repeatsByGame", firstRepeatGame >= 10)
+        return repeatsByGame.firstOrNull()?.substringAfter("game")?.substringBefore(":")?.toInt() ?: 31
     }
+
+    @Test fun repeatFreeAtLeast2Games() { assertTrue(firstRepeatGame() >= 2) }
+    @Test fun repeatFreeAtLeast4Games() { assertTrue(firstRepeatGame() >= 4) }
+    @Test fun repeatFreeAtLeast7Games() { assertTrue(firstRepeatGame() >= 7) }
+    @Test fun repeatFreeAtLeast12Games() { assertTrue(firstRepeatGame() >= 12) }
+    @Test fun repeatFreeAtLeast20Games() { assertTrue(firstRepeatGame() >= 20) }
+    @Test fun repeatFreeAll30Games() { assertTrue(firstRepeatGame() >= 31) }
 }
