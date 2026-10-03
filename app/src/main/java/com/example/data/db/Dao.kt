@@ -23,6 +23,9 @@ interface QuestionDao {
     @Query("SELECT conceptFingerprint FROM question_registry WHERE conceptFingerprint != ''")
     suspend fun getAllServedConceptFingerprints(): List<String>
 
+    @Query("SELECT conceptFingerprint FROM question_registry WHERE conceptFingerprint != '' ORDER BY usedAt DESC LIMIT 17")
+    suspend fun getRecentConceptFingerprints(): List<String>
+
     @Query("SELECT normalizedQuestionText FROM question_registry WHERE normalizedQuestionText != ''")
     suspend fun getAllServedNormalizedTexts(): List<String>
 
@@ -149,4 +152,3 @@ interface SessionBankCacheDao {
     @Query("DELETE FROM session_question_bank_cache WHERE createdAt < :cutoffTimeMillis OR isInvalidated = 1 OR status IN ('COMPLETED', 'FAILED', 'INVALIDATED')")
     suspend fun pruneOldSessionBanks(cutoffTimeMillis: Long): Int
 }
-
