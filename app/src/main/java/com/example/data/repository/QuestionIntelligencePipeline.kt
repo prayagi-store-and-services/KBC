@@ -234,7 +234,8 @@ class QuestionIntelligencePipeline(
             servedNormalizedTexts = servedNormTexts,
             servedSemanticFingerprints = servedSemFps,
             servedLogicFingerprints = servedLogicFps,
-            servedConceptFingerprints = servedConceptFps
+            servedConceptFingerprints = servedConceptFps,
+            recentConceptFingerprints = questionDao.getRecentConceptFingerprints().map { it.trim().lowercase() }.toSet()
         )
 
         // Fetch available current affairs and regional knowledge from DB once
