@@ -1118,5 +1118,649 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-03T07:40:43Z"
+ },
+ {
+  "id": "q_e0873c1c1a3cdd31",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'I' stand for in the acronym IFSC, which is used in electronic fund transfers in India?",
+  "qHi": "भारत में इलेक्ट्रॉनिक फंड ट्रांसफर में उपयोग होने वाले संक्षिप्त नाम IFSC में अक्षर 'I' का क्या अर्थ है?",
+  "optsEn": [
+   "Indian",
+   "International",
+   "Interbank",
+   "Institutional"
+  ],
+  "optsHi": [
+   "इंडियन (Indian)",
+   "इंटरनेशनल (International)",
+   "इंटरबैंक (Interbank)",
+   "इंस्टीट्यूशनल (Institutional)"
+  ],
+  "correct": 0,
+  "explainEn": "IFSC stands for Indian Financial System Code, which is an 11-character alphanumeric code used for NEFT, RTGS, and IMPS transactions.",
+  "sourceHint": "Reserve Bank of India website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:18:49Z"
+ },
+ {
+  "id": "q_85ea779ea6385daf",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which institution regulates the mutual funds market in India?",
+  "qHi": "भारत में म्यूचुअल फंड बाजार को कौन सी संस्था नियंत्रित करती है?",
+  "optsEn": [
+   "RBI",
+   "SEBI",
+   "IRDAI",
+   "NABARD"
+  ],
+  "optsHi": [
+   "आरबीआई (RBI)",
+   "सेबी (SEBI)",
+   "इरडाई (IRDAI)",
+   "नाबार्ड (NABARD)"
+  ],
+  "correct": 1,
+  "explainEn": "SEBI (Securities and Exchange Board of India) is the statutory regulatory body established to protect the interests of investors in securities and to promote the development of the securities market, including mutual funds.",
+  "sourceHint": "SEBI Act, 1992",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:18:49Z"
+ },
+ {
+  "id": "q_2ca214d407ef1866",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum deposit amount per depositor protected by DICGC in a scheduled commercial bank in India?",
+  "qHi": "भारत में एक अनुसूचित वाणिज्यिक बैंक में DICGC द्वारा बीमाकृत प्रति जमाकर्ता अधिकतम जमा राशि कितनी है?",
+  "optsEn": [
+   "One lakh rupees",
+   "Two lakh rupees",
+   "Three lakh rupees",
+   "Five lakh rupees"
+  ],
+  "optsHi": [
+   "एक लाख रुपये",
+   "दो लाख रुपये",
+   "तीन लाख रुपये",
+   "पाँच लाख रुपये"
+  ],
+  "correct": 3,
+  "explainEn": "Deposit Insurance and Credit Guarantee Corporation (DICGC) insures all bank deposits up to a maximum of 5 lakh rupees per depositor per bank.",
+  "sourceHint": "DICGC official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:18:49Z"
+ },
+ {
+  "id": "q_16535fe3fffdbda4",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which term is used to describe the interest rate at which the Reserve Bank of India lends short-term funds to commercial banks?",
+  "qHi": "उस ब्याज दर को क्या कहा जाता है जिस पर भारतीय रिजर्व बैंक वाणिज्यिक बैंकों को अल्पकालिक ऋण देता है?",
+  "optsEn": [
+   "Repo Rate",
+   "Reverse Repo Rate",
+   "Bank Rate",
+   "CRR"
+  ],
+  "optsHi": [
+   "रेपो रेट (Repo Rate)",
+   "रिवर्स रेपो रेट (Reverse Repo Rate)",
+   "बैंक रेट (Bank Rate)",
+   "सीआरआर (CRR)"
+  ],
+  "correct": 0,
+  "explainEn": "Repo Rate is the rate at which the central bank of a country (RBI in India) lends money to commercial banks in the event of any shortfall of funds.",
+  "sourceHint": "RBI Monetary Policy terminology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:18:49Z"
+ },
+ {
+  "id": "q_c3e2c4ca41f6a639",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'S' stand for in the financial term 'ASBA', used during Initial Public Offerings (IPOs)?",
+  "qHi": "प्रारंभिक सार्वजनिक पेशकश (IPO) के दौरान उपयोग किए जाने वाले वित्तीय शब्द 'ASBA' में अक्षर 'S' का क्या अर्थ है?",
+  "optsEn": [
+   "Securities",
+   "Blocked",
+   "System",
+   "Savings"
+  ],
+  "optsHi": [
+   "सिक्योरिटीज (Securities)",
+   "ब्लॉक्ड (Blocked)",
+   "सिस्टम (System)",
+   "सेविंग्स (Savings)"
+  ],
+  "correct": 1,
+  "explainEn": "ASBA stands for Application Supported by Blocked Amount, an application for subscribing to an issue, containing an authorization to block the application money in a bank account.",
+  "sourceHint": "SEBI guidelines on IPOs",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:18:49Z"
+ },
+ {
+  "id": "q_c0ea40591d7a4da2",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization regulates housing finance companies in India?",
+  "qHi": "भारत में आवास वित्त कंपनियों (Housing Finance Companies) को कौन सी संस्था नियंत्रित करती है?",
+  "optsEn": [
+   "NHB",
+   "RBI",
+   "SIDBI",
+   "EXIM Bank"
+  ],
+  "optsHi": [
+   "एनएचबी (NHB)",
+   "आरबीआई (RBI)",
+   "सिडबी (SIDBI)",
+   "एक्जिम बैंक (EXIM Bank)"
+  ],
+  "correct": 1,
+  "explainEn": "Regulation and supervision of Housing Finance Companies (HFCs) was transferred from the National Housing Bank (NHB) to the Reserve Bank of India (RBI) under the Finance Act 2019.",
+  "sourceHint": "RBI Notification and Amendment to National Housing Bank Act",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:18:49Z"
+ },
+ {
+  "id": "q_daf8499ce78535f7",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of NEFT in the Indian banking system?",
+  "qHi": "भारतीय बैंकिंग प्रणाली में NEFT का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "National Electronic Fund Transfer",
+   "National Economic Financial Transaction",
+   "New Electronic Fund Transmission",
+   "National Exchange of Funds and Transfers"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड ट्रांसफर",
+   "नेशनल इकोनॉमिक फाइनेंशियल ट्रांजैक्शन",
+   "न्यू इलेक्ट्रॉनिक फंड ट्रांसमिशन",
+   "नेशनल एक्सचेंज ऑफ फंड्स एंड ट्रांसफर"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Fund Transfer, an online system for transferring funds from one bank account to another in India.",
+  "sourceHint": "Reserve Bank of India payment systems",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:18:49Z"
+ },
+ {
+  "id": "q_2679320e58ad0317",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'C' stand for in the abbreviation CASS, often used in the context of bank accounts?",
+  "qHi": "बैंक खातों के संदर्भ में उपयोग किए जाने वाले संक्षिप्त नाम CASS में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Current",
+   "Central",
+   "Credit",
+   "Collateral"
+  ],
+  "optsHi": [
+   "Current",
+   "Central",
+   "Credit",
+   "Collateral"
+  ],
+  "correct": 0,
+  "explainEn": "CASS standsfor Current Account Switch Service, which simplifies switching current accounts between banks.",
+  "sourceHint": "RBI Financial Glossary and Banking Norms",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:19:30Z"
+ },
+ {
+  "id": "q_1d776a7c8afc6525",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India regulates the Credit Information Companies (CICs)?",
+  "qHi": "भारत में कौन सा संगठन क्रेडिट सूचना कंपनियों (CIC) को विनियमित करता है?",
+  "optsEn": [
+   "SEBI",
+   "RBI",
+   "IRDAI",
+   "SIDBI"
+  ],
+  "optsHi": [
+   "सेबी (SEBI)",
+   "भारतीय रिजर्व बैंक (RBI)",
+   "इrdai (IRDAI)",
+   "सिडबी (SIDBI)"
+  ],
+  "correct": 1,
+  "explainEn": "Credit Information Companies in India are regulated by the Reserve Bank of India under the Credit Information Companies (Regulation) Act, 2005.",
+  "sourceHint": "Reserve Bank of India Act and CICRA",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:19:30Z"
+ },
+ {
+  "id": "q_db82f310ab42e3b2",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of international trade, what does the term 'NOSTRO' account refer to?",
+  "qHi": "अंतर्राष्ट्रीय व्यापार के संदर्भ में, 'नोस्ट्रो' (NOSTRO) खाते से क्या तात्पर्य है?",
+  "optsEn": [
+   "An account held by a foreign bank in India in domestic currency",
+   "An account held by an Indian bank in a foreign bank abroad in foreign currency",
+   "An account held by an individual for non-resident deposits",
+   "An account used exclusively for central bank monetary policy operations"
+  ],
+  "optsHi": [
+   "भारत में किसी विदेशी बैंक द्वारा घरेलू मुद्रा में रखा गया खाता",
+   "किसी भारतीय बैंक द्वारा विदेश में किसी विदेशी बैंक में विदेशी मुद्रा में रखा गया खाता",
+   "अनिवासी जमा के लिए किसी व्यक्ति द्वारा रखा गया खाता",
+   "विशेष रूप से केंद्रीय बैंक के मौद्रिक नीति संचालन के लिए उपयोग किया जाने वाला खाता"
+  ],
+  "correct": 1,
+  "explainEn": "A Nostro account is an account held by a domestic bank in a foreign bank in a foreign currency.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) Study Material",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:19:30Z"
+ },
+ {
+  "id": "q_2cee809797511465",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum deposit amount insured by the Deposit Insurance and Credit Guarantee Corporation (DICGC) per depositor per bank?",
+  "qHi": "डिपॉजिट इंश्योरेंस एंड क्रेडिट गारंटी कॉरपोरेशन (DICGC) द्वारा प्रति जमाकर्ता प्रति बैंक अधिकतम कितनी बीमा राशि प्रदान की जाती है?",
+  "optsEn": [
+   "Rupees 1 Lakh",
+   "Rupees 2 Lakhs",
+   "Rupees 5 Lakhs",
+   "Rupees 10 Lakhs"
+  ],
+  "optsHi": [
+   "1 लाख रुपये",
+   "2 लाख रुपये",
+   "5 लाख रुपये",
+   "10 लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "DICGC insures all bank deposits up to a maximum of Rupees 5 Lakhs per depositor per bank.",
+  "sourceHint": "DICGC Official Website and RBI Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:19:30Z"
+ },
+ {
+  "id": "q_a778fcacc305154b",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following money market instruments has a maturity period of less than 15 days?",
+  "qHi": "निम्नलिखित में से किस मुद्रा बाजार उपकरण की परिपक्वता अवधि 15 दिन से कम होती है?",
+  "optsEn": [
+   "Certificate of Deposit",
+   "Call Money",
+   "Commercial Paper",
+   "Treasury Bill"
+  ],
+  "optsHi": [
+   "प्रमाण पत्र (Certificate of Deposit)",
+   "कॉल मनी (Call Money)",
+   "वाणिज्यिक पत्र (Commercial Paper)",
+   "राजकोषीय बिल (Treasury Bill)"
+  ],
+  "correct": 1,
+  "explainEn": "Call money is a method by which commercial banks borrow from or lend to each other on an overnight basis or up to 14 days.",
+  "sourceHint": "Reserve Bank of India Financial Markets",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:19:30Z"
+ },
+ {
+  "id": "q_00453ecf8aa370d9",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'S' represent in the financial acronym ASBA, used during Initial Public Offerings (IPOs)?",
+  "qHi": "प्रारंभिक सार्वजनिक प्रस्तावों (IPOs) के दौरान उपयोग किए जाने वाले वित्तीय संक्षिप्त नाम ASBA में अक्षर 'S' क्या दर्शाता है?",
+  "optsEn": [
+   "Securities",
+   "Supported",
+   "Savings",
+   "System"
+  ],
+  "optsHi": [
+   "प्रतिभूतियां (Securities)",
+   "समर्थित (Supported)",
+   "बचत (Savings)",
+   "प्रणाली (System)"
+  ],
+  "correct": 1,
+  "explainEn": "ASBA stands for Application Supported by Blocked Amount, used for IPO applications.",
+  "sourceHint": "SEBI Guidelines and Financial Awareness Manuals",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:19:30Z"
+ },
+ {
+  "id": "q_561e8e22c309048f",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Priority Sector Lending (PSL) norms for domestic commercial banks in India, what is the overall target for lending to the priority sector as a percentage of Adjusted Net Bank Credit?",
+  "qHi": "भारत में घरेलू वाणिज्यिक बैंकों के लिए प्राथमिकता प्राप्त क्षेत्र ऋण (PSL) मानदंडों के तहत, समायोजित शुद्ध बैंक ऋण के प्रतिशत के रूप में प्राथमिकता प्राप्त क्षेत्र को ऋण देने का समग्र लक्ष्य क्या है?",
+  "optsEn": [
+   "18 percent",
+   "40 percent",
+   "75 percent",
+   "10 percent"
+  ],
+  "optsHi": [
+   "18 प्रतिशत",
+   "40 प्रतिशत",
+   "75 प्रतिशत",
+   "10 प्रतिशत"
+  ],
+  "correct": 1,
+  "explainEn": "Domestic commercial banks and foreign banks with 20 branches and above must achieve a priority sector lending target of 40 percent of ANBC.",
+  "sourceHint": "RBI Master Directions on Priority Sector Lending",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:19:30Z"
+ },
+ {
+  "id": "q_c5c1138cbd930892",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institution operates the Unified Payments Interface (UPI) infrastructure in India?",
+  "qHi": "भारत में यूनिफाइड पेमेंट इंटरफेस (UPI) बुनियादी ढांचे का संचालन कौन सा संस्थान करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "National Payments Corporation of India",
+   "Ministry of Finance",
+   "Indian Banks' Association"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय राष्ट्रीय भुगतान निगम (NPCI)",
+   "वित्त मंत्रालय",
+   "भारतीय बैंक संघ"
+  ],
+  "correct": 1,
+  "explainEn": "NPCI (National Payments Corporation of India) created and operates the Unified Payments Interface (UPI) system in India.",
+  "sourceHint": "NPCI Official Portal and RBI Payment Systems",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:19:30Z"
+ },
+ {
+  "id": "q_897121ccd0f8924f",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following bodies in India is statutorily empowered to determine the policy interest rates under the revised monetary policy framework?",
+  "qHi": "भारत में निम्नलिखित में से किस निकाय को संशोधित मौद्रिक नीति फ्रेमवर्क के तहत नीतिगत ब्याज दरों निर्धारित करने की वैधानिक शक्ति प्राप्त है?",
+  "optsEn": [
+   "Monetary Policy Committee",
+   "Central Board of Directors of RBI",
+   "Financial Stability and Development Council",
+   "Department of Economic Affairs"
+  ],
+  "optsHi": [
+   "मौद्रिक नीति समिति",
+   "भारतीय रिजर्व बैंक के केंद्रीय निदेशक मंडल",
+   "वित्तीय स्थिरता और विकास परिषद",
+   "आर्थिक मामलों का विभाग"
+  ],
+  "correct": 0,
+  "explainEn": "Under Section 45ZB of the Reserve Bank of India Act, 1934, the Monetary Policy Committee is entrusted with the task of fixing the benchmark policy rate.",
+  "sourceHint": "Reserve Bank of India Act 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:20:38Z"
+ },
+ {
+  "id": "q_0a8f5133d164d109",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the minimum capital adequacy ratio (CAR) that domestic scheduled commercial banks in India are required to maintain on an ongoing basis under Basel III guidelines, excluding the capital conservation buffer?",
+  "qHi": "बेसल III दिशा-निर्देशों के तहत, पूंजी संरक्षण बफर को छोड़कर, भारत में घरेलू अनुसूचित वाणिज्यिक बैंकों को निरंतर आधार पर न्यूनतम पूंजी पर्याप्तता अनुपात (CAR) कितना बनाए रखना आवश्यक है?",
+  "optsEn": [
+   "9.0 percent",
+   "11.5 percent",
+   "8.0 percent",
+   "10.0 percent"
+  ],
+  "optsHi": [
+   "9.0 प्रतिशत",
+   "11.5 प्रतिशत",
+   "8.0 प्रतिशत",
+   "10.0 प्रतिशत"
+  ],
+  "correct": 0,
+  "explainEn": "RBI guidelines mandate a minimum total capital of 9.0 percent (Tier 1 at 7.0% and Tier 2 up to 2%) excluding the Capital Conservation Buffer (CCB).",
+  "sourceHint": "RBI Master Circular on Basel III Capital Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:20:38Z"
+ },
+ {
+  "id": "q_7acde66a71d15451",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific money market instrument in India is issued as a promissory note and has a maturity period of less than 14 days?",
+  "qHi": "भारत में कौन सा विशिष्ट मुद्रा बाजार उपकरण एक वचन पत्र (प्रोमिसरी नोट) के रूप में जारी किया जाता है और इसकी परिपक्वता अवधि 14 दिन से कम होती है?",
+  "optsEn": [
+   "Call money",
+   "Notice money",
+   "Term money",
+   "Certificate of deposit"
+  ],
+  "optsHi": [
+   "कॉल मनी",
+   "नोटिस मनी",
+   "टर्म मनी",
+   "प्रमाण पत्र जमा"
+  ],
+  "correct": 0,
+  "explainEn": "Call money is borrowed or lent for a period of 1 day (overnight), whereas notice money is for 2 to 14 days.",
+  "sourceHint": "RBI website financial markets glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:20:38Z"
+ },
+ {
+  "id": "q_f360592f99d6efd1",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Prompt Corrective Action (PCA) framework for banks introduced by the Reserve Bank of India, which of the following is typically invoked as a mandatory restriction when a bank breaches the risk threshold?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा शुरू की गई बैंकों के लिए त्वरित सुधार कार्रवाई (PCA) फ्रेमवर्क के तहत, जब कोई बैंक जोखिम सीमा का उल्लंघन करता है, तो आम तौर पर किस अनिवार्य प्रतिबंध को लागू किया जाता है?",
+  "optsEn": [
+   "Restriction on expansion of branch network and dividend distribution",
+   "Total suspension of all banking licenses",
+   "Mandatory merger with a foreign bank",
+   "Complete closure of all existing credit facilities"
+  ],
+  "optsHi": [
+   "शाखा नेटवर्क के विस्तार और लाभांश वितरण पर प्रतिबंध",
+   "सभी बैंकिंग लाइसेंसों का कुल निलंबन",
+   "विदेशी बैंक के साथ अनिवार्य विलय",
+   "सभी मौजूदा ऋण सुविधाओं को पूरी तरह बंद करना"
+  ],
+  "correct": 0,
+  "explainEn": "Under PCA, mandatory restrictions include curbs on dividend distribution, branch expansion, and risky asset growth.",
+  "sourceHint": "RBI PCA Framework guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:20:38Z"
+ },
+ {
+  "id": "q_e8f6b36e2de75257",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary operational objective of the Marginal Standing Facility (MSF) introduced by the RBI?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा शुरू की गई सीमांत स्थायी सुविधा (MSF) का प्राथमिक परिचालन उद्देश्य क्या है?",
+  "optsEn": [
+   "To enable scheduled commercial banks to borrow overnight funds against approved government securities in emergencies",
+   "To provide long term capital for infrastructure projects",
+   "To regulate foreign institutional investments in the debt market",
+   "To manage foreign exchange reserves of the central bank"
+  ],
+  "optsHi": [
+   "अनुसूचित वाणिज्यिक बैंकों को आपात स्थिति में अनुमोदित सरकारी प्रतिभूतियों के एवज में रातोंरात धन उधार लेने सक्षम बनाना",
+   "बुनियादी ढांचा परियोजनाओं के लिए दीर्घकालिक पूंजी प्रदान करना",
+   "ऋण बाजार में विदेशी संस्थागत निवेश को विनियमित करना",
+   "केंद्रीय बैंक के विदेशी मुद्रा भंडार का प्रबंधन करना"
+  ],
+  "correct": 0,
+  "explainEn": "MSF is a penal rate window for scheduled banks to dip into their Statutory Liquidity Ratio (SLR) portfolio up to a certain limit to get overnight liquidity.",
+  "sourceHint": "RBI Monetary Policy documentation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:20:38Z"
+ },
+ {
+  "id": "q_2c3198489d8bc18a",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organization in India acts as the principal regulator for Microfinance Institutions (MFIs) that are registered as Non-Banking Financial Companies (NBFC-MFIs)?",
+  "qHi": "भारत में गैर-बैंकिंग वित्तीय कंपनियों (NBFC-MFIs) के रूप میں पंजीकृत सूक्ष्म वित्त संस्थानों (MFIs) के लिए मुख्य नियामक के रूप में कौन सा संगठन कार्य करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India",
+   "National Bank for Agriculture and Rural Development",
+   "Small Industries Development Bank of India"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक",
+   "भारतीय लघु उद्योग विकास बैंक"
+  ],
+  "correct": 0,
+  "explainEn": "RBI regulates all NBFCs, including NBFC-MFIs, under the Reserve Bank of India Act, 1934.",
+  "sourceHint": "RBI Regulatory Framework for NBFC-MFIs",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:20:38Z"
+ },
+ {
+  "id": "q_0fff6c725023f1ad",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of priority sector lending (PSL) guidelines in India, what is the target percentage of Adjusted Net Bank Credit (ANBC) mandated for domestic commercial banks regarding lending to the weaker sections?",
+  "qHi": "भारत में प्राथमिकता प्राप्त क्षेत्र को ऋण (PSL) दिशानिर्देशों के संदर्भ में, कमजोर वर्गों को ऋण देने के संबंध में घरेलू वाणिज्यिक बैंकों के लिए समायोजित शुद्ध बैंक ऋण (ANBC) का निर्धारित प्रतिशत लक्ष्य क्या है?",
+  "optsEn": [
+   "12 percent",
+   "10 percent",
+   "18 percent",
+   "7.5 percent"
+  ],
+  "optsHi": [
+   "12 प्रतिशत",
+   "10 प्रतिशत",
+   "18 प्रतिशत",
+   "7.5 प्रतिशत"
+  ],
+  "correct": 0,
+  "explainEn": "Domestic scheduled commercial banks are mandated to achieve a target of 12 percent of ANBC or Credit Equivalent Amount of Off-Balance Sheet Exposure (CEOBE), whichever is higher, for weaker sections.",
+  "sourceHint": "RBI Master Directions on Priority Sector Lending",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:20:38Z"
+ },
+ {
+  "id": "q_473f38ecba6fd6fc",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What does the term 'Teaser Loan' signify in the context of retail banking in India?",
+  "qHi": "भारत में खुद के बैंकिंग के संदर्भ में 'टीज़र लोन' शब्द का क्या तात्पर्य है?",
+  "optsEn": [
+   "Home loans where the interest rate is lower for the initial years and increases later",
+   "Loans provided exclusively for purchasing consumer durables without documentation",
+   "Loans carrying a floating interest rate that remains constant throughout the tenure",
+   "Micro-credit facilities offered without any collateral for students"
+  ],
+  "optsHi": [
+   "गृह ऋण जहां शुरुआती वर्षों के लिए ब्याज दर कम होती है और बाद में बढ़ जाती है",
+   "बिना दस्तावेजों के उपभोक्ता टिकाऊ वस्तुएं खरीदने के लिए विशेष रूप से प्रदान किए जाने वाले ऋण",
+   "एक अस्थायी ब्याज दर वाले ऋण जो पूरे कार्यकाल के दौरान स्थिर रहते हैं",
+   "छात्रों के लिए बिना किसी संपार्श्विक के दी जाने वाली सूक्ष्म-ऋण सुविधाएं"
+  ],
+  "correct": 0,
+  "explainEn": "Teaser loans offer lower interest rates in the initial years to attract borrowers, which are subsequently reset to higher market rates.",
+  "sourceHint": "RBI circulars on home loan teaser rates",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:20:38Z"
  }
 ]

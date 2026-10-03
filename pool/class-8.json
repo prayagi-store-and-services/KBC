@@ -390,5 +390,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-03T07:40:58Z"
+ },
+ {
+  "id": "q_535f38a39a82b074",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which imaginary line divides the Earth into the Northern Hemisphere and the Southern Hemisphere?",
+  "qHi": "कौन सी काल्पनिक रेखा पृथ्वी को उत्तरी गोलार्ध और दक्षिणी गोलार्ध में विभाजित करती है?",
+  "optsEn": [
+   "Equator",
+   "Tropic of Cancer",
+   "Tropic of Capricorn",
+   "Prime Meridian"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा",
+   "कर्क रेखा",
+   "मकर रेखा",
+   "प्रमुख मध्याह्न रेखा"
+  ],
+  "correct": 0,
+  "explainEn": "The Equator is the 0 degrees latitude line that divides the Earth into Northern and Southern hemispheres.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:19:03Z"
+ },
+ {
+  "id": "q_346e0d2921d74b59",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the fundamental law of a country that contains the rules and principles upon which its government is based?",
+  "qHi": "किसी देश का वह मौलिक कानून क्या है जिसमें वे नियम और सिद्धांत शामिल हैं जिन पर उसकी सरकार आधारित है?",
+  "optsEn": [
+   "Constitution",
+   "Budget",
+   "Manifesto",
+   "Treaty"
+  ],
+  "optsHi": [
+   "संविधान",
+   "बजट",
+   "घोषणा पत्र",
+   "संधि"
+  ],
+  "correct": 0,
+  "explainEn": "A constitution is a set of fundamental principles or established precedents according to which a state is governed.",
+  "sourceHint": "NCERT Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:19:03Z"
+ },
+ {
+  "id": "q_e84b4b35d58b9e31",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which micro-organism converts milk into curd?",
+  "qHi": "कौन सा सूक्ष्म जीव दूध को दही में बदलता है?",
+  "optsEn": [
+   "Yeast",
+   "Amoeba",
+   "Lactobacillus",
+   "Plasmodium"
+  ],
+  "optsHi": [
+   "खमीर",
+   "अमीबा",
+   "लैक्टोबैसिलस",
+   "प्लाज्मोडियम"
+  ],
+  "correct": 2,
+  "explainEn": "The bacterium Lactobacillus multiplies in milk and converts it into curd.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:19:03Z"
+ },
+ {
+  "id": "q_bb98e3aeb0dbb675",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which plant cell organelle does photosynthesis take place?",
+  "qHi": "पादप कोशिका के किस अंगक में प्रकाश संश्लेषण होता है?",
+  "optsEn": [
+   "Nucleus",
+   "Chloroplast",
+   "Mitochondria",
+   "Ribosome"
+  ],
+  "optsHi": [
+   "केंद्रक",
+   "क्लोरोप्लास्ट",
+   "माइटोकॉन्ड्रिया",
+   "राइबोसोम"
+  ],
+  "correct": 1,
+  "explainEn": "Chloroplasts contain chlorophyll, which traps sunlight to carry out photosynthesis.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:19:03Z"
  }
 ]

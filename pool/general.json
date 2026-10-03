@@ -754,5 +754,341 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-03T07:40:48Z"
+ },
+ {
+  "id": "q_42df02602491dfaa",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "How many players are on the field for a single team in a standard cricket match?",
+  "qHi": "एक मानक क्रिकेट मैच में एक टीम के कितने खिलाड़ी मैदान पर होते हैं?",
+  "optsEn": [
+   "9",
+   "10",
+   "11",
+   "12"
+  ],
+  "optsHi": [
+   "9",
+   "10",
+   "11",
+   "12"
+  ],
+  "correct": 2,
+  "explainEn": "A standard cricket team consists of 11 players on the field.",
+  "sourceHint": "ICC Official Rules",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:18:53Z"
+ },
+ {
+  "id": "q_6355947c6ad70e74",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas do green plants absorb from the atmosphere for photosynthesis?",
+  "qHi": "हरे पौधे प्रकाश संश्लेषण के लिए वायुमंडल से कौन सी गैस सोखते हैं?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Plants take in carbon dioxide from the air during photosynthesis to produce food.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:18:53Z"
+ },
+ {
+  "id": "q_5b735ba4ee81da59",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the national currency of Japan?",
+  "qHi": "जापान की राष्ट्रीय मुद्रा क्या है?",
+  "optsEn": [
+   "Yuan",
+   "Yen",
+   "Won",
+   "Ringgit"
+  ],
+  "optsHi": [
+   "युआन",
+   "येन",
+   "वोन",
+   "रिंगित"
+  ],
+  "correct": 1,
+  "explainEn": "The yen is the official currency of Japan.",
+  "sourceHint": "International Monetary Fund",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:18:53Z"
+ },
+ {
+  "id": "q_ffa90eac40237200",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which musical instrument has black and white keys?",
+  "qHi": "किस वाद्य यंत्र में काली और सफेद कुंजियाँ (keys) होती हैं?",
+  "optsEn": [
+   "Flute",
+   "Guitar",
+   "Piano",
+   "Violin"
+  ],
+  "optsHi": [
+   "बांसुरी",
+   "गिटार",
+   "पियानो",
+   "वायलिन"
+  ],
+  "correct": 2,
+  "explainEn": "A standard acoustic piano features 88 black and white keys.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:18:53Z"
+ },
+ {
+  "id": "q_7c038ca4993df346",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian state has the highest production of tea as of recent years?",
+  "qHi": "हाल के वर्षों में किस भारतीय राज्य में चाय का उत्पादन सबसे अधिक होता है?",
+  "optsEn": [
+   "Kerala",
+   "Assam",
+   "Karnataka",
+   "Tamil Nadu"
+  ],
+  "optsHi": [
+   "केरल",
+   "असम",
+   "कर्नाटक",
+   "तमिलनाडु"
+  ],
+  "correct": 1,
+  "explainEn": "Assam is the leading producer of tea in India, accounting for a major share of the country's total output.",
+  "sourceHint": "Tea Board of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:19:55Z"
+ },
+ {
+  "id": "q_2a5f3dd916ab62df",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which classical dance form originated in the state of Andhra Pradesh?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप आंध्र प्रदेश राज्य में उत्पन्न हुआ था?",
+  "optsEn": [
+   "Kathakali",
+   "Kuchipudi",
+   "Bharatanatyam",
+   "Odissi"
+  ],
+  "optsHi": [
+   "कथकली",
+   "कुचिपुड़ी",
+   "भरतनाट्यम",
+   "ओडिसी"
+  ],
+  "correct": 1,
+  "explainEn": "Kuchipudi is a major classical dance form that originated in the Krishna district of Andhra Pradesh.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:19:55Z"
+ },
+ {
+  "id": "q_1689bcbb7cfcf2de",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The headquarters of the Indian Space Research Organisation (ISRO) is located in which city?",
+  "qHi": "भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO) का मुख्यालय किस शहर में स्थित है?",
+  "optsEn": [
+   "Mumbai",
+   "New Delhi",
+   "Bengaluru",
+   "Chennai"
+  ],
+  "optsHi": [
+   "मुंबई",
+   "नई दिल्ली",
+   "बेंगलुरु",
+   "चेन्नई"
+  ],
+  "correct": 2,
+  "explainEn": "ISRO's headquarters are situated in Bengaluru, Karnataka.",
+  "sourceHint": "ISRO official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:19:55Z"
+ },
+ {
+  "id": "q_a9a2766661591d1f",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which article of the Constitution of India abolishes the practice of untouchability?",
+  "qHi": "भारत के संविधान का कौन सा अनुच्छेद अस्पृश्यता की प्रथा को समाप्त करता है?",
+  "optsEn": [
+   "Article 14",
+   "Article 17",
+   "Article 21",
+   "Article 44"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14",
+   "अनुच्छेद 17",
+   "अनुच्छेद 21",
+   "अनुच्छेद 44"
+  ],
+  "correct": 1,
+  "explainEn": "Article 17 of the Indian Constitution abolishes 'untouchability' and forbids its practice in any form.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:19:55Z"
+ },
+ {
+  "id": "q_33b887fe77d44a52",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which national park in India is famous for being the last refuge of the one-horned rhinoceros?",
+  "qHi": "भारत का कौन सा राष्ट्रीय उद्यान एक सींग वाले गैंडे के अंतिम आश्रय के रूप में प्रसिद्ध है?",
+  "optsEn": [
+   "Jim Corbett National Park",
+   "Kaziranga National Park",
+   "Bandhavgarh National Park",
+   "Ranthambore National Park"
+  ],
+  "optsHi": [
+   "जिम कॉर्बेट राष्ट्रीय उद्यान",
+   "काजीरंगा राष्ट्रीय उद्यान",
+   "बांधवगढ़ राष्ट्रीय उद्यान",
+   "रणथंभौर राष्ट्रीय उद्यान"
+  ],
+  "correct": 1,
+  "explainEn": "Kaziranga National Park in Assam hosts two-thirds of the world's great one-horned rhinoceroses.",
+  "sourceHint": "UNESCO World Heritage Centre",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:19:55Z"
+ },
+ {
+  "id": "q_8acc2db5de7584ac",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which year was the Reserve Bank of India (RBI) established?",
+  "qHi": "भारतीय रिजर्व बैंक (RBI) की स्थापना किस वर्ष हुई थी?",
+  "optsEn": [
+   "1935",
+   "1947",
+   "1950",
+   "1921"
+  ],
+  "optsHi": [
+   "1935",
+   "1947",
+   "1950",
+   "1921"
+  ],
+  "correct": 0,
+  "explainEn": "The Reserve Bank of India was established on April 1, 1935, in accordance with the Reserve Bank of India Act, 1934.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:19:55Z"
+ },
+ {
+  "id": "q_00625b3ebf077963",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which mountain range separates the Indo-Gangetic Plain from the Tibetan Plateau?",
+  "qHi": "कौन सी पर्वत श्रृंखला भारत-गंगा के मैदान को तिब्बती पठार से अलग करती है?",
+  "optsEn": [
+   "The Vindhyas",
+   "The Aravallis",
+   "The Himalayas",
+   "The Western Ghats"
+  ],
+  "optsHi": [
+   "विंध्य",
+   "अरावली",
+   "हिमालय",
+   "पश्चिमी घाट"
+  ],
+  "correct": 2,
+  "explainEn": "The Himalayas form a massive mountain barrier separating the Indian subcontinent plains from the Tibetan Plateau.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:19:55Z"
+ },
+ {
+  "id": "q_d2e63d3fbebc99d1",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the ancient Indian treatise on statecraft, economic policy, and military strategy known as the Arthashastra?",
+  "qHi": "राज्यकला, आर्थिक नीति और सैन्य रणनीति पर आधारित प्राचीन भारतीय ग्रंथ 'अर्थशास्त्र' के रचयिता कौन थे?",
+  "optsEn": [
+   "Kalidasa",
+   "Kautilya",
+   "Banabhatta",
+   "Aryabhata"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "कौटिल्य",
+   "बाणभट्ट",
+   "आर्यभट्ट"
+  ],
+  "correct": 1,
+  "explainEn": "The Arthashastra was authored by Kautilya, also known as Chanakya or Vishnugupta.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:19:55Z"
  }
 ]

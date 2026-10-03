@@ -950,5 +950,397 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-03T07:40:53Z"
+ },
+ {
+  "id": "q_b44ca6e407422366",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a primary source of water on the Earth?",
+  "qHi": "पृथ्वी पर पानी का मुख्य स्रोत निम्नलिखित में से कौन सा है?",
+  "optsEn": [
+   "Rain",
+   "Plastic bottle",
+   "Tap",
+   "Bucket"
+  ],
+  "optsHi": [
+   "वर्षा",
+   "प्लास्टिक की बोतल",
+   "नल",
+   "बाल्टी"
+  ],
+  "correct": 0,
+  "explainEn": "Rain is the primary natural source of freshwater on Earth, replenishing rivers and lakes.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:18:58Z"
+ },
+ {
+  "id": "q_6d364fb944688995",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas do green plants take in from the air to make their food?",
+  "qHi": "हरे पौधे अपना भोजन बनाने के लिए हवा से कौन सी गैस लेते हैं?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Helium"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हीलीयम"
+  ],
+  "correct": 1,
+  "explainEn": "Plants use carbon dioxide, sunlight, and water during photosynthesis to make food.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:18:58Z"
+ },
+ {
+  "id": "q_2a029127fa7ed56c",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which sense organ helps us to taste different flavors of food?",
+  "qHi": "कौन सा ज्ञानेन्द्रिय अंग हमें भोजन के विभिन्न स्वादों को चखने में मदद करता है?",
+  "optsEn": [
+   "Eye",
+   "Ear",
+   "Tongue",
+   "Nose"
+  ],
+  "optsHi": [
+   "आँख",
+   "कान",
+   "जीभ",
+   "नाक"
+  ],
+  "correct": 2,
+  "explainEn": "The tongue has taste buds that help us identify sweet, salty, sour, and bitter tastes.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:18:58Z"
+ },
+ {
+  "id": "q_3d0abe325f9bc285",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these animals is known as a nocturnal bird that can see well at night?",
+  "qHi": "इनमें से किस जानवर को एक निशाचर पक्षी के रूप में जाना जाता है जो रात में अच्छी तरह देख सकता है?",
+  "optsEn": [
+   "Crow",
+   "Owl",
+   "Pigeon",
+   "Sparrow"
+  ],
+  "optsHi": [
+   "कौवा",
+   "उल्लू",
+   "कबूतर",
+   "गौरैया"
+  ],
+  "correct": 1,
+  "explainEn": "Owls are nocturnal birds with special eyes adapted to see clearly in the dark.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:18:58Z"
+ },
+ {
+  "id": "q_952f83a874e95c78",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which direction does the needle of a magnetic compass always point towards?",
+  "qHi": "चुंबकीय कम्पास की सुई हमेशा किस दिशा की ओर संकेत करती है?",
+  "optsEn": [
+   "East and West",
+   "North and South",
+   "Up and Down",
+   "Sky and Ground"
+  ],
+  "optsHi": [
+   "पूर्व और पश्चिम",
+   "उत्तर और दक्षिण",
+   "ऊपर और नीचे",
+   "आकाश और जमीन"
+  ],
+  "correct": 1,
+  "explainEn": "A magnetic compass needle aligns with the magnetic field of the Earth, pointing North and South.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:18:58Z"
+ },
+ {
+  "id": "q_da538e136511f704",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What do honeybees collect from flowers to make honey?",
+  "qHi": "मधुमक्खियाँ शहद बनाने के लिए फूलों से क्या एकत्र करती हैं?",
+  "optsEn": [
+   "Nectar",
+   "Soil",
+   "Water",
+   "Leaves"
+  ],
+  "optsHi": [
+   "मकरंद",
+   "मिट्टी",
+   "पानी",
+   "पत्तियां"
+  ],
+  "correct": 0,
+  "explainEn": "Honeybees collect nectar from flowers and convert it into honey inside their beehive.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:18:58Z"
+ },
+ {
+  "id": "q_77a3d510ee46bbb2",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which part of a plant is usually underground and absorbs water and minerals?",
+  "qHi": "पौधे का कौन सा भाग आमतौर पर जमीन के नीचे होता है और पानी तथा खनिजों को अवशोषित करता है?",
+  "optsEn": [
+   "Leaf",
+   "Flower",
+   "Root",
+   "Stem"
+  ],
+  "optsHi": [
+   "पत्ती",
+   "फूल",
+   "जड़",
+   "ततना"
+  ],
+  "correct": 2,
+  "explainEn": "Roots grow underground to anchor the plant and absorb water and nutrients from the soil.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:18:58Z"
+ },
+ {
+  "id": "q_fcf463b69749646f",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organ system in the human body is primarily responsible for exchanging oxygen and carbon dioxide?",
+  "qHi": "मानव शरीर में कौन सा अंग तंत्र मुख्य रूप से ऑक्सीजन और कार्बन डाइऑक्साइड के आदान-प्रदान के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Digestive system",
+   "Respiratory system",
+   "Circulatory system",
+   "Skeletal system"
+  ],
+  "optsHi": [
+   "पाचन तंत्र",
+   "श्वसन तंत्र",
+   "परंचरण तंत्र",
+   "कंकाल तंत्र"
+  ],
+  "correct": 1,
+  "explainEn": "The respiratory system, which includes the lungs, helps us breathe in oxygen and breathe out carbon dioxide.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:20:01Z"
+ },
+ {
+  "id": "q_e229241c8856263a",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these seeds travels mainly by bursting or exploding when ripe?",
+  "qHi": "इनमें से कौन सा बीज पकने पर मुख्य रूप से फटने के माध्यम से फैलता है?",
+  "optsEn": [
+   "Soybean",
+   "Mango",
+   "Coconut",
+   "Lotus"
+  ],
+  "optsHi": [
+   "सोयाबीन",
+   "आम",
+   "नारियल",
+   "कमल"
+  ],
+  "correct": 0,
+  "explainEn": "Soybean and pea pods burst open with a sudden jerk when ripe, scattering their seeds away from the parent plant.",
+  "sourceHint": "NCERT Class 5 EVS Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:20:01Z"
+ },
+ {
+  "id": "q_eea4520a18ee6db6",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the main source of energy for the water cycle on Earth?",
+  "qHi": "पृथ्वी पर जल चक्र के लिए ऊर्जा का मुख्य स्रोत क्या है?",
+  "optsEn": [
+   "The Moon",
+   "The Sun",
+   "Wind",
+   "Volcanoes"
+  ],
+  "optsHi": [
+   "चंद्रमा",
+   "सूर्य",
+   " हवा",
+   "ज्वालामुखी"
+  ],
+  "correct": 1,
+  "explainEn": "Heat from the Sun causes water to evaporate from oceans, lakes, and rivers, driving the water cycle.",
+  "sourceHint": "NCERT Class 5 Geography and Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:20:01Z"
+ },
+ {
+  "id": "q_5bf3499b3710d3c8",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is a Kharif crop grown during the rainy season in India?",
+  "qHi": "निम्नलिखित में से कौन सी भारत में वर्षा ऋतु के दौरान उगाई जाने वाली खरीफ फसल है?",
+  "optsEn": [
+   "Wheat",
+   "Barley",
+   "Rice",
+   "Gram"
+  ],
+  "optsHi": [
+   "गेहूं",
+   "जौ",
+   "चावल",
+   "चना"
+  ],
+  "correct": 2,
+  "explainEn": "Rice is a major Kharif crop sown at the beginning of the monsoon season in India.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:20:01Z"
+ },
+ {
+  "id": "q_8ca92c4567f85021",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian stepwell is designed as a multi-story underground water tank with steps?",
+  "qHi": "सीढ़ियों के साथ बहु-मंजिला भूमिगत पानी की टंकी के रूप में कौन सी पारंपरिक भारतीय संरचना डिज़ाइन की गई है?",
+  "optsEn": [
+   "Baoli",
+   "Stupa",
+   "Dome",
+   "Minaret"
+  ],
+  "optsHi": [
+   "बावली",
+   "स्तूप",
+   "गुंबद",
+   "मीनार"
+  ],
+  "correct": 0,
+  "explainEn": "Baolis or stepwells were built in ancient times to store rainwater and provide easy access to the water table.",
+  "sourceHint": "NCERT Class 5 EVS Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:20:01Z"
+ },
+ {
+  "id": "q_a9acd00914a519c9",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which sense organ helps snakes feel vibrations coming from the ground?",
+  "qHi": "कौन सा अंग सांपों को जमीन से आने वाले कंपनों को महसूस करने में मदद करता है?",
+  "optsEn": [
+   "External ears",
+   "Skin on the belly",
+   "Eyes",
+   "Nose"
+  ],
+  "optsHi": [
+   "बाहरी कान",
+   "पेट की त्वचा",
+   "आंखें",
+   "नाक"
+  ],
+  "correct": 1,
+  "explainEn": "Snakes do not have external ears; instead, they feel ground vibrations through their skin and jaw bones.",
+  "sourceHint": "NCERT Class 5 EVS Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:20:01Z"
+ },
+ {
+  "id": "q_31c3c90634fbb490",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of map shows natural features like mountains, plateaus, plains, and rivers?",
+  "qHi": "किस प्रकार का मानचित्र पहाड़ों, पठारों, मैदानों और नदियों जैसी प्राकृतिक विशेषताओं को दर्शाता है?",
+  "optsEn": [
+   "Political map",
+   "Physical map",
+   "Road map",
+   "Climate map"
+  ],
+  "optsHi": [
+   "राजनीतिक मानचित्र",
+   "भौतिक मानचित्र",
+   "सड़क मानचित्र",
+   "जलवायु मानचित्र"
+  ],
+  "correct": 1,
+  "explainEn": "Physical maps display natural landforms and water bodies of the Earth.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T16:20:01Z"
  }
 ]
