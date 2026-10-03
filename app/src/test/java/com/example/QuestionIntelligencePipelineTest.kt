@@ -142,4 +142,30 @@ class QuestionIntelligencePipelineTest {
         val servedCount = db.questionDao().getAllServedFingerprints().size
         assertTrue("Registered questions in DB should be at least 17", servedCount >= 17)
     }
+
+    @Test
+    fun testNoRepeatedQuestionsAcrossManyGames() {
+        val profile = UserProfile(name = "Ravi", state = "Uttar Pradesh", city = "Lucknow", age = 25, isStudentMode = false, preparationDomain = "UPSC")
+        val texts = mutableSetOf<String>()
+        val sems = mutableSetOf<String>()
+        var recent: Set<String> = emptySet()
+        repeat(30) { game ->
+            val session = mutableMapOf<Int, com.example.data.model.QuestionItem>()
+            val gameConcepts = mutableSetOf<String>()
+            for (tier in 1..17) {
+                val history = com.example.data.repository.MultiLayerQuestionValidator.HistoricalRegistry(
+                    servedNormalizedTexts = texts,
+                    servedSemanticFingerprints = sems,
+                    recentConceptFingerprints = recent
+                )
+                val q = DynamicLogicEngine.generateUniqueQuestion(tier, profile, history, session.values, salt = game * 1000 + tier)
+                val nt = com.example.data.repository.MultiLayerQuestionValidator.normalizeText(q.questionEnglish.ifBlank { q.questionHindi })
+                assertTrue("Repeated question in game $game tier $tier", texts.add(nt))
+                assertTrue("Repeated meaning in game $game tier $tier", sems.add(q.semanticFingerprint.trim().lowercase()))
+                session[tier] = q
+                gameConcepts.add(q.conceptFingerprint.trim().lowercase())
+            }
+            recent = gameConcepts
+        }
+    }
 }
