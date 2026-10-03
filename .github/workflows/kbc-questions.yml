@@ -1,0 +1,35 @@
+name: KBC question generator
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: kbc-questions
+  cancel-in-progress: false
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check out the data-only question-pool branch
+        run: |
+          git fetch origin question-pool || true
+          if git rev-parse --verify origin/question-pool >/dev/null 2>&1; then
+            git worktree add pool-wt origin/question-pool -B question-pool
+          else
+            git worktree add --orphan -b question-pool pool-wt
+          fi
+      - name: Generate and double-check questions
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          POOL_DIR: pool-wt/pool
+        run: python3 tools/kbc_gen/generate.py
+      - name: Publish pool to the question-pool branch
+        run: |
+          cd pool-wt
+          git config user.name "netra-question-bot"
+          git config user.email "noreply@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then echo "no change"; else git commit -m "Question pool update" && git push origin HEAD:question-pool; fi
