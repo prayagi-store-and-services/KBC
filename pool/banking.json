@@ -1,0 +1,226 @@
+[
+ {
+  "id": "q_4ed9bb10b6d6d42e",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the 'I' stand for in the abbreviation 'IMPS', a popular payment service in Indian banking?",
+  "qHi": "भारतीय बैंकिंग में एक लोकप्रिय भुगतान सेवा 'IMPS' में 'I' का क्या अर्थ है?",
+  "optsEn": [
+   "Instant",
+   "Interbank",
+   "Immediate",
+   "International"
+  ],
+  "optsHi": [
+   "इंस्टेंट (Instant)",
+   "इंटरबैंक (Interbank)",
+   "इमीडिएट (Immediate)",
+   "इंटरनेशनल (International)"
+  ],
+  "correct": 2,
+  "explainEn": "IMPS stands for Immediate Payment Service, operated by NPCI in India.",
+  "sourceHint": "NPCI official documentation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:20:42Z"
+ },
+ {
+  "id": "q_53bdd743dc04a4b1",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which institution regulates the microfinance institutions (MFIs) in India?",
+  "qHi": "भारत में सूक्ष्म वित्त संस्थानों (MFIs) को कौन सी संस्था विनियमित करती है?",
+  "optsEn": [
+   "SEBI",
+   "RBI",
+   "NABARD",
+   "SIDBI"
+  ],
+  "optsHi": [
+   "सेबी (SEBI)",
+   "भारतीय रिजर्व बैंक (RBI)",
+   "नाबार्ड (NABARD)",
+   "सिडबी (SIDBI)"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India (RBI) is the primary regulator for banks and microfinance institutions in India.",
+  "sourceHint": "RBI official guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:20:42Z"
+ },
+ {
+  "id": "q_4311ef19899860d0",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum deposit insurance cover provided by DICGC per depositor per bank in India?",
+  "qHi": "भारत में DICGC द्वारा प्रति जमाकर्ता प्रति बैंक अधिकतम जमा बीमा कवर कितना प्रदान किया जाता है?",
+  "optsEn": [
+   "Rupees One Lakh",
+   "Rupees Two Lakhs",
+   "Rupees Five Lakhs",
+   "Rupees Ten Lakhs"
+  ],
+  "optsHi": [
+   "एक लाख रुपये",
+   "दो लाख रुपये",
+   "पाँच लाख रुपये",
+   "दस लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "Deposit Insurance and Credit Guarantee Corporation (DICGC) insures bank deposits up to Rs. 5,00005 per depositor per bank.",
+  "sourceHint": "DICGC official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:21:43Z"
+ },
+ {
+  "id": "q_de2e396cb0856e95",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a quantitative monetary policy tool used by the Reserve Bank of India?",
+  "qHi": "निम्नलिखित में से कौन सा भारतीय रिजर्व बैंक द्वारा उपयोग किया जाने वाला मात्रात्मक मौद्रिक नीति उपकरण है?",
+  "optsEn": [
+   "Repo Rate",
+   "Moral Suasion",
+   "Margin Requirements",
+   "Consumer Credit Regulation"
+  ],
+  "optsHi": [
+   "रेपो दर (Repo Rate)",
+   "नैतिक दबाव (Moral Suasion)",
+   "मार्जिन आवश्यकताएं (Margin Requirements)",
+   "उपभोक्ता ऋण विनियमन (Consumer Credit Regulation)"
+  ],
+  "correct": 0,
+  "explainEn": "Repo rate is a key quantitative tool of monetary policy used by the RBI to control money supply.",
+  "sourceHint": "RBI monetary policy framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:21:44Z"
+ },
+ {
+  "id": "q_f00797927607bb96",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'C' stand for in the KYC norms used in the banking sector?",
+  "qHi": "बैंकिंग क्षेत्र में प्रयुक्त KYC मानदंडों में 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Credit",
+   "Customer",
+   "Currency",
+   "Capital"
+  ],
+  "optsHi": [
+   "क्रेडिट (Credit)",
+   "कस्टमर (Customer)",
+   "करेंसी (Currency)",
+   "कैपिटल (Capital)"
+  ],
+  "correct": 1,
+  "explainEn": "KYC stands for Know Your Customer, which is a mandatory process by financial institutions to verify identity.",
+  "sourceHint": "RBI KYC Master Directions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:21:44Z"
+ },
+ {
+  "id": "q_79c8f41713c3d11e",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization in India assigns credit ratings to corporate entities and financial instruments?",
+  "qHi": "भारत में कौन सा संगठन कॉर्पोरेट संस्थाओं और वित्तीय साधनों को क्रेडिट रेटिंग प्रदान करता है?",
+  "optsEn": [
+   "CRISIL",
+   "TRAI",
+   "IRDAI",
+   "FSSAI"
+  ],
+  "optsHi": [
+   "क्रिसिल (CRISIL)",
+   "ट्रैई (TRAI)",
+   "इरडाई (IRDAI)",
+   "एफएसएसएआई (FSSAI)"
+  ],
+  "correct": 0,
+  "explainEn": "CRISIL (Credit Rating Information Services of India Limited) is a leading credit rating agency in India.",
+  "sourceHint": "SEBI registered rating agencies list",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:21:45Z"
+ },
+ {
+  "id": "q_974269ab9490ac74",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of NEFT, a popular electronic fund transfer system in India?",
+  "qHi": "भारत में एक लोकप्रिय इलेक्ट्रॉनिक फंड ट्रांसफर प्रणाली NEFT का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "National Electronic Fast Transfer",
+   "National Economic Fund Transfer",
+   "National Electronic Funds Transfer",
+   "New Electronic Financial Transfer"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फास्ट ट्रांसफर",
+   "नेशनल इकोनॉमिक फंड ट्रांसफर",
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "न्यू इलेक्ट्रॉनिक फाइनेंशियल ट्रांसफर"
+  ],
+  "correct": 2,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, a nation-wide centralized payment system operated by RBI.",
+  "sourceHint": "RBI payment systems documentation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:21:46Z"
+ },
+ {
+  "id": "q_b1a6cd19a823b302",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In the context of Indian banking, what does the term 'CASA' refer to?",
+  "qHi": "भारतीय बैंकिंग के संदर्भ में, 'CASA' शब्द का तात्पर्य किससे है?",
+  "optsEn": [
+   "Current Account Savings Account",
+   "Credit Asset Savings Account",
+   "Cash And Savings Asset",
+   "Core Accounting System Application"
+  ],
+  "optsHi": [
+   "करेंट अकाउंट सेविंग्स अकाउंट (Current Account Savings Account)",
+   "क्रेडिट एसेट सेविंग्स अकाउंट (Credit Asset Savings Account)",
+   "कैश एंड सेविंग्स एसेट (Cash And Savings Asset)",
+   "कोर अकाउंटिंग सिस्टम एप्लीकेशन (Core Accounting System Application)"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account Savings Account, representing low-cost deposits for banks.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) study material",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T06:21:46Z"
+ }
+]
