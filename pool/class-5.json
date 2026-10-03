@@ -558,5 +558,397 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-03T06:28:32Z"
+ },
+ {
+  "id": "q_990990ccbce61462",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organ pumps blood to all parts of the human body?",
+  "qHi": "मानव शरीर के सभी अंगों तक कौन सा अंग रक्त पंप करता है?",
+  "optsEn": [
+   "Lungs",
+   "Heart",
+   "Stomach",
+   "Brain"
+  ],
+  "optsHi": [
+   "फेफड़े",
+   "हृदय",
+   "पेट",
+   "मस्तिष्क"
+  ],
+  "correct": 1,
+  "explainEn": "The heart is the muscular organ responsible for pumping blood throughout the body.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:39:54Z"
+ },
+ {
+  "id": "q_82a45acf9f325764",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these animals is known as the ship of the desert?",
+  "qHi": "इनमें से किस जानवर को रेगिस्तान का जहाज कहा जाता है?",
+  "optsEn": [
+   "Horse",
+   "Elephant",
+   "Camel",
+   "Donkey"
+  ],
+  "optsHi": [
+   "घोड़ा",
+   "हाथी",
+   "ऊंट",
+   "गधा"
+  ],
+  "correct": 2,
+  "explainEn": "Camels are called the ship of the desert because they can walk easily on sand.",
+  "sourceHint": "NCERT Class 3 and 5 General Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:39:54Z"
+ },
+ {
+  "id": "q_a2a1ce75aa874727",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "How many states are there in the Republic of India?",
+  "qHi": "गणतंत्र भारत में कितने राज्य हैं?",
+  "optsEn": [
+   "27",
+   "28",
+   "29",
+   "30"
+  ],
+  "optsHi": [
+   "27",
+   "28",
+   "29",
+   "30"
+  ],
+  "correct": 1,
+  "explainEn": "India has 28 states and 8 Union Territories.",
+  "sourceHint": "Ministry of Home Affairs, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:39:54Z"
+ },
+ {
+  "id": "q_1f4b64fb32f9aaff",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas do green plants take in from the air during photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण के दौरान हरे पौधे हवा से कौन सी गैस लेते हैं?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Plants absorb carbon dioxide from the air to make their food using sunlight.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:39:54Z"
+ },
+ {
+  "id": "q_93e2549c4aa88515",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which directional marker always points to the North?",
+  "qHi": "कौन सा दिशा सूचक यंत्र हमेशा उत्तर दिशा की ओर इशारा करता है?",
+  "optsEn": [
+   "Thermometer",
+   "Barometer",
+   "Magnetic compass",
+   "Speedometer"
+  ],
+  "optsHi": [
+   "थर्मोमीटर",
+   "बैरोमीटर",
+   "चुंबकीय कम्पास",
+   "स्पीडोमीटर"
+  ],
+  "correct": 2,
+  "explainEn": "A magnetic compass has a magnetized needle that aligns with the Earth's magnetic field to point North.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:39:54Z"
+ },
+ {
+  "id": "q_4715a239144174c9",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the freezing point of pure water in degree Celsius?",
+  "qHi": "शुद्ध पानी का हिमांक (फ्रीजिंग प्वाइंट) डिग्री सेल्सियस में कितना होता है?",
+  "optsEn": [
+   "0 degree",
+   "50 degree",
+   "100 degree",
+   "32 degree"
+  ],
+  "optsHi": [
+   "0 डिग्री",
+   "50 डिग्री",
+   "100 डिग्री",
+   "32 डिग्री"
+  ],
+  "correct": 0,
+  "explainEn": "Pure water freezes at 0 degrees Celsius at standard atmospheric pressure.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:39:54Z"
+ },
+ {
+  "id": "q_073b318ccee71d13",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is a non-flowering plant that reproduces through spores?",
+  "qHi": "निम्नलिखित में से कौन सा एक ऐसा पौधा है जिसमें फूल नहीं आते और जो बीजाणु (spores) के माध्यम से प्रजनन करता है?",
+  "optsEn": [
+   "Mango tree",
+   "Fern",
+   "Rose plant",
+   "Neem tree"
+  ],
+  "optsHi": [
+   "आम का पेड़",
+   "फ़र्न (Fern)",
+   "गुलाब का पौधा",
+   "नीम का पेड़"
+  ],
+  "correct": 1,
+  "explainEn": "Ferns do not produce flowers or seeds; instead, they reproduce using spores.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:40:53Z"
+ },
+ {
+  "id": "q_7ad62149b813a694",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organ in the human body purifies blood by filtering waste products?",
+  "qHi": "मानव शरीर में कौन सा अंग अपशिष्ट पदार्थों को फ़िल्टर करके रक्त को शुद्ध करता है?",
+  "optsEn": [
+   "Heart",
+   "Lungs",
+   "Kidneys",
+   "Stomach"
+  ],
+  "optsHi": [
+   "हृदय",
+   "फेफड़े",
+   "गुर्दे (Kidneys)",
+   "पेट"
+  ],
+  "correct": 2,
+  "explainEn": "Kidneys filter waste products and excess water from the blood to form urine.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:40:53Z"
+ },
+ {
+  "id": "q_08c84c656eb6575b",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of map mainly shows physical features like mountains, rivers, and plateaus?",
+  "qHi": "किस प्रकार का मानचित्र मुख्य रूप से पहाड़ों, नदियों और पठारों जैसी भौतिक विशेषताओं को दर्शाता है?",
+  "optsEn": [
+   "Political map",
+   "Physical map",
+   "Thematic map",
+   "Road map"
+  ],
+  "optsHi": [
+   "राजनीतिक मानचित्र",
+   "भौतिक मानचित्र (Physical map)",
+   "थीम आधारित मानचित्र",
+   "सड़क मानचित्र"
+  ],
+  "correct": 1,
+  "explainEn": "Physical maps show natural features of the Earth such as mountains, plateaus, plains, rivers, and oceans.",
+  "sourceHint": "NCERT Class 6 Social Science (Geography)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:40:53Z"
+ },
+ {
+  "id": "q_5507e80d4d05cfd2",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin is primarily obtained by the human body from natural sunlight?",
+  "qHi": "मानव शरीर को प्राकृतिक धूप से मुख्य रूप से कौन सा विटामिन प्राप्त होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी (Vitamin D)"
+  ],
+  "correct": 3,
+  "explainEn": "Sunlight helps the human body produce Vitamin D in the skin.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:40:53Z"
+ },
+ {
+  "id": "q_b7c14ce520d04528",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these is an example of a Kharif crop grown during the monsoon season in India?",
+  "qHi": "इनमें से कौन सी भारत में मानसून के मौसम में उगाई जाने वाली खरीफ फसल का एक उदाहरण है?",
+  "optsEn": [
+   "Wheat",
+   "Rice",
+   "Barley",
+   "Gram"
+  ],
+  "optsHi": [
+   "गेहूं",
+   "चावल (Rice)",
+   "जौ",
+   "चना"
+  ],
+  "correct": 1,
+  "explainEn": "Rice is a major Kharif crop sown with the beginning of the monsoon rains.",
+  "sourceHint": "NCERT Class 6 Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:40:53Z"
+ },
+ {
+  "id": "q_d199a420f13ef34d",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary gas used by green plants to prepare their food through photosynthesis?",
+  "qHi": "हरे पौधों द्वारा प्रकाश संश्लेषण के माध्यम से अपना भोजन तैयार करने के लिए उपयोग की जाने वाली मुख्य गैस कौन सी है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड (Carbon dioxide)",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Plants absorb carbon dioxide from the air to make food during photosynthesis.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:40:53Z"
+ },
+ {
+  "id": "q_de359941bcb83905",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which layer of the Earth is the outermost solid crust we live on?",
+  "qHi": "पृथ्वी की कौन सी परत सबसे बाहरी ठोस पपड़ी है जिस पर हम रहते हैं?",
+  "optsEn": [
+   "Core",
+   "Mantle",
+   "Crust",
+   "Magma chamber"
+  ],
+  "optsHi": [
+   "क्रोड (Core)",
+   "मैन्टल (Mantle)",
+   "पपड़ी या क्रस्ट (Crust)",
+   "मैग्मा कक्ष"
+  ],
+  "correct": 2,
+  "explainEn": "The crust is the outermost solid shell of the Earth where life exists.",
+  "sourceHint": "NCERT Class 7 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:40:53Z"
+ },
+ {
+  "id": "q_8c96023629960031",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian classical dance style originated in the state of Kerala?",
+  "qHi": "कौन सी भारतीय शास्त्रीय नृत्य शैली केरल राज्य में उत्पन्न हुई थी?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Kuchipudi",
+   "Kathak"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली (Kathakali)",
+   "कुचिपुड़ी",
+   "कथक"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a major classical dance form that originated in Kerala, known for its colorful makeup and elaborate costumes.",
+  "sourceHint": "NCERT Class 6 Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:40:53Z"
  }
 ]

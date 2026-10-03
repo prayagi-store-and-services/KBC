@@ -614,5 +614,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-03T06:28:41Z"
+ },
+ {
+  "id": "q_ca9f3078787572aa",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which mirror is commonly used as a rear-view mirror in vehicles?",
+  "qHi": "वाሽनों में पीछे देखने के लिए सामान्यतः किस दर्पण का उपयोग किया जाता है?",
+  "optsEn": [
+   "Plane mirror",
+   "Concave mirror",
+   "Convex mirror",
+   "Cylindrical mirror"
+  ],
+  "optsHi": [
+   "समतल दर्पण",
+   "अवतल दर्पण",
+   "उत्तल दर्पण",
+   "बेलनाकार दर्पण"
+  ],
+  "correct": 2,
+  "explainEn": "Convex mirrors are used as rear-view mirrors because they give an erect, diminished image and have a wider field of view.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:40:03Z"
+ },
+ {
+  "id": "q_2c9661e4e76782d7",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the chemical formula of washing soda?",
+  "qHi": "धोने के सोडे का रासायनिक सूत्र क्या है?",
+  "optsEn": [
+   "NaHCO3",
+   "Na2CO3.10H2O",
+   "NaOH",
+   "CaSO4.1/2H2O"
+  ],
+  "optsHi": [
+   "NaHCO3",
+   "Na2CO3.10H2O",
+   "NaOH",
+   "CaSO4.1/2H2O"
+  ],
+  "correct": 1,
+  "explainEn": "Washing soda is sodium carbonate decahydrate, represented by the formula Na2CO3.10H2O.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:40:03Z"
+ },
+ {
+  "id": "q_53e893af7388d60e",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which plant hormone is responsible for cell division?",
+  "qHi": "कौन सा पादप हार्मोन कोशिका विभाजन के लिए उत्तरदायी है?",
+  "optsEn": [
+   "Auxin",
+   "Gibberellin",
+   "Cytokinin",
+   "Abscisic acid"
+  ],
+  "optsHi": [
+   "ऑक्सिन",
+   "जिबरेलिन",
+   "साइटोकाइनिन",
+   "एब्सिसिक अम्ल"
+  ],
+  "correct": 2,
+  "explainEn": "Cytokinins are plant hormones that promote cell division, especially in plant roots and shoots.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:40:03Z"
+ },
+ {
+  "id": "q_577c17a718c3d2fe",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which part of the human digestive system is water primarily absorbed?",
+  "qHi": "मानव पाचन तंत्र के किस भाग में मुख्य रूप से जल का अवशोषण होता है?",
+  "optsEn": [
+   "Stomach",
+   "Small intestine",
+   "Large intestine",
+   "Oesophagus"
+  ],
+  "optsHi": [
+   "अमाशय",
+   "छोटी आंत",
+   "बड़ी आंत",
+   "ग्रसिका"
+  ],
+  "correct": 2,
+  "explainEn": "The large intestine is primarily responsible for absorbing water from the remaining indigestible food matter.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:40:03Z"
+ },
+ {
+  "id": "q_ec8cb1e3de7a5025",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a non-renewable source of energy?",
+  "qHi": "निम्नलिखित में से कौन सा ऊर्जा का अनवीकरणीय स्रोत है?",
+  "optsEn": [
+   "Solar energy",
+   "Wind energy",
+   "Coal",
+   "Biomass"
+  ],
+  "optsHi": [
+   "सौर ऊर्जा",
+   "पवन ऊर्जा",
+   "कोयला",
+   "बायोमास"
+  ],
+  "correct": 2,
+  "explainEn": "Coal is a fossil fuel and a non-renewable source of energy because it takes millions of years to form.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:40:03Z"
+ },
+ {
+  "id": "q_d0cc276f46b17a44",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which element is oxidized in the reaction represented by the equation: ZnO + C -> Zn + CO?",
+  "qHi": "समीकरण ZnO + C -> Zn + CO द्वारा दर्शाई गई अभिक्रिया में किस तत्व का उपचयन होता है?",
+  "optsEn": [
+   "Zn",
+   "ZnO",
+   "C",
+   "CO"
+  ],
+  "optsHi": [
+   "Zn",
+   "ZnO",
+   "C",
+   "CO"
+  ],
+  "correct": 2,
+  "explainEn": "Carbon (C) gains oxygen to form carbon monoxide (CO), so it undergoes oxidation.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:41:04Z"
+ },
+ {
+  "id": "q_550c86406aa971fd",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the pH range of a neutral aqueous solution at 298 K?",
+  "qHi": "298 K पर एक उदासीन जलीय विलयन का pH परास क्या होता है?",
+  "optsEn": [
+   "Less than 7",
+   "Exactly 7",
+   "Greater than 7",
+   "0 to 14"
+  ],
+  "optsHi": [
+   "7 से कम",
+   "ठीक 7",
+   "7 से अधिक",
+   "0 से 14"
+  ],
+  "correct": 1,
+  "explainEn": "At standard temperature, a neutral solution has a pH value of exactly 7.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:41:04Z"
+ },
+ {
+  "id": "q_1ca304e6dbc9eeb9",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which plant hormone is primarily responsible for the cell elongation and bending of shoots towards light?",
+  "qHi": "कौन सा पादप हार्मोन मुख्य रूप से कोशिका दीर्घीकरण और प्ररोह के प्रकाश की ओर मुड़ने के लिए उत्तरदायी है?",
+  "optsEn": [
+   "Auxin",
+   "Gibberellin",
+   "Cytokinin",
+   "Abscisic acid"
+  ],
+  "optsHi": [
+   "ऑक्सिन",
+   "जिबरेलिन",
+   "साइटोकैकिन",
+   "एब्सिसिक अम्ल"
+  ],
+  "correct": 0,
+  "explainEn": "Auxin promotes cell growth and accumulates on the shaded side of the plant, causing phototropism.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:41:04Z"
+ },
+ {
+  "id": "q_33ee47a6b9e08848",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the focal length of a plane mirror?",
+  "qHi": "समतल दर्पण की फोकस दूरी क्या होती है?",
+  "optsEn": [
+   "Zero",
+   "Positive",
+   "Negative",
+   "Infinity"
+  ],
+  "optsHi": [
+   "शून्य",
+   "धनात्मक",
+   "ऋणात्मक",
+   "अनंत"
+  ],
+  "correct": 3,
+  "explainEn": "A plane mirror can be considered as a spherical mirror of infinite radius, making its focal length infinity.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:41:04Z"
+ },
+ {
+  "id": "q_e57278cb505feb8d",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which sector is the largest employer in India according to economic studies?",
+  "qHi": "आर्थिक अध्ययनों के अनुसार भारत में कौन सा क्षेत्र सबसे बड़ा नियोक्ता है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Information technology sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "तृतीयक क्षेत्र",
+   "सूचना प्रौद्योगिकी क्षेत्र"
+  ],
+  "correct": 0,
+  "explainEn": "The primary sector, mainly agriculture, employs the largest share of the workforce in India.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:41:04Z"
+ },
+ {
+  "id": "q_6974ab4f5ab25fd4",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which soil type is most suitable for the growth of cotton in India?",
+  "qHi": "भारत में कपास की वृद्धि के लिए कौन सी मिट्टी सबसे उपयुक्त है?",
+  "optsEn": [
+   "Laterite soil",
+   "Black soil",
+   "Red soil",
+   "Desert soil"
+  ],
+  "optsHi": [
+   "लैटेराइट मिट्टी",
+   "काली मिट्टी",
+   "लाल मिट्टी",
+   "मरुस्थलीय मिट्टी"
+  ],
+  "correct": 1,
+  "explainEn": "Black soil, also known as regur soil, is ideal for growing cotton and is found extensively in the Deccan trap.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:41:04Z"
+ },
+ {
+  "id": "q_a0540dfa8c45cbad",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which subject is included in the Union List of the Indian Constitution?",
+  "qHi": "भारतीय संविधान की संघ सूची में कौन सा विषय शामिल है?",
+  "optsEn": [
+   "Police",
+   "Agriculture",
+   "Defence",
+   "Education"
+  ],
+  "optsHi": [
+   "पुलिस",
+   "कृषि",
+   "रक्षा",
+   "शिक्षा"
+  ],
+  "correct": 2,
+  "explainEn": "Defence of the country is a matter of national importance and is listed in the Union List.",
+  "sourceHint": "NCERT Class 10 Civics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:41:04Z"
+ },
+ {
+  "id": "q_6b9de7e6881db173",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What was the main reason for the suspension of the Non-Cooperation Movement by Mahatma Gandhi in 1922?",
+  "qHi": "1922 में महात्मा गांधी द्वारा असहयोग आंदोलन को स्थगित करने का मुख्य कारण क्या था?",
+  "optsEn": [
+   "Lack of funds",
+   "Chauri Chaura incident of violence",
+   "Signing of the Gandhi-Irwin Pact",
+   "Outbreak of World War I"
+  ],
+  "optsHi": [
+   "धन की कमी",
+   "चौरी चौरा की हिंसा की घटना",
+   "गांधी-इरविन समझौते पर हस्ताक्षर",
+   "प्रथम विश्व युद्ध का छिड़ना"
+  ],
+  "correct": 1,
+  "explainEn": "Mahatma Gandhi withdrew the movement after a violent clash at the Chauri Chaura police station in Gorakhpur.",
+  "sourceHint": "NCERT Class 10 History, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:41:04Z"
  }
 ]

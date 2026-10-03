@@ -418,5 +418,341 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-03T06:28:27Z"
+ },
+ {
+  "id": "q_48666562957a0251",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas do plants absorb from the atmosphere for photosynthesis?",
+  "qHi": "पौधे प्रकाश संश्लेषण के लिए वायुमंडल से कौन सी गैस अवशोषित करते हैं?",
+  "optsEn": [
+   "Oxygen",
+   "Nitrogen",
+   "Carbon dioxide",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "कार्बन डाइऑक्साइड",
+   "हाइड्रोजन"
+  ],
+  "correct": 2,
+  "explainEn": "Plants take in carbon dioxide during photosynthesis to produce food and oxygen.",
+  "sourceHint": "NCERT Biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:39:49Z"
+ },
+ {
+  "id": "q_6aeeaf7d46bf2bcc",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "How many permanent members are there in the United Nations Security Council?",
+  "qHi": "संयुक्त राष्ट्र सुरक्षा परिषद में कितने स्थायी सदस्य हैं?",
+  "optsEn": [
+   "5",
+   "10",
+   "15",
+   "20"
+  ],
+  "optsHi": [
+   "5",
+   "10",
+   "15",
+   "20"
+  ],
+  "correct": 0,
+  "explainEn": "There are 5 permanent members in the UNSC: China, France, Russia, the UK, and the US.",
+  "sourceHint": "United Nations Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:39:49Z"
+ },
+ {
+  "id": "q_588db758c84df90a",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which vitamin is primarily obtained by the human body from exposure to sunlight?",
+  "qHi": "मानव शरीर को मुख्य रूप से धूप के संपर्क में आने से कौन सा विटामिन प्राप्त होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन A",
+   "विटामिन B",
+   "विटामिन C",
+   "विटामिन D"
+  ],
+  "correct": 3,
+  "explainEn": "Sunlight prompts human skin to synthesize Vitamin D.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:39:49Z"
+ },
+ {
+  "id": "q_85ba8384c255d12c",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which musical instrument is associated with Pandit Ravi Shankar?",
+  "qHi": "पंडित रविशंकर किस वाद्य यंत्र से जुड़े हैं?",
+  "optsEn": [
+   "Sitar",
+   "Flute",
+   "Tabla",
+   "Sarod"
+  ],
+  "optsHi": [
+   "सितार",
+   "बांसुरी",
+   "tabla",
+   "सरोद"
+  ],
+  "correct": 0,
+  "explainEn": "Pandit Ravi Shankar was a legendary Indian musician known for popularizing the sitar globally.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:39:49Z"
+ },
+ {
+  "id": "q_5a69a818db65e76b",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the standard boiling point of pure water at sea level in Celsius?",
+  "qHi": "समुद्र तल पर शुद्ध पानी का मानक क्वथनांक (Boiling Point) सेल्सियस में कितना होता है?",
+  "optsEn": [
+   "0 degree",
+   "50 degree",
+   "100 degree",
+   "212 degree"
+  ],
+  "optsHi": [
+   "0 डिग्री",
+   "50 डिग्री",
+   "100 डिग्री",
+   "212 डिग्री"
+  ],
+  "correct": 2,
+  "explainEn": "Pure water boils at 100 degrees Celsius at standard atmospheric pressure.",
+  "sourceHint": "NCERT Physics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:39:49Z"
+ },
+ {
+  "id": "q_e2933a5f770e4efa",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the famous Sanskrit play 'Abhijnanashakuntalam'?",
+  "qHi": "प्रसिद्ध संस्कृत नाटक 'अभिज्ञानशाकुंतलम्' के रचयिता कौन हैं?",
+  "optsEn": [
+   "Kalidasa",
+   "Bhasa",
+   "Bhavabhuti",
+   "Shudraka"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "भास",
+   "भवभूति",
+   "शूद्रक"
+  ],
+  "correct": 0,
+  "explainEn": "Kalidasa is widely recognized as one of ancient India's greatest classical Sanskrit poets and playwrights, known for Abhijnanashakuntalam.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:40:48Z"
+ },
+ {
+  "id": "q_59661cb8f5f3fba1",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which city is the headquarters of the Indian Space Research Organisation (ISRO) located?",
+  "qHi": "भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO) का मुख्यालय किस शहर में स्थित है?",
+  "optsEn": [
+   "New Delhi",
+   "Mumbai",
+   "Bengaluru",
+   "Hyderabad"
+  ],
+  "optsHi": [
+   "नई दिल्ली",
+   "मुंबई",
+   "बेंगलुरु",
+   "हैदराबाद"
+  ],
+  "correct": 2,
+  "explainEn": "ISRO headquarters is situated in Bengaluru, Karnataka, where policy formulation, program management, and major research activities are directed.",
+  "sourceHint": "ISRO Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:40:48Z"
+ },
+ {
+  "id": "q_f7b3e81341ebd7ce",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which classical dance form originates from the state of Kerala and is known for elaborate makeup and colorful costumes?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप केरल राज्य से उत्पन्न हुआ है और विस्तृत मेकअप और रंगीन वेशभूषा के लिए जाना जाता है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Odissi",
+   "Kuchipudi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "ओडिसी",
+   "कुचिपुड़ी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a major form of classical Indian dance distinct for its vibrant storytelling, heavy facial makeup, and elaborate costumes.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:40:48Z"
+ },
+ {
+  "id": "q_7d809df82f64a06d",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which constitutional article in India provides for the establishment of the Supreme Court?",
+  "qHi": "भारत में कौन सा संवैधानिक अनुच्छेद सर्वोच्च न्यायालय की स्थापना का प्रावधान करता है?",
+  "optsEn": [
+   "Article 112",
+   "Article 124",
+   "Article 226",
+   "Article 356"
+  ],
+  "optsHi": [
+   "अनुच्छेद 112",
+   "अनुच्छेद 124",
+   "अनुच्छेद 226",
+   "अनुच्छेद 356"
+  ],
+  "correct": 1,
+  "explainEn": "Article 124 of the Constitution of India deals with the establishment and constitution of the Supreme Court.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:40:48Z"
+ },
+ {
+  "id": "q_edb67adb8951ba1c",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the chemical symbol for the element Gold?",
+  "qHi": "स्वर्ण (Gold) तत्व का रासायनिक प्रतीक क्या है?",
+  "optsEn": [
+   "Ag",
+   "Au",
+   "Pb",
+   "Fe"
+  ],
+  "optsHi": [
+   "Ag",
+   "Au",
+   "Pb",
+   "Fe"
+  ],
+  "correct": 1,
+  "explainEn": "The chemical symbol for gold is Au, which comes from the Latin word 'aurum', meaning 'shining dawn'.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:40:48Z"
+ },
+ {
+  "id": "q_fa139802ef33fe10",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which wildlife sanctuary in Assam is famous as the primary habitat for the Indian rhinoceros?",
+  "qHi": "असम का कौन सा वन्यजीव अभयारण्य भारतीय गैंडे के प्राथमिक निवास स्थान के रूप में प्रसिद्ध है?",
+  "optsEn": [
+   "Jim Corbett National Park",
+   "Kaziranga National Park",
+   "Sundarbans National Park",
+   "Gir National Park"
+  ],
+  "optsHi": [
+   "जिम कॉर्बेट राष्ट्रीय उद्यान",
+   "काजीरंगा राष्ट्रीय उद्यान",
+   "सुंदरबन राष्ट्रीय उद्यान",
+   "गिर राष्ट्रीय उद्यान"
+  ],
+  "correct": 1,
+  "explainEn": "Kaziranga National Park in Assam hosts two-thirds of the world's great one-horned rhinoceroses and is a UNESCO World Heritage Site.",
+  "sourceHint": "UNESCO World Heritage Centre",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:40:48Z"
+ },
+ {
+  "id": "q_b65718c1bca4edee",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of financial instrument is a Treasury Bill (T-Bill) issued in India?",
+  "qHi": "भारत में जारी किया जाने वाला ट्रेजरी बिल (T-Bill) किस प्रकार का वित्तीय साधन है?",
+  "optsEn": [
+   "Long-term equity share",
+   "Short-term debt instrument",
+   "Cryptocurrency",
+   "Municipal bond"
+  ],
+  "optsHi": [
+   "दीर्घकालिक इक्विटी शेयर",
+   "अल्पकालिक ऋण साधन",
+   "क्रिप्टोकरेंसी",
+   "नगर निगम बांड"
+  ],
+  "correct": 1,
+  "explainEn": "Treasury bills are short-term money market instruments issued by the Government of India to meet short-term liquidity requirements.",
+  "sourceHint": "Reserve Bank of India (RBI)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:40:48Z"
  }
 ]

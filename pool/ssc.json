@@ -530,5 +530,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-03T06:27:56Z"
+ },
+ {
+  "id": "q_8f65d914c01e5db9",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a Kharif crop in India?",
+  "qHi": "भारत में निम्नलिखित में से कौन सी एक खरीफ फसल है?",
+  "optsEn": [
+   "Wheat",
+   "Paddy",
+   "Barley",
+   "Mustard"
+  ],
+  "optsHi": [
+   "गेहूं",
+   "धान",
+   "जौ",
+   "सरसों"
+  ],
+  "correct": 1,
+  "explainEn": "Paddy is a major Kharif crop sown during the monsoon season in India.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:39:39Z"
+ },
+ {
+  "id": "q_62ea76fe732453e4",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which article of the Indian Constitution deals with the right to equality before law?",
+  "qHi": "भारतीय संविधान का कौन सा अनुच्छेद कानून के समक्ष समानता के अधिकार से संबंधित है?",
+  "optsEn": [
+   "Article 14",
+   "Article 19",
+   "Article 21",
+   "Article 32"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14",
+   "अनुच्छेद 19",
+   "अनुच्छेद 21",
+   "अनुच्छेद 32"
+  ],
+  "correct": 0,
+  "explainEn": "Article 14 of the Constitution of India guarantees equality before law and equal protection of the laws.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:39:39Z"
+ },
+ {
+  "id": "q_a46c75d3a5b5165c",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the standard unit of measuring atmospheric pressure?",
+  "qHi": "वायुमंडलीय दबाव मापने की मानक इकाई क्या है?",
+  "optsEn": [
+   "Joule",
+   "Watt",
+   "Pascal",
+   "Ohm"
+  ],
+  "optsHi": [
+   "जूल",
+   "वाट",
+   "पास्कल",
+   "ओम"
+  ],
+  "correct": 2,
+  "explainEn": "Pascal is the SI unit of pressure, including atmospheric pressure.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:39:39Z"
+ },
+ {
+  "id": "q_da0b3d6f60693176",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which state is the Gir National Park located?",
+  "qHi": "गीर राष्ट्रीय उद्यान किस राज्य में स्थित है?",
+  "optsEn": [
+   "Madhya Pradesh",
+   "Gujarat",
+   "Rajasthan",
+   "Assam"
+  ],
+  "optsHi": [
+   "मध्य प्रदेश",
+   "गुजरात",
+   "राजस्थान",
+   "असम"
+  ],
+  "correct": 1,
+  "explainEn": "Gir National Park and Wildlife Sanctuary is located in the state of Gujarat and is famous for Asiatic lions.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:39:39Z"
+ },
+ {
+  "id": "q_5d5d742a0b1734a2",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which river basin is the Bhakra Nangal Dam built across?",
+  "qHi": "भाखड़ा नांगल बांध किस नदी बेसिन पर बनाया गया है?",
+  "optsEn": [
+   "Ganga",
+   "Sutlej",
+   "Yamuna",
+   "Brahmaputra"
+  ],
+  "optsHi": [
+   "गंगा",
+   "सतलुज",
+   "यमुना",
+   "ब्रह्मपुत्र"
+  ],
+  "correct": 1,
+  "explainEn": "The Bhakra Nangal Dam is constructed on the Sutlej River.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:39:39Z"
+ },
+ {
+  "id": "q_4a31d18d3cffeb96",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who appoints the Chief Justice of India?",
+  "qHi": "भारत के मुख्य न्यायाधीश की नियुक्ति कौन करता है?",
+  "optsEn": [
+   "Prime Minister",
+   "President of India",
+   "Vice President",
+   "Lok Sabha Speaker"
+  ],
+  "optsHi": [
+   "प्रधान मंत्री",
+   "भारत के राष्ट्रपति",
+   "उप राष्ट्रपति",
+   "लोकसभा अध्यक्ष"
+  ],
+  "correct": 1,
+  "explainEn": "The Chief Justice of India and other judges of the Supreme Court are appointed by the President of India.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:39:39Z"
+ },
+ {
+  "id": "q_c9b8bde762b34097",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which vitamin is primarily obtained from sunlight by the human body?",
+  "qHi": "मानव शरीर द्वारा धूप से मुख्य रूप से कौन सा विटामिन प्राप्त किया जाता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Vitamin D is synthesized in the skin upon exposure to sunlight.",
+  "sourceHint": "NCERT Biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:39:39Z"
+ },
+ {
+  "id": "q_451fcc4fff07fff9",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which article of the Indian Constitution provides for the establishment of a Finance Commission?",
+  "qHi": "भारतीय संविधान का कौन सा अनुच्छेद वित्त आयोग की स्थापना का प्रावधान करता है?",
+  "optsEn": [
+   "Article 263",
+   "Article 280",
+   "Article 324",
+   "Article 356"
+  ],
+  "optsHi": [
+   "अनुच्छेद 263",
+   "अनुच्छेद 280",
+   "अनुच्छेद 324",
+   "अनुच्छेद 356"
+  ],
+  "correct": 1,
+  "explainEn": "Article 280 of the Constitution of India provides for a Finance Commission as a quasi-judicial body constituted by the President.",
+  "sourceHint": "Constitution of India, Part XII",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:40:17Z"
+ },
+ {
+  "id": "q_2f97cba7c6269c12",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who was the founder of the Satavahana dynasty?",
+  "qHi": "सातवाहन वंश का संस्थापक कौन था?",
+  "optsEn": [
+   "Simukha",
+   "Gautamiputra Satakarni",
+   "Hall",
+   "Vasishthiputra Pulumavi"
+  ],
+  "optsHi": [
+   "सिमुक",
+   "गौतमीपुत्र सातकर्णि",
+   "हाल",
+   "वाशिष्ठीपुत्र पुळुमावि"
+  ],
+  "correct": 0,
+  "explainEn": "Simukha was the founder of the Satavahana dynasty in the 1st century BCE.",
+  "sourceHint": "NCERT History Class 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:40:17Z"
+ },
+ {
+  "id": "q_f5b78f5bbb6f11a7",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The Barail Range is located in which part of India?",
+  "qHi": "बराईल श्रेणी भारत के किस भाग में स्थित है?",
+  "optsEn": [
+   "Western Ghats",
+   "North-East India",
+   "Central Highlands",
+   "Eastern Ghats"
+  ],
+  "optsHi": [
+   "पश्चिमी घाट",
+   "उत्तर-पूर्व भारत",
+   "मध्य उच्च भूमि",
+   "पूर्वी घाट"
+  ],
+  "correct": 1,
+  "explainEn": "The Barail Range is a hill range running from Assam to Manipur through Nagaland in North-East India.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:40:17Z"
+ },
+ {
+  "id": "q_a84f1f93e7323edf",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which constitutional amendment Act reduced the voting age from 21 years to 18 years in India?",
+  "qHi": "किस संविधान संशोधन अधिनियम द्वारा भारत में मतदान की आयु 21 वर्ष से घटाकर 18 वर्ष की गई?",
+  "optsEn": [
+   "42nd Amendment Act",
+   "44th Amendment Act",
+   "61st Amendment Act",
+   "73rd Amendment Act"
+  ],
+  "optsHi": [
+   "42वां संशोधन अधिनियम",
+   "44वां संशोधन अधिनियम",
+   "61वां संशोधन अधिनियम",
+   "73वां संशोधन अधिनियम"
+  ],
+  "correct": 2,
+  "explainEn": "The 61st Constitutional Amendment Act, 1988 lowered the voting age of elections to the Lok Sabha and Legislative Assemblies from 21 to 18 years.",
+  "sourceHint": "Indian Polity by M. Laxmikanth",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:40:17Z"
+ },
+ {
+  "id": "q_9c998f34a247c078",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Badminton World Federation (BWF) headquarters is located in which country?",
+  "qHi": "बैडमिंटन वर्ल्ड फेडरेशन (BWF) का मुख्यालय किस देश में स्थित है?",
+  "optsEn": [
+   "Switzerland",
+   "Malaysia",
+   "France",
+   "Denmark"
+  ],
+  "optsHi": [
+   "स्विट्जरलैंड",
+   "मलेशिया",
+   "फ्रांस",
+   "डेनमार्क"
+  ],
+  "correct": 1,
+  "explainEn": "The headquarters of the Badminton World Federation is located in Kuala Lumpur, Malaysia.",
+  "sourceHint": "Official BWF statutes and Olympic governing bodies directory",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:40:17Z"
+ },
+ {
+  "id": "q_17fbd0f0def7137b",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which chemical compound is commonly known as Blue Vitriol?",
+  "qHi": "किस रासायनिक यौगिक को सामान्यतः नीला थोथा (Blue Vitriol) कहा जाता है?",
+  "optsEn": [
+   "Copper sulfate",
+   "Iron sulfate",
+   "Magnesium sulfate",
+   "Zinc sulfate"
+  ],
+  "optsHi": [
+   "कॉपर सल्फेट",
+   "आयरन सल्फेट",
+   "मैग्नीशियम सल्फेट",
+   "जिंक सल्फेट"
+  ],
+  "correct": 0,
+  "explainEn": "Copper(II) sulfate pentahydrate is commonly known as blue vitriol.",
+  "sourceHint": "NCERT Science Class 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:40:17Z"
  }
 ]

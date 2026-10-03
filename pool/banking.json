@@ -670,5 +670,453 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-03T06:28:02Z"
+ },
+ {
+  "id": "q_fd462885be01859a",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'I' stand for in the acronym IFSC, which is used in electronic fund transfers in Indian banking?",
+  "qHi": "भारतीय बैंकिंग में इलेक्ट्रॉनिक फंड ट्रांसफर में प्रयुक्त होने वाले संक्षिप्त नाम IFSC में अक्षर 'I' का क्या अर्थ है?",
+  "optsEn": [
+   "Indian",
+   "International",
+   "Interbank",
+   "Institutional"
+  ],
+  "optsHi": [
+   "भारतीय",
+   "अंतर्राष्ट्रीय",
+   "इंटरबैंक",
+   "संस्थागत"
+  ],
+  "correct": 0,
+  "explainEn": "IFSC stands for Indian Financial System Code, an 11-character alphanumeric code used for NEFT, RTGS, and IMPS transactions.",
+  "sourceHint": "Reserve Bank of India (RBI) guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:39:45Z"
+ },
+ {
+  "id": "q_c1b24524b4f74cd3",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which institution regulates the microfinance institutions and regional rural banks in India?",
+  "qHi": "भारत में सूक्ष्म वित्त संस्थानों और क्षेत्रीय ग्रामीण बैंकों को कौन सी संस्था विनियमित करती है?",
+  "optsEn": [
+   "SEBI",
+   "NABARD",
+   "SIDBI",
+   "IRDAI"
+  ],
+  "optsHi": [
+   "सेबी",
+   "नाबार्ड",
+   "सिडबी",
+   "इrdai"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) is the apex regulatory body for overall licensing and regulation of regional rural banks and microfinance institutions in India.",
+  "sourceHint": "NABARD official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:39:45Z"
+ },
+ {
+  "id": "q_de85625efc056993",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Under which ministry does the Department of Financial Services operate in India?",
+  "qHi": "भारत में वित्तीय सेवा विभाग किस मंत्रालय के अंतर्गत आता है?",
+  "optsEn": [
+   "Ministry of Commerce and Industry",
+   "Ministry of Corporate Affairs",
+   "Ministry of Finance",
+   "Ministry of Home Affairs"
+  ],
+  "optsHi": [
+   "वाणिज्य और उद्योग मंत्रालय",
+   "कॉर्पोरेट मामलों के मंत्रालय",
+   "वित्त मंत्रालय",
+   "गृह मंत्रालय"
+  ],
+  "correct": 2,
+  "explainEn": "The Department of Financial Services is a part of the Ministry of Finance, Government of India.",
+  "sourceHint": "Government of India allocation of business rules",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:39:45Z"
+ },
+ {
+  "id": "q_82029bf8bffd8f15",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum deposit amount insured by DICGC per depositor per bank in India?",
+  "qHi": "भारत में DICGC द्वारा प्रति depositor प्रति बैंक अधिकतम कितनी बीमा राशि प्रदान की जाती है?",
+  "optsEn": [
+   "One Lakh Rupees",
+   "Two Lakh Rupees",
+   "Three Lakh Rupees",
+   "Five Lakh Rupees"
+  ],
+  "optsHi": [
+   "एक लाख रुपये",
+   "दो लाख रुपये",
+   "तीन लाख रुपये",
+   "पाँच लाख रुपये"
+  ],
+  "correct": 3,
+  "explainEn": "Deposit Insurance and Credit Guarantee Corporation (DICGC) insures bank deposits up to a maximum of Rs. 5,00,000 per depositor per bank.",
+  "sourceHint": "DICGC official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:39:45Z"
+ },
+ {
+  "id": "q_3a38ff2b7433e79c",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following cards is issued directly by payment networks rather than banks, typically requiring a pre-loaded balance?",
+  "qHi": "निम्नलिखित में से कौन सा कार्ड आमतौर पर बैंकों के बजाय भुगतान नेटवर्क द्वारा सीधे जारी किया जाता है, जिसमें पूर्व-भारित शेष राशि की आवश्यकता होती है?",
+  "optsEn": [
+   "Prepaid Payment Instrument Card",
+   "Credit Card",
+   "Debit Card",
+   "Kisan Credit Card"
+  ],
+  "optsHi": [
+   "प्रीपायड पेमेंट इंस्ट्रूमेंट कार्ड",
+   "क्रेडिट कार्ड",
+   "डेबिट कार्ड",
+   "किसान क्रेडिट कार्ड"
+  ],
+  "correct": 0,
+  "explainEn": "Prepaid Payment Instrument (PPI) cards allow buying of goods and services against the value stored on such instruments.",
+  "sourceHint": "RBI Master Directions on PPIs",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:39:45Z"
+ },
+ {
+  "id": "q_4916f04b18f7468b",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'C' stand for in the financial term 'CASA' account?",
+  "qHi": "वित्तीय शब्द 'CASA' खाते में 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Current",
+   "Capital",
+   "Credit",
+   "Collateral"
+  ],
+  "optsHi": [
+   "करेंट",
+   "कैपिटल",
+   "क्रेडिट",
+   "कोलैटल"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account Savings Account, which represents bank deposits in current and savings accounts.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:39:45Z"
+ },
+ {
+  "id": "q_815730f7c35a2b9a",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization manages the Unified Payments Interface (UPI) ecosystem in India?",
+  "qHi": "भारत में यूनिफाइड पेमेंट इंटरफेस (UPI) पारिस्थितिकी तंत्र का प्रबंधन कौन सा संगठन करता है?",
+  "optsEn": [
+   "RBI",
+   "NPCI",
+   "SEBI",
+   "TRAI"
+  ],
+  "optsHi": [
+   "आरबीआई",
+   "एनपीसीआई",
+   "सेबी",
+   "ट्राई"
+  ],
+  "correct": 1,
+  "explainEn": "National Payments Corporation of India (NPCI) operates the UPI platform in India.",
+  "sourceHint": "NPCI official portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:39:45Z"
+ },
+ {
+  "id": "q_26e20ff46e987910",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary objective of repo rate operations conducted by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा संचालित रेपो रेट संचालन का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To provide long-term housing loans",
+   "To control money supply and inflation",
+   "To issue currency notes of various denominations",
+   "To audit commercial bank branches"
+  ],
+  "optsHi": [
+   "दीर्घकालिक आवास ऋण प्रदान करना",
+   "धन की आपूर्ति और मुद्रास्फीति को नियंत्रित करना",
+   "विभिन्न मूल्यवर्ग के करेंसी नोट जारी करना",
+   "वाणिज्यिक बैंक शाखाओं का लेखा परीक्षण करना"
+  ],
+  "correct": 1,
+  "explainEn": "Repo rate is a monetary policy tool used by the central bank to control liquidity, money supply, and inflation in the economy.",
+  "sourceHint": "RBI Monetary Policy Report",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:39:45Z"
+ },
+ {
+  "id": "q_81c6fa5e1ed00153",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of Open Market Operations conducted by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा संचालित खुले बाजार के संचालन का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To regulate money supply in the economy",
+   "To issue new currency notes",
+   "To fix the exchange rate of the Rupee",
+   "To audit commercial banks"
+  ],
+  "optsHi": [
+   "अर्थव्यवस्था में धन की आपूर्ति को विनियमित करना",
+   "नए करेंसी नोट जारी करना",
+   "रुपे की विनिमय दर तय करना",
+   "वाणिज्यिक बैंकों का लेखा परीक्षण करना"
+  ],
+  "correct": 0,
+  "explainEn": "Open Market Operations involve the buying and selling of government securities by the RBI to regulate the money supply in the economy.",
+  "sourceHint": "RBI official website and Indian Economy textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:40:43Z"
+ },
+ {
+  "id": "q_bbd62b8d83ab2720",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institution regulates Mutual Funds in India?",
+  "qHi": "भारत में म्यूचुअल फंड को कौन सी संस्था विनियमित करती है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India",
+   "Insurance Regulatory and Development Authority",
+   "Pension Fund Regulatory and Development Authority"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति and विनिमय बोर्ड",
+   "बीमा विनियामक and विकास प्राधिकरण",
+   "पेंशन फंड विनियामक and विकास प्राधिकरण"
+  ],
+  "correct": 1,
+  "explainEn": "SEBI (Securities and Exchange Board of India) was established to protect the interests of investors in securities and to promote the development of the securities market, including mutual funds.",
+  "sourceHint": "SEBI Act, 1992",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:40:43Z"
+ },
+ {
+  "id": "q_271984b133d5a529",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which term is used to describe a situation where inflation is high while economic growth slows down and unemployment remains high?",
+  "qHi": "उस स्थिति का वर्णन करने के लिए किस शब्द का उपयोग किया जाता है जहाँ मुद्रास्फीति उच्च होती है जबकि आर्थिक विकास धीमा हो जाता है और बेरोजगारी उच्च बनी रहती है?",
+  "optsEn": [
+   "Deflation",
+   "Stagflation",
+   "Disinflation",
+   "Reflation"
+  ],
+  "optsHi": [
+   "अपस्फीति",
+   "स्टैगफ्लेशन (गतिरोधक मुद्रास्फीति)",
+   "विमुद्रास्फीति",
+   "पुनरुत्थान"
+  ],
+  "correct": 1,
+  "explainEn": "Stagflation is an economic condition characterized by stagnant economic growth, high unemployment, and high inflation.",
+  "sourceHint": "Standard Economics Textbooks and NCERT",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:40:43Z"
+ },
+ {
+  "id": "q_ad3453c86e563ab5",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'M' stand for in the context of Micro, Small and Medium Enterprises (MSME)?",
+  "qHi": "सूक्ष्म, लघु and मध्यम उद्यम (MSME) के संदर्भ में अक्षर 'M' का क्या अर्थ है?",
+  "optsEn": [
+   "Macro",
+   "Medium",
+   "Monetary",
+   "Mercantile"
+  ],
+  "optsHi": [
+   "मैक्रो",
+   "मीडियम (मध्यम)",
+   "मौद्रिक",
+   "मर्केंटाइल"
+  ],
+  "correct": 1,
+  "explainEn": "In MSME, 'M' stands for Medium, coming after Micro and Small in the enterprise classification.",
+  "sourceHint": "Ministry of MSME, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:40:43Z"
+ },
+ {
+  "id": "q_4fbf030f2e93f57e",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following financial instruments represents an ownership position in a corporation?",
+  "qHi": "निम्नलिखित में से कौन सा वित्तीय साधन एक निगम में स्वामित्व की स्थिति का प्रतिनिधित्व करता है?",
+  "optsEn": [
+   "Treasury Bill",
+   "Corporate Bond",
+   "Equity Share",
+   "Certificate of Deposit"
+  ],
+  "optsHi": [
+   "ट्रेजरी बिल",
+   "कॉर्पोरेट बॉंड",
+   "इक्विटी शेयर",
+   "डिपाजिट का प्रमाण पत्र"
+  ],
+  "correct": 2,
+  "explainEn": "Equity shares represent ownership in a company, giving shareholders voting rights and a claim on part of the company's assets and earnings.",
+  "sourceHint": "SEBI and financial markets study material",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:40:43Z"
+ },
+ {
+  "id": "q_c4a7759c052ccfdb",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Basel III norms, what does capital adequacy ratio primarily help a bank guard against?",
+  "qHi": "बेसल III मानदंडों के तहत, पूंजी पर्याप्तता अनुपात मुख्य रूप से बैंक को किससे बचाने में मदद करता है?",
+  "optsEn": [
+   "Cyber security threats",
+   "Foreign exchange fluctuations",
+   "Credit and operational risks",
+   "Employee fraud"
+  ],
+  "optsHi": [
+   "साइबर सुरक्षा खतरे",
+   "विदेशी मुद्रा उतार-चढ़ाव",
+   "ऋण and परिचालन जोखिम",
+   "कर्मचारी धोखाधड़ी"
+  ],
+  "correct": 2,
+  "explainEn": "Capital Adequacy Ratio (CAR) ensures that banks have enough cushion to absorb a reasonable amount of losses arising mainly from credit and operational risks.",
+  "sourceHint": "Bank for International Settlements (BIS) and RBI guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:40:43Z"
+ },
+ {
+  "id": "q_7a53dc280c6c5c16",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India assigns credit ratings to corporate entities and debt instruments?",
+  "qHi": "भारत में कौन सा संगठन कॉर्पोरेट संस्थाओं और ऋण उपकरणों को क्रेडिट रेटिंग प्रदान करता है?",
+  "optsEn": [
+   "CRISIL",
+   "NABARD",
+   "SIDBI",
+   "IRDAI"
+  ],
+  "optsHi": [
+   "क्रिसिल (CRISIL)",
+   "नाबार्ड",
+   "सिडबी",
+   "इrdai"
+  ],
+  "correct": 0,
+  "explainEn": "CRISIL (Credit Rating Information Services of India Limited) is a leading analytical company providing ratings, research, and risk and policy advisory services.",
+  "sourceHint": "SEBI registered rating agencies overview",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:40:43Z"
+ },
+ {
+  "id": "q_56e7cfc6b2cd4bdf",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the full form of NEFT, a nationwide payment system in India?",
+  "qHi": "भारत में एक राष्ट्रव्यापी भुगतान प्रणाली, NEFT का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "National Economy Finance Trust",
+   "Net Equity Fund Transfer",
+   "New Electronic Financial Technology"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "नेशनल इकोनॉमी फाइनेंस ट्रस्ट",
+   "नेट इक्विटी फंड ट्रांसफर",
+   "न्यू इलेक्ट्रॉनिक फाइनेंशियल टेक्नोलॉजी"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, a centralized payment system operated by the RBI.",
+  "sourceHint": "RBI Payment Systems documentation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-03T07:40:43Z"
  }
 ]
