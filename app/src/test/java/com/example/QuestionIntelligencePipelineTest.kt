@@ -143,7 +143,6 @@ class QuestionIntelligencePipelineTest {
         assertTrue("Registered questions in DB should be at least 17", servedCount >= 17)
     }
 
-    @Test
     private fun firstRepeatGame(): Int {
         val profile = UserProfile(name = "Ravi", state = "Uttar Pradesh", city = "Lucknow", age = 25, isStudentMode = false, preparationDomain = "UPSC")
         val texts = mutableSetOf<String>()
