@@ -2378,5 +2378,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-04T05:57:13Z"
+ },
+ {
+  "id": "q_d5ba659e6ff28db5",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary objective of the monetary policy implemented by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा कार्यान्वित मौद्रिक नीति का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "Price stability with economic growth",
+   "Managing the national budget",
+   "Setting income tax slabs",
+   "Regulating stock market trading"
+  ],
+  "optsHi": [
+   "आर्थिक विकास के साथ मूल्य स्थिरता",
+   "राष्ट्रीय बजट का प्रबंधन करना",
+   "आयकर स्लैब तय करना",
+   "शेयर बाजार के कारोबार को विनियमित करना"
+  ],
+  "correct": 0,
+  "explainEn": "The primary objective of monetary policy in India is to maintain price stability while keeping in mind the objective of growth, as mandated by the RBI Act, 1934.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:23:48Z"
+ },
+ {
+  "id": "q_b115aabdcd4a098f",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which institution regulates the mutual fund industry in India?",
+  "qHi": "भारत में म्यूचुअल फंड उद्योग को कौन सी संस्था विनियमित करती है?",
+  "optsEn": [
+   "Securities and Exchange Board of India",
+   "Reserve Bank of India",
+   "Insurance Regulatory and Development Authority",
+   "National Bank for Agriculture and Rural Development"
+  ],
+  "optsHi": [
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "भारतीय रिजर्व बैंक",
+   "बीमा विनियामक और विकास प्राधिकरण",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक"
+  ],
+  "correct": 0,
+  "explainEn": "SEBI is the statutory regulatory body established to protect the interests of investors in securities and to promote the development of the securities market, including mutual funds.",
+  "sourceHint": "SEBI Act, 1992",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:23:48Z"
+ },
+ {
+  "id": "q_17c27032346b7b2b",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the abbreviation 'NEFT' used in Indian banking?",
+  "qHi": "भारतीय बैंकिंग में प्रयुक्त संक्षिप्त नाम 'NEFT' में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "There is no 'L' in NEFT",
+   "Liquidity",
+   "Ledger",
+   "Liability"
+  ],
+  "optsHi": [
+   "NEFT में कोई 'L' नहीं है",
+   "तरलता",
+   "लेज़र",
+   "दायित्व"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer. It does not contain the letter L.",
+  "sourceHint": "RBI payment systems documentation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:23:48Z"
+ },
+ {
+  "id": "q_a37d4f5230301ef0",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization in India acts as the apex institution for agricultural and rural development financing?",
+  "qHi": "भारत में कौन सा संगठन कृषि और ग्रामीण विकास वित्तपोषण के लिए शीर्ष संस्था के रूप में कार्य करता है?",
+  "optsEn": [
+   "NABARD",
+   "SIDBI",
+   "EXIM Bank",
+   "NHB"
+  ],
+  "optsHi": [
+   "नाबार्ड",
+   "सिडबी",
+   "एक्ज़िम बैंक",
+   "एनएचबी"
+  ],
+  "correct": 0,
+  "explainEn": "National Bank for Agriculture and Rural Development (NABARD) was established to provide and regulate credit for promotion and development of agriculture and rural sectors.",
+  "sourceHint": "NABARD Act, 1981",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:23:48Z"
+ },
+ {
+  "id": "q_2f8262c840ffc1d8",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which type of account is generally referred to as a 'Zero Balance Account' under financial inclusion schemes in India?",
+  "qHi": "भारत में वित्तीय समावेशन योजनाओं के तहत आम तौर पर किस प्रकार के खाते को 'शून्य शेष खाता' कहा जाता है?",
+  "optsEn": [
+   "Pradhan Mantri Jan Dhan Yojana account",
+   "Current account",
+   "Fixed deposit account",
+   "NRI account"
+  ],
+  "optsHi": [
+   "प्रधानमंत्री जन धन योजना खाता",
+   "चालू खाता",
+   "सावधि जमा खाता",
+   "एनआरआई खाता"
+  ],
+  "correct": 0,
+  "explainEn": "Pradhan Mantri Jan Dhan Yojana (PMJDY) accounts can be opened with zero balance, aiming to provide affordable access to financial services.",
+  "sourceHint": "Ministry of Finance, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:23:48Z"
+ },
+ {
+  "id": "q_6bf86dc6fcbeb3ca",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of 'ATM' as used in the banking sector?",
+  "qHi": "बैंकिंग क्षेत्र में प्रयुक्त 'ATM' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Automated Teller Machine",
+   "Any Time Money",
+   "Automated Transaction Method",
+   "Authorized Teller Mechanism"
+  ],
+  "optsHi": [
+   "ऑटोमेटेड टेलर मशीन",
+   "एनी टाइम मनी",
+   "ऑटोमेटेड ट्रांजैक्शन मेथड",
+   "ऑथराइज्ड टेलर मैकेनिज्म"
+  ],
+  "correct": 0,
+  "explainEn": "An Automated Teller Machine (ATM) is an electronic telecommunication device that enables customers to perform financial transactions without the need for a human cashier.",
+  "sourceHint": "Banking terminology standard definition",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:23:48Z"
+ },
+ {
+  "id": "q_372d229a2984d888",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institutional agency regulates the regional rural banks (RRBs) in India?",
+  "qHi": "भारत में क्षेत्रीय ग्रामीण बैंकों (RRB) को कौन सी संस्थागत एजेंसी विनियमित करती है?",
+  "optsEn": [
+   "NABARD",
+   "SIDBI",
+   "SEBI",
+   "EXIM Bank"
+  ],
+  "optsHi": [
+   "नाबार्ड",
+   "सिडबी",
+   "सेबी",
+   "एक्जिम बैंक"
+  ],
+  "correct": 0,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) is entrusted with the regulation and supervision of Regional Rural Banks and cooperative banks in India.",
+  "sourceHint": "NABARD statutory mandate and RBI guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:25:31Z"
+ },
+ {
+  "id": "q_82c97eb8f11b47f8",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the Liquidity Adjustment Facility framework of the RBI?",
+  "qHi": "RBI के तरलता समायोजन सुविधा (LAF) ढांचे में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liquidity",
+   "Liability",
+   "Leverage",
+   "Ledger"
+  ],
+  "optsHi": [
+   "लिक्विडिटी",
+   "लायबिलिटी",
+   "लीवेज",
+   "लेजर"
+  ],
+  "correct": 0,
+  "explainEn": "LAF stands for Liquidity Adjustment Facility, which is a monetary policy tool used by the RBI to aid banks in adjusting their daily liquidity mismatches.",
+  "sourceHint": "RBI Glossary of Banking Terms",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:25:31Z"
+ },
+ {
+  "id": "q_ef5a56a84b8c8c21",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under Basel III norms, what does capital conservation buffer primarily aim to protect?",
+  "qHi": "बेसल III मानदंडों के तहत, पूंजी संरक्षण बफर का मुख्य उद्देश्य किसकी रक्षा करना है?",
+  "optsEn": [
+   "A bank's capital during periods of stress",
+   "The foreign exchange rate volatility",
+   "Retail depositors against bank fraud",
+   "Agricultural credit default risks"
+  ],
+  "optsHi": [
+   "तनाव की अवधि के दौरान बैंक की पूंजी",
+   "विदेशी विनिमय दर की अस्थिरता",
+   "बैंक धोखाधड़ी के खिलाफ खुदरा जमाकर्ता",
+   "कृषि ऋण डिफ़ॉल्ट जोखिम"
+  ],
+  "correct": 0,
+  "explainEn": "The Capital Conservation Buffer is designed to ensure that banks build up capital buffers during normal times that can be drawn down as losses are incurred during a stress period.",
+  "sourceHint": "Basel Committee on Banking Supervision guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:25:31Z"
+ },
+ {
+  "id": "q_e97d0246318edf3f",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which entity holds the responsibility of printing and supplying currency notes in India?",
+  "qHi": "भारत में करेंसी नोट छापने और आपूर्ति करने की जिम्मेदारी किस संस्था के पास है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "State Bank of India",
+   "Ministry of Commerce",
+   "NITI Aayog"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय स्टेट बैंक",
+   "वाणिज्य मंत्रालय",
+   "नीति आयोग"
+  ],
+  "correct": 0,
+  "explainEn": "Under Section 22 of the Reserve Bank of India Act, 1934, the RBI has the sole right to issue bank notes in India.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:25:31Z"
+ },
+ {
+  "id": "q_f1968134827772d7",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which term describes a market where long-term securities, both debt and equity, are issued and traded?",
+  "qHi": "उस बाजार को क्या कहा जाता है जहाँ दीर्घकालिक प्रतिभूतियों (ऋण और इक्विटी दोनों) का जारी और कारोबार किया जाता है?",
+  "optsEn": [
+   "Capital market",
+   "Money market",
+   "Foreign exchange market",
+   "Bullion market"
+  ],
+  "optsHi": [
+   "पूंजी बाजार",
+   "मुद्रा बाजार",
+   "विदेशी मुद्रा बाजार",
+   " bullion बाजार"
+  ],
+  "correct": 0,
+  "explainEn": "The capital market is a financial market where long-term debt or equity-backed securities are bought and sold.",
+  "sourceHint": "SEBI educational resources and NCERT Business Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:25:31Z"
  }
 ]

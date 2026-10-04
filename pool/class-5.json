@@ -2434,5 +2434,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-04T05:57:23Z"
+ },
+ {
+  "id": "q_37dea23f434c4363",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these animals is mainly nocturnal?",
+  "qHi": "इनमें से कौन सा जानवर मुख्य रूप से निशाचर (रात में जागने वाला) है?",
+  "optsEn": [
+   "Owl",
+   "Cow",
+   "Crow",
+   "Elephant"
+  ],
+  "optsHi": [
+   "उल्लू",
+   "गाय",
+   "कौवा",
+   "हाथी"
+  ],
+  "correct": 0,
+  "explainEn": "Owls are active during the night and sleep during the day, making them nocturnal.",
+  "sourceHint": "NCERT Class 5 EVS - A Shelter so High",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:23:57Z"
+ },
+ {
+  "id": "q_7416fd184d96a793",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas do plants take in from the atmosphere to make their food?",
+  "qHi": "पौधे अपना भोजन बनाने के लिए वायुमंडल से कौन सी गैस लेते हैं?",
+  "optsEn": [
+   "Oxygen",
+   "Nitrogen",
+   "Carbon dioxide",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "कार्बन डाइऑक्साइड",
+   "हाइड्रोजन"
+  ],
+  "correct": 2,
+  "explainEn": "Plants use carbon dioxide, water, and sunlight to perform photosynthesis.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:23:57Z"
+ },
+ {
+  "id": "q_6dcea40420bd4ebb",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which direction does the magnetic needle in a compass always point towards?",
+  "qHi": "कम्पास की चुंबकीय सुई हमेशा किस दिशा की ओर इशारा करती है?",
+  "optsEn": [
+   "East and West",
+   "North and South",
+   "Up and Down",
+   "Left and Right"
+  ],
+  "optsHi": [
+   "पूर्व और पश्चिम",
+   "उत्तर और दक्षिण",
+   "ऊपर और नीचे",
+   "बाएं और दाएं"
+  ],
+  "correct": 1,
+  "explainEn": "A magnetic compass needle aligns with the Earth's magnetic field, pointing North and South.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:23:57Z"
+ },
+ {
+  "id": "q_1b9865b4f1c7bea5",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a seed that disperses through water?",
+  "qHi": "निम्नलिखित में से कौन सा बीज पानी के माध्यम से फैलता है?",
+  "optsEn": [
+   "Lotus",
+   "Maple",
+   "Cotton",
+   "Dandelion"
+  ],
+  "optsHi": [
+   "कमल",
+   "मेपल",
+   "कपास",
+   "डेंडिलियन"
+  ],
+  "correct": 0,
+  "explainEn": "Lotus seeds and fruits have spongy parts that help them float and disperse in water.",
+  "sourceHint": "NCERT Class 5 EVS - Experiments with Water",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:23:57Z"
+ },
+ {
+  "id": "q_5e84cc512662a8f0",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Seed dispersal in the dandelion plant is primarily carried out by which of the following agents?",
+  "qHi": "डैंडेलियन (सिंहपर्णी) पौधे में बीजों का प्रकीर्णन मुख्य रूप से किस माध्यम से होता है?",
+  "optsEn": [
+   "Water",
+   "Wind",
+   "Animals",
+   "Explosion"
+  ],
+  "optsHi": [
+   "जल",
+   "वायु",
+   "जानवर",
+   "विस्फोट"
+  ],
+  "correct": 1,
+  "explainEn": "Dandelion seeds have feathery hair-like structures that help them float away easily in the wind.",
+  "sourceHint": "NCERT Class 5 Environmental Studies (EVS) Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:25:42Z"
+ },
+ {
+  "id": "q_39f1c16f2b6b49d7",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which layer of the atmosphere contains the ozone layer, which protects us from harmful ultraviolet rays of the Sun?",
+  "qHi": "वायुमंडल की किस परत में ओजोन परत पाई जाती है, जो हमें सूर्य की हानिकारक पराबैंगनी किरणों से बचाती है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The stratosphere contains the ozone layer, which absorbs harmful ultraviolet radiation from the Sun.",
+  "sourceHint": "NCERT Class 7 Geography Chapter 4 (Air)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:25:42Z"
+ },
+ {
+  "id": "q_c303b6ae8bc0c980",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin is synthesized in our skin when it is exposed to sunlight?",
+  "qHi": "सूर्य के प्रकाश के संपर्क में आने पर हमारे त्वचा में कौन सा विटामिन बनता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "The human body synthesizes Vitamin D in the skin when exposed to ultraviolet B rays from sunlight.",
+  "sourceHint": "NCERT Class 6 Science Chapter 2 (Components of Food)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:25:42Z"
+ },
+ {
+  "id": "q_ad310364e679322a",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following historical monuments in India was built by Emperor Shah Jahan as a mausoleum for his wife Mumtaz Mahal?",
+  "qHi": "भारत में निम्नलिखित में से किस ऐतिहासिक स्मारक का निर्माण सम्राट शाहजहाँ ने अपनी पत्नी मुमताज महल के मकबरे के रूप में करवाया था?",
+  "optsEn": [
+   "Qutub Minar",
+   "Red Fort",
+   "Taj Mahal",
+   "Hawa Mahal"
+  ],
+  "optsHi": [
+   "कुतुब मीनार",
+   "लाल किला",
+   "ताजमहल",
+   "हवा महल"
+  ],
+  "correct": 2,
+  "explainEn": "The Taj Mahal in Agra was commissioned by the Mughal emperor Shah Jahan in 1631 to house the tomb of his favorite wife, Mumtaz Mahal.",
+  "sourceHint": "NCERT History textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:25:42Z"
+ },
+ {
+  "id": "q_8ab8dfb46f04b1f2",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the standard chemical symbol for the element gold?",
+  "qHi": "स्वर्ण (सोना) तत्व के लिए मानक रासायनिक प्रतीक क्या है?",
+  "optsEn": [
+   "Ag",
+   "Au",
+   "Pb",
+   "Fe"
+  ],
+  "optsHi": [
+   "Ag",
+   "Au",
+   "Pb",
+   "Fe"
+  ],
+  "correct": 1,
+  "explainEn": "The chemical symbol for gold is Au, which comes from the Latin word 'aurum' meaning shining dawn.",
+  "sourceHint": "NCERT Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:25:42Z"
  }
 ]

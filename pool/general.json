@@ -1790,5 +1790,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-04T05:57:17Z"
+ },
+ {
+  "id": "q_f4076578f3c9f97c",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which festival is known as the Festival of Lights in India?",
+  "qHi": "भारत में किस त्योहार को प्रकाश के त्योहार के रूप में जाना जाता है?",
+  "optsEn": [
+   "Holi",
+   "Diwali",
+   "Eid",
+   "Pongal"
+  ],
+  "optsHi": [
+   "होली",
+   "दिवाली",
+   "ईद",
+   "पोंगल"
+  ],
+  "correct": 1,
+  "explainEn": "Diwali is widely celebrated as the festival of lights across India.",
+  "sourceHint": "CCRT India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:23:53Z"
+ },
+ {
+  "id": "q_f93fe80fae337a54",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the standard unit of electric current in the International System of Units?",
+  "qHi": "अंतरराष्ट्रीय इकाई प्रणाली में विद्युत धारा की मानक इकाई क्या है?",
+  "optsEn": [
+   "Volt",
+   "Watt",
+   "Ampere",
+   "Ohm"
+  ],
+  "optsHi": [
+   "वोल्ट",
+   "वाट",
+   "एम्पियर",
+   "ओम"
+  ],
+  "correct": 2,
+  "explainEn": "The ampere is the SI base unit of electric current.",
+  "sourceHint": "NCERT Physics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:23:53Z"
+ },
+ {
+  "id": "q_f81739c41c4ea715",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which planet in our solar system is known as the Red Planet due to iron oxide prevalent on its surface?",
+  "qHi": "हमारे सौरमंडल में किस ग्रह को उसकी सतह पर प्रचुर मात्रा में मौजूद आयरन ऑक्साइड के कारण लाल ग्रह के रूप में जाना जाता है?",
+  "optsEn": [
+   "Venus",
+   "Mars",
+   "Jupiter",
+   "Saturn"
+  ],
+  "optsHi": [
+   "शुक्र",
+   "मंगल",
+   "बृहस्पति",
+   "शनि"
+  ],
+  "correct": 1,
+  "explainEn": "Mars appears reddish because of iron oxide (rust) on its surface.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:25:36Z"
+ },
+ {
+  "id": "q_6e5def9109979e69",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the famous ancient Indian treatise on statecraft, economic policy, and military strategy called the Arthashastra?",
+  "qHi": "राज्यकला, आर्थिक नीति और सैन्य रणनीति पर आधारित प्राचीन भारतीय ग्रंथ 'अर्थशास्त्र' की रचना किसने की थी?",
+  "optsEn": [
+   "Kalidasa",
+   "Kautilya",
+   "Banabhatta",
+   "Valmiki"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "कौटिल्य",
+   "बाणभट्ट",
+   "वाल्मीकि"
+  ],
+  "correct": 1,
+  "explainEn": "The Arthashastra was authored by Kautilya, also known as Chanakya.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:25:36Z"
+ },
+ {
+  "id": "q_41235341a7169a12",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin is primarily synthesized in the human skin upon exposure to ultraviolet sunlight?",
+  "qHi": "पराबैंगनी सूर्य के प्रकाश के संपर्क में आने पर मानव त्वचा में मुख्य रूप से कौन सा विटामिन संश्लेषित होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin C",
+   "Vitamin D",
+   "Vitamin K"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन सी",
+   "विटामिन डी",
+   "विटामिन के"
+  ],
+  "correct": 2,
+  "explainEn": "Vitamin D is produced in the skin when exposed to UVB radiation from sunlight.",
+  "sourceHint": "NCERT Biology Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:25:36Z"
+ },
+ {
+  "id": "q_ea9cd92d9c0ad5bd",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which mountain range separates the continents of Europe and Asia?",
+  "qHi": "कौन सी पर्वत श्रृंखला यूरोप और एशिया महाद्वीपों को अलग करती है?",
+  "optsEn": [
+   "The Himalayas",
+   "The Andes",
+   "The Ural Mountains",
+   "The Alps"
+  ],
+  "optsHi": [
+   "हिमालय",
+   "एंडीज़",
+   "यूराल पर्वत",
+   "आल्प्स"
+  ],
+  "correct": 2,
+  "explainEn": "The Ural Mountains form a major part of the conventional dividing line between Europe and Asia.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:25:36Z"
  }
 ]

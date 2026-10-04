@@ -1958,5 +1958,481 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-04T05:56:53Z"
+ },
+ {
+  "id": "q_b37f20071fd9c19b",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the famous medieval Indian text 'Ain-i-Akbari'?",
+  "qHi": "प्रसिद्ध मध्यकालीन भारतीय ग्रंथ 'आईना-ए-अकबरी' किसने लिखा था?",
+  "optsEn": [
+   "Abul Fazl",
+   "Badauni",
+   "Faizi",
+   "Abdu'l-Qadir"
+  ],
+  "optsHi": [
+   "अुल फज़ल",
+   "बदायूँनी",
+   "फैज़ी",
+   "अब्दुल कादिर"
+  ],
+  "correct": 0,
+  "explainEn": "Ain-i-Akbari is the third volume of the Akbarnama, written by Akbar's court historian Abul Fazl.",
+  "sourceHint": "NCERT Class 12 History, Kings and Chronicles",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:23:34Z"
+ },
+ {
+  "id": "q_fb82f6195751cd7b",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of market structure has a single seller and no close substitutes?",
+  "qHi": "किस बाजार संरचना में एक अकेला विक्रेता और कोई निकट विकल्प नहीं होता है?",
+  "optsEn": [
+   "Perfect competition",
+   "Monopolistic competition",
+   "Oligopoly",
+   "Monopoly"
+  ],
+  "optsHi": [
+   "पूर्ण प्रतियोगिता",
+   "एकाधिकारवादी प्रतियोगिता",
+   "अल्पाधिकार",
+   "एकाधिकार"
+  ],
+  "correct": 3,
+  "explainEn": "A monopoly is characterized by a market with a single seller selling a unique product with no close substitutes.",
+  "sourceHint": "NCERT Class 12 Economics, Microeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:23:34Z"
+ },
+ {
+  "id": "q_179f3c475d067d13",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In Python programming, which data type is mutable?",
+  "qHi": "पायथन प्रोग्रामिंग में, कौन सा डेटा प्रकार परिवर्तनीय (mutable) है?",
+  "optsEn": [
+   "List",
+   "Tuple",
+   "String",
+   "Integer"
+  ],
+  "optsHi": [
+   "सूची (List)",
+   "टपल (Tuple)",
+   "स्ट्रिंग (String)",
+   "पूर्णांक (Integer)"
+  ],
+  "correct": 0,
+  "explainEn": "In Python, lists are mutable data types, meaning their elements can be modified after creation, unlike tuples, strings, and integers.",
+  "sourceHint": "NCERT Class 12 Computer Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:23:34Z"
+ },
+ {
+  "id": "q_cba6fe6b1d2c6d2a",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Article of the Constitution of India abolishes 'Untouchability' and forbids its practice in any form?",
+  "qHi": "भारत के संविधान का कौन सा अनुच्छेद 'अस्पृश्यता' को समाप्त करता है और किसी भी रूप में इसके अभ्यास पर प्रतिबंध लगाता है?",
+  "optsEn": [
+   "Article 14",
+   "Article 17",
+   "Article 19",
+   "Article 21"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14",
+   "अनुच्छेद 17",
+   "अनुच्छेद 19",
+   "अनुच्छेद 21"
+  ],
+  "correct": 1,
+  "explainEn": "Article 17 of the Indian Constitution abolishes untouchability and makes its practice in any form a punishable offense.",
+  "sourceHint": "Constitution of India, Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:25:13Z"
+ },
+ {
+  "id": "q_c2e4436cfc434cc8",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In a p-type semiconductor, which of the following acts as the majority charge carriers?",
+  "qHi": "एक p-प्रकार के अर्धचालक में, निम्नलिखित में से कौन बहुमत आवेश वाहक के रूप में कार्य करता है?",
+  "optsEn": [
+   "Electrons",
+   "Holes",
+   "Protons",
+   "Neutrons"
+  ],
+  "optsHi": [
+   "इलेक्ट्रॉन",
+   "होल (विवर)",
+   "प्रोटॉन",
+   "न्यूट्रॉन"
+  ],
+  "correct": 1,
+  "explainEn": "Doping an intrinsic semiconductor with trivalent impurities creates electron vacancies known as holes, which are the majority charge carriers in p-type semiconductors.",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:25:13Z"
+ },
+ {
+  "id": "q_44580d6531bd136b",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which macroeconomic policy instrument involves the central bank buying or selling government securities in the open market?",
+  "qHi": "किस समष्टि आर्थिक नीति उपकरण में केंद्रीय बैंक खुले बाजार में सरकारी प्रतिभूतियों को खरीदना या बेचना शामिल करता है?",
+  "optsEn": [
+   "Open market operations",
+   "Cash reserve ratio",
+   "Statutory liquidity ratio",
+   "Bank rate"
+  ],
+  "optsHi": [
+   "खुले बाजार की क्रियाएं",
+   "नकद आरक्षित अनुपात",
+   "वैधानिक तरलता अनुपात",
+   "बैंक दर"
+  ],
+  "correct": 0,
+  "explainEn": "Open market operations refer to the buying and selling of government securities by the central bank to control the money supply.",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:25:13Z"
+ },
+ {
+  "id": "q_0b614dd921a45d37",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the coordination number of the central metal ion in a face-centered cubic close-packed metal crystal structure?",
+  "qHi": "फलक-केंद्रित घनीय संकुलित धातु क्रिस्टल संरचना में केंद्रीय धातु आयन की उपसहसंयोजन संख्या क्या है?",
+  "optsEn": [
+   "4",
+   "6",
+   "8",
+   "12"
+  ],
+  "optsHi": [
+   "4",
+   "6",
+   "8",
+   "12"
+  ],
+  "correct": 3,
+  "explainEn": "In both face-centered cubic (FCC) and hexagonal close-packed (HCP) arrangements, each sphere is in contact with 12 adjacent spheres, giving a coordination number of 12.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:25:13Z"
+ },
+ {
+  "id": "q_30841f9a6b890119",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which British official introduced the policy of Doctrine of Lapse to expand British dominion in India?",
+  "qHi": "भारत में ब्रिटिश आधिपत्य का विस्तार करने के लिए किस ब्रिटिश अधिकारी ने हड़प नीति (Doctrine of Lapse) की शुरुआत की थी?",
+  "optsEn": [
+   "Lord Wellesley",
+   "Lord Dalhousie",
+   "Lord Curzon",
+   "Lord Cornwallis"
+  ],
+  "optsHi": [
+   "लॉर्ड वेलेजली",
+   "लॉर्ड डलहौजी",
+   "लॉर्ड कर्जन",
+   "लॉर्ड कॉर्नवॉलिस"
+  ],
+  "correct": 1,
+  "explainEn": "Lord Dalhousie, Governor-General of India, extensively applied the Doctrine of Lapse to annex various princely states.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:25:13Z"
+ },
+ {
+  "id": "q_be24021dd6235303",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In English literature, what is the term for a metrical line consisting of five metrical feet, typically used in blank verse and sonnets?",
+  "qHi": "अंग्रेजी साहित्य में, पांच छंद पाद से मिलकर बनी पद्य पंक्ति को क्या कहा जाता है, जिसका उपयोग आमतौर पर ब्लैंक वर्स और सोनेट में किया जाता है?",
+  "optsEn": [
+   "Iambic pentameter",
+   "Trochaic tetrameter",
+   "Anapestic trimeter",
+   "Dactylic hexameter"
+  ],
+  "optsHi": [
+   "याम्बिक पेंटामीटर",
+   "ट्रोकेइक टेट्रामीटर",
+   "एनापेस्टिक ट्रिमीटर",
+   "डैक्टिलिक हेक्सामीटर"
+  ],
+  "correct": 0,
+  "explainEn": "Iambic pentameter consists of a line with five iambic feet, forming the standard rhythm of English poetry such as Shakespearean sonnets.",
+  "sourceHint": "NCERT Class 12 English Elective",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:25:13Z"
+ },
+ {
+  "id": "q_cd7e3d3c1c46f693",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In linear programming problems, what is the term used for the inequalities or equations that limit the values of decision variables?",
+  "qHi": "रैखिक प्रोग्रामिंग समस्याओं में, उन असमानताओं या समीकरणों के लिए किस शब्द का उपयोग किया जाता है जो निर्णय चर के मानों को सीमित करते हैं?",
+  "optsEn": [
+   "Objective function",
+   "Constraints",
+   "Optimal solution",
+   "Feasible region"
+  ],
+  "optsHi": [
+   "उद्देश्य फलन",
+   "विरोध (Constraints)",
+   "इष्टतम हल",
+   "संगत क्षेत्र"
+  ],
+  "correct": 1,
+  "explainEn": "Constraints are the linear inequalities or equations that set restrictions on the decision variables in a linear programming problem.",
+  "sourceHint": "NCERT Class 12 Mathematics, Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:25:13Z"
+ },
+ {
+  "id": "q_7ddf350f84d6c289",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following sites of the Harappan civilization yielded a dockyard?",
+  "qHi": "हड़प्पा सभ्यता के निम्नलिखित में से किस स्थल से एक गोदीबाड़ा (डॉकयार्ड) प्राप्त हुआ था?",
+  "optsEn": [
+   "Harappa",
+   "Mohenjo-daro",
+   "Lothal",
+   "Kalibangan"
+  ],
+  "optsHi": [
+   "हड़प्पा",
+   "मोहनजोदड़ो",
+   "लोथल",
+   "कालीबंगा"
+  ],
+  "correct": 2,
+  "explainEn": "Lothal in Gujarat is well-known for its brick dockyard connected to the Gulf of Khambhat, indicating maritime trade in the Harappan civilization.",
+  "sourceHint": "NCERT Class 12 History - Bricks, Beads and Bones",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:26:00Z"
+ },
+ {
+  "id": "q_e6e3fe18682f8e5f",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the Mughal Empire, what was the primary function of a 'Amin'?",
+  "qHi": "मुगल साम्राज्य के संदर्भ में, 'अमीन' का मुख्य कार्य क्या था?",
+  "optsEn": [
+   "Military commander of a province",
+   "Revenue assessor and collector",
+   "Royal physician",
+   "Head of the judicial department"
+  ],
+  "optsHi": [
+   "प्रांत का सैन्य कमांडर",
+   "राजस्व निर्धारक और संग्राहक",
+   "शाही चिकित्सक",
+   "न्याय विभाग के प्रमुख"
+  ],
+  "correct": 1,
+  "explainEn": "The Amin was an official responsible for inspecting and assessing land revenue in the Mughal administrative system.",
+  "sourceHint": "NCERT Class 12 History - Peasants, Zamindars and the State",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:26:00Z"
+ },
+ {
+  "id": "q_de54e43b7eeb9ab1",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which institutional body in India prepares the National Accounts Statistics, covering GDP estimates?",
+  "qHi": "भारत में सकल घरेलू उत्पाद (GDP) के अनुमानों को शामिल करते हुए राष्ट्रीय लेखा सांख्यिकी कौन सा संस्थागत निकाय तैयार करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "NITI Aayog",
+   "National Statistical Office",
+   "Ministry of Finance"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "नीति आयोग",
+   "राष्ट्रीय सांख्यिकी कार्यालय",
+   "वित्त मंत्रालय"
+  ],
+  "correct": 2,
+  "explainEn": "The National Statistical Office (NSO), under the Ministry of Statistics and Programme Implementation, is responsible for macroeconomic data collection and GDP estimation.",
+  "sourceHint": "NCERT Class 12 Economics - National Income Accounting",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:26:00Z"
+ },
+ {
+  "id": "q_e1c8a82219861db4",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In a p-n junction diode, what happens to the depletion region under forward bias?",
+  "qHi": "एक p-n जंक्शन डायोड में, अग्र अभिनति (फॉरवर्ड बाइस) के तहत अवक्षय क्षेत्र (डिप्लेशन रीजन) का क्या होता है?",
+  "optsEn": [
+   "It widens",
+   "It narrows",
+   "It remains unchanged",
+   "It disappears completely at zero volts"
+  ],
+  "optsHi": [
+   "यह चौड़ा हो जाता है",
+   "यह संकीर्ण हो जाता है",
+   "यह अपरिवर्तित रहता है",
+   "यह शून्य वोल्ट पर पूरी तरह से गायब हो जाता है"
+  ],
+  "correct": 1,
+  "explainEn": "Under forward bias, the applied voltage opposes the potential barrier, which reduces the width of the depletion region.",
+  "sourceHint": "NCERT Class 12 Physics - Semiconductor Electronics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:26:00Z"
+ },
+ {
+  "id": "q_d6fb0ce523715460",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which coordination compound exhibits linkage isomerism due to an ambidentate ligand?",
+  "qHi": "कौन सा उपसहसंयोजन यौगिक एक उभयदन्तुक (एम्बिडेंटेट) लिगैंड के कारण लिंकेज आइसोमेरिज्म (बंधन समावयवता) प्रदर्शित करता है?",
+  "optsEn": [
+   "[Co(NH3)5Cl]Cl2",
+   "[Co(NH3)5(NO2)]Cl2",
+   "[Pt(NH3)2Cl2]",
+   "[Co(en)3]Cl3"
+  ],
+  "optsHi": [
+   "[Co(NH3)5Cl]Cl2",
+   "[Co(NH3)5(NO2)]Cl2",
+   "[Pt(NH3)2Cl2]",
+   "[Co(en)3]Cl3"
+  ],
+  "correct": 1,
+  "explainEn": "The nitrite ion (NO2-) is an ambidentate ligand that can coordinate through nitrogen or oxygen, leading to linkage isomerism in [Co(NH3)5(NO2)]Cl2.",
+  "sourceHint": "NCERT Class 12 Chemistry - Coordination Compounds",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:26:00Z"
+ },
+ {
+  "id": "q_61474cc0128f10b7",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specialized tissue in flowering plants is primarily responsible for the transport of water and minerals?",
+  "qHi": "फूल वाले पौधों में कौन सा विशिष्ट ऊतक मुख्य रूप से पानी और खनिजों के परिवहन के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Phloem",
+   "Xylem",
+   "Cortex",
+   "Pith"
+  ],
+  "optsHi": [
+   "फ्लोएम",
+   "जाइलम",
+   "कॉर्टेक्स",
+   "पिथ"
+  ],
+  "correct": 1,
+  "explainEn": "Xylem is the vascular tissue in plants that transports water and dissolved minerals upward from the roots.",
+  "sourceHint": "NCERT Class 12 Biology - Anatomy of Flowering Plants",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:26:00Z"
+ },
+ {
+  "id": "q_4e4177b23f457eff",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In Macroeconomics, what does the term 'Marginal Propensity to Consume' (MPC) measure?",
+  "qHi": "समष्टि अर्थशास्त्र (मैक्रोइकॉनॉमिक्स) में, 'उपभोग की सीमांत प्रवृत्ति' (MPC) पद क्या मापता है?",
+  "optsEn": [
+   "Total consumption divided by total income",
+   "Change in consumption resulting from a change in income",
+   "Total savings divided by total investment",
+   "Change in investment resulting from a change in interest rate"
+  ],
+  "optsHi": [
+   "कुल उपभोग को कुल आय से विभाजित करना",
+   "आय में परिवर्तन के परिणामस्वरूप उपभोग में परिवर्तन",
+   "कुल बचत को कुल निवेश से विभाजित करना",
+   "ब्याज दर में परिवर्तन के परिणामस्वरूप निवेश में परिवर्तन"
+  ],
+  "correct": 1,
+  "explainEn": "MPC is defined as the ratio of the change in consumption to the change in total income (ΔC / ΔY).",
+  "sourceHint": "NCERT Class 12 Economics - Determination of Income and Employment",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T12:26:00Z"
  }
 ]
