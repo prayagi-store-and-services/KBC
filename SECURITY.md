@@ -1,5 +1,9 @@
 # Security notes - KBC
 
+## UPI ID removed (new in 1.1.0)
+- Before 1.1.0 the profile screen asked for an optional UPI ID "to receive prizes", and after a game the app logged that it was "securely transmitting" a payout record. Nothing was ever sent anywhere and the app pays no prizes: it only counts points. Showing that field and that message was not true, so both are removed. The app no longer asks for, keeps or uses a UPI ID. Saving the profile clears any UPI ID that an older version stored on this phone. No money, payment or payout feature exists in KBC. Permissions: none added or removed. No new library.
+- Rule for all Netra apps: every datum shown must be backed by real evidence; when none is available the app shows "Unavailable" and nothing is made up.
+
 ## In-app update (new)
 
 What it does: on app open, at most once a day, the app asks `https://github.com/prayagi-store-and-services/KBC/releases/latest/download/latest.json` whether a newer version exists. If yes, it shows the version and what changed, and the user taps Update. The app downloads `app-release.apk` from the same release, checks its size and SHA-256 against latest.json, and only then opens the Android package installer. The user confirms with one system tap.

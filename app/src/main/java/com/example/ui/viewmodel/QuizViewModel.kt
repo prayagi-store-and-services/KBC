@@ -1216,19 +1216,6 @@ class QuizViewModel(application: Application) : AndroidViewModel(application) {
                 } catch (_: Exception) {}
             }
 
-            // Payout Reporting - only if not disqualified and winning amount > 0
-            if (reason != "DISQUALIFIED" && !profile.upiId.isNullOrBlank() && finalPoints > 0) {
-                val dto = com.example.data.api.PayoutReportDto(
-                    userName = profile.name,
-                    upiId = profile.upiId,
-                    pointsWon = finalPoints,
-                    correctAnswers = currentSessionCorrectCount,
-                    incorrectAnswers = currentSessionWrongCount,
-                    resultId = currentSessionId
-                )
-                com.example.data.api.DefaultPayoutReportingService().reportPayout(dto)
-            }
-
             // Speak Result
             if (_isVoiceNarrationEnabled.value) {
                 if (reason == "DISQUALIFIED") {

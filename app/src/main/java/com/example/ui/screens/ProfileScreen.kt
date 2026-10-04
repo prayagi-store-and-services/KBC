@@ -147,7 +147,6 @@ fun ProfileScreen(
         val gender = currentProfile.hostGender.uppercase()
         mutableStateOf(if (gender == "MALE") "MALE" else "FEMALE")
     }
-    var upiId by remember(currentProfile) { mutableStateOf<String>(currentProfile.upiId) }
     var validationError by remember { mutableStateOf<String?>(null) }
 
     // Junior Specific States
@@ -532,21 +531,6 @@ fun ProfileScreen(
 
                     Spacer(modifier = Modifier.height(14.dp))
 
-                    OutlinedTextField(
-                        value = upiId,
-                        onValueChange = { upiId = it },
-                        label = { Text("UPI ID (Optional - पुरस्कार प्राप्ति हेतु)") },
-                        modifier = Modifier
-                            .fillMaxWidth()
-                            .testTag("profile_upi_input"),
-                        colors = OutlinedTextFieldDefaults.colors(
-                            focusedBorderColor = GoldPrimary,
-                            unfocusedBorderColor = NavyBorder,
-                            focusedTextColor = TextPrimary,
-                            unfocusedTextColor = TextPrimary
-                        ),
-                        singleLine = true
-                    )
                 }
             }
 
@@ -1166,7 +1150,7 @@ fun ProfileScreen(
                         isStudentMode = isJuniorMode,
                         languageMode = selectedLanguage,
                         hostGender = selectedHostGender,
-                        upiId = upiId,
+                        upiId = "",
                         interests = selectedInterests.toList()
                     )
                     viewModel.saveProfile(updated)
