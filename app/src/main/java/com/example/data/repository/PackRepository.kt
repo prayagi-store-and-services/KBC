@@ -186,7 +186,7 @@ class PackRepository(private val context: Context) {
             expertAdviceHindi = "", expertAdviceEnglish = "",
             fiftyFiftyDiscardIndices = wrong.take(2),
             fiftyFiftyProofHindi = "", fiftyFiftyProofEnglish = "",
-            semanticFingerprint = q.id, sessionId = sessionId, generationVersion = 2
+            semanticFingerprint = q.id, logicFingerprint = "pack:" + q.id, sessionId = sessionId, generationVersion = 2
         )
     }
 }
