@@ -35,6 +35,7 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import androidx.compose.foundation.layout.statusBarsPadding
 import androidx.compose.foundation.background
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.Alignment
@@ -70,7 +71,25 @@ class MainActivity : ComponentActivity() {
                 com.example.update.AppUpdatePrompt()
                 Scaffold(
                     modifier = Modifier.fillMaxSize(),
-                    containerColor = NavyBackground
+                    containerColor = NavyBackground,
+            topBar = {
+                // Standard Netra header: 56 dp, only app name, version and date/time. Everything else scrolls.
+                val ctx = androidx.compose.ui.platform.LocalContext.current
+                var clockNow by androidx.compose.runtime.remember { androidx.compose.runtime.mutableStateOf(java.util.Date()) }
+                androidx.compose.runtime.LaunchedEffect(Unit) { while (true) { clockNow = java.util.Date(); kotlinx.coroutines.delay(30_000) } }
+                val ownVersion = androidx.compose.runtime.remember { try { ctx.packageManager.getPackageInfo(ctx.packageName, 0).versionName } catch (e: Exception) { null } ?: "Unavailable" }
+                androidx.compose.foundation.layout.Row(
+                    modifier = Modifier.fillMaxWidth().background(NavyBackground).statusBarsPadding().height(56.dp).padding(horizontal = 16.dp),
+                    verticalAlignment = androidx.compose.ui.Alignment.CenterVertically,
+                    horizontalArrangement = androidx.compose.foundation.layout.Arrangement.SpaceBetween
+                ) {
+                    androidx.compose.foundation.layout.Column {
+                        Text(text = "TarkShastra", fontSize = 20.sp, fontWeight = androidx.compose.ui.text.font.FontWeight.Bold, maxLines = 1, color = androidx.compose.ui.graphics.Color.White)
+                        Text(text = "v" + ownVersion, fontSize = 12.sp, maxLines = 1, color = androidx.compose.ui.graphics.Color(0xFFB0B8C8))
+                    }
+                    Text(text = java.text.SimpleDateFormat("EEE d MMM, HH:mm", java.util.Locale.getDefault()).format(clockNow), fontSize = 12.sp, maxLines = 1, color = androidx.compose.ui.graphics.Color(0xFFB0B8C8))
+                }
+            },
                 ) { innerPadding ->
                     TarkAppContent(
                         viewModel = quizViewModel,
