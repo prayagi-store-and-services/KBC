@@ -1902,5 +1902,537 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-03T21:18:36Z"
+ },
+ {
+  "id": "q_85b9e96bc9af51c9",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which direction does the sun rise from every morning?",
+  "qHi": "प्रतिदिन सुबह सूर्य किस दिशा से उगता है?",
+  "optsEn": [
+   "West",
+   "North",
+   "East",
+   "South"
+  ],
+  "optsHi": [
+   "पश्चिम",
+   "उत्तर",
+   "पूर्व",
+   "दक्षिण"
+  ],
+  "correct": 2,
+  "explainEn": "The Earth rotates from west to east, making the sun appear to rise in the east.",
+  "sourceHint": "NCERT Geography basics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:55:36Z"
+ },
+ {
+  "id": "q_85d088fda07ed7e3",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of resource is solar energy considered to be?",
+  "qHi": "सौर ऊर्जा को किस प्रकार का संसाधन माना जाता है?",
+  "optsEn": [
+   "Renewable",
+   "Exhaustible",
+   "Non-renewable",
+   "Artificial"
+  ],
+  "optsHi": [
+   "नवीकरणीय",
+   "समाप्त होने योग्य",
+   "अनवीकरणीय",
+   "कृत्रिम"
+  ],
+  "correct": 0,
+  "explainEn": "Solar energy is renewable because it comes from the sun and will not run out.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:55:36Z"
+ },
+ {
+  "id": "q_c4082b775629d704",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which national festival of India is celebrated on the 15th of August?",
+  "qHi": "भारत का कौन सा राष्ट्रीय त्योहार 15 अगस्त को मनाया जाता है?",
+  "optsEn": [
+   "Republic Day",
+   "Independence Day",
+   "Gandhi Jayanti",
+   "Childrens Day"
+  ],
+  "optsHi": [
+   "गणतंत्र दिवस",
+   "स्वतंत्रता दिवस",
+   "गांधी जयंती",
+   "बाल दिवस"
+  ],
+  "correct": 1,
+  "explainEn": "India celebrates its Independence Day on August 15 every year.",
+  "sourceHint": "NCERT Civics basics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:55:36Z"
+ },
+ {
+  "id": "q_34ba402d58117b5b",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What do caterpillars transform into after forming a chrysalis?",
+  "qHi": "इल्ली (कैटरपिलर) प्यूपा (कोशित) बनने के बाद किस रूप में बदल जाती है?",
+  "optsEn": [
+   "Frog",
+   "Butterfly",
+   "Bird",
+   "Spider"
+  ],
+  "optsHi": [
+   "मेंढक",
+   "तितली",
+   "पक्षी",
+   "मकड़ी"
+  ],
+  "correct": 1,
+  "explainEn": "A caterpillar goes through metamorphosis inside a chrysalis to become an adult butterfly.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:55:36Z"
+ },
+ {
+  "id": "q_6fac43031c8c1c50",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organ in the human body pumps blood to all parts of the body?",
+  "qHi": "मानव शरीर में कौन सा अंग शरीर के सभी भागों में रक्त पंप करता है?",
+  "optsEn": [
+   "Lungs",
+   "Heart",
+   "Stomach",
+   "Kidney"
+  ],
+  "optsHi": [
+   "फेफड़े",
+   "हृदय",
+   "पेट",
+   "गुर्दा"
+  ],
+  "correct": 1,
+  "explainEn": "The heart is a muscular organ that pumps blood through the blood vessels of the circulatory system.",
+  "sourceHint": "NCERT Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:56:17Z"
+ },
+ {
+  "id": "q_1bf1d221ec759fcd",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Seed dispersal in the dandelion plant takes place mainly through which agent?",
+  "qHi": "डंडेलियन (सिंहपर्णी) पौधे में बीजों का प्रकीर्णन मुख्य रूप से किस माध्यम से होता है?",
+  "optsEn": [
+   "Water",
+   "Wind",
+   "Explosion",
+   "Insects"
+  ],
+  "optsHi": [
+   "जल",
+   "वायु",
+   "विस्फोट",
+   "कीड़े"
+  ],
+  "correct": 1,
+  "explainEn": "Dandelion seeds have hair-like structures that help them float easily in the air, allowing wind to disperse them.",
+  "sourceHint": "NCERT Class 5 Science Chapter 2 (A Snake Charmer's Story / Plant reproduction topics)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:56:17Z"
+ },
+ {
+  "id": "q_bd806f82baf14867",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these gases is present in the largest amount in the Earth's atmosphere?",
+  "qHi": "पृथ्वी के वायुमंडल में इनमें से कौन सी गैस सबसे अधिक मात्रा में मौजूद है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "आर्गन"
+  ],
+  "correct": 2,
+  "explainEn": "Nitrogen makes up about 78 percent of the Earth's atmosphere, making it the most abundant gas.",
+  "sourceHint": "NCERT Class 7 Geography Chapter 4 (Air)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:56:17Z"
+ },
+ {
+  "id": "q_42b82c9f59ba9b7d",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary natural source of energy for the water cycle on Earth?",
+  "qHi": "पृथ्वी पर जल चक्र के लिए ऊर्जा का प्राथमिक प्राकृतिक स्रोत क्या है?",
+  "optsEn": [
+   "The Sun",
+   "Geothermal heat",
+   "Wind energy",
+   "Ocean tides"
+  ],
+  "optsHi": [
+   "सूर्य",
+   "भू-उष्मीय ऊर्जा",
+   "पवन ऊर्जा",
+   "महासागरीय ज्वार"
+  ],
+  "correct": 0,
+  "explainEn": "Heat from the sun provides the energy necessary for the evaporation of water, driving the entire water cycle.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 3 (Motions of the Earth) / Water cycle chapters",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:56:17Z"
+ },
+ {
+  "id": "q_45753d5cb5fc65ab",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin is produced in the human body when the skin is exposed to sunlight?",
+  "qHi": "त्वचा के सूर्य के प्रकाश के संपर्क में आने पर मानव शरीर में कौन सा विटामिन बनता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "The skin synthesizes Vitamin D when it is exposed to ultraviolet B rays from sunlight.",
+  "sourceHint": "NCERT Science textbooks (Components of Food)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:56:17Z"
+ },
+ {
+  "id": "q_ee4db131fc6f1904",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which historical monument built by Shah Jahan is located on the banks of the Yamuna River in Agra?",
+  "qHi": "शाहजहाँ द्वारा निर्मित कौन सा ऐतिहासिक स्मारक आगरा में यमुना नदी के तट पर स्थित है?",
+  "optsEn": [
+   "Taj Mahal",
+   "Qutub Minar",
+   "Red Fort",
+   "Humaun's Tomb"
+  ],
+  "optsHi": [
+   "ताजमहल",
+   "कुतुब मीनार",
+   "लाल किला",
+   "हुमायूँ का मकबरा"
+  ],
+  "correct": 0,
+  "explainEn": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the Yamuna river in Agra.",
+  "sourceHint": "NCERT History / Social Studies textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:56:17Z"
+ },
+ {
+  "id": "q_d32e3e085eb2e0c4",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which part of a plant is primarily responsible for absorbing water and minerals from the soil?",
+  "qHi": "पौधे का कौन सा भाग मुख्य रूप से मिट्टी से जल और खनिजों को अवशोषित करने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Leaf",
+   "Flower",
+   "Root",
+   "Stem"
+  ],
+  "optsHi": [
+   "पत्ती",
+   "फूल",
+   "जड़",
+   "तना"
+  ],
+  "correct": 2,
+  "explainEn": "Roots grow underground and absorb water and essential mineral nutrients from the soil for the plant.",
+  "sourceHint": "NCERT Class 6 Science Chapter 7 (Getting to Know Plants)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:56:17Z"
+ },
+ {
+  "id": "q_02bb57aa56f812c7",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which planet in our solar system has the highest surface temperature, even though it is not the closest to the Sun?",
+  "qHi": "हमारे सौरमंडल में किस ग्रह का सतही तापमान सबसे अधिक है, भले ही वह सूर्य के सबसे निकट नहीं है?",
+  "optsEn": [
+   "Mercury",
+   "Venus",
+   "Mars",
+   "Jupiter"
+  ],
+  "optsHi": [
+   "बुध",
+   "शुक्र",
+   "मंगल",
+   "बृहस्पति"
+  ],
+  "correct": 1,
+  "explainEn": "Venus has a thick atmosphere of carbon dioxide that traps heat through a runaway greenhouse effect, making it hotter than Mercury.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:57:23Z"
+ },
+ {
+  "id": "q_29f4fa954ba6aae7",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of forest is typically found in the delta regions of large rivers where tidal waters submerge the land?",
+  "qHi": "बड़ी नदियों के डेल्टा क्षेत्रों में जहाँ ज्वारीय जल भूमि को डुबो देता है, आमतौर पर किस प्रकार के वन पाए जाते हैं?",
+  "optsEn": [
+   "Coniferous forests",
+   "Mangrove forests",
+   "Tropical deciduous forests",
+   "Thorn forests"
+  ],
+  "optsHi": [
+   "शंकुधारी वन",
+   "मैन्ग्रोव वन",
+   "उष्णकटिबंधीय पर्णपाती वन",
+   "कंटीले वन"
+  ],
+  "correct": 1,
+  "explainEn": "Mangrove forests, such as the Sundarbans, thrive in saline coastal water and tidal delta regions.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:57:23Z"
+ },
+ {
+  "id": "q_452bcf5fb9ec340a",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which imaginary line passing through the center of the Earth divides it into the Northern and Southern Hemispheres?",
+  "qHi": "पृथ्वी के केंद्र से गुजरने वाली कौन सी काल्पनिक रेखा इसे उत्तरी और दक्षिणी गोलार्ध में विभाजित करती है?",
+  "optsEn": [
+   "Tropic of Cancer",
+   "Equator",
+   "Prime Meridian",
+   "Tropic of Capricorn"
+  ],
+  "optsHi": [
+   "कर्क रेखा",
+   "भूमध्य रेखा (विषुवत वृत्त)",
+   "प्रमुख याम्योत्तर",
+   "मकर रेखा"
+  ],
+  "correct": 1,
+  "explainEn": "The Equator is the 0-degree latitude line that divides the Earth into the Northern and Southern Hemispheres.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:57:23Z"
+ },
+ {
+  "id": "q_62f281c6e915fe76",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which vitamin is synthesized in human skin when exposed to sunlight?",
+  "qHi": "सूर्य के प्रकाश के संपर्क में आने पर मानव त्वचा में कौन सा विटामिन बनता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Ultraviolet B rays from sunlight interact with a protein in the skin to produce Vitamin D.",
+  "sourceHint": "NCERT Class 6 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:57:23Z"
+ },
+ {
+  "id": "q_523d3fdfdafdf2c3",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary gas that makes up the majority of Earth's atmosphere by volume?",
+  "qHi": "आयतन के हिसाब से पृथ्वी के वायुमंडल का अधिकांश हिस्सा बनाने वाली प्रमुख गैस कौन सी है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "आर्गन"
+  ],
+  "correct": 2,
+  "explainEn": "Nitrogen makes up about 78 percent of Earth's atmosphere by volume.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:57:23Z"
+ },
+ {
+  "id": "q_a55e2463f41ae44d",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which part of a plant does photosynthesis primarily take place?",
+  "qHi": "पौधे के किस भाग में मुख्य रूप से प्रकाश संश्लेषण होता है?",
+  "optsEn": [
+   "Roots",
+   "Flowers",
+   "Leaves",
+   "Seeds"
+  ],
+  "optsHi": [
+   "जड़ें",
+   "फूल",
+   "पत्तियां",
+   "बीज"
+  ],
+  "correct": 2,
+  "explainEn": "Leaves contain chlorophyll, which captures sunlight to carry out photosynthesis.",
+  "sourceHint": "NCERT Class 6 Science Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:57:23Z"
+ },
+ {
+  "id": "q_51c4ab23d00d2df0",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which instrument is used to measure earthquakes?",
+  "qHi": "भूकंप मापने के लिए किस यंत्र का उपयोग किया जाता है?",
+  "optsEn": [
+   "Barometer",
+   "Seismograph",
+   "Anemometer",
+   "Thermometer"
+  ],
+  "optsHi": [
+   "बैरोमीटर",
+   "भूकंपलेखी (सिस्मोग्राफ)",
+   "एनिमोमीटर",
+   "थर्मोमीटर"
+  ],
+  "correct": 1,
+  "explainEn": "A seismograph detects and records the vibrations caused by seismic waves during an earthquake.",
+  "sourceHint": "NCERT Class 7 Geography Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:57:23Z"
+ },
+ {
+  "id": "q_3ee0cf8a27730e26",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the process called when liquid water changes into water vapor due to heat?",
+  "qHi": "गर्मी के कारण तरल पानी के जल वाष्प में बदलने की प्रक्रिया को क्या कहते हैं?",
+  "optsEn": [
+   "Condensation",
+   "Evaporation",
+   "Precipitation",
+   "Melting"
+  ],
+  "optsHi": [
+   "संघनन",
+   "वाष्पीकरण",
+   "वर्षा",
+   "पिघलना"
+  ],
+  "correct": 1,
+  "explainEn": "Evaporation is the process by which water changes from a liquid to a gas or vapor.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:57:23Z"
  }
 ]

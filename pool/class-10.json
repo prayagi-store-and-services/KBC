@@ -1594,5 +1594,537 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-03T21:18:02Z"
+ },
+ {
+  "id": "q_0be548baf992dbe5",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas is liberated when a metal reacts with a dilute acid?",
+  "qHi": "जब कोई धातु किसी तनु अम्ल के साथ अभिक्रिया करती है, तो कौन सी गैस निकलती है?",
+  "optsEn": [
+   "Oxygen",
+   "Hydrogen",
+   "Nitrogen",
+   "Carbon dioxide"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "हाइड्रोजन",
+   "नाइट्रोजन",
+   "कार्बन डाइऑक्साइड"
+  ],
+  "correct": 1,
+  "explainEn": "Metals react with dilute acids to form a salt and displace hydrogen gas.",
+  "sourceHint": "NCERT Class 10 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:55:46Z"
+ },
+ {
+  "id": "q_72fb049d10b9d27f",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which crop is known as a staple food crop of India?",
+  "qHi": "किस फसल को भारत की मुख्य खाद्य फसल के रूप में जाना जाता है?",
+  "optsEn": [
+   "Wheat",
+   "Rice",
+   "Maize",
+   "Barley"
+  ],
+  "optsHi": [
+   "गेहूं",
+   "चावल",
+   "मक्का",
+   "जौ"
+  ],
+  "correct": 1,
+  "explainEn": "Rice is the staple food crop of a majority of the people in India.",
+  "sourceHint": "NCERT Class 10 Geography Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:55:46Z"
+ },
+ {
+  "id": "q_55a4add984464de8",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which type of resource is petroleum?",
+  "qHi": "पेट्रोलियम किस प्रकार का संसाधन है?",
+  "optsEn": [
+   "Renewable",
+   "Non-renewable",
+   "Continuous",
+   "Biotic"
+  ],
+  "optsHi": [
+   "नवीकरणीय",
+   "अनवीकरणीय",
+   "सतत",
+   "जैविक"
+  ],
+  "correct": 1,
+  "explainEn": "Petroleum is a fossil fuel and a non-renewable resource because it takes millions of years to form.",
+  "sourceHint": "NCERT Class 10 Geography Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:55:46Z"
+ },
+ {
+  "id": "q_9e7c7e78a646b99b",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of government is followed in India?",
+  "qHi": "भारत में किस प्रकार की सरकार अपनाई जाती है?",
+  "optsEn": [
+   "Dictatorship",
+   "Monarchy",
+   "Federal democracy",
+   "Military rule"
+  ],
+  "optsHi": [
+   "तानाशाही",
+   "राजशाही",
+   "संघीय लोकतंत्र",
+   "सैन्य शासन"
+  ],
+  "correct": 2,
+  "explainEn": "India has a federal system of government with a democratic framework.",
+  "sourceHint": "NCERT Class 10 Civics Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:55:46Z"
+ },
+ {
+  "id": "q_6e408479da435c9a",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which plant hormone is primarily responsible for cell elongation and phototropism in stems?",
+  "qHi": "कौन सा पादप हार्मोन मुख्य रूप से तनों में कोशिका दीर्घानीकरण और प्रकाशानुवर्तन के लिए उत्तरदायी है?",
+  "optsEn": [
+   "Auxin",
+   "Gibberellin",
+   "Cytokinin",
+   "Abscisic acid"
+  ],
+  "optsHi": [
+   "ऑक्सिन",
+   "जिबरेलिन",
+   "साइटोकाइनिन",
+   "एब्सिसिक अम्ल"
+  ],
+  "correct": 0,
+  "explainEn": "Auxin is synthesized at the shoot tip and helps the cells grow longer, promoting bending toward light.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:56:48Z"
+ },
+ {
+  "id": "q_40ec70ae6be4c3d9",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the chemical name and formula of bleaching powder?",
+  "qHi": "विरंजक चूर्ण का रासायनिक नाम और सूत्र क्या है?",
+  "optsEn": [
+   "Calcium hydroxide, Ca(OH)2",
+   "Calcium oxychloride, CaOCl2",
+   "Sodium carbonate, Na2CO3",
+   "Sodium chloride, NaCl"
+  ],
+  "optsHi": [
+   "कैल्शियम हाइड्रोक्साइड, Ca(OH)2",
+   "कैल्शियम ऑक्सीक्लोराइड, CaOCl2",
+   "सोडियम कार्बोनेट, Na2CO3",
+   "सोडियम क्लोराइड, NaCl"
+  ],
+  "correct": 1,
+  "explainEn": "Bleaching powder is represented chemically as calcium oxychloride, CaOCl2.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:56:48Z"
+ },
+ {
+  "id": "q_772d07d4d8336dec",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organelle in a plant cell is responsible for trapping solar energy to perform photosynthesis?",
+  "qHi": "पादप कोशिका का कौन सा अंगक प्रकाश संश्लेषण करने के लिए सौर ऊर्जा को अवशोषित करने के लिए उत्तरदायी है?",
+  "optsEn": [
+   "Mitochondria",
+   "Ribosome",
+   "Chloroplast",
+   "Vacuole"
+  ],
+  "optsHi": [
+   "माइटोकॉन्ड्रिया",
+   "राइबोसोम",
+   "क्लोरोप्लास्ट",
+   "रिक्तिका"
+  ],
+  "correct": 2,
+  "explainEn": "Chloroplasts contain chlorophyll which absorbs sunlight required for photosynthesis.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:56:48Z"
+ },
+ {
+  "id": "q_03fc6ae60fc2ea1e",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which state of India is the Sariska Tiger Reserve located?",
+  "qHi": "सरिस्का बाघ अभयारण्य भारत के किस राज्य में स्थित है?",
+  "optsEn": [
+   "Uttarakhand",
+   "Rajasthan",
+   "Madhya Pradesh",
+   "Assam"
+  ],
+  "optsHi": [
+   "उत्तराखंड",
+   "राजस्थान",
+   "मध्य प्रदेश",
+   "असम"
+  ],
+  "correct": 1,
+  "explainEn": "Sariska Tiger Reserve is located in the Alwar district of Rajasthan.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:56:48Z"
+ },
+ {
+  "id": "q_894ac618cd7f48ba",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which sector of the Indian economy currently employs the maximum number of workers?",
+  "qHi": "भारतीय अर्थव्यवस्था का कौन सा क्षेत्र वर्तमान में सबसे अधिक श्रमिकों को रोजगार देता है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Information technology sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "तृतीयक क्षेत्र",
+   "सूचना प्रौद्योगिकी क्षेत्र"
+  ],
+  "correct": 0,
+  "explainEn": "The primary sector, mainly agriculture, remains the largest employer in the Indian economy.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:56:48Z"
+ },
+ {
+  "id": "q_7785c9da502131a6",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of reaction is the formation of water from hydrogen gas and oxygen gas?",
+  "qHi": "हाइड्रोजन गैस और ऑक्सीजन गैस से जल का बनना किस प्रकार की अभिक्रिया है?",
+  "optsEn": [
+   "Decomposition reaction",
+   "Combination reaction",
+   "Displacement reaction",
+   "Double displacement reaction"
+  ],
+  "optsHi": [
+   "वियोजन अभिक्रिया",
+   "संयोजन अभिक्रिया",
+   "विस्थापन अभिक्रिया",
+   "द्वि-विस्थापन अभिक्रिया"
+  ],
+  "correct": 1,
+  "explainEn": "Two or more reactants combine to form a single product, making it a combination reaction.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:56:48Z"
+ },
+ {
+  "id": "q_126afb966624d58e",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which subject matter belongs to the Union List in the Indian Constitution?",
+  "qHi": "भारतीय संविधान में कौन सा विषय संघ सूची के अंतर्गत आता है?",
+  "optsEn": [
+   "Police",
+   "Education",
+   "Defence",
+   "Agriculture"
+  ],
+  "optsHi": [
+   "पुलिस",
+   "शिक्षा",
+   "रक्षा",
+   "कृषि"
+  ],
+  "correct": 2,
+  "explainEn": "Defence of the country is a matter of national importance and is included in the Union List.",
+  "sourceHint": "NCERT Class 10 Civics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:56:48Z"
+ },
+ {
+  "id": "q_910cabbc8de400db",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the Indian Parliament, which specific financial bill requires the prior recommendation of the President of India to be introduced in the Lok Sabha?",
+  "qHi": "भारतीय संसद के संदर्भ में, लोकसभा में पेश किए जाने के लिए किस विशिष्ट धन विधेयक को भारत के राष्ट्रपति की पूर्व अनुशंसा की आवश्यकता होती है?",
+  "optsEn": [
+   "A Bill seeking abolition of the Legislative Council in a State",
+   "A Bill making provisions for any of the matters specified in sub-clauses (a) to (f) of Article 110",
+   "A Bill containing only provisions involving expenditure from the Consolidated Fund of India",
+   "A Bill affecting taxation in which states are interested"
+  ],
+  "optsHi": [
+   "किसी राज्य में विधान परिषद को समाप्त करने वाला विधेयक",
+   "अनुच्छेद 110 के उप-खंड (a) से (f) में निर्दिष्ट किसी भी मामले के लिए प्रावधान करने वाला विधेयक",
+   "भारत की संचित निधि से व्यय से संबंधित प्रावधानों वाला विधेयक",
+   "राज्यों के हित वाले कराधान को प्रभावित करने वाला विधेयक"
+  ],
+  "correct": 1,
+  "explainEn": "Article 115 and Article 117 of the Constitution outline that a Money Bill or financial bill under Article 110 cannot be introduced without the President's recommendation.",
+  "sourceHint": "Indian Constitution, Article 117",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:57:56Z"
+ },
+ {
+  "id": "q_eee430e40d1051c2",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which microorganism is primarily responsible for the nitrogen fixation process in the root nodules of leguminous plants?",
+  "qHi": "फलीदार पौधों की जड़ की गांठों में नाइट्रोजन स्थिरीकरण प्रक्रिया के लिए मुख्य रूप से कौन सा सूक्ष्म जीव जिम्मेदार है?",
+  "optsEn": [
+   "Azotobacter",
+   "Rhizobium",
+   "Clostridium",
+   "Nitrosomonas"
+  ],
+  "optsHi": [
+   "एज़ोटोबैक्टर",
+   "राइज़ोबियम",
+   "क्लॉस्ट्रिडियम",
+   "नाइट्रोसोमोनास"
+  ],
+  "correct": 1,
+  "explainEn": "Rhizobium forms a symbiotic association with the root nodules of leguminous plants and fixes atmospheric nitrogen.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 2/6 context or general biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:57:56Z"
+ },
+ {
+  "id": "q_f7c827b64cc13c4b",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the process of electrolytic refining of copper, where is the pure copper deposited?",
+  "qHi": "तांबे के विद्युत अपघटनी परिष्करण की प्रक्रिया के दौरान, शुद्ध तांबा कहाँ जमा होता है?",
+  "optsEn": [
+   "Anode",
+   "Cathode",
+   "Electrolyte solution",
+   "Anode mud"
+  ],
+  "optsHi": [
+   "एनोड",
+   "कैथोड",
+   "इलेक्ट्रोलाइट घोल",
+   "एनोड मड"
+  ],
+  "correct": 1,
+  "explainEn": "During electrolytic refining, impure copper is made the anode and a strip of pure copper is made the cathode. Pure copper from the electrolyte deposits on the cathode.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:57:56Z"
+ },
+ {
+  "id": "q_b36bce6c576815e0",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In a horizontal circular coil carrying current, the magnetic field lines inside the coil are in which geometric configuration?",
+  "qHi": "धारा ले जाने वाली एक क्षैतिज वृत्ताकार कुंडली में, कुंडली के अंदर चुंबकीय क्षेत्र रेखाएं किस ज्यामितीय विन्यास में होती हैं?",
+  "optsEn": [
+   "Concentric circles centered at the wire",
+   "Elliptical loops",
+   "Nearly straight parallel lines",
+   "Radial lines pointing outwards"
+  ],
+  "optsHi": [
+   "तार पर केंद्रित संकेंद्रित वृत्त",
+   "अंडाकार लूप",
+   "लगभग सीधी समानांतर रेखाएं",
+   "बाहर की ओर इशारा करती हुई रेडियल रेखाएं"
+  ],
+  "correct": 2,
+  "explainEn": "Near the center of a circular current-carrying coil, the magnetic field lines appear as straight parallel lines, indicating a uniform magnetic field.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 13",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:57:56Z"
+ },
+ {
+  "id": "q_f7171144d3885da3",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following carbon compounds undergoes addition reactions readily?",
+  "qHi": "निम्नलिखित में से कौन सा कार्बन यौगिक आसानी से संकलन (addition) प्रतिक्रियाओं से गुजरता है?",
+  "optsEn": [
+   "C2H6",
+   "CH4",
+   "C2H4",
+   "C3H8"
+  ],
+  "optsHi": [
+   "C2H6",
+   "CH4",
+   "C2H4",
+   "C3H8"
+  ],
+  "correct": 2,
+  "explainEn": "Unsaturated hydrocarbons like alkenes (C2H4) and alkynes undergo addition reactions, whereas saturated hydrocarbons (alkanes) undergo substitution reactions.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:57:56Z"
+ },
+ {
+  "id": "q_e45f36646a4becb9",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "According to the NCERT framework on federalism, which tier of government in India possesses the residuary legislative subjects?",
+  "qHi": "संघवाद पर एनसीईआरटी ढांचे के अनुसार, भारत में सरकार के किस स्तर के पास अवशिष्ट विधायी विषय हैं?",
+  "optsEn": [
+   "State Government only",
+   "Union Government only",
+   "Both Union and State Governments concurrently",
+   "Local self-governments"
+  ],
+  "optsHi": [
+   "केवल राज्य सरकार",
+   "केवल केंद्र सरकार",
+   "केंद्र और राज्य दोनों सरकारें समवर्ती रूप से",
+   "स्थानीय स्वशासन"
+  ],
+  "correct": 1,
+  "explainEn": "Subjects that do not fall under the Union, State, or Concurrent lists are called residuary subjects, and as per the Indian Constitution, they are legislated by the Union Parliament.",
+  "sourceHint": "NCERT Class 10 Democratic Politics II, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:57:56Z"
+ },
+ {
+  "id": "q_97398f30055f63a4",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In human nephrons, the selective reabsorption of specific substances like glucose, amino acids, and major amounts of water occurs primarily in which part?",
+  "qHi": "मानव नेफ्रॉन में, ग्लूकोज, अमीनो एसिड और पानी की बड़ी मात्रा जैसे विशिष्ट पदार्थों का चयनात्मक पुनravsorption मुख्य रूप से किस भाग में होता है?",
+  "optsEn": [
+   "Bowman's capsule",
+   "Glomerulus",
+   "Proximal convoluted tubule",
+   "Collecting duct"
+  ],
+  "optsHi": [
+   "बोमैन कैप्सूल",
+   "ग्लोमेरुलस",
+   "समीपस्थ संवलित नलिका",
+   "संग्राहक नलिका"
+  ],
+  "correct": 2,
+  "explainEn": "As the urine flows along the tubule (specifically the proximal convoluted tubule), substances useful to the body are selectively reabsorbed back into the blood.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:57:56Z"
+ },
+ {
+  "id": "q_12d556847b2cbf53",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What optical phenomenon is primarily responsible for the twinkling of stars observed from the Earth's surface?",
+  "qHi": "पृथ्वी की सतह से देखे जाने वाले तारों के टिमटिमाने के लिए मुख्य रूप से कौन सी प्रकाशिक घटना जिम्मेदार है?",
+  "optsEn": [
+   "Atmospheric refraction of starlight",
+   "Dispersion of light through atmospheric water droplets",
+   "Total internal reflection in the stratosphere",
+   "Scattering of light by dust particles"
+  ],
+  "optsHi": [
+   "तारों के प्रकाश का वायुमंडलीय अपवर्तन",
+   "वायुमंडलीय जल की बूंदों के माध्यम से प्रकाश का विक्षेपण",
+   "समताप मंडल में पूर्ण आंतरिक परावर्तन",
+   "धूल कणों द्वारा प्रकाश का प्रकीर्णन"
+  ],
+  "correct": 0,
+  "explainEn": "The twinkling of a star is due to atmospheric refraction of starlight through successive changing refractive indices of the Earth's atmosphere.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:57:56Z"
  }
 ]

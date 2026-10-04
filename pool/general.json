@@ -1650,5 +1650,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-03T21:18:30Z"
+ },
+ {
+  "id": "q_90a5b6b14c4ace62",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which Indian state is the Kaziranga National Park located?",
+  "qHi": "काजीरंगा राष्ट्रीय उद्यान किस भारतीय राज्य में स्थित है?",
+  "optsEn": [
+   "Assam",
+   "Gujarat",
+   "Uttarakhand",
+   "Kerala"
+  ],
+  "optsHi": [
+   "असम",
+   "गुजरात",
+   "उत्तराखंड",
+   "केरल"
+  ],
+  "correct": 0,
+  "explainEn": "Kaziranga National Park is located in the state of Assam and is famous for the great Indian one-horned rhinoceros.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:57:17Z"
+ },
+ {
+  "id": "q_ce7f3af207a4535a",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin is primarily produced in the human body by exposure to sunlight?",
+  "qHi": "सूरज की रोशनी के संपर्क में आने से मानव शरीर में मुख्य रूप से कौन सा विटामिन बनता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin C",
+   "Vitamin D",
+   "Vitamin K"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन सी",
+   "विटामिन डी",
+   "विटामिन के"
+  ],
+  "correct": 2,
+  "explainEn": "Vitamin D is synthesized in the skin when exposed to ultraviolet B (UVB) rays from sunlight.",
+  "sourceHint": "NCERT Biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:57:17Z"
+ },
+ {
+  "id": "q_b823a567675d80cd",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which classical dance form originated in the state of Kerala?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप केरल राज्य से उत्पन्न हुआ है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a major form of classical Indian dance that originated in Kerala, known for its elaborate costumes and makeup.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:57:17Z"
+ },
+ {
+  "id": "q_53940bf57aa7109e",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the standard unit of electric current in the International System of Units (SI)?",
+  "qHi": "अंतरराष्ट्रीय इकाई प्रणाली (एसआई) में विद्युत धारा की मानक इकाई क्या है?",
+  "optsEn": [
+   "Volt",
+   "Ohm",
+   "Ampere",
+   "Watt"
+  ],
+  "optsHi": [
+   "वोल्ट",
+   "ओम",
+   "एम्पीयर",
+   "वाट"
+  ],
+  "correct": 2,
+  "explainEn": "The ampere is the SI base unit of electric current, named after the French physicist André-Marie Ampère.",
+  "sourceHint": "NCERT Physics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:57:17Z"
+ },
+ {
+  "id": "q_7b0f929a663d74ba",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which city is known as the Silicon Valley of India?",
+  "qHi": "किस शहर को भारत की सिलिकॉन वैली के रूप में जाना जाता है?",
+  "optsEn": [
+   "Mumbai",
+   "Hyderabad",
+   "Bengaluru",
+   "Chennai"
+  ],
+  "optsHi": [
+   "मुंबई",
+   "हैदराबाद",
+   "बेंगलुरु",
+   "चेन्नई"
+  ],
+  "correct": 2,
+  "explainEn": "Bengaluru is widely regarded as the nation's premier IT hub and is nicknamed the Silicon Valley of India.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:57:17Z"
  }
 ]

@@ -2070,5 +2070,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-03T21:18:25Z"
+ },
+ {
+  "id": "q_93fc36b4ed8b28c9",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which term is used to describe a loan that has not been serviced for 90 days or more?",
+  "qHi": "उस ऋण को वर्णित करने के लिए किस शब्द का उपयोग किया जाता है जिसका 90 दिन या उससे अधिक समय तक भुगतान नहीं किया गया है?",
+  "optsEn": [
+   "Standard asset",
+   "Non-performing asset",
+   "Subordinated debt",
+   "Venture capital"
+  ],
+  "optsHi": [
+   "मानक परिसंपत्ति",
+   "गैर-निष्पादित परिसंपत्ति",
+   "अधीनस्थ ऋण",
+   "उद्यम पूंजी"
+  ],
+  "correct": 1,
+  "explainEn": "An advance is classified as a Non-Performing Asset (NPA) if interest or principal installment remains overdue for a period of more than 90 days.",
+  "sourceHint": "RBI Master Circular on Prudential Norms",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:56:08Z"
+ },
+ {
+  "id": "q_66138a0ccf1799c5",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the term 'CASA' primarily refer to in the context of commercial banking deposits?",
+  "qHi": "वाणिज्यिक बैंकिंग जमा के संदर्भ में 'CASA' शब्द का मुख्य रूप से क्या अर्थ है?",
+  "optsEn": [
+   "Current Account Savings Account",
+   "Credit Asset Security Agreement",
+   "Centralized Automated System Architecture",
+   "Capital Adequacy Standard Assessment"
+  ],
+  "optsHi": [
+   "करेंट अकाउंट सेविंग्स अकाउंट",
+   "क्रेडिट एसेट सिक्योरिटी एग्रीमेंट",
+   "सेंट्रलाइज्ड ऑटोमेटेड सिस्टम आर्किटेक्चर",
+   "कैपिटल एडिक्वेसी स्टैंडर्ड असेसमेंट"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account and Savings Account, which are low-cost deposits for banks.",
+  "sourceHint": "Indian Institute of Banking and Finance textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:56:08Z"
+ },
+ {
+  "id": "q_ee12eee4282dffad",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization issues the one rupee currency note in India?",
+  "qHi": "भारत में एक रुपये का करेंसी नोट कौन जारी करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "State Bank of India",
+   "Ministry of Finance",
+   "NITI Aayog"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय स्टेट बैंक",
+   "वित्त मंत्रालय",
+   "नीति आयोग"
+  ],
+  "correct": 2,
+  "explainEn": "One rupee notes and coins are issued by the Ministry of Finance, Government of India, while other currency notes are issued by the RBI.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:56:08Z"
+ },
+ {
+  "id": "q_45e9ccb77077fc71",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'RTGS' stand for in the Indian payment systems?",
+  "qHi": "भारतीय भुगतान प्रणालियों में 'RTGS' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Real Time Gross Settlement",
+   "Rapid Transfer Global System",
+   "Regular Transaction Guarantee Scheme",
+   "Reserve Treasury Growth Standard"
+  ],
+  "optsHi": [
+   "रियल टाइम ग्रॉस सेटलमेंट",
+   "रैपिड ट्रांसफर ग्लोबल सिस्टम",
+   "रेगुलर ट्रांजैक्शन गारंटी स्कीम",
+   "रिजर्व ट्रेजरी ग्रोथ स्टैंडर्ड"
+  ],
+  "correct": 0,
+  "explainEn": "RTGS stands for Real Time Gross Settlement, which enables continuous and real-time settlement of fund transfers.",
+  "sourceHint": "RBI payment systems documentation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:56:08Z"
+ },
+ {
+  "id": "q_36201090c68ab8aa",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which financial ratio indicates the proportion of total deposits that commercial banks must keep with the RBI in the form of liquid cash?",
+  "qHi": "कौन सा वित्तीय अनुपात कुल जमा के उस अनुपात को इंगित करता है जिसे वाणिज्यिक बैंकों को तरल नकदी के रूप में आरबीआई के पास रखना होता है?",
+  "optsEn": [
+   "Statutory Liquidity Ratio",
+   "Cash Reserve Ratio",
+   "Repo Rate",
+   "Bank Rate"
+  ],
+  "optsHi": [
+   "सांविधिक तरलता अनुपात",
+   "नकद आरक्षित अनुपात",
+   "रेपो दर",
+   "बैंक दर"
+  ],
+  "correct": 1,
+  "explainEn": "Cash Reserve Ratio (CRR) is the minimum percentage of a bank's total deposits that it has to maintain with the central bank in liquid cash.",
+  "sourceHint": "NCERT Economics textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:56:08Z"
+ },
+ {
+  "id": "q_10bc468302ce72bf",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institution regulates the Credit Information Companies (CIC) in India?",
+  "qHi": "भारत में क्रेडिट इंफॉर्मेशन कंपनियों (CIC) को कौन सा संस्थान विनियमित करता है?",
+  "optsEn": [
+   "SEBI",
+   "RBI",
+   "IRDAI",
+   "SIDBI"
+  ],
+  "optsHi": [
+   "सेबी",
+   "आरबीआई",
+   "इरडाई",
+   "सिडबी"
+  ],
+  "correct": 1,
+  "explainEn": "Credit Information Companies in India are regulated by the Reserve Bank of India under the Credit Information Companies (Regulation) Act, 2005.",
+  "sourceHint": "Reserve Bank of India Act",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:57:13Z"
+ },
+ {
+  "id": "q_fea29183cf41e40d",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of the Foreign Exchange Management Act (FEMA) in India, what does 'OCB' stand for?",
+  "qHi": "भारत में विदेशी मुद्रा प्रबंधन अधिनियम (FEMA) के संदर्भ में, 'OCB' का क्या अर्थ है?",
+  "optsEn": [
+   " Overseas Corporate Body",
+   "Overnight Call Borrowing",
+   "Offshore Currency Bond",
+   "Operational Credit Balance"
+  ],
+  "optsHi": [
+   "ओवरसीज कॉरपोरेट बॉडी",
+   "ओवरनाइट कॉल बॉरोइंग",
+   "ऑफशोर करेंसी बॉन्ड",
+   "ऑपरेशनल क्रेडिट बैलेंस"
+  ],
+  "correct": 0,
+  "explainEn": "OCB stands for Overseas Corporate Body, defined under FEMA regulations.",
+  "sourceHint": "FEMA Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:57:13Z"
+ },
+ {
+  "id": "q_644d443db75d3443",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following money market instruments has a maximum maturity period of 364 days in India?",
+  "qHi": "भारत में निम्नलिखित में से किस मुद्रा बाजार उपकरण की अधिकतम परिपक्वता अवधि 364 दिन होती है?",
+  "optsEn": [
+   "Certificate of Deposit",
+   "Commercial Paper",
+   "Treasury Bill",
+   "Call Money"
+  ],
+  "optsHi": [
+   "सर्टिफिकेट ऑफ डिपॉजिट",
+   "कमर्शियल पेपर",
+   "Treasury Bill (राजकोषीय बिल)",
+   "कॉल मनी"
+  ],
+  "correct": 2,
+  "explainEn": "Treasury Bills are issued by the Government of India in three tenors: 91 days, 182 days, and 364 days.",
+  "sourceHint": "RBI Publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:57:13Z"
+ },
+ {
+  "id": "q_b1b74d9c39ffcd1b",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of the Prompt Corrective Action (PCA) framework introduced by the RBI for banks?",
+  "qHi": "बैंकों के लिए आरबीआई द्वारा शुरू किए गए त्वरित सुधार कार्रवाई (PCA) फ्रेमवर्क का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To merge weak banks with foreign banks",
+   "To monitor financial health and intervene early on capitalization issues",
+   "To manage agricultural loan waivers",
+   "To regulate digital payment gateways"
+  ],
+  "optsHi": [
+   "कमजोर बैंकों का विदेशी बैंकों में विलय करना",
+   "वित्तीय स्वास्थ्य की निगरानी करना और पूंजीकरण के मुद्दों पर समय रहते हस्तक्षेप करना",
+   "कृषि ऋण माफी का प्रबंधन करना",
+   "डिजिटल भुगतान गेटवे को विनियमित करना"
+  ],
+  "correct": 1,
+  "explainEn": "The PCA framework enables the RBI to step in early and take corrective measures when a bank is found to be vulnerable due to factors like poor asset quality or low capital.",
+  "sourceHint": "RBI Notifications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:57:13Z"
+ },
+ {
+  "id": "q_c2c33296f805b6af",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following organizations acts as the central counterparty for clearing and settlement of trades in the Indian government securities market?",
+  "qHi": "निम्नलिखित में से कौन सा संगठन भारतीय सरकारी प्रतिभूति बाजार में ट्रेडों के क्लीयरिंग और निपटान के लिए केंद्रीय प्रतिपक्ष के रूप में कार्य करता है?",
+  "optsEn": [
+   "CCIL",
+   "NPCI",
+   "NABARD",
+   "EXIM Bank"
+  ],
+  "optsHi": [
+   "CCIL",
+   "NPCI",
+   "नाबार्ड",
+   "एक्ज़िम बैंक"
+  ],
+  "correct": 0,
+  "explainEn": "The Clearing Corporation of India Limited (CCIL) acts as the central counterparty for government securities, money market, and foreign exchange markets.",
+  "sourceHint": "CCIL Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:57:13Z"
+ },
+ {
+  "id": "q_41422b8c413c66e5",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the term 'Base Rate' refer to in the context of commercial lending by banks in India?",
+  "qHi": "भारत में बैंकों द्वारा वाणिज्यिक ऋण के संदर्भ में 'बेस रेट' शब्द का क्या तात्पर्य है?",
+  "optsEn": [
+   "The highest interest rate charged on unsecured loans",
+   "The minimum interest rate below which banks cannot lend to their customers",
+   "The interest rate paid by the RBI on commercial bank deposits",
+   "The benchmark interest rate fixed by the Central Government for housing loans"
+  ],
+  "optsHi": [
+   "असुरक्षित ऋणों पर ली जाने वाली उच्चतम ब्याज दर",
+   "न्यूनतम ब्याज दर जिसके नीचे बैंक अपने ग्राहकों को ऋण नहीं दे सकते",
+   "वाणिज्यिक बैंक जमा पर आरबीआई द्वारा भुगतान की जाने वाली ब्याज दर",
+   "गृह ऋण के लिए केंद्र सरकार द्वारा तय बेंचमार्क ब्याज दर"
+  ],
+  "correct": 1,
+  "explainEn": "Base rate is the minimum interest rate below which banks are not permitted to lend to customers, barring a few specific exemptions.",
+  "sourceHint": "RBI Banking Glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T05:57:13Z"
  }
 ]
