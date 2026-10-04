@@ -1,5 +1,8 @@
 # Security notes - KBC
 
+## Standard header (new in 1.1.1)
+The header is the Netra standard: 56 dp, fixed, only the app name, the installed version (read from the package, "Unavailable" if it cannot be read) and the device date and time. Everything else scrolls. No new permission, network call or library.
+
 ## UPI ID removed (new in 1.1.0)
 - Before 1.1.0 the profile screen asked for an optional UPI ID "to receive prizes", and after a game the app logged that it was "securely transmitting" a payout record. Nothing was ever sent anywhere and the app pays no prizes: it only counts points. Showing that field and that message was not true, so both are removed. The app no longer asks for, keeps or uses a UPI ID. Saving the profile clears any UPI ID that an older version stored on this phone. No money, payment or payout feature exists in KBC. Permissions: none added or removed. No new library.
 - Rule for all Netra apps: every datum shown must be backed by real evidence; when none is available the app shows "Unavailable" and nothing is made up.
