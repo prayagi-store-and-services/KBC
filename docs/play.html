@@ -38,18 +38,27 @@ function menu(msg){
 function start(g){
  app.innerHTML='<div class="card">Loading questions...</div>';
  fetch(POOL+g+".json",{cache:"no-store"}).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(all){
-  var sn=seen(),pick=[],bands=[["easy",5],["medium",6],["hard",6]],short=[];
+  var sn=seen(),spare={},pick=[],bands=[["easy",5],["medium",6],["hard",6]],short=[];
   bands.forEach(function(b){var c=all.filter(function(q){return q.band===b[0]&&sn.indexOf(q.id)<0&&Array.isArray(q.optsEn)&&q.optsEn.length===4&&typeof q.correct==="number"});
-   c.sort(function(){return Math.random()-.5});if(c.length<b[1])short.push(b[0]);pick=pick.concat(c.slice(0,b[1]))});
+   c.sort(function(){return Math.random()-.5});if(c.length<b[1])short.push(b[0]);pick=pick.concat(c.slice(0,b[1]));spare[b[0]]=c.slice(b[1],b[1]+2)});
   if(short.length){menu("Not enough new questions left for this group ("+short.join(", ")+"). Choose another group. Unavailable: more questions arrive as the pool grows.");return}
-  S={g:g,q:pick,i:0};show()}).catch(function(){app.innerHTML='<div class="card">Question bank: Unavailable right now (could not load). Try again later.</div>'})}
+  S={g:g,q:pick,i:0,spare:spare,fifty:true,flip:true};show()}).catch(function(){app.innerHTML='<div class="card">Question bank: Unavailable right now (could not load). Try again later.</div>'})}
 function show(){
  var q=S.q[S.i],o=lang==="hi"&&q.optsHi?q.optsHi:q.optsEn,t=lang==="hi"&&q.qHi?q.qHi:q.qEn,lad="";
  for(var i=0;i<S.q.length;i++)lad+='<i class="'+(i<S.i?"done":i===S.i?"on":"")+'">'+(i+1)+'</i>';
- app.innerHTML='<div class="card"><div class="lad">'+lad+'</div><p class="sub">Question '+(S.i+1)+' of '+S.q.length+' - '+q.band+'</p><h3>'+esc(t)+'</h3><div id="o"></div><div id="fb"></div></div><button class="sec" id="quit">Quit</button>';
+ app.innerHTML='<div class="card"><div class="lad">'+lad+'</div><p class="sub">Question '+(S.i+1)+' of '+S.q.length+' - '+q.band+'</p><h3>'+esc(t)+'</h3><div id="o"></div><div id="ll"></div><div id="fb"></div></div><button class="sec" id="quit">Quit</button>';
  var box=document.getElementById("o");
  o.forEach(function(x,idx){var b=document.createElement("button");b.className="opt";b.textContent=String.fromCharCode(65+idx)+". "+x;b.onclick=function(){answer(idx,box)};box.appendChild(b)});
- document.getElementById("quit").onclick=function(){end("You quit after "+S.i+" correct answer(s).")}}
+ lifelines(box);document.getElementById("quit").onclick=function(){end("You quit after "+S.i+" correct answer(s).")}}
+function lifelines(box){
+ var ll=document.getElementById("ll"),q=S.q[S.i];
+ var a=document.createElement("button");a.className="sec";a.textContent="50-50";a.disabled=!S.fifty;
+ a.onclick=function(){S.fifty=false;var w=[0,1,2,3].filter(function(k){return k!==q.correct}).sort(function(){return Math.random()-.5}).slice(0,2);
+  box.querySelectorAll("button").forEach(function(b,k){if(w.indexOf(k)>=0){b.disabled=true;b.style.opacity=".3"}});a.disabled=true};
+ var f=document.createElement("button");f.className="sec";f.style.marginLeft="8px";var sp=S.spare[q.band]||[];f.textContent="Flip question";f.disabled=!S.flip||!sp.length;
+ f.onclick=function(){S.flip=false;S.q[S.i]=sp.shift();show()};
+ ll.appendChild(a);ll.appendChild(f);
+ var n=document.createElement("p");n.className="sub";n.textContent="Lifelines: 50-50 and Flip are real. Audience poll and Phone-a-friend are not offered because they would need invented data.";ll.appendChild(n)}
 function answer(i,box){
  var q=S.q[S.i],bs=box.querySelectorAll("button");markSeen(q.id);
  bs.forEach(function(b,k){b.disabled=true;if(k===q.correct)b.className="opt ok";else if(k===i)b.className="opt bad"});
