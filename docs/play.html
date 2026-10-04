@@ -1,0 +1,61 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>KBC Web - play in your browser</title>
+<style>
+:root{--bg:#0d1b2a;--card:#14263b;--ac:#f2b705;--ok:#1b8a5a;--bad:#c0392b;--tx:#eef3f8}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--tx);font:17px/1.5 system-ui,sans-serif}
+header{position:fixed;top:0;left:0;right:0;height:56px;background:#08121d;display:flex;align-items:center;gap:12px;padding:0 14px;z-index:5;border-bottom:1px solid #223}
+header b{font-size:18px}header span.sp{flex:1}
+footer{position:fixed;bottom:0;left:0;right:0;background:#08121d;padding:8px 14px;font-size:13px;text-align:center;z-index:5}
+main{max-width:860px;margin:0 auto;padding:72px 14px 70px}
+.card{background:var(--card);border-radius:14px;padding:16px;margin:12px 0}
+button,.btn{background:var(--ac);color:#111;border:0;border-radius:10px;padding:12px 16px;font:700 16px system-ui;cursor:pointer;text-decoration:none;display:inline-block}
+button.opt{display:block;width:100%;text-align:left;margin:8px 0;background:#1d3550;color:var(--tx)}
+button.opt:hover:not(:disabled){background:#27486d}button.opt.ok{background:var(--ok)}button.opt.bad{background:var(--bad)}
+button.sec{background:#2a4361;color:var(--tx)}select{font:16px system-ui;padding:10px;border-radius:8px;width:100%;margin:6px 0}
+.lad{display:flex;flex-wrap:wrap;gap:4px;margin:6px 0}.lad i{font-style:normal;font-size:12px;padding:3px 7px;border-radius:6px;background:#1d3550}.lad i.on{background:var(--ac);color:#111}.lad i.done{background:var(--ok)}
+.sub{color:#a9bad0;font-size:14px}
+</style></head><body>
+<header><b>KBC Web</b><span class="sub" id="ver">TarkShastra</span><span class="sp"></span><span id="clock"></span></header>
+<main id="app"><div class="card">Loading questions...</div></main>
+<footer>Questions are AI generated and double checked by a second independent call; they can still contain errors. <a style="color:#f2b705" href="index.html">KBC home / app download</a></footer>
+<script>
+"use strict";
+var POOL="https://raw.githubusercontent.com/prayagi-store-and-services/KBC/question-pool/pool/";
+var GROUPS={"class-5":"Class 5","class-8":"Class 8","class-10":"Class 10","class-12":"Class 12","upsc":"UPSC","ssc":"SSC / State exams","banking":"Banking","general":"General"};
+var app=document.getElementById("app"),lang=localStorage.getItem("kbcw_lang")||"en",S=null;
+function seen(){try{return JSON.parse(localStorage.getItem("kbcw_seen")||"[]")}catch(e){return[]}}
+function markSeen(id){var s=seen();if(s.indexOf(id)<0){s.push(id);localStorage.setItem("kbcw_seen",JSON.stringify(s))}}
+setInterval(function(){document.getElementById("clock").textContent=new Date().toLocaleString("en-IN",{dateStyle:"medium",timeStyle:"medium"})},1000);
+function el(h){var d=document.createElement("div");d.innerHTML=h;return d}
+function esc(t){return String(t).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
+function menu(msg){
+ var h='<div class="card"><h2>KBC Web</h2><p class="sub">17 questions, easy to hard. Pick your group and language.</p>'+(msg?'<p>'+esc(msg)+'</p>':'')+
+ '<label>Group</label><select id="g">'+Object.keys(GROUPS).map(function(k){return'<option value="'+k+'">'+GROUPS[k]+'</option>'}).join("")+'</select>'+
+ '<label>Language</label><select id="l"><option value="en">English</option><option value="hi">Hindi</option></select>'+
+ '<p class="sub">Questions you already saw on this device are not shown again (stored only in this browser).</p><button id="go">Start game</button></div>';
+ app.innerHTML=h;document.getElementById("l").value=lang;
+ document.getElementById("go").onclick=function(){lang=document.getElementById("l").value;localStorage.setItem("kbcw_lang",lang);start(document.getElementById("g").value)}}
+function start(g){
+ app.innerHTML='<div class="card">Loading questions...</div>';
+ fetch(POOL+g+".json",{cache:"no-store"}).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(all){
+  var sn=seen(),pick=[],bands=[["easy",5],["medium",6],["hard",6]],short=[];
+  bands.forEach(function(b){var c=all.filter(function(q){return q.band===b[0]&&sn.indexOf(q.id)<0&&Array.isArray(q.optsEn)&&q.optsEn.length===4&&typeof q.correct==="number"});
+   c.sort(function(){return Math.random()-.5});if(c.length<b[1])short.push(b[0]);pick=pick.concat(c.slice(0,b[1]))});
+  if(short.length){menu("Not enough new questions left for this group ("+short.join(", ")+"). Choose another group. Unavailable: more questions arrive as the pool grows.");return}
+  S={g:g,q:pick,i:0};show()}).catch(function(){app.innerHTML='<div class="card">Question bank: Unavailable right now (could not load). Try again later.</div>'})}
+function show(){
+ var q=S.q[S.i],o=lang==="hi"&&q.optsHi?q.optsHi:q.optsEn,t=lang==="hi"&&q.qHi?q.qHi:q.qEn,lad="";
+ for(var i=0;i<S.q.length;i++)lad+='<i class="'+(i<S.i?"done":i===S.i?"on":"")+'">'+(i+1)+'</i>';
+ app.innerHTML='<div class="card"><div class="lad">'+lad+'</div><p class="sub">Question '+(S.i+1)+' of '+S.q.length+' - '+q.band+'</p><h3>'+esc(t)+'</h3><div id="o"></div><div id="fb"></div></div><button class="sec" id="quit">Quit</button>';
+ var box=document.getElementById("o");
+ o.forEach(function(x,idx){var b=document.createElement("button");b.className="opt";b.textContent=String.fromCharCode(65+idx)+". "+x;b.onclick=function(){answer(idx,box)};box.appendChild(b)});
+ document.getElementById("quit").onclick=function(){end("You quit after "+S.i+" correct answer(s).")}}
+function answer(i,box){
+ var q=S.q[S.i],bs=box.querySelectorAll("button");markSeen(q.id);
+ bs.forEach(function(b,k){b.disabled=true;if(k===q.correct)b.className="opt ok";else if(k===i)b.className="opt bad"});
+ var fb=document.getElementById("fb"),ok=i===q.correct;
+ fb.innerHTML='<p><b>'+(ok?"Correct!":"Wrong. Correct answer: "+String.fromCharCode(65+q.correct))+'</b></p>'+(q.explainEn?'<p class="sub">'+esc(q.explainEn)+'</p>':"")+'<button id="nx">'+(ok&&S.i<S.q.length-1?"Next question":"Finish")+'</button>';
+ document.getElementById("nx").onclick=function(){if(ok&&S.i<S.q.length-1){S.i++;show()}else end(ok?"You answered all "+S.q.length+" questions correctly!":"Game over. You answered "+S.i+" correctly.")}}
+function end(m){app.innerHTML='<div class="card"><h2>'+esc(m)+'</h2><button id="again">Play again</button></div>';document.getElementById("again").onclick=function(){menu()}}
+menu();
+</script></body></html>
