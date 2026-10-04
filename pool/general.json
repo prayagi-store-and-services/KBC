@@ -1958,5 +1958,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-04T12:25:36Z"
+ },
+ {
+  "id": "q_a567afb8a1844f8a",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these gases is the most abundant in Earth's atmosphere?",
+  "qHi": "पृथ्वी के वायुमंडल में इनमें से कौन सी गैस सबसे प्रचुर मात्रा में पाई जाती है?",
+  "optsEn": [
+   "Oxygen",
+   "Nitrogen",
+   "Carbon dioxide",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "कार्बन डाइऑक्साइड",
+   "आर्गन"
+  ],
+  "correct": 1,
+  "explainEn": "Nitrogen makes up about 78 percent of Earth's atmosphere by volume.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:27:21Z"
+ },
+ {
+  "id": "q_9b3767c829e5cbbe",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which Indian city is known as the Pink City?",
+  "qHi": "किस भारतीय शहर को गुलाबी शहर के नाम से जाना जाता है?",
+  "optsEn": [
+   "Jodhpur",
+   "Udaipur",
+   "Jaipur",
+   "Bikaner"
+  ],
+  "optsHi": [
+   "जोधपुर",
+   "उदयपुर",
+   "जयपुर",
+   "बीकानेर"
+  ],
+  "correct": 2,
+  "explainEn": "Jaipur is famously known as the Pink City due to the distinct color of its buildings in the old city.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:27:21Z"
+ },
+ {
+  "id": "q_cabdcf64cce524ba",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which month is India's Independence Day celebrated annually?",
+  "qHi": "भारत का स्वतंत्रता दिवस प्रतिवर्ष किस महीने में मनाया जाता है?",
+  "optsEn": [
+   "January",
+   "August",
+   "October",
+   "November"
+  ],
+  "optsHi": [
+   "जनवरी",
+   "अगस्त",
+   "अक्टूबर",
+   "नवंबर"
+  ],
+  "correct": 1,
+  "explainEn": "India gained independence on August 15, 1947.",
+  "sourceHint": "Public Information Bureau (PIB)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:27:21Z"
+ },
+ {
+  "id": "q_8269189e6945a54f",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which sport uses a shuttlecock?",
+  "qHi": "किस खेल में शटलकॉक का उपयोग किया जाता है?",
+  "optsEn": [
+   "Tennis",
+   "Badminton",
+   "Cricket",
+   "Football"
+  ],
+  "optsHi": [
+   "टेनिस",
+   "बैडमिंटन",
+   "क्रिकेट",
+   "फुटबॉल"
+  ],
+  "correct": 1,
+  "explainEn": "Badminton is played using a racket to hit a shuttlecock across a net.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:27:21Z"
+ },
+ {
+  "id": "q_2fc48c529192e61c",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organ pumps blood through the human body?",
+  "qHi": "मानव शरीर में कौन सा अंग रक्त पंप करता है?",
+  "optsEn": [
+   "Lungs",
+   "Heart",
+   "Kidney",
+   "Liver"
+  ],
+  "optsHi": [
+   "फेफड़े",
+   "दिल",
+   "गुर्दे",
+   "यकृत"
+  ],
+  "correct": 1,
+  "explainEn": "The heart is a muscular organ that pumps blood through the circulatory system.",
+  "sourceHint": "NCERT Biology Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:27:21Z"
+ },
+ {
+  "id": "q_1c15040009b7266b",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the term of office for a member of the Rajya Sabha in India?",
+  "qHi": "भारत में राज्य सभा के सदस्य का कार्यकाल कितना होता है?",
+  "optsEn": [
+   "4 years",
+   "5 years",
+   "6 years",
+   "Permanent"
+  ],
+  "optsHi": [
+   "4 वर्ष",
+   "5 वर्ष",
+   "6 वर्ष",
+   "स्थाई"
+  ],
+  "correct": 2,
+  "explainEn": "The Rajya Sabha is a permanent body not subject to dissolution, but one-third of its members retire every second year. Each member has a tenure of 6 years.",
+  "sourceHint": "Constitution of India, Article 83",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:29:03Z"
+ },
+ {
+  "id": "q_f65c98af85081184",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The famous rock-cut Kailash Temple is located at which UNESCO World Heritage site?",
+  "qHi": "प्रसिद्ध शैल-कृत कैलाश मंदिर किस यूनेस्को विश्व धरोहर स्थल पर स्थित है?",
+  "optsEn": [
+   "Ajanta Caves",
+   "Ellora Caves",
+   "Elephanta Caves",
+   "Badami Caves"
+  ],
+  "optsHi": [
+   "अजंता गुफाएं",
+   "एलोरा गुफाएं",
+   "एलिफेंटा गुफाएं",
+   "बादामी गुफाएं"
+  ],
+  "correct": 1,
+  "explainEn": "The Kailash Temple (Cave 16) at the Ellora Caves in Maharashtra is famous for being carved out of a single rock monolith.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:29:03Z"
+ },
+ {
+  "id": "q_3c11b15cd080f112",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian financial institution regulates the issuance of currency notes in the country?",
+  "qHi": "देश में करेंसी नोटों के निर्गमन को कौन सी भारतीय वित्तीय संस्था नियंत्रित करती है?",
+  "optsEn": [
+   "State Bank of India",
+   "Ministry of Finance",
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "वित्त मंत्रालय",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड"
+  ],
+  "correct": 2,
+  "explainEn": "The Reserve Bank of India, as the central bank of the country, holds the sole right to issue currency notes under Section 22 of the RBI Act.",
+  "sourceHint": "RBI Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:29:03Z"
+ },
+ {
+  "id": "q_16b63108659a0c97",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which river is famously known as the Dakshina Ganga or Ganga of the South?",
+  "qHi": "किस नदी को दक्षिण गंगा के रूप में जाना जाता है?",
+  "optsEn": [
+   "Godavari",
+   "Kaveri",
+   "Narmada",
+   "Krishna"
+  ],
+  "optsHi": [
+   "गोदावरी",
+   "कावेरी",
+   "नर्मदा",
+   "कृष्णा"
+  ],
+  "correct": 0,
+  "explainEn": "The Godavari is often referred to as Dakshina Ganga due to its large size and extent among the rivers of peninsular India.",
+  "sourceHint": "NCERT Geography Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:29:03Z"
+ },
+ {
+  "id": "q_789a0b9612c886f8",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The wildlife sanctuary known for the protection of the one-horned rhinoceros is located in which state?",
+  "qHi": "एक सींग वाले गैंडे के संरक्षण के लिए प्रसिद्ध वन्यजीव अभयारण्य किस राज्य में स्थित है?",
+  "optsEn": [
+   "West Bengal",
+   "Uttarakhand",
+   "Assam",
+   "Madhya Pradesh"
+  ],
+  "optsHi": [
+   "पश्चिम बंगाल",
+   "उत्तराखंड",
+   "असम",
+   "मध्य प्रदेश"
+  ],
+  "correct": 2,
+  "explainEn": "Kaziranga National Park in Assam is globally renowned for hosting the world's largest population of the great Indian one-horned rhinoceros.",
+  "sourceHint": "UNESCO World Heritage Centre",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:29:03Z"
  }
 ]

@@ -2686,5 +2686,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-04T12:25:31Z"
+ },
+ {
+  "id": "q_783a7512955705fa",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following institutions acts as the central bank of India?",
+  "qHi": "निम्नलिखित में से कौन सा संस्थान भारत के केंद्रीय बैंक के रूप में कार्य करता है?",
+  "optsEn": [
+   "State Bank of India",
+   "Reserve Bank of India",
+   "Ministry of Finance",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "भारतीय रिजर्व बैंक",
+   "वित्त मंत्रालय",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India (RBI) is India's central banking institution which controls the monetary policy of the Indian rupee.",
+  "sourceHint": "RBI official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:27:17Z"
+ },
+ {
+  "id": "q_550d3e9996fa0abb",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which financial instrument is commonly known as a 'Plastic Money' card in banking?",
+  "qHi": "बैंकिंग में किस वित्तीय साधन को आमतौर पर 'प्लास्टिक मनी' कार्ड के रूप में जाना जाता है?",
+  "optsEn": [
+   "Promissory Note",
+   "Credit Card",
+   "Passbook",
+   "Demand Draft"
+  ],
+  "optsHi": [
+   "वचनी पत्र (Promissory Note)",
+   "क्रेडिट कार्ड",
+   "पासबुक",
+   "डिमांड ड्राफ्ट"
+  ],
+  "correct": 1,
+  "explainEn": "Credit cards and debit cards are commonly referred to as plastic money because they replace physical cash and paper currency.",
+  "sourceHint": "NCERT Business Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:27:17Z"
+ },
+ {
+  "id": "q_2e42fba386871e9a",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In the context of Indian banking, what does the letter 'F' stand for in 'NEFT'?",
+  "qHi": "भारतीय बैंकिंग के संदर्भ में, 'NEFT' में अक्षर 'F' का क्या अर्थ है?",
+  "optsEn": [
+   "Finance",
+   "Funds",
+   "Facility",
+   "Foreign"
+  ],
+  "optsHi": [
+   "वित्त (Finance)",
+   "फंड्स (Funds)",
+   "सुविधा (Facility)",
+   "विदेशी (Foreign)"
+  ],
+  "correct": 1,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, a nationwide payment system allowing electronic transfer of funds.",
+  "sourceHint": "RBI FAQ on NEFT",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:27:17Z"
+ },
+ {
+  "id": "q_1ebeb7b1d0cb0ed9",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which type of bank account generally does not offer any interest to the account holder?",
+  "qHi": "किस प्रकार का बैंक खाता आम तौर पर खाता धारक को कोई ब्याज नहीं देता है?",
+  "optsEn": [
+   "Savings Account",
+   "Fixed Deposit Account",
+   "Current Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "बचत खाता",
+   "सावधि जमा खाता",
+   "चालू खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 2,
+  "explainEn": "Current accounts are meant for business purposes and typically do not provide any interest on the deposits.",
+  "sourceHint": "NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:27:17Z"
+ },
+ {
+  "id": "q_d59c3af9f9c4b94b",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of 'ATM' as used in banking and finance?",
+  "qHi": "बैंकिंग और वित्त में प्रयुक्त होने वाले 'ATM' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Automatic Transfer Machine",
+   "Automated Teller Machine",
+   "Any Time Money",
+   "Automated Transaction Mode"
+  ],
+  "optsHi": [
+   "ऑटोमैटिक ट्रांसफर मशीन",
+   "ऑटोमेटेड टेलर मशीन",
+   "एनी टाइम मनी",
+   "ऑटोमेटेड ट्रांजैक्शन मोड"
+  ],
+  "correct": 1,
+  "explainEn": "ATM stands for Automated Teller Machine, an electronic banking outlet allowing customers to complete transactions without a human teller.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:27:17Z"
+ },
+ {
+  "id": "q_1e11ad5e2073bd21",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who acts as the Chairman of the Monetary Policy Committee (MPC) of the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक की मौद्रिक नीति समिति (MPC) के अध्यक्ष के रूप में कौन कार्य करता है?",
+  "optsEn": [
+   "Finance Minister of India",
+   "Governor of the Reserve Bank of India",
+   "Chief Economic Advisor",
+   "Prime Minister of India"
+  ],
+  "optsHi": [
+   "भारत के वित्त मंत्री",
+   "भारतीय रिजर्व बैंक के गवर्नर",
+   "मुख्य आर्थिक सलाहकार",
+   "भारत के प्रधानमंत्री"
+  ],
+  "correct": 1,
+  "explainEn": "The Governor of the Reserve Bank of India is the ex-officio Chairperson of the Monetary Policy Committee.",
+  "sourceHint": "RBI Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:27:17Z"
+ },
+ {
+  "id": "q_d1df3d9748e45cac",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institution regulates the microfinance institutions (MFIs) in India that are organized as Non-Banking Financial Companies?",
+  "qHi": "भारत में गैर-बैंकिंग वित्तीय कंपनियों के रूप में संगठित सूक्ष्म वित्त संस्थानों (MFIs) को कौन सा संस्थान विनियमित करता है?",
+  "optsEn": [
+   "Securities and Exchange Board of India",
+   "Reserve Bank of India",
+   "Small Industries Development Bank of India",
+   "National Bank for Agriculture and Rural Development"
+  ],
+  "optsHi": [
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय लघु उद्योग विकास बैंक",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "NBFC-MFIs in India are regulated and supervised by the Reserve Bank of India under the Reserve Bank of India Act, 1934.",
+  "sourceHint": "RBI Master Directions on Regulatory Framework for NBFC-MFIs",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:28:58Z"
+ },
+ {
+  "id": "q_eb1a4839ea47c0ff",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of banking, what does the letter 'C' stand for in the acronym 'CASA' deposits?",
+  "qHi": "बैंकिंग के संदर्भ में, 'CASA' जमा संक्षिप्त नाम में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Capital",
+   "Core",
+   "Current",
+   "Collateral"
+  ],
+  "optsHi": [
+   "पूंजी",
+   "कोर",
+   "चालू",
+   "संपार्श्विक"
+  ],
+  "correct": 2,
+  "explainEn": "CASA stands for Current Account Savings Account, representing the low-cost deposits mobilized by banks.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) study material",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:28:58Z"
+ },
+ {
+  "id": "q_4bf75e99465093b2",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum deposit insurance coverage provided by the Deposit Insurance and Credit Guarantee Corporation (DICGC) per depositor per bank in India?",
+  "qHi": "भारत में जमा बीमा और ऋण गारंटी निगम (DICGC) द्वारा प्रति जमाकर्ता प्रति बैंक अधिकतम जमा बीमा कवरेज कितना प्रदान किया जाता है?",
+  "optsEn": [
+   "One lakh rupees",
+   "Two lakh rupees",
+   "Five lakh rupees",
+   "Ten lakh rupees"
+  ],
+  "optsHi": [
+   "एक लाख रुपये",
+   "दो लाख रुपये",
+   "पाँच लाख रुपये",
+   "दस लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "DICGC provides insurance coverage of up to Rs. 5,00,000 per depositor for both principal and interest held in the same right and capacity across bank deposits.",
+  "sourceHint": "DICGC official guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:28:58Z"
+ },
+ {
+  "id": "q_15c2cb43177e8c21",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following rates acts as the benchmark interest rate administered by the Reserve Bank of India for overnight liquidity absorption?",
+  "qHi": "निम्नलिखित में से कौन सी दर ओवरनाइट तरलता अवशोषण के लिए भारतीय रिजर्व बैंक द्वारा प्रशासित बेंचमार्क ब्याज दर के रूप में कार्य करती है?",
+  "optsEn": [
+   "Standing Deposit Facility rate",
+   "Bank Rate",
+   "Marginal Standing Facility rate",
+   "Statutory Liquidity Ratio"
+  ],
+  "optsHi": [
+   "स्थाई जमा सुविधा दर",
+   "बैंक दर",
+   "सीमांत स्थायी सुविधा दर",
+   "वैधानिक तरलता अनुपात"
+  ],
+  "correct": 0,
+  "explainEn": "The Standing Deposit Facility (SDF) rate is the rate at which the RBI absorbs liquidity from banks on an overnight basis without collateral.",
+  "sourceHint": "RBI Monetary Policy Report",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:28:58Z"
+ },
+ {
+  "id": "q_f0c1c548b251b158",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which financial market instrument is also known as a zero-coupon bond issued by the Reserve Bank of India on behalf of the Central Government?",
+  "qHi": "किस वित्तीय बाजार उपकरण को केंद्र सरकार की ओर से भारतीय रिजर्व बैंक द्वारा जारी शून्य-कूपन बांड के रूप में भी जाना जाता है?",
+  "optsEn": [
+   "Certificate of Deposit",
+   "Commercial Paper",
+   "Treasury Bill",
+   "Promissory Note"
+  ],
+  "optsHi": [
+   "जमा प्रमाण पत्र",
+   "वाणिज्यिक पत्र",
+   "राजकोषीय बिल",
+   "वचन पत्र"
+  ],
+  "correct": 2,
+  "explainEn": "Treasury bills are short-term money market instruments issued by the RBI on behalf of the Government of India at a discount and redeemed at face value, acting like zero-coupon bonds.",
+  "sourceHint": "Reserve Bank of India publications on Government Securities",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:28:58Z"
+ },
+ {
+  "id": "q_7e080761d7076c47",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'P' stand for in the financial term 'PCA framework' used by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा उपयोग किए जाने वाले वित्तीय शब्द 'PCA फ्रेमवर्क' में अक्षर 'P' का क्या अर्थ है?",
+  "optsEn": [
+   "Prompt",
+   "Prudential",
+   "Priority",
+   "Provisional"
+  ],
+  "optsHi": [
+   "प्रॉम्प्ट (शीघ्र)",
+   "प्रूडेंशियल (विवेकपूर्ण)",
+   "प्रायोरिटी (प्राथमिकता)",
+   "प्रोविजनल (अनंतिम)"
+  ],
+  "correct": 0,
+  "explainEn": "PCA stands for Prompt Corrective Action, a framework under which banks with weak financial metrics are monitored and placed under restrictions by the RBI.",
+  "sourceHint": "RBI guidelines on Prompt Corrective Action Framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:28:58Z"
+ },
+ {
+  "id": "q_9d0d02ab85a8930e",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of priority sector lending in India, which category is classified as a sub-target under priority sector lending for weaker sections?",
+  "qHi": "भारत में प्राथमिकता प्राप्त क्षेत्र को ऋण देने के संदर्भ में, कमजोर वर्गों के लिए प्राथमिकता प्राप्त क्षेत्र ऋण के तहत किस श्रेणी को उप-लक्ष्य के रूप में वर्गीकृत किया गया है?",
+  "optsEn": [
+   "Large Scale Industries",
+   "Small and Medium Enterprises",
+   "Small and Marginal Farmers",
+   "Corporate Infrastructure Projects"
+  ],
+  "optsHi": [
+   "बड़े पैमाने के उद्योग",
+   "लघु और मध्यम उद्यम",
+   "लघु और सीमांत किसान",
+   "कॉर्पोरेट बुनियादी ढांचा परियोजनाएं"
+  ],
+  "correct": 2,
+  "explainEn": "Small and marginal farmers along with weaker sections form specific sub-targets within the overall Priority Sector Lending (PSL) guidelines set by the RBI.",
+  "sourceHint": "RBI Master Directions on Priority Sector Lending",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:28:58Z"
  }
 ]

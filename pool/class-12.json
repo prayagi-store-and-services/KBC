@@ -2434,5 +2434,481 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-04T12:26:00Z"
+ },
+ {
+  "id": "q_e62e3237f986c4a0",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a primary sector economic activity?",
+  "qHi": "निम्नलिखित में से कौन सी प्राथमिक क्षेत्र की आर्थिक गतिविधि है?",
+  "optsEn": [
+   "Agriculture",
+   "Banking",
+   "Manufacturing",
+   "Information Technology"
+  ],
+  "optsHi": [
+   "कृषि",
+   "बैंकिंग",
+   "विनिर्माण",
+   "सूचना प्रौद्योगिकी"
+  ],
+  "correct": 0,
+  "explainEn": "Agriculture involves the extraction and harvesting of natural products, which defines the primary sector.",
+  "sourceHint": "NCERT Class 12 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:27:02Z"
+ },
+ {
+  "id": "q_26c6d28df08c4785",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of ASEAN?",
+  "qHi": "ASEAN का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Association of Southeast Asian Nations",
+   "Alliance of South East African Nations",
+   "Asian South East Alliance Network",
+   "Association of Southern Economy and Navigation"
+  ],
+  "optsHi": [
+   "Association of Southeast Asian Nations",
+   "Alliance of South East African Nations",
+   "Asian South East Alliance Network",
+   "Association of Southern Economy and Navigation"
+  ],
+  "correct": 0,
+  "explainEn": "ASEAN stands for the Association of Southeast Asian Nations, a regional intergovernmental organization.",
+  "sourceHint": "NCERT Class 12 Political Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:27:02Z"
+ },
+ {
+  "id": "q_e1b9f96fbb6c5345",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In macroeconomics, Gross Domestic Product (GDP) measures the total value of final goods and services produced within a country during a period of:",
+  "qHi": "समष्टि अर्थशास्त्र में, सकल घरेलू उत्पाद (GDP) एक देश के भीतर एक निश्चित अवधि के दौरान उत्पादित अंतिम वस्तुओं और सेवाओं के कुल मूल्य को मापता है:",
+  "optsEn": [
+   "One month",
+   "Six months",
+   "One year",
+   "Five years"
+  ],
+  "optsHi": [
+   "एक महीना",
+   "छह महीने",
+   "एक वर्ष",
+   "पाँच वर्ष"
+  ],
+  "correct": 2,
+  "explainEn": "GDP is standardly calculated over an annual accounting period or financial year.",
+  "sourceHint": "NCERT Class 12 Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:27:02Z"
+ },
+ {
+  "id": "q_a6ff7fc06ef7de49",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which part of a flowering plant develops into a seed after fertilization?",
+  "qHi": "फूल वाले पौधे का कौन सा भाग निषेचन के बाद बीज में विकसित होता है?",
+  "optsEn": [
+   "Ovary",
+   "Ovule",
+   "Stigma",
+   "Anther"
+  ],
+  "optsHi": [
+   "अंडाशय (ओवरी)",
+   "बीजांड (ओव्यूल)",
+   "वर्तिकाग्र (स्टिग्मा)",
+   "परागकोष (एंथर)"
+  ],
+  "correct": 1,
+  "explainEn": "After fertilization, the ovule develops into a seed, while the ovary develops into the fruit.",
+  "sourceHint": "NCERT Class 12 Biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:27:02Z"
+ },
+ {
+  "id": "q_2c50a4471b845139",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organelle is considered the primary site for the synthesis of lipids in a eukaryotic cell?",
+  "qHi": "यूकैरियोटिक कोशिका में लिपिड के संश्लेषण का प्राथमिक स्थल किस अंगक को माना जाता है?",
+  "optsEn": [
+   "Rough Endoplasmic Reticulum",
+   "Smooth Endoplasmic Reticulum",
+   "Golgi apparatus",
+   "Lysosome"
+  ],
+  "optsHi": [
+   "रफ एंडोप्लाज्मिक रेटिकुलम",
+   "स्मूथ एंडोप्लाज्मिक रेटिकुलम",
+   "गॉल्जी उपकरण",
+   "लाइसोसोम"
+  ],
+  "correct": 1,
+  "explainEn": "Smooth Endoplasmic Reticulum (SER) is devoid of ribosomes and is the major site for lipid synthesis in eukaryotic cells.",
+  "sourceHint": "NCERT Class 11 Biology, Chapter 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:28:41Z"
+ },
+ {
+  "id": "q_fd7cebbbfb4a929a",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following elements shows a maximum oxidation state of +7 in its compounds?",
+  "qHi": "निम्नलिखित में से कौन सा तत्व अपने यौगिकों में अधिकतम +7 ऑक्सीकरण अवस्था प्रदर्शित करता है?",
+  "optsEn": [
+   "Iron",
+   "Manganese",
+   "Chromium",
+   "Vanadium"
+  ],
+  "optsHi": [
+   "आयरन",
+   "मैंगनीज",
+   "क्रोमियम",
+   "वेनेडियम"
+  ],
+  "correct": 1,
+  "explainEn": "Manganese, a 3d transition metal, exhibits a maximum oxidation state of +7, as seen in potassium permanganate (KMnO4).",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:28:41Z"
+ },
+ {
+  "id": "q_0c7464a8ec09672e",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which type of economic system are the factors of production owned, controlled, and operated by the government?",
+  "qHi": "किस प्रकार की आर्थिक प्रणाली में उत्पादन के कारकों का स्वामित्व, नियंत्रण और संचालन सरकार द्वारा किया जाता है?",
+  "optsEn": [
+   "Market economy",
+   "Centrally planned economy",
+   "Mixed economy",
+   "Dual economy"
+  ],
+  "optsHi": [
+   "बाजार अर्थव्यवस्था",
+   "केंद्रीय रूप से नियोजित अर्थव्यवस्था",
+   "मिश्रित अर्थव्यवस्था",
+   "द्वैध अर्थव्यवस्था"
+  ],
+  "correct": 1,
+  "explainEn": "In a centrally planned economy, all important decisions regarding production and distribution are made by the government.",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Microeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:28:41Z"
+ },
+ {
+  "id": "q_cc309f0bf0dba170",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which term describes the total volume of air a person can exhale after a maximum inspiration?",
+  "qHi": "उस शब्द का चयन करें जो अधिकतम अंतःश्वसन के बाद एक व्यक्ति द्वारा बाहर निकाली जा सकने वाली कुल वायु के आयतन को दर्शाता है।",
+  "optsEn": [
+   "Tidal volume",
+   "Vital capacity",
+   "Residual volume",
+   "Inspiratory reserve volume"
+  ],
+  "optsHi": [
+   "ज्वारतीय आयतन",
+   "जीवन क्षमता",
+   "अवशिष्ट आयतन",
+   "अंतःश्वसन आरक्षित आयतन"
+  ],
+  "correct": 1,
+  "explainEn": "Vital capacity is the maximum volume of air a person can breathe in after a forced expiration or exhale after a forced inspiration.",
+  "sourceHint": "NCERT Class 11 Biology, Chapter 17",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:28:41Z"
+ },
+ {
+  "id": "q_f1c4f6834689a417",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who among the following was the court historian of Mughal Emperor Akbar and author of the Akbarnama?",
+  "qHi": "निम्नलिखित में से कौन मुगल सम्राट अकबर के दरबारी इतिहासकार और अकबरनामा के लेखक थे?",
+  "optsEn": [
+   "Abul Fazl",
+   "Badauni",
+   "Faizi",
+   "Abdul Hamid Lahori"
+  ],
+  "optsHi": [
+   "अुल फज़ल",
+   "बदायूंनी",
+   "फैज़ी",
+   "अब्दुल हामिद लाहौरी"
+  ],
+  "correct": 0,
+  "explainEn": "Abul Fazl was Akbar's chief minister and court historian, best known for writing the Akbarnama.",
+  "sourceHint": "NCERT Class 12 History, Theme 9",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:28:41Z"
+ },
+ {
+  "id": "q_07112627f4b8ffa6",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which constitutional amendment added the Fundamental Duties to the Indian Constitution based on the recommendation of the Swaran Singh Committee?",
+  "qHi": "किस संविधान संशोधन ने स्वर्ण सिंह समिति की सिफारिश के आधार पर भारतीय संविधान में मौलिक कर्तव्यों को जोड़ा था?",
+  "optsEn": [
+   "42nd Amendment Act",
+   "44th Amendment Act",
+   "86th Amendment Act",
+   "73rd Amendment Act"
+  ],
+  "optsHi": [
+   "42वां संशोधन अधिनियम",
+   "44वां संशोधन अधिनियम",
+   "86वां संशोधन अधिनियम",
+   "73वां संशोधन अधिनियम"
+  ],
+  "correct": 0,
+  "explainEn": "The 42nd Constitutional Amendment Act of 1976 added Part IV-A and Article 51A to the Constitution, incorporating ten Fundamental Duties.",
+  "sourceHint": "NCERT Class 11 Indian Constitution at Work, Chapter on Rights",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:29:25Z"
+ },
+ {
+  "id": "q_0575f50ff3a2fe1f",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In macroeconomics, which of the following represents the slope of the Saving Function with respect to income?",
+  "qHi": "समष्टि अर्थशास्त्र में, निम्नलिखित में से कौन आय के संबंध में बचत फलन के ढलान को दर्शाता है?",
+  "optsEn": [
+   "Marginal Propensity to Consume",
+   "Marginal Propensity to Save",
+   "Average Propensity to Save",
+   "Average Propensity to Consume"
+  ],
+  "optsHi": [
+   "सीमांत उपभोग प्रवृत्ति",
+   "सीमांत बचत प्रवृत्ति",
+   "औसत बचत प्रवृत्ति",
+   "औसत उपभोग प्रवृत्ति"
+  ],
+  "correct": 1,
+  "explainEn": "The Marginal Propensity to Save (MPS) is the ratio of change in saving to the change in total income, representing the slope of the saving function.",
+  "sourceHint": "NCERT Class 12 Introductory Macroeconomics, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:29:25Z"
+ },
+ {
+  "id": "q_49157db6461e5dbe",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which enzyme is responsible for the continuous replication of the leading strand during DNA replication?",
+  "qHi": "डीएनए प्रतिकृति के दौरान अग्रणी स्ट्रैंड की निरंतर प्रतिकृति के लिए कौन सा एंजाइम जिम्मेदार है?",
+  "optsEn": [
+   "DNA ligase",
+   "DNA polymerase",
+   "RNA primase",
+   "Restriction endonuclease"
+  ],
+  "optsHi": [
+   "डीएनए लाइगेज",
+   "डीएनए पोलीमरेज़",
+   "आरएनए प्राइमेज",
+   "प्रतिबंध एंडोन्यूक्लीज"
+  ],
+  "correct": 1,
+  "explainEn": "DNA polymerase adds nucleotides continuously in the 5' to 3' direction along the leading strand during DNA replication.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 6: Molecular Basis of Inheritance",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:29:25Z"
+ },
+ {
+  "id": "q_7752c113b5b7a806",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific treaty concluded the Thirty Years' War in Europe in 1648 and established the principle of state sovereignty?",
+  "qHi": "यूरोप में 1648 में किस विशिष्ट संधि ने तीस वर्षीय युद्ध को समाप्त किया और राज्य की संप्रभुता के सिद्धांत को स्थापित किया?",
+  "optsEn": [
+   "Treaty of Versailles",
+   "Peace of Westphalia",
+   "Congress of Vienna",
+   "Treaty of Utrecht"
+  ],
+  "optsHi": [
+   "वर्साय की संधि",
+   "वेस्टफेलिया की शांति",
+   "वियना कांग्रेस",
+   "यूट्रेच की संधि"
+  ],
+  "correct": 1,
+  "explainEn": "The Peace of Westphalia in 1648 ended the Thirty Years' War and is widely recognized in political theory as the foundation of the modern state system.",
+  "sourceHint": "NCERT Class 12 Political Science, Contemporary World Politics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:29:25Z"
+ },
+ {
+  "id": "q_35fafb226e171dae",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the colonial period in India, the Ryotwari System of land revenue settlement was primarily introduced in which region?",
+  "qHi": "भारत में औपनिवेशिक काल के दौरान, भू-राजस्व बंदोबस्त की रयतवाड़ी व्यवस्था मुख्य रूप से किस क्षेत्र में शुरू की गई थी?",
+  "optsEn": [
+   "Bengal Presidency",
+   "Madras and Bombay Presidencies",
+   "United Provinces",
+   "Punjab region"
+  ],
+  "optsHi": [
+   "बंगाल प्रेसीडेंसी",
+   "मद्रास और बॉम्बे प्रेसीडेंसी",
+   "संयुक्त प्रांत",
+   "पंजाब क्षेत्र"
+  ],
+  "correct": 1,
+  "explainEn": "The Ryotwari system was introduced primarily in the Madras and Bombay presidencies by Thomas Munro and Captain Read.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part III, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:29:25Z"
+ },
+ {
+  "id": "q_e38f15b1495c2c3d",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In coordination chemistry according to IUPAC nomenclature, what is the correct oxidation state of iron in [Fe(CN)6]3-?",
+  "qHi": "आईयूपीएसी नामकरण के अनुसार समन्वय रसायन विज्ञान में, [Fe(CN)6]3- में लोहे की सही ऑक्सीकरण अवस्था क्या है?",
+  "optsEn": [
+   "+2",
+   "+3",
+   "+4",
+   "+6"
+  ],
+  "optsHi": [
+   "+2",
+   "+3",
+   "+4",
+   "+6"
+  ],
+  "correct": 1,
+  "explainEn": "Cyanide (CN-) has a charge of -1. With six cyanide ligands and an overall charge of -3, iron must be in the +3 oxidation state (x + 6(-1) = -3, so x = +3).",
+  "sourceHint": "NCERT Class 12 Chemistry Part I, Chapter 5: Coordination Compounds",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:29:25Z"
+ },
+ {
+  "id": "q_e20275e25a46923a",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which type of crystalline solid is silicon dioxide (quartz) classified under?",
+  "qHi": "सिलिकॉन डाइऑक्साइड (क्वार्ट्ज) को किस प्रकार के क्रिस्टलीय ठोस के अंतर्गत वर्गीकृत किया गया है?",
+  "optsEn": [
+   "Ionic solid",
+   "Metallic solid",
+   "Covalent or Network solid",
+   "Molecular solid"
+  ],
+  "optsHi": [
+   "आयनिक ठोस",
+   "धात्विक ठोस",
+   "सहसंयोजक या नेटवर्क ठोस",
+   "आणविक ठोस"
+  ],
+  "correct": 2,
+  "explainEn": "Silicon dioxide forms a giant three-dimensional network structure where silicon and oxygen atoms are bonded via covalent bonds, making it a network solid.",
+  "sourceHint": "NCERT Class 12 Chemistry Part I, Chapter 1: The Solid State",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:29:25Z"
+ },
+ {
+  "id": "q_ee0e195c497f1f30",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which fundamental right under the Indian Constitution guarantees the protection of life and personal liberty?",
+  "qHi": "भारतीय संविधान के तहत कौन सा मौलिक अधिकार जीवन और व्यक्तिगत स्वतंत्रता की सुरक्षा की गारंटी देता है?",
+  "optsEn": [
+   "Article 14",
+   "Article 19",
+   "Article 21",
+   "Article 32"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14",
+   "अनुच्छेद 19",
+   "अनुच्छेद 21",
+   "अनुच्छेद 32"
+  ],
+  "correct": 2,
+  "explainEn": "Article 21 states that no person shall be deprived of his life or personal liberty except according to procedure established by law.",
+  "sourceHint": "NCERT Class 11 Indian Constitution at Work, Chapter on Rights",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:29:25Z"
  }
 ]

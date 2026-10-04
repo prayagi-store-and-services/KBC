@@ -1650,5 +1650,341 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-04T12:25:47Z"
+ },
+ {
+  "id": "q_617c962f7e4e2d5d",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who was the first person to walk on the Moon?",
+  "qHi": "चंद्रमा पर कदम रखने वाले पहले व्यक्ति कौन थे?",
+  "optsEn": [
+   "Yuri Gagarin",
+   "Neil Armstrong",
+   "Buzz Aldrin",
+   "Rakesh Sharma"
+  ],
+  "optsHi": [
+   "यूरी गागरिन",
+   "नील आर्मस्ट्रांग",
+   "बज एल्ड्रिन",
+   "राकेश शर्मा"
+  ],
+  "correct": 1,
+  "explainEn": "Neil Armstrong stepped onto the Moon during the Apollo 11 mission in 1969.",
+  "sourceHint": "NASA historical records",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:28:31Z"
+ },
+ {
+  "id": "q_b6473cad7ee2e141",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the standard unit of force in the International System of Units (SI)?",
+  "qHi": "अंतर्राष्ट्रीय इकाई प्रणाली (SI) में बल की मानक इकाई क्या है?",
+  "optsEn": [
+   "Joule",
+   "Newton",
+   "Pascal",
+   "Watt"
+  ],
+  "optsHi": [
+   "जूल",
+   "न्यूटन",
+   "पास्कल",
+   "वाट"
+  ],
+  "correct": 1,
+  "explainEn": "The SI unit of force is the newton, named after Sir Isaac Newton.",
+  "sourceHint": "NCERT Science Class 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:28:31Z"
+ },
+ {
+  "id": "q_3463e7695c0ac3ad",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which Mughal Emperor built the Taj Mahal in Agra?",
+  "qHi": "आगरा में ताजमहल किस मुगल सम्राट ने बनवाया था?",
+  "optsEn": [
+   "Akbar",
+   "Jahangir",
+   "Shah Jahan",
+   "Aurangzeb"
+  ],
+  "optsHi": [
+   "अकबर",
+   "जहाँगीर",
+   "शाहजहाँ",
+   "औरंगजेब"
+  ],
+  "correct": 2,
+  "explainEn": "Shah Jahan built the Taj Mahal as a mausoleum for his wife Mumtaz Mahal.",
+  "sourceHint": "NCERT History Class 7 and 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:28:31Z"
+ },
+ {
+  "id": "q_4032d5607b92f209",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which state of India is the Kaziranga National Park located?",
+  "qHi": "काजीरंगा राष्ट्रीय उद्यान भारत के किस राज्य में स्थित है?",
+  "optsEn": [
+   "Uttarakhand",
+   "Assam",
+   "Gujarat",
+   "Rajasthan"
+  ],
+  "optsHi": [
+   "उत्तराखंड",
+   "असम",
+   "गुजरात",
+   "राजस्थान"
+  ],
+  "correct": 1,
+  "explainEn": "Kaziranga National Park is located in the state of Assam and is famous for one-horned rhinoceroses.",
+  "sourceHint": "NCERT Geography Class 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:28:31Z"
+ },
+ {
+  "id": "q_bfee7411cc30b273",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which part of a plant conducts water and minerals from the roots to the leaves?",
+  "qHi": "पौधे का कौन सा भाग जड़ों से पत्तियों तक जल और खनिजों का संवहन करता है?",
+  "optsEn": [
+   "Xylem",
+   "Phloem",
+   "Stomata",
+   "Cortex"
+  ],
+  "optsHi": [
+   "जाइलम",
+   "फ्लोएम",
+   "रंध्र",
+   "कॉर्टेक्स"
+  ],
+  "correct": 0,
+  "explainEn": "Xylem is the plant tissue responsible for transporting water and dissolved minerals upward.",
+  "sourceHint": "NCERT Science Class 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:28:31Z"
+ },
+ {
+  "id": "q_2a34cd0bd398183d",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the name of the upper layer of the Earth's crust that contains humus and weathered rock particles, supporting plant growth?",
+  "qHi": "पृथ्वी की भूपर्पटी की उस ऊपरी परत का नाम क्या है जिसमें ह्यूमस और अपक्षयित चट्टान के कण होते हैं, जो पौधों की वृद्धि में सहायक होती है?",
+  "optsEn": [
+   "Magma",
+   "Core",
+   "Soil",
+   "Mantle"
+  ],
+  "optsHi": [
+   "मैग्मा",
+   "क्रोड",
+   "मिट्टी",
+   "मैंटल"
+  ],
+  "correct": 2,
+  "explainEn": "Soil is the thin layer of grainy substance covering the surface of the earth and contains organic matter like humus.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:29:14Z"
+ },
+ {
+  "id": "q_7d1e8f2d94d1dcd7",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who among the following was the President of the Constituent Assembly of India?",
+  "qHi": "निम्नलिखित में से कौन भारत की संविधान सभा के अध्यक्ष थे?",
+  "optsEn": [
+   "Dr. Rajendra Prasad",
+   "Pandit Jawaharlal Nehru",
+   "Dr. B. R. Ambedkar",
+   "Sardar Vallabhbhai Patel"
+  ],
+  "optsHi": [
+   "डॉ. राजेन्द्र प्रसाद",
+   "पंडित जवाहरलाल नेहरू",
+   "डॉ. बी. आर. अंबेडकर",
+   "सरदार वल्लभभाई पटेल"
+  ],
+  "correct": 0,
+  "explainEn": "Dr. Rajendra Prasad was elected as the permanent President of the Constituent Assembly.",
+  "sourceHint": "NCERT Class 8 Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:29:14Z"
+ },
+ {
+  "id": "q_2c23995e38d7a339",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which synthetic fibre is prepared from coal, water, and air, and was the first fully synthetic fibre produced in 1935?",
+  "qHi": "कौन सा सिंथेटिक रेशा कोयले, पानी और हवा से तैयार किया जाता है और 1935 में निर्मित पहला पूरी तरह से सिंथेटिक रेशा था?",
+  "optsEn": [
+   "Rayon",
+   "Polyester",
+   "Nylon",
+   "Acrylic"
+  ],
+  "optsHi": [
+   "रेयान",
+   "पॉलिएस्टर",
+   "नायलॉन",
+   "एक्रीलिक"
+  ],
+  "correct": 2,
+  "explainEn": "Nylon was made without any natural raw material from plant or animal, using coal, water, and air.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:29:14Z"
+ },
+ {
+  "id": "q_9fc49c7ab06d69f9",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which battle fought in 1757 marked the beginning of British political power in India?",
+  "qHi": "1757 में लड़ी गई किस लड़ाई ने भारत में ब्रिटिश राजनीतिक सत्ता की शुरुआत को चिह्नित किया?",
+  "optsEn": [
+   "Battle of Buxar",
+   "Battle of Plassey",
+   "Third Battle of Panipat",
+   "Battle of Haldighati"
+  ],
+  "optsHi": [
+   "बक्सर का युद्ध",
+   "प्लासी का युद्ध",
+   "पानीपत का तीसरा युद्ध",
+   "हल्दीघाटी का युद्ध"
+  ],
+  "correct": 1,
+  "explainEn": "The Battle of Plassey in 1757 is widely regarded as the starting point of British political control in India.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:29:14Z"
+ },
+ {
+  "id": "q_fea42b0db4caa607",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of crop is sown in the rainy season in India, generally from June to September?",
+  "qHi": "भारत में आमतौर पर जून से सितंबर तक, वर्षा ऋतु में किस प्रकार की फसल बोई जाती है?",
+  "optsEn": [
+   "Kharif crop",
+   "Rabi crop",
+   "Zaid crop",
+   "Horticulture crop"
+  ],
+  "optsHi": [
+   "खरीफ फसल",
+   "रबी फसल",
+   "जायद फसल",
+   "बागवानी फसल"
+  ],
+  "correct": 0,
+  "explainEn": "Crops that are sown in the rainy season are called Kharif crops, such as paddy and maize.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:29:14Z"
+ },
+ {
+  "id": "q_c3f6c90d33a8c8b1",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of internal trade and production, what does the term 'MSME' primarily stand for?",
+  "qHi": "आंतरिक व्यापार और उत्पादन के संदर्भ में, 'MSME' शब्द का मुख्य रूप से क्या अर्थ है?",
+  "optsEn": [
+   "Medium Scale Manufacturing Enterprise",
+   "Micro, Small and Medium Enterprises",
+   "Maximum Social Market Economy",
+   "Ministry of Steel and Mineral Extraction"
+  ],
+  "optsHi": [
+   "मीडियम स्केल मैन्युफैक्चरिंग एंटरप्राइज",
+   "माइक्रो, स्मॉल एंड मीडियम एंटरप्राइजेज",
+   "मैक्सिमम सोशल मार्केट इकोनॉमी",
+   "मिनिस्ट्री ऑफ स्टील एंड मिनरल एक्सट्रैक्शन"
+  ],
+  "correct": 1,
+  "explainEn": "MSME stands for Micro, Small and Medium Enterprises, playing a vital role in India's economy.",
+  "sourceHint": "NCERT Class 8 Social and Political Life",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:29:14Z"
+ },
+ {
+  "id": "q_31d624834a5f9d84",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which cellular organelle is known as the powerhouse of the cell because it generates chemical energy?",
+  "qHi": "किस कोशिका अंगक को कोशिका का पावरहाउस कहा जाता है क्योंकि यह रासायनिक ऊर्जा उत्पन्न करता है?",
+  "optsEn": [
+   "Chloroplast",
+   "Nucleus",
+   "Mitochondria",
+   "Ribosome"
+  ],
+  "optsHi": [
+   "क्लोरोप्लास्ट",
+   "केंद्रक",
+   "माइटोकॉन्ड्रिया",
+   "राइबोसोम"
+  ],
+  "correct": 2,
+  "explainEn": "Mitochondria produce energy-rich molecules for the cell, earning them the title of powerhouse of the cell.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-04T21:29:14Z"
  }
 ]
