@@ -14,6 +14,7 @@ button.opt:hover:not(:disabled){background:#27486d}button.opt.ok{background:var(
 button.sec{background:#2a4361;color:var(--tx)}select{font:16px system-ui;padding:10px;border-radius:8px;width:100%;margin:6px 0}
 .lad{display:flex;flex-wrap:wrap;gap:4px;margin:6px 0}.lad i{font-style:normal;font-size:12px;padding:3px 7px;border-radius:6px;background:#1d3550}.lad i.on{background:var(--ac);color:#111}.lad i.done{background:var(--ok)}
 .sub{color:#a9bad0;font-size:14px}
+@media(min-width:900px){body{font-size:20px}main{max-width:980px}}
 </style></head><body>
 <header><b>KBC Web</b><span class="sub" id="ver">TarkShastra</span><span class="sp"></span><span id="clock"></span></header>
 <main id="app"><div class="card">Loading questions...</div></main>
@@ -32,7 +33,7 @@ function menu(msg){
  var h='<div class="card"><h2>KBC Web</h2><p class="sub">17 questions, easy to hard. Pick your group and language.</p>'+(msg?'<p>'+esc(msg)+'</p>':'')+
  '<label>Group</label><select id="g">'+Object.keys(GROUPS).map(function(k){return'<option value="'+k+'">'+GROUPS[k]+'</option>'}).join("")+'</select>'+
  '<label>Language</label><select id="l"><option value="en">English</option><option value="hi">Hindi</option></select>'+
- '<p class="sub">Questions you already saw on this device are not shown again (stored only in this browser).</p><button id="go">Start game</button></div>';
+ '<p class="sub">On a computer: press A, B, C or D to answer and N or Enter for the next question. Questions you already saw on this device are not shown again (stored only in this browser).</p><button id="go">Start game</button></div>';
  app.innerHTML=h;document.getElementById("l").value=lang;
  document.getElementById("go").onclick=function(){lang=document.getElementById("l").value;localStorage.setItem("kbcw_lang",lang);start(document.getElementById("g").value)}}
 function start(g){
@@ -66,5 +67,8 @@ function answer(i,box){
  fb.innerHTML='<p><b>'+(ok?"Correct!":"Wrong. Correct answer: "+String.fromCharCode(65+q.correct))+'</b></p>'+(q.explainEn?'<p class="sub">'+esc(q.explainEn)+'</p>':"")+'<button id="nx">'+(ok&&S.i<S.q.length-1?"Next question":"Finish")+'</button>';
  document.getElementById("nx").onclick=function(){if(ok&&S.i<S.q.length-1){S.i++;show()}else end(ok?"You answered all "+S.q.length+" questions correctly!":"Game over. You answered "+S.i+" correctly.")}}
 function end(m){app.innerHTML='<div class="card"><h2>'+esc(m)+'</h2><button id="again">Play again</button></div>';document.getElementById("again").onclick=function(){menu()}}
+document.addEventListener("keydown",function(e){if(e.ctrlKey||e.metaKey||e.altKey)return;var k=e.key.toLowerCase(),i="abcd".indexOf(k);
+ if(i>=0&&k.length===1){var b=document.querySelectorAll("#o button.opt");if(b[i]&&!b[i].disabled)b[i].click()}
+ else if(k==="n"||k==="enter"){var nx=document.getElementById("nx");if(nx)nx.click()}});
 menu();
 </script></body></html>
