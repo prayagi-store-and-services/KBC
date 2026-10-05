@@ -56,3 +56,10 @@ After an in-app update installs, the app restarts and, on start, deletes every d
 
 - New Profile card "KBC Web" with a button that opens https://prayagi-store-and-services.github.io/KBC/play.html in the phone's browser. The app itself sends nothing and reads nothing for this; it only asks Android to open the address. If no browser exists it shows Unavailable.
 - No new permission, network call from the app, or library.
+
+## Home screen widget (version 1.1.4)
+
+- New widget "KBC - TarkShastra": shows the points of your last finished game, your best score and how that game ended, from what the app saved when the game ended. Before any game is finished it shows "Unavailable". The score is in points, as in the game.
+- Stored on this phone only (local preferences): the last game's points, question reached, correct answers, end reason, time, and the best score. Nothing is sent anywhere. Note: KBC still has Android app backup on with sample rules (an owner question is open); this small file follows that setting.
+- No timer or background work: the app redraws the widget when a game ends.
+- No new permission, network call or library. The widget receiver is exported because Android's launcher must send it update events; it handles only that action. Tapping the widget opens the app.

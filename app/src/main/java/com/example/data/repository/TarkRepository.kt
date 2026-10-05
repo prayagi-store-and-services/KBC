@@ -307,6 +307,11 @@ class TarkRepository(
             timestamp = result.timestamp
         )
         gameHistoryDao.insertGameHistory(entity)
+        try {
+            val best = maxOf(gameHistoryDao.getHighestPrizeWon() ?: 0L, result.totalPointsWon)
+            com.example.widget.KbcWidgetStore.save(context, result.totalPointsWon, result.highestQuestionReached, result.correctCount, result.reasonEnded, result.timestamp, best)
+            com.example.widget.KbcWidgetProvider.refresh(context)
+        } catch (_: Exception) { }
 
         // Update profile high scores
         val currentProfile = getUserProfile()
