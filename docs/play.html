@@ -30,7 +30,7 @@ setInterval(function(){document.getElementById("clock").textContent=new Date().t
 function el(h){var d=document.createElement("div");d.innerHTML=h;return d}
 function esc(t){return String(t).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
 function menu(msg){
- var h='<div class="card"><h2>KBC Web</h2><p class="sub">17 questions, easy to hard. Sound and voice need a tap to start; if your browser blocks them they show as Unavailable. Pick your group and language.</p>'+(msg?'<p>'+esc(msg)+'</p>':'')+
+ var h='<div class="card"><h2>KBC Web</h2><p class="sub">'+(function(){var st=stats();return st.games?"Your best score on this device: <b>"+st.best+"</b> points (last: "+st.last+", games: "+st.games+"). Stored only in this browser.":"Your best score on this device: Unavailable (no game played yet)."})()+'</p><p class="sub">17 questions, easy to hard. Sound and voice need a tap to start; if your browser blocks them they show as Unavailable. Pick your group and language.</p>'+(msg?'<p>'+esc(msg)+'</p>':'')+
  '<label>Group</label><select id="g">'+Object.keys(GROUPS).map(function(k){return'<option value="'+k+'">'+GROUPS[k]+'</option>'}).join("")+'</select>'+
  '<label>Language</label><select id="l"><option value="en">English</option><option value="hi">Hindi</option></select>'+
  '<p class="sub">Each question is timed like the app: 60 s for questions 1-5, 120 s for 6-10, no limit after that. The question and options are read aloud and there are suspense sounds (you can switch both off in the game). Tap an option, then press Lock answer. On a computer: press A, B, C or D to choose, Enter or L to lock, N or Enter for the next question. Questions you already saw on this device are not shown again (stored only in this browser).</p><button id="go">Start game</button></div>';
@@ -85,7 +85,7 @@ function show(){
  var box=document.getElementById("o");
  o.forEach(function(x,idx){var b=document.createElement("button");b.className="opt";b.textContent=String.fromCharCode(65+idx)+". "+x;b.onclick=function(){pick(idx,box)};box.appendChild(b)});
  document.getElementById("lk").onclick=function(){lockIn(box)};
- lifelines(box);document.getElementById("quit").onclick=function(){stopTimer();stopVox();S.over=true;end("You quit after "+S.i+" correct answer(s). Points: "+S.won+".")};
+ lifelines(box);document.getElementById("quit").onclick=function(){stopTimer();stopVox();S.over=true;end("You quit after "+S.i+" correct answer(s). Points: "+S.won+".",S.won)};
  var tm=document.getElementById("tm");
  function tick(){if(S.locked||S.over){return}if(!S.limit){tm.textContent="No time limit on this question";return}
   var r=Math.max(0,Math.ceil((S.deadline-Date.now())/1000));tm.textContent="Time left: "+r+" s";tm.style.color=r<=10?"#ff6b5b":"";if(r<=0)timeUp(box)}
@@ -115,7 +115,7 @@ function reveal(i,box,timeout){
  var exp=(lang==="hi"&&q.explainHi)?q.explainHi:q.explainEn;
  fb.innerHTML='<p><b>'+(ok?"Correct! You have "+S.won+" points"+(cp?" - "+CPN[S.i+1]+" reached, secured.":"."):(timeout?"Time up. ":"Wrong. ")+"Correct answer: "+L)+'</b></p>'+(exp?'<p class="sub">'+esc(exp)+'</p>':"")+'<button id="nx">'+(ok&&!last?"Next question":"Finish")+'</button>';
  setTimeout(function(){say(ok?(lang==="hi"?"सही जवाब":"Correct answer"):((timeout?(lang==="hi"?"समय समाप्त. ":"Time is up. "):(lang==="hi"?"गलत जवाब. ":"Wrong answer. "))+(lang==="hi"?"सही उत्तर ":"The correct answer is ")+L+". "+(q.explainEn&&lang!=="hi"?q.explainEn:"")),!ok)},900);
- document.getElementById("nx").onclick=function(){stopVox();if(ok&&!last){S.i++;show()}else end(ok?"You answered all "+S.q.length+" questions correctly! Final points: "+S.won+".":"Game over. You answered "+S.i+" correctly. You take home the secured points: "+S.sec+".")}}
+ document.getElementById("nx").onclick=function(){stopVox();if(ok&&!last){S.i++;show()}else end(ok?"You answered all "+S.q.length+" questions correctly! Final points: "+S.won+".":"Game over. You answered "+S.i+" correctly. You take home the secured points: "+S.sec+".",ok?S.won:S.sec)}}
 function lifelines(box){
  var ll=document.getElementById("ll"),q=S.q[S.i];
  var a=document.createElement("button");a.className="sec";a.textContent="50-50";a.disabled=!S.fifty;
@@ -125,7 +125,8 @@ function lifelines(box){
  f.onclick=function(){if(S.locked||S.over)return;S.flip=false;sfx("flip");S.q[S.i]=sp.shift();show()};
  ll.appendChild(a);ll.appendChild(f);
  var n=document.createElement("p");n.className="sub";n.textContent="Lifelines: 50-50 and Flip are real. Audience poll and Phone-a-friend are not offered because they would need invented data.";ll.appendChild(n)}
-function end(m){stopTimer();stopVox();S&&(S.over=true);app.innerHTML='<div class="card"><h2>'+esc(m)+'</h2><button id="again">Play again</button></div>';document.getElementById("again").onclick=function(){menu()}}
+function stats(){try{return JSON.parse(localStorage.getItem("kbcw_stats")||"{}")}catch(e){return{}}}
+function end(m,pts){stopTimer();stopVox();S&&(S.over=true);if(typeof pts==="number"){var st=stats();st.games=(st.games||0)+1;st.best=Math.max(st.best||0,pts);st.last=pts;localStorage.setItem("kbcw_stats",JSON.stringify(st))}app.innerHTML='<div class="card"><h2>'+esc(m)+'</h2><button id="again">Play again</button></div>';document.getElementById("again").onclick=function(){menu()}}
 document.addEventListener("keydown",function(e){if(e.ctrlKey||e.metaKey||e.altKey)return;var k=e.key.toLowerCase(),i="abcd".indexOf(k);
  if(i>=0&&k.length===1){var b=document.querySelectorAll("#o button.opt");if(b[i]&&!b[i].disabled)b[i].click()}
  else if(k==="l"||k==="enter"){var nx=document.getElementById("nx");if(nx){nx.click()}else{var lk=document.getElementById("lk");if(lk&&!lk.disabled)lk.click()}}
