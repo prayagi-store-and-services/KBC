@@ -140,6 +140,7 @@ fun QuizScreen(
     val isHi = mode == "HINDI" || mode == "HI"
     val userProfile by viewModel.userProfile.collectAsState()
     val isVoiceEnabled by viewModel.isVoiceNarrationEnabled.collectAsState()
+    val antiCheatNote by viewModel.antiCheatNote.collectAsState()
 
     val view = LocalView.current
     val context = LocalContext.current
@@ -209,6 +210,15 @@ fun QuizScreen(
             // ==========================================
             // TOP HUD (Header)
             // ==========================================
+            antiCheatNote?.let { denied ->
+                Text(
+                    text = if (isHi) "एंटी-चीट बंद है: $denied की अनुमति नहीं है" else "Anti-cheat is off: $denied not allowed",
+                    color = GoldGlow,
+                    fontSize = 12.sp,
+                    maxLines = 1,
+                    modifier = Modifier.fillMaxWidth().padding(horizontal = 12.dp, vertical = 2.dp)
+                )
+            }
             QuizHeaderHud(
                 currentQNumber = state.currentQNumber,
                 points = question.points,
