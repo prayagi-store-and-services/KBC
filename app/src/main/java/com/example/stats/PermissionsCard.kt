@@ -60,7 +60,7 @@ internal fun notificationStatus(context: Context): String =
 internal fun appPermissions(): List<PermItem> = listOf(
     PermItem(
         "Camera",
-        "Used for the camera check during a game and profile verification. It is also the permission the QR scan will need when the web quiz link ships. Tap to open the Android page where you can allow or stop it.",
+        "Used for the camera check during a game (anti-cheat). It is also the permission the QR scan will need when the web quiz link ships. Tap to open the Android page where you can allow or stop it.",
         { runtimeStatus(it, android.Manifest.permission.CAMERA) },
         { it.startActivity(appSettingsIntent(it)) }
     ),
