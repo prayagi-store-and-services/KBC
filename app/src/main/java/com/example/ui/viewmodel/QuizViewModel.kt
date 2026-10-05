@@ -1060,7 +1060,7 @@ class QuizViewModel(application: Application) : AndroidViewModel(application) {
         if (!isValid) {
             _uiState.value = QuizUiState.PermissionRequired(
                 listOf(),
-                "⚠️ Game State Error: Invalid or stale question bank detected by watchdog. Please start a new session."
+                "The questions for this game could not be used. Please start a new game."
             )
             return
         }
