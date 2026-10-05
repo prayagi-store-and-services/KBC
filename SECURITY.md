@@ -68,3 +68,7 @@ After an in-app update installs, the app restarts and, on start, deletes every d
 
 - New "Permissions" card in Profile: lists each permission the app uses (Camera, Microphone, Notifications, Install apps, Internet), the plain reason, and the live status read from Android when you open the screen (no timer). Tapping a row opens the Android page for this app where you can allow or stop it. The older Grant buttons stay.
 - No new permission, network call or library.
+
+## Truthful profile-setup screen (version 1.1.7)
+
+The screen shown after saving the profile said "100% offline game bank ready" and "offline bank installation" although that step only saves the profile and syncs current affairs; no question bank is downloaded or checked there. The texts now say profile setup and starting the game. Text change only: no new permission, network call, library or timer.

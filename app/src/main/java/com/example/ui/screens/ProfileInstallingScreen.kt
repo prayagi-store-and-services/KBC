@@ -111,7 +111,7 @@ fun ProfileInstallingScreen(
                     Spacer(modifier = Modifier.height(24.dp))
 
                     Text(
-                        text = "तर्कशास्त्र ऑफ़लाइन बैंक इंस्टॉलेशन",
+                        text = "प्रोफ़ाइल सेटअप (Profile setup)",
                         style = MaterialTheme.typography.titleLarge.copy(
                             color = GoldPrimary,
                             fontWeight = FontWeight.Bold,
@@ -159,7 +159,7 @@ fun ProfileInstallingScreen(
                             )
                         )
                         Text(
-                            text = "100% ऑफ़लाइन तैयार",
+                            text = "सेटअप जारी है",
                             style = MaterialTheme.typography.bodySmall.copy(
                                 color = SuccessGreen
                             )
