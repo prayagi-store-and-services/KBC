@@ -43,7 +43,7 @@ function start(g){
   bands.forEach(function(b){var c=all.filter(function(q){return q.band===b[0]&&sn.indexOf(q.id)<0&&Array.isArray(q.optsEn)&&q.optsEn.length===4&&typeof q.correct==="number"});
    c.sort(function(){return Math.random()-.5});if(c.length<b[1])short.push(b[0]);pick=pick.concat(c.slice(0,b[1]));spare[b[0]]=c.slice(b[1],b[1]+2)});
   if(short.length){menu("Not enough new questions left for this group ("+short.join(", ")+"). Choose another group. Unavailable: more questions arrive as the pool grows.");return}
-  S={g:g,q:pick,i:0,spare:spare,fifty:true,flip:true};show()}).catch(function(){app.innerHTML='<div class="card">Question bank: Unavailable right now (could not load). Try again later.</div>'})}
+  S={g:g,q:pick,i:0,spare:spare,fifty:true,flip:true,won:0,sec:0};show()}).catch(function(){app.innerHTML='<div class="card">Question bank: Unavailable right now (could not load). Try again later.</div>'})}
 var SND={on:localStorage.getItem("kbcw_snd")!=="0"},VOX={on:localStorage.getItem("kbcw_vox")!=="0",ok:("speechSynthesis" in window)},AC=null,TM={id:0,pulse:0};
 function ac(){if(!AC){var C=window.AudioContext||window.webkitAudioContext;if(!C)return null;try{AC=new C()}catch(e){return null}}if(AC.state==="suspended"){try{AC.resume()}catch(e){}}return AC}
 function tone(f,ms,vol,type,delay){if(!SND.on)return;var c=ac();if(!c)return;try{var o=c.createOscillator(),g=c.createGain(),t=c.currentTime+(delay||0)/1000;o.type=type||"sine";o.frequency.value=f;g.gain.setValueAtTime(0.0001,t);g.gain.exponentialRampToValueAtTime(Math.max(vol,0.0002),t+0.01);g.gain.exponentialRampToValueAtTime(0.0001,t+ms/1000);o.connect(g);g.connect(c.destination);o.start(t);o.stop(t+ms/1000+0.03)}catch(e){}}
@@ -66,6 +66,7 @@ function pressure(){
 function stopTimer(){if(TM.id){clearInterval(TM.id);TM.id=0}stopPressure()}
 function stopVox(){if(VOX.ok){try{window.speechSynthesis.cancel()}catch(e){}}}
 function say(t,calm){if(!VOX.ok||!VOX.on||!t)return;try{var u=new SpeechSynthesisUtterance(t);u.lang=lang==="hi"?"hi-IN":"en-IN";u.rate=calm?0.9:1;var vs=window.speechSynthesis.getVoices(),pre=lang==="hi"?"hi":"en";for(var k=0;k<vs.length;k++){if(vs[k].lang&&vs[k].lang.toLowerCase().indexOf(pre)===0){u.voice=vs[k];break}}window.speechSynthesis.speak(u)}catch(e){}}
+var PTS=[10,15,20,25,30,40,50,60,70,180,50,60,70,80,90,100,50],CPN={5:"1st Checkpoint",10:"2nd Checkpoint",16:"3rd Checkpoint",17:"Final Crown"};
 function limitFor(n){return n<=5?60:n<=10?120:null}
 function bar(){
  return '<div class="sub" style="display:flex;gap:10px;flex-wrap:wrap;align-items:center"><button class="sec" id="snd" style="padding:6px 10px;font-size:14px">Sound: '+(SND.on?"on":"off")+'</button>'+
@@ -78,13 +79,13 @@ function show(){
  stopTimer();stopVox();
  var q=S.q[S.i],o=lang==="hi"&&q.optsHi?q.optsHi:q.optsEn,t=lang==="hi"&&q.qHi?q.qHi:q.qEn,lad="";
  S.sel=null;S.locked=false;S.over=false;S.gone={};S.limit=limitFor(S.i+1);S.deadline=S.limit?Date.now()+S.limit*1000:0;
- for(var i=0;i<S.q.length;i++)lad+='<i class="'+(i<S.i?"done":i===S.i?"on":"")+'">'+(i+1)+'</i>';
- app.innerHTML='<div class="card"><div class="lad">'+lad+'</div><p class="sub">Question '+(S.i+1)+' of '+S.q.length+' - '+q.band+'</p><p id="tm" style="font-weight:700;font-size:20px"></p><h3>'+esc(t)+'</h3><div id="o"></div><button id="lk" disabled>Lock answer</button><div id="ll"></div><div id="fb"></div></div>'+bar()+'<button class="sec" id="quit" style="margin-top:10px">Quit</button>';
+ for(var i=0;i<S.q.length;i++)lad+='<i class="'+(i<S.i?"done":i===S.i?"on":"")+'" title="'+PTS[i]+' points'+(CPN[i+1]?" - "+CPN[i+1]:"")+'">'+(i+1)+(CPN[i+1]?"*":"")+'</i>';
+ app.innerHTML='<div class="card"><div class="lad">'+lad+'</div><p class="sub">Question '+(S.i+1)+' of '+S.q.length+' - '+q.band+'</p><p class="sub">This question: <b>'+PTS[S.i]+' points</b>'+(CPN[S.i+1]?' - <b>'+CPN[S.i+1]+'</b> (points are secured)':"")+' | Points now: <b>'+S.won+'</b> | Secured: <b>'+S.sec+'</b></p><p id="tm" style="font-weight:700;font-size:20px"></p><h3>'+esc(t)+'</h3><div id="o"></div><button id="lk" disabled>Lock answer</button><div id="ll"></div><div id="fb"></div></div>'+bar()+'<button class="sec" id="quit" style="margin-top:10px">Quit</button>';
  wireBar();
  var box=document.getElementById("o");
  o.forEach(function(x,idx){var b=document.createElement("button");b.className="opt";b.textContent=String.fromCharCode(65+idx)+". "+x;b.onclick=function(){pick(idx,box)};box.appendChild(b)});
  document.getElementById("lk").onclick=function(){lockIn(box)};
- lifelines(box);document.getElementById("quit").onclick=function(){stopTimer();stopVox();S.over=true;end("You quit after "+S.i+" correct answer(s).")};
+ lifelines(box);document.getElementById("quit").onclick=function(){stopTimer();stopVox();S.over=true;end("You quit after "+S.i+" correct answer(s). Points: "+S.won+".")};
  var tm=document.getElementById("tm");
  function tick(){if(S.locked||S.over){return}if(!S.limit){tm.textContent="No time limit on this question";return}
   var r=Math.max(0,Math.ceil((S.deadline-Date.now())/1000));tm.textContent="Time left: "+r+" s";tm.style.color=r<=10?"#ff6b5b":"";if(r<=0)timeUp(box)}
@@ -107,13 +108,14 @@ function timeUp(box){
 function reveal(i,box,timeout){
  var q=S.q[S.i],bs=box.querySelectorAll("button");markSeen(q.id);S.over=true;
  bs.forEach(function(b,k){b.disabled=true;b.style.outline="";if(k===q.correct)b.className="opt ok";else if(k===i)b.className="opt bad"});
- var fb=document.getElementById("fb"),ok=i===q.correct,L=String.fromCharCode(65+q.correct),last=S.i>=S.q.length-1;
+ var fb=document.getElementById("fb"),ok=i===q.correct,L=String.fromCharCode(65+q.correct),last=S.i>=S.q.length-1,cp=!!CPN[S.i+1];
+ if(ok){S.won=PTS[S.i];if(cp)S.sec=S.won}
  document.getElementById("tm").textContent=timeout?"Time is up":"";
- sfx(timeout?"time":ok?"ok":"bad");
+ sfx(timeout?"time":ok?"ok":"bad");if(ok&&cp)setTimeout(function(){tone(784,300,.2,"triangle");tone(1047,500,.2,"triangle",200)},700);
  var exp=(lang==="hi"&&q.explainHi)?q.explainHi:q.explainEn;
- fb.innerHTML='<p><b>'+(ok?"Correct!":(timeout?"Time up. ":"Wrong. ")+"Correct answer: "+L)+'</b></p>'+(exp?'<p class="sub">'+esc(exp)+'</p>':"")+'<button id="nx">'+(ok&&!last?"Next question":"Finish")+'</button>';
+ fb.innerHTML='<p><b>'+(ok?"Correct! You have "+S.won+" points"+(cp?" - "+CPN[S.i+1]+" reached, secured.":"."):(timeout?"Time up. ":"Wrong. ")+"Correct answer: "+L)+'</b></p>'+(exp?'<p class="sub">'+esc(exp)+'</p>':"")+'<button id="nx">'+(ok&&!last?"Next question":"Finish")+'</button>';
  setTimeout(function(){say(ok?(lang==="hi"?"सही जवाब":"Correct answer"):((timeout?(lang==="hi"?"समय समाप्त. ":"Time is up. "):(lang==="hi"?"गलत जवाब. ":"Wrong answer. "))+(lang==="hi"?"सही उत्तर ":"The correct answer is ")+L+". "+(q.explainEn&&lang!=="hi"?q.explainEn:"")),!ok)},900);
- document.getElementById("nx").onclick=function(){stopVox();if(ok&&!last){S.i++;show()}else end(ok?"You answered all "+S.q.length+" questions correctly!":"Game over. You answered "+S.i+" correctly.")}}
+ document.getElementById("nx").onclick=function(){stopVox();if(ok&&!last){S.i++;show()}else end(ok?"You answered all "+S.q.length+" questions correctly! Final points: "+S.won+".":"Game over. You answered "+S.i+" correctly. You take home the secured points: "+S.sec+".")}}
 function lifelines(box){
  var ll=document.getElementById("ll"),q=S.q[S.i];
  var a=document.createElement("button");a.className="sec";a.textContent="50-50";a.disabled=!S.fifty;
