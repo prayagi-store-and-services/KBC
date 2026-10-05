@@ -22,28 +22,46 @@ button.sec{background:#2a4361;color:var(--tx)}select{font:16px system-ui;padding
 <script>
 "use strict";
 var POOL="https://raw.githubusercontent.com/prayagi-store-and-services/KBC/question-pool/pool/";
-var GROUPS={"class-5":"Class 5","class-8":"Class 8","class-10":"Class 10","class-12":"Class 12","upsc":"UPSC","ssc":"SSC / State exams","banking":"Banking","general":"General"};
+var HAVE={"class-5":1,"class-8":1,"class-10":1,"class-12":1};var GROUPS={"class-1":"Class 1","class-2":"Class 2","class-3":"Class 3","class-4":"Class 4","class-5":"Class 5","class-6":"Class 6","class-7":"Class 7","class-8":"Class 8","class-9":"Class 9","class-10":"Class 10","class-11":"Class 11","class-12":"Class 12","upsc":"UPSC","ssc":"SSC / State exams","banking":"Banking","general":"General"};
+var MODE=localStorage.getItem("kbcw_mode")||"normal";var DIG={"\u0966":"0","\u0967":"1","\u0968":"2","\u0969":"3","\u096a":"4","\u096b":"5","\u096c":"6","\u096d":"7","\u096e":"8","\u096f":"9"};function dg(t){return String(t).replace(/[\u0966-\u096f]/g,function(c){return DIG[c]})}
 var app=document.getElementById("app"),lang=localStorage.getItem("kbcw_lang")||"en",S=null;
 function seen(){try{return JSON.parse(localStorage.getItem("kbcw_seen")||"[]")}catch(e){return[]}}
 function markSeen(id){var s=seen();if(s.indexOf(id)<0){s.push(id);localStorage.setItem("kbcw_seen",JSON.stringify(s))}}
 setInterval(function(){document.getElementById("clock").textContent=new Date().toLocaleString("en-IN",{dateStyle:"medium",timeStyle:"medium"})},1000);
 function el(h){var d=document.createElement("div");d.innerHTML=h;return d}
 function esc(t){return String(t).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
+function avail(k){return !/^class-/.test(k)||HAVE[k]}
+function ageClasses(a){var c=[];[a-6,a-5].forEach(function(n){if(n>=1&&n<=12&&c.indexOf(n)<0)c.push(n)});return c}
+function ageGroups(a){return ageClasses(a).filter(function(n){return HAVE["class-"+n]}).map(function(n){return"class-"+n})}
 function menu(msg){
- var h='<div class="card"><h2>KBC Web</h2><p class="sub">'+(function(){var st=stats();return st.games?"Your best score on this device: <b>"+st.best+"</b> points (last: "+st.last+", games: "+st.games+"). Stored only in this browser.":"Your best score on this device: Unavailable (no game played yet)."})()+'</p><p class="sub">17 questions, easy to hard. Sound and voice need a tap to start; if your browser blocks them they show as Unavailable. Pick your group and language.</p>'+(msg?'<p>'+esc(msg)+'</p>':'')+
- '<label>Group</label><select id="g">'+Object.keys(GROUPS).map(function(k){return'<option value="'+k+'">'+GROUPS[k]+'</option>'}).join("")+'</select>'+
- '<label>Language</label><select id="l"><option value="en">English</option><option value="hi">Hindi</option></select>'+
- '<p class="sub">Each question is timed like the app: 60 s for questions 1-5, 120 s for 6-10, no limit after that. The question and options are read aloud and there are suspense sounds (you can switch both off in the game). Tap an option, then press Lock answer. On a computer: press A, B, C or D to choose, Enter or L to lock, N or Enter for the next question. Questions you already saw on this device are not shown again (stored only in this browser).</p><button id="go">Start game</button></div>';
- app.innerHTML=h;document.getElementById("l").value=lang;
- document.getElementById("go").onclick=function(){lang=document.getElementById("l").value;localStorage.setItem("kbcw_lang",lang);start(document.getElementById("g").value)}}
-function start(g){
- app.innerHTML='<div class="card">Loading questions...</div>';
- fetch(POOL+g+".json",{cache:"no-store"}).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(all){
-  var sn=seen(),spare={},pick=[],bands=[["easy",5],["medium",6],["hard",6]],short=[];
-  bands.forEach(function(b){var c=all.filter(function(q){return q.band===b[0]&&sn.indexOf(q.id)<0&&Array.isArray(q.optsEn)&&q.optsEn.length===4&&typeof q.correct==="number"});
-   c.sort(function(){return Math.random()-.5});if(c.length<b[1])short.push(b[0]);pick=pick.concat(c.slice(0,b[1]));spare[b[0]]=c.slice(b[1],b[1]+2)});
-  if(short.length){menu("Not enough new questions left for this group ("+short.join(", ")+"). Choose another group. Unavailable: more questions arrive as the pool grows.");return}
-  S={g:g,q:pick,i:0,spare:spare,fifty:true,flip:true,won:0,sec:0};show()}).catch(function(){app.innerHTML='<div class="card">Question bank: Unavailable right now (could not load). Try again later.</div>'})}
+ var st=stats(),jr=MODE==="junior";
+ var ages="";for(var a=6;a<=18;a++){var ok=ageGroups(a).length;ages+='<option value="'+a+'"'+(ok?"":" disabled")+'>Age '+a+(ok?" (Class "+ageClasses(a).join("/")+")":" - Unavailable (no questions for Class "+ageClasses(a).join("/")+" yet)")+'</option>'}
+ var grp=Object.keys(GROUPS).map(function(k){var ok=avail(k);return'<option value="'+k+'"'+(ok?"":" disabled")+'>'+GROUPS[k]+(ok?"":" - Unavailable (no questions yet)")+'</option>'}).join("");
+ var h='<div class="card"><h2>KBC Web</h2><p class="sub">'+(st.games?"Your best score on this device: <b>"+st.best+"</b> points (last: "+st.last+", games: "+st.games+"). Stored only in this browser.":"Your best score on this device: Unavailable (no game played yet).")+'</p><p class="sub">17 questions, easy to hard. Sound and voice need a tap to start; if your browser blocks them they show as Unavailable.</p>'+(msg?'<p>'+esc(msg)+'</p>':'')+
+ '<label>Mode</label><select id="m"><option value="normal">KBC Normal (pick a class or exam)</option><option value="junior">KBC Junior (pick the child\'s age)</option></select>'+
+ (jr?'<label>Age</label><select id="a">'+ages+'</select><p class="sub">Junior maps age to the class a child studies (age minus 5, or minus 6). Only classes that have questions in the bank are used. Questions come from school textbooks (NCERT); logic and reasoning questions: Unavailable (the bank has no such category yet).</p>':'<label>Class or exam</label><select id="g">'+grp+'</select>')+
+ '<label>Language (you can also switch during the game)</label><select id="l"><option value="en">English</option><option value="hi">Hindi</option></select>'+
+ '<p class="sub">Timed like the app: 60 s for questions 1-5, 120 s for 6-10, no limit after. Tap an option then press Lock answer. Keys: A-D choose, Enter or L lock, N next. Every game uses 17 fresh questions chosen up front; none repeats in a game, and questions you saw on this device are held back until the group is used up (stored only in this browser).</p><button id="go">Start game</button></div>';
+ app.innerHTML=h;document.getElementById("l").value=lang;document.getElementById("m").value=MODE;
+ var ga=document.getElementById("a");if(ga){for(var i=0;i<ga.options.length;i++){if(!ga.options[i].disabled){ga.value=ga.options[i].value;break}}}
+ var gg=document.getElementById("g");if(gg){gg.value="class-5"}
+ document.getElementById("m").onchange=function(){MODE=this.value;localStorage.setItem("kbcw_mode",MODE);lang=document.getElementById("l").value;menu()};
+ document.getElementById("go").onclick=function(){lang=document.getElementById("l").value;localStorage.setItem("kbcw_lang",lang);
+  if(MODE==="junior"){var gs=ageGroups(+document.getElementById("a").value);if(!gs.length){menu("Unavailable: no questions for that age yet.");return}start(gs,"Junior age "+document.getElementById("a").value)}
+  else{var g=document.getElementById("g").value;if(!avail(g)){menu("Unavailable: no questions for that class yet.");return}start([g],GROUPS[g])}}}
+function start(gs,label){
+ app.innerHTML='<div class="card">Preparing your 17 questions...</div>';
+ Promise.all(gs.map(function(g){return fetch(POOL+g+".json",{cache:"no-store"}).then(function(r){if(!r.ok)throw 0;return r.json()})})).then(function(parts){
+  var all=[],ids={},qs={};parts.forEach(function(p){p.forEach(function(q){if(ids[q.id]||qs[q.qEn])return;ids[q.id]=1;qs[q.qEn]=1;all.push(q)})});
+  all=all.filter(function(q){return Array.isArray(q.optsEn)&&q.optsEn.length===4&&typeof q.correct==="number"});
+  var bands=[["easy",5],["medium",6],["hard",6]],need={easy:7,medium:8,hard:8},sn=seen(),note="";
+  function build(sn){var pick=[],spare={},ok=true;bands.forEach(function(b){var c=all.filter(function(q){return q.band===b[0]&&sn.indexOf(q.id)<0});c.sort(function(){return Math.random()-.5});if(c.length<b[1])ok=false;pick=pick.concat(c.slice(0,b[1]));spare[b[0]]=c.slice(b[1],b[1]+2)});return ok?{pick:pick,spare:spare}:null}
+  var r=build(sn);
+  if(!r){var idsAll=all.map(function(q){return q.id});r=build(sn.filter(function(x){return idsAll.indexOf(x)<0}));if(r){note="You have seen every question in this group on this device, so a new round starts. Repeats across games are possible now.";var keep=sn.filter(function(x){return idsAll.indexOf(x)<0});localStorage.setItem("kbcw_seen",JSON.stringify(keep))}}
+  if(!r){menu("Unavailable: this group does not have enough questions in every difficulty yet (need 5 easy, 6 medium, 6 hard).");return}
+  r.pick.forEach(function(q){markSeen(q.id)});
+  Object.keys(r.spare).forEach(function(k){r.spare[k].forEach(function(q){markSeen(q.id)})});
+  S={g:label,q:r.pick,i:0,spare:r.spare,fifty:true,flip:true,won:0,sec:0,note:note};show()}).catch(function(){app.innerHTML='<div class="card">Question bank: Unavailable right now (could not load). Try again later.</div>'})}
 var SND={on:localStorage.getItem("kbcw_snd")!=="0"},VOX={on:localStorage.getItem("kbcw_vox")!=="0",ok:("speechSynthesis" in window)},AC=null,TM={id:0,pulse:0};
 function ac(){if(!AC){var C=window.AudioContext||window.webkitAudioContext;if(!C)return null;try{AC=new C()}catch(e){return null}}if(AC.state==="suspended"){try{AC.resume()}catch(e){}}return AC}
 function tone(f,ms,vol,type,delay){if(!SND.on)return;var c=ac();if(!c)return;try{var o=c.createOscillator(),g=c.createGain(),t=c.currentTime+(delay||0)/1000;o.type=type||"sine";o.frequency.value=f;g.gain.setValueAtTime(0.0001,t);g.gain.exponentialRampToValueAtTime(Math.max(vol,0.0002),t+0.01);g.gain.exponentialRampToValueAtTime(0.0001,t+ms/1000);o.connect(g);g.connect(c.destination);o.start(t);o.stop(t+ms/1000+0.03)}catch(e){}}
@@ -70,17 +88,20 @@ var PTS=[10,15,20,25,30,40,50,60,70,180,50,60,70,80,90,100,50],CPN={5:"1st Check
 function limitFor(n){return n<=5?60:n<=10?120:null}
 function bar(){
  return '<div class="sub" style="display:flex;gap:10px;flex-wrap:wrap;align-items:center"><button class="sec" id="snd" style="padding:6px 10px;font-size:14px">Sound: '+(SND.on?"on":"off")+'</button>'+
- (VOX.ok?'<button class="sec" id="vox" style="padding:6px 10px;font-size:14px">Voice: '+(VOX.on?"on":"off")+'</button>':'<span>Voice: Unavailable in this browser</span>')+'</div>'}
+ (VOX.ok?'<button class="sec" id="vox" style="padding:6px 10px;font-size:14px">Voice: '+(VOX.on?"on":"off")+'</button>':'<span>Voice: Unavailable in this browser</span>')+'<button class="sec" id="lg" style="padding:6px 10px;font-size:14px">'+(lang==="hi"?"Language: Hindi (switch to English)":"Language: English (switch to Hindi)")+'</button></div>'}
 function wireBar(){
- var a=document.getElementById("snd"),b=document.getElementById("vox");
+ var a=document.getElementById("snd"),b=document.getElementById("vox"),lg=document.getElementById("lg");if(lg)lg.onclick=function(){setLang(lang==="hi"?"en":"hi")};
  if(a)a.onclick=function(){SND.on=!SND.on;localStorage.setItem("kbcw_snd",SND.on?"1":"0");a.textContent="Sound: "+(SND.on?"on":"off");if(!SND.on)stopPressure();else if(S&&!S.locked&&!S.over)pressure()};
  if(b)b.onclick=function(){VOX.on=!VOX.on;localStorage.setItem("kbcw_vox",VOX.on?"1":"0");b.textContent="Voice: "+(VOX.on?"on":"off");if(!VOX.on)stopVox()}}
+function qo(q){return(lang==="hi"&&q.optsHi?q.optsHi:q.optsEn).map(dg)}
+function qt(q){return dg(lang==="hi"&&q.qHi?q.qHi:q.qEn)}
+function setLang(l){lang=l;localStorage.setItem("kbcw_lang",l);if(!S||S.over&&!S.locked&&0)return;var q=S.q[S.i],h=document.getElementById("qt");if(h)h.textContent=qt(q);var bs=document.querySelectorAll("#o button.opt"),o=qo(q);bs.forEach(function(b,k){b.textContent=String.fromCharCode(65+k)+". "+o[k]});var lb=document.getElementById("lg");if(lb)lb.textContent=l==="hi"?"Language: Hindi (switch to English)":"Language: English (switch to Hindi)";stopVox();if(!S.locked&&!S.over)say(qt(q)+". "+o.map(function(x,k){return String.fromCharCode(65+k)+". "+x}).join(". "));if(S.over){var e=document.getElementById("ex"),ex=(l==="hi"&&q.explainHi)?q.explainHi:q.explainEn;if(e&&ex)e.textContent=dg(ex)}}
 function show(){
  stopTimer();stopVox();
- var q=S.q[S.i],o=lang==="hi"&&q.optsHi?q.optsHi:q.optsEn,t=lang==="hi"&&q.qHi?q.qHi:q.qEn,lad="";
+ var q=S.q[S.i],lad="",o=qo(q),t=qt(q);
  S.sel=null;S.locked=false;S.over=false;S.gone={};S.limit=limitFor(S.i+1);S.deadline=S.limit?Date.now()+S.limit*1000:0;
  for(var i=0;i<S.q.length;i++)lad+='<i class="'+(i<S.i?"done":i===S.i?"on":"")+'" title="'+PTS[i]+' points'+(CPN[i+1]?" - "+CPN[i+1]:"")+'">'+(i+1)+(CPN[i+1]?"*":"")+'</i>';
- app.innerHTML='<div class="card"><div class="lad">'+lad+'</div><p class="sub">Question '+(S.i+1)+' of '+S.q.length+' - '+q.band+'</p><p class="sub">This question: <b>'+PTS[S.i]+' points</b>'+(CPN[S.i+1]?' - <b>'+CPN[S.i+1]+'</b> (points are secured)':"")+' | Points now: <b>'+S.won+'</b> | Secured: <b>'+S.sec+'</b></p><p id="tm" style="font-weight:700;font-size:20px"></p><h3>'+esc(t)+'</h3><div id="o"></div><button id="lk" disabled>Lock answer</button><div id="ll"></div><div id="fb"></div></div>'+bar()+'<button class="sec" id="quit" style="margin-top:10px">Quit</button>';
+ app.innerHTML='<div class="card"><div class="lad">'+lad+'</div><p class="sub">'+esc(S.g)+' - Question '+(S.i+1)+' of '+S.q.length+' - '+q.band+(S.note&&S.i===0?" - "+esc(S.note):"")+'</p><p class="sub">This question: <b>'+PTS[S.i]+' points</b>'+(CPN[S.i+1]?' - <b>'+CPN[S.i+1]+'</b> (points are secured)':"")+' | Points now: <b>'+S.won+'</b> | Secured: <b>'+S.sec+'</b></p><p id="tm" style="font-weight:700;font-size:20px"></p><h3 id="qt">'+esc(t)+'</h3><div id="o"></div><button id="lk" disabled>Lock answer</button><div id="ll"></div><div id="fb"></div></div>'+bar()+'<button class="sec" id="quit" style="margin-top:10px">Quit</button>';
  wireBar();
  var box=document.getElementById("o");
  o.forEach(function(x,idx){var b=document.createElement("button");b.className="opt";b.textContent=String.fromCharCode(65+idx)+". "+x;b.onclick=function(){pick(idx,box)};box.appendChild(b)});
@@ -113,7 +134,7 @@ function reveal(i,box,timeout){
  document.getElementById("tm").textContent=timeout?"Time is up":"";
  sfx(timeout?"time":ok?"ok":"bad");if(ok&&cp)setTimeout(function(){tone(784,300,.2,"triangle");tone(1047,500,.2,"triangle",200)},700);
  var exp=(lang==="hi"&&q.explainHi)?q.explainHi:q.explainEn;
- fb.innerHTML='<p><b>'+(ok?"Correct! You have "+S.won+" points"+(cp?" - "+CPN[S.i+1]+" reached, secured.":"."):(timeout?"Time up. ":"Wrong. ")+"Correct answer: "+L)+'</b></p>'+(exp?'<p class="sub">'+esc(exp)+'</p>':"")+'<button id="nx">'+(ok&&!last?"Next question":"Finish")+'</button>';
+ fb.innerHTML='<p><b>'+(ok?"Correct! You have "+S.won+" points"+(cp?" - "+CPN[S.i+1]+" reached, secured.":"."):(timeout?"Time up. ":"Wrong. ")+"Correct answer: "+L)+'</b></p>'+(exp?'<p class="sub" id="ex">'+esc(dg(exp))+'</p>':"")+'<button id="nx">'+(ok&&!last?"Next question":"Finish")+'</button>';
  setTimeout(function(){say(ok?(lang==="hi"?"सही जवाब":"Correct answer"):((timeout?(lang==="hi"?"समय समाप्त. ":"Time is up. "):(lang==="hi"?"गलत जवाब. ":"Wrong answer. "))+(lang==="hi"?"सही उत्तर ":"The correct answer is ")+L+". "+(q.explainEn&&lang!=="hi"?q.explainEn:"")),!ok)},900);
  document.getElementById("nx").onclick=function(){stopVox();if(ok&&!last){S.i++;show()}else end(ok?"You answered all "+S.q.length+" questions correctly! Final points: "+S.won+".":"Game over. You answered "+S.i+" correctly. You take home the secured points: "+S.sec+".",ok?S.won:S.sec)}}
 function lifelines(box){
