@@ -309,6 +309,10 @@ class QuizViewModel(application: Application) : AndroidViewModel(application) {
         }
     }
 
+    private val _antiCheatNote = MutableStateFlow<String?>(null)
+    /** Names of the denied permissions that switch part of the anti-cheat off, or null when none. */
+    val antiCheatNote: StateFlow<String?> = _antiCheatNote.asStateFlow()
+
     private var identityMonitoringJob: Job? = null
     private var identityWarningCount = 0
 
@@ -430,14 +434,9 @@ class QuizViewModel(application: Application) : AndroidViewModel(application) {
                 if (!hasMic && !(isTv && !deviceHasMic)) missing.add("Microphone")
                 if (!hasNotification && !isTv) missing.add("Notifications")
 
-                if (missing.isNotEmpty()) {
-                    _uiState.value = QuizUiState.PermissionRequired(
-                        missingPermissions = missing,
-                        message = "⚠️ Anti-Cheating Game Access Blocked: Missing required permissions (${missing.joinToString(", ")}). Camera and Microphone are required for active-game anti-cheating verification, and Notifications are required for game updates. Please grant them in the Profile settings."
-                    )
-                    isStartingGame = false
-                    return@launch
-                }
+                // Denied permissions never block a game. Only the anti-cheat part that needs the permission is off, and the game screen says so.
+                val antiCheatMissing = missing.filter { it == "Camera" || it == "Microphone" }
+                _antiCheatNote.value = if (antiCheatMissing.isEmpty()) null else antiCheatMissing.joinToString(" and ")
 
                 android.util.Log.d("TarkShastra", "PROFILE_VALIDATED for game start")
                 cleanupSessionResources()
