@@ -291,11 +291,11 @@ class QuizViewModel(application: Application) : AndroidViewModel(application) {
                     android.util.Log.e("TarkShastra", "BANK_DOWNLOAD_FAILED: Current affairs sync error: ${e.message}")
                 }
 
-                _uiState.value = QuizUiState.ProfileInstalling(0.75f, "ऑफ़लाइन उपयोग के लिए प्रश्न और उत्तर बैंक तैयार किए जा रहे हैं...")
+                _uiState.value = QuizUiState.ProfileInstalling(0.75f, "गेम शुरू करने की तैयारी (Preparing to start the game)...")
                 android.util.Log.d("TarkShastra", "BANK_CHECK_STARTED / BANK_DOWNLOAD_STARTED")
                 delay(500)
 
-                _uiState.value = QuizUiState.ProfileInstalling(1.0f, "100% ऑफ़लाइन गेम बैंक तैयार है! लॉन्च हो रहा है...")
+                _uiState.value = QuizUiState.ProfileInstalling(1.0f, "तैयार! गेम शुरू हो रहा है (Ready, starting the game)...")
                 delay(400)
 
                 startNewGame()
