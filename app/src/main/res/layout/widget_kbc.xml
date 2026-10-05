@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/kbc_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#101926"
+    android:orientation="vertical"
+    android:padding="12dp">
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="KBC - TARKSHASTRA" android:textColor="#FFC107" android:textSize="10sp" android:textStyle="bold" />
+    <TextView android:id="@+id/kbc_last" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="4dp" android:text="Last game: Unavailable" android:textColor="#FFFFFF" android:textSize="15sp" android:textStyle="bold" />
+    <TextView android:id="@+id/kbc_best" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="3dp" android:text="Best score: Unavailable" android:textColor="#E2E8F0" android:textSize="13sp" />
+    <TextView android:id="@+id/kbc_detail" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="4dp" android:text="No finished game yet. Tap to play." android:textColor="#94A3B8" android:textSize="10sp" />
+</LinearLayout>
