@@ -3134,5 +3134,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-05T05:44:32Z"
+ },
+ {
+  "id": "q_e97d5e2fa3f82e46",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who appoints the Chief Election Commissioner of India?",
+  "qHi": "भारत के मुख्य নির্বাচন आयुक्त की नियुक्ति कौन करता है?",
+  "optsEn": [
+   "Prime Minister",
+   "President of India",
+   "Chief Justice of India",
+   "Lok Sabha Speaker"
+  ],
+  "optsHi": [
+   "प्रधान मंत्री",
+   "भारत के राष्ट्रपति",
+   "भारत के मुख्य न्यायाधीश",
+   "लोकसभा अध्यक्ष"
+  ],
+  "correct": 1,
+  "explainEn": "The Chief Election Commissioner and other Election Commissioners are appointed by the President of India.",
+  "sourceHint": "Constitution of India, Article 324",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:42:42Z"
+ },
+ {
+  "id": "q_bcf41f7afbd8cb7c",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "The Ajanta Caves are primarily known for paintings and sculptures related to which religion?",
+  "qHi": "अजंता की गुफाएं मुख्य रूप से किस धर्म से संबंधित चित्रों और मूर्तियों के लिए जानी जाती हैं?",
+  "optsEn": [
+   "Buddhism",
+   "Jainism",
+   "Hinduism",
+   "Sikhism"
+  ],
+  "optsHi": [
+   "बौद्ध धर्म",
+   "जैन धर्म",
+   "हिन्दू धर्म",
+   "सिख धर्म"
+  ],
+  "correct": 0,
+  "explainEn": "The rock-cut caves at Ajanta predominantly feature Buddhist religious art, including paintings and rock-cut sculptures.",
+  "sourceHint": "NCERT Class 11 Fine Arts",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:42:42Z"
+ },
+ {
+  "id": "q_bd161866e5a18e48",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which atmospheric layer is closest to the Earth's surface?",
+  "qHi": "पृथ्वी की सतह के सबसे करीब वायुमंडलीय परत कौन सी है?",
+  "optsEn": [
+   "Stratosphere",
+   "Mesosphere",
+   "Troposphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "समताप मंडल",
+   "मध्यमंडल",
+   "क्षोभमंडल",
+   "तापमंडल"
+  ],
+  "correct": 2,
+  "explainEn": "The troposphere is the lowest layer of Earth's atmosphere and is closest to the surface.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:42:42Z"
+ },
+ {
+  "id": "q_9ef561d3138564c4",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "The Panchayati Raj system was first officially introduced in which Indian state?",
+  "qHi": "पंचायती राज व्यवस्था सबसे पहले आधिकारिक तौर पर किस भारतीय राज्य में शुरू की गई थी?",
+  "optsEn": [
+   "Punjab",
+   "Rajasthan",
+   "Uttar Pradesh",
+   "Gujarat"
+  ],
+  "optsHi": [
+   "पंजाब",
+   "राजस्थान",
+   "उत्तर प्रदेश",
+   "गुजरात"
+  ],
+  "correct": 1,
+  "explainEn": "Rajasthan was the first state to introduce the Panchayati Raj system, in Nagaur district on October 2, 1959.",
+  "sourceHint": "NCERT Political Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:42:42Z"
+ },
+ {
+  "id": "q_561d4ce9f8b6dcab",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which historical site is associated with the ruins of the ancient Mauryan capital city of Pataliputra?",
+  "qHi": "कौन सा ऐतिहासिक स्थल प्राचीन मौर्य राजधानी पाटलिपुत्र के अवशेषों से जुड़ा है?",
+  "optsEn": [
+   "Patna",
+   "Varanasi",
+   "Ujjain",
+   "Mathura"
+  ],
+  "optsHi": [
+   "पटना",
+   "वाराणसी",
+   "उज्जैन",
+   "मथुरा"
+  ],
+  "correct": 0,
+  "explainEn": "Patna stands on the site of ancient Pataliputra, which served as the capital of the Mauryan Empire.",
+  "sourceHint": "NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:42:42Z"
+ },
+ {
+  "id": "q_6d0d63f39a69ea25",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The term 'Stupa' in early Indian architecture originally referred to what type of structure?",
+  "qHi": "प्राचीन भारतीय वास्तुशिल्प में 'स्तूप' शब्द मूल रूप से किस प्रकार की संरचना को संदर्भित करता था?",
+  "optsEn": [
+   "A royal assembly hall",
+   "A sepulchral mound containing relics",
+   "An astronomical observation tower",
+   "A stone pillar with royal edicts"
+  ],
+  "optsHi": [
+   "एक शाही सभा कक्ष",
+   "अवशेषों से युक्त एक समाधि टीला",
+   "एक खगोलीय वेधशाला मीनार",
+   "शाही आदेशों वाला एक पत्थर का स्तंभ"
+  ],
+  "correct": 1,
+  "explainEn": "Stupas were originally burial mounds containing sacred relics associated with the Buddha or other revered teachers, which later evolved into places of worship and reverence.",
+  "sourceHint": "NCERT Class XII Fine Arts, Themes in Indian History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:49Z"
+ },
+ {
+  "id": "q_489947242a7ee26e",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the provisions of the Constitution of India, who among the following decides whether a Bill is a Money Bill or not?",
+  "qHi": "भारत के संविधान के प्रावधानों के तहत, निम्नलिखित में से कौन तय करता है कि कोई विधेयक धन विधेयक है या नहीं?",
+  "optsEn": [
+   "President of India",
+   "Prime Minister of India",
+   "Speaker of the Lok Sabha",
+   "Union Finance Minister"
+  ],
+  "optsHi": [
+   "भारत के राष्ट्रपति",
+   "भारत के प्रधानमंत्री",
+   "लोकसभा अध्यक्ष",
+   "केंद्रीय वित्त मंत्री"
+  ],
+  "correct": 2,
+  "explainEn": "Article 110(3) of the Constitution of India states that if any question arises whether a Bill is a Money Bill or not, the decision of the Speaker of the House of the People (Lok Sabha) thereon shall be final.",
+  "sourceHint": "Constitution of India, Article 110",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:49Z"
+ },
+ {
+  "id": "q_95f3a8d7eb940af0",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following protected areas is located entirely within the southernmost part of the Western Ghats and is known for its tropical evergreen forests?",
+  "qHi": "निम्नलिखित में से कौन सा संरक्षित क्षेत्र पूरी तरह से पश्चिमी घाट के सबसे दक्षिणी भाग में स्थित है और अपने उष्णकटिबंधीय सदाबहार वनों के लिए जाना जाता है?",
+  "optsEn": [
+   "Jim Corbett National Park",
+   "Kaziranga National Park",
+   "Silent Valley National Park",
+   "Bandhavgarh National Park"
+  ],
+  "optsHi": [
+   "जिम कॉर्बेट राष्ट्रीय उद्यान",
+   "काजीरंगा राष्ट्रीय उद्यान",
+   "साइलेंट वैली राष्ट्रीय उद्यान",
+   "बांधवगढ़ राष्ट्रीय उद्यान"
+  ],
+  "correct": 2,
+  "explainEn": "Silent Valley National Park is located in the Nilgiri hills of Kerala, within the Western Ghats, and represents one of the last undisturbed tracts of South Indian tropical rain forests.",
+  "sourceHint": "NCERT Geography Textbooks / Ministry of Environment, Forest and Climate Change",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:49Z"
+ },
+ {
+  "id": "q_1db87c349a72f737",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "During the colonial period in India, the 'Permanent Settlement' (Zamindari system) was introduced in 1793 by which of the following Governors-General?",
+  "qHi": "भारत में औपनिवेशिक काल के दौरान, 1793 में 'स्थाई बंदोबस्त' (जमींदारी व्यवस्था) निम्नलिखित में से किस गवर्नर-जनरल द्वारा शुरू किया गया था?",
+  "optsEn": [
+   "Lord Cornwallis",
+   "Lord Dalhousie",
+   "Warren Hastings",
+   "Lord Wellesley"
+  ],
+  "optsHi": [
+   "लॉर्ड कार्नवालिस",
+   "लॉर्ड डलहौजी",
+   "वारेन हेस्टिंग्स",
+   "लॉर्ड वेलेजली"
+  ],
+  "correct": 0,
+  "explainEn": "Lord Cornwallis introduced the Permanent Settlement in Bengal, Bihar, and Orissa in 1793, fixing the land revenue demand permanently with the Zamindars.",
+  "sourceHint": "NCERT Class XII History, Themes in Indian History Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:49Z"
+ },
+ {
+  "id": "q_089a958f797e44d6",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following fundamental rights cannot be suspended even during a National Emergency declared under Article 352 of the Indian Constitution?",
+  "qHi": "भारतीय संविधान के अनुच्छेद 352 के तहत घोषित राष्ट्रीय आपातकाल के दौरान भी निम्नलिखित में से किस मूल अधिकार को निलंबित नहीं किया जा सकता है?",
+  "optsEn": [
+   "Article 14 and Article 19",
+   "Article 19 and Article 21",
+   "Article 20 and Article 21",
+   "Article 15 and Article 16"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14 और अनुच्छेद 19",
+   "अनुच्छेद 19 और अनुच्छेद 21",
+   "अनुच्छेद 20 और अनुच्छेद 21",
+   "अनुच्छेद 15 और अनुच्छेद 16"
+  ],
+  "correct": 2,
+  "explainEn": "By the 44th Amendment Act of 1978, the right to protection in respect of conviction for offenses (Article 20) and the right to life and personal liberty (Article 21) cannot be suspended even during a National Emergency.",
+  "sourceHint": "Indian Polity by M. Laxmikanth, Chapter on Emergency Provisions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:49Z"
+ },
+ {
+  "id": "q_85e3f16786212ac9",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of Indian economy, 'Repo Rate' refers to the rate at which which of the following institutions lends money to commercial banks?",
+  "qHi": "भारतीय अर्थव्यवस्था के संदर्भ में, 'रेपो रेट' उस दर को संदर्भित करता है जिस पर निम्नलिखित में से कौन सी संस्था वाणिज्यिक बैंकों को ऋण देती है?",
+  "optsEn": [
+   "State Bank of India",
+   "Reserve Bank of India",
+   "World Bank",
+   "International Monetary Fund"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "भारतीय रिजर्व बैंक",
+   "विश्व बैंक",
+   "अंतर्राष्ट्रीय मुद्रा कोष"
+  ],
+  "correct": 1,
+  "explainEn": "Repo rate is the interest rate at which the Reserve Bank of India (RBI) provides liquidity to commercial banks against government securities.",
+  "sourceHint": "NCERT Class XII Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:49Z"
  }
 ]

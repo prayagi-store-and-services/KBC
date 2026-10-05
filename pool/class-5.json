@@ -3246,5 +3246,341 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-05T05:43:47Z"
+ },
+ {
+  "id": "q_170ee74b59bc7cb6",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the main source of energy for the Earth?",
+  "qHi": "पृथ्वी के लिए ऊर्जा का मुख्य स्रोत क्या है?",
+  "optsEn": [
+   "Moon",
+   "Sun",
+   "Wind",
+   "Water"
+  ],
+  "optsHi": [
+   "चंद्रमा",
+   "सूर्य",
+   "हवा",
+   "पानी"
+  ],
+  "correct": 1,
+  "explainEn": "The Sun provides light and heat energy which sustains life on Earth.",
+  "sourceHint": "NCERT Class 3 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:42:22Z"
+ },
+ {
+  "id": "q_ed3d56b28301178f",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which Indian state is famous for the traditional dance form Bharatanatyam?",
+  "qHi": "भारत का कौन सा राज्य पारंपरिक नृत्य शैली भरतनाट्यम के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Tamil Nadu",
+   "Punjab",
+   "Assam",
+   "Kerala"
+  ],
+  "optsHi": [
+   "तमिलनाडु",
+   "पंजाब",
+   "असम",
+   "केरल"
+  ],
+  "correct": 0,
+  "explainEn": "Bharatanatyam originated and developed in the state of Tamil Nadu.",
+  "sourceHint": "NCERT Class 6 Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:42:22Z"
+ },
+ {
+  "id": "q_0e6d345ca6b754f4",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the process of water changing into water vapor called?",
+  "qHi": "पानी के जलवाष्प में बदलने की प्रक्रिया को क्या कहते हैं?",
+  "optsEn": [
+   "Condensation",
+   "Evaporation",
+   "Precipitation",
+   "Melting"
+  ],
+  "optsHi": [
+   "संघनन",
+   "वाष्पीकरण",
+   "वर्षा",
+   "गलना"
+  ],
+  "correct": 1,
+  "explainEn": "Evaporation is the process where liquid water turns into gas or vapor using heat.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:42:22Z"
+ },
+ {
+  "id": "q_846b39f21933f091",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian classical dance form originated in the state of Kerala?",
+  "qHi": "कौन सा भारतीय शास्त्रीय नृत्य रूप केरल राज्य से उत्पन्न हुआ है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a major classical dance form well known for its elaborate costumes and makeup, originating in Kerala.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:25Z"
+ },
+ {
+  "id": "q_3b1b0a95764a56af",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these animals is known to use echolocation to navigate and find food in the dark?",
+  "qHi": "इनमें से किस जानवर को अंधेरे में नेविगेट करने और भोजन खोजने के लिए इकोलोकेशन का उपयोग करने के लिए जाना जाता है?",
+  "optsEn": [
+   "Bat",
+   "Cow",
+   "Elephant",
+   "Horse"
+  ],
+  "optsHi": [
+   "चमगादड़",
+   "गाय",
+   "हाथी",
+   "घोड़ा"
+  ],
+  "correct": 0,
+  "explainEn": "Bats emit high-pitched sounds and listen to the echoes to locate objects and prey in the dark.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:25Z"
+ },
+ {
+  "id": "q_a9c04dba4e1b77b3",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the main source of energy for the Earth's water cycle?",
+  "qHi": "पृथ्वी के जल चक्र के लिए ऊर्जा का मुख्य स्रोत क्या है?",
+  "optsEn": [
+   "The Moon",
+   "The Sun",
+   "Wind",
+   "Volcanoes"
+  ],
+  "optsHi": [
+   "चंद्रमा",
+   "सूरज",
+   "हवा",
+   "ज्वालामुखी"
+  ],
+  "correct": 1,
+  "explainEn": "Heat from the Sun drives the water cycle by causing water to evaporate from oceans, lakes, and rivers.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:25Z"
+ },
+ {
+  "id": "q_2ebb5b72cf9a7a84",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which planet in our solar system has a rotation period that is longer than its revolution period around the Sun?",
+  "qHi": "हमारे सौरमंडल में किस ग्रह का घूर्णन काल सूर्य के चारों ओर उसके परिक्रमण काल से अधिक लंबा है?",
+  "optsEn": [
+   "Venus",
+   "Mars",
+   "Jupiter",
+   "Saturn"
+  ],
+  "optsHi": [
+   "शुक्र",
+   "मंगल",
+   "बृहस्पति",
+   "शनि"
+  ],
+  "correct": 0,
+  "explainEn": "Venus takes about 243 Earth days to rotate on its axis, but only about 225 Earth days to complete one orbit around the Sun.",
+  "sourceHint": "NCERT Class 6 Science / NASA Solar System Exploration",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:44:35Z"
+ },
+ {
+  "id": "q_79a0b8a2fb0bc998",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which part of the Indian Constitution contains the Fundamental Rights guaranteed to citizens?",
+  "qHi": "भारतीय संविधान के किस भाग में नागरिकों को दिए गए मौलिक अधिकार शामिल हैं?",
+  "optsEn": [
+   "Part I",
+   "Part II",
+   "Part III",
+   "Part IV"
+  ],
+  "optsHi": [
+   "भाग I",
+   "भाग II",
+   "भाग III",
+   "भाग IV"
+  ],
+  "correct": 2,
+  "explainEn": "Part III of the Constitution of India, spanning from Article 12 to Article 35, guarantees Fundamental Rights.",
+  "sourceHint": "Constitution of India, Legislative Department",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:44:35Z"
+ },
+ {
+  "id": "q_9b85183254e7a73d",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which state of India is the Kaziranga National Park primarily located?",
+  "qHi": "काजीरंगा राष्ट्रीय उद्यान मुख्य रूप से भारत के किस राज्य में स्थित है?",
+  "optsEn": [
+   "Uttarakhand",
+   "Assam",
+   "Gujarat",
+   "Madhya Pradesh"
+  ],
+  "optsHi": [
+   "उत्तराखंड",
+   "असम",
+   "गुजरात",
+   "मध्य प्रदेश"
+  ],
+  "correct": 1,
+  "explainEn": "Kaziranga National Park is located in the Golaghat and Nagaon districts of the state of Assam.",
+  "sourceHint": "NCERT Class 5 Environmental Studies / Ministry of Environment, Forest and Climate Change",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:44:35Z"
+ },
+ {
+  "id": "q_71fa61966c27e876",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary gas that makes up the atmosphere of Mars?",
+  "qHi": "मंगल ग्रह के वायुमंडल में मुख्य रूप से कौन सी गैस पाई जाती है?",
+  "optsEn": [
+   "Oxygen",
+   "Nitrogen",
+   "Carbon dioxide",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "कार्बन डाइऑक्साइड",
+   "हाइड्रोजन"
+  ],
+  "correct": 2,
+  "explainEn": "Carbon dioxide makes up about 95 percent of the Martian atmosphere.",
+  "sourceHint": "NCERT Science / NASA",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:44:35Z"
+ },
+ {
+  "id": "q_f69fa7ddbabb1ae5",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which instrument is traditionally used to measure atmospheric pressure?",
+  "qHi": "पारंपरिक रूप से वायुमंडलीय दबाव को मापने के लिए किस उपकरण का उपयोग किया जाता है?",
+  "optsEn": [
+   "Thermometer",
+   "Barometer",
+   "Anemometer",
+   "Hygrometer"
+  ],
+  "optsHi": [
+   "थर्मोमीटर",
+   "बैरोमीटर",
+   "एनिमोमीटर",
+   "हाइग्रोमीटर"
+  ],
+  "correct": 1,
+  "explainEn": "A barometer is a scientific instrument used in meteorology to measure atmospheric pressure.",
+  "sourceHint": "NCERT Class 7 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:44:35Z"
+ },
+ {
+  "id": "q_9ec014e81f1c266c",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which river basin in India is shared by the states of Maharashtra, Karnataka, and Andhra Pradesh, among others?",
+  "qHi": "भारत में कौन सी नदी द्रोणी महाराष्ट्र, कर्नाटक और आंध्र प्रदेश आदि राज्यों द्वारा साझा की जाती है?",
+  "optsEn": [
+   "Ganga",
+   "Brahmaputra",
+   "Krishna",
+   "Mahanadi"
+  ],
+  "optsHi": [
+   "गंगा",
+   "ब्रह्मपुत्र",
+   "कृष्णा",
+   "महानदी"
+  ],
+  "correct": 2,
+  "explainEn": "The Krishna river basin covers parts of Maharashtra, Karnataka, Telangana, and Andhra Pradesh.",
+  "sourceHint": "NCERT Class 9 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:44:35Z"
  }
 ]

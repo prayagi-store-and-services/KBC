@@ -3190,5 +3190,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-05T05:44:04Z"
+ },
+ {
+  "id": "q_03b0c8bb25a0c08c",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which year was the Planning Commission of India established?",
+  "qHi": "भारत के योजना आयोग की स्थापना किस वर्ष की गई थी?",
+  "optsEn": [
+   "1947",
+   "1950",
+   "1952",
+   "1951"
+  ],
+  "optsHi": [
+   "1947",
+   "1950",
+   "1952",
+   "1951"
+  ],
+  "correct": 1,
+  "explainEn": "The Planning Commission was set up in March 1950 by a resolution of the Government of India.",
+  "sourceHint": "NCERT Class 12 Politics in India Since Independence",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:42:37Z"
+ },
+ {
+  "id": "q_b633a0e89a2f5605",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'Malthusian trap' relate to in economics and demography?",
+  "qHi": "अर्थशास्त्र और जनसांख्यिकी में 'माल्थसियन ट्रैप' किससे संबंधित है?",
+  "optsEn": [
+   "Population growth outstripping food supply",
+   "Inflation exceeding interest rates",
+   "Imports exceeding exports",
+   "Unemployment caused by automation"
+  ],
+  "optsHi": [
+   "जनसंख्या वृद्धि का खाद्य आपूर्ति से आगे निकल जाना",
+   "मुद्रास्फीति का ब्याज दरों से अधिक होना",
+   "आयात का निर्यात से अधिक होना",
+   "स्वचालन के कारण बेरोजगारी"
+  ],
+  "correct": 0,
+  "explainEn": "Thomas Malthus argued that population grows geometrically while food production grows arithmetically, leading to a trap.",
+  "sourceHint": "NCERT Class 12 Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:42:37Z"
+ },
+ {
+  "id": "q_5cf910a4b1123270",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which chemical compound is primarily responsible for the ozone layer depletion in the stratosphere?",
+  "qHi": "समताप मंडल में ओजोन परत के क्षरण के लिए मुख्य रूप से कौन सा रासायनिक यौगिक जिम्मेदार है?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Chlorofluorocarbons",
+   "Methane",
+   "Sulfur dioxide"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "क्लोरोफ्लोरोकार्बन",
+   "मीथेन",
+   "सल्फर डाइऑक्साइड"
+  ],
+  "correct": 1,
+  "explainEn": "Chlorofluorocarbons (CFCs) release chlorine atoms upon UV exposure, which catalytically destroy ozone molecules.",
+  "sourceHint": "NCERT Class 12 Chemistry",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:42:37Z"
+ },
+ {
+  "id": "q_6992cf194cedbdc1",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who among the following was the first President of independent India?",
+  "qHi": "निम्नलिखित में से कौन स्वतंत्र भारत के पहले राष्ट्रपति थे?",
+  "optsEn": [
+   "Jawaharlal Nehru",
+   "Dr. Rajendra Prasad",
+   "Sardar Vallabhbhai Patel",
+   "Dr. B. R. Ambedkar"
+  ],
+  "optsHi": [
+   "जवाहरलाल नेहरू",
+   "डॉ. राजेंद्र प्रसाद",
+   "सरदार वल्लभभाई पटेल",
+   "डॉ. बी. आर. अंबेडकर"
+  ],
+  "correct": 1,
+  "explainEn": "Dr. Rajendra Prasad served as the first President of India from 1950 to 1962.",
+  "sourceHint": "NCERT Class 12 Politics in India Since Independence",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:42:37Z"
+ },
+ {
+  "id": "q_bc5b441fbaf36536",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which sector is known as the primary sector in economic activities?",
+  "qHi": "आर्थिक गतिविधियों में किस क्षेत्र को प्राथमिक क्षेत्र के रूप में जाना जाता है?",
+  "optsEn": [
+   "Manufacturing",
+   "Agriculture and allied activities",
+   "Banking and financial services",
+   "Information technology"
+  ],
+  "optsHi": [
+   "विनिर्माण",
+   "कृषि और संबद्ध गतिविधियां",
+   "बैंकिंग और वित्तीय सेवाएं",
+   "सूचना प्रौद्योगिकी"
+  ],
+  "correct": 1,
+  "explainEn": "Agriculture, forestry, fishing, and mining constitute the primary sector as they involve extracting natural resources.",
+  "sourceHint": "NCERT Class 12 Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:42:37Z"
+ },
+ {
+  "id": "q_d99a52e750000123",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organelle is primarily responsible for the packaging and dispatch of materials synthesized in the cell?",
+  "qHi": "कौन सा कोशिकांग मुख्य रूप से कोशिका में संश्लेषित पदार्थों के पैकेजिंग और प्रेषण के लिए उत्तरदायी है?",
+  "optsEn": [
+   "Endoplasmic reticulum",
+   "Golgi apparatus",
+   "Mitochondria",
+   "Ribosome"
+  ],
+  "optsHi": [
+   "अंतर्द्रव्यी जालिका",
+   "गॉल्जी उपकरण",
+   "माइटोकॉन्ड्रिया",
+   "राइबोसोम"
+  ],
+  "correct": 1,
+  "explainEn": "The Golgi apparatus modifies, packages, and transports proteins and lipids received from the endoplasmic reticulum.",
+  "sourceHint": "NCERT Class 11 Biology, Chapter 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:43Z"
+ },
+ {
+  "id": "q_0fb464b4ed3b862f",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of chemical bond links the monomers of a DNA strand together along its backbone?",
+  "qHi": "DNA रज्जु के मेरुदंड (backbone) के साथ इसके एकलकों (monomers) को कौन सा रासायनिक बंधन जोड़ता है?",
+  "optsEn": [
+   "Glycosidic bond",
+   "Peptide bond",
+   "Phosphodiester bond",
+   "Hydrogen bond"
+  ],
+  "optsHi": [
+   "ग्लाइकोसिडिक बंध",
+   "पेप्टाइड बंध",
+   "फॉस्फोडाईएस्टर बंध",
+   "हाइड्रोजन बंध"
+  ],
+  "correct": 2,
+  "explainEn": "Phosphodiester bonds link the 3' carbon of one sugar molecule to the 5' carbon of another in the DNA sugar-phosphate backbone.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:43Z"
+ },
+ {
+  "id": "q_47f1a05d007bfe0c",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which fundamental right in the Indian Constitution guarantees the protection of life and personal liberty?",
+  "qHi": "भारतीय संविधान में कौन सा मौलिक अधिकार जीवन और व्यक्तिगत स्वतंत्रता की सुरक्षा की गारंटी देता है?",
+  "optsEn": [
+   "Article 14",
+   "Article 19",
+   "Article 21",
+   "Article 32"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14",
+   "अनुच्छेद 19",
+   "अनुच्छेद 21",
+   "अनुच्छेद 32"
+  ],
+  "correct": 2,
+  "explainEn": "Article 21 states that no person shall be deprived of his life or personal liberty except according to procedure established by law.",
+  "sourceHint": "Constitution of India, Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:43Z"
+ },
+ {
+  "id": "q_f807e4a28300556d",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In macroeconomics, which of the following is considered a stock variable rather than a flow variable?",
+  "qHi": "समष्टि अर्थशास्त्र में, निम्नलिखित में से किसे प्रवाह चर के बजाय एक स्टॉक चर माना जाता है?",
+  "optsEn": [
+   "National income",
+   "Capital",
+   "Consumption",
+   "Investment"
+  ],
+  "optsHi": [
+   "राष्ट्रीय आय",
+   "पूंजी",
+   "उपभोग",
+   "निवेशन"
+  ],
+  "correct": 1,
+  "explainEn": "Capital is measured at a specific point in time, making it a stock variable, whereas income, consumption, and investment are measured over a period.",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:43Z"
+ },
+ {
+  "id": "q_a23a507d660b17a5",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which chemical element is responsible for the dark reaction (Calvin cycle) of photosynthesis to initially fix carbon dioxide?",
+  "qHi": "प्रकाश संश्लेषण की अदीप्त अभिक्रिया (कैल्विन चक्र) में कार्बन डाइऑक्साइड को प्रारंभिक रूप से स्थिर करने के लिए कौन सा रासायनिक तत्व उत्तरदायी है?",
+  "optsEn": [
+   "Magnesium",
+   "Carbon",
+   "Phosphorus",
+   "Nitrogen"
+  ],
+  "optsHi": [
+   "मैग्नीशियम",
+   "कार्बन",
+   "फास्फोरस",
+   "नाइट्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Carbon dioxide fixation during the Calvin cycle incorporates inorganic carbon into organic molecules.",
+  "sourceHint": "NCERT Class 11 Biology, Chapter 13",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:43Z"
+ },
+ {
+  "id": "q_7e8d14689598f2e8",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which British official introduced the Doctrine of Lapse to annex various princely states in India?",
+  "qHi": "किस ब्रिटिश अधिकारी ने भारत में विभिन्न रियासतों का विलय करने के लिए 'व्यपगत का सिद्धांत' (डक्ट्रिन ऑफ लैप्स) शुरू किया था?",
+  "optsEn": [
+   "Lord Dalhousie",
+   "Lord Wellesley",
+   "Lord Curzon",
+   "Lord William Bentinck"
+  ],
+  "optsHi": [
+   "लॉर्ड डलहौजी",
+   "लॉर्ड वेलेजली",
+   "लॉर्ड कर्ज़न",
+   "लॉर्ड विलियम बेंटिंक"
+  ],
+  "correct": 0,
+  "explainEn": "Lord Dalhousie applied the Doctrine of Lapse aggressively during his tenure as Governor-General from 1848 to 1856.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:43Z"
+ },
+ {
+  "id": "q_9867221c68076f57",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the SI unit of electric capacitance?",
+  "qHi": "विद्युत धारिता का एसआई (SI) मात्रक क्या है?",
+  "optsEn": [
+   "Volt",
+   "Ohm",
+   "Farad",
+   "Coulomb"
+  ],
+  "optsHi": [
+   "वोल्ट",
+   "ओम",
+   "फैरेड",
+   "कूलॉम"
+  ],
+  "correct": 2,
+  "explainEn": "The farad (symbol: F) is the SI derived unit of electrical capacitance.",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:43Z"
+ },
+ {
+  "id": "q_00045aa252573cd3",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which type of chemical reaction does the oxidation state of elements change simultaneously?",
+  "qHi": "किस प्रकार की रासायनिक अभिक्रिया में तत्वों की ऑक्सीकरण अवस्था एक साथ बदलती है?",
+  "optsEn": [
+   "Neutralization reaction",
+   "Redox reaction",
+   "Precipitation reaction",
+   "Double displacement reaction"
+  ],
+  "optsHi": [
+   "उदासीनीकरण अभिक्रिया",
+   "रेडॉक्स अभिक्रिया",
+   "अवक्षेपण अभिक्रिया",
+   "द्वि-विस्थापन अभिक्रिया"
+  ],
+  "correct": 1,
+  "explainEn": "In a redox (reduction-oxidation) reaction, one species is oxidized while another is reduced, changing their oxidation states.",
+  "sourceHint": "NCERT Class 11 Chemistry, Chapter 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:43Z"
  }
 ]

@@ -2686,5 +2686,397 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-05T05:44:57Z"
+ },
+ {
+  "id": "q_60e319ff57a2a5ca",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the standard unit of electrical current in the International System of Units?",
+  "qHi": "अंतर्राष्ट्रीय माप पद्धति में विद्युत धारा की मानक इकाई क्या है?",
+  "optsEn": [
+   "Volt",
+   "Watt",
+   "Ampere",
+   "Ohm"
+  ],
+  "optsHi": [
+   "वोल्ट",
+   "वाट",
+   "एम्पीयर",
+   "ओम"
+  ],
+  "correct": 2,
+  "explainEn": "The ampere is the base unit of electric current in the International System of Units.",
+  "sourceHint": "Bureau of International Weights and Measures",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:42:17Z"
+ },
+ {
+  "id": "q_6ed5d48550463204",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "How many players are on the field for a single team in a standard game of cricket?",
+  "qHi": "क्रिकेट के एक सामान्य खेल में मैदान पर एक टीम के कितने खिलाड़ी होते हैं?",
+  "optsEn": [
+   "9",
+   "10",
+   "11",
+   "12"
+  ],
+  "optsHi": [
+   "9",
+   "10",
+   "11",
+   "12"
+  ],
+  "correct": 2,
+  "explainEn": "A cricket team consists of eleven players.",
+  "sourceHint": "Marylebone Cricket Club (MCC) Laws of Cricket",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:42:17Z"
+ },
+ {
+  "id": "q_297ddd7b8260181c",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary gas found in the Earth's atmosphere by volume?",
+  "qHi": "आयतन के हिसाब से पृथ्वी के वायुमंडल में पाई जाने वाली मुख्य गैस कौन सी है?",
+  "optsEn": [
+   "Oxygen",
+   "Nitrogen",
+   "Carbon dioxide",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "कार्बन डाइऑक्साइड",
+   "आर्गन"
+  ],
+  "correct": 1,
+  "explainEn": "Nitrogen makes up about 78 percent of Earth's atmosphere by volume.",
+  "sourceHint": "NCERT Geography Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:42:17Z"
+ },
+ {
+  "id": "q_8858bd9d3b4d2fa9",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian state has the highest production of tea as of recent decades?",
+  "qHi": "हाल के दशकों में भारत के किस राज्य में चाय का उत्पादन सबसे अधिक होता है?",
+  "optsEn": [
+   "Kerala",
+   "Karnataka",
+   "Assam",
+   "Tamil Nadu"
+  ],
+  "optsHi": [
+   "केरल",
+   "कर्नाटक",
+   "असम",
+   "तमिलनाडु"
+  ],
+  "correct": 2,
+  "explainEn": "Assam is the largest tea-producing state in India, accounting for a major share of the country's total output.",
+  "sourceHint": "Tea Board of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:18Z"
+ },
+ {
+  "id": "q_f9c3a30452e2dd08",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The classical dance form known as Kathakali originates from which Indian state?",
+  "qHi": "कथकली के रूप में जानी जाने वाली शास्त्रीय नृत्य शैली किस भारतीय राज्य से उत्पन्न हुई है?",
+  "optsEn": [
+   "Kerala",
+   "Andhra Pradesh",
+   "Odisha",
+   "Uttar Pradesh"
+  ],
+  "optsHi": [
+   "केरल",
+   "आंध्र प्रदेश",
+   "ओडिशा",
+   "उत्तर प्रदेश"
+  ],
+  "correct": 0,
+  "explainEn": "Kathakali is a major form of classical Indian dance that originated in the southern state of Kerala.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:18Z"
+ },
+ {
+  "id": "q_05f2b9ed45516cd4",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the famous literary work 'Meghaduta'?",
+  "qHi": "प्रसिद्ध साहित्यिक कृति 'मेघदूत' के लेखक कौन हैं?",
+  "optsEn": [
+   "Kalidasa",
+   "Tulsidas",
+   "Surdas",
+   "Banabhatta"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "तुलसीदास",
+   "सूरदास",
+   "बाणभट्ट"
+  ],
+  "correct": 0,
+  "explainEn": "Meghaduta is a lyric poem written by Kalidasa, a renowned Classical Sanskrit writer.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:18Z"
+ },
+ {
+  "id": "q_d13724da2f3a9942",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin is primarily synthesized in the human skin when exposed to sunlight?",
+  "qHi": "सूर्य के प्रकाश के संपर्क में आने पर मानव त्वचा में मुख्य रूप से कौन सा विटामिन बनता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin C",
+   "Vitamin D",
+   "Vitamin K"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन सी",
+   "विटामिन डी",
+   "विटामिन के"
+  ],
+  "correct": 2,
+  "explainEn": "The human body synthesizes Vitamin D in the skin upon exposure to ultraviolet-B rays from sunlight.",
+  "sourceHint": "NCERT Biology Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:18Z"
+ },
+ {
+  "id": "q_4b4d709104c8c690",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who was the founder of the Satavahana dynasty according to the Puranas?",
+  "qHi": "पुराणों के अनुसार सातवाहन वंश का संस्थापक कौन था?",
+  "optsEn": [
+   "Simukha",
+   "Gautamiputra Satakarni",
+   "Hala",
+   "Vasisthiputra Pulumavi"
+  ],
+  "optsHi": [
+   "सिमुक",
+   "गौतमीपुत्र सातकर्णि",
+   "हाल",
+   "वाशिष्ठिपुत्र पुळमavi"
+  ],
+  "correct": 0,
+  "explainEn": "Simukha is mentioned in the Puranas as the founder of the Satavahana dynasty.",
+  "sourceHint": "NCERT Class 11 History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:44:29Z"
+ },
+ {
+  "id": "q_ac401d6259cac70a",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which Indian state is the Loktak Lake, famous for its floating phumdis, situated?",
+  "qHi": "तुलनात्मक रूप से तैरते हुए फुमदियों के लिए प्रसिद्ध लोकतक झील किस भारतीय राज्य में स्थित है?",
+  "optsEn": [
+   "Assam",
+   "Manipur",
+   "Meghalaya",
+   "Tripura"
+  ],
+  "optsHi": [
+   "असम",
+   "मणिपुर",
+   "मेघालय",
+   "त्रिपुरा"
+  ],
+  "correct": 1,
+  "explainEn": "Loktak Lake is located in Manipur and is famous for the floating circular swamps known as phumdis.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:44:29Z"
+ },
+ {
+  "id": "q_edcad9814e7c642a",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian classical dance form originates from the state of Andhra Pradesh?",
+  "qHi": "कौन सा भारतीय शास्त्रीय नृत्य रूप आंध्र प्रदेश राज्य से उत्पन्न हुआ है?",
+  "optsEn": [
+   "Kathakali",
+   "Kuchipudi",
+   "Mohiniyattam",
+   "Odissi"
+  ],
+  "optsHi": [
+   "कथकली",
+   "कुचिपुड़ी",
+   "मोहिनीअट्टम",
+   "ओडिसी"
+  ],
+  "correct": 1,
+  "explainEn": "Kuchipudi is a classical dance form that originated in the village of Kuchelapuram in Andhra Pradesh.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:44:29Z"
+ },
+ {
+  "id": "q_e00e7ffc4fdcb9fd",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary chemical compound found in natural ruby and sapphire?",
+  "qHi": "प्राकृतिक माणिक और नीलम में पाया जाने वाला प्रमुख रासायनिक यौगिक कौन सा है?",
+  "optsEn": [
+   "Aluminum oxide",
+   "Silicon dioxide",
+   "Calcium carbonate",
+   "Sodium chloride"
+  ],
+  "optsHi": [
+   "एल्यूमीनियम ऑक्साइड",
+   "सिलिकॉन डाइऑक्साइड",
+   "कैल्शियम कार्बोनेट",
+   "सोडियम क्लोराइड"
+  ],
+  "correct": 0,
+  "explainEn": "Ruby and sapphire are varieties of the mineral corundum, which is crystalline aluminum oxide.",
+  "sourceHint": "NCERT Class 12 Chemistry / Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:44:29Z"
+ },
+ {
+  "id": "q_3d4472cfbeafceac",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian mathematician's birthday is celebrated annually as National Mathematics Day?",
+  "qHi": "किस भारतीय गणितज्ञ का जन्मदिवस प्रतिवर्ष राष्ट्रीय गणित दिवस के रूप में मनाया जाता है?",
+  "optsEn": [
+   "C. R. Rao",
+   "Srinivasa Ramanujan",
+   "P. C. Mahalanobis",
+   "Aryabhata"
+  ],
+  "optsHi": [
+   "सी. आर. राव",
+   "श्रीनिवास रामानुजन",
+   "पी. सी. महालनोबिस",
+   "आर्यभट्ट"
+  ],
+  "correct": 1,
+  "explainEn": "December 22, the birth anniversary of Srinivasa Ramanujan, is observed as National Mathematics Day in India.",
+  "sourceHint": "Department of Science and Technology, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:44:29Z"
+ },
+ {
+  "id": "q_d56e3e3591c75fc7",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian monetary policy, what does the abbreviation repo rate stand for?",
+  "qHi": "भारतीय मौद्रिक नीति के संदर्भ में, 'रेपो रेट' (repo rate) शब्द का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Repurchase Option Rate",
+   "Reserve Percentage Rate",
+   "Rediscount Portfolio Rate",
+   "Regular Public Output Rate"
+  ],
+  "optsHi": [
+   "रिपर्चेस ऑप्शन रेट",
+   "रिज़र्व परसेंटेज रेट",
+   "रीडिस्काउंट पोर्टफोलियो रेट",
+   "रेगुलर पब्लिक आउटपुट रेट"
+  ],
+  "correct": 0,
+  "explainEn": "Repo rate stands for Repurchase Option rate, the rate at which the central bank lends money to commercial banks.",
+  "sourceHint": "Reserve Bank of India (RBI) website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:44:29Z"
+ },
+ {
+  "id": "q_6eee0858178adc45",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which wildlife sanctuary in India was the first to be established, originally known as Hailey National Park?",
+  "qHi": "भारत का कौन सा वन्यजीव अभयारण्य पहला स्थापित किया गया था, जिसे मूल रूप से हेली नेशनल पार्क के रूप में जाना जाता था?",
+  "optsEn": [
+   "Kaziranga National Park",
+   "Jim Corbett National Park",
+   "Gir National Park",
+   "Bandipur National Park"
+  ],
+  "optsHi": [
+   "काजीरंगा राष्ट्रीय उद्यान",
+   "जिम कॉर्बेट राष्ट्रीय उद्यान",
+   "गीर राष्ट्रीय उद्यान",
+   "बांदीपुर राष्ट्रीय उद्यान"
+  ],
+  "correct": 1,
+  "explainEn": "Jim Corbett National Park was established in 1936 as Hailey National Park, making it India's oldest national park.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change, India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:44:29Z"
  }
 ]

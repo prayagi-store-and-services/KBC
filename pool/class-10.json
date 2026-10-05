@@ -3246,5 +3246,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-05T05:43:57Z"
+ },
+ {
+  "id": "q_4466494b01f6b4bf",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the chemical formula of baking soda?",
+  "qHi": "बेकिंग सोडा का रासायनिक सूत्र क्या है?",
+  "optsEn": [
+   "Na2CO3",
+   "NaHCO3",
+   "NaCl",
+   "NaOH"
+  ],
+  "optsHi": [
+   "Na2CO3",
+   "NaHCO3",
+   "NaCl",
+   "NaOH"
+  ],
+  "correct": 1,
+  "explainEn": "Baking soda is chemically sodium hydrogen carbonate or sodium bicarbonate (NaHCO3).",
+  "sourceHint": "NCERT Class 10 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:42:31Z"
+ },
+ {
+  "id": "q_244e9c912fc9dad8",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary sector of the economy mainly associated with?",
+  "qHi": "अर्थव्यवस्था का प्राथमिक क्षेत्र मुख्य रूप से किससे संबंधित है?",
+  "optsEn": [
+   "Manufacturing",
+   "Agriculture",
+   "Banking",
+   "Information Technology"
+  ],
+  "optsHi": [
+   "विनिर्माण",
+   "कृषि",
+   "बैंकिंग",
+   "सूचना प्रौद्योगिकी"
+  ],
+  "correct": 1,
+  "explainEn": "The primary sector includes activities undertaken by directly using natural resources, such as agriculture, forestry, and fishing.",
+  "sourceHint": "NCERT Class 10 Economics Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:42:31Z"
+ },
+ {
+  "id": "q_48d15bf34a12b607",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which mirror is commonly used as a rear-view mirror in vehicles because it gives an erect and diminished image along with a wider field of view?",
+  "qHi": "वाहनों में पीछे देखने के लिए किस दर्पण का सामान्यतः उपयोग किया जाता है क्योंकि यह सीधा, छोटा और चौड़ा दृष्टि क्षेत्र प्रदान करता है?",
+  "optsEn": [
+   "Concave mirror",
+   "Convex mirror",
+   "Plane mirror",
+   "Cylindrical mirror"
+  ],
+  "optsHi": [
+   "अवतल दर्पण",
+   "उत्तल दर्पण",
+   "समतल दर्पण",
+   "बेलनाकार दर्पण"
+  ],
+  "correct": 1,
+  "explainEn": "A convex mirror always gives an erect, virtual, and diminished image of objects placed in front of it, and it has a wide field of view as it curves outwards.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:36Z"
+ },
+ {
+  "id": "q_bde79109e79fb242",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the chemical formula of the compound commonly known as bleaching powder?",
+  "qHi": "ब्लीचिंग पाउडर के रूप में जाने जाने वाले यौगिक का रासायनिक सूत्र क्या है?",
+  "optsEn": [
+   "CaCO3",
+   "Ca(OH)2",
+   "CaOCl2",
+   "CaCl2"
+  ],
+  "optsHi": [
+   "CaCO3",
+   "Ca(OH)2",
+   "CaOCl2",
+   "CaCl2"
+  ],
+  "correct": 2,
+  "explainEn": "Bleaching powder is represented as CaOCl2, although the actual composition is quite complex.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:36Z"
+ },
+ {
+  "id": "q_27c66d23c9cd2a87",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which Indian state is the Tehri Dam constructed across the Bhagirathi River?",
+  "qHi": "भागीरथी नदी पर बना टिहरी बांध भारत के किस राज्य में स्थित है?",
+  "optsEn": [
+   "Uttarakhand",
+   "Himachal Pradesh",
+   "Punjab",
+   "Uttar Pradesh"
+  ],
+  "optsHi": [
+   "उत्तराखंड",
+   "हिमाचल प्रदेश",
+   "पंजाब",
+   "उत्तर प्रदेश"
+  ],
+  "correct": 0,
+  "explainEn": "The Tehri Dam is located in the Tehri district of Uttarakhand, built on the Bhagirathi River.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:36Z"
+ },
+ {
+  "id": "q_2a545b73c71b1d61",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following falls under the Concurrent List of the Indian Constitution?",
+  "qHi": "निम्नलिखित में से कौन सा विषय भारतीय संविधान की समवर्ती सूची के अंतर्गत आता है?",
+  "optsEn": [
+   "Police",
+   "Defense",
+   "Education",
+   "Agriculture"
+  ],
+  "optsHi": [
+   "पुलिस",
+   "रक्षा",
+   "शिक्षा",
+   "कृषि"
+  ],
+  "correct": 2,
+  "explainEn": "Education was transferred from the State List to the Concurrent List by the 42nd Constitutional Amendment Act in 1976.",
+  "sourceHint": "NCERT Class 10 Political Science, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:36Z"
+ },
+ {
+  "id": "q_72c536e170268013",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "During the process of double circulation in human beings, which chamber of the heart receives oxygenated blood from the lungs?",
+  "qHi": "मानव में दोहरे परिसंचरण की प्रक्रिया के दौरान, हृदय का कौन सा कक्ष फेफड़ों से ऑक्सीजन युक्त रक्त प्राप्त करता है?",
+  "optsEn": [
+   "Right atrium",
+   "Left atrium",
+   "Right ventricle",
+   "Left ventricle"
+  ],
+  "optsHi": [
+   "दायां आलिंद",
+   "बायां आलिंद",
+   "दायां निलय",
+   "बायां निलय"
+  ],
+  "correct": 1,
+  "explainEn": "Oxygen-rich blood from the lungs comes to the thin-walled upper chamber of the heart on the left, the left atrium.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:36Z"
+ },
+ {
+  "id": "q_6c134649cb308a2d",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of chemical reaction is represented by the action of heat on calcium carbonate to give calcium oxide and carbon dioxide?",
+  "qHi": "कैल्शियम कार्बोनेट पर ऊष्मा के प्रभाव से कैल्शियम ऑक्साइड और कार्बन डाइऑक्साइड बनने की प्रक्रिया किस प्रकार की रासायनिक अभिक्रिया है?",
+  "optsEn": [
+   "Combination reaction",
+   "Decomposition reaction",
+   "Displacement reaction",
+   "Precipitation reaction"
+  ],
+  "optsHi": [
+   "संयोजन अभिक्रिया",
+   "वियोजन अभिक्रिया",
+   "विस्थापन अभिक्रिया",
+   "क्षेपण अभिक्रिया"
+  ],
+  "correct": 1,
+  "explainEn": "A decomposition reaction is one in which a single reactant breaks down to give simpler products using energy like heat, light, or electricity.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:36Z"
+ },
+ {
+  "id": "q_e6c057eb20b32e2b",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which sector is also known as the service sector and includes activities like transport, banking, and communication?",
+  "qHi": "किस क्षेत्रक को सेवा क्षेत्रक भी कहा जाता है और इसमें परिवहन, बैंकिंग तथा संचार जैसी गतिविधियां शामिल हैं?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Quaternary sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्रक",
+   "द्वितीयक क्षेत्रक",
+   "तृतीयक क्षेत्रक",
+   "चतुर्थक क्षेत्रक"
+  ],
+  "correct": 2,
+  "explainEn": "The tertiary sector generates services rather than goods and is commonly known as the service sector.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:36Z"
  }
 ]

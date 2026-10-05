@@ -3638,5 +3638,593 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-05T05:44:51Z"
+ },
+ {
+  "id": "q_61d86f3d042cb5b7",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which institution regulates the commercial banks in India?",
+  "qHi": "भारत में वाणिज्यिक बैंकों को कौन सी संस्था नियंत्रित करती है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "State Bank of India",
+   "Ministry of Finance",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय स्टेट बैंक",
+   "वित्त मंत्रालय",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड"
+  ],
+  "correct": 0,
+  "explainEn": "The Reserve Bank of India (RBI) is the central banking institution of India and regulates the entire banking sector.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:42:12Z"
+ },
+ {
+  "id": "q_90ac396ffbbd1e94",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'P' stand for in the financial term 'PAN'?",
+  "qHi": "वित्तीय शब्द 'PAN' में अक्षर 'P' का क्या अर्थ है?",
+  "optsEn": [
+   "Primary",
+   "Permanent",
+   "Personal",
+   "Public"
+  ],
+  "optsHi": [
+   "प्राइमरी",
+   "परमानेंट",
+   "पर्सनल",
+   "पब्लिक"
+  ],
+  "correct": 1,
+  "explainEn": "PAN stands for Permanent Account Number, issued by the Income Tax Department of India.",
+  "sourceHint": "Income Tax Department of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:42:12Z"
+ },
+ {
+  "id": "q_f7c17799a9c16fa6",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which type of bank account typically does not earn any interest?",
+  "qHi": "किस प्रकार के बैंक खाते पर आमतौर पर कोई ब्याज नहीं मिलता है?",
+  "optsEn": [
+   "Savings Bank Account",
+   "Fixed Deposit Account",
+   "Current Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "बचत बैंक खाता",
+   "सावधि जमा खाता",
+   "चालू खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 2,
+  "explainEn": "Current accounts are meant for business transactions and generally offer no interest on deposits.",
+  "sourceHint": "Indian Banking Association",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:42:12Z"
+ },
+ {
+  "id": "q_e283aa3da9a1bbf8",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum limit of digits in an IFSC code?",
+  "qHi": "IFSC कोड में अधिकतम अंकों की सीमा क्या है?",
+  "optsEn": [
+   "9 digits",
+   "10 digits",
+   "11 digits",
+   "12 digits"
+  ],
+  "optsHi": [
+   "9 अंक",
+   "10 अंक",
+   "11 अंक",
+   "12 अंक"
+  ],
+  "correct": 2,
+  "explainEn": "An Indian Financial System Code (IFSC) is an 11-character alphanumeric code used for electronic fund transfers.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:42:12Z"
+ },
+ {
+  "id": "q_49c6cb0eac58bb4e",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of 'KYC' as used by financial institutions?",
+  "qHi": "वित्तीय संस्थानों द्वारा उपयोग किए जाने वाले 'KYC' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Know Your Customer",
+   "Keep Your Cash",
+   "Key Yield Calculation",
+   "Known Yardstick for Credit"
+  ],
+  "optsHi": [
+   "नो योर कस्टमर",
+   "कीप योर कैश",
+   "की यील्ड कैलकुलेशन",
+   "नोन यारडस्टिक फॉर क्रेडिट"
+  ],
+  "correct": 0,
+  "explainEn": "KYC stands for Know Your Customer, a mandatory process by financial institutions to verify the identity of their clients.",
+  "sourceHint": "Reserve Bank of India KYC Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:42:12Z"
+ },
+ {
+  "id": "q_3413c62438bd4674",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary function of the Marginal Standing Facility (MSF) operated by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा संचालित सीमांत स्थायी सुविधा (MSF) का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "To provide long-term capital for infrastructure projects",
+   "To allow scheduled commercial banks to borrow overnight funds in emergency situations",
+   "To regulate foreign exchange reserves",
+   "To fix the statutory liquidity ratio for cooperative banks"
+  ],
+  "optsHi": [
+   "बुनियादी ढांचा परियोजनाओं के लिए दीर्घकालिक पूंजी प्रदान करना",
+   "अनुसूचित वाणिज्यिक बैंकों को आपातकालीन स्थितियों में रात्रिकालिन धन उधार लेने की अनुमति देना",
+   "विदेशी मुद्रा भंडार को विनियमित करना",
+   "सहकारी बैंकों के लिए वैधानिक तरलता अनुपात तय करना"
+  ],
+  "correct": 1,
+  "explainEn": "MSF is a window for scheduled commercial banks to borrow overnight funds from RBI against approved government securities in emergency situations when inter-bank liquidity dries up.",
+  "sourceHint": "RBI Annual Report",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:14Z"
+ },
+ {
+  "id": "q_f1067e23379aeba7",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India regulates the mutual fund industry?",
+  "qHi": "भारत में म्यूचुअल फंड उद्योग को कौन सा संगठन विनियमित करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Insurance Regulatory and Development Authority of India",
+   "Securities and Exchange Board of India",
+   "Pension Fund Regulatory and Development Authority"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय बीमा विनियामक और विकास प्राधिकरण",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "पेंशन फंड नियामक और विकास प्राधिकरण"
+  ],
+  "correct": 2,
+  "explainEn": "SEBI is the statutory regulatory body established in 1992 to protect the interests of investors in securities and to promote and regulate the securities market, including mutual funds.",
+  "sourceHint": "SEBI Act, 1992",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:14Z"
+ },
+ {
+  "id": "q_ba2c5928d715b31e",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the term 'Basel III' primarily relate to in the context of banking?",
+  "qHi": "बैंकिंग के संदर्भ में 'बेसल III' शब्द मुख्य रूप से किससे संबंधित है?",
+  "optsEn": [
+   "Digital payment gateway standards",
+   "International banking regulatory accords focusing on capital adequacy and risk management",
+   "Guidelines for agricultural microfinance",
+   "Cross-border taxation treaties"
+  ],
+  "optsHi": [
+   "डिजिटल भुगतान गेटवे मानक",
+   "पूंजी पर्याप्तता और जोखिम प्रबंधन पर केंद्रित अंतर्राष्ट्रीय बैंकिंग नियामक समझौते",
+   "कृषि सूक्ष्म वित्त के लिए दिशानिर्देश",
+   "सीमा पार कराधान संधियाँ"
+  ],
+  "correct": 1,
+  "explainEn": "Basel III is a globally agreed set of measures developed by the Basel Committee on Banking Supervision in response to the financial crisis of 2007-09, focusing on bank capital adequacy, stress testing, and market liquidity risk.",
+  "sourceHint": "Bank for International Settlements",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:14Z"
+ },
+ {
+  "id": "q_f6eea5c1512c5547",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following terms describes a situation where the inflation rate is high while economic growth slows down?",
+  "qHi": "निम्नलिखित में से कौन सा शब्द उस स्थिति का वर्णन करता है जहाँ मुद्रास्फीति की दर उच्च होती है जबकि आर्थिक विकास धीमा हो जाता है?",
+  "optsEn": [
+   "Deflation",
+   "Stagflation",
+   "Reflation",
+   "Disinflation"
+  ],
+  "optsHi": [
+   "अपस्फीति",
+   "स्टैगफ्लेशन (मंदी के साथ मुद्रास्फीति)",
+   "पुनःस्फीति",
+   "विमुद्रास्फीति"
+  ],
+  "correct": 1,
+  "explainEn": "Stagflation is an economic condition characterized by simultaneous slow economic growth, high unemployment, and rising prices or inflation.",
+  "sourceHint": "NCERT Economics Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:14Z"
+ },
+ {
+  "id": "q_dbffec9effcc25d7",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum deposit amount insured by the Deposit Insurance and Credit Guarantee Corporation (DICGC) per depositor per bank in India?",
+  "qHi": "भारत में प्रति बैंक प्रति जमाकर्ता जमा बीमा और ऋण गारंटी निगम (DICGC) द्वारा बीमित अधिकतम जमा राशि क्या है?",
+  "optsEn": [
+   "1 Lakh rupees",
+   "2 Lakhs rupees",
+   "5 Lakhs rupees",
+   "10 Lakhs rupees"
+  ],
+  "optsHi": [
+   "1 लाख रुपये",
+   "2 लाख रुपये",
+   "5 लाख रुपये",
+   "10 लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "DICGC insures all bank deposits, such as savings, fixed, current, and recurring deposits up to a limit of Rs. 5,00,000 per depositor per bank.",
+  "sourceHint": "DICGC Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:14Z"
+ },
+ {
+  "id": "q_549618e364c15862",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of Indian financial markets, what does 'Repo Rate' mean?",
+  "qHi": "भारतीय वित्तीय बाजारों के संदर्भ में, 'रेपो रेट' का क्या अर्थ है?",
+  "optsEn": [
+   "The rate at which commercial banks lend short-term money to the RBI",
+   "The rate at which the RBI lends short-term money to commercial banks against government securities",
+   "The interest rate charged on retail housing loans",
+   "The yield on 10-year government bonds"
+  ],
+  "optsHi": [
+   "वह दर जिस पर वाणिज्यिक बैंक आरबीआई को अल्पकालिक धन उधार देते हैं",
+   "वह दर जिस पर आरबीआई सरकारी प्रतिभूतियों के एवज में वाणिज्यिक बैंकों को अल्पकालिक धन उधार देता है",
+   "खुदरा गृह ऋण पर लिया जाने वाला ब्याज दर",
+   "10-वर्षीय सरकारी बॉन्ड पर प्रतिफल"
+  ],
+  "correct": 1,
+  "explainEn": "Repo rate (Repurchase Rate) is the interest rate at which the central bank lends money to commercial banks in the event of any shortfall of funds.",
+  "sourceHint": "RBI Monetary Policy Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:14Z"
+ },
+ {
+  "id": "q_63b2daa3e50d4d74",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which document is issued by an importer's bank guaranteeing payment to the exporter up to a stated amount for a specified time, provided conditions are met?",
+  "qHi": "शर्तें पूरी होने पर, एक निश्चित समय के लिए एक निर्धारित राशि तक निर्यातक को भुगतान की गारंटी देने वाला आयातक के बैंक द्वारा कौन सा दस्तावेज़ जारी किया जाता है?",
+  "optsEn": [
+   "Bill of Lading",
+   "Letter of Credit",
+   "Certificate of Origin",
+   "Promissory Note"
+  ],
+  "optsHi": [
+   "बिल ऑफ़ लाडिंग",
+   "लेटर ऑफ़ क्रेडिट",
+   "उत्पत्ति प्रमाण पत्र",
+   "वचन पत्र"
+  ],
+  "correct": 1,
+  "explainEn": "A Letter of Credit is a financial document issued by a bank that guarantees the seller will receive payment from the buyer on time and for the correct amount.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:14Z"
+ },
+ {
+  "id": "q_f443408504fe663b",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the 'C' stand for in the financial acronym 'CASA' account used by commercial banks?",
+  "qHi": "वाणिज्यिक बैंकों द्वारा उपयोग किए जाने वाले वित्तीय संक्षिप्त नाम 'CASA' खाते में 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Current",
+   "Collateral",
+   "Credit",
+   "Capital"
+  ],
+  "optsHi": [
+   "करेंट (चालू)",
+   "संपार्श्विक",
+   "क्रेडिट",
+   "पूंजी"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account Savings Account, which represents bank deposits in current and savings accounts that offer low or no interest.",
+  "sourceHint": "Banking Glossary, IIBF",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:43:14Z"
+ },
+ {
+  "id": "q_81102cdca00b4eb1",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific section of the Banking Regulation Act, 1949 empowers the Reserve Bank of India to issue directions to banking companies in public interest or to prevent the affairs of any banking company being conducted in a manner detrimental to the interests of the depositors?",
+  "qHi": "बैंकिंग विनियमन अधिनियम, 1949 की कौन सी विशिष्ट धारा भारतीय रिजर्व बैंक को जनहित में या जमाकर्ताओं के हितों के प्रतिकूल तरीके से बैंक के संचालन को रोकने के लिए बैंकिंग कंपनियों को निर्देश जारी करने का अधिकार देती है?",
+  "optsEn": [
+   "Section 21",
+   "Section 35A",
+   "Section 45",
+   "Section 47A"
+  ],
+  "optsHi": [
+   "धारा 21",
+   "धारा 35क",
+   "धारा 45",
+   "धारा 47क"
+  ],
+  "correct": 1,
+  "explainEn": "Section 35A of the Banking Regulation Act, 1949 empowers the RBI to issue directions to banking companies in the public interest.",
+  "sourceHint": "RBI Act and Banking Regulation Act Compendium",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:44:23Z"
+ },
+ {
+  "id": "q_af4fb1c2b0bd0f50",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Prompt Corrective Action (PCA) framework for Scheduled Commercial Banks introduced by the RBI, which of the following parameters is generally NOT used as a threshold indicator for invoking PCA?",
+  "qHi": "आरबीआई द्वारा शुरू की गई अनुसूचित वाणिज्यिक बैंकों के लिए त्वरित सुधार कार्रवाई (पीसीए) ढांचे के तहत, निम्नलिखित में से किस पैरामीटर का उपयोग आमतौर पर पीसीए शुरू करने के लिए閾 (थ्रेसहोल्ड) संकेतक के रूप में नहीं किया जाता है?",
+  "optsEn": [
+   "Capital to Risk-weighted Assets Ratio (CRAR)",
+   "Net Non-Performing Assets (Net NPA) ratio",
+   "Return on Assets (RoA)",
+   "Credit-Deposit (CD) ratio"
+  ],
+  "optsHi": [
+   "पूंजी से जोखिम-भारित संपत्ति अनुपात (CRAR)",
+   "शुद्ध गैर-निष्पादित परिसंपत्तियां (Net NPA) अनुपात",
+   "परिसंपत्तियों पर रिटर्न (RoA)",
+   "ऋण-जमा (CD) अनुपात"
+  ],
+  "correct": 3,
+  "explainEn": "The PCA framework relies on CRAR, Net NPAs, and Leverage ratio (or RoA). Credit-Deposit ratio is not a core threshold indicator under the PCA framework.",
+  "sourceHint": "Reserve Bank of India Master Directions on PCA Framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:44:23Z"
+ },
+ {
+  "id": "q_3b668d671c80345f",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the minimum paid-up voting equity capital required for setting up a Small Finance Bank in India as per the RBI guidelines?",
+  "qHi": "आरबीआई दिशानिर्देशों के अनुसार भारत में एक लघु वित्त बैंक (Small Finance Bank) स्थापित करने के लिए आवश्यक न्यूनतम चुकता मतदान इक्विटी पूंजी क्या है?",
+  "optsEn": [
+   "100 crore rupees",
+   "200 crore rupees",
+   "300 crore rupees",
+   "500 crore rupees"
+  ],
+  "optsHi": [
+   "100 करोड़ रुपये",
+   "200 करोड़ रुपये",
+   "300 करोड़ रुपये",
+   "500 करोड़ रुपये"
+  ],
+  "correct": 1,
+  "explainEn": "As per RBI guidelines for 'on tap' licensing of Small Finance Banks, the minimum paid-up voting equity capital is 200 crore rupees.",
+  "sourceHint": "RBI Guidelines on On-Tap Licensing of Small Finance Banks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:44:23Z"
+ },
+ {
+  "id": "q_0092bcf9f403f7ee",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of international banking standards, Basel III introduced the Capital Conservation Buffer (CCB). What is the mandated CCB requirement for Indian scheduled commercial banks as a percentage of Risk-Weighted Assets (RWAs)?",
+  "qHi": "अंतर्राष्ट्रीय बैंकिंग मानकों के संदर्भ में, बेसल III ने पूंजी संरक्षण बफर (CCB) पेश किया। जोखिम-भारित संपत्तियों (RWAs) के प्रतिशत के रूप में भारतीय अनुसूचित वाणिज्यिक बैंकों के लिए अनिवार्य CCB आवश्यकता क्या है?",
+  "optsEn": [
+   "1.00 percent",
+   "1.875 percent",
+   "2.50 percent",
+   "3.00 percent"
+  ],
+  "optsHi": [
+   "1.00 प्रतिशत",
+   "1.875 प्रतिशत",
+   "2.50 प्रतिशत",
+   "3.00 प्रतिशत"
+  ],
+  "correct": 2,
+  "explainEn": "Under Basel III norms implemented by RBI, banks are required to maintain a Capital Conservation Buffer of 2.50 percent of RWAs.",
+  "sourceHint": "RBI Master Circular on Basel III Capital Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:44:23Z"
+ },
+ {
+  "id": "q_8145f91da9dbf383",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organization in India acts as the central nodal agency responsible for managing the Electronic Data Interchange (EDI) and implementing the Public Financial Management System (PFMS)?",
+  "qHi": "भारत में कौन सा संगठन इलेक्ट्रॉनिक डेटा इंटरचेंज (EDI) के प्रबंधन और सार्वजनिक वित्तीय प्रबंधन प्रणाली (PFMS) को लागू करने के लिए जिम्मेदार केंद्रीय नोडल एजेंसी के रूप में कार्य करता है?",
+  "optsEn": [
+   "Controller General of Accounts (CGA)",
+   "National Payments Corporation of India (NPCI)",
+   "Reserve Bank of India (RBI)",
+   "Securities and Exchange Board of India (SEBI)"
+  ],
+  "optsHi": [
+   "लेखा महानियंत्रक (CGA)",
+   "भारतीय राष्ट्रीय भुगतान निगम (NPCI)",
+   "भारतीय रिजर्व बैंक (RBI)",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI)"
+  ],
+  "correct": 0,
+  "explainEn": "The Controller General of Accounts (CGA) administers the Public Financial Management System (PFMS) under the Ministry of Finance.",
+  "sourceHint": "Ministry of Finance, Department of Expenditure (CGA Portal)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:44:23Z"
+ },
+ {
+  "id": "q_a56ea3a4cabe5cc0",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "According to the Negotiable Instruments Act, 1881, what is the statutory definition period within which a cheque return memo must be presented to issue a legal notice for dishonour of a cheque due to insufficient funds (Section 138)?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के अनुसार, अपर्याप्त धन के कारण चेक के अनादर (धारा 138) के लिए कानूनी नोटिस जारी करने हेतु चेक रिटर्न मेमो प्राप्त होने के बाद की वैधानिक अवधि क्या है?",
+  "optsEn": [
+   "15 days",
+   "30 days",
+   "45 days",
+   "90 days"
+  ],
+  "optsHi": [
+   "15 दिन",
+   "30 दिन",
+   "45 दिन",
+   "90 दिन"
+  ],
+  "correct": 1,
+  "explainEn": "Under Section 138 of the Negotiable Instruments Act, the payee must make a demand for payment by issuing a notice within 30 days of receiving information about the dishonour.",
+  "sourceHint": "The Negotiable Instruments Act, 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:44:23Z"
+ },
+ {
+  "id": "q_c26fe174e7c6decc",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What does the letter 'E' stand for in the financial acronym 'LEI', which is mandatory for high-value transactions in corporate banking mandated by the RBI?",
+  "qHi": "वित्तीय संक्षिप्त नाम 'LEI' में अक्षर 'E' का क्या अर्थ है, जो आरबीआई द्वारा कॉर्पोरेट बैंकिंग में उच्च मूल्य के लेनदेन के लिए अनिवार्य किया गया है?",
+  "optsEn": [
+   "Entity",
+   "Exchange",
+   "Earnings",
+   "Equity"
+  ],
+  "optsHi": [
+   "एंटिटी (Entity)",
+   "एक्सचेंज (Exchange)",
+   "अर्निंग्स (Earnings)",
+   "इक्विटी (Equity)"
+  ],
+  "correct": 0,
+  "explainEn": "LEI stands for Legal Entity Identifier, a 20-character code used to uniquely identify legally distinct entities that engage in financial transactions.",
+  "sourceHint": "RBI Guidelines on Legal Entity Identifier for Cross-Border and Large Value Transactions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:44:23Z"
+ },
+ {
+  "id": "q_c06b16af110160ef",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which category of Non-Banking Financial Companies (NBFCs) is specifically regulated directly by the Ministry of Corporate Affairs rather than the RBI for their core deposit acceptance activities?",
+  "qHi": "गैर-बैंकिंग वित्तीय कंपनियों (NBFCs) की किस श्रेणी को उनकी मुख्य जमा स्वीकार करने की गतिविधियों के लिए आरबीआई के बजाय सीधे कॉर्पोरेट मामलों के मंत्रालय द्वारा विनियमित किया जाता है?",
+  "optsEn": [
+   "NBFC-Factor",
+   "Nidhi Companies",
+   "NBFC-Micro Finance Institution",
+   "NBFC-Infrastructure Finance Company"
+  ],
+  "optsHi": [
+   "एनबीएफसी-फैक्टर",
+   "निधि कंपनियां",
+   "एनबीएफसी-सूक्ष्म वित्त संस्थान",
+   "एनबीएफसी-इन्फ्रास्ट्रक्चर फाइनेंस कंपनी"
+  ],
+  "correct": 1,
+  "explainEn": "Nidhi companies are a type of NBFC incorporated under the Companies Act and are notified by the Central Government, regulated primarily under Section 406 of the Companies Act, 2013 by the MCA.",
+  "sourceHint": "Companies Act, 2013 and Ministry of Corporate Affairs Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T14:44:23Z"
  }
 ]
