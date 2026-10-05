@@ -41,7 +41,7 @@ function menu(msg){
  '<label>Mode</label><select id="m"><option value="normal">KBC Normal (pick a class or exam)</option><option value="junior">KBC Junior (pick the child\'s age)</option></select>'+
  (jr?'<label>Age</label><select id="a">'+ages+'</select><p class="sub">Junior maps age to the class a child studies (age minus 5, or minus 6). Only classes that have questions in the bank are used. Questions come from school textbooks (NCERT); logic and reasoning questions: Unavailable (the bank has no such category yet).</p>':'<label>Class or exam</label><select id="g">'+grp+'</select>')+
  '<label>Language (you can also switch during the game)</label><select id="l"><option value="en">English</option><option value="hi">Hindi</option></select>'+
- '<p class="sub">Timed like the app: 60 s for questions 1-5, 120 s for 6-10, no limit after. Tap an option then press Lock answer. Keys: A-D choose, Enter or L lock, N next. Every game uses 17 fresh questions chosen up front; none repeats in a game, and questions you saw on this device are held back until the group is used up (stored only in this browser).</p><button id="go">Start game</button></div>';
+ '<p class="sub">Timed like the app: 60 s for questions 1-5, 120 s for 6-10, no limit after. Tap an option then press Lock answer. Keys: A-D choose, Enter or L lock. A right answer moves on by itself; a wrong answer ends the game. Every game uses 17 fresh questions chosen up front; none repeats in a game, and questions you saw on this device are held back until the group is used up (stored only in this browser).</p><button id="go">Start game</button></div>';
  app.innerHTML=h;document.getElementById("l").value=lang;document.getElementById("m").value=MODE;
  var ga=document.getElementById("a");if(ga){for(var i=0;i<ga.options.length;i++){if(!ga.options[i].disabled){ga.value=ga.options[i].value;break}}}
  var gg=document.getElementById("g");if(gg){gg.value="class-5"}
@@ -134,9 +134,15 @@ function reveal(i,box,timeout){
  document.getElementById("tm").textContent=timeout?"Time is up":"";
  sfx(timeout?"time":ok?"ok":"bad");if(ok&&cp)setTimeout(function(){tone(784,300,.2,"triangle");tone(1047,500,.2,"triangle",200)},700);
  var exp=(lang==="hi"&&q.explainHi)?q.explainHi:q.explainEn;
- fb.innerHTML='<p><b>'+(ok?"Correct! You have "+S.won+" points"+(cp?" - "+CPN[S.i+1]+" reached, secured.":"."):(timeout?"Time up. ":"Wrong. ")+"Correct answer: "+L)+'</b></p>'+(exp?'<p class="sub" id="ex">'+esc(dg(exp))+'</p>':"")+'<button id="nx">'+(ok&&!last?"Next question":"Finish")+'</button>';
+ fb.innerHTML='<p><b>'+(ok?"Correct! You have "+S.won+" points"+(cp?" - "+CPN[S.i+1]+" reached, secured.":"."):(timeout?"Time up. ":"Wrong. ")+"Correct answer: "+L)+'</b></p>'+(exp?'<p class="sub" id="ex">'+esc(dg(exp))+'</p>':"")+'<p class="sub" id="nxt">'+(ok&&!last?"Next question in a moment...":"Result coming...")+'</p>';
  setTimeout(function(){say(ok?(lang==="hi"?"सही जवाब":"Correct answer"):((timeout?(lang==="hi"?"समय समाप्त. ":"Time is up. "):(lang==="hi"?"गलत जवाब. ":"Wrong answer. "))+(lang==="hi"?"सही उत्तर ":"The correct answer is ")+L+". "+(q.explainEn&&lang!=="hi"?q.explainEn:"")),!ok)},900);
- document.getElementById("nx").onclick=function(){stopVox();if(ok&&!last){S.i++;show()}else end(ok?"You answered all "+S.q.length+" questions correctly! Final points: "+S.won+".":"Game over. You answered "+S.i+" correctly. You take home the secured points: "+S.sec+".",ok?S.won:S.sec)}}
+ var G=S,wait=ok?(last?4500:4200):5200;
+ setTimeout(function(){if(G!==S||S.fin)return;stopVox();if(ok&&!last){S.i++;show()}else{S.fin=true;endScreen(ok,i,q,L,timeout)}},wait)}
+function endScreen(ok,i,q,L,timeout){
+ var pts=ok?S.won:S.sec,exp=(lang==="hi"&&q.explainHi)?q.explainHi:q.explainEn;
+ var m=ok?"You answered all "+S.q.length+" questions correctly! Final points: "+S.won+".":(timeout?"Time up. ":"Wrong answer. ")+"You answered "+S.i+" correctly. You take home the secured points: "+S.sec+".";
+ var extra=ok?"":'<p class="sub">Correct answer was '+L+': '+esc(qo(q)[q.correct])+'</p>'+(exp?'<p class="sub">'+esc(dg(exp))+'</p>':"");
+ end(m,pts,extra)}
 function lifelines(box){
  var ll=document.getElementById("ll"),q=S.q[S.i];
  var a=document.createElement("button");a.className="sec";a.textContent="50-50";a.disabled=!S.fifty;
@@ -147,7 +153,7 @@ function lifelines(box){
  ll.appendChild(a);ll.appendChild(f);
  var n=document.createElement("p");n.className="sub";n.textContent="Lifelines: 50-50 and Flip are real. Audience poll and Phone-a-friend are not offered because they would need invented data.";ll.appendChild(n)}
 function stats(){try{return JSON.parse(localStorage.getItem("kbcw_stats")||"{}")}catch(e){return{}}}
-function end(m,pts){stopTimer();stopVox();S&&(S.over=true);if(typeof pts==="number"){var st=stats();st.games=(st.games||0)+1;st.best=Math.max(st.best||0,pts);st.last=pts;localStorage.setItem("kbcw_stats",JSON.stringify(st))}app.innerHTML='<div class="card"><h2>'+esc(m)+'</h2><button id="again">Play again</button></div>';document.getElementById("again").onclick=function(){menu()}}
+function end(m,pts,extra){stopTimer();stopVox();S&&(S.over=true,S.fin=true);if(typeof pts==="number"){var st=stats();st.games=(st.games||0)+1;st.best=Math.max(st.best||0,pts);st.last=pts;localStorage.setItem("kbcw_stats",JSON.stringify(st))}app.innerHTML='<div class="card"><h2>'+esc(m)+'</h2>'+(extra||"")+'<button id="again">Play again</button></div>';document.getElementById("again").onclick=function(){menu()}}
 document.addEventListener("keydown",function(e){if(e.ctrlKey||e.metaKey||e.altKey)return;var k=e.key.toLowerCase(),i="abcd".indexOf(k);
  if(i>=0&&k.length===1){var b=document.querySelectorAll("#o button.opt");if(b[i]&&!b[i].disabled)b[i].click()}
  else if(k==="l"||k==="enter"){var nx=document.getElementById("nx");if(nx){nx.click()}else{var lk=document.getElementById("lk");if(lk&&!lk.disabled)lk.click()}}
