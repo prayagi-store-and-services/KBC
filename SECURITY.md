@@ -1,5 +1,9 @@
 # Security notes - KBC
 
+## UI cleanup, step 1 (v1.1.9)
+- The message shown when the saved questions are stale no longer mentions a "watchdog" or "game state error". It now says the questions could not be used and to start a new game. The rule behind it is unchanged.
+- No new permission, library or network call.
+
 ## Standard header (new in 1.1.1)
 The header is the Netra standard: 56 dp, fixed, only the app name, the installed version (read from the package, "Unavailable" if it cannot be read) and the device date and time. Everything else scrolls. No new permission, network call or library.
 
