@@ -158,6 +158,7 @@ fun HomeScreen(
                 }
             }
 
+            com.example.festival.FestivalBannerCard(modifier = Modifier.fillMaxWidth())
             Spacer(modifier = Modifier.height(12.dp))
 
             // TarkShastra Emblem & Title
