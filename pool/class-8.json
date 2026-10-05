@@ -1986,5 +1986,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-04T21:29:14Z"
+ },
+ {
+  "id": "q_64399605416b663f",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which microorganism fixes atmospheric nitrogen in the root nodules of leguminous plants?",
+  "qHi": "कौन सा सूक्ष्मजीव फलीदार पौधों की जड़ों की गांठों में वायुमंडलीय नाइट्रोजन को स्थिर करता है?",
+  "optsEn": [
+   "Lactobacillus",
+   "Yeast",
+   "Rhizobium",
+   "Penicillium"
+  ],
+  "optsHi": [
+   "लैक्टोबैसिलस",
+   "खमीर (यीस्ट)",
+   "राइजोबियम",
+   "पेनिसिलियम"
+  ],
+  "correct": 2,
+  "explainEn": "Rhizobium bacteria live in the root nodules of leguminous plants and fix nitrogen.",
+  "sourceHint": "NCERT Class 8 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:42:47Z"
+ },
+ {
+  "id": "q_c93bbb93e0125218",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the imaginary line passing through the centre of the Earth that represents its axis of rotation called?",
+  "qHi": "पृथ्वी के केंद्र से गुजरने वाली काल्पनिक रेखा जो उसके घूर्णन अक्ष को दर्शाती है, क्या कहलाती है?",
+  "optsEn": [
+   "Equator",
+   "Axis",
+   "Orbit",
+   "Prime Meridian"
+  ],
+  "optsHi": [
+   "विषुवत वृत्त (भूमध्य रेखा)",
+   "अक्ष",
+   "कक्षा",
+   "प्रधान मध्याह्न रेखा"
+  ],
+  "correct": 1,
+  "explainEn": "The axis is an imaginary line that makes an angle with its orbital plane and passes through the Earth's centre.",
+  "sourceHint": "NCERT Class 8 Geography Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:42:47Z"
+ },
+ {
+  "id": "q_11e113b470d1cecb",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which mineral resource is commonly known as black gold?",
+  "qHi": "किस खनिज संसाधन को सामान्यतः काला सोना कहा जाता है?",
+  "optsEn": [
+   "Coal",
+   "Petroleum",
+   "Iron ore",
+   "Manganese"
+  ],
+  "optsHi": [
+   "कोयला",
+   "पेट्रोलियम",
+   "लोह अयस्क",
+   "मैंगनीज"
+  ],
+  "correct": 1,
+  "explainEn": "Petroleum and its derivatives are referred to as black gold because they are very valuable.",
+  "sourceHint": "NCERT Class 8 Geography Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:42:47Z"
+ },
+ {
+  "id": "q_9007c0c64e1fa6bf",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of force is friction?",
+  "qHi": "घर्षण किस प्रकार का बल है?",
+  "optsEn": [
+   "Magnetic force",
+   "Contact force",
+   "Electrostatic force",
+   "Gravitational force"
+  ],
+  "optsHi": [
+   "चुंबकीय बल",
+   "संपर्क बल",
+   "स्थिरवैद्युत बल",
+   "गुरुत्वाकर्षण बल"
+  ],
+  "correct": 1,
+  "explainEn": "Friction acts between two surfaces that are in contact with each other, making it a contact force.",
+  "sourceHint": "NCERT Class 8 Science Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:42:47Z"
  }
 ]

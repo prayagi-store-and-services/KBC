@@ -2238,5 +2238,453 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-04T21:29:03Z"
+ },
+ {
+  "id": "q_76a6ee7f53926ade",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the chemical symbol for water?",
+  "qHi": "पानी का रासायनिक प्रतीक क्या है?",
+  "optsEn": [
+   "CO2",
+   "H2O",
+   "O2",
+   "NaCl"
+  ],
+  "optsHi": [
+   "CO2",
+   "H2O",
+   "O2",
+   "NaCl"
+  ],
+  "correct": 1,
+  "explainEn": "A water molecule is composed of two hydrogen atoms and one oxygen atom, represented as H2O.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:42:38Z"
+ },
+ {
+  "id": "q_6f102ba8004463ea",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which sport uses the term 'LBW'?",
+  "qHi": "किस खेल में 'एलबीडब्ल्यू' (LBW) शब्द का उपयोग किया जाता है?",
+  "optsEn": [
+   "Football",
+   "Tennis",
+   "Cricket",
+   "Badminton"
+  ],
+  "optsHi": [
+   "फुटबॉल",
+   "टेनिस",
+   "क्रिकेट",
+   "बैडमिंटन"
+  ],
+  "correct": 2,
+  "explainEn": "LBW stands for Leg Before Wicket, which is a method of dismissal in cricket.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:42:38Z"
+ },
+ {
+  "id": "q_0f20e7a31d0e307a",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the standard currency of Japan?",
+  "qHi": "जापान की मानक मुद्रा क्या है?",
+  "optsEn": [
+   "Yen",
+   "Yuan",
+   "Won",
+   "Ringgit"
+  ],
+  "optsHi": [
+   "येन",
+   "युआन",
+   "वोन",
+   "रिंगgit"
+  ],
+  "correct": 0,
+  "explainEn": "The Japanese Yen is the official currency of Japan.",
+  "sourceHint": "International Monetary Fund",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:42:38Z"
+ },
+ {
+  "id": "q_07b89ef2cdac83e2",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the famous play 'Romeo and Juliet'?",
+  "qHi": "प्रसिद्ध नाटक 'रोमियो एंड जूलियट' किसने लिखा था?",
+  "optsEn": [
+   "Charles Dickens",
+   "William Shakespeare",
+   "Mark Twain",
+   "Jane Austen"
+  ],
+  "optsHi": [
+   "चार्ल्स डिकेंस",
+   "윌ลियम शेक्सपियर",
+   "मार्क ट्वेन",
+   "जेन ऑस्टिन"
+  ],
+  "correct": 1,
+  "explainEn": "William Shakespeare wrote the tragedy Romeo and Juliet early in his career.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:42:38Z"
+ },
+ {
+  "id": "q_ac0e3ba37acdd630",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organ in the human body primarily pumps blood?",
+  "qHi": "मानव शरीर में कौन सा अंग मुख्य रूप से रक्त पंप करता है?",
+  "optsEn": [
+   "Lungs",
+   "Brain",
+   "Heart",
+   "Liver"
+  ],
+  "optsHi": [
+   "फेफड़े",
+   "मस्तिष्क",
+   "हृदय",
+   "यकृत"
+  ],
+  "correct": 2,
+  "explainEn": "The heart is a muscular organ that pumps blood through the circulatory system.",
+  "sourceHint": "NCERT Biology Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:42:38Z"
+ },
+ {
+  "id": "q_581cc5b076eddf5e",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the freezing point of pure water in degrees Celsius?",
+  "qHi": "डिग्री सेल्सियस में शुद्ध पानी का हिमांक (फ्रीजिंग प्वाइंट) कितना होता है?",
+  "optsEn": [
+   "0",
+   "50",
+   "100",
+   "1000"
+  ],
+  "optsHi": [
+   "0",
+   "50",
+   "100",
+   "1000"
+  ],
+  "correct": 0,
+  "explainEn": "Pure water freezes at 0 degrees Celsius under standard atmospheric pressure.",
+  "sourceHint": "NCERT Physics Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:42:38Z"
+ },
+ {
+  "id": "q_e97e04a3fdb0eebf",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian state has the longest coastline along the Arabian Sea?",
+  "qHi": "अरब सागर के साथ किस भारतीय राज्य की तटरेखा सबसे लंबी है?",
+  "optsEn": [
+   "Maharashtra",
+   "Goa",
+   "Gujarat",
+   "Kerala"
+  ],
+  "optsHi": [
+   "महाराष्ट्र",
+   "गोवा",
+   "गुजरात",
+   "केरल"
+  ],
+  "correct": 2,
+  "explainEn": "Gujarat has the longest coastline in India, measuring approximately 1,600 kilometers along the Arabian Sea.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:43:42Z"
+ },
+ {
+  "id": "q_8bb5b9224c19fa55",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who was the first Indian woman to win an Olympic medal?",
+  "qHi": "ओलंपिक पदक जीतने वाली पहली भारतीय महिला कौन थीं?",
+  "optsEn": [
+   "P. T. Usha",
+   "Karnam Malleswari",
+   "Mary Kom",
+   "Saina Nehwal"
+  ],
+  "optsHi": [
+   "पी. टी. उषा",
+   "कर्णम मल्लेश्वरी",
+   "मैरी कॉम",
+   "साइना नेहवाल"
+  ],
+  "correct": 1,
+  "explainEn": "Weightlifter Karnam Malleswari won a bronze medal at the 2000 Sydney Olympics, becoming the first Indian woman to win an Olympic medal.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:43:42Z"
+ },
+ {
+  "id": "q_d865b6e9e251bbff",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which wildlife sanctuary in India is famous for being the primary natural habitat of the one-horned rhinoceros?",
+  "qHi": "भारत में कौन सा वन्यजीव अभयारण्य एक सींग वाले गैंडे का प्राथमिक प्राकृतिक आवास होने के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Jim Corbett National Park",
+   "Kaziranga National Park",
+   "Ranthambore National Park",
+   "Gir National Park"
+  ],
+  "optsHi": [
+   "जिम कॉर्बेट राष्ट्रीय उद्यान",
+   "काजीरंगा राष्ट्रीय उद्यान",
+   "रणथंभौर राष्ट्रीय उद्यान",
+   "गीर राष्ट्रीय उद्यान"
+  ],
+  "correct": 1,
+  "explainEn": "Kaziranga National Park in Assam hosts two-thirds of the world's great one-horned rhinoceroses and is a UNESCO World Heritage Site.",
+  "sourceHint": "UNESCO World Heritage Centre",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:43:42Z"
+ },
+ {
+  "id": "q_f254a3ff514bc5f8",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who authored the famous ancient Indian treatise on statecraft, 'Arthashastra'?",
+  "qHi": "राजनीति पर प्रसिद्ध प्राचीन भारतीय ग्रंथ 'अर्थशास्त्र' के लेखक कौन हैं?",
+  "optsEn": [
+   "Kalidasa",
+   "Banabhatta",
+   "Chanakya",
+   "Valmiki"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "बाणभट्ट",
+   "चाणक्य",
+   "वाल्मीकि"
+  ],
+  "correct": 2,
+  "explainEn": "Arthashastra was authored by Chanakya (also known as Kautilya or Vishnugupta), who was a strategist and teacher to the first Mauryan Emperor Chandragupta.",
+  "sourceHint": "NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:43:42Z"
+ },
+ {
+  "id": "q_762b419932adf6be",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which gas is most abundant in Earth's atmosphere by volume?",
+  "qHi": "पृथ्वी के वायुमंडल में आयतन के हिसाब से कौन सी गैस सबसे प्रचुर मात्रा में है?",
+  "optsEn": [
+   "Oxygen",
+   "Nitrogen",
+   "Carbon dioxide",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "कार्बन डाइऑक्साइड",
+   "आर्गन"
+  ],
+  "correct": 1,
+  "explainEn": "Nitrogen makes up about 78 percent of Earth's atmosphere by volume, making it the most abundant atmospheric gas.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:43:42Z"
+ },
+ {
+  "id": "q_5cfd386cc751e19c",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which constitutional article empowers the President of India to promulgate ordinances during the recess of Parliament?",
+  "qHi": "भारत के राष्ट्रपति को संसद के अवकाश के दौरान अध्यादेश प्रख्यापित करने की शक्ति कौन सा संवैधानिक अनुच्छेद प्रदान करता है?",
+  "optsEn": [
+   "Article 123",
+   "Article 143",
+   "Article 213",
+   "Article 356"
+  ],
+  "optsHi": [
+   "अनुच्छेद 123",
+   "अनुच्छेद 143",
+   "अनुच्छेद 213",
+   "अनुच्छेद 356"
+  ],
+  "correct": 0,
+  "explainEn": "Article 123 of the Constitution of India grants the President ordinance-making powers when both Houses of Parliament are not in session.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:44:57Z"
+ },
+ {
+  "id": "q_5ff5636ebdb546b4",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form of India originated from the Vaishnavite monasteries known as Sattras in Assam?",
+  "qHi": "भारत की कौन सी शास्त्रीय नृत्य शैली असम में सत्र नामक वैष्णव मठों से उत्पन्न हुई है?",
+  "optsEn": [
+   "Kathakali",
+   "Manipuri",
+   "Sattriya",
+   "Odissi"
+  ],
+  "optsHi": [
+   "कथकली",
+   "मणिपुरी",
+   "सत्रिया",
+   "ओडिसी"
+  ],
+  "correct": 2,
+  "explainEn": "Sattriya is a classical dance-drama performance art rooted in the 15th-century Bhakti movement of Assam, introduced by saint Srimanta Sankaradeva.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:44:57Z"
+ },
+ {
+  "id": "q_56da701932b88ee6",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which state is the ancient Harappan site of Dholavira located, which is also a UNESCO World Heritage Site?",
+  "qHi": "प्राचीन हड़प्पा स्थल धोलावीरा, जो एक यूनेस्को विश्व धरोहर स्थल भी है, किस राज्य में स्थित है?",
+  "optsEn": [
+   "Haryana",
+   "Rajasthan",
+   "Gujarat",
+   "Punjab"
+  ],
+  "optsHi": [
+   "हरियाणा",
+   "राजस्थान",
+   "गुजरात",
+   "पंजाब"
+  ],
+  "correct": 2,
+  "explainEn": "Dholavira is an archaeological site belonging to the Indus Valley Civilization located on Khadir bet island in the Kutch district of Gujarat.",
+  "sourceHint": "ASI and UNESCO World Heritage Centre",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:44:57Z"
+ },
+ {
+  "id": "q_862b364ce9832faa",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian scientist is credited with formulating the Bose-Einstein statistics along with Albert Einstein?",
+  "qHi": "अल्बर्ट आइंस्टीन के साथ मिलकर बोस-आइंस्टीन सांख्यिकी प्रतिपादित करने का श्रेय किस भारतीय वैज्ञानिक को जाता है?",
+  "optsEn": [
+   "Homi J. Bhabha",
+   "Satyendra Nath Bose",
+   "Meghnad Saha",
+   "Jagadish Chandra Bose"
+  ],
+  "optsHi": [
+   "होमी जे. भाभा",
+   "सत्येंद्र नाथ बोस",
+   "मेघनाद साहा",
+   "जगदीश चंद्र बोस"
+  ],
+  "correct": 1,
+  "explainEn": "Satyendra Nath Bose formulated quantum statistics on the statistical mechanics of photons, which he sent to Einstein, leading to the Bose-Einstein statistics.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:44:57Z"
+ },
+ {
+  "id": "q_9b79c393d142645e",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Schedule of the Constitution of India deals with the allocation of seats in the Rajya Sabha to the States and Union Territories?",
+  "qHi": "भारत के संविधान की कौन सी अनुसूची राज्यों और केंद्र शासित प्रदेशों को राज्यसभा में सीटों के आवंटन से संबंधित है?",
+  "optsEn": [
+   "First Schedule",
+   "Third Schedule",
+   "Fourth Schedule",
+   "Seventh Schedule"
+  ],
+  "optsHi": [
+   "पहली अनुसूची",
+   "तीसरी अनुसूची",
+   "चौथी अनुसूची",
+   "सातवीं अनुसूची"
+  ],
+  "correct": 2,
+  "explainEn": "The Fourth Schedule of the Indian Constitution details the allocation of seats in the Council of States (Rajya Sabha) for each state and union territory.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:44:57Z"
  }
 ]

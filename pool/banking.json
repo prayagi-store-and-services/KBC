@@ -3050,5 +3050,593 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-04T21:28:58Z"
+ },
+ {
+  "id": "q_96c94ec426d82c02",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which institution regulates commercial banks in India?",
+  "qHi": "भारत में वाणिज्यिक बैंकों को कौन सी संस्था नियंत्रित करती है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "State Bank of India",
+   "Ministry of Finance",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय स्टेट बैंक",
+   "वित्त मंत्रालय",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड"
+  ],
+  "correct": 0,
+  "explainEn": "The Reserve Bank of India (RBI) is the central banking institution that controls the monetary policy and regulates all commercial banks in India.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:42:32Z"
+ },
+ {
+  "id": "q_93277410b638a975",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'I' stand for in the financial acronym IFSC?",
+  "qHi": "वित्तीय संक्षिप्त नाम IFSC में अक्षर 'I' का क्या अर्थ है?",
+  "optsEn": [
+   "International",
+   "Indian",
+   "Interbank",
+   "Investment"
+  ],
+  "optsHi": [
+   "इंटरनेशनल",
+   "इंडियन",
+   "इंटरबैंक",
+   "इन्वेस्टमेंट"
+  ],
+  "correct": 1,
+  "explainEn": "IFSC stands for Indian Financial System Code, which is an 11-character alphanumeric code used for electronic funds transfers in India.",
+  "sourceHint": "Reserve Bank of India Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:42:32Z"
+ },
+ {
+  "id": "q_c4e048ceef56fdfa",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which type of bank account typically does not offer any interest to the account holder?",
+  "qHi": "किस प्रकार का बैंक खाता आमतौर पर खाता धारक को कोई ब्याज नहीं देता है?",
+  "optsEn": [
+   "Savings Account",
+   "Fixed Deposit Account",
+   "Current Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "बचत खाता",
+   "सावधि जमा खाता",
+   "चालू खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 2,
+  "explainEn": "Current accounts are designed for business purposes and generally do not provide any interest on the deposited funds.",
+  "sourceHint": "Indian Banking Fundamentals",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:42:32Z"
+ },
+ {
+  "id": "q_19bf82837217ac93",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum limit of digits in a Permanent Account Number (PAN) issued in India?",
+  "qHi": "भारत में जारी स्थायी खाता संख्या (PAN) में अंकों की अधिकतम सीमा कितनी होती है?",
+  "optsEn": [
+   "10",
+   "12",
+   "16",
+   "14"
+  ],
+  "optsHi": [
+   "10",
+   "12",
+   "16",
+   "14"
+  ],
+  "correct": 0,
+  "explainEn": "A PAN is a ten-character alphanumeric identifier issued by the Income Tax Department of India.",
+  "sourceHint": "Income Tax Department of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:42:32Z"
+ },
+ {
+  "id": "q_a7d20a920b34b389",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does ATM stand for in the context of banking?",
+  "qHi": "बैंकिंग के संदर्भ में ATM का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Automatic Transfer Machine",
+   "Automated Teller Machine",
+   "Any Time Money",
+   "Automated Transaction Method"
+  ],
+  "optsHi": [
+   "ऑटोमैटिक ट्रांसफर मशीन",
+   "ऑटोमेटेड टेलर मशीन",
+   "एनी टाइम मनी",
+   "ऑटोमेटेड ट्रांजैक्शन मेथड"
+  ],
+  "correct": 1,
+  "explainEn": "ATM stands for Automated Teller Machine, an electronic telecommunication device that enables customers to perform financial transactions.",
+  "sourceHint": "NCERT Commerce Textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:42:32Z"
+ },
+ {
+  "id": "q_eda10dc76e7b8f90",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which term refers to the rate at which the Reserve Bank of India lends short-term money to commercial banks?",
+  "qHi": "उस दर को क्या कहते हैं जिस पर भारतीय रिजर्व बैंक वाणिज्यिक बैंकों को अल्पकालिक धन उधार देता है?",
+  "optsEn": [
+   "Repo Rate",
+   "Cash Reserve Ratio",
+   "Statutory Liquidity Ratio",
+   "Bank Rate"
+  ],
+  "optsHi": [
+   "रेपो रेट",
+   "कैश रिजर्व रेश्यो",
+   "स्टेच्युтори लिक्विडिटी रेश्यो",
+   "बैंक रेट"
+  ],
+  "correct": 0,
+  "explainEn": "Repo rate is the interest rate at which the central bank lends money to commercial banks in the event of any shortfall of funds.",
+  "sourceHint": "RBI Monetary Policy Reports",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:42:32Z"
+ },
+ {
+  "id": "q_5a4162eaba361640",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who is the custodian of foreign exchange reserves in India?",
+  "qHi": "भारत में विदेशी मुद्रा भंडार का संरक्षक कौन है?",
+  "optsEn": [
+   "State Bank of India",
+   "Ministry of Finance",
+   "Reserve Bank of India",
+   "EXIM Bank"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "वित्त मंत्रालय",
+   "भारतीय रिजर्व बैंक",
+   "एजिम बैंक"
+  ],
+  "correct": 2,
+  "explainEn": "The Reserve Bank of India acts as the custodian of the country's foreign exchange reserves and manages exchange control.",
+  "sourceHint": "Reserve Bank of India Preamble",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:42:32Z"
+ },
+ {
+  "id": "q_b6f3928116c1c93d",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'C' stand for in the abbreviation 'CASA' commonly used in banking?",
+  "qHi": "बैंकिंग में सामान्यतः प्रयुक्त संक्षिप्त नाम 'CASA' में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Credit",
+   "Current",
+   "Capital",
+   "Currency"
+  ],
+  "optsHi": [
+   "क्रेडिट (Credit)",
+   "करेंट (Current)",
+   "पूंजी (Capital)",
+   "मुद्रा (Currency)"
+  ],
+  "correct": 1,
+  "explainEn": "CASA stands for Current Account Savings Account, which represents low-cost deposits for banks.",
+  "sourceHint": "RBI Glossary and Banking Manuals",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:43:37Z"
+ },
+ {
+  "id": "q_32b2241161bd5c17",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following terms refers to the interest rate at which the Reserve Bank of India absorbs liquidity from banks?",
+  "qHi": "निम्नलिखित में से कौन सा शब्द उस ब्याज दर को संदर्भित करता है जिस पर भारतीय रिजर्व बैंक बैंकों से तरलता (liquidity) अवशोषित करता है?",
+  "optsEn": [
+   "Repo Rate",
+   "Reverse Repo Rate",
+   "Bank Rate",
+   "Prime Lending Rate"
+  ],
+  "optsHi": [
+   "रेपो दर (Repo Rate)",
+   "रिवर्स रेपो दर (Reverse Repo Rate)",
+   "बैंक दर (Bank Rate)",
+   "प्रमुख ऋण दर (Prime Lending Rate)"
+  ],
+  "correct": 1,
+  "explainEn": "Reverse Repo Rate is the rate at which RBI borrows money from commercial banks or absorbs liquidity.",
+  "sourceHint": "RBI Monetary Policy Reports",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:43:37Z"
+ },
+ {
+  "id": "q_c9c461e8cc47c759",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the full form of 'NEFT' in the context of electronic fund transfers in India?",
+  "qHi": "भारत में इलेक्ट्रॉनिक फंड ट्रांसफर के संदर्भ में 'NEFT' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "National Electronic Fund Transfer",
+   "Net Economic Financial Transfer",
+   "National Equity Finance Term",
+   "New Electronic Financial Transaction"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड ट्रांसफर (National Electronic Fund Transfer)",
+   "नेट इकोनॉमिक फाइनेंशियल ट्रांसफर (Net Economic Financial Transfer)",
+   "नेशनल इक्विटी फाइनेंस टर्म (National Equity Finance Term)",
+   "न्यू इलेक्ट्रॉनिक फाइनेंशियल ट्रांजैक्शन (New Electronic Financial Transaction)"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Fund Transfer, a nation-wide payment system facilitating one-to-one funds transfer.",
+  "sourceHint": "RBI Payment Systems",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:43:37Z"
+ },
+ {
+  "id": "q_0d755b821f558693",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of banking cards, what does the 'CVV' number on a debit or credit card stand for?",
+  "qHi": "बैंकिंग कार्ड के संदर्भ में, डेबिट या क्रेडिट कार्ड पर 'CVV' नंबर का क्या अर्थ है?",
+  "optsEn": [
+   "Card Verification Value",
+   "Customer Validation Voucher",
+   "Credit Verification Variable",
+   "Card Validity Verification"
+  ],
+  "optsHi": [
+   "कार्ड वेरिफिकेशन वैल्यू (Card Verification Value)",
+   "कस्टमर वैलिडेशन वाउचर (Customer Validation Voucher)",
+   "क्रेडिट वेरिफिकेशन वेरिएबल (Credit Verification Variable)",
+   "कार्ड वैलिडिटी वेरिफिकेशन (Card Validity Verification)"
+  ],
+  "correct": 0,
+  "explainEn": "CVV stands for Card Verification Value, a security feature for card not present transactions.",
+  "sourceHint": "NPCI and Banking Security Standards",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:43:37Z"
+ },
+ {
+  "id": "q_a77122ed6e4bc6bb",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which money market instrument is also known as a zero-coupon bond issued by the Reserve Bank of India on behalf of the Central Government?",
+  "qHi": "केंद्र सरकार की ओर से भारतीय रिजर्व बैंक द्वारा जारी किए जाने वाले किस मुद्रा बाजार साधन को ज़ूरो-कूपन बॉन्ड (zero-coupon bond) भी कहा जाता है?",
+  "optsEn": [
+   "Certificate of Deposit",
+   "Commercial Paper",
+   "Treasury Bill",
+   "Promissory Note"
+  ],
+  "optsHi": [
+   "प्रमाण पत्र जमा (Certificate of Deposit)",
+   "वाणिज्यिक पत्र (Commercial Paper)",
+   "Treasury Bill (राजकोषीय बिल)",
+   "वचन पत्र (Promissory Note)"
+  ],
+  "correct": 2,
+  "explainEn": "Treasury Bills are short-term money market instruments issued at a discount and redeemed at face value, acting as zero-coupon bonds.",
+  "sourceHint": "RBI Handbook of Statistics on Indian Economy",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:43:37Z"
+ },
+ {
+  "id": "q_396fba6cbf7c9199",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does 'M' stand for in the monetary aggregate measure 'M3' used by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा प्रयुक्त मौद्रिक समग्र माप 'M3' में 'M' का क्या तात्पर्य है?",
+  "optsEn": [
+   "Monetary",
+   "Market",
+   "Minimum",
+   "Multiplier"
+  ],
+  "optsHi": [
+   "मौद्रिक (Monetary)",
+   "बाजार (Market)",
+   "न्यूनतम (Minimum)",
+   "गुणक (Multiplier)"
+  ],
+  "correct": 0,
+  "explainEn": "M1, M2, M3, and M4 are measures of money supply where M stands for Monetary aggregates.",
+  "sourceHint": "RBI Bulletin and Economic Textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:43:37Z"
+ },
+ {
+  "id": "q_e18f8007ccae0ce2",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following bodies in India is statutorily mandated to submit a report to the Central Government on the trend and progress of banking in India annually?",
+  "qHi": "भारत में निम्नलिखित में से किस निकाय को वैधानिक रूप से भारत में बैंकिंग की प्रवृत्ति और प्रगति पर केंद्र सरकार को सालाना रिपोर्ट प्रस्तुत करने का आदेश दिया गया है?",
+  "optsEn": [
+   "Securities and Exchange Board of India",
+   "Reserve Bank of India",
+   "National Bank for Agriculture and Rural Development",
+   "NITI Aayog"
+  ],
+  "optsHi": [
+   "भारतीय प्रतिभूति and विनिमय बोर्ड",
+   "भारतीय रिजर्व बैंक",
+   "राष्ट्रीय कृषि and ग्रामीण विकास बैंक",
+   "नीति आयोग"
+  ],
+  "correct": 1,
+  "explainEn": "Under Section 36(2) of the Banking Regulation Act, 1949, the Reserve Bank of India is required to submit an annual report on the trend and progress of banking in India to the Central Government.",
+  "sourceHint": "Banking Regulation Act, 1949 / RBI official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:44:51Z"
+ },
+ {
+  "id": "q_9cff08f3a136908c",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary purpose of the Marginal Cost of Funds based Lending Rate (MCLR) introduced by the RBI for commercial banks?",
+  "qHi": "वाणिज्यिक बैंकों के लिए आरबीआई द्वारा शुरू की गई फंड-आधारित उधार दर की सीमांत लागत (MCLR) का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To determine the minimum capital adequacy ratio for foreign banks",
+   "To improve the transmission of policy rates to lending rates of banks",
+   "To regulate the foreign exchange reserves held by scheduled banks",
+   "To calculate the statutory liquidity ratio for cooperative banks"
+  ],
+  "optsHi": [
+   "विदेशी बैंकों के लिए न्यूनतम पूंजी पर्याप्तता अनुपात निर्धारित करना",
+   "बैंकों की उधार दरों तक नीतिगत दरों के संचरण میں सुधार करना",
+   "अनुसूचित बैंकों द्वारा रखे गए विदेशी मुद्रा भंडार को विनियमित करना",
+   "सहकारी बैंकों के लिए वैधानिक तरलता अनुपात की गणना करना"
+  ],
+  "correct": 1,
+  "explainEn": "MCLR was introduced to improve the transmission of policy rates (like the repo rate) to the actual lending rates offered to borrowers by commercial banks.",
+  "sourceHint": "RBI Master Directions on Interest Rate on Advances",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:44:51Z"
+ },
+ {
+  "id": "q_8c438186ef36276b",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian financial markets, what does the term 'Sweeping' refer to in cash management services?",
+  "qHi": "भारतीय वित्तीय बाजारों کے ಸಂದرب में, नकद प्रबंधन सेवाओं میں 'स्वीपिंग' शब्द का क्या अर्थ है?",
+  "optsEn": [
+   "Transferring funds automatically between a subsidiary account and a master account to optimize interest",
+   "Liquidating distressed assets of a corporate borrower through a court-appointed receiver",
+   "Clearing all pending inter-bank transactions at the end of every working day",
+   "Writing off non-performing assets from the balance sheet of a public sector bank"
+  ],
+  "optsHi": [
+   "ब्याज को अनुकूलित करने के लिए सहायक खाते and मास्टर खाते के बीच स्वचालित रूप से धन स्थानांतरित करना",
+   "अदालत द्वारा नियुक्त रिसीवर के माध्यम से कॉर्पोरेट उधारकर्ता की संकटग्रस्त संपत्तियों को बेचना",
+   "हर कार्य दिवस کے अंत میں تمام लंबित अंतर-बैंक लेनदेन को साफ़ करना",
+   "सार्वजनिक क्षेत्र के बैंक की बैलेंस शीट سے गैर-निष्पादित परिसंपत्तियों को बट्टे खाते में डालना"
+  ],
+  "correct": 0,
+  "explainEn": "Account sweeping refers to the automated transfer of funds between linked bank accounts, typically from multiple subsidiary accounts to a main concentration account, to optimize liquidity and interest earnings.",
+  "sourceHint": "RBI publications on Cash Management Services",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:44:51Z"
+ },
+ {
+  "id": "q_8fc3799ef057ae89",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following instruments represents an unsecured money market instrument issued in the form of a promissory note?",
+  "qHi": "निम्नलिखित में से कौन सा साधन वचन पत्र के रूप में जारी एक असुरक्षित मुद्रा बाजार साधन का प्रतिनिधित्व करता है?",
+  "optsEn": [
+   "Treasury Bills",
+   "Certificate of Deposit",
+   "Commercial Paper",
+   "Cash Management Bills"
+  ],
+  "optsHi": [
+   "राजकोषीय बिल",
+   "जमा प्रमाणपत्र",
+   "वाणिज्यिक पत्र",
+   "नकद प्रबंधन बिल"
+  ],
+  "correct": 2,
+  "explainEn": "Commercial Paper (CP) is an unsecured money market instrument issued in the form of a promissory note, introduced in India in 1990 on the recommendation of the Vaghul Working Group.",
+  "sourceHint": "RBI guidelines on Money Market Instruments",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:44:51Z"
+ },
+ {
+  "id": "q_9230e8b19030f148",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under Basel III norms, what does the Tier 1 Capital primarily consist of?",
+  "qHi": "बेसल III मानदंडों के तहत, टियर 1 पूंजी में मुख्य रूप से क्या शामिल है?",
+  "optsEn": [
+   "Subordinated term debt and revaluation reserves",
+   "Common Equity Tier 1 and qualifying Additional Tier 1 capital",
+   "General provisions and loss reserves on standard assets",
+   "Short-term unsecured borrowings from the inter-bank market"
+  ],
+  "optsHi": [
+   "अधीनस्थ अवधि का ऋण and पुनर्मूल्यांकन भंडार",
+   "सामान्य इक्विटी टियर 1 and अर्हक अतिरिक्त टियर 1 पूंजी",
+   "मानक परिसंपत्तियों पर सामान्य प्रावधान and हानि भंडार",
+   "अंतर-बैंक बाजार से अल्पकालिक असुरक्षित उधार"
+  ],
+  "correct": 1,
+  "explainEn": "Under Basel III, Tier 1 Capital is composed of Common Equity Tier 1 (CET1) capital and Additional Tier 1 (AT1) capital, which provide the highest quality of loss absorption.",
+  "sourceHint": "RBI Guidelines on Basel III Capital Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:44:51Z"
+ },
+ {
+  "id": "q_df513887e9a6d738",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary function of a Credit Information Company (CIC) operating in India under the Credit Information Companies (Regulation) Act, 2005?",
+  "qHi": "क्रेडिट सूचना कंपनियां (विनियमन) अधिनियम, 2005 کے तहत भारत میں संचालित क्रेडिट सूचना कंपनी (CIC) का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "To provide direct retail loans to unbanked rural populations",
+   "To collect, maintain, and share data on credit history of borrowers with member institutions",
+   "To act as a central clearing house for all government securities transactions",
+   "To fix the statutory liquidity ratio for non-banking financial companies"
+  ],
+  "optsHi": [
+   "अबैंक ग्रामीण आबादी को प्रत्यक्ष खुदरा ऋण प्रदान करना",
+   "सदस्य संस्थानों के साथ उधारकर्ताओं के क्रेडिट इतिहास पर डेटा एकत्र करना, बनाए रखना and साझा करना",
+   "सभी सरकारी प्रतिभूतियों کے लेनदेन के लिए एक केंद्रीय निकासी गृह के रूप में कार्य करना",
+   "गैर-बैंकिंग वित्तीय कंपनियों के लिए वैधानिक तरलता अनुपात तय करना"
+  ],
+  "correct": 1,
+  "explainEn": "A Credit Information Company (such as CIBIL, Experian) is licensed to collect trade and credit data regarding borrowers and furnish credit information reports to subscribed members.",
+  "sourceHint": "Credit Information Companies (Regulation) Act, 2005",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:44:51Z"
+ },
+ {
+  "id": "q_b026080d250e35ea",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of foreign exchange reserves in India, which of the following is NOT included by the Reserve Bank of India in its published data?",
+  "qHi": "भारत में विदेशी मुद्रा भंडार के संदर्भ में, निम्नलिखित में से किसे भारतीय रिजर्व बैंक द्वारा अपने प्रकाशित डेटा में शामिल नहीं किया जाता है?",
+  "optsEn": [
+   "Foreign Currency Assets",
+   "Gold",
+   "Special Drawing Rights",
+   "Foreign institutional investor equity holdings in domestic stock exchanges"
+  ],
+  "optsHi": [
+   "विदेशी मुद्रा संपत्ति",
+   "सोना",
+   "विशेष आहरण अधिकार",
+   "घरेलू स्टॉक एक्सचेंजों में विदेशी संस्थागत निवेशक की इक्विटी होल्डिंग"
+  ],
+  "correct": 3,
+  "explainEn": "India's foreign exchange reserves comprise Foreign Currency Assets (FCAs), Gold, Special Drawing Rights (SDRs), and Reserve Tranche Position in the IMF. FII equity holdings are portfolio investments and are not part of the central bank's reserves.",
+  "sourceHint": "RBI Weekly Statistical Supplement",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:44:51Z"
+ },
+ {
+  "id": "q_97b4d40f1b01656f",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which institutional mechanism in India was established to act as a provider of last resort for microfinance institutions and small-scale lenders operating in the cooperative space?",
+  "qHi": "सहकारी क्षेत्र में काम کرنے والے सूक्ष्म वित्त संस्थानों and छोटे पैमाने के ऋणदाताओं کے लिए अंतिम उपाय के प्रदाता کے रूप में कार्य کرنے کے لیے भारत में कौन सा संस्थागत तंत्र स्थापित किया गया था?",
+  "optsEn": [
+   "Export-Import Bank of India",
+   "National Bank for Agriculture and Rural Development",
+   "Small Industries Development Bank of India",
+   "National Housing Bank"
+  ],
+  "optsHi": [
+   "भारतीय निर्यात-आयात बैंक",
+   "राष्ट्रीय कृषि and ग्रामीण विकास बैंक",
+   "भारतीय लघु उद्योग विकास बैंक",
+   "राष्ट्रीय आवास बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD was established in 1982 by an Act of Parliament to provide credit and other facilities for the promotion and development of agriculture, small-scale industries, cottage and village industries, and other rural crafts.",
+  "sourceHint": "NABARD Act, 1981 / RBI sector overview",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:44:51Z"
  }
 ]

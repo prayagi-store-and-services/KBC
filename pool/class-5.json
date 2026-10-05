@@ -3022,5 +3022,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-04T21:29:08Z"
+ },
+ {
+  "id": "q_64101d6af409f0e5",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a greenhouse gas found in the Earth's atmosphere?",
+  "qHi": "पृथ्वी کے वायुमंडल में पाई जाने वाली निम्नलिखित में से कौन सी ग्रीनहाउस गैस है?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Oxygen",
+   "Nitrogen",
+   "Argon"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "आर्गन"
+  ],
+  "correct": 0,
+  "explainEn": "Carbon dioxide is a major greenhouse gas that traps heat in the Earth's atmosphere.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:42:43Z"
+ },
+ {
+  "id": "q_fd3dc848ed060760",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which direction does the sunrise from?",
+  "qHi": "सूर्य किस दिशा से उगता है?",
+  "optsEn": [
+   "East",
+   "West",
+   "North",
+   "South"
+  ],
+  "optsHi": [
+   "पूर्व",
+   "पश्चिम",
+   "उत्तर",
+   "दक्षिण"
+  ],
+  "correct": 0,
+  "explainEn": "Due to the rotation of the Earth, the Sun always appears to rise in the east.",
+  "sourceHint": "NCERT Geography basics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:42:43Z"
+ },
+ {
+  "id": "q_379daf53c42ebc84",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which vitamin do we get mainly from sunlight?",
+  "qHi": "हमें मुख्य रूप से धूप से कौन सा विटामिन मिलता है?",
+  "optsEn": [
+   "Vitamin D",
+   "Vitamin A",
+   "Vitamin C",
+   "Vitamin K"
+  ],
+  "optsHi": [
+   "विटामिन डी",
+   "विटामिन ए",
+   "विटामिन सी",
+   "विटामिन के"
+  ],
+  "correct": 0,
+  "explainEn": "Sunlight helps the human body produce Vitamin D naturally.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:42:43Z"
+ },
+ {
+  "id": "q_68a143fdc82b48aa",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of plant is a mango tree?",
+  "qHi": "आम का पेड़ किस प्रकार का पौधा है?",
+  "optsEn": [
+   "Tree",
+   "Shrub",
+   "Herb",
+   "Climber"
+  ],
+  "optsHi": [
+   "पेड़",
+   "झाड़ी",
+   "जड़ी बूटी",
+   "क्लाइंबर"
+  ],
+  "correct": 0,
+  "explainEn": "A mango plant grows very tall with a hard, thick stem called a trunk, making it a tree.",
+  "sourceHint": "NCERT Class 3 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:42:43Z"
+ },
+ {
+  "id": "q_382b254b52ae1d4b",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organ in the human body pumps blood to all other parts?",
+  "qHi": "मानव शरीर का कौन सा अंग अन्य सभी भागों में रक्त पंप करता है?",
+  "optsEn": [
+   "Lungs",
+   "Heart",
+   "Kidney",
+   "Liver"
+  ],
+  "optsHi": [
+   "फेफड़े",
+   "हृदय",
+   "गुर्दा",
+   "यकृत"
+  ],
+  "correct": 1,
+  "explainEn": "The heart acts as a pump to circulate blood throughout the human body.",
+  "sourceHint": "NCERT Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:43:47Z"
+ },
+ {
+  "id": "q_f1931047fdb0b174",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Seed dispersal in the dandelion plant primarily takes place through which agent?",
+  "qHi": "डैंडेलियन पौधे में बीजों का प्रकीर्णन मुख्य रूप से किस माध्यम से होता है?",
+  "optsEn": [
+   "Water",
+   "Wind",
+   "Explosion",
+   "Animals"
+  ],
+  "optsHi": [
+   "जल",
+   "वायु",
+   "विस्फोट",
+   "जानवर"
+  ],
+  "correct": 1,
+  "explainEn": "Dandelion seeds have hair-like structures that help them float and travel long distances with the wind.",
+  "sourceHint": "NCERT Class 5 Environmental Studies (EVS) Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:43:47Z"
+ },
+ {
+  "id": "q_e3ab88ed08dbe192",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian grain is also known as ragi?",
+  "qHi": "किस पारंपरिक भारतीय अनाज को रागी के नाम से भी जाना जाता है?",
+  "optsEn": [
+   "Finger millet",
+   "Pearl millet",
+   "Sorghum",
+   "Maize"
+  ],
+  "optsHi": [
+   "मंडुआ",
+   "बाजरा",
+   "ज्वार",
+   "मक्का"
+  ],
+  "correct": 0,
+  "explainEn": "Ragi is commonly known as finger millet in English.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:43:47Z"
+ },
+ {
+  "id": "q_2e26aae628b63abe",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of map primarily shows physical features such as mountains, plateaus, and rivers?",
+  "qHi": "किस प्रकार का मानचित्र मुख्य रूप से पर्वत, पठार और नदियाँ जैसी भौतिक विशेषताओं को दर्शाता है?",
+  "optsEn": [
+   "Political map",
+   "Physical map",
+   "Thematic map",
+   "Road map"
+  ],
+  "optsHi": [
+   "राजनीतिक मानचित्र",
+   "भौतिक मानचित्र",
+   "थीम आधारित मानचित्र",
+   "सड़क मानचित्र"
+  ],
+  "correct": 1,
+  "explainEn": "Physical maps show natural features of the Earth like mountains, rivers, and plains.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 4 (Maps)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:43:47Z"
  }
 ]

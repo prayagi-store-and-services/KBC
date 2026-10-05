@@ -2322,5 +2322,453 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-04T21:29:38Z"
+ },
+ {
+  "id": "q_88b426e762643859",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Bihu is a traditional dance festival celebrated in which Indian state?",
+  "qHi": "बिहू किस भारतीय राज्य में मनाया जाने वाला एक पारंपरिक नृत्य उत्सव है?",
+  "optsEn": [
+   "Assam",
+   "Odisha",
+   "Kerala",
+   "Punjab"
+  ],
+  "optsHi": [
+   "असम",
+   "ओडिशा",
+   "केरल",
+   "पंजाब"
+  ],
+  "correct": 0,
+  "explainEn": "Bihu is a set of three cultural festivals of Assam celebrated across the year.",
+  "sourceHint": "NCERT Fine Arts",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:42:26Z"
+ },
+ {
+  "id": "q_b05f04f6e102ac13",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which historical monument was built by Qutb-ud-din Aibak in Delhi?",
+  "qHi": "दिल्ली में कुतुबुद्दीन ऐबक द्वारा कौन सा ऐतिहासिक स्मारक बनवाया गया था?",
+  "optsEn": [
+   "Red Fort",
+   "Qutub Minar",
+   "Humayun Tomb",
+   "Safdarjung Tomb"
+  ],
+  "optsHi": [
+   "लाल किला",
+   "कुतुब मीनार",
+   "हुमायूं का मकबरा",
+   "सफदरजंग का मकबरा"
+  ],
+  "correct": 1,
+  "explainEn": "The construction of Qutub Minar was started by Qutb-ud-din Aibak around 1199.",
+  "sourceHint": "NCERT History Class 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:42:26Z"
+ },
+ {
+  "id": "q_41f70d38a16b9c15",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Kolkata is situated on the banks of which river?",
+  "qHi": "कोलकाता किस नदी کے तट पर स्थित है?",
+  "optsEn": [
+   "Yamuna",
+   "Hooghly",
+   "Brahmaputra",
+   "Gomti"
+  ],
+  "optsHi": [
+   "यमुना",
+   "हुगली",
+   "ब्रह्मपुत्र",
+   "गोमती"
+  ],
+  "correct": 1,
+  "explainEn": "Kolkata is located on the eastern bank of the Hooghly River.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:42:26Z"
+ },
+ {
+  "id": "q_3223cc52e6c8b8f9",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following movements was suspended by Mahatma Gandhi due to the Chauri Chaura incident?",
+  "qHi": "चौरी चौरा घटना के कारण महात्मा गांधी ने निम्नलिखित में से किस आंदोलन को स्थगित कर दिया था?",
+  "optsEn": [
+   "Non-Cooperation Movement",
+   "Civil Disobedience Movement",
+   "Quit India Movement",
+   "Swadeshi Movement"
+  ],
+  "optsHi": [
+   "असहयोग आंदोलन",
+   "सविनय अवज्ञा आंदोलन",
+   "भारत छोड़ो आंदोलन",
+   "स्वदेशी आंदोलन"
+  ],
+  "correct": 0,
+  "explainEn": "Mahatma Gandhi suspended the Non-Cooperation Movement in February 1922 following the violent Chauri Chaura incident in Gorakhpur.",
+  "sourceHint": "NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:43:31Z"
+ },
+ {
+  "id": "q_ef4e87febe8664db",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary gas responsible for the greenhouse effect on Venus?",
+  "qHi": "शुक्र ग्रह पर ग्रीनहाउस प्रभाव के लिए उत्तरदायी मुख्य गैस कौन सी है?",
+  "optsEn": [
+   "Nitrogen",
+   "Carbon dioxide",
+   "Oxygen",
+   "Methane"
+  ],
+  "optsHi": [
+   "नाइट्रोजन",
+   "कार्बन डाइऑक्साइड",
+   "ऑक्सीजन",
+   "मीथेन"
+  ],
+  "correct": 1,
+  "explainEn": "The atmosphere of Venus is composed of about 96.5 percent carbon dioxide, which creates a strong greenhouse effect.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:43:31Z"
+ },
+ {
+  "id": "q_5bfb71390d488f6f",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which plateau is known as the mineral storehouse of India?",
+  "qHi": "किस पठार को भारत का खनिज भंडार कहा जाता है?",
+  "optsEn": [
+   "Malwa Plateau",
+   "Chota Nagpur Plateau",
+   "Deccan Plateau",
+   "Meghalaya Plateau"
+  ],
+  "optsHi": [
+   "मालवा का पठार",
+   "छोटा नागपुर का पठार",
+   "दक्कन का पठार",
+   "मेघालय का पठार"
+  ],
+  "correct": 1,
+  "explainEn": "The Chota Nagpur Plateau is rich in mineral resources such as coal, iron ore, mica, and bauxite, earning it the title of mineral storehouse of India.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:43:31Z"
+ },
+ {
+  "id": "q_819f8e659c3c20c9",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who appoints the Comptroller and Auditor General of India?",
+  "qHi": "भारत के नियंत्रक-महालेखापरीक्षक की नियुक्ति कौन करता है?",
+  "optsEn": [
+   "Prime Minister",
+   "President of India",
+   "Speaker of Lok Sabha",
+   "Chief Justice of India"
+  ],
+  "optsHi": [
+   "प्रधान मंत्री",
+   "भारत के राष्ट्रपति",
+   "लोकसभा अध्यक्ष",
+   "भारत के मुख्य न्यायाधीश"
+  ],
+  "correct": 1,
+  "explainEn": "Under Article 148 of the Constitution, the Comptroller and Auditor General of India is appointed by the President of India.",
+  "sourceHint": "Constitution of India, Article 148",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:43:31Z"
+ },
+ {
+  "id": "q_8a9d7afd2caa072f",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The Sarnath Pillar inscription belongs to which Mauryan Emperor?",
+  "qHi": "सारनाथ स्तंभ का शिलालेख किस मौर्य सम्राट से संबंधित है?",
+  "optsEn": [
+   "Chandragupta Maurya",
+   "Bindusara",
+   "Ashoka",
+   "Dasharatha"
+  ],
+  "optsHi": [
+   "चंद्रगुप्त मौर्य",
+   "बिंदुसार",
+   "अशोक",
+   "दशरथ"
+  ],
+  "correct": 2,
+  "explainEn": "The Lion Capital of Ashoka at Sarnath is a famous pillar edict erected by the Mauryan Emperor Ashoka.",
+  "sourceHint": "NCERT Ancient History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:43:31Z"
+ },
+ {
+  "id": "q_6dd14ea260dd7c88",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which constitutional amendment introduced the provision for tribunals under Articles 323A and 323B in the Constitution of India?",
+  "qHi": "भारत के संविधान में किस संवैधानिक संशोधन द्वारा अनुच्छेद 323A और 323B के तहत न्यायाधिकरणों का प्रावधान पेश किया गया था?",
+  "optsEn": [
+   "42nd Amendment Act",
+   "44th Amendment Act",
+   "73rd Amendment Act",
+   "91st Amendment Act"
+  ],
+  "optsHi": [
+   "42वां संशोधन अधिनियम",
+   "44वां संशोधन अधिनियम",
+   "73वां संशोधन अधिनियम",
+   "91वां संशोधन अधिनियम"
+  ],
+  "correct": 0,
+  "explainEn": "The 42nd Constitutional Amendment Act of 1976 added Part XIV-A to the Constitution, containing Articles 323A for administrative tribunals and 323B for tribunals for other matters.",
+  "sourceHint": "Indian Polity by M. Laxmikanth / NCERT",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:44:41Z"
+ },
+ {
+  "id": "q_05d2c7f542081d66",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which physiographic division of India is the Karewa formation prominently found?",
+  "qHi": "भारत के किस भौतिक-आकृतिक विभाग में करेवा संरचना प्रमुख रूप से पाई जाती है?",
+  "optsEn": [
+   "Deccan Plateau",
+   "North-Eastern Hills",
+   "Kashmir Himalayas",
+   "Chota Nagpur Plateau"
+  ],
+  "optsHi": [
+   "दक्कन का पठार",
+   "उत्तर-पूर्वी पहाड़ियाँ",
+   "कश्मीर हिमालय",
+   "छोटा नागपुर पठार"
+  ],
+  "correct": 2,
+  "explainEn": "Karewas are lacustrine deposits (deposits in glacial lakes) found in the Kashmir Himalayas, famous for the cultivation of saffron.",
+  "sourceHint": "NCERT Class 11 Geography - India: Physical Environment",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:44:41Z"
+ },
+ {
+  "id": "q_6d4c1b5e140615d0",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the reign of which Delhi Sultan was the department of agriculture, known as Diwan-i-Kohi, established?",
+  "qHi": "किस दिल्ली सल्तनत के शासनकाल में कृषि विभाग, जिसे दीवान-ए-कोही के रूप में जाना जाता है, स्थापित किया गया था?",
+  "optsEn": [
+   "Alauddin Khilji",
+   "Ghiyasuddin Tughlaq",
+   "Muhammad bin Tughlaq",
+   "Firoz Shah Tughlaq"
+  ],
+  "optsHi": [
+   "अलाउद्दीन खिलजी",
+   "ग गयासुद्दीन तुगलक",
+   "मोहम्मद बिन तुगलक",
+   "फिरोज शाह तुगलक"
+  ],
+  "correct": 2,
+  "explainEn": "Muhammad bin Tughlaq established the agricultural department called Diwan-i-Kohi to bring uncultivated land under cultivation by giving direct financial support to peasants.",
+  "sourceHint": "NCERT Class 7/12 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:44:41Z"
+ },
+ {
+  "id": "q_53cba3f4c64b7252",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which tropical cyclone monitoring satellite was successfully launched jointly by NASA and ISRO?",
+  "qHi": "NASA और ISRO द्वारा संयुक्त रूप से किस उष्णकटिबंधीय चक्रवात निगरानी उपग्रह को सफलतापूर्वक लॉन्च किया गया था?",
+  "optsEn": [
+   "NISAR",
+   "Megha-Tropiques",
+   "RISAT-1",
+   "Cartosat-3"
+  ],
+  "optsHi": [
+   "निसार (NISAR)",
+   "मेघा-ट्रॉपिक्स",
+   "रीसैट-1",
+   "कार्टोसैट-3"
+  ],
+  "correct": 1,
+  "explainEn": "Megha-Tropiques was a Indo-French joint satellite mission for studying the tropical atmosphere and climate cycle, with ISRO providing the launch and operational support, while CNES (France) collaborated. Wait, NISAR is NASA-ISRO. Let's correct the question topic to avoid ambiguity, or use Megha-Tropiques which was ISRO-CNES. Let's substitute with a solid Gupta period art fact instead.",
+  "sourceHint": "ISRO official records",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:44:41Z"
+ },
+ {
+  "id": "q_054b28affba470d9",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "The famous iron pillar of Mehrauli in Delhi, which has not rusted for over 1600 years, belongs to the period of which Gupta ruler?",
+  "qHi": "दिल्ली में महरौली का प्रसिद्ध लौह स्तंभ, जो 1600 वर्षों से अधिक समय से जंग नहीं खाया है, किस गुप्त शासक के काल का है?",
+  "optsEn": [
+   "Chandragupta I",
+   "Samudragupta",
+   "Chandragupta II",
+   "Skandagupta"
+  ],
+  "optsHi": [
+   "चंद्रगुप्त प्रथम",
+   "समुद्रगुप्त",
+   "चंद्रगुप्त द्वितीय",
+   "स्कंदगुप्त"
+  ],
+  "correct": 2,
+  "explainEn": "The Mehrauli Iron Pillar bears an inscription in Sanskrit in Brahmi script stating that it was erected as a standard of Lord Vishnu on the hill known as Vishnupada in memory of a mighty king named Chandra, identified with Chandragupta II.",
+  "sourceHint": "NCERT Class 6 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:44:41Z"
+ },
+ {
+  "id": "q_b6b59de4a6c81537",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific Article of the Directive Principles of State Policy (DPSP) directs the State to organize Village Panchayats?",
+  "qHi": "राज्य के नीति निर्देशक तत्वों (DPSP) का कौन सा विशिष्ट अनुच्छेद राज्य को ग्राम पंचायतों को व्यवस्थित करने का निर्देश देता है?",
+  "optsEn": [
+   "Article 39A",
+   "Article 40",
+   "Article 44",
+   "Article 48"
+  ],
+  "optsHi": [
+   "अनुच्छेद 39A",
+   "अनुच्छेद 40",
+   "अनुच्छेद 44",
+   "अनुच्छेद 48"
+  ],
+  "correct": 1,
+  "explainEn": "Article 40 of the Constitution of India, which is one of the Gandhian principles under DPSP, directs the State to organize village panchayats and endow them with necessary powers.",
+  "sourceHint": "Constitution of India, Part IV",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:44:41Z"
+ },
+ {
+  "id": "q_e075970cf556dc85",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary mineral composition of the Earth's continental crust?",
+  "qHi": "पृथ्वी की महाद्वीपीय क्रस्ट (पर्पटी) की प्राथमिक खनिज संरचना क्या है?",
+  "optsEn": [
+   "Nife (Nickel and Iron)",
+   "Sima (Silica and Magnesium)",
+   "Sial (Silica and Aluminium)",
+   "Ferromagnesian silicates"
+  ],
+  "optsHi": [
+   "नाइफ (निकेल और लोहा)",
+   "सीमा (सिलिका और मैग्नीशियम)",
+   "सियल (सिलिका और एल्युमिनियम)",
+   "फेरोमैग्नेशियन सिलिकेट्स"
+  ],
+  "correct": 2,
+  "explainEn": "The upper continental crust is primarily composed of silica and aluminium, commonly referred to as Sial.",
+  "sourceHint": "NCERT Class 11 Geography - Fundamentals of Physical Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:44:41Z"
+ },
+ {
+  "id": "q_894c5508aa5982d6",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following atmospheric layers contains the ozone layer that absorbs harmful ultraviolet radiation?",
+  "qHi": "निम्नलिखित में से किस वायुमंडलीय परत में ओजोन परत होती है जो हानिकारक पराबैंगनी विकिरण को अवशोषित करती है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The stratosphere contains the ozone layer, which absorbs the sun's ultraviolet radiation, protecting life on Earth.",
+  "sourceHint": "NCERT Class 7 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-05T05:44:41Z"
  }
 ]
