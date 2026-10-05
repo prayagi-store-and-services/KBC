@@ -30,10 +30,10 @@ setInterval(function(){document.getElementById("clock").textContent=new Date().t
 function el(h){var d=document.createElement("div");d.innerHTML=h;return d}
 function esc(t){return String(t).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
 function menu(msg){
- var h='<div class="card"><h2>KBC Web</h2><p class="sub">17 questions, easy to hard. Pick your group and language.</p>'+(msg?'<p>'+esc(msg)+'</p>':'')+
+ var h='<div class="card"><h2>KBC Web</h2><p class="sub">17 questions, easy to hard. Sound and voice need a tap to start; if your browser blocks them they show as Unavailable. Pick your group and language.</p>'+(msg?'<p>'+esc(msg)+'</p>':'')+
  '<label>Group</label><select id="g">'+Object.keys(GROUPS).map(function(k){return'<option value="'+k+'">'+GROUPS[k]+'</option>'}).join("")+'</select>'+
  '<label>Language</label><select id="l"><option value="en">English</option><option value="hi">Hindi</option></select>'+
- '<p class="sub">On a computer: press A, B, C or D to answer and N or Enter for the next question. Questions you already saw on this device are not shown again (stored only in this browser).</p><button id="go">Start game</button></div>';
+ '<p class="sub">Each question is timed like the app: 60 s for questions 1-5, 120 s for 6-10, no limit after that. The question and options are read aloud and there are suspense sounds (you can switch both off in the game). Tap an option, then press Lock answer. On a computer: press A, B, C or D to choose, Enter or L to lock, N or Enter for the next question. Questions you already saw on this device are not shown again (stored only in this browser).</p><button id="go">Start game</button></div>';
  app.innerHTML=h;document.getElementById("l").value=lang;
  document.getElementById("go").onclick=function(){lang=document.getElementById("l").value;localStorage.setItem("kbcw_lang",lang);start(document.getElementById("g").value)}}
 function start(g){
@@ -44,31 +44,89 @@ function start(g){
    c.sort(function(){return Math.random()-.5});if(c.length<b[1])short.push(b[0]);pick=pick.concat(c.slice(0,b[1]));spare[b[0]]=c.slice(b[1],b[1]+2)});
   if(short.length){menu("Not enough new questions left for this group ("+short.join(", ")+"). Choose another group. Unavailable: more questions arrive as the pool grows.");return}
   S={g:g,q:pick,i:0,spare:spare,fifty:true,flip:true};show()}).catch(function(){app.innerHTML='<div class="card">Question bank: Unavailable right now (could not load). Try again later.</div>'})}
+var SND={on:localStorage.getItem("kbcw_snd")!=="0"},VOX={on:localStorage.getItem("kbcw_vox")!=="0",ok:("speechSynthesis" in window)},AC=null,TM={id:0,pulse:0};
+function ac(){if(!AC){var C=window.AudioContext||window.webkitAudioContext;if(!C)return null;try{AC=new C()}catch(e){return null}}if(AC.state==="suspended"){try{AC.resume()}catch(e){}}return AC}
+function tone(f,ms,vol,type,delay){if(!SND.on)return;var c=ac();if(!c)return;try{var o=c.createOscillator(),g=c.createGain(),t=c.currentTime+(delay||0)/1000;o.type=type||"sine";o.frequency.value=f;g.gain.setValueAtTime(0.0001,t);g.gain.exponentialRampToValueAtTime(Math.max(vol,0.0002),t+0.01);g.gain.exponentialRampToValueAtTime(0.0001,t+ms/1000);o.connect(g);g.connect(c.destination);o.start(t);o.stop(t+ms/1000+0.03)}catch(e){}}
+function sfx(n){
+ if(n==="sel")tone(520,80,.15,"sine");
+ else if(n==="lock"){tone(110,1400,.25,"sawtooth");tone(165,1400,.12,"sine");tone(55,1400,.3,"sine")}
+ else if(n==="ok"){[523,659,784,1047].forEach(function(f,k){tone(f,420,.2,"triangle",k*140)})}
+ else if(n==="bad"){tone(130,500,.3,"sawtooth");tone(90,700,.3,"square",160)}
+ else if(n==="fifty"){[900,700,500,350].forEach(function(f,k){tone(f,90,.15,"sine",k*60)})}
+ else if(n==="flip"){tone(400,80,.15,"triangle");tone(600,80,.15,"triangle",90);tone(800,120,.15,"triangle",180)}
+ else if(n==="time"){tone(200,300,.3,"square");tone(150,500,.3,"square",320)}}
+function stopPressure(){if(TM.pulse){clearTimeout(TM.pulse);TM.pulse=0}}
+function pressure(){
+ stopPressure();
+ function p(){if(!S||S.locked||S.over)return;var u=0,iv=1400,v=.14;
+  if(S.limit){var r=Math.max(0,Math.min(1,(S.deadline-Date.now())/(S.limit*1000)));u=1-r;iv=1000-u*650;v=.3+u*.28}
+  tone(65+u*45,90+u*40,v,"sine");setTimeout(function(){tone(750+u*400,25,.18+u*.3,"square")},40);
+  TM.pulse=setTimeout(p,iv)}
+ p()}
+function stopTimer(){if(TM.id){clearInterval(TM.id);TM.id=0}stopPressure()}
+function stopVox(){if(VOX.ok){try{window.speechSynthesis.cancel()}catch(e){}}}
+function say(t,calm){if(!VOX.ok||!VOX.on||!t)return;try{var u=new SpeechSynthesisUtterance(t);u.lang=lang==="hi"?"hi-IN":"en-IN";u.rate=calm?0.9:1;var vs=window.speechSynthesis.getVoices(),pre=lang==="hi"?"hi":"en";for(var k=0;k<vs.length;k++){if(vs[k].lang&&vs[k].lang.toLowerCase().indexOf(pre)===0){u.voice=vs[k];break}}window.speechSynthesis.speak(u)}catch(e){}}
+function limitFor(n){return n<=5?60:n<=10?120:null}
+function bar(){
+ return '<div class="sub" style="display:flex;gap:10px;flex-wrap:wrap;align-items:center"><button class="sec" id="snd" style="padding:6px 10px;font-size:14px">Sound: '+(SND.on?"on":"off")+'</button>'+
+ (VOX.ok?'<button class="sec" id="vox" style="padding:6px 10px;font-size:14px">Voice: '+(VOX.on?"on":"off")+'</button>':'<span>Voice: Unavailable in this browser</span>')+'</div>'}
+function wireBar(){
+ var a=document.getElementById("snd"),b=document.getElementById("vox");
+ if(a)a.onclick=function(){SND.on=!SND.on;localStorage.setItem("kbcw_snd",SND.on?"1":"0");a.textContent="Sound: "+(SND.on?"on":"off");if(!SND.on)stopPressure();else if(S&&!S.locked&&!S.over)pressure()};
+ if(b)b.onclick=function(){VOX.on=!VOX.on;localStorage.setItem("kbcw_vox",VOX.on?"1":"0");b.textContent="Voice: "+(VOX.on?"on":"off");if(!VOX.on)stopVox()}}
 function show(){
+ stopTimer();stopVox();
  var q=S.q[S.i],o=lang==="hi"&&q.optsHi?q.optsHi:q.optsEn,t=lang==="hi"&&q.qHi?q.qHi:q.qEn,lad="";
+ S.sel=null;S.locked=false;S.over=false;S.gone={};S.limit=limitFor(S.i+1);S.deadline=S.limit?Date.now()+S.limit*1000:0;
  for(var i=0;i<S.q.length;i++)lad+='<i class="'+(i<S.i?"done":i===S.i?"on":"")+'">'+(i+1)+'</i>';
- app.innerHTML='<div class="card"><div class="lad">'+lad+'</div><p class="sub">Question '+(S.i+1)+' of '+S.q.length+' - '+q.band+'</p><h3>'+esc(t)+'</h3><div id="o"></div><div id="ll"></div><div id="fb"></div></div><button class="sec" id="quit">Quit</button>';
+ app.innerHTML='<div class="card"><div class="lad">'+lad+'</div><p class="sub">Question '+(S.i+1)+' of '+S.q.length+' - '+q.band+'</p><p id="tm" style="font-weight:700;font-size:20px"></p><h3>'+esc(t)+'</h3><div id="o"></div><button id="lk" disabled>Lock answer</button><div id="ll"></div><div id="fb"></div></div>'+bar()+'<button class="sec" id="quit" style="margin-top:10px">Quit</button>';
+ wireBar();
  var box=document.getElementById("o");
- o.forEach(function(x,idx){var b=document.createElement("button");b.className="opt";b.textContent=String.fromCharCode(65+idx)+". "+x;b.onclick=function(){answer(idx,box)};box.appendChild(b)});
- lifelines(box);document.getElementById("quit").onclick=function(){end("You quit after "+S.i+" correct answer(s).")}}
+ o.forEach(function(x,idx){var b=document.createElement("button");b.className="opt";b.textContent=String.fromCharCode(65+idx)+". "+x;b.onclick=function(){pick(idx,box)};box.appendChild(b)});
+ document.getElementById("lk").onclick=function(){lockIn(box)};
+ lifelines(box);document.getElementById("quit").onclick=function(){stopTimer();stopVox();S.over=true;end("You quit after "+S.i+" correct answer(s).")};
+ var tm=document.getElementById("tm");
+ function tick(){if(S.locked||S.over){return}if(!S.limit){tm.textContent="No time limit on this question";return}
+  var r=Math.max(0,Math.ceil((S.deadline-Date.now())/1000));tm.textContent="Time left: "+r+" s";tm.style.color=r<=10?"#ff6b5b":"";if(r<=0)timeUp(box)}
+ tick();TM.id=setInterval(tick,250);pressure();
+ say(t+". "+o.map(function(x,k){return String.fromCharCode(65+k)+". "+x}).join(". "))}
+function pick(i,box){
+ if(S.locked||S.over||S.gone[i])return;S.sel=i;sfx("sel");
+ box.querySelectorAll("button").forEach(function(b,k){b.classList.toggle("sel",k===i);b.style.outline=k===i?"3px solid #f2b705":""});
+ document.getElementById("lk").disabled=false}
+function lockIn(box){
+ if(S.locked||S.over||S.sel===null)return;
+ S.locked=true;stopTimer();stopVox();sfx("lock");
+ var bs=box.querySelectorAll("button");bs.forEach(function(b){b.disabled=true});
+ document.getElementById("lk").disabled=true;document.getElementById("tm").textContent="Locked. Checking...";
+ setTimeout(function(){reveal(S.sel,box,false)},2200)}
+function timeUp(box){
+ if(S.locked||S.over)return;S.locked=true;stopTimer();stopVox();
+ box.querySelectorAll("button").forEach(function(b){b.disabled=true});document.getElementById("lk").disabled=true;
+ reveal(-1,box,true)}
+function reveal(i,box,timeout){
+ var q=S.q[S.i],bs=box.querySelectorAll("button");markSeen(q.id);S.over=true;
+ bs.forEach(function(b,k){b.disabled=true;b.style.outline="";if(k===q.correct)b.className="opt ok";else if(k===i)b.className="opt bad"});
+ var fb=document.getElementById("fb"),ok=i===q.correct,L=String.fromCharCode(65+q.correct),last=S.i>=S.q.length-1;
+ document.getElementById("tm").textContent=timeout?"Time is up":"";
+ sfx(timeout?"time":ok?"ok":"bad");
+ var exp=(lang==="hi"&&q.explainHi)?q.explainHi:q.explainEn;
+ fb.innerHTML='<p><b>'+(ok?"Correct!":(timeout?"Time up. ":"Wrong. ")+"Correct answer: "+L)+'</b></p>'+(exp?'<p class="sub">'+esc(exp)+'</p>':"")+'<button id="nx">'+(ok&&!last?"Next question":"Finish")+'</button>';
+ setTimeout(function(){say(ok?(lang==="hi"?"सही जवाब":"Correct answer"):((timeout?(lang==="hi"?"समय समाप्त. ":"Time is up. "):(lang==="hi"?"गलत जवाब. ":"Wrong answer. "))+(lang==="hi"?"सही उत्तर ":"The correct answer is ")+L+". "+(q.explainEn&&lang!=="hi"?q.explainEn:"")),!ok)},900);
+ document.getElementById("nx").onclick=function(){stopVox();if(ok&&!last){S.i++;show()}else end(ok?"You answered all "+S.q.length+" questions correctly!":"Game over. You answered "+S.i+" correctly.")}}
 function lifelines(box){
  var ll=document.getElementById("ll"),q=S.q[S.i];
  var a=document.createElement("button");a.className="sec";a.textContent="50-50";a.disabled=!S.fifty;
- a.onclick=function(){S.fifty=false;var w=[0,1,2,3].filter(function(k){return k!==q.correct}).sort(function(){return Math.random()-.5}).slice(0,2);
-  box.querySelectorAll("button").forEach(function(b,k){if(w.indexOf(k)>=0){b.disabled=true;b.style.opacity=".3"}});a.disabled=true};
+ a.onclick=function(){if(S.locked||S.over)return;S.fifty=false;sfx("fifty");var w=[0,1,2,3].filter(function(k){return k!==q.correct}).sort(function(){return Math.random()-.5}).slice(0,2);
+  box.querySelectorAll("button").forEach(function(b,k){if(w.indexOf(k)>=0){S.gone[k]=true;b.disabled=true;b.style.opacity=".3";if(S.sel===k){S.sel=null;b.style.outline="";document.getElementById("lk").disabled=true}}});a.disabled=true};
  var f=document.createElement("button");f.className="sec";f.style.marginLeft="8px";var sp=S.spare[q.band]||[];f.textContent="Flip question";f.disabled=!S.flip||!sp.length;
- f.onclick=function(){S.flip=false;S.q[S.i]=sp.shift();show()};
+ f.onclick=function(){if(S.locked||S.over)return;S.flip=false;sfx("flip");S.q[S.i]=sp.shift();show()};
  ll.appendChild(a);ll.appendChild(f);
  var n=document.createElement("p");n.className="sub";n.textContent="Lifelines: 50-50 and Flip are real. Audience poll and Phone-a-friend are not offered because they would need invented data.";ll.appendChild(n)}
-function answer(i,box){
- var q=S.q[S.i],bs=box.querySelectorAll("button");markSeen(q.id);
- bs.forEach(function(b,k){b.disabled=true;if(k===q.correct)b.className="opt ok";else if(k===i)b.className="opt bad"});
- var fb=document.getElementById("fb"),ok=i===q.correct;
- fb.innerHTML='<p><b>'+(ok?"Correct!":"Wrong. Correct answer: "+String.fromCharCode(65+q.correct))+'</b></p>'+(q.explainEn?'<p class="sub">'+esc(q.explainEn)+'</p>':"")+'<button id="nx">'+(ok&&S.i<S.q.length-1?"Next question":"Finish")+'</button>';
- document.getElementById("nx").onclick=function(){if(ok&&S.i<S.q.length-1){S.i++;show()}else end(ok?"You answered all "+S.q.length+" questions correctly!":"Game over. You answered "+S.i+" correctly.")}}
-function end(m){app.innerHTML='<div class="card"><h2>'+esc(m)+'</h2><button id="again">Play again</button></div>';document.getElementById("again").onclick=function(){menu()}}
+function end(m){stopTimer();stopVox();S&&(S.over=true);app.innerHTML='<div class="card"><h2>'+esc(m)+'</h2><button id="again">Play again</button></div>';document.getElementById("again").onclick=function(){menu()}}
 document.addEventListener("keydown",function(e){if(e.ctrlKey||e.metaKey||e.altKey)return;var k=e.key.toLowerCase(),i="abcd".indexOf(k);
  if(i>=0&&k.length===1){var b=document.querySelectorAll("#o button.opt");if(b[i]&&!b[i].disabled)b[i].click()}
- else if(k==="n"||k==="enter"){var nx=document.getElementById("nx");if(nx)nx.click()}});
+ else if(k==="l"||k==="enter"){var nx=document.getElementById("nx");if(nx){nx.click()}else{var lk=document.getElementById("lk");if(lk&&!lk.disabled)lk.click()}}
+ else if(k==="n"){var nx2=document.getElementById("nx");if(nx2)nx2.click()}});
 menu();
 </script></body></html>
