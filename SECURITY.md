@@ -1,5 +1,9 @@
 # Security notes - KBC
 
+## Denied permissions no longer block the game (v1.1.10)
+- Before, a game would not start if Camera, Microphone or Notifications was missing. Now the game always starts. If Camera or Microphone is not allowed, only the anti-cheat part that needs it is off, and the game screen shows one line saying which permission is missing. A missing Notifications permission never blocks anything; it only means no reminders.
+- No new permission, library or network call. The Profile screen and the Permissions list still show each permission and its reason.
+
 ## UI cleanup, step 1 (v1.1.9)
 - The message shown when the saved questions are stale no longer mentions a "watchdog" or "game state error". It now says the questions could not be used and to start a new game. The rule behind it is unchanged.
 - No new permission, library or network call.
