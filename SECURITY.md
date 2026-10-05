@@ -63,3 +63,8 @@ After an in-app update installs, the app restarts and, on start, deletes every d
 - Stored on this phone only (local preferences): the last game's points, question reached, correct answers, end reason, time, and the best score. Nothing is sent anywhere. Note: KBC still has Android app backup on with sample rules (an owner question is open); this small file follows that setting.
 - No timer or background work: the app redraws the widget when a game ends.
 - No new permission, network call or library. The widget receiver is exported because Android's launcher must send it update events; it handles only that action. Tapping the widget opens the app.
+
+## Permissions list (version 1.1.5)
+
+- New "Permissions" card in Profile: lists each permission the app uses (Camera, Microphone, Notifications, Install apps, Internet), the plain reason, and the live status read from Android when you open the screen (no timer). Tapping a row opens the Android page for this app where you can allow or stop it. The older Grant buttons stay.
+- No new permission, network call or library.
