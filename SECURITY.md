@@ -51,3 +51,8 @@ After an in-app update installs, the app restarts and, on start, deletes every d
 
 ## Manual update check
 - Settings has a "Check for update" button. It reads the same latest.json as the automatic check, shows "You are on the latest version", "Update available: vX" or "Unavailable: could not check", and never installs anything without the user tapping Update and confirming in the Android installer. The file is still checked for size and SHA-256 first.
+
+## KBC Web link (version 1.1.3)
+
+- New Profile card "KBC Web" with a button that opens https://prayagi-store-and-services.github.io/KBC/play.html in the phone's browser. The app itself sends nothing and reads nothing for this; it only asks Android to open the address. If no browser exists it shows Unavailable.
+- No new permission, network call from the app, or library.
