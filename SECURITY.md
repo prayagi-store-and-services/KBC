@@ -1,5 +1,9 @@
 # Security notes - KBC
 
+## Update alert (v1.1.13)
+
+A background check every 6 hours reads the same public latest.json the in-app updater already uses and, when a newer version exists, shows one notification. Tapping it runs the existing verified download (size and SHA-256 checked) and opens the Android installer. Adds the AndroidX WorkManager library (2.10.0) where it was not already present. No new permission, server or stored personal data.
+
 ## Anti-cheat removed completely (v1.1.12)
 - The game no longer records or listens through the microphone, no longer shows a camera box, and no longer warns or disqualifies a player. The noise check, the 3-strike disqualification, the spoken warnings, the "Anti-cheat is off" line and the "disqualified" result screen are all gone from the code.
 - The app does not ask for Camera or Microphone now. The Profile screen has no Grant buttons for them. Camera will be asked only when the QR scan that links KBC with KBC Web ships. Microphone will be asked only when voice answers ship.
