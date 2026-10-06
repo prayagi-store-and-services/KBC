@@ -37,7 +37,7 @@ import org.robolectric.annotation.Config
 /**
  * Authoritative Test Suite for KBC Gameplay Rules:
  * 17 Definitive CUJ Tests covering TTS gating, answer locking, Padaav drop,
- * timeout handling, quit logic, lifecycle handling, security flags, and anti-cheating disqualification.
+ * timeout handling, quit logic, lifecycle handling, security flags.
  */
 @OptIn(ExperimentalCoroutinesApi::class)
 @RunWith(RobolectricTestRunner::class)
@@ -686,36 +686,6 @@ class KbcAuthoritativeGameRulesTest {
         val isSecure = (windowFlags and WindowManager.LayoutParams.FLAG_SECURE) != 0
 
         assertFalse("FLAG_SECURE must NOT be set on the Window", isSecure)
-    }
-
-    // ==========================================
-    // TEST 17: Anti-cheating disqualification -> 0 payout, void accounting, bank invalidated.
-    // ==========================================
-    @Test
-    fun `TEST 17 - Anti-cheating disqualification - 0 payout, void accounting, game disqualified`() {
-        val reason = "DISQUALIFIED"
-        val finalWinningAmount = if (reason == "DISQUALIFIED") 0L else 320000L
-        val securedAmount = if (reason == "DISQUALIFIED") 0L else 320000L
-
-        val result = GameSessionResult(
-            sessionId = "TS-DISQUALIFIED-TEST",
-            userName = "Cheater",
-            totalPointsWon = finalWinningAmount,
-            highestQuestionReached = 11,
-            isCompletedWon = false,
-            guaranteedPointsSecured = securedAmount,
-            reasonEnded = reason,
-            questionsAnsweredCount = 11,
-            correctCount = 10,
-            wrongCount = 1,
-            lifelinesUsedCount = 1,
-            averageResponseTimeSec = 9f,
-            logicAccuracyPercentage = 91
-        )
-
-        assertEquals("DISQUALIFIED", result.reasonEnded)
-        assertEquals(0L, result.totalPointsWon)
-        assertEquals(0L, result.guaranteedPointsSecured)
     }
 
     // ==========================================

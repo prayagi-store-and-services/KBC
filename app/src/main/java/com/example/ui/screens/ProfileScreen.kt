@@ -969,91 +969,11 @@ fun ProfileScreen(
 
                     // Privacy Disclosure Notice (Steps 79 & 80)
                     Text(
-                        text = "Camera and microphone access are required for the game's anti-cheating system. During an active game, the camera may be used to verify that the same participant remains in the session, while the microphone may be used to detect possible external verbal assistance. This monitoring is limited to active gameplay. Temporary anti-cheating media/data is deleted when the game/session ends, and it is not retained for unrelated purposes. Notification access is used to provide application notifications.",
+                        text = "Camera is used only to scan the QR code that links KBC with KBC Web (coming soon). Microphone is used only for voice answers (coming soon). The game does not watch or record you. Notification access is used to provide application notifications.",
                         color = TextSecondary,
                         fontSize = 11.sp,
                         lineHeight = 15.sp
                     )
-
-                    Spacer(modifier = Modifier.height(14.dp))
-
-                    // Camera Permission
-                    Row(
-                        modifier = Modifier.fillMaxWidth(),
-                        horizontalArrangement = Arrangement.SpaceBetween,
-                        verticalAlignment = Alignment.CenterVertically
-                    ) {
-                        Column(modifier = Modifier.weight(1f)) {
-                            Text(
-                                text = "कैमरा अनुमति (Camera Access)",
-                                color = TextPrimary,
-                                fontWeight = FontWeight.Bold,
-                                fontSize = 13.sp
-                            )
-                            Spacer(modifier = Modifier.height(2.dp))
-                            Text(
-                                text = "Required for profile verification and active-game anti-cheating monitoring.",
-                                color = TextSecondary,
-                                fontSize = 11.sp
-                            )
-                        }
-                        Spacer(modifier = Modifier.width(8.dp))
-                        Button(
-                            onClick = { cameraPermissionLauncher.launch(Manifest.permission.CAMERA) },
-                            modifier = Modifier.testTag("grant_camera_button"),
-                            colors = ButtonDefaults.buttonColors(
-                                containerColor = if (hasCameraPermission) SuccessGreen else GoldPrimary
-                            ),
-                            shape = RoundedCornerShape(8.dp)
-                        ) {
-                            Text(
-                                text = if (hasCameraPermission) "Granted ✓" else "Grant",
-                                color = NavyDeepest,
-                                fontSize = 12.sp,
-                                fontWeight = FontWeight.Bold
-                            )
-                        }
-                    }
-
-                    Spacer(modifier = Modifier.height(14.dp))
-
-                    // Microphone Permission
-                    Row(
-                        modifier = Modifier.fillMaxWidth(),
-                        horizontalArrangement = Arrangement.SpaceBetween,
-                        verticalAlignment = Alignment.CenterVertically
-                    ) {
-                        Column(modifier = Modifier.weight(1f)) {
-                            Text(
-                                text = "माइक्रोफोन अनुमति (Microphone Access)",
-                                color = TextPrimary,
-                                fontWeight = FontWeight.Bold,
-                                fontSize = 13.sp
-                            )
-                            Spacer(modifier = Modifier.height(2.dp))
-                            Text(
-                                text = "Required for anti-cheating audio verification during active gameplay.",
-                                color = TextSecondary,
-                                fontSize = 11.sp
-                            )
-                        }
-                        Spacer(modifier = Modifier.width(8.dp))
-                        Button(
-                            onClick = { microphonePermissionLauncher.launch(Manifest.permission.RECORD_AUDIO) },
-                            modifier = Modifier.testTag("grant_microphone_button"),
-                            colors = ButtonDefaults.buttonColors(
-                                containerColor = if (hasMicrophonePermission) SuccessGreen else GoldPrimary
-                            ),
-                            shape = RoundedCornerShape(8.dp)
-                        ) {
-                            Text(
-                                text = if (hasMicrophonePermission) "Granted ✓" else "Grant",
-                                color = NavyDeepest,
-                                fontSize = 12.sp,
-                                fontWeight = FontWeight.Bold
-                            )
-                        }
-                    }
 
                     Spacer(modifier = Modifier.height(14.dp))
 

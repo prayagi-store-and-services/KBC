@@ -140,7 +140,6 @@ fun QuizScreen(
     val isHi = mode == "HINDI" || mode == "HI"
     val userProfile by viewModel.userProfile.collectAsState()
     val isVoiceEnabled by viewModel.isVoiceNarrationEnabled.collectAsState()
-    val antiCheatNote by viewModel.antiCheatNote.collectAsState()
 
     val view = LocalView.current
     val context = LocalContext.current
@@ -210,15 +209,6 @@ fun QuizScreen(
             // ==========================================
             // TOP HUD (Header)
             // ==========================================
-            antiCheatNote?.let { denied ->
-                Text(
-                    text = if (isHi) "एंटी-चीट बंद है: $denied की अनुमति नहीं है" else "Anti-cheat is off: $denied not allowed",
-                    color = GoldGlow,
-                    fontSize = 12.sp,
-                    maxLines = 1,
-                    modifier = Modifier.fillMaxWidth().padding(horizontal = 12.dp, vertical = 2.dp)
-                )
-            }
             QuizHeaderHud(
                 currentQNumber = state.currentQNumber,
                 points = question.points,
@@ -391,102 +381,6 @@ fun QuizScreen(
                 }
 
                 Spacer(modifier = Modifier.height(8.dp))
-
-                // Transparent Camera & Audio Monitoring UI
-                Row(
-                    modifier = Modifier
-                        .fillMaxWidth()
-                        .padding(vertical = 4.dp),
-                    horizontalArrangement = Arrangement.SpaceBetween,
-                    verticalAlignment = Alignment.CenterVertically
-                ) {
-                    // Camera Preview
-                    Box(
-                        modifier = Modifier
-                            .width(80.dp)
-                            .height(60.dp)
-                            .background(Color.Black, RoundedCornerShape(8.dp))
-                            .border(1.dp, NavyBorder, RoundedCornerShape(8.dp)),
-                        contentAlignment = Alignment.Center
-                    ) {
-                        if (state.isMonitoringActive) {
-                            LiveCameraPreview(modifier = Modifier.fillMaxSize())
-                            Box(
-                                modifier = Modifier
-                                    .align(Alignment.TopStart)
-                                    .padding(4.dp)
-                                    .background(AlertRed, RoundedCornerShape(4.dp))
-                                    .padding(horizontal = 4.dp, vertical = 2.dp)
-                            ) {
-                                Text("LIVE", color = Color.White, fontSize = 8.sp, fontWeight = FontWeight.Bold)
-                            }
-                        } else {
-                            Column(horizontalAlignment = Alignment.CenterHorizontally) {
-                                Icon(Icons.Default.Videocam, contentDescription = "Camera", tint = TextMuted, modifier = Modifier.size(16.dp))
-                                Text("USER", color = TextMuted, fontSize = 9.sp, fontWeight = FontWeight.Bold)
-                            }
-                        }
-                    }
-
-                    // Status Indicator
-                    val statusColor = when {
-                        state.disqualificationNotice != null -> AlertRed
-                        state.identityWarningCount > 0 -> InfoCyan // Blue warning
-                        else -> SuccessGreen
-                    }
-                    val statusText = when {
-                        state.disqualificationNotice != null -> "Disqualified"
-                        state.identityWarningCount > 0 -> "Warning ${state.identityWarningCount}/3"
-                        else -> "OK"
-                    }
-                    
-                    Box(
-                        modifier = Modifier
-                            .background(statusColor.copy(alpha = 0.2f), RoundedCornerShape(6.dp))
-                            .border(1.dp, statusColor, RoundedCornerShape(6.dp))
-                            .padding(horizontal = 12.dp, vertical = 6.dp)
-                    ) {
-                        Text("Status: $statusText", color = statusColor, fontSize = 11.sp, fontWeight = FontWeight.Bold)
-                    }
-
-                    // Audio Level Visualization
-                    Column(horizontalAlignment = Alignment.CenterHorizontally) {
-                        Text("Audio Level", color = TextSecondary, fontSize = 9.sp)
-                        Row(
-                            horizontalArrangement = Arrangement.spacedBy(3.dp),
-                            verticalAlignment = Alignment.Bottom,
-                            modifier = Modifier.height(24.dp).padding(vertical = 2.dp)
-                        ) {
-                            state.audioWaveform.forEach { fraction ->
-                                val barColor = if (fraction > 0.8f) AlertRed else if (fraction > 0.4f) InfoCyan else SuccessGreen
-                                Box(
-                                    modifier = Modifier
-                                        .width(4.dp)
-                                        .fillMaxHeight(fraction)
-                                        .background(barColor, RoundedCornerShape(topStart = 2.dp, topEnd = 2.dp))
-                                )
-                            }
-                        }
-                        Text(state.audioState, color = if(state.audioState == "NORMAL") SuccessGreen else InfoCyan, fontSize = 8.sp, fontWeight = FontWeight.Bold)
-                    }
-                }
-
-                if (state.disqualificationNotice != null) {
-                    Spacer(modifier = Modifier.height(4.dp))
-                    Card(
-                        modifier = Modifier.fillMaxWidth(),
-                        colors = CardDefaults.cardColors(containerColor = Color(0xFF5A1E1E)),
-                        shape = RoundedCornerShape(8.dp)
-                    ) {
-                        Text(
-                            text = state.disqualificationNotice ?: "",
-                            color = Color.White,
-                            fontSize = 12.sp,
-                            fontWeight = FontWeight.Bold,
-                            modifier = Modifier.padding(10.dp)
-                        )
-                    }
-                }
 
                 if (isLargeClassroom) {
                     // Dedicated LargeClassroom Layout State: High-visibility side-by-side split podium format for wide aspect ratio displays
@@ -1143,52 +1037,4 @@ fun QuizOptionCard(
             )
         }
     }
-}
-
-@Composable
-fun LiveCameraPreview(modifier: Modifier = Modifier) {
-    val context = LocalContext.current
-    val hasCameraHardware = com.example.util.DeviceCapabilities.hasCamera(context)
-    val hasPermission = ContextCompat.checkSelfPermission(context, android.Manifest.permission.CAMERA) == android.content.pm.PackageManager.PERMISSION_GRANTED
-    
-    if (!hasCameraHardware || !hasPermission) {
-        Box(modifier = modifier.background(Color.Black), contentAlignment = Alignment.Center) {
-            Column(horizontalAlignment = Alignment.CenterHorizontally) {
-                Icon(Icons.Default.VideocamOff, contentDescription = "Camera Unavailable", tint = TextMuted, modifier = Modifier.size(16.dp))
-                Text(if (!hasCameraHardware) "NO CAM" else "NO PERM", color = TextMuted, fontSize = 8.sp, fontWeight = FontWeight.Bold)
-            }
-        }
-        return
-    }
-
-    val lifecycleOwner = LocalLifecycleOwner.current
-    AndroidView(
-        factory = { ctx ->
-            val previewView = PreviewView(ctx)
-            val cameraProviderFuture = ProcessCameraProvider.getInstance(ctx)
-            cameraProviderFuture.addListener({
-                try {
-                    val cameraProvider = cameraProviderFuture.get()
-                    val preview = Preview.Builder().build().also {
-                        it.setSurfaceProvider(previewView.surfaceProvider)
-                    }
-                    val cameraSelector = if (cameraProvider.hasCamera(CameraSelector.DEFAULT_FRONT_CAMERA)) {
-                        CameraSelector.DEFAULT_FRONT_CAMERA
-                    } else {
-                        CameraSelector.DEFAULT_BACK_CAMERA
-                    }
-                    cameraProvider.unbindAll()
-                    cameraProvider.bindToLifecycle(
-                        lifecycleOwner,
-                        cameraSelector,
-                        preview
-                    )
-                } catch(exc: Exception) {
-                    android.util.Log.e("CameraPreview", "Use case binding failed", exc)
-                }
-            }, ContextCompat.getMainExecutor(ctx))
-            previewView
-        },
-        modifier = modifier
-    )
 }

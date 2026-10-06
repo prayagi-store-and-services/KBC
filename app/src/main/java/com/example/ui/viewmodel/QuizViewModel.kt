@@ -100,12 +100,7 @@ sealed interface QuizUiState {
         val isExpertLoading: Boolean = false,
         val fiftyFiftyProofDialog: String? = null,
         val showCheckpointFanfare: String? = null,
-        val bonusLostNotice: Boolean = false,
-        val identityWarningCount: Int = 0,
-        val disqualificationNotice: String? = null,
-        val isMonitoringActive: Boolean = false,
-        val audioWaveform: List<Float> = listOf(0.1f, 0.1f, 0.1f, 0.1f, 0.1f, 0.1f),
-        val audioState: String = "NORMAL"
+        val bonusLostNotice: Boolean = false
     ) : QuizUiState
     data class GameSummary(
         val result: GameSessionResult,
@@ -126,7 +121,6 @@ class QuizViewModel(application: Application) : AndroidViewModel(application) {
     )
     val soundPlayer = SoundEffectsPlayer(application)
     val speechNarrator = SpeechNarrator(application)
-    val monitoringManager = com.example.monitoring.MonitoringManager(application, viewModelScope)
 
     private val _isVoiceNarrationEnabled = MutableStateFlow(true)
     val isVoiceNarrationEnabled: StateFlow<Boolean> = _isVoiceNarrationEnabled.asStateFlow()
@@ -188,7 +182,6 @@ class QuizViewModel(application: Application) : AndroidViewModel(application) {
         readOnlyJob = null
         currentNarrationToken = System.currentTimeMillis()
         sessionLadder.clear()
-        stopIdentityMonitoring()
         if (currentSessionId.isNotBlank()) {
             val oldSid = currentSessionId
             viewModelScope.launch(Dispatchers.IO) {
@@ -309,106 +302,6 @@ class QuizViewModel(application: Application) : AndroidViewModel(application) {
         }
     }
 
-    private val _antiCheatNote = MutableStateFlow<String?>(null)
-    /** Names of the denied permissions that switch part of the anti-cheat off, or null when none. */
-    val antiCheatNote: StateFlow<String?> = _antiCheatNote.asStateFlow()
-
-    private var identityMonitoringJob: Job? = null
-    private var identityWarningCount = 0
-
-    private fun startIdentityMonitoring() {
-        identityMonitoringJob?.cancel()
-        identityWarningCount = 0
-        monitoringManager.startMonitoring()
-        
-        identityMonitoringJob = viewModelScope.launch {
-            launch {
-                monitoringManager.waveform.collect { wave ->
-                    val currentState = _uiState.value
-                    if (currentState is QuizUiState.InGame) {
-                        _uiState.value = currentState.copy(audioWaveform = wave, isMonitoringActive = true)
-                    }
-                }
-            }
-            launch {
-                monitoringManager.audioState.collect { state ->
-                    val currentState = _uiState.value
-                    if (currentState is QuizUiState.InGame) {
-                        _uiState.value = currentState.copy(audioState = state)
-                    }
-                }
-            }
-            launch {
-                monitoringManager.warningEvent.collect { eventTime ->
-                    if (eventTime > 0) {
-                        identityWarningCount++
-                        val currentState = _uiState.value
-                        if (currentState is QuizUiState.InGame) {
-                            if (identityWarningCount >= 3) {
-                                // Disqualify
-                                _uiState.value = currentState.copy(
-                                    identityWarningCount = identityWarningCount,
-                                    disqualificationNotice = "DISQUALIFIED: Multiple audio violations detected."
-                                )
-                                val lang = userProfile.value.languageMode
-                                val gender = userProfile.value.hostGender
-                                val msg = if (lang.equals("HINDI", true)) {
-                                    "नियम उल्लंघन। आप खेल से अयोग्य घोषित किए गए हैं।"
-                                } else {
-                                    "Rule violation. You have been disqualified from the game."
-                                }
-                                speechNarrator.speakQuestionBounded(msg, lang, gender) {
-                                    finishGame(
-                                        wonPoints = 0L,
-                                        highestQ = currentState.currentQNumber,
-                                        isGrandWin = false,
-                                        reason = "DISQUALIFIED",
-                                        lastQ = currentState.question
-                                    )
-                                }
-                                stopIdentityMonitoring()
-                            } else {
-                                // Warning
-                                _uiState.value = currentState.copy(identityWarningCount = identityWarningCount)
-                                val lang = userProfile.value.languageMode
-                                val gender = userProfile.value.hostGender
-                                val msg = if (lang.equals("HINDI", true)) {
-                                    "चेतावनी $identityWarningCount. कृपया शांति बनाए रखें।"
-                                } else {
-                                    "Warning $identityWarningCount of 3. Please maintain silence."
-                                }
-                                speechNarrator.speakQuestionBounded(msg, lang, gender)
-                            }
-                        }
-                    }
-                }
-            }
-        }
-
-        try {
-            viewModelScope.launch(Dispatchers.IO) {
-                db.gameSessionDao().insertEvent(
-                    GameSessionEventEntity(
-                        sessionId = currentSessionId,
-                        eventType = "IDENTITY_MONITORING_ACTIVE",
-                        timestampMillis = System.currentTimeMillis(),
-                        metadata = "Anti-cheating monitoring active with real microphone audio analysis"
-                    )
-                )
-            }
-        } catch (_: Exception) {}
-    }
-
-    private fun stopIdentityMonitoring() {
-        monitoringManager.stopMonitoring()
-        identityMonitoringJob?.cancel()
-        identityMonitoringJob = null
-        val currentState = _uiState.value
-        if (currentState is QuizUiState.InGame) {
-            _uiState.value = currentState.copy(isMonitoringActive = false)
-        }
-    }
-
     fun startNewGame() {
         if (isStartingGame) return
         isStartingGame = true
@@ -434,13 +327,8 @@ class QuizViewModel(application: Application) : AndroidViewModel(application) {
                 if (!hasMic && !(isTv && !deviceHasMic)) missing.add("Microphone")
                 if (!hasNotification && !isTv) missing.add("Notifications")
 
-                // Denied permissions never block a game. Only the anti-cheat part that needs the permission is off, and the game screen says so.
-                val antiCheatMissing = missing.filter { it == "Camera" || it == "Microphone" }
-                _antiCheatNote.value = if (antiCheatMissing.isEmpty()) null else antiCheatMissing.joinToString(" and ")
-
                 android.util.Log.d("TarkShastra", "PROFILE_VALIDATED for game start")
                 cleanupSessionResources()
-                stopIdentityMonitoring()
                 isFinalized.set(false)
                 isLocking.set(false)
                 flippedQuestionIds.clear()
@@ -484,7 +372,6 @@ class QuizViewModel(application: Application) : AndroidViewModel(application) {
                 sessionLadder.clear()
                 sessionLadder.putAll(preloaded)
 
-                startIdentityMonitoring()
                 android.util.Log.d("TarkShastra", "GAME_NAVIGATION: Opening Game screen for Q1")
                 loadPreloadedQuestionForTier(
                     targetQNum = 1,
@@ -695,9 +582,7 @@ class QuizViewModel(application: Application) : AndroidViewModel(application) {
     }
 
     private fun cleanupAntiCheatingSession() {
-        stopIdentityMonitoring()
         stopTimer()
-        identityWarningCount = 0
     }
 
     private fun startUnlimitedThinkingTimer() {
@@ -833,7 +718,6 @@ class QuizViewModel(application: Application) : AndroidViewModel(application) {
         readOnlyJob = null
         timerJob?.cancel()
         timerJob = null
-        stopIdentityMonitoring()
         soundPlayer.stopTimerPressureMusic()
     }
 
@@ -1084,7 +968,6 @@ class QuizViewModel(application: Application) : AndroidViewModel(application) {
         stopTimer()
         speechNarrator.stop()
         soundPlayer.stopAllMusic()
-        stopIdentityMonitoring()
 
         finishGame(
             wonPoints = state.currentPointsWon,
@@ -1101,7 +984,6 @@ class QuizViewModel(application: Application) : AndroidViewModel(application) {
         stopTimer()
         speechNarrator.stop()
         soundPlayer.stopAllMusic()
-        stopIdentityMonitoring()
 
         finishGame(
             wonPoints = state.currentPointsWon,
@@ -1181,8 +1063,8 @@ class QuizViewModel(application: Application) : AndroidViewModel(application) {
         val accuracy = if (highestQ > 0) ((currentSessionCorrectCount.toFloat() / highestQ) * 100).toInt() else 0
         val profile = userProfile.value
 
-        val finalPoints = if (reason == "DISQUALIFIED") 0L else wonPoints
-        val securedAmount = if (reason == "DISQUALIFIED") 0L else if (reason == "WRONG_ANSWER" || reason.startsWith("TIMEOUT")) wonPoints else wonPoints
+        val finalPoints = wonPoints
+        val securedAmount = wonPoints
 
         val result = GameSessionResult(
             sessionId = currentSessionId,
@@ -1217,20 +1099,13 @@ class QuizViewModel(application: Application) : AndroidViewModel(application) {
 
             // Speak Result
             if (_isVoiceNarrationEnabled.value) {
-                if (reason == "DISQUALIFIED") {
-                    speechNarrator.speakSequential(
-                        hindiText = "नियम उल्लंघन! आप खेल से अयोग्य घोषित किए गए हैं।",
-                        englishText = "Game disqualified due to rules violation."
-                    )
-                } else {
-                    speechNarrator.speakFinalResult(
+                speechNarrator.speakFinalResult(
                         correct = currentSessionCorrectCount,
                         incorrect = currentSessionWrongCount,
                         pointsWon = finalPoints,
                         language = profile.languageMode,
                         gender = profile.hostGender
                     )
-                }
             }
         }
     }

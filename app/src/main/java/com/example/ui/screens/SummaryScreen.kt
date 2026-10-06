@@ -161,7 +161,6 @@ fun SummaryScreen(
             val (badgeText, badgeBgColor, badgeTextColor) = when {
                 result.reasonEnded == "CLEARED_7_CRORE" -> Triple("7 CRORE CHAMPION", SuccessGreen.copy(alpha = 0.25f), SuccessGreen)
                 result.reasonEnded == "QUIT" -> Triple("VOLUNTARY QUIT", GoldPrimary.copy(alpha = 0.3f), GoldGlow)
-                result.reasonEnded == "DISQUALIFIED" -> Triple("GAME DISQUALIFIED", AlertRed.copy(alpha = 0.3f), AlertRed)
                 result.reasonEnded.startsWith("TIMEOUT") -> Triple("TIME EXPIRED / TIMEOUT", AlertRed.copy(alpha = 0.25f), AlertRed)
                 result.reasonEnded == "HOME_EXIT" -> Triple("GAME EXIT (BACKGROUND)", AlertRed.copy(alpha = 0.25f), AlertRed)
                 else -> Triple("WRONG ANSWER — GAME OVER", AlertRed.copy(alpha = 0.25f), AlertRed)
@@ -191,7 +190,6 @@ fun SummaryScreen(
                     "TIMEOUT_SELECTED_CORRECT" -> "समय सीमा समाप्त! सही विकल्प चुना था परंतु समय रहते ताला (Lock) नहीं लगाया।"
                     "TIMEOUT_SELECTED_INCORRECT" -> "समय सीमा समाप्त! चुना गया विकल्प गलत था और ताला नहीं लगा।"
                     "TIMEOUT" -> "समय सीमा समाप्त! सुरक्षित पड़ाव राशि सुरक्षित है।"
-                    "DISQUALIFIED" -> "नियम उल्लंघन! सुरक्षा एवं ईमानदारी नीति के अंतर्गत आप अयोग्य घोषित किए गए हैं।"
                     "HOME_EXIT" -> "ऐप से बाहर जाने के कारण खेल समाप्त किया गया।"
                     "WRONG_ANSWER" -> "गलत उत्तर लॉक किया गया! खेल यहीं समाप्त होता है। सुरक्षित पड़ाव राशि देय है।"
                     else -> "खेल समाप्त! सुरक्षित पड़ाव राशि सुरक्षित है।"
