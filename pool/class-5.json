@@ -4338,5 +4338,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-06T06:24:14Z"
+ },
+ {
+  "id": "q_27555f723f08e23b",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the national animal of India?",
+  "qHi": "भारत का राष्ट्रीय पशु क्या है?",
+  "optsEn": [
+   "Lion",
+   "Elephant",
+   "Tiger",
+   "Leopard"
+  ],
+  "optsHi": [
+   "शेर",
+   "हाथी",
+   "बाघ",
+   "तेंदुआ"
+  ],
+  "correct": 2,
+  "explainEn": "The Royal Bengal Tiger is designated as the national animal of India.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:23:35Z"
+ },
+ {
+  "id": "q_4777c6e27d94c930",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following sense organs helps us to taste food?",
+  "qHi": "निम्नलिखित में से कौन सा ज्ञानेंद्रिय अंग हमें भोजन का स्वाद लेने में मदद करता है?",
+  "optsEn": [
+   "Skin",
+   "Nose",
+   "Tongue",
+   "Eye"
+  ],
+  "optsHi": [
+   "त्वचा",
+   "नाक",
+   "जीभ",
+   "आंख"
+  ],
+  "correct": 2,
+  "explainEn": "The tongue has taste buds that help us perceive different tastes.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:23:35Z"
+ },
+ {
+  "id": "q_89368ec402956741",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas do plants take in from the atmosphere to make their food during photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण के दौरान पौधे अपना भोजन बनाने के लिए वायुमंडल से कौन सी गैस लेते हैं?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Plants absorb carbon dioxide from the air along with sunlight and water to produce food.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:23:35Z"
+ },
+ {
+  "id": "q_9f87cdd90b5d7efd",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these is a non-renewable source of energy?",
+  "qHi": "इनमें से कौन सा ऊर्जा का अनवीकरणीय स्रोत है?",
+  "optsEn": [
+   "Solar energy",
+   "Wind energy",
+   "Coal",
+   "Hydro energy"
+  ],
+  "optsHi": [
+   "सौर ऊर्जा",
+   "पवन ऊर्जा",
+   "कोयला",
+   "जल विद्युत ऊर्जा"
+  ],
+  "correct": 2,
+  "explainEn": "Coal is a fossil fuel that takes millions of years to form and cannot be easily replaced once used.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:23:35Z"
+ },
+ {
+  "id": "q_a85f26651f21f717",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary source of water on Earth?",
+  "qHi": "पृथ्वी पर पानी का मुख्य स्रोत क्या है?",
+  "optsEn": [
+   "Rain",
+   "Rivers",
+   "Wells",
+   "Ponds"
+  ],
+  "optsHi": [
+   "वर्षा",
+   "नदियां",
+   "कुएं",
+   "तालाब"
+  ],
+  "correct": 0,
+  "explainEn": "Rain is the primary source of fresh water on Earth, replenishing rivers, lakes, and groundwater.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:23:35Z"
+ },
+ {
+  "id": "q_e821d94c059cd3e6",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary source of energy for the water cycle on Earth?",
+  "qHi": "पृथ्वी पर जल चक्र के लिए ऊर्जा का मुख्य स्रोत क्या है?",
+  "optsEn": [
+   "Wind",
+   "Moon",
+   "Sun",
+   "Volcanoes"
+  ],
+  "optsHi": [
+   "हवा",
+   "चंद्रमा",
+   "सूरज",
+   "ज्वालामुखी"
+  ],
+  "correct": 2,
+  "explainEn": "Heat from the Sun drives evaporation, which is the starting point of the water cycle.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:24:38Z"
+ },
+ {
+  "id": "q_081140806c189941",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian classical dance style originated in the state of Kerala and is known for elaborate makeup and costumes?",
+  "qHi": "कौन सी भारतीय शास्त्रीय नृत्य शैली केरल राज्य में उत्पन्न हुई है और विस्तृत मेकअप और वेशभूषा के लिए जानी जाती है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a classical dance-drama form that originated in Kerala, famous for its colorful facial paints and masks.",
+  "sourceHint": "NCERT Art and Culture references",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:24:38Z"
+ },
+ {
+  "id": "q_6995543fb9c2cb32",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Seed dispersal in the dandelion plant mainly takes place through which agent?",
+  "qHi": "डेंडेलियन पौधे में बीजों का प्रकीर्णन मुख्य रूप से किस माध्यम से होता है?",
+  "optsEn": [
+   "Water",
+   "Wind",
+   "Explosion",
+   "Animals"
+  ],
+  "optsHi": [
+   "पानी",
+   "हवा",
+   "विस्फोट",
+   "जानवर"
+  ],
+  "correct": 1,
+  "explainEn": "Dandelion seeds have hair-like structures that help them float and travel long distances with the wind.",
+  "sourceHint": "NCERT Class 5 Science (Super Senses / Plant reproduction topics)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:24:38Z"
+ },
+ {
+  "id": "q_4c2665b099d68812",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these gases makes up the largest percentage of Earth's atmosphere?",
+  "qHi": "इनमें से कौन सी गैस पृथ्वी के वायुमंडल का सबसे बड़ा हिस्सा बनाती है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "आर्गन"
+  ],
+  "correct": 2,
+  "explainEn": "Nitrogen makes up about 78 percent of Earth's atmosphere.",
+  "sourceHint": "NCERT Class 7 Geography Chapter 4 (Air)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:24:38Z"
+ },
+ {
+  "id": "q_a938f9707004c414",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which direction does the needle of a freely suspended magnetic compass always point?",
+  "qHi": "स्वतंत्र रूप से लटकी हुई चुंबकीय कंपास की सुई हमेशा किस दिशा में इशारा करती है?",
+  "optsEn": [
+   "East-West",
+   "North-South",
+   "Up-Down",
+   "North-East"
+  ],
+  "optsHi": [
+   "पूर्व-पश्चिम",
+   "उत्तर-दक्षिण",
+   "ऊपर-नीचे",
+   "उत्तर-पूर्व"
+  ],
+  "correct": 1,
+  "explainEn": "A magnetic compass aligns with Earth's magnetic field, pointing towards the magnetic North and South poles.",
+  "sourceHint": "NCERT Class 6 Science (Fun with Magnets)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:24:38Z"
  }
 ]

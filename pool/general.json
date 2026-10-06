@@ -3414,5 +3414,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-06T06:24:09Z"
+ },
+ {
+  "id": "q_6e72702bc6f0a4d9",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organ in the human body primarily filters blood to form urine?",
+  "qHi": "मानव शरीर में कौन सा अंग मुख्य रूप से मूत्र बनाने के लिए रक्त को छानता है?",
+  "optsEn": [
+   "Liver",
+   "Lungs",
+   "Kidney",
+   "Heart"
+  ],
+  "optsHi": [
+   "यकृत",
+   "फेफड़े",
+   "गुर्दा",
+   "हृदय"
+  ],
+  "correct": 2,
+  "explainEn": "Kidneys filter waste products and excess water from the blood to produce urine.",
+  "sourceHint": "NCERT Biology Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:23:29Z"
+ },
+ {
+  "id": "q_47eb5e8ed98c5f6c",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which traditional Indian classical dance form originates from the state of Kerala and is known for elaborate makeup and costumes?",
+  "qHi": "कौन सा पारंपरिक भारतीय शास्त्रीय नृत्य रूप केरल राज्य से उत्पन्न हुआ है और विस्तृत मेकअप और वेशभूषा के लिए जाना जाता है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Odissi",
+   "Kuchipudi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "ओडिसी",
+   "कुचिपुड़ी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a major form of classical Indian dance distinguished by its colorful make-up, face masks and costumes.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:23:29Z"
+ },
+ {
+  "id": "q_e325dde27ad44914",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which historical monument in Agra was built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal?",
+  "qHi": "आगरा के किस ऐतिहासिक स्मारक का निर्माण मुगल सम्राट शाहजहाँ ने अपनी पत्नी मुमताज महल की याद में करवाया था?",
+  "optsEn": [
+   "Red Fort",
+   "Qutub Minar",
+   "Taj Mahal",
+   "Humayun Tomb"
+  ],
+  "optsHi": [
+   "लाल किला",
+   "कुतुब मीनार",
+   "ताजमहल",
+   "हुमायूं का मकबरा"
+  ],
+  "correct": 2,
+  "explainEn": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra.",
+  "sourceHint": "Archaeological Survey of India (ASI)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:23:29Z"
+ },
+ {
+  "id": "q_7799ffae40861b3d",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian state has the longest coastline along the Arabian Sea and Bay of Bengal combined?",
+  "qHi": "किस भारतीय राज्य की तटरेखा अरब सागर और बंगाल की खाड़ी के साथ सबसे लंबी है?",
+  "optsEn": [
+   "Maharashtra",
+   "Andhra Pradesh",
+   "Gujarat",
+   "Tamil Nadu"
+  ],
+  "optsHi": [
+   "महाराष्ट्र",
+   "आंध्र प्रदेश",
+   "गुजरात",
+   "तमिलनाडु"
+  ],
+  "correct": 2,
+  "explainEn": "Gujarat has the longest coastline among all Indian states, measuring approximately 1,600 kilometers.",
+  "sourceHint": "NCERT Geography Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:24:33Z"
+ },
+ {
+  "id": "q_28d48096901e2475",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which classical dance form originated in the state of Kerala and is traditionally performed with elaborate facial makeup and colorful costumes?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप केरल राज्य में उत्पन्न हुआ है और पारंपरिक रूप से विस्तृत चेहरे की मेकअप और रंगीन पोशाक के साथ किया जाता है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a major form of classical Indian dance native to Kerala, known for its distinctive heavy makeup, vibrant costumes, and storytelling.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:24:33Z"
+ },
+ {
+  "id": "q_6076978c12fafe32",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary mineral ore from which aluminium is commercially extracted?",
+  "qHi": "वह प्राथमिक खनिज अयस्क कौन सा है जिससे एल्युमिनियम का व्यावसायिक रूप से निष्कर्षण किया जाता है?",
+  "optsEn": [
+   "Hematite",
+   "Bauxite",
+   "Galena",
+   "Cinnabar"
+  ],
+  "optsHi": [
+   "हेमेटाइट",
+   "बक्साइट",
+   "गेलेना",
+   "सिन्नाबार"
+  ],
+  "correct": 1,
+  "explainEn": "Bauxite is the principal ore of aluminium, consisting mainly of hydrated aluminium oxides.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:24:33Z"
+ },
+ {
+  "id": "q_fae074cc582b237d",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which historical monument in Agra was built by Mughal Emperor Shah Jahan as a mausoleum for his wife Mumtaz Mahal?",
+  "qHi": "आगरा में स्थित कौन सा ऐतिहासिक स्मारक मुगल सम्राट शाहजहाँ द्वारा अपनी पत्नी मुमताज महल के मकबरे के रूप में बनवाया गया था?",
+  "optsEn": [
+   "Red Fort",
+   "Humayun's Tomb",
+   "Taj Mahal",
+   "Fatehpur Sikri"
+  ],
+  "optsHi": [
+   "लाल किला",
+   "हुमायूं का मकबरा",
+   "ताजमहल",
+   "फतेहपुर सीकरी"
+  ],
+  "correct": 2,
+  "explainEn": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, commissioned by Shah Jahan.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:24:33Z"
+ },
+ {
+  "id": "q_1aff7088a743165f",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the term of office for a member of the Rajya Sabha, the upper house of the Indian Parliament?",
+  "qHi": "भारतीय संसद के उच्च सदन, राज्य सभा के सदस्य का कार्यकाल कितना होता है?",
+  "optsEn": [
+   "4 years",
+   "5 years",
+   "6 years",
+   "Permanent"
+  ],
+  "optsHi": [
+   "4 वर्ष",
+   "5 वर्ष",
+   "6 वर्ष",
+   "स्थाई"
+  ],
+  "correct": 2,
+  "explainEn": "Members of the Rajya Sabha are elected for a term of six years, with one-third of the members retiring every two years.",
+  "sourceHint": "Parliament of India Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:24:33Z"
  }
 ]

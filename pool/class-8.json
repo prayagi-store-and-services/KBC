@@ -2882,5 +2882,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-06T06:24:21Z"
+ },
+ {
+  "id": "q_38d4ec55d66ea655",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the minimum age required to contest an election to the Lok Sabha in India?",
+  "qHi": "भारत में लोकसभा चुनाव लड़ने के लिए आवश्यक न्यूनतम आयु क्या है?",
+  "optsEn": [
+   "18 years",
+   "21 years",
+   "25 years",
+   "35 years"
+  ],
+  "optsHi": [
+   "18 वर्ष",
+   "21 वर्ष",
+   "25 वर्ष",
+   "35 वर्ष"
+  ],
+  "correct": 2,
+  "explainEn": "A person must be at least 25 years of age to be a member of the Lok Sabha.",
+  "sourceHint": "Constitution of India and NCERT Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:23:39Z"
+ },
+ {
+  "id": "q_679d6930dfc84ff2",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following describes the process of shifting from a nomadic hunter-gatherer lifestyle to settled agriculture during the Neolithic period?",
+  "qHi": "नवपाषाण काल के दौरान खानाबदोश शिकारी जीवनशैली से स्थायी कृषि की ओर बढ़ने की प्रक्रिया को निम्नलिखित में से क्या कहा जाता है?",
+  "optsEn": [
+   "Industrial Revolution",
+   "Green Revolution",
+   "Agricultural Revolution",
+   "Neolithic Revolution"
+  ],
+  "optsHi": [
+   "औद्योगिक क्रांति",
+   "हरित क्रांति",
+   "कृषि क्रांति",
+   "नवपाषाण क्रांति"
+  ],
+  "correct": 3,
+  "explainEn": "The shift from hunting-gathering to agriculture and permanent settlements is historically termed the Neolithic Revolution.",
+  "sourceHint": "NCERT Class 6 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:24:44Z"
+ },
+ {
+  "id": "q_cba685b71ff0d360",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which atmospheric layer contains the ozone layer that protects living organisms from harmful ultraviolet radiation?",
+  "qHi": "वायुमंडल की किस परत में ओजोन परत पाई जाती है जो जीवों को हानिकारक पराबैंगनी किरणों से बचाती है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The stratosphere contains the ozone layer, which absorbs harmful UV radiation from the Sun.",
+  "sourceHint": "NCERT Class 7 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:24:44Z"
+ },
+ {
+  "id": "q_ce38b08a51b35a9c",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which cell organelle is known as the powerhouse of the cell because it generates chemical energy for cellular functions?",
+  "qHi": "कोशिका के किस अंगक को कोशिका का पावरहाउस कहा जाता है क्योंकि यह कोशिकीय कार्यों के लिए रासायनिक ऊर्जा उत्पन्न करता है?",
+  "optsEn": [
+   "Nucleus",
+   "Mitochondria",
+   "Ribosome",
+   "Chloroplast"
+  ],
+  "optsHi": [
+   "केंद्रक",
+   "माइटोकॉन्ड्रिया",
+   "राइबोसोम",
+   "क्लोरोप्लास्ट"
+  ],
+  "correct": 1,
+  "explainEn": "Mitochondria produce ATP, which supplies energy to the cell, earning them the title of powerhouse of the cell.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:24:44Z"
+ },
+ {
+  "id": "q_54dd7dbff22c3d14",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the Indian Parliament, which body acts as the upper house representing the states and union territories?",
+  "qHi": "भारतीय संसद में कौन सा निकाय राज्यों और केंद्र शासित प्रदेशों का प्रतिनिधित्व करने वाला उच्च सदन है?",
+  "optsEn": [
+   "Lok Sabha",
+   "Rajya Sabha",
+   "Vidhan Sabha",
+   "Gram Panchayat"
+  ],
+  "optsHi": [
+   "लोकसभा",
+   "राज्यसभा",
+   "विधानसभा",
+   "ग्राम पंचायत"
+  ],
+  "correct": 1,
+  "explainEn": "Rajya Sabha is the upper house of the Indian Parliament, representing the states and union territories.",
+  "sourceHint": "NCERT Class 8 Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:24:44Z"
+ },
+ {
+  "id": "q_ed1aba3cbdef338c",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What term is used to describe the transfer of pollen grains from the anther to the stigma of a flower?",
+  "qHi": "किसी फूल के परागकोश से वर्तिकाग्र तक परागकणों के स्थानांतरण को क्या कहा जाता है?",
+  "optsEn": [
+   "Fertilization",
+   "Pollination",
+   "Germination",
+   "Transpiration"
+  ],
+  "optsHi": [
+   "निषेचन",
+   "परागण",
+   "अंकुरण",
+   "वाष्पोत्सर्जन"
+  ],
+  "correct": 1,
+  "explainEn": "Pollination is the transfer of pollen from anther to stigma in plants.",
+  "sourceHint": "NCERT Class 7 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:24:44Z"
+ },
+ {
+  "id": "q_a1ec9d21a3b1ffe2",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which fundamental right in the Indian Constitution prohibits human trafficking, forced labor, and employment of children below 14 years in hazardous jobs?",
+  "qHi": "भारतीय संविधान का कौन सा मौलिक अधिकार मानव तस्करी, जबरन श्रम और 14 वर्ष से कम उम्र के बच्चों को खतरनाक नौकरियों में लगाने पर प्रतिबंध लगाता है?",
+  "optsEn": [
+   "Right to Equality",
+   "Right to Freedom",
+   "Right against Exploitation",
+   "Right to Constitutional Remedies"
+  ],
+  "optsHi": [
+   "समानता का अधिकार",
+   "स्वतंत्रता का अधिकार",
+   "शोषण के विरुद्ध अधिकार",
+   "संवैधानिक उपचारों का अधिकार"
+  ],
+  "correct": 2,
+  "explainEn": "Articles 23 and 24 of the Indian Constitution enshrine the Right against Exploitation.",
+  "sourceHint": "NCERT Class 8 Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:24:44Z"
+ },
+ {
+  "id": "q_f0dc9a9c3fe67044",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the SI unit of pressure, defined as one newton per square metre?",
+  "qHi": "दाब की एसआई (SI) इकाई क्या है, जिसे प्रति वर्ग मीटर एक न्यूटन के रूप में परिभाषित किया जाता है?",
+  "optsEn": [
+   "Joule",
+   "Pascal",
+   "Watt",
+   "Newton"
+  ],
+  "optsHi": [
+   "जूल",
+   "पास्कल",
+   "वाट",
+   "न्यूटन"
+  ],
+  "correct": 1,
+  "explainEn": "The SI unit of pressure is the pascal (Pa), equivalent to one newton per square metre.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:24:44Z"
  }
 ]

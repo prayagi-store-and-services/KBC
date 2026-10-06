@@ -3358,5 +3358,341 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-06T06:23:58Z"
+ },
+ {
+  "id": "q_52b70fac64edfb93",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas is most abundant in Earth's atmosphere?",
+  "qHi": "पृथ्वी के वायुमंडल में कौन सी गैस सबसे अधिक मात्रा में पाई जाती है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 2,
+  "explainEn": "Nitrogen makes up about 78 percent of Earth's atmosphere.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:23:19Z"
+ },
+ {
+  "id": "q_481b2d1a69708651",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the standard unit of force in the International System of Units?",
+  "qHi": "अंतर्राष्ट्रीय इकाई प्रणाली में बल (Force) की मानक इकाई क्या है?",
+  "optsEn": [
+   "Joule",
+   "Watt",
+   "Newton",
+   "Pascal"
+  ],
+  "optsHi": [
+   "जूल",
+   "वाट",
+   "न्यूटन",
+   "पास्कल"
+  ],
+  "correct": 2,
+  "explainEn": "The SI unit of force is the newton, named after Sir Isaac Newton.",
+  "sourceHint": "NCERT Physics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:23:19Z"
+ },
+ {
+  "id": "q_81c1b9dac418a312",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the chemical formula for washing soda?",
+  "qHi": "वाशिंग सोडा (धोने का सोडा) का रासायनिक सूत्र क्या है?",
+  "optsEn": [
+   "NaHCO3",
+   "Na2CO3.10H2O",
+   "NaOH",
+   "CaSO4.2H2O"
+  ],
+  "optsHi": [
+   "NaHCO3",
+   "Na2CO3.10H2O",
+   "NaOH",
+   "CaSO4.2H2O"
+  ],
+  "correct": 1,
+  "explainEn": "Sodium carbonate decahydrate is commonly known as washing soda, represented by Na2CO3.10H2O.",
+  "sourceHint": "NCERT Class 10 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:24:21Z"
+ },
+ {
+  "id": "q_c41a1187fa7c655a",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which movement was suspended by Mahatma Gandhi following the Chauri Chaura incident in 1922?",
+  "qHi": "1922 में चौरी चौरा की घटना के बाद महात्मा गांधी ने किस आंदोलन को स्थगित कर दिया था?",
+  "optsEn": [
+   "Non-Cooperation Movement",
+   "Civil Disobedience Movement",
+   "Quit India Movement",
+   "Swadeshi Movement"
+  ],
+  "optsHi": [
+   "असहयोग आंदोलन",
+   "सविनय अवज्ञा आंदोलन",
+   "भारत छोड़ो आंदोलन",
+   "स्वदेशी आंदोलन"
+  ],
+  "correct": 0,
+  "explainEn": "Mahatma Gandhi suspended the Non-Cooperation Movement due to the violence at Chauri Chaura police station in Gorakhpur district.",
+  "sourceHint": "NCERT Class 10 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:24:21Z"
+ },
+ {
+  "id": "q_887248f761049a56",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The Palk Strait separates India from which country?",
+  "qHi": "पाक जलडमरूमध्य (पाक जलसंधि) भारत को किस देश से अलग करता है?",
+  "optsEn": [
+   "Bangladesh",
+   "Sri Lanka",
+   "Maldives",
+   "Myanmar"
+  ],
+  "optsHi": [
+   "बांग्लादेश",
+   "श्रीलंका",
+   "मालदीव",
+   "म्यांमार"
+  ],
+  "correct": 1,
+  "explainEn": "The Palk Strait is a strait between the Tamil Nadu state of India and the Mannar district of the Northern Province of Sri Lanka.",
+  "sourceHint": "NCERT Class 9 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:24:21Z"
+ },
+ {
+  "id": "q_de92fd75357ef5a1",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which constitutional amendment introduced the anti-defection provisions by adding the Tenth Schedule to the Constitution of India?",
+  "qHi": "भारत के संविधान में दसवीं अनुसूची जोड़कर किस संवैधानिक संशोधन द्वारा दल-बदल विरोधी प्रावधानों की शुरुआत की गई थी?",
+  "optsEn": [
+   "38th Amendment Act",
+   "42nd Amendment Act",
+   "52nd Amendment Act",
+   "61st Amendment Act"
+  ],
+  "optsHi": [
+   "38वां संशोधन अधिनियम",
+   "42वां संशोधन अधिनियम",
+   "52वां संशोधन अधिनियम",
+   "61वां संशोधन अधिनियम"
+  ],
+  "correct": 2,
+  "explainEn": "The 52nd Amendment Act of 1985 added the Tenth Schedule containing anti-defection laws to the Indian Constitution.",
+  "sourceHint": "Indian Polity by M. Laxmikanth / Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:25:31Z"
+ },
+ {
+  "id": "q_8c99e64aa72b9a1f",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "The 'Doldrums' refer to which of the following atmospheric pressure belts?",
+  "qHi": "डोलड्रम्स (Doldrums) निम्नलिखित में से किस वायुमंडलीय दाब पेटी को संदर्भित करता है?",
+  "optsEn": [
+   "Equatorial low-pressure belt",
+   "Sub-tropical high-pressure belt",
+   "Sub-polar low-pressure belt",
+   "Polar high-pressure belt"
+  ],
+  "optsHi": [
+   "विषुवतीय निम्न दाब पेटी",
+   "उप-उष्णकटिबंधीय उच्च दाब पेटी",
+   "उप-ध्रुवीय निम्न दाब पेटी",
+   "ध्रुवीय उच्च दाब पेटी"
+  ],
+  "correct": 0,
+  "explainEn": "The Doldrums is a popular term for the equatorial low-pressure belt characterized by calm winds and variable light breezes.",
+  "sourceHint": "Certificate Physical and Human Geography by Goh Cheng Leong",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:25:31Z"
+ },
+ {
+  "id": "q_56f99222d8ffe888",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which committee was appointed by the Reserve Bank of India to review the governance of boards of banks in India?",
+  "qHi": "भारत में बैंकों के बोर्डों के शासन की समीक्षा के लिए भारतीय रिजर्व बैंक द्वारा किस समिति को नियुक्त किया गया था?",
+  "optsEn": [
+   "Nachiket Mor Committee",
+   "P. J. Nayak Committee",
+   "Urjit Patel Committee",
+   "Bimal Jalan Committee"
+  ],
+  "optsHi": [
+   "nachiket mor समिति",
+   "पी. जे. नायक समिति",
+   "उर्जित पटेल समिति",
+   "बिimal जालान समिति"
+  ],
+  "correct": 1,
+  "explainEn": "The P.J. Nayak Committee was constituted by the RBI in 2014 to review the governance of boards of banks in India.",
+  "sourceHint": "RBI Official Reports / Indian Economy by Ramesh Singh",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:25:31Z"
+ },
+ {
+  "id": "q_4a3dd9cb192a09af",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "The 'Bhitarkanika Mangroves', a Ramsar site, are primarily associated with the deltaic region of which rivers?",
+  "qHi": "रामसर स्थल 'भितरकनिका मैंग्रोव' मुख्य रूप से किन नदियों के डेल्टा क्षेत्र से जुड़े हैं?",
+  "optsEn": [
+   "Mahanadi and Brahmani",
+   "Krishna and Godavari",
+   "Ganga and Brahmaputra",
+   "Subarnareka and Baitarani"
+  ],
+  "optsHi": [
+   "महानदी और ब्राह्मणी",
+   "कृष्णा और गोदावरी",
+   "गंगा और ब्रह्मपुत्र",
+   "सुवर्णरेखा और बैतरणी"
+  ],
+  "correct": 0,
+  "explainEn": "Bhitarkanika National Park is formed by the river deltas of Mahanadi, Brahmani, and Baitarani rivers in Odisha.",
+  "sourceHint": "NCERT Class 9 Geography / Ministry of Environment, Forest and Climate Change",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:25:31Z"
+ },
+ {
+  "id": "q_d33b07858339cbdf",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "According to the Census of India 2011, which state recorded the highest population density per square kilometer?",
+  "qHi": "भारत की जनगणना 2011 के अनुसार, किस राज्य ने प्रति वर्ग किलोमीटर सबसे अधिक जनघनत्व दर्ज किया?",
+  "optsEn": [
+   "West Bengal",
+   "Kerala",
+   "Bihar",
+   "Uttar Pradesh"
+  ],
+  "optsHi": [
+   "पश्चिम बंगाल",
+   "केरल",
+   "बिहार",
+   "उत्तर प्रदेश"
+  ],
+  "correct": 2,
+  "explainEn": "Bihar recorded the highest population density in India during the 2011 Census with 1,106 persons per square kilometer.",
+  "sourceHint": "Census of India 2011, Office of the Registrar General & Census Commissioner",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:25:31Z"
+ },
+ {
+  "id": "q_605be8cf2f9fc147",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian classical dance, the term 'Abhinaya' primarily signifies what?",
+  "qHi": "भारतीय शास्त्रीय नृत्य के संदर्भ में, 'अभिनया' शब्द का मुख्य अर्थ क्या है?",
+  "optsEn": [
+   "Pure rhythmic footwork",
+   "Expressive acting and conveying emotion",
+   "The musical accompaniment",
+   "The costume and makeup traditions"
+  ],
+  "optsHi": [
+   "शुद्ध लयबद्ध पाद-संचालन",
+   "भावपूर्ण अभिनय और भावना व्यक्त करना",
+   "संगीत का साथ",
+   "वेशभूषा और श्रृंगार की परंपराएं"
+  ],
+  "correct": 1,
+  "explainEn": "Abhinaya refers to the art of expression in Indian dance, used to convey the underlying meaning and emotion of a theme to the audience.",
+  "sourceHint": "CCRT India Culture Modules / NCERT Fine Arts",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:25:31Z"
+ },
+ {
+  "id": "q_f7f97ab993ea64b1",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which fundamental right cannot be suspended even during a National Emergency declared under Article 352?",
+  "qHi": "अनुच्छेद 352 के तहत घोषित राष्ट्रीय आपातकाल के दौरान भी किस मौलिक अधिकार को निलंबित नहीं किया जा सकता है?",
+  "optsEn": [
+   "Article 14 and Article 19",
+   "Article 19 and Article 21",
+   "Article 20 and Article 21",
+   "Article 21 and Article 22"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14 और अनुच्छेद 19",
+   "अनुच्छेद 19 और अनुच्छेद 21",
+   "अनुच्छेद 20 और अनुच्छेद 21",
+   "अनुच्छेद 21 और अनुच्छेद 22"
+  ],
+  "correct": 2,
+  "explainEn": "By the 44th Amendment Act of 1978, the right to protection in respect of conviction for offenses (Article 20) and the right to life and personal liberty (Article 21) cannot be suspended during a National Emergency.",
+  "sourceHint": "Constitution of India, Part III & Part XVIII",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:25:31Z"
  }
 ]

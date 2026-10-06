@@ -4646,5 +4646,509 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-06T06:24:54Z"
+ },
+ {
+  "id": "q_649a1a5d29812533",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In human genetics, what determines the biological sex of a child?",
+  "qHi": "मानव आनुवंशिकी में, बच्चे के जैविक लिंग का निर्धारण कौन करता है?",
+  "optsEn": [
+   "The sex chromosomes contributed by the father",
+   "The blood group of the mother",
+   "The nutrition of the mother during pregnancy",
+   "The environmental temperature at birth"
+  ],
+  "optsHi": [
+   "पिता द्वारा दिए गए लिंग गुणसूत्र",
+   "माता का रक्त समूह",
+   "गर्भावस्था के दौरान माँ का पोषण",
+   "जन्म के समय पर्यावरणीय तापमान"
+  ],
+  "correct": 0,
+  "explainEn": "Human males produce X and Y sperm cells. If an X-bearing sperm fertilizes the egg, the child is female (XX); if a Y-bearing sperm does so, the child is male (XY).",
+  "sourceHint": "NCERT Class 12 Biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:23:10Z"
+ },
+ {
+  "id": "q_837ce822304aedda",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which Fundamental Right in the Indian Constitution prohibits discrimination on grounds of religion, race, caste, sex, or place of birth?",
+  "qHi": "भारतीय संविधान का कौन सा मौलिक अधिकार धर्म, मूलवंश, जाति, लिंग या जन्म स्थान के आधार पर भेदभाव को प्रतिबंधित करता है?",
+  "optsEn": [
+   "Right to Freedom",
+   "Right to Equality",
+   "Right to Freedom of Religion",
+   "Cultural and Educational Rights"
+  ],
+  "optsHi": [
+   "स्वतंत्रता का अधिकार",
+   "समानता का अधिकार",
+   "धर्म की स्वतंत्रता का अधिकार",
+   "संस्कृति और शिक्षा संबंधी अधिकार"
+  ],
+  "correct": 1,
+  "explainEn": "Article 15 of the Indian Constitution, under the Right to Equality, prohibits discrimination on grounds of religion, race, caste, sex, or place of birth.",
+  "sourceHint": "Constitution of India, Article 15",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:23:10Z"
+ },
+ {
+  "id": "q_fb67a102e3e4f87e",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of economic system is characterized by the coexistence of both private and public sectors?",
+  "qHi": "किस प्रकार की आर्थिक प्रणाली की विशेषता निजी और सार्वजनिक दोनों क्षेत्रों का सह-अस्तित्व है?",
+  "optsEn": [
+   "Capitalist economy",
+   "Socialist economy",
+   "Mixed economy",
+   "Traditional economy"
+  ],
+  "optsHi": [
+   "पूंजीवादी अर्थव्यवस्था",
+   "समाजवादी अर्थव्यवस्था",
+   "मिश्रित अर्थव्यवस्था",
+   "पारंपरिक अर्थव्यवस्था"
+  ],
+  "correct": 2,
+  "explainEn": "A mixed economy features a blend of private enterprise and state intervention.",
+  "sourceHint": "NCERT Class 12 Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:23:10Z"
+ },
+ {
+  "id": "q_d2ef75fa797e050b",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which part of the plant is primarily responsible for photosynthesis?",
+  "qHi": "पौधे का कौन सा भाग मुख्य रूप से प्रकाश संश्लेषण के लिए उत्तरदायी है?",
+  "optsEn": [
+   "Roots",
+   "Flowers",
+   "Leaf",
+   "Seed"
+  ],
+  "optsHi": [
+   "जड़ें",
+   "फूल",
+   "पत्ती",
+   "बीज"
+  ],
+  "correct": 2,
+  "explainEn": "Leaves contain chlorophyll and are the primary site of photosynthesis in plants.",
+  "sourceHint": "NCERT Class 12 Biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:23:10Z"
+ },
+ {
+  "id": "q_3db60f7c2680b0b1",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who was the chairman of the Drafting Committee of the Indian Constituent Assembly?",
+  "qHi": "भारतीय संविधान सभा की प्रारूप समिति के अध्यक्ष कौन थे?",
+  "optsEn": [
+   "Dr. B. R. Ambedkar",
+   "Dr. Rajendra Prasad",
+   "Jawaharlal Nehru",
+   "Sardar Vallabhbhai Patel"
+  ],
+  "optsHi": [
+   "डॉ. बी. आर. अम्बेडकर",
+   "डॉ. राजेंद्र प्रसाद",
+   "जवाहरलाल नेहरू",
+   "सरदार वल्लभभाई पटेल"
+  ],
+  "correct": 0,
+  "explainEn": "Dr. B. R. Ambedkar chaired the Drafting Committee appointed to prepare a draft constitution for India.",
+  "sourceHint": "NCERT Class 12 Political Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:23:10Z"
+ },
+ {
+  "id": "q_7cbef8d0117a58c1",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the molecular geometry of a methane molecule (CH4) according to VSEPR theory?",
+  "qHi": "VSEPR सिद्धांत के अनुसार मीथेन अणु (CH4) की आणविक ज्यामिति क्या है?",
+  "optsEn": [
+   "Linear",
+   "Trigonal planar",
+   "Tetrahedral",
+   "Octahedral"
+  ],
+  "optsHi": [
+   "रैखिक",
+   "त्रिकोणीय समतलीय",
+   "चतुष्फलकीय",
+   "अष्टफलकीय"
+  ],
+  "correct": 2,
+  "explainEn": "Methane has four bonding pairs and zero lone pairs around the central carbon atom, resulting in a tetrahedral geometry with bond angles of 109.5 degrees.",
+  "sourceHint": "NCERT Class 11 Chemistry, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:23:49Z"
+ },
+ {
+  "id": "q_44be3c8b7d37372d",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In macroeconomics, which of the following is considered a flow variable?",
+  "qHi": "समष्टि अर्थशास्त्र में, निम्नलिखित में से किसे प्रवाह चर माना जाता है?",
+  "optsEn": [
+   "Capital",
+   "Wealth",
+   "Investment",
+   "Foreign exchange reserves"
+  ],
+  "optsHi": [
+   "पूंजी",
+   "धन",
+   "निवेश",
+   "विदेशी मुद्रा भंडार"
+  ],
+  "correct": 2,
+  "explainEn": "Investment is measured over a period of time, making it a flow variable, whereas capital and wealth are stock variables measured at a particular point in time.",
+  "sourceHint": "NCERT Class 12 Macroeconomics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:23:49Z"
+ },
+ {
+  "id": "q_b22bf323b1b457f4",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of crystalline solid is quartz (SiO2) classified under?",
+  "qHi": "क्वेर्ट्ज़ (SiO2) को किस प्रकार के क्रिस्टलीय ठोस के रूप में वर्गीकृत किया गया है?",
+  "optsEn": [
+   "Ionic solid",
+   "Metallic solid",
+   "Molecular solid",
+   "Covalent network solid"
+  ],
+  "optsHi": [
+   "आयनिक ठोस",
+   "धात्विक ठोस",
+   "आणविक ठोस",
+   "सहसंयोजक नेटवर्क ठोस"
+  ],
+  "correct": 3,
+  "explainEn": "Quartz is a covalent network solid in which silicon and oxygen atoms are linked together by covalent bonds in a three-dimensional network.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:23:49Z"
+ },
+ {
+  "id": "q_46e4c0418b89b684",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which process is primarily responsible for the transport of water up to great heights in tall trees?",
+  "qHi": "लंबी पेड़ों में अत्यधिक ऊंचाई तक पानी के परिवहन के लिए मुख्य रूप से कौन सी प्रक्रिया जिम्मेदार है?",
+  "optsEn": [
+   "Root pressure",
+   "Transpiration pull",
+   "Active transport",
+   "Imbibition"
+  ],
+  "optsHi": [
+   "मूल दाब",
+   "वाष्पोत्सर्जन खिंचाव",
+   "सक्रिय परिवहन",
+   "अन्तःशोषण"
+  ],
+  "correct": 1,
+  "explainEn": "Transpiration pull creates a negative pressure potential in the xylem, pulling water up against gravity in tall plants.",
+  "sourceHint": "NCERT Class 11 Biology, Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:23:49Z"
+ },
+ {
+  "id": "q_ef99c7ee3e9b6de9",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which soil type, formed due to intense leaching in tropical regions with high rainfall, is generally poor in organic matter?",
+  "qHi": "उच्च वर्षा वाले उष्णकटिबंधीय क्षेत्रों में तीव्र निक्षालन के कारण बनने वाली कौन सी मिट्टी आम तौर पर कार्बनिक पदार्थों में कम होती है?",
+  "optsEn": [
+   "Alluvial soil",
+   "Black soil",
+   "Laterite soil",
+   "Arid soil"
+  ],
+  "optsHi": [
+   "जलोढ़ मिट्टी",
+   "काली मिट्टी",
+   "लैटेराइट मिट्टी",
+   "शुष्क मिट्टी"
+  ],
+  "correct": 2,
+  "explainEn": "Laterite soils develop in areas with high temperature and heavy rainfall, leading to heavy leaching which washes away nutrients, leaving soils low in organic matter.",
+  "sourceHint": "NCERT Class 12 Geography, India People and Economy",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:23:49Z"
+ },
+ {
+  "id": "q_3ab5b97b4a4fff57",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which enzyme is primarily responsible for the continuous synthesis of the leading strand during DNA replication in Escherichia coli?",
+  "qHi": "एशेशिया कोलाई में डीएनए प्रतिकृति के दौरान प्रमुख स्ट्रैंड के निरंतर संश्लेषण के लिए मुख्य रूप से कौन सा एंजाइम जिम्मेदार है?",
+  "optsEn": [
+   "DNA polymerase I",
+   "DNA polymerase III",
+   "RNA primase",
+   "DNA ligase"
+  ],
+  "optsHi": [
+   "डीएनए पॉलीमरेज I",
+   "डीएनए पॉलीमरेज III",
+   "आरएनए प्राइमेज",
+   "डीएनए लाइगेज"
+  ],
+  "correct": 1,
+  "explainEn": "DNA polymerase III is the main polymerizing enzyme responsible for de novo synthesis of both the leading and lagging strands in E. coli.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 6: Molecular Basis of Inheritance",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:24:56Z"
+ },
+ {
+  "id": "q_34df6fd10d4bf863",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary crystalline product formed during the commercial extraction of aluminium by the Hall-Héroult process before electrolytic reduction?",
+  "qHi": "हॉल-हेरोल्ट प्रक्रिया द्वारा एल्यूमीनियम के व्यावसायिक निष्कर्षण के दौरान इलेक्ट्रोलाइटिक कमी से पहले बनने वाला मुख्य क्रिस्टलीय उत्पाद कौन सा है?",
+  "optsEn": [
+   "Anhydrous aluminium chloride",
+   "Pure alumina dissolved in molten cryolite",
+   "Basic aluminium carbonate",
+   "Hydrated aluminium sulfate"
+  ],
+  "optsHi": [
+   "निर्जल एल्यूमीनियम क्लोराइड",
+   "पिघले हुए क्रायोलाइट में घुला हुआ शुद्ध एलुमिना",
+   "बेसिक एल्यूमीनियम कार्बोनेट",
+   "हाइड्रेटेड एल्यूमीनियम सल्फेट"
+  ],
+  "correct": 1,
+  "explainEn": "In the Hall-Héroult process, purified alumina (Al2O3) is dissolved in molten cryolite (Na3AlF6) to lower its melting point and increase conductivity before electrolysis.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 6: General Principles and Processes of Isolation of Elements",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:24:56Z"
+ },
+ {
+  "id": "q_bb5d5f0432b20c3b",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Article of the Constitution of India explicitly provides for the independence of the judiciary by stating that the State shall take steps to separate the judiciary from the executive in the public services of the State?",
+  "qHi": "भारत के संविधान का कौन सा अनुच्छेद राज्य की लोक सेवाओं में न्यायपालिका को कार्यपालिका से अलग करने के लिए राज्य द्वारा कदम उठाए जाने का प्रावधान करके स्पष्ट रूप से न्यायपालिका की स्वतंत्रता प्रदान करता है?",
+  "optsEn": [
+   "Article 39A",
+   "Article 44",
+   "Article 50",
+   "Article 51"
+  ],
+  "optsHi": [
+   "अनुच्छेद 39क",
+   "अनुच्छेद 44",
+   "अनुच्छेद 50",
+   "अनुच्छेद 51"
+  ],
+  "correct": 2,
+  "explainEn": "Article 50 of the Directive Principles of State Policy in the Constitution of India directs the State to separate the judiciary from the executive.",
+  "sourceHint": "Constitution of India, Part IV - Directive Principles of State Policy",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:24:56Z"
+ },
+ {
+  "id": "q_1c560549adaff45c",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of macroeconomic equilibrium in a two-sector economy, if the marginal propensity to save (MPS) is 0.2, what is the value of the investment multiplier?",
+  "qHi": "दो-क्षेत्रीय अर्थव्यवस्था में समष्टि आर्थिक संतुलन के संदर्भ में, यदि सीमांत बचत प्रवृत्ति (MPS) 0.2 है, तो निवेश गुणक का मान क्या है?",
+  "optsEn": [
+   "2",
+   "4",
+   "5",
+   "10"
+  ],
+  "optsHi": [
+   "2",
+   "4",
+   "5",
+   "10"
+  ],
+  "correct": 2,
+  "explainEn": "The investment multiplier (k) is calculated as 1 / MPS. Since MPS is 0.2, k = 1 / 0.2 = 5.",
+  "sourceHint": "NCERT Class 12 Macroeconomics, Chapter 4: Determination of Income and Employment",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:24:56Z"
+ },
+ {
+  "id": "q_04dc4bcfac49a7f9",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which British official introduced the 'Doctrine of Lapse', through which the princely states of Satara, Nagpur, and Jhansi were annexed?",
+  "qHi": "किस ब्रिटिश अधिकारी ने 'व्यपगत का सिद्धांत' (डॉक्ट्रिन ऑफ लैप्स) शुरू किया था, जिसके माध्यम से सतारा, नागपुर और झाँसी की रियासतों का विलय किया गया था?",
+  "optsEn": [
+   "Lord Wellesley",
+   "Lord Dalhousie",
+   "Lord Cornwallis",
+   "Lord Canning"
+  ],
+  "optsHi": [
+   "लॉर्ड वेलेजली",
+   "लॉर्ड डलहौजी",
+   "लॉर्ड कॉर्नवालिस",
+   "लॉर्ड कैनिंग"
+  ],
+  "correct": 1,
+  "explainEn": "Lord Dalhousie, who served as the Governor-General of India from 1848 to 1856, extensively applied the Doctrine of Lapse to annex various princely states.",
+  "sourceHint": "NCERT Class 12 History, Chapter 11: Rebels and the Raj",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:24:56Z"
+ },
+ {
+  "id": "q_dc4d02a7785e28db",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary chemical species responsible for the temporary hardness of water?",
+  "qHi": "पानी की अस्थायी कठोरता के लिए मुख्य रूप से कौन सी रासायनिक प्रजाति जिम्मेदार है?",
+  "optsEn": [
+   "Calcium and magnesium sulfates",
+   "Calcium and magnesium chlorides",
+   "Calcium and magnesium bicarbonates",
+   "Sodium and potassium carbonates"
+  ],
+  "optsHi": [
+   "कैल्शियम और मैग्नीशियम सल्फेट",
+   "कैल्शियम और मैग्नीशियम क्लोराइड",
+   "कैल्शियम और मैग्नीशियम बाइकार्बोनेट",
+   "सोडियम और पोटेशियम कार्बोनेट"
+  ],
+  "correct": 2,
+  "explainEn": "Temporary hardness in water is caused by the presence of dissolved bicarbonates of calcium and magnesium (Ca(HCO3)2 and Mg(HCO3)2).",
+  "sourceHint": "NCERT Class 11 Chemistry, Chapter 9: Hydrogen (NCERT foundational for Class 12 inorganic chemistry)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:24:56Z"
+ },
+ {
+  "id": "q_8906372f39e763c3",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In a p-n junction diode under reverse bias condition, what constitutes the primary flow of current across the junction?",
+  "qHi": "पश्च अभिनति (रिवर्स बायस) स्थिति में पी-एन जंक्शन डायोड में जंक्शन के पार वर्तमान का प्राथमिक प्रवाह क्या बनाता है?",
+  "optsEn": [
+   "Diffusion of majority charge carriers",
+   "Drift of minority charge carriers",
+   "Recombination of electrons and holes",
+   "Thermal emission of valence electrons"
+  ],
+  "optsHi": [
+   "बहुसंख्यक आवेश वाहकों का विसरण",
+   "अल्पसंख्यक आवेश वाहकों का बहाव",
+   "इलेक्ट्रॉनों और होल्ज़ का पुनर्संयोजन",
+   "संयोजकता इलेक्ट्रॉनों का थर्मल उत्सर्जन"
+  ],
+  "correct": 1,
+  "explainEn": "Under reverse bias, the barrier height increases, impeding majority carriers. However, thermally generated minority charge carriers easily drift across the junction, constituting a small reverse saturation current.",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 14: Semiconductor Electronics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:24:56Z"
+ },
+ {
+  "id": "q_aab087f9195ff16f",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which fundamental right guaranteed by the Constitution of India cannot be suspended even during a National Emergency declared under Article 352?",
+  "qHi": "भारत के संविधान द्वारा गारंटीकृत कौन सा मौलिक अधिकार अनुच्छेद 352 के तहत घोषित राष्ट्रीय आपातकाल के दौरान भी निलंबित नहीं किया जा सकता है?",
+  "optsEn": [
+   "Article 14 and Article 19",
+   "Article 19 and Article 21",
+   "Article 20 and Article 21",
+   "Article 21 and Article 22"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14 और अनुच्छेद 19",
+   "अनुच्छेद 19 और अनुच्छेद 21",
+   "अनुच्छेद 20 और अनुच्छेद 21",
+   "अनुच्छेद 21 और अनुच्छेद 22"
+  ],
+  "correct": 2,
+  "explainEn": "By the 44th Amendment Act, 1978, the rights guaranteed under Article 20 (protection in respect of conviction for offences) and Article 21 (protection of life and personal liberty) cannot be suspended during a National Emergency.",
+  "sourceHint": "NCERT Class 11/12 Political Science, Indian Constitution at Work / Polity basics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:24:56Z"
  }
 ]

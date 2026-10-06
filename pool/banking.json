@@ -4898,5 +4898,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-06T06:24:04Z"
+ },
+ {
+  "id": "q_1eb24c90dfbbbce4",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which term is used to describe the interest rate at which the Reserve Bank of India lends short-term money to commercial banks?",
+  "qHi": "उस ब्याज दर को क्या कहा जाता है जिस पर भारतीय रिजर्व बैंक वाणिज्यिक बैंकों को अल्पकालिक ऋण देता है?",
+  "optsEn": [
+   "Repo Rate",
+   "Reverse Repo Rate",
+   "Bank Rate",
+   "Cash Reserve Ratio"
+  ],
+  "optsHi": [
+   "रेपो रेट",
+   "रिवर्स रेपो रेट",
+   "बैंक रेट",
+   "नकद आरक्षित अनुपात"
+  ],
+  "correct": 0,
+  "explainEn": "Repo rate is the rate at which the central bank lends money to commercial banks in the event of any shortfall of funds.",
+  "sourceHint": "RBI monetary policy publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:23:24Z"
+ },
+ {
+  "id": "q_ac494b6e102f7ad2",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the digit 'C' represent in the banking term 'MICR' used on cheque leaves?",
+  "qHi": "चेक पत्तियों पर प्रयुक्त बैंकिंग शब्द 'MICR' में अंक 'C' क्या दर्शाता है?",
+  "optsEn": [
+   "Character",
+   "Credit",
+   "Currency",
+   "Clearing"
+  ],
+  "optsHi": [
+   "कैरेक्टर",
+   "क्रेडिट",
+   "करेंसी",
+   "क्लियरिंग"
+  ],
+  "correct": 0,
+  "explainEn": "MICR stands for Magnetic Ink Character Recognition.",
+  "sourceHint": "NCERT Business Studies and Banking Basics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:23:24Z"
+ },
+ {
+  "id": "q_bc99e8fc52b75787",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which card is issued by the National Payments Corporation of India (NPCI)?",
+  "qHi": "नेशनल पेमेंट्स कॉर्पोरेशन ऑफ इंडिया (NPCI) द्वारा कौन सा कार्ड जारी किया जाता है?",
+  "optsEn": [
+   "RuPay",
+   "Visa",
+   "Mastercard",
+   "American Express"
+  ],
+  "optsHi": [
+   "रुपे",
+   "वीज़ा",
+   "मास्टरकार्ड",
+   "अमेरिकन एक्सप्रेस"
+  ],
+  "correct": 0,
+  "explainEn": "RuPay is an indigenous domestic card scheme conceived and launched by the National Payments Corporation of India (NPCI).",
+  "sourceHint": "NPCI official portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:23:24Z"
+ },
+ {
+  "id": "q_59aa3074e7aa4914",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In the context of banking accounts, what does 'KYC' stand for?",
+  "qHi": "बैंकिंग खातों के संदर्भ में, 'KYC' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Know Your Customer",
+   "Keep Your Cash",
+   "Key Yield Calculation",
+   "Knowledge Yearly Check"
+  ],
+  "optsHi": [
+   "नो योर कस्टमर",
+   "कीप योर कैश",
+   "की यील्ड कैलकुलेशन",
+   "नॉलेज इयरली चेक"
+  ],
+  "correct": 0,
+  "explainEn": "KYC stands for Know Your Customer, a mandatory process for banks to verify the identity of their clients.",
+  "sourceHint": "RBI guidelines on KYC",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:23:24Z"
+ },
+ {
+  "id": "q_799ac719bbf8e7f6",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following institutions regulates the Micro Finance Institutions (MFIs) in India that are registered as Non-Banking Financial Companies (NBFC-MFIs)?",
+  "qHi": "निम्नलिखित में से कौन सी संस्था भारत में गैर-बैंकिंग वित्तीय कंपनियों (NBFC-MFIs) के रूप में पंजीकृत माइक्रो फाइनेंस संस्थानों (MFIs) को विनियमित करती है?",
+  "optsEn": [
+   "Ministry of Finance",
+   "NABARD",
+   "Reserve Bank of India",
+   "SIDBI"
+  ],
+  "optsHi": [
+   "वित्त मंत्रालय",
+   "नाबार्ड",
+   "भारतीय रिजर्व बैंक",
+   "सिडबी"
+  ],
+  "correct": 2,
+  "explainEn": "Reserve Bank of India regulates all NBFCs, including NBFC-MFIs, under the Reserve Bank of India Act, 1934.",
+  "sourceHint": "Reserve Bank of India Master Directions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:24:28Z"
+ },
+ {
+  "id": "q_b55f4cebccf2beb9",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum amount guaranteed by the Deposit Insurance and Credit Guarantee Corporation (DICGC) per depositor per bank in India?",
+  "qHi": "भारत में डिपाजिट इंश्योरेंस एंड क्रेडिट गारंटी कॉरपोरेशन (DICGC) द्वारा प्रति depositor प्रति bank अधिकतम कितनी राशि की बीमा गारंटी दी जाती है?",
+  "optsEn": [
+   "1 Lakh rupees",
+   "2 Lakh rupees",
+   "5 Lakh rupees",
+   "10 Lakh rupees"
+  ],
+  "optsHi": [
+   "1 लाख रुपये",
+   "2 लाख रुपये",
+   "5 लाख रुपये",
+   "10 लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "DICGC provides insurance up to 5 Lakh rupees per depositor per bank for both principal and interest.",
+  "sourceHint": "DICGC Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:24:28Z"
+ },
+ {
+  "id": "q_558e48c65fd22b90",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of international trade and banking, what does the term 'Nostro Account' refer to?",
+  "qHi": "अंतर्राष्ट्रीय व्यापार और बैंकिंग के संदर्भ में, 'Nostro Account' शब्द का क्या अर्थ है?",
+  "optsEn": [
+   "An account held by a foreign bank in a domestic bank in local currency",
+   "An account held by a domestic bank in a foreign bank in foreign currency",
+   "An account held by an individual for non-resident ordinary transactions",
+   "A government account maintained with the central bank"
+  ],
+  "optsHi": [
+   "एक विदेशी बैंक द्वारा घरेलू बैंक में स्थानीय मुद्रा में रखा गया खाता",
+   "एक घरेलू बैंक द्वारा विदेशी बैंक में विदेशी मुद्रा में रखा गया खाता",
+   "अनिवासी साधारण लेन-देन के लिए किसी व्यक्ति द्वारा रखा गया खाता",
+   "केंद्रीय बैंक के पास रखा गया सरकारी खाता"
+  ],
+  "correct": 1,
+  "explainEn": "A Nostro account is a bank account held by a domestic bank in a foreign country in the foreign country's currency.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) Study Material",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:24:28Z"
+ },
+ {
+  "id": "q_3c344ecb3450242e",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following money market instruments is also known as a zero-coupon bond?",
+  "qHi": "निम्नलिखित में से किस मुद्रा बाजार उपकरण को जीरो-कूपन बॉन्ड के रूप में भी जाना जाता है?",
+  "optsEn": [
+   "Certificate of Deposit",
+   "Commercial Paper",
+   "Treasury Bill",
+   "Call Money"
+  ],
+  "optsHi": [
+   "प्रमाण पत्र जमा (Certificate of Deposit)",
+   "वाणिज्यिक पत्र (Commercial Paper)",
+   "राजकोषीय बिल (Treasury Bill)",
+   "कॉल मनी"
+  ],
+  "correct": 2,
+  "explainEn": "Treasury bills are issued at a discount and redeemed at face value, which is why they are referred to as zero-coupon bonds.",
+  "sourceHint": "Reserve Bank of India Financial Markets Primer",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:24:28Z"
+ },
+ {
+  "id": "q_c747142268a0d9e1",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the validity period of a negotiable instrument cheque in India as per current guidelines?",
+  "qHi": "वर्तमान दिशा-निर्देशों के अनुसार भारत में परक्राम्य लिखत (cheque) की वैधता अवधि क्या है?",
+  "optsEn": [
+   "1 Month",
+   "3 Months",
+   "6 Months",
+   "12 Months"
+  ],
+  "optsHi": [
+   "1 महीना",
+   "3 महीने",
+   "6 महीने",
+   "12 महीने"
+  ],
+  "correct": 1,
+  "explainEn": "RBI directed that the validity period of cheques, demand drafts, and pay orders is 3 months from the date of issue.",
+  "sourceHint": "RBI Circulars on Cheque Validity",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:24:28Z"
+ },
+ {
+  "id": "q_b6a94cca81d486cc",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following terms is used to describe a situation where a bank lends money to a borrower for a very short period, typically overnight?",
+  "qHi": "उस स्थिति का वर्णन करने के लिए निम्नलिखित में से किस शब्द का उपयोग किया जाता है जहाँ एक बैंक किसी उधारकर्ता को बहुत कम अवधि के लिए, आमतौर पर रातों-रात (overnight), ऋण देता है?",
+  "optsEn": [
+   "Term Loan",
+   "Call Money",
+   "Notice Money",
+   "Retail Credit"
+  ],
+  "optsHi": [
+   "मीम लोन",
+   "कॉल मनी",
+   "नोटिस मनी",
+   "रिटेल क्रेडिट"
+  ],
+  "correct": 1,
+  "explainEn": "Call money is the borrowing or lending of funds for 1 day (overnight) in the money market.",
+  "sourceHint": "NCERT Economics and Indian Financial System Textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:24:28Z"
+ },
+ {
+  "id": "q_69e77ed037660753",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'P' stand for in the Prompt Corrective Action (PCA) framework used by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा उपयोग किए जाने वाले प्रॉम्प्ट करेक्टिव एक्शन (PCA) फ्रेमवर्क में अक्षर 'P' का क्या अर्थ है?",
+  "optsEn": [
+   "Prudential",
+   "Prompt",
+   "Public",
+   "Primary"
+  ],
+  "optsHi": [
+   "प्रूडेंशियल",
+   "प्रॉम्प्ट",
+   "पब्लिक",
+   "प्राइमरी"
+  ],
+  "correct": 1,
+  "explainEn": "PCA stands for Prompt Corrective Action, a framework under which banks with weak financial metrics are watched by the RBI.",
+  "sourceHint": "RBI Notifications on PCA Framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T18:24:28Z"
  }
 ]
