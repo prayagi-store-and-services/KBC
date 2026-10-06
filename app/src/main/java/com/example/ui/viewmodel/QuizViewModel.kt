@@ -327,63 +327,6 @@ class QuizViewModel(application: Application) : AndroidViewModel(application) {
                 if (!hasMic && !(isTv && !deviceHasMic)) missing.add("Microphone")
                 if (!hasNotification && !isTv) missing.add("Notifications")
 
-                android.util.Log.d("TarkShastra", "PROFILE_VALIDATED: Profile successfully persisted")
-
-                _uiState.value = QuizUiState.ProfileInstalling(0.4f, "लाइव करंट अफेयर्स और ज्ञान वैक्टर सिंक हो रहे हैं...")
-                delay(500)
-                try {
-                    repository.syncCurrentAffairsSilently(updatedProfile)
-                } catch (e: Exception) {
-                    android.util.Log.e("TarkShastra", "BANK_DOWNLOAD_FAILED: Current affairs sync error: ${e.message}")
-                }
-
-                _uiState.value = QuizUiState.ProfileInstalling(0.75f, "गेम शुरू करने की तैयारी (Preparing to start the game)...")
-                android.util.Log.d("TarkShastra", "BANK_CHECK_STARTED / BANK_DOWNLOAD_STARTED")
-                delay(500)
-
-                _uiState.value = QuizUiState.ProfileInstalling(1.0f, "तैयार! गेम शुरू हो रहा है (Ready, starting the game)...")
-                delay(400)
-
-                startNewGame()
-            } catch (e: Exception) {
-                android.util.Log.e("TarkShastra", "SESSION_CREATION_FAILED or START_GAME_FAILED: ${e.message}")
-                _uiState.value = QuizUiState.PermissionRequired(
-                    listOf(),
-                    "⚠️ Game Start Error: ${e.message}. Please retry."
-                )
-            }
-        }
-    }
-
-    fun startNewGame() {
-        if (isStartingGame) return
-        isStartingGame = true
-
-        viewModelScope.launch {
-            try {
-                android.util.Log.d("TarkShastra", "START_GAME_REQUEST invoked")
-                val context = getApplication<Application>()
-                val isTv = com.example.util.DeviceCapabilities.isTv(context)
-                val deviceHasCamera = com.example.util.DeviceCapabilities.hasCamera(context)
-                val deviceHasMic = com.example.util.DeviceCapabilities.hasMicrophone(context)
-
-                val hasCamera = if (isTv && !deviceHasCamera) true else androidx.core.content.ContextCompat.checkSelfPermission(context, android.Manifest.permission.CAMERA) == android.content.pm.PackageManager.PERMISSION_GRANTED
-                val hasMic = if (isTv && !deviceHasMic) true else androidx.core.content.ContextCompat.checkSelfPermission(context, android.Manifest.permission.RECORD_AUDIO) == android.content.pm.PackageManager.PERMISSION_GRANTED
-                val hasNotification = if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.TIRAMISU) {
-                    androidx.core.content.ContextCompat.checkSelfPermission(context, android.Manifest.permission.POST_NOTIFICATIONS) == android.content.pm.PackageManager.PERMISSION_GRANTED
-                } else {
-                    true
-                }
-
-                val missing = mutableListOf<String>()
-                if (!hasCamera && !(isTv && !deviceHasCamera)) missing.add("Camera")
-                if (!hasMic && !(isTv && !deviceHasMic)) missing.add("Microphone")
-                if (!hasNotification && !isTv) missing.add("Notifications")
-
-                // Denied permissions never block a game. Only the anti-cheat part that needs the permission is off, and the game screen says so.
-                val antiCheatMissing = missing.filter { it == "Camera" || it == "Microphone" }
-                _antiCheatNote.value = if (antiCheatMissing.isEmpty()) null else antiCheatMissing.joinToString(" and ")
-
                 android.util.Log.d("TarkShastra", "PROFILE_VALIDATED for game start")
                 cleanupSessionResources()
                 isFinalized.set(false)
@@ -1156,7 +1099,7 @@ class QuizViewModel(application: Application) : AndroidViewModel(application) {
 
             // Speak Result
             if (_isVoiceNarrationEnabled.value) {
-                    speechNarrator.speakFinalResult(
+                speechNarrator.speakFinalResult(
                         correct = currentSessionCorrectCount,
                         incorrect = currentSessionWrongCount,
                         pointsWon = finalPoints,
