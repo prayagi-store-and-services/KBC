@@ -34,7 +34,7 @@ object UpdateAlert {
     private const val PREFS = "netra_update_alert"
 
     fun start(activity: Activity) {
-        schedule(activity.applicationContext)
+        try { schedule(activity.applicationContext) } catch (_: Exception) { /* background check unavailable; the manual check still works */ }
         handle(activity, activity.intent)
     }
 
