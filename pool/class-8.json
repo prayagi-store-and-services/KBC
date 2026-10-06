@@ -2434,5 +2434,453 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-06T00:09:05Z"
+ },
+ {
+  "id": "q_21b0d36c9c5f936f",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who is the author of the autobiography 'An Autobiography', written during imprisonment?",
+  "qHi": "कारावास के दौरान लिखी गई आत्मकथा 'एन ऑटोबायोग्राफी' के लेखक कौन हैं?",
+  "optsEn": [
+   "Mahatma Gandhi",
+   "Jawaharlal Nehru",
+   "Subhash Chandra Bose",
+   "Rabindranath Tagore"
+  ],
+  "optsHi": [
+   "महात्मा गांधी",
+   "जawaharlal नेहरू",
+   "सुभाष चंद्र बोस",
+   "रवींद्रनाथ टैगोर"
+  ],
+  "correct": 1,
+  "explainEn": "Jawaharlal Nehru wrote 'An Autobiography' during his imprisonment between 1934 and 1935.",
+  "sourceHint": "NCERT History Class 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:22:36Z"
+ },
+ {
+  "id": "q_ff9a9f218f181e3b",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which metal is stored in kerosene because it reacts vigorously with air and moisture?",
+  "qHi": "किस धातु को मिट्टी के तेल (केरोसीन) में रखा जाता है क्योंकि यह हवा और नमी के साथ तेजी से प्रतिक्रिया करती है?",
+  "optsEn": [
+   "Gold",
+   "Sodium",
+   "Copper",
+   "Silver"
+  ],
+  "optsHi": [
+   "सोना",
+   "सोडियम",
+   "तांबा",
+   "चांदी"
+  ],
+  "correct": 1,
+  "explainEn": "Sodium is a very reactive metal and catches fire if kept in the open air.",
+  "sourceHint": "NCERT Science Class 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:22:36Z"
+ },
+ {
+  "id": "q_041a49f5bc7f258c",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What term is used to describe the species of plants and animals that are found exclusively in a particular area?",
+  "qHi": "विशेष क्षेत्र में विशेष रूप से पाए जाने वाले पौधों और जानवरों की प्रजातियों का वर्णन करने के लिए किस शब्द का उपयोग किया जाता है?",
+  "optsEn": [
+   "Migratory species",
+   "Endemic species",
+   "Extinct species",
+   "Domesticated species"
+  ],
+  "optsHi": [
+   "प्रवासी प्रजातियां",
+   "स्थानिक प्रजातियां",
+   "विलुप्त प्रजातियां",
+   "पालतू प्रजातियां"
+  ],
+  "correct": 1,
+  "explainEn": "Endemic species are plants and animals that exist only in one geographic region.",
+  "sourceHint": "NCERT Science Class 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:22:36Z"
+ },
+ {
+  "id": "q_d793ff99db9c8670",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which planet in our solar system has a prominent system of icy rings visible through telescopes?",
+  "qHi": "हमारे सौर मंडल में किस ग्रह पर दूरबीन से दिखाई देने वाली बर्फ के छल्ला प्रणाली प्रमुख रूप से मौजूद है?",
+  "optsEn": [
+   "Mars",
+   "Saturn",
+   "Venus",
+   "Mercury"
+  ],
+  "optsHi": [
+   "मंगल",
+   "शनि",
+   "शुक्र",
+   "बुध"
+  ],
+  "correct": 1,
+  "explainEn": "Saturn is well known for its extensive and bright ring system made mostly of ice particles.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 17",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:23:35Z"
+ },
+ {
+  "id": "q_c15baed4363fc69b",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which micro-organism is used in the commercial production of alcohol and wine by converting sugar?",
+  "qHi": "चीनी को परिवर्तित करके अल्कोहल और वाइन के व्यावसायिक उत्पादन में किस सूक्ष्म जीव का उपयोग किया जाता है?",
+  "optsEn": [
+   "Lactobacillus",
+   "Yeast",
+   "Amoeba",
+   "Penicillin"
+  ],
+  "optsHi": [
+   "लैक्टोबैसेिलस",
+   "यीस्ट",
+   "अमीबा",
+   "पेनिसिलिन"
+  ],
+  "correct": 1,
+  "explainEn": "Yeast reproduces rapidly and respires anaerobically, converting sugars into alcohol through fermentation.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:23:35Z"
+ },
+ {
+  "id": "q_9c0c25a29c7e6d22",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which fundamental right in the Indian Constitution prohibits human trafficking and forced labor?",
+  "qHi": "भारतीय संविधान का कौन सा मौलिक अधिकार मानव तस्करी और जबरन श्रम पर प्रतिबंध लगाता है?",
+  "optsEn": [
+   "Right to Equality",
+   "Right to Freedom",
+   "Right against Exploitation",
+   "Cultural and Educational Rights"
+  ],
+  "optsHi": [
+   "समानता का अधिकार",
+   "स्वतंत्रता का अधिकार",
+   "शोषण के विरुद्ध अधिकार",
+   "सांस्कृतिक और शैक्षणिक अधिकार"
+  ],
+  "correct": 2,
+  "explainEn": "Articles 23 and 24 of the Indian Constitution guarantee the Right against Exploitation.",
+  "sourceHint": "NCERT Class 8 Civics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:23:35Z"
+ },
+ {
+  "id": "q_7c092cd9e83c8527",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which state of India is the Kaziranga National Park, famous for the one-horned rhinoceros, located?",
+  "qHi": "एक सींग वाले गैंडे के लिए प्रसिद्ध काजीरंगा राष्ट्रीय उद्यान भारत के किस राज्य में स्थित है?",
+  "optsEn": [
+   "Assam",
+   "Gujarat",
+   "Uttarakhand",
+   "Rajasthan"
+  ],
+  "optsHi": [
+   "असम",
+   "गुजरात",
+   "उत्तराखंड",
+   "राजस्थान"
+  ],
+  "correct": 0,
+  "explainEn": "Kaziranga National Park is situated in the Golaghat and Nagaon districts of Assam.",
+  "sourceHint": "NCERT Class 8 Geography, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:23:35Z"
+ },
+ {
+  "id": "q_f583ae4ad9369acd",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of force is friction, which always opposes the relative motion between two surfaces in contact?",
+  "qHi": "घर्षण किस प्रकार का बल है, जो हमेशा संपर्क में दो सतहों के बीच की सापेक्ष गति का विरोध करता है?",
+  "optsEn": [
+   "Magnetic force",
+   "Contact force",
+   "Electrostatic force",
+   "Gravitational force"
+  ],
+  "optsHi": [
+   "चुंबकीय बल",
+   "संपर्क बल",
+   "स्थिरवैद्युत बल",
+   "गुरुत्वाकर्षण बल"
+  ],
+  "correct": 1,
+  "explainEn": "Friction acts when two surfaces are in physical contact with each other, making it a contact force.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:23:35Z"
+ },
+ {
+  "id": "q_dc0b20c16d8cafed",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which metal is liquid at room temperature and is commonly used in thermometers?",
+  "qHi": "कमरे के तापमान पर कौन सी धातु तरल होती है और आमतौर पर थर्मामीटर में उपयोग की जाती है?",
+  "optsEn": [
+   "Iron",
+   "Mercury",
+   "Aluminum",
+   "Copper"
+  ],
+  "optsHi": [
+   "लोहा",
+   "पारा",
+   "एल्युमीनियम",
+   "तांबा"
+  ],
+  "correct": 1,
+  "explainEn": "Mercury is the only metallic element liquid at standard conditions for temperature and pressure.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:23:35Z"
+ },
+ {
+  "id": "q_d5214cf1d476e982",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "During the British colonial period in India, the Ryotwari system of land revenue was primarily introduced in which region?",
+  "qHi": "भारत में ब्रिटिश औपनिवेशिक काल के दौरान, भू-राजस्व की रयतवाड़ी व्यवस्था मुख्य रूप से किस क्षेत्र में शुरू की गई थी?",
+  "optsEn": [
+   "Bengal province",
+   "Southern India",
+   "Punjab region",
+   "Northern plains"
+  ],
+  "optsHi": [
+   "बंगाल प्रांत",
+   "दक्षिण भारत",
+   "पंजाब क्षेत्र",
+   "उत्तरी मैदान"
+  ],
+  "correct": 1,
+  "explainEn": "The Ryotwari system was devised by Captain Alexander Read and Thomas Munro, and introduced mainly in southern India.",
+  "sourceHint": "NCERT Class 8 History, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:23:35Z"
+ },
+ {
+  "id": "q_f9942d54da1f2810",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which planet in our solar system has a rotation period that is longer than its orbital period around the Sun?",
+  "qHi": "हमारे सौरमंडल में किस ग्रह का घूर्णन काल सूर्य के चारों ओर उसकी परिक्रमा अवधि से अधिक है?",
+  "optsEn": [
+   "Venus",
+   "Mars",
+   "Jupiter",
+   "Saturn"
+  ],
+  "optsHi": [
+   "शुक्र",
+   "मंगल",
+   "बृहस्पति",
+   "शनि"
+  ],
+  "correct": 0,
+  "explainEn": "Venus takes about 243 Earth days to rotate on its axis, but only 225 Earth days to complete one orbit around the Sun.",
+  "sourceHint": "NCERT Class 8 Science Chapter 17",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:24:21Z"
+ },
+ {
+  "id": "q_146ed4ccea1684ee",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the British colonial rule in India, the Ryotwari system of revenue settlement was primarily introduced in which region?",
+  "qHi": "भारत में ब्रिटिश ঔপনিবেশिक शासन के दौरान, राजस्व बंदोबस्त की रयतवाड़ी व्यवस्था मुख्य रूप से किस क्षेत्र में शुरू की गई थी?",
+  "optsEn": [
+   "Bengal Presidency",
+   "Madras and Bombay presidencies",
+   "United Provinces",
+   "Punjab region"
+  ],
+  "optsHi": [
+   "बंगाल प्रेसीडेंसी",
+   "मद्रास और बंबई प्रेसीडेंसी",
+   "संयुक्त प्रांत",
+   "पंजाब क्षेत्र"
+  ],
+  "correct": 1,
+  "explainEn": "The Ryotwari system was devised by Captain Alexander Read and Thomas Munro, and was introduced chiefly in the Madras and Bombay presidencies.",
+  "sourceHint": "NCERT Class 8 History Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:24:21Z"
+ },
+ {
+  "id": "q_8a323ead058a701d",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which type of coal has the highest carbon content and is considered the highest rank of coal?",
+  "qHi": "किस प्रकार के कोयले में कार्बन की मात्रा सबसे अधिक होती है और इसे कोयले की उच्चतम कोटि माना जाता है?",
+  "optsEn": [
+   "Peat",
+   "Lignite",
+   "Bituminous",
+   "Anthracite"
+  ],
+  "optsHi": [
+   "पीट",
+   "लिग्नाइट",
+   "बिटुमिनस",
+   "एन्थरासाइट"
+  ],
+  "correct": 3,
+  "explainEn": "Anthracite is the highest rank of coal, containing between 86% and 97% carbon, making it hard, glossy, and burning with very little smoke.",
+  "sourceHint": "NCERT Class 8 Science Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:24:21Z"
+ },
+ {
+  "id": "q_66c07507e188effc",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which micro-organism is primarily responsible for the conversion of milk into curd?",
+  "qHi": "दूध को दही में बदलने के लिए मुख्य रूप से कौन सा सूक्ष्मजीव जिम्मेदार है?",
+  "optsEn": [
+   "Rhizobium",
+   "Lactobacillus",
+   "Amoeba",
+   "Penicillium"
+  ],
+  "optsHi": [
+   "राइजोबियम",
+   "लैक्टोबैसिलस",
+   "अमीबा",
+   "पेनिसिलियम"
+  ],
+  "correct": 1,
+  "explainEn": "The bacterium Lactobacillus multiplies in milk and converts it into curd by producing lactic acid.",
+  "sourceHint": "NCERT Class 8 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:24:21Z"
+ },
+ {
+  "id": "q_e523da38c06f835c",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of soil conservation, what is the practice of growing different crops in alternate rows to protect the soil from rain wash called?",
+  "qHi": "मृदा संरक्षण के संदर्भ में, वर्षा के धुलाई से मिट्टी की रक्षा के लिए वैकल्पिक पंक्तियों में विभिन्न फसलें उगाने की प्रथा को क्या कहा जाता है?",
+  "optsEn": [
+   "Mulching",
+   "Contour barriers",
+   "Intercropping",
+   "Terrace farming"
+  ],
+  "optsHi": [
+   "मल्चिंग",
+   "समोच्च बाधाएं",
+   "अंतरफसल (इंटरक्रॉपिंग)",
+   "वेदी खेती (टेरिस फार्मिंग)"
+  ],
+  "correct": 2,
+  "explainEn": "Intercropping involves growing different crops in alternate rows to prevent rain wash from washing away the soil.",
+  "sourceHint": "NCERT Class 8 Geography Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:24:21Z"
+ },
+ {
+  "id": "q_fb16ddfe3720bcfd",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which metal is stored immersed in kerosene because it reacts vigorously with oxygen and moisture at room temperature?",
+  "qHi": "किस धातु को केरोसिन में डुबोकर रखा जाता है क्योंकि यह कमरे के तापमान पर ऑक्सीजन और नमी के साथ तेजी से प्रतिक्रिया करती है?",
+  "optsEn": [
+   "Copper",
+   "Gold",
+   "Sodium",
+   "Silver"
+  ],
+  "optsHi": [
+   "तांबा",
+   "सोना",
+   "सोडियम",
+   "चांदी"
+  ],
+  "correct": 2,
+  "explainEn": "Sodium is a highly reactive metal that catches fire if kept exposed to air, hence it is stored in kerosene.",
+  "sourceHint": "NCERT Class 8 Science Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:24:21Z"
  }
 ]

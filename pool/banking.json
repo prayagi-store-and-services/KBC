@@ -4534,5 +4534,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-06T00:10:00Z"
+ },
+ {
+  "id": "q_7ba0c66c97664608",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which institution acts as the central bank of India and regulates the banking system?",
+  "qHi": "कौन सी संस्था भारत के केंद्रीय बैंक के रूप में कार्य करती है और बैंकिंग प्रणाली को नियंत्रित करती है?",
+  "optsEn": [
+   "State Bank of India",
+   "Reserve Bank of India",
+   "Ministry of Finance",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "State Bank of India",
+   "Reserve Bank of India",
+   "Ministry of Finance",
+   "Securities and Exchange Board of India"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India (RBI) is India's central banking institution, established under the RBI Act of 1934.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:23:00Z"
+ },
+ {
+  "id": "q_6cd982fea7040352",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In the context of bank accounts, what does 'CASA' stand for?",
+  "qHi": "बैंक खातों के संदर्भ में, 'CASA' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Current Account Savings Account",
+   "Capital Asset Savings Account",
+   "Credit And Savings Assets",
+   "Centralized Account System Application"
+  ],
+  "optsHi": [
+   "Current Account Savings Account",
+   "Capital Asset Savings Account",
+   "Credit And Savings Assets",
+   "Centralized Account System Application"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account Savings Account, which refers to bank deposits that offer low or no interest.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:23:00Z"
+ },
+ {
+  "id": "q_d06546895b78cfea",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a specialized financial institution in India established mainly for the promotion and development of agriculture and rural areas?",
+  "qHi": "निम्नलिखित में से कौन सी भारत में एक विशिष्ट वित्तीय संस्था है जिसकी स्थापना मुख्य रूप से कृषि और ग्रामीण क्षेत्रों के संवर्धन और विकास के लिए की गई थी?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "NHB"
+  ],
+  "optsHi": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "NHB"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) was established in 1982 for agriculture and rural development.",
+  "sourceHint": "NABARD Act, 1981",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:23:00Z"
+ },
+ {
+  "id": "q_a3a14cf5c258f5ca",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of 'NEFT', a nationwide payment system allowing electronic transfer of funds?",
+  "qHi": "धन के इलेक्ट्रॉनिक हस्तांतरण की अनुमति देने वाली राष्ट्रव्यापी भुगतान प्रणाली 'NEFT' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "Net Electronic Financial Transaction",
+   "National Exchange Fund Transfer",
+   "New Electronic Finance Technology"
+  ],
+  "optsHi": [
+   "National Electronic Funds Transfer",
+   "Net Electronic Financial Transaction",
+   "National Exchange Fund Transfer",
+   "New Electronic Finance Technology"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, operated by the Reserve Bank of India.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:23:00Z"
+ },
+ {
+  "id": "q_400c178471b90f9b",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization regulates the mutual fund industry and stock markets in India?",
+  "qHi": "कौन सा संगठन भारत में म्यूचुअल फंड उद्योग और शेयर बाजारों को नियंत्रित करता है?",
+  "optsEn": [
+   "RBI",
+   "IRDAI",
+   "SEBI",
+   "PFRDA"
+  ],
+  "optsHi": [
+   "RBI",
+   "IRDAI",
+   "SEBI",
+   "PFRDA"
+  ],
+  "correct": 2,
+  "explainEn": "SEBI (Securities and Exchange Board of India) is the regulator for the securities and capital market in India.",
+  "sourceHint": "SEBI Act, 1992",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:23:00Z"
+ },
+ {
+  "id": "q_fe018836cd65b201",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the term 'Repo Rate' signify in monetary policy?",
+  "qHi": "मौद्रिक नीति में 'रेपो दर' (Repo Rate) शब्द का क्या अर्थ है?",
+  "optsEn": [
+   "Rate at which commercial banks lend to the RBI",
+   "Rate at which the RBI lends short-term money to commercial banks",
+   "Rate of interest on long-term government bonds",
+   "Inflation rate announced by the central government"
+  ],
+  "optsHi": [
+   "Rate at which commercial banks lend to the RBI",
+   "Rate at which the RBI lends short-term money to commercial banks",
+   "Rate of interest on long-term government bonds",
+   "Inflation rate announced by the central government"
+  ],
+  "correct": 1,
+  "explainEn": "Repo rate is the rate at which the central bank of a country lends money to commercial banks in the event of any shortfall of funds.",
+  "sourceHint": "Reserve Bank of India Monetary Policy",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:23:00Z"
+ },
+ {
+  "id": "q_31e14fde9d65f325",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which financial institution in India is the regulator of mutual funds and stock exchanges?",
+  "qHi": "भारत में कौन सा वित्तीय संस्थान म्यूचुअल फंड और स्टॉक एक्सचेंजों का नियामक है?",
+  "optsEn": [
+   "RBI",
+   "SEBI",
+   "NABARD",
+   "IRDAI"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "नाबार्ड",
+   "इरडा"
+  ],
+  "correct": 1,
+  "explainEn": "SEBI (Securities and Exchange Board of India) is the statutory regulator for the securities market in India, including mutual funds and stock exchanges.",
+  "sourceHint": "SEBI Act and Indian financial system manuals",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:24:04Z"
+ },
+ {
+  "id": "q_28d332d29faafd58",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the term 'Repo Rate' stand for in monetary policy?",
+  "qHi": "मौद्रिक नीति में 'रेपो रेट' शब्द का क्या अर्थ है?",
+  "optsEn": [
+   "Rate at which commercial banks lend to the central bank",
+   "Rate at which the central bank lends short-term funds to commercial banks",
+   "Long-term lending rate for corporate infrastructure projects",
+   "Interest rate paid on saving bank deposits"
+  ],
+  "optsHi": [
+   "वह दर जिस पर वाणिज्यिक बैंक केंद्रीय बैंक को ऋण देते हैं",
+   "वह दर जिस पर केंद्रीय बैंक वाणिज्यिक बैंकों को अल्पकालिक धन उधार देता है",
+   "कॉर्पोरेट बुनियादी ढांचा परियोजनाओं के लिए दीर्घकालिक ऋण दर",
+   "बचत बैंक जमा पर देय ब्याज दर"
+  ],
+  "correct": 1,
+  "explainEn": "Repo rate is the rate at which the central bank of a country lends money to commercial banks in the event of any shortfall of funds.",
+  "sourceHint": "RBI Monetary Policy terminology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:24:04Z"
+ },
+ {
+  "id": "q_586c87effd1bc1f0",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of banking, what does the acronym 'NEFT' stand for?",
+  "qHi": "बैंकिंग के संदर्भ में, संक्षिप्त नाम 'NEFT' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "Net Economic Financial Transaction",
+   "National Equity Funding Trust",
+   "New Electronic Foreign Transfer"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "नेट इकोनॉमिक फाइनेंशियल ट्रांजेक्शन",
+   "नेशनल इक्विटी फंडिंग ट्रस्ट",
+   "न्यू इलेक्ट्रॉनिक फॉरेन ट्रांसफर"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, an Indian nationwide centralized payment system owned and operated by the Reserve Bank of India.",
+  "sourceHint": "RBI payment systems documentation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:24:04Z"
+ },
+ {
+  "id": "q_f14d69af204b7169",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization regulates the insurance sector in India?",
+  "qHi": "भारत में बीमा क्षेत्र को कौन सा संगठन नियंत्रित करता है?",
+  "optsEn": [
+   "SEBI",
+   "PFRDA",
+   "IRDAI",
+   "SIDBI"
+  ],
+  "optsHi": [
+   "सेबी",
+   "पीएफआरडीए",
+   "इरडा",
+   "सिडबी"
+  ],
+  "correct": 2,
+  "explainEn": "IRDAI (Insurance Regulatory and Development Authority of India) is the apex body that regulates and develops the insurance industry in India.",
+  "sourceHint": "IRDAI official portal and Indian economy textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:24:04Z"
+ },
+ {
+  "id": "q_9bad11e3ad4e6fd3",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary function of NABARD in India?",
+  "qHi": "भारत में नाबार्ड (NABARD) का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "Regulating foreign exchange reserves",
+   "Providing credit for promotion of agriculture and rural development",
+   "Issuing currency and coins of all denominations",
+   "Regulating housing finance companies"
+  ],
+  "optsHi": [
+   "विदेशी मुद्रा भंडार को विनियमित करना",
+   "कृषि और ग्रामीण विकास के संवर्धन के लिए ऋण प्रदान करना",
+   "सभी मूल्यवर्ग के नोट और सिक्के जारी करना",
+   "आवास वित्त कंपनियों को विनियमित करना"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD is a development bank focusing primarily on the agriculture and rural sectors of India.",
+  "sourceHint": "NABARD statutory mandate and economic surveys",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:24:04Z"
+ },
+ {
+  "id": "q_97cb92f6e4883568",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is considered the lender of last resort for commercial banks in India?",
+  "qHi": "निम्नलिखित में से किसे भारत में वाणिज्यिक बैंकों के लिए अंतिम उपाय के ऋणदाता के रूप में माना जाता है?",
+  "optsEn": [
+   "State Bank of India",
+   "Reserve Bank of India",
+   "Ministry of Finance",
+   "Life Insurance Corporation"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "भारतीय रिजर्व बैंक",
+   "वित्त मंत्रालय",
+   "भारतीय जीवन बीमा निगम"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India acts as the lender of last resort, providing emergency credit to banks facing liquidity crises.",
+  "sourceHint": "RBI functions and Central Banking literature",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:24:04Z"
+ },
+ {
+  "id": "q_031f0bf130571cf9",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does 'CASA' ratio refer to in the context of commercial banking?",
+  "qHi": "वाणिज्यिक बैंकिंग के संदर्भ में 'CASA' अनुपात से क्या तात्पर्य है?",
+  "optsEn": [
+   "Credit and Savings Account ratio",
+   "Current Account and Savings Account ratio",
+   "Capital Adequacy and Statutory Asset ratio",
+   "Cash Assets and Statutory Advances ratio"
+  ],
+  "optsHi": [
+   "क्रेडिट और सेविंग्स अकाउंट अनुपात",
+   "करेंट अकाउंट और सेविंग्स अकाउंट अनुपात",
+   "कैपिटल एडिक्वेंसी और स्टेटटोरी एसेट अनुपात",
+   "कैश एसेट्स और स्टेटटोरी एडवांसेज अनुपात"
+  ],
+  "correct": 1,
+  "explainEn": "CASA ratio measures the proportion of deposits in Current Accounts and Savings Accounts to the total deposits of a bank, representing low-cost funds.",
+  "sourceHint": "Banking sector analysis reports and financial glossaries",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:24:04Z"
  }
 ]

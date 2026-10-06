@@ -4142,5 +4142,509 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-06T00:10:31Z"
+ },
+ {
+  "id": "q_4ac4ec901cd519b0",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the famous book 'Arthashastra'?",
+  "qHi": "प्रसिद्ध पुस्तक 'अर्थशास्त्र' किसने लिखी थी?",
+  "optsEn": [
+   "Kalidasa",
+   "Kautilya",
+   "Banabhatta",
+   "Valmiki"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "कौटिल्य",
+   "बाणभट्ट",
+   "वाल्मीकि"
+  ],
+  "correct": 1,
+  "explainEn": "Arthashastra was authored by Kautilya, also known as Chanakya.",
+  "sourceHint": "NCERT Class 12 History Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:22:44Z"
+ },
+ {
+  "id": "q_e2aa6d1cf81143c3",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas is most abundant in the Earth's atmosphere by volume?",
+  "qHi": "आयतन के हिसाब से पृथ्वी के वायुमंडल में कौन सी गैस सबसे प्रचुर मात्रा में है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "आर्गन"
+  ],
+  "correct": 2,
+  "explainEn": "Nitrogen makes up about 78 percent of Earth's atmosphere by volume.",
+  "sourceHint": "NCERT Class 11 Geography Chapter 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:22:44Z"
+ },
+ {
+  "id": "q_1d244f51b87e1887",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary commercial crop grown in the state of Assam?",
+  "qHi": "असम राज्य में उगाई जाने वाली मुख्य व्यावसायिक फसल कौन सी है?",
+  "optsEn": [
+   "Tea",
+   "Rubber",
+   "Coffee",
+   "Sugarcane"
+  ],
+  "optsHi": [
+   "चाय",
+   "रबर",
+   "कॉफ़ी",
+   "गन्ना"
+  ],
+  "correct": 0,
+  "explainEn": "Assam is globally famous for its tea production, which is a major commercial crop of the region.",
+  "sourceHint": "NCERT Class 10 Geography Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:22:44Z"
+ },
+ {
+  "id": "q_8c796e2ff77e0d07",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a scalar quantity?",
+  "qHi": "निम्नलिखित में से कौन सी एक अदिश राशि है?",
+  "optsEn": [
+   "Velocity",
+   "Acceleration",
+   "Force",
+   "Speed"
+  ],
+  "optsHi": [
+   "वेग",
+   "त्वरण",
+   "बल",
+   "चाल"
+  ],
+  "correct": 3,
+  "explainEn": "Speed has magnitude only and no specific direction, making it a scalar quantity.",
+  "sourceHint": "NCERT Class 11 Physics Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:22:44Z"
+ },
+ {
+  "id": "q_2f1b7410ab2c897f",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the order of a chemical reaction if its rate is independent of the concentration of the reactants?",
+  "qHi": "यदि किसी रासायनिक अभिक्रिया की दर अभिकारकों की सांद्रता से स्वतंत्र है, तो उस अभिक्रिया की कोटि क्या होगी?",
+  "optsEn": [
+   "Zero order",
+   "First order",
+   "Second order",
+   "Fractional order"
+  ],
+  "optsHi": [
+   "शून्य कोटि",
+   "प्रथम कोटि",
+   "द्वितीय कोटि",
+   "आंशिक कोटि"
+  ],
+  "correct": 0,
+  "explainEn": "A zero-order reaction has a rate that is independent of the reactant concentrations, meaning the rate equals the rate constant.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:23:47Z"
+ },
+ {
+  "id": "q_937623f021b31550",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which phenomenon provides direct experimental evidence for the wave nature of electrons?",
+  "qHi": "कौन सी घटना इलेक्ट्रॉनों की तरंग प्रकृति के लिए प्रत्यक्ष प्रायोगिक प्रमाण प्रदान करती है?",
+  "optsEn": [
+   "Photoelectric effect",
+   "Electron diffraction",
+   "Blackbody radiation",
+   "Compton scattering"
+  ],
+  "optsHi": [
+   "प्रकाशवैद्युत प्रभाव",
+   "इलेक्ट्रॉन विवर्तन",
+   "कृष्णिका विकिरण",
+   "कॉम्पटन प्रकीर्णन"
+  ],
+  "correct": 1,
+  "explainEn": "Davisson and Germer's experiment on electron diffraction demonstrated the wave nature of electrons, confirming de Broglie's hypothesis.",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:23:47Z"
+ },
+ {
+  "id": "q_46f63c1b8b4c055e",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In macroeconomics, which measure includes the total value of goods and services produced within the domestic territory of a country along with net factor income from abroad?",
+  "qHi": "समष्टि अर्थशास्त्र में, कौन सा माप किसी देश के घरेलू क्षेत्र के भीतर उत्पादित वस्तुओं और सेवाओं के कुल मूल्य के साथ-साथ विदेशों से शुद्ध कारक आय को शामिल करता है?",
+  "optsEn": [
+   "Gross Domestic Product",
+   "Gross National Product",
+   "Net Domestic Product",
+   "Disposable Personal Income"
+  ],
+  "optsHi": [
+   " सकल घरेलू उत्पाद",
+   "सकल राष्ट्रीय उत्पाद",
+   "शुद्ध घरेलू उत्पाद",
+   "प्रयोज्य व्यक्तिगत आय"
+  ],
+  "correct": 1,
+  "explainEn": "Gross National Product (GNP) is defined as GDP plus net factor income from abroad.",
+  "sourceHint": "NCERT Class 12 Macroeconomics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:23:47Z"
+ },
+ {
+  "id": "q_68b1cb5e131b9d0f",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of crystalline solid is silicon carbide (SiC)?",
+  "qHi": "सिलिकॉन कार्बाइड (SiC) किस प्रकार का क्रिस्टलीय ठोस है?",
+  "optsEn": [
+   "Ionic solid",
+   "Metallic solid",
+   "Covalent network solid",
+   "Molecular solid"
+  ],
+  "optsHi": [
+   "आयनिक ठोस",
+   "धात्विक ठोस",
+   "सहसंयोजक नेटवर्क ठोस",
+   "आणविक ठोस"
+  ],
+  "correct": 2,
+  "explainEn": "Silicon carbide forms a giant three-dimensional covalent network structure similar to diamond, making it a covalent network solid.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:23:47Z"
+ },
+ {
+  "id": "q_271327dc91659bf1",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary function of restriction endonucleases in recombinant DNA technology?",
+  "qHi": "पुनर्योगज डीएनए तकनीक में रेस्ट्रिक्शन एंडोन्यूक्लीज का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "To join DNA fragments",
+   "To synthesize primers",
+   "To cut DNA at specific recognition sequences",
+   "To unwind the DNA double helix"
+  ],
+  "optsHi": [
+   "डीएनए खंडों को जोड़ना",
+   "प्राइमर का संश्लेषण करना",
+   "विशिष्ट पहचान अनुक्रमों पर डीएनए को काटना",
+   "डीएनए डबल हेलिक्स को खोलना"
+  ],
+  "correct": 2,
+  "explainEn": "Restriction endonucleases act as molecular scissors, cutting DNA molecules at specific base sequences known as recognition sites.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 9",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:23:47Z"
+ },
+ {
+  "id": "q_36d90224bbb8ad8d",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which greenhouse gas has the highest relative global warming potential over a 100-year timescale according to standard scientific assessments?",
+  "qHi": "मानक वैज्ञानिक आकलन के अनुसार 100 वर्ष के समय-पैमाने पर किस ग्रीनहाउस गैस की सापेक्ष वैश्विक तापन क्षमता सबसे अधिक है?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Methane",
+   "Nitrous oxide",
+   "Sulfur hexafluoride"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "मीथेन",
+   "नाइट्रस ऑक्साइड",
+   "सल्फर हेक्साफ्लोराइड"
+  ],
+  "correct": 3,
+  "explainEn": "Sulfur hexafluoride (SF6) has an extremely high global warming potential, thousands of times greater than carbon dioxide over a 100-year period.",
+  "sourceHint": "IPCC Assessment Reports / NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:23:47Z"
+ },
+ {
+  "id": "q_10509d3aeb9293d8",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organelle is primarily responsible for the synthesis of membrane lipids in eukaryotic cells?",
+  "qHi": "यूकेरियोटिक कोशिकाओं में झिल्ली लिपिड के संश्लेषण के लिए मुख्य रूप से कौन सा कोशिकांग जिम्मेदार है?",
+  "optsEn": [
+   "Rough Endoplasmic Reticulum",
+   "Smooth Endoplasmic Reticulum",
+   "Golgi apparatus",
+   "Lysosome"
+  ],
+  "optsHi": [
+   "रफ एंडोप्लाज्मिक रेटिकुलम",
+   "स्मूथ एंडोप्लाज्मिक रेटिकुलम",
+   "गोल्गी उपकरण",
+   "लसोसोम"
+  ],
+  "correct": 1,
+  "explainEn": "The smooth endoplasmic reticulum is the major site for synthesis of lipid molecules and steroid hormones in eukaryotic cells.",
+  "sourceHint": "NCERT Class 11 Biology, Chapter 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:24:54Z"
+ },
+ {
+  "id": "q_5e729285d72feecb",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In a p-n junction diode under reverse bias, the current flowing through the circuit is primarily due to which of the following?",
+  "qHi": "रिवर्स बायस के तहत एक p-n जंक्शन डायोड में, सर्किट से बहने वाली धारा मुख्य रूप से किसके कारण होती है?",
+  "optsEn": [
+   "Diffusion of majority charge carriers",
+   "Drift of minority charge carriers",
+   "Thermal generation of majority charge carriers",
+   "High forward voltage drop"
+  ],
+  "optsHi": [
+   "बहुसंख्यक आवेश वाहकों का विसरण",
+   "अल्पसंख्यक आवेश वाहकों का बहाव",
+   "बहुसंख्यक आवेश वाहकों की तापीय उत्पत्ति",
+   "उच्च अग्र वोल्टेज गिरावट"
+  ],
+  "correct": 1,
+  "explainEn": "Under reverse bias, minority carriers are swept across the junction by the electric field, producing a small reverse saturation current.",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:24:54Z"
+ },
+ {
+  "id": "q_652ec755780dfd25",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which coordination compound exhibits linkage isomerism?",
+  "qHi": "कौन सा उपसहसंयोजक यौगिक लिंकेज आइसोमेरिज्म (बंधक समावयवता) प्रदर्शित करता है?",
+  "optsEn": [
+   "[Co(NH3)5(SO4)]Br",
+   "[Co(NH3)5(NO2)]Cl2",
+   "[Co(H2O)6]Cl3",
+   "[Pt(NH3)4Cl2]Cl2"
+  ],
+  "optsHi": [
+   "[Co(NH3)5(SO4)]Br",
+   "[Co(NH3)5(NO2)]Cl2",
+   "[Co(H2O)6]Cl3",
+   "[Pt(NH3)4Cl2]Cl2"
+  ],
+  "correct": 1,
+  "explainEn": "Linkage isomerism arises in coordination compounds containing ambidentate ligands such as NO2-.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:24:54Z"
+ },
+ {
+  "id": "q_a6fb9f7ff70ec90a",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Article of the Indian Constitution guarantees the right to constitutional remedies?",
+  "qHi": "भारतीय संविधान का कौन सा अनुच्छेद संवैधानिक उपचार के अधिकार की गारंटी देता है?",
+  "optsEn": [
+   "Article 14",
+   "Article 19",
+   "Article 21",
+   "Article 32"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14",
+   "अनुच्छेद 19",
+   "अनुच्छेद 21",
+   "अनुच्छेद 32"
+  ],
+  "correct": 3,
+  "explainEn": "Dr. B.R. Ambedkar called Article 32 the heart and soul of the Indian Constitution as it provides the right to move the Supreme Court for enforcement of Fundamental Rights.",
+  "sourceHint": "Constitution of India, Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:24:54Z"
+ },
+ {
+  "id": "q_b15d432b30b6c52d",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the colonial period in India, the Ryotwari system of land revenue was primarily introduced in which region?",
+  "qHi": "भारत में औपनिवेशिक काल के दौरान, भू-राजस्व की रयतवाड़ी व्यवस्था मुख्य रूप से किस क्षेत्र में शुरू की गई थी?",
+  "optsEn": [
+   "Bengal Presidency",
+   "Madras and Bombay Presidencies",
+   "United Provinces",
+   "Punjab region"
+  ],
+  "optsHi": [
+   "बंगाल प्रेसीडेंसी",
+   "मद्रास और बॉम्बे प्रेसीडेंसी",
+   "संयुक्त प्रांत",
+   "पंजाब क्षेत्र"
+  ],
+  "correct": 1,
+  "explainEn": "The Ryotwari system was instituted primarily in the Madras and Bombay presidencies by Thomas Munro and Captain Read.",
+  "sourceHint": "NCERT Class 12 History, Theme 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:24:54Z"
+ },
+ {
+  "id": "q_4549690f8567da16",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary objective of fiscal deficit in a government budget?",
+  "qHi": "सरकारी बजट में राजकोषीय घाटे का प्राथमिक उद्देश्य क्या दर्शाता है?",
+  "optsEn": [
+   "Total expenditure minus total receipts",
+   "Borrowing requirements of the government from all sources",
+   "Interest payments minus revenue receipts",
+   "Revenue expenditure minus revenue receipts"
+  ],
+  "optsHi": [
+   "कुल व्यय माइनस कुल प्राप्तियां",
+   "सभी स्रोतों से सरकार की उधार आवश्यकताएं",
+   "ब्याज भुगतान माइनस राजस्व प्राप्तियां",
+   "राजस्व व्यय माइनस राजस्व प्राप्तियां"
+  ],
+  "correct": 1,
+  "explainEn": "Fiscal deficit gives the borrowing requirement of the government from all sources during a given financial year.",
+  "sourceHint": "NCERT Class 12 Economics (Macroeconomics), Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:24:54Z"
+ },
+ {
+  "id": "q_6b685fc132a3078b",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In human reproductive physiology, where does fertilization of the secondary oocyte typically occur?",
+  "qHi": "मानव प्रजनन शरीर विज्ञान में, द्वितीयक ओसाइट का निषेचन आम तौर पर कहां होता है?",
+  "optsEn": [
+   "Uterine cavity",
+   "Ampulla of the fallopian tube",
+   "Fimbriae of the oviduct",
+   "Cervical canal"
+  ],
+  "optsHi": [
+   "गर्भाशय गुहा",
+   "फैलोपियन ट्यूब का एम्पुल्ला",
+   "डिंबवाहिनी की फिमब्रिआ",
+   "ग्रीवा नहर"
+  ],
+  "correct": 1,
+  "explainEn": "Fertilization takes place when the sperm and ovum simultaneously reach the ampullary-isthmic junction of the fallopian tube.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:24:54Z"
+ },
+ {
+  "id": "q_686635912031cf71",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which metal is extracted primarily by the self-reduction process involving its sulfide ore?",
+  "qHi": "किस धातु को मुख्य रूप से इसके सल्फाइड अयस्क से जुड़े स्व-अपचयन (self-reduction) प्रक्रिया द्वारा निकाला जाता है?",
+  "optsEn": [
+   "Iron",
+   "Aluminum",
+   "Copper",
+   "Zinc"
+  ],
+  "optsHi": [
+   "लोहा",
+   "एल्युमीनियम",
+   "तांबा",
+   "जस्ता"
+  ],
+  "correct": 2,
+  "explainEn": "Copper is extracted from copper glance (Cu2S) by self-reduction where a portion of the sulfide is roasted to oxide which then reacts with remaining sulfide.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:24:54Z"
  }
 ]

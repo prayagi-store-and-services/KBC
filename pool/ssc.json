@@ -3190,5 +3190,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-06T00:09:52Z"
+ },
+ {
+  "id": "q_622a33abec933d95",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the standard meridian longitude of India?",
+  "qHi": "भारत की मानक याम्योत्तर देशांतर रेखा कौन सी है?",
+  "optsEn": [
+   "82.5 degree East",
+   "80.5 degree East",
+   "85.5 degree East",
+   "88.5 degree East"
+  ],
+  "optsHi": [
+   "82.5 डिग्री पूर्व",
+   "80.5 डिग्री पूर्व",
+   "85.5 डिग्री पूर्व",
+   "88.5 डिग्री पूर्व"
+  ],
+  "correct": 0,
+  "explainEn": "The 82 degree 30 minute East meridian is used as India's Standard Time.",
+  "sourceHint": "NCERT Class 9 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:22:54Z"
+ },
+ {
+  "id": "q_9f40db28f2ab025a",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which vitamin is predominantly found in citrus fruits like oranges and lemons?",
+  "qHi": "संतरे और नींबू जैसे खट्टे फलों में मुख्य रूप से कौन सा विटामिन पाया जाता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 2,
+  "explainEn": "Citrus fruits are rich sources of Vitamin C, also known as ascorbic acid.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:22:54Z"
+ },
+ {
+  "id": "q_3c9074b4402247f8",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which river basin is the largest in India?",
+  "qHi": "भारत में कौन सा नदी बेसिन सबसे बड़ा है?",
+  "optsEn": [
+   "Ganga basin",
+   "Indus basin",
+   "Godavari basin",
+   "Narmada basin"
+  ],
+  "optsHi": [
+   "गंगा बेसिन",
+   "सिंधु बेसिन",
+   "गोदावरी बेसिन",
+   "नर्मदा बेसिन"
+  ],
+  "correct": 0,
+  "explainEn": "The Ganga basin is the largest river basin in India, covering a vast area of the northern plains.",
+  "sourceHint": "NCERT Class 9 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:22:54Z"
+ },
+ {
+  "id": "q_d4064bc73c8a75ba",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following layers of the atmosphere is primarily responsible for the reflection of radio waves back to Earth?",
+  "qHi": "वायुमंडल की निम्नलिखित में से कौन सी परत रेडियो तरंगों को वापस पृथ्वी पर परावर्तित करने के लिए मुख्य रूप से जिम्मेदार है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Ionosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "आयनमंडल"
+  ],
+  "correct": 3,
+  "explainEn": "The Ionosphere contains electrically charged particles that reflect radio waves back to the Earth's surface.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:23:58Z"
+ },
+ {
+  "id": "q_2b2df27975dba4c6",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which year was the Reserve Bank of India (RBI) nationalized?",
+  "qHi": "भारतीय रिजर्व बैंक (RBI) का राष्ट्रीयकरण किस वर्ष किया गया था?",
+  "optsEn": [
+   "1935",
+   "1947",
+   "1949",
+   "1955"
+  ],
+  "optsHi": [
+   "1935",
+   "1947",
+   "1949",
+   "1955"
+  ],
+  "correct": 2,
+  "explainEn": "The Reserve Bank of India, established in 1935 under the RBI Act, was nationalized on January 1, 1949.",
+  "sourceHint": "RBI Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:23:58Z"
+ },
+ {
+  "id": "q_4e1fbd5062da5347",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin is also known as Calciferol?",
+  "qHi": "किस विटामिन को कैल्सीफेरोल के नाम से भी जाना जाता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Vitamin D is a group of fat-soluble secosteroids known chemically as calciferol.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:23:58Z"
  }
 ]

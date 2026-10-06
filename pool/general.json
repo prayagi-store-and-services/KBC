@@ -3246,5 +3246,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-06T00:10:05Z"
+ },
+ {
+  "id": "q_c0f200e4233820e2",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the famous Indian epic poem 'Meghaduta'?",
+  "qHi": "प्रसिद्ध भारतीय महाकाव्य कविता 'मेघदूत' किसने लिखी है?",
+  "optsEn": [
+   "Kalidasa",
+   "Tulsidas",
+   "Valmiki",
+   "Ved Vyasa"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "तुलसीदास",
+   "वाल्मीकि",
+   "वेद व्यास"
+  ],
+  "correct": 0,
+  "explainEn": "Meghaduta is a lyric poem written by the classical Sanskrit writer Kalidasa.",
+  "sourceHint": "Encyclopædia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:23:04Z"
+ },
+ {
+  "id": "q_6f471e0206d305db",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the standard unit of currency in Japan?",
+  "qHi": "जापान की मानक मुद्रा इकाई क्या है?",
+  "optsEn": [
+   "Yuan",
+   "Won",
+   "Yen",
+   "Ringgit"
+  ],
+  "optsHi": [
+   "युआन",
+   "वॉन",
+   "येन",
+   "रिंगित"
+  ],
+  "correct": 2,
+  "explainEn": "The Japanese yen is the official currency of Japan.",
+  "sourceHint": "International Monetary Fund",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:23:04Z"
+ },
+ {
+  "id": "q_eaf9f466b880d2e4",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas do green plants absorb from the atmosphere during photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण के दौरान हरे पौधे वायुमंडल से कौन सी गैस अवशोषित करते हैं?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Plants take in carbon dioxide from the air to produce food during photosynthesis.",
+  "sourceHint": "NCERT Biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:23:04Z"
+ },
+ {
+  "id": "q_bd74288a18c67a1e",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The Reserve Bank of India (RBI) was established in which year?",
+  "qHi": "भारतीय रिजर्व बैंक (RBI) की स्थापना किस वर्ष हुई थी?",
+  "optsEn": [
+   "1935",
+   "1947",
+   "1950",
+   "1952"
+  ],
+  "optsHi": [
+   "1935",
+   "1947",
+   "1950",
+   "1952"
+  ],
+  "correct": 0,
+  "explainEn": "The Reserve Bank of India was established on April 1, 1935, in accordance with the provisions of the Reserve Bank of India Act, 1934.",
+  "sourceHint": "Reserve Bank of India official history",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:24:09Z"
+ },
+ {
+  "id": "q_f7b594ed5cf588ac",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "National Science Day in India is celebrated annually to commemorate the discovery of which phenomenon by C.V. Raman?",
+  "qHi": "भारत में राष्ट्रीय विज्ञान दिवस प्रतिवर्ष सी.वी. रमन द्वारा किस घटना की खोज की याद में मनाया जाता है?",
+  "optsEn": [
+   "Photoelectric effect",
+   "Raman scattering",
+   "Electromagnetic induction",
+   "Superconductivity"
+  ],
+  "optsHi": [
+   "प्रकाश विद्युत प्रभाव",
+   "रमन प्रकीर्णन",
+   "विद्युत चुम्बकीय प्रेरण",
+   "अतिचालकता"
+  ],
+  "correct": 1,
+  "explainEn": "National Science Day is celebrated on February 28 each year to mark the discovery of the Raman Effect by Indian physicist Sir Chandrasekhara Venkata Raman on February 28, 1928.",
+  "sourceHint": "Department of Science and Technology, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:24:09Z"
+ },
+ {
+  "id": "q_6f1279aae9d13693",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which gas is most abundant in the Earth's atmosphere?",
+  "qHi": "पृथ्वी के वायुमंडल में कौन सी गैस सबसे प्रचुर मात्रा में है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "आर्गन"
+  ],
+  "correct": 2,
+  "explainEn": "Nitrogen makes up about 78 percent of Earth's atmosphere, making it the most abundant gas.",
+  "sourceHint": "NCERT Geography Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T06:24:09Z"
  }
 ]
