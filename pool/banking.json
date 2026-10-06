@@ -4226,5 +4226,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-05T14:44:23Z"
+ },
+ {
+  "id": "q_c6185c11963b78b0",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'P' stand for in the abbreviation PAN, which is widely used for tax purposes in India?",
+  "qHi": "भारत में कर उद्देश्यों के लिए व्यापक रूप से उपयोग किए जाने वाले संक्षिप्त नाम PAN में अक्षर 'P' का क्या अर्थ है?",
+  "optsEn": [
+   "Permanent",
+   "Personal",
+   "Public",
+   "Primary"
+  ],
+  "optsHi": [
+   "Permanent",
+   "Personal",
+   "Public",
+   "Primary"
+  ],
+  "correct": 0,
+  "explainEn": "PAN stands for Permanent Account Number, issued by the Income Tax Department of India.",
+  "sourceHint": "Income Tax Department of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T00:07:27Z"
+ },
+ {
+  "id": "q_c9eb26695e1f5d37",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which institution regulates the microfinance sector and regional rural banks in India?",
+  "qHi": "भारत में माइक्रोक्रेडिट क्षेत्र और क्षेत्रीय ग्रामीण बैंकों को कौन सा संस्थान विनियमित करता है?",
+  "optsEn": [
+   "NABARD",
+   "SEBI",
+   "IRDAI",
+   "SIDBI"
+  ],
+  "optsHi": [
+   "NABARD",
+   "SEBI",
+   "IRDAI",
+   "SIDBI"
+  ],
+  "correct": 0,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) is the apex regulatory body for regional rural banks and microfinance in India.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T00:07:27Z"
+ },
+ {
+  "id": "q_cddb857e241daeb4",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization issues Sovereign Gold Bonds on behalf of the Government of India?",
+  "qHi": "भारत सरकार की ओर से सॉवरेन गोल्ड बॉन्ड कौन सा संगठन जारी करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "State Bank of India",
+   "Securities and Exchange Board of India",
+   "Bombay Stock Exchange"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय स्टेट बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "बॉम्बे स्टॉक एक्सचेंज"
+  ],
+  "correct": 0,
+  "explainEn": "Sovereign Gold Bonds are issued by the Reserve Bank of India on behalf of the Government of India.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T00:07:27Z"
+ },
+ {
+  "id": "q_27274847ee45bd5f",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of 'NEFT' as used in electronic funds transfer systems in India?",
+  "qHi": "भारत में इलेक्ट्रॉनिक फंड ट्रांसफर सिस्टम में प्रयुक्त 'NEFT' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "New Economic Financial Transfer",
+   "National Equity Finance Terminal",
+   "Net Electronic Fund Transaction"
+  ],
+  "optsHi": [
+   "National Electronic Funds Transfer",
+   "New Economic Financial Transfer",
+   "National Equity Finance Terminal",
+   "Net Electronic Fund Transaction"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, a nationwide payment system facilitating one-to-one funds transfers.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T00:07:27Z"
+ },
+ {
+  "id": "q_e7aa63920531e2c0",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which rate is charged by the Reserve Bank of India on overnight repo transactions under the Liquidity Adjustment Facility?",
+  "qHi": "तरलता समायोजन सुविधा के तहत ओवरनाइट रेपो लेनदेन पर भारतीय रिजर्व बैंक द्वारा कौन सी दर ली जाती है?",
+  "optsEn": [
+   "Repo Rate",
+   "Bank Rate",
+   "Reverse Repo Rate",
+   "Cash Reserve Ratio"
+  ],
+  "optsHi": [
+   "रेपो रेट",
+   "बैंक रेट",
+   "रिवर्स रेपो रेट",
+   "नकद आरक्षित अनुपात"
+  ],
+  "correct": 0,
+  "explainEn": "Repo rate is the interest rate at which the central bank lends money to commercial banks against government securities.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T00:07:27Z"
+ },
+ {
+  "id": "q_12f1d72fa5c52eba",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'M' stand for in the financial term 'MSF' used by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा उपयोग किए जाने वाले वित्तीय शब्द 'MSF' में अक्षर 'M' का क्या अर्थ है?",
+  "optsEn": [
+   "Marginal",
+   "Monetary",
+   "Market",
+   "Micro"
+  ],
+  "optsHi": [
+   "मार्जिनल",
+   "मॉनेटरी",
+   "मार्केट",
+   "माइक्रो"
+  ],
+  "correct": 0,
+  "explainEn": "MSF stands Marginal Standing Facility, a window for scheduled banks to borrow overnight from RBI against approved government securities.",
+  "sourceHint": "RBI Official Website and Publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T00:10:00Z"
+ },
+ {
+  "id": "q_ef16e5af854f9b77",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of a 'Certificate of Deposit' (CD) in the Indian money market?",
+  "qHi": "भारतीय मुद्रा बाजार में 'सर्टिफिकेट ऑफ डिपॉजिट' (CD) का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "Long-term capital generation",
+   "Retail gold savings",
+   "Short-term debt instrument for funds",
+   "Real estate investment"
+  ],
+  "optsHi": [
+   "दीर्घकालिक पूंजी सृजन",
+   "खुदरा स्वर्ण बचत",
+   "धन के लिए अल्पकालिक ऋण साधन",
+   "रियल एस्टेट निवेश"
+  ],
+  "correct": 2,
+  "explainEn": "A Certificate of Deposit is a negotiable money market instrument issued in demat form or as a usance promissory note, given for funds deposited at a bank or other eligible financial institution for a specified period.",
+  "sourceHint": "RBI Master Directions on Money Market Instruments",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T00:10:00Z"
+ },
+ {
+  "id": "q_341ca4c7df7166c9",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Priority Sector Lending (PSL) norms in India, what is the overall target for domestic commercial banks for lending to priority sectors as a percentage of Adjusted Net Bank Credit?",
+  "qHi": "भारत में प्राथमिकता प्राप्त क्षेत्र को ऋण (PSL) मानदंडों के तहत, घरेलू वाणिज्यिक बैंकों के लिए प्राथमिकता प्राप्त क्षेत्रों को ऋण देने का समग्र लक्ष्य समायोजित शुद्ध बैंक ऋण (ANBC) के प्रतिशत के रूप में कितना है?",
+  "optsEn": [
+   "30 percent",
+   "40 percent",
+   "50 percent",
+   "75 percent"
+  ],
+  "optsHi": [
+   "30 प्रतिशत",
+   "40 प्रतिशत",
+   "50 प्रतिशत",
+   "75 प्रतिशत"
+  ],
+  "correct": 1,
+  "explainEn": "Domestic commercial banks and foreign banks with 20 branches and above are required to achieve an overall priority sector lending target of 40 percent of Adjusted Net Bank Credit (ANBC).",
+  "sourceHint": "RBI Master Directions on Priority Sector Lending",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T00:10:00Z"
+ },
+ {
+  "id": "q_9970d107c204fad8",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following entities is responsible for maintaining the Central Fraud Registry in the Indian banking sector?",
+  "qHi": "भारतीय बैंकिंग क्षेत्र में केंद्रीय धोखाधड़ी रजिस्ट्री (Central Fraud Registry) के रखरखाव के लिए निम्नलिखित में से कौन सी संस्था जिम्मेदार है?",
+  "optsEn": [
+   "CIBIL",
+   "SIDBI",
+   "RBI",
+   "C-DAC"
+  ],
+  "optsHi": [
+   "CIBIL",
+   "SIDBI",
+   "RBI",
+   "C-DAC"
+  ],
+  "correct": 2,
+  "explainEn": "The Reserve Bank of India maintains the Central Fraud Registry, a web-based application allowing banks to track and share data regarding banking frauds.",
+  "sourceHint": "RBI Notifications and Annual Reports",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T00:10:00Z"
+ },
+ {
+  "id": "q_4000fe5d35fb637a",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does 'CASA' stand for in the context of commercial banking deposits?",
+  "qHi": "वाणिज्यिक बैंकिंग जमा के संदर्भ में 'CASA' का क्या अर्थ है?",
+  "optsEn": [
+   "Current Account Savings Account",
+   "Capital Asset Security Allocation",
+   "Credit and Savings Association",
+   "Centralized Audit and Settlement Agency"
+  ],
+  "optsHi": [
+   "करेंट अकाउंट सेविंग्स अकाउंट",
+   "कैपिटल एसेट सिक्योरिटी एलोकेशन",
+   "क्रेडिट एंड सेविंग्स एसोसिएशन",
+   "सेंट्रलाइज्ड ऑडिट एंड सेटलमेंट एजेंसी"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account Savings Account, which refers to bank deposits that form a low-cost source of funds for commercial banks.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) Study Material",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T00:10:00Z"
+ },
+ {
+  "id": "q_e7bc41051e10573b",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum amount insured per depositor per bank by the Deposit Insurance and Credit Guarantee Corporation (DICGC) in India?",
+  "qHi": "भारत में डिपॉजिट इंश्योरेंस एंड क्रेडिट गारंटी कॉरपोरेशन (DICGC) द्वारा प्रति बैंक प्रति जमाकर्ता कितनी अधिकतम राशि बीमित की जाती है?",
+  "optsEn": [
+   "One lakh rupees",
+   "Two lakh rupees",
+   "Five lakh rupees",
+   "Ten lakh rupees"
+  ],
+  "optsHi": [
+   "एक लाख रुपये",
+   "दो लाख रुपये",
+   "पाँच लाख रुपये",
+   "दस लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "DICGC insures all bank deposits, such as savings, fixed, current, and recurring deposits, up to a limit of Rs. 5,00,000 per depositor per bank.",
+  "sourceHint": "DICGC Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T00:10:00Z"
  }
 ]

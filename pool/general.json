@@ -3078,5 +3078,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-05T14:44:29Z"
+ },
+ {
+  "id": "q_d0089105e278445f",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which city is the Gateway of India monument located?",
+  "qHi": "गेटवे ऑफ़ इंडिया स्मारक किस शहर में स्थित है?",
+  "optsEn": [
+   "New Delhi",
+   "Kolkata",
+   "Mumbai",
+   "Chennai"
+  ],
+  "optsHi": [
+   "नई दिल्ली",
+   "कोलकाता",
+   "मुंबई",
+   "चेन्नई"
+  ],
+  "correct": 2,
+  "explainEn": "The Gateway of India is located on the waterfront in Mumbai, overlooking the Arabian Sea.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T00:07:55Z"
+ },
+ {
+  "id": "q_008a273fb1ed0b19",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which vitamin is primarily produced in the human body when exposed to sunlight?",
+  "qHi": "सूरज की रोशनी के संपर्क में आने पर मानव शरीर में मुख्य रूप से कौन सा विटामिन बनता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin C",
+   "Vitamin D",
+   "Vitamin K"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन सी",
+   "विटामिन डी",
+   "विटामिन के"
+  ],
+  "correct": 2,
+  "explainEn": "The skin synthesizes Vitamin D when exposed to ultraviolet B rays from sunlight.",
+  "sourceHint": "Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T00:07:55Z"
+ },
+ {
+  "id": "q_1be197ab7c0a6a91",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which is the national sport of India officially recognized by the Ministry of Youth Affairs and Sports?",
+  "qHi": "युवा मामले और खेल मंत्रालय द्वारा आधिकारिक तौर पर मान्यता प्राप्त भारत का राष्ट्रीय खेल कौन सा है?",
+  "optsEn": [
+   "Cricket",
+   "Hockey",
+   "Kabaddi",
+   "No official national sport"
+  ],
+  "optsHi": [
+   "क्रिकेट",
+   "हॉकी",
+   "कबड्डी",
+   "कोई आधिकारिक राष्ट्रीय खेल नहीं है"
+  ],
+  "correct": 3,
+  "explainEn": "The Indian government has clarified through RTI replies that it does not have a designated national sport and promotes all sports equally.",
+  "sourceHint": "PIB India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T00:07:55Z"
+ },
+ {
+  "id": "q_8e9db7fdf149f39a",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The classical dance form known as Kathakali originated in which state?",
+  "qHi": "कथकली नामक शास्त्रीय नृत्य शैली की उत्पत्ति किस राज्य में हुई थी?",
+  "optsEn": [
+   "Odisha",
+   "Andhra Pradesh",
+   "Kerala",
+   "Manipur"
+  ],
+  "optsHi": [
+   "ओडिशा",
+   "आंध्र प्रदेश",
+   "केरल",
+   "मणिपुर"
+  ],
+  "correct": 2,
+  "explainEn": "Kathakali is a major form of classical Indian dance that originated in the southern state of Kerala, known for its elaborate costumes and makeup.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T00:10:05Z"
+ },
+ {
+  "id": "q_c90b77d1357e0194",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the famous play 'Meghaduta'?",
+  "qHi": "प्रसिद्ध नाटक 'मेघदूत' के लेखक कौन हैं?",
+  "optsEn": [
+   "Kalidasa",
+   "Tulsidas",
+   "Banabhatta",
+   "Bhasa"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "तुलसीदास",
+   "बाणभट्ट",
+   "भास"
+  ],
+  "correct": 0,
+  "explainEn": "Meghaduta is a lyrical poem written by Kalidasa, one of the greatest classical Sanskrit writers and poets of ancient India.",
+  "sourceHint": "NCERT History Textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T00:10:05Z"
+ },
+ {
+  "id": "q_aea358de759a8411",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the standard unit of frequency in the International System of Units (SI)?",
+  "qHi": "अंतर्राष्ट्रीय इकाई प्रणाली (SI) में आवृत्ति की मानक इकाई क्या है?",
+  "optsEn": [
+   "Watt",
+   "Joule",
+   "Hertz",
+   "Pascal"
+  ],
+  "optsHi": [
+   "वाट",
+   "जूल",
+   "हर्ट्ज",
+   "पास्कल"
+  ],
+  "correct": 2,
+  "explainEn": "The hertz (symbol: Hz) is the derived unit of frequency in the International System of Units, defined as one cycle per second.",
+  "sourceHint": "NCERT Physics Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T00:10:05Z"
  }
 ]

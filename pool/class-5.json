@@ -3582,5 +3582,453 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-05T14:44:35Z"
+ },
+ {
+  "id": "q_292dcb4a25671a79",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas do plants take in from the air to make their food during photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण के दौरान पौधे अपना भोजन बनाने के लिए हवा से कौन सी गैस लेते हैं?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Helium"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हीलिियम"
+  ],
+  "correct": 1,
+  "explainEn": "Plants absorb carbon dioxide from the atmosphere to prepare food using sunlight.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T00:04:34Z"
+ },
+ {
+  "id": "q_748ad249048a2694",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which vitamin do we mainly get from sunlight exposure on our skin?",
+  "qHi": "त्वचा पर धूप पड़ने से हमें मुख्य रूप से कौन सा विटामिन मिलता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Sunlight helps the human body produce Vitamin D, which is essential for healthy bones.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T00:04:34Z"
+ },
+ {
+  "id": "q_558590a905870a36",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a domestic animal?",
+  "qHi": "निम्नलिखित में से कौन सा एक पालतू जानवर है?",
+  "optsEn": [
+   "Lion",
+   "Tiger",
+   "Cow",
+   "Fox"
+  ],
+  "optsHi": [
+   "शेर",
+   "बाघ",
+   "गाय",
+   "लोमड़ी"
+  ],
+  "correct": 2,
+  "explainEn": "Cows are domestic animals kept by humans on farms for milk and other uses.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T00:04:34Z"
+ },
+ {
+  "id": "q_619e4d4dd32d2820",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the main source of water on the Earth?",
+  "qHi": "पृथ्वी पर पानी का मुख्य स्रोत क्या है?",
+  "optsEn": [
+   "Rain",
+   "Tap",
+   "Well",
+   "Bucket"
+  ],
+  "optsHi": [
+   "वर्षा",
+   "नल",
+   "कुआँ",
+   "बाल्टी"
+  ],
+  "correct": 0,
+  "explainEn": "Rain is the primary natural source of freshwater on Earth, filling rivers, lakes, and ponds.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T00:04:34Z"
+ },
+ {
+  "id": "q_bb051e998f9b472d",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Seed dispersal in the touch-me-not (Balsam) plant mainly takes place by which of the following methods?",
+  "qHi": "छुईमुई या बाल्म के पौधे में बीजों का प्रकीर्णन मुख्य रूप से किस विधि द्वारा होता है?",
+  "optsEn": [
+   "Wind",
+   "Water",
+   "Explosion of fruit pods",
+   "Animals"
+  ],
+  "optsHi": [
+   "हवा",
+   "पानी",
+   "फल के फटने से",
+   "जानवर"
+  ],
+  "correct": 2,
+  "explainEn": "Balsam pods burst open suddenly when ripe, scattering the seeds away from the parent plant.",
+  "sourceHint": "NCERT Class 5 Environmental Studies (EVS) Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T00:08:21Z"
+ },
+ {
+  "id": "q_5d3156952f8673b2",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian stepwell is designed as a multi-storied step well often used for harvesting rainwater?",
+  "qHi": "कौन सी पारंपरिक भारतीय बावड़ी (स्टेपवेल) बहु-मंजिला सीढ़ीदार कुएं के रूप में डिज़ाइन की गई है जिसका उपयोग अक्सर वर्षा जल संचयन के लिए किया जाता है?",
+  "optsEn": [
+   "Baoli",
+   "Dam",
+   "Canal",
+   "Reservoir"
+  ],
+  "optsHi": [
+   "बावली",
+   "बांध",
+   "नहर",
+   "जलाशय"
+  ],
+  "correct": 0,
+  "explainEn": "Baolis or stepwells were historically built in dry regions of India for water storage and harvesting.",
+  "sourceHint": "NCERT Class 5 EVS Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T00:08:21Z"
+ },
+ {
+  "id": "q_46a844adcf493001",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which direction does the magnetic needle in a standard magnetic compass always point towards?",
+  "qHi": "एक मानक चुंबकीय कम्पास में चुंबकीय सुई हमेशा किस दिशा की ओर इशारा करती है?",
+  "optsEn": [
+   "East and West",
+   "North and South",
+   "Up and Down",
+   "North-East and South-West"
+  ],
+  "optsHi": [
+   "पूर्व और पश्चिम",
+   "उत्तर और दक्षिण",
+   "ऊपर और नीचे",
+   "उत्तर-पूर्व और दक्षिण-पश्चिम"
+  ],
+  "correct": 1,
+  "explainEn": "A magnetic compass needle aligns with the Earth's magnetic field, pointing towards the magnetic North and South poles.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T00:08:21Z"
+ },
+ {
+  "id": "q_c6efca9f85b4698f",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of soil is generally considered best for the growth of cotton crops in India?",
+  "qHi": "भारत में कपास की फसल के विकास के लिए आमतौर पर किस प्रकार की मिट्टी को सबसे अच्छा माना जाता है?",
+  "optsEn": [
+   "Laterite soil",
+   "Red soil",
+   "Black soil",
+   "Mountain soil"
+  ],
+  "optsHi": [
+   "लैटेराइट मिट्टी",
+   "लाल मिट्टी",
+   "काली मिट्टी",
+   "पर्वतीय मिट्टी"
+  ],
+  "correct": 2,
+  "explainEn": "Black soil, also known as regur soil, is ideal for growing cotton due to its high moisture-retention capacity.",
+  "sourceHint": "NCERT Class 7 Geography Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T00:08:21Z"
+ },
+ {
+  "id": "q_673164a14dcf7ea4",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the name of the layer of gases surrounding the Earth called?",
+  "qHi": "पृथ्वी को घेरने वाली गैसों की परत का क्या नाम है?",
+  "optsEn": [
+   "Atmosphere",
+   "Hydrosphere",
+   "Lithosphere",
+   "Biosphere"
+  ],
+  "optsHi": [
+   "वायुमंडल",
+   "जलमंडल",
+   "स्थलमंडल",
+   "जीवमंडल"
+  ],
+  "correct": 0,
+  "explainEn": "The atmosphere is the blanket of air that surrounds the Earth, held by gravity.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T00:08:21Z"
+ },
+ {
+  "id": "q_9bfceb3f830520cf",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of these seeds is known to disperse mainly by water in nature?",
+  "qHi": "प्रकृति में इनमें से किस बीज का प्रकीर्णन मुख्य रूप से पानी द्वारा जाना जाता है?",
+  "optsEn": [
+   "Lotus",
+   "Maple",
+   "Balsam",
+   "Xanthium"
+  ],
+  "optsHi": [
+   "कमल",
+   "मेपल",
+   "बाल्म",
+   "जैंथियम"
+  ],
+  "correct": 0,
+  "explainEn": "Lotus seeds have spongy parts that help them float and travel on water.",
+  "sourceHint": "NCERT Class 5 Environmental Studies (EVS), Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T00:10:11Z"
+ },
+ {
+  "id": "q_caf87aa27045b949",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What happens to the level of water in a vessel when a lump of sugar dissolves completely in it?",
+  "qHi": "जब किसी बर्तन में चीनी का एक टुकड़ा पूरी तरह घुल जाता है, तो पानी के स्तर पर क्या प्रभाव पड़ता है?",
+  "optsEn": [
+   "It remains almost the same",
+   "It rises significantly",
+   "It drops down",
+   "It evaporates completely"
+  ],
+  "optsHi": [
+   "यह लगभग समान रहता है",
+   "यह काफी बढ़ जाता है",
+   "यह नीचे गिर जाता है",
+   "यह पूरी तरह वाष्पित हो जाता है"
+  ],
+  "correct": 0,
+  "explainEn": "Sugar molecules fit into the spaces between water molecules, so the total volume does not noticeably change.",
+  "sourceHint": "NCERT Class 5 EVS, Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T00:10:11Z"
+ },
+ {
+  "id": "q_d7c267cb6b5c0fe3",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional Indian stepwell is designed with multiple steps leading down to water and is known as a baoli?",
+  "qHi": "इनमें से कौन सी पारंपरिक भारतीय सीढ़ीनुमा कुएं की संरचना है जिसमें पानी तक जाने के लिए कई सीढ़ियाँ होती हैं और जिसे बावली कहा जाता है?",
+  "optsEn": [
+   "Baoli",
+   "Dome",
+   "Stupa",
+   "Granary"
+  ],
+  "optsHi": [
+   "बावली",
+   "गुंबद",
+   "स्तूप",
+   "अन्नागार"
+  ],
+  "correct": 0,
+  "explainEn": "Stepwells or baolis were built in ancient India to store rainwater and provide easy access.",
+  "sourceHint": "NCERT Class 5 EVS, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T00:10:11Z"
+ },
+ {
+  "id": "q_7ed4cbabac1942f9",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Ants leave a trail on the ground for other ants to follow. What do they leave behind?",
+  "qHi": "चींटियाँ अन्य चींटियों के अनुसरण के लिए ज़मीन पर एक निशान छोड़ती हैं। वे पीछे क्या छोड़ती हैं?",
+  "optsEn": [
+   "Smell / Chemicals",
+   "Tiny pebbles",
+   "Green leaves",
+   "Sound waves"
+  ],
+  "optsHi": [
+   "गंध / रसायन",
+   "छोटे कंकड़",
+   "हरी पत्तियाँ",
+   "ध्वनि तरंगें"
+  ],
+  "correct": 0,
+  "explainEn": "Ants leave specific chemical scents (pheromones) on the ground that other ants smell to follow the path.",
+  "sourceHint": "NCERT Class 5 EVS, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T00:10:11Z"
+ },
+ {
+  "id": "q_a174fee0f66592e8",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which food preservation method is traditionally used to keep raw mangoes from spoiling for a long time in Indian households?",
+  "qHi": "भारतीय घरों में कच्चे आम को लंबे समय तक खराब होने से बचाने के लिए पारंपरिक रूप से किस खाद्य संरक्षण विधि का उपयोग किया जाता है?",
+  "optsEn": [
+   "Salting and drying in the sun",
+   "Boiling in plain water",
+   "Keeping in a vacuum chamber",
+   "Freezing at sub-zero temperatures"
+  ],
+  "optsHi": [
+   "नमक लगाना और धूप में सुखाना",
+   "सादे पानी में उबालना",
+   "वैक्यूम कक्ष में रखना",
+   "शून्य से नीचे के तापमान पर जमाना"
+  ],
+  "correct": 0,
+  "explainEn": "Salt and sun drying remove moisture, preventing bacterial growth used to make pickles.",
+  "sourceHint": "NCERT Class 5 EVS, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T00:10:11Z"
+ },
+ {
+  "id": "q_781b77709135c90c",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of map symbol or feature is typically used to show high mountain ranges on physical maps of India?",
+  "qHi": "भारत के भौतिक मानचित्रों पर ऊँची पर्वत श्रृंखलाओं को दिखाने के लिए आमतौर पर किस प्रकार के मानचित्र प्रतीक या विशेषता का उपयोग किया जाता है?",
+  "optsEn": [
+   "Brown colour shading",
+   "Blue dotted lines",
+   "Green circular dots",
+   "Yellow straight lines"
+  ],
+  "optsHi": [
+   "भूरा रंग छायांकन",
+   "नीली बिंदीदार रेखाएँ",
+   "हरे गोलाकार बिंदु",
+   "पीली सीधी रेखाएँ"
+  ],
+  "correct": 0,
+  "explainEn": "On physical maps, higher altitudes like mountains are traditionally colored in shades of brown.",
+  "sourceHint": "NCERT Class 5 EVS, Chapter 15",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T00:10:11Z"
+ },
+ {
+  "id": "q_5c5cd6e0a753a1ca",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which tribal community in India is well known for their traditional skill of catching snakes and using snake charming music?",
+  "qHi": "भारत का कौन सा आदिवासी समुदाय सांप पकड़ने और बीन बजाने के अपने पारंपरिक कौशल के लिए अच्छी तरह जाना जाता है?",
+  "optsEn": [
+   "Kalbeliyas",
+   "Gonds",
+   "Santhals",
+   "Bhotias"
+  ],
+  "optsHi": [
+   "कालवेलिया",
+   "गोंड",
+   "संथाल",
+   "भोटिया"
+  ],
+  "correct": 0,
+  "explainEn": "The Kalbeliya community of Rajasthan is famous for snake catching and folk dance/music.",
+  "sourceHint": "NCERT Class 5 EVS, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-06T00:10:11Z"
  }
 ]
