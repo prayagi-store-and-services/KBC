@@ -1,5 +1,10 @@
 # Security notes - KBC
 
+## Anti-cheat removed completely (v1.1.12)
+- The game no longer records or listens through the microphone, no longer shows a camera box, and no longer warns or disqualifies a player. The noise check, the 3-strike disqualification, the spoken warnings, the "Anti-cheat is off" line and the "disqualified" result screen are all gone from the code.
+- The app does not ask for Camera or Microphone now. The Profile screen has no Grant buttons for them. Camera will be asked only when the QR scan that links KBC with KBC Web ships. Microphone will be asked only when voice answers ship.
+- The two permissions stay declared in the app, with no new permission, library or network call. Settings > Permissions explains each one in plain words.
+
 ## Plain failure messages (v1.1.11)
 - When an update download fails, the app now shows one plain sentence (for example "No internet, or the server did not answer") instead of the raw system text such as "Unable to resolve host". The app's own messages (checksum, allow installs) are unchanged.
 - No new permission, library or network call.
