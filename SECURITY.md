@@ -1,5 +1,9 @@
 # Security notes - KBC
 
+## Plain failure messages (v1.1.11)
+- When an update download fails, the app now shows one plain sentence (for example "No internet, or the server did not answer") instead of the raw system text such as "Unable to resolve host". The app's own messages (checksum, allow installs) are unchanged.
+- No new permission, library or network call.
+
 ## Denied permissions no longer block the game (v1.1.10)
 - Before, a game would not start if Camera, Microphone or Notifications was missing. Now the game always starts. If Camera or Microphone is not allowed, only the anti-cheat part that needs it is off, and the game screen shows one line saying which permission is missing. A missing Notifications permission never blocks anything; it only means no reminders.
 - No new permission, library or network call. The Profile screen and the Permissions list still show each permission and its reason.
