@@ -156,3 +156,27 @@ data class GameSessionResult(
     val examContext: String = "General Reasoning",
     val timestamp: Long = System.currentTimeMillis()
 )
+
+/** True for a junior player: Student mode/domain chosen, or a recorded age under 18 (ages 5 to 17). */
+fun UserProfile.isJuniorPlayer(): Boolean =
+    preparationDomain.contains("Student", true) || isStudentMode || age in 5..17
+
+/**
+ * School class used to pick question level. A player who chose a class uses it; a player known
+ * only by age gets the class for that age, so a young child never falls back to a middle-school default.
+ */
+fun UserProfile.effectiveClassNumber(): Int {
+    val chosen = preparationDomain.contains("Student", true) || isStudentMode
+    if (chosen) return Regex("\\d+").find(studentClass)?.value?.toIntOrNull() ?: classForAge(age)
+    return classForAge(age)
+}
+
+fun classForAge(age: Int): Int = when {
+    age <= 6 -> 1
+    age <= 8 -> 3
+    age <= 10 -> 5
+    age <= 12 -> 7
+    age <= 14 -> 9
+    age <= 16 -> 11
+    else -> 12
+}
