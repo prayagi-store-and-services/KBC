@@ -3694,5 +3694,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-06T18:25:31Z"
+ },
+ {
+  "id": "q_286395cb9e411483",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which vitamin is abundantly found in citrus fruits like lemons and oranges?",
+  "qHi": "नींबू और संतरा जैसे खट्टे फलों में प्रचुर मात्रा में कौन सा विटामिन पाया जाता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 2,
+  "explainEn": "Citrus fruits are rich sources of Vitamin C, which is essential for immune health.",
+  "sourceHint": "NCERT Science Class 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:02:07Z"
+ },
+ {
+  "id": "q_d85a0cbc3d84abfe",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which historical monument was built by Emperor Shah Jahan in Agra?",
+  "qHi": "आगरा में सम्राट शाहजहाँ द्वारा किस ऐतिहासिक स्मारक का निर्माण किया गया था?",
+  "optsEn": [
+   "Qutub Minar",
+   "Taj Mahal",
+   "Red Fort in Delhi",
+   "Hawa Mahal"
+  ],
+  "optsHi": [
+   "कुतुब मीनार",
+   "ताजमहल",
+   "दिल्ली का लाल किला",
+   "हवा महल"
+  ],
+  "correct": 1,
+  "explainEn": "The Taj Mahal was commissioned by the Mughal emperor Shah Jahan in Agra on the banks of the Yamuna river.",
+  "sourceHint": "NCERT History Class 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:02:07Z"
+ },
+ {
+  "id": "q_5acebbb06fbe277e",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the Gupta period, what was the term used for the land that was left uncultivated or fallow?",
+  "qHi": "गुप्त काल के दौरान, उस भूमि के लिए किस शब्द का प्रयोग किया जाता था जिसे बिना जुताई या परती छोड़ा गया था?",
+  "optsEn": [
+   "Kshetra",
+   "Aprahata",
+   "Vastuda",
+   "Apahata"
+  ],
+  "optsHi": [
+   "क्षेत्र",
+   "अप्राहत",
+   "वास्तुदा",
+   "अपहत"
+  ],
+  "correct": 1,
+  "explainEn": "In Gupta era land revenue records, Aprahata referred to forest or wasteland that was left uncultivated.",
+  "sourceHint": "NCERT History textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:50Z"
+ },
+ {
+  "id": "q_f7d0849f3d9771ee",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following mountain passes connects the Kullu Valley with Lahaul and Spiti valleys in Himachal Pradesh?",
+  "qHi": "निम्नलिखित में से कौन सा दर्रा हिमाचल प्रदेश में कुल्लू घाटी को लाहुल और स्पीति घाटियों से जोड़ता है?",
+  "optsEn": [
+   "Rohtang Pass",
+   "Shipki La",
+   "Zoji La",
+   "Nathu La"
+  ],
+  "optsHi": [
+   "रोहतांग दर्रा",
+   "शिपकी ला",
+   "जोजी ला",
+   "नाथू ला"
+  ],
+  "correct": 0,
+  "explainEn": "Rohtang Pass is a high mountain pass on the eastern end of the Pir Panjal Range, connecting the Kullu valley with the Lahaul and Spiti valleys.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:50Z"
+ },
+ {
+  "id": "q_829f76a6c4f8341c",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian monetary policy, which institution determines the Repo Rate?",
+  "qHi": "भारतीय मौद्रिक नीति के संदर्भ में, रेपो रेट का निर्धारण कौन सी संस्था करती है?",
+  "optsEn": [
+   "Ministry of Finance",
+   "NITI Aayog",
+   "Monetary Policy Committee",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "वित्त मंत्रालय",
+   "नीति आयोग",
+   "मौद्रिक नीति समिति",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड"
+  ],
+  "correct": 2,
+  "explainEn": "The Monetary Policy Committee (MPC) constituted under Section 45ZB of the RBI Act is entrusted with fixing the benchmark repo rate.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:50Z"
+ },
+ {
+  "id": "q_2ec7ce46a10f1f72",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which chemical compound is commonly known as 'Lunar Caustic'?",
+  "qHi": "किस रासायनिक यौगिक को सामान्यतः 'लूनर कॉस्टिक' कहा जाता है?",
+  "optsEn": [
+   "Silver Nitrate",
+   "Silver Chloride",
+   "Mercury Sulphide",
+   "Lead Acetate"
+  ],
+  "optsHi": [
+   "सिल्वर नाइट्रेट",
+   "सिल्वर क्लोराइड",
+   "मर्करी सल्फाइड",
+   "लेड एसीटेट"
+  ],
+  "correct": 0,
+  "explainEn": "Silver nitrate (AgNO3) is known as lunar caustic because historically alchemists called silver 'luna'.",
+  "sourceHint": "NCERT Chemistry textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:50Z"
+ },
+ {
+  "id": "q_cfb34ca1edcb06d1",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who founded the 'Atmiya Sabha' in Kolkata in the year 1815?",
+  "qHi": "वर्ष 1815 में कोलकाता में 'आत्मीय सभा' की स्थापना किसने की थी?",
+  "optsEn": [
+   "Debendranath Tagore",
+   "Keshab Chandra Sen",
+   "Raja Ram Mohan Roy",
+   "Swami Vivekananda"
+  ],
+  "optsHi": [
+   "देवेन्द्रनाथ टैगोर",
+   "केशव चंद्र सेन",
+   "राजा राम मोहन राय",
+   "स्वामी विवेकानंद"
+  ],
+  "correct": 2,
+  "explainEn": "Raja Ram Mohan Roy founded Atmiya Sabha in 1815 as a philosophical discussion circle in Kolkata.",
+  "sourceHint": "Spectrum's A Brief History of Modern India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:50Z"
+ },
+ {
+  "id": "q_994dca820a26c4d0",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary ore of the metal Aluminium?",
+  "qHi": "धातु एल्यूमीनियम का प्राथमिक अयस्क कौन सा है?",
+  "optsEn": [
+   "Hematite",
+   "Bauxite",
+   "Calamine",
+   "Galena"
+  ],
+  "optsHi": [
+   "हेमेटाइट",
+   "बॉक्साइट",
+   "कैलामाइन",
+   "गेलेना"
+  ],
+  "correct": 1,
+  "explainEn": "Bauxite is the principal and most important ore of aluminium.",
+  "sourceHint": "NCERT Science textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:50Z"
  }
 ]

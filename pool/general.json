@@ -3638,5 +3638,481 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-06T18:24:33Z"
+ },
+ {
+  "id": "q_39c6db359406149a",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which city is the capital of India?",
+  "qHi": "भारत की राजधानी कौन सा शहर है?",
+  "optsEn": [
+   "Mumbai",
+   "Kolkata",
+   "New Delhi",
+   "Bengaluru"
+  ],
+  "optsHi": [
+   "मुंबई",
+   "कोलकाता",
+   "नई दिल्ली",
+   "बेंगलुरु"
+  ],
+  "correct": 2,
+  "explainEn": "New Delhi is the seat of the Government of India.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:02:16Z"
+ },
+ {
+  "id": "q_5f1ea467046ff198",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these is the national aquatic animal of India?",
+  "qHi": "इनमें से कौन भारत का राष्ट्रीय जलीय जीव है?",
+  "optsEn": [
+   "Blue Whale",
+   "Ganges River Dolphin",
+   "Saltwater Crocodile",
+   "Indian Bullfrog"
+  ],
+  "optsHi": [
+   "ब्लू ह्वेल",
+   "गंगा नदी डॉल्फिन",
+   "खारे पानी का मगरमच्छ",
+   "भारतीय बुलफ्रॉग"
+  ],
+  "correct": 1,
+  "explainEn": "The Ganges River Dolphin was declared the national aquatic animal in 2009.",
+  "sourceHint": "PIB Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:02:16Z"
+ },
+ {
+  "id": "q_688de731cdede7ff",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary gas that makes up the Earth's atmosphere?",
+  "qHi": "पृथ्वी के वायुमंडल में मुख्य रूप से कौन सी गैस पाई जाती है?",
+  "optsEn": [
+   "Oxygen",
+   "Nitrogen",
+   "Carbon Dioxide",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "कार्बन डाइऑक्साइड",
+   "आर्गन"
+  ],
+  "correct": 1,
+  "explainEn": "Nitrogen makes up about 78 percent of Earth's atmosphere.",
+  "sourceHint": "Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:02:16Z"
+ },
+ {
+  "id": "q_0338038384184477",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which planet in our solar system has the highest number of officially recognized moons as of recent astronomical counts?",
+  "qHi": "हमारे सौर मंडल में किस ग्रह के पास हाल ही में हुई खगोलीय गणना के अनुसार सबसे अधिक आधिकारिक रूप से मान्यता प्राप्त चंद्रमा हैं?",
+  "optsEn": [
+   "Jupiter",
+   "Saturn",
+   "Uranus",
+   "Neptune"
+  ],
+  "optsHi": [
+   "बृहस्पति",
+   "शनि",
+   "यूरेनस",
+   "नेपच्यून"
+  ],
+  "correct": 1,
+  "explainEn": "Saturn holds the record for the most confirmed moons in the solar system, surpassing Jupiter in recent years.",
+  "sourceHint": "NASA Solar System Exploration",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:17Z"
+ },
+ {
+  "id": "q_92e1036e8b6bd4b0",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which classical dance form originates from the southern state of Kerala and is traditionally known for elaborate facial makeup and vibrant costumes?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप दक्षिणी राज्य केरल से उत्पन्न हुआ है और पारंपरिक रूप से विस्तृत चेहरे के मेकअप और जीवंत वेशभूषा के लिए जाना जाता है?",
+  "optsEn": [
+   "Bharatnatyam",
+   "Kuchipudi",
+   "Kathakali",
+   "Odissi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कुचिपुड़ी",
+   "कथकली",
+   "ओडिसी"
+  ],
+  "correct": 2,
+  "explainEn": "Kathakali is a major form of classical Indian dance native to Kerala, distinguished by its colorful makeup and storytelling.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:17Z"
+ },
+ {
+  "id": "q_1e82bda0381cc640",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary chemical compound that gives turmeric its characteristic yellow color and medicinal properties?",
+  "qHi": "वह प्राथमिक रासायनिक यौगिक कौन सा है जो हल्दी को उसका विशिष्ट पीला रंग और औषधीय गुण प्रदान करता है?",
+  "optsEn": [
+   "Curcumin",
+   "Capsaicin",
+   "Piperine",
+   "Allicin"
+  ],
+  "optsHi": [
+   "करक्यूमिन",
+   "कैप्सैसिन",
+   "पाइपरिन",
+   "एलिसिन"
+  ],
+  "correct": 0,
+  "explainEn": "Curcumin is the active compound in turmeric responsible for its yellow pigment and various health benefits.",
+  "sourceHint": "NCERT Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:17Z"
+ },
+ {
+  "id": "q_09c78cb519482da9",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the famous ancient Indian treatise on statecraft, economic policy, and military strategy known as the Arthashastra?",
+  "qHi": "राज्यकला, आर्थिक नीति और सैन्य रणनीति पर प्रसिद्ध प्राचीन भारतीय ग्रंथ अर्थशास्त्र किसने लिखा था?",
+  "optsEn": [
+   "Kalidasa",
+   "Chanakya",
+   "Banabhatta",
+   "Aryabhata"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "चाणक्य",
+   "बाणभट्ट",
+   "आर्यभट्ट"
+  ],
+  "correct": 1,
+  "explainEn": "Arthashastra was authored by Chanakya (also known as Kautilya), who was a teacher and prime minister to the first Maurya Emperor Chandragupta.",
+  "sourceHint": "NCERT History textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:17Z"
+ },
+ {
+  "id": "q_f788b6e1d3c078ca",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian city is famously known as the Pink City and was founded in the 18th century by Maharaja Sawai Jai Singh II?",
+  "qHi": "किस भारतीय शहर को गुलाबी शहर के रूप में जाना जाता है और इसकी स्थापना 18वीं शताब्दी में महाराजा सवाई जय सिंह द्वितीय द्वारा की गई थी?",
+  "optsEn": [
+   "Jodhpur",
+   "Udaipur",
+   "Jaipur",
+   "Bikaner"
+  ],
+  "optsHi": [
+   "जोधपुर",
+   "उदयपुर",
+   "जयपुर",
+   "बीकानेर"
+  ],
+  "correct": 2,
+  "explainEn": "Jaipur, the capital of Rajasthan, is known as the Pink City due to the distinctive color of its buildings in the old city.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:17Z"
+ },
+ {
+  "id": "q_7643bdc0d617cc17",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Vitamin is primarily synthesized in the human skin upon exposure to ultraviolet-B sunlight?",
+  "qHi": "मानव त्वचा में पराबैंगनी-बी (यूवी-बी) सूर्य के प्रकाश के संपर्क में आने पर मुख्य रूप से कौन सा विटामिन संश्लेषित होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin C",
+   "Vitamin D",
+   "Vitamin K"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन सी",
+   "विटामिन डी",
+   "विटामिन के"
+  ],
+  "correct": 2,
+  "explainEn": "Vitamin D is produced in the skin when cholesterol reacts with UV-B radiation from the sun.",
+  "sourceHint": "NCERT Biology textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:17Z"
+ },
+ {
+  "id": "q_b335802e1dea5618",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which gas constitutes the largest percentage by volume in Earth's atmosphere?",
+  "qHi": "पृथ्वी के वायुमंडल में आयतन के हिसाब से किस गैस का प्रतिशत सबसे अधिक है?",
+  "optsEn": [
+   "Oxygen",
+   "Nitrogen",
+   "Carbon dioxide",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "कार्बन डाइऑक्साइड",
+   "आर्गन"
+  ],
+  "correct": 1,
+  "explainEn": "Nitrogen makes up about 78 percent of Earth's atmosphere by volume.",
+  "sourceHint": "NCERT Geography textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:17Z"
+ },
+ {
+  "id": "q_fe57da4fe76a47ed",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the name of the lunar exploration mission launched by the Indian Space Research Organisation (ISRO) that successfully landed a rover near the Moon's south pole in 2023?",
+  "qHi": "भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO) द्वारा लॉन्च किए गए उस चंद्र अन्वेषण मिशन का नाम क्या है जिसने 2023 में चंद्रमा के दक्षिणी ध्रुव के पास सफलतापूर्वक एक रोवर उतारा था?",
+  "optsEn": [
+   "Chandrayaan-1",
+   "Chandrayaan-2",
+   "Chandrayaan-3",
+   "Mangalyaan"
+  ],
+  "optsHi": [
+   "चंद्रयान-1",
+   "चंद्रयान-2",
+   "चंद्रयान-3",
+   "मंगलयान"
+  ],
+  "correct": 2,
+  "explainEn": "Chandrayaan-3 successfully touched down on the lunar surface near the south pole in August 2023.",
+  "sourceHint": "ISRO official records",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:17Z"
+ },
+ {
+  "id": "q_1c9286cc6a2afc04",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who was the founder of the Satavahana dynasty according to Puranic and epigraphic records?",
+  "qHi": "पुराणों और अभिलेखीय साक्ष्यों के अनुसार सातवाहन वंश का संस्थापक कौन था?",
+  "optsEn": [
+   "Simukha",
+   "Satakarni I",
+   "Gautamiputra Satakarni",
+   "Hala"
+  ],
+  "optsHi": [
+   "सिमुक",
+   "सातकर्णि प्रथम",
+   "गौतमीपुत्र सातकर्णि",
+   "हाल"
+  ],
+  "correct": 0,
+  "explainEn": "Simukha is credited in the Puranas as the founder of the Satavahana dynasty.",
+  "sourceHint": "NCERT History Textbook / Ancient Indian History by R.C. Majumdar",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:04:23Z"
+ },
+ {
+  "id": "q_523fde4f76a77fc5",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which biogeographic zone of India is the Silent Valley National Park located?",
+  "qHi": "शांत घाटी (साइलेंट वैली) राष्ट्रीय उद्यान भारत के किस जैव-भौगोलिक क्षेत्र में स्थित है?",
+  "optsEn": [
+   "Himalayan",
+   "Western Ghats",
+   "North-East",
+   "Deccan Peninsula"
+  ],
+  "optsHi": [
+   "हिमालयी",
+   "पश्चिमी घाट",
+   "उत्तर-पूर्व",
+   "दक्कन प्रायद्वीप"
+  ],
+  "correct": 1,
+  "explainEn": "Silent Valley National Park is situated in the Nilgiri hills of the Western Ghats in Kerala.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change, India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:04:23Z"
+ },
+ {
+  "id": "q_878594f643a9ed01",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form of India traditionally uses the 'Thillana' as its concluding item?",
+  "qHi": "भारत के किस शास्त्रीय नृत्य में पारंपरिक रूप से समापन प्रस्तुति के रूप में 'थिल्लाना' का उपयोग किया जाता है?",
+  "optsEn": [
+   "Kathakali",
+   "Odissi",
+   "Bharatanatyam",
+   "Kuchipudi"
+  ],
+  "optsHi": [
+   "कथकली",
+   "ओडिसी",
+   "भरतनाट्यम",
+   "कुचिपुड़ी"
+  ],
+  "correct": 2,
+  "explainEn": "Thillana is a vibrant and fast-paced item that traditionally concludes a Bharatanatyam recital.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:04:23Z"
+ },
+ {
+  "id": "q_b4bd529cb4086525",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian mathematician formulated the infinite series for pi that was later named after a European mathematician?",
+  "qHi": "किस भारतीय गणितज्ञ ने पाई के लिए अनंत श्रृंखला प्रतिपादित की थी जिसका नाम बाद में एक यूरोपीय गणितज्ञ के नाम पर रखा गया?",
+  "optsEn": [
+   "Bhaskara II",
+   "Madhava of Sangamagrama",
+   "Brahmagupta",
+   "Varahamihira"
+  ],
+  "optsHi": [
+   "भास्कर द्वितीय",
+   "संगमग्राम के माधव",
+   "ब्रह्मगुप्त",
+   "वराहमिहिर"
+  ],
+  "correct": 1,
+  "explainEn": "Madhava of Sangamagrama discovered the infinite series expansion for pi, known in Europe as the Gregory-Leibniz series.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:04:23Z"
+ },
+ {
+  "id": "q_c16efe138c690365",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Indian Constitution, the power to commute a death sentence rests exclusively with which authority?",
+  "qHi": "भारतीय संविधान के तहत, मौत की सजा को कम करने की शक्ति विशेष रूप से किस प्राधिकारी के पास है?",
+  "optsEn": [
+   "Prime Minister of India",
+   "Chief Justice of India",
+   "President of India",
+   "Law Minister of India"
+  ],
+  "optsHi": [
+   "भारत के प्रधानमंत्री",
+   "भारत के मुख्य न्यायाधीश",
+   "भारत के राष्ट्रपति",
+   "भारत के कानून मंत्री"
+  ],
+  "correct": 2,
+  "explainEn": "Article 72 of the Constitution vests the power to grant pardons and commute death sentences in the President of India.",
+  "sourceHint": "Article 72, Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:04:23Z"
+ },
+ {
+  "id": "q_32ba6916a2314c8c",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian city is home to the headquarters of the Tea Board of India?",
+  "qHi": "भारत के किस शहर में भारतीय चाय बोर्ड का मुख्यालय स्थित है?",
+  "optsEn": [
+   "Guwahati",
+   "Kolkata",
+   "Darjeeling",
+   "Bengaluru"
+  ],
+  "optsHi": [
+   "गुवाहाटी",
+   "कोलकाता",
+   "दार्जिलिंग",
+   "बेंगलुरु"
+  ],
+  "correct": 1,
+  "explainEn": "The Tea Board of India, established under the Tea Act of 1953, has its headquarters in Kolkata.",
+  "sourceHint": "Tea Board of India, Ministry of Commerce and Industry",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:04:23Z"
  }
 ]

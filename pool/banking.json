@@ -5206,5 +5206,593 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-06T18:24:28Z"
+ },
+ {
+  "id": "q_960946d8ab771cc5",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'I' stand for in the abbreviation 'IMPS', a payment service in Indian banking?",
+  "qHi": "भारतीय बैंकिंग में भुगतान सेवा 'IMPS' संक्षिप्त नाम में अक्षर 'I' का क्या अर्थ है?",
+  "optsEn": [
+   "Immediate",
+   "Interbank",
+   "Indian",
+   "International"
+  ],
+  "optsHi": [
+   "Immediate",
+   "Interbank",
+   "Indian",
+   "International"
+  ],
+  "correct": 0,
+  "explainEn": "IMPS stands for Immediate Payment Service, which is an instant interbank electronic fund transfer system in India.",
+  "sourceHint": "National Payments Corporation of India (NPCI)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:02:12Z"
+ },
+ {
+  "id": "q_9c8c1d32aa3af2bf",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the term 'SLR' stand for in Indian banking regulations?",
+  "qHi": "भारतीय बैंकिंग नियमों में 'SLR' शब्द का क्या अर्थ है?",
+  "optsEn": [
+   "Statutory Liquidity Ratio",
+   "Standard Lending Rate",
+   "Systemic Liquidity Reserve",
+   "State Level Return"
+  ],
+  "optsHi": [
+   "Statutory Liquidity Ratio",
+   "Standard Lending Rate",
+   "Systemic Liquidity Reserve",
+   "State Level Return"
+  ],
+  "correct": 0,
+  "explainEn": "SLR stands for Statutory Liquidity Ratio, which is the minimum percentage of deposits that a commercial bank must maintain in liquid assets.",
+  "sourceHint": "NCERT Economics textbook and RBI glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:02:12Z"
+ },
+ {
+  "id": "q_223aca3676b39914",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which bank was established as the Imperial Bank of India before being renamed as the State Bank of India?",
+  "qHi": "स्टेट बैंक ऑफ़ इंडिया के रूप में नाम बदले जाने से पहले किस बैंक को इम्पीरियल बैंक ऑफ़ इंडिया के रूप में स्थापित किया गया था?",
+  "optsEn": [
+   "Bank of Baroda",
+   "Punjab National Bank",
+   "State Bank of India",
+   "Canara Bank"
+  ],
+  "optsHi": [
+   "बैंक ऑफ़ बड़ौदा",
+   "पंजाब नेशनल बैंक",
+   "स्टेट बैंक ऑफ़ इंडिया",
+   "केनरा बैंक"
+  ],
+  "correct": 2,
+  "explainEn": "The Imperial Bank of India was converted into the State Bank of India in July 1955 following the SBI Act.",
+  "sourceHint": "State Bank of India history archives",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:02:12Z"
+ },
+ {
+  "id": "q_67381a410484a26c",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of 'NEFT' in the context of Indian banking fund transfers?",
+  "qHi": "भारतीय बैंकिंग फंड ट्रांसफर के संदर्भ में 'NEFT' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "New Economic Financial Transfer",
+   "National Equity Fund Transaction",
+   "Net External Funding Technique"
+  ],
+  "optsHi": [
+   "National Electronic Funds Transfer",
+   "New Economic Financial Transfer",
+   "National Equity Fund Transaction",
+   "Net External Funding Technique"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, a nationwide centralized payment system owned and operated by the RBI.",
+  "sourceHint": "RBI payment systems documentation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:02:12Z"
+ },
+ {
+  "id": "q_673ec7c98080a4dc",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which official organization in India issues currency notes in denominations other than one rupee?",
+  "qHi": "भारत में कौन सा आधिकारिक संगठन एक रुपये के अलावा अन्य मूल्यवर्ग के करेंसी नोट जारी करता है?",
+  "optsEn": [
+   "Ministry of Finance",
+   "State Bank of India",
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "वित्त मंत्रालय",
+   "स्टेट बैंक ऑफ़ इंडिया",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड"
+  ],
+  "correct": 2,
+  "explainEn": "The Reserve Bank of India has the sole right to issue currency notes of all denominations except the one-rupee note, which is issued by the Ministry of Finance.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:02:12Z"
+ },
+ {
+  "id": "q_99208eecb12a6a18",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which monetary policy tool refers to the minimum percentage of deposits that commercial banks must keep with the Reserve Bank of India in the form of liquid cash?",
+  "qHi": "किस मौद्रिक नीति उपकरण के तहत वाणिज्यिक बैंकों को अपनी जमा राशि का एक निश्चित न्यूनतम प्रतिशत भारतीय रिजर्व बैंक के पास तरल नकदी के रूप में रखना अनिवार्य होता है?",
+  "optsEn": [
+   "Statutory Liquidity Ratio",
+   "Cash Reserve Ratio",
+   "Repo Rate",
+   "Bank Rate"
+  ],
+  "optsHi": [
+   "वैधानिक तरलता अनुपात",
+   "नकद आरक्षित अनुपात",
+   "रेपो रेट",
+   "बैंक रेट"
+  ],
+  "correct": 1,
+  "explainEn": "Cash Reserve Ratio (CRR) is the specified minimum fraction of the total deposits of customers, which commercial banks have to hold as reserves either in cash or with the central bank.",
+  "sourceHint": "RBI official website and NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:12Z"
+ },
+ {
+  "id": "q_d63021cd2c0f62fc",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the abbreviation 'MSF', a liquidity window used by scheduled banks in India?",
+  "qHi": "भारत में अनुसूचित बैंकों द्वारा उपयोग की जाने वाली तरलता खिड़की 'MSF' संक्षिप्त नाम में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liquidity",
+   "Liability",
+   "Lending",
+   "Leverage"
+  ],
+  "optsHi": [
+   "तरलता (Liquidity)",
+   "देयता (Liability)",
+   "उधार (Lending)",
+   "लिवरेज (Leverage)"
+  ],
+  "correct": 0,
+  "explainEn": "MSF stands for Marginal Standing Facility, which is a window for scheduled banks to borrow overnight from the RBI against approved government securities.",
+  "sourceHint": "Reserve Bank of India notifications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:12Z"
+ },
+ {
+  "id": "q_cb63dc877f9c0674",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque becomes stale and invalid for payment after how many months from the date of its issuance in India?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, भारत में जारी होने की तारीख से कितने महीनों के बाद एक चेक पुराना (stale) और भुगतान के लिए अमान्य हो जाता है?",
+  "optsEn": [
+   "1 month",
+   "3 months",
+   "6 months",
+   "12 months"
+  ],
+  "optsHi": [
+   "1 महीना",
+   "3 महीने",
+   "6 महीने",
+   "12 महीने"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India directed that effective April 1, 2012, the validity period of cheques, demand drafts, pay orders, and banker's cheques was reduced from 6 months to 3 months from the date of issue.",
+  "sourceHint": "RBI guidelines on Negotiable Instruments",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:12Z"
+ },
+ {
+  "id": "q_4cc57f14d1cde04d",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institution regulates and oversees microfinance institutions (MFIs) and cooperative banks in rural India besides commercial banks?",
+  "qHi": "वाणिज्यिक बैंकों के अलावा ग्रामीण भारत में सूक्ष्म वित्त संस्थानों (MFIs) और सहकारी बैंकों को कौन सी संस्था विनियमित और नियंत्रित करती है?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "NHB"
+  ],
+  "optsHi": [
+   "सिडबी (SIDBI)",
+   "नाबार्ड (NABARD)",
+   "एक्जिम बैंक (EXIM Bank)",
+   "राष्ट्रीय आवास बैंक (NHB)"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) is an apex regulatory body for overall regulation of regional rural banks and apex cooperative banks in India.",
+  "sourceHint": "NABARD official mandate and Indian Economy texts",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:12Z"
+ },
+ {
+  "id": "q_7432756b6277ed62",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary function of the Credit Information Bureau (India) Limited (CIBIL)?",
+  "qHi": "क्रेडिट इंफॉर्मेशन ब्यूरो (इंडिया) लिमिटेड (CIBIL) का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "Fixing the repo and reverse repo rates",
+   "Maintaining individual credit history and scores",
+   "Issuing currency notes in rural areas",
+   "Regulating foreign exchange markets"
+  ],
+  "optsHi": [
+   "रेपो और रिवर्स रेपो दरों का निर्धारण करना",
+   "व्यक्तिगत क्रेडिट इतिहास और स्कोर का रखरखाव करना",
+   "ग्रामीण क्षेत्रों में करेंसी नोट जारी करना",
+   "विदेशी मुद्रा बाजारों को विनियमित करना"
+  ],
+  "correct": 1,
+  "explainEn": "CIBIL collects and maintains records of an individual's payments pertaining to loans and credit cards, generating credit scores utilized by lending institutions.",
+  "sourceHint": "RBI and Credit Information Companies Regulation Act",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:12Z"
+ },
+ {
+  "id": "q_632df0f0e6812bf3",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which entity is legally authorized to issue currency notes in India under the Reserve Bank of India Act, 1934?",
+  "qHi": "भारतीय रिजर्व बैंक अधिनियम, 1934 के तहत भारत में करेंसी नोट जारी करने के लिए कौन सी संस्था कानूनी रूप سے अधिकृत है?",
+  "optsEn": [
+   "Ministry of Finance",
+   "State Bank of India",
+   "Reserve Bank of India",
+   "Controller of Currency"
+  ],
+  "optsHi": [
+   "वित्त मंत्रालय",
+   "भारतीय स्टेट बैंक",
+   "भारतीय रिजर्व बैंक",
+   "कंट्रोलर ऑफ करेंसी"
+  ],
+  "correct": 2,
+  "explainEn": "Section 22 of the Reserve Bank of India Act, 1934 grants the RBI the sole right to issue bank notes in India.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:12Z"
+ },
+ {
+  "id": "q_818b36aa404e9e87",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does 'A' stand for in the standard banking term 'IMPS' used for electronic fund transfers?",
+  "qHi": "इलेक्ट्रॉनिक फंड ट्रांसफर के लिए उपयोग किए जाने वाले मानक बैंकिंग शब्द 'IMPS' में 'A' का क्या अर्थ है?",
+  "optsEn": [
+   "Advanced",
+   "Automatic",
+   "Immediate",
+   "Assisted"
+  ],
+  "optsHi": [
+   "एडवांस्ड (Advanced)",
+   "ऑटोमैटिक (Automatic)",
+   "इमीडिएट (Immediate)",
+   "असिस्टेड (Assisted)"
+  ],
+  "correct": 2,
+  "explainEn": "IMPS stands for Immediate Payment Service, an instant interbank electronic fund transfer service through mobile phones and other channels.",
+  "sourceHint": "National Payments Corporation of India (NPCI)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:12Z"
+ },
+ {
+  "id": "q_f85ab003543ff067",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of account typically offers zero or low minimum balance requirements and is designed to provide basic financial services to unbanked sections of society?",
+  "qHi": "किस प्रकार के खाते में आम तौर पर शून्य या कम न्यूनतम शेष राशि की आवश्यकता होती है और इसे समाज के असंबद्ध वर्गों को बुनियादी वित्तीय सेवाएं प्रदान करने के लिए डिज़ाइन किया गया है?",
+  "optsEn": [
+   "Current Account",
+   "Basic Savings Bank Deposit Account",
+   "NRE Account",
+   "Fixed Deposit Account"
+  ],
+  "optsHi": [
+   "चालू खाता (Current Account)",
+   "बुनियादी बचत बैंक जमा खाता (BSBDA)",
+   "एनआरआई खाता (NRE Account)",
+   "सावधि जमा खाता (Fixed Deposit Account)"
+  ],
+  "correct": 1,
+  "explainEn": "A Basic Savings Bank Deposit Account (BSBDA) was introduced by the RBI to ensure wider financial inclusion without the burden of maintaining high minimum balances.",
+  "sourceHint": "RBI Financial Inclusion Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:12Z"
+ },
+ {
+  "id": "q_4ca22d90f63bc88b",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following non-banking financial company categories was merged into the Investment and Credit Company (NBFC-ICC) by the Reserve Bank of India under its scale-based regulation?",
+  "qHi": "भारतीय रिजर्व बैंक ने अपने पैमाने-आधारित विनियमन के तहत निम्नलिखित में से किस गैर-बैंकिंग वित्तीय कंपनी श्रेणी को निवेश और ऋण कंपनी (NBFC-ICC) में विलय कर दिया था?",
+  "optsEn": [
+   "NBFC-Factor",
+   "NBFC-Microfinance Institution",
+   "Loan Company, Asset Finance Company, and Infrastructure Finance Company",
+   "NBFC-Infrastructure Debt Fund"
+  ],
+  "optsHi": [
+   "एनबीएफसी-फैक्टर",
+   "एनबीएफसी-माइक्रोफाइनेंस संस्थान",
+   "ऋण कंपनी, संपत्ति वित्त कंपनी, और बुनियादी ढांचा वित्त कंपनी",
+   "एनबीएफसी-इन्फ्रास्ट्रक्चर डेट फंड"
+  ],
+  "correct": 2,
+  "explainEn": "RBI merged Loan Companies, Asset Finance Companies, and Infrastructure Finance Companies into a single category called NBFC-Investment and Credit Company (NBFC-ICC).",
+  "sourceHint": "RBI Master Directions on NBFC Scale Based Regulation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:04:18Z"
+ },
+ {
+  "id": "q_09678e1b9c24af97",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the minimum net owned fund (NOF) requirement prescribed by the Reserve Bank of India for setting up a new Universal Bank in the private sector?",
+  "qHi": "निजी क्षेत्र में एक नया यूनिवर्सल बैंक स्थापित करने के लिए भारतीय रिजर्व बैंक द्वारा निर्धारित न्यूनतम शुद्ध स्वामित्व निधि (NOF) आवश्यकता क्या है?",
+  "optsEn": [
+   "Rs. 200 crore",
+   "Rs. 500 crore",
+   "Rs. 1000 crore",
+   "Rs. 5000 crore"
+  ],
+  "optsHi": [
+   "रु. 200 करोड़",
+   "रु. 500 करोड़",
+   "रु. 1000 करोड़",
+   "रु. 5000 करोड़"
+  ],
+  "correct": 2,
+  "explainEn": "As per RBI guidelines for 'on-tap' licensing of Universal Banks in the private sector, the minimum initial net owned fund is Rs. 1000 crore.",
+  "sourceHint": "RBI Guidelines on On-tap Licensing of Universal Banks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:04:18Z"
+ },
+ {
+  "id": "q_9ea61f57ff0b3553",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Prompt Corrective Action (PCA) framework for Scheduled Commercial Banks, which of the following is a mandatory restriction once a bank enters Risk Threshold 3?",
+  "qHi": "अनुसूचित वाणिज्यिक बैंकों के लिए त्वरित सुधार कार्रवाई (पीसीए) फ्रेमवर्क के तहत, बैंक के जोखिम थ्रेशोल्ड 3 में प्रवेश करने के बाद निम्नलिखित में से कौन सा अनिवार्य प्रतिबंध है?",
+  "optsEn": [
+   "Restriction on opening new foreign branches only",
+   "Mandatory restriction on branch expansion",
+   "Discretionary restriction on capital expenditure",
+   "Mandatory requirement to amalgamate, merge, or wind up the bank"
+  ],
+  "optsHi": [
+   "केवल नई विदेशी शाखाएं खोलने पर प्रतिबंध",
+   "शाखा विस्तार पर अनिवार्य प्रतिबंध",
+   "पूंजीगत व्यय पर विवेकपूर्ण प्रतिबंध",
+   "बैंक का समामेलन, विलय या परिसमापन करने की अनिवार्य आवश्यकता"
+  ],
+  "correct": 3,
+  "explainEn": "Risk Threshold 3 of the PCA framework mandates consideration of amalgamation, merger, reconstruction, or winding up of the bank.",
+  "sourceHint": "RBI PCA Framework Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:04:18Z"
+ },
+ {
+  "id": "q_ed766bd6c3039ff1",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which institutional mechanism was established by the Government of India to act as an asset management company and asset reconstruction company to resolve stressed assets of public sector banks?",
+  "qHi": "सार्वजनिक क्षेत्र के बैंकों की तनावग्रस्त संपत्तियों को हल करने के लिए परिसंपत्ति प्रबंधन कंपनी और परिसंपत्ति पुनर्निर्माण कंपनी के रूप में कार्य करने के लिए भारत सरकार द्वारा किस संस्थागत तंत्र की स्थापना की गई थी?",
+  "optsEn": [
+   "National Asset Reconstruction Company Limited (NARCL)",
+   "Bad Bank of India Corporation",
+   "Stressed Assets Stabilization Fund",
+   "National Bank for Financing Infrastructure and Development"
+  ],
+  "optsHi": [
+   "नेशनल एसेट रिकस्ट्रक्शन कंपनी लिमिटेड (NARCL)",
+   "बैड बैंक ऑफ इंडिया कॉर्पोरेशन",
+   "तनावग्रस्त संपत्ति स्थिरीकरण कोष",
+   "नेशनल बैंक फॉर फाइनेंसिंग इन्फ्रास्ट्रक्चर एंड डेवलपमेंट"
+  ],
+  "correct": 0,
+  "explainEn": "NARCL (National Asset Reconstruction Company Limited) was set up to acquire and aggregate stressed loan assets of public sector banks.",
+  "sourceHint": "Ministry of Finance PIB Releases",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:04:18Z"
+ },
+ {
+  "id": "q_6f39c9ee2067acab",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary purpose of the 'Standing Deposit Facility (SDF)' introduced by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा शुरू की गई 'स्थाई जमा सुविधा (SDF)' का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To provide overnight liquidity to banks against government securities",
+   "To absorb excess liquidity from the banking system without requiring collateral in the form of government securities",
+   "To provide long-term foreign exchange swaps to commercial banks",
+   "To refinance microfinance institutions at concessional repo rates"
+  ],
+  "optsHi": [
+   "सरकारी प्रतिभूतियों के मुकाबले बैंकों को रातोंरात तरलता प्रदान करना",
+   "सरकारी प्रतिभूतियों के रूप में संपार्श्विक की आवश्यकता के बिना बैंकिंग प्रणाली से अतिरिक्त तरलता को अवशोषित करना",
+   "वाणिज्यिक बैंकों को दीर्घकालिक विदेशी मुद्रा स्वैप प्रदान करना",
+   "रियायत रेपो दरों पर सूक्ष्म वित्त संस्थानों को पुनर्वित्त प्रदान करना"
+  ],
+  "correct": 1,
+  "explainEn": "SDF is a collateral-free liquidity absorption tool where banks can park excess funds with the RBI overnight, removing the collateral constraint.",
+  "sourceHint": "RBI Monetary Policy Report",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:04:18Z"
+ },
+ {
+  "id": "q_c50bf27efdfb5ddb",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Basel III norms, what does 'Tier 1 Capital' primarily consist of?",
+  "qHi": "बेसल III मानदंडों के संदर्भ में, 'टियर 1 पूंजी' में मुख्य रूप से क्या शामिल होता है?",
+  "optsEn": [
+   "Subordinated debt and revaluation reserves",
+   "Common Equity Tier 1 (CET1) and Additional Tier 1 (AT1) instruments",
+   "General provisions and standard asset provisions",
+   "Short-term unsecured borrowings and redeemable preference shares"
+  ],
+  "optsHi": [
+   "अवरुद्ध ऋण और पुनर्मूल्यांकन भंडार",
+   "कॉमन इक्विटी टियर 1 (CET1) और अतिरिक्त टियर 1 (AT1) उपकरण",
+   "सामान्य प्रावधान और मानक संपत्ति प्रावधान",
+   "अल्पकालिक असुरक्षित उधार और मोचनीय वरीयता शेयर"
+  ],
+  "correct": 1,
+  "explainEn": "Tier 1 Capital under Basel III is composed of Common Equity Tier 1 (CET1) capital and Additional Tier 1 (AT1) capital.",
+  "sourceHint": "Basel III Guidelines by Basel Committee on Banking Supervision and RBI",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:04:18Z"
+ },
+ {
+  "id": "q_7d408c76a0fe82dd",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organization in India regulates and supervises credit rating agencies?",
+  "qHi": "भारत में कौन सा संगठन क्रेडिट रेटिंग एजेंसियों को विनियमित और पर्यवेक्षित करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Insurance Regulatory and Development Authority of India",
+   "Securities and Exchange Board of India",
+   "Ministry of Corporate Affairs"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय बीमा विनियामक और विकास प्राधिकरण",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "कॉर्पोरेट मामलों के मंत्रालय"
+  ],
+  "correct": 2,
+  "explainEn": "Credit Rating Agencies operating in India are regulated by SEBI under the SEBI (Credit Rating Agencies) Regulations, 1999.",
+  "sourceHint": "SEBI Act and Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:04:18Z"
+ },
+ {
+  "id": "q_afd831600b3f6228",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What does the term 'Ways and Means Advances (WMA)' denote in the operational framework of central banking in India?",
+  "qHi": "भारत में केंद्रीय बैंकिंग के परिचालन ढांचे में 'वेज़ एंड मीन्स एडवांसेज (WMA)' शब्द का क्या अर्थ है?",
+  "optsEn": [
+   "Long-term infrastructure bonds issued by state governments",
+   "Temporary loan facilities provided by the RBI to the central and state governments to bridge mismatches in cash flows",
+   "Foreign currency reserves maintained to manage exchange rate volatility",
+   "Intraday liquidity provided to settlement system operators"
+  ],
+  "optsHi": [
+   "राज्य सरकारों द्वारा जारी दीर्घकालिक बुनियादी ढांचा बॉन्ड",
+   "नकदी प्रवाह में बेमेल को पाटने के लिए केंद्र और राज्य सरकारों को आरबीआई द्वारा प्रदान की जाने वाली अस्थायी ऋण सुविधाएं",
+   "विनिमय दर अस्थिरता का प्रबंधन करने के लिए बनाए रखा गया विदेशी मुद्रा भंडार",
+   "निपटान प्रणाली ऑपरेटरों को प्रदान की जाने वाली इंट्रा-डे तरलता"
+  ],
+  "correct": 1,
+  "explainEn": "WMAs are temporary advance facilities provided by the RBI to the government to accommodate mismatches in receipts and payments.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:04:18Z"
  }
 ]

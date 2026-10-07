@@ -3106,5 +3106,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-06T18:24:44Z"
+ },
+ {
+  "id": "q_c0b889e072db3217",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which microorganism is responsible for setting curd from milk?",
+  "qHi": "दूध से दही जमाने के लिए कौन सा सूक्ष्मजीव उत्तरदायी है?",
+  "optsEn": [
+   "Rhizobium",
+   "Lactobacillus",
+   "Yeast",
+   "Amoeba"
+  ],
+  "optsHi": [
+   "राइझोबियम",
+   "लैक्टोबैसिलस",
+   "यीस्ट",
+   "अमीबा"
+  ],
+  "correct": 1,
+  "explainEn": "The bacterium Lactobacillus promotes the formation of curd from milk.",
+  "sourceHint": "NCERT Class 8 Science Chapter 2: Microorganisms: Friend and Foe",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:02:26Z"
+ },
+ {
+  "id": "q_2f575566c1391b02",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the synthetic fibre that resembles wool and is used to make sweaters and blankets?",
+  "qHi": "वह संश्लेषित रेशा कौन सा है जो ऊन जैसा दिखाई देता है और स्वेटर तथा कंबल बनाने के काम आता है?",
+  "optsEn": [
+   "Nylon",
+   "Polyester",
+   "Acrylic",
+   "Rayon"
+  ],
+  "optsHi": [
+   "ना नाइलॉन",
+   "पॉलिस्टर",
+   "ऐक्रेलिक",
+   "रेयान"
+  ],
+  "correct": 2,
+  "explainEn": "Acrylic is a synthetic fibre that resembles wool and is relatively cheap.",
+  "sourceHint": "NCERT Class 8 Science Chapter 3: Synthetic Fibres and Plastics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:02:26Z"
+ },
+ {
+  "id": "q_22567bee6832ad3b",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following metals is stored in kerosene due to its high reactivity?",
+  "qHi": "निम्नलिखित में से किस धातु को उसकी अत्यधिक अभिक्रियाशीलता के कारण मिट्टी के तेल (केरोसिन) में रखा जाता है?",
+  "optsEn": [
+   "Iron",
+   "Copper",
+   "Sodium",
+   "Gold"
+  ],
+  "optsHi": [
+   "लोहा",
+   "ताँबा",
+   "सोडियम",
+   "सोना"
+  ],
+  "correct": 2,
+  "explainEn": "Sodium is very reactive and catches fire if it comes in contact with air and moisture, so it is stored in kerosene.",
+  "sourceHint": "NCERT Class 8 Science Chapter 4: Materials: Metals and Non-Metals",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:02:26Z"
+ },
+ {
+  "id": "q_fa2e45a82a8ced8a",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the term used for the species of plants and animals that are found exclusively in a particular area?",
+  "qHi": "पौधों और जंतुओं की उन जातियों के लिए किस शब्द का प्रयोग किया जाता है जो किसी विशेष क्षेत्र में ही पाई जाती हैं?",
+  "optsEn": [
+   "Migratory species",
+   "Endemic species",
+   "Extinct species",
+   "Domesticated species"
+  ],
+  "optsHi": [
+   "प्रवासी जातियाँ",
+   "स्थान्दबद्ध (एंडेमिक) जातियाँ",
+   "विलुप्त जातियाँ",
+   "पालतू जातियाँ"
+  ],
+  "correct": 1,
+  "explainEn": "Endemic species are those found exclusively in a particular area and not naturally anywhere else.",
+  "sourceHint": "NCERT Class 8 Science Chapter 7: Conservation of Plants and Animals",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:02:26Z"
+ },
+ {
+  "id": "q_8616ab87640fa7f4",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which part of a plant cell is the pigment chlorophyll found?",
+  "qHi": "पादप कोशिका के किस भाग में पर्णहरित (क्लोरोफिल) वर्णक पाया जाता है?",
+  "optsEn": [
+   "Nucleus",
+   "Vacuole",
+   "Chloroplast",
+   "Cell membrane"
+  ],
+  "optsHi": [
+   "केंद्रक",
+   "रिक्तिका",
+   "क्लोरोप्लास्ट (हरित लवक)",
+   "कोशिका झिल्ली"
+  ],
+  "correct": 2,
+  "explainEn": "Green plastids called chloroplasts contain chlorophyll in plant cells.",
+  "sourceHint": "NCERT Class 8 Science Chapter 8: Cell Structure and Functions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:02:26Z"
+ },
+ {
+  "id": "q_007d5f81b6938dd7",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What name is given to the push or pull on an object?",
+  "qHi": "किसी वस्तु पर लगने वाले धक्का या खिंचाव को क्या नाम दिया जाता है?",
+  "optsEn": [
+   "Force",
+   "Pressure",
+   "Friction",
+   "Gravity"
+  ],
+  "optsHi": [
+   "बल",
+   "दाब",
+   "घर्षण",
+   "गुरुत्वाकर्षण"
+  ],
+  "correct": 0,
+  "explainEn": "A push or a pull on an object is generally called a force.",
+  "sourceHint": "NCERT Class 8 Science Chapter 11: Force and Pressure",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:02:26Z"
+ },
+ {
+  "id": "q_7c99d9a85e0a6f1e",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which celestial body is the nearest to Earth?",
+  "qHi": "पृथ्वी के सबसे निकट कौन सा खगोलीय पिंड है?",
+  "optsEn": [
+   "Sun",
+   "Moon",
+   "Mars",
+   "Venus"
+  ],
+  "optsHi": [
+   "सूर्य",
+   "चंद्रमा",
+   "मंगल",
+   "शुक्र"
+  ],
+  "correct": 1,
+  "explainEn": "The Moon is Earth's nearest celestial neighbor in space.",
+  "sourceHint": "NCERT Class 8 Science Chapter 17: Stars and the Solar System",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:02:26Z"
+ },
+ {
+  "id": "q_7be11840b9120dc0",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which year did the Battle of Plassey take place, marking a major turning point in British history in India?",
+  "qHi": "प्लासी का युद्ध किस वर्ष हुआ था, जो भारत के ब्रिटिश इतिहास में एक प्रमुख मोड़ साबित हुआ?",
+  "optsEn": [
+   "1757",
+   "1764",
+   "1857",
+   "1947"
+  ],
+  "optsHi": [
+   "1757",
+   "1764",
+   "1857",
+   "1947"
+  ],
+  "correct": 0,
+  "explainEn": "The Battle of Plassey was fought on 23 June 1757, establishing British East India Company control over Bengal.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:27Z"
+ },
+ {
+  "id": "q_8b9d4df1d61219e1",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which fundamental right guaranteed by the Indian Constitution prohibits human trafficking and forced labour?",
+  "qHi": "भारतीय संविधान द्वारा प्रदत्त कौन सा मौलिक अधिकार मानव तस्करी और जबरन श्रम पर प्रतिबंध लगाता है?",
+  "optsEn": [
+   "Right to Equality",
+   "Right to Freedom",
+   "Right against Exploitation",
+   "Right to Freedom of Religion"
+  ],
+  "optsHi": [
+   "समानता का अधिकार",
+   "स्वतंत्रता का अधिकार",
+   "शोषण के विरुद्ध अधिकार",
+   "धर्म की स्वतंत्रता का अधिकार"
+  ],
+  "correct": 2,
+  "explainEn": "Articles 23 and 24 of the Indian Constitution enshrine the Right against Exploitation, prohibiting human trafficking and forced labour.",
+  "sourceHint": "NCERT Class 8 Civics and Indian Constitution",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:27Z"
+ },
+ {
+  "id": "q_a7015939cacd7fa6",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which soil type is best suited for the cultivation of cotton and is also known as regur soil?",
+  "qHi": "कपास की खेती के लिए कौन सी मिट्टी सबसे उपयुक्त है और इसे रेगुर मिट्टी के रूप में भी जाना जाता है?",
+  "optsEn": [
+   "Laterite soil",
+   "Alluvial soil",
+   "Black soil",
+   "Red soil"
+  ],
+  "optsHi": [
+   "लैटेराइट मिट्टी",
+   "जलोढ़ मिट्टी",
+   "काली मिट्टी",
+   "लाल मिट्टी"
+  ],
+  "correct": 2,
+  "explainEn": "Black soil, also known as regur soil, is ideal for growing cotton due to its high moisture retention capacity.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:27Z"
+ },
+ {
+  "id": "q_7e70dedb6146261a",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which microorganisms convert atmospheric nitrogen into usable nitrogen compounds in the root nodules of leguminous plants?",
+  "qHi": "कौन से सूक्ष्मजीव फलीदार पौधों की जड़ों की गांठों में वायुमंडलीय नाइट्रोजन को उपयोगी नाइट्रोजन यौगिकों में बदलते हैं?",
+  "optsEn": [
+   "Lactobacillus",
+   "Rhizobium",
+   "Yeast",
+   "Penicillium"
+  ],
+  "optsHi": [
+   "लैक्टोबैसिलस",
+   "राइझोबियम",
+   "यीस्ट",
+   "पेिसिलियम"
+  ],
+  "correct": 1,
+  "explainEn": "Rhizobium bacteria live in the root nodules of leguminous plants and fix atmospheric nitrogen.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:27Z"
+ },
+ {
+  "id": "q_0a3540f27cf8b9ae",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "During the British colonial period in India, what was the revenue system introduced in the Madras and Bombay presidencies called?",
+  "qHi": "भारत में ब्रिटिश औपनिवेशिक काल के दौरान, मद्रास और बॉम्बे प्रेसीडेंसी में शुरू की गई राजस्व प्रणाली को क्या कहा जाता था?",
+  "optsEn": [
+   "Zamindari system",
+   "Mahalwari system",
+   "Ryotwari system",
+   "Permanent Settlement"
+  ],
+  "optsHi": [
+   "ज़मींदारी व्यवस्था",
+   "महालवारी व्यवस्था",
+   "रैयतवाड़ी व्यवस्था",
+   "स्थाई बंदोबस्त"
+  ],
+  "correct": 2,
+  "explainEn": "The Ryotwari system was introduced by Thomas Munro in the Madras and Bombay presidencies, where revenue was settled directly with the cultivators (ryots).",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:27Z"
+ },
+ {
+  "id": "q_81095705f8af81de",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the SI unit of pressure?",
+  "qHi": "दाब (प्रेशर) का एसआई मात्रक क्या है?",
+  "optsEn": [
+   "Newton",
+   "Pascal",
+   "Joule",
+   "Watt"
+  ],
+  "optsHi": [
+   "न्यूटन",
+   "पास्कल",
+   "जूल",
+   "वाट"
+  ],
+  "correct": 1,
+  "explainEn": "The SI unit of pressure is the pascal (Pa), which is equivalent to one newton per square metre.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:27Z"
  }
 ]

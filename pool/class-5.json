@@ -4618,5 +4618,397 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-06T18:24:38Z"
+ },
+ {
+  "id": "q_d544afbcca06c2f5",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which line of latitude passes almost halfway through India?",
+  "qHi": "कौन सी अक्षांश रेखा भारत के लगभग बीच से होकर गुजरती है?",
+  "optsEn": [
+   "Equator",
+   "Tropic of Cancer",
+   "Tropic of Capricorn",
+   "Arctic Circle"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा",
+   "कर्क रेखा",
+   "मकर रेखा",
+   "आर्कटिक वृत्त"
+  ],
+  "correct": 1,
+  "explainEn": "The Tropic of Cancer (23.30 degrees North) passes through the middle of India.",
+  "sourceHint": "NCERT Class 5 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:02:21Z"
+ },
+ {
+  "id": "q_c6e18ea41ba1eae4",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which insect is known for making honey and living in hives?",
+  "qHi": "किस कीट को शहद बनाने और छत्तों में रहने के लिए जाना जाता है?",
+  "optsEn": [
+   "Housefly",
+   "Butterfly",
+   "Honeybee",
+   "Mosquito"
+  ],
+  "optsHi": [
+   "घरेलू मक्खी",
+   "तितली",
+   "मधुमक्खी",
+   "मच्छर"
+  ],
+  "correct": 2,
+  "explainEn": "Honeybees collect nectar from flowers and store it as honey in their hives.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:02:21Z"
+ },
+ {
+  "id": "q_06d1b52856acc7dd",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these seeds is known to disperse mainly by water?",
+  "qHi": "इनमें से कौन सा बीज मुख्य रूप से पानी द्वारा प्रकीर्णित (फैलाया) जाता है?",
+  "optsEn": [
+   "Lotus",
+   "Maple",
+   "Cotton",
+   "Xanthium"
+  ],
+  "optsHi": [
+   "कमल",
+   "मेपल",
+   "कपास",
+   "जैंन्थियम"
+  ],
+  "correct": 0,
+  "explainEn": "Lotus fruits and seeds have spongy or fibrous parts that allow them to float and be carried away by water.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:02:21Z"
+ },
+ {
+  "id": "q_ad73c7e8e2614fce",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the process of changing water into water vapour called?",
+  "qHi": "पानी को जलवाष्प में बदलने की प्रक्रिया को क्या कहा जाता है?",
+  "optsEn": [
+   "Condensation",
+   "Evaporation",
+   "Precipitation",
+   "Melting"
+  ],
+  "optsHi": [
+   "संघनन",
+   "वाष्पीकरण",
+   "वर्षा",
+   "पिघलना"
+  ],
+  "correct": 1,
+  "explainEn": "Evaporation is the process by which liquid water changes into gas or water vapour due to heat.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:02:21Z"
+ },
+ {
+  "id": "q_eefb5ba2639eed7c",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary source of energy for the Earth's water cycle?",
+  "qHi": "पृथ्वी के जल चक्र के लिए ऊर्जा का प्राथमिक स्रोत क्या है?",
+  "optsEn": [
+   "The Sun",
+   "The Moon",
+   "Wind",
+   "Volcanoes"
+  ],
+  "optsHi": [
+   "सूर्य",
+   "चंद्रमा",
+   " हवा",
+   "ज्वालामुखी"
+  ],
+  "correct": 0,
+  "explainEn": "Heat from the Sun causes water to evaporate from oceans, lakes, and rivers, driving the water cycle.",
+  "sourceHint": "NCERT Science curriculum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:22Z"
+ },
+ {
+  "id": "q_b7e561f639825ea4",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "How many states are there in the Republic of India as per official administrative divisions?",
+  "qHi": "आधिकारिक प्रशासनिक विभाजनों के अनुसार भारत गणराज्य में कितने राज्य हैं?",
+  "optsEn": [
+   "27",
+   "28",
+   "29",
+   "30"
+  ],
+  "optsHi": [
+   "27",
+   "28",
+   "29",
+   "30"
+  ],
+  "correct": 1,
+  "explainEn": "India has 28 states and 8 Union Territories.",
+  "sourceHint": "Government of India official portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:22Z"
+ },
+ {
+  "id": "q_e0212bd94d9b90e5",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of skeleton does an insect like a cockroach have?",
+  "qHi": "तिलचट्टे जैसे कीड़े का कंकाल किस प्रकार का होता है?",
+  "optsEn": [
+   "Endoskeleton inside the body",
+   "Exoskeleton on the outside",
+   "No skeleton at all",
+   "Fluid-filled skeleton only"
+  ],
+  "optsHi": [
+   "शरीर के अंदर अंतःकंकाल",
+   "बाहर की ओर बाह्यकंकाल",
+   "कोई कंकाल नहीं",
+   "केवल द्रव से भरा कंकाल"
+  ],
+  "correct": 1,
+  "explainEn": "Insects have a hard outer covering called an exoskeleton that protects their internal organs.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:22Z"
+ },
+ {
+  "id": "q_6de90298342ea315",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which planet in our solar system rotates on its side with a very tilted axis of rotation?",
+  "qHi": "हमारे सौर मंडल का कौन सा ग्रह अपनी धुरी पर बहुत अधिक झुका हुआ है और ऐसा प्रतीत होता है जैसे वह लेटा हुआ घूम रहा है?",
+  "optsEn": [
+   "Mars",
+   "Uranus",
+   "Saturn",
+   "Jupiter"
+  ],
+  "optsHi": [
+   "मंगल",
+   "यूरेनस (अरुण)",
+   "शनि",
+   "बृहस्पति"
+  ],
+  "correct": 1,
+  "explainEn": "Uranus has an axial tilt of about 98 degrees, meaning it essentially rotates on its side.",
+  "sourceHint": "NCERT Class 6 Science / NASA Solar System Exploration",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:04:28Z"
+ },
+ {
+  "id": "q_834154eeb57032a8",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organ in the human body produces bile to help in the digestion of fats?",
+  "qHi": "मानव शरीर का कौन सा अंग वसा (फैट) के पाचन में मदद करने के लिए पित्त (बाइल) का उत्पादन करता है?",
+  "optsEn": [
+   "Pancreas",
+   "Stomach",
+   "Liver",
+   "Kidney"
+  ],
+  "optsHi": [
+   "अग्न्याशय",
+   "पेट",
+   "यकृत (लीवर)",
+   "गुर्दा"
+  ],
+  "correct": 2,
+  "explainEn": "The liver produces bile, which is stored in the gall bladder and helps break down fats during digestion.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:04:28Z"
+ },
+ {
+  "id": "q_4a002b47d827a8c6",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary gas that makes up the majority of the Earth's atmosphere?",
+  "qHi": "पृथ्वी के वायुमंडल का अधिकांश हिस्सा बनाने वाली प्रमुख गैस कौन सी है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "आर्गन"
+  ],
+  "correct": 2,
+  "explainEn": "Nitrogen makes up about 78 percent of Earth's atmosphere by volume.",
+  "sourceHint": "NCERT Class 7 Geography / Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:04:28Z"
+ },
+ {
+  "id": "q_0fc398cb6b396f3e",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional Indian harvest festival is celebrated in Kerala with boat races called Vallam Kali?",
+  "qHi": "केरल में कौन सा पारंपरिक भारतीय फसल उत्सव वल्लम कली नामक नौका दौड़ के साथ मनाया जाता है?",
+  "optsEn": [
+   "Onam",
+   "Pongal",
+   "Bihu",
+   "Baisakhi"
+  ],
+  "optsHi": [
+   "ओणम",
+   "पोंगल",
+   "बिहू",
+   "बैसाखी"
+  ],
+  "correct": 0,
+  "explainEn": "Onam is the harvest festival of Kerala, famous for the Nehru Trophy Boat Race and traditional Vallam Kali.",
+  "sourceHint": "NCERT Class 6 Social Science / Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:04:28Z"
+ },
+ {
+  "id": "q_bf09234af96f0a19",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of soil is best suited for growing cotton due to its high moisture-retention capacity?",
+  "qHi": "अपनी उच्च नमी बनाए रखने की क्षमता के कारण कपास की खेती के लिए किस प्रकार की मिट्टी सबसे उपयुक्त है?",
+  "optsEn": [
+   "Laterite soil",
+   "Alluvial soil",
+   "Black soil",
+   "Red soil"
+  ],
+  "optsHi": [
+   "लैटेराइट मिट्टी",
+   "जलोढ़ मिट्टी",
+   "काली मिट्टी",
+   "लाल मिट्टी"
+  ],
+  "correct": 2,
+  "explainEn": "Black soil, also known as regur soil, is ideal for growing cotton because it retains moisture very well.",
+  "sourceHint": "NCERT Class 7 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:04:28Z"
+ },
+ {
+  "id": "q_fe6db96afd7c0362",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which part of the plant does photosynthesis primarily take place?",
+  "qHi": "पौधे के किस भाग में मुख्य रूप से प्रकाश संश्लेषण (फोटोसिंथेसिस) होता है?",
+  "optsEn": [
+   "Roots",
+   "Flowers",
+   "Leaves",
+   "Stem"
+  ],
+  "optsHi": [
+   "जड़ें",
+   "फूल",
+   "पत्तियां",
+   "तना"
+  ],
+  "correct": 2,
+  "explainEn": "Leaves contain chlorophyll, which captures sunlight to carry out photosynthesis.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:04:28Z"
+ },
+ {
+  "id": "q_4c6de3581492be31",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the line of latitude located at 23.5 degrees North called?",
+  "qHi": "उत्तरी अक्षांश में 23.5 डिग्री पर स्थित रेखा को क्या कहा जाता है?",
+  "optsEn": [
+   "Tropic of Capricorn",
+   "Tropic of Cancer",
+   "Equator",
+   "Arctic Circle"
+  ],
+  "optsHi": [
+   "मकर रेखा",
+   "कर्क रेखा",
+   "भूमध्य रेखा",
+   "आर्कटिक वृत्त"
+  ],
+  "correct": 1,
+  "explainEn": "The Tropic of Cancer is the parallel of latitude at 23.5 degrees North of the Earth's equator.",
+  "sourceHint": "NCERT Class 6 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:04:28Z"
  }
 ]

@@ -4338,5 +4338,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-06T18:25:24Z"
+ },
+ {
+  "id": "q_a687465513cfcee3",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organ of the United Nations is primarily responsible for maintaining international peace and security?",
+  "qHi": "संयुक्त राष्ट्र का कौन सा अंग मुख्य रूप से अंतरराष्ट्रीय शांति और सुरक्षा बनाए रखने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "General Assembly",
+   "Security Council",
+   "Secretariat",
+   "International Court of Justice"
+  ],
+  "optsHi": [
+   "महासभा",
+   "सुरक्षा परिषद",
+   "सचिवालय",
+   "अंतरराष्ट्रीय न्यायालय"
+  ],
+  "correct": 1,
+  "explainEn": "Under the UN Charter, the Security Council has primary responsibility for the maintenance of international peace and security.",
+  "sourceHint": "United Nations Charter",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:01Z"
+ },
+ {
+  "id": "q_ee10062186675285",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary gas found in the atmosphere of Venus?",
+  "qHi": "शुक्र के वायुमंडल में पाई जाने वाली प्राथमिक गैस कौन सी है?",
+  "optsEn": [
+   "Oxygen",
+   "Nitrogen",
+   "Carbon dioxide",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "कार्बन डाइऑक्साइड",
+   "हाइड्रोजन"
+  ],
+  "correct": 2,
+  "explainEn": "The atmosphere of Venus consists mainly of carbon dioxide, along with thick clouds of sulfuric acid.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:01Z"
+ },
+ {
+  "id": "q_d4419074f754c74c",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which historical site is famous for the rock-cut caves and sculptures located near Aurangabad in Maharashtra?",
+  "qHi": "महाराष्ट्र में औरंगाबाद के पास स्थित कौन सा ऐतिहासिक स्थल शैल-कृत गुफाओं और मूर्तियों के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Ajanta and Ellora Caves",
+   "Khajuraho Temples",
+   "Hampi Ruins",
+   "Sanchi Stupa"
+  ],
+  "optsHi": [
+   "अजंता और एलोरा की गुफाएं",
+   "खजुराहो मंदिर",
+   "हम्पी के खंडहर",
+   "सांची स्तूप"
+  ],
+  "correct": 0,
+  "explainEn": "The Ajanta and Ellora Caves are prominent rock-cut monuments located near Aurangabad in Maharashtra, dating back to ancient and medieval periods.",
+  "sourceHint": "NCERT Class 11 Fine Arts",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:01Z"
+ },
+ {
+  "id": "q_7de1976003a87c19",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The term 'Neolithic Age' in Indian archaeology is primarily characterized by which of the following developments?",
+  "qHi": "भारतीय पुरातत्व में 'नवपाषाण काल' (नियोलिथिक युग) को मुख्य रूप से निम्नलिखित में से किस विकास के लिए जाना जाता है?",
+  "optsEn": [
+   "Use of microliths",
+   "Beginning of agriculture and animal domestication",
+   "Discovery of bronze metallurgy",
+   "Extensive use of iron implements"
+  ],
+  "optsHi": [
+   "लघु पाषाण उपकरणों (माइक्रोलिथ) का उपयोग",
+   "कृषि और पशु पालने की शुरुआत",
+   "कांस्य धातु कर्म की खोज",
+   "लोहे के औजारों का व्यापक उपयोग"
+  ],
+  "correct": 1,
+  "explainEn": "The Neolithic period is marked by the beginning of agriculture, domestication of animals, and the use of polished stone tools.",
+  "sourceHint": "NCERT Class VI History, Our Pasts-I",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:44Z"
+ },
+ {
+  "id": "q_4b8a87de1b5d4665",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following layers of the atmosphere is characterized by the presence of ozone molecules that absorb harmful ultraviolet radiation?",
+  "qHi": "वायुमंडल की निम्नलिखित में से किस परत में ओजोन अणु पाए जाते हैं जो हानिकारक पराबैंगनी विकिरण को अवशोषित करते हैं?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षوبमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The stratosphere contains the ozone layer, which absorbs harmful ultraviolet (UV) radiation from the Sun.",
+  "sourceHint": "NCERT Class VII Geography, Our Environment",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:44Z"
+ },
+ {
+  "id": "q_3270941d57d53f82",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The 'Daimabad' archaeological site, known for its bronze artifacts of the Jorwe culture, is located in which present-day state?",
+  "qHi": "जोरवे संस्कृति की कांस्य कलाकृतियों के लिए प्रसिद्ध पुरातात्विक स्थल 'दायमाबाद' वर्तमान में किस राज्य में स्थित है?",
+  "optsEn": [
+   "Gujarat",
+   "Rajasthan",
+   "Maharashtra",
+   "Madhya Pradesh"
+  ],
+  "optsHi": [
+   "गुजरात",
+   "राजस्थान",
+   "महाराष्ट्र",
+   "मध्य प्रदेश"
+  ],
+  "correct": 2,
+  "explainEn": "Daimabad is an archaeological site on the left bank of the Pravara River, situated in the Ahmednagar district of Maharashtra.",
+  "sourceHint": "NCERT Class XII History, Themes in Indian History-Part I",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:44Z"
+ },
+ {
+  "id": "q_a2ffa02988d3efe9",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following financial instruments is issued by the Reserve Bank of India on behalf of the Central Government to meet short-term mismatches in receipts and disbursements?",
+  "qHi": "प्राप्तियों और भुगतानों में अल्पकालिक अंतर को पूरा करने के लिए केंद्र सरकार की ओर से भारतीय रिजर्व बैंक द्वारा निम्नलिखित में से कौन सा वित्तीय साधन जारी किया जाता है?",
+  "optsEn": [
+   "Treasury Bills",
+   "Ways and Means Advances",
+   "Zero Coupon Bonds",
+   "Commercial Papers"
+  ],
+  "optsHi": [
+   "राजकोषीय विपत्र (Treasury Bills)",
+   "अर्थोपाय अग्रिम (Ways and Means Advances)",
+   "शून्य कूपन बांड",
+   "वाणिज्यिक पत्र"
+  ],
+  "correct": 1,
+  "explainEn": "Ways and Means Advances (WMA) are temporary loan facilities provided by the RBI to the central and state governments to tackle mismatches in cash flows.",
+  "sourceHint": "Reserve Bank of India official website / Economic Survey",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:44Z"
+ },
+ {
+  "id": "q_49e57c3138d5cc74",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The 'Kaziranga National Park' is primarily renowned as the natural habitat of which of the following species?",
+  "qHi": "काजीरंगा राष्ट्रीय उद्यान मुख्य रूप से निम्नलिखित में से किस प्रजाति के प्राकृतिक आवास के रूप में प्रसिद्ध है?",
+  "optsEn": [
+   "Asiatic Lion",
+   "Great Indian Bustard",
+   "One-horned Rhinoceros",
+   "Snow Leopard"
+  ],
+  "optsHi": [
+   "एशियाई शेर",
+   "ग्रेट इंडियन बस्टर्ड",
+   "एक सींग वाला गैंडा",
+   "हिम तेंदुआ"
+  ],
+  "correct": 2,
+  "explainEn": "Kaziranga National Park in Assam hosts two-thirds of the world's great one-horned rhinoceroses and is a UNESCO World Heritage Site.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:44Z"
+ },
+ {
+  "id": "q_cbd3a59313ee8c3c",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following historical texts was authored by Banabhatta during the reign of King Harshavardhana?",
+  "qHi": "राजा हर्षवर्धन के शासनकाल में बाणभट्ट द्वारा निम्नलिखित में से कौन सा ऐतिहासिक ग्रंथ लिखा गया था?",
+  "optsEn": [
+   "Harshacharita",
+   "Rajatarangini",
+   "Indica",
+   "Arthashastra"
+  ],
+  "optsHi": [
+   "हरितचरित (हर्षचरित)",
+   "राजतरंगिणी",
+   "इंडिका",
+   "अर्थशास्त्र"
+  ],
+  "correct": 0,
+  "explainEn": "Banabhatta was a Sanskrit prose writer and poet of India, best known for his work 'Harshacharita', a biography of King Harshavardhana.",
+  "sourceHint": "NCERT Class VII History, Our Pasts-II",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:44Z"
+ },
+ {
+  "id": "q_ec1921f7685c60dc",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The 'Palk Strait' separates India from which of the following neighboring countries?",
+  "qHi": "'पाक जलडमरूमध्य' (पाल्क स्ट्रेट) भारत को निम्नलिखित में से किस पड़ोसी देश से अलग करता है?",
+  "optsEn": [
+   "Bangladesh",
+   "Myanmar",
+   "Sri Lanka",
+   "Maldives"
+  ],
+  "optsHi": [
+   "बांग्लादेश",
+   "म्यांमार",
+   "श्रीलंका",
+   "मालदीव"
+  ],
+  "correct": 2,
+  "explainEn": "The Palk Strait is a strait between the Tamil Nadu state of India and the Mannar district of the Northern Province of the island nation of Sri Lanka.",
+  "sourceHint": "NCERT Class IX Geography, Contemporary India-I",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:44Z"
  }
 ]

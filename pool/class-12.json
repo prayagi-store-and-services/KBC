@@ -5150,5 +5150,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-06T18:24:56Z"
+ },
+ {
+  "id": "q_915a3c68def18f1d",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the book 'Ain-i-Akbari'?",
+  "qHi": "'आईने अकबरी' पुस्तक किसने लिखी थी?",
+  "optsEn": [
+   "Abul Fazl",
+   "Badauni",
+   "Faizi",
+   "Gulbadan Begum"
+  ],
+  "optsHi": [
+   "अुल फज़ल",
+   "बदायूँनी",
+   "फैज़ी",
+   "गुलबदन बेगम"
+  ],
+  "correct": 0,
+  "explainEn": "Ain-i-Akbari was authored by Abul Fazl as the third volume of the Akbarnama, detailing the administration of Emperor Akbar.",
+  "sourceHint": "NCERT Class 12 History - Kings and Chronicles",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:02:36Z"
+ },
+ {
+  "id": "q_09fab4a720e6b72d",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of chemical reaction occurs when nitrogen and hydrogen combine to form ammonia in the Haber process?",
+  "qHi": "हैबर प्रक्रिया में जब नाइट्रोजन और हाइड्रोजन मिलकर अमोनिया बनाते हैं, तो किस प्रकार की रासायनिक प्रतिक्रिया होती है?",
+  "optsEn": [
+   "Decomposition",
+   "Combination",
+   "Single displacement",
+   "Double displacement"
+  ],
+  "optsHi": [
+   "अपघटन",
+   "संयोजन",
+   "एकल विस्थापन",
+   "द्वि विस्थापन"
+  ],
+  "correct": 1,
+  "explainEn": "The combination of nitrogen and hydrogen to form ammonia is a synthesis or combination reaction.",
+  "sourceHint": "NCERT Class 12 Chemistry - The p-Block Elements",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:02:36Z"
+ },
+ {
+  "id": "q_24503c683ef7f851",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which enzyme catalyzes the conversion of lactose into glucose and galactose?",
+  "qHi": "कौन सा एंजाइम लैक्टोज को ग्लूकोज और गैलक्टोज में बदलने के लिए उत्प्रेरित करता है?",
+  "optsEn": [
+   "Amylase",
+   "Lactase",
+   "Maltase",
+   "Sucrase"
+  ],
+  "optsHi": [
+   "एमाइलेज",
+   "लैक्टेज",
+   "माल्टेज",
+   "सुक्रेज"
+  ],
+  "correct": 1,
+  "explainEn": "Lactase is the specific enzyme that breaks down the disaccharide lactose into its monosaccharide components, glucose and galactose.",
+  "sourceHint": "NCERT Class 12 Biology - Biomolecules",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:02:36Z"
+ },
+ {
+  "id": "q_feffbd040ad06d89",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a macroeconomic variable?",
+  "qHi": "निम्नलिखित में से कौन सा एक समष्टि अर्थशास्त्र (मैक्रोइकॉनॉमिक्स) चर है?",
+  "optsEn": [
+   "Individual demand",
+   "Firm's output",
+   "Gross Domestic Product",
+   "Price of a single commodity"
+  ],
+  "optsHi": [
+   "व्यक्तिगत मांग",
+   "फर्म का उत्पादन",
+   "सकल घरेलू उत्पाद",
+   "एक वस्तु की कीमत"
+  ],
+  "correct": 2,
+  "explainEn": "Macroeconomics studies the economy as a whole, and Gross Domestic Product (GDP) is a key macroeconomic aggregate.",
+  "sourceHint": "NCERT Class 12 Economics - Introduction to Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:02:36Z"
+ },
+ {
+  "id": "q_9db0fbd4206024a0",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In a galvanic cell, oxidation always occurs at which of the following electrodes?",
+  "qHi": "गैल्वेनिक सेल में, ऑक्सीकरण हमेशा किस इलेक्ट्रोड पर होता है?",
+  "optsEn": [
+   "Cathode",
+   "Anode",
+   "Salt bridge",
+   "Electrolyte solution"
+  ],
+  "optsHi": [
+   "कैथोड",
+   "एनोड",
+   "लवण सेतु",
+   "विद्युत अपघट्य विलयन"
+  ],
+  "correct": 1,
+  "explainEn": "By definition, oxidation always takes place at the anode in both galvanic and electrolytic cells.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:37Z"
+ },
+ {
+  "id": "q_2c6ef833670cbadd",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of interaction is exhibited by mycorrhizae, where fungi live in association with roots of higher plants?",
+  "qHi": "माइकोराइजा द्वारा किस प्रकार की पारस्परिक क्रिया प्रदर्शित की जाती है, जहाँ कवक उच्च पादपों की जड़ों के साथ सहजीवन में रहते हैं?",
+  "optsEn": [
+   "Mutualism",
+   "Competition",
+   "Predation",
+   "Parasitism"
+  ],
+  "optsHi": [
+   "सहपकारिता",
+   "स्पर्धा",
+   "परभक्षण",
+   "परजीविता"
+  ],
+  "correct": 0,
+  "explainEn": "Mycorrhizae represent a mutually beneficial (mutualistic) association between fungi and the roots of higher plants.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 13",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:37Z"
+ },
+ {
+  "id": "q_d1c6c8014bdd6d41",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who among the following wrote the book 'Ain-i-Akbari', which details the administration of Akbar's empire?",
+  "qHi": "निम्नलिखित में से किसने 'आइने अकबरी' पुस्तक लिखी, जिसमें अकबर के साम्राज्य के प्रशासन का विवरण है?",
+  "optsEn": [
+   "Abul Fazl",
+   "Badauni",
+   "Faizi",
+   "Birbal"
+  ],
+  "optsHi": [
+   "अुल फज़ल",
+   "बदायूँनी",
+   "फैज़ी",
+   "बीरबल"
+  ],
+  "correct": 0,
+  "explainEn": "Abul Fazl authored the Akbarnama, of which the third volume is known as the Ain-i-Akbari.",
+  "sourceHint": "NCERT Class 12 History, Chapter 9",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:37Z"
+ },
+ {
+  "id": "q_b4134157b1625c91",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which economic sector is primarily associated with the extraction of natural resources such as mining, agriculture, and fishing?",
+  "qHi": "कौन सा आर्थिक क्षेत्र मुख्य रूप से खनन, कृषि और मछली पकड़ने जैसे प्राकृतिक संसाधनों के निष्कर्षण से जुड़ा है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Quaternary sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्रक",
+   "द्वितीयक क्षेत्रक",
+   "तृतीयक क्षेत्रक",
+   "चतुर्थक क्षेत्रक"
+  ],
+  "correct": 0,
+  "explainEn": "The primary sector involves harnessing natural resources directly from the earth, including agriculture, mining, and fishing.",
+  "sourceHint": "NCERT Class 12 Geography, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:37Z"
+ },
+ {
+  "id": "q_b762d8ca8e7f0ce8",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In macroeconomics, which of the following is considered a flow variable rather than a stock variable?",
+  "qHi": "समष्टि अर्थशास्त्र में, निम्नलिखित में से किसे स्टॉक चर के बजाय प्रवाह चर माना जाता है?",
+  "optsEn": [
+   "Wealth",
+   "Capital",
+   "Income",
+   "Foreign exchange reserves"
+  ],
+  "optsHi": [
+   "धन",
+   "पूंजी",
+   "आय",
+   "विदेशी मुद्रा भंडार"
+  ],
+  "correct": 2,
+  "explainEn": "Income is measured over a period of time, making it a flow variable, whereas wealth and capital are measured at a point in time (stock variables).",
+  "sourceHint": "NCERT Class 12 Economics (Macroeconomics), Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:37Z"
+ },
+ {
+  "id": "q_fd329dfafb70dba1",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following coordination compounds exhibits optical isomerism?",
+  "qHi": "निम्नलिखित में से कौन सा उपसहसंयोजन यौगिक प्रकाशिक समावयवता प्रदर्शित करता है?",
+  "optsEn": [
+   "[Co(en)3]3+",
+   "[Co(NH3)4Cl2]+",
+   "[Pt(NH3)2Cl2]",
+   "[Ni(CO)4]"
+  ],
+  "optsHi": [
+   "[Co(en)3]3+",
+   "[Co(NH3)4Cl2]+",
+   "[Pt(NH3)2Cl2]",
+   "[Ni(CO)4]"
+  ],
+  "correct": 0,
+  "explainEn": "Octahedral complexes containing symmetrical bidentate ligands, such as [Co(en)3]3+, are chiral and show optical isomerism.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T06:03:37Z"
  }
 ]
