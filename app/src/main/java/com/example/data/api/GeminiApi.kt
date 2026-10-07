@@ -1,5 +1,7 @@
 package com.example.data.api
 
+import com.example.data.model.isJuniorPlayer
+import com.example.data.model.effectiveClassNumber
 import com.example.BuildConfig
 import com.example.data.model.CurrentAffairItem
 import com.example.data.model.KnowledgeProfileVector
@@ -200,7 +202,7 @@ class GeminiApiClient {
         if (apiKey.isBlank() || apiKey == "MY_GEMINI_API_KEY") return@withContext null
 
         try {
-            val isStudent = userProfile.preparationDomain.contains("Student", true) || userProfile.isStudentMode
+            val isStudent = userProfile.isJuniorPlayer()
             val tierMeta = getTierDetails(qNumber)
             val prompt = """
                 You are the Chief Current Affairs Reasoning Engine for 'TarkShastra'.
@@ -349,7 +351,7 @@ class GeminiApiClient {
         category: String
     ): String {
         val tierMeta = getTierDetails(qNumber)
-        val isStudent = userProfile.preparationDomain.contains("Student", true) || userProfile.isStudentMode
+        val isStudent = userProfile.isJuniorPlayer()
         val studentGuidance = if (isStudent) {
             """
             AUDIENCE & CURRICULUM ADAPTATION (KBC JUNIOR / SCHOOL STUDENT MODE):

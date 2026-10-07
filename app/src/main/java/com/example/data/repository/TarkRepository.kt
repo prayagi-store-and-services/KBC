@@ -1,5 +1,7 @@
 package com.example.data.repository
 
+import com.example.data.model.isJuniorPlayer
+import com.example.data.model.effectiveClassNumber
 import android.content.Context
 import com.example.data.api.GeminiApiClient
 import com.example.data.db.CurrentAffairEntity
@@ -111,7 +113,7 @@ class TarkRepository(
 
     suspend fun saveUserProfile(profile: UserProfile) = withContext(Dispatchers.IO) {
         val vector = computeKnowledgeVector(profile)
-        val isStudent = profile.preparationDomain.contains("Student", true) || profile.isStudentMode
+        val isStudent = profile.isJuniorPlayer()
         val entity = UserProfileEntity(
             userId = profile.id.ifEmpty { "primary_user" },
             name = profile.name,
@@ -322,7 +324,7 @@ class TarkRepository(
         val newBest = maxOf(currentBest, result.totalPointsWon)
         val newHighestTier = maxOf(currentHighestTier, result.highestQuestionReached)
 
-        val isStudent = currentProfile.preparationDomain.contains("Student", true) || currentProfile.isStudentMode
+        val isStudent = currentProfile.isJuniorPlayer()
         val updatedEntity = UserProfileEntity(
             userId = currentProfile.id.ifEmpty { "primary_user" },
             name = currentProfile.name,

@@ -1,5 +1,9 @@
 # Security notes - KBC
 
+## Age-based question level (v1.1.16)
+
+Junior players (Student mode, or a saved age of 5 to 17) now get questions only from the class pool that matches their class, or the class for their age when no class was chosen. Adult pools are no longer mixed into junior games. Adults keep their own pools. This uses only the age and class already saved on the device. No new permission, library or network call.
+
 ## Installer file cleanup (v1.1.15)
 
 When the app comes back to the front it also deletes installer files older than one hour from its private cache folder. Nothing outside the app's own folder is touched. No new permission, library or network call.
