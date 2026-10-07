@@ -3918,5 +3918,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-07T06:03:50Z"
+ },
+ {
+  "id": "q_6e481ce3edb739c6",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which historical site is famous as the place where Gautama Buddha attained enlightenment?",
+  "qHi": "कौन सा ऐतिहासिक स्थल उस स्थान के रूप में प्रसिद्ध है जहाँ गौतम बुद्ध को ज्ञान प्राप्त हुआ था?",
+  "optsEn": [
+   "Lumbini",
+   "Bodh Gaya",
+   "Sarnath",
+   "Kushinagar"
+  ],
+  "optsHi": [
+   "लुम्बिनी",
+   "बोधगया",
+   "सारनाथ",
+   "कुशीनगर"
+  ],
+  "correct": 1,
+  "explainEn": "Gautama Buddha attained enlightenment under a pipal tree in Bodh Gaya, Bihar.",
+  "sourceHint": "NCERT History Class 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:26:41Z"
+ },
+ {
+  "id": "q_015cb42938a6b749",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas is most abundant in the atmosphere of Earth?",
+  "qHi": "पृथ्वी के वायुमंडल में कौन सी गैस सबसे प्रचुर मात्रा में है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon Dioxide",
+   "Nitrogen",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "आर्गन"
+  ],
+  "correct": 2,
+  "explainEn": "Nitrogen makes up about 78 percent of Earth's atmosphere.",
+  "sourceHint": "NCERT Geography Class 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:26:41Z"
+ },
+ {
+  "id": "q_38e78467f268f120",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Where was the first session of the Indian National Congress held in 1885?",
+  "qHi": "1885 में भारतीय राष्ट्रीय कांग्रेस का पहला अधिवेशन कहाँ आयोजित किया गया था?",
+  "optsEn": [
+   "Bombay",
+   "Calcutta",
+   "Madras",
+   "Pune"
+  ],
+  "optsHi": [
+   "बम्बई",
+   "कलकत्ता",
+   "मद्रास",
+   "पुणे"
+  ],
+  "correct": 0,
+  "explainEn": "The first session of the Indian National Congress was held in Bombay in December 1885 at Gokuldas Tejpal Sanskrit College.",
+  "sourceHint": "Modern Indian History Textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:27:47Z"
+ },
+ {
+  "id": "q_34543b7383776f1e",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which atmospheric layer contains the ozone layer that absorbs harmful ultraviolet rays?",
+  "qHi": "किस वायुमंडलीय परत में ओजोन परत होती है जो हानिकारक पराबैंगनी किरणों को अवशोषित करती है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षوبमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The stratosphere contains the ozone layer, which absorbs the majority of the Sun's ultraviolet radiation.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:27:47Z"
+ },
+ {
+  "id": "q_9beba91a6592572d",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The Ajanta Caves are primarily carved out of which type of rock?",
+  "qHi": "अजंता की गुफाएं मुख्य रूप से किस प्रकार की चट्टान को काटकर बनाई गई हैं?",
+  "optsEn": [
+   "Granite",
+   "Sandstone",
+   "Basalt",
+   "Marble"
+  ],
+  "optsHi": [
+   "ग्रेनाइट",
+   "बलुआ पत्थर",
+   "बेसाल्ट",
+   "संगमरमर"
+  ],
+  "correct": 2,
+  "explainEn": "The monuments and rock-cut caves of Ajanta are excavated in volcanic rock known as Deccan trap basalt.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:27:47Z"
  }
 ]

@@ -5794,5 +5794,509 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-07T06:04:18Z"
+ },
+ {
+  "id": "q_1ffa68ca7cfcf23f",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum limit of characters in an IFSC code?",
+  "qHi": "IFSC कोड में वर्णों की अधिकतम सीमा क्या है?",
+  "optsEn": [
+   "11",
+   "10",
+   "9",
+   "12"
+  ],
+  "optsHi": [
+   "11",
+   "10",
+   "9",
+   "12"
+  ],
+  "correct": 0,
+  "explainEn": "The Indian Financial System Code (IFSC) is an 11-character alphanumeric code used for electronic fund transfers.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:26:09Z"
+ },
+ {
+  "id": "q_b93dede19353be1f",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which coin denomination is currently not minted in India?",
+  "qHi": "वर्तमान में भारत में कौन सा सिक्का मूल्यवर्ग नहीं ढाला जाता है?",
+  "optsEn": [
+   "1 Paisa",
+   "1 Rupee",
+   "2 Rupees",
+   "5 Rupees"
+  ],
+  "optsHi": [
+   "1 पैसा",
+   "1 रुपया",
+   "2 रुपये",
+   "5 रुपये"
+  ],
+  "correct": 0,
+  "explainEn": "Coins of denomination of 50 paise and below have been withdrawn from circulation and are no longer minted.",
+  "sourceHint": "Coinage Act, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:26:09Z"
+ },
+ {
+  "id": "q_17c45ddb18ee26e9",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'ATM' stand for in banking terminology?",
+  "qHi": "बैंकिंग शब्दावली में 'ATM' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Automated Teller Machine",
+   "Any Time Money",
+   "Automated Transfer Machine",
+   "Automatic Transaction Meter"
+  ],
+  "optsHi": [
+   "Automated Teller Machine",
+   "Any Time Money",
+   "Automated Transfer Machine",
+   "Automatic Transaction Meter"
+  ],
+  "correct": 0,
+  "explainEn": "ATM stands for Automated Teller Machine, an electronic telecommunication device that enables customers to perform financial transactions.",
+  "sourceHint": "Indian Institute of Banking and Finance",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:26:09Z"
+ },
+ {
+  "id": "q_8ad6a503f8fb2a28",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization insures bank deposits in India?",
+  "qHi": "भारत में बैंक जमा का बीमा कौन सी संस्था करती है?",
+  "optsEn": [
+   "DICGC",
+   "SEBI",
+   "NABARD",
+   "SIDBI"
+  ],
+  "optsHi": [
+   "DICGC",
+   "SEBI",
+   "NABARD",
+   "SIDBI"
+  ],
+  "correct": 0,
+  "explainEn": "Deposit Insurance and Credit Guarantee Corporation (DICGC), a wholly-owned subsidiary of RBI, insures all bank deposits.",
+  "sourceHint": "DICGC Act",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:26:09Z"
+ },
+ {
+  "id": "q_23e58b8ce7322daf",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institution in India acts as the regulator for Microfinance Institutions organized as Non-Banking Financial Companies?",
+  "qHi": "भारत में गैर-बैंकिंग वित्तीय कंपनियों کے रूप میں संगठित सूक्ष्म वित्त संस्थानों (MFIs) के नियामक के रूप में कौन सी संस्था कार्य करती है?",
+  "optsEn": [
+   "Securities and Exchange Board of India",
+   "Reserve Bank of India",
+   "Small Industries Development Bank of India",
+   "National Bank for Agriculture and Rural Development"
+  ],
+  "optsHi": [
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय लघु उद्योग विकास बैंक",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India regulates Non-Banking Financial Companies (NBFCs), including those functioning as Microfinance Institutions.",
+  "sourceHint": "RBI Master Directions on NBFCs",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:26:48Z"
+ },
+ {
+  "id": "q_d0ab7bafe8a0dc1e",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque becomes a 'stale cheque' if it is not presented for payment within how many months from the date of its issue?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, कोई चेक 'बासी चेक' (Stale Cheque) बन जाता है यदि उसे जारी करने की तारीख से कितने महीनों के भीतर भुगतान के लिए प्रस्तुत नहीं किया जाता है?",
+  "optsEn": [
+   "1 month",
+   "3 months",
+   "6 months",
+   "12 months"
+  ],
+  "optsHi": [
+   "1 महीना",
+   "3 महीने",
+   "6 महीने",
+   "12 महीने"
+  ],
+  "correct": 1,
+  "explainEn": "As per RBI guidelines and banking practices in India, the validity period of a cheque was reduced from 6 months to 3 months from the date of issuance.",
+  "sourceHint": "RBI Circulars and Negotiable Instruments Act",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:26:48Z"
+ },
+ {
+  "id": "q_ffa1ef9c8445cf95",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the context of the Liquidity Coverage Ratio under Basel III norms?",
+  "qHi": "बेसल III मानदंडों के तहत तरलता कवरेज अनुपात (Liquidity Coverage Ratio) के संदर्भ में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liability",
+   "Leverage",
+   "Liquidity",
+   "Ledger"
+  ],
+  "optsHi": [
+   "लायबिलिटी (Liability)",
+   "लेverage (Leverage)",
+   "लिक्विडिटी (Liquidity)",
+   "लेजर (Ledger)"
+  ],
+  "correct": 2,
+  "explainEn": "In banking terminology, LCR stands for Liquidity Coverage Ratio, which ensures that financial institutions have an adequate stock of unencumbered high-quality liquid assets.",
+  "sourceHint": "Basel Committee on Banking Supervision and RBI Basel III guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:26:48Z"
+ },
+ {
+  "id": "q_1f1fe5176dae7f23",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of inflation is characterized by a general rise in prices resulting from increases in the cost of wages and raw materials?",
+  "qHi": "किस प्रकार की मुद्रास्फीति को मजदूरी और कच्चे माल की लागत में वृद्धि के परिणामस्वरूप कीमतों में सामान्य वृद्धि के रूप में जाना जाता है?",
+  "optsEn": [
+   "Demand-pull inflation",
+   "Cost-push inflation",
+   "Structural inflation",
+   "Creeping inflation"
+  ],
+  "optsHi": [
+   "मांग-जनित मुद्रास्फीति",
+   "लागत-प्रेरित मुद्रास्फीति",
+   "संरचनात्मक मुद्रास्फीति",
+   "रेंगती हुई मुद्रास्फीति"
+  ],
+  "correct": 1,
+  "explainEn": "Cost-push inflation occurs when overall prices increase due to increases in the cost of wages and raw materials.",
+  "sourceHint": "Standard Economics textbooks and NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:26:48Z"
+ },
+ {
+  "id": "q_92c525bb7ec8c744",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum deposit insurance coverage provided by the Deposit Insurance and Credit Guarantee Corporation per depositor per bank in India?",
+  "qHi": "भारत में जमा बीमा और क्रेडिट गारंटी निगम द्वारा प्रति जमाकर्ता प्रति बैंक प्रदान की जाने वाली अधिकतम जमा बीमा कवरेज सीमा क्या है?",
+  "optsEn": [
+   "1 lakh rupees",
+   "2 lakh rupees",
+   "5 lakh rupees",
+   "10 lakh rupees"
+  ],
+  "optsHi": [
+   "1 लाख रुपये",
+   "2 लाख रुपये",
+   "5 लाख रुपये",
+   "10 लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "DICGC provides insurance coverage up to Rs. 5 lakh for both principal and interest held by a depositor in the same right and capacity across insured banks.",
+  "sourceHint": "DICGC official website and RBI notifications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:26:48Z"
+ },
+ {
+  "id": "q_fa642f76c3f50ef0",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which market deals with the trading of short-term debt instruments, such as Treasury Bills and Commercial Paper?",
+  "qHi": "कौन सा बाजार ट्रेजरी बिल और वाणिज्यिक पत्र जैसे अल्पकालिक ऋण साधनों के कारोबार से संबंधित है?",
+  "optsEn": [
+   "Capital market",
+   "Money market",
+   "Foreign exchange market",
+   "Commodity market"
+  ],
+  "optsHi": [
+   "पूंजी बाजार",
+   "मुद्रा बाजार",
+   "विदेशी मुद्रा बाजार",
+   "कमोडिटी बाजार"
+  ],
+  "correct": 1,
+  "explainEn": "The money market is a financial market where short-term financial assets with a maturity period of up to one year are traded.",
+  "sourceHint": "RBI financial education publications and NCERT Commerce",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:26:48Z"
+ },
+ {
+  "id": "q_3c0ebd9d40664e9f",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian banking, what does the 'C' stand for in the abbreviation CRAR as used by the Reserve Bank of India?",
+  "qHi": "भारतीय बैंकिंग के संदर्भ में, भारतीय रिजर्व बैंक द्वारा प्रयुक्त CRAR संक्षिप्त नाम में 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Capital",
+   "Credit",
+   "Cash",
+   "Collateral"
+  ],
+  "optsHi": [
+   "कैपिटल (Capital)",
+   "क्रेडिट (Credit)",
+   "कैश (Cash)",
+   "कोलैटरल (Collateral)"
+  ],
+  "correct": 0,
+  "explainEn": "CRAR stands for Capital to Risk-Weighted Assets Ratio, which is a standard metric used to measure a bank's capital strength.",
+  "sourceHint": "RBI Master Circular on Basel III Capital Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:28:14Z"
+ },
+ {
+  "id": "q_b0258c0ded267563",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific section of the Banking Regulation Act, 1949 empowers the Reserve Bank of India to issue directives to banking companies in the public interest?",
+  "qHi": "बैंकिंग विनियमन अधिनियम, 1949 की कौन सी विशिष्ट धारा भारतीय रिजर्व बैंक को जनहित में बैंकिंग कंपनियों को निर्देश जारी करने का अधिकार देती है?",
+  "optsEn": [
+   "Section 21",
+   "Section 35A",
+   "Section 42",
+   "Section 45"
+  ],
+  "optsHi": [
+   "धारा 21",
+   "धारा 35ए",
+   "धारा 42",
+   "धारा 45"
+  ],
+  "correct": 1,
+  "explainEn": "Section 35A of the Banking Regulation Act, 1949 empowers the RBI to issue directions to banks in the public interest or to prevent the affairs of any bank being conducted in a manner detrimental to the interests of the depositors.",
+  "sourceHint": "Banking Regulation Act, 1949",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:28:14Z"
+ },
+ {
+  "id": "q_4c9cebdba6d4e7b7",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary purpose of the 'Marginal Cost of Funds based Lending Rate' (MCLR) introduced by the RBI for scheduled commercial banks?",
+  "qHi": "अनुसूचित वाणिज्यिक बैंकों के लिए आरबीआई द्वारा शुरू की गई 'धन की सीमांत लागत आधारित ऋण दर' (MCLR) का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To determine the minimum interest rate below which a bank cannot lend",
+   "To fix the statutory liquidity ratio for cooperative banks",
+   "To calculate the daily cash reserve requirement",
+   "To govern foreign exchange conversion rates"
+  ],
+  "optsHi": [
+   "उस न्यूनतम ब्याज दर को निर्धारित करना जिससे कम पर बैंक ऋण नहीं दे सकता",
+   "सहकारी बैंकों के लिए सांविधिक तरलता अनुपात तय करना",
+   "दैनिक नकद आरक्षित आवश्यकता की गणना करना",
+   "विदेशी मुद्रा रूपांतरण दरों को नियंत्रित करना"
+  ],
+  "correct": 0,
+  "explainEn": "MCLR is the internal benchmark lending rate for commercial banks below which they cannot lend, replacing the earlier base rate system to ensure better transmission of policy rates.",
+  "sourceHint": "RBI Guidelines on MCLR",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:28:14Z"
+ },
+ {
+  "id": "q_a8c369d355c92cf4",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, what does a 'Cheque' specifically fall under the definition of?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, 'चेक' विशेष रूप से किसकी परिभाषा के अंतर्गत आता है?",
+  "optsEn": [
+   "A bill of exchange drawn on a specified banker and not expressed to be payable otherwise than on demand",
+   "A promissory note payable to order after a fixed period",
+   "A hundi executed by indigenous bankers",
+   "An electronic fund transfer instruction"
+  ],
+  "optsHi": [
+   "एक विशिष्ट बैंकर पर आहरित विनिमय पत्र और मांग पर भुगतान के अलावा किसी अन्य तरीके से देय न होने वाला",
+   "एक निश्चित अवधि के बाद आदेश पर देय वचन पत्र",
+   "स्वदेशी बैंकरों द्वारा निष्पादित हुंडी",
+   "एक इलेक्ट्रॉनिक फंड ट्रांसफर निर्देश"
+  ],
+  "correct": 0,
+  "explainEn": "Section 6 of the Negotiable Instruments Act defines a cheque as a bill of exchange drawn on a specified banker and payable on demand.",
+  "sourceHint": "Negotiable Instruments Act, 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:28:14Z"
+ },
+ {
+  "id": "q_73e2c7a75246acbf",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organization in India acts as the central nodal agency for implementing the Public Financial Management System (PFMS)?",
+  "qHi": "भारत में कौन सा संगठन सार्वजनिक वित्तीय प्रबंधन प्रणाली (PFMS) को लागू करने के लिए केंद्रीय नोडल एजेंसी के रूप में कार्य करता है?",
+  "optsEn": [
+   "Controller General of Accounts",
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India",
+   "NITI Aayog"
+  ],
+  "optsHi": [
+   "लेखा महानियंत्रक (Controller General of Accounts)",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "नीति आयोग"
+  ],
+  "correct": 0,
+  "explainEn": "The Public Financial Management System (PFMS) is administered by the Controller General of Accounts (CGA) in the Ministry of Finance.",
+  "sourceHint": "Ministry of Finance, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:28:14Z"
+ },
+ {
+  "id": "q_97a0ef602d38dd55",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What does the term 'Prompt Corrective Action' (PCA) framework by the RBI primarily seek to monitor?",
+  "qHi": "आरबीआई द्वारा 'शीघ्र सुधार कार्रवाई' (PCA) फ्रेमवर्क मुख्य रूप से किसकी निगरानी करना चाहता है?",
+  "optsEn": [
+   "Weakly capitalized and financially distressed banks",
+   "Non-banking financial companies issuing digital wallets",
+   "Foreign portfolio investors crossing equity limits",
+   "Regional rural banks during agricultural loan defaults"
+  ],
+  "optsHi": [
+   "कम पूंजीकृत और वित्तीय रूप से संकटग्रस्त बैंक",
+   "डिजिटल वॉलेट जारी करने वाली गैर-बैंकिंग वित्तीय कंपनियां",
+   "इक्विटी सीमा पार करने वाले विदेशी पोर्टफोलियो निवेशक",
+   "कृषि ऋण डिफ़ॉल्ट के दौरान क्षेत्रीय ग्रामीण बैंक"
+  ],
+  "correct": 0,
+  "explainEn": "The PCA framework is a supervisory tool used by the RBI to intervene early and take corrective measures for banks that become undercapitalized due to poor asset quality or vulnerable profitability.",
+  "sourceHint": "RBI Supervisory Framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:28:14Z"
+ },
+ {
+  "id": "q_fc59c11cdd0d3b8b",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of international trade finance, what is the full form of UCP 600?",
+  "qHi": "अंतर्राष्ट्रीय व्यापार वित्त के संदर्भ में, UCP 600 का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Uniform Customs and Practice for Documentary Credits",
+   "Universal Currency Policy and Procedures",
+   "Union of Clearing Practices for Credit Operations",
+   "Unilateral Commercial Payment Protocol"
+  ],
+  "optsHi": [
+   "यूनिफॉर्म कस्टम्स एंड प्रैक्टिस फॉर डॉक्यूमेंट्री क्रेडिट्स",
+   "यूनिवर्सल करेंसी पॉलिसी एंड प्रोसीजर्स",
+   "यूनियन ऑफ क्लियरिंग प्रैक्टices फॉर क्रेडिट ऑपरेशंस",
+   "यूनिलैटरल कमर्शियल पेमेंट प्रोटोकॉल"
+  ],
+  "correct": 0,
+  "explainEn": "UCP 600 stands for Uniform Customs and Practice for Documentary Credits, which is a set of rules issued by the International Chamber of Commerce for the use of letters of credit.",
+  "sourceHint": "International Chamber of Commerce (ICC) Publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:28:14Z"
+ },
+ {
+  "id": "q_171759ba696897b6",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which institution maintains the Central Fraud Registry for banks in India as a repository of information on frauds reported by scheduled commercial banks?",
+  "qHi": "भारत में अनुसूचित वाणिज्यिक बैंकों द्वारा रिपोर्ट किए गए धोखाधड़ी की जानकारी के भंडार के रूप में कौन सी संस्था बैंकों के लिए केंद्रीय धोखाधड़ी रजिस्ट्री बनाए रखती है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Central Bureau of Investigation",
+   "Serious Fraud Investigation Office",
+   "Indian Banks' Association"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "केंद्रीय अन्वेषण ब्यूरो",
+   "गंभीर धोखाधड़ी जांच कार्यालय",
+   "इंडियन बैंक्स एसोसिएशन"
+  ],
+  "correct": 0,
+  "explainEn": "The Reserve Bank of India maintains the Central Fraud Registry, a web-based application that allows banks to search for details of fraudulent accounts reported by other banks.",
+  "sourceHint": "RBI Master Directions on Frauds",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:28:14Z"
  }
 ]

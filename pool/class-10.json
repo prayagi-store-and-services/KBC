@@ -4926,5 +4926,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-07T06:03:32Z"
+ },
+ {
+  "id": "q_c5eff945e8d3e6e2",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which carbon compound is the main constituent of biogas?",
+  "qHi": "कौन सा कार्बन यौगिक बायोगैस का मुख्य घटक है?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Methane",
+   "Ethane",
+   "Propane"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "मीथेन",
+   "एथेन",
+   "प्रोपेन"
+  ],
+  "correct": 1,
+  "explainEn": "Biogas is produced by the anaerobic degradation of animal waste and plant matter, and its primary component is methane.",
+  "sourceHint": "NCERT Class 10 Science Chapter 14 (Sources of Energy)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:27:30Z"
+ },
+ {
+  "id": "q_561118449647012c",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which sector is also known as the service sector in economic classification?",
+  "qHi": "आर्थिक वर्गीकरण में किस क्षेत्र को सेवा क्षेत्र के रूप में भी जाना जाता है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Quaternary sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "तृतीयक क्षेत्र",
+   "चतुर्थक क्षेत्र"
+  ],
+  "correct": 2,
+  "explainEn": "The tertiary sector generates services rather than goods and is commonly known as the service sector.",
+  "sourceHint": "NCERT Class 10 Economics Chapter 2 (Sectors of the Indian Economy)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:27:30Z"
+ },
+ {
+  "id": "q_3d2d3418f147f6da",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What happens when a ray of light passes obliquely through a rectangular glass slab?",
+  "qHi": "जब प्रकाश की एक किरण आयताकार कांच के स्लैब से तिरछी गुजरती है, तो क्या होता है?",
+  "optsEn": [
+   "The emergent ray is parallel to the incident ray but laterally displaced.",
+   "The emergent ray converges at a single focal point.",
+   "The ray undergoes total internal reflection without exiting.",
+   "The emergent ray is perpendicular to the incident ray."
+  ],
+  "optsHi": [
+   "निर्गत किरण आपतित किरण के समानांतर होती है लेकिन पार्श्व रूप से विस्थापित होती है।",
+   "निर्गत किरण एक ही फोकल बिंदु पर अभिसरित होती है।",
+   "किरण बाहर निकले बिना पूर्ण आंतरिक परावर्तन से गुजरती है।",
+   "निर्गत किरण आपतित किरण के लंबवत होती है।"
+  ],
+  "correct": 0,
+  "explainEn": "Due to refraction at both parallel faces, the emergent ray is parallel to the incident ray with a lateral shift.",
+  "sourceHint": "NCERT Class 10 Science Chapter 10 (Light - Reflection and Refraction)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:27:30Z"
+ },
+ {
+  "id": "q_e944f8d002544041",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which crop is known as a staple food crop of India grown under high temperature and high humidity conditions?",
+  "qHi": "उच्च तापमान और उच्च आर्द्रता की स्थिति में उगाई जाने वाली भारत की मुख्य खाद्य फसल के रूप में कौन सी फसल जानी जाती है?",
+  "optsEn": [
+   "Wheat",
+   "Rice",
+   "Barley",
+   "Millets"
+  ],
+  "optsHi": [
+   "गेहूं",
+   "चावल",
+   "जौ",
+   "बाजरा"
+  ],
+  "correct": 1,
+  "explainEn": "Rice is the staple food crop of a majority of the people in India and requires high temperature and high humidity.",
+  "sourceHint": "NCERT Class 10 Geography Chapter 4 (Agriculture)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:27:30Z"
+ },
+ {
+  "id": "q_5774b12c474f69d5",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which plant hormone is primarily responsible for cell division in plants?",
+  "qHi": "पौधों में मुख्य रूप से कोशिका विभाजन के लिए कौन सा पादप हार्मोन उत्तरदायी है?",
+  "optsEn": [
+   "Auxin",
+   "Gibberellin",
+   "Cytokinin",
+   "Abscisic acid"
+  ],
+  "optsHi": [
+   "ऑक्साइन",
+   "जिबरेलिन",
+   "साइटोकैिनिन",
+   "एब्सिसिक अम्ल"
+  ],
+  "correct": 2,
+  "explainEn": "Cytokinins promote cell division and are naturally present in areas of rapid cell division, such as fruits and seeds.",
+  "sourceHint": "NCERT Class 10 Science Chapter 7 (Control and Coordination)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:27:30Z"
+ },
+ {
+  "id": "q_08c22ddd0aeb0433",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which Indian state is the famous reserve forest, Sariska Tiger Reserve, located?",
+  "qHi": "प्रसिद्ध आरक्षित वन, सरिस्का बाघ अभयारण्य, किस भारतीय राज्य में स्थित है?",
+  "optsEn": [
+   "Madhya Pradesh",
+   "Rajasthan",
+   "Uttarakhand",
+   "Assam"
+  ],
+  "optsHi": [
+   "मध्य प्रदेश",
+   "राजस्थान",
+   "उत्तराखंड",
+   "असम"
+  ],
+  "correct": 1,
+  "explainEn": "Sariska Tiger Reserve is situated in the Alwar district of Rajasthan.",
+  "sourceHint": "NCERT Class 10 Geography Chapter 2 (Forest and Wildlife Resources)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:27:30Z"
  }
 ]

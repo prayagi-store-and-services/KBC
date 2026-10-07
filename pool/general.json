@@ -4114,5 +4114,481 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-07T06:04:23Z"
+ },
+ {
+  "id": "q_af6cbc81d8cce702",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the national fruit of India?",
+  "qHi": "भारत का राष्ट्रीय फल क्या है?",
+  "optsEn": [
+   "Banana",
+   "Apple",
+   "Mango",
+   "Guava"
+  ],
+  "optsHi": [
+   "केला",
+   "सेब",
+   "आम",
+   "अमरूद"
+  ],
+  "correct": 2,
+  "explainEn": "The mango (Mangifera indica) is indigenous to the Indian subcontinent and is designated as the national fruit.",
+  "sourceHint": "Government of India National Portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:26:13Z"
+ },
+ {
+  "id": "q_ed57166691bec350",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas do human beings primarily exhale during respiration?",
+  "qHi": "मनुष्य श्वसन के दौरान मुख्य रूप से किस गैस को छोड़ते हैं?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "During cellular respiration, humans consume oxygen and produce carbon dioxide as a waste product, which is then exhaled.",
+  "sourceHint": "NCERT Biology Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:26:13Z"
+ },
+ {
+  "id": "q_c44f9a30d1d72e9c",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which state is the ancient monument Taj Mahal located?",
+  "qHi": "प्राचीन स्मारक ताजमहल किस राज्य में स्थित है?",
+  "optsEn": [
+   "Uttar Pradesh",
+   "Rajasthan",
+   "Madhya Pradesh",
+   "Delhi"
+  ],
+  "optsHi": [
+   "उत्तर प्रदेश",
+   "राजस्थान",
+   "मध्य प्रदेश",
+   "दिल्ली"
+  ],
+  "correct": 0,
+  "explainEn": "The Taj Mahal is situated on the right bank of the Yamuna River in the city of Agra, Uttar Pradesh.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:26:13Z"
+ },
+ {
+  "id": "q_74984490c4ec63be",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the standard chemical symbol for water?",
+  "qHi": "पानी का मानक रासायनिक प्रतीक क्या है?",
+  "optsEn": [
+   "CO2",
+   "H2O",
+   "NaCl",
+   "O2"
+  ],
+  "optsHi": [
+   "CO2",
+   "H2O",
+   "NaCl",
+   "O2"
+  ],
+  "correct": 1,
+  "explainEn": "A water molecule is composed of two hydrogen atoms bonded to one oxygen atom, hence H2O.",
+  "sourceHint": "Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:26:13Z"
+ },
+ {
+  "id": "q_3bc939b678d69042",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which sport uses the terms 'LBW', 'Duck', and 'Spin'?",
+  "qHi": "किस खेल में 'एलबीडब्ल्यू', 'डक' और 'स्पिन' शब्दों का उपयोग किया जाता है?",
+  "optsEn": [
+   "Football",
+   "Cricket",
+   "Tennis",
+   "Badminton"
+  ],
+  "optsHi": [
+   "फुटबॉल",
+   "क्रिकेट",
+   "टेनिस",
+   "बैडमिंटन"
+  ],
+  "correct": 1,
+  "explainEn": "These are common terminology used in the sport of cricket.",
+  "sourceHint": "Board of Control for Cricket in India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:26:13Z"
+ },
+ {
+  "id": "q_64e152713de42cff",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "How many fundamental colors are there in a standard rainbow?",
+  "qHi": "एक मानक इंद्रधनुष में कितने मूल रंग होते हैं?",
+  "optsEn": [
+   "5",
+   "6",
+   "7",
+   "8"
+  ],
+  "optsHi": [
+   "5",
+   "6",
+   "7",
+   "8"
+  ],
+  "correct": 2,
+  "explainEn": "A rainbow consists of seven colors represented by the acronym VIBGYOR (Violet, Indigo, Blue, Green, Yellow, Orange, Red).",
+  "sourceHint": "NCERT Physics Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:26:13Z"
+ },
+ {
+  "id": "q_c99985ba656cfac6",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which classical dance form originated in the state of Kerala and is known for elaborate facial makeup and colorful costumes?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप केरल राज्य में उत्पन्न हुआ है और विस्तृत चेहरे की मेकअप और रंगीन वेशभूषा के लिए जाना जाता है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Odissi",
+   "Kuchipudi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "ओडिसी",
+   "कुचिपुड़ी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a major form of classical Indian dance that is well-known for its distinctive storytelling, heavy makeup, and vibrant costumes originating from Kerala.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:27:13Z"
+ },
+ {
+  "id": "q_101304ee25d74896",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which article of the Constitution of India provides for the establishment of the Election Commission of India?",
+  "qHi": "भारत के संविधान का कौन सा अनुच्छेद भारत के निर्वाचन आयोग की स्थापना का प्रावधान करता है?",
+  "optsEn": [
+   "Article 324",
+   "Article 356",
+   "Article 370",
+   "Article 280"
+  ],
+  "optsHi": [
+   "अनुच्छेद 324",
+   "अनुच्छेद 356",
+   "अनुच्छेद 370",
+   "अनुच्छेद 280"
+  ],
+  "correct": 0,
+  "explainEn": "Article 324 of the Indian Constitution vests the superintendence, direction, and control of elections in an Election Commission consisting of the Chief Election Commissioner and other election commissioners.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:27:13Z"
+ },
+ {
+  "id": "q_896f46f745c7658b",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which chemical element has the highest electrical conductivity at room temperature and is widely used in Indian coinage and jewelry?",
+  "qHi": "किस रासायनिक तत्व की कमरे के तापमान पर विद्युत चालकता सबसे अधिक होती है और इसका व्यापक रूप से सिक्कों और आभूषणों में उपयोग किया जाता है?",
+  "optsEn": [
+   "Gold",
+   "Copper",
+   "Silver",
+   "Aluminium"
+  ],
+  "optsHi": [
+   "सोना",
+   "तांबा",
+   "चांदी",
+   "एल्युमीनियम"
+  ],
+  "correct": 2,
+  "explainEn": "Silver has the highest electrical conductivity, thermal conductivity, and reflectivity of any metal.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:27:13Z"
+ },
+ {
+  "id": "q_1c4482f680170036",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which mountain range is the Valley of Flowers National Park, a UNESCO World Heritage Site, located?",
+  "qHi": "यूनेस्को की विश्व धरोहर स्थल, फूलों की घाटी राष्ट्रीय उद्यान, किस पर्वत श्रृंखला में स्थित है?",
+  "optsEn": [
+   "Vindhya Range",
+   "Aravalli Range",
+   "Zanskar and Western Himalayas",
+   "Eastern Ghats"
+  ],
+  "optsHi": [
+   "विंध्य श्रेणी",
+   "अरावली श्रेणी",
+   "जांसकर और पश्चिमी हिमालय",
+   "पूर्वी घाट"
+  ],
+  "correct": 2,
+  "explainEn": "The Valley of Flowers National Park is located in the West Himalayan region of Uttarakhand and is renowned for its meadows of endemic alpine flowers.",
+  "sourceHint": "UNESCO World Heritage Centre",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:27:13Z"
+ },
+ {
+  "id": "q_07be7e22d523cce4",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the famous ancient Sanskrit play 'Abhijnanasakuntalam'?",
+  "qHi": "प्रसिद्ध प्राचीन संस्कृत नाटक 'अभिज्ञानशाकुंतलम' किसने लिखा था?",
+  "optsEn": [
+   "Kalidasa",
+   "Bhasa",
+   "Shudraka",
+   "Bhartrihari"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "भास",
+   "शूद्रक",
+   "भर्तृहरि"
+  ],
+  "correct": 0,
+  "explainEn": "Kalidasa is widely recognized as one of India's greatest classical Sanskrit poets and playwrights, known for works like Abhijnanasakuntalam.",
+  "sourceHint": "NCERT History Textbook / Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:27:13Z"
+ },
+ {
+  "id": "q_01434bac25d99f89",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which port city in Gujarat was an important global trading center during the Indus Valley Civilization?",
+  "qHi": "गुजरात का कौन सा बंदरगाह शहर सिंधु घाटी सभ्यता के दौरान एक महत्वपूर्ण वैश्विक व्यापार केंद्र था?",
+  "optsEn": [
+   "Surat",
+   "Lothal",
+   "Dwarka",
+   "Porbandar"
+  ],
+  "optsHi": [
+   "सूरत",
+   "लोथल",
+   "द्वारका",
+   "पोरबंदर"
+  ],
+  "correct": 1,
+  "explainEn": "Lothal features the world's earliest known dockyard, connecting the city to an ancient course of the Sabarmati river on the trade route between Harappan cities and Saurashtra.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:27:13Z"
+ },
+ {
+  "id": "q_f0969ac56619446c",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which constitutional article empowers the Supreme Court of India to issue writs for the enforcement of Fundamental Rights?",
+  "qHi": "भारत के संविधान का कौन सा अनुच्छेद सर्वोच्च न्यायालय को मौलिक अधिकारों के प्रवर्तन के लिए रिट जारी करने का अधिकार देता है?",
+  "optsEn": [
+   "Article 32",
+   "Article 226",
+   "Article 13",
+   "Article 143"
+  ],
+  "optsHi": [
+   "अनुच्छेद 32",
+   "अनुच्छेद 226",
+   "अनुच्छेद 13",
+   "अनुच्छेद 143"
+  ],
+  "correct": 0,
+  "explainEn": "Article 32 provides the right to constitutional remedies and empowers the Supreme Court to issue writs.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:28:19Z"
+ },
+ {
+  "id": "q_cb3f6e572b827638",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form of India originated in the state of Kerala and is traditionally performed by male actors?",
+  "qHi": "भारत का कौन सा शास्त्रीय नृत्य रूप केरल राज्य में उत्पन्न हुआ और पारंपरिक रूप से पुरुष कलाकारों द्वारा किया जाता है?",
+  "optsEn": [
+   "Kathakali",
+   "Bharatanatyam",
+   "Odissi",
+   "Kuchipudi"
+  ],
+  "optsHi": [
+   "कथकली",
+   "भरतनाट्यम",
+   "ओडिसी",
+   "कुचिपुड़ी"
+  ],
+  "correct": 0,
+  "explainEn": "Kathakali is a major form of classical Indian dance originating from Kerala, known for its elaborate makeup and storytelling.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:28:19Z"
+ },
+ {
+  "id": "q_240d4cfe51de4944",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which element has the chemical symbol 'Hg'?",
+  "qHi": "किस तत्व का रासायनिक प्रतीक 'Hg' है?",
+  "optsEn": [
+   "Mercury",
+   "Silver",
+   "Gold",
+   "Lead"
+  ],
+  "optsHi": [
+   "पारा (मर्करी)",
+   "चांदी",
+   "सोना",
+   "सीसा"
+  ],
+  "correct": 0,
+  "explainEn": "Hg is the chemical symbol for mercury, derived from its Latin name hydrargyrum.",
+  "sourceHint": "NCERT Science textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:28:19Z"
+ },
+ {
+  "id": "q_1ee55f623ca59e9e",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which archaeological site associated with the Indus Valley Civilization is located in Gujarat and is famous for its tidal dockyard?",
+  "qHi": "सिंधु घाटी सभ्यता से जुड़ा कौन सा पुरातात्विक स्थल गुजरात में स्थित है और अपने ज्वारनदमुख गोदी (डॉकयार्ड) के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Lothal",
+   "Kalibangan",
+   "Banawali",
+   "Dholavira"
+  ],
+  "optsHi": [
+   "लोथल",
+   "कालीबंगा",
+   "बनावाली",
+   "धोलावीरा"
+  ],
+  "correct": 0,
+  "explainEn": "Lothal features a massive dockyard that connected the city to an ancient course of the Sabarmati river.",
+  "sourceHint": "ASI (Archaeological Survey of India)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:28:19Z"
+ },
+ {
+  "id": "q_f8e338f2c8668d26",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary gas found in the atmosphere of planet Venus?",
+  "qHi": "शुक्र ग्रह के वायुमंडल में पाई जाने वाली मुख्य गैस कौन सी है?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Nitrogen",
+   "Oxygen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "ऑक्सीजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 0,
+  "explainEn": "The atmosphere of Venus consists mainly of carbon dioxide, along with thick clouds of sulfuric acid.",
+  "sourceHint": "Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:28:19Z"
  }
 ]

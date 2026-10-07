@@ -3470,5 +3470,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-07T06:03:27Z"
+ },
+ {
+  "id": "q_d783f19d78a7f614",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the minimum age required for a person to vote in elections in India?",
+  "qHi": "भारत में चुनाव में मतदान करने के लिए किसी व्यक्ति की न्यूनतम आयु कितनी होनी चाहिए?",
+  "optsEn": [
+   "18 years",
+   "21 years",
+   "25 years",
+   "16 years"
+  ],
+  "optsHi": [
+   "18 वर्ष",
+   "21 वर्ष",
+   "25 वर्ष",
+   "16 वर्ष"
+  ],
+  "correct": 0,
+  "explainEn": "According to the Constitution of India, every citizen of 18 years and above is eligible to vote.",
+  "sourceHint": "NCERT Class 8 Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:26:22Z"
+ },
+ {
+  "id": "q_728239e0cea488c4",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which invisible force pulls objects towards the center of the Earth?",
+  "qHi": "कौन सा अदृश्य बल वस्तुओं को पृथ्वी के केंद्र की ओर खींचता है?",
+  "optsEn": [
+   "Magnetic force",
+   "Electrostatic force",
+   "Gravitational force",
+   "Frictional force"
+  ],
+  "optsHi": [
+   "चुंबकीय बल",
+   "स्थिरवैद्युत बल",
+   "गुरुत्वाकर्षण बल",
+   "घर्षण बल"
+  ],
+  "correct": 2,
+  "explainEn": "Gravity is the force of attraction between the Earth and objects on or near its surface.",
+  "sourceHint": "NCERT Class 8 Science Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:26:22Z"
+ },
+ {
+  "id": "q_e5369720fdd612d0",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who was appointed as the Commander-in-Chief of the British forces during the Revolt of 1857 in the Siege of Delhi?",
+  "qHi": "दिल्ली की घेराबंदी के दौरान 1857 के विद्रोह में ब्रिटिश सेना के कमांडर-इन-चीफ के रूप में किसे नियुक्त किया गया था?",
+  "optsEn": [
+   "Lord Dalhousie",
+   "General John Nicholson",
+   "Lord Canning",
+   "Warren Hastings"
+  ],
+  "optsHi": [
+   "लॉर्ड डलहौजी",
+   "जनरल जॉन निकोलस",
+   "लॉर्ड कैनिंग",
+   "वॉरेन हेस्टिंग्स"
+  ],
+  "correct": 1,
+  "explainEn": "General John Nicholson played a key role in recapturing Delhi for the British during the 1857 revolt.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:27:24Z"
+ },
+ {
+  "id": "q_d2242f715bb604a7",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of resource is petroleum, which is formed from compressed organic matter over millions of years?",
+  "qHi": "पेट्रोलियम किस प्रकार का संसाधन है, जो लाखों वर्षों में संपीड़ित कार्बनिक पदार्थों से बनता है?",
+  "optsEn": [
+   "Renewable resource",
+   "Biotic resource",
+   "Non-renewable resource",
+   "Ubiquitous resource"
+  ],
+  "optsHi": [
+   "नवीकरणीय संसाधन",
+   "जैविक संसाधन",
+   "अनवीकरणीय संसाधन",
+   "सर्वव्यापक संसाधन"
+  ],
+  "correct": 2,
+  "explainEn": "Petroleum is a fossil fuel and a non-renewable resource because its stock gets exhausted with consumption.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:27:24Z"
+ },
+ {
+  "id": "q_1c339c0e7f040806",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which soil type is most suitable for the cultivation of cotton and is also known as black cotton soil?",
+  "qHi": "कपास की खेती के लिए कौन सी मिट्टी सबसे उपयुक्त है और इसे काली कपास मिट्टी के रूप में भी जाना जाता है?",
+  "optsEn": [
+   "Laterite soil",
+   "Alluvial soil",
+   "Regur soil",
+   "Red soil"
+  ],
+  "optsHi": [
+   "लैटेराइट मिट्टी",
+   "जलोढ़ मिट्टी",
+   "रेगुर मिट्टी",
+   "लाल मिट्टी"
+  ],
+  "correct": 2,
+  "explainEn": "Regur soil, or black soil, is ideal for growing cotton due to its moisture-retaining capacity.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:27:24Z"
  }
 ]

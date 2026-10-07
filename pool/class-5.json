@@ -5010,5 +5010,509 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-07T06:04:28Z"
+ },
+ {
+  "id": "q_fc3cca871d6fba28",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is the national bird of India?",
+  "qHi": "भारत का राष्ट्रीय पक्षी निम्नलिखित में से कौन सा है?",
+  "optsEn": [
+   "Peacock",
+   "Crow",
+   "Sparrow",
+   "Parrot"
+  ],
+  "optsHi": [
+   "मोर",
+   "कौआ",
+   "गोरेया",
+   "तोता"
+  ],
+  "correct": 0,
+  "explainEn": "The Indian peacock is declared as the national bird of India.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:26:18Z"
+ },
+ {
+  "id": "q_f30aa731b627de70",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "How many days are there in a normal leap year?",
+  "qHi": "एक सामान्य लीप वर्ष में कितने दिन होते हैं?",
+  "optsEn": [
+   "365",
+   "366",
+   "364",
+   "360"
+  ],
+  "optsHi": [
+   "365",
+   "366",
+   "364",
+   "360"
+  ],
+  "correct": 1,
+  "explainEn": "A leap year occurs once every four years and has 366 days.",
+  "sourceHint": "NCERT Mathematics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:26:18Z"
+ },
+ {
+  "id": "q_72bb2b3c303bfd5a",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which direction does the sun rise from?",
+  "qHi": "सूर्य किस दिशा से उगता है?",
+  "optsEn": [
+   "North",
+   "South",
+   "East",
+   "West"
+  ],
+  "optsHi": [
+   "उत्तर",
+   "दक्षिण",
+   "पूर्व",
+   "पश्चिम"
+  ],
+  "correct": 2,
+  "explainEn": "The Earth rotates from west to east, making the sun appear to rise in the east.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:26:18Z"
+ },
+ {
+  "id": "q_e49fa96dcd43ebc1",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas do plants take in from the air for photosynthesis?",
+  "qHi": "पौधे प्रकाश संश्लेषण के लिए हवा से कौन सी गैस लेते हैं?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Plants absorb carbon dioxide from the atmosphere to make their food during photosynthesis.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:26:18Z"
+ },
+ {
+  "id": "q_b69085942151e19c",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which is the largest continent in the world by area?",
+  "qHi": "क्षेत्रफल की दृष्टि से विश्व का सबसे बड़ा महाद्वीप कौन सा है?",
+  "optsEn": [
+   "Africa",
+   "Asia",
+   "Europe",
+   "Australia"
+  ],
+  "optsHi": [
+   "अफ़्रीका",
+   "एशिया",
+   "यूरोप",
+   "ऑस्ट्रेलिया"
+  ],
+  "correct": 1,
+  "explainEn": "Asia is the largest and most populous continent on Earth.",
+  "sourceHint": "NCERT Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:26:18Z"
+ },
+ {
+  "id": "q_387ef520aa6ca4c1",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary natural source of energy for the Earth's water cycle?",
+  "qHi": "पृथ्वी के जल चक्र के लिए ऊर्जा का प्राथमिक प्राकृतिक स्रोत क्या है?",
+  "optsEn": [
+   "The Sun",
+   "The Moon",
+   "Wind",
+   "Volcanoes"
+  ],
+  "optsHi": [
+   "सूर्य",
+   "चंद्रमा",
+   "हवा",
+   "ज्वालामुखी"
+  ],
+  "correct": 0,
+  "explainEn": "Heat from the Sun causes water to evaporate from oceans, lakes, and rivers, driving the entire water cycle.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:27:19Z"
+ },
+ {
+  "id": "q_a370588c71362b2c",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin is richly found in citrus fruits like oranges and lemons?",
+  "qHi": "संतरे और नींबू जैसे खट्टे फलों में कौन सा विटामिन प्रचुर मात्रा में पाया जाता है?",
+  "optsEn": [
+   "Vitamin C",
+   "Vitamin A",
+   "Vitamin D",
+   "Vitamin K"
+  ],
+  "optsHi": [
+   "विटामिन सी",
+   "विटामिन ए",
+   "विटामिन डी",
+   "विटामिन के"
+  ],
+  "correct": 0,
+  "explainEn": "Citrus fruits are well-known sources of Vitamin C, which helps keep the immune system healthy.",
+  "sourceHint": "NCERT Class 6 Science (Food sources)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:27:19Z"
+ },
+ {
+  "id": "q_c71368db798d87a1",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What name is given to the imaginary line that divides the Earth into the Northern Hemisphere and the Southern Hemisphere?",
+  "qHi": "उस काल्पनिक रेखा को क्या नाम दिया गया है जो पृथ्वी को उत्तरी गोलार्ध और दक्षिणी गोलार्ध में विभाजित करती है?",
+  "optsEn": [
+   "Equator",
+   "Prime Meridian",
+   "Tropic of Cancer",
+   "Arctic Circle"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा (इक्वेटर)",
+   "प्राइम मेरिडियन",
+   "कर्क रेखा",
+   "आर्कटिक वृत्त"
+  ],
+  "correct": 0,
+  "explainEn": "The Equator is the 0-degree latitude line that divides the Earth into northern and southern halves.",
+  "sourceHint": "NCERT Class 6 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:27:19Z"
+ },
+ {
+  "id": "q_5ea4c5efda9999d7",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is an example of a kharif crop grown in India?",
+  "qHi": "निम्नलिखित में से कौन सी भारत में उगाई जाने वाली खरीफ फसल का एक उदाहरण है?",
+  "optsEn": [
+   "Paddy (Rice)",
+   "Wheat",
+   "Gram",
+   "Peas"
+  ],
+  "optsHi": [
+   "धान (चावल)",
+   "गेहूं",
+   "चना",
+   "मटर"
+  ],
+  "correct": 0,
+  "explainEn": "Kharif crops are sown at the beginning of the monsoon season, of which paddy is a primary example.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:27:19Z"
+ },
+ {
+  "id": "q_81d337845884032f",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian water harvesting system uses stepwells to store rainwater?",
+  "qHi": "वर्षा जल के भंडारण के लिए किस पारंपरिक भारतीय जल संचयन प्रणाली में बावड़ियों (स्टेपवेल्स) का उपयोग किया जाता है?",
+  "optsEn": [
+   "Baoli",
+   "Dam",
+   "Tube well",
+   "Sprinkler"
+  ],
+  "optsHi": [
+   "बावली",
+   "बांध",
+   "ट्यूबवेल",
+   "छिड़काव यंत्र"
+  ],
+  "correct": 0,
+  "explainEn": "Baolis or stepwells were historically built in India to collect and store rainwater for dry periods.",
+  "sourceHint": "NCERT Class 5 EVS Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:27:19Z"
+ },
+ {
+  "id": "q_2dfbadf1e3ef72c7",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of map is most suitable for showing the physical features of a country such as mountains, plateaus, and rivers?",
+  "qHi": "किसी देश की भौतिक विशेषताओं जैसे पहाड़ों, पठारों और नदियों को दिखाने के लिए किस प्रकार का नक्शा सबसे उपयुक्त है?",
+  "optsEn": [
+   "Physical map",
+   "Political map",
+   "Thematic map",
+   "Road map"
+  ],
+  "optsHi": [
+   "भौतिक मानचित्र",
+   "राजनीतिक मानचित्र",
+   "विषयगत मानचित्र",
+   "सड़क मानचित्र"
+  ],
+  "correct": 0,
+  "explainEn": "Physical maps show natural features of the Earth like mountains, rivers, plains, and oceans.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:27:19Z"
+ },
+ {
+  "id": "q_6e6685b503c14545",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of these seeds is known for having tiny hook-like structures that help it disperse by clinging to animal fur or human clothes?",
+  "qHi": "इनमें से कौन सा बीज अपने छोटे हुक जैसे अंगों के लिए जाना जाता है जो जानवरों के फर या इंसान के कपड़ों से चिपककर फैलने में मदद करते हैं?",
+  "optsEn": [
+   "Lotus",
+   "Xanthium",
+   "Maple",
+   "Coconut"
+  ],
+  "optsHi": [
+   "कमल",
+   "झंटिया",
+   "मैपL",
+   "नारियल"
+  ],
+  "correct": 1,
+  "explainEn": "Xanthium seeds have hooks which attach to clothing and fur to travel to new places.",
+  "sourceHint": "NCERT Class 5 Environmental Studies (EVS) - Looking Around, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:28:26Z"
+ },
+ {
+  "id": "q_801f84a3786cb402",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary function of the diaphragm in the human respiratory system?",
+  "qHi": "मानव श्वसन तंत्र में डायफ्राम का मुख्य कार्य क्या है?",
+  "optsEn": [
+   "To pump blood",
+   "To filter dust from air",
+   "To help move air in and out of lungs",
+   "To produce voice sounds"
+  ],
+  "optsHi": [
+   "रक्त पंप करना",
+   "हवा से धूल छानना",
+   "फेफड़ों में हवा अंदर और बाहर ले जाने में मदद करना",
+   "आवाज़ पैदा करना"
+  ],
+  "correct": 2,
+  "explainEn": "The diaphragm is a dome-shaped muscle below the lungs that contracts and flattens to help inhale and exhale air.",
+  "sourceHint": "NCERT Class 5 Science curriculum basics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:28:26Z"
+ },
+ {
+  "id": "q_469f62dbfc7ce876",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian state is famously associated with the traditional folk dance form called Bihu?",
+  "qHi": "कौन सा भारतीय राज्य बिहू नामक पारंपरिक लोक नृत्य शैली से जुड़ा है?",
+  "optsEn": [
+   "Assam",
+   "Punjab",
+   "Kerala",
+   "Gujarat"
+  ],
+  "optsHi": [
+   "असम",
+   "पंजाब",
+   "केरल",
+   "गुजरात"
+  ],
+  "correct": 0,
+  "explainEn": "Bihu is an indigenous folk dance from Assam, celebrated during the Bihu festivals.",
+  "sourceHint": "NCERT Class 5 related cultural heritage modules",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:28:26Z"
+ },
+ {
+  "id": "q_57bcbd93cd3c3eb6",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In a standard globe, the imaginary horizontal line passing through the exact middle, dividing the Earth into the Northern and Southern Hemispheres, is called:",
+  "qHi": "एक मानक ग्लोब पर, बिल्कुल बीच से गुजरने वाली काल्पनिक क्षैतिज रेखा, जो पृथ्वी को उत्तरी और दक्षिणी गोलार्ध में बांटती है, क्या कहलाती है?",
+  "optsEn": [
+   "Prime Meridian",
+   "Tropic of Cancer",
+   "Equator",
+   "Arctic Circle"
+  ],
+  "optsHi": [
+   "प्रमुख मध्याह्न रेखा",
+   "कर्क रेखा",
+   "भूमध्य रेखा",
+   "आर्कटिक वृत्त"
+  ],
+  "correct": 2,
+  "explainEn": "The Equator is 0 degrees latitude and divides the Earth into the Northern and Southern Hemispheres.",
+  "sourceHint": "NCERT Class 5 Social Studies / Geography basics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:28:26Z"
+ },
+ {
+  "id": "q_e7b39a3b56fee982",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional Indian water harvesting structure is step-like with multiple levels, historically used to store rainwater in arid regions?",
+  "qHi": "कौन सी पारंपरिक भारतीय जल संचयन संरचना सीढ़ीनुमा होती है, जिसका उपयोग ऐतिहासिक रूप से शुष्क क्षेत्रों में वर्षा जल संग्रहित करने के लिए किया जाता था?",
+  "optsEn": [
+   "Baoli",
+   "Dam",
+   "Canal",
+   "Tubewell"
+  ],
+  "optsHi": [
+   "बावली",
+   "बांध",
+   "नहर",
+   "ट्यूबवेल"
+  ],
+  "correct": 0,
+  "explainEn": "Baolis or stepwells were built to collect rainwater and provide water during dry months.",
+  "sourceHint": "NCERT Class 5 EVS, Chapter 6 (A Drop by Drop)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:28:26Z"
+ },
+ {
+  "id": "q_3a3e6e261551c159",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of map representation uses specific symbols and colors to show physical features like mountains, plateaus, and rivers?",
+  "qHi": "पहाड़ों, पठार और नदियों जैसी भौतिक विशेषताओं को दिखाने के लिए किस प्रकार के मानचित्र का उपयोग किया जाता है?",
+  "optsEn": [
+   "Political map",
+   "Physical map",
+   "Road map",
+   "Thematic map"
+  ],
+  "optsHi": [
+   "राजनीतिक मानचित्र",
+   "भौतिक मानचित्र",
+   "सड़क मानचित्र",
+   "विषयगत मानचित्र"
+  ],
+  "correct": 1,
+  "explainEn": "Physical maps show natural features of the Earth such as mountains, rivers, and plains.",
+  "sourceHint": "NCERT Class 5 Social Science curriculum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:28:26Z"
+ },
+ {
+  "id": "q_6097da15f8b726b9",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which gas makes up the largest percentage of Earth's atmosphere by volume?",
+  "qHi": "आयतन के हिसाब से पृथ्वी के वायुमंडल में सबसे अधिक मात्रा में कौन सी गैस पाई जाती है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "आर्गन"
+  ],
+  "correct": 2,
+  "explainEn": "Nitrogen makes up about 78 percent of Earth's atmosphere.",
+  "sourceHint": "NCERT Class 5 Science and Geography basics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T13:28:26Z"
  }
 ]
