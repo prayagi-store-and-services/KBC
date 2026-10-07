@@ -1,5 +1,7 @@
 package com.example.data.repository
 
+import com.example.data.model.isJuniorPlayer
+import com.example.data.model.effectiveClassNumber
 import com.example.data.model.QuestionItem
 import com.example.data.model.UserProfile
 import java.security.MessageDigest
@@ -189,9 +191,9 @@ object MultiLayerQuestionValidator {
         }
 
         // Junior appropriateness check
-        val isStudent = profile.preparationDomain.contains("Student", true) || profile.isStudentMode
+        val isStudent = profile.isJuniorPlayer()
         if (isStudent) {
-            val classNum = extractClassNumber(profile.studentClass)
+            val classNum = profile.effectiveClassNumber()
             for ((tier, q) in questions) {
                 val appropriateness = checkJuniorAppropriateness(q, classNum)
                 if (!appropriateness.isValid) {
