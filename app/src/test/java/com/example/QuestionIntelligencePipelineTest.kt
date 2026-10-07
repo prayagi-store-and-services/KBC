@@ -208,4 +208,19 @@ class QuestionIntelligencePipelineTest {
         assertEquals(1, parsed.size)
         assertEquals(3, parsed[0].correct)
     }
+
+    @Test
+    fun juniorByAgeGetsClassPoolNotAdult() {
+        val P = com.example.data.repository.PackRepository
+        // age 8, no student mode chosen: class-5 pool, never "general"
+        assertEquals("class-5", P.groupFor(UserProfile(age = 8, preparationDomain = "Logic", isStudentMode = false)))
+        assertEquals("class-8", P.groupFor(UserProfile(age = 12)))
+        assertEquals("class-10", P.groupFor(UserProfile(age = 15)))
+        assertEquals("class-12", P.groupFor(UserProfile(age = 17)))
+        // adults stay on adult pools
+        assertEquals("general", P.groupFor(UserProfile(age = 30, preparationDomain = "Logic")))
+        assertEquals("upsc", P.groupFor(UserProfile(age = 25, preparationDomain = "UPSC")))
+        // chosen class wins over age
+        assertEquals("class-8", P.groupFor(UserProfile(age = 14, isStudentMode = true, studentClass = "Class 7")))
+    }
 }
