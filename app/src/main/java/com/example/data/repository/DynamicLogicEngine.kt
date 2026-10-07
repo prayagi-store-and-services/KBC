@@ -1,5 +1,7 @@
 package com.example.data.repository
 
+import com.example.data.model.isJuniorPlayer
+import com.example.data.model.effectiveClassNumber
 import com.example.data.model.QuestionItem
 import com.example.data.model.UserProfile
 import java.util.UUID
@@ -341,7 +343,7 @@ object DynamicLogicEngine {
         currentSessionQuestions: Collection<QuestionItem>,
         salt: Int = Random.nextInt(1, 1000000)
     ): QuestionItem {
-        val isStudent = userProfile.preparationDomain.contains("Student", true) || userProfile.isStudentMode
+        val isStudent = userProfile.isJuniorPlayer()
         val studentAge = userProfile.age
 
         // Filter valid generators for this tier and user profile
