@@ -1,5 +1,7 @@
 package com.example.data.repository
 
+import com.example.data.model.isJuniorPlayer
+import com.example.data.model.effectiveClassNumber
 import android.content.Context
 import android.net.ConnectivityManager
 import android.net.NetworkCapabilities
@@ -402,7 +404,7 @@ class QuestionIntelligencePipeline(
         delay(20)
 
         // Register all generated questions in Room QuestionDao (Permanent Registry)
-        val isStudent = userProfile.preparationDomain.contains("Student", true) || userProfile.isStudentMode
+        val isStudent = userProfile.isJuniorPlayer()
         val registryEntities = candidateLadder.values.map { q ->
             val validLang = userProfile.languageMode.uppercase().let { if (it in listOf("HINDI", "ENGLISH", "BILINGUAL")) it else "ENGLISH" }
             val qFp = q.semanticFingerprint.trim().lowercase()
