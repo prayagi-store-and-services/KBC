@@ -1,5 +1,7 @@
 package com.example.data.repository
 
+import com.example.data.model.isJuniorPlayer
+import com.example.data.model.effectiveClassNumber
 import android.content.Context
 import com.example.data.model.QuestionItem
 import com.example.data.model.UserProfile
@@ -28,9 +30,8 @@ class PackRepository(private val context: Context) {
         /** Pure helpers (unit tested). */
         fun groupFor(profile: UserProfile): String {
             val domain = profile.preparationDomain
-            val isStudent = domain.contains("Student", true) || profile.isStudentMode
-            if (isStudent) {
-                val n = Regex("\\d+").find(profile.studentClass)?.value?.toIntOrNull() ?: 8
+            if (profile.isJuniorPlayer()) {
+                val n = profile.effectiveClassNumber()
                 return when {
                     n <= 5 -> "class-5"
                     n <= 8 -> "class-8"
@@ -164,7 +165,9 @@ class PackRepository(private val context: Context) {
         val group = groupFor(profile)
         refresh(group)
         var pool = loadPool(group)
-        if (group != "general") { refresh("general"); pool = pool + loadPool("general") }
+        // Adult "general" questions are never mixed into a junior (class-*) ladder.
+        if (group != "general" && !group.startsWith("class-")) { refresh("general"); pool = pool + loadPool("general") }
+        if (group.startsWith("class-") && pool.isEmpty()) return null
         val picked = pickLadder(pool, usedIds(), specialTagToday()) ?: return null
         rememberLadder(sessionId, picked.values.map { it.id })
         return picked.mapValues { (tier, q) -> toQuestionItem(tier, q, sessionId) }
