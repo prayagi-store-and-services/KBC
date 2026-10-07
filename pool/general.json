@@ -4590,5 +4590,341 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-07T13:28:19Z"
+ },
+ {
+  "id": "q_66a3e48700c1dfb8",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "How many players make up a standard playing team on the field in a game of cricket?",
+  "qHi": "क्रिकेट के खेल में मैदान पर एक मानक खेल टीम में कितने खिलाड़ी होते हैं?",
+  "optsEn": [
+   "9",
+   "10",
+   "11",
+   "12"
+  ],
+  "optsHi": [
+   "9",
+   "10",
+   "11",
+   "12"
+  ],
+  "correct": 2,
+  "explainEn": "A standard cricket team consists of 11 players on the field at a time.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:06:49Z"
+ },
+ {
+  "id": "q_3188f555c3d0522a",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas do plants primarily absorb from the atmosphere for photosynthesis?",
+  "qHi": "पौधे प्रकाश संश्लेषण के लिए वायुमंडल से मुख्य रूप से कौन सी गैस सोखते हैं?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Helium"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हीलीयम"
+  ],
+  "correct": 1,
+  "explainEn": "Plants use carbon dioxide, water, and sunlight to produce their food during photosynthesis.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:06:49Z"
+ },
+ {
+  "id": "q_ab37533111571cc8",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the currency of India?",
+  "qHi": "भारत की मुद्रा क्या है?",
+  "optsEn": [
+   "Dollar",
+   "Euro",
+   "Yen",
+   "Rupee"
+  ],
+  "optsHi": [
+   "डॉलर",
+   "यूरो",
+   "येन",
+   "रुपया"
+  ],
+  "correct": 3,
+  "explainEn": "The official currency of India is the Indian Rupee.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:06:49Z"
+ },
+ {
+  "id": "q_bde90979f36311c7",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which planet in our solar system has the highest number of officially recognized natural satellites as of recent astronomical data?",
+  "qHi": "हाल के खगोलीय डेटा के अनुसार हमारे सौर मंडल के किस ग्रह पर आधिकारिक तौर पर मान्यता प्राप्त प्राकृतिक उपग्रहों की संख्या सबसे अधिक है?",
+  "optsEn": [
+   "Jupiter",
+   "Saturn",
+   "Uranus",
+   "Neptune"
+  ],
+  "optsHi": [
+   "बृहस्पति",
+   "शनि",
+   "अरुण",
+   "वरुण"
+  ],
+  "correct": 1,
+  "explainEn": "Saturn surpasses other planets with over 140 officially recognized moons, verified by the International Astronomical Union.",
+  "sourceHint": "NASA Solar System Exploration",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:07:54Z"
+ },
+ {
+  "id": "q_b857170ac52642cd",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which classical dance form originated in the state of Kerala and is traditionally performed with elaborate facial makeup and vibrant costumes?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप केरल राज्य में उत्पन्न हुआ और पारंपरिक रूप से विस्तृत चेहरे की मेकअप और जीवंत वेशभूषा के साथ किया जाता है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Odissi",
+   "Kuchipudi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "ओडिसी",
+   "कुचिपुड़ी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is known for its distinctive storytelling, heavy makeup, and elaborate costumes rooted in the traditional theater of Kerala.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:07:54Z"
+ },
+ {
+  "id": "q_0cd5b97c7a36f7b0",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In computing, what does the acronym 'RAM' stand for?",
+  "qHi": "कंप्यूटिंग में, संक्षिप्त नाम 'RAM' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Read Access Memory",
+   "Random Access Memory",
+   "Run Active Module",
+   "Rapid Allocation Mechanism"
+  ],
+  "optsHi": [
+   "रीड एक्सेस मेमोरी",
+   "रैंडम एक्सेस मेमोरी",
+   "रन एक्टिव मॉड्यूल",
+   "रैपिड एलोकेशन मैकेनिज्म"
+  ],
+  "correct": 1,
+  "explainEn": "RAM is a form of computer data storage that stores data currently in use by the processor for quick access.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:07:54Z"
+ },
+ {
+  "id": "q_0d50660ac5ef4e6e",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following mountain ranges separates the Indian subcontinent from the Tibetan Plateau?",
+  "qHi": "निम्नलिखित में से कौन सी पर्वत श्रृंखला भारतीय उपमहाद्वीप को तिब्बती पठार से अलग करती है?",
+  "optsEn": [
+   "The Himalayas",
+   "The Western Ghats",
+   "The Vindhyas",
+   "The Aravallis"
+  ],
+  "optsHi": [
+   "हिमालय",
+   "पश्चिमी घाट",
+   "विंध्य",
+   "अरावली"
+  ],
+  "correct": 0,
+  "explainEn": "The Himalayan mountain range runs along the northern border of the Indian subcontinent, dividing it from the Tibetan Plateau.",
+  "sourceHint": "NCERT Geography Textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:07:54Z"
+ },
+ {
+  "id": "q_cbc9e9c813ba8d99",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who was the founder of the Satavahana dynasty, which ruled over parts of central and southern India?",
+  "qHi": "मध्य और दक्षिण भारत के कुछ हिस्सों पर शासन करने वाले सातवाहन वंश के संस्थापक कौन थे?",
+  "optsEn": [
+   "Simukha",
+   "Gautamiputra Satakarni",
+   "Hala",
+   "Vasisthiputra Pulumavi"
+  ],
+  "optsHi": [
+   "सिमुक",
+   "गौतमीपुत्र सातकर्णि",
+   "हाल",
+   "वाशिष्ठिपुत्र पुलुमावि"
+  ],
+  "correct": 0,
+  "explainEn": "Simukha is credited in historical Puranas as the founder of the Satavahana dynasty.",
+  "sourceHint": "NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:09:03Z"
+ },
+ {
+  "id": "q_badc84be6896a55e",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the chemical symbol for the element Tungsten, which is derived from its former name Wolfram?",
+  "qHi": "टंगस्टन तत्व का रासायनिक प्रतीक क्या है, जो इसके पूर्व नाम वोल्फ्राम से लिया गया है?",
+  "optsEn": [
+   "Ta",
+   "Tn",
+   "W",
+   "Wg"
+  ],
+  "optsHi": [
+   "Ta",
+   "Tn",
+   "W",
+   "Wg"
+  ],
+  "correct": 2,
+  "explainEn": "The chemical symbol for Tungsten is W, derived from wolframite, from which the metal was isolated.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:09:03Z"
+ },
+ {
+  "id": "q_ade304cf27e9f92a",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Indian Constitution, the Concurrent List was borrowed from the constitution of which country?",
+  "qHi": "भारतीय संविधान के तहत समवर्ती सूची किस देश के संविधान से ली गई थी?",
+  "optsEn": [
+   "United States",
+   "Australia",
+   "Canada",
+   "Ireland"
+  ],
+  "optsHi": [
+   "संयुक्त राज्य अमेरिका",
+   "ऑस्ट्रेलिया",
+   "कनाडा",
+   "आयरलैंड"
+  ],
+  "correct": 1,
+  "explainEn": "The provision of the Concurrent List in the Seventh Schedule of the Indian Constitution is borrowed from the Australian Constitution.",
+  "sourceHint": "Constitutional Assembly Debates / NCERT",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:09:03Z"
+ },
+ {
+  "id": "q_b59d8791b667c0a9",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form of India originated in the Vaishnavism monasteries known as Sattras?",
+  "qHi": "भारत की कौन सी शास्त्रीय नृत्य शैली 'सत्र' नामक वैष्णव मठों में उत्पन्न हुई थी?",
+  "optsEn": [
+   "Kathakali",
+   "Odissi",
+   "Sattriya",
+   "Manipuri"
+  ],
+  "optsHi": [
+   "कथकली",
+   "ओडिसी",
+   "सत्रिया",
+   "मणिपुरी"
+  ],
+  "correct": 2,
+  "explainEn": "Sattriya is a classical dance-drama performance art with origins in the Sattras established by the 15th-century saint Srimanta Sankardeva in Assam.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:09:03Z"
+ },
+ {
+  "id": "q_aee4f2746f80013e",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian banking, what does the abbreviation 'IFSC' stand for?",
+  "qHi": "भारतीय बैंकिंग के संदर्भ में, संक्षिप्त नाम 'IFSC' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Indian Financial System Code",
+   "Internal Fund Settlement Corporation",
+   "International Foreign Settlement Currency",
+   "Indian Fund Security Certificate"
+  ],
+  "optsHi": [
+   "इंडियन फाइनेंशियल सिस्टम कोड",
+   "इंटरनल फंड सेटलमेंट कॉर्पोरेशन",
+   "इंटरनेशनल फॉरेन सेटलमेंट करेंसी",
+   "इंडियन फंड सिक्योरिटी सर्टिफिकेट"
+  ],
+  "correct": 0,
+  "explainEn": "IFSC stands for Indian Financial System Code, an alphanumeric code that facilitates electronic funds transfer in India.",
+  "sourceHint": "Reserve Bank of India (RBI)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:09:03Z"
  }
 ]

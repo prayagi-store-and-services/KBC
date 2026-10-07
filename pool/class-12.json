@@ -5710,5 +5710,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-07T13:27:35Z"
+ },
+ {
+  "id": "q_f713d763454bf820",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gland in the human body is known as the master gland?",
+  "qHi": "मानव शरीर की किस ग्रंथि को मास्टर ग्रंथि कहा जाता है?",
+  "optsEn": [
+   "Thyroid gland",
+   "Pituitary gland",
+   "Adrenal gland",
+   "Pineal gland"
+  ],
+  "optsHi": [
+   "थायरॉयड ग्रंथि",
+   "पीयूष ग्रंथि",
+   "अधिवृक्क ग्रंथि",
+   "पीनियल ग्रंथि"
+  ],
+  "correct": 1,
+  "explainEn": "The pituitary gland secretes several hormones and regulates other endocrine glands, earning it the title of master gland.",
+  "sourceHint": "NCERT Class 11 Biology Chapter 22",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:07:08Z"
+ },
+ {
+  "id": "q_b28cc4dce91c014c",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the chemical formula of glucose?",
+  "qHi": "ग्लूकोज का रासायनिक सूत्र क्या है?",
+  "optsEn": [
+   "C6H12O6",
+   "C12H22O11",
+   "CH3COOH",
+   "C2H5OH"
+  ],
+  "optsHi": [
+   "C6H12O6",
+   "C12H22O11",
+   "CH3COOH",
+   "C2H5OH"
+  ],
+  "correct": 0,
+  "explainEn": "Glucose is a simple sugar with the molecular formula C6H12O6.",
+  "sourceHint": "NCERT Class 12 Chemistry Chapter 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:07:08Z"
+ },
+ {
+  "id": "q_58bd6e59c1607464",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which economic sector does agriculture primarily fall under?",
+  "qHi": "कृषि मुख्य रूप से किस आर्थिक क्षेत्र के अंतर्गत आती है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Quaternary sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "तृतीयक क्षेत्र",
+   "चतुर्धातुक क्षेत्र"
+  ],
+  "correct": 0,
+  "explainEn": "The primary sector includes agriculture, forestry, fishing, and mining, which involve extracting raw materials.",
+  "sourceHint": "NCERT Class 12 Geography Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:07:08Z"
+ },
+ {
+  "id": "q_2e23d809458357a6",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of macroeconomics, which of the following is considered a flow variable?",
+  "qHi": "समष्टि अर्थशास्त्र (मैक्रोइकॉनॉमिक्स) के संदर्भ में, निम्नलिखित में से किसे प्रवाह चर (फ्लो वेरिएबल) माना जाता है?",
+  "optsEn": [
+   "Wealth",
+   "Capital",
+   "Income",
+   "Foreign exchange reserves"
+  ],
+  "optsHi": [
+   "धन (वेल्थ)",
+   "पूंजी",
+   "आय",
+   "विदेशी मुद्रा भंडार"
+  ],
+  "correct": 2,
+  "explainEn": "Income is measured over a period of time, making it a flow variable, whereas wealth, capital, and reserves are stock variables measured at a point in time.",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:08:19Z"
+ },
+ {
+  "id": "q_40c8e1a23eee94f6",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which phenomenon demonstrates the particle nature of light by showing that photons can transfer momentum to electrons?",
+  "qHi": "कौन सी घटना यह दर्शाती है कि फोटॉन इलेक्ट्रॉनों को गति प्रदान कर सकते हैं, जिससे प्रकाश की कण प्रकृति सिद्ध होती है?",
+  "optsEn": [
+   "Interference",
+   "Diffraction",
+   "Compton effect",
+   "Polarization"
+  ],
+  "optsHi": [
+   "व्यतिकरण",
+   "विवर्तन",
+   "कॉम्प्टन प्रभाव",
+   "ध्रुवण"
+  ],
+  "correct": 2,
+  "explainEn": "The Compton effect involves the scattering of a photon by a charged particle, such as an electron, demonstrating that photons carry momentum like particles.",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:08:19Z"
+ },
+ {
+  "id": "q_489a043fb0fc01a1",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary product formed when primary alcohols are oxidized using mild oxidizing agents like PCC (Pyridinium chlorochromate)?",
+  "qHi": "जब प्राथमिक अल्कोहल को पाइरिडिनियम क्लोरोक्रोमेट (PCC) जैसे हल्के ऑक्सीकरण एजेंटों का उपयोग करके ऑक्सीकृत किया जाता है, तो बनने वाला मुख्य उत्पाद क्या है?",
+  "optsEn": [
+   "Carboxylic acid",
+   "Ketone",
+   "Aldehyde",
+   "Alkene"
+  ],
+  "optsHi": [
+   "कार्बोक्जिलिक एसिड",
+   "कीटोन",
+   "एल्डिहाइड",
+   "एल्कीन"
+  ],
+  "correct": 2,
+  "explainEn": "PCC is a mild oxidizing agent that stops the oxidation of primary alcohols at the aldehyde stage without converting them further to carboxylic acids.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:08:19Z"
+ },
+ {
+  "id": "q_1ffed9928d1d2a0f",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which international organization was established in 1995 as a successor to the General Agreement on Tariffs and Trade (GATT)?",
+  "qHi": "टैरिफ और व्यापार पर सामान्य समझौते (GATT) के उत्तराधिकारी के रूप में 1995 में किस अंतर्राष्ट्रीय संगठन की स्थापना की गई थी?",
+  "optsEn": [
+   "World Health Organization",
+   "World Trade Organization",
+   "International Monetary Fund",
+   "World Bank"
+  ],
+  "optsHi": [
+   "विश्व स्वास्थ्य संगठन",
+   "विश्व व्यापार संगठन",
+   "अंतर्राष्ट्रीय मुद्रा कोष",
+   "विश्व बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "The World Trade Organization (WTO) was officially born on January 1, 1995, under the Marrakesh Agreement, replacing GATT.",
+  "sourceHint": "NCERT Class 12 Political Science, Contemporary World Politics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:08:19Z"
  }
 ]

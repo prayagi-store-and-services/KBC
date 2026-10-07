@@ -5514,5 +5514,481 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-07T13:28:26Z"
+ },
+ {
+  "id": "q_33b71ea74fc4bfd7",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary natural source of water for the Earth's rivers and lakes?",
+  "qHi": "पृथ्वी की नदियों और झीलों के लिए पानी का प्राथमिक प्राकृतिक स्रोत क्या है?",
+  "optsEn": [
+   "Rainfall",
+   "Ocean tides",
+   "Groundwater pumping",
+   "Glacial melting only"
+  ],
+  "optsHi": [
+   "वर्षा",
+   "समुद्र का ज्वार",
+   "भूजल पंपिंग",
+   "केवल हिमनद पिघलना"
+  ],
+  "correct": 0,
+  "explainEn": "Rainfall is the main natural source of fresh water that fills rivers and lakes.",
+  "sourceHint": "NCERT Class 5 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:06:54Z"
+ },
+ {
+  "id": "q_73f1239e8ae5ebda",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which part of a plant typically grows underground and absorbs water and minerals?",
+  "qHi": "पौधे का कौन सा भाग आमतौर पर जमीन के नीचे बढ़ता है और water और minerals को अवशोषित करता है?",
+  "optsEn": [
+   "Stem",
+   "Leaf",
+   "Root",
+   "Flower"
+  ],
+  "optsHi": [
+   "ततना",
+   "पत्ती",
+   "जड़",
+   "फूल"
+  ],
+  "correct": 2,
+  "explainEn": "Roots grow underground to anchor the plant and absorb water and nutrients from the soil.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:06:54Z"
+ },
+ {
+  "id": "q_728834317ef0ff45",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following animals is primarily nocturnal, meaning it is active at night?",
+  "qHi": "निम्नलिखित में से कौन सा जानवर मुख्य रूप से निशाचर है, जिसका अर्थ है कि वह रात में सक्रिय रहता है?",
+  "optsEn": [
+   "Owl",
+   "Cow",
+   "Crow",
+   "Elephant"
+  ],
+  "optsHi": [
+   "उल्लू",
+   "गाय",
+   "कौवा",
+   "हाथी"
+  ],
+  "correct": 0,
+  "explainEn": "Owls are nocturnal birds that hunt and are active during the night.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:06:54Z"
+ },
+ {
+  "id": "q_2f198e63ff1ef58d",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which state of matter has a fixed shape and a fixed volume at room temperature?",
+  "qHi": "कमरे के तापमान पर पदार्थ की किस अवस्था का आकार और आयतन निश्चित होता है?",
+  "optsEn": [
+   "Solid",
+   "Liquid",
+   "Gas",
+   "Plasma"
+  ],
+  "optsHi": [
+   "ठोस",
+   "द्रव",
+   "गैस",
+   "प्लाज्मा"
+  ],
+  "correct": 0,
+  "explainEn": "Solids have a definite shape and a definite volume because their particles are tightly packed.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:06:54Z"
+ },
+ {
+  "id": "q_bda18b4802ce7a6c",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which sense organ in the human body is primarily responsible for detecting sound?",
+  "qHi": "मानव शरीर में कौन सा ज्ञानेन्द्रिय मुख्य रूप से ध्वनि का पता लगाने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Eye",
+   "Nose",
+   "Ear",
+   "Tongue"
+  ],
+  "optsHi": [
+   "आँख",
+   "नाक",
+   "कान",
+   "जीभ"
+  ],
+  "correct": 2,
+  "explainEn": "Ears are the sensory organs used for hearing and balance in humans.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:06:54Z"
+ },
+ {
+  "id": "q_8d676302cf9227b4",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which line of latitude passes almost through the middle of India?",
+  "qHi": "अक्षांश की कौन सी रेखा भारत के लगभग बीच से गुजरती है?",
+  "optsEn": [
+   "Equator",
+   "Tropic of Cancer",
+   "Tropic of Capricorn",
+   "Arctic Circle"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा",
+   "कर्क रेखा",
+   "मकर रेखा",
+   "आर्कटिक वृत्त"
+  ],
+  "correct": 1,
+  "explainEn": "The Tropic of Cancer (23°30' N) passes through the middle of India.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:08:00Z"
+ },
+ {
+  "id": "q_e1be4cb4ae335d4b",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary gas used by green plants to make food?",
+  "qHi": "हरे पौधों द्वारा भोजन बनाने के लिए उपयोग की जाने वाली मुख्य गैस कौन सी है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Plants take in carbon dioxide from the air to perform photosynthesis.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:08:00Z"
+ },
+ {
+  "id": "q_1c7bc4165a2bcf41",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these is a Kharif crop grown in the rainy season in India?",
+  "qHi": "इनमें से कौन सी भारत में वर्षा ऋतु में उगाई जाने वाली खरीफ फसल है?",
+  "optsEn": [
+   "Wheat",
+   "Barley",
+   "Rice",
+   "Gram"
+  ],
+  "optsHi": [
+   "गेहूं",
+   "जौ",
+   "चावल",
+   "चना"
+  ],
+  "correct": 2,
+  "explainEn": "Rice is a major Kharif crop that requires a lot of water and is grown during the monsoon.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:08:00Z"
+ },
+ {
+  "id": "q_33ffff725b32e8c2",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which layer of the atmosphere contains the ozone layer that protects us from harmful sun rays?",
+  "qHi": "वायुमंडल की किस परत में ओजोन परत होती है जो हमें सूर्य की हानिकारक किरणों से बचाती है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The stratosphere contains the ozone layer, which absorbs most of the Sun's ultraviolet radiation.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:08:00Z"
+ },
+ {
+  "id": "q_72bbb0fcacb078db",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What force pulls objects toward the center of the Earth?",
+  "qHi": "कौन सा बल वस्तुओं को पृथ्वी के केंद्र की ओर खींचता है?",
+  "optsEn": [
+   "Friction",
+   "Magnetic force",
+   "Gravitational force",
+   "Muscular force"
+  ],
+  "optsHi": [
+   "घर्षण बल",
+   "चुंबकीय बल",
+   "गुरुत्वाकर्षण बल",
+   "पेशीय बल"
+  ],
+  "correct": 2,
+  "explainEn": "Gravity is the force with which the Earth pulls all objects towards itself.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:08:00Z"
+ },
+ {
+  "id": "q_5ecf3a9177710f55",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organelle inside a plant cell contains the green pigment chlorophyll that is essential for photosynthesis?",
+  "qHi": "पौधे की कोशिका के किस अंगक में हरा वर्णक क्लोरोफिल होता है जो प्रकाश संश्लेषण के लिए आवश्यक है?",
+  "optsEn": [
+   "Mitochondria",
+   "Chloroplast",
+   "Vacuole",
+   "Ribosome"
+  ],
+  "optsHi": [
+   "माइटोकॉन्ड्रिया",
+   "क्लोरोप्लास्ट",
+   "रिक्तिका",
+   "राइबोसोम"
+  ],
+  "correct": 1,
+  "explainEn": "Chloroplasts are the plant cell organelles that contain chlorophyll and carry out photosynthesis.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:09:09Z"
+ },
+ {
+  "id": "q_5ce72a70aeb5b637",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional Indian stepwell in Gujarat, known for its intricate multi-story sculpture work, is depicted on the reverse side of the 100 Indian Rupee currency note?",
+  "qHi": "गुजरात की कौन सी पारंपरिक भारतीय बावड़ी (स्टेपवेल), जो अपनी जटिल बहुमिश्रित मूर्तिकला के लिए जानी जाती है, 100 रुपये के भारतीय करेंसी नोट के पिछले हिस्से पर दर्शाई गई है?",
+  "optsEn": [
+   "Rani ki Vav",
+   "Chand Baori",
+   "Agrasen ki Baoli",
+   "Adalaj Stepwell"
+  ],
+  "optsHi": [
+   "रानी की वाव",
+   "चांद बावड़ी",
+   "अग्रसेन की बावली",
+   "अडालाज स्टेपवेल"
+  ],
+  "correct": 0,
+  "explainEn": "Rani ki Vav in Patan, Gujarat, is featured on the 100 Rupee banknote.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:09:09Z"
+ },
+ {
+  "id": "q_2b2147c4a9bf1c12",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the Indian parliamentary system, what is the minimum age requirement prescribed by the Constitution for a person to become a member of the Rajya Sabha?",
+  "qHi": "भारतीय संसदीय प्रणाली के संदर्भ में, संविधान द्वारा किसी व्यक्ति को राज्यसभा का सदस्य बनने के लिए निर्धारित न्यूनतम आयु आवश्यकता क्या है?",
+  "optsEn": [
+   "18 years",
+   "21 years",
+   "25 years",
+   "30 years"
+  ],
+  "optsHi": [
+   "18 वर्ष",
+   "21 वर्ष",
+   "25 वर्ष",
+   "30 वर्ष"
+  ],
+  "correct": 3,
+  "explainEn": "Article 84 of the Constitution of India specifies that the minimum age for a Rajya Sabha member is 30 years.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:09:09Z"
+ },
+ {
+  "id": "q_c15c4b5b250239e0",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which physiological process allows green plants to release water vapor into the atmosphere through microscopic pores called stomata?",
+  "qHi": "कौन सी शारीरिक प्रक्रिया हरे पौधों को रंध्र नामक सूक्ष्म छिद्रों के माध्यम से वायुमंडल में जल वाष्प छोड़ने की अनुमति देती है?",
+  "optsEn": [
+   "Transpiration",
+   "Respiration",
+   "Germination",
+   "Condensation"
+  ],
+  "optsHi": [
+   "वाष्पोत्सर्जन",
+   "श्वसन",
+   "अंकुरण",
+   "संघनन"
+  ],
+  "correct": 0,
+  "explainEn": "Transpiration is the process of water movement through a plant and its evaporation from aerial parts, such as leaves.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:09:09Z"
+ },
+ {
+  "id": "q_78a4371e88e5076c",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In cartography, what do contour lines drawn on a geographical map specifically connect?",
+  "qHi": "मानचित्र कला में, भौगोलिक नक्शे पर खींची गई समोच्च रेखाएं (कंटूर लाइन्स) विशेष रूप से किसे जोड़ती हैं?",
+  "optsEn": [
+   "Places with equal rainfall",
+   "Places with equal temperature",
+   "Places with equal elevation above sea level",
+   "Places with equal population density"
+  ],
+  "optsHi": [
+   "समान वर्षा वाले स्थान",
+   "समान तापमान वाले स्थान",
+   "समुद्र तल से समान ऊंचाई वाले स्थान",
+   "समान जनसंख्या घनत्व वाले स्थान"
+  ],
+  "correct": 2,
+  "explainEn": "Contour lines on a map connect points of equal elevation above a given level, such as mean sea level.",
+  "sourceHint": "NCERT Class 5 Geography basics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:09:09Z"
+ },
+ {
+  "id": "q_018ec72d4a2ce7b3",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific vitamin is primarily synthesized in human skin when exposed to adequate ultraviolet rays from sunlight?",
+  "qHi": "सूरज की रोशनी से पर्याप्त पराबैंगनी किरणों के संपर्क में आने पर मानव त्वचा में मुख्य रूप से कौन सा विशिष्ट विटामिन संश्लेषित होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B12",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी12",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Vitamin D is produced in the skin when it is exposed to ultraviolet B (UVB) light from the sun.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:09:09Z"
+ },
+ {
+  "id": "q_cc40b471c1f98da0",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the Indian musical tradition, which note is considered the fundamental base note from which the octave begins?",
+  "qHi": "भारतीय संगीत परंपरा में, किस स्वर को मूल आधार स्वर माना जाता है जहाँ से सप्तक शुरू होता है?",
+  "optsEn": [
+   "Sa",
+   "Ga",
+   "Pa",
+   "Ni"
+  ],
+  "optsHi": [
+   "सा",
+   "ग",
+   "प",
+   "नि"
+  ],
+  "correct": 0,
+  "explainEn": "Sa (Shadja) is the foundational first note of the Indian classical sargam scale.",
+  "sourceHint": "NCERT Class 5 Arts Education",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:09:09Z"
  }
 ]

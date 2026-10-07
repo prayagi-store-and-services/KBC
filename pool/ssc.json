@@ -4058,5 +4058,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-07T13:27:47Z"
+ },
+ {
+  "id": "q_c336962fad0f0e7f",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Kaziranga National Park is famous for the conservation of which animal?",
+  "qHi": "काजीरंगा राष्ट्रीय उद्यान किस जानवर के संरक्षण के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Asian Elephant",
+   "One-horned Rhinoceros",
+   "Bengal Tiger",
+   "Asiatic Lion"
+  ],
+  "optsHi": [
+   "एशियाई हाथी",
+   "एकसिंगी गैंडा",
+   "बंगाल टाइगर",
+   "एशियाई शेर"
+  ],
+  "correct": 1,
+  "explainEn": "Kaziranga National Park in Assam is globally renowned for hosting two-thirds of the world's great Indian one-horned rhinoceroses.",
+  "sourceHint": "UNESCO World Heritage Centre",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:07:23Z"
+ },
+ {
+  "id": "q_20a7c9130f74c2ce",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "During the reign of which Delhi Sultan was the market control policy implemented?",
+  "qHi": "दिल्ली सल्तनत के किस शासक के शासनकाल में बाजार नियंत्रण नीति लागू की गई थी?",
+  "optsEn": [
+   "Iltutmish",
+   "Balban",
+   "Alauddin Khalji",
+   "Muhammad bin Tughluq"
+  ],
+  "optsHi": [
+   "इल्तुतमिश",
+   "बलबन",
+   "अलाउद्दीन खिलजी",
+   "मोहम्मद बिन तुगलक"
+  ],
+  "correct": 2,
+  "explainEn": "Alauddin Khalji introduced rigorous market control measures and price regulations to maintain a large standing army.",
+  "sourceHint": "NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:08:31Z"
+ },
+ {
+  "id": "q_651847cea06306cd",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary commercial source of energy in India?",
+  "qHi": "भारत में ऊर्जा का प्राथमिक व्यावसायिक स्रोत कौन सा है?",
+  "optsEn": [
+   "Coal",
+   "Natural Gas",
+   "Nuclear Energy",
+   "Hydropower"
+  ],
+  "optsHi": [
+   "कोयला",
+   "प्राकृतिक गैस",
+   "परमाणु ऊर्जा",
+   "जलविद्युत"
+  ],
+  "correct": 0,
+  "explainEn": "Coal remains the primary commercial energy source in India, meeting a major share of the country's power generation requirements.",
+  "sourceHint": "Ministry of Coal, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:08:31Z"
+ },
+ {
+  "id": "q_a296b283fcf6c7a7",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin deficiency causes the disease known as Beriberi?",
+  "qHi": "किस विटामिन की कमी के कारण बेरीबेरी रोग होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B1",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी1",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 1,
+  "explainEn": "Beriberi is a neurological and cardiovascular disorder caused by a deficiency of Vitamin B1, also known as thiamine.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:08:31Z"
+ },
+ {
+  "id": "q_87c4faec57a2f55d",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which year was the Reserve Bank of India nationalized?",
+  "qHi": "भारतीय रिजर्व बैंक का राष्ट्रीयकरण किस वर्ष किया गया था?",
+  "optsEn": [
+   "1935",
+   "1947",
+   "1949",
+   "1955"
+  ],
+  "optsHi": [
+   "1935",
+   "1947",
+   "1949",
+   "1955"
+  ],
+  "correct": 2,
+  "explainEn": "The Reserve Bank of India, established in 1935, was nationalized on January 1, 1949 under the Reserve Bank (Transfer of Public Ownership) Act, 1948.",
+  "sourceHint": "Reserve Bank of India official history",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:08:31Z"
+ },
+ {
+  "id": "q_cff1ebf4b4805113",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which winds are responsible for rainfall on the Coromandel Coast of India during the winter season?",
+  "qHi": "शीतकालीन मौसम में भारत के कोरोमंडल तट पर वर्षा के लिए कौन सी पवनें उत्तरदायी हैं?",
+  "optsEn": [
+   "South-West Monsoon",
+   "North-East Monsoon",
+   "South-East Trade Winds",
+   "Western Disturbances"
+  ],
+  "optsHi": [
+   "दक्षिण-पश्चिम मानसून",
+   "उत्तर-पूर्व मानसून",
+   "दक्षिण-पूर्व व्यापारिक पवनें",
+   "पश्चिमी विक्षोभ"
+  ],
+  "correct": 1,
+  "explainEn": "The North-East monsoon winds pick up moisture while blowing over the Bay of Bengal and bring rainfall to the Coromandel Coast (Tamil Nadu) during winter.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:08:31Z"
+ },
+ {
+  "id": "q_d485b97a628497a1",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who presided over the historic Lahore Session of the Indian National Congress in 1929?",
+  "qHi": "1929 में भारतीय राष्ट्रीय कांग्रेस के ऐतिहासिक लाहौर अधिवेशन की अध्यक्षता किसने की थी?",
+  "optsEn": [
+   "Mahatma Gandhi",
+   "Subhas Chandra Bose",
+   "Jawaharlal Nehru",
+   "Sardar Vallabhbhai Patel"
+  ],
+  "optsHi": [
+   "महात्मा गांधी",
+   "सुभाष चंद्र बोस",
+   "जवाहरलाल नेहरू",
+   "सरदार वल्लभभाई पटेल"
+  ],
+  "correct": 2,
+  "explainEn": "Jawaharlal Nehru presided over the 1929 Lahore session where the Purna Swaraj (complete independence) resolution was passed.",
+  "sourceHint": "NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:08:31Z"
  }
 ]

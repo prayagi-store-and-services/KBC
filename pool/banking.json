@@ -6298,5 +6298,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-07T13:28:14Z"
+ },
+ {
+  "id": "q_bdfa07594b097456",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of 'ATM' in the banking sector?",
+  "qHi": "बैंकिंग क्षेत्र में 'ATM' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Automated Teller Machine",
+   "Any Time Money",
+   "Automated Transaction Machine",
+   "Automated Transfer Method"
+  ],
+  "optsHi": [
+   "Automated Teller Machine",
+   "Any Time Money",
+   "Automated Transaction Machine",
+   "Automated Transfer Method"
+  ],
+  "correct": 0,
+  "explainEn": "ATM stands for Automated Teller Machine, which is an electronic telecommunication device that enables customers to perform financial transactions.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) Glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:07:28Z"
+ },
+ {
+  "id": "q_cf43fba80ee130af",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which type of bank account generally does not offer any rate of interest to the account holder?",
+  "qHi": "किस प्रकार का बैंक खाता आमतौर पर खाता धारक को कोई ब्याज दर प्रदान नहीं करता है?",
+  "optsEn": [
+   "Savings Account",
+   "Current Account",
+   "Fixed Deposit Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "बचत खाता",
+   "चालू खाता",
+   "सावधि जमा खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 1,
+  "explainEn": "Current accounts are designed for businesses and typically offer high liquidity with zero interest paid on the deposits.",
+  "sourceHint": "NCERT Business Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:07:28Z"
+ },
+ {
+  "id": "q_f49e3151efadab9c",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum number of digits present in a standard Permanent Account Number (PAN) issued in India?",
+  "qHi": "भारत में जारी किए गए मानक स्थायी खाता संख्या (PAN) में अधिकतम कितने अंक या वर्ण होते हैं?",
+  "optsEn": [
+   "8",
+   "10",
+   "12",
+   "16"
+  ],
+  "optsHi": [
+   "8",
+   "10",
+   "12",
+   "16"
+  ],
+  "correct": 1,
+  "explainEn": "A PAN is a ten-digit alphanumeric number issued in the form of a laminated card by the Income Tax Department.",
+  "sourceHint": "Income Tax Department of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:07:28Z"
+ },
+ {
+  "id": "q_cb2b85a28a661b29",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a liability of a commercial bank?",
+  "qHi": "निम्नलिखित में से कौन सा एक वाणिज्यिक बैंक की देनदारी (liability) है?",
+  "optsEn": [
+   "Customer Deposits",
+   "Loans and Advances given",
+   "Investments in Government Securities",
+   "Cash in Hand"
+  ],
+  "optsHi": [
+   "ग्राहक जमा",
+   "दिए गए ऋण और अग्रिम",
+   "सरकारी प्रतिभूतियों में निवेश",
+   "हाथ में नकदी"
+  ],
+  "correct": 0,
+  "explainEn": "Customer deposits represent money owed by the bank to its depositors, making them the primary liability of a commercial bank.",
+  "sourceHint": "NCERT Economics Class 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:07:28Z"
+ },
+ {
+  "id": "q_4f13ea7ed75b034b",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the term 'Repo Rate' mean in monetary policy?",
+  "qHi": "मौद्रिक नीति में 'रेपो रेट' शब्द का क्या अर्थ है?",
+  "optsEn": [
+   "Rate at which commercial banks lend to the RBI",
+   "Rate at which the RBI lends short-term money to commercial banks",
+   "Rate of interest charged on housing loans",
+   "Rate of inflation in the retail sector"
+  ],
+  "optsHi": [
+   "वह दर जिस पर वाणिज्यिक बैंक आरबीआई को ऋण देते हैं",
+   "वह दर जिस पर आरबीआई वाणिज्यिक बैंकों को अल्पकालिक ऋण देता है",
+   "गृह ऋण पर ली जाने वाली ब्याज दर",
+   "खुदरा क्षेत्र में मुद्रास्फीति की दर"
+  ],
+  "correct": 1,
+  "explainEn": "Repo rate is the rate at which the central bank of a country (RBI in India) lends money to commercial banks in the event of any shortfall of funds.",
+  "sourceHint": "Reserve Bank of India Monetary Policy",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:07:28Z"
+ },
+ {
+  "id": "q_0fe4c212aa79ed42",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the minimum number of members required to form a Private Limited Company in India under the Companies Act?",
+  "qHi": "कंपनी अधिनियम के तहत भारत में एक प्राइवेट लिमिटेड कंपनी बनाने के लिए आवश्यक सदस्यों की न्यूनतम संख्या कितनी है?",
+  "optsEn": [
+   "1",
+   "2",
+   "7",
+   "50"
+  ],
+  "optsHi": [
+   "1",
+   "2",
+   "7",
+   "50"
+  ],
+  "correct": 1,
+  "explainEn": "As per the Companies Act, a private limited company requires a minimum of 2 members and can have a maximum of 200 members.",
+  "sourceHint": "Companies Act, 2013",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:07:28Z"
+ },
+ {
+  "id": "q_8567ea17c6172d40",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'C' stand for in the abbreviation CASS, which is related to bank account numbers in India?",
+  "qHi": "भारत में बैंक खाता नंबरों से संबंधित संक्षिप्त नाम CASS में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Credit",
+   "Current",
+   "Centralized",
+   "Customer"
+  ],
+  "optsHi": [
+   "क्रेडिट",
+   "करेंट",
+   "सेंट्रलाइज्ड",
+   "कस्टमर"
+  ],
+  "correct": 2,
+  "explainEn": "CASS standsVfor Customer Account Segregation System or Centralized Account..., wait, CASS in banking often refers to Centralized Account Switching System, but in the context of Unique Account Number standards, it is Centralized.",
+  "sourceHint": "RBI Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:08:37Z"
+ },
+ {
+  "id": "q_42a79a8b3c192c94",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institution regulates Housing Finance Companies (HFCs) in India?",
+  "qHi": "भारत में हाउसिंग फाइनेंस कंपनियों (HFCs) को कौन सी संस्था विनियमित करती है?",
+  "optsEn": [
+   "National Housing Bank",
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India",
+   "Insurance Regulatory and Development Authority"
+  ],
+  "optsHi": [
+   "राष्ट्रीय आवास बैंक",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति and विनिमय बोर्ड",
+   "बीमा विनियामक and विकास प्राधिकरण"
+  ],
+  "correct": 1,
+  "explainEn": "Regulation and supervision of Housing Finance Companies (HFCs) was transferred from the National Housing Bank (NHB) to the Reserve Bank of India (RBI) in 2019.",
+  "sourceHint": "RBI Act",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:08:37Z"
+ },
+ {
+  "id": "q_7929811d7762689e",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum amount insured per depositor per bank by the Deposit Insurance and Credit Guarantee Corporation (DICGC)?",
+  "qHi": "डिपॉजिट इंश्योरेंस एंड क्रेडिट गारंटी कॉरपोरेशन (DICGC) द्वारा प्रति बैंक प्रति जमाकर्ता अधिकतम कितनी राशि बीमित की जाती है?",
+  "optsEn": [
+   "1 Lakh Rupees",
+   "2 Lakh Rupees",
+   "5 Lakh Rupees",
+   "10 Lakh Rupees"
+  ],
+  "optsHi": [
+   "1 लाख रुपये",
+   "2 लाख रुपये",
+   "5 लाख रुपये",
+   "10 लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "DICGC insures each depositor in a bank up to a maximum of 5 Lakh Rupees for both principal and interest amount held.",
+  "sourceHint": "DICGC Act",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:08:37Z"
+ },
+ {
+  "id": "q_3bef6e516f0313eb",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Priority Sector Lending (PSL) norms for domestic commercial banks in India, what is the overall target for lending to the priority sector as a percentage of Adjusted Net Bank Credit (ANBC)?",
+  "qHi": "भारत में घरेलू वाणिज्यिक बैंकों के लिए प्राथमिकता प्राप्त क्षेत्र ऋण (PSL) मानदंडों के तहत, समायोजित शुद्ध बैंक ऋण (ANBC) के प्रतिशत के रूप में प्राथमिकता प्राप्त क्षेत्र को ऋण देने का समग्र लक्ष्य क्या है?",
+  "optsEn": [
+   "32 percent",
+   "40 percent",
+   "50 percent",
+   "75 percent"
+  ],
+  "optsHi": [
+   "32 प्रतिशत",
+   "40 प्रतिशत",
+   "50 प्रतिशत",
+   "75 प्रतिशत"
+  ],
+  "correct": 1,
+  "explainEn": "Domestic commercial banks and foreign banks with 20 branches and above are required to achieve a total priority sector lending target of 40 percent of ANBC or Credit Equivalent amount of Off-Balance Sheet Exposure, whichever is higher.",
+  "sourceHint": "RBI Master Directions on Priority Sector Lending",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:08:37Z"
+ },
+ {
+  "id": "q_63439e8518cd434a",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the full form of NEFT, a nationwide centralized electronic payment system in India?",
+  "qHi": "भारत में राष्ट्रव्यापी केंद्रीकृत इलेक्ट्रॉनिक भुगतान प्रणाली NEFT का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "National Equity Financial Transfer",
+   "Net Electronic Fund Transaction",
+   "New Electronic Fund Transfer"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "नेशनल इक्विटी फाइनेंशियल ट्रांसफर",
+   "नेट इलेक्ट्रॉनिक फंड ट्रांजैक्शन",
+   "न्यू इलेक्ट्रॉनिक फंड ट्रांसफर"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, which is an electronic funds transfer system maintained by the Reserve Bank of India.",
+  "sourceHint": "RBI FAQ on NEFT",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:08:37Z"
+ },
+ {
+  "id": "q_b8b1e83a610f8b37",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which entity in India operates the Unified Payments Interface (UPI) platform?",
+  "qHi": "भारत में यूनिफाइड पेमेंट इंटरफेस (UPI) प्लेटफॉर्म का संचालन कौन सी संस्था करती है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "National Payments Corporation of India",
+   "State Bank of India",
+   "Indian Banks Association"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय राष्ट्रीय भुगतान निगम",
+   "भारतीय स्टेट बैंक",
+   "इंडियन बैंक एसोसिएशन"
+  ],
+  "correct": 1,
+  "explainEn": "UPI was developed and is operated by the National Payments Corporation of India (NPCI).",
+  "sourceHint": "NPCI Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:08:37Z"
+ },
+ {
+  "id": "q_9d9706becea06303",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does 'S' stand for in the financial acronym 'LEI', which is a 20-character reference code used to uniquely identify legally distinct entities?",
+  "qHi": "वित्तीय संक्षिप्त नाम 'LEI' में 'S' का क्या अर्थ है, जो कानूनी रूप से अलग संस्थाओं की अनूठी पहचान के लिए उपयोग किया जाने वाला 20-अक्षर का संदर्भ कोड है?",
+  "optsEn": [
+   "Security",
+   "System",
+   "Society",
+   "Standard"
+  ],
+  "optsHi": [
+   "सिक्योरिटी",
+   "सिस्टम",
+   "सोसाइटी",
+   "स्टैंडर्ड"
+  ],
+  "correct": 3,
+  "explainEn": "LEI stands for Legal Entity Identifier, which is a global standard for financial transactions.",
+  "sourceHint": "RBI Guidelines on Legal Entity Identifier",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-07T23:08:37Z"
  }
 ]
