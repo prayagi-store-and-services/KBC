@@ -1,5 +1,7 @@
 package com.example.data.repository
 
+import com.example.data.model.isJuniorPlayer
+import com.example.data.model.effectiveClassNumber
 import com.example.data.model.CurrentAffairItem
 import com.example.data.model.QuestionItem
 import com.example.data.model.UserProfile
@@ -198,7 +200,7 @@ object CurrentAffairsReasoningGenerator {
         availableAffairs: List<CurrentAffairItem> = emptyList()
     ): QuestionItem {
         val rand = Random(seed)
-        val isStudent = userProfile.preparationDomain.contains("Student", true) || userProfile.isStudentMode
+        val isStudent = userProfile.isJuniorPlayer()
         val userState = userProfile.state.ifBlank { "National" }
         val userCity = userProfile.city.ifBlank { "Local" }
 
