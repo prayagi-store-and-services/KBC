@@ -5990,5 +5990,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-07T23:09:09Z"
+ },
+ {
+  "id": "q_2fd3bf2d42463321",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these planets is known as the Red Planet?",
+  "qHi": "इनमें से किस ग्रह को लाल ग्रह के रूप में जाना जाता है?",
+  "optsEn": [
+   "Venus",
+   "Mars",
+   "Jupiter",
+   "Mercury"
+  ],
+  "optsHi": [
+   "शुक्र",
+   "मंगल",
+   "बृहस्पति",
+   "बुध"
+  ],
+  "correct": 1,
+  "explainEn": "Mars appears red because of iron oxide (rust) prevalent on its surface.",
+  "sourceHint": "NCERT Class 6 Science / General Astronomy",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:07:23Z"
+ },
+ {
+  "id": "q_a7a08edf03207cde",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which direction does the needle of a magnetic compass point towards?",
+  "qHi": "चुंबकीय कम्पास की सुई किस दिशा की ओर इशारा करती है?",
+  "optsEn": [
+   "East",
+   "West",
+   "North",
+   "South-East"
+  ],
+  "optsHi": [
+   "पूर्व",
+   "पश्चिम",
+   "उत्तर",
+   "दक्षिण-पूर्व"
+  ],
+  "correct": 2,
+  "explainEn": "A magnetic compass needle aligns with the Earth's magnetic field, pointing towards the magnetic North Pole.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:07:23Z"
+ },
+ {
+  "id": "q_2797a6204b686bed",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which season do we generally use woollen clothes in India?",
+  "qHi": "भारत में हम आमतौर पर किस ऋतु में ऊनी कपड़े पहनते हैं?",
+  "optsEn": [
+   "Summer",
+   "Monsoon",
+   "Winter",
+   "Spring"
+  ],
+  "optsHi": [
+   "ग्रीष्म ऋतु",
+   "वर्षा ऋतु",
+   "शीत ऋतु",
+   "वसन्त ऋतु"
+  ],
+  "correct": 2,
+  "explainEn": "Woollen clothes trap body heat and keep us warm during the cold winter season.",
+  "sourceHint": "NCERT Class 3-5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:07:23Z"
+ },
+ {
+  "id": "q_cb1563723086c404",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of plant is a rose bush usually classified as?",
+  "qHi": "गुलाब के पौधे को आमतौर पर किस श्रेणी में रखा जाता है?",
+  "optsEn": [
+   "Tree",
+   "Shrub",
+   "Herb",
+   "Climber"
+  ],
+  "optsHi": [
+   "पेड़",
+   "झाड़ी",
+   "शाक",
+   "आरोही"
+  ],
+  "correct": 1,
+  "explainEn": "A rose bush has multiple woody stems branching near the base, making it a shrub.",
+  "sourceHint": "NCERT Class 6 Science (Basic Plant Types)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:08:26Z"
+ },
+ {
+  "id": "q_2170c308f5ee88ca",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these animals is known to migrate thousands of kilometers across continents?",
+  "qHi": "इनमें से कौन सा जानवर महाद्वीपों के पार हजारों किलोमीटर की यात्रा के लिए जाना जाता है?",
+  "optsEn": [
+   "Earthworm",
+   "House gecko",
+   "Monarch butterfly",
+   "Garden snail"
+  ],
+  "optsHi": [
+   "केंचुआ",
+   "घरेलू छिपकली",
+   "मोनार्क तितली",
+   "बगीचे का घोंघा"
+  ],
+  "correct": 2,
+  "explainEn": "Monarch butterflies undertake a remarkable multi-generational migration across North America.",
+  "sourceHint": "NCERT Environmental Studies context",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:08:26Z"
+ },
+ {
+  "id": "q_a850c31e8c69a8d6",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary gas used by green plants to prepare their food?",
+  "qHi": "हरे पौधों द्वारा अपना भोजन तैयार करने के लिए मुख्य रूप से किस गैस का उपयोग किया जाता है?",
+  "optsEn": [
+   "Oxygen",
+   "Nitrogen",
+   "Carbon dioxide",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "कार्बन डाइऑक्साइड",
+   "हाइड्रोजन"
+  ],
+  "correct": 2,
+  "explainEn": "Plants take in carbon dioxide from the air during photosynthesis to produce food.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:08:26Z"
+ },
+ {
+  "id": "q_cfcd7a62bbf4cc38",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian water harvesting system uses a stepwell structure?",
+  "qHi": "पारंपरिक भारतीय जल संचयन प्रणाली में से किसमें सीढ़ीदार कुएं (बावड़ी) की संरचना का उपयोग किया जाता है?",
+  "optsEn": [
+   "Baoli",
+   "Dam",
+   "Tube well",
+   "Hand pump"
+  ],
+  "optsHi": [
+   "बावड़ी",
+   "बांध",
+   "ट्यूबवेल",
+   "हैंड पंप"
+  ],
+  "correct": 0,
+  "explainEn": "Baolis are traditional stepwells built in India for water storage and harvesting.",
+  "sourceHint": "NCERT Class 5 EVS Chapter A Shelter so High / When the Earth Shook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:08:26Z"
+ },
+ {
+  "id": "q_038aad5212d1ced5",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the name of the natural satellite of the Earth?",
+  "qHi": "पृथ्वी के प्राकृतिक उपग्रह का क्या नाम है?",
+  "optsEn": [
+   "Titan",
+   "Moon",
+   "Europa",
+   "Phobos"
+  ],
+  "optsHi": [
+   "टाइटन",
+   "चंद्रमा",
+   "यूरोपा",
+   "फोबोस"
+  ],
+  "correct": 1,
+  "explainEn": "The Moon is Earth's only natural satellite.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:08:26Z"
  }
 ]

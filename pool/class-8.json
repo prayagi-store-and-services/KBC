@@ -3974,5 +3974,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-07T23:09:17Z"
+ },
+ {
+  "id": "q_1a783dfc7508ea5b",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who was appointed as the Commander-in-Chief of the British forces during the Revolt of 1857 in India?",
+  "qHi": "भारत में 1857 के विद्रोह के दौरान ब्रिटिश सेना का कमांडर-इन-चीफ किसे नियुक्त किया गया था?",
+  "optsEn": [
+   "Lord Dalhousie",
+   "Colin Campbell",
+   "Lord Canning",
+   "Warren Hastings"
+  ],
+  "optsHi": [
+   "लॉर्ड डलहौजी",
+   "कोलिन कैंपबेल",
+   "लॉर्ड कैनिंग",
+   "वारेन हेस्टिंग्स"
+  ],
+  "correct": 1,
+  "explainEn": "Sir Colin Campbell was appointed as the Commander-in-Chief of the forces in India during the later stages of the 1857 revolt.",
+  "sourceHint": "NCERT Class 8 History, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:07:29Z"
+ },
+ {
+  "id": "q_6eb873da914f360e",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of force is friction, which always opposes the motion of objects?",
+  "qHi": "घर्षण किस प्रकार का बल है, जो हमेशा वस्तुओं की गति का विरोध करता है?",
+  "optsEn": [
+   "Non-contact force",
+   "Magnetic force",
+   "Contact force",
+   "Electrostatic force"
+  ],
+  "optsHi": [
+   "असम्पर्क बल",
+   "चुंबकीय बल",
+   "संपर्क बल",
+   "स्थिरवैद्युत बल"
+  ],
+  "correct": 2,
+  "explainEn": "Friction is a contact force that comes into play when two surfaces are in physical contact with each other.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:07:29Z"
+ },
+ {
+  "id": "q_a8536c951d2223b0",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following cash crops was widely forced upon peasants in Bengal by British planters during the 19th century?",
+  "qHi": "19वीं शताब्दी के दौरान ब्रिटिश बागान मालिकों द्वारा बंगाल में किसानों पर निम्नलिखित में से किस नकदी फसल को बड़े पैमाने पर जबरन उगाया गया था?",
+  "optsEn": [
+   "Wheat",
+   "Indigo",
+   "Cotton",
+   "Sugarcane"
+  ],
+  "optsHi": [
+   "गेहूं",
+   "नील (इंडिगो)",
+   "कपास",
+   "गन्ना"
+  ],
+  "correct": 1,
+  "explainEn": "British planters forced peasants in Bengal and Bihar to grow indigo, leading to the Blue Rebellion of 1859.",
+  "sourceHint": "NCERT Class 8 History, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:07:29Z"
+ },
+ {
+  "id": "q_5cb59f5057f583cf",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian agriculture, which of the following is typically sown during the rabi season?",
+  "qHi": "भारतीय कृषि के संदर्भ में, निम्नलिखित में से आमतौर पर रबी के मौसम में किसकी बुवाई की जाती है?",
+  "optsEn": [
+   "Paddy",
+   "Maize",
+   "Mustard",
+   "Soybean"
+  ],
+  "optsHi": [
+   "धान",
+   "मक्का",
+   "सरसों",
+   "सोयाबीन"
+  ],
+  "correct": 2,
+  "explainEn": "Rabi crops are grown in the winter season from October to March. Mustard is a typical rabi crop, whereas paddy, maize, and soybean are kharif crops.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 1: Crop Production and Management",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:08:32Z"
+ },
+ {
+  "id": "q_e3b1bf994cd9ae30",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During cellular respiration in organisms, which molecule is broken down to release energy in the cells?",
+  "qHi": "जीवों में कोशिकीय श्वसन के दौरान, कोशिकाओं में ऊर्जा छोड़ने के लिए किस अणु को तोड़ा जाता है?",
+  "optsEn": [
+   "Glucose",
+   "Cellulose",
+   "Starch",
+   "Glycogen"
+  ],
+  "optsHi": [
+   "ग्लूकोज",
+   "सेल्यूलोज",
+   "स्टार्च",
+   "ग्लाइकोजन"
+  ],
+  "correct": 0,
+  "explainEn": "During respiration, the breakdown of glucose occurs in the cells of organisms to release energy.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 10: Respiration in Organisms",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:08:32Z"
+ },
+ {
+  "id": "q_88f937e9c7df9379",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following planets in our solar system has no moons of its own?",
+  "qHi": "हमारे सौरमंडल में निम्नलिखित में से किस ग्रह का अपना कोई उपद्रह (चंद्रमा) नहीं है?",
+  "optsEn": [
+   "Mars",
+   "Neptune",
+   "Venus",
+   "Saturn"
+  ],
+  "optsHi": [
+   "मंगल",
+   "नेपच्यून",
+   "शुक्र",
+   "शनि"
+  ],
+  "correct": 2,
+  "explainEn": "Mercury and Venus are the only two planets in our solar system that do not have any natural satellites (moons).",
+  "sourceHint": "NCERT Class 8 Science, Chapter 17: Stars and the Solar System",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:08:32Z"
+ },
+ {
+  "id": "q_9953aacdb88849cf",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following categories of forests is considered most valuable for the conservation of forest and wildlife resources, as per the classification in Indian geography and civics?",
+  "qHi": "भारतीय भूगोल और नागरिक शास्त्र के वर्गीकरण के अनुसार, निम्नलिखित में से वनों की किस श्रेणी को वन और वन्यजीव संसाधनों के संरक्षण के लिए सबसे अधिक मूल्यवान माना जाता है?",
+  "optsEn": [
+   "Reserved Forests",
+   "Protected Forests",
+   "Unclassed Forests",
+   "Village Forests"
+  ],
+  "optsHi": [
+   "आरक्षित वन",
+   "संरक्षित वन",
+   "अवर्गीकृत वन",
+   "ग्राम वन"
+  ],
+  "correct": 0,
+  "explainEn": "Reserved forests are regarded as the most valuable as far as the conservation of forest and wildlife resources are concerned.",
+  "sourceHint": "NCERT Class 8 / Geography references on Land, Soil, Water, Natural Vegetation and Wildlife",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:08:32Z"
+ },
+ {
+  "id": "q_7c8439acd9887338",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the Indian Parliament, what is the minimum proportion of the total membership required to constitute a quorum for holding a meeting of either House?",
+  "qHi": "भारतीय संसद में, दोनों सदनों में से किसी की भी बैठक आयोजित करने के लिए कोरम (गणपूर्ति) पूरा करने हेतु कुल सदस्यता का न्यूनतम अनुपात कितना आवश्यक है?",
+  "optsEn": [
+   "One-fourth",
+   "One-tenth",
+   "One-third",
+   "One-half"
+  ],
+  "optsHi": [
+   "एक-चौथाई",
+   "एक-दसवां",
+   "एक-तिहाई",
+   "एक-आधा"
+  ],
+  "correct": 1,
+  "explainEn": "The quorum to constitute a meeting of either House of Parliament is one-tenth of the total members of that House.",
+  "sourceHint": "Constitution of India, Article 100",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:08:32Z"
+ },
+ {
+  "id": "q_60c53d0b0166dd08",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following refers to the mass movement of rock, debris, or earth down a slope, often triggered by earthquakes or prolonged rainfall?",
+  "qHi": "निम्नलिखित में से किसे किसी ढलान पर चट्टान, मलबे या मिट्टी की भारी गति कहा जाता है, जो अक्सर भूकंप या लंबी बारिश के कारण होती है?",
+  "optsEn": [
+   "Weathering",
+   "Landslide",
+   "Denudation",
+   "Erosion"
+  ],
+  "optsHi": [
+   "अपक्षय",
+   "भूस्खलन",
+   "अनाच्छादन",
+   "कटाव"
+  ],
+  "correct": 1,
+  "explainEn": "Landslides are simply defined as the mass movement of rock, debris or earth down a slope.",
+  "sourceHint": "NCERT Class 8 Geography, Chapter 2: Land, Soil, Water, Natural Vegetation and Wildlife Resources",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:08:32Z"
  }
 ]

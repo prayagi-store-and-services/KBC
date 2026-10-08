@@ -4254,5 +4254,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-07T23:08:31Z"
+ },
+ {
+  "id": "q_4d4b7b5815716a5f",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is known as the chemical formula for water?",
+  "qHi": "निम्नलिखित में से किसे पानी के रासायनिक सूत्र के रूप में जाना जाता है?",
+  "optsEn": [
+   "CO2",
+   "H2O",
+   "NaCl",
+   "O2"
+  ],
+  "optsHi": [
+   "सीओ2",
+   "एच2ओ",
+   "एनएसीएल",
+   "ओ2"
+  ],
+  "correct": 1,
+  "explainEn": "Water is a chemical compound consisting of two hydrogen atoms bonded to one oxygen atom, represented as H2O.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:06:58Z"
+ },
+ {
+  "id": "q_583d6b485da0e789",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Vitamin C is also known by which of the following chemical names?",
+  "qHi": "विटामिन सी को निम्नलिखित में से किस रासायनिक नाम से भी जाना जाता है?",
+  "optsEn": [
+   "Retinol",
+   "Thiamine",
+   "Ascorbic Acid",
+   "Tocopherol"
+  ],
+  "optsHi": [
+   "रेटीनोल",
+   "थियामिन",
+   "एस्कॉर्बिक एसिड",
+   "टोकोफेरॉल"
+  ],
+  "correct": 2,
+  "explainEn": "Vitamin C is a water-soluble vitamin also known scientifically as ascorbic acid.",
+  "sourceHint": "NCERT Biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:06:58Z"
+ },
+ {
+  "id": "q_fb82c11662199f5e",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following atmospheric layers contains the ozone layer that absorbs harmful ultraviolet rays?",
+  "qHi": "निम्नलिखित में से किस वायुमंडलीय परत में ओजोन परत पाई जाती है जो हानिकारक पराबैंगनी किरणों को अवशोषित करती है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समतापमंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The stratosphere contains the ozone layer, which absorbs most of the Sun's ultraviolet radiation.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:07:52Z"
+ },
+ {
+  "id": "q_e3727f6db11bfc59",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which amendment of the Constitution added Fundamental Duties to the Indian Constitution?",
+  "qHi": "संविधान के किस संशोधन द्वारा भारतीय संविधान में मौलिक कर्तव्यों को जोड़ा गया था?",
+  "optsEn": [
+   "42nd Amendment",
+   "44th Amendment",
+   "86th Amendment",
+   "73rd Amendment"
+  ],
+  "optsHi": [
+   "42वां संशोधन",
+   "44वां संशोधन",
+   "86वां संशोधन",
+   "73वां संशोधन"
+  ],
+  "correct": 0,
+  "explainEn": "The Fundamental Duties were added to the Constitution of India by the 42nd Constitutional Amendment Act of 1976 on the recommendation of the Swaran Singh Committee.",
+  "sourceHint": "Indian Polity by M. Laxmikanth",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:07:52Z"
+ },
+ {
+  "id": "q_b41c9b9087b818f4",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which plateau is located between the Aravali and Vindhya ranges?",
+  "qHi": "अरावली और विंध्य श्रेणियों के बीच कौन सा पठार स्थित है?",
+  "optsEn": [
+   "Chota Nagpur Plateau",
+   "Malwa Plateau",
+   "Deccan Plateau",
+   "Ladakh Plateau"
+  ],
+  "optsHi": [
+   "छोटा नागपुर पठार",
+   "मालवा पठार",
+   "दक्कन का पठार",
+   "लद्दाख पठार"
+  ],
+  "correct": 1,
+  "explainEn": "The Malwa Plateau is bounded by the Central Highlands in the north, the Aravali Range in the west, and the Vindhya Range in the south.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:07:52Z"
  }
 ]

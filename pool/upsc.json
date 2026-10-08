@@ -5234,5 +5234,453 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-07T23:08:26Z"
+ },
+ {
+  "id": "q_bdb7ac2c3690fc09",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which national park in India is famous as the last home of the Asiatic lion?",
+  "qHi": "भारत का कौन सा राष्ट्रीय उद्यान एशियाई शेर के अंतिम घर के रूप में प्रसिद्ध है?",
+  "optsEn": [
+   "Jim Corbett National Park",
+   "Kaziranga National Park",
+   "Gir National Park",
+   "Sundarbans National Park"
+  ],
+  "optsHi": [
+   "जिम कॉर्बेट राष्ट्रीय उद्यान",
+   "काजीरंगा राष्ट्रीय उद्यान",
+   "गीर राष्ट्रीय उद्यान",
+   "सुंदरबन राष्ट्रीय उद्यान"
+  ],
+  "correct": 2,
+  "explainEn": "Gir National Park and Wildlife Sanctuary in Gujarat is the only natural habitat of the Asiatic lion.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change, India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:06:49Z"
+ },
+ {
+  "id": "q_d6c356cc6d2fbc94",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "The Ajanta Caves are located in which state of India?",
+  "qHi": "अजंता की गुफाएं भारत के किस राज्य में स्थित हैं?",
+  "optsEn": [
+   "Maharashtra",
+   "Madhya Pradesh",
+   "Karnataka",
+   "Odisha"
+  ],
+  "optsHi": [
+   "महाराष्ट्र",
+   "मध्य प्रदेश",
+   "कर्नाटक",
+   "ओडिशा"
+  ],
+  "correct": 0,
+  "explainEn": "The Ajanta Caves are approximately 30 rock-cut Buddhist cave monuments dating from the 2nd century BCE to about 480 CE in Aurangabad district (now Chhatrapati Sambhajinagar) of Maharashtra.",
+  "sourceHint": "Archaeological Survey of India (ASI)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:06:49Z"
+ },
+ {
+  "id": "q_e1a421a9695115ad",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following bodies compiles and publishes the Index of Industrial Production (IIP) in India?",
+  "qHi": "भारत में निम्नलिखित में से कौन सा निकाय औद्योगिक उत्पादन सूचकांक (IIP) संकलित और प्रकाशित करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "National Statistical Office",
+   "NITI Aayog",
+   "SEBI"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "राष्ट्रीय सांख्यिकी कार्यालय",
+   "नीति आयोग",
+   "सेबी"
+  ],
+  "correct": 1,
+  "explainEn": "The National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation compiles and publishes the Index of Industrial Production (IIP) monthly.",
+  "sourceHint": "Ministry of Statistics and Programme Implementation, India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:06:49Z"
+ },
+ {
+  "id": "q_efc6e3df7cfc86c8",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which fundamental right cannot be suspended even during a National Emergency?",
+  "qHi": "राष्ट्रीय आपातकाल के दौरान भी किस मूल अधिकार को निलंबित नहीं किया जा सकता है?",
+  "optsEn": [
+   "Article 14 and Article 19",
+   "Article 19 and Article 20",
+   "Article 20 and Article 21",
+   "Article 21 and Article 22"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14 और अनुच्छेद 19",
+   "अनुच्छेद 19 और अनुच्छेद 20",
+   "अनुच्छेद 20 और अनुच्छेद 21",
+   "अनुच्छेद 21 और अनुच्छेद 22"
+  ],
+  "correct": 2,
+  "explainEn": "By the 44th Amendment Act, the rights guaranteed under Article 20 (protection in respect of conviction for offenses) and Article 21 (protection of life and personal liberty) cannot be suspended even during a National Emergency.",
+  "sourceHint": "Constitution of India, Article 359",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:06:49Z"
+ },
+ {
+  "id": "q_b62fbed8be608f7c",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following biochemical cycles does not have a gaseous phase in the atmosphere?",
+  "qHi": "निम्नलिखित में से किस जैव-भू-रासायनिक चक्र का वायुमंडल में गैसीय चरण नहीं होता है?",
+  "optsEn": [
+   "Nitrogen cycle",
+   "Carbon cycle",
+   "Phosphorus cycle",
+   "Water cycle"
+  ],
+  "optsHi": [
+   "नाइट्रोजन चक्र",
+   "कार्बन चक्र",
+   "फास्फोरस चक्र",
+   "जल चक्र"
+  ],
+  "correct": 2,
+  "explainEn": "Phosphorus is a sedimentary biogeochemical cycle that does not have a significant gaseous phase in the atmosphere.",
+  "sourceHint": "NCERT Class XII Biology, Chapter 14 - Ecosystem",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:07:47Z"
+ },
+ {
+  "id": "q_31f1ed791791a388",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The Ajanta caves are primarily excavated into which of the following rock formations?",
+  "qHi": "अजंता की गुफाएं मुख्य रूप से निम्नलिखित में से किस चट्टान संरचना को काटकर बनाई गई हैं?",
+  "optsEn": [
+   "Granite",
+   "Sandstone",
+   "Basalt",
+   "Marble"
+  ],
+  "optsHi": [
+   "ग्रेनाइट",
+   "बलुआ पत्थर",
+   "बेसाल्ट",
+   "संगमरमर"
+  ],
+  "correct": 2,
+  "explainEn": "The Ajanta caves comprise rock-cut monuments carved into the vertical face of a basaltic cliff in the Sahyadri ranges.",
+  "sourceHint": "NCERT Class XI Fine Arts, Indian Art through the Ages",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:07:47Z"
+ },
+ {
+  "id": "q_9607d46a7ceb6613",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which constitutional amendment restricted the total number of ministers, including the Prime Minister, in the Council of Ministers to 15 percent of the total strength of the Lok Sabha?",
+  "qHi": "किस संविधान संशोधन ने मंत्रिपरिषद में प्रधानमंत्री सहित मंत्रियों की कुल संख्या को लोकसभा की कुल संख्या के 15 प्रतिशत तक सीमित कर दिया?",
+  "optsEn": [
+   "42nd Amendment Act",
+   "44th Amendment Act",
+   "86th Amendment Act",
+   "91st Amendment Act"
+  ],
+  "optsHi": [
+   "42वां संविधान संशोधन अधिनियम",
+   "44वां संविधान संशोधन अधिनियम",
+   "86वां संविधान संशोधन अधिनियम",
+   "91वां संविधान संशोधन अधिनियम"
+  ],
+  "correct": 3,
+  "explainEn": "The 91st Constitutional Amendment Act of 2003 added a provision to Article 75 restricting the size of the Council of Ministers.",
+  "sourceHint": "Constitution of India, Article 75",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:07:47Z"
+ },
+ {
+  "id": "q_e05eba693a889a69",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The 'Daspura' and 'Aihole' inscriptions are primarily important for providing historical information about which dynasty?",
+  "qHi": "'दशपुर' और 'ऐहोल' अभिलेख मुख्य रूप से किस राजवंश के बारे में ऐतिहासिक जानकारी प्रदान करने के लिए महत्वपूर्ण हैं?",
+  "optsEn": [
+   "Mauryan Dynasty",
+   "Gupta Dynasty",
+   "Satavahana Dynasty",
+   "Chola Dynasty"
+  ],
+  "optsHi": [
+   "मौर्य वंश",
+   "गुप्त वंश",
+   "सातवाहन वंश",
+   "चोल वंश"
+  ],
+  "correct": 1,
+  "explainEn": "The Aihole inscription provides details about Pulakeshin II, but the Daspura inscription (Mandsaur inscription) provides significant details related to the Gupta era and guild activities.",
+  "sourceHint": "NCERT Class XI History, Themes in Indian History Part I",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:07:47Z"
+ },
+ {
+  "id": "q_aa6c08a66a397d92",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of Indian monetary policy, which of the following institutions is legally mandated to determine the policy rate required to achieve the inflation target?",
+  "qHi": "भारतीय मौद्रिक नीति के संदर्भ में, मुद्रास्फीति लक्ष्य को प्राप्त करने के लिए आवश्यक नीतिगत दर निर्धारित करने का विधिक अधिकार निम्नलिखित में से किस संस्था को प्राप्त है?",
+  "optsEn": [
+   "NITI Aayog",
+   "Monetary Policy Committee",
+   "Ministry of Finance",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "नीति आयोग",
+   "मौद्रिक नीति समिति",
+   "वित्त मंत्रालय",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड"
+  ],
+  "correct": 1,
+  "explainEn": "Under Section 45ZB of the Reserve Bank of India Act, 1934, the Central Government is empowered to constitute a six-member Monetary Policy Committee (MPC) to determine the policy interest rate.",
+  "sourceHint": "RBI Act, 1934 and Economic Survey",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:07:47Z"
+ },
+ {
+  "id": "q_c1c1440f830abf26",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The 'Nokrek Biosphere Reserve' is located in which of the following hill ranges?",
+  "qHi": "'नोकरेक बायोस्फीयर रिजर्व' निम्नलिखित में से किस पहाड़ी श्रृंखला में स्थित है?",
+  "optsEn": [
+   "Khasi Hills",
+   "Jaintia Hills",
+   "Garo Hills",
+   "Mizo Hills"
+  ],
+  "optsHi": [
+   "खासी पहाड़ियाँ",
+   "जयंतिया पहाड़ियाँ",
+   "गारो पहाड़ियाँ",
+   "मिज़ो पहाड़ियाँ"
+  ],
+  "correct": 2,
+  "explainEn": "Nokrek National Park and Biosphere Reserve is located in the Garo Hills district of Meghalaya.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change, Biosphere Reserves in India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:07:47Z"
+ },
+ {
+  "id": "q_9117cddec9e4e347",
+  "group": "upsc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following scheduled languages of the Eighth Schedule of the Constitution of India was added last chronologically?",
+  "qHi": "भारत के संविधान की आठवीं अनुसूची की निम्नलिखित में से किस अनुसूचित भाषा को कालानुक्रमिक रूप से सबसे अंत में जोड़ा गया था?",
+  "optsEn": [
+   "Bodo",
+   "Manipuri",
+   "Konkani",
+   "Santhali"
+  ],
+  "optsHi": [
+   "बोडो",
+   "मणिपुरी",
+   "कोंकणी",
+   "संथाली"
+  ],
+  "correct": 3,
+  "explainEn": "Santhali was added by the 92nd Constitutional Amendment Act of 2003, along with Bodo, Maithili, and Dogri.",
+  "sourceHint": "Constitution of India, Eighth Schedule",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:08:51Z"
+ },
+ {
+  "id": "q_6fb98aa7bfb2f966",
+  "group": "upsc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "The 'Niska' was initially used as a medium of exchange in the Vedic period, but in later centuries it evolved into which of the following?",
+  "qHi": "वैदिक काल में 'निष्क' का उपयोग शुरू में विनिमय के माध्यम के रूप में किया जाता था, लेकिन बाद की सदियों में यह निम्नलिखित में से किस रूप में विकसित हुआ?",
+  "optsEn": [
+   "A copper coin",
+   "A gold coin",
+   "A land measurement unit",
+   "A tax on agricultural produce"
+  ],
+  "optsHi": [
+   "एक तांबे का सिक्का",
+   "एक स्वर्ण सिक्का",
+   "एक भूमि मापन इकाई",
+   "कृषि उपज पर कर"
+  ],
+  "correct": 1,
+  "explainEn": "In the early Vedic period, Niska was a gold ornament, but in later Vedic and post-Vedic times, it evolved into a standardized gold coin.",
+  "sourceHint": "Ancient Indian History by R.S. Sharma",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:08:51Z"
+ },
+ {
+  "id": "q_fd6995472821aa05",
+  "group": "upsc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which article of the Constitution of India provides the Parliament the power to legislate on any subject enumerated in the State List for national interest, provided a resolution is passed by the Rajya Sabha?",
+  "qHi": "भारत के संविधान का कौन सा अनुच्छेद संसद को राष्ट्रीय हित के लिए राज्य सूची में列त किसी भी विषय पर कानून बनाने की शक्ति प्रदान करता है, बशर्ते राज्यसभा द्वारा एक प्रस्ताव पारित किया जाए?",
+  "optsEn": [
+   "Article 249",
+   "Article 252",
+   "Article 253",
+   "Article 254"
+  ],
+  "optsHi": [
+   "अनुच्छेद 249",
+   "अनुच्छेद 252",
+   "अनुच्छेद 253",
+   "अनुच्छेद 254"
+  ],
+  "correct": 0,
+  "explainEn": "Article 249 empowers Parliament to legislate on State List matters if the Rajya Sabha passes a resolution supported by not less than two-thirds of the members present and voting.",
+  "sourceHint": "Constitution of India, Part XI",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:08:51Z"
+ },
+ {
+  "id": "q_933f4331023c2c58",
+  "group": "upsc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "The 'Kampa rebellion' (1922-1924), often studied in modern Indian history, took place primarily against the exploitation of tribals in which region?",
+  "qHi": "आधुनिक भारतीय इतिहास में अक्सर अध्ययन किया जाने वाला 'कंपा विद्रोह' (1922-1924) मुख्य रूप से किस क्षेत्र में आदिवासियों के शोषण के खिलाफ हुआ था?",
+  "optsEn": [
+   "Rampa region of the Godavari agency",
+   "Chotanagpur plateau",
+   "Jaintia hills",
+   "Bastar region"
+  ],
+  "optsHi": [
+   "गोदावरी एजेंसी का राम्पा क्षेत्र",
+   "छोटानगपुर का पठार",
+   "जयंतिया पहाड़ियां",
+   "बस्तर क्षेत्र"
+  ],
+  "correct": 0,
+  "explainEn": "The Rampa Rebellion (often misspelled or referred to as Kampa in certain colonial texts) was led by Alluri Sitarama Raju in the Godavari agency of Madras Presidency.",
+  "sourceHint": "Spectrum's A Brief History of Modern India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:08:51Z"
+ },
+ {
+  "id": "q_f59e502c56d68686",
+  "group": "upsc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following biogeographic zones in India encompasses the highest percentage of the country's total geographical area?",
+  "qHi": "भारत में निम्नलिखित में से किस जैव-भौगोलिक क्षेत्र में देश के कुल भौगोलिक क्षेत्र का सबसे अधिक प्रतिशत शामिल है?",
+  "optsEn": [
+   "The Deccan Peninsula",
+   "The Indian Deserts",
+   "The Himalayas",
+   "The Gangetic Plain"
+  ],
+  "optsHi": [
+   "दक्कन प्रायद्वीप",
+   "भारतीय रेगिस्तान",
+   "हिमालय",
+   "गंगा का मैदान"
+  ],
+  "correct": 0,
+  "explainEn": "The Deccan Peninsula is the largest biogeographic zone in India, covering about 43 percent of the total landmass.",
+  "sourceHint": "Wildlife Institute of India (WII) Biogeographic Classification",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:08:51Z"
+ },
+ {
+  "id": "q_7634363abd9a0379",
+  "group": "upsc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the philosophy of Indian art and architecture, 'Nagaram' during the Chola administration referred to:",
+  "qHi": "भारतीय कला और वास्तुकला के दर्शन के संदर्भ में, चोल प्रशासन के दौरान 'नगरम' का संदर्भ किससे था?",
+  "optsEn": [
+   "An assembly of merchants and traders",
+   "A specific style of temple architecture in northern India",
+   "A tax levied on overseas trade",
+   "The royal treasury"
+  ],
+  "optsHi": [
+   "व्यापारी और सौदागरों की एक सभा",
+   "उत्तरी भारत में मंदिर वास्तुकला की एक विशिष्ट शैली",
+   "विदेशी व्यापार पर लगाया जाने वाला कर",
+   "शाही राजकोष"
+  ],
+  "correct": 0,
+  "explainEn": "In Chola inscriptions, Ur, Sabha, and Nagaram were types of local assemblies, where Nagaram specifically represented the organization of merchants and traders.",
+  "sourceHint": "NCERT Class 12 History Textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:08:51Z"
  }
 ]

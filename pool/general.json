@@ -4926,5 +4926,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-07T23:09:03Z"
+ },
+ {
+  "id": "q_cd02e2c681d21999",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organ purifies blood in the human body?",
+  "qHi": "मानव शरीर में रक्त को कौन सा अंग शुद्ध करता है?",
+  "optsEn": [
+   "Heart",
+   "Kidney",
+   "Stomach",
+   "Liver"
+  ],
+  "optsHi": [
+   "हृदय",
+   "गुर्दा",
+   "पेट",
+   "यकृत"
+  ],
+  "correct": 1,
+  "explainEn": "Kidneys filter waste products and excess water from the blood to form urine.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:07:16Z"
+ },
+ {
+  "id": "q_e18f6c9b514621bf",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the national anthem of India, 'Jana Gana Mana'?",
+  "qHi": "भारत का राष्ट्रीय गान 'जन गण मन' किसने लिखा था?",
+  "optsEn": [
+   "Bankim Chandra Chatterjee",
+   "Rabindranath Tagore",
+   "Subhash Chandra Bose",
+   "Mahatma Gandhi"
+  ],
+  "optsHi": [
+   "बंकिम चंद्र चटर्जी",
+   "रवींद्रनाथ टैगोर",
+   "सुभाष चंद्र बोस",
+   "महात्मा गांधी"
+  ],
+  "correct": 1,
+  "explainEn": "Rabindranath Tagore originally composed the song in Bengali, which was later adopted as the national anthem.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:07:16Z"
+ },
+ {
+  "id": "q_47b03e4e71575715",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the capital city of Australia?",
+  "qHi": "ऑस्ट्रेलिया की राजधानी कौन सी है?",
+  "optsEn": [
+   "Sydney",
+   "Melbourne",
+   "Canberra",
+   "Perth"
+  ],
+  "optsHi": [
+   "सिडनी",
+   "मेलर्बन",
+   "कैनबरा",
+   "पर्थ"
+  ],
+  "correct": 2,
+  "explainEn": "Canberra is the capital city of Australia, chosen as a compromise between Sydney and Melbourne.",
+  "sourceHint": "Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:07:16Z"
+ },
+ {
+  "id": "q_d26ff6f5a3c3ac91",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which state is the Kaziranga National Park primarily located?",
+  "qHi": "काजीरंगा राष्ट्रीय उद्यान मुख्य रूप से किस राज्य में स्थित है?",
+  "optsEn": [
+   "Assam",
+   "Gujarat",
+   "Uttarakhand",
+   "Kerala"
+  ],
+  "optsHi": [
+   "असम",
+   "गुजरात",
+   "उत्तराखंड",
+   "केरल"
+  ],
+  "correct": 0,
+  "explainEn": "Kaziranga National Park is located in the Golaghat and Nagaon districts of Assam.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change, India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:08:01Z"
+ },
+ {
+  "id": "q_7a569bc12b5252be",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which part of the Indian Constitution contains the Fundamental Rights?",
+  "qHi": "भारतीय संविधान के किस भाग में मौलिक अधिकार दिए गए हैं?",
+  "optsEn": [
+   "Part I",
+   "Part II",
+   "Part III",
+   "Part IV"
+  ],
+  "optsHi": [
+   "भाग I",
+   "भाग II",
+   "भाग III",
+   "भाग IV"
+  ],
+  "correct": 2,
+  "explainEn": "Fundamental Rights are enshrined in Part III of the Constitution of India from Articles 12 to 35.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:08:01Z"
+ },
+ {
+  "id": "q_d75023b26f19d936",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian classical dance form originates from the state of Kerala?",
+  "qHi": "कौन सा भारतीय शास्त्रीय नृत्य रूप केरल राज्य से उत्पन्न हुआ है?",
+  "optsEn": [
+   "Kathakali",
+   "Bharatanatyam",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "कथकली",
+   "भरतनाट्यम",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 0,
+  "explainEn": "Kathakali is a major form of classical Indian dance that originated in Kerala.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:08:01Z"
+ },
+ {
+  "id": "q_6dc9c5c4189d504f",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the freezing point of water in degrees Celsius?",
+  "qHi": "डिग्री सेल्सियस में पानी का हिमांक (फ्रीजिंग प्वाइंट) कितना होता है?",
+  "optsEn": [
+   "0",
+   "32",
+   "100",
+   "273"
+  ],
+  "optsHi": [
+   "0",
+   "32",
+   "100",
+   "273"
+  ],
+  "correct": 0,
+  "explainEn": "Water freezes at 0 degrees Celsius under standard atmospheric pressure.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:08:01Z"
  }
 ]

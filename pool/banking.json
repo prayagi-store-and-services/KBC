@@ -6662,5 +6662,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-07T23:08:37Z"
+ },
+ {
+  "id": "q_eb013620aaea739e",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following accounts typically offers the highest rate of interest in Indian banks?",
+  "qHi": "भारतीय बैंकों में निम्नलिखित में से कौन सा खाता आमतौर पर सबसे अधिक ब्याज दर प्रदान करता है?",
+  "optsEn": [
+   "Current Account",
+   "Savings Bank Account",
+   "Fixed Deposit Account",
+   "Basic Savings Bank Deposit Account"
+  ],
+  "optsHi": [
+   "चालू खाता",
+   "बचत बैंक खाता",
+   "सावधि जमा खाता",
+   "बुनियादी बचत बैंक जमा खाता"
+  ],
+  "correct": 2,
+  "explainEn": "Fixed Deposit (FD) accounts offer higher interest rates compared to savings or current accounts because the money is locked for a specific period.",
+  "sourceHint": "NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:07:09Z"
+ },
+ {
+  "id": "q_37490fe46159a49c",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of 'ATM' in the context of banking?",
+  "qHi": "बैंकिंग के संदर्भ में 'ATM' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Any Time Money",
+   "Automated Teller Machine",
+   "Automated Transaction Mode",
+   "Automatic Transfer Machine"
+  ],
+  "optsHi": [
+   "एनी टाइम मनी",
+   "ऑटोमेटेड टेलर मशीन",
+   "ऑटोमेटेड ट्रांजैक्शन मोड",
+   "ऑटोमैटिक ट्रांसफर मशीन"
+  ],
+  "correct": 1,
+  "explainEn": "ATM stands for Automated Teller Machine, an electronic telecommunication device that enables customers to perform financial transactions.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:07:09Z"
+ },
+ {
+  "id": "q_d1382aad9eaf09b6",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a liability for a commercial bank?",
+  "qHi": "निम्नलिखित में से कौन सा वाणिज्यिक बैंक के लिए एक देनदारी है?",
+  "optsEn": [
+   "Customer Deposits",
+   "Loans Given to Public",
+   "Government Securities Held",
+   "Bank Building and Furniture"
+  ],
+  "optsHi": [
+   "ग्राहक जमा",
+   "जनता को दिए गए ऋण",
+   "रखी गई सरकारी प्रतिभूतियां",
+   "बैंक की इमारत और फर्नीचर"
+  ],
+  "correct": 0,
+  "explainEn": "Customer deposits are money owed by the bank to its depositors, making them a primary liability.",
+  "sourceHint": "NCERT Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:07:09Z"
+ },
+ {
+  "id": "q_67dfbc95f32049f8",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'CRR' stand for in monetary policy terms?",
+  "qHi": "मौद्रिक नीति के संदर्भ में 'CRR' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Cash Reserve Ratio",
+   "Current Repo Rate",
+   "Credit Risk Return",
+   "Central Reserve Register"
+  ],
+  "optsHi": [
+   "नकद आरक्षित अनुपात",
+   "करेंट रेपो रेट",
+   "क्रेडिट रिस्क रिटर्न",
+   "सेंट्रल रिजर्व रजिस्टर"
+  ],
+  "correct": 0,
+  "explainEn": "CRR stands for Cash Reserve Ratio, which is the minimum amount of cash that commercial banks must hold with the RBI.",
+  "sourceHint": "RBI Glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:07:09Z"
+ },
+ {
+  "id": "q_f6584e408f530995",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization issues currency notes in India?",
+  "qHi": "भारत में करेंसी नोट कौन सी संस्था जारी करती है?",
+  "optsEn": [
+   "State Bank of India",
+   "Ministry of Finance",
+   "Reserve Bank of India",
+   "National Bank for Agriculture and Rural Development"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "वित्त मंत्रालय",
+   "भारतीय रिजर्व बैंक",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक"
+  ],
+  "correct": 2,
+  "explainEn": "Under Section 22 of the Reserve Bank of India Act, 1934, the RBI has the sole right to issue bank notes in India.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:07:09Z"
+ },
+ {
+  "id": "q_67f52cc6d12288c3",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'C' stand for in the financial term 'CASA' account?",
+  "qHi": "वित्तीय शब्द 'CASA' खाते में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Capital",
+   "Current",
+   "Credit",
+   "Collateral"
+  ],
+  "optsHi": [
+   "पूंजी",
+   "चालू",
+   "क्रेडिट",
+   "संपार्श्विक"
+  ],
+  "correct": 1,
+  "explainEn": "CASA stands for Current Account Savings Account, representing the bank's low-cost deposit mobilization.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) Study Material",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:07:57Z"
+ },
+ {
+  "id": "q_4f09f79d69b472fc",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque loses its validity after how many months from its date of issue in India?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, भारत में जारी होने की तारीख से कितने महीनों के बाद चेक अपनी वैधता खो देता है?",
+  "optsEn": [
+   "1 month",
+   "3 months",
+   "6 months",
+   "12 months"
+  ],
+  "optsHi": [
+   "1 महीना",
+   "3 महीने",
+   "6 महीने",
+   "12 महीने"
+  ],
+  "correct": 1,
+  "explainEn": "RBI directed that the validity period of cheque, demand draft, pay order, and banker's cheque is 3 months from the date of instrument.",
+  "sourceHint": "Reserve Bank of India Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:07:57Z"
+ },
+ {
+  "id": "q_dfb86d0eadc525a7",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is a credit rating agency operating in India?",
+  "qHi": "निम्नलिखित में से कौन सी भारत में काम करने वाली क्रेडिट रेटिंग एजेंसी है?",
+  "optsEn": [
+   "CRISIL",
+   "NABARD",
+   "SIDBI",
+   "IRDAI"
+  ],
+  "optsHi": [
+   "क्रिसिल",
+   "नाबार्ड",
+   "सिडबी",
+   "इrdai"
+  ],
+  "correct": 0,
+  "explainEn": "CRISIL (Credit Rating Information Services of India Limited) is a prominent credit rating agency in India.",
+  "sourceHint": "SEBI Registered Credit Rating Agencies List",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:07:57Z"
+ },
+ {
+  "id": "q_e49ae843b2750b5b",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of monetary policy conducted by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा संचालित मौद्रिक नीति का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "Maximizing corporate profits",
+   "Price stability while keeping in mind growth",
+   "Managing foreign direct investments",
+   "Setting individual income tax slabs"
+  ],
+  "optsHi": [
+   "कॉर्पोरेट मुनाफे को अधिकतम करना",
+   "विकास को ध्यान में रखते हुए मूल्य स्थिरता",
+   "प्रत्यक्ष विदेशी निवेश का प्रबंधन",
+   "व्यक्तिगत आयकर स्लैब तय करना"
+  ],
+  "correct": 1,
+  "explainEn": "The primary objective of the monetary policy is price stability while keeping in mind the objective of growth.",
+  "sourceHint": "Reserve Bank of India Act, 1934 (amended in 2016)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:07:57Z"
+ },
+ {
+  "id": "q_270d569753036f5e",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of risk refers to the potential loss resulting from inadequate or failed internal processes, people, and systems?",
+  "qHi": "किस प्रकार का जोखिम अपर्याप्त या विफल आंतरिक प्रक्रियाओं, लोगों और प्रणालियों के परिणामस्वरूप होने वाले संभावित नुकसान को संदर्भित करता है?",
+  "optsEn": [
+   "Credit Risk",
+   "Market Risk",
+   "Operational Risk",
+   "Liquidity Risk"
+  ],
+  "optsHi": [
+   "क्रेडिट जोखिम",
+   "बाजार जोखिम",
+   "परिचालन जोखिम",
+   "तरलता जोखिम"
+  ],
+  "correct": 2,
+  "explainEn": "Operational risk is defined as the risk of loss resulting from inadequate or failed internal processes, people, and systems or from external events.",
+  "sourceHint": "Basel Committee on Banking Supervision (BCBS)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:07:57Z"
+ },
+ {
+  "id": "q_71e3e6e7076d37f6",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the expanded form of the abbreviation 'NEFT' used in banking transactions?",
+  "qHi": "बैंकिंग लेनदेन में प्रयुक्त संक्षिप्त नाम 'NEFT' का विस्तारित रूप क्या है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "New Economic Foreign Trade",
+   "National Equity Finance Trust",
+   "Net External Fund Transfer"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "न्यू इकोनॉमिक फॉरेन ट्रेड",
+   "नेशनल इक्विटी फाइनेंस ट्रस्ट",
+   "नेट एक्सटर्नल फंड ट्रांसफर"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, an electronic funds transfer system operated by the RBI.",
+  "sourceHint": "Reserve Bank of India Payment Systems",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T06:07:57Z"
  }
 ]
