@@ -6970,5 +6970,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-08T06:07:57Z"
+ },
+ {
+  "id": "q_1d63334600bfd262",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum limit of digits in a standard Permanent Account Number (PAN) in India?",
+  "qHi": "भारत में मानक स्थायी खाता संख्या (PAN) में अंकों की अधिकतम सीमा क्या है?",
+  "optsEn": [
+   "10",
+   "12",
+   "14",
+   "16"
+  ],
+  "optsHi": [
+   "10",
+   "12",
+   "14",
+   "16"
+  ],
+  "correct": 0,
+  "explainEn": "A PAN is a ten-character alphanumeric identifier issued by the Income Tax Department of India.",
+  "sourceHint": "Income Tax Department of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:32:06Z"
+ },
+ {
+  "id": "q_319a8d754a6cbbd8",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following terms is associated with the monetary policy of the Reserve Bank of India?",
+  "qHi": "निम्नलिखित में से कौन सा शब्द भारतीय रिजर्व बैंक की मौद्रिक नीति से जुड़ा है?",
+  "optsEn": [
+   "Repo Rate",
+   "Fiscal Deficit",
+   "GST Rate",
+   "Minimum Support Price"
+  ],
+  "optsHi": [
+   "रेपो रेट",
+   "राजकोषीय घाटा",
+   "जीएसटी दर",
+   "न्यूनतम समर्थन मूल्य"
+  ],
+  "correct": 0,
+  "explainEn": "Repo rate is a key policy rate determined by the Reserve Bank of India during its monetary policy review.",
+  "sourceHint": "RBI Monetary Policy Report",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:32:06Z"
+ },
+ {
+  "id": "q_c03e93b96a301651",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'ATM' stand for in the context of banking services?",
+  "qHi": "बैंकिंग सेवाओं के संदर्भ में 'ATM' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Automated Teller Machine",
+   "Any Time Money",
+   "Automated Transfer Mechanism",
+   "Audited Transaction Method"
+  ],
+  "optsHi": [
+   "ऑटोमेटेड टेलर मशीन",
+   "एनी टाइम मनी",
+   "ऑटोमेटेड ट्रांसफर मैकेनिज्म",
+   "ऑडिटेड ट्रांजैक्शन मेथड"
+  ],
+  "correct": 0,
+  "explainEn": "ATM stands for Automated Teller Machine, an electronic telecommunications device that enables customers to perform financial transactions.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) Glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:32:06Z"
+ },
+ {
+  "id": "q_a1f6a4af5ab69ead",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization regulates the mutual fund industry in India?",
+  "qHi": "कौन सा संगठन भारत में म्यूचुअल फंड उद्योग को नियंत्रित करता है?",
+  "optsEn": [
+   "SEBI",
+   "RBI",
+   "IRDAI",
+   "PFRDA"
+  ],
+  "optsHi": [
+   "सेबी",
+   "आरबीआई",
+   "इरडाई",
+   "पीएफआरडीए"
+  ],
+  "correct": 0,
+  "explainEn": "The Securities and Exchange Board of India (SEBI) is the statutory regulatory body established to regulate the securities market and mutual funds in India.",
+  "sourceHint": "SEBI Act 1992",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:32:06Z"
+ },
+ {
+  "id": "q_32a55be5ce69c36f",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of account typically offers no interest or very minimal interest to the account holder?",
+  "qHi": "किस प्रकार के खाते में आम तौर पर खाताधारक को कोई ब्याज या बहुत कम ब्याज मिलता है?",
+  "optsEn": [
+   "Current Account",
+   "Savings Account",
+   "Fixed Deposit Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "चालू खाता",
+   "बचत खाता",
+   "सावधि जमा खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 0,
+  "explainEn": "Current accounts are meant for business purposes and generally do not offer any interest on the deposited balance.",
+  "sourceHint": "NCERT Business Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:32:06Z"
+ },
+ {
+  "id": "q_9ca24ce25ee2741c",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following terms is used to describe the rate at which commercial banks borrow money from the Reserve Bank of India in the short term by pledging government securities?",
+  "qHi": "निम्नलिखित में से किस शब्द का उपयोग उस दर का वर्णन करने के लिए किया जाता है जिस पर वाणिज्यिक बैंक सरकारी प्रतिभूतियों को गिरवी रखकर अल्पकालिक रूप से भारतीय रिजर्व बैंक से ऋण लेते हैं?",
+  "optsEn": [
+   "Repo Rate",
+   "Reverse Repo Rate",
+   "Bank Rate",
+   "Cash Reserve Ratio"
+  ],
+  "optsHi": [
+   "रेपो रेट",
+   "रिवर्स रेपो रेट",
+   "बैंक रेट",
+   "नकद आरक्षित अनुपात"
+  ],
+  "correct": 0,
+  "explainEn": "Repo rate is the rate at which the central bank lends money to commercial banks against government securities for short periods.",
+  "sourceHint": "RBI official website and monetary policy glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:33:45Z"
+ },
+ {
+  "id": "q_e50831b6ff1feed3",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'M' stand for in the context of the Micro Units Development and Refinance Agency (MUDRA) Bank scheme?",
+  "qHi": "माइक्रो यूनिट्स डेवलपमेंट एंड रिफाइनेंस एजेंसी (MUDRA) बैंक योजना के संदर्भ में अक्षर 'M' का क्या अर्थ है?",
+  "optsEn": [
+   "Monetary",
+   "Micro",
+   "Medium",
+   "Market"
+  ],
+  "optsHi": [
+   "मौनटरी",
+   "माइक्रो",
+   "मीडियम",
+   "मार्केट"
+  ],
+  "correct": 1,
+  "explainEn": "MUDRA stands for Micro Units Development and Refinance Agency, which supports micro-enterprises in India.",
+  "sourceHint": "SIDBI and MUDRA official documentation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:33:45Z"
+ },
+ {
+  "id": "q_facba75ae754b5d4",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque is a type of bill of exchange drawn on a specified:",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, चेक एक प्रकार का विनिमय पत्र है जो एक विशिष्ट पर लिखा जाता है:",
+  "optsEn": [
+   "Non-banking financial company",
+   "Cooperative society",
+   "Banker",
+   "Mutual fund"
+  ],
+  "optsHi": [
+   "गैर-बैंकिंग वित्तीय कंपनी",
+   "सहकारी समिति",
+   "बैंकर",
+   "म्यूचुअल फंड"
+  ],
+  "correct": 2,
+  "explainEn": "Section 6 of the Negotiable Instruments Act defines a cheque as a bill of exchange drawn on a specified banker.",
+  "sourceHint": "Negotiable Instruments Act, 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:33:45Z"
+ },
+ {
+  "id": "q_8057483642d94d59",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of the Statutory Liquidity Ratio (SLR) maintained by commercial banks?",
+  "qHi": "वाणिज्यिक बैंकों द्वारा बनाए रखे जाने वाले वैधानिक तरलता अनुपात (SLR) का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To provide short-term funds to the government",
+   "To ensure solvency and restrict credit expansion beyond safe limits",
+   "To finance international trade deficits",
+   "To manage foreign exchange reserves"
+  ],
+  "optsHi": [
+   "सरकार को अल्पकालिक धन प्रदान करना",
+   " solvency सुनिश्चित करना और सुरक्षित सीमाओं से परे ऋण विस्तार को प्रतिबंधित करना",
+   "अंतर्राष्ट्रीय व्यापार घाटे का वित्तपोषण करना",
+   "विदेशी मुद्रा भंडार का प्रबंधन करना"
+  ],
+  "correct": 1,
+  "explainEn": "SLR ensures that commercial banks maintain a certain percentage of their net demand and time liabilities in liquid assets, ensuring solvency.",
+  "sourceHint": "RBI Banking Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:33:45Z"
+ },
+ {
+  "id": "q_33428fe752e866d5",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following entities issues Sovereign Gold Bonds (SGBs) on behalf of the Government of India?",
+  "qHi": "निम्नलिखित में से कौन सी संस्था भारत सरकार की ओर से सॉवरेन गोल्ड बॉन्ड (SGB) जारी करती है?",
+  "optsEn": [
+   "State Bank of India",
+   "Securities and Exchange Board of India",
+   "Reserve Bank of India",
+   "India Post"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "भारतीय रिजर्व बैंक",
+   "इंडिया पोस्ट"
+  ],
+  "correct": 2,
+  "explainEn": "Sovereign Gold Bonds are issued by the Reserve Bank of India on behalf of the Government of India.",
+  "sourceHint": "RBI FAQs on Sovereign Gold Bonds",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:33:45Z"
+ },
+ {
+  "id": "q_00015f7a1229b59c",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of banking technology, what does the letter 'C' stand for in the acronym 'NEFT'?",
+  "qHi": "बैंकिंग प्रौद्योगिकी के संदर्भ में, संक्षिप्त नाम 'NEFT' में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Credit",
+   "Clearing",
+   "Currency",
+   "Central"
+  ],
+  "optsHi": [
+   "क्रेडिट",
+   "क्लियरिंग",
+   "करेंसी",
+   "सेंट्रल"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer.",
+  "sourceHint": "RBI payment systems documentation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:33:45Z"
  }
 ]

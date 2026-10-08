@@ -6270,5 +6270,509 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-08T06:08:45Z"
+ },
+ {
+  "id": "q_4336aafca9d0951f",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which year was the first general election held in independent India?",
+  "qHi": "स्वतंत्र भारत में पहले आम चुनाव किस वर्ष आयोजित किए गए थे?",
+  "optsEn": [
+   "1947",
+   "1950",
+   "1951",
+   "1956"
+  ],
+  "optsHi": [
+   "1947",
+   "1950",
+   "1951",
+   "1956"
+  ],
+  "correct": 2,
+  "explainEn": "The first general election in India was held largely between October 1951 and February 1952.",
+  "sourceHint": "NCERT Class 12 Politics in India Since Independence",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:31:51Z"
+ },
+ {
+  "id": "q_d334c3a54b31ef88",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which chemical element has the atomic number 6?",
+  "qHi": "किस रासायनिक तत्व की परमाणु संख्या 6 है?",
+  "optsEn": [
+   "Boron",
+   "Carbon",
+   "Nitrogen",
+   "Oxygen"
+  ],
+  "optsHi": [
+   "बोरॉन",
+   "कार्बन",
+   "नाइट्रोजन",
+   "ऑक्सीजन"
+  ],
+  "correct": 1,
+  "explainEn": "Carbon is a chemical element with the symbol C and atomic number 6.",
+  "sourceHint": "NCERT Class 12 Chemistry Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:31:51Z"
+ },
+ {
+  "id": "q_93adc46dbe7569f9",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In macroeconomics, what does GDP stand for?",
+  "qHi": "समष्टि अर्थशास्त्र (मैक्रोइकॉनॉमिक्स) में, जीडीपी (GDP) का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Gross Domestic Product",
+   "General Development Policy",
+   "Global Demand Price",
+   "Gross Distribution Profit"
+  ],
+  "optsHi": [
+   "सकल घरेलू उत्पाद (Gross Domestic Product)",
+   "सामान्य विकास नीति (General Development Policy)",
+   "वैश्विक मांग मूल्य (Global Demand Price)",
+   "सकल वितरण लाभ (Gross Distribution Profit)"
+  ],
+  "correct": 0,
+  "explainEn": "GDP stands for Gross Domestic Product, which is the total monetary value of all finished goods and services made within a country.",
+  "sourceHint": "NCERT Class 12 Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:31:51Z"
+ },
+ {
+  "id": "q_39c8751061332c3e",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which greenhouse gas is released in large quantities from paddy fields?",
+  "qHi": "धान के खेतों से कौन सी ग्रीनहाउस गैस बड़ी मात्रा में उत्सर्जित होती है?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Methane",
+   "Ozone",
+   "Sulfur dioxide"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "मीथेन",
+   "ओजोन",
+   "सल्फर डाइऑक्साइड"
+  ],
+  "correct": 1,
+  "explainEn": "Anaerobic decomposition of organic matter in flooded paddy fields produces significant amounts of methane gas.",
+  "sourceHint": "NCERT Class 12 Biology Ecology Unit",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:31:51Z"
+ },
+ {
+  "id": "q_3eff24b9274736d5",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which constitutional article abolishes untouchability and forbids its practice in any form?",
+  "qHi": "कौन सा संवैधानिक अनुच्छेद अस्पृश्यता को समाप्त करता है और किसी भी रूप में इसके अभ्यास को प्रतिबंधित करता है?",
+  "optsEn": [
+   "Article 14",
+   "Article 17",
+   "Article 19",
+   "Article 21"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14",
+   "अनुच्छेद 17",
+   "अनुच्छेद 19",
+   "अनुच्छेद 21"
+  ],
+  "correct": 1,
+  "explainEn": "Article 17 of the Indian Constitution abolishes untouchability and makes its practice punishable by law.",
+  "sourceHint": "Constitution of India, Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:33:29Z"
+ },
+ {
+  "id": "q_addba096c9f14806",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of colonial land revenue settlement was primarily introduced in the Bombay Deccan region?",
+  "qHi": "बॉम्बे दक्खन क्षेत्र में मुख्य रूप से किस प्रकार की औपनिवेशिक भूमि राजस्व व्यवस्था शुरू की गई थी?",
+  "optsEn": [
+   "Permanent Settlement",
+   "Ryotwari Settlement",
+   "Mahalwari Settlement",
+   "Zemindari Settlement"
+  ],
+  "optsHi": [
+   "स्थाई बंदोबस्त",
+   "रैयतवाड़ी व्यवस्था",
+   "महाल्वाड़ी व्यवस्था",
+   "ज़मींदारी व्यवस्था"
+  ],
+  "correct": 1,
+  "explainEn": "The Ryotwari settlement was introduced in the Bombay Deccan, where revenue was settled directly with the ryot (cultivator).",
+  "sourceHint": "NCERT Class 12 History, Theme 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:33:29Z"
+ },
+ {
+  "id": "q_2913b8fcac168018",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the molecularity of an elementary reaction if its rate is directly proportional to the concentration of two reacting species?",
+  "qHi": "यदि किसी प्राथमिक अभिक्रिया की दर दो प्रतिक्रियाशील जातियों की सांद्रता के सीधे समानुपाती है, तो उसकी आणविकता क्या है?",
+  "optsEn": [
+   "Zero",
+   "Unimolecular",
+   "Bimolecular",
+   "Trimolecular"
+  ],
+  "optsHi": [
+   "शून्य",
+   "एक आणविक",
+   "द्वि आणविक",
+   "त्रि आणविक"
+  ],
+  "correct": 2,
+  "explainEn": "Molecularity is the number of reacting species taking part in an elementary reaction. If two species react, it is bimolecular.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:33:29Z"
+ },
+ {
+  "id": "q_dd007a9f0fbabb39",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which market structure is characterized by a single seller and complete barriers to entry?",
+  "qHi": "किस बाजार संरचना की विशेषता एक अकेला विक्रेता और प्रवेश पर पूर्ण बाधाएं हैं?",
+  "optsEn": [
+   "Perfect Competition",
+   "Monopolistic Competition",
+   "Oligopoly",
+   "Monopoly"
+  ],
+  "optsHi": [
+   "पूर्ण प्रतियोगिता",
+   "एकाधिकारवादी प्रतियोगिता",
+   "अल्पाधिकार",
+   "एकाधिकार"
+  ],
+  "correct": 3,
+  "explainEn": "A monopoly market structure features a single firm selling a product with no close substitutes and high barriers to entry.",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Microeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:33:29Z"
+ },
+ {
+  "id": "q_72bff89d96a57b22",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which macro-nutrient is considered a primary limiting plant nutrient supplied commonly through chemical fertilizers?",
+  "qHi": "रासायनिक उर्वरकों के माध्यम से सामान्यतः आपूर्ति किया जाने वाला कौन सा स्थूल-पोषण तत्व प्राथमिक सीमित पादप पोषक तत्व माना जाता है?",
+  "optsEn": [
+   "Sodium",
+   "Nitrogen",
+   "Silicon",
+   "Aluminum"
+  ],
+  "optsHi": [
+   "सोडियम",
+   "नाइट्रोजन",
+   "सिलिकॉन",
+   "एल्युमिनियम"
+  ],
+  "correct": 1,
+  "explainEn": "Nitrogen, Phosphorus, and Potassium (NPK) are primary macronutrients often limiting in soils and applied as fertilizers.",
+  "sourceHint": "NCERT Class 11 Biology, Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:33:29Z"
+ },
+ {
+  "id": "q_bcf5338ca5d161d0",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which programming paradigm is code structured around objects rather than just actions and logic?",
+  "qHi": "किस प्रोग्रामिंग प्रतिमान में कोड को केवल क्रियाओं और तर्क के बजाय वस्तुओं के चारों ओर संरचित किया जाता है?",
+  "optsEn": [
+   "Procedural programming",
+   "Object-Oriented programming",
+   "Functional programming",
+   "Assembly programming"
+  ],
+  "optsHi": [
+   "प्रोसीडरल प्रोग्रामिंग",
+   "ऑब्जेक्ट-ओरिएंटेड प्रोग्रामिंग",
+   "फंक्शनल प्रोग्रामिंग",
+   "असेंबली प्रोग्रामिंग"
+  ],
+  "correct": 1,
+  "explainEn": "Object-Oriented programming (OOP) uses classes and objects to structure software programs.",
+  "sourceHint": "NCERT Class 12 Computer Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:33:29Z"
+ },
+ {
+  "id": "q_62ae3df7e4e5f6ac",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following kingdoms emerged in the Deccan and was founded in 1336 by Harihara and Bukka?",
+  "qHi": "दक्कन में निम्नलिखित में से कौन सा साम्राज्य उभरा जिसकी स्थापना 1336 में हरिहर और बुक्का ने की थी?",
+  "optsEn": [
+   "Bahmani Sultanate",
+   "Vijayanagara Empire",
+   "Hoysala Empire",
+   "Yadava Dynasty"
+  ],
+  "optsHi": [
+   "बहमनी सल्तनत",
+   "विजयनगर साम्राज्य",
+   "होयसाल साम्राज्य",
+   "यादव राजवंश"
+  ],
+  "correct": 1,
+  "explainEn": "Harihara and Bukka founded the Vijayanagara Empire in 1336 on the banks of the Tungabhadra River.",
+  "sourceHint": "NCERT Class 12 History - Themes in Indian History Part II, Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:34:12Z"
+ },
+ {
+  "id": "q_edf773743f206f50",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which constitutional amendment was the term 'secular' added to the Preamble of the Constitution of India?",
+  "qHi": "भारत के संविधान की प्रस्तावना में 'धर्मनिरपेक्ष' शब्द किस संविधान संशोधन द्वारा जोड़ा गया था?",
+  "optsEn": [
+   "42nd Amendment",
+   "44th Amendment",
+   "52nd Amendment",
+   "86th Amendment"
+  ],
+  "optsHi": [
+   "42वां संशोधन",
+   "44वां संशोधन",
+   "52वां संशोधन",
+   "86वां संशोधन"
+  ],
+  "correct": 0,
+  "explainEn": "The 42nd Constitutional Amendment Act of 1976 added the words socialist, secular, and integrity to the Preamble.",
+  "sourceHint": "Constitution of India, NCERT Class 12 Political Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:34:12Z"
+ },
+ {
+  "id": "q_4d652ecbffbda4fa",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary product of the light-dependent reactions of photosynthesis that is subsequently utilized in the Calvin cycle?",
+  "qHi": "प्रकाश संश्लेषण की प्रकाश-निर्भर प्रतिक्रियाओं का प्राथमिक उत्पाद क्या है जिसका उपयोग बाद में केल्विन चक्र में किया जाता है?",
+  "optsEn": [
+   "Glucose and Oxygen",
+   "ATP and NADPH",
+   "Carbon dioxide and Water",
+   "Starch and Cellulose"
+  ],
+  "optsHi": [
+   "ग्लोकोस और ऑक्सीजन",
+   "एटीपी और एनएडीपीएच",
+   "कार्बन डाइऑक्साइड और पानी",
+   "स्टार्च और सेल्युलोस"
+  ],
+  "correct": 1,
+  "explainEn": "The light reactions produce ATP and NADPH, which act as energy currency and reducing power for the dark reactions (Calvin cycle).",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 13",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:34:12Z"
+ },
+ {
+  "id": "q_0b581e2a25a37adf",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which enzyme is responsible for the replication of retroviruses, synthesizing DNA from an RNA template?",
+  "qHi": "आरएनए टेम्पलेट से डीएनए का संश्लेषण करते हुए, रेट्रोवायरस के प्रतिकृति के लिए कौन सा एंजाइम जिम्मेदार है?",
+  "optsEn": [
+   "RNA polymerase",
+   "DNA ligase",
+   "Reverse transcriptase",
+   "Taq polymerase"
+  ],
+  "optsHi": [
+   "आरएनए पॉलीमरेज़",
+   "डीएनए लिगाज़",
+   "रिवर्स ट्रांसक्रिप्टेज़",
+   "टैक पॉलीमरेज़"
+  ],
+  "correct": 2,
+  "explainEn": "Retroviruses use reverse transcriptase to convert their single-stranded RNA genome into double-stranded DNA.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:34:12Z"
+ },
+ {
+  "id": "q_b0da2432554a4295",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who among the following was the founder of the Satvahana dynasty according to the Puranas and inscriptions?",
+  "qHi": "पुराणों और अभिलेखों के अनुसार सातवाहन वंश के संस्थापक निम्नलिखित में से कौन थे?",
+  "optsEn": [
+   "Simukha",
+   "Gautamiputra Satakarni",
+   "Vasisthiputra Pulumavi",
+   "Halas"
+  ],
+  "optsHi": [
+   "सिमुख",
+   "गौतमीपुत्र सातकर्णि",
+   "वाशिष्ठिपुत्र पुलुमावि",
+   "हाल"
+  ],
+  "correct": 0,
+  "explainEn": "Simukha is mentioned as the founder of the Satavahana dynasty in the Puranic lists of kings.",
+  "sourceHint": "NCERT Class 12 History - Themes in Indian History Part I, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:34:12Z"
+ },
+ {
+  "id": "q_e6fec940d3b4db37",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Article of the Indian Constitution guarantees the right to constitutional remedies, described by Dr. B.R. Ambedkar as the heart and soul of the Constitution?",
+  "qHi": "भारतीय संविधान का कौन सा अनुच्छेद संवैधानिक उपचार के अधिकार की गारंटी देता है, जिसे डॉ. बी.आर. अंबेडकर द्वारा संविधान का हृदय और आत्मा कहा गया है?",
+  "optsEn": [
+   "Article 19",
+   "Article 21",
+   "Article 32",
+   "Article 44"
+  ],
+  "optsHi": [
+   "अनुच्छेद 19",
+   "अनुच्छेद 21",
+   "अनुच्छेद 32",
+   "अनुच्छेद 44"
+  ],
+  "correct": 2,
+  "explainEn": "Article 32 provides the right to move the Supreme Court for the enforcement of Fundamental Rights and includes writs.",
+  "sourceHint": "Indian Constitution, NCERT Class 12 Political Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:34:12Z"
+ },
+ {
+  "id": "q_ed7d2916c63989cf",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In macroeconomics, which measure represents the total market value of all final goods and services produced within a domestic territory of a country during a year, including depreciation?",
+  "qHi": "मैक्रोइकोनॉमिक्स में, कौन सा माप एक वर्ष के दौरान देश के घरेलू क्षेत्र के भीतर उत्पादित सभी अंतिम वस्तुओं और सेवाओं के कुल बाजार मूल्य को दर्शाता है, जिसमें मूल्यह्रास शामिल है?",
+  "optsEn": [
+   "Gross Domestic Product at market prices",
+   "Net Domestic Product at market prices",
+   "Gross National Product",
+   "National Disposable Income"
+  ],
+  "optsHi": [
+   "बाजार कीमतों पर सकल घरेलू उत्पाद",
+   "बाजार कीमतों पर शुद्ध घरेलू उत्पाद",
+   "सकल राष्ट्रीय उत्पाद",
+   "राष्ट्रीय प्रयोज्य आय"
+  ],
+  "correct": 0,
+  "explainEn": "GDP (Gross Domestic Product) includes the total value of goods and services produced domestically before accounting for depreciation.",
+  "sourceHint": "NCERT Class 12 Economics - Introductory Macroeconomics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:34:12Z"
+ },
+ {
+  "id": "q_c424b2d990172716",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which colloidal system is represented by liquid dispersed in a gas, such as clouds and fog?",
+  "qHi": "गैस में फैले हुए तरल द्वारा कौन सी कोलाइडल प्रणाली दर्शायी जाती है, जैसे कि बादल और कोहरा?",
+  "optsEn": [
+   "Sol",
+   "Aerosol",
+   "Emulsion",
+   "Gel"
+  ],
+  "optsHi": [
+   "सोल",
+   "एरोसोल",
+   "इमल्शन",
+   "जेल"
+  ],
+  "correct": 1,
+  "explainEn": "An aerosol is a colloidal dispersion of a liquid or solid in a gas, examples being fog, mist, and clouds.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 5 (Surface Chemistry)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:34:12Z"
  }
 ]

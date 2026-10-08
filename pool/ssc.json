@@ -4394,5 +4394,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-08T06:07:52Z"
+ },
+ {
+  "id": "q_15d519f4b2ec8507",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary chemical element responsible for the red color of the soil in the Deccan Plateau region?",
+  "qHi": "दक्कन के पठार क्षेत्र में मिट्टी के लाल रंग के लिए जिम्मेदार प्रमुख रासायनिक तत्व कौन सा है?",
+  "optsEn": [
+   "Calcium carbonate",
+   "Iron oxide",
+   "Magnesium sulfate",
+   "Potassium nitrate"
+  ],
+  "optsHi": [
+   "कैल्शियम कार्बोनेट",
+   "आयरन ऑक्साइड",
+   "मैग्नीशियम सल्फेट",
+   "पोटेशियम नाइट्रेट"
+  ],
+  "correct": 1,
+  "explainEn": "Red soil develops on crystalline igneous rocks in areas of low rainfall. Its red color is mainly due to the diffusion of iron in crystalline and metamorphic rocks.",
+  "sourceHint": "NCERT Class 11 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:32:01Z"
+ },
+ {
+  "id": "q_dcbfbea326ca403c",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which planet in our solar system has the maximum number of natural satellites or moons confirmed as of recent astronomical data?",
+  "qHi": "हालिया खगोलीय डेटा के अनुसार हमारे सौरमंडल के किस ग्रह के पास प्राकृतिक उपग्रहों या चंद्रमाओं की संख्या सबसे अधिक है?",
+  "optsEn": [
+   "Jupiter",
+   "Saturn",
+   "Uranus",
+   "Neptune"
+  ],
+  "optsHi": [
+   "बृहस्पति",
+   "शनि",
+   "यूरेनस",
+   "नेपच्यून"
+  ],
+  "correct": 1,
+  "explainEn": "Saturn holds the record for having the highest number of confirmed moons in the solar system.",
+  "sourceHint": "NASA Solar System Exploration",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:32:01Z"
+ },
+ {
+  "id": "q_5c9b8aad1c60f20f",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Bihu is a traditional folk dance and festival primarily associated with which Indian state?",
+  "qHi": "बिहू एक पारंपरिक लोक नृत्य और त्योहार है जो मुख्य रूप से किस भारतीय राज्य से जुड़ा है?",
+  "optsEn": [
+   "Assam",
+   "Odisha",
+   "Punjab",
+   "Kerala"
+  ],
+  "optsHi": [
+   "असम",
+   "ओडिशा",
+   "पंजाब",
+   "केरल"
+  ],
+  "correct": 0,
+  "explainEn": "Bihu is a set of three cultural festivals of Assam and is also the name of the state's traditional dance form.",
+  "sourceHint": "NCERT Class 11 Fine Arts",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:32:01Z"
+ },
+ {
+  "id": "q_d4494e924c739fed",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which layer of the Earth's atmosphere is closest to the Earth's surface and contains most of the weather phenomena?",
+  "qHi": "पृथ्वी के वायुमंडल की कौन सी परत पृथ्वी की सतह के सबसे करीब है और इसमें अधिकांश मौसम संबंधी घटनाएँ होती हैं?",
+  "optsEn": [
+   "Stratosphere",
+   "Mesosphere",
+   "Troposphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "समताप मंडल",
+   "मध्यमंडल",
+   "क्षोभ मंडल",
+   "तापमंडल"
+  ],
+  "correct": 2,
+  "explainEn": "The troposphere is the lowest layer of Earth's atmosphere and is where all weather changes and clouds occur.",
+  "sourceHint": "NCERT Class 7 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:32:01Z"
+ },
+ {
+  "id": "q_63da6f160ff4a734",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which planet in our solar system has the maximum number of natural satellites or moons as of recent astronomical counts?",
+  "qHi": "हाल की खगोलीय गणना के अनुसार हमारे सौर मंडल के किस ग्रह के पास प्राकृतिक उपग्रहों या चंद्रमाओं की संख्या सबसे अधिक है?",
+  "optsEn": [
+   "Jupiter",
+   "Saturn",
+   "Uranus",
+   "Neptune"
+  ],
+  "optsHi": [
+   "बृहस्पति",
+   "शनि",
+   "यूरेनस",
+   "नेपच्यून"
+  ],
+  "correct": 1,
+  "explainEn": "Saturn currently holds the record for having the highest number of confirmed natural satellites in the solar system.",
+  "sourceHint": "NASA Planetary Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:33:40Z"
+ },
+ {
+  "id": "q_03c0e400230828d8",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The Kaziranga National Park is primarily famous for the conservation of which animal?",
+  "qHi": "काजीरंगा राष्ट्रीय उद्यान मुख्य रूप से किस जानवर के संरक्षण के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Royal Bengal Tiger",
+   "Asian Elephant",
+   "One-horned Rhinoceros",
+   "Asiatic Lion"
+  ],
+  "optsHi": [
+   "रॉयल बंगाल टाइगर",
+   "एशियाई हाथी",
+   "एक सींग वाला गैंडा",
+   "एशियाई शेर"
+  ],
+  "correct": 2,
+  "explainEn": "Kaziranga National Park in Assam hosts two-thirds of the world's great Indian one-horned rhinoceroses.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:33:40Z"
+ },
+ {
+  "id": "q_774bd2dad62423d8",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Schedule of the Constitution of India contains provisions regarding the disqualification of members of Parliament and State Legislatures on the ground of defection?",
+  "qHi": "भारत के संविधान की किस अनुसूची में दल-बदल के आधार पर संसद और राज्य विधानมंडलों के सदस्यों की अयोग्यता से संबंधित प्रावधान शामिल हैं?",
+  "optsEn": [
+   "Eighth Schedule",
+   "Ninth Schedule",
+   "Tenth Schedule",
+   "Eleventh Schedule"
+  ],
+  "optsHi": [
+   "आठवीं अनुसूची",
+   "नौवीं अनुसूची",
+   "दसवीं अनुसूची",
+   "ग्यारहवीं अनुसूची"
+  ],
+  "correct": 2,
+  "explainEn": "The Tenth Schedule was added by the 52nd Constitutional Amendment Act of 1985, commonly known as the Anti-Defection Law.",
+  "sourceHint": "Constitution of India, Tenth Schedule",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:34:45Z"
+ },
+ {
+  "id": "q_72a6f62620f7e91d",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which climatic region of Köppen's classification is the Ganga-Brahmaputra plain primarily categorized?",
+  "qHi": "कोपेन के वर्गीकरण के अनुसार गंगा-ब्रह्मपुत्र मैदान मुख्य रूप से किस जलवायु क्षेत्र के अंतर्गत आता है?",
+  "optsEn": [
+   "Aw",
+   "Cwg",
+   "Am",
+   "BShw"
+  ],
+  "optsHi": [
+   "Aw",
+   "Cwg",
+   "Am",
+   "BShw"
+  ],
+  "correct": 1,
+  "explainEn": "According to Köppen's climate classification, Cwg denotes a monsoon type with dry winters, which covers most of the Gangetic plain.",
+  "sourceHint": "NCERT Class 11 Geography - India: Physical Environment",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:34:45Z"
+ },
+ {
+  "id": "q_503f8b4f21326b4b",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which metal is predominantly extracted from the ore known as 'Calamine'?",
+  "qHi": "'कैलामाइन' के रूप में ज्ञात अयस्क से मुख्य रूप से कौन सी धातु निकाली जाती है?",
+  "optsEn": [
+   "Zinc",
+   "Copper",
+   "Lead",
+   "Tin"
+  ],
+  "optsHi": [
+   "जस्ता",
+   "तांबा",
+   "सीसा",
+   "टिन"
+  ],
+  "correct": 0,
+  "explainEn": "Calamine is a zinc ore historically consisting of zinc carbonate or zinc silicate.",
+  "sourceHint": "NCERT Class 10 Science - Metals and Non-metals",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:34:45Z"
+ },
+ {
+  "id": "q_35a6ad947c5a7893",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which major tectonic plate forms the northern boundary of the Indian plate colliding with the Eurasian plate?",
+  "qHi": "कौन सी प्रमुख विवर्तनिक प्लेट यूरेशियन प्लेट के साथ टकराने वाली भारतीय प्लेट की उत्तरी सीमा बनाती है?",
+  "optsEn": [
+   "Arabian Plate",
+   "Tibetan Plate",
+   "Indian Plate boundary",
+   "There is no intermediate plate; it is a direct continent-continent collision"
+  ],
+  "optsHi": [
+   "अरबियन प्लेट",
+   "तिब्बती प्लेट",
+   "भारतीय प्लेट सीमा",
+   "कोई मध्यवर्ती प्लेट नहीं है; यह सीधा महाद्वीप-महाद्वीप टकराव है"
+  ],
+  "correct": 3,
+  "explainEn": "The collision that formed the Himalayas is a direct continent-continent convergence between the Indian Plate and the Eurasian Plate.",
+  "sourceHint": "NCERT Class 11 Geography - Fundamentals of Physical Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:34:45Z"
+ },
+ {
+  "id": "q_0ea7fb6afa47e58e",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "The Battle of Wandiwash in 1760 was fought between the British and which other European colonial power in India?",
+  "qHi": "1760 का वांडीवाश का युद्ध अंग्रेजों और भारत में किस अन्य यूरोपीय औपनिवेशिक शक्ति के बीच लड़ा गया था?",
+  "optsEn": [
+   "Portuguese",
+   "Dutch",
+   "French",
+   "Danish"
+  ],
+  "optsHi": [
+   "पुर्तगाली",
+   "डच",
+   "फ्रेंच",
+   "डेनिश"
+  ],
+  "correct": 2,
+  "explainEn": "The Battle of Wandiwash was a decisive battle in India during the Seven Years' War, won by the British against the French forces.",
+  "sourceHint": "Modern Indian History by Bipin Chandra",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:34:45Z"
+ },
+ {
+  "id": "q_348d6bd6abbcac97",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Article of the Constitution of India provides the President the power to consult the Supreme Court on questions of law or fact?",
+  "qHi": "भारत के संविधान का कौन सा अनुच्छेद राष्ट्रपति को कानून या तथ्य के प्रश्नों पर सर्वोच्च न्यायालय से परामर्श करने की शक्ति प्रदान करता है?",
+  "optsEn": [
+   "Article 142",
+   "Article 143",
+   "Article 144",
+   "Article 145"
+  ],
+  "optsHi": [
+   "अनुच्छेद 142",
+   "अनुच्छेद 143",
+   "अनुच्छेद 144",
+   "अनुच्छेद 145"
+  ],
+  "correct": 1,
+  "explainEn": "Article 143 of the Constitution confers advisory jurisdiction on the Supreme Court upon a reference made by the President.",
+  "sourceHint": "Constitution of India, Part V",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:34:45Z"
+ },
+ {
+  "id": "q_a8da1dc4b7ce6f89",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In plant physiology, which tissue is primarily responsible for the translocation of organic solutes and sugars from sources to sinks?",
+  "qHi": "पादप शरीर विज्ञान में, कौन सा ऊतक मुख्य रूप से स्रोतों से सिंक तक कार्बनिक विलेय और शर्करा के परिवहन के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Xylem",
+   "Phloem",
+   "Cortex",
+   "Pith"
+  ],
+  "optsHi": [
+   " जाइलम",
+   "फ्लोएम",
+   "कॉर्टेक्स",
+   "पिथ"
+  ],
+  "correct": 1,
+  "explainEn": "Phloem is the vascular tissue responsible for transporting organic nutrients, particularly sucrose, produced by photosynthesis.",
+  "sourceHint": "NCERT Class 11 Biology - Plant Physiology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:34:45Z"
  }
 ]

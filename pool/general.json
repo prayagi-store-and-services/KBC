@@ -5122,5 +5122,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-08T06:08:01Z"
+ },
+ {
+  "id": "q_e476276c0a1b3457",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which Indian city is famously known as the Pink City?",
+  "qHi": "किस भारतीय शहर को गुलाबी शहर के रूप में जाना जाता है?",
+  "optsEn": [
+   "Jaipur",
+   "Jodhpur",
+   "Udaipur",
+   "Bikaner"
+  ],
+  "optsHi": [
+   "जयपुर",
+   "जोधपुर",
+   "उदयपुर",
+   "बीकानेर"
+  ],
+  "correct": 0,
+  "explainEn": "Jaipur was painted pink in 1876 to welcome the Prince of Wales.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:32:10Z"
+ },
+ {
+  "id": "q_5cbd7dfe744da747",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which city is the headquarters of the Indian Space Research Organisation located?",
+  "qHi": "भारतीय अंतरिक्ष अनुसंधान संगठन का मुख्यालय किस शहर में स्थित है?",
+  "optsEn": [
+   "New Delhi",
+   "Mumbai",
+   "Bengaluru",
+   "Hyderabad"
+  ],
+  "optsHi": [
+   "नई दिल्ली",
+   "मुंबई",
+   "बेंगलुरु",
+   "हैदराबाद"
+  ],
+  "correct": 2,
+  "explainEn": "ISRO headquarters is situated in Bengaluru, Karnataka, where major administrative and policy decisions for the space program are made.",
+  "sourceHint": "ISRO official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:33:50Z"
+ },
+ {
+  "id": "q_d5dd69977ede1da1",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the famous novel 'Godaan'?",
+  "qHi": "प्रसिद्ध उपन्यास 'गोदान' किसने लिखा था?",
+  "optsEn": [
+   "Rabindranath Tagore",
+   "Munshi Premchand",
+   "Bankim Chandra Chatterjee",
+   "R. K. Narayan"
+  ],
+  "optsHi": [
+   "रवींद्रनाथ टैगोर",
+   "मुंशी प्रेमचंद",
+   "बंकिम चंद्र चट्टोपाध्याय",
+   "आर. के. नारायण"
+  ],
+  "correct": 1,
+  "explainEn": "Godaan is a Hindi novel by Munshi Premchand, widely regarded as one of the greatest Hindi novels of modern Indian literature.",
+  "sourceHint": "NCERT Hindi Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:33:50Z"
+ },
+ {
+  "id": "q_eb8783e0292bd1c7",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which national park in India is famous as the last refuge of the Asiatic lion?",
+  "qHi": "भारत का कौन सा राष्ट्रीय उद्यान एशियाई शेर के अंतिम आश्रय के रूप में प्रसिद्ध है?",
+  "optsEn": [
+   "Jim Corbett National Park",
+   "Kaziranga National Park",
+   "Gir National Park",
+   "Sundarbans National Park"
+  ],
+  "optsHi": [
+   "जिम कॉर्बेट राष्ट्रीय उद्यान",
+   "काजीरंगा राष्ट्रीय उद्यान",
+   "गीर राष्ट्रीय उद्यान",
+   "सुंदरबन राष्ट्रीय उद्यान"
+  ],
+  "correct": 2,
+  "explainEn": "Gir National Park and Wildlife Sanctuary in Gujarat is the only place in the wild where the Asiatic lion is found.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:33:50Z"
+ },
+ {
+  "id": "q_2898647fbe2e1d86",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the standard unit of electrical resistance in the International System of Units?",
+  "qHi": "अंतर्राष्ट्रीय इकाई प्रणाली में विद्युत प्रतिरोध की मानक इकाई क्या है?",
+  "optsEn": [
+   "Volt",
+   "Ampere",
+   "Ohm",
+   "Watt"
+  ],
+  "optsHi": [
+   "वोल्ट",
+   "एम्पीयर",
+   "ओम",
+   "वाट"
+  ],
+  "correct": 2,
+  "explainEn": "The ohm is the SI derived unit of electrical resistance, named after the German physicist Georg Ohm.",
+  "sourceHint": "NCERT Physics Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T13:33:50Z"
  }
 ]
