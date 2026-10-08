@@ -5262,5 +5262,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-08T13:33:50Z"
+ },
+ {
+  "id": "q_2a87eff69c56287b",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which vitamin is primarily obtained by the human body from direct exposure to sunlight?",
+  "qHi": "मानव शरीर को मुख्य रूप से सीधे सूर्य के प्रकाश के संपर्क में आने से कौन सा विटामिन प्राप्त होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin C",
+   "Vitamin D",
+   "Vitamin K"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन सी",
+   "विटामिन डी",
+   "विटामिन के"
+  ],
+  "correct": 2,
+  "explainEn": "Sunlight helps the human body synthesize Vitamin D in the skin.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:22:15Z"
+ },
+ {
+  "id": "q_5fbf74bae2af3ed1",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian state has the highest total forest cover in terms of area according to the India State of Forest Report?",
+  "qHi": "भारत वन स्थिति रिपोर्ट के अनुसार किस भारतीय राज्य में क्षेत्रफल के हिसाब से सबसे अधिक कुल वन आवरण है?",
+  "optsEn": [
+   "Madhya Pradesh",
+   "Arunachal Pradesh",
+   "Chhattisgarh",
+   "Odisha"
+  ],
+  "optsHi": [
+   "मध्य प्रदेश",
+   "अरुणाचल प्रदेश",
+   "छत्तीसगढ़",
+   "ओडिशा"
+  ],
+  "correct": 0,
+  "explainEn": "Madhya Pradesh has the largest forest cover in the country in terms of area, followed by Arunachal Pradesh.",
+  "sourceHint": "Forest Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:23:53Z"
+ },
+ {
+  "id": "q_cca2bb72f934f6e9",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which classical dance form originates from the state of Kerala and is traditionally performed with elaborate facial makeup and colorful costumes?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप केरल राज्य से उत्पन्न हुआ है और पारंपरिक रूप से विस्तृत फेशियल मेकअप और रंगीन वेशभूषा के साथ किया जाता है?",
+  "optsEn": [
+   "Bharatnatyam",
+   "Kathakali",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a major form of classical Indian dance that originated in Kerala, renowned for its storytelling and heavy makeup.",
+  "sourceHint": "Centre for Cultural Resources and Training",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:23:53Z"
+ },
+ {
+  "id": "q_690dc22364a3280c",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin is primarily produced in the human skin upon exposure to sunlight?",
+  "qHi": "सूर्य के प्रकाश के संपर्क में आने पर मानव त्वचा में मुख्य रूप से कौन सा विटामिन बनता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin C",
+   "Vitamin D",
+   "Vitamin K"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन सी",
+   "विटामिन डी",
+   "विटामिन के"
+  ],
+  "correct": 2,
+  "explainEn": "Vitamin D is synthesized in the skin when it is exposed to ultraviolet B rays from the sun.",
+  "sourceHint": "NCERT Biology Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:23:53Z"
  }
 ]

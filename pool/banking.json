@@ -7278,5 +7278,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-08T13:33:45Z"
+ },
+ {
+  "id": "q_8ccd7d505a26655b",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is an example of a public sector bank in India?",
+  "qHi": "निम्नलिखित में से कौन सा भारत में सार्वजनिक क्षेत्र के बैंक का उदाहरण है?",
+  "optsEn": [
+   "Punjab National Bank",
+   "HDFC Bank",
+   "ICICI Bank",
+   "Axis Bank"
+  ],
+  "optsHi": [
+   "पंजाब नेशनल बैंक",
+   "एचडीएफसी बैंक",
+   "आईसीआईसीआई बैंक",
+   "एक्सिस बैंक"
+  ],
+  "correct": 0,
+  "explainEn": "Punjab National Bank is a public sector bank, whereas HDFC, ICICI, and Axis are private sector banks.",
+  "sourceHint": "Ministry of Finance, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:22:12Z"
+ },
+ {
+  "id": "q_dc5db923082f3b2b",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of 'KYC' as used in the banking sector?",
+  "qHi": "बैंकिंग क्षेत्र में प्रयुक्त होने वाले 'KYC' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Know Your Customer",
+   "Keep Your Cash",
+   "Key Yield Calculation",
+   "Knowledge Yield Center"
+  ],
+  "optsHi": [
+   "नो योर कस्टमर",
+   "कीप योर कैश",
+   "की यील्ड कैलकुलेशन",
+   "नॉलेज यील्ड सेंटर"
+  ],
+  "correct": 0,
+  "explainEn": "KYC stands for Know Your Customer, a mandatory process by which banks obtain information about the identity and address of the customers.",
+  "sourceHint": "Reserve Bank of India Master Directions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:22:12Z"
+ },
+ {
+  "id": "q_9ce36989ae766645",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary function of a savings bank account?",
+  "qHi": "बचत बैंक खाते का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "To encourage savings and provide modest interest",
+   "To provide long term business loans",
+   "To trade in international stock markets",
+   "To pay corporate taxes"
+  ],
+  "optsHi": [
+   "बचत को प्रोत्साहित करना और मामूली ब्याज देना",
+   "दीर्घकालिक व्यावसायिक ऋण प्रदान करना",
+   "अंतर्राष्ट्रीय शेयर बाजारों में व्यापार करना",
+   "कॉर्पोरेट करों का भुगतान करना"
+  ],
+  "correct": 0,
+  "explainEn": "A savings account is designed to help individuals deposit their surplus money safely while earning a small interest on the deposits.",
+  "sourceHint": "NCERT Business Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:22:12Z"
+ },
+ {
+  "id": "q_93d9d38d7d62b7f5",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which term refers to the rate at which the Reserve Bank of India lends money to commercial banks in the short term?",
+  "qHi": "उस दर को क्या कहते हैं जिस पर भारतीय रिजर्व बैंक अल्प अवधि के लिए वाणिज्यिक बैंकों को ऋण देता है?",
+  "optsEn": [
+   "Repo Rate",
+   "Bank Rate",
+   "Cash Reserve Ratio",
+   "Statutory Liquidity Ratio"
+  ],
+  "optsHi": [
+   "रेपो रेट",
+   "बैंक रेट",
+   "नकद आरक्षित अनुपात",
+   "वैधानिक तरलता अनुपात"
+  ],
+  "correct": 0,
+  "explainEn": "Repo rate is the interest rate at which the central bank lends money to commercial banks in the event of any shortfall of funds.",
+  "sourceHint": "RBI Monetary Policy Report",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:22:12Z"
+ },
+ {
+  "id": "q_764c3b5b84f2d88c",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'I' stand for in the acronym 'NEFT' used in banking?",
+  "qHi": "बैंकिंग में प्रयुक्त संक्षिप्त नाम 'NEFT' में अक्षर 'I' का क्या अर्थ है?",
+  "optsEn": [
+   "India",
+   "Institute",
+   "International",
+   "Interbank"
+  ],
+  "optsHi": [
+   "इंडिया",
+   "इंस्टीट्यूट",
+   "इंटरनेशनल",
+   "इंटरबैंक"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, an electronic funds transfer system operated by the Reserve Bank of India.",
+  "sourceHint": "RBI Payment Systems",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:22:12Z"
+ },
+ {
+  "id": "q_64e72194b3216071",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which monetary policy instrument refers to the minimum percentage of deposits that commercial banks must keep with the Reserve Bank of India in the form of liquid cash?",
+  "qHi": "कौन सा मौद्रिक नीति उपकरण उस न्यूनतम प्रतिशत जमा को संदर्भित करता है जिसे वाणिज्यिक बैंकों को भारतीय रिजर्व बैंक के पास तरल नकदी के रूप में रखना होता है?",
+  "optsEn": [
+   "Statutory Liquidity Ratio",
+   "Cash Reserve Ratio",
+   "Bank Rate",
+   "Repo Rate"
+  ],
+  "optsHi": [
+   "वैधानिक तरलता अनुपात",
+   "नकद आरक्षित अनुपात",
+   "बैंक दर",
+   "रेपो दर"
+  ],
+  "correct": 1,
+  "explainEn": "Cash Reserve Ratio (CRR) is the specified minimum fraction of the total deposits of customers, which commercial banks have to hold as reserves either in cash or with the central bank.",
+  "sourceHint": "Reserve Bank of India publications and NCERT Economics textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:23:49Z"
+ },
+ {
+  "id": "q_f9cb43fb2fc098a1",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque becomes stale after the completion of how many months from its date of issuance, rendering it invalid for payment by a bank?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, कोई चेक जारी होने की तारीख से कितने महीने पूरे होने के बाद पुराना (बासी) हो जाता है, जिससे वह बैंक द्वारा भुगतान के लिए अमान्य हो जाता है?",
+  "optsEn": [
+   "1 month",
+   "3 months",
+   "6 months",
+   "12 months"
+  ],
+  "optsHi": [
+   "1 महीना",
+   "3 महीने",
+   "6 महीने",
+   "12 महीने"
+  ],
+  "correct": 1,
+  "explainEn": "Reserve Bank of India guidelines state that validity period of cheques, demand drafts, pay orders, and banker's cheques is 3 months from the date of the instrument.",
+  "sourceHint": "RBI Master Directions on Banking Operations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:23:49Z"
+ },
+ {
+  "id": "q_da54ca8ccdcccb64",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the context of the financial acronym 'LAF', which is frequently used by the Reserve Bank of India in monetary management?",
+  "qHi": "वित्तीय संक्षिप्त नाम 'LAF' के संदर्भ में अक्षर 'L' का क्या अर्थ है, जिसका उपयोग भारतीय रिजर्व बैंक द्वारा मौद्रिक प्रबंधन में बार-बार किया जाता है?",
+  "optsEn": [
+   "Liquidity",
+   "Liability",
+   "Leverage",
+   "Ledger"
+  ],
+  "optsHi": [
+   "लिक्विडिटी (तरलता)",
+   "लायबिलिटी (देयता)",
+   "लीवेज (उत्तोलन)",
+   "लेजर (बहीखाता)"
+  ],
+  "correct": 0,
+  "explainEn": "LAF stands for Liquidity Adjustment Facility, which is a monetary policy tool used by the RBI to aid banks in adjusting their daily liquidity mismatches.",
+  "sourceHint": "Reserve Bank of India website glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:23:49Z"
+ },
+ {
+  "id": "q_b5209fb18685d2bc",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum deposit insurance coverage limit provided to an individual bank depositor by the Deposit Insurance and Credit Guarantee Corporation (DICGC)?",
+  "qHi": "डिपॉजिट इंश्योरेंस एंड क्रेडिट गारंटी कॉरपोरेशन (DICGC) द्वारा व्यक्तिगत बैंक जमाकर्ता को प्रदान की जाने वाली अधिकतम जमा बीमा कवरेज सीमा क्या है?",
+  "optsEn": [
+   "Rs. 1 Lakh",
+   "Rs. 2 Lakh",
+   "Rs. 5 Lakh",
+   "Rs. 10 Lakh"
+  ],
+  "optsHi": [
+   "₹1 लाख",
+   "₹2 लाख",
+   "₹5 लाख",
+   "₹10 लाख"
+  ],
+  "correct": 2,
+  "explainEn": "DICGC insures all bank deposits, such as savings, fixed, current, and recurring deposits for up to Rs. 5 Lakh per depositor per bank.",
+  "sourceHint": "DICGC Official Website guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:23:49Z"
+ },
+ {
+  "id": "q_b8b4eda18ad32e3a",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institution in India acts as the apex regulatory body for overall regulation and licensing of cooperative banks in the country?",
+  "qHi": "भारत में कौन सी संस्था देश में सहकारी बैंकों के समग्र विनियमन और लाइसेंसिंग के लिए शीर्ष नियामक निकाय के रूप में कार्य करती है?",
+  "optsEn": [
+   "NABARD",
+   "Reserve Bank of India",
+   "SIDBI",
+   "Ministry of Finance"
+  ],
+  "optsHi": [
+   "नाबार्ड",
+   "भारतीय रिजर्व बैंक",
+   "सिडबी",
+   "वित्त मंत्रालय"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India regulates urban cooperative banks and state/central cooperative banks under the Banking Regulation Act, 1949.",
+  "sourceHint": "Banking Regulation Act, 1949 and RBI regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:23:49Z"
+ },
+ {
+  "id": "q_45dfd0f42c4ae753",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of the financial regulatory term 'Basel Norms', which are adopted by banks internationally?",
+  "qHi": "वित्तीय नियामक शब्द 'बेसल मानदंड' (Basel Norms) का प्राथमिक उद्देश्य क्या है, जिसे अंतरराष्ट्रीय स्तर पर बैंकों द्वारा अपनाया जाता है?",
+  "optsEn": [
+   "To regulate foreign exchange rates",
+   "To ensure adequate capital adequacy against financial risks",
+   "To control domestic inflation rates",
+   "To fix interest rates on retail loans"
+  ],
+  "optsHi": [
+   "विदेशी विनिमय दरों को विनियमित करना",
+   "वित्तीय जोखिमों के खिलाफ पर्याप्त पूंजी पर्याप्तता सुनिश्चित करना",
+   "घरेलू मुद्रास्फीति दरों को नियंत्रित करना",
+   "खुदरा ऋणों पर ब्याज दरों को तय करना"
+  ],
+  "correct": 1,
+  "explainEn": "Basel Accords are international banking regulations issued by the Basel Committee on Banking Supervision (BCBS) that set capital requirements for banks to manage risk.",
+  "sourceHint": "Bank for International Settlements (BIS) publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:23:49Z"
+ },
+ {
+  "id": "q_5d9020566bb08bb5",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the Indian financial system, what does the term 'RTGS' stand for regarding high-value fund transfers?",
+  "qHi": "भारतीय वित्तीय प्रणाली में, उच्च मूल्य के फंड ट्रांसफर के संबंध में 'RTGS' शब्द का क्या पूर्ण रूप है?",
+  "optsEn": [
+   "Real Time Gross Settlement",
+   "Rapid Transfer Guarantee System",
+   "Regular Transaction Growth Scheme",
+   "Reserve Transfer Guarantee Standard"
+  ],
+  "optsHi": [
+   "रियल टाइम ग्रॉस सेटलमेंट",
+   "रैपिड ट्रांसफर गारंटी सिस्टम",
+   "रेगुलर ट्रांजैक्शन ग्रोथ स्कीम",
+   "रिजर्व ट्रांसफर गारंटी स्टैंडर्ड"
+  ],
+  "correct": 0,
+  "explainEn": "RTGS stands for Real Time Gross Settlement, which means the funds settlement takes place on a real-time and gross basis without bunching with any other transactions.",
+  "sourceHint": "Reserve Bank of India payment systems overview",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:23:49Z"
+ },
+ {
+  "id": "q_7295da00470bd8c4",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of account in a commercial bank is generally maintained by business entities and does not earn any interest on the balances?",
+  "qHi": "वाणिज्यिक बैंक में किस प्रकार का खाता आम तौर पर व्यावसायिक संस्थाओं द्वारा रखा जाता है और शेष राशि पर कोई ब्याज अर्जित नहीं होता है?",
+  "optsEn": [
+   "Savings Account",
+   "Fixed Deposit Account",
+   "Current Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "बचत खाता",
+   "सावधि जमा खाता",
+   "चालू खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 2,
+  "explainEn": "A current account is designed for business entities to facilitate high volumes of daily transactions and generally does not provide any interest to the account holder.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) study material",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:23:49Z"
  }
 ]

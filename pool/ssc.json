@@ -4758,5 +4758,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-08T13:34:45Z"
+ },
+ {
+  "id": "q_7a167336688a3995",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the standard chemical formula for washing soda?",
+  "qHi": "वाशिंग सोडा (धोने का सोडा) का मानक रासायनिक सूत्र क्या है?",
+  "optsEn": [
+   "Na2CO3.10H2O",
+   "NaHCO3",
+   "NaOH",
+   "CaSO4.2H2O"
+  ],
+  "optsHi": [
+   "Na2CO3.10H2O",
+   "NaHCO3",
+   "NaOH",
+   "CaSO4.2H2O"
+  ],
+  "correct": 0,
+  "explainEn": "Washing soda is chemically known as sodium carbonate decahydrate, represented by the formula Na2CO3.10H2O.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:22:07Z"
+ },
+ {
+  "id": "q_534e6144c27f1dfc",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which dynasty constructed the famous Ellora Caves?",
+  "qHi": "प्रसिद्ध एलोरा गुफाओं का निर्माण किस राजवंश ने करवाया था?",
+  "optsEn": [
+   "Mauryan Dynasty",
+   "Gupta Dynasty",
+   "Rashtrakuta Dynasty",
+   "Chola Dynasty"
+  ],
+  "optsHi": [
+   "मौर्य वंश",
+   "गुप्त वंश",
+   "राष्ट्रकूट वंश",
+   "चोल वंश"
+  ],
+  "correct": 2,
+  "explainEn": "The magnificent rock-cut architecture of the Ellora Caves in Maharashtra was built during the rule of the Rashtrakuta dynasty.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:22:07Z"
+ },
+ {
+  "id": "q_10f407f657b02a52",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which amendment of the Constitution of India added the Fundamental Duties for citizens?",
+  "qHi": "भारत के संविधान के किस संशोधन द्वारा नागरिकों के लिए मौलिक कर्तव्यों को जोड़ा गया था?",
+  "optsEn": [
+   "42nd Amendment Act",
+   "44th Amendment Act",
+   "86th Amendment Act",
+   "73rd Amendment Act"
+  ],
+  "optsHi": [
+   "42वां संशोधन अधिनियम",
+   "44वां संशोधन अधिनियम",
+   "86वां संशोधन अधिनियम",
+   "73वां संशोधन अधिनियम"
+  ],
+  "correct": 0,
+  "explainEn": "The 42nd Constitutional Amendment Act of 1976 added Article 51A, incorporating Fundamental Duties into the Constitution.",
+  "sourceHint": "NCERT Class 11 Indian Constitution at Work",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:23:43Z"
+ },
+ {
+  "id": "q_9e5394e03da4bc02",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Bihu is a traditional festival primarily celebrated in which Indian state?",
+  "qHi": "बिहू एक पारंपरिक त्योहार है जो मुख्य रूप से किस भारतीय राज्य में मनाया जाता है?",
+  "optsEn": [
+   "Kerala",
+   "Assam",
+   "Punjab",
+   "Tamil Nadu"
+  ],
+  "optsHi": [
+   "केरल",
+   "असम",
+   "पंजाब",
+   "तमिलनाडु"
+  ],
+  "correct": 1,
+  "explainEn": "Bihu is a set of three cultural festivals of Assam namely Rongali Bihu, Kongali Bihu, and Bhogali Bihu.",
+  "sourceHint": "NCERT Class 6 Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:23:43Z"
+ },
+ {
+  "id": "q_58604544e6b25776",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the chemical formula of common salt (sodium chloride)?",
+  "qHi": "साधारण नमक (सोडियम क्लोराइड) का रासायनिक सूत्र क्या है?",
+  "optsEn": [
+   "Na2CO3",
+   "NaCl",
+   "NaOH",
+   "NaHCO3"
+  ],
+  "optsHi": [
+   "Na2CO3",
+   "NaCl",
+   "NaOH",
+   "NaHCO3"
+  ],
+  "correct": 1,
+  "explainEn": "Sodium chloride, commonly known as salt, has the chemical formula NaCl representing an ionic compound of sodium and chlorine.",
+  "sourceHint": "NCERT Class 10 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:23:43Z"
+ },
+ {
+  "id": "q_104bcfc2aa5c3c25",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who presides over the joint sitting of both Houses of the Parliament in India?",
+  "qHi": "भारत में संसद के दोनों सदनों की संयुक्त बैठक की अध्यक्षता कौन करता है?",
+  "optsEn": [
+   "President of India",
+   "Vice President of India",
+   "Speaker of the Lok Sabha",
+   "Prime Minister of India"
+  ],
+  "optsHi": [
+   "भारत के राष्ट्रपति",
+   "भारत के उपराष्ट्रपति",
+   "लोकसभा के अध्यक्ष",
+   "भारत के प्रधानमंत्री"
+  ],
+  "correct": 2,
+  "explainEn": "Under Article 108 of the Constitution, the Speaker of the Lok Sabha presides over the joint sitting of both houses of Parliament.",
+  "sourceHint": "M. Laxmikanth Indian Polity",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:23:43Z"
+ },
+ {
+  "id": "q_09aa5e0d5fdb4ac3",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which act introduced the system of dyarchy at the provincial level in British India?",
+  "qHi": "किस अधिनियम ने ब्रिटिश भारत में प्रांतीय स्तर पर द्वैध शासन प्रणाली की शुरुआत की?",
+  "optsEn": [
+   "Government of India Act 1919",
+   "Government of India Act 1935",
+   "Indian Councils Act 1909",
+   "Indian Councils Act 1892"
+  ],
+  "optsHi": [
+   "भारत सरकार अधिनियम 1919",
+   "भारत सरकार अधिनियम 1935",
+   "भारतीय परिषद अधिनियम 1909",
+   "भारतीय परिषद अधिनियम 1892"
+  ],
+  "correct": 0,
+  "explainEn": "The Government of India Act 1919 (Montagu-Chelmsford Reforms) introduced dyarchy in the provinces, dividing executive subjects into transferred and reserved.",
+  "sourceHint": "Indian Polity by M. Laxmikanth / Historical Background",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:24:35Z"
+ },
+ {
+  "id": "q_c0ba7fd5d9fc3987",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which element is added to natural rubber during the process of vulcanization to make it hard and durable?",
+  "qHi": "प्राकृतिक रबर को कठोर और टिकाऊ बनाने के लिए वल्नीकरण की प्रक्रिया के दौरान उसमें कौन सा तत्व मिलाया जाता है?",
+  "optsEn": [
+   "Sulfur",
+   "Phosphorus",
+   "Silicon",
+   "Nitrogen"
+  ],
+  "optsHi": [
+   "सल्फर",
+   "फास्फोरस",
+   "सिलिकॉन",
+   "नाइट्रोजन"
+  ],
+  "correct": 0,
+  "explainEn": "Vulcanization involves heating natural rubber with sulfur to cross-link the polymer chains, improving its elasticity and durability.",
+  "sourceHint": "NCERT Class 12 Chemistry",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:24:35Z"
+ },
+ {
+  "id": "q_d8d4125575acd382",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of ancient Indian history, what was the term 'Vishti' used to denote?",
+  "qHi": "प्राचीन भारतीय इतिहास के संदर्भ में, 'विष्टि' शब्द का प्रयोग किसके लिए किया जाता था?",
+  "optsEn": [
+   "Forced labor",
+   "A gold coin",
+   "Land tax",
+   "Military tax"
+  ],
+  "optsHi": [
+   "बेगार या जबरन श्रम",
+   "एक स्वर्ण सिक्का",
+   "भू-राजस्व",
+   "सैन्य कर"
+  ],
+  "correct": 0,
+  "explainEn": "Vishti refers to forced labor (or unpaid labor) extracted by the state or landlords in ancient and early medieval India.",
+  "sourceHint": "NCERT Class 12 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:24:35Z"
+ },
+ {
+  "id": "q_9958bb8f3b6996ef",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Article of the Directive Principles of State Policy directs the State to organize Village Panchayats?",
+  "qHi": "राज्य के नीति निर्देशक तत्वों का कौन सा अनुच्छेद राज्य को ग्राम पंचायतों का संगठन करने का निर्देश देता है?",
+  "optsEn": [
+   "Article 40",
+   "Article 44",
+   "Article 48",
+   "Article 50"
+  ],
+  "optsHi": [
+   "अनुच्छेद 40",
+   "अनुच्छेद 44",
+   "अनुच्छेद 48",
+   "अनुच्छेद 50"
+  ],
+  "correct": 0,
+  "explainEn": "Article 40 of the Constitution of India directs the State to organize village panchayats and endow them with necessary powers.",
+  "sourceHint": "Constitution of India, Part IV",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:24:35Z"
  }
 ]

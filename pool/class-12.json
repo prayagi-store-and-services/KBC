@@ -6774,5 +6774,509 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-08T13:34:12Z"
+ },
+ {
+  "id": "q_c5313476084818bd",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of chemical reaction is the photosynthesis process primarily classified as?",
+  "qHi": "प्रकाश संश्लेषण की प्रक्रिया को मुख्य रूप से किस प्रकार की रासायनिक प्रतिक्रिया के रूप में वर्गीकृत किया जाता है?",
+  "optsEn": [
+   "Oxidation-reduction reaction",
+   "Neutralization reaction",
+   "Combustion reaction",
+   "Precipitation reaction"
+  ],
+  "optsHi": [
+   "ऑक्सीकरण-अपचयन प्रतिक्रिया",
+   "उदासीनीकरण प्रतिक्रिया",
+   "दहन प्रतिक्रिया",
+   "क्षेपण प्रतिक्रिया"
+  ],
+  "correct": 0,
+  "explainEn": "Photosynthesis is a redox reaction where carbon dioxide is reduced and water is oxidized.",
+  "sourceHint": "NCERT Class 11 Biology Chapter 13",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:21:58Z"
+ },
+ {
+  "id": "q_fab7864391bee99a",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which factor is primarily responsible for the demographic transition in a population?",
+  "qHi": "जनसंख्या में जनसांख्यिकीय संक्रमण के लिए मुख्य रूप से कौन सा कारक उत्तरदायी है?",
+  "optsEn": [
+   "Rainfall patterns",
+   "Industrialization and urbanization",
+   "Mineral resources",
+   "Wind velocity"
+  ],
+  "optsHi": [
+   "वर्षा के पैटर्न",
+   "औद्योगीकरण और शहरीकरण",
+   "खनिज संसाधन",
+   "पवन वेग"
+  ],
+  "correct": 1,
+  "explainEn": "Demographic transition theory links population growth changes to economic development, industrialization, and urbanization.",
+  "sourceHint": "NCERT Class 12 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:21:58Z"
+ },
+ {
+  "id": "q_1a358754e3aa46a0",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the chemical formula of ozone?",
+  "qHi": "ओजोन का रासायनिक सूत्र क्या है?",
+  "optsEn": [
+   "O",
+   "O2",
+   "O3",
+   "O4"
+  ],
+  "optsHi": [
+   "O",
+   "O2",
+   "O3",
+   "O4"
+  ],
+  "correct": 2,
+  "explainEn": "Ozone is an inorganic molecule with the chemical formula O3, consisting of three oxygen atoms.",
+  "sourceHint": "NCERT Class 12 Chemistry Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:21:58Z"
+ },
+ {
+  "id": "q_39cb9962771fa9b1",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which sector contributes the largest share to India's Gross Domestic Product (GDP) in recent decades?",
+  "qHi": "हाल के दशकों में भारत के सकल घरेलू उत्पाद (GDP) में सबसे बड़ा हिस्सा किस क्षेत्र का है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Quaternary sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "तृतीयक क्षेत्र",
+   "चतुर्धातुक क्षेत्र"
+  ],
+  "correct": 2,
+  "explainEn": "The tertiary sector (services sector) is the largest contributor to India's GDP.",
+  "sourceHint": "NCERT Class 12 Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:21:58Z"
+ },
+ {
+  "id": "q_1a8d34571d449063",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the order of the chemical reaction if the rate of the reaction is independent of the concentration of the reactants?",
+  "qHi": "रासायनिक अभिक्रिया की कोटि क्या होगी यदि अभिक्रिया की दर अभिकारकों की सांद्रता पर निर्भर नहीं करती है?",
+  "optsEn": [
+   "Zero order",
+   "First order",
+   "Second order",
+   "Fractional order"
+  ],
+  "optsHi": [
+   "शून्य कोटि",
+   "प्रथम कोटि",
+   "द्वितीय कोटि",
+   "भिन्नात्मक कोटि"
+  ],
+  "correct": 0,
+  "explainEn": "For a zero-order reaction, the rate is proportional to the zero power of the concentration of reactants, meaning it is independent of concentration.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:23:33Z"
+ },
+ {
+  "id": "q_b6b1253fad21d24d",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which phenomenon provides direct evidence for the wave nature of electrons?",
+  "qHi": "कौन सी घटना इलेक्ट्रॉनों की तरंग प्रकृति का प्रत्यक्ष प्रमाण प्रदान करती है?",
+  "optsEn": [
+   "Photoelectric effect",
+   "Electron diffraction",
+   "Radioactive decay",
+   "Blackbody radiation"
+  ],
+  "optsHi": [
+   "प्रकाश विद्युत प्रभाव",
+   "इलेक्ट्रॉन विवर्तन",
+   "रेडियोधर्मी क्षय",
+   "कृष्णिका विकिरण"
+  ],
+  "correct": 1,
+  "explainEn": "Davisson and Germer experiment demonstrated electron diffraction, verifying the de Broglie hypothesis of wave nature of electrons.",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:23:33Z"
+ },
+ {
+  "id": "q_3da87f5d700ab224",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In microeconomics, what does a downward-sloping demand curve typically indicate?",
+  "qHi": "व्यष्टि अर्थशास्त्र में, नीचे की ओर ढलान वाला मांग वक्र आमतौर पर क्या दर्शाता है?",
+  "optsEn": [
+   "Direct relationship between price and quantity demanded",
+   "Inverse relationship between price and quantity demanded",
+   "Constant relationship between price and supply",
+   "Proportional relationship between income and demand"
+  ],
+  "optsHi": [
+   "कीमत और मांग की गई मात्रा के बीच सीधा संबंध",
+   "कीमत और मांग की गई मात्रा के बीच व्युत्क्रम संबंध",
+   "कीमत और आपूर्ति के बीच स्थिर संबंध",
+   "आय और मांग के बीच आनुपातिक संबंध"
+  ],
+  "correct": 1,
+  "explainEn": "According to the law of demand, as the price of a good increases, the quantity demanded decreases, resulting in a downward-sloping curve.",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Microeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:23:33Z"
+ },
+ {
+  "id": "q_71bea8bf6f949c80",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which term describes the process of community development over time in a previously barren area?",
+  "qHi": "कौन सा शब्द पहले से बंजर क्षेत्र में समय के साथ समुदाय के विकास की प्रक्रिया का वर्णन करता है?",
+  "optsEn": [
+   "Secondary succession",
+   "Primary succession",
+   "Eulittoral zone",
+   "Climax stagnation"
+  ],
+  "optsHi": [
+   "द्वितीयक अनुक्रमण",
+   "प्राथमिक अनुक्रमण",
+   "यूलिटोरल क्षेत्र",
+   "क्लाइमेक्स ठहराव"
+  ],
+  "correct": 1,
+  "explainEn": "Primary succession is ecological succession that begins in essentially lifeless areas, such as regions where there is no soil or where the soil is incapable of sustaining life.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 13",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:23:33Z"
+ },
+ {
+  "id": "q_2b3331dd9d3163cc",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the time complexity of searching for an element in a balanced Binary Search Tree containing 'n' elements?",
+  "qHi": "'n' तत्वों वाले संतुलित बाइनरी सर्च ट्री में किसी तत्व को खोजने की समय जटिलता क्या है?",
+  "optsEn": [
+   "O(n)",
+   "O(log n)",
+   "O(n^2)",
+   "O(1)"
+  ],
+  "optsHi": [
+   "O(n)",
+   "O(log n)",
+   "O(n^2)",
+   "O(1)"
+  ],
+  "correct": 1,
+  "explainEn": "In a balanced Binary Search Tree, the height of the tree is log n, so search operations take logarithmic time complexity.",
+  "sourceHint": "NCERT Class 12 Computer Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:23:33Z"
+ },
+ {
+  "id": "q_3db0a92c770eaba9",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which historical site is famous for the rock-cut monolithic Kailash Temple built by the Rashtrakutas?",
+  "qHi": "राष्ट्रकूटों द्वारा निर्मित शैल-कृत एकाश्म कैलाश मंदिर के लिए कौन सा ऐतिहासिक स्थल प्रसिद्ध है?",
+  "optsEn": [
+   "Ajanta Caves",
+   "Ellora Caves",
+   "Elephanta Caves",
+   "Badami Caves"
+  ],
+  "optsHi": [
+   "अजंता की गुफाएं",
+   "एलोरा की गुफाएं",
+   "एलीफेंटा की गुफाएं",
+   "बादामी की गुफाएं"
+  ],
+  "correct": 1,
+  "explainEn": "Cave 16 of the Ellora Caves features the monumental rock-cut Kailash Temple, commissioned by the Rashtrakuta king Krishna I.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part I",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:23:33Z"
+ },
+ {
+  "id": "q_a9048bce8a30d7f4",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following kingdoms established absolute control over the trade routes of Malabar through the capture of Calicut in the late 18th century?",
+  "qHi": "अठारहवीं शताब्दी के अंत में कालीकट पर अधिकार करके निम्नलिखित में से किस राज्य ने मालाबार के व्यापार मार्गों पर पूर्ण नियंत्रण स्थापित किया था?",
+  "optsEn": [
+   "Kingdom of Mysore",
+   "Maratha Empire",
+   "Travancore Kingdom",
+   "Nizam of Hyderabad"
+  ],
+  "optsHi": [
+   "मैसूर साम्राज्य",
+   "मराठा साम्राज्य",
+   "त्रावणकोर साम्राज्य",
+   "हैदराबाद का निज़ाम"
+  ],
+  "correct": 0,
+  "explainEn": "Hyder Ali and Tipu Sultan of Mysore expanded their control over the Malabar coast, capturing Calicut to dominate the spice trade.",
+  "sourceHint": "NCERT Class 12 History - Themes in Indian History Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:24:24Z"
+ },
+ {
+  "id": "q_b9d1b1f2dea5bade",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian macroeconomics, which measure of money supply includes total post office savings bank deposits in addition to M1?",
+  "qHi": "भारतीय समष्टि अर्थशास्त्र के संदर्भ में, मुद्रा आपूर्ति के किस माप में M1 के अलावा कुल डाकघर बचत बैंक जमा शामिल हैं?",
+  "optsEn": [
+   "M2",
+   "M3",
+   "M4",
+   "M1"
+  ],
+  "optsHi": [
+   "M2",
+   "M3",
+   "M4",
+   "M1"
+  ],
+  "correct": 0,
+  "explainEn": "According to RBI and macroeconomic definitions, M2 is defined as M1 plus savings deposits with post office savings banks.",
+  "sourceHint": "NCERT Class 12 Economics - Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:24:24Z"
+ },
+ {
+  "id": "q_9e6eddca190cce33",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which enzyme is primarily responsible for the continuous synthesis of the leading strand during DNA replication?",
+  "qHi": "डीएनए प्रतिकृति के दौरान अग्रणी स्ट्रैंड (leading strand) के निरंतर संश्लेषण के लिए मुख्य रूप से कौन सा एंजाइम जिम्मेदार है?",
+  "optsEn": [
+   "DNA polymerase",
+   "RNA primer",
+   "DNA ligase",
+   "Helicase"
+  ],
+  "optsHi": [
+   "डीएनए पोलीमरेज़",
+   "आरएनए प्राइमर",
+   "डीएनए लाइगेस",
+   "हेलिकेस"
+  ],
+  "correct": 0,
+  "explainEn": "DNA polymerase catalyses the polymerization of deoxynucleotides along the template strand in the 5' to 3' direction continuously on the leading strand.",
+  "sourceHint": "NCERT Class 12 Biology - Chapter 6 Molecular Basis of Inheritance",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:24:24Z"
+ },
+ {
+  "id": "q_8e246eb69f9cda2d",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which coordination compound exhibits linkage isomerism due to the presence of an ambidentate ligand?",
+  "qHi": "कौन सा उपसहसंयोजन यौगिक उभयसंती लिगैंड (ambidentate ligand) की उपस्थिति के कारण लिंकेज समावयवता प्रदर्शित करता है?",
+  "optsEn": [
+   "[Co(NH3)5(NO2)]Cl2",
+   "[Co(NH3)5Cl]SO4",
+   "[Co(NH3)6]Cl3",
+   "[Pt(NH3)4Cl2]Cl2"
+  ],
+  "optsHi": [
+   "[Co(NH3)5(NO2)]Cl2",
+   "[Co(NH3)5Cl]SO4",
+   "[Co(NH3)6]Cl3",
+   "[Pt(NH3)4Cl2]Cl2"
+  ],
+  "correct": 0,
+  "explainEn": "The nitrite ion (NO2-) is an ambidentate ligand that can coordinate through nitrogen or oxygen, leading to linkage isomerism.",
+  "sourceHint": "NCERT Class 12 Chemistry - Chapter 9 Coordination Compounds",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:24:24Z"
+ },
+ {
+  "id": "q_ee51f1aa5010f47b",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the order of the reaction if the rate law is given by Rate = k[A]^1.5[B]^-0.5?",
+  "qHi": "यदि दर नियम Rate = k[A]^1.5[B]^-0.5 द्वारा दिया गया है, तो अभिक्रिया की कोटि क्या है?",
+  "optsEn": [
+   "1",
+   "2",
+   "1.5",
+   "0.5"
+  ],
+  "optsHi": [
+   "1",
+   "2",
+   "1.5",
+   "0.5"
+  ],
+  "correct": 0,
+  "explainEn": "The overall order of a reaction is the sum of the powers of the concentrations of the reactants in the rate law expression (1.5 + (-0.5) = 1).",
+  "sourceHint": "NCERT Class 12 Chemistry - Chapter 3 Chemical Kinetics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:24:24Z"
+ },
+ {
+  "id": "q_52bb5f5ca71be364",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which article of the Constitution of India provides the procedure for the impeachment of the President?",
+  "qHi": "भारत के संविधान का कौन सा अनुच्छेद राष्ट्रपति पर महाभियोग की प्रक्रिया प्रदान करता है?",
+  "optsEn": [
+   "Article 61",
+   "Article 54",
+   "Article 72",
+   "Article 75"
+  ],
+  "optsHi": [
+   "अनुच्छेद 61",
+   "अनुच्छेद 54",
+   "अनुच्छेद 72",
+   "अनुच्छेद 75"
+  ],
+  "correct": 0,
+  "explainEn": "Article 61 of the Indian Constitution lays down the procedure for the impeachment of the President for violation of the Constitution.",
+  "sourceHint": "Constitution of India / NCERT Class 12 Political Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:24:24Z"
+ },
+ {
+  "id": "q_f4c33a9df669e21c",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which ecosystem has the highest net primary productivity (NPP) per unit area globally among the following options?",
+  "qHi": "निम्नलिखित विकल्पों में से किस पारिस्थितिकी तंत्र की प्रति इकाई क्षेत्र में वैश्विक स्तर पर शुद्ध प्राथमिक उत्पादकता (NPP) सबसे अधिक है?",
+  "optsEn": [
+   "Tropical rain forest",
+   "Open ocean",
+   "Tundra",
+   "Desert"
+  ],
+  "optsHi": [
+   "उष्णकटिबंधीय वर्षा वन",
+   "खुला महासागर",
+   "टुंड्रा",
+   "मरुस्थल"
+  ],
+  "correct": 0,
+  "explainEn": "Tropical rain forests have high temperatures and abundant moisture, supporting the highest rate of biomass production per unit area.",
+  "sourceHint": "NCERT Class 12 Biology - Chapter 14 Ecosystem",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:24:24Z"
+ },
+ {
+  "id": "q_0463ec35d5850d43",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In 1946, the Cabinet Mission proposed a constitutional structure for India consisting of a weak center and provinces grouped into how many sections?",
+  "qHi": "1946 में, कैबिनेट मिशन ने भारत के लिए एक कमजोर केंद्र और कितने खंडों (sections) में समूहीकृत प्रांतों से युक्त एक संवैधानिक ढांचा प्रस्तावित किया?",
+  "optsEn": [
+   "Three sections",
+   "Two sections",
+   "Four sections",
+   "Five sections"
+  ],
+  "optsHi": [
+   "तीन खंड",
+   "दो खंड",
+   "चार खंड",
+   "पाँच खंड"
+  ],
+  "correct": 0,
+  "explainEn": "The Cabinet Mission proposed that provinces should be grouped into three sections: Section A (Hindu-majority provinces), and Sections B and C (Muslim-majority provinces).",
+  "sourceHint": "NCERT Class 12 History - Themes in Indian History Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:24:24Z"
  }
 ]

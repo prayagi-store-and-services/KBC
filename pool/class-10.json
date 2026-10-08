@@ -6606,5 +6606,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-08T13:34:06Z"
+ },
+ {
+  "id": "q_0bd4e19e81a7cf5b",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which part of a plant cell contains chlorophyll?",
+  "qHi": "पादप कोशिका के किस भाग में क्लोरोफिल पाया जाता है?",
+  "optsEn": [
+   "Mitochondria",
+   "Chloroplast",
+   "Nucleus",
+   "Vacuole"
+  ],
+  "optsHi": [
+   "माइटोकॉन्ड्रिया",
+   "क्लोरोप्लास्ट",
+   "केंद्रक",
+   "रिक्तिका"
+  ],
+  "correct": 1,
+  "explainEn": "Chloroplasts are the plant cell organelles that contain chlorophyll and carry out photosynthesis.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:22:27Z"
+ },
+ {
+  "id": "q_06a9697377df5d83",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who presides over the joint sitting of both Houses of the Indian Parliament?",
+  "qHi": "भारतीय संसद के दोनों सदनों की संयुक्त बैठक की अध्यक्षता कौन करता है?",
+  "optsEn": [
+   "President of India",
+   "Prime Minister of India",
+   "Speaker of the Lok Sabha",
+   "Vice President of India"
+  ],
+  "optsHi": [
+   "भारत के राष्ट्रपति",
+   "भारत के प्रधानमंत्री",
+   "लोकसभा के अध्यक्ष",
+   "भारत के उपराष्ट्रपति"
+  ],
+  "correct": 2,
+  "explainEn": "According to the Constitution of India, the Speaker of the Lok Sabha presides over a joint sitting of both Houses.",
+  "sourceHint": "Constitution of India, Article 118",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:22:27Z"
+ },
+ {
+  "id": "q_86d16f2e6a260833",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of reaction is the formation of water from hydrogen and oxygen gases?",
+  "qHi": "हाइड्रोजन और ऑक्सीजन गैसों से पानी का बनना किस प्रकार की अभिक्रिया है?",
+  "optsEn": [
+   "Decomposition reaction",
+   "Combination reaction",
+   "Displacement reaction",
+   "Double displacement reaction"
+  ],
+  "optsHi": [
+   "वियोजन अभिक्रिया",
+   "संयोजन अभिक्रिया",
+   "विस्थापन अभिक्रिया",
+   "द्वि-विस्थापन अभिक्रिया"
+  ],
+  "correct": 1,
+  "explainEn": "When two or more substances combine to form a single product, it is called a combination reaction.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:22:27Z"
+ },
+ {
+  "id": "q_9825ca0e39b4edbc",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following plant hormones is primarily responsible for cell division?",
+  "qHi": "निम्नलिखित में से कौन सा पादप हार्मोन मुख्य रूप से कोशिका विभाजन के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Auxin",
+   "Gibberellin",
+   "Cytokinin",
+   "Abscisic acid"
+  ],
+  "optsHi": [
+   "ऑक्साइन",
+   "जिबरेलिन",
+   "साइटोकाइनिन",
+   "एब्सिसिक एसिड"
+  ],
+  "correct": 2,
+  "explainEn": "Cytokinins are plant hormones that promote cell division, particularly in roots and shoots.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:24:19Z"
+ },
+ {
+  "id": "q_960eb78089a3ec7a",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of chemical reaction is represented by the digestion of food in the body?",
+  "qHi": "शरीर में भोजन का पच Kal किस प्रकार की रासायनिक अभिक्रिया को दर्शाता है?",
+  "optsEn": [
+   "Decomposition reaction",
+   "Combination reaction",
+   "Displacement reaction",
+   "Double displacement reaction"
+  ],
+  "optsHi": [
+   "वियोजन अभिक्रिया",
+   "संयोजन अभिक्रिया",
+   "विस्थापन अभिक्रिया",
+   "द्वि-विस्थापन अभिक्रिया"
+  ],
+  "correct": 0,
+  "explainEn": "Digestion is a decomposition reaction where complex food substances break down into simpler molecules.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:24:19Z"
+ },
+ {
+  "id": "q_69fddea35c7d7b93",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which crop is known as a staple food crop of a major part of the human population in India and requires high humidity and annual rainfall above 100 cm?",
+  "qHi": "कौन सी फसल भारत की अधिकांश मानव आबादी की मुख्य खाद्य फसल है और जिसके लिए उच्च आर्द्रता और 100 सेमी से अधिक वार्षिक वर्षा की आवश्यकता होती है?",
+  "optsEn": [
+   "Wheat",
+   "Maize",
+   "Rice",
+   "Millets"
+  ],
+  "optsHi": [
+   "गेहूं",
+   "मक्का",
+   "चावल",
+   "बाजरा"
+  ],
+  "correct": 2,
+  "explainEn": "Rice is a kharif crop that requires high temperature, high humidity, and annual rainfall above 100 cm.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:24:19Z"
+ },
+ {
+  "id": "q_6bab86ae6b6db0d3",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organ of government has the power to interpret the Constitution of India and protect fundamental rights?",
+  "qHi": "सरकार के किस अंग के पास भारत के संविधान की व्याख्या करने और मौलिक अधिकारों की रक्षा करने की शक्ति है?",
+  "optsEn": [
+   "Legislature",
+   "Executive",
+   "Judiciary",
+   "Election Commission"
+  ],
+  "optsHi": [
+   "विधायिका",
+   "कार्यपालिका",
+   "न्यायपालिका",
+   "चुनाव आयोग"
+  ],
+  "correct": 2,
+  "explainEn": "The Judiciary, headed by the Supreme Court, is the custodian and interpreter of the Constitution.",
+  "sourceHint": "NCERT Class 10 Civics, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:24:19Z"
+ },
+ {
+  "id": "q_d815ff26d2c26734",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which sector is traditionally known as the primary sector in economic classification?",
+  "qHi": "आर्थिक वर्गीकरण में पारंपरिक रूप से प्राथमिक क्षेत्र के रूप में किसे जाना जाता है?",
+  "optsEn": [
+   "Agriculture and allied activities",
+   "Manufacturing and industries",
+   "Information technology services",
+   "Banking and finance"
+  ],
+  "optsHi": [
+   "कृषि और संबंधित गतिविधियाँ",
+   "विनिर्माण और उद्योग",
+   "सूचना प्रौद्योगिकी सेवाएँ",
+   "बैंकिंग और वित्त"
+  ],
+  "correct": 0,
+  "explainEn": "Primary sector activities are directly dependent on the exploitation of natural resources, like agriculture, forestry, and fishing.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:24:19Z"
  }
 ]

@@ -4366,5 +4366,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-08T13:33:59Z"
+ },
+ {
+  "id": "q_6288514494c7200e",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these is a Kharif crop grown in India?",
+  "qHi": "इनमें से कौन सी भारत में उगाई जाने वाली खरीफ फसल है?",
+  "optsEn": [
+   "Wheat",
+   "Gram",
+   "Paddy",
+   "Pea"
+  ],
+  "optsHi": [
+   "गेहूं",
+   "चना",
+   "धान",
+   "मटर"
+  ],
+  "correct": 2,
+  "explainEn": "Paddy is a major Kharif crop sown in the rainy season.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:22:23Z"
+ },
+ {
+  "id": "q_2f7c96ef443f4539",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which imaginary line at 0 degrees latitude divides the Earth into the Northern and Southern Hemispheres?",
+  "qHi": "0 degree अक्षांश पर कौन सी काल्पनिक रेखा पृथ्वी को उत्तरी और दक्षिणी गोलार्ध में विभाजित करती है?",
+  "optsEn": [
+   "Equator",
+   "Prime Meridian",
+   "Tropic of Cancer",
+   "Tropic of Capricorn"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा",
+   "प्रधान मध्याह्न रेखा",
+   "कर्क रेखा",
+   "मकर रेखा"
+  ],
+  "correct": 0,
+  "explainEn": "The Equator is the 0-degree latitude line that divides the Earth into two equal hemispheres.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:22:23Z"
+ },
+ {
+  "id": "q_21531ed9923b097f",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary source of mineral wealth found deep inside the Earth?",
+  "qHi": "पृथ्वी के भीतर गहराई में पाए जाने वाले खनिज धन का प्राथमिक स्रोत क्या है?",
+  "optsEn": [
+   "Atmosphere",
+   "Oceans",
+   "Rocks",
+   "Clouds"
+  ],
+  "optsHi": [
+   "वायुमंडल",
+   "महासागर",
+   "चट्टानें",
+   "बादल"
+  ],
+  "correct": 2,
+  "explainEn": "Minerals are naturally occurring substances found mainly in rocks.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:22:23Z"
+ },
+ {
+  "id": "q_a69ea7993e5d64ce",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following resources is a non-renewable resource?",
+  "qHi": "निम्नलिखित में से कौन सा संसाधन एक अनवीकरणीय संसाधन है?",
+  "optsEn": [
+   "Solar energy",
+   "Wind energy",
+   "Coal",
+   "Biogas"
+  ],
+  "optsHi": [
+   "सौर ऊर्जा",
+   "पवन ऊर्जा",
+   "कोयला",
+   "बायोगैस"
+  ],
+  "correct": 2,
+  "explainEn": "Coal takes millions of years to form and gets exhausted with use, making it a non-renewable resource.",
+  "sourceHint": "NCERT Class 8 Geography, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:24:14Z"
+ },
+ {
+  "id": "q_9c2d2a05206b176b",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who led the revolt of 1857 in the region of Bihar?",
+  "qHi": "बिहार क्षेत्र में 1857 के विद्रोह का नेतृत्व किसने किया था?",
+  "optsEn": [
+   "Rani Laxmibai",
+   "Kunwar Singh",
+   "Nana Sahib",
+   "Begum Hazrat Mahal"
+  ],
+  "optsHi": [
+   "रानी लक्ष्मीबाई",
+   "कुंवर सिंह",
+   "नाना साहेब",
+   "बेगम हजरत महल"
+  ],
+  "correct": 1,
+  "explainEn": "Kunwar Singh led the armed forces against the British in Bihar during the 1857 revolt.",
+  "sourceHint": "NCERT Class 8 History, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:24:14Z"
  }
 ]

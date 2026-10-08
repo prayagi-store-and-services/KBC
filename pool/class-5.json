@@ -6438,5 +6438,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-08T13:33:54Z"
+ },
+ {
+  "id": "q_a07986c08f44ba9c",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which direction does the magnetic needle of a compass always point towards?",
+  "qHi": "कम्पास की चुंबकीय सुई हमेशा किस दिशा की ओर इशारा करती है?",
+  "optsEn": [
+   "East and West",
+   "North and South",
+   "Up and Down",
+   "Left and Right"
+  ],
+  "optsHi": [
+   "पूर्व और पश्चिम",
+   "उत्तर और दक्षिण",
+   "ऊपर और नीचे",
+   "बाएँ और दाएँ"
+  ],
+  "correct": 1,
+  "explainEn": "A magnetic compass needle aligns with the Earth's magnetic field, pointing towards North and South.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:22:19Z"
+ },
+ {
+  "id": "q_cf78538c487dcb72",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas do plants take in from the atmosphere during photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण के दौरान पौधे वायुमंडल से कौन सी गैस लेते हैं?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Plants absorb carbon dioxide from the air to make their food using sunlight during photosynthesis.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:22:19Z"
+ },
+ {
+  "id": "q_e432dda6dbea6359",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of resources are coal and petroleum considered to be?",
+  "qHi": "कोयला और पेट्रोलियम को किस प्रकार के संसाधन माना जाता है?",
+  "optsEn": [
+   "Renewable resources",
+   "Exhaustible resources",
+   "Biotic resources",
+   "Inexhaustible resources"
+  ],
+  "optsHi": [
+   "नवीकरणीय संसाधन",
+   "समाप्य संसाधन",
+   "जैविक संसाधन",
+   "अक्षय संसाधन"
+  ],
+  "correct": 1,
+  "explainEn": "Coal and petroleum take millions of years to form and will eventually get depleted, making them exhaustible.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:23:57Z"
+ },
+ {
+  "id": "q_623d687fcba6b577",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which physical feature of India is known as the Great Indian Desert?",
+  "qHi": "भारत की किस भौतिक विशेषता को थार मरुस्थल के नाम से भी जाना जाता है?",
+  "optsEn": [
+   "Thar Desert",
+   "Sahara Desert",
+   "Gobi Desert",
+   "Deccan Plateau"
+  ],
+  "optsHi": [
+   "थार मरुस्थल",
+   "सहारा मरुस्थल",
+   "गोबी मरुस्थल",
+   "दक्कन का पठार"
+  ],
+  "correct": 0,
+  "explainEn": "The Thar Desert is located in the western part of India and is known as the Great Indian Desert.",
+  "sourceHint": "NCERT Class 6 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:23:57Z"
+ },
+ {
+  "id": "q_8a9bd4c4b2650ba8",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the process of conversion of water into water vapor by heat called?",
+  "qHi": "गर्मी द्वारा पानी के जल वाष्प में बदलने की प्रक्रिया को क्या कहा जाता है?",
+  "optsEn": [
+   "Condensation",
+   "Evaporation",
+   "Precipitation",
+   "Melting"
+  ],
+  "optsHi": [
+   "संघनन",
+   "वाष्पीकरण",
+   "वर्षा",
+   "पिघलना"
+  ],
+  "correct": 1,
+  "explainEn": "Evaporation is the process where liquid water turns into gas or vapor due to heat.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:23:57Z"
+ },
+ {
+  "id": "q_0b1950c7d3c171dc",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these is a national festival of India?",
+  "qHi": "इनमें से कौन सा भारत का एक राष्ट्रीय त्योहार है?",
+  "optsEn": [
+   "Diwali",
+   "Eid",
+   "Republic Day",
+   "Christmas"
+  ],
+  "optsHi": [
+   "दिवाली",
+   "ईद",
+   "गणतंत्र दिवस",
+   "क्रिसमस"
+  ],
+  "correct": 2,
+  "explainEn": "Republic Day, Independence Day, and Gandhi Jayanti are the three national festivals of India.",
+  "sourceHint": "NCERT Class 3-5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:23:57Z"
+ },
+ {
+  "id": "q_465d718b2981139f",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following gas is most abundant in Earth's atmosphere?",
+  "qHi": "पृथ्वी के वायुमंडल में निम्नलिखित में से कौन सी गैस सबसे प्रचुर मात्रा में है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "आर्गन"
+  ],
+  "correct": 2,
+  "explainEn": "Nitrogen makes up about 78 percent of Earth's atmosphere.",
+  "sourceHint": "NCERT Class 7 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:23:57Z"
+ },
+ {
+  "id": "q_28bcd8c3db316440",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which part of a plant generally grows underground?",
+  "qHi": "पौधे का कौन सा भाग आमतौर पर जमीन के अंदर उगता है?",
+  "optsEn": [
+   "Root system",
+   "Shoot system",
+   "Leaf system",
+   "Flower system"
+  ],
+  "optsHi": [
+   "मूल तंत्र",
+   "प्ररोह तंत्र",
+   "पत्ती प्रणाली",
+   "फूल प्रणाली"
+  ],
+  "correct": 0,
+  "explainEn": "The root system of a plant grows beneath the soil surface to absorb water and minerals.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-08T23:23:57Z"
  }
 ]
