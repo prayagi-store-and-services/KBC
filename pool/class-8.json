@@ -4674,5 +4674,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-09T06:12:14Z"
+ },
+ {
+  "id": "q_28c5a8726bdc8119",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which crop is known as a Kharif crop in India?",
+  "qHi": "भारत में कौन सी फसल खरीफ की फसल के रूप में जानी जाती है?",
+  "optsEn": [
+   "Wheat",
+   "Gram",
+   "Paddy (Rice)",
+   "Peas"
+  ],
+  "optsHi": [
+   "गेहूं",
+   "चना",
+   "धान (चावल)",
+   "मटर"
+  ],
+  "correct": 2,
+  "explainEn": "Paddy is sown in the rainy season (June to September) and is a typical Kharif crop.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:19:16Z"
+ },
+ {
+  "id": "q_a45605e80bf16410",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under which Article of the Indian Constitution is the Right to Equality guaranteed to all citizens?",
+  "qHi": "भारतीय संविधान के किस अनुच्छेद के तहत सभी नागरिकों को समानता के अधिकार की गारंटी दी गई है?",
+  "optsEn": [
+   "Articles 14 to 18",
+   "Articles 19 to 22",
+   "Articles 23 to 24",
+   "Articles 25 to 28"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14 से 18",
+   "अनुच्छेद 19 से 22",
+   "अनुच्छेद 23 से 24",
+   "अनुच्छेद 25 से 28"
+  ],
+  "correct": 0,
+  "explainEn": "Articles 14 to 18 of the Constitution of India guarantee the Right to Equality.",
+  "sourceHint": "NCERT Class 8 Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:20:19Z"
+ },
+ {
+  "id": "q_6183223f53b3da99",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "During which historical period did the events of the 1857 revolt take place in India?",
+  "qHi": "भारत में 1857 के विद्रोह की घटनाएँ किस ऐतिहासिक काल के दौरान हुईं?",
+  "optsEn": [
+   "Mughal rule",
+   "British East India Company rule",
+   "Mauryan Empire",
+   "Gupta Empire"
+  ],
+  "optsHi": [
+   "मुगल शासन",
+   "ब्रिटिश ईस्ट इंडिया कंपनी का शासन",
+   "मौर्य साम्राज्य",
+   "गुप्त साम्राज्य"
+  ],
+  "correct": 1,
+  "explainEn": "The revolt of 1857 occurred during the administrative control of the British East India Company in India.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:20:19Z"
+ },
+ {
+  "id": "q_aa219e327a9cf7a5",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of agricultural resource is coal?",
+  "qHi": "कोयला किस प्रकार का संसाधन है?",
+  "optsEn": [
+   "Biotic resource",
+   "Renewable resource",
+   "Non-renewable resource",
+   "Human-made resource"
+  ],
+  "optsHi": [
+   "जैविक संसाधन",
+   "नवीकरणीय संसाधन",
+   "अनवीकरणीय संसाधन",
+   "मानव निर्मित संसाधन"
+  ],
+  "correct": 2,
+  "explainEn": "Coal is a fossil fuel and a non-renewable resource because it takes millions of years to form and gets depleted with use.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:20:19Z"
  }
 ]

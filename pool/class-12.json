@@ -7558,5 +7558,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-09T06:12:24Z"
+ },
+ {
+  "id": "q_493f756aa2c6d9e8",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which element has the chemical symbol Fe?",
+  "qHi": "किस तत्व का रासायनिक प्रतीक Fe है?",
+  "optsEn": [
+   "Iron",
+   "Fluorine",
+   "Francium",
+   "Fermium"
+  ],
+  "optsHi": [
+   "लोहा",
+   "फ्लोरिन",
+   "फ्रांसियम",
+   "फर्मियम"
+  ],
+  "correct": 0,
+  "explainEn": "Fe is the chemical symbol for iron, derived from the Latin word ferrum.",
+  "sourceHint": "NCERT Class 11 Chemistry",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:19:26Z"
+ },
+ {
+  "id": "q_affacacc2aebb3df",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which part of a plant is responsible for the transport of water?",
+  "qHi": "पौधे का कौन सा भाग पानी के परिवहन के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Phloem",
+   "Xylem",
+   "Cortex",
+   "Pith"
+  ],
+  "optsHi": [
+   "फ्लोएम",
+   "जाइलम",
+   "कॉर्टेक्स",
+   "पिथ"
+  ],
+  "correct": 1,
+  "explainEn": "Xylem is the specialized tissue in vascular plants that transports water and nutrients from roots to shoots and leaves.",
+  "sourceHint": "NCERT Class 11 Biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:19:26Z"
+ },
+ {
+  "id": "q_b9bed5b5216cc149",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the process of conversion of solid directly into gas without liquid state called?",
+  "qHi": "ठोस अवस्था के बिना सीधे गैस में परिवर्तन की प्रक्रिया क्या कहलाती है?",
+  "optsEn": [
+   "Evaporation",
+   "Condensation",
+   "Sublimation",
+   "Melting"
+  ],
+  "optsHi": [
+   "वाष्पीकरण",
+   "संघनन",
+   "ऊर्ध्वपातन",
+   "गलनांक"
+  ],
+  "correct": 2,
+  "explainEn": "Sublimation is the transition of a substance directly from the solid to the gas state, without passing through the liquid state.",
+  "sourceHint": "NCERT Class 11 Chemistry",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:19:26Z"
+ },
+ {
+  "id": "q_8ffb5910cbf11f53",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the standard SI unit of electric capacitance?",
+  "qHi": "विद्युत धारिता की मानक एसआई इकाई क्या है?",
+  "optsEn": [
+   "Volt",
+   "Ohm",
+   "Farad",
+   "Weber"
+  ],
+  "optsHi": [
+   "वोल्ट",
+   "ओम",
+   "फैराड",
+   "वेबर"
+  ],
+  "correct": 2,
+  "explainEn": "Farad is the SI unit of electrical capacitance, named after Michael Faraday.",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:20:42Z"
+ },
+ {
+  "id": "q_cfea89c0b5db7651",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In Microeconomics, what shape does the average fixed cost curve take as output increases?",
+  "qHi": "व्यष्टि अर्थशास्त्र में, उत्पादन बढ़ने पर औसत स्थिर लागत वक्र का आकार कैसा होता है?",
+  "optsEn": [
+   "Rectangular hyperbola",
+   "Upward sloping straight line",
+   "Horizontal straight line",
+   "U-shaped"
+  ],
+  "optsHi": [
+   "आयत हाइपरबोला",
+   "ऊपर की ओर ढलान वाली सीधी रेखा",
+   "क्षैतिज सीधी रेखा",
+   "यू-आकार"
+  ],
+  "correct": 0,
+  "explainEn": "Average fixed cost continuously falls as output increases, forming a rectangular hyperbola.",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Microeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:20:42Z"
+ },
+ {
+  "id": "q_4fb8435a7fe5a309",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which process of soil nutrient depletion involves the washing down of water-soluble nutrients into deeper layers of soil?",
+  "qHi": "मृदा पोषक तत्वों की कमी की किस प्रक्रिया में पानी में घुलनशील पोषक तत्व मिट्टी की गहरी परतों में बह जाते हैं?",
+  "optsEn": [
+   "Weathering",
+   "Leaching",
+   "Humification",
+   "Mineralisation"
+  ],
+  "optsHi": [
+   "अपक्षय",
+   "निक्षालन",
+   "ह्यूमीफिकेशन",
+   "खनिजीकरण"
+  ],
+  "correct": 1,
+  "explainEn": "Leaching is the process by which water-soluble inorganic nutrients go down into the soil horizon and get precipitated.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:20:42Z"
+ },
+ {
+  "id": "q_a10f83945890815e",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of optical phenomenon is responsible for the twinkling of stars?",
+  "qHi": "तारों के टिमटिमाते नजर आने के लिए किस प्रकार की प्रकाशीय घटना जिम्मेदार होती है?",
+  "optsEn": [
+   "Atmospheric refraction",
+   "Total internal reflection",
+   "Dispersive diffraction",
+   "Rayleigh scattering"
+  ],
+  "optsHi": [
+   "वायुमंडलीय अपवर्तन",
+   "पूर्ण आंतरिक परावर्तन",
+   "विक्षेपी विवर्तन",
+   "रेले प्रकीर्णन"
+  ],
+  "correct": 0,
+  "explainEn": "Stars twinkle due to atmospheric refraction of starlight through varying refractive indices of air layers.",
+  "sourceHint": "NCERT Class 10/12 Physics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:20:42Z"
  }
 ]

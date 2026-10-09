@@ -8146,5 +8146,397 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-09T06:13:05Z"
+ },
+ {
+  "id": "q_4fce17456eec0bad",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following institutions is the central bank of India?",
+  "qHi": "निम्नलिखित में से कौन सी संस्था भारत का केंद्रीय बैंक है?",
+  "optsEn": [
+   "State Bank of India",
+   "Reserve Bank of India",
+   "Punjab National Bank",
+   "Bank of Baroda"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "भारतीय रिजर्व बैंक",
+   "पंजाब नेशनल बैंक",
+   "बैंक ऑफ बड़ौदा"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India (RBI) is India's central banking institution, which controls the monetary policy of the Indian rupee.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:19:03Z"
+ },
+ {
+  "id": "q_563a4ff3e327ebbc",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a quantitative tool of monetary policy used by the RBI?",
+  "qHi": "निम्नलिखित में से कौन आरबीआई द्वारा प्रयुक्त मौद्रिक नीति का एक मात्रात्मक उपकरण है?",
+  "optsEn": [
+   "Cash Reserve Ratio",
+   "Moral Suasion",
+   "Margin Requirements",
+   "Direct Action"
+  ],
+  "optsHi": [
+   "नकद आरक्षित अनुपात (Cash Reserve Ratio)",
+   "नैतिक दबाव (Moral Suasion)",
+   "मार्जिन आवश्यकताएँ (Margin Requirements)",
+   "प्रत्यक्ष कार्रवाई (Direct Action)"
+  ],
+  "correct": 0,
+  "explainEn": "Cash Reserve Ratio (CRR) is a quantitative credit control measure used by the central bank to manage liquidity in the economy.",
+  "sourceHint": "Indian Economy Textbooks and RBI Publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:19:03Z"
+ },
+ {
+  "id": "q_6b13509572b3f58d",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Under the Priority Sector Lending (PSL) norms in India, loans given to which sector are generally included?",
+  "qHi": "भारत में प्राथमिकता प्राप्त क्षेत्र को ऋण (PSL) मानदंडों के तहत, आमतौर पर किस क्षेत्र को दिए गए ऋण शामिल होते हैं?",
+  "optsEn": [
+   "Agriculture",
+   "Luxury Real Estate",
+   "Stock Market Trading",
+   "Cryptocurrency Ventures"
+  ],
+  "optsHi": [
+   "कृषि",
+   "लक्जरी रियल एस्टेट",
+   "शेयर बाजार व्यापार",
+   "क्रिप्टोकरंसी उद्यम"
+  ],
+  "correct": 0,
+  "explainEn": "Priority Sector Lending includes sectors like agriculture, micro, small and medium enterprises (MSMEs), export credit, and education, which are considered important for the development of the basic economy.",
+  "sourceHint": "RBI Master Directions on Priority Sector Lending",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:19:03Z"
+ },
+ {
+  "id": "q_bc9af7d0350c5316",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the acronym ATM stand for in the context of banking?",
+  "qHi": "बैंकिंग के संदर्भ में एटीएम (ATM) का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Automated Teller Machine",
+   "Any Time Money",
+   "Automated Transfer Mode",
+   "Authenticated Teller Method"
+  ],
+  "optsHi": [
+   "ऑटोमेटेड टेलर मशीन",
+   "एनी टाइम मनी",
+   "ऑटोमेटेड ट्रांसफर मोड",
+   "ऑथेंटिकेटेड टेलर मेथड"
+  ],
+  "correct": 0,
+  "explainEn": "An Automated Teller Machine (ATM) is an electronic banking outlet that allows customers to complete transactions without the aid of a branch representative.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:19:03Z"
+ },
+ {
+  "id": "q_02babc806125a9fa",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which financial institution in India regulates the housing finance companies?",
+  "qHi": "भारत में कौन सी वित्तीय संस्था आवास वित्त कंपनियों (housing finance companies) को विनियमित करती है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India",
+   "National Housing Bank",
+   "Small Industries Development Bank of India"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "राष्ट्रीय आवास बैंक",
+   "भारतीय लघु उद्योग विकास बैंक"
+  ],
+  "correct": 0,
+  "explainEn": "The regulation and supervision of Housing Finance Companies (HFCs) was transferred from the National Housing Bank to the Reserve Bank of India.",
+  "sourceHint": "RBI Act and Notifications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:20:01Z"
+ },
+ {
+  "id": "q_459afea8e033294d",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'C' stand for in the context of the CIMS portal introduced by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा शुरू किए गए CIMS पोर्टल के संदर्भ में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Centralized",
+   "Credit",
+   "Currency",
+   "Clearing"
+  ],
+  "optsHi": [
+   "सेंट्रलाइज्ड",
+   "क्रेडिट",
+   "करेंसी",
+   "क्लीयरिंग"
+  ],
+  "correct": 0,
+  "explainEn": "CIMS stands for Centralised Information Management System, an initiative by the RBI for advanced data management.",
+  "sourceHint": "RBI Press Releases",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:20:01Z"
+ },
+ {
+  "id": "q_98697fa9b64d810a",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque becomes stale after the completion of how many months from its date of issuance?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, कोई चेक जारी होने की तारीख से कितने महीने पूरे होने के बाद पुराना (stale) हो जाता है?",
+  "optsEn": [
+   "1 month",
+   "3 months",
+   "6 months",
+   "12 months"
+  ],
+  "optsHi": [
+   "1 महीना",
+   "3 महीने",
+   "6 महीने",
+   "12 महीने"
+  ],
+  "correct": 1,
+  "explainEn": "RBI guidelines direct that a cheque is valid for 3 months from the date of its issuance, after which it becomes stale.",
+  "sourceHint": "RBI Master Directions on Banking Operations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:20:01Z"
+ },
+ {
+  "id": "q_8331cb5881922c3f",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is not a component of the money supply measure M1 in India?",
+  "qHi": "निम्नलिखित में से कौन सा भारत में धन की आपूर्ति माप M1 का घटक नहीं है?",
+  "optsEn": [
+   "Currency with the public",
+   "Demand deposits with banks",
+   "Other deposits with RBI",
+   "Time deposits with banks"
+  ],
+  "optsHi": [
+   "जनता के पास मुद्रा",
+   "बैंकों के पास मांग जमा",
+   "आरबीआई के पास अन्य जमा",
+   "बैंकों के पास सावधि जमा"
+  ],
+  "correct": 3,
+  "explainEn": "M1 comprises currency with the public, demand deposits with banks, and other deposits with the RBI. Time deposits are part of M3.",
+  "sourceHint": "NCERT Economics Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:20:01Z"
+ },
+ {
+  "id": "q_f5e211190e638dfa",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which section of the Reserve Bank of India Act, 1934 provides for the constitution of the Monetary Policy Committee (MPC)?",
+  "qHi": "भारतीय रिजर्व बैंक अधिनियम, 1934 की कौन सी धारा मौद्रिक नीति समिति (MPC) के गठन का प्रावधान करती है?",
+  "optsEn": [
+   "Section 21",
+   "Section 42",
+   "Section 45ZB",
+   "Section 51"
+  ],
+  "optsHi": [
+   "धारा 21",
+   "धारा 42",
+   "धारा 45ZB",
+   "धारा 51"
+  ],
+  "correct": 2,
+  "explainEn": "Section 45ZB of the RBI Act provides for the constitution of a six-member Monetary Policy Committee.",
+  "sourceHint": "RBI Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:20:01Z"
+ },
+ {
+  "id": "q_8e3c0e725672227e",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the full form of the abbreviation 'LEI' used in financial transactions and corporate reporting?",
+  "qHi": "वित्तीय लेनदेन और कॉर्पोरेट रिपोर्टिंग में प्रयुक्त संक्षिप्त नाम 'LEI' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Legal Entity Identifier",
+   "Liquidity Enhancement Index",
+   "Loan Eligibility Indicator",
+   "Liability Evaluation Institution"
+  ],
+  "optsHi": [
+   "लीगल एंटिटी आइडेंटिफायर",
+   "लिक्विडिटी एन्हांसमेंट इंडेक्स",
+   "लोन एलिजिबिलिटी इंडिकेटर",
+   "लायबिलिटी इवैल्यूएशन इंस्टीट्यूशन"
+  ],
+  "correct": 0,
+  "explainEn": "LEI stands for Legal Entity Identifier, a 20-character code used globally to uniquely identify legal entities participating in financial transactions.",
+  "sourceHint": "RBI Notifications on LEI",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:20:01Z"
+ },
+ {
+  "id": "q_69d54f5ef0e0c449",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of priority sector lending (PSL) in India, which category is a sub-target under the overall priority sector?",
+  "qHi": "भारत में प्राथमिकता प्राप्त क्षेत्र को ऋण (PSL) के संदर्भ में, कौन सी श्रेणी समग्र प्राथमिकता प्राप्त क्षेत्र के तहत एक उप-लक्ष्य है?",
+  "optsEn": [
+   "Corporate loans",
+   "Weaker sections",
+   "Large industries infrastructure",
+   "External commercial borrowings"
+  ],
+  "optsHi": [
+   "कॉर्पोरेट ऋण",
+   "कमजोर वर्ग",
+   "बड़ी उद्योग बुनियादी ढांचा",
+   "बाहरी वाणिज्यिक उधार"
+  ],
+  "correct": 1,
+  "explainEn": "Weaker sections are a mandated sub-target under the priority sector lending guidelines issued by the RBI.",
+  "sourceHint": "RBI Master Directions on Priority Sector Lending",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:20:01Z"
+ },
+ {
+  "id": "q_c35954442ec4fef9",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which section of the Banking Regulation Act, 1949 restricts a banking company from paying dividends on its shares until all of its capitalized expenses have been completely written off?",
+  "qHi": "बैंकिंग विनियमन अधिनियम, 1949 की कौन सी धारा एक बैंकिंग कंपनी को अपने शेयरों पर लाभांश भुगतान करने से रोकتی है जब तक कि उसके सभी पूंजीकृत खर्च पूरी तरह से बट्टे खाते में नहीं डाल दिए जाते?",
+  "optsEn": [
+   "Section 12",
+   "Section 15",
+   "Section 17",
+   "Section 21"
+  ],
+  "optsHi": [
+   "धारा 12",
+   "धारा 15",
+   "धारा 17",
+   "धारा 21"
+  ],
+  "correct": 1,
+  "explainEn": "Section 15 of the Banking Regulation Act, 1949 prohibits a banking company from paying any dividend on its shares until all its capitalized expenses (including preliminary expenses, organization expenses, share selling commission, brokerage, etc.) have been completely written off.",
+  "sourceHint": "Banking Regulation Act, 1949 (RBI Publication)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:21:08Z"
+ },
+ {
+  "id": "q_09bba969dc234496",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Basel III framework, what is the minimum Capital Conservation Buffer (CCB) that banks in India are required to maintain in the form of Common Equity Tier 1 capital?",
+  "qHi": "बेसल III ढांचे के तहत, भारत में बैंकों को कॉमन इक्विटी टियर 1 पूंजी के रूप में न्यूनतम पूंजी संरक्षण बफर (CCB) कितना बनाए रखना आवश्यक है?",
+  "optsEn": [
+   "1.25%",
+   "2.50%",
+   "3.75%",
+   "4.50%"
+  ],
+  "optsHi": [
+   "1.25%",
+   "2.50%",
+   "3.75%",
+   "4.50%"
+  ],
+  "correct": 1,
+  "explainEn": "The Capital Conservation Buffer (CCB) under Basel III is designed to ensure that banks build up capital buffers during normal times that can be drawn down in periods of stress. In India, RBI mandated a CCB of 2.50% comprising Common Equity Tier 1.",
+  "sourceHint": "RBI Guidelines on Basel III Capital Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:21:08Z"
+ },
+ {
+  "id": "q_f7c655141c9d548d",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian public debt management, what does the term 'Ways and Means Advances (WMA)' primarily signify?",
+  "qHi": "भारतीय सार्वजनिक ऋण प्रबंधन के संदर्भ में, 'वेज़ एंड मीन्स एडवांसेज (WMA)' शब्द मुख्य रूप से क्या दर्शाता है?",
+  "optsEn": [
+   "Long-term bonds issued by municipal corporations",
+   "Temporary credit facilities provided by the RBI to the government to bridge mismatches in receipts and payments",
+   "Foreign exchange reserves held by commercial banks with the Central Bank",
+   "Intra-bank overnight lending rates in the call money market"
+  ],
+  "optsHi": [
+   "नगर निगमों द्वारा जारी दीर्घकालिक बांड",
+   "प्राप्तियों और भुगतानों में अंतराल को पाटने के लिए आरबीआई द्वारा सरकार को प्रदान की जाने वाली अस्थायी ऋण सुविधाएं",
+   "केंद्रीय बैंक के पास वाणिज्यिक बैंकों द्वारा रखी गई विदेशी मुद्रा भंडार",
+   "कॉल मनी मार्केट में अंतर-बैंक रात्रिक ऋण दरें"
+  ],
+  "correct": 1,
+  "explainEn": "Ways and Means Advances (WMA) are temporary loan facilities provided by the Reserve Bank of India to the Central and State governments to match temporary mismatches in cash flows between receipts and expenditures.",
+  "sourceHint": "Reserve Bank of India - Functions and Operations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:21:08Z"
  }
 ]

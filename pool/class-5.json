@@ -6886,5 +6886,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-09T06:12:09Z"
+ },
+ {
+  "id": "q_b1ad20e1125792d0",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the national aquatic animal of India?",
+  "qHi": "भारत का राष्ट्रीय जलीय जीव कौन सा है?",
+  "optsEn": [
+   "Blue Whale",
+   "Ganges River Dolphin",
+   "Shark",
+   "Crocodile"
+  ],
+  "optsHi": [
+   "नीली व्हेल",
+   "गंगा की डॉल्फ़िन",
+   "शार्क",
+   "मगरमच्छ"
+  ],
+  "correct": 1,
+  "explainEn": "The Ganges River Dolphin is recognized as the national aquatic animal of India.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:19:12Z"
+ },
+ {
+  "id": "q_fc5ab42f4309059b",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of map mainly shows physical features like mountains, plateaus, and rivers?",
+  "qHi": "किस प्रकार का मानचित्र मुख्य रूप से पहाड़ों, पठारों और नदियों जैसी भौतिक विशेषताओं को दर्शाता है?",
+  "optsEn": [
+   "Political map",
+   "Physical map",
+   "Thematic map",
+   "Road map"
+  ],
+  "optsHi": [
+   "राजनीतिक मानचित्र",
+   "भौतिक मानचित्र",
+   "विषयगत मानचित्र",
+   "सड़क मानचित्र"
+  ],
+  "correct": 1,
+  "explainEn": "Physical maps show natural features of the Earth such as mountains, plateaus, plains, rivers, and oceans.",
+  "sourceHint": "NCERT Class 6 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:20:10Z"
+ },
+ {
+  "id": "q_8d8644d562660913",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following lines of latitude passes almost halfway through India?",
+  "qHi": "अक्षांश रेखाओं में से कौन सी भारत के लगभग बीच से गुजरती है?",
+  "optsEn": [
+   "Equator",
+   "Tropic of Cancer",
+   "Tropic of Capricorn",
+   "Arctic Circle"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा",
+   "कर्क रेखा",
+   "मकर रेखा",
+   "आर्कटिक वृत्त"
+  ],
+  "correct": 1,
+  "explainEn": "The Tropic of Cancer (23°30' N) passes almost through the middle of the country.",
+  "sourceHint": "NCERT Class 6 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:20:10Z"
+ },
+ {
+  "id": "q_755af21069a2e461",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian stepwell is built to store rainwater and is known as 'Baoli'?",
+  "qHi": "वर्षा जल के संचयन के लिए बनी पारंपरिक भारतीय सीढ़ीनुमा कुएं को क्या कहा जाता है?",
+  "optsEn": [
+   "Canal",
+   "Baoli",
+   "Dam",
+   "Reservoir"
+  ],
+  "optsHi": [
+   "नहर",
+   "बावली",
+   "बांध",
+   "जलाशय"
+  ],
+  "correct": 1,
+  "explainEn": "Stepwells, traditionally called Baolis, were built in ancient India for water storage.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:20:10Z"
+ },
+ {
+  "id": "q_4e17ead8f42ff39e",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the name of the layer of gases that surrounds the Earth?",
+  "qHi": "पृथ्वी को घेरने वाली गैसों की परत का नाम क्या है?",
+  "optsEn": [
+   "Hydrosphere",
+   "Lithosphere",
+   "Atmosphere",
+   "Biosphere"
+  ],
+  "optsHi": [
+   "जलमंडल",
+   "स्थलमंडल",
+   "वायुमंडल",
+   "जीवमंडल"
+  ],
+  "correct": 2,
+  "explainEn": "The atmosphere is the envelope of gases surrounding the Earth.",
+  "sourceHint": "NCERT Class 6 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:20:10Z"
+ },
+ {
+  "id": "q_78ed1fdd23aa6167",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which layer of the atmosphere contains the ozone layer that protects living organisms from ultraviolet radiation?",
+  "qHi": "वायुमंडल की किस परत में ओजोन परत पाई जाती है जो जीवों को पराबैंगनी विकिरण से बचाती है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समतापमंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The ozone layer is located in the stratosphere, absorbing harmful ultraviolet rays from the Sun.",
+  "sourceHint": "NCERT Class 5 EVS and Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:21:18Z"
+ },
+ {
+  "id": "q_fcbafac3a18c1e1b",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional water harvesting system uses a stepwell structure mainly found in dry regions of India?",
+  "qHi": "भारत के शुष्क क्षेत्रों में पाई जाने वाली कौन सी पारंपरिक जल संचयन प्रणाली में सीढ़ीदार कुएं की संरचना होती है?",
+  "optsEn": [
+   "Baoli",
+   "Kuls",
+   "Zing",
+   "Johad"
+  ],
+  "optsHi": [
+   "बावली",
+   "कुल्स",
+   "जिंग",
+   "जोहड़"
+  ],
+  "correct": 0,
+  "explainEn": "Stepwells, known as baolis, were historically used in arid parts of India to collect and store rainwater.",
+  "sourceHint": "NCERT Class 5 EVS Chapter A Shelter so High or related water chapters",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:21:18Z"
+ },
+ {
+  "id": "q_b312b80712e7e8fc",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which insect larva goes through the process of spinning a cocoon made of protein filaments during its life cycle?",
+  "qHi": "अपने जीवन चक्र के दौरान कौन सा कीट लार्वा प्रोटीन तंतुओं से बना कोकून बनाने की प्रक्रिया से गुजरता है?",
+  "optsEn": [
+   "Honeybee",
+   "Silkworm",
+   "Housefly",
+   "Mosquito"
+  ],
+  "optsHi": [
+   "मधुमेह मक्खी",
+   "रेशमकीट",
+   "घरेलू मक्खी",
+   "मच्छर"
+  ],
+  "correct": 1,
+  "explainEn": "The silkworm is the larva of the silkmoth, which spins a silk cocoon during its pupal stage.",
+  "sourceHint": "NCERT Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:21:18Z"
+ },
+ {
+  "id": "q_40f7c095a81e11d2",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which plant part is primarily modified to store food in a carrot?",
+  "qHi": "गाजर में मुख्य रूप से भोजन संग्रहित करने के लिए पौधे के किस भाग में रूपांतरण होता है?",
+  "optsEn": [
+   "Stem",
+   "Leaf",
+   "Root",
+   "Flower"
+  ],
+  "optsHi": [
+   "तना",
+   "पत्ती",
+   "जड़",
+   "फूल"
+  ],
+  "correct": 2,
+  "explainEn": "A carrot is a modified taproot that stores large amounts of food and nutrients for the plant.",
+  "sourceHint": "NCERT Science syllabus",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:21:18Z"
+ },
+ {
+  "id": "q_c2c42f0b1e874e11",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organ in the human digestive system is mainly responsible for absorbing water from undigested food waste?",
+  "qHi": "मानव पाचन तंत्र का कौन सा अंग मुख्य रूप से अपच्य भोजन से पानी सोखने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Stomach",
+   "Small intestine",
+   "Large intestine",
+   "Oesophagus"
+  ],
+  "optsHi": [
+   "अमाशय",
+   "छोटी आंत",
+   "बड़ी आंत",
+   "ग्रसिका"
+  ],
+  "correct": 2,
+  "explainEn": "The large intestine absorbs water and salts from the remaining indigestible food matter.",
+  "sourceHint": "NCERT Class 7 Science (aligned with basic human biology taught in elementary grades)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:21:18Z"
+ },
+ {
+  "id": "q_29d383b80890caa9",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which celestial body orbits a planet and is referred to as its natural satellite?",
+  "qHi": "कौन सा खगोलीय पिंड किसी ग्रह की परिक्रमा करता है और उसका प्राकृतिक उपग्रह कहलाता है?",
+  "optsEn": [
+   "Asteroid",
+   "Moon",
+   "Comet",
+   "Meteoroid"
+  ],
+  "optsHi": [
+   "क्षुद्रग्रह",
+   "चंद्रमा",
+   "धूमकेतु",
+   "उल्कापिंड"
+  ],
+  "correct": 1,
+  "explainEn": "Natural satellites, commonly called moons, orbit around planets in the solar system.",
+  "sourceHint": "NCERT Class 6 Geography (The Earth in the Solar System)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:21:18Z"
+ },
+ {
+  "id": "q_dc8c18ce360a3fae",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which force pulls all objects toward the center of the Earth?",
+  "qHi": "कौन सा बल सभी वस्तुओं को पृथ्वी के केंद्र की ओर खींचता है?",
+  "optsEn": [
+   "Friction",
+   "Magnetic force",
+   "Gravity",
+   "Muscular force"
+  ],
+  "optsHi": [
+   "घर्षण बल",
+   "चुंबकीय बल",
+   "गुरुत्वाकर्षण बल",
+   "पेशीय बल"
+  ],
+  "correct": 2,
+  "explainEn": "Gravity is the invisible force that pulls objects toward each other, keeping us grounded on Earth.",
+  "sourceHint": "NCERT Class 5 Science (A Seed tells a Farmer's Story / Gravitation concepts)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:21:18Z"
+ },
+ {
+  "id": "q_e6e70e9d6995fc2d",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which type of soil contains the highest proportion of very fine particles and holds water tightly?",
+  "qHi": "किस प्रकार की मिट्टी में बहुत महीन कणों का अनुपात सबसे अधिक होता है और वह पानी को मजबूती से रोकती है?",
+  "optsEn": [
+   "Sandy soil",
+   "Clayey soil",
+   "Loamy soil",
+   "Rocky soil"
+  ],
+  "optsHi": [
+   "बुलुई मिट्टी",
+   "चिकनी मिट्टी",
+   "दोमट मिट्टी",
+   "पथरीली मिट्टी"
+  ],
+  "correct": 1,
+  "explainEn": "Clayey soil consists of very fine particles packed closely together, allowing it to retain a large amount of water.",
+  "sourceHint": "NCERT Class 7 Science (Soil chapter)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:21:18Z"
  }
 ]

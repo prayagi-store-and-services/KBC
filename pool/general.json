@@ -5766,5 +5766,397 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-09T06:13:11Z"
+ },
+ {
+  "id": "q_aa3d0ad1780a498c",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "How many players are there on the field in a standard team for a match of cricket?",
+  "qHi": "क्रिकेट मैच के लिए एक मानक टीम में मैदान पर कितने खिलाड़ी होते हैं?",
+  "optsEn": [
+   "9",
+   "10",
+   "11",
+   "12"
+  ],
+  "optsHi": [
+   "9",
+   "10",
+   "11",
+   "12"
+  ],
+  "correct": 2,
+  "explainEn": "A standard cricket team consists of eleven players on the field during a match.",
+  "sourceHint": "Laws of Cricket by Marylebone Cricket Club",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:19:07Z"
+ },
+ {
+  "id": "q_8c6c9f2ca9ed91ad",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the currency used in Japan?",
+  "qHi": "जापान में कौन सी मुद्रा का उपयोग किया जाता है?",
+  "optsEn": [
+   "Yen",
+   "Yuan",
+   "Won",
+   "Ringgit"
+  ],
+  "optsHi": [
+   "येन",
+   "युआन",
+   "वोन",
+   "रिंगिट"
+  ],
+  "correct": 0,
+  "explainEn": "The yen is the official currency of Japan.",
+  "sourceHint": "International Monetary Fund",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:19:07Z"
+ },
+ {
+  "id": "q_24be9d3210e0c7dd",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the term of office for the President of India, as per the Constitution?",
+  "qHi": "संविधान के अनुसार, भारत के राष्ट्रपति का कार्यकाल कितने वर्ष का होता है?",
+  "optsEn": [
+   "4 years",
+   "5 years",
+   "6 years",
+   "7 years"
+  ],
+  "optsHi": [
+   "4 वर्ष",
+   "5 वर्ष",
+   "6 वर्ष",
+   "7 वर्ष"
+  ],
+  "correct": 1,
+  "explainEn": "According to Article 56 of the Constitution of India, the President holds office for a term of five years.",
+  "sourceHint": "Constitution of India, Article 56",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:20:05Z"
+ },
+ {
+  "id": "q_c226df0db290f0d6",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which classical dance form originated in the state of Kerala and is traditionally performed with elaborate facial makeup and colourful costumes?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप केरल राज्य में उत्पन्न हुआ था और पारंपरिक रूप से विस्तृत फेशियल मेकअप और रंगीन वेशभूषा के साथ किया जाता है?",
+  "optsEn": [
+   "Kathakali",
+   "Bharatnatyam",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "कथकली",
+   "भरतनाट्यम",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 0,
+  "explainEn": "Kathakali is a major classical dance form from Kerala, famous for its distinct storytelling, makeup, and costumes.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:20:05Z"
+ },
+ {
+  "id": "q_9db8faef94e0f365",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the famous ancient Indian treatise on statecraft and economic policy titled 'Arthashastra'?",
+  "qHi": "'अर्थशास्त्र' नामक राज्यकला और आर्थिक नीति पर प्रसिद्ध प्राचीन भारतीय ग्रंथ किसने लिखा था?",
+  "optsEn": [
+   "Kalidasa",
+   "Banabhatta",
+   "Kautilya",
+   "Aryabhata"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "बाणभट्ट",
+   "कौटिल्य",
+   "आर्यभट्ट"
+  ],
+  "correct": 2,
+  "explainEn": "Arthashastra was authored by Kautilya, also known as Chanakya, during the Maurya Empire period.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:20:05Z"
+ },
+ {
+  "id": "q_c44ef52f430291a1",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which chemical element has the chemical symbol 'Au'?",
+  "qHi": "किस रासायनिक तत्व का रासायनिक प्रतीक 'Au' है?",
+  "optsEn": [
+   "Silver",
+   "Gold",
+   "Copper",
+   "Aluminum"
+  ],
+  "optsHi": [
+   "चांदी",
+   "सोना",
+   "तांबा",
+   "एल्यूमीनियम"
+  ],
+  "correct": 1,
+  "explainEn": "The symbol 'Au' is derived from 'aurum', the Latin word for gold.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:20:05Z"
+ },
+ {
+  "id": "q_7a54e44af2d01060",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which Indian mountain range is the peak Gurushikhar, the highest point of the Aravalli Range, located?",
+  "qHi": "अरावली श्रेणी की सबसे ऊंची चोटी गुरुशिखर, किस भारतीय पर्वत श्रृंखला में स्थित है?",
+  "optsEn": [
+   "Vindhya Range",
+   "Satpura Range",
+   "Aravalli Range",
+   "Western Ghats"
+  ],
+  "optsHi": [
+   "विंध्य श्रेणी",
+   "सतपुड़ा श्रेणी",
+   "अरावली श्रेणी",
+   "पश्चिमी घाट"
+  ],
+  "correct": 2,
+  "explainEn": "Gurushikhar is the highest peak of the Aravalli Range, situated in Mount Abu, Rajasthan.",
+  "sourceHint": "NCERT Geography Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:20:05Z"
+ },
+ {
+  "id": "q_16c8503b3a74347d",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin is primarily produced in the human body upon exposure to sunlight?",
+  "qHi": "सूर्य के प्रकाश के संपर्क में आने पर मानव शरीर में मुख्य रूप से कौन सा विटामिन बनता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin C",
+   "Vitamin D",
+   "Vitamin K"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन सी",
+   "विटामिन डी",
+   "विटामिन के"
+  ],
+  "correct": 2,
+  "explainEn": "Vitamin D is synthesized in the skin when exposed to ultraviolet B (UVB) rays from sunlight.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:20:05Z"
+ },
+ {
+  "id": "q_10a4ee0d48413963",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian state has the highest reserve of lignite coal according to the Geological Survey of India?",
+  "qHi": "भारतीय भूवैज्ञानिक सर्वेक्षण के अनुसार किस भारतीय राज्य में लिignite कोयला का सबसे बड़ा भंडार है?",
+  "optsEn": [
+   "Jharkhand",
+   "Tamil Nadu",
+   "Odisha",
+   "Chhattisgarh"
+  ],
+  "optsHi": [
+   "झारखंड",
+   "तमिलनाडु",
+   "ओडिशा",
+   "छत्तीसगढ़"
+  ],
+  "correct": 1,
+  "explainEn": "Tamil Nadu accounts for the largest lignite reserves in India, primarily located in the Neyveli region.",
+  "sourceHint": "Geological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:21:13Z"
+ },
+ {
+  "id": "q_242e10876bd0ac35",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which year was Project Tiger officially launched in India?",
+  "qHi": "भारत में प्रोजेक्ट टाइगर की आधिकारिक शुरुआत किस वर्ष की गई थी?",
+  "optsEn": [
+   "1970",
+   "1973",
+   "1978",
+   "1982"
+  ],
+  "optsHi": [
+   "1970",
+   "1973",
+   "1978",
+   "1982"
+  ],
+  "correct": 1,
+  "explainEn": "Project Tiger was launched on April 1, 1973, from Jim Corbett National Park in Uttarakhand.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:21:13Z"
+ },
+ {
+  "id": "q_61da381a4c15b9d8",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who designed the modern Indian national flag, featuring the Ashoka Chakra in the center?",
+  "qHi": "केंद्र में अशोक चक्र वाले आधुनिक भारतीय राष्ट्रीय ध्वज का डिज़ाइन किसने तैयार किया था?",
+  "optsEn": [
+   "Pingali Venkayya",
+   "Bankim Chandra Chatterjee",
+   "Rabindranath Tagore",
+   "Abanindranath Tagore"
+  ],
+  "optsHi": [
+   "पिंगल वेंकैया",
+   "बंकिम चंद्र चटर्जी",
+   "रवींद्रनाथ टैगोर",
+   "अवनिंद्रनाथ टैगोर"
+  ],
+  "correct": 0,
+  "explainEn": "Pingali Venkayya is credited with designing the precursor to the modern Indian national flag.",
+  "sourceHint": "NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:21:13Z"
+ },
+ {
+  "id": "q_bc4c4aa5d3306fcf",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form of India originated in the Vaishnavite monasteries of Assam?",
+  "qHi": "भारत की कौन सी शास्त्रीय नृत्य शैली असम के वैष्णव मठों से उत्पन्न हुई है?",
+  "optsEn": [
+   "Kathakali",
+   "Manipuri",
+   "Sattriya",
+   "Odissi"
+  ],
+  "optsHi": [
+   "कथकली",
+   "मणिपुरी",
+   "सत्रिया",
+   "ओडिसी"
+  ],
+  "correct": 2,
+  "explainEn": "Sattriya is a classical dance-drama performance art originating in the Sattras of Assam, introduced by Srimanta Sankaradeva.",
+  "sourceHint": "Sangeet Natak Akademi",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:21:13Z"
+ },
+ {
+  "id": "q_34983d3fd20e78a3",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which planet in our solar system was discovered by Indian mathematician and astronomer Aryabhata in antiquity? (Note: This is a trick-free conceptual question about ancient astronomy texts)",
+  "qHi": "हमारे सौरमंडल का कौन सा ग्रह प्राचीन काल में भारतीय गणितज्ञ और खगोलविद आर्यभट्ट द्वारा अध्ययन किया गया था?",
+  "optsEn": [
+   "None, planets were known from antiquity",
+   "Neptune",
+   "Uranus",
+   "Pluto"
+  ],
+  "optsHi": [
+   "कोई नहीं, ग्रह प्राचीन काल से ज्ञात थे",
+   "नेपच्यून",
+   "यूरेनस",
+   "प्लूटो"
+  ],
+  "correct": 0,
+  "explainEn": "Planets visible to the naked eye like Mercury, Venus, Mars, Jupiter, and Saturn were known since antiquity, not discovered in the modern sense by Aryabhata, who instead calculated their orbits and motions.",
+  "sourceHint": "History of Science in India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:21:13Z"
+ },
+ {
+  "id": "q_3540322aad79c8a0",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the chemical formula of heavy water, which is used as a moderator in nuclear reactors?",
+  "qHi": "भारी पानी का रासायनिक सूत्र क्या है, जिसका उपयोग परमाणु रिएक्टरों में मंदक के रूप में किया जाता है?",
+  "optsEn": [
+   "H2O",
+   "D2O",
+   "H2O2",
+   "T2O"
+  ],
+  "optsHi": [
+   "H2O",
+   "D2O",
+   "H2O2",
+   "T2O"
+  ],
+  "correct": 1,
+  "explainEn": "Heavy water is deuterium oxide, represented chemically as D2O.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T13:21:13Z"
  }
 ]
