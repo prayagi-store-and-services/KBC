@@ -270,7 +270,7 @@ class QuizViewModel(application: Application) : AndroidViewModel(application) {
     fun saveProfile(updatedProfile: UserProfile) {
         viewModelScope.launch {
             try {
-                android.util.Log.d("TarkShastra", "START_GAME_REQUEST: Profile save initiated for ${updatedProfile.name}")
+                android.util.Log.d("TarkShastra", "START_GAME_REQUEST: Profile save initiated")
                 _uiState.value = QuizUiState.ProfileInstalling(0.15f, "प्रोफ़ाइल सहेजी जा रही है (Saving profile)...")
                 delay(400)
                 repository.saveUserProfile(updatedProfile)
