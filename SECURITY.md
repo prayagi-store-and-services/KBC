@@ -1,5 +1,9 @@
 # Security notes - KBC
 
+## Report delivery fix (v1.1.19)
+
+Crash and feedback reports from the app now send the website address as the origin header, so the report service accepts them. Reports that could not be delivered before (they stay saved on the phone and retry at the next start) will now go through. Report contents, the stored file and the opt-in text are unchanged. No new permission, library or server.
+
 ## Age-based question level (v1.1.16)
 
 Junior players (Student mode, or a saved age of 5 to 17) now get questions only from the class pool that matches their class, or the class for their age when no class was chosen. Adult pools are no longer mixed into junior games. Adults keep their own pools. This uses only the age and class already saved on the device. No new permission, library or network call.
