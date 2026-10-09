@@ -5038,5 +5038,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-08T23:24:35Z"
+ },
+ {
+  "id": "q_cfaf6b2a71d05e52",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which city served as the capital of the Maurya Empire?",
+  "qHi": "कौन सा शहर मौर्य साम्राज्य की राजधानी था?",
+  "optsEn": [
+   "Pataliputra",
+   "Ujjain",
+   "Taxila",
+   "Mathura"
+  ],
+  "optsHi": [
+   "पाटलिपुत्र",
+   "उज्जैन",
+   "तक्षशिला",
+   "मथुरा"
+  ],
+  "correct": 0,
+  "explainEn": "Pataliputra (modern-day Patna) was the capital city of the Maurya Empire.",
+  "sourceHint": "NCERT Class 6 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:10:37Z"
+ },
+ {
+  "id": "q_3490a84902d45039",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas constitutes the major portion of Earth's atmosphere by volume?",
+  "qHi": "आयतन के अनुसार पृथ्वी के वायुमंडल का अधिकांश भाग कौन सी गैस बनाती है?",
+  "optsEn": [
+   "Oxygen",
+   "Nitrogen",
+   "Argon",
+   "Carbon dioxide"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "आर्गन",
+   "कार्बन डाइऑक्साइड"
+  ],
+  "correct": 1,
+  "explainEn": "Nitrogen makes up about 78 percent of Earth's atmosphere by volume.",
+  "sourceHint": "NCERT Class 7 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:10:37Z"
+ },
+ {
+  "id": "q_960df2aba744de7d",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which article of the Indian Constitution provides for the establishment of the Finance Commission?",
+  "qHi": "भारतीय संविधान का कौन सा अनुच्छेद वित्त आयोग की स्थापना का प्रावधान करता है?",
+  "optsEn": [
+   "Article 263",
+   "Article 280",
+   "Article 324",
+   "Article 356"
+  ],
+  "optsHi": [
+   "अनुच्छेद 263",
+   "अनुच्छेद 280",
+   "अनुच्छेद 324",
+   "अनुच्छेद 356"
+  ],
+  "correct": 1,
+  "explainEn": "Article 280 of the Constitution of India provides for a Finance Commission as a quasi-judicial body.",
+  "sourceHint": "Constitution of India, Part XII",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:11:52Z"
+ },
+ {
+  "id": "q_47bd9373305b2f5e",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who founded the Satvahana dynasty?",
+  "qHi": "सातवाहन वंश की स्थापना किसने की थी?",
+  "optsEn": [
+   "Simukha",
+   "Gautamiputra Satakarni",
+   "Karkavahana",
+   "Hall"
+  ],
+  "optsHi": [
+   "सिमुक",
+   "गौतमीपुत्र सातकर्णि",
+   "कर्कवाहन",
+   "हाल"
+  ],
+  "correct": 0,
+  "explainEn": "Simukha was the founder of the Satvahana dynasty in the 1st century BCE.",
+  "sourceHint": "NCERT History Class 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:11:52Z"
+ },
+ {
+  "id": "q_78c55e136436837b",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Dampa Tiger Reserve is located in which Indian state?",
+  "qHi": "दम्पा टाइगर रिजर्व किस भारतीय राज्य में स्थित है?",
+  "optsEn": [
+   "Assam",
+   "Mizoram",
+   "Karnataka",
+   "Odisha"
+  ],
+  "optsHi": [
+   "असम",
+   "मिजोरम",
+   "कर्नाटक",
+   "ओडिशा"
+  ],
+  "correct": 1,
+  "explainEn": "Dampa Tiger Reserve is a tiger reserve in Mizoram, western part of the state.",
+  "sourceHint": "National Tiger Conservation Authority (NTCA)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:11:52Z"
+ },
+ {
+  "id": "q_3bd477a8ebe5f574",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which constitutional amendment introduced the provision for the establishment of a common High Court for two or more States in India?",
+  "qHi": "किस संवैधानिक संशोधन ने भारत में दो या दो से अधिक राज्यों के लिए एक सामान्य उच्च न्यायालय की स्थापना का प्रावधान पेश किया?",
+  "optsEn": [
+   "2nd Constitutional Amendment Act, 1952",
+   "7th Constitutional Amendment Act, 1956",
+   "10th Constitutional Amendment Act, 1961",
+   "14th Constitutional Amendment Act, 1962"
+  ],
+  "optsHi": [
+   "दूसरा संवैधानिक संशोधन अधिनियम, 1952",
+   "सातवां संवैधानिक संशोधन अधिनियम, 1956",
+   "दसवां संवैधानिक संशोधन अधिनियम, 1961",
+   "चौदहवां संवैधानिक संशोधन अधिनियम, 1962"
+  ],
+  "correct": 1,
+  "explainEn": "The 7th Constitutional Amendment Act of 1956 reorganized states and amended Article 231 to allow Parliament to establish a single High Court for two or more states.",
+  "sourceHint": "Indian Polity by M. Laxmikanth / Constitution Article 231",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:12:56Z"
+ },
+ {
+  "id": "q_0861a5896c3c5a99",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian monetary policy, the Marginal Standing Facility (MSF) was introduced in which year?",
+  "qHi": "भारतीय मौद्रिक नीति के संदर्भ में, सीमांत स्थायी सुविधा (MSF) किस वर्ष शुरू की गई थी?",
+  "optsEn": [
+   "2008-09",
+   "2011-12",
+   "2014-15",
+   "2016-17"
+  ],
+  "optsHi": [
+   "2008-09",
+   "2011-12",
+   "2014-15",
+   "2016-17"
+  ],
+  "correct": 1,
+  "explainEn": "The Marginal Standing Facility (MSF) was introduced by the Reserve Bank of India in the Monetary Policy statement for 2011-12.",
+  "sourceHint": "RBI Official Website and Economic Survey",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:12:56Z"
+ },
+ {
+  "id": "q_71b4ec00e4c3e0e0",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which site of the Indus Valley Civilization is famous for its unique water management system consisting of a series of water reservoirs?",
+  "qHi": "सिंधु घाटी सभ्यता का कौन सा स्थल पानी के जलाशयों की एक श्रृंखला से युक्त अपनी अनूठी जल प्रबंधन प्रणाली के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Harappa",
+   "Mohenjo-daro",
+   "Dholavira",
+   "Kalibangan"
+  ],
+  "optsHi": [
+   "हड़प्पा",
+   "मोहनजोदड़ो",
+   "धोलावीरा",
+   "कालीबंगा"
+  ],
+  "correct": 2,
+  "explainEn": "Dholavira is renowned for its sophisticated water management system, including massive stone-cut reservoirs and stormwater drainage systems.",
+  "sourceHint": "NCERT Class 12 History - Bricks, Beads and Bones",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:12:56Z"
+ },
+ {
+  "id": "q_3afa4ee3f57af3bb",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following biogeographic zones in India contains the highest percentage of endemic species of flowering plants?",
+  "qHi": "भारत के निम्नलिखित में से किस जैव-भौगोलिक क्षेत्र में फूलों के पौधों की स्थानिक प्रजातियों का उच्चतम प्रतिशत है?",
+  "optsEn": [
+   "The Western Ghats",
+   "The Himalayas",
+   "The Andaman and Nicobar Islands",
+   "The North-East"
+  ],
+  "optsHi": [
+   "पश्चिमी घाट",
+   "हिमालय",
+   "अंडमान और निकोबार द्वीप समूह",
+   "उत्तर-पूर्व"
+  ],
+  "correct": 0,
+  "explainEn": "The Western Ghats are recognized as a global biodiversity hotspot with exceptionally high levels of endemism, particularly in flowering plants and amphibians.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change (MoEFCC)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:12:56Z"
+ },
+ {
+  "id": "q_9bf39e4cb391b1d3",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "The 'Patanach' or 'Pata' paintings, historically associated with the state of Odisha, are primarily executed on which of the following surfaces?",
+  "qHi": "ऐतिहासिक रूप से ओडिशा राज्य से जुड़े 'पटाचित्र' या 'पटा' चित्र मुख्य रूप से निम्नलिखित में से किस सतह पर बनाए जाते हैं?",
+  "optsEn": [
+   "Silk fabric",
+   "Canvas treated with cloth and tamarind glue",
+   "Dry palm leaves exclusively",
+   "Terracotta tiles"
+  ],
+  "optsHi": [
+   "रेशम का कपड़ा",
+   "कपड़े और इमली के गोंद से उपचारित कैनवास",
+   "विशेष रूप से सूखे ताड़ के पत्ते",
+   "टेराकोटा टाइल्स"
+  ],
+  "correct": 1,
+  "explainEn": "Traditional Pattachitra of Odisha is painted on a cloth canvas prepared by coating cotton fabric with a mixture of chalk and tamarind seed paste.",
+  "sourceHint": "CCRT India Culture Portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:12:56Z"
+ },
+ {
+  "id": "q_0d16157fcf9bb49d",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the provisions of the Indian Constitution, the President can promulgate ordinances under Article 123. What is the maximum possible lifespan of an ordinance if it is neither approved nor rejected by Parliament?",
+  "qHi": "भारतीय संविधान के प्रावधानों के तहत, राष्ट्रपति अनुच्छेद 123 के तहत अध्यादेश प्रख्यापित कर सकते हैं। यदि संसद द्वारा इसे न तो अनुमोदित किया जाता है और न ही अस्वीकार किया जाता है, तो अध्यादेश का अधिकतम संभावित जीवनकाल क्या है?",
+  "optsEn": [
+   "Six weeks from the date of assembly",
+   "Six months and six weeks from the date of promulgation",
+   "Six months from the date of promulgation",
+   "Three months from the date of assembly"
+  ],
+  "optsHi": [
+   "सभे के एकत्र होने की तारीख से छह सप्ताह",
+   "प्रख्यापन की तारीख से छह महीने और छह सप्ताह",
+   "प्रख्यापन की तारीख से छह महीने",
+   "सभे के एकत्र होने की तारीख से तीन महीने"
+  ],
+  "correct": 1,
+  "explainEn": "An ordinance must be approved by Parliament within six weeks of its reassembly. Since the maximum gap between two parliamentary sessions can be six months, the maximum possible lifespan of an ordinance is six months plus six weeks.",
+  "sourceHint": "Indian Polity by M. Laxmikanth / Constitution Article 123",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:12:56Z"
  }
 ]

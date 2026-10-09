@@ -7642,5 +7642,509 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-08T23:23:49Z"
+ },
+ {
+  "id": "q_a9cb8e72e50cc413",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization regulates the capital market and mutual funds in India?",
+  "qHi": "कौन सा संगठन भारत में पूंजी बाजार और म्यूचुअल फंड को नियंत्रित करता है?",
+  "optsEn": [
+   "IRDAI",
+   "SEBI",
+   "NABARD",
+   "SIDBI"
+  ],
+  "optsHi": [
+   "इrdai",
+   "सेबी",
+   "नाबार्ड",
+   "सिडबी"
+  ],
+  "correct": 1,
+  "explainEn": "SEBI (Securities and Exchange Board of India) is the regulator for the securities market in India.",
+  "sourceHint": "SEBI Act and Indian Economy textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:10:41Z"
+ },
+ {
+  "id": "q_1b2cf6deea26c300",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In the context of Indian banking, what does 'ATM' stand for?",
+  "qHi": "भारतीय बैंकिंग के संदर्भ में, 'ATM' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Any Time Money",
+   "Automated Teller Machine",
+   "Automated Transfer Mode",
+   "Authenticated Transaction Machine"
+  ],
+  "optsHi": [
+   "एनी टाइम मनी",
+   "ऑटोमेटेड टेलर मशीन",
+   "ऑटोमेटेड ट्रांसफर मोड",
+   "ऑथेंटिकेटेड ट्रांजैक्शन मशीन"
+  ],
+  "correct": 1,
+  "explainEn": "ATM stands for Automated Teller Machine, used for self-service banking transactions.",
+  "sourceHint": "Banking glossary and NCERT commerce books",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:10:41Z"
+ },
+ {
+  "id": "q_166c7469cbb30aa8",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which financial institution in India is exclusively focused on agriculture and rural development?",
+  "qHi": "भारत में कौन सा वित्तीय संस्थान विशेष रूप से कृषि और ग्रामीण विकास पर केंद्रित है?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "NHB"
+  ],
+  "optsHi": [
+   "सिडबी",
+   "नाबार्ड",
+   "एक्जिम बैंक",
+   "एनएचबी"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) is the apex development bank in India focusing on agriculture.",
+  "sourceHint": "NABARD official mandate and Indian economy manuals",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:10:41Z"
+ },
+ {
+  "id": "q_52de53fcf79d6f99",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the number of digits in a standard Indian Financial System Code (IFSC)?",
+  "qHi": "मानक भारतीय वित्तीय प्रणाली कोड (IFSC) में अंकों और अक्षरों की कुल संख्या कितनी होती है?",
+  "optsEn": [
+   "9 digits",
+   "10 digits",
+   "11 digits",
+   "12 digits"
+  ],
+  "optsHi": [
+   "9 अंक",
+   "10 अंक",
+   "11 अंक",
+   "12 अंक"
+  ],
+  "correct": 2,
+  "explainEn": "An IFSC is an 11-character alphanumeric code used for electronic fund transfers like NEFT and RTGS.",
+  "sourceHint": "RBI banking guidelines and payment system documentation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:10:41Z"
+ },
+ {
+  "id": "q_4eb74e8f9e59c9db",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the Liquidity Coverage Ratio (LCR) used in banking norms?",
+  "qHi": "बैंकिंग मानदंडों में प्रयुक्त 'लिक्विडिटी कवरेज रेशो' (LCR) में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liability",
+   "Liquidity",
+   "Leverage",
+   "Ledger"
+  ],
+  "optsHi": [
+   "लायबिलिटी",
+   "लिक्विडिटी",
+   "लेवेज",
+   "लेजर"
+  ],
+  "correct": 1,
+  "explainEn": "LCR stands for Liquidity Coverage Ratio, which is a Basel III metric designed to ensure banks have sufficient high-quality liquid assets.",
+  "sourceHint": "Basel Committee on Banking Supervision framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:11:58Z"
+ },
+ {
+  "id": "q_508e15eb23df1b0e",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque is valid for payment for how many months from the date of its issuance by default?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, एक चेक अपने जारी होने की तारीख से डिफ़ॉल्ट रूप से कितने महीनों के लिए भुगतान के लिए वैध रहता है?",
+  "optsEn": [
+   "1 month",
+   "3 months",
+   "6 months",
+   "12 months"
+  ],
+  "optsHi": [
+   "1 महीना",
+   "3 महीने",
+   "6 महीने",
+   "12 महीने"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India directed that the validity period of cheques, demand drafts, and pay orders was reduced from 6 months to 3 months from the date of issue.",
+  "sourceHint": "RBI Master Circular on Cheque Truncation System",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:11:58Z"
+ },
+ {
+  "id": "q_ab6ef41276ece828",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is considered a primary function of a commercial bank?",
+  "qHi": "निम्नलिखित में से किसे वाणिज्यिक बैंक का प्राथमिक कार्य माना जाता है?",
+  "optsEn": [
+   "Underwriting shares",
+   "Accepting deposits",
+   "Providing safe deposit lockers",
+   "Issuing letters of recommendation"
+  ],
+  "optsHi": [
+   "शेयरों का अंडरराइटिंग करना",
+   "जमा स्वीकार करना",
+   "सुरक्षित डिपॉजिट लॉकर प्रदान करना",
+   "संस्तुति पत्र जारी करना"
+  ],
+  "correct": 1,
+  "explainEn": "Accepting deposits and advancing loans are the core primary functions of any commercial bank.",
+  "sourceHint": "NCERT Economics textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:11:58Z"
+ },
+ {
+  "id": "q_491ac25377451f57",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum amount insured per depositor by the Deposit Insurance and Credit Guarantee Corporation (DICGC) in India?",
+  "qHi": "भारत में डिपॉजिट इंश्योरेंस एंड क्रेडिट गारंटी कॉरपोरेशन (DICGC) द्वारा प्रति जमाकर्ता अधिकतम कितनी राशि बीमित की जाती है?",
+  "optsEn": [
+   "One lakh rupees",
+   "Two lakh rupees",
+   "Five lakh rupees",
+   "Ten lakh rupees"
+  ],
+  "optsHi": [
+   "एक लाख रुपये",
+   "दो लाख रुपये",
+   "पाँच लाख रुपये",
+   "दस लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "DICGC insures each depositor in a bank up to a maximum of 5 lakh rupees for both principal and interest held in the same right and capacity.",
+  "sourceHint": "DICGC official website and RBI notifications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:11:58Z"
+ },
+ {
+  "id": "q_9b6d5bd64c1459e0",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of Indian financial markets, what does the term 'G-Sec' refer to?",
+  "qHi": "भारतीय वित्तीय बाजारों के संदर्भ में, 'जी-सिक' (G-Sec) शब्द का क्या अर्थ है?",
+  "optsEn": [
+   "Gold Security",
+   "Government Security",
+   "Global Sector",
+   "Gross Security"
+  ],
+  "optsHi": [
+   "गोल्ड सिक्योरिटी",
+   "गवर्नमेंट सिक्योरिटी",
+   "ग्लोबल सेक्टर",
+   "ग्रॉस सिक्योरिटी"
+  ],
+  "correct": 1,
+  "explainEn": "G-Sec stands for Government Security, which is a tradable instrument issued by the Central Government or the State Governments.",
+  "sourceHint": "RBI Financial Education literature",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:11:58Z"
+ },
+ {
+  "id": "q_fd039eee1b8e1c5d",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India calculates the Index of Industrial Production (IIP)?",
+  "qHi": "भारत में औद्योगिक उत्पादन सूचकांक (IIP) की गणना कौन सा संगठन करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "National Statistical Office",
+   "NITI Aayog",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "राष्ट्रीय सांख्यिकी कार्यालय",
+   "नीति आयोग",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड"
+  ],
+  "correct": 1,
+  "explainEn": "The National Statistical Office (NSO), under the Ministry of Statistics and Programme Implementation, compiles and publishes the IIP.",
+  "sourceHint": "Ministry of Statistics and Programme Implementation (MoSPI)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:11:58Z"
+ },
+ {
+  "id": "q_7c0c19cc93674ad1",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which section of the Banking Regulation Act, 1949 empowers the Reserve Bank of India to issue directions to banking companies in public interest or to prevent their affairs from being conducted in a manner detrimental to the interests of depositors?",
+  "qHi": "बैंकिंग विनियमन अधिनियम, 1949 की कौन सी धारा भारतीय रिजर्व बैंक को जनहित में या जमाकर्ताओं के हितों के प्रतिकूल तरीके से उनके मामलों के संचालन को रोकने के लिए बैंकिंग कंपनियों को निर्देश जारी करने का अधिकार देती है?",
+  "optsEn": [
+   "Section 21",
+   "Section 35A",
+   "Section 44A",
+   "Section 45"
+  ],
+  "optsHi": [
+   "धारा 21",
+   "धारा 35ए",
+   "धारा 44ए",
+   "धारा 45"
+  ],
+  "correct": 1,
+  "explainEn": "Section 35A of the Banking Regulation Act, 1949 gives RBI sweeping powers to issue directions to banking companies in the public interest.",
+  "sourceHint": "RBI Act and Banking Regulation Act Compendium",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:13:05Z"
+ },
+ {
+  "id": "q_19543523c90a24be",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary purpose of the Marginal Cost of Funds based Lending Rate (MCLR) framework introduced by the RBI for commercial banks?",
+  "qHi": "वाणिज्यिक बैंकों के लिए आरबीआई द्वारा शुरू किए गए फंड आधारित उधार दर (एमसीएलआर) ढांचे की सीमांत लागत का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To determine the minimum capital adequacy ratio for foreign banks",
+   "To improve the transmission of policy rates to lending rates of banks",
+   "To calculate the daily Cash Reserve Ratio maintenance for scheduled banks",
+   "To regulate the interest rates on non-resident external deposits"
+  ],
+  "optsHi": [
+   "विदेशी बैंकों के लिए न्यूनतम पूंजी पर्याप्तता अनुपात निर्धारित करना",
+   "बैंकों की ऋण दरों तक नीतिगत दरों के संचरण में सुधार करना",
+   "अनुसूचित बैंकों के लिए दैनिक नकद आरक्षित अनुपात रखरखाव की गणना करना",
+   "अनिवासी बाह्य जमा पर ब्याज दरों को विनियमित करना"
+  ],
+  "correct": 1,
+  "explainEn": "MCLR was introduced to improve the transmission of monetary policy rates to the actual lending rates charged to borrowers by banks.",
+  "sourceHint": "RBI Master Circulars",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:13:05Z"
+ },
+ {
+  "id": "q_3430699ba7d2098f",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, what does a 'Cheque in electronic form' specifically mean?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, 'इलेक्ट्रॉनिक रूप में चेक' का विशेष रूप से क्या अर्थ है?",
+  "optsEn": [
+   "A cheque drawn in a secure electronic medium using a digital signature and asymmetric crypto system",
+   "A standard paper cheque scanned and transmitted via email to the paying banker",
+   "Any digital payment made through Unified Payments Interface (UPI)",
+   "An automated teller machine transaction receipt acknowledged by the customer"
+  ],
+  "optsHi": [
+   "डिजिटल हस्ताक्षर और असममित क्रिप्टो सिस्टम का उपयोग करके एक सुरक्षित इलेक्ट्रॉनिक माध्यम में तैयार किया गया चेक",
+   "भुगतान करने वाले बैंकर को ईमेल के माध्यम से स्कैन और प्रेषित एक मानक कागजी चेक",
+   "यिफाइड पेमेंट इंटरफेस (यूपीआई) के माध्यम से किया गया कोई भी डिजिटल भुगतान",
+   "ग्राहक द्वारा स्वीकृत स्वचालित टेलर मशीन लेनदेन रसीद"
+  ],
+  "correct": 0,
+  "explainEn": "Section 6 of the Negotiable Instruments Act defines a cheque in electronic form as a cheque drawn in electronic form using a digital signature and asymmetric crypto system.",
+  "sourceHint": "Negotiable Instruments Act, 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:13:05Z"
+ },
+ {
+  "id": "q_24af6af7e6bdcc45",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What does the term 'Basel III Capital Conservation Buffer' primarily aim to achieve for banking institutions?",
+  "qHi": "बेसल III पूंजी संरक्षण बफर शब्द का मुख्य उद्देश्य बैंकिंग संस्थानों के लिए क्या प्राप्त करना है?",
+  "optsEn": [
+   "To ensure banks maintain a buffer of capital over regulatory minimum requirements during normal periods that can be drawn down during stress",
+   "To provide mandatory deposit insurance coverage to all retail banking customers up to a specified limit",
+   "To restrict banks from engaging in cross-border foreign exchange arbitrage",
+   "To guarantee liquidity support from the central bank during overnight lending crises"
+  ],
+  "optsHi": [
+   "यह सुनिश्चित करना कि बैंक सामान्य अवधि के दौरान नियामक न्यूनतम आवश्यकताओं से अधिक पूंजी का बफर बनाए रखें जिसे तनाव के दौरान कम किया जा सके",
+   "एक निश्चित सीमा तक सभी खुदरा बैंकिंग ग्राहकों को अनिवार्य जमा बीमा कवरेज प्रदान करना",
+   "बैंकों को सीमा पार विदेशी मुद्रा मध्यस्थता में संलग्न होने से प्रतिबंधित करना",
+   "रात्रिकालीन ऋण संकट के दौरान केंद्रीय बैंक से तरलता सहायता की गारंटी देना"
+  ],
+  "correct": 0,
+  "explainEn": "The Capital Conservation Buffer is designed to ensure that banks build up capital buffers during normal times that can be drawn down as losses are incurred during a stress period.",
+  "sourceHint": "Bank for International Settlements (BIS) Basel III guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:13:05Z"
+ },
+ {
+  "id": "q_b212ab43a2dd61d7",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian financial markets, what is 'Commercial Paper' (CP)?",
+  "qHi": "भारतीय वित्तीय बाजारों के संदर्भ में, 'वाणिज्यिक पत्र' (सीपी) क्या है?",
+  "optsEn": [
+   "A secured term loan issued by development financial institutions to micro enterprises",
+   "An unsecured money market instrument issued in the form of a promissory note",
+   "A long-term debt instrument issued exclusively by the central government",
+   "A certificate issued by commercial banks against foreign currency non-resident deposits"
+  ],
+  "optsHi": [
+   "सूक्ष्म उद्यमों को विकास वित्तीय संस्थानों द्वारा जारी किया गया एक सुरक्षित सावधि ऋण",
+   "एक वचन पत्र के रूप में जारी एक असुरक्षित मुद्रा बाजार उपकरण",
+   "विशेष रूप से केंद्र सरकार द्वारा जारी एक दीर्घकालिक ऋण साधन",
+   "विदेशी मुद्रा अनिवासी जमा के खिलाफ वाणिज्यिक बैंकों द्वारा जारी प्रमाण पत्र"
+  ],
+  "correct": 1,
+  "explainEn": "Commercial Paper is an unsecured money market instrument issued in the form of a promissory note, introduced in India in 1990.",
+  "sourceHint": "RBI Guidelines on Money Market Instruments",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:13:05Z"
+ },
+ {
+  "id": "q_cd1e1514f183ae75",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which institution regulates the Credit Information Companies (CICs) operating in India?",
+  "qHi": "भारत में काम करने वाली क्रेडिट इंफॉर्मेशन कंपनियों (सीआईसी) को कौन सा संस्थान विनियमित करता है?",
+  "optsEn": [
+   "Securities and Exchange Board of India",
+   "Insurance Regulatory and Development Authority of India",
+   "Reserve Bank of India",
+   "Competition Commission of India"
+  ],
+  "optsHi": [
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "भारतीय बीमा विनियामक और विकास प्राधिकरण",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिस्पर्धा आयोग"
+  ],
+  "correct": 2,
+  "explainEn": "Credit Information Companies (CICs) like CIBIL, Experian, etc., are regulated by the Reserve Bank of India under the Credit Information Companies (Regulation) Act, 2005.",
+  "sourceHint": "Credit Information Companies (Regulation) Act, 2005",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:13:05Z"
+ },
+ {
+  "id": "q_b58abdf1083c3f01",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the maximum permissible period for which a term deposit (Fixed Deposit) can be mobilized by Non-Banking Financial Companies (NBFCs) as per RBI directions?",
+  "qHi": "आरबीआई के निर्देशों के अनुसार गैर-बैंकिंग वित्तीय कंपनियों (एनबीएफसी) द्वारा अधिकतम कितनी अवधि के लिए सावधि जमा (सावधि जमा) जुटाई जा सकती है?",
+  "optsEn": [
+   "1 year",
+   "3 years",
+   "5 years",
+   "10 years"
+  ],
+  "optsHi": [
+   "1 वर्ष",
+   "3 वर्ष",
+   "5 वर्ष",
+   "10 वर्ष"
+  ],
+  "correct": 2,
+  "explainEn": "NBFCs cannot accept or renew public deposits repayable on demand or on notice for a period less than 12 months or more than 60 months (5 years).",
+  "sourceHint": "RBI Master Directions on NBFC Acceptance of Public Deposits",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:13:05Z"
+ },
+ {
+  "id": "q_674f7ca29a6fa8d9",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the prompt corrective action (PCA) framework for commercial banks, which of the following parameters is generally NOT used by the RBI to trigger corrective action?",
+  "qHi": "वाणिज्यिक बैंकों के लिए त्वरित सुधार कार्रवाई (पीसीए) ढांचे के तहत, सुधारात्मक कार्रवाई शुरू करने के लिए आरबीआई द्वारा आम तौर पर निम्नलिखित में से किस पैरामीटर का उपयोग नहीं किया जाता है?",
+  "optsEn": [
+   "Capital to Risk-weighted Assets Ratio",
+   "Net Non-Performing Assets ratio",
+   "Return on Assets",
+   "Credit-Deposit ratio"
+  ],
+  "optsHi": [
+   "पूंजी से जोखिम-भारित संपत्ति अनुपात",
+   "शुद्ध गैर-निष्पादित परिसंपत्ति अनुपात",
+   "परिसंपत्ति पर रिटर्न",
+   "ऋण-जमा अनुपात"
+  ],
+  "correct": 3,
+  "explainEn": "The PCA framework relies on indicators of capital (CRAR), asset quality (NPA), and profitability (Return on Assets). Credit-Deposit ratio is not a PCA trigger parameter.",
+  "sourceHint": "RBI PCA Framework Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:13:05Z"
  }
 ]

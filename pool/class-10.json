@@ -6830,5 +6830,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-08T23:24:19Z"
+ },
+ {
+  "id": "q_665b0d0ab2da9268",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of soil is best suited for growing cotton in India?",
+  "qHi": "भारत में कपास उगाने के लिए किस प्रकार की मिट्टी सबसे उपयुक्त है?",
+  "optsEn": [
+   "Laterite soil",
+   "Black soil",
+   "Red soil",
+   "Desert soil"
+  ],
+  "optsHi": [
+   "लैटेराइट मिट्टी",
+   "काली मिट्टी",
+   "लाल मिट्टी",
+   "मरुस्थलीय मिट्टी"
+  ],
+  "correct": 1,
+  "explainEn": "Black soil is ideal for growing cotton and is also known as regur soil.",
+  "sourceHint": "NCERT Class 10 Social Science (Geography), Chapter 1: Resources and Development",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:10:58Z"
+ },
+ {
+  "id": "q_86d4bbf2badb4495",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which sector has the largest share in India's Gross Domestic Product (GDP) today?",
+  "qHi": "आज भारत के सकल घरेलू उत्पाद (GDP) में किस क्षेत्र की सबसे बड़ी हिस्सेदारी है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Agricultural sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "तृतीयक क्षेत्र",
+   "कृषि क्षेत्र"
+  ],
+  "correct": 2,
+  "explainEn": "The tertiary sector (service sector) produces the largest part of the GDP in India.",
+  "sourceHint": "NCERT Class 10 Social Science (Economics), Chapter 2: Sectors of the Indian Economy",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:10:58Z"
+ },
+ {
+  "id": "q_52e28748ed33b3fc",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organism is commonly known as the friend of the farmer?",
+  "qHi": "किस जीव को आमतौर पर किसान का मित्र कहा जाता है?",
+  "optsEn": [
+   "Snake",
+   "Earthworm",
+   "Frog",
+   "Spider"
+  ],
+  "optsHi": [
+   "सांप",
+   "केंचुआ",
+   "मेंढक",
+   "मकड़ी"
+  ],
+  "correct": 1,
+  "explainEn": "Earthworms are called farmer's friends because they help in loosening the soil and adding nutrients through vermicomposting.",
+  "sourceHint": "NCERT textbook references and general biological sciences",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:10:58Z"
+ },
+ {
+  "id": "q_a5f9439bf3438d85",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the human digestive system, which enzyme is present in saliva to break down complex starch into simple sugars?",
+  "qHi": "मानव पाचन तंत्र में, जटिल स्टार्च को सरल शर्करा में तोड़ने के लिए लार में कौन सा एंजाइम मौजूद होता है?",
+  "optsEn": [
+   "Pepsin",
+   "Salivary amylase",
+   "Trypsin",
+   "Lipase"
+  ],
+  "optsHi": [
+   "पेप्सिन",
+   "लार एमाइलेज",
+   "ट्रिप्सिन",
+   "लाइपेस"
+  ],
+  "correct": 1,
+  "explainEn": "Saliva contains an enzyme called salivary amylase that breaks down starch, which is a complex molecule, to give simple sugar.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:12:19Z"
+ },
+ {
+  "id": "q_594f2084c7e76d81",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which metal is obtained on roasting cinnabar (mercury sulfide) ore?",
+  "qHi": "सिनबार (मरक्यूरिक सल्फाइड) अयस्क के भूनने पर कौन सी धातु प्राप्त होती है?",
+  "optsEn": [
+   "Iron",
+   "Copper",
+   "Zinc",
+   "Mercury"
+  ],
+  "optsHi": [
+   "लोहा",
+   "तांबा",
+   "जस्ता",
+   "पारा"
+  ],
+  "correct": 3,
+  "explainEn": "Cinnabar is an ore of mercury. When it is heated in air (roasted), mercury(II) sulfide is first converted into mercury(II) oxide and then reduced to mercury.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:12:19Z"
+ },
+ {
+  "id": "q_2e33f83c04fdfc01",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the standard SI unit of electric resistance?",
+  "qHi": "विद्युत प्रतिरोध की मानक एसआई इकाई क्या है?",
+  "optsEn": [
+   "Volt",
+   "Ampere",
+   "Ohm",
+   "Watt"
+  ],
+  "optsHi": [
+   "वोल्ट",
+   "एम्पियर",
+   "ओम",
+   "वाट"
+  ],
+  "correct": 2,
+  "explainEn": "The SI unit of electric resistance is the ohm, represented by the Greek letter omega.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:12:19Z"
+ },
+ {
+  "id": "q_ebe142f23922a771",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which plant hormone is primarily responsible for cell division and is found in greater concentration in areas of rapid cell division such as fruits and seeds?",
+  "qHi": "कौन सा पादप हार्मोन मुख्य रूप से कोशिका विभाजन के लिए जिम्मेदार है और फलों तथा बीजों जैसे तीव्र कोशिका विभाजन वाले क्षेत्रों में अधिक सांद्रता में पाया जाता है?",
+  "optsEn": [
+   "Auxin",
+   "Gibberellin",
+   "Cytokinin",
+   "Abscisic acid"
+  ],
+  "optsHi": [
+   "ऑक्सिन",
+   "जिबरेलिन",
+   "साइटोकिनिन",
+   "एब्सिसिक एसिड"
+  ],
+  "correct": 2,
+  "explainEn": "Cytokinins promote cell division and are naturally synthesized in regions where rapid cell division occurs, such as in fruits and seeds.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:12:19Z"
+ },
+ {
+  "id": "q_245127469d2264cd",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the process of photosynthesis, which event does NOT occur during the first stage (absorption of light energy)?",
+  "qHi": "प्रकाश संश्लेषण की प्रक्रिया में, पहले चरण (प्रकाश ऊर्जा के अवशोषण) के दौरान कौन सी घटना नहीं होती है?",
+  "optsEn": [
+   "Absorption of light energy by chlorophyll",
+   "Conversion of light energy to chemical energy",
+   "Reduction of carbon dioxide to carbohydrates",
+   "Splitting of water molecules into hydrogen and oxygen"
+  ],
+  "optsHi": [
+   "क्लोरोफिल द्वारा प्रकाश ऊर्जा का अवशोषण",
+   "प्रकाश ऊर्जा का रासायनिक ऊर्जा में रूपांतरण",
+   "कार्बन डाइऑक्साइड का कार्बोहाइड्रेट में अपचयन",
+   "जल के अणुओं का हाइड्रोजन और ऑक्सीजन में टूटना"
+  ],
+  "correct": 2,
+  "explainEn": "The reduction of carbon dioxide to carbohydrates typically happens during the later steps (dark phase or light-independent reactions) of photosynthesis.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:12:19Z"
+ },
+ {
+  "id": "q_bba71af61d4d684f",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organelle in a plant cell contains green pigment called chlorophyll?",
+  "qHi": "पादप कोशिका के किस अंगक में क्लोरोफिल नामक हरा वर्णक होता है?",
+  "optsEn": [
+   "Mitochondria",
+   "Chloroplast",
+   "Ribosome",
+   "Vacuole"
+  ],
+  "optsHi": [
+   "माइटोकॉन्ड्रिया",
+   "क्लोरोप्लास्ट",
+   "राइबोसोम",
+   "रिक्तिका"
+  ],
+  "correct": 1,
+  "explainEn": "Chloroplasts are plant cell organelles that contain chlorophyll and are responsible for carrying out photosynthesis.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:12:19Z"
  }
 ]

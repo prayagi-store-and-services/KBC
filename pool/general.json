@@ -5374,5 +5374,397 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-08T23:23:53Z"
+ },
+ {
+  "id": "q_9db3e5a4d7cfed12",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which musical instrument is associated with the legendary maestro Pandit Ravi Shankar?",
+  "qHi": "प्रसिद्ध उस्ताद पंडित रविशंकर कौन सा वाद्य यंत्र बजाते थे?",
+  "optsEn": [
+   "Flute",
+   "Sitar",
+   "Tabla",
+   "Sarod"
+  ],
+  "optsHi": [
+   "बांसुरी",
+   "सितार",
+   "tabla",
+   "सरोद"
+  ],
+  "correct": 1,
+  "explainEn": "Pandit Ravi Shankar was a world-renowned virtuoso of the sitar.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:10:45Z"
+ },
+ {
+  "id": "q_8ae4eff9b2970fea",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian city is known as the Silicon Valley of India due to its role as the nation's leading information technology exporter?",
+  "qHi": "भारत के किस शहर को देश के प्रमुख सूचना प्रौद्योगिकी निर्यातक के रूप में इसकी भूमिका के कारण भारत की सिलिकॉन वैली के रूप में जाना जाता है?",
+  "optsEn": [
+   "Mumbai",
+   "Bengaluru",
+   "Hyderabad",
+   "Chennai"
+  ],
+  "optsHi": [
+   "मुंबई",
+   "बेंगलुरु",
+   "हैदराबाद",
+   "चेन्नई"
+  ],
+  "correct": 1,
+  "explainEn": "Bengaluru is widely recognized as the hub of India's IT industry.",
+  "sourceHint": "Encyclopædia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:12:03Z"
+ },
+ {
+  "id": "q_92193a32a55056c0",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the term of office for the President of India as prescribed by the Constitution?",
+  "qHi": "संविधान द्वारा निर्धारित भारत के राष्ट्रपति का कार्यकाल कितना होता है?",
+  "optsEn": [
+   "4 years",
+   "5 years",
+   "6 years",
+   "7 years"
+  ],
+  "optsHi": [
+   "4 वर्ष",
+   "5 वर्ष",
+   "6 वर्ष",
+   "7 वर्ष"
+  ],
+  "correct": 1,
+  "explainEn": "According to Article 56 of the Constitution of India, the President holds office for a term of five years.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:12:03Z"
+ },
+ {
+  "id": "q_1855fd18036cc00c",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian state has the coastline along the Arabian Sea known as the Konkan Coast?",
+  "qHi": "किस भारतीय राज्य के अरब सागर के किनारे के तट को कोंकण तट के रूप में जाना जाता है?",
+  "optsEn": [
+   "Tamil Nadu",
+   "Odisha",
+   "Maharashtra",
+   "West Bengal"
+  ],
+  "optsHi": [
+   "तमिलनाडु",
+   "ओडिशा",
+   "महाराष्ट्र",
+   "पश्चिम बंगाल"
+  ],
+  "correct": 2,
+  "explainEn": "The Konkan coast is a rugged stretch of the western coastline of India, primarily spanning the coastal districts of Maharashtra and Goa.",
+  "sourceHint": "NCERT Geography Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:12:03Z"
+ },
+ {
+  "id": "q_f48d5cd06b6aa1ce",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the famous ancient Indian treatise on statecraft, economic policy, and military strategy titled 'Arthashastra'?",
+  "qHi": "राज्यकला, आर्थिक नीति और सैन्य रणनीति पर प्रसिद्ध प्राचीन भारतीय ग्रंथ 'अर्थशास्त्र' किसने लिखा था?",
+  "optsEn": [
+   "Kalidasa",
+   "Chanakya",
+   "Valmiki",
+   "Tulsidas"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "चाणक्य",
+   "वाल्मीकि",
+   "तुलसीदास"
+  ],
+  "correct": 1,
+  "explainEn": "Arthashastra was authored by Chanakya, also known as Kautilya or Vishnugupta.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:12:03Z"
+ },
+ {
+  "id": "q_663db3817c95a3de",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which gas makes up the majority of Earth's atmosphere by volume?",
+  "qHi": "आयतन की दृष्टि से पृथ्वी के वायुमंडल का अधिकांश भाग कौन सी गैस बनाती है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon Dioxide",
+   "Nitrogen",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "आर्गन"
+  ],
+  "correct": 2,
+  "explainEn": "Nitrogen makes up about 78 percent of Earth's atmosphere by volume.",
+  "sourceHint": "NCERT Geography Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:12:03Z"
+ },
+ {
+  "id": "q_78c3bf22988aa73d",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian state has the highest percentage of its geographical area under mangrove cover according to the India State of Forest Report?",
+  "qHi": "भारतीय वन स्थिति रिपोर्ट के अनुसार किस भारतीय राज्य के भौगोलिक क्षेत्र का सबसे अधिक प्रतिशत मैंग्रोव आवरण के अंतर्गत है?",
+  "optsEn": [
+   "West Bengal",
+   "Gujarat",
+   "Andaman and Nicobar Islands",
+   "Odisha"
+  ],
+  "optsHi": [
+   "पश्चिम बंगाल",
+   "गुजरात",
+   "अंडमान और निकोबार द्वीप समूह",
+   "ओडिशा"
+  ],
+  "correct": 0,
+  "explainEn": "West Bengal has the highest mangrove cover in absolute terms and percentage-wise among states, largely due to the Sundarbans.",
+  "sourceHint": "India State of Forest Report (ISFR)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:13:11Z"
+ },
+ {
+  "id": "q_31932962f4ecbe92",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under which Article of the Constitution of India is the Supreme Court empowered to punish for contempt of itself?",
+  "qHi": "भारत के संविधान के किस अनुच्छेद के तहत उच्चतम न्यायालय को अपनी अवमानना के लिए दंडित करने की शक्ति दी गई है?",
+  "optsEn": [
+   "Article 129",
+   "Article 142",
+   "Article 32",
+   "Article 226"
+  ],
+  "optsHi": [
+   "अनुच्छेद 129",
+   "अनुच्छेद 142",
+   "अनुच्छेद 32",
+   "अनुच्छेद 226"
+  ],
+  "correct": 0,
+  "explainEn": "Article 129 declares the Supreme Court to be a court of record and to have all the powers of such a court including the power to punish for contempt of itself.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:13:11Z"
+ },
+ {
+  "id": "q_acf2f88769457495",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form of India traditionally uses heavy facial makeup known as 'Chutti' made of rice paste and lime?",
+  "qHi": "भारत की किस शास्त्रीय नृत्य शैली में पारंपरिक रूप से चावल के लेप और चूने से बने 'चुट्टी' नामक भारी चेहरे के मेकअप का उपयोग किया जाता है?",
+  "optsEn": [
+   "Kathakali",
+   "Bharatanatyam",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "कथकली",
+   "भरतनाट्यम",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 0,
+  "explainEn": "Kathakali artists wear elaborate make-up (vesham), with 'Chutti' being a prominent white facial frame made of rice paste and lime.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:13:11Z"
+ },
+ {
+  "id": "q_09aedf3ffa4879c6",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Mughal emperor issued a royal firman in 1617 granting the English East India Company trading rights in Surat?",
+  "qHi": "किस मुगल सम्राट ने 1617 में अंग्रेजी ईस्ट इंडिया कंपनी को सूरत में व्यापारिक अधिकार प्रदान करते हुए एक शाही फरमान जारी किया था?",
+  "optsEn": [
+   "Jahangir",
+   "Akbar",
+   "Shah Jahan",
+   "Aurangzeb"
+  ],
+  "optsHi": [
+   "जहाँगीर",
+   "अकबर",
+   "शाहजहाँ",
+   "औरंगजेब"
+  ],
+  "correct": 0,
+  "explainEn": "Sir Thomas Roe, the ambassador of King James I, successfully secured a firman from Emperor Jahangir allowing the English to establish a factory at Surat.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:13:11Z"
+ },
+ {
+  "id": "q_439a72a45fb6ea03",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian monetary policy, what does the term 'M3' broad money primarily include?",
+  "qHi": "भारतीय मौद्रिक नीति के संदर्भ में, 'M3' व्यापक मुद्रा (ब्रॉड मनी) में मुख्य रूप से क्या शामिल है?",
+  "optsEn": [
+   "Currency with the public plus demand and time deposits with banking system",
+   "Only currency and coins in circulation with the public",
+   "Currency with public plus total post office savings bank deposits",
+   "Demand deposits with RBI only"
+  ],
+  "optsHi": [
+   "जनता के पास मुद्रा और बैंकिंग प्रणाली के पास मांग और सावधि जमा",
+   "केवल जनता के पास संचलन में मुद्रा और सिक्के",
+   "जनता के पास मुद्रा और कुल डाकघर बचत बैंक जमा",
+   "केवल आरबीआई के पास मांग जमा"
+  ],
+  "correct": 0,
+  "explainEn": "M3 is defined by the Reserve Bank of India as M1 (currency with public + demand deposits with banks + 'other' deposits with RBI) plus time deposits with the banking system.",
+  "sourceHint": "Reserve Bank of India (RBI) Bulletin",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:13:11Z"
+ },
+ {
+  "id": "q_448e5c37adeae8f9",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "The classical Sanskrit text 'Ashtadhyayi', an early treatise on grammar, was authored by whom?",
+  "qHi": "व्याकरण पर एक प्रारंभिक ग्रंथ, शास्त्रीय संस्कृत पाठ 'अष्टाध्यायी' के लेखक कौन थे?",
+  "optsEn": [
+   "Panini",
+   "Patanjali",
+   "Kautilya",
+   "Varahamihira"
+  ],
+  "optsHi": [
+   "पाणिनी",
+   "पतंजलि",
+   "कौटिल्य",
+   "वराहमिहिर"
+  ],
+  "correct": 0,
+  "explainEn": "Panini was a pioneering ancient Indian Sanskrit philologist, grammarian, and revered scholar who authored the Ashtadhyayi.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:13:11Z"
+ },
+ {
+  "id": "q_3e359aca86a7f492",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which wildlife sanctuary in India is globally famous as the primary natural habitat of the endangered Sangai deer?",
+  "qHi": "भारत का कौन सा वन्यजीव अभ्यारण्य लुप्तप्राय संगाई हिरण के प्राथमिक प्राकृतिक आवास के रूप में विश्व प्रसिद्ध है?",
+  "optsEn": [
+   "Keibul Lamjao National Park",
+   "Kaziranga National Park",
+   "Manas National Park",
+   "Jim Corbett National Park"
+  ],
+  "optsHi": [
+   "केइबुुल लामजाओ राष्ट्रीय उद्यान",
+   "काजीरंगा राष्ट्रीय उद्यान",
+   "मानस राष्ट्रीय उद्यान",
+   "जिम कॉर्बेट राष्ट्रीय उद्यान"
+  ],
+  "correct": 0,
+  "explainEn": "Keibul Lamjao National Park in Manipur is the only floating park in the world and is the natural habitat of the endangered Sangai (dancing deer).",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change, India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:13:11Z"
+ },
+ {
+  "id": "q_5ca2d23d7343d57c",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of soil, predominantly found in the Deccan Trap region, is formed by the weathering of basaltic lava rocks?",
+  "qHi": "दक्कन ट्रैप क्षेत्र में मुख्य रूप से पाई जाने वाली किस प्रकार की मिट्टी का निर्माण बेसाल्टिक लावा चट्टानों के अपक्षय से होता है?",
+  "optsEn": [
+   "Black soil",
+   "Laterite soil",
+   "Red soil",
+   "Alluvial soil"
+  ],
+  "optsHi": [
+   "काली मिट्टी",
+   "लैटेराइट मिट्टी",
+   "लाल मिट्टी",
+   "जलोढ़ मिट्टी"
+  ],
+  "correct": 0,
+  "explainEn": "Black cotton soil (Regur) covers large areas of the Deccan plateau and is derived from the basalt rocks formed by volcanic activity in the region.",
+  "sourceHint": "NCERT Geography Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:13:11Z"
  }
 ]

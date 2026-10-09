@@ -6662,5 +6662,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-08T23:23:57Z"
+ },
+ {
+  "id": "q_361b02bb23253e96",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the capital of India?",
+  "qHi": "भारत की राजधानी क्या है?",
+  "optsEn": [
+   "Mumbai",
+   "Kolkata",
+   "New Delhi",
+   "Chennai"
+  ],
+  "optsHi": [
+   "मुंबई",
+   "कोलकाता",
+   "नई दिल्ली",
+   "चेन्नई"
+  ],
+  "correct": 2,
+  "explainEn": "New Delhi is the national capital of India.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:10:49Z"
+ },
+ {
+  "id": "q_233cc423f2ca83a5",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organ pumps blood in the human body?",
+  "qHi": "मानव शरीर में कौन सा अंग रक्त पंप करता है?",
+  "optsEn": [
+   "Lungs",
+   "Heart",
+   "Liver",
+   "Stomach"
+  ],
+  "optsHi": [
+   "फेफड़े",
+   "दिल",
+   "यकृत",
+   "पेट"
+  ],
+  "correct": 1,
+  "explainEn": "The heart is the muscular organ responsible for pumping blood throughout the body.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:10:49Z"
+ },
+ {
+  "id": "q_8e5038fe5d0da3b5",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary gas used by plants to prepare their food?",
+  "qHi": "पौधों द्वारा अपना भोजन तैयार करने के लिए मुख्य रूप से किस गैस का उपयोग किया जाता है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Plants take in carbon dioxide from the air during photosynthesis.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:12:09Z"
+ },
+ {
+  "id": "q_572d73d2e1f4c2ae",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which direction does the magnetic needle in a compass always point?",
+  "qHi": "कम्पास में चुंबकीय सुई हमेशा किस दिशा की ओर इशारा करती है?",
+  "optsEn": [
+   "East and West",
+   "North and South",
+   "Up and Down",
+   "Left and Right"
+  ],
+  "optsHi": [
+   "पूर्व और पश्चिम",
+   "उत्तर और दक्षिण",
+   "ऊपर और नीचे",
+   "बाएं और दाएं"
+  ],
+  "correct": 1,
+  "explainEn": "A magnetic compass aligns with Earth's magnetic field to point North and South.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:12:09Z"
+ },
+ {
+  "id": "q_059263c890d7c4ba",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian water harvesting system uses stepwells?",
+  "qHi": "कौन सी पारंपरिक भारतीय जल संचयन प्रणाली सीढ़ीदार कुओं का उपयोग करती है?",
+  "optsEn": [
+   "Baoli",
+   "Dam",
+   "Canal",
+   "Tubewell"
+  ],
+  "optsHi": [
+   "बावली",
+   "बांध",
+   "नहर",
+   "ट्यूबवेल"
+  ],
+  "correct": 0,
+  "explainEn": "Baolis are traditional stepwells used in India to store rainwater.",
+  "sourceHint": "NCERT Class 5 EVS Chapter - A Shelter so High",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:12:09Z"
+ },
+ {
+  "id": "q_2c647054ac74fa67",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin is primarily obtained from exposure to early morning sunlight?",
+  "qHi": "सुबह की धूप के संपर्क में आने से मुख्य रूप से कौन सा विटामिन प्राप्त होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Vitamin D is synthesized in the skin when exposed to sunlight.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:12:09Z"
+ },
+ {
+  "id": "q_e7e47ad5a14a2a15",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following animals is primarily nocturnal?",
+  "qHi": "निम्नलिखित में से कौन सा जानवर मुख्य रूप से निशाचर (रात में जागने वाला) है?",
+  "optsEn": [
+   "Owl",
+   "Cow",
+   "Crow",
+   "Elephant"
+  ],
+  "optsHi": [
+   "उल्लू",
+   "गाय",
+   "कौआ",
+   "हाथी"
+  ],
+  "correct": 0,
+  "explainEn": "Owls are active and hunt mainly at night.",
+  "sourceHint": "NCERT Class 5 EVS Chapter - Super Senses",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:12:09Z"
+ },
+ {
+  "id": "q_ecda20b14eb50b93",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of map shows physical features like mountains, rivers, and plains?",
+  "qHi": "किस प्रकार का मानचित्र पहाड़ों, नदियों और मैदानों जैसी भौतिक विशेषताओं को दर्शाता है?",
+  "optsEn": [
+   "Political map",
+   "Physical map",
+   "Road map",
+   "Climate map"
+  ],
+  "optsHi": [
+   "राजनीतिक मानचित्र",
+   "भौतिक मानचित्र",
+   "सड़क मानचित्र",
+   "जलवायु मानचित्र"
+  ],
+  "correct": 1,
+  "explainEn": "Physical maps display natural features of the Earth's surface.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T06:12:09Z"
  }
 ]
