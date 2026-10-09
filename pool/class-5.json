@@ -7250,5 +7250,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-09T13:21:18Z"
+ },
+ {
+  "id": "q_77d4dfc1030d7afd",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following directions is at the top of a standard map?",
+  "qHi": "मानक मानचित्र में निम्नलिखित में से कौन सी दिशा सबसे ऊपर होती है?",
+  "optsEn": [
+   "North",
+   "South",
+   "East",
+   "West"
+  ],
+  "optsHi": [
+   "उत्तर",
+   "दक्षिण",
+   "पूर्व",
+   "पश्चिम"
+  ],
+  "correct": 0,
+  "explainEn": "By standard convention, the top of a map always points towards the North.",
+  "sourceHint": "NCERT Class 5 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:39:28Z"
+ },
+ {
+  "id": "q_2c4416f836bccfac",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas do plants take in from the air to make their food?",
+  "qHi": "पौधे अपना भोजन बनाने के लिए हवा से कौन सी गैस लेते हैं?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Helium"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हीलीयम"
+  ],
+  "correct": 1,
+  "explainEn": "Plants absorb carbon dioxide from the atmosphere during photosynthesis.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:39:28Z"
+ },
+ {
+  "id": "q_73aba076f30665de",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Lines of latitude that run horizontally on a globe are also known as what?",
+  "qHi": "ग्लोब पर क्षैतिज रूप से चलने वाली अक्षांश रेखाओं को किस नाम से जाना जाता है?",
+  "optsEn": [
+   "Meridians",
+   "Parallels",
+   "Equators",
+   "Tropics"
+  ],
+  "optsHi": [
+   "देशांतर",
+   "समानांतर",
+   "भूमध्य रेखा",
+   "उष्णकटिबंध"
+  ],
+  "correct": 1,
+  "explainEn": "Lines of latitude are circles parallel to the equator, often called parallels of latitude.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:41:02Z"
+ },
+ {
+  "id": "q_b56b02b04944d73a",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of resource is coal, which takes millions of years to form?",
+  "qHi": "कोयला किस प्रकार का संसाधन है जिसे बनने में लाखों वर्ष लगते हैं?",
+  "optsEn": [
+   "Renewable resource",
+   "Non-renewable resource",
+   "Inexhaustible resource",
+   "Biotic resource"
+  ],
+  "optsHi": [
+   "नवीकरणीय संसाधन",
+   "अनवीकरणीय संसाधन",
+   "अक्षय संसाधन",
+   "जैविक संसाधन"
+  ],
+  "correct": 1,
+  "explainEn": "Coal and petroleum are non-renewable resources because they cannot be replaced quickly once consumed.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:41:02Z"
+ },
+ {
+  "id": "q_0fa4b7685df95c45",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian classical dance style originates from the state of Kerala and features elaborate makeup?",
+  "qHi": "कौन सी भारतीय शास्त्रीय नृत्य शैली केरल राज्य से उत्पन्न हुई है और इसमें विस्तृत मेकअप होता है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathak",
+   "Kathakali",
+   "Kuchipudi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथक",
+   "कथकली",
+   "कुचिपुड़ी"
+  ],
+  "correct": 2,
+  "explainEn": "Kathakali is a classical dance-drama known for its vibrant costumes and heavy face makeup, originating in Kerala.",
+  "sourceHint": "NCERT Class 5 Art Education",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:41:02Z"
+ },
+ {
+  "id": "q_f27f05169e2baf08",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the main function of red blood cells in human blood?",
+  "qHi": "मानव रक्त में लाल रक्त कोशिकाओं का मुख्य कार्य क्या है?",
+  "optsEn": [
+   "To fight infections",
+   "To carry oxygen",
+   "To help blood clot",
+   "To digest food"
+  ],
+  "optsHi": [
+   "संक्रमण से लड़ना",
+   "ऑक्सीजन ले जाना",
+   "रक्त का थक्का जमाने में मदद करना",
+   "भोजन पचाना"
+  ],
+  "correct": 1,
+  "explainEn": "Red blood cells contain hemoglobin, which binds to oxygen and carries it from the lungs to the rest of the body.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:41:02Z"
+ },
+ {
+  "id": "q_975409383f33f2be",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which fundamental right in the Indian Constitution ensures equality of all citizens before the law?",
+  "qHi": "भारतीय संविधान का कौन सा मौलिक अधिकार कानून के समक्ष सभी नागरिकों की समानता सुनिश्चित करता है?",
+  "optsEn": [
+   "Right to Freedom",
+   "Right to Equality",
+   "Right to Education",
+   "Right to Constitutional Remedies"
+  ],
+  "optsHi": [
+   "स्वतंत्रता का अधिकार",
+   "समानता का अधिकार",
+   "शिक्षा का अधिकार",
+   "संवैधानिक उपचारों का अधिकार"
+  ],
+  "correct": 1,
+  "explainEn": "The Right to Equality guarantees that all citizens are treated equally before the law.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:41:02Z"
+ },
+ {
+  "id": "q_dbf2278e69e53309",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following imaginary lines passes through the middle of India, dividing it almost into two equal halves?",
+  "qHi": "निम्नलिखित में से कौन सी काल्पनिक रेखा भारत के बीच से गुजरती है और इसे लगभग दो बराबर भागों में विभाजित करती है?",
+  "optsEn": [
+   "Equator",
+   "Tropic of Cancer",
+   "Tropic of Capricorn",
+   "Prime Meridian"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा",
+   "कर्क रेखा",
+   "मकर रेखा",
+   "प्रधान मध्याह्न रेखा"
+  ],
+  "correct": 1,
+  "explainEn": "The Tropic of Cancer (23°30' N) passes almost halfway through the country.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:41:40Z"
+ },
+ {
+  "id": "q_21eabc876fbc8590",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organ in the human body is primarily responsible for filtering urea and other waste products from the blood to form urine?",
+  "qHi": "मानव शरीर में कौन सा अंग रक्त से यूरिया और अन्य अपशिष्ट उत्पादों को छानकर मूत्र बनाने के लिए मुख्य रूप से जिम्मेदार है?",
+  "optsEn": [
+   "Lungs",
+   "Heart",
+   "Kidneys",
+   "Liver"
+  ],
+  "optsHi": [
+   "फेफड़े",
+   "हृदय",
+   "गुर्दे",
+   "यकृत"
+  ],
+  "correct": 2,
+  "explainEn": "Kidneys filter waste products and excess water from the blood.",
+  "sourceHint": "NCERT Class 7 Science Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:41:40Z"
+ },
+ {
+  "id": "q_0d915da720c0a53f",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which gas makes up the highest percentage of Earth's atmosphere by volume?",
+  "qHi": "आयतन के अनुसार पृथ्वी के वायुमंडल में किस गैस का प्रतिशत सबसे अधिक है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "आर्गन"
+  ],
+  "correct": 2,
+  "explainEn": "Nitrogen constitutes about 78 percent of the atmosphere.",
+  "sourceHint": "NCERT Class 7 Geography Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:41:40Z"
+ },
+ {
+  "id": "q_7118183ffdb05223",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Seeds of which of the following plants are mainly dispersed by water?",
+  "qHi": "निम्नलिखित में से किस पौधे के बीज मुख्य रूप से पानी द्वारा फैलाए जाते हैं?",
+  "optsEn": [
+   "Coconut",
+   "Maple",
+   "Xanthium",
+   "Cotton"
+  ],
+  "optsHi": [
+   "नारियल",
+   "मेपल",
+   "जैंथियम",
+   "कपास"
+  ],
+  "correct": 0,
+  "explainEn": "Coconut seeds have a fibrous outer coat that helps them float and get dispersed by water.",
+  "sourceHint": "NCERT Class 5 EVS Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:41:40Z"
+ },
+ {
+  "id": "q_784809b283ee2555",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which is the standard meridian of India used to determine the Indian Standard Time (IST)?",
+  "qHi": "भारतीय मानक समय (IST) निर्धारित करने के लिए भारत की मानक याम्योत्तर रेखा कौन सी है?",
+  "optsEn": [
+   "82°30' E longitude",
+   "82°30' W longitude",
+   "88°30' E longitude",
+   "68°7' E longitude"
+  ],
+  "optsHi": [
+   "82°30' पूर्व देशांतर",
+   "82°30' पश्चिम देशांतर",
+   "88°30' पूर्व देशांतर",
+   "68°7' पूर्व देशांतर"
+  ],
+  "correct": 0,
+  "explainEn": "The standard meridian of India is 82°30' E passing through Mirzapur.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:41:40Z"
+ },
+ {
+  "id": "q_308cd94ba7805c05",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of plant reproduction, what is the transfer of pollen grains from the anther to the stigma of a flower called?",
+  "qHi": "पौधों में प्रजनन के संदर्भ में, परागकणों का परागकोश से फूल के वर्तिकाग्र तक स्थानांतरण क्या कहलाता है?",
+  "optsEn": [
+   "Germination",
+   "Pollination",
+   "Fertilization",
+   "Dispersal"
+  ],
+  "optsHi": [
+   "अंकुरण",
+   "परागण",
+   "निषेचन",
+   "प्रकीर्णन"
+  ],
+  "correct": 1,
+  "explainEn": "Pollination is the transfer of pollen grains from anther to stigma.",
+  "sourceHint": "NCERT Class 7 Science Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:41:40Z"
  }
 ]

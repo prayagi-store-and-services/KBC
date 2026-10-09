@@ -6158,5 +6158,341 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-09T13:21:13Z"
+ },
+ {
+  "id": "q_6cc222ae011175f8",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which classical dance style originates from the state of Kerala?",
+  "qHi": "कौन सी शास्त्रीय नृत्य शैली केरल राज्य से उत्पन्न हुई है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a major form of classical Indian dance that originated in Kerala.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:39:25Z"
+ },
+ {
+  "id": "q_86e3a58d0e917415",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which month is the Indian festival of lights, Diwali, typically celebrated?",
+  "qHi": "भारत का प्रकाश पर्व दिवाली आमतौर पर किस महीने में मनाया जाता है?",
+  "optsEn": [
+   "January or February",
+   "March or April",
+   "July or August",
+   "October or November"
+  ],
+  "optsHi": [
+   "जनवरी या फरवरी",
+   "मार्च या अप्रैल",
+   "जुलाई या अगस्त",
+   "अक्टूबर या नवंबर"
+  ],
+  "correct": 3,
+  "explainEn": "Diwali usually falls in the months of October or November, depending on the lunar calendar.",
+  "sourceHint": "NCERT Fine Arts Textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:39:25Z"
+ },
+ {
+  "id": "q_7768ef8088098141",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which Indian state has the city of Bengaluru as its capital?",
+  "qHi": "किस भारतीय राज्य की राजधानी बेंगलुरु शहर है?",
+  "optsEn": [
+   "Karnataka",
+   "Tamil Nadu",
+   "Kerala",
+   "Andhra Pradesh"
+  ],
+  "optsHi": [
+   "कर्नाटक",
+   "तमिलनाडु",
+   "केरल",
+   "आंध्र प्रदेश"
+  ],
+  "correct": 0,
+  "explainEn": "Bengaluru is the capital city of the southern Indian state of Karnataka.",
+  "sourceHint": "Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:39:25Z"
+ },
+ {
+  "id": "q_fcfc61182241d651",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the famous play 'Abhijnanashakuntalam'?",
+  "qHi": "प्रसिद्ध नाटक 'अभिज्ञानशाकुन्तलम' किसने लिखा है?",
+  "optsEn": [
+   "Kalidasa",
+   "Tulsidas",
+   "Banabhatta",
+   "Bhasa"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "तुलसीदास",
+   "बाणभट्ट",
+   "भास"
+  ],
+  "correct": 0,
+  "explainEn": "Abhijnanashakuntalam is a renowned Sanskrit play written by the classical poet Kalidasa.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:40:57Z"
+ },
+ {
+  "id": "q_9a5acc6a50b53a7a",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin is primarily synthesized in the human skin upon exposure to sunlight?",
+  "qHi": "सूर्य के प्रकाश के संपर्क में आने पर मानव त्वचा में मुख्य रूप से कौन सा विटामिन संश्लेषित होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin C",
+   "Vitamin D",
+   "Vitamin K"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन सी",
+   "विटामिन डी",
+   "विटामिन के"
+  ],
+  "correct": 2,
+  "explainEn": "Vitamin D is produced in the skin when it is exposed to ultraviolet B rays from the sun.",
+  "sourceHint": "Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:40:57Z"
+ },
+ {
+  "id": "q_a8679c2f035c3a6d",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which gas makes up the majority of the Earth's atmosphere?",
+  "qHi": "पृथ्वी के वायुमंडल का अधिकांश हिस्सा किस गैस से बना है?",
+  "optsEn": [
+   "Oxygen",
+   "Nitrogen",
+   "Carbon dioxide",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "कार्बन डाइऑक्साइड",
+   "आर्गन"
+  ],
+  "correct": 1,
+  "explainEn": "Nitrogen constitutes about 78 percent of the Earth's atmosphere by volume.",
+  "sourceHint": "NCERT Geography Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:40:57Z"
+ },
+ {
+  "id": "q_ffc28d0f0bd55632",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which Indian state is the ancient port city of Lothal located?",
+  "qHi": "प्राचीन पत्तन नगर लोथल किस भारतीय राज्य में स्थित है?",
+  "optsEn": [
+   "Maharashtra",
+   "Gujarat",
+   "Rajasthan",
+   "Haryana"
+  ],
+  "optsHi": [
+   "महाराष्ट्र",
+   "गुजरात",
+   "राजस्थान",
+   "हरियाणा"
+  ],
+  "correct": 1,
+  "explainEn": "Lothal is one of the southernmost cities of the ancient Indus Valley Civilization, located in the Bhal region of Gujarat.",
+  "sourceHint": "NCERT Class 12 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:41:36Z"
+ },
+ {
+  "id": "q_8561d8bc85094fc2",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What was the primary chemical compound mined from the Khetri mines in Rajasthan during ancient and medieval times?",
+  "qHi": "प्राचीन और मध्यकालीन समय में राजस्थान की खेतड़ी खानों से निकाला जाने वाला प्रमुख रासायनिक यौगिक या खनिज कौन सा था?",
+  "optsEn": [
+   "Iron ore",
+   "Copper",
+   "Mica",
+   "Zinc"
+  ],
+  "optsHi": [
+   "लौह अयस्क",
+   "तांबा",
+   "अभ्रक",
+   "जस्ता"
+  ],
+  "correct": 1,
+  "explainEn": "Khetri in Rajasthan is historically renowned for its rich copper deposits, heavily utilized since the Harappan civilization.",
+  "sourceHint": "Geological Survey of India / NCERT",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:41:36Z"
+ },
+ {
+  "id": "q_a59bceaffebb6bcd",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form originates from the state of Andhra Pradesh?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप आंध्र प्रदेश राज्य से उत्पन्न हुआ है?",
+  "optsEn": [
+   "Kathakali",
+   "Kuchipudi",
+   "Mohiniyattam",
+   "Odissi"
+  ],
+  "optsHi": [
+   "कथकली",
+   "कुचिपुड़ी",
+   "मोहिनीअट्टम",
+   "ओडिसी"
+  ],
+  "correct": 1,
+  "explainEn": "Kuchipudi is a major Indian classical dance that originated in the village of Kuchelapuram in Andhra Pradesh.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:41:36Z"
+ },
+ {
+  "id": "q_3eac54bfc85432c4",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who wrote the ancient Sanskrit treatise on statecraft and economic policy titled 'Arthashastra'?",
+  "qHi": "'अर्थशास्त्र' नामक राज्यकला और आर्थिक नीति पर प्राचीन संस्कृत ग्रंथ किसने लिखा था?",
+  "optsEn": [
+   "Kalidasa",
+   "Banabhatta",
+   "Kautilya",
+   "Patanjali"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "बाणभट्ट",
+   "कौटिल्य",
+   "पतंजलि"
+  ],
+  "correct": 2,
+  "explainEn": "Arthashastra was authored by Kautilya, also known as Chanakya, who was a mentor to Emperor Chandragupta Maurya.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:41:36Z"
+ },
+ {
+  "id": "q_8447a4cdb695c446",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian banking, what does the acronym 'NEFT' stand for?",
+  "qHi": "भारतीय बैंकिंग के संदर्भ में, संक्षिप्त नाम 'NEFT' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "National Electronic Fund Transfer",
+   "National Equity Finance Term",
+   "New Economic Funds Transaction",
+   "National External Financial Transfer"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड ट्रांसफर",
+   "नेशनल इक्विटी फाइनेंस टर्म",
+   "न्यू इकोनॉमिक फंड्स ट्रांजैक्शन",
+   "नेशनल एक्सटर्नल फाइनेंशियल ट्रांसफर"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, an online system for transferring funds between banks operated by the RBI.",
+  "sourceHint": "Reserve Bank of India (RBI)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:41:36Z"
+ },
+ {
+  "id": "q_1a243389509f8876",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which wildlife sanctuary in Kerala is known as the habitat for the endangered Nilgiri tahr?",
+  "qHi": "केरल का कौन सा वन्यजीव अभयारण्य लुप्तप्राय नीलगिरी तहर के आवास के रूप में जाना जाता है?",
+  "optsEn": [
+   "Periyar Wildlife Sanctuary",
+   "Eravikulam National Park",
+   "Wayanad Wildlife Sanctuary",
+   "Silent Valley National Park"
+  ],
+  "optsHi": [
+   "पेरियार वन्यजीव अभयारण्य",
+   "एराविकुलम राष्ट्रीय उद्यान",
+   "वायनाड वन्यजीव अभयारण्य",
+   "साइलेंट वैली राष्ट्रीय उद्यान"
+  ],
+  "correct": 1,
+  "explainEn": "Eravikulam National Park in Kerala is famous for harboring the largest surviving population of the Nilgiri tahr.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:41:36Z"
  }
 ]

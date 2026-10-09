@@ -5598,5 +5598,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-09T13:21:01Z"
+ },
+ {
+  "id": "q_d252c7e4875c848c",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following Articles of the Indian Constitution abolishes untouchability?",
+  "qHi": "भारतीय संविधान का निम्नलिखित में से कौन सा अनुच्छेद अस्पृश्यता का अंत करता है?",
+  "optsEn": [
+   "Article 14",
+   "Article 17",
+   "Article 21",
+   "Article 32"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14",
+   "अनुच्छेद 17",
+   "अनुच्छेद 21",
+   "अनुच्छेद 32"
+  ],
+  "correct": 1,
+  "explainEn": "Article 17 of the Constitution of India abolishes 'untouchability' and makes its practice in any form a punishable offense.",
+  "sourceHint": "Constitution of India, Part III (Fundamental Rights)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:39:49Z"
+ },
+ {
+  "id": "q_92dc82df5aa70318",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Kathakali is a classical dance form associated with which Indian state?",
+  "qHi": "कथकली किस भारतीय राज्य से जुड़ा एक शास्त्रीय नृत्य रूप है?",
+  "optsEn": [
+   "Kerala",
+   "Tamil Nadu",
+   "Andhra Pradesh",
+   "Odisha"
+  ],
+  "optsHi": [
+   "केरल",
+   "तमिलनाडु",
+   "आंध्र प्रदेश",
+   "ओडिशा"
+  ],
+  "correct": 0,
+  "explainEn": "Kathakali is a major form of classical Indian dance that originated in the southern state of Kerala.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:39:49Z"
+ },
+ {
+  "id": "q_ce80c5ffcc791c03",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The battle of Khanwa in 1527 was fought between Babur and whom?",
+  "qHi": "1527 का खानवा का युद्ध बाबर और किसके बीच लड़ा गया था?",
+  "optsEn": [
+   "Rana Sanga",
+   "Ibrahim Lodi",
+   "Medini Rai",
+   "Hem Chandra"
+  ],
+  "optsHi": [
+   "राणा सांगा",
+   "इब्राहिम लोदी",
+   "मेदिनी राय",
+   "हेम चंद्र"
+  ],
+  "correct": 0,
+  "explainEn": "The Battle of Khanwa was fought near Fatehpur Sikri on March 16, 1527, between the invading forces of the first Mughal Emperor Babur and the Rajput forces led by Rana Sanga of Mewar.",
+  "sourceHint": "NCERT Class 7 History, Our Pasts-II",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:41:25Z"
+ },
+ {
+  "id": "q_4c542b1bf910fcff",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Sonal Mansingh is a renowned classical dancer associated with which of the following dance forms?",
+  "qHi": "सोनाल मानसिंह एक प्रसिद्ध शास्त्रीय नृत्यांगना हैं, जो निम्नलिखित में से किस नृत्य शैली से जुड़ी हैं?",
+  "optsEn": [
+   "Kathak and Manipuri",
+   "Bharatnatyam and Odissi",
+   "Kuchipudi and Mohiniyattam",
+   "Kathakali and Sattriya"
+  ],
+  "optsHi": [
+   "कथक और मणिपुरी",
+   "भरतनाट्यम और ओडिसी",
+   "कुचिपुड़ी और मोहिनीअट्टम",
+   "कथकली और सत्रिया"
+  ],
+  "correct": 1,
+  "explainEn": "Sonal Mansingh is an eminent Indian classical dancer specializing in Bharatnatyam and Odissi.",
+  "sourceHint": "CCRT India Culture Portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:41:25Z"
  }
 ]

@@ -7306,5 +7306,341 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-09T13:20:33Z"
+ },
+ {
+  "id": "q_28f059266b994762",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a displacement reaction?",
+  "qHi": "निम्नलिखित में से कौन सी विस्थापन अभिक्रिया है?",
+  "optsEn": [
+   "CaO + H2O -> Ca(OH)2",
+   "Zn + CuSO4 -> ZnSO4 + Cu",
+   "2H2 + O2 -> 2H2O",
+   "CaCO3 -> CaO + CO2"
+  ],
+  "optsHi": [
+   "CaO + H2O -> Ca(OH)2",
+   "Zn + CuSO4 -> ZnSO4 + Cu",
+   "2H2 + O2 -> 2H2O",
+   "CaCO3 -> CaO + CO2"
+  ],
+  "correct": 1,
+  "explainEn": "Zinc displaces copper from copper sulphate solution because zinc is more reactive than copper.",
+  "sourceHint": "NCERT Science Class 10, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:39:36Z"
+ },
+ {
+  "id": "q_0542240ca99e1966",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the pH value of a neutral solution at 298 K?",
+  "qHi": "298 K पर एक उदासीन विलयन का pH मान कितना होता है?",
+  "optsEn": [
+   "0",
+   "7",
+   "10",
+   "14"
+  ],
+  "optsHi": [
+   "0",
+   "7",
+   "10",
+   "14"
+  ],
+  "correct": 1,
+  "explainEn": "A pH of 7 represents a neutral solution, neither acidic nor basic at standard temperature.",
+  "sourceHint": "NCERT Science Class 10, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:39:36Z"
+ },
+ {
+  "id": "q_40f873e9508eb6eb",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which part of the human alimentary canal is digested food absorbed?",
+  "qHi": "मानव आहार नली के किस भाग में पचे हुए भोजन का अवशोषण होता है?",
+  "optsEn": [
+   "Stomach",
+   "Large intestine",
+   "Small intestine",
+   "Oesophagus"
+  ],
+  "optsHi": [
+   "अमाशय",
+   "बड़ी आंत",
+   "छोटी आंत",
+   "ग्रसिका"
+  ],
+  "correct": 2,
+  "explainEn": "The small intestine is the main region for the absorption of digested food.",
+  "sourceHint": "NCERT Science Class 10, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:39:36Z"
+ },
+ {
+  "id": "q_fba5b767b76b3172",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following gases is produced when a metal reacts with a dilute acid?",
+  "qHi": "जब कोई धातु किसी तनु अम्ल के साथ अभिक्रिया करती है, तो निम्नलिखित में से कौन सी गैस उत्पन्न होती है?",
+  "optsEn": [
+   "Oxygen",
+   "Hydrogen",
+   "Carbon dioxide",
+   "Nitrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "हाइड्रोजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Generally, hydrogen gas is evolved when acids react with active metals.",
+  "sourceHint": "NCERT Science Class 10, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:39:36Z"
+ },
+ {
+  "id": "q_3d229527e126df52",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which constitutional amendment added the Fundamental Duties to the Indian Constitution based on the recommendations of the Swaran Singh Committee?",
+  "qHi": "किस संवैधानिक संशोधन द्वारा स्वर्ण सिंह समिति की सिफारिशों के बाद भारतीय संविधान में मौलिक कर्तव्यों को जोड़ा गया था?",
+  "optsEn": [
+   "42nd Amendment",
+   "44th Amendment",
+   "86th Amendment",
+   "73rd Amendment"
+  ],
+  "optsHi": [
+   "42वां संशोधन",
+   "44वां संशोधन",
+   "86वां संशोधन",
+   "73वां संशोधन"
+  ],
+  "correct": 0,
+  "explainEn": "The 42nd Constitutional Amendment Act of 1976 added Article 51A, creating the Fundamental Duties.",
+  "sourceHint": "NCERT Class 10 Democratic Politics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:41:51Z"
+ },
+ {
+  "id": "q_d11a366d742c69d5",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which physiographic division of India is the Karewa formation primarily found, which is useful for saffron cultivation?",
+  "qHi": "भारत के किस भौतिक विभाजन में करेवा संरचना मुख्य रूप से पाई जाती है, जो केसर की खेती के लिए उपयोगी है?",
+  "optsEn": [
+   "Kashmir Himalayas",
+   "North-Eastern Hills",
+   "Chotanagpur Plateau",
+   "Malwa Plateau"
+  ],
+  "optsHi": [
+   "कश्मीर हिमालय",
+   "उत्तर-पूर्वी पहाड़ियाँ",
+   "छोटानगपुर पठार",
+   "मालवा पठार"
+  ],
+  "correct": 0,
+  "explainEn": "Karewas are glacial-lacustrine deposits found in the Kashmir valley, famous for the cultivation of saffron.",
+  "sourceHint": "NCERT Class 9/10 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:41:51Z"
+ },
+ {
+  "id": "q_92e10e67933dd85e",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following elements has the highest electronegativity according to the modern periodic table?",
+  "qHi": "आधुनिक आवर्त सारणी के अनुसार निम्नलिखित में से किस तत्व की विद्युत ऋणात्मकता सबसे अधिक है?",
+  "optsEn": [
+   "Fluorine",
+   "Oxygen",
+   "Chlorine",
+   "Nitrogen"
+  ],
+  "optsHi": [
+   "फ्लोरिन",
+   "ऑक्सीजन",
+   "क्लोरीन",
+   "नाइट्रोजन"
+  ],
+  "correct": 0,
+  "explainEn": "Fluorine is the most electronegative element on the Pauling scale in the periodic table.",
+  "sourceHint": "NCERT Class 10 Science Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:41:51Z"
+ },
+ {
+  "id": "q_560a84e3860ffee5",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the process of anaerobic respiration in yeast, which of the following products are formed?",
+  "qHi": "खमीर (यीस्ट) में अवायवीय श्वसन की प्रक्रिया के दौरान निम्नलिखित में से कौन से उत्पाद बनते हैं?",
+  "optsEn": [
+   "Ethanol, Carbon dioxide, and Energy",
+   "Lactic acid and Energy",
+   "Carbon dioxide, Water, and Energy",
+   "Methanol and Carbon dioxide"
+  ],
+  "optsHi": [
+   "एथेनॉल, कार्बन डाइऑक्साइड और ऊर्जा",
+   "लैक्टिक अम्ल और ऊर्जा",
+   "कार्बन डाइऑक्साइड, जल और ऊर्जा",
+   "मेथेनॉल और कार्बन डाइऑक्साइड"
+  ],
+  "correct": 0,
+  "explainEn": "In yeast, fermentation breaks down pyruvate into ethanol, carbon dioxide, and energy without oxygen.",
+  "sourceHint": "NCERT Class 10 Science Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:41:51Z"
+ },
+ {
+  "id": "q_553595ea50e48d47",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which ancient port town on the Gulf of Khambhat in Gujarat was associated with the Harappan Civilization and featured a massive dockyard?",
+  "qHi": "गुजरात में खंभात की खाड़ी के पास स्थित कौन सा प्राचीन बंदरगाह शहर हड़प्पा सभ्यता से जुड़ा था और वहाँ एक विशाल गोदी (डॉकयार्ड) थी?",
+  "optsEn": [
+   "Lothal",
+   "Kalibangan",
+   "Banawali",
+   "Dholavira"
+  ],
+  "optsHi": [
+   "लोथल",
+   "कालीबंगा",
+   "बनावाली",
+   "धोलावीरा"
+  ],
+  "correct": 0,
+  "explainEn": "Lothal had a massive brick basin identified as a dockyard for trading ships during the Indus Valley Civilization.",
+  "sourceHint": "NCERT Class 10 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:41:51Z"
+ },
+ {
+  "id": "q_26d3d1aa5adaccf2",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of reaction is represented by the precipitation of barium sulphate when barium chloride reacts with sodium sulphate?",
+  "qHi": "जब बेरियम क्लोराइड सोडियम सल्फेट के साथ प्रतिक्रिया करता है, तो बेरियम सल्फेट का अवक्षेपण किस प्रकार की प्रतिक्रिया को दर्शाता है?",
+  "optsEn": [
+   "Double displacement reaction",
+   "Combination reaction",
+   "Decomposition reaction",
+   "Displacement reaction"
+  ],
+  "optsHi": [
+   "द्वि-विस्थापन अभिक्रिया",
+   "संयोजन अभिक्रिया",
+   "अपघटन अभिक्रिया",
+   "विस्थापन अभिक्रिया"
+  ],
+  "correct": 0,
+  "explainEn": "The reaction involves an exchange of ions between the reactants, forming an insoluble white precipitate of barium sulphate, making it a double displacement reaction.",
+  "sourceHint": "NCERT Class 10 Science Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:41:51Z"
+ },
+ {
+  "id": "q_2cc579a30540c706",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In a democratic setup, power sharing is desirable primarily because:",
+  "qHi": "लोकतांत्रिक व्यवस्था में सत्ता की साझेदारी वांछनीय है क्योंकि मुख्य रूप से:",
+  "optsEn": [
+   "It helps to reduce the possibility of conflict between social groups.",
+   "It speeds up the daily administrative decision-making process.",
+   "It completely eliminates political parties.",
+   "It centralizes all authority in a single central government."
+  ],
+  "optsHi": [
+   "यह सामाजिक समूहों के बीच टकराव की संभावना को कम करने में मदद करता है।",
+   "यह दैनिक प्रशासनिक निर्णय लेने की प्रक्रिया को तेज करता है।",
+   "यह राजनीतिक दलों को पूरी तरह समाप्त कर देता है।",
+   "यह सभी शक्तियों को एक केंद्रीय सरकार में केंद्रित करता है।"
+  ],
+  "correct": 0,
+  "explainEn": "Power sharing ensures social harmony and reduces the potential for violent conflict among different social segments.",
+  "sourceHint": "NCERT Class 10 Democratic Politics Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:41:51Z"
+ },
+ {
+  "id": "q_ffef64c70c94d253",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following mirror types is always used by vehicles as a rear-view mirror to provide a wider field of view?",
+  "qHi": "wider field of view (व्यापक दृश्य क्षेत्र) प्रदान करने के लिए वाहनों द्वारा हमेशा किस प्रकार के दर्पण का उपयोग रियर-व्यू मिरर के रूप में किया जाता है?",
+  "optsEn": [
+   "Convex mirror",
+   "Concave mirror",
+   "Plano-concave mirror",
+   "Cylindrical mirror"
+  ],
+  "optsHi": [
+   "उत्तल दर्पण",
+   "अवतल दर्पण",
+   "समतल-अवतल दर्पण",
+   "बेलनाकार दर्पण"
+  ],
+  "correct": 0,
+  "explainEn": "Convex mirrors are used because they always give an erect, diminished image and have a wider outward field of view.",
+  "sourceHint": "NCERT Class 10 Science Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:41:51Z"
  }
 ]

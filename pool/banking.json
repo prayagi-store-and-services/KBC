@@ -8538,5 +8538,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-09T13:21:08Z"
+ },
+ {
+  "id": "q_645f126eeaf3ee8c",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'I' stand for in the financial term IFSC?",
+  "qHi": "वित्तीय शब्द IFSC में अक्षर 'I' का क्या अर्थ है?",
+  "optsEn": [
+   "International",
+   "Indian",
+   "Interbank",
+   "Investment"
+  ],
+  "optsHi": [
+   "इंटरनेशनल",
+   "इंडियन",
+   "इंटरबैंक",
+   "इन्वेस्टमेंट"
+  ],
+  "correct": 1,
+  "explainEn": "IFSC stands for Indian Financial System Code, an 11-character alphanumeric code used for electronic funds transfer in India.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:39:54Z"
+ },
+ {
+  "id": "q_3de30fa7f0909a01",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which term is used for a loan given by a bank without any collateral or security?",
+  "qHi": "बिना किसी गिरवी या सुरक्षा के बैंक द्वारा दिए जाने वाले ऋण के लिए किस शब्द का प्रयोग किया जाता है?",
+  "optsEn": [
+   "Secured Loan",
+   "Unsecured Loan",
+   "Mortgage Loan",
+   "Hypothecated Loan"
+  ],
+  "optsHi": [
+   "सुरक्षित ऋण",
+   "असुरक्षित ऋण",
+   "बंधक ऋण",
+   "हाइपोथेकैted ऋण"
+  ],
+  "correct": 1,
+  "explainEn": "An unsecured loan is a loan that is issued and supported only by the borrower's creditworthiness, rather than by any type of collateral.",
+  "sourceHint": "NCERT Business Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:39:54Z"
+ },
+ {
+  "id": "q_60f9d55f32975e1e",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following cards is issued by the National Payments Corporation of India (NPCI)?",
+  "qHi": "निम्नलिखित में से कौन सा कार्ड नेशनल पेमेंट्स कॉर्पोरेशन ऑफ इंडिया (NPCI) द्वारा जारी किया जाता है?",
+  "optsEn": [
+   "Visa",
+   "Mastercard",
+   "RuPay",
+   "American Express"
+  ],
+  "optsHi": [
+   "वीज़ा",
+   "मास्टरकार्ड",
+   "रुपे",
+   "अमेरिकन एक्सप्रेस"
+  ],
+  "correct": 2,
+  "explainEn": "RuPay is a domestic card payment network created by the National Payments Corporation of India (NPCI).",
+  "sourceHint": "NPCI Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:39:54Z"
+ },
+ {
+  "id": "q_f0a4c7ca43981fbe",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of account is typically opened by salaried individuals for daily banking transactions and savings?",
+  "qHi": "वेतनभोगी व्यक्तियों द्वारा दैनिक बैंकिंग लेनदेन और बचत के लिए आमतौर पर किस प्रकार का खाता खोला जाता है?",
+  "optsEn": [
+   "Current Account",
+   "Savings Account",
+   "Fixed Deposit Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "चालू खाता",
+   "बचत खाता",
+   "सावधि जमा खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 1,
+  "explainEn": "A Savings Account is designed to help individuals save money while providing liquidity for daily banking transactions.",
+  "sourceHint": "RBI Financial Education",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:39:54Z"
+ },
+ {
+  "id": "q_0a0edb86bc6d7690",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the abbreviation 'LEI', a 20-digit code used globally to uniquely identify parties to financial transactions?",
+  "qHi": "वित्तीय लेनदेन के पक्षों की विशिष्ट पहचान के लिए विश्व स्तर पर उपयोग किए जाने वाले 20-अंकों के कोड 'LEI' के संक्षिप्त रूप में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liquidity",
+   "Liability",
+   "Legal",
+   "Ledger"
+  ],
+  "optsHi": [
+   "लिक्विडिटी (तरलता)",
+   "लायबिलिटी (देयता)",
+   "लीगल (कानूनी)",
+   "लेजर (बहीखाता)"
+  ],
+  "correct": 2,
+  "explainEn": "LEI stands for Legal Entity Identifier, which is a unique global identifier for financial market participants.",
+  "sourceHint": "RBI Circulars on Legal Entity Identifier.",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:41:31Z"
+ },
+ {
+  "id": "q_c74fc2044d9ee0fa",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque becomes a 'stale cheque' after the expiry of how many months from the date of its issuance?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, कोई चेक जारी होने की तारीख से कितने महीने बीत जाने के बाद 'बासी चेक' (स्टेल चेक) बन जाता है?",
+  "optsEn": [
+   "One month",
+   "Three months",
+   "Six months",
+   "Twelve months"
+  ],
+  "optsHi": [
+   "एक महीना",
+   "तीन महीने",
+   "छह महीने",
+   "बारह महीने"
+  ],
+  "correct": 1,
+  "explainEn": "RBI directed that the validity period of cheques, demand drafts, and pay orders was reduced from 6 months to 3 months from the date of issue.",
+  "sourceHint": "RBI Guidelines and Negotiable Instruments Act.",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:41:31Z"
+ },
+ {
+  "id": "q_80eb8985fd942c7e",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India regulates and supervises microfinance institutions, cooperative banks, and Regional Rural Banks alongside extending refinance facilities?",
+  "qHi": "भारत में कौन सा संगठन पुनर्वित्त सुविधाएं प्रदान करने के साथ-साथ सूक्ष्म वित्त संस्थानों, सहकारी बैंकों और क्षेत्रीय ग्रामीण बैंकों को विनियमित और पर्यवेक्षित करता है?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "NHB"
+  ],
+  "optsHi": [
+   "सिडबी",
+   "नाबार्ड",
+   "एक्जिम बैंक",
+   "एनएचबी"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) is the apex regulatory body for overall licensing and supervision of Regional Rural Banks and Apex Cooperative Banks in India.",
+  "sourceHint": "NABARD Act, 1981 and RBI Reports.",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:41:31Z"
+ },
+ {
+  "id": "q_521261b7d77f1fb6",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of the Prompt Corrective Action (PCA) framework introduced by the Reserve Bank of India for commercial banks?",
+  "qHi": "वाणिज्यिक बैंकों के लिए भारतीय रिजर्व बैंक द्वारा शुरू किए गए त्वरित सुधार कार्रवाई (PCA) ढांचे का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To monitor and resolve weak banks based on capital, asset quality, and profitability",
+   "To fix interest rates on savings accounts across all scheduled banks",
+   "To manage the foreign exchange reserves of the country",
+   "To promote digital payment adoption in rural areas"
+  ],
+  "optsHi": [
+   "पूंजी, परिसंपत्ति गुणवत्ता और लाभप्रदता के आधार पर कमजोर बैंकों की निगरानी और समाधान करना",
+   "सभी अनुसूचित बैंकों में बचत खातों पर ब्याज दरों को तय करना",
+   "देश के विदेशी मुद्रा भंडार का प्रबंधन करना",
+   "ग्रामीण क्षेत्रों में डिजिटल भुगतान को बढ़ावा देना"
+  ],
+  "correct": 0,
+  "explainEn": "The PCA framework allows the RBI to intervene and take corrective measures when a bank hits certain trigger points regarding capital, asset quality, and leverage.",
+  "sourceHint": "RBI Master Directions on PCA Framework.",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:41:31Z"
+ },
+ {
+  "id": "q_01c5bbb8f6c43b4e",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which financial instrument is issued as a promissory note and is a form of short-term unsecured debt instrument issued by corporations in India?",
+  "qHi": "कौन सा वित्तीय साधन एक वचन पत्र (प्रोमिसरी नोट) के रूप में जारी किया जाता है और भारत में निगमों द्वारा जारी अल्पावधि असुरक्षित ऋण साधन का एक रूप है?",
+  "optsEn": [
+   "Treasury Bill",
+   "Commercial Paper",
+   "Certificate of Deposit",
+   "Municipal Bond"
+  ],
+  "optsHi": [
+   "ट्रेजरी बिल",
+   "कॉमर्शियल पेपर (वाणिज्यिक पत्र)",
+   "सर्टिफिकेट ऑफ डिपॉजिट (जमा प्रमाणपत्र)",
+   "नगर निगम बांड"
+  ],
+  "correct": 1,
+  "explainEn": "Commercial Paper (CP) is an unsecured money market instrument issued in the form of a promissory note.",
+  "sourceHint": "RBI Guidelines on Money Market Instruments.",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:41:31Z"
+ },
+ {
+  "id": "q_098cbd0bdce79f83",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the term 'G-Sec' refer to in the context of the Indian financial markets?",
+  "qHi": "भारतीय वित्तीय बाजारों के संदर्भ में 'जी-सेक' (G-Sec) शब्द का क्या तात्पर्य है?",
+  "optsEn": [
+   "Global Security Index issued by the World Bank",
+   "Government Security issued by the Central or State Governments",
+   "Gold Security backed by international bullion reserves",
+   "Guaranteed Sectoral Equity traded on stock exchanges"
+  ],
+  "optsHi": [
+   "विश्व बैंक द्वारा जारी वैश्विक सुरक्षा सूचकांक",
+   "केंद्र या राज्य सरकारों द्वारा जारी सरकारी प्रतिभूति",
+   "अंतर्राष्ट्रीय बुलियन भंडार द्वारा समर्थित स्वर्ण सुरक्षा",
+   "स्टॉक एक्सचेंजों पर कारोबार करने वाली गारंटीड सेक्टोरल इक्विटी"
+  ],
+  "correct": 1,
+  "explainEn": "A Government Security (G-Sec) is a tradeable instrument issued by the Central Government or the State Governments acknowledging the Government's debt obligation.",
+  "sourceHint": "Public Debt Office of RBI and NCERT Economics.",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:41:31Z"
+ },
+ {
+  "id": "q_d771f9fa1d478d90",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of priority sector lending (PSL) in India, which category is a mandatory sub-target for domestic commercial banks?",
+  "qHi": "भारत में प्राथमिकता प्राप्त क्षेत्र को ऋण (PSL) के संदर्भ में, कौन सी श्रेणी घरेलू वाणिज्यिक बैंकों के लिए एक अनिवार्य उप-लक्ष्य है?",
+  "optsEn": [
+   "Large scale manufacturing industries",
+   "Small and Marginal Farmers",
+   "Commercial real estate developers",
+   "Information technology startups"
+  ],
+  "optsHi": [
+   "बड़े पैमाने के विनिर्माण उद्योग",
+   "छोटे और सीमांत किसान",
+   "वाणिज्यिक रियल एस्टेट डेवलपर्स",
+   "सूचना प्रौद्योगिकी स्टार्टअप"
+  ],
+  "correct": 1,
+  "explainEn": "Small and marginal farmers are a specific mandatory sub-target within the overall Priority Sector Lending guidelines set by the RBI.",
+  "sourceHint": "RBI Master Directions on Priority Sector Lending.",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-09T22:41:31Z"
  }
 ]
