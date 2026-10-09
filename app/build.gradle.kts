@@ -17,8 +17,8 @@ android {
     applicationId = "com.aistudio.reasoningquiz.tark"
     minSdk = 24
     targetSdk = 36
-    versionCode = 26
-    versionName = "1.1.17"
+    versionCode = 27
+    versionName = "1.1.18"
 
     testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
   }
