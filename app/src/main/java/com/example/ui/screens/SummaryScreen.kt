@@ -78,7 +78,7 @@ fun SummaryScreen(
     val avgSec = result.averageResponseTimeSec
     val formattedAvgTime = String.format("%.1fs", avgSec)
 
-    val shareText = "🎯 TarkShastra — Reasoning & Achievement Card\n" +
+    val shareText = "🎯 ${com.example.Brand.name} — Reasoning & Achievement Card\n" +
             "👤 Challenger: ${result.userName}\n" +
             "🏆 Highest Q: Q${result.highestQuestionReached} / 17\n" +
             "🏆 Points Won: ${result.totalPointsWon}\n" +
