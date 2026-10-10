@@ -1,5 +1,9 @@
 # Security notes - KBC
 
+## Region guard (v1.1.23)
+
+The app refuses to open when the phone's SIM or network country is on a built-in block list (PK, BD, AF, CN, KP). The check runs only on the phone, uses no permission, no network call and no IP lookup, and nothing is stored or sent. With no signal, or an Indian SIM, it never blocks. It is a deterrent, not foolproof: removing the SIM or changing the language region bypasses it.
+
 ## Log privacy (v1.1.20)
 
 Log lines no longer include personal content: the Hub no longer writes spoken text to the device log, and KBC no longer writes the player's name. Nothing else changes. No new permission, library or server.
