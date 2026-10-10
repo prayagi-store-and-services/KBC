@@ -5794,5 +5794,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-10T12:35:58Z"
+ },
+ {
+  "id": "q_a47c832c1b5c1fb1",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the process of shedding of skin by caterpillars called?",
+  "qHi": "कैटरपिलर द्वारा त्वचा छोड़ने की प्रक्रिया को क्या कहा जाता है?",
+  "optsEn": [
+   "Metamorphosis",
+   "Molting",
+   "Pupation",
+   "Germination"
+  ],
+  "optsHi": [
+   "कायापलट",
+   "मोल्टिंग",
+   "प्युपावस्था",
+   "अंकुरण"
+  ],
+  "correct": 1,
+  "explainEn": "Molting is the shedding of the old exoskeleton or skin as the caterpillar grows.",
+  "sourceHint": "NCERT Class 8 Science Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:47:27Z"
+ },
+ {
+  "id": "q_731595298fb3548c",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which micro-organism reproduces only inside the cells of the host organism?",
+  "qHi": "कौन सा सूक्ष्म जीव केवल मेजबान जीव की कोशिकाओं के भीतर प्रजनन करता है?",
+  "optsEn": [
+   "Bacteria",
+   "Fungus",
+   "Amoeba",
+   "Virus"
+  ],
+  "optsHi": [
+   "बैक्टीरिया",
+   "कवक",
+   "अमीबा",
+   "वायरस"
+  ],
+  "correct": 3,
+  "explainEn": "Viruses are unique because they reproduce only inside the host organism's cells.",
+  "sourceHint": "NCERT Class 8 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:47:27Z"
+ },
+ {
+  "id": "q_00df45dede81e246",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What name is given to the farming practice where land is alternated with periods of rest to recover fertility?",
+  "qHi": "खेती की उस पद्धति को क्या नाम दिया जाता है जहाँ उर्वरता पुनः प्राप्त करने के लिए भूमि को कुछ समय आराम दिया जाता है?",
+  "optsEn": [
+   "Intercropping",
+   "Fallow land practice",
+   "Contour barrier",
+   "Mulching"
+  ],
+  "optsHi": [
+   "अंतर फसल",
+   "पर्ती भूमि पद्धति",
+   "समुच्च बाधा",
+   "मल्चिंग"
+  ],
+  "correct": 1,
+  "explainEn": "Leaving land uncultivated or fallow allows the soil to absorb nutrients naturally.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:48:24Z"
+ },
+ {
+  "id": "q_e7d88cde8f4bcc0c",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which part of the Indian Constitution guarantees fundamental rights to citizens?",
+  "qHi": "भारतीय संविधान का कौन सा भाग नागरिकों को मौलिक अधिकार की गारंटी देता है?",
+  "optsEn": [
+   "Part I",
+   "Part II",
+   "Part III",
+   "Part IV"
+  ],
+  "optsHi": [
+   "भाग I",
+   "भाग II",
+   "भाग III",
+   "भाग IV"
+  ],
+  "correct": 2,
+  "explainEn": "Part III of the Indian Constitution contains the Fundamental Rights from Article 12 to 35.",
+  "sourceHint": "NCERT Class 8 Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:48:24Z"
+ },
+ {
+  "id": "q_2d5dfa4c0655d26b",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian social reformer founded the Arya Samaj in 1875?",
+  "qHi": "किस भारतीय समाज सुधारक ने 1875 में आर्य समाज की स्थापना की थी?",
+  "optsEn": [
+   "Raja Ram Mohan Roy",
+   "Swami Dayanand Saraswati",
+   "Swami Vivekananda",
+   "Jyotirao Phule"
+  ],
+  "optsHi": [
+   "राजा राम मोहन राय",
+   "स्वामी दयानंद सरस्वती",
+   "स्वामी विवेकानंद",
+   "ज्योतिराव फुले"
+  ],
+  "correct": 1,
+  "explainEn": "Swami Dayanand Saraswati founded the Arya Samaj in 1875 to promote Vedic values.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:48:24Z"
  }
 ]

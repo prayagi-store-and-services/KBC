@@ -9406,5 +9406,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-10T12:35:44Z"
+ },
+ {
+  "id": "q_2a2a1b292478e7d2",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of 'ATM' in banking terminology?",
+  "qHi": "बैंकिंग शब्दावली में 'ATM' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Automated Teller Machine",
+   "Any Time Money",
+   "Automated Transaction Mode",
+   "Account Transfer Machine"
+  ],
+  "optsHi": [
+   "ऑटोमेटेड टेलर मशीन",
+   "एनी टाइम मनी",
+   "ऑटोमेटेड ट्रांजैक्शन मोड",
+   "अकाउंट ट्रांसफर मशीन"
+  ],
+  "correct": 0,
+  "explainEn": "ATM stands for Automated Teller Machine, an electronic telecommunication device that enables customers to perform financial transactions.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:46:15Z"
+ },
+ {
+  "id": "q_63bd8007224b0281",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which currency is issued by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा कौन सी मुद्रा जारी की जाती है?",
+  "optsEn": [
+   "Indian Rupee",
+   "US Dollar",
+   "Pound Sterling",
+   "Euro"
+  ],
+  "optsHi": [
+   "भारतीय रुपया",
+   "यूएस डॉलर",
+   "पाउंड स्टर्लिंग",
+   "यूरो"
+  ],
+  "correct": 0,
+  "explainEn": "The official currency of India is the Indian Rupee, which is issued by the Reserve Bank of India except for one-rupee notes.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:46:15Z"
+ },
+ {
+  "id": "q_a800f026055286da",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'NEFT' stand for in the context of digital banking?",
+  "qHi": "डिजिटल बैंकिंग के संदर्भ में 'NEFT' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "National Electronic Fund Transfer",
+   "Net Economic Financial Transaction",
+   "National Exchange Fund Term",
+   "New Electronic Finance Transfer"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड ट्रांसफर",
+   "नेट इकोनॉमिक फाइनेंशियल ट्रांजैक्शन",
+   "नेशनल एक्सचेंज फंड टर्म",
+   "न्यू इलेक्ट्रॉनिक फाइनेंस ट्रांसफर"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, an Indian centralized payment system owned and operated by the RBI.",
+  "sourceHint": "RBI official guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:46:15Z"
+ },
+ {
+  "id": "q_c95cdcfcdcc5345f",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the standard length of an IFSC code used in Indian electronic fund transfers?",
+  "qHi": "भारतीय इलेक्ट्रॉनिक फंड ट्रांसफर में प्रयुक्त IFSC कोड की मानक लंबाई क्या है?",
+  "optsEn": [
+   "9 characters",
+   "10 characters",
+   "11 characters",
+   "12 characters"
+  ],
+  "optsHi": [
+   "9 वर्ण",
+   "10 वर्ण",
+   "11 वर्ण",
+   "12 वर्ण"
+  ],
+  "correct": 2,
+  "explainEn": "An IFSC (Indian Financial System Code) is an 11-character alphanumeric code used for online fund transfer transactions.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:46:15Z"
+ },
+ {
+  "id": "q_7210fc5df77d40d4",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following terms is used to describe the rate atWhich commercial banks borrow short-term funds from the Reserve Bank of India against eligible securities?",
+  "qHi": "निम्नलिखित में से किस शब्द का उपयोग उस दर का वर्णन करने के लिए किया जाता है जिस पर वाणिज्यिक बैंक पात्र प्रतिभूतियों के खिलाफ भारतीय रिजर्व बैंक से अल्पकालिक धन उधार लेते हैं?",
+  "optsEn": [
+   "Repo Rate",
+   "Reverse Repo Rate",
+   "Bank Rate",
+   "Cash Reserve Ratio"
+  ],
+  "optsHi": [
+   "रेपो रेट",
+   "रिवर्स रेपो रेट",
+   "बैंक रेट",
+   "नकद आरक्षित अनुपात"
+  ],
+  "correct": 0,
+  "explainEn": "Repo rate is the rate at which the central bank of a country lends money to commercial banks in the event of any shortfall of funds, typically against government securities.",
+  "sourceHint": "Reserve Bank of India (RBI) Publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:47:53Z"
+ },
+ {
+  "id": "q_7f5e4fa7aafce8d4",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the abbreviation 'MSME', a sector crucial for bank lending priorities in India?",
+  "qHi": "भारत में बैंक ऋण प्राथमिकता के लिए एक महत्वपूर्ण क्षेत्र, 'MSME' संक्षेपण में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Limited",
+   "Large",
+   "Liabilities",
+   "None of these"
+  ],
+  "optsHi": [
+   "लिमिटेड",
+   "लार्ज",
+   "लायबिलिटीज",
+   "इनमें से कोई नहीं"
+  ],
+  "correct": 3,
+  "explainEn": "MSME stands for Micro, Small and Medium Enterprises. Therefore, the letter L does not appear in the abbreviation.",
+  "sourceHint": "Ministry of Micro, Small and Medium Enterprises, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:47:53Z"
+ },
+ {
+  "id": "q_a6ddaadb3751acf3",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under which section of the Reserve Bank of India Act, 1934 is the Monetary Policy Committee (MPC) constituted?",
+  "qHi": "भारतीय रिजर्व बैंक अधिनियम, 1934 की किस धारा के तहत मौद्रिक नीति समिति (MPC) का गठन किया गया है?",
+  "optsEn": [
+   "Section 45ZA",
+   "Section 22",
+   "Section 17",
+   "Section 42"
+  ],
+  "optsHi": [
+   "धारा 45ZA",
+   "धारा 22",
+   "धारा 17",
+   "धारा 42"
+  ],
+  "correct": 0,
+  "explainEn": "The Central Government is empowered under Section 45ZA of the RBI Act to constitute a six-member Monetary Policy Committee.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:47:53Z"
+ },
+ {
+  "id": "q_8f318923d34c01b3",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institution in India regulates the mutual fund industry?",
+  "qHi": "भारत में म्यूचुअल फंड उद्योग को कौन सी संस्था विनियमित करती है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India",
+   "Insurance Regulatory and Development Authority",
+   "National Bank for Agriculture and Rural Development"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "बीमा नियामक और विकास प्राधिकरण",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "SEBI (Securities and Exchange Board of India) is the statutory regulatory body established in 1992 to protect the interests of investors in securities and to promote the development of the securities market, including mutual funds.",
+  "sourceHint": "SEBI Act, 1992",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:47:53Z"
+ },
+ {
+  "id": "q_4c4e9d8f62363051",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does 'C' stand for in the financial acronym 'CASA' deposit?",
+  "qHi": "वित्तीय संक्षिप्त नाम 'CASA' जमा में 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Current",
+   "Core",
+   "Capital",
+   "Credit"
+  ],
+  "optsHi": [
+   "करंट",
+   "कोर",
+   "कैपिटल",
+   "क्रेडिट"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account Savings Account, representing the bank deposits that combine current and savings account balances.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) Study Material",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:47:53Z"
+ },
+ {
+  "id": "q_65721bca42f134a8",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following organizations releases the 'World Economic Outlook' report periodically?",
+  "qHi": "निम्नलिखित में से कौन सा संगठन समय-समय पर 'विश्व आर्थिक आउटलुक' (World Economic Outlook) रिपोर्ट जारी करता है?",
+  "optsEn": [
+   "World Bank",
+   "International Monetary Fund",
+   "World Trade Organization",
+   "Asian Development Bank"
+  ],
+  "optsHi": [
+   "विश्व बैंक",
+   "अंतर्राष्ट्रीय मुद्रा कोष",
+   "विश्व व्यापार संगठन",
+   "एशियाई विकास बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "The World Economic Outlook is a survey by the International Monetary Fund (IMF) that is usually published twice a year.",
+  "sourceHint": "International Monetary Fund Publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:47:53Z"
+ },
+ {
+  "id": "q_963abf957ae7d3ab",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of introducing Priority Sector Lending (PSL) norms for commercial banks in India?",
+  "qHi": "भारत में वाणिज्यिक बैंकों के लिए प्राथमिकता प्राप्त क्षेत्र ऋण (PSL) मानदंडों को शुरू करने का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "Maximizing short-term bank profitability",
+   "Ensuring adequate credit flow to vulnerable and weaker sections of the economy",
+   "Increasing foreign direct investment inflows",
+   "Regulating foreign exchange reserves"
+  ],
+  "optsHi": [
+   "अल्पकालिक बैंक लाभप्रदता को अधिकतम करना",
+   "अर्थव्यवस्था के कमजोर और कमजोर वर्गों को पर्याप्त ऋण प्रवाह सुनिश्चित करना",
+   "प्रत्यक्ष विदेशी निवेश प्रवाह को बढ़ाना",
+   "विदेशी मुद्रा भंडार को विनियमित करना"
+  ],
+  "correct": 1,
+  "explainEn": "Priority Sector Lending ensures that specific sectors of the economy like agriculture, MSMEs, and weaker sections, which impact large segments of the population, receive adequate institutional credit.",
+  "sourceHint": "Reserve Bank of India Master Directions on PSL",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:47:53Z"
  }
 ]

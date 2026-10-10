@@ -8090,5 +8090,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-10T12:35:53Z"
+ },
+ {
+  "id": "q_9b633b2b28b7c5a9",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary gas used by plants to prepare their food through photosynthesis?",
+  "qHi": "पौधों द्वारा प्रकाश संश्लेषण के माध्यम से अपना भोजन तैयार करने के लिए उपयोग की जाने वाली मुख्य गैस कौन सी है?",
+  "optsEn": [
+   "Oxygen",
+   "Nitrogen",
+   "Carbon dioxide",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "कार्बन डाइऑक्साइड",
+   "हाइड्रोजन"
+  ],
+  "correct": 2,
+  "explainEn": "Plants take in carbon dioxide from the air to make food using sunlight.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:46:23Z"
+ },
+ {
+  "id": "q_59fca1794bdefcd4",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which direction does the magnetic needle of a freely suspended compass always point?",
+  "qHi": "स्वतंत्र रूप से लटकी हुई कंपास की चुंबकीय सुई हमेशा किस दिशा की ओर इशारा करती है?",
+  "optsEn": [
+   "East and West",
+   "North and South",
+   "Up and Down",
+   "Left and Right"
+  ],
+  "optsHi": [
+   "पूर्व और पश्चिम",
+   "उत्तर और दक्षिण",
+   "ऊपर और नीचे",
+   "बाएं और दाएं"
+  ],
+  "correct": 1,
+  "explainEn": "A magnetic compass needle aligns itself with the Earth's magnetic field, pointing towards the North and South.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:46:23Z"
+ },
+ {
+  "id": "q_d37795634a31ae9f",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the solid state of water called?",
+  "qHi": "पानी की ठोस अवस्था को क्या कहा जाता है?",
+  "optsEn": [
+   "Steam",
+   "Ice",
+   "Vapor",
+   "Rain"
+  ],
+  "optsHi": [
+   "भाप",
+   "बर्फ",
+   "वाष्प",
+   "वर्षा"
+  ],
+  "correct": 1,
+  "explainEn": "Ice is the solid form of water, formed at or below freezing temperatures.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:46:23Z"
+ },
+ {
+  "id": "q_9226276c965d74c7",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these animals is primarily active at night and is known as nocturnal?",
+  "qHi": "इनमें से कौन सा जानवर मुख्य रूप से रात में सक्रिय होता है और निशाचर कहलाता है?",
+  "optsEn": [
+   "Owl",
+   "Cow",
+   "Dog",
+   "Crow"
+  ],
+  "optsHi": [
+   "उल्लू",
+   "गाय",
+   "कुत्ता",
+   "कौवा"
+  ],
+  "correct": 0,
+  "explainEn": "Owls are nocturnal birds, meaning they sleep during the day and hunt or stay active at night.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:46:23Z"
+ },
+ {
+  "id": "q_ac088b7e88c0863c",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which planet is known as the Blue Planet because of the presence of water on it?",
+  "qHi": "किस ग्रह को उस पर पानी की उपस्थिति के कारण नीला ग्रह कहा जाता है?",
+  "optsEn": [
+   "Mars",
+   "Venus",
+   "Earth",
+   "Jupiter"
+  ],
+  "optsHi": [
+   "मंगल",
+   "शुक्र",
+   "पृथ्वी",
+   "बृहस्पति"
+  ],
+  "correct": 2,
+  "explainEn": "Earth has vast oceans covering most of its surface, making it appear blue from space.",
+  "sourceHint": "NCERT Class 5 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:46:23Z"
+ },
+ {
+  "id": "q_bd6493b37dd25364",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which gas is released by plants during the process of photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण की प्रक्रिया के दौरान पौधे कौन सी गैस छोड़ते हैं?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Nitrogen",
+   "Oxygen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "ऑक्सीजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 2,
+  "explainEn": "During photosynthesis, plants take in carbon dioxide and release oxygen into the atmosphere.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:48:20Z"
+ },
+ {
+  "id": "q_b540a52c306a241a",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following vitamin deficiencies causes scurvy?",
+  "qHi": "निम्नलिखित में से किस विटामिन की कमी से स्कर्वी रोग होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 2,
+  "explainEn": "Scurvy is caused by a deficiency of Vitamin C, commonly found in citrus fruits like lemons and oranges.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:48:20Z"
  }
 ]

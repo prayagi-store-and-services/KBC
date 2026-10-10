@@ -9042,5 +9042,509 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-10T12:36:11Z"
+ },
+ {
+  "id": "q_f9653c66088403e0",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who was the President of the Constituent Assembly of India?",
+  "qHi": "भारत की संविधान सभा के अध्यक्ष कौन थे?",
+  "optsEn": [
+   "Dr. Rajendra Prasad",
+   "Pandit Jawaharlal Nehru",
+   "Dr. B. R. Ambedkar",
+   "Sardar Vallabhbhai Patel"
+  ],
+  "optsHi": [
+   "डॉ. राजेंद्र प्रसाद",
+   "पंडित जवाहरलाल नेहरू",
+   "डॉ. बी. आर. अंबेडकर",
+   "सरदार वल्लभभाई पटेल"
+  ],
+  "correct": 0,
+  "explainEn": "Dr. Rajendra Prasad was elected as the permanent President of the Constituent Assembly on December 11, 1946.",
+  "sourceHint": "NCERT Class 12 Political Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:46:03Z"
+ },
+ {
+  "id": "q_c11f199b1605ef26",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which chemical element has the symbol 'Na'?",
+  "qHi": "किस रासायनिक तत्व का प्रतीक 'Na' है?",
+  "optsEn": [
+   "Nitrogen",
+   "Sodium",
+   "Nickel",
+   "Neon"
+  ],
+  "optsHi": [
+   "नाइट्रोजन",
+   "सोडियम",
+   "निकल",
+   "नियन"
+  ],
+  "correct": 1,
+  "explainEn": "The symbol Na comes from natrium, the New Latin word for sodium.",
+  "sourceHint": "NCERT Class 11 Chemistry",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:46:03Z"
+ },
+ {
+  "id": "q_3694b99232da8264",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of economy is characterized by the co-existence of public and private sectors?",
+  "qHi": "सार्वजनिक और निजी क्षेत्रों के सह-अस्तित्व की विशेषता किस प्रकार की अर्थव्यवस्था में होती है?",
+  "optsEn": [
+   "Capitalist economy",
+   "Socialist economy",
+   "Mixed economy",
+   "Traditional economy"
+  ],
+  "optsHi": [
+   "पूंजीवादी अर्थव्यवस्था",
+   "समाजवादी अर्थव्यवस्था",
+   "मिश्रित अर्थव्यवस्था",
+   "पारंपरिक अर्थव्यवस्था"
+  ],
+  "correct": 2,
+  "explainEn": "A mixed economy features characteristics of both capitalism and socialism, including both private and public enterprise.",
+  "sourceHint": "NCERT Class 12 Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:46:03Z"
+ },
+ {
+  "id": "q_793b3761e2662b45",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organelle is responsible for lipid synthesis and detoxification of drugs in eukaryotic cells?",
+  "qHi": "यूकैरियोटिक कोशिकाओं में लिपिड संश्लेषण और दवाओं के विषहरण के लिए कौन सा कोशिकांग जिम्मेदार है?",
+  "optsEn": [
+   "Rough Endoplasmic Reticulum",
+   "Smooth Endoplasmic Reticulum",
+   "Golgi apparatus",
+   "Lysosome"
+  ],
+  "optsHi": [
+   "खुरदरा अंतःप्रद्रव्यी जालिका",
+   "चिकना अंतःप्रद्रव्यी जालिका",
+   "गॉल्जी उपकरण",
+   "लिसोसोम"
+  ],
+  "correct": 1,
+  "explainEn": "The smooth endoplasmic reticulum lacks ribosomes and is the primary site for lipid synthesis and detoxification processes.",
+  "sourceHint": "NCERT Class 11 Biology, Chapter 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:47:36Z"
+ },
+ {
+  "id": "q_03ff1d31e3e61bf3",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In a p-type semiconductor, which of the following acts as the majority charge carrier?",
+  "qHi": "एक p-प्रकार के अर्धचालक में, निम्नलिखित में से कौन बहुसंख्यक आवेश वाहक के रूप में कार्य करता है?",
+  "optsEn": [
+   "Electrons",
+   "Holes",
+   "Protons",
+   "Neutrons"
+  ],
+  "optsHi": [
+   "इलेक्ट्रॉन",
+   "होल (कोटर)",
+   "प्रोटॉन",
+   "न्यूट्रॉन"
+  ],
+  "correct": 1,
+  "explainEn": "Doping with trivalent impurities creates electron vacancies known as holes, which form the majority charge carriers in p-type semiconductors.",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:47:36Z"
+ },
+ {
+  "id": "q_a47786c79d8f3ba5",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which enzyme is primarily responsible for the primary fixation of carbon dioxide in C3 plants?",
+  "qHi": "C3 पौधों में कार्बन डाइऑक्साइड के प्राथमिक स्थिरीकरण के लिए मुख्य रूप से कौन सा एंजाइम जिम्मेदार है?",
+  "optsEn": [
+   "Hexokinase",
+   "RuBisCO",
+   "PEP carboxylase",
+   "Pyruvate kinase"
+  ],
+  "optsHi": [
+   "हेक्सोकाइनेज",
+   "रुबिस्को (RuBisCO)",
+   "पीईपी कार्बोक्सिलेज",
+   "पाइरुवेट काइनेज"
+  ],
+  "correct": 1,
+  "explainEn": "RuBisCO (Ribulose-1,5-bisphosphate carboxylase-oxygenase) is the key enzyme that catalyses the fixation of carbon dioxide in the Calvin cycle.",
+  "sourceHint": "NCERT Class 11 Biology, Chapter 13",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:47:36Z"
+ },
+ {
+  "id": "q_5ed34741ccd6a3b1",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the molecularity of an elementary chemical reaction where three reactant molecules collide simultaneously?",
+  "qHi": "एक प्राथमिक रासायनिक अभिक्रिया की आणविकता क्या है जहाँ तीन अभिकारक अणु एक साथ टकराते हैं?",
+  "optsEn": [
+   "Unimolecular",
+   "Bimolecular",
+   "Trimolecular",
+   "Zero"
+  ],
+  "optsHi": [
+   "एक-आणविक",
+   "द्वि-आणविक",
+   "त्रि-आणविक",
+   "शून्य"
+  ],
+  "correct": 2,
+  "explainEn": "Molecularity is the number of reacting species colliding simultaneously in an elementary reaction. Three species colliding make it trimolecular.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:47:36Z"
+ },
+ {
+  "id": "q_7638a29942110245",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which British official introduced the Doctrine of Lapse in India during the nineteenth century?",
+  "qHi": "उन्नीसवीं शताब्दी के दौरान भारत में व्यपगत का सिद्धांत (डॉक्ट्रीन ऑफ लैप्स) किस ब्रिटिश अधिकारी ने शुरू किया था?",
+  "optsEn": [
+   "Lord Wellesley",
+   "Lord Dalhousie",
+   "Lord Curzon",
+   "Lord Cornwallis"
+  ],
+  "optsHi": [
+   "लॉर्ड वेलेजली",
+   "लॉर्ड डलहौजी",
+   "लॉर्ड कर्जन",
+   "लॉर्ड कॉर्नवालिस"
+  ],
+  "correct": 1,
+  "explainEn": "Lord Dalhousie, who served as Governor-General of India from 1848 to 1856, applied the Doctrine of Lapse to annex several princely states.",
+  "sourceHint": "NCERT Class 12 History, Theme 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:47:36Z"
+ },
+ {
+  "id": "q_5ce217cd0604f9a2",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of economic system is characterized by the central planning authority taking all decisions regarding production and distribution?",
+  "qHi": "किस प्रकार की आर्थिक प्रणाली की विशेषता केंद्रीय नियोजन प्राधिकरण द्वारा उत्पादन और वितरण के संबंध में सभी निर्णय लेना है?",
+  "optsEn": [
+   "Market economy",
+   "Command economy",
+   "Mixed economy",
+   "Dual economy"
+  ],
+  "optsHi": [
+   "बाजार अर्थव्यवस्था",
+   "कमांड (निर्देशित) अर्थव्यवस्था",
+   "मिश्रित अर्थव्यवस्था",
+   "द्वैध अर्थव्यवस्था"
+  ],
+  "correct": 1,
+  "explainEn": "In a command or centrally planned economy, all economic decisions are made by the government or central authority rather than market forces.",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Microeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:47:36Z"
+ },
+ {
+  "id": "q_49f0235963f7cb1a",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which element exhibits the maximum number of oxidation states in the 3d transition series?",
+  "qHi": "3d संक्रमण श्रेणी में कौन सा तत्व अधिकतम संख्या में ऑक्सीकरण अवस्थाएं प्रदर्शित करता है?",
+  "optsEn": [
+   "Scandium",
+   "Titanium",
+   "Manganese",
+   "Zinc"
+  ],
+  "optsHi": [
+   "स्कैंडियम",
+   "टाइटेनियम",
+   "मैंगनीज",
+   "जस्ता"
+  ],
+  "correct": 2,
+  "explainEn": "Manganese exhibits oxidation states from +2 to +7, which is the maximum among the 3d transition series elements due to the availability of all 4s and 3d electrons.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:47:36Z"
+ },
+ {
+  "id": "q_602fb028a180de0c",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the Indian Constitution, which fundamental right cannot be suspended even during a National Emergency proclaimed under Article 352?",
+  "qHi": "भारतीय संविधान के संदर्भ में, अनुच्छेद 352 के तहत घोषित राष्ट्रीय आपातकाल के दौरान भी कौन सा मौलिक अधिकार निलंबित नहीं किया जा सकता है?",
+  "optsEn": [
+   "Article 14 and Article 19",
+   "Article 19 and Article 20",
+   "Article 20 and Article 21",
+   "Article 21 and Article 22"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14 और अनुच्छेद 19",
+   "अनुच्छेद 19 और अनुच्छेद 20",
+   "अनुच्छेद 20 और अनुच्छेद 21",
+   "अनुच्छेद 21 और अनुच्छेद 22"
+  ],
+  "correct": 2,
+  "explainEn": "By the 44th Amendment Act, 1978, the right to protection in respect of conviction for offenses (Article 20) and the right to life and personal liberty (Article 21) cannot be suspended during a National Emergency.",
+  "sourceHint": "Indian Constitution, Part III, Article 359",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:48:35Z"
+ },
+ {
+  "id": "q_7cabe01a88823ba2",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following sites of the Indus Valley Civilization is known for its unique water management system consisting of a series of reservoirs and storm water drains?",
+  "qHi": "सिंधु घाटी सभ्यता का निम्नलिखित में से कौन सा स्थल जलाशयों और वर्षा जल नालियों की एक श्रृंखला से बनी अपनी अनूठी जल प्रबंधन प्रणाली के लिए जाना जाता है?",
+  "optsEn": [
+   "Harappa",
+   "Mohenjo-daro",
+   "Dholavira",
+   "Lothal"
+  ],
+  "optsHi": [
+   "हड़प्पा",
+   "मोहनजोदड़ो",
+   "धोलावीरा",
+   "लोथल"
+  ],
+  "correct": 2,
+  "explainEn": "Dholavira, located in Gujarat, is renowned for its advanced water management system, featuring massive stone-cut reservoirs and elaborate channel networks.",
+  "sourceHint": "NCERT Class 12 History - Bricks, Beads and Bones",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:48:35Z"
+ },
+ {
+  "id": "q_9189c691f542f8ea",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which enzyme is primarily responsible for the initial fixation of carbon dioxide in C4 plants during photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण के दौरान C4 पौधों में कार्बन डाइऑक्साइड के प्रारंभिक स्थिरीकरण के लिए मुख्य रूप से कौन सा एंजाइम जिम्मेदार है?",
+  "optsEn": [
+   "RuBisCO",
+   "PEPcase",
+   "Hexokinase",
+   "Pyruvate kinase"
+  ],
+  "optsHi": [
+   "रुबिस्को (RuBisCO)",
+   "पेपकेज (PEPcase)",
+   "हेक्सोकाइनेज",
+   "पाइरूवेट काइनेज"
+  ],
+  "correct": 1,
+  "explainEn": "In C4 plants, the first carbon dioxide fixation occurs in the mesophyll cells where Phosphoenolpyruvate carboxylase (PEPcase) acts on phosphoenolpyruvate to form oxaloacetic acid.",
+  "sourceHint": "NCERT Class 11 Biology - Photosynthesis in Higher Plants",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:48:35Z"
+ },
+ {
+  "id": "q_9dc38127e4b5b452",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary product formed at the cathode during the electrolysis of molten sodium chloride using inert electrodes?",
+  "qHi": "अक्रिय इलेक्ट्रोड का उपयोग करके पिघले हुए सोडियम क्लोराइड के विद्युत अपघटन के दौरान कैथोड पर बनने वाला प्राथमिक उत्पाद क्या है?",
+  "optsEn": [
+   "Chlorine gas",
+   "Hydrogen gas",
+   "Sodium metal",
+   "Sodium hydroxide"
+  ],
+  "optsHi": [
+   "क्लोरीन गैस",
+   "हाइड्रोजन गैस",
+   "सोडियम धातु",
+   "सोडियम हाइड्रॉक्साइड"
+  ],
+  "correct": 2,
+  "explainEn": "During the electrolysis of molten (fused) sodium chloride, sodium ions migrate to the cathode and gain electrons to form liquid sodium metal, as water is absent.",
+  "sourceHint": "NCERT Class 12 Chemistry - Electrochemistry",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:48:35Z"
+ },
+ {
+  "id": "q_f85dd4b8fa144749",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which institutional organ of the United Nations is officially designated as the principal judicial organ of the UN?",
+  "qHi": "संयुक्त राष्ट्र के किस संस्थागत अंग को आधिकारिक तौर पर संयुक्त राष्ट्र के प्रमुख न्यायिक अंग के रूप में नामित किया गया है?",
+  "optsEn": [
+   "International Criminal Court",
+   "International Court of Justice",
+   "Permanent Court of Arbitration",
+   "UN Human Rights Council"
+  ],
+  "optsHi": [
+   "अंतर्राष्ट्रीय आपराधिक न्यायालय",
+   "अंतर्राष्ट्रीय न्यायालय",
+   "स्थायी मध्यस्थता न्यायालय",
+   "संयुक्त राष्ट्र मानवाधिकार परिषद"
+  ],
+  "correct": 1,
+  "explainEn": "According to the UN Charter, the International Court of Justice (ICJ) located in The Hague, Netherlands, is the principal judicial organ of the United Nations.",
+  "sourceHint": "NCERT Class 12 Political Science - Contemporary World Politics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:48:35Z"
+ },
+ {
+  "id": "q_aa1337528f5be893",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In microeconomics, what does a backward-bending labor supply curve imply regarding the substitution effect and income effect?",
+  "qHi": "व्यष्टि अर्थशास्त्र में, पीछे की ओर मुड़ने वाला श्रम आपूर्ति वक्र प्रतिस्थापन प्रभाव और आय प्रभाव के संबंध में क्या दर्शाता है?",
+  "optsEn": [
+   "Substitution effect dominates income effect",
+   "Income effect dominates substitution effect",
+   "Both effects operate in the exact same direction at all wage rates",
+   "Neither effect has any impact on the individual's choice"
+  ],
+  "optsHi": [
+   "प्रतिस्थापन प्रभाव आय प्रभाव हावी होता है",
+   "आय प्रभाव प्रतिस्थापन प्रभाव पर हावी होता है",
+   "दोनों प्रभाव सभी मजदूरी दरों पर बिल्कुल समान दिशा में काम करते हैं",
+   "किसी भी प्रभाव का व्यक्ति की पसंद पर कोई प्रभाव नहीं पड़ता है"
+  ],
+  "correct": 1,
+  "explainEn": "At very high wage rates, the income effect (valuing leisure more as income rises) outweighs the substitution effect (working more because leisure is more expensive), causing the labor supply curve to bend backward.",
+  "sourceHint": "NCERT Class 12 Economics - Introductory Microeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:48:35Z"
+ },
+ {
+  "id": "q_51175eb52a0de409",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which administrative official was appointed by the Mughal Emperor Akbar to maintain records of land revenue and act as a land registrar at the sub-district (pargana) level?",
+  "qHi": "मुगल सम्राट अकबर द्वारा उप-जिला (परगना) स्तर पर भू-राजस्व का रिकॉर्ड बनाए रखने और भूमि रजिस्ट्रार के रूप में कार्य करने के लिए किस प्रशासनिक अधिकारी को नियुक्त किया गया था?",
+  "optsEn": [
+   "Amil-guzar",
+   "Faujdar",
+   "Qanungo",
+   "Mir Bakshi"
+  ],
+  "optsHi": [
+   "आमिल-गुजार",
+   "फौजदार",
+   "कानूनगो",
+   "मीर बख्शी"
+  ],
+  "correct": 2,
+  "explainEn": "The qanungo was the revenue official at the pargana level responsible for maintaining the revenue records and customary laws regarding land in Mughal administration.",
+  "sourceHint": "NCERT Class 12 History - Peasants, Zamindars and the State",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:48:35Z"
+ },
+ {
+  "id": "q_ba7ea81642cee5a8",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which type of ecological pyramid can never be inverted under any natural ecosystem circumstance?",
+  "qHi": "पारिस्थितिक तंत्र की किस प्रकार की पिरामिड स्थिति में कभी भी उल्टी (inverted) नहीं हो सकती है?",
+  "optsEn": [
+   "Pyramid of number",
+   "Pyramid of biomass",
+   "Pyramid of energy",
+   "Pyramid of detritus"
+  ],
+  "optsHi": [
+   "संख्या का पिरामिड",
+   "जीवभार का पिरामिड",
+   "ऊर्जा का पिरामिड",
+   "अपर्णा का पिरामिड"
+  ],
+  "correct": 2,
+  "explainEn": "The pyramid of energy is always upright because energy flows unidirectionally and there is a significant loss of energy as heat at each trophic level according to the 10 percent law.",
+  "sourceHint": "NCERT Class 12 Biology - Ecosystem",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:48:35Z"
  }
 ]

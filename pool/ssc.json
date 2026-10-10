@@ -6046,5 +6046,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-10T12:35:39Z"
+ },
+ {
+  "id": "q_b30f976386a6a926",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the ancient Indian treatise on statecraft, the Arthashastra?",
+  "qHi": "राज्यकला पर प्राचीन भारतीय ग्रंथ अर्थशास्त्र किसने लिखा था?",
+  "optsEn": [
+   "Kalidasa",
+   "Kautilya",
+   "Banabhatta",
+   "Valmiki"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "कौटिल्य",
+   "बाणभट्ट",
+   "वाल्मीकि"
+  ],
+  "correct": 1,
+  "explainEn": "Arthashastra was authored by Kautilya, also known as Chanakya.",
+  "sourceHint": "NCERT Class 6 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:46:11Z"
+ },
+ {
+  "id": "q_2bfe3b1b0bbc1114",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is the capital city of Australia?",
+  "qHi": "निम्नलिखित में से कौन सा ऑस्ट्रेलिया की राजधानी शहर है?",
+  "optsEn": [
+   "Sydney",
+   "Melbourne",
+   "Canberra",
+   "Perth"
+  ],
+  "optsHi": [
+   "सिडनी",
+   "मेलबोर्न",
+   "कैनबरा",
+   "पर्थ"
+  ],
+  "correct": 2,
+  "explainEn": "Canberra is the capital city of Australia.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:46:11Z"
+ },
+ {
+  "id": "q_4b2d959b329c04a8",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which layer of the atmosphere contains the ozone layer which absorbs harmful ultraviolet rays?",
+  "qHi": "वायुमंडल की किस परत में ओजोन परत पाई जाती है जो हानिकारक पराबैंगनी किरणों को अवशोषित करती है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षوبमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The stratosphere contains the ozone layer, which absorbs the sun's harmful ultraviolet radiation.",
+  "sourceHint": "NCERT Class 7 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:47:47Z"
+ },
+ {
+  "id": "q_f8ba70aa056ccfcb",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which metal was primarily used by the people of the Indus Valley Civilization?",
+  "qHi": "सिंधु घाटी सभ्यता के लोगों द्वारा मुख्य रूप से किस धातु का उपयोग किया जाता था?",
+  "optsEn": [
+   "Iron",
+   "Bronze",
+   "Gold only",
+   "Steel"
+  ],
+  "optsHi": [
+   "लोहा",
+   "कांस्य",
+   "केवल सोना",
+   "स्टील"
+  ],
+  "correct": 1,
+  "explainEn": "Indus Valley Civilization is known as a Bronze Age civilization, where bronze was widely used alongside copper.",
+  "sourceHint": "NCERT Class 6 History Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:47:47Z"
+ },
+ {
+  "id": "q_14d6ee127ac46799",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the standard time meridian of India?",
+  "qHi": "भारत की मानक समय याम्योत्तर (स्टैंडर्ड मेरिडियन) क्या है?",
+  "optsEn": [
+   "82.5 degree East",
+   "80.0 degree East",
+   "85.5 degree East",
+   "87.0 degree East"
+  ],
+  "optsHi": [
+   "82.5 डिग्री पूर्व",
+   "80.0 डिग्री पूर्व",
+   "85.5 डिग्री पूर्व",
+   "87.0 डिग्री पूर्व"
+  ],
+  "correct": 0,
+  "explainEn": "The Indian Standard Time (IST) is calculated on the basis of 82.5 degree E longitude passing through Mirzapur in Uttar Pradesh.",
+  "sourceHint": "NCERT Class 9 Geography Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:47:47Z"
+ },
+ {
+  "id": "q_116e1b50765deaff",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin is primarily responsible for blood clotting in humans?",
+  "qHi": "मानव शरीर में रक्त का थक्का जमने के लिए मुख्य रूप से कौन सा विटामिन जिम्मेदार है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin K"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन के"
+  ],
+  "correct": 3,
+  "explainEn": "Vitamin K plays a vital role in blood clotting, bone metabolism, and regulating blood calcium levels.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:47:47Z"
+ },
+ {
+  "id": "q_50dfac34ef11c19c",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the British colonial period in India, the 'Wood's Despatch' of 1854 was primarily concerned with which of the following?",
+  "qHi": "भारत में ब्रिटिश औपनिवेशिक काल के दौरान, 1854 का 'वुड्स डिस्पैच' मुख्य रूप से निम्नलिखित में से किससे संबंधित था?",
+  "optsEn": [
+   "Educational reforms",
+   "Land revenue settlement",
+   "Judicial reorganization",
+   "Factory labor conditions"
+  ],
+  "optsHi": [
+   "शैक्षणिक सुधार",
+   "भू-राजस्व बंदोबस्त",
+   "न्यायिक पुनर्गठन",
+   "कारखाने की श्रम स्थिति"
+  ],
+  "correct": 0,
+  "explainEn": "Sir Charles Wood's Despatch on Education in 1854 outlined the educational policy for British India, often called the Magna Carta of English education in India.",
+  "sourceHint": "NCERT Modern Indian History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:48:46Z"
+ },
+ {
+  "id": "q_45aa7b3cdc9de7ca",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which climatic phenomenon is primarily responsible for the winter rainfall in the north-western part of India?",
+  "qHi": "भारत के उत्तर-पश्चिमी भाग में शीतकालीन वर्षा के लिए मुख्य रूप से कौन सी जलवायु घटना जिम्मेदार है?",
+  "optsEn": [
+   "South-West Monsoon",
+   "Western Disturbances",
+   "Retreating Monsoon",
+   "North-East Trade Winds"
+  ],
+  "optsHi": [
+   "दक्षिण-पश्चिम मानसून",
+   "पश्चिमी विक्षोभ",
+   "लौटता हुआ मानसून",
+   "उत्तर-पूर्वी व्यापारिक हवाएं"
+  ],
+  "correct": 1,
+  "explainEn": "Western Disturbances are extratropical storms originating in the Mediterranean region that bring sudden winter rain and snow to the north-western parts of the Indian subcontinent.",
+  "sourceHint": "NCERT Geography - Climate",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:48:46Z"
+ },
+ {
+  "id": "q_2b58a334e2f06c2a",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "As per the Koppen climatic classification, which letter code is used to designate the Monsoon type with short dry season (Am)?",
+  "qHi": "कोपेन के जलवायु वर्गीकरण के अनुसार, छोटी शुष्क अवधि वाले मानसून प्रकार (Am) को नामित करने के लिए किस अक्षर कोड का उपयोग किया जाता है?",
+  "optsEn": [
+   "Tropical rainforest",
+   "Tropical monsoon",
+   "Tropical savanna",
+   "Semi-arid steppe"
+  ],
+  "optsHi": [
+   "उष्णकटिबंधीय वर्षा वन",
+   "उष्णकटिबंधीय मानसून",
+   "उष्णकटिबंधीय सवाना",
+   "अर्ध-शुष्क स्टेपी"
+  ],
+  "correct": 1,
+  "explainEn": "In Koppen's climate classification, Am stands for Tropical Monsoon climate, characterized by short dry seasons.",
+  "sourceHint": "NCERT Class 11 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:48:46Z"
+ },
+ {
+  "id": "q_9189d4f31a1f58c7",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which article of the Indian Constitution empowers the Parliament to create new All-India Services common to both the Union and the States?",
+  "qHi": "भारतीय संविधान का कौन सा अनुच्छेद संसद को संघ और राज्यों दोनों के लिए सामान्य नई अखिल भारतीय सेवाएं बनाने का अधिकार देता है?",
+  "optsEn": [
+   "Article 312",
+   "Article 324",
+   "Article 356",
+   "Article 360"
+  ],
+  "optsHi": [
+   "अनुच्छेद 312",
+   "अनुच्छेद 324",
+   "अनुच्छेद 356",
+   "अनुच्छेद 360"
+  ],
+  "correct": 0,
+  "explainEn": "Article 312 grants the Rajya Sabha the power to declare the creation of any new All-India Service in the national interest, enabling Parliament to create it.",
+  "sourceHint": "Constitution of India, Article 312",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:48:46Z"
+ },
+ {
+  "id": "q_d6f305d100e910bc",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following sites of the Indus Valley Civilization is located in the state of Gujarat and is famous for its dockyard structure?",
+  "qHi": "सिंधु घाटी सभ्यता का निम्नलिखित में से कौन सा स्थल गुजरात राज्य में स्थित है और अपनी गोदी (डॉकयार्ड) संरचना के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Harappa",
+   "Mohenjo-daro",
+   "Lothal",
+   "Kalibangan"
+  ],
+  "optsHi": [
+   "हड़प्पा",
+   "मोहनजोदड़ो",
+   "लोथल",
+   "कालीबंगा"
+  ],
+  "correct": 2,
+  "explainEn": "Lothal, located in Gujarat along the Bhogavo river, featured a massive dockyard, indicating its status as a major maritime trading center of the Indus Valley Civilization.",
+  "sourceHint": "NCERT Ancient Indian History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:48:46Z"
  }
 ]

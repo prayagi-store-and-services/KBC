@@ -8510,5 +8510,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-10T12:36:04Z"
+ },
+ {
+  "id": "q_8ee8633e5a3d080a",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which chemical is released during the digestion of food to create an acidic medium in the stomach?",
+  "qHi": "पेट में भोजन के पाचन के दौरान अम्लीय माध्यम बनाने के लिए कौन सा रसायन स्रावित होता है?",
+  "optsEn": [
+   "Hydrochloric acid",
+   "Sulphuric acid",
+   "Nitric acid",
+   "Acetic acid"
+  ],
+  "optsHi": [
+   "हाइड्रोक्लोरिक अम्ल",
+   "सल्फ्यूरिक अम्ल",
+   "नाइट्रिक अम्ल",
+   "एसिटिक अम्ल"
+  ],
+  "correct": 0,
+  "explainEn": "Gastric glands in the stomach release hydrochloric acid, which creates an acidic medium and helps in protein digestion.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:47:31Z"
+ },
+ {
+  "id": "q_9830800e30c61bbe",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following non-metals is a good conductor of electricity?",
+  "qHi": "निम्नलिखित में से कौन सा अधातु विद्युत का अच्छा सुचालक है?",
+  "optsEn": [
+   "Diamond",
+   "Graphite",
+   "Sulphur",
+   "Phosphorus"
+  ],
+  "optsHi": [
+   "हीरा",
+   "ग्रेफाइट",
+   "सल्फर",
+   "फास्फोरस"
+  ],
+  "correct": 1,
+  "explainEn": "Graphite is an allotrope of carbon and is a good conductor of electricity due to the presence of free electrons.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:48:29Z"
+ },
+ {
+  "id": "q_9d1df6521d9659b0",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the pH value of a neutral solution at 298 Kelvin?",
+  "qHi": "298 केल्विन पर एक उदासीन विलयन का पीएच (pH) मान कितना होता है?",
+  "optsEn": [
+   "0",
+   "7",
+   "10",
+   "14"
+  ],
+  "optsHi": [
+   "0",
+   "7",
+   "10",
+   "14"
+  ],
+  "correct": 1,
+  "explainEn": "A neutral solution has a pH of exactly 7 at standard temperature, indicating equal concentrations of hydrogen and hydroxide ions.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:48:29Z"
+ },
+ {
+  "id": "q_43302a72bd4c9702",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which plant hormone is primarily responsible for the cell elongation and phototropism in stems?",
+  "qHi": "तनों में कोशिका दीर्घाकीकरण (एलोकेशन) और प्रकाशानुवर्तन के लिए मुख्य रूप से कौन सा पादप हार्मोन उत्तरदायी है?",
+  "optsEn": [
+   "Auxin",
+   "Cytokinin",
+   "Gibberellin",
+   "Abscisic acid"
+  ],
+  "optsHi": [
+   "ऑक्सिन",
+   "साइटोकैिनिन",
+   "जिबरेलिन",
+   "एब्सिसिक अम्ल"
+  ],
+  "correct": 0,
+  "explainEn": "Auxins are synthesized at the shoot tip and help the cells grow longer, promoting phototropic bending towards light.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:48:29Z"
+ },
+ {
+  "id": "q_0644690360083ecb",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which layer of the atmosphere contains the ozone layer that shields the Earth from ultraviolet radiation?",
+  "qHi": "वायुमंडल की किस परत में ओजोन परत पाई जाती है जो पृथ्वी को पराबैंगनी विकिरण से बचाती है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The stratosphere houses the ozone layer, which absorbs harmful ultraviolet radiation coming from the Sun.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 15",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:48:29Z"
+ },
+ {
+  "id": "q_c17e1c9f4e115a96",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "According to Mendeleev's periodic law, elements were classified in order of their increasing:",
+  "qHi": "मैंडलीफ के आवर्त नियम के अनुसार, तत्वों को उनके बढ़ते हुए किस गुण के आधार पर वर्गीकृत किया गया था?",
+  "optsEn": [
+   "Atomic number",
+   "Atomic mass",
+   "Valency",
+   "Density"
+  ],
+  "optsHi": [
+   "परमाणु संख्या",
+   "परमाणु द्रव्यमान",
+   "संयोजकता",
+   "घनत्व"
+  ],
+  "correct": 1,
+  "explainEn": "Mendeleev arranged the elements in the periodic table in the increasing order of their atomic masses.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T21:48:29Z"
  }
 ]
