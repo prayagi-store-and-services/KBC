@@ -51,7 +51,7 @@ import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 
-class MainActivity : ComponentActivity() {
+open class MainActivity : ComponentActivity() {
     private val quizViewModel: QuizViewModel by viewModels()
     private var userLeftViaHome = false
 
@@ -61,6 +61,7 @@ class MainActivity : ComponentActivity() {
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
+        try { Brand.applyLauncherName(this) } catch (_: Throwable) { }
         super.onCreate(savedInstanceState)
         // Remove any installer file left from an in-app update (runs in the background).
         Thread { com.example.update.AppUpdater.cleanLeftovers(applicationContext) }.start()
@@ -91,7 +92,7 @@ class MainActivity : ComponentActivity() {
                     horizontalArrangement = androidx.compose.foundation.layout.Arrangement.SpaceBetween
                 ) {
                     androidx.compose.foundation.layout.Column {
-                        Text(text = "TarkShastra", fontSize = 20.sp, fontWeight = androidx.compose.ui.text.font.FontWeight.Bold, maxLines = 1, color = androidx.compose.ui.graphics.Color.White)
+                        Text(text = Brand.name, fontSize = 20.sp, fontWeight = androidx.compose.ui.text.font.FontWeight.Bold, maxLines = 1, color = androidx.compose.ui.graphics.Color.White)
                         Text(text = "v" + ownVersion, fontSize = 12.sp, maxLines = 1, color = androidx.compose.ui.graphics.Color(0xFFB0B8C8))
                     }
                     Text(text = java.text.SimpleDateFormat("EEE d MMM, HH:mm", java.util.Locale.getDefault()).format(clockNow), fontSize = 12.sp, maxLines = 1, color = androidx.compose.ui.graphics.Color(0xFFB0B8C8))
