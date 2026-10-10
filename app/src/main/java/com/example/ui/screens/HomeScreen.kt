@@ -176,7 +176,7 @@ fun HomeScreen(
             ) {
                 Icon(
                     imageVector = Icons.Default.Psychology,
-                    contentDescription = "TarkShastra Logo",
+                    contentDescription = "${com.example.Brand.name} Logo",
                     tint = GoldGlow,
                     modifier = Modifier.size(54.dp)
                 )
