@@ -7614,5 +7614,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-09T22:41:40Z"
+ },
+ {
+  "id": "q_1d79a33d8f393fb3",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which sensory organ helps us to taste different flavors?",
+  "qHi": "कौन सा संवेदी अंग हमें विभिन्न स्वादों का अनुभव करने में मदद करता है?",
+  "optsEn": [
+   "Skin",
+   "Nose",
+   "Tongue",
+   "Ear"
+  ],
+  "optsHi": [
+   "त्वचा",
+   "नाक",
+   "जीभ",
+   "कान"
+  ],
+  "correct": 2,
+  "explainEn": "The tongue has taste buds that help us identify different tastes like sweet, sour, salty, and bitter.",
+  "sourceHint": "NCERT Class 5 Science Curriculum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:54:14Z"
+ },
+ {
+  "id": "q_3089b5b0506a1a74",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which direction does the magnetic needle in a compass usually point?",
+  "qHi": "कम्पास में चुंबकीय सुई आमतौर पर किस दिशा की ओर इशारा करती है?",
+  "optsEn": [
+   "East-West",
+   "North-South",
+   "Up-Down",
+   "Circular"
+  ],
+  "optsHi": [
+   "पूर्व-पश्चिम",
+   "उत्तर-दक्षिण",
+   "ऊपर-नीचे",
+   "गोलाकार"
+  ],
+  "correct": 1,
+  "explainEn": "A magnetic compass needle aligns with the Earth's magnetic field, pointing towards the North-South direction.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:54:14Z"
+ },
+ {
+  "id": "q_05c5253251518037",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary natural source of light for planet Earth?",
+  "qHi": "पृथ्वी ग्रह के लिए प्रकाश का प्राथमिक प्राकृतिक स्रोत क्या है?",
+  "optsEn": [
+   "Moon",
+   "Sun",
+   "Stars",
+   "Fire"
+  ],
+  "optsHi": [
+   "चंद्रमा",
+   "सूर्य",
+   "तारे",
+   "आग"
+  ],
+  "correct": 1,
+  "explainEn": "The Sun is the main natural source of light and heat for the Earth.",
+  "sourceHint": "NCERT Class 5 General Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:54:14Z"
+ },
+ {
+  "id": "q_008c358be7cf6fd7",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which part of a plant does photosynthesis mainly take place?",
+  "qHi": "पौधे के किस भाग में मुख्य रूप से प्रकाश संश्लेषण होता है?",
+  "optsEn": [
+   "Roots",
+   "Flowers",
+   "Leaves",
+   "Seeds"
+  ],
+  "optsHi": [
+   "जड़ें",
+   "फूल",
+   "पत्तियाँ",
+   "बीज"
+  ],
+  "correct": 2,
+  "explainEn": "Leaves contain chlorophyll and are the primary site for photosynthesis in plants.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:54:14Z"
+ },
+ {
+  "id": "q_429aaf4a0c2f1604",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following animals is known to be nocturnal?",
+  "qHi": "निम्नलिखित में से किस जानवर को निशाचर (रात में जागने वाला) माना जाता है?",
+  "optsEn": [
+   "Owl",
+   "Crow",
+   "Cow",
+   "Elephant"
+  ],
+  "optsHi": [
+   "उल्लू",
+   "कौवा",
+   "गाय",
+   "हाथी"
+  ],
+  "correct": 0,
+  "explainEn": "Owls are active during the night and sleep during the day, making them nocturnal animals.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:54:14Z"
+ },
+ {
+  "id": "q_bc919a7466e88e97",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary natural source of energy for the Earth?",
+  "qHi": "पृथ्वी के लिए ऊर्जा का प्राथमिक प्राकृतिक स्रोत क्या है?",
+  "optsEn": [
+   "The Sun",
+   "Wind",
+   "Coal",
+   "Water"
+  ],
+  "optsHi": [
+   "सूर्य",
+   "वायु",
+   "कोयला",
+   "जल"
+  ],
+  "correct": 0,
+  "explainEn": "The Sun provides light and heat energy, which is essential for life on Earth.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:54:45Z"
+ },
+ {
+  "id": "q_d6ee699fc914c6df",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which state in India is famous for the classical dance form Bharatanatyam?",
+  "qHi": "भारत का कौन सा राज्य भरतनाट्यम शास्त्रीय नृत्य शैली के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Kerala",
+   "Tamil Nadu",
+   "Uttar Pradesh",
+   "Odisha"
+  ],
+  "optsHi": [
+   "केरल",
+   "तमिलनाडु",
+   "उत्तर प्रदेश",
+   "ओडिशा"
+  ],
+  "correct": 1,
+  "explainEn": "Bharatanatyam originated in the temples of Tamil Nadu.",
+  "sourceHint": "NCERT Class 5 Art Education",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:54:45Z"
+ },
+ {
+  "id": "q_867922c78ca40c26",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which layer of the atmosphere contains the ozone layer that protects living things from ultraviolet rays?",
+  "qHi": "वायुमंडल की किस परत में ओजोन परत पाई जाती है जो जीवित जीवों को पराबैंगनी किरणों से बचाती है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The ozone layer is located in the lower portion of the stratosphere, roughly 10 to 50 kilometers above Earth.",
+  "sourceHint": "NCERT Class 7 Geography Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:56:27Z"
+ },
+ {
+  "id": "q_dd2a490bd83e6cfb",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which vitamin is primarily produced in the human body when the skin is exposed to sunlight?",
+  "qHi": "मानव शरीर में त्वचा के सूर्य के प्रकाश के संपर्क में आने पर मुख्य रूप से कौन सा विटामिन बनता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Ultraviolet B rays from sunlight interact with cholesterol in the skin to synthesize Vitamin D.",
+  "sourceHint": "NCERT Class 6 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:56:27Z"
+ },
+ {
+  "id": "q_3362ac59edaeb0d9",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the specialized term for the process by which a plant seed begins to grow into a new seedling under suitable conditions?",
+  "qHi": "उपयुक्त परिस्थितियों में पौधे के बीज से नए पौधे के रूप में उगने की प्रक्रिया के लिए विशिष्ट शब्द क्या है?",
+  "optsEn": [
+   "Germination",
+   "Pollination",
+   "Photosynthesis",
+   "Transpiration"
+  ],
+  "optsHi": [
+   "अंकुरण",
+   "परागण",
+   "प्रकाश संश्लेषण",
+   "वाष्पोत्सर्जन"
+  ],
+  "correct": 0,
+  "explainEn": "Germination is the development of a plant from a seed or spore after a period of dormancy.",
+  "sourceHint": "NCERT Class 5 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:56:27Z"
+ },
+ {
+  "id": "q_5c71e217e43cee6c",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional Indian stepwell is known for its spectacular inverted V-shaped architecture and is located in Gujarat?",
+  "qHi": "गुजरात में स्थित किस पारंपरिक भारतीय बावड़ी को उसकी शानदार उल्टे वी-आकार की वास्तुकला के लिए जाना जाता है?",
+  "optsEn": [
+   "Rani ki Vav",
+   "Agrasen ki Baoli",
+   "Chand Baori",
+   "Toorji ka Jhalra"
+  ],
+  "optsHi": [
+   "रानी की वाव",
+   "अग्रसेन की बावली",
+   "चांद बावड़ी",
+   "तूरजी का झालरा"
+  ],
+  "correct": 0,
+  "explainEn": "Rani ki Vav in Patan, Gujarat, is famous for its intricate stepwell architecture and is a UNESCO World Heritage Site.",
+  "sourceHint": "NCERT Class 5 EVS Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:56:27Z"
+ },
+ {
+  "id": "q_b2948b250239d0cf",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which natural calamity is measured using the Richter scale?",
+  "qHi": "किस प्राकृतिक आपदा को रिक्टर पैमाने का उपयोग करके मापा जाता है?",
+  "optsEn": [
+   "Cyclone",
+   "Earthquake",
+   "Flood",
+   "Tsunami"
+  ],
+  "optsHi": [
+   "चक्रवात",
+   "भूकंप",
+   "बाढ़",
+   "सुनामी"
+  ],
+  "correct": 1,
+  "explainEn": "The Richter magnitude scale assigns a number to quantify the energy released by an earthquake.",
+  "sourceHint": "NCERT Class 7 Geography Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:56:27Z"
+ },
+ {
+  "id": "q_d6b8324679d8d6dc",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which part of a flowering plant absorbs water and minerals from the soil?",
+  "qHi": "फूल वाले पौधे का कौन सा भाग मिट्टी से पानी और खनिज लवण सोखता है?",
+  "optsEn": [
+   "Stem",
+   "Leaf",
+   "Root",
+   "Flower"
+  ],
+  "optsHi": [
+   "तना",
+   "पत्ती",
+   "जड़",
+   "फूल"
+  ],
+  "correct": 2,
+  "explainEn": "Roots anchor the plant and absorb water and essential mineral nutrients from the soil.",
+  "sourceHint": "NCERT Class 6 Science Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:56:27Z"
  }
 ]

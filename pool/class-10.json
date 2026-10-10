@@ -7642,5 +7642,425 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-09T22:41:51Z"
+ },
+ {
+  "id": "q_d69c04efd4ede0cd",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which plant hormone promotes cell division?",
+  "qHi": "कौन सा पादप हार्मोन कोशिका विभाजन को बढ़ावा देता है?",
+  "optsEn": [
+   "Auxin",
+   "Gibberellin",
+   "Cytokinin",
+   "Abscisic acid"
+  ],
+  "optsHi": [
+   "ऑक्सिन",
+   "जिबरेलिन",
+   "साइटोकैकिनिन",
+   "एब्सिसिक एसिड"
+  ],
+  "correct": 2,
+  "explainEn": "Cytokinins are plant hormones that promote cell division, particularly in roots and shoots.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:54:20Z"
+ },
+ {
+  "id": "q_e3c1b21a8030acc5",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the process of conversion of a solid directly into gas called?",
+  "qHi": "किसी ठोस के सीधे गैस में बदलने की प्रक्रिया को क्या कहते हैं?",
+  "optsEn": [
+   "Melting",
+   "Sublimation",
+   "Condensation",
+   "Evaporation"
+  ],
+  "optsHi": [
+   "गलनांक",
+   "उर्ध्वपातन",
+   "संघनन",
+   "वाष्पीकरण"
+  ],
+  "correct": 1,
+  "explainEn": "Sublimation is the transition of a substance directly from the solid to the gas state, without passing through the liquid state.",
+  "sourceHint": "NCERT Class 9 Science, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:54:20Z"
+ },
+ {
+  "id": "q_21894b46ef1277d5",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which metal exists in liquid state at room temperature?",
+  "qHi": "कौन सी धातु कमरे के तापमान पर तरल अवस्था में होती है?",
+  "optsEn": [
+   "Iron",
+   "Mercury",
+   "Copper",
+   "Aluminum"
+  ],
+  "optsHi": [
+   "लोहा",
+   "पारा",
+   "तांबा",
+   "एल्युमीनियम"
+  ],
+  "correct": 1,
+  "explainEn": "Mercury is the only metallic element that is liquid at standard room temperature and pressure.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:54:20Z"
+ },
+ {
+  "id": "q_721a0477d320399c",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which mirror is commonly used as a rear-view mirror in vehicles to get an erect and diminished image?",
+  "qHi": "वाहनों में पीछे का दृश्य देखने के लिए सामान्यतः किस दर्पण का उपयोग किया जाता है जो सीधा और छोटा प्रतिबिंब देता है?",
+  "optsEn": [
+   "Concave mirror",
+   "Convex mirror",
+   "Plane mirror",
+   "Cylindrical mirror"
+  ],
+  "optsHi": [
+   "अवतल दर्पण",
+   "उत्तल दर्पण",
+   "समतल दर्पण",
+   "बेलनाकार दर्पण"
+  ],
+  "correct": 1,
+  "explainEn": "Convex mirrors are used as rear-view mirrors because they always give an erect, virtual, and diminished image, enabling a wider field of view.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:55:56Z"
+ },
+ {
+  "id": "q_90ce4ca8e704abc7",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who presided over the historic Lahore session of the Indian National Congress in December 1929?",
+  "qHi": "दिसंबर 1929 में भारतीय राष्ट्रीय कांग्रेस के ऐतिहासिक लाहौर अधिवेशन की अध्यक्षता किसने की थी?",
+  "optsEn": [
+   "Mahatma Gandhi",
+   "Subhas Chandra Bose",
+   "Jawaharlal Nehru",
+   "Sardar Vallabhbhai Patel"
+  ],
+  "optsHi": [
+   "महात्मा गांधी",
+   "सुभाष चंद्र बोस",
+   "जवाहरलाल नेहरू",
+   "सरदार वल्लभभाई पटेल"
+  ],
+  "correct": 2,
+  "explainEn": "Jawaharlal Nehru presided over the Lahore session of the INC in 1929, where the resolution for Purna Swaraj was adopted.",
+  "sourceHint": "NCERT Class 10 History, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:55:56Z"
+ },
+ {
+  "id": "q_51daa1cbf384aeca",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is a non-metallic mineral found in India?",
+  "qHi": "निम्नलिखित में से कौन सा भारत में पाया जाने वाला एक अधातु खनिज है?",
+  "optsEn": [
+   "Iron ore",
+   "Mica",
+   "Copper",
+   "Bauxite"
+  ],
+  "optsHi": [
+   "लोह अयस्क",
+   "अभ्रक",
+   "तांबा",
+   "बॉक्साइट"
+  ],
+  "correct": 1,
+  "explainEn": "Mica is a non-metallic mineral made up of a series of plates or leaf-like sheets, widely found in India.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:55:56Z"
+ },
+ {
+  "id": "q_8766be5ace8a402d",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What term is used to describe the total value of all final goods and services produced within a country during a particular year?",
+  "qHi": "किसी विशेष वर्ष के दौरान देश के भीतर उत्पादित सभी अंतिम वस्तुओं और सेवाओं के कुल मूल्य को क्या कहा जाता है?",
+  "optsEn": [
+   "Gross Domestic Product",
+   "Net National Product",
+   "Gross National Product",
+   "Per Capita Income"
+  ],
+  "optsHi": [
+   " सकल घरेलू उत्पाद",
+   "शुद्ध राष्ट्रीय उत्पाद",
+   "सकल राष्ट्रीय उत्पाद",
+   "प्रति व्यक्ति आय"
+  ],
+  "correct": 0,
+  "explainEn": "Gross Domestic Product (GDP) is the value of all final goods and services produced within the domestic territory of a country during a year.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:55:56Z"
+ },
+ {
+  "id": "q_7201a75eab07e063",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which constitutional amendment added the Fundamental Duties to the Indian Constitution?",
+  "qHi": "किस संविधान संशोधन द्वारा भारतीय संविधान में मौलिक कर्तव्यों को जोड़ा गया था?",
+  "optsEn": [
+   "42nd Amendment",
+   "44th Amendment",
+   "86th Amendment",
+   "73rd Amendment"
+  ],
+  "optsHi": [
+   "42वां संशोधन",
+   "44वां संशोधन",
+   "86वां संशोधन",
+   "73वां संशोधन"
+  ],
+  "correct": 0,
+  "explainEn": "The 42nd Constitutional Amendment Act of 1976 added Part IV-A containing Article 51A, which lists the Fundamental Duties.",
+  "sourceHint": "NCERT Class 10 Democratic Politics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:56:38Z"
+ },
+ {
+  "id": "q_aa9a22dbb41b5079",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which physiographic division of India is the Malwa Plateau primarily located?",
+  "qHi": "मालवा का पठार मुख्य रूप से भारत के किस भौतिक विभाग में स्थित है?",
+  "optsEn": [
+   "Peninsular Plateau",
+   "Northern Plains",
+   "Great Indian Desert",
+   "Coastal Plains"
+  ],
+  "optsHi": [
+   "प्रायद्वीपीय पठार",
+   "उत्तरी मैदान",
+   "विशाल भारतीय मरुस्थल",
+   "तटीय मैदान"
+  ],
+  "correct": 0,
+  "explainEn": "The Malwa plateau is a major part of the Peninsular Plateau region of India, spreading across Madhya Pradesh and Rajasthan.",
+  "sourceHint": "NCERT Class 9/10 Geography - Contemporary India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:56:38Z"
+ },
+ {
+  "id": "q_5daa376f19fb9759",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of chemical reaction is represented by the precipitation of barium sulphate when barium chloride reacts with sodium sulphate?",
+  "qHi": "जब बेरियम क्लोराइड सोडियम सल्फेट के साथ प्रतिक्रिया करता है, तो बेरियम सल्फेट का अवक्षेपण किस प्रकार की रासायनिक प्रतिक्रिया को दर्शाता है?",
+  "optsEn": [
+   "Double displacement reaction",
+   "Combination reaction",
+   "Decomposition reaction",
+   "Displacement reaction"
+  ],
+  "optsHi": [
+   "द्वि-विस्थापन प्रतिक्रिया",
+   "संयोजन प्रतिक्रिया",
+   "अपघटन प्रतिक्रिया",
+   "विस्थापन प्रतिक्रिया"
+  ],
+  "correct": 0,
+  "explainEn": "This is a double displacement reaction where an exchange of ions between the two reactants results in the precipitation of barium sulphate.",
+  "sourceHint": "NCERT Class 10 Science Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:56:38Z"
+ },
+ {
+  "id": "q_8e9109ca7355f46d",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which plant hormone is primarily responsible for cell division and the breaking of seed dormancy?",
+  "qHi": "कौन सा पादप हार्मोन मुख्य रूप से कोशिका विभाजन और बीज की प्रसुप्ति (डॉर्मेंसी) को तोड़ने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Cytokinin",
+   "Auxin",
+   "Gibberellin",
+   "Abscisic acid"
+  ],
+  "optsHi": [
+   "साइटोकाइनिन",
+   "ऑक्सीन",
+   "जिबरेलिन",
+   "एब्सिसिक एसिड"
+  ],
+  "correct": 0,
+  "explainEn": "Cytokinins promote cell division (cytokinesis) and are known to help break seed dormancy in many plants.",
+  "sourceHint": "NCERT Class 10 Science Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:56:38Z"
+ },
+ {
+  "id": "q_5e28ed8190313ba9",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During which phase of the Non-Cooperation Movement did the Chauri Chaura incident take place, leading to its suspension?",
+  "qHi": "असहयोग आंदोलन के किस चरण के दौरान चौरी चौरा की घटना घटी, जिसके कारण इसे स्थगित करना पड़ा?",
+  "optsEn": [
+   "February 1922",
+   "December 1920",
+   "March 1921",
+   "January 1923"
+  ],
+  "optsHi": [
+   "फरवरी 1922",
+   "दिसंबर 1920",
+   "मार्च 1921",
+   "जनवरी 1923"
+  ],
+  "correct": 0,
+  "explainEn": "The Chauri Chaura incident occurred on February 5, 1922, prompting Mahatma Gandhi to call off the Non-Cooperation Movement.",
+  "sourceHint": "NCERT Class 10 History - Nationalism in India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:56:38Z"
+ },
+ {
+  "id": "q_22213f1d75c02abf",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which sector is the largest employer in the Indian economy according to macroeconomic employment trends in recent decades?",
+  "qHi": "हाल के दशकों के व्यापक आर्थिक रोजगार रुझानों के अनुसार भारतीय अर्थव्यवस्था में सबसे बड़ा नियोक्ता कौन सा क्षेत्र है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Quaternary sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "तृतीयक क्षेत्र",
+   "चतुर्थक क्षेत्र"
+  ],
+  "correct": 0,
+  "explainEn": "Agriculture and allied activities forming the primary sector continue to employ the largest share of the workforce in India.",
+  "sourceHint": "NCERT Class 10 Economics - Sectors of the Indian Economy",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:56:38Z"
+ },
+ {
+  "id": "q_0ac004b8eba9eecd",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the phenomenon called when the resistance of certain materials drops to zero at very low temperatures?",
+  "qHi": "बहुत कम तापमान पर कुछ सामग्रियों का प्रतिरोध शून्य हो जाने की परिघटना को क्या कहते हैं?",
+  "optsEn": [
+   "Superconductivity",
+   "Semiconduction",
+   "Piezoelectricity",
+   "Ferromagnetism"
+  ],
+  "optsHi": [
+   "अतिचालकता",
+   "अर्धचालकता",
+   "पीजोइलेक्ट्रिसिटी",
+   "लौहचुंबकत्व"
+  ],
+  "correct": 0,
+  "explainEn": "Superconductivity is a state of matter in which electrical resistance vanishes and magnetic fields are expelled.",
+  "sourceHint": "NCERT Class 10 Science Physics Chapters",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:56:38Z"
+ },
+ {
+  "id": "q_025705aacaa60cd3",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following bodies in India coordinates the implementation of consumer protection councils at the district level?",
+  "qHi": "भारत में निम्नलिखित में से कौन सा निकाय जिला स्तर पर उपभोक्ता संरक्षण परिषदों के कार्यान्वयन का समन्वय करता है?",
+  "optsEn": [
+   "District Consumer Disputes Redressal Commission",
+   "National Consumer Disputes Redressal Commission",
+   "State Consumer Helpline Bureau",
+   "Monopolies and Restrictive Trade Practices Commission"
+  ],
+  "optsHi": [
+   "जिला उपभोक्ता विवाद निवारण आयोग",
+   "राष्ट्रीय उपभोक्ता विवाद निवारण आयोग",
+   "राज्य उपभोक्ता हेल्पलाइन ब्यूरो",
+   "एकाधिकार और प्रतिबंधात्मक व्यापार व्यवहार आयोग"
+  ],
+  "correct": 0,
+  "explainEn": "District Consumer Disputes Redressal Commissions handle consumer grievances and oversee consumer welfare at the district tier.",
+  "sourceHint": "NCERT Class 10 Economics - Consumer Rights",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:56:38Z"
  }
 ]

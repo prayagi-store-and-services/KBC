@@ -8846,5 +8846,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-09T22:41:31Z"
+ },
+ {
+  "id": "q_8c4dc03cba037aea",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of 'NEFT' in banking transactions?",
+  "qHi": "बैंकिंग लेनदेन में 'NEFT' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "Net Economic Fund Transaction",
+   "National Equity Finance Transfer",
+   "New Electronic Financial Technology"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "नेट इकोनॉमिक फंड ट्रांजैक्शन",
+   "नेशनल इक्विटी फाइनेंस ट्रांसफर",
+   "न्यू इलेक्ट्रॉनिक फाइनेंशियल टेक्नोलॉजी"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, a nationwide centralized payment system owned and operated by the Reserve Bank of India.",
+  "sourceHint": "RBI official guidelines on payment systems",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:54:37Z"
+ },
+ {
+  "id": "q_464b09f9f3e06649",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization insures bank deposits in India up to a certain limit?",
+  "qHi": "भारत में कौन सा संगठन एक निश्चित सीमा तक बैंक जमा का बीमा करता है?",
+  "optsEn": [
+   "DICGC",
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank"
+  ],
+  "optsHi": [
+   "DICGC",
+   "सिडबी",
+   "नाबार्ड",
+   "एक्जिम बैंक"
+  ],
+  "correct": 0,
+  "explainEn": "Deposit Insurance and Credit Guarantee Corporation (DICGC), a wholly owned subsidiary of RBI, insures all bank deposits such as savings, fixed, current, and recurring deposits.",
+  "sourceHint": "DICGC Act, 1961",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:54:37Z"
+ },
+ {
+  "id": "q_d75efe7fa2575593",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is NOT a function of the Reserve Bank of India?",
+  "qHi": "निम्नलिखित में से कौन सा भारतीय रिजर्व बैंक का कार्य नहीं है?",
+  "optsEn": [
+   "Issuing coins of all denominations",
+   "Acting as banker to the government",
+   "Regulating the issue of bank notes",
+   "Formulating monetary policy"
+  ],
+  "optsHi": [
+   "सभी मूल्यवर्ग के सिक्कों का जारी करना",
+   "सरकार के बैंकर के रूप में कार्य करना",
+   "बैंक नोटों के निर्गमन को विनियमित करना",
+   "मौद्रिक नीति तैयार करना"
+  ],
+  "correct": 0,
+  "explainEn": "While the RBI puts coins into circulation, coins and one-rupee notes are issued by the Ministry of Finance, Government of India.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:54:37Z"
+ },
+ {
+  "id": "q_3cf453bf304556f0",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum number of digits in an Indian Financial System Code (IFSC)?",
+  "qHi": "भारतीय वित्तीय प्रणाली कोड (IFSC) में अधिकतम अंकों/अक्षरों की संख्या कितनी होती है?",
+  "optsEn": [
+   "11",
+   "10",
+   "12",
+   "9"
+  ],
+  "optsHi": [
+   "11",
+   "10",
+   "12",
+   "9"
+  ],
+  "correct": 0,
+  "explainEn": "An IFSC is an 11-character alphanumeric code used for online fund transfer transactions through NEFT, RTGS, and IMPS.",
+  "sourceHint": "RBI payment systems documentation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:54:37Z"
+ },
+ {
+  "id": "q_4f981e69b68aaa36",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which term is used to describe the interest rate at which the Reserve Bank of India absorbs liquidity from commercial banks?",
+  "qHi": "उस ब्याज दर को क्या कहा जाता है जिस पर भारतीय रिजर्व बैंक वाणिज्यिक बैंकों से तरलता को अवशोषित करता है?",
+  "optsEn": [
+   "Repo Rate",
+   "Bank Rate",
+   "Reverse Repo Rate",
+   "Marginal Standing Facility Rate"
+  ],
+  "optsHi": [
+   "रेपो दर",
+   "बैंक दर",
+   "रिवर्स रेपो दर",
+   "सीमांत स्थायी सुविधा दर"
+  ],
+  "correct": 2,
+  "explainEn": "Reverse Repo Rate is the rate at which the RBI borrows money from commercial banks or absorbs liquidity from the banking system.",
+  "sourceHint": "RBI Monetary Policy Report and Economics Textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:56:19Z"
+ },
+ {
+  "id": "q_85635dd15f946cc3",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Priority Sector Lending (PSL) guidelines in India, what is the mandatory target for lending to the agricultural sector for domestic commercial banks?",
+  "qHi": "भारत में प्राथमिकता प्राप्त क्षेत्र को ऋण (PSL) दिशानिर्देशों के तहत, घरेलू वाणिज्यिक बैंकों के लिए कृषि क्षेत्र को ऋण देने का अनिवार्य लक्ष्य क्या है?",
+  "optsEn": [
+   "18 percent of Adjusted Net Bank Credit",
+   "10 percent of Adjusted Net Bank Credit",
+   "7.5 percent of Adjusted Net Bank Credit",
+   "12 percent of Adjusted Net Bank Credit"
+  ],
+  "optsHi": [
+   "समायोजित शुद्ध बैंक ऋण का 18 प्रतिशत",
+   "समायोजित शुद्ध बैंक ऋण का 10 प्रतिशत",
+   "समायोजित शुद्ध बैंक ऋण का 7.5 प्रतिशत",
+   "समायोजित शुद्ध बैंक ऋण का 12 प्रतिशत"
+  ],
+  "correct": 0,
+  "explainEn": "Domestic commercial banks and foreign banks with 20 branches and above are required to achieve a target of 18 percent of ANBC towards agriculture.",
+  "sourceHint": "RBI Master Directions on Priority Sector Lending",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:56:19Z"
+ },
+ {
+  "id": "q_ffe33d25e500125a",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'C' stand for in the CAMELS rating framework used by central banks to evaluate financial institutions?",
+  "qHi": "केंद्रीय बैंकों द्वारा वित्तीय संस्थाओं का मूल्यांकन करने के लिए उपयोग किए जाने वाले CAMELS रेटिंग ढांचे में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Credit",
+   "Capital",
+   "Currency",
+   "Collateral"
+  ],
+  "optsHi": [
+   "क्रेडिट",
+   "पूंजी",
+   "मुद्रा",
+   "संपार्श्विक"
+  ],
+  "correct": 1,
+  "explainEn": "In the CAMELS rating system, 'C' stands for Capital adequacy, followed by Asset quality, Management, Earnings, Liquidity, and Sensitivity.",
+  "sourceHint": "RBI Supervisory Framework and Banking Manuals",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:56:19Z"
+ },
+ {
+  "id": "q_55e74bca9ceab2f1",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following acts governs the establishment and regulation of Regional Rural Banks (RRBs) in India?",
+  "qHi": "निम्नलिखित में से कौन सा अधिनियम भारत में क्षेत्रीय ग्रामीण बैंकों (RRBs) की स्थापना और विनियमन को नियंत्रित करता है?",
+  "optsEn": [
+   "Banking Regulation Act, 1949",
+   "Reserve Bank of India Act, 1934",
+   "Regional Rural Banks Act, 1976",
+   "Companies Act, 2013"
+  ],
+  "optsHi": [
+   "बैंकिंग विनियमन अधिनियम, 1949",
+   "भारतीय रिजर्व बैंक अधिनियम, 1934",
+   "क्षेत्रीय ग्रामीण बैंक अधिनियम, 1976",
+   "कंपनियां अधिनियम, 2013"
+  ],
+  "correct": 2,
+  "explainEn": "Regional Rural Banks were established under the provisions of the Regional Rural Banks Act, 1976 to develop the rural economy.",
+  "sourceHint": "NABARD and RBI Official Publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:56:19Z"
+ },
+ {
+  "id": "q_fae02ba8a9c49828",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which financial market instrument represents a short-term unsecured promissory note issued by corporations in India?",
+  "qHi": "कौन सा वित्तीय बाजार साधन भारत में निगमों द्वारा जारी अल्पावधि असुरक्षित promissory note का प्रतिनिधित्व करता है?",
+  "optsEn": [
+   "Treasury Bill",
+   "Commercial Paper",
+   "Certificate of Deposit",
+   "Government Security"
+  ],
+  "optsHi": [
+   "ट्रेजरी बिल",
+   "कमर्शियल पेपर",
+   "प्रमाण पत्र जमा (सर्टिफिकेट ऑफ डिपॉजिट)",
+   "सरकारी प्रतिभूति"
+  ],
+  "correct": 1,
+  "explainEn": "Commercial Paper (CP) is an unsecured money market instrument issued in the form of a promissory note by highly rated corporate bodies.",
+  "sourceHint": "RBI Guidelines on Money Market Instruments",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T05:56:19Z"
  }
 ]
