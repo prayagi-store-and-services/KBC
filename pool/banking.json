@@ -9098,5 +9098,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-10T05:56:19Z"
+ },
+ {
+  "id": "q_120c12c6f15c92a3",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of 'KYC' as used in banking?",
+  "qHi": "बैंकिंग में प्रयुक्त 'KYC' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Know Your Customer",
+   "Keep Your Cash",
+   "Key Yield Calculation",
+   "Knowledge Yearly Census"
+  ],
+  "optsHi": [
+   "नो योर कस्टमर",
+   "कीप योर कैश",
+   "की यील्ड कैलकुलेशन",
+   "नॉलेज इयरली सेंसस"
+  ],
+  "correct": 0,
+  "explainEn": "KYC stands for Know Your Customer, a mandatory process by financial institutions to verify the identity of their clients.",
+  "sourceHint": "RBI Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:34:03Z"
+ },
+ {
+  "id": "q_590dde480a444fa8",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which type of bank account generally offers no interest to the account holder?",
+  "qHi": "किस प्रकार का बैंक खाता आमतौर पर खाता धारक को कोई ब्याज नहीं देता है?",
+  "optsEn": [
+   "Savings Account",
+   "Fixed Deposit Account",
+   "Current Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "बचत खाता",
+   "सावधि जमा खाता",
+   "चालू खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 2,
+  "explainEn": "Current accounts are designed for business purposes and typically do not offer any interest on the deposits.",
+  "sourceHint": "NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:34:03Z"
+ },
+ {
+  "id": "q_180c8cebb8e445f3",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a development bank in India?",
+  "qHi": "निम्नलिखित में से कौन सा भारत में एक विकास बैंक है?",
+  "optsEn": [
+   "SIDBI",
+   "State Bank of India",
+   "Bank of Baroda",
+   "IndusInd Bank"
+  ],
+  "optsHi": [
+   "सिडबी",
+   "भारतीय स्टेट बैंक",
+   "बैंक ऑफ बड़ौदा",
+   "इंडसइंड बैंक"
+  ],
+  "correct": 0,
+  "explainEn": "SIDBI (Small Industries Development Bank of India) is the principal financial institution for the promotion and financing of MSMEs.",
+  "sourceHint": "SIDBI Act, 1989",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:34:03Z"
+ },
+ {
+  "id": "q_87ecc5316b38c853",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum limit of digits in an Indian Financial System Code (IFSC)?",
+  "qHi": "भारतीय वित्तीय प्रणाली कोड (IFSC) में अंकों की अधिकतम सीमा कितनी होती है?",
+  "optsEn": [
+   "9 digits",
+   "10 digits",
+   "11 digits",
+   "12 digits"
+  ],
+  "optsHi": [
+   "9 अंक",
+   "10 अंक",
+   "11 अंक",
+   "12 अंक"
+  ],
+  "correct": 2,
+  "explainEn": "An IFSC is an 11-character alphanumeric code that uniquely identifies a bank branch participating in NEFT or RTGS.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:34:03Z"
+ },
+ {
+  "id": "q_dc40977b72a2f842",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which financial institution in India is the primary regulator for housing finance companies?",
+  "qHi": "भारत में कौन सा वित्तीय संस्थान आवास वित्त कंपनियों के लिए प्राथमिक नियामक है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "National Housing Bank",
+   "Securities and Exchange Board of India",
+   "Small Industries Development Bank of India"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "राष्ट्रीय आवास बैंक",
+   "भारतीय प्रतिभूति and विनिमय बोर्ड",
+   "भारतीय लघु उद्योग विकास बैंक"
+  ],
+  "correct": 0,
+  "explainEn": "Regulation of housing finance companies was transferred from the National Housing Bank to the Reserve Bank of India in 2019.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:35:44Z"
+ },
+ {
+  "id": "q_3f043d5387920cb2",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the term 'Repo Rate' stand for in the Indian banking system?",
+  "qHi": "भारतीय बैंकिंग प्रणाली में 'रेपो रेट' शब्द का क्या अर्थ है?",
+  "optsEn": [
+   "Rate at which commercial banks lend to the central bank",
+   "Rate at which the central bank lends short-term funds to commercial banks",
+   "Rate of interest charged on retail housing loans",
+   "Return on government securities held by commercial banks"
+  ],
+  "optsHi": [
+   "वह दर जिस पर वाणिज्यिक बैंक केंद्रीय बैंक को ऋण देते हैं",
+   "वह दर जिस पर केंद्रीय बैंक वाणिज्यिक बैंकों को अल्पकालिक ऋण देता है",
+   "खुदरा आवास ऋण पर ली जाने वाली ब्याज दर",
+   "वाणिज्यिक बैंकों द्वारा रखी गई सरकारी प्रतिभूतियों पर रिटर्न"
+  ],
+  "correct": 1,
+  "explainEn": "Repo rate is the rate at which the Reserve Bank of India lends money to commercial banks against government securities.",
+  "sourceHint": "RBI Monetary Policy Framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:35:44Z"
+ },
+ {
+  "id": "q_1001102e060554c2",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of the Indian banking sector, what is the full form of 'NEFT'?",
+  "qHi": "भारतीय बैंकिंग क्षेत्र के संदर्भ में, 'NEFT' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "National Equity Funding Trust",
+   "Net Electronic Finance Transfer",
+   "National Economy Fiscal Transaction"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "नेशनल इक्विटी फंडिंग ट्रस्ट",
+   "नेट इलेक्ट्रॉनिक फाइनेंस ट्रांसफर",
+   "नेशनल इकोनॉमी फिस्कल ट्रांजैक्शन"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, a nation-wide centralized payment system owned and operated by the RBI.",
+  "sourceHint": "RBI Payment Systems",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:35:44Z"
+ },
+ {
+  "id": "q_3596912afa34932c",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following entities is responsible for calculating the Gross Domestic Product (GDP) in India?",
+  "qHi": "निम्नलिखित में से कौन सी संस्था भारत में सकल घरेलू उत्पाद (GDP) की गणना के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "NITI Aayog",
+   "Ministry of Statistics and Programme Implementation",
+   "Ministry of Finance"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "नीति आयोग",
+   "सांख्यिकी and कार्यक्रम कार्यान्वयन मंत्रालय",
+   "वित्त मंत्रालय"
+  ],
+  "correct": 2,
+  "explainEn": "The National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation is responsible for GDP estimation.",
+  "sourceHint": "Ministry of Statistics and Programme Implementation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:35:44Z"
+ },
+ {
+  "id": "q_67e9a2ef4da272cd",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which financial market instrument is also known as 'Zero Coupon Bonds'?",
+  "qHi": "किस वित्तीय बाजार साधन को 'जीरो कूपन बॉन्ड' के रूप में भी जाना जाता है?",
+  "optsEn": [
+   "Treasury Bills",
+   "Commercial Paper",
+   "Certificate of Deposit",
+   "Equity Shares"
+  ],
+  "optsHi": [
+   "Treasury Bills (राजकोषीय बिल)",
+   "Commercial Paper (वाणिज्यिक पत्र)",
+   "Certificate of Deposit (जमा प्रमाण पत्र)",
+   "Equity Shares (इक्विटी शेयर)"
+  ],
+  "correct": 0,
+  "explainEn": "Treasury bills are issued at a discount and redeemed at par, earning them the classification of zero-coupon bonds.",
+  "sourceHint": "RBI Financial Markets",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:35:44Z"
+ },
+ {
+  "id": "q_28f0c921360ff0b0",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the capital adequacy framework known as 'LAF' used by the RBI?",
+  "qHi": "RBI द्वारा उपयोग किए जाने वाले 'LAF' पूंजी पर्याप्तता ढांचे में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liquidity",
+   "Leverage",
+   "Liability",
+   "Lending"
+  ],
+  "optsHi": [
+   "Liquidity (तरलता)",
+   "Leverage (उत्तोलन)",
+   "Liability (दायित्व)",
+   "Lending (ऋण देना)"
+  ],
+  "correct": 0,
+  "explainEn": "LAF stands for Liquidity Adjustment Facility, which is used by the RBI to aid in monetary policy implementation.",
+  "sourceHint": "RBI Glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:35:44Z"
+ },
+ {
+  "id": "q_ee8993897e16afb4",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque becomes a 'stale cheque' after the expiration of how many months from the date of issue?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, जारी करने की तारीख से कितने महीने बीत जाने के बाद एक चेक 'स्टेल चेक' बन जाता है?",
+  "optsEn": [
+   "One month",
+   "Three months",
+   "Six months",
+   "Twelve months"
+  ],
+  "optsHi": [
+   "एक महीना",
+   "तीन महीने",
+   "छह महीने",
+   "बारह महीने"
+  ],
+  "correct": 1,
+  "explainEn": "RBI guidelines mandate that a cheque is valid for presentation for three months from the date of its issuance, after which it becomes stale.",
+  "sourceHint": "Reserve Bank of India Circulars",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:35:44Z"
  }
 ]

@@ -6550,5 +6550,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-10T05:54:41Z"
+ },
+ {
+  "id": "q_d6473a3722cd82f7",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organ in the human body primarily filters waste from the blood to produce urine?",
+  "qHi": "मानव शरीर में कौन सा अंग मुख्य रूप से मूत्र का उत्पादन करने के लिए रक्त से अपशिष्ट को फ़िल्टर करता है?",
+  "optsEn": [
+   "Heart",
+   "Lungs",
+   "Kidneys",
+   "Liver"
+  ],
+  "optsHi": [
+   "हृदय",
+   "फेफड़े",
+   "गुर्दे",
+   "यकृत"
+  ],
+  "correct": 2,
+  "explainEn": "The kidneys are bean-shaped organs responsible for filtering blood and producing urine.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:34:07Z"
+ },
+ {
+  "id": "q_d8a2dddc95c9e54c",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the ancient Indian treatise on statecraft titled 'Arthashastra'?",
+  "qHi": "'अर्थशास्त्र' नामक प्राचीन भारतीय राज्यकला ग्रंथ किसने लिखा था?",
+  "optsEn": [
+   "Kalidasa",
+   "Kautilya",
+   "Valmiki",
+   "Tulsidas"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "कौटिल्य",
+   "वाल्मीकि",
+   "तुलसीदास"
+  ],
+  "correct": 1,
+  "explainEn": "Arthashastra was authored by Kautilya, also known as Chanakya.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:35:48Z"
  }
 ]

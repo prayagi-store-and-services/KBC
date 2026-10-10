@@ -5542,5 +5542,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-10T05:56:33Z"
+ },
+ {
+  "id": "q_505d5757d77040ef",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the minimum age required for a citizen to vote in Lok Sabha elections in India?",
+  "qHi": "भारत में लोकसभा चुनाव में मतदान करने के लिए नागरिक की न्यूनतम आयु कितनी होनी चाहिए?",
+  "optsEn": [
+   "18 years",
+   "21 years",
+   "25 years",
+   "35 years"
+  ],
+  "optsHi": [
+   "18 वर्ष",
+   "21 वर्ष",
+   "25 वर्ष",
+   "35 वर्ष"
+  ],
+  "correct": 0,
+  "explainEn": "According to the Indian Constitution, every citizen who is 18 years of age or older is eligible to vote.",
+  "sourceHint": "Constitution of India, Article 326",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:34:15Z"
+ },
+ {
+  "id": "q_1c9af3398e4bfccb",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which planet in our solar system has the most prominent system of rings made of ice and dust?",
+  "qHi": "हमारे सौरमंडल में किस ग्रह पर बर्फ और धूल से बने छल्लों की सबसे प्रमुख प्रणाली है?",
+  "optsEn": [
+   "Mars",
+   "Jupiter",
+   "Saturn",
+   "Venus"
+  ],
+  "optsHi": [
+   "मंगल",
+   "बृहस्पति",
+   "शनि",
+   "शुक्र"
+  ],
+  "correct": 2,
+  "explainEn": "Saturn is well-known for its large and prominent ring system, which is easily visible through a telescope and consists mostly of ice particles and rocky debris.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 17",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:35:58Z"
+ },
+ {
+  "id": "q_8baddd38e621fe5f",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which crop is classified as a Kharif crop grown during the rainy season in India?",
+  "qHi": "भारत में वर्षा ऋतु में उगाई जाने वाली कौन सी फसल खरीफ की फसल के रूप में वर्गीकृत है?",
+  "optsEn": [
+   "Wheat",
+   "Paddy",
+   "Gram",
+   "Peas"
+  ],
+  "optsHi": [
+   "गेहूं",
+   "धान",
+   "चना",
+   "मटर"
+  ],
+  "correct": 1,
+  "explainEn": "Paddy requires a lot of water and is sown in the rainy season (Kharif season) in India, unlike wheat which is a Rabi crop.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:35:58Z"
+ },
+ {
+  "id": "q_7075956c8ff76a20",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of force is friction, which acts between surfaces in contact?",
+  "qHi": "घर्षण किस प्रकार का बल है, जो संपर्क में आने वाली सतहों के बीच कार्य करता है?",
+  "optsEn": [
+   "Magnetic force",
+   "Electrostatic force",
+   "Contact force",
+   "Gravitational force"
+  ],
+  "optsHi": [
+   "चुंबकीय बल",
+   "स्थिरवैद्युत बल",
+   "संपर्क बल",
+   "गुरुत्वाकर्षण बल"
+  ],
+  "correct": 2,
+  "explainEn": "Friction is a contact force because it arises only when two surfaces are physically touching each other.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:35:58Z"
+ },
+ {
+  "id": "q_e2b0def9a8dbe578",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which synthetic fibre is prepared using coal, water, and air, and was the first fully synthetic fibre?",
+  "qHi": "कोयले, पानी और हवा का उपयोग करके कौन सा सिंथेटिक रेशा तैयार किया गया था, और यह पहला पूरी तरह से सिंथेटिक रेशा था?",
+  "optsEn": [
+   "Rayon",
+   "Nylon",
+   "Polリエステル",
+   "Acrylic"
+  ],
+  "optsHi": [
+   "रेयान",
+   "नायलॉन",
+   "पॉलिएस्टर",
+   "एक्रिलिक"
+  ],
+  "correct": 1,
+  "explainEn": "Nylon was fully prepared in 1935 without using any natural raw material from plant or animal origin.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:35:58Z"
+ },
+ {
+  "id": "q_6de63587b9f8b26e",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which metal is stored in kerosene because it reacts very vigorously with oxygen and moisture?",
+  "qHi": "किस धातु को मिट्टी के तेल (केरोसिन) में रखा जाता है क्योंकि यह ऑक्सीजन और नमी के साथ बहुत तेजी से प्रतिक्रिया करती है?",
+  "optsEn": [
+   "Iron",
+   "Copper",
+   "Sodium",
+   "Gold"
+  ],
+  "optsHi": [
+   "लोहा",
+   "तांबा",
+   "सोडियम",
+   "सोना"
+  ],
+  "correct": 2,
+  "explainEn": "Sodium is a highly reactive metal that catches fire if exposed to air and moisture, hence it is stored in kerosene.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:35:58Z"
+ },
+ {
+  "id": "q_e897ef0d630d769b",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under which article of the Indian Constitution is the Right to Education guaranteed as a fundamental right for children aged 6 to 14 years?",
+  "qHi": "भारतीय संविधान के किस अनुच्छेद के तहत 6 से 14 वर्ष के बच्चों के लिए शिक्षा के अधिकार को मौलिक अधिकार के रूप में गारंटी दी गई है?",
+  "optsEn": [
+   "Article 14",
+   "Article 19",
+   "Article 21A",
+   "Article 32"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14",
+   "अनुच्छेद 19",
+   "अनुच्छेद 21क",
+   "अनुच्छेद 32"
+  ],
+  "correct": 2,
+  "explainEn": "Article 21A was inserted by the 86th Constitutional Amendment Act, 2002, making free and compulsory education a fundamental right for children aged 6 to 14.",
+  "sourceHint": "Constitution of India and NCERT Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:35:58Z"
+ },
+ {
+  "id": "q_0a411ef9d2de25d3",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which soil type, formed from the weathering of lava rocks, is best suited for growing cotton?",
+  "qHi": "लावा चट्टानों के अपक्षय से बनी कौन सी मिट्टी कपास उगाने के लिए सबसे उपयुक्त है?",
+  "optsEn": [
+   "Alluvial soil",
+   "Black soil",
+   "Laterite soil",
+   "Desert soil"
+  ],
+  "optsHi": [
+   "जलोढ़ मृदा",
+   "काली मृदा",
+   "लैटेराइट मृदा",
+   "मरुस्थलीय मृदा"
+  ],
+  "correct": 1,
+  "explainEn": "Black soil, also known as regur soil, is ideal for growing cotton due to its high moisture retention capacity.",
+  "sourceHint": "NCERT Class 8 Geography, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:35:58Z"
+ },
+ {
+  "id": "q_dc00c034d76db13a",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What name is given to an underground source of water held under pressure between impermeable rocks?",
+  "qHi": "अपरगम्य चट्टानों के बीच दबाव में रखे गए भूमिगत जल स्रोत को क्या नाम दिया जाता है?",
+  "optsEn": [
+   "Aquifer",
+   "Artian well",
+   "Reservoir",
+   "Estuary"
+  ],
+  "optsHi": [
+   "जलभृत (एक्विफर)",
+   "आर्टिजन कूप",
+   "जलाशय",
+   "मुहाना"
+  ],
+  "correct": 0,
+  "explainEn": "An aquifer is a body of permeable rock that can contain or transmit groundwater.",
+  "sourceHint": "NCERT Class 8 Geography, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:35:58Z"
  }
 ]

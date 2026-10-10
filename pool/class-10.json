@@ -8062,5 +8062,453 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-10T05:56:38Z"
+ },
+ {
+  "id": "q_d4b278dd1097a145",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which state is the Corbett National Park situated?",
+  "qHi": "जिम कॉर्बेट राष्ट्रीय उद्यान किस राज्य में स्थित है?",
+  "optsEn": [
+   "Uttarakhand",
+   "Rajasthan",
+   "Madhya Pradesh",
+   "Assam"
+  ],
+  "optsHi": [
+   "उत्तराखंड",
+   "राजस्थान",
+   "मध्य प्रदेश",
+   "असम"
+  ],
+  "correct": 0,
+  "explainEn": "Jim Corbett National Park is located in the Nainital district of Uttarakhand.",
+  "sourceHint": "NCERT Social Science Class 10, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:33:45Z"
+ },
+ {
+  "id": "q_a7abf5f049532af5",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which sector is the largest employer in India according to economic structure studies?",
+  "qHi": "आर्थिक संरचना अध्ययन के अनुसार भारत में सबसे बड़ा नियोक्ता क्षेत्र कौन सा है?",
+  "optsEn": [
+   "Industrial sector",
+   "Service sector",
+   "Agricultural sector",
+   "Information technology sector"
+  ],
+  "optsHi": [
+   "औद्योगिक क्षेत्र",
+   "सेवा क्षेत्र",
+   "कृषि क्षेत्र",
+   "सूचना प्रौद्योगिकी क्षेत्र"
+  ],
+  "correct": 2,
+  "explainEn": "Agriculture remains the largest employment-providing sector in the Indian economy.",
+  "sourceHint": "NCERT Economics Class 10, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:33:45Z"
+ },
+ {
+  "id": "q_5246fda1ef7ffdb6",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which metal is obtained by the electrolytic reduction of its molten chloride during the extraction process?",
+  "qHi": "निष्कर्षण प्रक्रिया के दौरान इसके गलित क्लोराइड के विद्युत अपघट्य अपचयन द्वारा कौन सी धातु प्राप्त की जाती है?",
+  "optsEn": [
+   "Iron",
+   "Sodium",
+   "Copper",
+   "Zinc"
+  ],
+  "optsHi": [
+   "लोहा",
+   "सोडियम",
+   "तांबा",
+   "जस्ता"
+  ],
+  "correct": 1,
+  "explainEn": "Highly reactive metals like sodium, magnesium, and calcium are obtained by the electrolytic reduction of their molten chlorides.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:35:22Z"
+ },
+ {
+  "id": "q_6a8be37ffd4db52a",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which plant part does gaseous exchange take place primarily through tiny pores during photosynthesis and respiration?",
+  "qHi": "प्रकाश संश्लेषण और श्वसन के दौरान मुख्य रूप से छोटे छिद्रों के माध्यम से गैसीय आदान-प्रदान पौधे के किस भाग में होता है?",
+  "optsEn": [
+   "Roots",
+   "Stomata on leaves",
+   "Xylem vessels",
+   "Seed coat"
+  ],
+  "optsHi": [
+   "जड़ें",
+   "पत्तियों पर रंध्र",
+   "जाइलम वाहिकाएं",
+   "बीज आवरण"
+  ],
+  "correct": 1,
+  "explainEn": "Stomata are tiny pores present on the surface of leaves through which gaseous exchange takes place in plants.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:35:22Z"
+ },
+ {
+  "id": "q_d318b32981793fc6",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the pH range of a neutral aqueous solution at standard room temperature?",
+  "qHi": "मानक कमरे के तापमान पर एक उदासीन जलीय घोल की पीएच (pH) सीमा क्या होती है?",
+  "optsEn": [
+   "Less than 7",
+   "Exactly 7",
+   "Between 8 and 14",
+   "Between 0 and 5"
+  ],
+  "optsHi": [
+   "7 से कम",
+   "ठीक 7",
+   "8 और 14 के बीच",
+   "0 और 5 के बीच"
+  ],
+  "correct": 1,
+  "explainEn": "A pH value of 7 represents a neutral solution, neither acidic nor basic at standard conditions.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:35:22Z"
+ },
+ {
+  "id": "q_73f647234929b6da",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which soil type is formed by the deposition of silt brought down by rivers and is most fertile in the Northern Plains of India?",
+  "qHi": "नदियों द्वारा लाई गई गाद के निक्षेपण से कौन सी मिट्टी बनती है और भारत के उत्तरी मैदानों में सबसे उपजाऊ होती है?",
+  "optsEn": [
+   "Black soil",
+   "Laterite soil",
+   "Alluvial soil",
+   "Arid soil"
+  ],
+  "optsHi": [
+   "काली मिट्टी",
+   "लैटेराइट मिट्टी",
+   "जलोढ़ मिट्टी",
+   "शुष्क मिट्टी"
+  ],
+  "correct": 2,
+  "explainEn": "Alluvial soil is formed by the deposition of sediments by rivers and covers the entire northern plains of India.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:35:22Z"
+ },
+ {
+  "id": "q_f92b9a5fdf00c108",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which sector is traditionally termed as the primary sector in economic activities?",
+  "qHi": "आर्थिक गतिविधियों में पारंपरिक रूप से किस क्षेत्र को प्राथमिक क्षेत्र कहा जाता है?",
+  "optsEn": [
+   "Agriculture and related activities",
+   "Banking and communication",
+   "Manufacturing and construction",
+   "Information technology"
+  ],
+  "optsHi": [
+   "कृषि और संबंधित गतिविधियाँ",
+   "बैंकिंग और संचार",
+   "विनिर्माण और निर्माण",
+   "सूचना प्रौद्योगिकी"
+  ],
+  "correct": 0,
+  "explainEn": "The primary sector includes agriculture, forestry, fishing, and mining, which directly use natural resources.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:35:22Z"
+ },
+ {
+  "id": "q_7a8f33b89b439623",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under which type of resource can fossil fuels like coal and petroleum be classified?",
+  "qHi": "कोयला और पेट्रोलियम जैसे जीवाश्म ईंधन को किस प्रकार के संसाधन के रूप में वर्गीकृत किया जा सकता है?",
+  "optsEn": [
+   "Biotic resource",
+   "Renewable resource",
+   "Non-renewable resource",
+   "Potential resource"
+  ],
+  "optsHi": [
+   "जैविक संसाधन",
+   "नवीकरणीय संसाधन",
+   "अनवीकरणीय संसाधन",
+   "संभाव्य संसाधन"
+  ],
+  "correct": 2,
+  "explainEn": "Fossil fuels take millions of years to form and are exhaustible, hence classified as non-renewable resources.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:35:22Z"
+ },
+ {
+  "id": "q_341b3d02c1de07b3",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the common term for a power-sharing arrangement where power is distributed among different organs of government, such as the legislature, executive, and judiciary?",
+  "qHi": "सरकार के विभिन्न अंगों, जैसे विधायिका, कार्यपालिका और न्यायपालिका के बीच सत्ता के वितरण वाली व्यवस्था को सामान्यतः क्या कहा जाता है?",
+  "optsEn": [
+   "Vertical division of power",
+   "Horizontal division of power",
+   "Unitary government system",
+   "Community government"
+  ],
+  "optsHi": [
+   "सत्ता का ऊर्ध्वाधर वितरण",
+   "सत्ता का क्षैतिज वितरण",
+   "एकात्मक सरकार प्रणाली",
+   "सामुदायिक सरकार"
+  ],
+  "correct": 1,
+  "explainEn": "Power sharing among different organs of government like the legislature, executive, and judiciary is called horizontal distribution of power.",
+  "sourceHint": "NCERT Class 10 Civics, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:35:22Z"
+ },
+ {
+  "id": "q_eb1a2c1837ecafa1",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which constitutional amendment fundamentally restricted the power of judicial review during the Emergency period by curtailing the jurisdiction of the Supreme Court and High Courts?",
+  "qHi": "आपातकाल के दौरान किस संवैधानिक संशोधन ने सर्वोच्च न्यायालय और उच्च न्यायालयों के क्षेत्राधिकार को सीमित करके न्यायिक समीक्षा की शक्ति को मौलिक रूप से प्रतिबंधित किया था?",
+  "optsEn": [
+   "24th Amendment",
+   "42nd Amendment",
+   "44th Amendment",
+   "52nd Amendment"
+  ],
+  "optsHi": [
+   "24वां संशोधन",
+   "42वां संशोधन",
+   "44वां संशोधन",
+   "52वां संशोधन"
+  ],
+  "correct": 1,
+  "explainEn": "The 42nd Amendment Act of 1976 made extensive changes to the Constitution, including placing restrictions on the writ jurisdiction and judicial review powers of courts.",
+  "sourceHint": "NCERT Class 10 Political Science (Democratic Politics)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:36:04Z"
+ },
+ {
+  "id": "q_9475f582969bc960",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific treaty established the European Union by integrating economic, monetary, and political frameworks among member states?",
+  "qHi": "किस विशिष्ट संधि ने सदस्य राज्यों के बीच आर्थिक, मौद्रिक और राजनीतिक ढाँचों को एकीकृत करके यूरोपीय संघ की स्थापना की थी?",
+  "optsEn": [
+   "Treaty of Rome",
+   "Maastricht Treaty",
+   "Treaty of Lisbon",
+   "Schengen Agreement"
+  ],
+  "optsHi": [
+   "रोम की संधि",
+   "मास्ट्रिच संधि",
+   "लिस्बन की संधि",
+   "शेंगेन समझौता"
+  ],
+  "correct": 1,
+  "explainEn": "The Maastricht Treaty, signed in 1992, officially created the European Union and paved the way for the single European currency, the euro.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:36:04Z"
+ },
+ {
+  "id": "q_7cbea4f0366ef76d",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In human physiology, which region of the nephron is primarily responsible for the facultative reabsorption of water regulated by antidiuretic hormone (ADH)?",
+  "qHi": "मानव शरीरक्रिया विज्ञान में, नेफ्रॉन का कौन सा क्षेत्र मुख्य रूप से एंटीडियूरेटिक हार्मोन (ADH) द्वारा विनियमित पानी के वैकल्पिक पुनअवशोषण के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Proximal convoluted tubule",
+   "Descending limb of loop of Henle",
+   "Distal convoluted tubule and collecting duct",
+   "Bowman's capsule"
+  ],
+  "optsHi": [
+   "समीपस्थ संवलित नलिका",
+   "हेनले के लूप की अवरोही भुजा",
+   "दूरस्थ संवलित नलिका और संग्राहक नलिका",
+   "बाउमैन कैप्सूल"
+  ],
+  "correct": 2,
+  "explainEn": "The distal convoluted tubule and collecting ducts are permeable to water only in the presence of ADH, allowing facultative reabsorption.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6 (Life Processes)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:36:04Z"
+ },
+ {
+  "id": "q_086e7b0310496971",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the Non-Cooperation Movement, which region in present-day Andhra Pradesh witnessed an intense peasant rebellion led by Alluri Sitarama Raju?",
+  "qHi": "असहयोग आंदोलन के दौरान, वर्तमान आंध्र प्रदेश के किस क्षेत्र में अल्लूरी सीताराम राजू के नेतृत्व में एक तीव्र किसान विद्रोह देखा गया था?",
+  "optsEn": [
+   "Telangana plateau",
+   "Gudem Hills",
+   "Rayalaseema region",
+   "Nellore coastal belt"
+  ],
+  "optsHi": [
+   "तेलंगाना पठार",
+   "गुडेम पहाड़ियाँ",
+   "रायलसीमा क्षेत्र",
+   "नेल्लोर तटीय पट्टी"
+  ],
+  "correct": 1,
+  "explainEn": "Alluri Sitarama Raju led the militant guerrilla movement in the Gudem Hills of Andhra Pradesh against colonial forest laws.",
+  "sourceHint": "NCERT Class 10 History (India and the Contemporary World - II)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:36:04Z"
+ },
+ {
+  "id": "q_fdbb4274a48c5c88",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which sector is classified under tertiary economic activities alongside trade and transport?",
+  "qHi": "व्यापार और परिवहन के साथ-साथ किस क्षेत्र को तृतीयक आर्थिक गतिविधियों के अंतर्गत वर्गीकृत किया गया है?",
+  "optsEn": [
+   "Dairy farming",
+   "Storage and communication",
+   "Forestry and logging",
+   "Construction of buildings"
+  ],
+  "optsHi": [
+   "डेयरी फार्मिंग",
+   "भंडारण और संचार",
+   "वानिकी और लॉगिंग",
+   "भवनों का निर्माण"
+  ],
+  "correct": 1,
+  "explainEn": "Storage and communication, along with trade, transport, and banking, belong to the tertiary sector of the economy.",
+  "sourceHint": "NCERT Class 10 Economics (Understanding Economic Development)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:36:04Z"
+ },
+ {
+  "id": "q_3f541504d6887710",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary function of the tapetum layer present in the anther of flowering plants?",
+  "qHi": "फूल वाले पौधों के परागकोश में मौजूद टैपेटम परत का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "Protection of internal microspores",
+   "Nutrition provision to developing pollen grains",
+   "Dehiscence of the anther lobe",
+   "Photosynthesis within the flower bud"
+  ],
+  "optsHi": [
+   "आंतरिक बीजाणुओं की सुरक्षा",
+   "विकसित हो रहे परागकणों को पोषण प्रदान करना",
+   "परागकोश लोब का प्रस्फुटन",
+   "फूल की कलिका के भीतर प्रकाश संश्लेषण"
+  ],
+  "correct": 1,
+  "explainEn": "The tapetum is the innermost nutritive layer of the microsporangium that provides nourishment to the developing pollen grains.",
+  "sourceHint": "NCERT Class 10 Science (Biology context)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:36:04Z"
+ },
+ {
+  "id": "q_99155929f5e3049d",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of power sharing, what institutional arrangement is best exemplified by the community government of Belgium?",
+  "qHi": "सत्ता की साझेदारी के संदर्भ में, बेल्जियम की सामुदायिक सरकार द्वारा किस संस्थागत व्यवस्था का सबसे अच्छा उदाहरण दिया जाता है?",
+  "optsEn": [
+   "Power sharing among different organs of government",
+   "Power sharing among governments at different levels",
+   "Power sharing among different social groups",
+   "Power sharing through political parties and pressure groups"
+  ],
+  "optsHi": [
+   "सरकार के विभिन्न अंगों के बीच सत्ता का बँटवारा",
+   "विभिन्न स्तरों पर सरकारों के बीच सत्ता का बँटवारा",
+   "विभिन्न सामाजिक समूहों के बीच सत्ता का बँटवारा",
+   "राजनीतिक दलों और दबाव समूहों के माध्यम से सत्ता का बँटवारा"
+  ],
+  "correct": 2,
+  "explainEn": "The community government in Belgium is elected by people belonging to one language community, representing power sharing among different social groups.",
+  "sourceHint": "NCERT Class 10 Political Science, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:36:04Z"
  }
 ]

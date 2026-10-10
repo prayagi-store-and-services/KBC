@@ -5878,5 +5878,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-10T05:56:13Z"
+ },
+ {
+  "id": "q_c5aa7de1765348db",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is the standard meridian of longitude for India?",
+  "qHi": "भारत के लिए मानक देशांतर याम्योत्तर निम्नलिखित में से कौन सा है?",
+  "optsEn": [
+   "82.5 degree East",
+   "80.0 degree East",
+   "85.5 degree East",
+   "88.0 degree East"
+  ],
+  "optsHi": [
+   "82.5 डिग्री पूर्व",
+   "80.0 डिग्री पूर्व",
+   "85.5 डिग्री पूर्व",
+   "88.0 डिग्री पूर्व"
+  ],
+  "correct": 0,
+  "explainEn": "The Indian Standard Time is calculated on the basis of 82.5 degree E longitude passing through Mirzapur in Uttar Pradesh.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:33:59Z"
+ },
+ {
+  "id": "q_a0e217dd6f20e4c3",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "The famous dance form 'Kathakali' originated in which state of India?",
+  "qHi": "प्रसिद्ध नृत्य शैली 'कथकली' भारत के किस राज्य में उत्पन्न हुई थी?",
+  "optsEn": [
+   "Kerala",
+   "Tamil Nadu",
+   "Andhra Pradesh",
+   "Karnataka"
+  ],
+  "optsHi": [
+   "केरल",
+   "तमिलनाडु",
+   "आंध्र प्रदेश",
+   "कर्नाटक"
+  ],
+  "correct": 0,
+  "explainEn": "Kathakali is a classical Indian dance form that originated in the southern state of Kerala.",
+  "sourceHint": "NCERT Art and Culture",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:33:59Z"
+ },
+ {
+  "id": "q_c94bb70da3dd96a0",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which is the upper house of the Parliament of India?",
+  "qHi": "भारत की संसद का उच्च सदन कौन सा है?",
+  "optsEn": [
+   "Rajya Sabha",
+   "Lok Sabha",
+   "Vidhan Sabha",
+   "Gram Sabha"
+  ],
+  "optsHi": [
+   "राज्य सभा",
+   "लोक सभा",
+   "विधान सभा",
+   "ग्राम सभा"
+  ],
+  "correct": 0,
+  "explainEn": "The Parliament of India consists of the President and two houses: the Lok Sabha (House of the People) and the Rajya Sabha (Council of States, the upper house).",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:33:59Z"
+ },
+ {
+  "id": "q_a9f610c4b6d99e81",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "During whose viceroyalty was the capital of British India shifted from Calcutta to Delhi?",
+  "qHi": "किस वायसराय के कार्यकाल के दौरान ब्रिटिश भारत की राजधानी कलकत्ता से दिल्ली स्थानांतरित की गई थी?",
+  "optsEn": [
+   "Lord Curzon",
+   "Lord Minto",
+   "Lord Hardinge II",
+   "Lord Chelmsford"
+  ],
+  "optsHi": [
+   "लॉर्ड कर्ज़न",
+   "लॉर्ड मिंटो",
+   "लॉर्ड हार्डिंग द्वितीय",
+   "लॉर्ड चेम्सफोर्ड"
+  ],
+  "correct": 2,
+  "explainEn": "The transfer of the capital from Calcutta to Delhi was announced at the Delhi Durbar in 1911 during the viceroyalty of Lord Hardinge II.",
+  "sourceHint": "NCERT History Class XII",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:35:39Z"
+ },
+ {
+  "id": "q_d9c6e498251cece4",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which element is commonly used as a semiconductor in computer microchips?",
+  "qHi": "कंप्यूटर माइक्रोकॉम्पैक्ट चिप्स में आमतौर पर अर्धचालक (semiconductor) के रूप में किस तत्व का उपयोग किया जाता है?",
+  "optsEn": [
+   "Copper",
+   "Silicon",
+   "Iron",
+   "Aluminum"
+  ],
+  "optsHi": [
+   "तांबा",
+   "सिलिकॉन",
+   "लोहा",
+   "एल्यूमीनियम"
+  ],
+  "correct": 1,
+  "explainEn": "Silicon is the most widely used semiconductor material in the manufacture of electronic integrated circuits and computer chips.",
+  "sourceHint": "NCERT Science Class XII",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:35:39Z"
+ },
+ {
+  "id": "q_cc39541f11a26d27",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The famous rock-cut Kailash Temple at Ellora was built by which dynasty?",
+  "qHi": "एलोरा का प्रसिद्ध चट्टान को काटकर बनाया गया कैलाश मंदिर किस राजवंश द्वारा बनवाया गया था?",
+  "optsEn": [
+   "Rashtrakuta dynasty",
+   "Maurya dynasty",
+   "Gupta dynasty",
+   "Chola dynasty"
+  ],
+  "optsHi": [
+   "राष्ट्रकूट राजवंश",
+   "मौर्य राजवंश",
+   "गुप्त राजवंश",
+   "चोल राजवंश"
+  ],
+  "correct": 0,
+  "explainEn": "The Kailash Temple at Ellora, Maharashtra, was excavated and built during the reign of the Rashtrakuta king Krishna I in the 8th century.",
+  "sourceHint": "NCERT History Class VII",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:35:39Z"
  }
 ]

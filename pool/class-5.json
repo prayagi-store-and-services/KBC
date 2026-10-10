@@ -7978,5 +7978,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-10T05:56:27Z"
+ },
+ {
+  "id": "q_e2cc877307ad0a7b",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which continent is India located in?",
+  "qHi": "भारत किस महाद्वीप में स्थित है?",
+  "optsEn": [
+   "Africa",
+   "Asia",
+   "Europe",
+   "Australia"
+  ],
+  "optsHi": [
+   "अफ़्रीका",
+   "एशिया",
+   "यूरोप",
+   "ऑस्ट्रेलिया"
+  ],
+  "correct": 1,
+  "explainEn": "India is located in the continent of Asia.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:34:11Z"
+ },
+ {
+  "id": "q_f2221f75315addd8",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these water sources is generally salty?",
+  "qHi": "इनमें से कौन सा जल स्रोत आम तौर पर खारा होता है?",
+  "optsEn": [
+   "Ocean",
+   "River",
+   "Rain",
+   "Pond"
+  ],
+  "optsHi": [
+   "महासागर",
+   "नदी",
+   "बारिश",
+   "तालाब"
+  ],
+  "correct": 0,
+  "explainEn": "Oceans contain large amounts of dissolved salts making the water salty.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:34:11Z"
+ },
+ {
+  "id": "q_d60d602b0884f22b",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these is a Kharif crop grown in India during the rainy season?",
+  "qHi": "इनमें से कौन सी भारत में वर्षा ऋतु के दौरान उगाई जाने वाली खरीफ फसल है?",
+  "optsEn": [
+   "Wheat",
+   "Gram",
+   "Rice",
+   "Barley"
+  ],
+  "optsHi": [
+   "गेहूं",
+   "चना",
+   "चावल",
+   "जौ"
+  ],
+  "correct": 2,
+  "explainEn": "Rice is a major Kharif crop that requires a good amount of water and is grown during the monsoon season.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:35:53Z"
+ },
+ {
+  "id": "q_f453cdb4b7631e32",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian monument was built by Emperor Shah Jahan in memory of his wife Mumtaz Mahal?",
+  "qHi": "सम्राट शाहजहाँ ने अपनी पत्नी मुमताज महल की याद में कौन सा भारतीय स्मारक बनवाया था?",
+  "optsEn": [
+   "Red Fort",
+   "Qutub Minar",
+   "Taj Mahal",
+   "Hawa Mahal"
+  ],
+  "optsHi": [
+   "लाल किला",
+   "कुतुब मीनार",
+   "ताजमहल",
+   "हवा महल"
+  ],
+  "correct": 2,
+  "explainEn": "The Taj Mahal in Agra was commissioned by Shah Jahan as a mausoleum for Mumtaz Mahal.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-10T12:35:53Z"
  }
 ]
