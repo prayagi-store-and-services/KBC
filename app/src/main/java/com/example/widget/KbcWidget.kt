@@ -67,7 +67,7 @@ class KbcWidgetProvider : AppWidgetProvider() {
                         KbcWidgetStore.outcomeLabel(p.getString("outcome", "") ?: "") + ". " + at
                 )
             }
-            val intent = Intent(context, MainActivity::class.java).apply { flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TOP }
+            val intent = com.example.Brand.launchIntent(context).apply { flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TOP }
             v.setOnClickPendingIntent(R.id.kbc_root, PendingIntent.getActivity(context, 0, intent, PendingIntent.FLAG_UPDATE_CURRENT or PendingIntent.FLAG_IMMUTABLE))
             mgr.updateAppWidget(id, v)
         }
