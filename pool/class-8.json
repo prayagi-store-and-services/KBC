@@ -6578,5 +6578,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-11T12:54:31Z"
+ },
+ {
+  "id": "q_c54c944db9557d32",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which part of the Indian Constitution guarantees fundamental rights to its citizens?",
+  "qHi": "भारतीय संविधान का कौन सा भाग अपने नागरिकों को मौलिक अधिकार की गारंटी देता है?",
+  "optsEn": [
+   "Part I",
+   "Part III",
+   "Part IV",
+   "Part IX"
+  ],
+  "optsHi": [
+   "भाग I",
+   "भाग III",
+   "भाग IV",
+   "भाग IX"
+  ],
+  "correct": 1,
+  "explainEn": "Part III of the Indian Constitution (Articles 12-35) contains the Fundamental Rights.",
+  "sourceHint": "Constitution of India / NCERT Class 8 Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:00:21Z"
+ },
+ {
+  "id": "q_3d1837633646ee01",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who led the revolt of 1857 in the city of Lucknow?",
+  "qHi": "लखनऊ शहर में 1857 के विद्रोह का नेतृत्व किसने किया था?",
+  "optsEn": [
+   "Begum Hazrat Mahal",
+   "Rani Laxmibai",
+   "Kunwar Singh",
+   "Nana Sahib"
+  ],
+  "optsHi": [
+   "बेगम हजरत महल",
+   "रानी लक्ष्मीबाई",
+   "कुंवर सिंह",
+   "नाना साहब"
+  ],
+  "correct": 0,
+  "explainEn": "Begum Hazrat Mahal took an active part in leading the 1857 revolt from Lucknow.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:00:21Z"
+ },
+ {
+  "id": "q_6674d1e7961cde9e",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What term is used for the process of settling of heavy suspended particles in water treatment?",
+  "qHi": "जल शोधन में भारी निलंबित कणों के नीचे बैठने की प्रक्रिया के लिए किस शब्द का उपयोग किया जाता है?",
+  "optsEn": [
+   "Chlorination",
+   "Sedimentation",
+   "Aeration",
+   "Evaporation"
+  ],
+  "optsHi": [
+   "क्लोरीनीकरण",
+   "अवसादन",
+   "वातन",
+   "वाष्पीकरण"
+  ],
+  "correct": 1,
+  "explainEn": "Sedimentation is the process in which heavier suspended impurities settle down at the bottom.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:00:21Z"
+ },
+ {
+  "id": "q_87eb57e6e9f4e007",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of resources are petroleum and natural gas classified as?",
+  "qHi": "पेट्रोलियम और प्राकृतिक गैस को किस प्रकार के संसाधनों के रूप में वर्गीकृत किया गया है?",
+  "optsEn": [
+   "Renewable resources",
+   "Non-renewable resources",
+   "Biotic resources",
+   "Ubiquitous resources"
+  ],
+  "optsHi": [
+   "नवीकरणीय संसाधन",
+   "अनवीकरणीय संसाधन",
+   "जैविक संसाधन",
+   "सर्वव्यापक संसाधन"
+  ],
+  "correct": 1,
+  "explainEn": "Petroleum and natural gas take millions of years to form, making them non-renewable resources.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:00:21Z"
+ },
+ {
+  "id": "q_1aae75c80b96dbb8",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which planet in our solar system has the lowest mean density, such that it would float in water if a body of sufficient size were available?",
+  "qHi": "हमारे सौरमंडल में किस ग्रह का औसत घनत्व सबसे कम है, इतना कि यदि पर्याप्त आकार का जल निकाय उपलब्ध हो तो वह उस पर तैर सकता है?",
+  "optsEn": [
+   "Saturn",
+   "Uranus",
+   "Neptune",
+   "Jupiter"
+  ],
+  "optsHi": [
+   "शनि",
+   "यूरेनस",
+   "नेप्च्यून",
+   "बृहस्पति"
+  ],
+  "correct": 0,
+  "explainEn": "Saturn has a density of about 0.687 g/cm³, which is less than the density of water (1 g/cm³).",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:01:22Z"
+ },
+ {
+  "id": "q_583e571a14831d52",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following is a non-contact force where objects exert a push or pull without physical contact?",
+  "qHi": "निम्नलिखित में से कौन सा एक असंपर्क बल है जहाँ वस्तुएं बिना भौतिक संपर्क के धक्का या खिंचाव लगाती हैं?",
+  "optsEn": [
+   "Friction force",
+   "Muscular force",
+   "Magnetic force",
+   "Tension force"
+  ],
+  "optsHi": [
+   "घर्षण बल",
+   "पेशीय बल",
+   "चुंबकीय बल",
+   "तनाव बल"
+  ],
+  "correct": 2,
+  "explainEn": "Magnetic force acts across a distance without direct physical touch, making it a non-contact force.",
+  "sourceHint": "NCERT Class 8 Science - Force and Pressure",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:01:22Z"
+ },
+ {
+  "id": "q_33b715c01d67119d",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary function of the red pigment hemoglobin found in human red blood cells?",
+  "qHi": "मानવ लाल रक्त कोशिकाओं में पाए जाने वाले लाल वर्णक हीमोग्लोबिन का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "To digest dietary fats in the bloodstream",
+   "To carry oxygen from the lungs to all cells of the body",
+   "To produce antibodies against bacterial infections",
+   "To clot blood at the site of a physical injury"
+  ],
+  "optsHi": [
+   "रक्तप्रवाह में आहार वसा को पचाना",
+   "फेफड़ों से शरीर की सभी कोशिकाओं तक ऑक्सीजन ले जाना",
+   "बैक्टीरियल संक्रमण के खिलाफ एंटीबॉडी का उत्पादन करना",
+   "शारीरिक चोट के स्थान पर रक्त का थक्का जमना"
+  ],
+  "correct": 1,
+  "explainEn": "Hemoglobin binds with oxygen in the lungs and transports it to tissues throughout the body.",
+  "sourceHint": "NCERT Class 8 Science - Respiration in Organisms",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:01:22Z"
+ },
+ {
+  "id": "q_c49582bd4b48fcc5",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific layer of the Earth's atmosphere is primarily responsible for burning up most meteors entering from space?",
+  "qHi": "पृथ्वी के वायुमंडल की कौन सी विशिष्ट परत अंतरिक्ष से प्रवेश करने वाले अधिकांश उल्कापिंडों को जलाने के लिए मुख्य रूप से जिम्मेदार है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Exosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "बहिर्मंडल"
+  ],
+  "correct": 2,
+  "explainEn": "Meteors burn up in the mesosphere due to friction with the gases present in that layer.",
+  "sourceHint": "NCERT Class 8 Geography - Air",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:01:22Z"
+ },
+ {
+  "id": "q_84b0b566b128bd5b",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the Indian Constitution, what does the term 'secularism' fundamentally signify?",
+  "qHi": "भारतीय संविधान के संदर्भ में, 'धर्मनिरपेक्षता' शब्द का मूल रूप से क्या अर्थ है?",
+  "optsEn": [
+   "The state promotes one official state religion",
+   "The state keeps itself separate from religious affairs and treats all religions equally",
+   "The state bans the practice of all religious rituals in public",
+   "Religious leaders hold the highest executive authority in governance"
+  ],
+  "optsHi": [
+   "राज्य एक आधिकारिक राजकीय धर्म को बढ़ावा देता है",
+   "राज्य खुद को धार्मिक मामलों से दूर रखता है और सभी धर्मों के साथ समान व्यवहार करता है",
+   "राज्य सार्वजनिक रूप से सभी धार्मिक अनुष्ठानों के अभ्यास पर प्रतिबंध लगाता है",
+   "शासन में धार्मिक नेताओं के पास सर्वोच्च कार्यकारी अधिकार होता है"
+  ],
+  "correct": 1,
+  "explainEn": "Indian secularism means that the state is distinct from religion and maintains principled neutrality toward all religions.",
+  "sourceHint": "NCERT Class 8 Civics - Understanding Secularism",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:01:22Z"
+ },
+ {
+  "id": "q_000581400b777ebe",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which microbe is primarily responsible for converting milk into curd?",
+  "qHi": "दूध को दही में बदलने के लिए मुख्य रूप से कौन सा सूक्ष्मजीव जिम्मेदार है?",
+  "optsEn": [
+   "Rhizobium",
+   "Lactobacillus",
+   "Amoeba",
+   "Penicillium"
+  ],
+  "optsHi": [
+   "राइजोबियम",
+   "लैक्टोबैसिलस",
+   "अमीबा",
+   "पेनिसिलियम"
+  ],
+  "correct": 1,
+  "explainEn": "Lactobacillus multiplies in milk and converts it into curd by producing lactic acid.",
+  "sourceHint": "NCERT Class 8 Science - Microorganisms: Friend and Foe",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:01:22Z"
+ },
+ {
+  "id": "q_b06196b7704c21d1",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which agricultural practice involves growing different crops on a piece of land in a preplanned succession to maintain soil fertility?",
+  "qHi": "मिट्टी की उर्वरता बनाए रखने के लिए पूर्व-नियोजित अनुक्रम में भूमि के एक टुकड़े पर विभिन्न फसलें उगाने की कृषि पद्धति को क्या कहा जाता है?",
+  "optsEn": [
+   "Monoculture",
+   "Crop rotation",
+   "Broadcast sowing",
+   "Fallowing"
+  ],
+  "optsHi": [
+   "मोनोकल्चर (एकल संवर्धन)",
+   "फसल चक्र",
+   "छिटकवाँ बुआई",
+   "परती छोड़ना"
+  ],
+  "correct": 1,
+  "explainEn": "Crop rotation helps replenish soil nutrients and prevents the depletion of specific minerals.",
+  "sourceHint": "NCERT Class 8 Science - Crop Production and Management",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:01:22Z"
  }
 ]

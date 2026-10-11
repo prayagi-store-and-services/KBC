@@ -7250,5 +7250,397 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-11T12:54:21Z"
+ },
+ {
+  "id": "q_61b80cedd7f171bb",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "The festival of Diwali is primarily celebrated to mark the return of which deity to Ayodhya?",
+  "qHi": "दीपावली का त्योहार मुख्य रूप से अयोध्या में किस देवता की वापसी के उपलक्ष್ಯ میں मनाया जाता है?",
+  "optsEn": [
+   "Lord Shiva",
+   "Lord Rama",
+   "Lord Krishna",
+   "Lord Ganesha"
+  ],
+  "optsHi": [
+   "भगवान शिव",
+   "भगवान राम",
+   "भगवान कृष्ण",
+   "भगवान गणेश"
+  ],
+  "correct": 1,
+  "explainEn": "Diwali celebrates the return of Lord Rama to Ayodhya after 14 years of exile.",
+  "sourceHint": "NCERT textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T21:59:01Z"
+ },
+ {
+  "id": "q_320325aaeeefe839",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which Indian state has the coastline on the Arabian Sea and is famous for the beaches of Calangute and Baga?",
+  "qHi": "किस भारतीय राज्य की तटरेखा अरब सागर पर है और वह कलंगुट और बागा के समुद्र तटों के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Kerala",
+   "Goa",
+   "Gujarat",
+   "Maharashtra"
+  ],
+  "optsHi": [
+   "केरल",
+   "गोवा",
+   "गुजरात",
+   "महाराष्ट्र"
+  ],
+  "correct": 1,
+  "explainEn": "Goa is located on the western coast and is well known for its popular beaches.",
+  "sourceHint": "Ministry of Tourism, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T21:59:01Z"
+ },
+ {
+  "id": "q_5688c3fe13003dda",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "The currency of India is officially known as what?",
+  "qHi": "भारत की मुद्रा को आधिकारिक तौर पर क्या कहा जाता है?",
+  "optsEn": [
+   "Taka",
+   "Rupee",
+   "Rupiah",
+   "Yen"
+  ],
+  "optsHi": [
+   "टका",
+   "रुपया",
+   "रुपिया",
+   "येन"
+  ],
+  "correct": 1,
+  "explainEn": "The Indian Rupee is the official currency of the Republic of India.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T21:59:01Z"
+ },
+ {
+  "id": "q_1d33f28a05ed4005",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which month is India's Independence Day celebrated every year?",
+  "qHi": "भारत का स्वतंत्रता दिवस हर वर्ष किस महीने में मनाया जाता है?",
+  "optsEn": [
+   "January",
+   "August",
+   "October",
+   "November"
+  ],
+  "optsHi": [
+   "जनवरी",
+   "अगस्त",
+   "अक्टूबर",
+   "नवंबर"
+  ],
+  "correct": 1,
+  "explainEn": "India gained independence on August 15, 1947, and celebrates it annually on that date.",
+  "sourceHint": "Constitutional History of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T21:59:01Z"
+ },
+ {
+  "id": "q_c10624e609fa60fd",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which classical dance form originated in the state of Kerala and is traditionally characterized by elaborate make-up and colourful costumes?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप केरल राज्य में उत्पन्न हुआ था और पारंपरिक रूप से विस्तृत मेकअप और रंगीन वेशभूषा की विशेषता है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a major form of classical Indian dance that originated in Kerala.",
+  "sourceHint": "NCERT Fine Arts textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:00:12Z"
+ },
+ {
+  "id": "q_d1f01a81da08505a",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the famous Indian epic play 'Abhijnanashakuntalam'?",
+  "qHi": "प्रसिद्ध भारतीय महाकाव्य नाटक 'अभिज्ञानशाकुन्तलम' किसने लिखा था?",
+  "optsEn": [
+   "Kalidasa",
+   "Tulsidas",
+   "Banabhatta",
+   "Surdas"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "तुलसीदास",
+   "बाणभट्ट",
+   "सूरदास"
+  ],
+  "correct": 0,
+  "explainEn": "Abhijnanashakuntalam is a well-known Sanskrit play written by the classical poet Kalidasa.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:00:12Z"
+ },
+ {
+  "id": "q_5ac3e5777bc30cbe",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In computing, what does the abbreviation CPU stand for?",
+  "qHi": "कंप्यूटिंग में, सीपीयूपी (CPU) का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Central Processing Unit",
+   "Computer Personal Unit",
+   "Central Program Utility",
+   "Control Processing Utility"
+  ],
+  "optsHi": [
+   "सेंट्रल प्रोसेसिंग यूनिट",
+   "कंप्यूटर पर्सनल यूनिट",
+   "सेंट्रल प्रोग्राम यूटिलिटी",
+   "कंट्रोल प्रोसेसिंग यूटिलिटी"
+  ],
+  "correct": 0,
+  "explainEn": "CPU stands for Central Processing Unit, which is the primary component of a computer.",
+  "sourceHint": "NCERT Computer Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:00:12Z"
+ },
+ {
+  "id": "q_67b7aaa2a3efaf8f",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which mountain range is the Zoji La pass located?",
+  "qHi": "जोजी ला दर्रा किस पर्वत श्रृंखला में स्थित है?",
+  "optsEn": [
+   "Pir Panjal",
+   "Zaskar",
+   "Ladakh",
+   "Eastern Karakoram"
+  ],
+  "optsHi": [
+   "पीर पंजाल",
+   "जास्कर",
+   "लद्दाख",
+   "पूर्वी काराकोरम"
+  ],
+  "correct": 1,
+  "explainEn": "Zoji La is a high mountain pass in the Zaskar range of the Himalayas, connecting Srinagar and Leh.",
+  "sourceHint": "NCERT Geography Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:01:11Z"
+ },
+ {
+  "id": "q_67344187dcfdcc55",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who wrote the ancient Sanskrit treatise on statecraft and economy, the Arthashastra?",
+  "qHi": "राज्यकला और अर्थशास्त्र पर प्राचीन संस्कृत ग्रंथ 'अर्थशास्त्र' की रचना किसने की थी?",
+  "optsEn": [
+   "Kalidasa",
+   "Banabhatta",
+   "Kautilya",
+   "Aryabhata"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "बाणभट्ट",
+   "कौटिल्य",
+   "आर्यभट्ट"
+  ],
+  "correct": 2,
+  "explainEn": "Arthashastra was written by Kautilya, also known as Chanakya or Vishnugupta, during the Maurya Empire.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:01:11Z"
+ },
+ {
+  "id": "q_976925d5e8db2a3c",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form of India originated from the Vaishnavite monasteries known as Sattras?",
+  "qHi": "भारत की कौन सी शास्त्रीय नृत्य शैली 'सत्र' नामक वैष्णव मठों से उत्पन्न हुई है?",
+  "optsEn": [
+   "Kathakali",
+   "Sattriya",
+   "Manipuri",
+   "Odissi"
+  ],
+  "optsHi": [
+   "कथकली",
+   "सत्रिया",
+   "मणिपुरी",
+   "ओडिसी"
+  ],
+  "correct": 1,
+  "explainEn": "Sattriya is a classical dance-drama performance art originating in the Assam-based monastic institutions called Sattras.",
+  "sourceHint": "Sangeet Natak Akademi",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:01:11Z"
+ },
+ {
+  "id": "q_4cfebee28ce4abeb",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian city is situated on the banks of the Musi River?",
+  "qHi": "कौन सा भारतीय शहर मूसी नदी के तट पर स्थित है?",
+  "optsEn": [
+   "Hyderabad",
+   "Ahmedabad",
+   "Lucknow",
+   "Cuttack"
+  ],
+  "optsHi": [
+   "हैदराबाद",
+   "अहमदाबाद",
+   "लखनऊ",
+   "कटक"
+  ],
+  "correct": 0,
+  "explainEn": "Hyderabad, the capital of Telangana, is situated on the banks of the Musi River, a tributary of the Krishna.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:01:11Z"
+ },
+ {
+  "id": "q_6bd5364c73710d82",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Indian Constitution, which Article guarantees the right to constitutional remedies?",
+  "qHi": "भारतीय संविधान के तहत कौन सा अनुच्छेद संवैधानिक उपचारों का अधिकार प्रदान करता है?",
+  "optsEn": [
+   "Article 14",
+   "Article 19",
+   "Article 21",
+   "Article 32"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14",
+   "अनुच्छेद 19",
+   "अनुच्छेद 21",
+   "अनुच्छेद 32"
+  ],
+  "correct": 3,
+  "explainEn": "Dr. B.R. Ambedkar referred to Article 32 as the heart and soul of the Indian Constitution.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:01:11Z"
+ },
+ {
+  "id": "q_0eb36b9be2b00f1a",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which is the primary mineral ore from which aluminium is extracted commercially?",
+  "qHi": "वह मुख्य खनिज अयस्क कौन सा है जिससे व्यावसायिक रूप से एल्युमिनियम निकाला जाता है?",
+  "optsEn": [
+   "Hematite",
+   "Bauxite",
+   "Galena",
+   "Magnetite"
+  ],
+  "optsHi": [
+   "हेमेटाइट",
+   "बॉक्साइट",
+   "गैलेना",
+   "मैग्नेटाइट"
+  ],
+  "correct": 1,
+  "explainEn": "Bauxite is the primary ore of aluminium and consists mostly of hydrated aluminium oxides.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:01:11Z"
+ },
+ {
+  "id": "q_1ac4a8acca3213b1",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Mughal Emperor had the mausoleum Bibi Ka Maqbara built in Aurangabad?",
+  "qHi": "किस मुगल सम्राट ने औरंगाबाद में 'बीबी का मकबरा' का निर्माण करवाया था?",
+  "optsEn": [
+   "Akbar",
+   "Shah Jahan",
+   "Aurangzeb",
+   "Jahangir"
+  ],
+  "optsHi": [
+   "अकबर",
+   "शाहजहाँ",
+   "औरंगजेब",
+   "जहाँगीर"
+  ],
+  "correct": 2,
+  "explainEn": "Bibi Ka Maqbara was commissioned in 1660 by the Mughal Emperor Aurangzeb in memory of his first wife Dilras Banu Begum.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:01:11Z"
  }
 ]

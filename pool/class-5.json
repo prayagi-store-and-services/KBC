@@ -8874,5 +8874,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-11T12:54:26Z"
+ },
+ {
+  "id": "q_b819602616e6651b",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "How many states are there in India?",
+  "qHi": "भारत में कितने राज्य हैं?",
+  "optsEn": [
+   "27",
+   "28",
+   "29",
+   "30"
+  ],
+  "optsHi": [
+   "27",
+   "28",
+   "29",
+   "30"
+  ],
+  "correct": 1,
+  "explainEn": "India has 28 states and 8 union territories.",
+  "sourceHint": "Government of India Official Portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T21:59:05Z"
+ },
+ {
+  "id": "q_579067ec3dba5bed",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which festival is known as the festival of lights?",
+  "qHi": "किस त्योहार को रोशनी का त्योहार कहा जाता है?",
+  "optsEn": [
+   "Holi",
+   "Diwali",
+   "Eid",
+   "Christmas"
+  ],
+  "optsHi": [
+   "होली",
+   "दिवाली",
+   "ईद",
+   "क्रिसमस"
+  ],
+  "correct": 1,
+  "explainEn": "Diwali is celebrated by lighting earthen lamps, hence called the festival of lights.",
+  "sourceHint": "NCERT Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T21:59:05Z"
+ },
+ {
+  "id": "q_61ddbe52af1238a1",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian water harvesting system is also known as a stepwell?",
+  "qHi": "पारंपरिक भारतीय जल संचयन प्रणाली को सीढ़ीदार कुआँ (स्टेपवेल) के रूप में भी जाना जाता है?",
+  "optsEn": [
+   "Baoli",
+   "Bhangar",
+   "Bhakra",
+   "Bhabar"
+  ],
+  "optsHi": [
+   "बावली",
+   "भानगढ़",
+   "भाखड़ा",
+   "भाबर"
+  ],
+  "correct": 0,
+  "explainEn": "Baolis are traditional stepwells built in India to store rainwater and provide access to water during dry periods.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:00:17Z"
+ },
+ {
+  "id": "q_bf35cb2db5ef52a9",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which part of the digestive system absorbs most of the water and minerals from undigested food?",
+  "qHi": "पाचन तंत्र का कौन सा भाग बिना पचे हुए भोजन से अधिकांश पानी और खनिजों को अवशोषित करता है?",
+  "optsEn": [
+   "Stomach",
+   "Small intestine",
+   "Large intestine",
+   "Food pipe"
+  ],
+  "optsHi": [
+   "पेट",
+   "छोटा आंत",
+   "बड़ी आंत",
+   "ग्रासनली"
+  ],
+  "correct": 2,
+  "explainEn": "The large intestine absorbs water and remaining minerals from food waste before it leaves the body.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:00:17Z"
+ },
+ {
+  "id": "q_cd6d669436c434ff",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of map helps to show physical features of the earth such as mountains, plateaus, and rivers?",
+  "qHi": "किस प्रकार का नक्शा पृथ्वी की भौतिक विशेषताओं जैसे पहाड़ों, पठारों और नदियों को दिखाने में मदद करता है?",
+  "optsEn": [
+   "Political map",
+   "Physical map",
+   "Road map",
+   "Climate map"
+  ],
+  "optsHi": [
+   "राजनीतिक नक्शा",
+   "भौतिक नक्शा",
+   "सड़क का नक्शा",
+   "जलवायु नक्शा"
+  ],
+  "correct": 1,
+  "explainEn": "Physical maps show natural features of the Earth such as mountains, rivers, plains, and plateaus.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:00:17Z"
+ },
+ {
+  "id": "q_60fe51ede706c90e",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these animals is known to have an exceptional sense of smell and is used by police for tracking?",
+  "qHi": "इनमें से किस जानवर की सूंघने की शक्ति असाधारण होती है और पुलिस द्वारा ट्रैकिंग के लिए उपयोग किया जाता है?",
+  "optsEn": [
+   "Cat",
+   "Dog",
+   "Cow",
+   "Horse"
+  ],
+  "optsHi": [
+   "बिल्ली",
+   "कुत्ता",
+   "गाय",
+   "घोड़ा"
+  ],
+  "correct": 1,
+  "explainEn": "Dogs have a highly developed sense of smell, making them useful for tracking scents and helping law enforcement.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:00:17Z"
+ },
+ {
+  "id": "q_7201b2b415a5d5aa",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary natural mode of seed dispersal for the drumstick (sahajan) plant?",
+  "qHi": "सहजन (ड्रमस्टिक) के पौधे के बीजों के प्रकीर्णन का मुख्य प्राकृतिक माध्यम क्या है?",
+  "optsEn": [
+   "Wind",
+   "Water",
+   "Explosion",
+   "Animals"
+  ],
+  "optsHi": [
+   "हवा",
+   "पानी",
+   "विस्फोट",
+   "जानवर"
+  ],
+  "correct": 0,
+  "explainEn": "Drumstick seeds have winged structures that help them to be carried away easily by the wind.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:01:16Z"
+ },
+ {
+  "id": "q_b8e744074d6c57e7",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which historical monument in India was built using red sandstone and white marble by Mughal emperors in Delhi?",
+  "qHi": "दिल्ली में मुगल सम्राटों द्वारा लाल बलुआ पत्थर और सफेद संगमरमर का उपयोग करके कौन सा ऐतिहासिक स्मारक बनवाया गया था?",
+  "optsEn": [
+   "Qutub Minar",
+   "Red Fort",
+   "Charminar",
+   "Gateway of India"
+  ],
+  "optsHi": [
+   "कुतुब मीनार",
+   "लाल किला",
+   "चारमीनार",
+   "गेटवे ऑफ़ इंडिया"
+  ],
+  "correct": 1,
+  "explainEn": "The Red Fort in Delhi is constructed primarily using red sandstone, with white marble used in certain structural and decorative elements.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:01:16Z"
+ },
+ {
+  "id": "q_ea86f588f6ad919d",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional Indian stepwell water structure is also known as a baoli?",
+  "qHi": "भारत की किस पारंपरिक सीढ़ीदार कुएं वाली जल संरचना को बावड़ी भी कहा जाता है?",
+  "optsEn": [
+   "Tube well",
+   "Borewell",
+   "Stepwell",
+   "Overhead tank"
+  ],
+  "optsHi": [
+   "ट्यूबवेल",
+   "बोरवेल",
+   "स्टेपवेल (बावड़ी)",
+   "ओवरहेड टैंक"
+  ],
+  "correct": 2,
+  "explainEn": "Stepwells, locally known as baolis, were constructed in arid regions of India to collect rainwater.",
+  "sourceHint": "NCERT Class 5 EVS Chapter - A Treasure Trove",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:01:16Z"
+ },
+ {
+  "id": "q_d7f373bbf4a56f90",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which part of the Indian subcontinent did the famous Golconda Fort stand, known for its acoustic design?",
+  "qHi": "भारतीय उपमहाद्वीप के किस भाग में प्रसिद्ध गोलकुंडा किला स्थित था, जो अपनी ध्वनिक (साउंड) डिजाइन के लिए जाना जाता है?",
+  "optsEn": [
+   "North India",
+   "Eastern India",
+   "Deccan region",
+   "North-East India"
+  ],
+  "optsHi": [
+   "उत्तर भारत",
+   "पूर्वी भारत",
+   "दक्कन क्षेत्र",
+   "उत्तर-पूर्व भारत"
+  ],
+  "correct": 2,
+  "explainEn": "Golconda Fort is located in the Deccan region near Hyderabad in southern India.",
+  "sourceHint": "NCERT Class 5 EVS Chapter - Walls Tell Stories",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:01:16Z"
+ },
+ {
+  "id": "q_5da2ea985049305f",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of map symbol is typically used to represent a metalled or paved road on standard topographical maps?",
+  "qHi": "मानक स्थलाकृतिक मानचित्रों पर पक्की सड़क को दर्शाने के लिए आमतौर पर किस प्रकार के मानचित्र प्रतीक का उपयोग किया जाता है?",
+  "optsEn": [
+   "A dashed red line",
+   "Two parallel red lines",
+   "A solid blue line",
+   "Green shaded areas"
+  ],
+  "optsHi": [
+   "एक टूटी हुई लाल रेखा",
+   "दो समानांतर लाल रेखाएं",
+   "एक ठोस नीली रेखा",
+   "हरे रंग के छायांकित क्षेत्र"
+  ],
+  "correct": 1,
+  "explainEn": "Metalled roads are conventionally shown on maps using two parallel red lines.",
+  "sourceHint": "NCERT Geography Curriculum Basics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:01:16Z"
+ },
+ {
+  "id": "q_a8323422b58ecdab",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which micro-organism is commonly used in households to ferment milk into curd?",
+  "qHi": "दूध को दही में बदलने के लिए घरों में आमतौर पर किस सूक्ष्म जीव का उपयोग किया जाता है?",
+  "optsEn": [
+   "Rhizobium",
+   "Lactobacillus",
+   "Yeast",
+   "Amoeba"
+  ],
+  "optsHi": [
+   "राइज़ोबियम",
+   "लैक्टोबैसिलस",
+   "यीस्ट",
+   "अमीबा"
+  ],
+  "correct": 1,
+  "explainEn": "Lactobacillus is the bacterium that promotes the formation of curd from milk.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:01:16Z"
+ },
+ {
+  "id": "q_b4c86aec280441ee",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian state is famous for the traditional Bihu dance performed during harvest festivals?",
+  "qHi": "कौन सा भारतीय राज्य फसल कटाई के त्योहारों के दौरान किए जाने वाले पारंपरिक बिहू नृत्य के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Punjab",
+   "Assam",
+   "Kerala",
+   "Tamil Nadu"
+  ],
+  "optsHi": [
+   "पंजाब",
+   "असम",
+   "केरल",
+   "तमिलनाडु"
+  ],
+  "correct": 1,
+  "explainEn": "Bihu is a traditional folk dance associated with the state of Assam and its harvest festivals.",
+  "sourceHint": "NCERT Social Studies Curriculum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:01:16Z"
  }
 ]

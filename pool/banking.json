@@ -10722,5 +10722,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-11T12:54:15Z"
+ },
+ {
+  "id": "q_42279387deb6ef4d",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following cards is generally issued by banks allowing customers to borrow funds up to a certain credit limit?",
+  "qHi": "निम्नलिखित में से कौन सा कार्ड आमतौर पर बैंकों द्वारा जारी किया जाता है जिससे ग्राहकों को एक निश्चित क्रेडिट सीमा तक धन उधार लेने की अनुमति मिलती है?",
+  "optsEn": [
+   "Credit Card",
+   "Debit Card",
+   "Ration Card",
+   "Aadhaar Card"
+  ],
+  "optsHi": [
+   "क्रेडिट कार्ड",
+   "डेबिट कार्ड",
+   "राशन कार्ड",
+   "आधार कार्ड"
+  ],
+  "correct": 0,
+  "explainEn": "A credit card allows the cardholder to pay for goods and services based on the holder's promise to pay them for the amounts plus other agreed charges.",
+  "sourceHint": "NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T21:59:28Z"
+ },
+ {
+  "id": "q_d14f70a254229f47",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'S' stand for in the banking acronym 'RTGS'?",
+  "qHi": "बैंकिंग संक्षिप्त नाम 'RTGS' में अक्षर 'S' का क्या अर्थ है?",
+  "optsEn": [
+   "Settlement",
+   "Security",
+   "System",
+   "Savings"
+  ],
+  "optsHi": [
+   "सेटलमेंट",
+   "सिक्योरिटी",
+   "सिस्टम",
+   "सेविंग्स"
+  ],
+  "correct": 0,
+  "explainEn": "RTGS stands for Real Time Gross Settlement, a funds transfer system where transfer of money takes place from one bank to another on a real-time basis.",
+  "sourceHint": "RBI Payment Systems",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T21:59:28Z"
+ },
+ {
+  "id": "q_2806a98ccb876bba",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following institutions regulates the Micro Units Development and Refinance Agency (MUDRA) Bank in India?",
+  "qHi": "भारत में माइक्रो यूनिट्स डेवलपमेंट एंड रिफाइनेंस एजेंसी (MUDRA) बैंक को निम्नलिखित में से कौन सी संस्था नियंत्रित करती है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Small Industries Development Bank of India",
+   "State Bank of India",
+   "National Bank for Agriculture and Rural Development"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय लघु उद्योग विकास बैंक",
+   "भारतीय स्टेट बैंक",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "MUDRA Bank was established as a subsidiary of the Small Industries Development Bank of India (SIDBI) and is regulated by it.",
+  "sourceHint": "SIDBI official portal and RBI notifications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:00:47Z"
+ },
+ {
+  "id": "q_9e3838c5a1077f50",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the Liquidity Adjustment Facility (LAF) framework used by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा प्रयुक्त तरलता समायोजन सुविधा (LAF) ढांचे में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Leverage",
+   "Liquidity",
+   "Liability",
+   "Loan"
+  ],
+  "optsHi": [
+   "लीverage",
+   "लिक्विडिटी",
+   "लायबिलिटी",
+   "लोन"
+  ],
+  "correct": 1,
+  "explainEn": "LAF stands for Liquidity Adjustment Facility, which is a monetary policy tool used by the RBI.",
+  "sourceHint": "RBI monetary policy publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:00:47Z"
+ },
+ {
+  "id": "q_37772524245a20f2",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque becomes stale in India after the expiry of how many months from the date of its issuance?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, भारत में जारी होने की तारीख से कितने महीने बीत जाने के बाद एक चेक पुराना (बासी) हो जाता है?",
+  "optsEn": [
+   "1 month",
+   "3 months",
+   "6 months",
+   "12 months"
+  ],
+  "optsHi": [
+   "1 महीना",
+   "3 महीने",
+   "6 महीने",
+   "12 महीने"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India directed commercial banks to treat cheques as valid for 3 months from the date of issue.",
+  "sourceHint": "RBI guidelines on negotiable instruments",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:00:47Z"
+ },
+ {
+  "id": "q_a5b2f2f64526bc89",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which market in the Indian financial system deals with the raising of short-term funds, typically up to one year?",
+  "qHi": "भारतीय वित्तीय प्रणाली का कौन सा बाजार अल्पकालिक धन जुटाने से संबंधित है, जो आमतौर पर एक वर्ष तक का होता है?",
+  "optsEn": [
+   "Capital Market",
+   "Money Market",
+   "Foreign Exchange Market",
+   "Derivatives Market"
+  ],
+  "optsHi": [
+   "पूंजी बाजार",
+   "मुद्रा बाजार",
+   "विदेशी मुद्रा बाजार",
+   "डेरिवेटिव बाजार"
+  ],
+  "correct": 1,
+  "explainEn": "The money market is a financial market for short-term debt instruments with maturities ranging from overnight up to one year.",
+  "sourceHint": "NCERT Economics textbook and RBI glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:00:47Z"
+ },
+ {
+  "id": "q_f56f0316a30fc789",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of the Pradhan Mantri Jan Dhan Yojana (PMJDY) launched in India?",
+  "qHi": "भारत में शुरू की गई प्रधानमंत्री जन धन योजना (PMJDY) का मुख्य उद्देश्य क्या है?",
+  "optsEn": [
+   "Providing housing loans to rural youth",
+   "Ensuring access to financial services at an affordable cost",
+   "Subsidizing agricultural fertilizers",
+   "Promoting export of software services"
+  ],
+  "optsHi": [
+   "ग्रामीण युवाओं को आवास ऋण प्रदान करना",
+   "किफायती लागत पर वित्तीय सेवाओं तक पहुंच सुनिश्चित करना",
+   "कृषि उर्वरकों पर सब्सिडी देना",
+   "सॉफ्टवेयर सेवाओं के निर्यात को बढ़ावा देना"
+  ],
+  "correct": 1,
+  "explainEn": "PMJDY is a national mission for financial inclusion to ensure access to financial services like banking accounts, credit, and insurance affordably.",
+  "sourceHint": "Department of Financial Services, Ministry of Finance",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:00:47Z"
+ },
+ {
+  "id": "q_4f83b6729995d491",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the term 'CASA' primarily refer to in the context of commercial banking operations?",
+  "qHi": "वाणिज्यिक बैंकिंग कार्यों के संदर्भ में 'CASA' शब्द मुख्य रूप से किससे संबंधित है?",
+  "optsEn": [
+   "Current Account Savings Account",
+   "Credit Asset Security Agreement",
+   "Centralized Automated Settlement Application",
+   "Corporate Asset and Share Allocation"
+  ],
+  "optsHi": [
+   "करेंट अकाउंट सेविंग्स अकाउंट",
+   "क्रेडिट एसेट सिक्योरिटी एग्रीमेंट",
+   "सेंट्रलाइज्ड ऑटोमेटेड सेटलमेंट एप्लीकेशन",
+   "कॉर्पोरेट एसेट एंड शेयर एलोकेशन"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account Savings Account, representing low-cost deposits mobilized by banks.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) study material",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:00:47Z"
+ },
+ {
+  "id": "q_315d950c6233358a",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian financial institution is mandated to act as the principal development financial institution for the promotion of micro, small, and medium enterprises?",
+  "qHi": "सूक्ष्म, लघु और मध्यम उद्यमों के संवर्धन के लिए किस भारतीय वित्तीय संस्था को प्रमुख विकास वित्तीय संस्था के रूप में कार्य करने का अधिकार दिया गया है?",
+  "optsEn": [
+   "NABARD",
+   "SIDBI",
+   "EXIM Bank",
+   "IDBI Bank"
+  ],
+  "optsHi": [
+   "नाबार्ड",
+   "सिडबी",
+   "एक्जिम बैंक",
+   "आईडीबीआई बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "SIDBI was established under an Act of Parliament in 1990 as the principal financial institution for the promotion, financing, and development of the MSME sector.",
+  "sourceHint": "SIDBI Act and Ministry of MSME portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:00:47Z"
  }
 ]

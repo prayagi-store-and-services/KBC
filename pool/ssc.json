@@ -6942,5 +6942,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-11T12:54:09Z"
+ },
+ {
+  "id": "q_523daf50a76eb2a4",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the minimum age required to become a member of the Lok Sabha in India?",
+  "qHi": "भारत में लोकसभा का सदस्य बनने के लिए न्यूनतम आयु कितनी आवश्यक है?",
+  "optsEn": [
+   "21 years",
+   "25 years",
+   "30 years",
+   "35 years"
+  ],
+  "optsHi": [
+   "21 वर्ष",
+   "25 वर्ष",
+   "30 वर्ष",
+   "35 वर्ष"
+  ],
+  "correct": 1,
+  "explainEn": "Article 84 of the Constitution specifies 25 years as the minimum age for a Lok Sabha member.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T21:59:24Z"
+ },
+ {
+  "id": "q_c63dd3dbb7efef9b",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which vitamin is primarily obtained from sunlight exposure by the human body?",
+  "qHi": "मानव शरीर द्वारा मुख्य रूप से धूप के संपर्क में आने से कौन सा विटामिन प्राप्त होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Vitamin D is produced in the skin when exposed to ultraviolet B sunlight.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T21:59:24Z"
+ },
+ {
+  "id": "q_ed680bdbbcc865ec",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which plateau lies between the Aravalli and the Vindhya ranges?",
+  "qHi": "अरावली और विंध्य श्रेणियों के बीच कौन सा पठार स्थित है?",
+  "optsEn": [
+   "Chota Nagpur Plateau",
+   "Malwa Plateau",
+   "Deccan Plateau",
+   "Meghalaya Plateau"
+  ],
+  "optsHi": [
+   "छोटा नागपुर पठार",
+   "मालवा पठार",
+   "दक्कन का पठार",
+   "मेघालय पठार"
+  ],
+  "correct": 1,
+  "explainEn": "The Malwa Plateau is bounded by the Central Highlands in the north, the Aravalli range in the west, and the Vindhya range in the south.",
+  "sourceHint": "NCERT Class 9 Geography, Contemporary India-I",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:00:41Z"
+ },
+ {
+  "id": "q_8eab06d7f981eec9",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "During the Gupta Empire, the officers in charge of the royal treasury were typically referred to by which term?",
+  "qHi": "गुप्त साम्राज्य के दौरान, शाही खजाने के प्रभारी अधिकारियों को आमतौर पर किस नाम से जाना जाता था?",
+  "optsEn": [
+   "Bhandagariyakrta",
+   "Sandhivigrahika",
+   "Mahakshapatalika",
+   "Senapati"
+  ],
+  "optsHi": [
+   "भंडागारिकृत",
+   "संधिविग्रहिक",
+   "महाक्षपटलिका",
+   "सेनापति"
+  ],
+  "correct": 0,
+  "explainEn": "In the administrative system of the Gupta period, Bhandagariyakrta was the officer responsible for the royal treasury.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part I",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:00:41Z"
+ },
+ {
+  "id": "q_abbe9bade7ceac31",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which article of the Indian Constitution directs the State to organize Village Panchayats?",
+  "qHi": "भारतीय संविधान का कौन सा अनुच्छेद राज्य को ग्राम पंचायतों के संगठन का निर्देश देता है?",
+  "optsEn": [
+   "Article 39A",
+   "Article 40",
+   "Article 44",
+   "Article 48"
+  ],
+  "optsHi": [
+   "अनुच्छेद 39क",
+   "अनुच्छेद 40",
+   "अनुच्छेद 44",
+   "अनुच्छेद 48"
+  ],
+  "correct": 1,
+  "explainEn": "Article 40 of the Directive Principles of State Policy (DPSP) lays down that the State shall take steps to organize village panchayats.",
+  "sourceHint": "Constitution of India, Part IV",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:00:41Z"
+ },
+ {
+  "id": "q_b7cfd1d7fc732bbe",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The Dhuandhar Falls are formed by which river in Madhya Pradesh?",
+  "qHi": "मध्य प्रदेश में धुआँधार जलप्रपात किस नदी द्वारा बनाया जाता है?",
+  "optsEn": [
+   "Narmada",
+   "Tapti",
+   "Chambal",
+   "Betwa"
+  ],
+  "optsHi": [
+   "नर्मदा",
+   "ताप्ती",
+   "चंबल",
+   "बेत्वा"
+  ],
+  "correct": 0,
+  "explainEn": "The Dhuandhar Falls is located on the Narmada River in Bhedaghat, Madhya Pradesh, where the river plunges and creates a mist of water droplets.",
+  "sourceHint": "NCERT Class 9 Geography, Drainage Chapter",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:00:41Z"
+ },
+ {
+  "id": "q_3fd2bd1213ae7139",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin deficiency causes beriberi?",
+  "qHi": "किस विटामिन की कमी से बेरीबेरी रोग होता है?",
+  "optsEn": [
+   "Vitamin B1",
+   "Vitamin B2",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन बी1",
+   "विटामिन बी2",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 0,
+  "explainEn": "Beriberi is a disease caused by a vitamin B1 (thiamine) deficiency, affecting the cardiovascular and nervous systems.",
+  "sourceHint": "NCERT Class 6 Science, Chapter 2 Components of Food",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:00:41Z"
+ },
+ {
+  "id": "q_b666b02311dd4143",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who was the founder of the Satavahana dynasty according to the Puranas and inscriptions?",
+  "qHi": "पुराणों और अभिलेखों के अनुसार सातवाहन वंश का संस्थापक कौन था?",
+  "optsEn": [
+   "Gautamiputra Satakarni",
+   "Simukha",
+   "Hala",
+   "Vasisthiputra Pulumavi"
+  ],
+  "optsHi": [
+   "गौतमीपुत्र शतकर्नि",
+   "सिमुक",
+   "हाल",
+   "वासिष्ठिपुत्र पुलुमावि"
+  ],
+  "correct": 1,
+  "explainEn": "Simukha is mentioned in the inscriptions and Puranas as the founder of the Satavahana dynasty.",
+  "sourceHint": "Tamil Nadu State Board History Textbook for Class 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:00:41Z"
  }
 ]

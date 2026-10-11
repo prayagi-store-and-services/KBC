@@ -10078,5 +10078,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-11T12:53:59Z"
+ },
+ {
+  "id": "q_5dc0db8db83c667e",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the historical text 'Ain-i-Akbari'?",
+  "qHi": "ऐतिहासिक ग्रंथ 'आईना-ए-अकबरी' किसने लिखा था?",
+  "optsEn": [
+   "Abul Fazl",
+   "Badauni",
+   "Faizi",
+   "Birbal"
+  ],
+  "optsHi": [
+   "अुल फज़ल",
+   "बदायूंनी",
+   "फैज़ी",
+   "बीरबल"
+  ],
+  "correct": 0,
+  "explainEn": "Ain-i-Akbari is the 16th-century detailed document recording the administration of the Mughal Empire under Emperor Akbar, written by his court historian Abul Fazl.",
+  "sourceHint": "NCERT Class 12 History, Theme 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T21:59:16Z"
+ },
+ {
+  "id": "q_027005ac12112862",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the functional group of ketones?",
+  "qHi": "कीटोन का कार्यात्मक समूह क्या है?",
+  "optsEn": [
+   "-OH",
+   "-CHO",
+   "-COOH",
+   "-C=O"
+  ],
+  "optsHi": [
+   "-OH",
+   "-CHO",
+   "-COOH",
+   "-C=O"
+  ],
+  "correct": 3,
+  "explainEn": "A ketone is an organic compound with the structure R-C(=O)-R', featuring a carbonyl group bonded to two carbon atoms.",
+  "sourceHint": "NCERT Class 12 Chemistry, Aldehydes, Ketones and Carboxylic Acids",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T21:59:16Z"
+ },
+ {
+  "id": "q_5fa9aa8eb4f0d0a1",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian Constitutional article prohibits discrimination on grounds of religion, race, caste, sex, or place of birth?",
+  "qHi": "भारतीय संविधान का कौन सा अनुच्छेद धर्म, मूलवंश, जाति, लिंग या जन्म स्थान के आधार पर भेदभाव को निषेध करता है?",
+  "optsEn": [
+   "Article 14",
+   "Article 15",
+   "Article 19",
+   "Article 21"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14",
+   "अनुच्छेद 15",
+   "अनुच्छेद 19",
+   "अनुच्छेद 21"
+  ],
+  "correct": 1,
+  "explainEn": "Article 15 of the Indian Constitution prohibits discrimination against any citizen on grounds only of religion, race, caste, sex, or place of birth.",
+  "sourceHint": "Constitution of India, Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:00:31Z"
+ },
+ {
+  "id": "q_64a7a9514c1b4f88",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following compounds exhibits optical isomerism?",
+  "qHi": "निम्नलिखित में से कौन सा यौगिक ध्रुवण घूर्णकता या प्रकाशिक समावयवता प्रदर्शित करता है?",
+  "optsEn": [
+   "[Co(en)3]3+",
+   "[PtCl4]2-",
+   "[Co(NH3)6]3+",
+   "[Ni(CO)4]"
+  ],
+  "optsHi": [
+   "[Co(en)3]3+",
+   "[PtCl4]2-",
+   "[Co(NH3)6]3+",
+   "[Ni(CO)4]"
+  ],
+  "correct": 0,
+  "explainEn": "Complexes with chelate ligands like [Co(en)3]3+ lack a plane of symmetry and show optical isomerism.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:00:31Z"
+ },
+ {
+  "id": "q_e495db64047d0ca4",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which economic sector is primarily associated with the extraction of natural resources like mining and agriculture?",
+  "qHi": "कौन सा आर्थिक क्षेत्र मुख्य रूप से खनन और कृषि जैसे प्राकृतिक संसाधनों के निष्कर्षण से जुड़ा है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Quaternary sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "तृतीयक क्षेत्र",
+   "चतुर्थक क्षेत्र"
+  ],
+  "correct": 0,
+  "explainEn": "The primary sector includes activities directly dependent on the extraction and use of natural resources.",
+  "sourceHint": "NCERT Class 12 Geography, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:00:31Z"
+ },
+ {
+  "id": "q_fea049787e9f6f6c",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the famous book 'The Wealth of Nations' published in 1776?",
+  "qHi": "वर्ष 1776 में प्रकाशित प्रसिद्ध पुस्तक 'द वेल्थ ऑफ नेशंस' के लेखक कौन हैं?",
+  "optsEn": [
+   "Karl Marx",
+   "Adam Smith",
+   "John Maynard Keynes",
+   "David Ricardo"
+  ],
+  "optsHi": [
+   "कार्ल मार्क्स",
+   "एडम स्मिथ",
+   "जॉन मेनार्ड कीन्स",
+   "डेविड रिकार्डो"
+  ],
+  "correct": 1,
+  "explainEn": "Adam Smith published 'The Wealth of Nations', establishing classical economics.",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:00:31Z"
+ },
+ {
+  "id": "q_26e160aaae26e87c",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which year did the Cabinet Mission arrive in British India?",
+  "qHi": "ब्रिटिश भारत में कैबिनेट मिशन किस वर्ष आया था?",
+  "optsEn": [
+   "1942",
+   "1944",
+   "1946",
+   "1947"
+  ],
+  "optsHi": [
+   "1942",
+   "1944",
+   "1946",
+   "1947"
+  ],
+  "correct": 2,
+  "explainEn": "The Cabinet Mission arrived in India in March 1946 to discuss the transfer of power.",
+  "sourceHint": "NCERT Class 12 History, Theme 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T22:00:31Z"
  }
 ]
