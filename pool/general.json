@@ -6830,5 +6830,425 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-11T05:50:32Z"
+ },
+ {
+  "id": "q_f732a54497a5a03b",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the famous Indian epic Ramayana?",
+  "qHi": "प्रसिद्ध भारतीय महाकाव्य रामायण किसने लिखा था?",
+  "optsEn": [
+   "Valmiki",
+   "Tulsidas",
+   "Ved Vyasa",
+   "Kalidasa"
+  ],
+  "optsHi": [
+   "वाल्मीकि",
+   "तुलसीदास",
+   "वेद व्यास",
+   "कालिदास"
+  ],
+  "correct": 0,
+  "explainEn": "Sage Valmiki is traditionally recognized as the author of the epic Ramayana.",
+  "sourceHint": "NCERT textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:52:03Z"
+ },
+ {
+  "id": "q_0e60a2b6f517ac73",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these gases is most abundant in Earth's atmosphere?",
+  "qHi": "पृथ्वी के वायुमंडल में इनमें से कौन सी गैस सबसे प्रचुर मात्रा में है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 2,
+  "explainEn": "Nitrogen makes up about 78 percent of Earth's atmosphere.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:52:03Z"
+ },
+ {
+  "id": "q_d9807a9794f470f7",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the boiling point of pure water at standard atmospheric pressure?",
+  "qHi": "मानक वायुमंडलीय दबाव पर शुद्ध पानी का क्वथनांक क्या है?",
+  "optsEn": [
+   "90 degrees Celsius",
+   "100 degrees Celsius",
+   "110 degrees Celsius",
+   "100 degrees Fahrenheit"
+  ],
+  "optsHi": [
+   "90 डिग्री सेल्सियस",
+   "100 डिग्री सेल्सियस",
+   "110 डिग्री सेल्सियस",
+   "100 डिग्री फारेनहाइट"
+  ],
+  "correct": 1,
+  "explainEn": "Pure water boils at 100 degrees Celsius under standard atmospheric conditions.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:52:03Z"
+ },
+ {
+  "id": "q_8b6bd38fdaf85b6a",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which classical dance form originates from the southern state of Kerala and is traditionally performed with elaborate facial makeup and colorful costumes?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप दक्षिणी राज्य केरल से उत्पन्न हुआ है और पारंपरिक रूप से विस्तृत चेहरे के मेकअप और रंगीन वेशभूषा के साथ किया जाता है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Odissi",
+   "Kuchipudi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "ओडिसी",
+   "कुचिपुड़ी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a major form of classical Indian dance that originated in Kerala, distinguished by its colorful make-up, costumes, and face masks.",
+  "sourceHint": "NCERT Fine Arts textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:53:40Z"
+ },
+ {
+  "id": "q_716a55c1c8efea1a",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Constitution of India, which body is responsible for conducting elections to the Lok Sabha and the State Legislative Assemblies?",
+  "qHi": "भारत के संविधान के तहत, कौन सा निकाय लोकसभा और राज्य विधानसभाओं के चुनाव कराने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Election Commission of India",
+   "Supreme Court of India",
+   "NITI Aayog",
+   "Union Public Service Commission"
+  ],
+  "optsHi": [
+   "भारत का निर्वाचन आयोग",
+   "भारत का उच्चतम न्यायालय",
+   "नीति आयोग",
+   "संघ लोक सेवा आयोग"
+  ],
+  "correct": 0,
+  "explainEn": "Article 324 of the Constitution vests the superintendence, direction, and control of elections to Parliament and state legislatures in the Election Commission of India.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:53:40Z"
+ },
+ {
+  "id": "q_d68b01c9909ce3a3",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which element is the primary component of natural gas, which is widely used as a fuel in Indian households and industries?",
+  "qHi": "प्राकृतिक गैस का प्राथमिक घटक कौन सा है, जिसका उपयोग भारतीय घरों और उद्योगों में ईंधन के रूप में व्यापक रूप से किया जाता है?",
+  "optsEn": [
+   "Propane",
+   "Butane",
+   "Methane",
+   "Ethane"
+  ],
+  "optsHi": [
+   "प्रोपेन",
+   "ब्यूटेन",
+   "मीथेन",
+   "एथेन"
+  ],
+  "correct": 2,
+  "explainEn": "Methane is the chief constituent of natural gas, typically making up around 70 to 90 percent of its composition.",
+  "sourceHint": "NCERT Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:53:40Z"
+ },
+ {
+  "id": "q_b9fd6635ee41c838",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the game of cricket, how many fielding players, excluding the bowler and the wicketkeeper, are permitted to be stationed on the field at any one time?",
+  "qHi": "क्रिकेट के खेल में, एक समय में मैदान पर गेंदबाज और विकेटकीपर को छोड़कर कितने फील्डिंग खिलाड़ियों को तैनात करने की अनुमति है?",
+  "optsEn": [
+   "Nine",
+   "Ten",
+   "Eleven",
+   "Eight"
+  ],
+  "optsHi": [
+   "नौ",
+   "दस",
+   "ग्यारह",
+   "आठ"
+  ],
+  "correct": 0,
+  "explainEn": "A cricket fielding side consists of 11 players on the pitch: one bowler, one wicketkeeper, and the remaining nine fielders placed in various fielding positions.",
+  "sourceHint": "Laws of Cricket by Marylebone Cricket Club",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:53:40Z"
+ },
+ {
+  "id": "q_c9b74b38ea88c0dd",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin is synthesized in the human skin when it is exposed to ultraviolet light from the sun?",
+  "qHi": "जब मानव त्वचा सूर्य के पराबैंगनी प्रकाश के संपर्क में आती है तो उसमें कौन सा विटामिन संश्लेषित होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin C",
+   "Vitamin D",
+   "Vitamin K"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन सी",
+   "विटामिन डी",
+   "विटामिन के"
+  ],
+  "correct": 2,
+  "explainEn": "Vitamin D is often referred to as the 'sunshine vitamin' because the body produces it when skin is exposed to sunlight.",
+  "sourceHint": "NCERT Biology textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:53:40Z"
+ },
+ {
+  "id": "q_f856e4ffac0503cd",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of the Indian space mission series named 'Chandrayaan'?",
+  "qHi": "'चंद्रयान' नामक भारतीय अंतरिक्ष मिशन श्रृंखला का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "Exploring Mars",
+   "Studying the Moon",
+   "Monitoring solar radiation",
+   "Mapping Venusian atmosphere"
+  ],
+  "optsHi": [
+   "मंगल ग्रह की खोज करना",
+   "चंद्रमा का अध्ययन करना",
+   "सौर विकिरण की निगरानी करना",
+   "शुक्र के वायुमंडल का मानचित्रण करना"
+  ],
+  "correct": 1,
+  "explainEn": "Chandrayaan (meaning Moon craft in Sanskrit) is ISRO's lunar exploration program aimed at studying the Moon.",
+  "sourceHint": "ISRO official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:53:40Z"
+ },
+ {
+  "id": "q_6319aa52a9d59fc9",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which mountain range is the Zoji La pass situated?",
+  "qHi": "जोजी ला दर्रा किस पर्वत श्रृंखला में स्थित है?",
+  "optsEn": [
+   "Pir Panjal",
+   "Zanskar",
+   "Ladakh Range",
+   "Eastern Karakoram"
+  ],
+  "optsHi": [
+   "पीर पंजाल",
+   "जांस्कर",
+   "लद्दाख श्रेणी",
+   "पूर्वी काराकोरम"
+  ],
+  "correct": 1,
+  "explainEn": "Zoji La is a high mountain pass in Ladakh, connecting Srinagar and Leh, situated in the Zanskar range.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:54:21Z"
+ },
+ {
+  "id": "q_c9a1c50af4da8326",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who wrote the famous Sanskrit play 'Mricchakatika'?",
+  "qHi": "प्रसिद्ध संस्कृत नाटक 'मृच्छकटिकम्' की रचना किसने की थी?",
+  "optsEn": [
+   "Kalidasa",
+   "Bhasa",
+   "Shudraka",
+   "Bhavabhuti"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "भास",
+   "शूद्रक",
+   "भवभूति"
+  ],
+  "correct": 2,
+  "explainEn": "Mricchakatika (The Little Clay Cart) is an ancient ten-act Sanskrit drama attributed to Shudraka.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:54:21Z"
+ },
+ {
+  "id": "q_c836da3442b49107",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian state has the highest reserves of crude mica according to the Indian Minerals Yearbook?",
+  "qHi": "भारतीय खनिज वर्षपुस्तिका के अनुसार किस भारतीय राज्य में कच्चे अभ्रक (माइका) का सबसे बड़ा भंडार है?",
+  "optsEn": [
+   "Jharkhand",
+   "Andhra Pradesh",
+   "Rajasthan",
+   "Bihar"
+  ],
+  "optsHi": [
+   "झारखंड",
+   "आंध्र प्रदेश",
+   "राजस्थान",
+   "बिहार"
+  ],
+  "correct": 1,
+  "explainEn": "Andhra Pradesh leads India in mica resources, followed by Rajasthan and Odisha.",
+  "sourceHint": "Ministry of Mines, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:54:21Z"
+ },
+ {
+  "id": "q_f0bf140f1cf07ac5",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian mathematician's work on partition numbers was famously analyzed by G. H. Hardy?",
+  "qHi": "किस भारतीय गणितज्ञ के विभाजन संख्याओं (पार्टीशन नंबर्स) पर किए गए कार्य का विश्लेषण जी. एच. हार्डी ने किया था?",
+  "optsEn": [
+   "Srinivasa Ramanujan",
+   "C. R. Rao",
+   "P. C. Mahalanobis",
+   "S. Chandrasekhar"
+  ],
+  "optsHi": [
+   "श्रीनिवास रामानुजन",
+   "सी. आर. राव",
+   "पी. सी. महालनोबिस",
+   "एस. चंद्रशेखर"
+  ],
+  "correct": 0,
+  "explainEn": "Ramanujan and Hardy collaborated extensively on the asymptotic properties of partition functions.",
+  "sourceHint": "Biographical Memoirs of Fellows of the Royal Society",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:54:21Z"
+ },
+ {
+  "id": "q_500f0aa989e21e22",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Indian Constitution, which article prohibits the employment of children below the age of 14 years in factories and mines?",
+  "qHi": "भारतीय संविधान का कौन सा अनुच्छेद कारखानों और खानों में 14 वर्ष से कम आयु के बच्चों के नियोजन पर प्रतिबंध लगाता है?",
+  "optsEn": [
+   "Article 17",
+   "Article 21A",
+   "Article 24",
+   "Article 45"
+  ],
+  "optsHi": [
+   "अनुच्छेद 17",
+   "अनुच्छेद 21क",
+   "अनुच्छेद 24",
+   "अनुच्छेद 45"
+  ],
+  "correct": 2,
+  "explainEn": "Article 24 falls under the Right against Exploitation in the Fundamental Rights chapter.",
+  "sourceHint": "Constitution of India, Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:54:21Z"
+ },
+ {
+  "id": "q_f70b06b894158e44",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which wildlife sanctuary was the Indian Rhino Vision 2020 primarily focused on reintroducing rhinoceros populations?",
+  "qHi": "भारतीय गैंडा विजन 2020 मुख्य रूप से किस वन्यजीव अभ्यारण्य में गैंडों की आबादी को पुनस्र्थापित करने पर केंद्रित था?",
+  "optsEn": [
+   "Kaziranga National Park",
+   "Manas National Park",
+   "Pobitora Wildlife Sanctuary",
+   "Orang National Park"
+  ],
+  "optsHi": [
+   "काजीरंगा राष्ट्रीय उद्यान",
+   "मानस राष्ट्रीय उद्यान",
+   "पोबितोरा वन्यजीव अभ्यारण्य",
+   "ओरंग राष्ट्रीय उद्यान"
+  ],
+  "correct": 1,
+  "explainEn": "Manas National Park was one of the prime sites where rhinos were reintroduced under IRV 2020.",
+  "sourceHint": "WWF India / Ministry of Environment, Forest and Climate Change",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:54:21Z"
  }
 ]

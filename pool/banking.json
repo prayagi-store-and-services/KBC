@@ -10218,5 +10218,509 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-11T05:51:10Z"
+ },
+ {
+  "id": "q_c6004562c0c5861c",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which currency is the legal tender of India?",
+  "qHi": "भारत की कानूनी निविदा (करेंसी) कौन सी है?",
+  "optsEn": [
+   "Dollar",
+   "Taka",
+   "Rupee",
+   "Yen"
+  ],
+  "optsHi": [
+   "डॉलर",
+   "टका",
+   "रुपया",
+   "येन"
+  ],
+  "correct": 2,
+  "explainEn": "The Indian Rupee (INR) is the official currency of India.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:51:59Z"
+ },
+ {
+  "id": "q_543142ef5e038b88",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In the context of banking, what does 'NEFT' stand for?",
+  "qHi": "बैंकिंग के संदर्भ में 'NEFT' का क्या अर्थ है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "New Economic Financial Term",
+   "National Equity Fund Trust",
+   "Net Electronic Foreign Transaction"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "न्यू इकोनॉमिक फाइनेंशियल टर्म",
+   "नेशनल इक्विटी फंड ट्रस्ट",
+   "नेट इलेक्ट्रॉनिक फॉरेन ट्रांजैक्शन"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, a nationwide centralized payment system.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:51:59Z"
+ },
+ {
+  "id": "q_7ed8e2b674ec54f3",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following accounts typically offers no interest to the account holder?",
+  "qHi": "निम्नलिखित में से किस खाते में आमतौर पर खाताधारक को कोई ब्याज नहीं मिलता है?",
+  "optsEn": [
+   "Savings Account",
+   "Fixed Deposit Account",
+   "Current Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "बचत खाता",
+   "सावधि जमा खाता",
+   "चालू खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 2,
+  "explainEn": "Current accounts are meant for businesses and generally do not offer any interest on deposits.",
+  "sourceHint": "NCERT Business Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:51:59Z"
+ },
+ {
+  "id": "q_8bf30c962c594e8c",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'C' stand for in the credit rating term 'CIBIL'?",
+  "qHi": "क्रेडिट रेटिंग शब्द 'CIBIL' में 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Central",
+   "Credit",
+   "Currency",
+   "Commercial"
+  ],
+  "optsHi": [
+   "सेंट्रल",
+   "क्रेडिट",
+   "करेंसी",
+   "कमर्शियल"
+  ],
+  "correct": 1,
+  "explainEn": "CIBIL stands for Credit Information Bureau (India) Limited.",
+  "sourceHint": "TransUnion CIBIL",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:51:59Z"
+ },
+ {
+  "id": "q_1a4a13d30200674e",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following terms is used to describe the rate at which commercial banks borrow money from the Reserve Bank of India by pledging government securities in the short term?",
+  "qHi": "निम्नलिखित में से किस शब्द का उपयोग उस दर का वर्णन करने के लिए किया जाता है जिस पर वाणिज्यिक बैंक अल्पकालिक में सरकारी प्रतिभूतियों को गिरवी रखकर भारतीय रिजर्व बैंक से पैसा उधार लेते हैं?",
+  "optsEn": [
+   "Bank Rate",
+   "Repo Rate",
+   "Reverse Repo Rate",
+   "Cash Reserve Ratio"
+  ],
+  "optsHi": [
+   "बैंक दर",
+   "रेपो रेट",
+   "रिवर्स रेपो रेट",
+   "नकद आरक्षित अनुपात"
+  ],
+  "correct": 1,
+  "explainEn": "Repo rate is the rate at which the central bank lends short-term money to commercial banks against securities.",
+  "sourceHint": "RBI official website and NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:53:35Z"
+ },
+ {
+  "id": "q_c3fc4147e57ec77a",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the abbreviation 'MSF', a liquidity management tool used by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा उपयोग किए जाने वाले तरलता प्रबंधन उपकरण 'MSF' संक्षिप्त नाम में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liquidity",
+   "Leverage",
+   "Liability",
+   "Lending"
+  ],
+  "optsHi": [
+   "लिक्विडिटी (Liquidity)",
+   "लीवेज (Leverage)",
+   "लायबिलिटी (Liability)",
+   "लेंडिंग (Lending)"
+  ],
+  "correct": 0,
+  "explainEn": "MSF stands for Marginal Standing Facility, which is a window for scheduled banks to borrow overnight funds from RBI.",
+  "sourceHint": "RBI Monetary Policy terminology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:53:35Z"
+ },
+ {
+  "id": "q_fd148eeabbd76054",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque becomes stale after the completion of how many months from its date of issuance, as per standard banking guidelines in India?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, भारत में मानक बैंकिंग दिशानिर्देशों के अनुसार, जारी होने की तारीख से कितने महीने पूरे होने के बाद एक चेक पुराना (बासी) हो जाता है?",
+  "optsEn": [
+   "1 month",
+   "3 months",
+   "6 months",
+   "12 months"
+  ],
+  "optsHi": [
+   "1 महीना",
+   "3 महीने",
+   "6 महीने",
+   "12 महीने"
+  ],
+  "correct": 1,
+  "explainEn": "Reserve Bank of India directed that the validity period of cheques, demand drafts, and pay orders be reduced from 6 months to 3 months.",
+  "sourceHint": "RBI Circulars",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:53:35Z"
+ },
+ {
+  "id": "q_c1e9128e963f0158",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institutional body in India regulates the mutual funds market?",
+  "qHi": "भारत में कौन सा संस्थागत निकाय म्यूचुअल फंड बाजार को नियंत्रित करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India",
+   "Insurance Regulatory and Development Authority",
+   "National Bank for Agriculture and Rural Development"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "बीमा नियामक और विकास प्राधिकरण",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "SEBI regulates the securities market in India, including mutual funds, under the SEBI Act, 1992.",
+  "sourceHint": "SEBI Act, 1992",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:53:35Z"
+ },
+ {
+  "id": "q_900697ab0354d385",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'C' stand for in the acronym 'CASA' used in banking parlance?",
+  "qHi": "बैंकिंग की भाषा में प्रयुक्त संक्षिप्त नाम 'CASA' में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Credit",
+   "Current",
+   "Capital",
+   "Currency"
+  ],
+  "optsHi": [
+   "क्रेडिट (Credit)",
+   "करेंट (Current)",
+   "कैपिटल (Capital)",
+   "करेंसी (Currency)"
+  ],
+  "correct": 1,
+  "explainEn": "CASA stands for Current Account Savings Account, representing low-cost deposits for commercial banks.",
+  "sourceHint": "Banking terminology and RBI publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:53:35Z"
+ },
+ {
+  "id": "q_e2708624cb92486a",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following financial instruments represents an ownership position in a publicly traded corporation in India?",
+  "qHi": "निम्नलिखित में से कौन सा वित्तीय साधन भारत में सार्वजनिक रूप से कारोबार करने वाली निगम में स्वामित्व की स्थिति का प्रतिनिधित्व करता है?",
+  "optsEn": [
+   "Treasury Bill",
+   "Certificate of Deposit",
+   "Equity Share",
+   "Commercial Paper"
+  ],
+  "optsHi": [
+   "ट्रेजरी बिल",
+   "प्रमाण पत्र (Certificate of Deposit)",
+   "इक्विटी शेयर",
+   "वाणिज्यिक पत्र (Commercial Paper)"
+  ],
+  "correct": 2,
+  "explainEn": "Equity shares represent fractional ownership in a company, whereas bonds and bills represent debt.",
+  "sourceHint": "NCERT Business Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:53:35Z"
+ },
+ {
+  "id": "q_663be27356586b93",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of the monetary policy committee (MPC) constituted under the Reserve Bank of India Act, 1934?",
+  "qHi": "भारतीय रिजर्व बैंक अधिनियम, 1934 के तहत गठित मौद्रिक नीति समिति (MPC) का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "Inflation targeting",
+   "Fixing income tax rates",
+   "Managing foreign exchange reserves",
+   "Regulating stock exchanges"
+  ],
+  "optsHi": [
+   "मुद्रास्फीति लक्ष्यीकरण",
+   "आयकर दरों को तय करना",
+   "विदेशी मुद्रा भंडार का प्रबंधन करना",
+   "स्टॉक एक्सचेंजों को विनियमित करना"
+  ],
+  "correct": 0,
+  "explainEn": "The primary mandate of the MPC is inflation targeting while keeping in mind the objective of growth.",
+  "sourceHint": "RBI Act, 1934 Section 45Z",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:53:35Z"
+ },
+ {
+  "id": "q_586eface321a596a",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following categories of non-performing assets requires provisioning for doubtful assets exceeding three years?",
+  "qHi": "गैर-निष्पादित संपत्तियों की निम्नलिखित में से किस श्रेणी के लिए तीन साल से अधिक समय तक संदेहास्पद संपत्तियों के लिए प्रावधान की आवश्यकता होती है?",
+  "optsEn": [
+   "Sub-standard category",
+   "Doubtful up to one year",
+   "Doubtful between one to three years",
+   "Doubtful for more than three years"
+  ],
+  "optsHi": [
+   "उप-मानक श्रेणी",
+   "एक वर्ष तक संदेहास्पद",
+   "एक से तीन वर्ष के बीच संदेहास्पद",
+   "तीन वर्ष से अधिक समय तक संदेहास्पद"
+  ],
+  "correct": 3,
+  "explainEn": "According to RBI prudential norms, unsecured portion of advances classified as doubtful for more than three years requires a 100 percent provisioning.",
+  "sourceHint": "RBI Master Circular on Prudential Norms on Income Recognition, Asset Classification",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:54:15Z"
+ },
+ {
+  "id": "q_c75d8495afe8f7b3",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary objective of the Marginal Cost of Funds based Lending Rate (MCLR) framework introduced by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा शुरू की गई फंड आधारित ऋण दर (MCLR) ढांचे की सीमांत लागत का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To determine the Cash Reserve Ratio for scheduled banks",
+   "To improve the transmission of policy rates to lending rates of banks",
+   "To fix the statutory liquidity ratio for cooperative banks",
+   "To regulate foreign institutional investments in government securities"
+  ],
+  "optsHi": [
+   "अनुसूचित बैंकों के लिए नकद आरक्षित अनुपात निर्धारित करना",
+   "बैंकों की ऋण दरों में नीतिगत दरों के संचरण में सुधार करना",
+   "सहकारी बैंकों के लिए सांविधिक तरलता अनुपात तय करना",
+   "सरकारी प्रतिभूतियों में विदेशी संस्थागत निवेश को विनियमित करना"
+  ],
+  "correct": 1,
+  "explainEn": "The MCLR system was introduced to improve the transmission of monetary policy rates to the actual lending rates charged to borrowers by commercial banks.",
+  "sourceHint": "RBI Guidelines on MCLR",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:54:15Z"
+ },
+ {
+  "id": "q_261c0b85e3ee71ac",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which instrument is issued at a discount to its face value and acts as a short-term promissory note in the Indian money market?",
+  "qHi": "भारतीय मुद्रा बाजार में अंकित मूल्य पर छूट पर जारी किया जाता है और अल्पकालिक वचन पत्र के रूप में कार्य करता है?",
+  "optsEn": [
+   "Certificate of Deposit",
+   "Treasury Bill",
+   "Dated Government Security",
+   "Commercial Paper"
+  ],
+  "optsHi": [
+   "जमा प्रमाणपत्र",
+   "राजकोषीय बिल",
+   "दिनांकित सरकारी प्रतिभूति",
+   "वाणिज्यिक पत्र"
+  ],
+  "correct": 1,
+  "explainEn": "Treasury bills are short-term debt instruments issued by the Government of India at a discount to face value and redeemed at par on maturity.",
+  "sourceHint": "RBI Financial Markets Operations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:54:15Z"
+ },
+ {
+  "id": "q_1bd234f3496d374b",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Prompt Corrective Action (PCA) framework for banks, which of the following parameters is generally not used by the Reserve Bank of India to monitor financial health?",
+  "qHi": "बैंकों के लिए त्वरित सुधारात्मक कार्रवाई (PCA) ढांचे के तहत, वित्तीय स्वास्थ्य की निगरानी के लिए भारतीय रिजर्व बैंक द्वारा आम तौर पर निम्नलिखित में से किस मापदंड का उपयोग नहीं किया जाता है?",
+  "optsEn": [
+   "Capital to Risk-weighted Assets Ratio",
+   "Net Non-Performing Asset ratio",
+   "Return on Assets",
+   "Credit-Deposit Ratio"
+  ],
+  "optsHi": [
+   "पूंजी से जोखिम-भारित परिसंपत्ति अनुपात",
+   "शुद्ध गैर-निष्पादित परिसंपत्ति अनुपात",
+   "परिसंपत्तियों पर रिटर्न",
+   "ऋด-जमा अनुपात"
+  ],
+  "correct": 3,
+  "explainEn": "The PCA framework primarily monitors Capital to Risk-weighted Assets Ratio (CRAR), Net NPA (NNPA), and Leverage (Tier I Leverage Ratio) / Return on Assets (RoA). Credit-Deposit ratio is not a core PCA threshold parameter.",
+  "sourceHint": "RBI Revised PCA Framework for Scheduled Commercial Banks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:54:15Z"
+ },
+ {
+  "id": "q_5b165e7dfc846091",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which institution in India acts as the principal regulator for Micro Finance Institutions (MFIs) organized as Non-Banking Financial Companies (NBFC-MFIs)?",
+  "qHi": "भारत में कौन सा संस्थान गैर-बैंकिंग वित्तीय कंपनियों (NBFC-MFIs) के रूप में आयोजित सूक्ष्म वित्त संस्थानों (MFIs) के लिए मुख्य नियामक के रूप में कार्य करता है?",
+  "optsEn": [
+   "Small Industries Development Bank of India",
+   "National Bank for Agriculture and Rural Development",
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "भारतीय लघु उद्योग विकास बैंक",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड"
+  ],
+  "correct": 2,
+  "explainEn": "The Reserve Bank of India regulates all NBFCs, including NBFC-MFIs, while NABARD plays a developmental and refinancing role in the microfinance sector.",
+  "sourceHint": "RBI Master Directions on Regulatory Framework for NBFC-MFIs",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:54:15Z"
+ },
+ {
+  "id": "q_5db9bb00f2906b21",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of priority sector lending (PSL) guidelines in India, which category represents loans given to individuals for educational purposes including vocational courses?",
+  "qHi": "भारत में प्राथमिकता प्राप्त क्षेत्र को ऋण (PSL) दिशानिर्देशों के संदर्भ में, कौन सी श्रेणी व्यावसायिक पाठ्यक्रमों सहित शैक्षणिक उद्देश्यों के लिए व्यक्तियों को दिए जाने वाले ऋणों का प्रतिनिधित्व करती है?",
+  "optsEn": [
+   "Social Infrastructure",
+   "Education",
+   "Weaker Sections",
+   "Export Credit"
+  ],
+  "optsHi": [
+   "सामाजिक बुनियादी ढांचा",
+   "शिक्षा",
+   "कमजोर वर्ग",
+   "निर्यात ऋण"
+  ],
+  "correct": 1,
+  "explainEn": "Loans to individuals for educational purposes, including vocational courses, up to specified limits qualify under the 'Education' category of Priority Sector Lending.",
+  "sourceHint": "RBI Master Directions on Priority Sector Lending",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:54:15Z"
+ },
+ {
+  "id": "q_c14ac2b700b984c9",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the maximum limit for a single transaction under the Immediate Payment Service (IMPS) channel, as per standard regulatory guidelines?",
+  "qHi": "मानक नियामक दिशानिर्देशों के अनुसार, तत्काल भुगतान सेवा (IMPS) चैनल के तहत एकल लेनदेन के लिए अधिकतम सीमा क्या है?",
+  "optsEn": [
+   "Two lakh rupees",
+   "Five lakh rupees",
+   "Ten lakh rupees",
+   "No upper limit specified by RBI"
+  ],
+  "optsHi": [
+   "दो लाख रुपये",
+   "पांच लाख रुपये",
+   "दस लाख रुपये",
+   "RBI द्वारा कोई ऊपरी सीमा निर्दिष्ट नहीं है"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India increased the maximum per-transaction limit for IMPS to five lakh rupees for channels like internet banking and mobile banking.",
+  "sourceHint": "NPCI and RBI circulars on IMPS transaction limits",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:54:15Z"
  }
 ]

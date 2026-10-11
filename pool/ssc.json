@@ -6830,5 +6830,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-11T05:51:03Z"
+ },
+ {
+  "id": "q_45f9bc7674f2b884",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Bihu is a traditional folk dance associated with which Indian state?",
+  "qHi": "बिहू किस भारतीय राज्य से जुड़ा एक पारंपरिक लोक नृत्य है?",
+  "optsEn": [
+   "Manipur",
+   "Odisha",
+   "Assam",
+   "Kerala"
+  ],
+  "optsHi": [
+   "मणिपुर",
+   "ओडिशा",
+   "असम",
+   "केरल"
+  ],
+  "correct": 2,
+  "explainEn": "Bihu is a indigenous folk dance from Assam associated with the Bihu festivals.",
+  "sourceHint": "CCRT India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:53:29Z"
+ },
+ {
+  "id": "q_974b1f3a4cba71d1",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Ajanta Caves, known for ancient rock-cut Buddhist monuments, are located in which state?",
+  "qHi": "प्राचीन रॉक-कट बौद्ध स्मारकों के लिए प्रसिद्ध अजंता गुफाएँ किस राज्य में स्थित हैं?",
+  "optsEn": [
+   "Maharashtra",
+   "Madhya Pradesh",
+   "Karnataka",
+   "Andhra Pradesh"
+  ],
+  "optsHi": [
+   "महाराष्ट्र",
+   "मध्य प्रदेश",
+   "कर्नाटक",
+   "आंध्र प्रदेश"
+  ],
+  "correct": 0,
+  "explainEn": "The Ajanta Caves are approximately 30 rock-cut Buddhist cave monuments dating from the 2nd century BCE to about 480 CE in Aurangabad district (now Chhatrapati Sambhajinagar) of Maharashtra.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:53:29Z"
+ },
+ {
+  "id": "q_5cfb2170ad82d807",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "The headquarters of the Reserve Bank of India is located in which city?",
+  "qHi": "भारतीय रिजर्व बैंक का मुख्यालय किस शहर में स्थित है?",
+  "optsEn": [
+   "New Delhi",
+   "Mumbai",
+   "Kolkata",
+   "Chennai"
+  ],
+  "optsHi": [
+   "नई दिल्ली",
+   "मुंबई",
+   "कोलकाता",
+   "चेन्नई"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India was established in 1935 and its central office is located in Mumbai.",
+  "sourceHint": "Reserve Bank of India Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:53:29Z"
+ },
+ {
+  "id": "q_a9657c18a4ddac74",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following dynasties constructed the famous Brihadisvara Temple at Thanjavur?",
+  "qHi": "निम्नलिखित में से किस राजवंश ने तंजावुर में प्रसिद्ध बृहदेश्वर मंदिर का निर्माण कराया था?",
+  "optsEn": [
+   "Chola dynasty",
+   "Pallava dynasty",
+   "Chalukya dynasty",
+   "Rashtrakuta dynasty"
+  ],
+  "optsHi": [
+   "चोल राजवंश",
+   "पल्लव राजवंश",
+   "चालुक्य राजवंश",
+   "राष्ट्रकूट राजवंश"
+  ],
+  "correct": 0,
+  "explainEn": "The Brihadisvara Temple in Thanjavur was built by Raja Raja Chola I of the Chola dynasty in the 11th century.",
+  "sourceHint": "NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:54:09Z"
  }
 ]

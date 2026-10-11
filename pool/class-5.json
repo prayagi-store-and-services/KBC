@@ -8454,5 +8454,425 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-11T05:50:36Z"
+ },
+ {
+  "id": "q_0ea8a7c279e9ee07",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the process by which plants make their own food using sunlight?",
+  "qHi": "वह प्रक्रिया जिसके द्वारा पौधे सूर्य के प्रकाश का उपयोग करके अपना भोजन बनाते हैं, क्या कहलाती है?",
+  "optsEn": [
+   "Respiration",
+   "Digestion",
+   "Photosynthesis",
+   "Transpiration"
+  ],
+  "optsHi": [
+   "श्वसन",
+   "पाचन",
+   "प्रकाश संश्लेषण",
+   "वाष्पोत्सर्जन"
+  ],
+  "correct": 2,
+  "explainEn": "Photosynthesis is the process by which green plants use sunlight, water, and carbon dioxide to create food.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:52:07Z"
+ },
+ {
+  "id": "q_45c068748198b1a9",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these animals is mainly nocturnal, meaning it is active at night?",
+  "qHi": "इनमें से कौन सा जानवर मुख्य रूप से निशाचर है, जिसका अर्थ है कि वह रात में सक्रिय होता है?",
+  "optsEn": [
+   "Owl",
+   "Cow",
+   "Crow",
+   "Elephant"
+  ],
+  "optsHi": [
+   "उल्लू",
+   "गाय",
+   "कौआ",
+   "हाथी"
+  ],
+  "correct": 0,
+  "explainEn": "Owls have special adaptations that make them active and able to hunt during the night.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:52:07Z"
+ },
+ {
+  "id": "q_ecb890655a801f99",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of natural resource is petroleum?",
+  "qHi": "पेट्रोलियम किस प्रकार का प्राकृतिक संसाधन है?",
+  "optsEn": [
+   "Renewable resource",
+   "Non-renewable resource",
+   "Inexhaustible resource",
+   "Infinite resource"
+  ],
+  "optsHi": [
+   "नवीकरणीय संसाधन",
+   "अनवीकरणीय संसाधन",
+   "अक्षय संसाधन",
+   "अनंत संसाधन"
+  ],
+  "correct": 1,
+  "explainEn": "Petroleum is a fossil fuel that takes millions of years to form and is limited in supply, making it a non-renewable resource.",
+  "sourceHint": "NCERT Social Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:52:07Z"
+ },
+ {
+  "id": "q_ce7b25a2d6c6cb1d",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary line of latitude used to divide the Earth into the Northern and Southern Hemispheres?",
+  "qHi": "पृथ्वी को उत्तरी और दक्षिणी गोलार्ध में विभाजित करने वाली मुख्य अक्षांश रेखा कौन सी है?",
+  "optsEn": [
+   "Equator",
+   "Prime Meridian",
+   "Tropic of Cancer",
+   "Tropic of Capricorn"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा",
+   "प्रमुख मध्याह्न रेखा",
+   "कर्क रेखा",
+   "मकर रेखा"
+  ],
+  "correct": 0,
+  "explainEn": "The Equator is the 0-degree latitude line that divides the Earth into the Northern and Southern Hemispheres.",
+  "sourceHint": "NCERT Class 5 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:53:45Z"
+ },
+ {
+  "id": "q_56beabbd8f3982cb",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which animal is famous for building complex structures known as anthills?",
+  "qHi": "कौन सा जीव बांबी (एंथिल) के रूप में जानी जाने वाली जटिल संरचनाएं बनाने के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Ant",
+   "Spider",
+   "Honeybee",
+   "Butterfly"
+  ],
+  "optsHi": [
+   "चींटी",
+   "मकड़ी",
+   "मधुमक्खी",
+   "तितली"
+  ],
+  "correct": 0,
+  "explainEn": "Ants live in colonies and construct complex underground nests and surface anthills.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:53:45Z"
+ },
+ {
+  "id": "q_80dbde58920c5fc1",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin do we primarily get from exposure to early morning sunlight?",
+  "qHi": "सुबह की धूप के संपर्क में आने से हमें मुख्य रूप से कौन सा विटामिन मिलता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "The human body synthesizes Vitamin D when the skin is exposed to sunlight.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:53:45Z"
+ },
+ {
+  "id": "q_5d84384662f2561c",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of map shows natural features such as mountains, plateaus, and rivers?",
+  "qHi": "किस प्रकार का मानचित्र पर्वतों, पठारों और नदियों जैसी प्राकृतिक विशेषताओं को दर्शाता है?",
+  "optsEn": [
+   "Political map",
+   "Physical map",
+   "Road map",
+   "Climate map"
+  ],
+  "optsHi": [
+   "राजनीतिक मानचित्र",
+   "भौतिक मानचित्र",
+   "सड़क मानचित्र",
+   "जलवायु मानचित्र"
+  ],
+  "correct": 1,
+  "explainEn": "Physical maps show natural landforms and water bodies of the Earth.",
+  "sourceHint": "NCERT Class 5 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:53:45Z"
+ },
+ {
+  "id": "q_0b32067fd0f660fb",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these is a root vegetable commonly eaten by humans?",
+  "qHi": "इनमें से कौन सी जड़ वाली सब्जी है जिसे आमतौर पर मनुष्य खाते हैं?",
+  "optsEn": [
+   "Potato",
+   "Carrot",
+   "Tomato",
+   "Cabbage"
+  ],
+  "optsHi": [
+   "आलू",
+   "गाजर",
+   "टमाटर",
+   "पत्तागोभी"
+  ],
+  "correct": 1,
+  "explainEn": "Carrots grow underground and are modified taproots that store food.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:53:45Z"
+ },
+ {
+  "id": "q_4f982b50855ef91e",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of forest is predominantly found in regions experiencing heavy annual rainfall and high humidity, keeping the trees green throughout the year?",
+  "qHi": "अधिक वार्षिक वर्षा और उच्च आर्द्रता वाले क्षेत्रों में मुख्य रूप से किस प्रकार के वन पाए जाते हैं जो वर्ष भर हरे-भरा रहते हैं?",
+  "optsEn": [
+   "Tropical evergreen forests",
+   "Thorn forests",
+   "Deciduous forests",
+   "Mangrove forests"
+  ],
+  "optsHi": [
+   "उष्णकटिबंधीय सदाबहार वन",
+   "कंटीले वन",
+   "पतझड़ वाले वन",
+   "मैन्ग्रोव वन"
+  ],
+  "correct": 0,
+  "explainEn": "Tropical evergreen forests remain green all year round because they do not shed all their leaves at the same time due to abundant moisture and warmth.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 8 (India: Climate, Vegetation and Wildlife)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:54:26Z"
+ },
+ {
+  "id": "q_6fc19695e2dab70e",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional Indian stepwell was constructed primarily for water conservation and storage during dry periods?",
+  "qHi": "सूखे के समय पानी के संरक्षण और भंडारण के लिए मुख्य रूप से कौन सी पारंपरिक भारतीय सीढ़ीनुमा बावड़ी बनाई गई थी?",
+  "optsEn": [
+   "Stupa",
+   "Baoli",
+   "Dome",
+   "Minaret"
+  ],
+  "optsHi": [
+   "स्तूप",
+   "बावली",
+   "गुंबद",
+   "मीनार"
+  ],
+  "correct": 1,
+  "explainEn": "Baolis or stepwells are traditional water harvesting structures found across arid and semi-arid regions of India.",
+  "sourceHint": "NCERT Class 5 Environmental Studies (EVS) Chapter 6 (A Drop by Drop)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:54:26Z"
+ },
+ {
+  "id": "q_5ebb6a94a88bd12b",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the human digestive system, where does the absorption of digested food nutrients primarily take place into the bloodstream?",
+  "qHi": "मानव पाचन तंत्र के संदर्भ में, पचे हुए भोजन के पोषक तत्वों का रक्तप्रवाह में मुख्य रूप से अवशोषण कहाँ होता है?",
+  "optsEn": [
+   "Stomach",
+   "Large intestine",
+   "Small intestine",
+   "Food pipe"
+  ],
+  "optsHi": [
+   "आमाशय",
+   "बड़ी आंत",
+   "छोटी आंत",
+   "ग्रासन नली"
+  ],
+  "correct": 2,
+  "explainEn": "The inner walls of the small intestine have thousands of finger-like outgrowths called villi that absorb digested food into blood vessels.",
+  "sourceHint": "NCERT Class 7 Science Chapter 2 (Nutrition in Animals)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:54:26Z"
+ },
+ {
+  "id": "q_80d733aff5a8d3a1",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which major line of latitude passes almost through the middle of the Indian landmass?",
+  "qHi": "कौन सी प्रमुख अक्षांश रेखा भारतीय भूभाग के लगभग बीचों-बीच से गुजरती है?",
+  "optsEn": [
+   "Equator",
+   "Tropic of Cancer",
+   "Tropic of Capricorn",
+   "Arctic Circle"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा (विषुवत वृत्त)",
+   "कर्क रेखा",
+   "मकर रेखा",
+   "आर्कटिक वृत्त"
+  ],
+  "correct": 1,
+  "explainEn": "The Tropic of Cancer (23°30' N) passes almost halfway through the country, dividing India into roughly tropical and subtropical zones.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 7 (Our Country - India)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:54:26Z"
+ },
+ {
+  "id": "q_588198bb4577d2c9",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific type of soil is best suited for growing cotton due to its high moisture-retention capacity?",
+  "qHi": "अपनी उच्च नमी बनाए रखने की क्षमता के कारण कौन सी विशेष प्रकार की मिट्टी कपास उगाने के लिए सबसे उपयुक्त है?",
+  "optsEn": [
+   "Laterite soil",
+   "Black soil",
+   "Red soil",
+   "Desert soil"
+  ],
+  "optsHi": [
+   "लैटेराइट मिट्टी",
+   "काली मिट्टी",
+   "लाल मिट्टी",
+   "मरुस्थलीय मिट्टी"
+  ],
+  "correct": 1,
+  "explainEn": "Black soil, also known as regur soil, is rich in clay and retains moisture well, making it ideal for cotton cultivation.",
+  "sourceHint": "NCERT Class 7 Geography Chapter 5 (Water) / Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:54:26Z"
+ },
+ {
+  "id": "q_feb334304991f842",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the process called when plants release excess water vapor into the air through tiny pores on their leaves?",
+  "qHi": "उस प्रक्रिया को क्या कहा जाता है जब पौधे अपनी पत्तियों के सूक्ष्म छिद्रों के माध्यम से अतिरिक्त जल वाष्प को हवा में छोड़ते हैं?",
+  "optsEn": [
+   "Photosynthesis",
+   "Transpiration",
+   "Germination",
+   "Pollination"
+  ],
+  "optsHi": [
+   "प्रकाश संश्लेषण",
+   "वाष्पोत्सर्जन",
+   "अंकुरण",
+   "परागण"
+  ],
+  "correct": 1,
+  "explainEn": "Transpiration is the biological process where plants lose water in the form of vapor through stomata present on the leaves.",
+  "sourceHint": "NCERT Class 6 Science Chapter 7 (Getting to Know Plants)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:54:26Z"
+ },
+ {
+  "id": "q_9ebed892d297700c",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which fundamental constitutional right guarantees Indian citizens the freedom to practice, profess, and propagate their religion?",
+  "qHi": "कौन सा मौलिक संवैधानिक अधिकार भारतीय नागरिकों को अपने धर्म को मानने, आचरण करने और प्रचार करने की स्वतंत्रता की गारंटी देता है?",
+  "optsEn": [
+   "Right to Equality",
+   "Right to Freedom of Religion",
+   "Right against Exploitation",
+   "Cultural and Educational Rights"
+  ],
+  "optsHi": [
+   "समानता का अधिकार",
+   "धर्म की स्वतंत्रता का अधिकार",
+   "शोषण के विरुद्ध अधिकार",
+   "संस्कृति और शिक्षा संबंधी अधिकार"
+  ],
+  "correct": 1,
+  "explainEn": "Articles 25 to 28 of the Constitution of India guarantee the Right to Freedom of Religion to all citizens.",
+  "sourceHint": "NCERT Class 8 Civics Chapter 2 (Understanding Secularism) / Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T12:54:26Z"
  }
 ]
