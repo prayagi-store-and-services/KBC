@@ -60,7 +60,7 @@ fun TarkShastraTheme(
     darkTheme: Boolean = true, // We optimize for dramatic, immersive hot-seat dark palette
     content: @Composable () -> Unit
 ) {
-    val colorScheme = if (RedesignGate.isOn()) NewKbcColorScheme else TarkShastraColorScheme
+    val colorScheme = com.example.festival.festiveScheme(if (RedesignGate.isOn()) NewKbcColorScheme else TarkShastraColorScheme)
     val view = LocalView.current
     if (!view.isInEditMode) {
         SideEffect {
