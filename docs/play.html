@@ -15,8 +15,24 @@ button.sec{background:#2a4361;color:var(--tx)}select{font:16px system-ui;padding
 .lad{display:flex;flex-wrap:wrap;gap:4px;margin:6px 0}.lad i{font-style:normal;font-size:12px;padding:3px 7px;border-radius:6px;background:#1d3550}.lad i.on{background:var(--ac);color:#111}.lad i.done{background:var(--ok)}
 .sub{color:#a9bad0;font-size:14px}
 @media(min-width:900px){body{font-size:20px}main{max-width:980px}}
+
+/* 11 Oct 2026 redesign layer: stage look, same game logic */
+:root{--bg:#0d0720;--card:#1a1038;--ac:#ffc247;--tx:#f3ecff}
+body{background:radial-gradient(900px 500px at 50% -5%,#4a2399 0%,transparent 62%),radial-gradient(700px 400px at 100% 40%,#1b2f7a55 0%,transparent 60%),#0d0720;min-height:100vh}
+header{background:rgba(10,5,25,.95);border-bottom:2px solid #6a45c9;box-shadow:0 2px 20px rgba(160,110,255,.25)}
+header b{color:var(--ac);letter-spacing:.5px}
+footer{background:rgba(10,5,25,.95);border-top:1px solid #3d2a78}
+.card{background:linear-gradient(180deg,#1d1242,#150c33);border:1px solid #4a3399;border-radius:18px;box-shadow:0 0 28px rgba(150,100,255,.18)}
+button,.btn{background:linear-gradient(180deg,#ffd873,#f2a30f);color:#1a0b00;border-radius:999px;box-shadow:0 4px 16px rgba(255,170,30,.3)}
+button.sec{background:#2b1b5c;color:var(--tx);box-shadow:none;border:1px solid #5a40b0}
+button.opt{background:linear-gradient(90deg,#14245e,#1b1050);border:1px solid #4aa3ff;border-radius:999px;padding:14px 22px;box-shadow:none;color:var(--tx)}
+button.opt:hover:not(:disabled){background:linear-gradient(90deg,#1d3a8f,#2a1a7a)}
+button.opt.ok{background:linear-gradient(90deg,#1b8a5a,#2fbf80);border-color:#7dffc0}button.opt.bad{background:linear-gradient(90deg,#c0392b,#e04a3a);border-color:#ff9a8f}
+select{background:#150c33;color:var(--tx);border:1px solid #4a3399;border-radius:12px}
+.lad i{background:#251650;border:1px solid #3d2a78}.lad i.on{background:linear-gradient(180deg,#ffd873,#f2a30f);color:#1a0b00}
+h2{color:var(--ac)}
 </style></head><body>
-<header><b>KBC Web</b><span class="sub" id="ver">TarkShastra</span><span class="sp"></span><span id="clock"></span></header>
+<header><b>KBC (TarkShastra) Web</b><span class="sub" id="ver">Socho - Samjho - Jeeto</span><span class="sp"></span><span id="clock"></span></header>
 <main id="app"><div class="card">Loading questions...</div></main>
 <footer>Questions are AI generated and double checked by a second independent call; they can still contain errors. <a style="color:#f2b705" href="index.html">KBC home / app download</a></footer>
 <script>
