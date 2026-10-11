@@ -9546,5 +9546,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-10T21:48:35Z"
+ },
+ {
+  "id": "q_642adcdf773d81c8",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the famous book 'Discovery of India'?",
+  "qHi": "प्रसिद्ध पुस्तक 'डिस्कवरी ऑफ़ इंडिया' किसने लिखी?",
+  "optsEn": [
+   "Mahatma Gandhi",
+   "Subhas Chandra Bose",
+   "Jawaharlal Nehru",
+   "Rabindranath Tagore"
+  ],
+  "optsHi": [
+   "महात्मा गांधी",
+   "सुभाष चंद्र बोस",
+   "जawaharlal Nehru",
+   "रवींद्रनाथ टैगोर"
+  ],
+  "correct": 2,
+  "explainEn": "Jawaharlal Nehru wrote 'The Discovery of India' during his imprisonment in Ahmednagar fort.",
+  "sourceHint": "NCERT History Textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:49:11Z"
+ },
+ {
+  "id": "q_8c7ce034da54cf93",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the process of conversion of solar energy into chemical energy by plants called?",
+  "qHi": "पौधों द्वारा सौर ऊर्जा को रासायनिक ऊर्जा में बदलने की प्रक्रिया क्या कहलाती है?",
+  "optsEn": [
+   "Respiration",
+   "Transpiration",
+   "Photosynthesis",
+   "Fermentation"
+  ],
+  "optsHi": [
+   "श्वसन",
+   "वाष्पोत्सर्जन",
+   "प्रकाश संश्लेषण",
+   "किण्वन"
+  ],
+  "correct": 2,
+  "explainEn": "Photosynthesis is the process used by plants to convert light energy into chemical energy.",
+  "sourceHint": "NCERT Class 12 Biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:49:11Z"
+ },
+ {
+  "id": "q_bac78f43c5c72ce8",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas is primarily responsible for the greenhouse effect on Earth?",
+  "qHi": "पृथ्वी पर ग्रीनहाउस प्रभाव के लिए मुख्य रूप से कौन सी गैस उत्तरदायी है?",
+  "optsEn": [
+   "Oxygen",
+   "Nitrogen",
+   "Carbon dioxide",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "कार्बन डाइऑक्साइड",
+   "हाइड्रोजन"
+  ],
+  "correct": 2,
+  "explainEn": "Carbon dioxide is a major greenhouse gas that traps heat in the Earth's atmosphere.",
+  "sourceHint": "NCERT Class 12 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:49:11Z"
+ },
+ {
+  "id": "q_634b53378a459ea3",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In microeconomics, what does a downward-sloping demand curve indicate?",
+  "qHi": "व्यष्टि अर्थशास्त्र में, नीचे की ओर ढलान वाला मांग वक्र क्या दर्शाता है?",
+  "optsEn": [
+   "Inverse relationship between price and quantity demanded",
+   "Direct relationship between price and quantity supplied",
+   "Constant utility for consumers",
+   "No relationship between price and demand"
+  ],
+  "optsHi": [
+   "कीमत और मांग की गई मात्रा के बीच विपरीत संबंध",
+   "कीमत और आपूर्ति की गई मात्रा के बीच प्रत्यक्ष संबंध",
+   "उपभोक्ताओं के लिए निरंतर उपयोगिता",
+   "कीमत और मांग के बीच कोई संबंध नहीं"
+  ],
+  "correct": 0,
+  "explainEn": "According to the law of demand, price and quantity demanded move in opposite directions, creating a downward slope.",
+  "sourceHint": "NCERT Class 12 Introductory Microeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:49:11Z"
+ },
+ {
+  "id": "q_32a032c1d17fea0f",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of economy is characterized by the central government making all major decisions regarding production and distribution?",
+  "qHi": "किस प्रकार की अर्थव्यवस्था की विशेषता यह है कि केंद्र सरकार उत्पादन और वितरण से संबंधित सभी प्रमुख निर्णय लेती है?",
+  "optsEn": [
+   "Market economy",
+   "Capitalist economy",
+   "Centrally planned economy",
+   "Mixed economy"
+  ],
+  "optsHi": [
+   "बाजार अर्थव्यवस्था",
+   "पूंजीवादी अर्थव्यवस्था",
+   "केंद्रीकृत नियोजित अर्थव्यवस्था",
+   "मिश्रित अर्थव्यवस्था"
+  ],
+  "correct": 2,
+  "explainEn": "In a centrally planned economy, the government controls the allocation of resources and production targets.",
+  "sourceHint": "NCERT Class 12 Introductory Microeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:49:11Z"
+ },
+ {
+  "id": "q_fe5dcf6487d53af3",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which sector is generally considered part of the secondary sector in economic classification?",
+  "qHi": "आर्थिक वर्गीकरण में आमतौर पर किस क्षेत्र को द्वितीयक क्षेत्र का हिस्सा माना जाता है?",
+  "optsEn": [
+   "Agriculture",
+   "Manufacturing",
+   "Banking",
+   "Fishing"
+  ],
+  "optsHi": [
+   "कृषि",
+   "विनिर्माण",
+   "बैंकिंग",
+   "मछلی पालन"
+  ],
+  "correct": 1,
+  "explainEn": "The secondary sector encompasses industries that transform raw materials into finished goods, which includes manufacturing and construction.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:50:51Z"
+ },
+ {
+  "id": "q_3b19d334d089db88",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which type of reproduction do offspring develop from unfertilized eggs?",
+  "qHi": "किस प्रकार के जनन में संतान का विकास बिना निषेचित अंडों से होता है?",
+  "optsEn": [
+   "Syngamy",
+   "Parthenogenesis",
+   "Budding",
+   "Fragmentation"
+  ],
+  "optsHi": [
+   "संयुग्मन (सिंोगेमी)",
+   "पार्थेनोजेनेसिस (अनिषेकजनन)",
+   "मुकुलन",
+   "खंडन"
+  ],
+  "correct": 1,
+  "explainEn": "Parthenogenesis is a form of asexual reproduction where an embryo develops from an unfertilized egg cell, common in certain insects and reptiles.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:50:51Z"
+ },
+ {
+  "id": "q_94132db97536f125",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the oxidation state of manganese in the permanganate ion (MnO4-)?",
+  "qHi": "परमैंगनेट आयन (MnO4-) में मैंगनीज की ऑक्सीकरण अवस्था क्या है?",
+  "optsEn": [
+   "+4",
+   "+6",
+   "+7",
+   "+2"
+  ],
+  "optsHi": [
+   "+4",
+   "+6",
+   "+7",
+   "+2"
+  ],
+  "correct": 2,
+  "explainEn": "In MnO4-, letting Mn oxidation state be x, x + 4(-2) = -1, which gives x = +7.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:50:51Z"
+ },
+ {
+  "id": "q_5122e1166906f1f3",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which fundamental right in the Indian Constitution was moved from the list of fundamental rights to a legal right under Article 300A?",
+  "qHi": "भारतीय संविधान में किस मौलिक अधिकार को मौलिक अधिकारों की सूची से हटाकर अनुच्छेद 300ए के तहत कानूनी अधिकार बनाया गया?",
+  "optsEn": [
+   "Right to Education",
+   "Right to Property",
+   "Right to Freedom of Religion",
+   "Right to Equality"
+  ],
+  "optsHi": [
+   "शिक्षा का अधिकार",
+   "संपत्ति का अधिकार",
+   "धर्म की स्वतंत्रता का अधिकार",
+   "समानता का अधिकार"
+  ],
+  "correct": 1,
+  "explainEn": "The Right to Property was removed from Part III of the Constitution by the 44th Amendment Act, 1978, and made a legal right under Article 300A.",
+  "sourceHint": "NCERT Class 11 Political Science, Indian Constitution at Work",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:50:51Z"
  }
 ]

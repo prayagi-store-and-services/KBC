@@ -9714,5 +9714,509 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-10T21:47:53Z"
+ },
+ {
+  "id": "q_34cc70bfe9cb06a6",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In the context of Indian currency, who signs one rupee currency notes?",
+  "qHi": "भारतीय मुद्रा के संदर्भ में, एक रुपये के करेंसी नोट पर हस्ताक्षर कौन करता है?",
+  "optsEn": [
+   "Governor of Reserve Bank of India",
+   "Finance Secretary, Government of India",
+   "Prime Minister of India",
+   "President of India"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक के गवर्नर",
+   "वित्त सचिव, भारत सरकार",
+   "भारत के प्रधानमंत्री",
+   "भारत के राष्ट्रपति"
+  ],
+  "correct": 1,
+  "explainEn": "One rupee notes are issued by the Ministry of Finance and bear the signature of the Finance Secretary, while other currency notes bear the RBI Governor's signature.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:48:51Z"
+ },
+ {
+  "id": "q_e1145b072de5ee2c",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'NEFT' stand for in digital banking?",
+  "qHi": "डिजिटल बैंकिंग में 'NEFT' का क्या अर्थ है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "National Economy Finance Trade",
+   "New Electronic Fund Transfer",
+   "National Equity Fund Transaction"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "नेशनल इकोनॉमी फाइनेंस ट्रेड",
+   "न्यू इलेक्ट्रॉनिक फंड ट्रांसफर",
+   "नेशनल इक्विटी फंड ट्रांजेक्शन"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, an online system for transferring funds between banks.",
+  "sourceHint": "RBI FAQ on NEFT",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:48:51Z"
+ },
+ {
+  "id": "q_1f05d04ed1cea007",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following cards is typically issued by a bank to allow direct access to a savings or current account?",
+  "qHi": "बचत या चालू खाते तक सीधी पहुंच की अनुमति देने के लिए आमतौर पर बैंक द्वारा निम्नलिखित में से कौन सा कार्ड जारी किया जाता है?",
+  "optsEn": [
+   "Credit Card",
+   "Debit Card",
+   "Ration Card",
+   "Visiting Card"
+  ],
+  "optsHi": [
+   "क्रेडिट कार्ड",
+   "डेबिट कार्ड",
+   "राशन कार्ड",
+   "विजिटिंग कार्ड"
+  ],
+  "correct": 1,
+  "explainEn": "A debit card is linked directly to a customer's bank account, allowing them to withdraw cash or make purchases using available funds.",
+  "sourceHint": "NCERT Business Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:48:51Z"
+ },
+ {
+  "id": "q_4a593774a4686115",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which monetary policy instrument refers to the minimum percentage of deposits that commercial banks must maintain as liquid cash with the Reserve Bank of India?",
+  "qHi": "कौन सा मौद्रिक नीति उपकरण उस न्यूनतम प्रतिशत जमा को संदर्भित करता है जिसे वाणिज्यिक बैंकों को भारतीय रिजर्व बैंक के पास तरल नकदी के रूप में बनाए रखना चाहिए?",
+  "optsEn": [
+   "Statutory Liquidity Ratio",
+   "Cash Reserve Ratio",
+   "Repo Rate",
+   "Bank Rate"
+  ],
+  "optsHi": [
+   "वैधानिक तरलता अनुपात",
+   "नकद आरक्षित अनुपात",
+   "रेपो दर",
+   "बैंक दर"
+  ],
+  "correct": 1,
+  "explainEn": "Cash Reserve Ratio (CRR) is the specified minimum fraction of the total deposits of customers, which commercial banks have to hold as reserves either in cash or with the central bank.",
+  "sourceHint": "Reserve Bank of India official website and publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:50:28Z"
+ },
+ {
+  "id": "q_2902d19f412be7f7",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the abbreviation 'MSF', a liquidity window operated by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा संचालित तरलता खिड़की 'MSF' संक्षिप्ताक्षर में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liquidity",
+   "Lending",
+   "Liability",
+   "Limit"
+  ],
+  "optsHi": [
+   "तरलता (Liquidity)",
+   "ऋنڈ (Lending)",
+   "दायित्व (Liability)",
+   "सीमा (Limit)"
+  ],
+  "correct": 0,
+  "explainEn": "MSF stands Marginal Standing Facility, which is a penal rate at which scheduled commercial banks can borrow overnight funds from the RBI against approved government securities.",
+  "sourceHint": "RBI Master Circulars",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:50:28Z"
+ },
+ {
+  "id": "q_46d40f27e72bfc07",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque becomes stale and invalid for payment after the expiry of how many months from the date of its issuance in India?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, भारत में चेक जारी होने की तारीख से कितने महीने की समाप्ति के बाद भुगतान के लिए पुराना और अमान्य हो जाता है?",
+  "optsEn": [
+   "1 month",
+   "3 months",
+   "6 months",
+   "12 months"
+  ],
+  "optsHi": [
+   "1 महीना",
+   "3 महीने",
+   "6 महीने",
+   "12 महीने"
+  ],
+  "correct": 1,
+  "explainEn": "Reserve Bank of India guidelines direct that validity of cheques, demand drafts, and pay orders is 3 months from the date of issue.",
+  "sourceHint": "RBI Banking Ombudsman Scheme and Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:50:28Z"
+ },
+ {
+  "id": "q_54c00236e7cabfcc",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India regulates the mutual fund industry and collective investment schemes?",
+  "qHi": "भारत में कौन सा संगठन म्यूचुअल फंड उद्योग और सामूहिक निवेश योजनाओं को नियंत्रित करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Insurance Regulatory and Development Authority",
+   "Securities and Exchange Board of India",
+   "Pension Fund Regulatory and Development Authority"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "बीमा विनियामक और विकास प्राधिकरण",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "पेंशन निधि विनियामक और विकास प्राधिकरण"
+  ],
+  "correct": 2,
+  "explainEn": "SEBI regulates all mutual funds, stockbrokers, merchant bankers, and portfolio managers in the Indian financial markets.",
+  "sourceHint": "SEBI Act, 1992",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:50:28Z"
+ },
+ {
+  "id": "q_4c39bbde33e52d41",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which committee was constituted by the Reserve Bank of India to suggest measures on the governance of boards of banks?",
+  "qHi": "बैंकों के बोर्डों के शासन पर सुझाव देने के लिए भारतीय रिजर्व बैंक द्वारा किस समिति का गठन किया गया था?",
+  "optsEn": [
+   "Narasimham Committee",
+   "P. J. Nayak Committee",
+   "Urjit Patel Committee",
+   "Rangarajan Committee"
+  ],
+  "optsHi": [
+   "न नरसिंहम समिति",
+   "पी. जे. नायक समिति",
+   "उर्जित पटेल समिति",
+   "रंगराजन समिति"
+  ],
+  "correct": 1,
+  "explainEn": "The P. J. Nayak Committee was appointed by the RBI to review the governance of boards of banks in India.",
+  "sourceHint": "RBI official press releases and committee reports",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:50:28Z"
+ },
+ {
+  "id": "q_b6382b1d4c224458",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'C' stand for in the financial acronym 'CASA' account used in commercial banking?",
+  "qHi": "वाणिज्यिक बैंकिंग में प्रयुक्त वित्तीय संक्षिप्त नाम 'CASA' खाते में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Capital",
+   "Current",
+   "Credit",
+   "Collateral"
+  ],
+  "optsHi": [
+   "पूंजी (Capital)",
+   "चालू (Current)",
+   "क्रेडिट (Credit)",
+   "संपार्श्विक (Collateral)"
+  ],
+  "correct": 1,
+  "explainEn": "CASA stands for Current Account Savings Account, representing low-cost deposits mobilized by banks from current and savings accounts.",
+  "sourceHint": "Indian Institute of Banking and Finance textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:50:28Z"
+ },
+ {
+  "id": "q_58aa69921d490b1f",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of introducing the Prompt Corrective Action framework by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा त्वरित सुधारात्मक कार्रवाई (Prompt Corrective Action) ढांचा शुरू करने का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To monitor weak banks and intervene early to restore financial health",
+   "To merge rural banks with foreign banks",
+   "To fix interest rates on housing loans",
+   "To promote digital wallet transactions"
+  ],
+  "optsHi": [
+   "कमजोर बैंकों की निगरानी करना और वित्तीय स्वास्थ्य को बहाल करने के लिए जल्दी हस्तक्षेप करना",
+   "ग्रामीण बैंकों का विदेशी बैंकों के साथ विलय करना",
+   "गृह ऋण पर ब्याज दरें तय करना",
+   "डिजिटल वॉलेट लेनदेन को बढ़ावा देना"
+  ],
+  "correct": 0,
+  "explainEn": "The Prompt Corrective Action (PCA) framework allows the RBI to monitor financial parameters of weak banks and take timely supervisory interventions.",
+  "sourceHint": "RBI supervisory guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:50:28Z"
+ },
+ {
+  "id": "q_1dee448105db482c",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following sections of the Reserve Bank of India Act, 1934, legally mandates the maintenance of the Cash Reserve Ratio (CRR) by scheduled banks?",
+  "qHi": "भारतीय रिजर्व बैंक अधिनियम, 1934 की निम्नलिखित में से कौन सी धारा अनुसूचित बैंकों द्वारा नकद आरक्षित अनुपात (CRR) के रखरखाव को कानूनी रूप से अनिवार्य बनाती है?",
+  "optsEn": [
+   "Section 42",
+   "Section 24",
+   "Section 18",
+   "Section 45ZA"
+  ],
+  "optsHi": [
+   "धारा 42",
+   "धारा 24",
+   "धारा 18",
+   "धारा 45ZA"
+  ],
+  "correct": 0,
+  "explainEn": "Section 42(1) of the RBI Act, 1934 requires scheduled commercial banks to maintain an average daily balance with the RBI as a specified percentage of their net demand and time liabilities (NDTL).",
+  "sourceHint": "RBI Act 1934 / Indian Economy Textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:51:10Z"
+ },
+ {
+  "id": "q_6ad595564bb2cfc2",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Basel III norms implemented by the Reserve Bank of India, what is the minimum Capital Conservation Buffer (CCB) required to be maintained by banks in the form of Common Equity Tier 1 (CET1) capital?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा कार्यान्वित बेसल III मानदंडों के तहत, सामान्य इक्विटी टियर 1 (CET1) पूंजी के रूप में बैंकों द्वारा बनाए रखा जाने वाला न्यूनतम पूंजी संरक्षण बफर (CCB) क्या है?",
+  "optsEn": [
+   "2.50%",
+   "1.00%",
+   "4.50%",
+   "8.00%"
+  ],
+  "optsHi": [
+   "2.50%",
+   "1.00%",
+   "4.50%",
+   "8.00%"
+  ],
+  "correct": 0,
+  "explainEn": "Basel III guidelines mandate a Capital Conservation Buffer of 2.5% over and above the minimum regulatory capital requirements, to be met with CET1 capital.",
+  "sourceHint": "RBI Master Circular on Basel III Capital Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:51:10Z"
+ },
+ {
+  "id": "q_33a52569f57cdc14",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which institution in India acts as the principal clearing house for Government Securities and acts as the central counterparty for repo and inter-bank transactions?",
+  "qHi": "भारत में कौन सी संस्था सरकारी प्रतिभूतियों के लिए मुख्य निकासी गृह के रूप में कार्य करती है और रेपो तथा अंतर-बैंक लेनदेन के लिए केंद्रीय प्रतिपक्ष (central counterparty) की भूमिका निभाती है?",
+  "optsEn": [
+   "Clearing Corporation of India Limited",
+   "National Securities Depository Limited",
+   "Central Depository Services Limited",
+   "Stock Holding Corporation of India"
+  ],
+  "optsHi": [
+   "क्लियरिंग कॉरपोरेशन ऑफ इंडिया लिमिटेड",
+   "नेशनल सिक्योरिटीज डिपॉजिटरी लिमिटेड",
+   "सेंट्रल डिपॉजिटरी सर्विसेज लिमिटेड",
+   "स्टॉक होल्डिंग कॉर्पोरेशन ऑफ इंडिया"
+  ],
+  "correct": 0,
+  "explainEn": "CCIL (Clearing Corporation of India Limited) was set up in 2001 to provide clearing and settlement services for money market, government securities, and foreign exchange markets in India.",
+  "sourceHint": "RBI Official Website / Financial Markets Textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:51:10Z"
+ },
+ {
+  "id": "q_5818008851f9e448",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary distinguishing feature of a 'Non-Convertible Debenture' (NCD) issued by corporates in India?",
+  "qHi": "भारत में कॉरपोरेट्स द्वारा जारी किए गए 'गैर-परिवर्तनीय डिबेंचर' (NCD) की प्राथमिक विशिष्ट विशेषता क्या है?",
+  "optsEn": [
+   "They cannot be converted into equity shares of the issuing company",
+   "They are unsecured debt instruments backed by no collateral",
+   "They do not pay any fixed rate of interest to the holder",
+   "They are exclusively issued by the central government"
+  ],
+  "optsHi": [
+   "इन्हें जारी करने वाली कंपनी के इक्विटी शेयरों में परिवर्तित नहीं किया जा सकता है",
+   "ये बिना किसी संपार्श्विक (collateral) के असुरक्षित ऋण साधन हैं",
+   "ये धारक को किसी भी निश्चित दर से ब्याज का भुगतान नहीं करते हैं",
+   "इन्हें विशेष रूप से केंद्र सरकार द्वारा जारी किया जाता है"
+  ],
+  "correct": 0,
+  "explainEn": "Unlike convertible debentures, NCDs cannot be converted into equity shares. They generally offer higher interest rates to compensate for this lack of conversion option.",
+  "sourceHint": "SEBI Guidelines / Indian Financial System Textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:51:10Z"
+ },
+ {
+  "id": "q_6b4f2d26d993737a",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of priority sector lending (PSL) in India, which sub-category falls under 'Weaker Sections' as defined by the Reserve Bank of India?",
+  "qHi": "भारत में प्राथमिकता प्राप्त क्षेत्र को ऋण (PSL) के संदर्भ में, भारतीय रिजर्व बैंक द्वारा परिभाषित 'कमजोर वर्ग' के अंतर्गत कौन सा उप-वर्ग आता है?",
+  "optsEn": [
+   "Distressed farmers indebted to non-institutional lenders",
+   "Medium enterprises with turnover exceeding fifty crore rupees",
+   "Large corporate entities engaged in export manufacturing",
+   "Non-resident Indian depositors"
+  ],
+  "optsHi": [
+   "गैर-संस्थागत ऋणदाताओं के कर्ज में डूबे हुए संकटग्रस्त किसान",
+   "पचास करोड़ रुपये से अधिक टर्नओवर वाले मध्यम उद्यम",
+   "निर्यात विनिर्माण में लगे बड़े कॉर्पोरेट संस्थान",
+   "अनिवासी भारतीय जमाकर्ता"
+  ],
+  "correct": 0,
+  "explainEn": "Under RBI guidelines for PSL, 'Weaker Sections' include small and marginal farmers, artisans, distressed farmers indebted to non-institutional lenders, and beneficiaries of specific government schemes like DAY-NRLM.",
+  "sourceHint": "RBI Master Directions on Priority Sector Lending",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:51:10Z"
+ },
+ {
+  "id": "q_7e94a662882a7162",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which monetary policy instrument involves the outright purchase or sale of government securities by the Reserve Bank of India to absorb or inject liquidity from or into the financial system?",
+  "qHi": "किस मौद्रिक नीति उपकरण में वित्तीय प्रणाली से तरलता को अवशोषित करने या उसमें डालने के लिए भारतीय रिजर्व बैंक द्वारा सरकारी प्रतिभूतियों की प्रत्यक्ष खरीद या बिक्री शामिल है?",
+  "optsEn": [
+   "Open Market Operations",
+   "Cash Reserve Ratio",
+   "Bank Rate",
+   "Statutory Liquidity Ratio"
+  ],
+  "optsHi": [
+   "खुला बाजार संचालन",
+   "नकद आरक्षित अनुपात",
+   "बैंक दर",
+   "वैधानिक तरलता अनुपात"
+  ],
+  "correct": 0,
+  "explainEn": "Open Market Operations (OMOs) are the market operations conducted by the RBI by way of sale/purchase of government securities to/from the market for adjusting the rupee liquidity conditions.",
+  "sourceHint": "RBI Report on Currency and Finance / NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:51:10Z"
+ },
+ {
+  "id": "q_919aefb5fa6f0204",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which institution regulates and supervises alternative investment funds (AIFs), venture capital funds, and mutual funds in India?",
+  "qHi": "भारत में वैकल्पिक निवेश फंड (AIFs), उद्यम पूंजी फंड और म्यूचुअल फंड को कौन सी संस्था विनियमित और पर्यवेक्षित करती है?",
+  "optsEn": [
+   "Securities and Exchange Board of India",
+   "Reserve Bank of India",
+   "Insurance Regulatory and Development Authority of India",
+   "Pension Fund Regulatory and Development Authority"
+  ],
+  "optsHi": [
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय बीमा विनियामक और विकास प्राधिकरण",
+   "पेंशन निधि विनियामक और विकास प्राधिकरण"
+  ],
+  "correct": 0,
+  "explainEn": "SEBI is the statutory regulator established under the SEBI Act, 1992, responsible for regulating the securities market, including mutual funds, venture capital funds, and alternative investment funds in India.",
+  "sourceHint": "SEBI Act 1992 / Indian Financial Markets",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:51:10Z"
+ },
+ {
+  "id": "q_2fd27ac1c4d55b06",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What does the term 'Marginal Cost of Funds based Lending Rate' (MCLR), introduced by the RBI in 2016, replace for pricing loans by commercial banks?",
+  "qHi": "RBI द्वारा 2016 में शुरू की गई 'फंड की सीमांत लागत आधारित ऋण दर' (MCLR) शब्द वाणिज्यिक बैंकों द्वारा ऋणों के मूल्य निर्धारण के लिए किसका स्थान लेता है?",
+  "optsEn": [
+   "Base Rate system",
+   "Prime Lending Rate system",
+   "Cash Reserve Ratio benchmark",
+   "Statutory Liquidity Ratio floor"
+  ],
+  "optsHi": [
+   "बेस रेट प्रणाली",
+   "प्रधान ऋण दर प्रणाली",
+   "नकद आरक्षित अनुपात बेंचमार्क",
+   "वैधानिक तरलता अनुपात तल"
+  ],
+  "correct": 0,
+  "explainEn": "MCLR replaced the Base Rate system effective from April 1, 2016, to improve the transmission of policy rates to bank lending rates more transparently.",
+  "sourceHint": "RBI Guidelines on MCLR / Banking Awareness Manuals",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:51:10Z"
  }
 ]

@@ -6690,5 +6690,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-10T21:47:56Z"
+ },
+ {
+  "id": "q_70f66698b502b21d",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which metal is predominantly used to make traditional Indian brass utensils?",
+  "qHi": "पारंपरिक भारतीय पीतल के बर्तन बनाने के लिए मुख्य रूप से किस धातु का उपयोग किया जाता है?",
+  "optsEn": [
+   "Copper and Zinc",
+   "Iron and Carbon",
+   "Gold and Silver",
+   "Lead and Tin"
+  ],
+  "optsHi": [
+   "तांबा और जस्ता",
+   "लोहा और कार्बन",
+   "सोना और चांदी",
+   "सीसा और टिन"
+  ],
+  "correct": 0,
+  "explainEn": "Brass is an alloy made primarily of copper and zinc.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:48:55Z"
+ },
+ {
+  "id": "q_c94da1ee7cbd8f25",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who is the constitutional head of the executive of the Indian Union?",
+  "qHi": "भारतीय संघ की कार्यपालिका का संवैधानिक प्रमुख कौन होता है?",
+  "optsEn": [
+   "Prime Minister",
+   "Chief Justice of India",
+   "President of India",
+   "Speaker of Lok Sabha"
+  ],
+  "optsHi": [
+   "प्रधानमंत्री",
+   "भारत के मुख्य न्यायाधीश",
+   "भारत के राष्ट्रपति",
+   "लोकसभा अध्यक्ष"
+  ],
+  "correct": 2,
+  "explainEn": "According to Article 53 of the Constitution of India, the executive power of the Union is vested in the President.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:48:55Z"
+ },
+ {
+  "id": "q_3b0730c5b33c16e6",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin is synthesized in the human skin upon exposure to sunlight?",
+  "qHi": "सूर्य के प्रकाश के संपर्क में आने पर मानव त्वचा में कौन सा विटामिन संश्लेषित होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin C",
+   "Vitamin D",
+   "Vitamin K"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन सी",
+   "विटामिन डी",
+   "विटामिन के"
+  ],
+  "correct": 2,
+  "explainEn": "Vitamin D is produced in the skin when it is exposed to ultraviolet B rays from sunlight.",
+  "sourceHint": "NCERT Biology Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:50:32Z"
+ },
+ {
+  "id": "q_7c91e2b7f66f3b75",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which city is served by the Netaji Subhash Chandra Bose International Airport?",
+  "qHi": "नेताजी सुभाष चंद्र बोस अंतर्राष्ट्रीय हवाई अड्डा किस शहर में स्थित है?",
+  "optsEn": [
+   "Mumbai",
+   "Kolkata",
+   "Chennai",
+   "Bengaluru"
+  ],
+  "optsHi": [
+   "मुंबई",
+   "कोलकाता",
+   "चेन्नई",
+   "बेंगलुरु"
+  ],
+  "correct": 1,
+  "explainEn": "Netaji Subhash Chandra Bose International Airport is located in Kolkata, West Bengal.",
+  "sourceHint": "Airports Authority of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:50:32Z"
+ },
+ {
+  "id": "q_1a7e0c781b887428",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian national park is famous as the last refuge of the one-horned rhinoceros?",
+  "qHi": "एक सींग वाले गैंडे के अंतिम आश्रय के रूप में कौन सा भारतीय राष्ट्रीय उद्यान प्रसिद्ध है?",
+  "optsEn": [
+   "Jim Corbett National Park",
+   "Kaziranga National Park",
+   "Gir National Park",
+   "Sundarbans National Park"
+  ],
+  "optsHi": [
+   "जिम कॉर्बेट राष्ट्रीय उद्यान",
+   "काजीरंगा राष्ट्रीय उद्यान",
+   "गिर राष्ट्रीय उद्यान",
+   "सुंदरबन राष्ट्रीय उद्यान"
+  ],
+  "correct": 1,
+  "explainEn": "Kaziranga National Park in Assam hosts a significant population of the great Indian one-horned rhinoceros.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:50:32Z"
  }
 ]

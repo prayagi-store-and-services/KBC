@@ -8286,5 +8286,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-10T21:48:20Z"
+ },
+ {
+  "id": "q_4998ec6758dde91b",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which sense organ helps us to taste different flavors?",
+  "qHi": "कौन सा ज्ञानेन्द्रिय अंग हमें विभिन्न स्वादों का अनुभव कराने में मदद करता है?",
+  "optsEn": [
+   "Skin",
+   "Tongue",
+   "Nose",
+   "Ear"
+  ],
+  "optsHi": [
+   "त्वचा",
+   "जीभ",
+   "नाक",
+   "कान"
+  ],
+  "correct": 1,
+  "explainEn": "The tongue has taste buds that help us identify sweet, sour, salty, and bitter tastes.",
+  "sourceHint": "NCERT Class 3 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:48:59Z"
+ },
+ {
+  "id": "q_4957fb53102a63b5",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these is a source of freshwater on Earth?",
+  "qHi": "इनमें से कौन सा पृथ्वी पर मीठे पानी का स्रोत है?",
+  "optsEn": [
+   "Ocean",
+   "Sea",
+   "River",
+   "Bay"
+  ],
+  "optsHi": [
+   "महासागर",
+   "समुद्र",
+   "नदी",
+   "खाड़ी"
+  ],
+  "correct": 2,
+  "explainEn": "Rivers contain freshwater, whereas oceans and seas contain salty water.",
+  "sourceHint": "NCERT Class 4 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:48:59Z"
+ },
+ {
+  "id": "q_30ab5f38421f4691",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary function of white blood cells in the human body?",
+  "qHi": "मानव शरीर में श्वेत रक्त कोशिकाओं का मुख्य कार्य क्या है?",
+  "optsEn": [
+   "To carry oxygen to cells",
+   "To fight against germs and diseases",
+   "To help in blood clotting",
+   "To digest food"
+  ],
+  "optsHi": [
+   "कोशिकाओं तक ऑक्सीजन पहुँचाना",
+   "कीटाणुओं और बीमारियों से लड़ना",
+   "खून का थक्का जमाने में मदद करना",
+   "भोजन को पचाना"
+  ],
+  "correct": 1,
+  "explainEn": "White blood cells are an important part of the immune system and help the body fight infections and diseases.",
+  "sourceHint": "NCERT Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:50:36Z"
+ },
+ {
+  "id": "q_4d5592f01bc947a7",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which layer of the atmosphere is closest to the Earth's surface?",
+  "qHi": "वायुमंडल की कौन सी परत पृथ्वी की सतह के सबसे निकट है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 0,
+  "explainEn": "The troposphere is the lowest layer of Earth's atmosphere where all weather changes take place.",
+  "sourceHint": "NCERT Class 7 Geography / General Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:50:36Z"
+ },
+ {
+  "id": "q_b45b11e74b16f085",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the main direction shown by the top arrow on a standard map?",
+  "qHi": "एक मानक मानचित्र पर ऊपर की तीर द्वारा कौन सी मुख्य दिशा दर्शाई जाती है?",
+  "optsEn": [
+   "North",
+   "South",
+   "East",
+   "West"
+  ],
+  "optsHi": [
+   "उत्तर",
+   "दक्षिण",
+   "पूर्व",
+   "पश्चिम"
+  ],
+  "correct": 0,
+  "explainEn": "Maps are normally oriented with North at the top, indicated by an arrow marked with the letter N.",
+  "sourceHint": "NCERT Class 6 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:50:36Z"
+ },
+ {
+  "id": "q_1963ddff0ea6212a",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which part of a plant typically grows underground to absorb water and minerals?",
+  "qHi": "पौधे का कौन सा भाग आमतौर पर पानी और खनिज लवण सोखने के लिए जमीन के नीचे बढ़ता है?",
+  "optsEn": [
+   "Stem",
+   "Leaf",
+   "Root",
+   "Flower"
+  ],
+  "optsHi": [
+   "तना",
+   "पत्ती",
+   "जड़",
+   "फूल"
+  ],
+  "correct": 2,
+  "explainEn": "Roots anchor the plant in the soil and absorb water and essential minerals from the earth.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-11T05:50:36Z"
  }
 ]
