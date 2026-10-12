@@ -959,7 +959,7 @@ fun ProfileScreen(
             ) {
                 Column(modifier = Modifier.padding(16.dp)) {
                     Text(
-                        text = "कैमरा, माइक्रोफोन और सूचना अनुमति (Permissions & Security)",
+                        text = "सूचना अनुमति (Notifications)",
                         style = MaterialTheme.typography.labelMedium.copy(
                             color = GoldPrimary,
                             fontWeight = FontWeight.Bold
@@ -969,7 +969,7 @@ fun ProfileScreen(
 
                     // Privacy Disclosure Notice (Steps 79 & 80)
                     Text(
-                        text = "Camera is used only to scan the QR code that links KBC with KBC Web (coming soon). Microphone is used only for voice answers (coming soon). The game does not watch or record you. Notification access is used to provide application notifications.",
+                        text = "KBC does not use your camera or microphone and does not record you. Notification access is used only to show game and app notifications.",
                         color = TextSecondary,
                         fontSize = 11.sp,
                         lineHeight = 15.sp
