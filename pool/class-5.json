@@ -9322,5 +9322,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-12T06:00:01Z"
+ },
+ {
+  "id": "q_53630b7603e7ae80",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which traditional Indian dance form originates from the state of Tamil Nadu?",
+  "qHi": "कौन सा पारंपरिक भारतीय नृत्य रूप तमिलनाडु राज्य से संबंधित है?",
+  "optsEn": [
+   "Kathakali",
+   "Bharatanatyam",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "कथकली",
+   "भरतनाट्यम",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 1,
+  "explainEn": "Bharatanatyam is a classical dance form that originated in Tamil Nadu.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:28:25Z"
+ },
+ {
+  "id": "q_2cfe5faed347def9",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following animals is known as the ship of the desert?",
+  "qHi": "निम्नलिखित में से किस जानवर को रेगिस्तान का जहाज कहा जाता है?",
+  "optsEn": [
+   "Horse",
+   "Elephant",
+   "Camel",
+   "Donkey"
+  ],
+  "optsHi": [
+   "घोड़ा",
+   "हाथी",
+   "ऊंट",
+   "गधा"
+  ],
+  "correct": 2,
+  "explainEn": "Camels are well adapted to walking on sand and are commonly known as the ship of the desert.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:28:25Z"
+ },
+ {
+  "id": "q_bf177c5ab0215bad",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "National Science Day in India is celebrated every year to commemorate the discovery of which phenomenon?",
+  "qHi": "भारत में हर साल राष्ट्रीय विज्ञान दिवस किस घटना की खोज की याद में मनाया जाता है?",
+  "optsEn": [
+   "Raman Effect",
+   "Photosynthesis",
+   "Gravity",
+   "Magnetism"
+  ],
+  "optsHi": [
+   "रमन प्रभाव",
+   "प्रकाश संश्लेषण",
+   "गुरुत्वाकर्षण",
+   "चुंबकत्व"
+  ],
+  "correct": 0,
+  "explainEn": "National Science Day is celebrated on February 28 to mark the discovery of the Raman Effect by Sir C.V. Raman.",
+  "sourceHint": "Department of Science and Technology, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:28:25Z"
+ },
+ {
+  "id": "q_5b579cbaa2df9b67",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these traditional Indian houses is specially built with thick mud walls and thorny bush roofs to survive extreme heat?",
+  "qHi": "इनमें से कौन सा पारंपरिक भारतीय घर अत्यधिक गर्मी से बचने के लिए विशेष रूप से मोटी मिट्टी की दीवारों और कांटेदार झाड़ियों की छतों से बनाया जाता है?",
+  "optsEn": [
+   "Houseboats of Kashmir",
+   "Bamboo houses of Assam",
+   "Mud houses of Rajasthan",
+   "Stilt houses of Ladakh"
+  ],
+  "optsHi": [
+   "कश्मीर के हाउसबोट",
+   "असम के बांस के घर",
+   "राजस्थान के मिट्टी के घर",
+   "लद्दाख के बांस के खंभों वाले घर"
+  ],
+  "correct": 2,
+  "explainEn": "In Rajasthan, where it is very hot, people live in mud houses with thick walls that stay cool and roofs made of thorny bushes.",
+  "sourceHint": "NCERT Class 5 EVS - A Shelter so High",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:29:46Z"
+ },
+ {
+  "id": "q_9f856ce2272a3408",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Seed dispersal in the Xanthium plant takes place primarily through which method?",
+  "qHi": "जैंथियम (Xanthium) पौधे में बीजों का फैलाव मुख्य रूप से किस विधि से होता है?",
+  "optsEn": [
+   "Attachment to fur of animals",
+   "Explosion of seed pods",
+   "Floating in water currents",
+   "Being eaten by birds"
+  ],
+  "optsHi": [
+   "जानवरों के बालों से चिपककर",
+   "बीजों के फटने से",
+   "पानी की धाराओं में तैरकर",
+   "पक्षियों द्वारा खाए जाने पर"
+  ],
+  "correct": 0,
+  "explainEn": "Xanthium seeds have hooks, allowing them to catch on the fur of animals and travel to new locations.",
+  "sourceHint": "NCERT Class 5 EVS - Every Seed Tells a Story",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:29:46Z"
+ },
+ {
+  "id": "q_aa8206c3334e0a81",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "When water changes from a liquid to a gas due to heat, the process is called:",
+  "qHi": "जब गर्मी के कारण पानी तरल से गैस में बदलता है, तो इस प्रक्रिया को क्या कहा जाता है?",
+  "optsEn": [
+   "Condensation",
+   "Evaporation",
+   "Freezing",
+   "Melting"
+  ],
+  "optsHi": [
+   "संघनन",
+   "वाष्पीकरण",
+   "जमना",
+   "पिघलना"
+  ],
+  "correct": 1,
+  "explainEn": "Evaporation is the process by which water changes from liquid to water vapour when heated.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:29:46Z"
+ },
+ {
+  "id": "q_f23f979e6c6e38f5",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of mirror is commonly used by dentists to see a magnified image of teeth?",
+  "qHi": "दांतों की बड़ी छवि देखने के लिए दंत चिकित्सक आमतौर पर किस प्रकार के दर्पण का उपयोग करते हैं?",
+  "optsEn": [
+   "Plane mirror",
+   "Concave mirror",
+   "Convex mirror",
+   "Cylindrical mirror"
+  ],
+  "optsHi": [
+   "समतल दर्पण",
+   "अवतल दर्पण",
+   "उत्तल दर्पण",
+   "बेलनाकार दर्पण"
+  ],
+  "correct": 1,
+  "explainEn": "Concave mirrors can produce enlarged images of objects when placed close to them, which helps dentists examine teeth.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:29:46Z"
+ },
+ {
+  "id": "q_c911a055a75605e9",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these birds can rotate its neck backwards to a very large extent?",
+  "qHi": "इनमें से कौन सा पक्षी अपनी गर्दन को पीछे की ओर बहुत हद तक घुमा सकता है?",
+  "optsEn": [
+   "Owl",
+   "Crow",
+   "Pigeon",
+   "Sparrow"
+  ],
+  "optsHi": [
+   "उल्लू",
+   "कौवा",
+   "कबूतर",
+   "गौरैया"
+  ],
+  "correct": 0,
+  "explainEn": "Owls have specialized neck vertebrae that allow them to rotate their heads significantly.",
+  "sourceHint": "NCERT Class 5 EVS - Super Senses",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:29:46Z"
+ },
+ {
+  "id": "q_072ff8979d4c7b51",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of the Indian parliament, which House is also known as the Lower House?",
+  "qHi": "भारतीय संसद के संदर्भ में, किस सदन को निचला सदन भी कहा जाता है?",
+  "optsEn": [
+   "Rajya Sabha",
+   "Lok Sabha",
+   "Vidhan Parishad",
+   "Supreme Court"
+  ],
+  "optsHi": [
+   "राज्य सभा",
+   "लोक सभा",
+   "विधान परिषद",
+   "उच्चतम न्यायालय"
+  ],
+  "correct": 1,
+  "explainEn": "Lok Sabha is the Lower House of the Parliament of India, whereas Rajya Sabha is the Upper House.",
+  "sourceHint": "Constitution of India / NCERT Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:29:46Z"
+ },
+ {
+  "id": "q_f8f94970e89b5149",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which famous historical monument was built by Shah Jahan in memory of his wife Mumtaz Mahal?",
+  "qHi": "शाहजहाँ ने अपनी पत्नी मुमताज महल की याद में कौन सा प्रसिद्ध ऐतिहासिक स्मारक बनवाया था?",
+  "optsEn": [
+   "Qutub Minar",
+   "Red Fort",
+   "Taj Mahal",
+   "Hawa Mahal"
+  ],
+  "optsHi": [
+   "कुतुब मीनार",
+   "लाल किला",
+   "ताजमहल",
+   "हवा महल"
+  ],
+  "correct": 2,
+  "explainEn": "The Taj Mahal in Agra was commissioned by the Mughal emperor Shah Jahan to house the tomb of his favorite wife, Mumtaz Mahal.",
+  "sourceHint": "NCERT History Curriculum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:29:46Z"
  }
 ]

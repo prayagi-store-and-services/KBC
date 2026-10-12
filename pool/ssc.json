@@ -7250,5 +7250,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-12T06:00:25Z"
+ },
+ {
+  "id": "q_0b7d9defb662d391",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which vitamin is primarily responsible for blood clotting?",
+  "qHi": "कौन सा विटामिन मुख्य रूप से रक्त का थक्का जमाने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Vitamin K",
+   "Vitamin A",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन के",
+   "विटामिन ए",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 0,
+  "explainEn": "Vitamin K plays a major role in blood clotting, helping the body heal wounds properly.",
+  "sourceHint": "NCERT Class 6 Science - Components of Food",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:28:12Z"
+ },
+ {
+  "id": "q_549381b6eff60108",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following folk dances is traditionally associated with the state of Assam?",
+  "qHi": "निम्नलिखित में से कौन सा लोक नृत्य पारंपरिक रूप से असम राज्य से संबंधित है?",
+  "optsEn": [
+   "Bihu",
+   "Garba",
+   "Kathakali",
+   "Yakshagana"
+  ],
+  "optsHi": [
+   "बिहू",
+   "गरबा",
+   "कथक्ली",
+   "यक्षगान"
+  ],
+  "correct": 0,
+  "explainEn": "Bihu is an indigenous folk dance from Assam associated with the Bihu festivals.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:29:30Z"
  }
 ]

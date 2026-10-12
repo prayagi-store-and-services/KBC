@@ -6998,5 +6998,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-12T06:00:07Z"
+ },
+ {
+  "id": "q_e0d9dddc5fab5e5a",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which micro-organism is used in the commercial production of alcohol and wine?",
+  "qHi": "शराब और मदिरा के व्यावसायिक उत्पादन में किस सूक्ष्म जीव का उपयोग किया जाता है?",
+  "optsEn": [
+   "Lactobacillus",
+   "Yeast",
+   "Amoeba",
+   "Penicillium"
+  ],
+  "optsHi": [
+   "लैक्टोबैसिलस",
+   "यीस्ट",
+   "अमीबा",
+   "पेनिसिलियम"
+  ],
+  "correct": 1,
+  "explainEn": "Yeast is used for commercial production of alcohol and wine through fermentation.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:28:49Z"
+ },
+ {
+  "id": "q_ad7619c7345a5d68",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the process of loosening and turning of the soil before sowing crops called?",
+  "qHi": "फसल बोने से पहले मिट्टी को ढीला करने और पलटने की प्रक्रिया को क्या कहा जाता है?",
+  "optsEn": [
+   "Harvesting",
+   "Irrigation",
+   "Tilling or Ploughing",
+   "Weeding"
+  ],
+  "optsHi": [
+   "कटाई",
+   "सिंचाई",
+   "जुताई",
+   "निराई"
+  ],
+  "correct": 2,
+  "explainEn": "Ploughing or tilling is the agricultural process of turning and loosening the soil to prepare it for sowing seeds.",
+  "sourceHint": "NCERT Class 8 Science Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:30:11Z"
+ },
+ {
+  "id": "q_977ae995c0fe1c2d",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which microorganism causes the disease known as malaria?",
+  "qHi": "किस सूक्ष्मजीव के कारण मलेरिया नामक बीमारी होती है?",
+  "optsEn": [
+   "Bacterium",
+   "Virus",
+   "Protozoan",
+   "Fungus"
+  ],
+  "optsHi": [
+   "बैक्टीरिया (जीवाणु)",
+   "वायरस (विषाणु)",
+   "प्रोटोजोआ",
+   "कवक"
+  ],
+  "correct": 2,
+  "explainEn": "Malaria is caused by single-celled protozoan parasites of the genus Plasmodium, transmitted by mosquitoes.",
+  "sourceHint": "NCERT Class 8 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:30:11Z"
  }
 ]

@@ -9350,5 +9350,537 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-12T06:00:11Z"
+ },
+ {
+  "id": "q_9acdda9b392ef817",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which element is found in all organic compounds?",
+  "qHi": "सभी कार्बनिक यौगिकों में कौन सा तत्व पाया जाता है?",
+  "optsEn": [
+   "Carbon",
+   "Nitrogen",
+   "Oxygen",
+   "Sulfur"
+  ],
+  "optsHi": [
+   "कार्बन",
+   "नाइट्रोजन",
+   "ऑक्सीजन",
+   "सल्फर"
+  ],
+  "correct": 0,
+  "explainEn": "Carbon is the essential element that forms the basis of all organic compounds due to its tetravalent nature and catenation property.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:27:58Z"
+ },
+ {
+  "id": "q_828013809b3c8d91",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the pH value of a neutral solution at standard laboratory temperature?",
+  "qHi": "मानक प्रयोगशाला तापमान पर एक उदासीन विलयन का पीएच मान क्या होता है?",
+  "optsEn": [
+   "0",
+   "7",
+   "10",
+   "14"
+  ],
+  "optsHi": [
+   "0",
+   "7",
+   "10",
+   "14"
+  ],
+  "correct": 1,
+  "explainEn": "A pH of 7 represents a neutral solution, where hydrogen ion concentration equals hydroxide ion concentration.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:27:58Z"
+ },
+ {
+  "id": "q_6251a0a5f2963786",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which crop is known as a staple food crop of a large part of the human population in India?",
+  "qHi": "भारत में मानव जनसंख्या के एक बड़े हिस्से की मुख्य खाद्य फसल के रूप में कौन सी फसल जानी जाती है?",
+  "optsEn": [
+   "Wheat",
+   "Rice",
+   "Maize",
+   "Barley"
+  ],
+  "optsHi": [
+   "गेहूं",
+   "चावल",
+   "मक्का",
+   "जौ"
+  ],
+  "correct": 1,
+  "explainEn": "Rice is the staple food crop of a majority of people in India as the country is one of the leading producers of rice in the world.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:27:58Z"
+ },
+ {
+  "id": "q_4a38c858856438c1",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of government does India have according to its Constitution?",
+  "qHi": "संविधान के अनुसार भारत में किस प्रकार की सरकार है?",
+  "optsEn": [
+   "Monarchy",
+   "Military dictatorship",
+   "Federal Parliamentary Democracy",
+   "Absolute autocracy"
+  ],
+  "optsHi": [
+   "राजशाही",
+   "सैन्य तानाशाही",
+   "संघीय संसदीय लोकतंत्र",
+   "पूर्ण निरंकुशता"
+  ],
+  "correct": 2,
+  "explainEn": "India has a federal system with a parliamentary form of government at both the central and state levels.",
+  "sourceHint": "NCERT Class 10 Political Science, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:27:58Z"
+ },
+ {
+  "id": "q_6a2dba85c8f4e93e",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the chemical formula of quicklime?",
+  "qHi": "बुझे बिना चूना (क्विकलाइम) का रासायनिक सूत्र क्या है?",
+  "optsEn": [
+   "CaCO3",
+   "CaO",
+   "Ca(OH)2",
+   "CaCl2"
+  ],
+  "optsHi": [
+   "CaCO3",
+   "CaO",
+   "Ca(OH)2",
+   "CaCl2"
+  ],
+  "correct": 1,
+  "explainEn": "Quicklime is calcium oxide, which has the chemical formula CaO.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:27:58Z"
+ },
+ {
+  "id": "q_f4c46e3536cd242b",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which element forms the basis of all organic compounds due to its ability to form long chains through catenation?",
+  "qHi": "श्रृंखलन द्वारा लंबी श्रृंखलाएं बनाने की क्षमता के कारण कौन सा तत्व सभी कार्बनिक यौगिकों का आधार बनता है?",
+  "optsEn": [
+   "Nitrogen",
+   "Carbon",
+   "Oxygen",
+   "Silicon"
+  ],
+  "optsHi": [
+   "नाइट्रोजन",
+   "कार्बन",
+   "ऑक्सीजन",
+   "सिलिकॉन"
+  ],
+  "correct": 1,
+  "explainEn": "Carbon exhibits catenation to a maximum extent among elements, allowing it to bond with itself to form stable chains and rings.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:29:14Z"
+ },
+ {
+  "id": "q_8c6998d6fce467cf",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary function of the hormone insulin in the human body?",
+  "qHi": "मानव शरीर में इंसुलिन हॉर्मोन का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "To regulate blood sugar levels",
+   "To stimulate growth in bones",
+   "To control heart rate",
+   "To maintain water balance"
+  ],
+  "optsHi": [
+   "रक्त शर्करा के स्तर को नियंत्रित करना",
+   "हड्डियों में वृद्धि को उत्तेजित करना",
+   "हृदय गति को नियंत्रित करना",
+   "जल संतुलन बनाए रखना"
+  ],
+  "correct": 0,
+  "explainEn": "Insulin is secreted by the pancreas and helps lower blood glucose levels by facilitating glucose uptake into cells.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:29:14Z"
+ },
+ {
+  "id": "q_e84fa53218533bdd",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following energy sources is considered a renewable source of energy?",
+  "qHi": "निम्नलिखित में से कौन सा ऊर्जा का स्रोत नवीकरणीय ऊर्जा स्रोत माना जाता है?",
+  "optsEn": [
+   "Coal",
+   "Petroleum",
+   "Solar energy",
+   "Natural gas"
+  ],
+  "optsHi": [
+   "कोयला",
+   "पेट्रोलियम",
+   "सौर ऊर्जा",
+   "प्राकृतिक गैस"
+  ],
+  "correct": 2,
+  "explainEn": "Solar energy is inexhaustible and continuously replenished by the sun, unlike fossil fuels which are exhaustible.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:29:14Z"
+ },
+ {
+  "id": "q_836a3c4169b328cd",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which type of power sharing is power distributed among different organs of government such as the legislature, executive, and judiciary?",
+  "qHi": "सत्ता की साझेदारी के किस रूप में शक्ति को विधायिका, कार्यपालिका और न्यायपालिका जैसे सरकार के विभिन्न अंगों के बीच वितरित किया जाता है?",
+  "optsEn": [
+   "Vertical division of power",
+   "Horizontal division of power",
+   "Power sharing among social groups",
+   "Power sharing among political parties"
+  ],
+  "optsHi": [
+   "सत्ता का ऊर्ध्वाधर वितरण",
+   "सत्ता का क्षैतिज वितरण",
+   "सामाजिक समूहों के बीच सत्ता की साझेदारी",
+   "राजनीतिक दलों के बीच सत्ता की साझेदारी"
+  ],
+  "correct": 1,
+  "explainEn": "Horizontal distribution places organs at the same level to exercise different powers, ensuring a system of checks and balances.",
+  "sourceHint": "NCERT Class 10 Political Science, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:29:14Z"
+ },
+ {
+  "id": "q_dbaa06a4565a5a9b",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which sector is also known as the service sector and includes activities like transport, communication, and banking?",
+  "qHi": "किस क्षेत्रक को सेवा क्षेत्रक भी कहा जाता है और इसमें परिवहन, संचार और बैंकिंग जैसी गतिविधियाँ शामिल हैं?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Agricultural sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्रक",
+   "द्वितीयक क्षेत्रक",
+   "तृतीयक क्षेत्रक",
+   "कृषि क्षेत्रक"
+  ],
+  "correct": 2,
+  "explainEn": "The tertiary sector supports the primary and secondary sectors by providing essential services rather than producing goods directly.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:29:14Z"
+ },
+ {
+  "id": "q_567ed18e4ca06178",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the main mineral resource found in the Chota Nagpur plateau region of India?",
+  "qHi": "भारत के छोटा नागपुर पठार क्षेत्र में पाया जाने वाला मुख्य खनिज संसाधन कौन सा है?",
+  "optsEn": [
+   "Petroleum",
+   "Minerals and coal",
+   "Gold",
+   "Diamond"
+  ],
+  "optsHi": [
+   "पेट्रोलियम",
+   "खनिज और कोयला",
+   "सोना",
+   "हीरा"
+  ],
+  "correct": 1,
+  "explainEn": "The Chota Nagpur plateau is rich in mineral resources, particularly coal, iron ore, mica, and bauxite.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:29:14Z"
+ },
+ {
+  "id": "q_9b39e7699cb308db",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which archaeological site in India provides evidence of an advanced ancient dockyard dating back to the Indus Valley Civilization?",
+  "qHi": "भारत में कौन सा पुरातात्विक स्थल सिंधु घाटी सभ्यता के समय के एक उन्नत प्राचीन गोदीबाड़ा (डॉकयार्ड) के साक्ष्य प्रदान करता है?",
+  "optsEn": [
+   "Harappa",
+   "Mohenjo-daro",
+   "Lothal",
+   "Kalibangan"
+  ],
+  "optsHi": [
+   "हड़प्पा",
+   "मोहनजोदड़ो",
+   "लोथल",
+   "कालीबंगा"
+  ],
+  "correct": 2,
+  "explainEn": "Lothal in Gujarat is well-known for its massive walled dockyard, which connected the city to an ancient course of the Sabarmati river.",
+  "sourceHint": "NCERT Class 10 History, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:29:14Z"
+ },
+ {
+  "id": "q_dcb11098ea55e93f",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which element is formed at the end of the carbon-nitrogen-oxygen cycle in stellar nucleosynthesis?",
+  "qHi": "तारकीय न्यूक्लियोसंश्लेषण में कार्बन-नाइट्रोजन-ऑक्सीजन चक्र के अंत में कौन सा तत्व बनता है?",
+  "optsEn": [
+   "Helium-4",
+   "Carbon-12",
+   "Iron-56",
+   "Oxygen-16"
+  ],
+  "optsHi": [
+   "हीलियम-4",
+   "कार्बन-12",
+   "आयरन-56",
+   "ऑक्सीजन-16"
+  ],
+  "correct": 0,
+  "explainEn": "The net result of the CNO cycle is the fusion of four protons into a helium-4 nucleus, with carbon acting as a catalyst.",
+  "sourceHint": "NCERT Class 11 Physics / Britannica Stellar Evolution",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:30:17Z"
+ },
+ {
+  "id": "q_5e915dc025bf4f1e",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the human digestive system, which enzyme is secreted in an inactive form and requires hydrochloric acid for its activation?",
+  "qHi": "मानव पाचन तंत्र में, कौन सा एंजाइम एक निष्क्रिय रूप में स्रावित होता है और इसके सक्रियण के लिए हाइड्रोक्लोरिक एसिड की आवश्यकता होती है?",
+  "optsEn": [
+   "Pepsinogen",
+   "Trypsinogen",
+   "Amylase",
+   "Lipase"
+  ],
+  "optsHi": [
+   "पेप्सिनोजेन",
+   "ट्रिप्सिनोजेन",
+   "एमाइलेज",
+   "लाइपेस"
+  ],
+  "correct": 0,
+  "explainEn": "Chief cells in the stomach secrete pepsinogen, which is activated into pepsin by the hydrochloric acid present in gastric juice.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6: Life Processes",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:30:17Z"
+ },
+ {
+  "id": "q_9ad93eec24530b84",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the electrolysis of aqueous sodium chloride (brine solution), which gas is liberated at the anode?",
+  "qHi": "जलीय सोडियम क्लोराइड (ब्राइन विलयन) के विद्युत अपघटन के दौरान, एनोड पर कौन सी गैस मुक्त होती है?",
+  "optsEn": [
+   "Hydrogen",
+   "Chlorine",
+   "Oxygen",
+   "Carbon dioxide"
+  ],
+  "optsHi": [
+   "हाइड्रोजन",
+   "क्लोरिन",
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड"
+  ],
+  "correct": 1,
+  "explainEn": "During chlor-alkali process, chloride ions are oxidized at the anode to release chlorine gas, while hydrogen gas is liberated at the cathode.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 2: Acids, Bases and Salts",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:30:17Z"
+ },
+ {
+  "id": "q_99c575caac6606c3",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In a closed circuit, if the resistance of a metallic wire is doubled while keeping the potential difference constant, the rate of heat produced in it will:",
+  "qHi": "एक बंद परिपथ में, यदि विभवांतर को स्थिर रखते हुए किसी धातु के तार का प्रतिरोध दोगुना कर दिया जाए, तो उसमें उत्पन्न ऊष्मा की दर होगी:",
+  "optsEn": [
+   "Increase by a factor of two",
+   "Decrease by a factor of two",
+   "Increase by a factor of four",
+   "Remain unchanged"
+  ],
+  "optsHi": [
+   "दोगुनी बढ़ जाएगी",
+   "आधी हो जाएगी",
+   "चार गुनी बढ़ जाएगी",
+   "अपरिवर्तित रहेगी"
+  ],
+  "correct": 1,
+  "explainEn": "The rate of heat produced is given by power P = V^2 / R. If R is doubled with V constant, power (heat rate) is halved.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 12: Electricity",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:30:17Z"
+ },
+ {
+  "id": "q_586392d1caf54844",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific soil type in India is well-known for its self-ploughing property and high moisture retention capacity?",
+  "qHi": "भारत में कौन सी विशिष्ट मिट्टी अपनी स्व-जुताई की विशेषता और उच्च नमी बनाए रखने की क्षमता के लिए जानी जाती है?",
+  "optsEn": [
+   "Laterite soil",
+   "Alluvial soil",
+   "Black soil",
+   "Red soil"
+  ],
+  "optsHi": [
+   "लैटेराइट मिट्टी",
+   "जलोढ़ मिट्टी",
+   "काली मिट्टी",
+   "लाल मिट्टी"
+  ],
+  "correct": 2,
+  "explainEn": "Black soil (Regur soil) develops deep cracks during hot weather, creating a self-ploughing effect, and holds moisture for a very long time.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 1: Resources and Development",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:30:17Z"
+ },
+ {
+  "id": "q_e718a184d9899635",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which plant hormone is primarily responsible for cell division and the breaking of seed dormancy in plant tissue culture applications?",
+  "qHi": "पादप ऊतक संवर्धन अनुप्रयोगों में कोशिका विभाजन और बीज प्रसुप्तता को तोड़ने के लिए मुख्य रूप से कौन सा पाدप हार्मोन जिम्मेदार है?",
+  "optsEn": [
+   "Auxin",
+   "Cytokinin",
+   "Abscisic acid",
+   "Ethylene"
+  ],
+  "optsHi": [
+   "ऑक्साइन",
+   "साइटोकैकिनिन",
+   "एब्सिसिक एसिड",
+   "एथिलीन"
+  ],
+  "correct": 1,
+  "explainEn": "Cytokinins promote cell division (cytokinesis) and are frequently used in plant tissue culture along with auxins to stimulate shoot development.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 7: Control and Coordination",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:30:17Z"
+ },
+ {
+  "id": "q_33115c7d2173e023",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "The treaty signed in 1987 to phase out substances that deplete the stratospheric ozone layer is known as:",
+  "qHi": "समतापमंडलीय ओजोन परत को क्षीण करने वाले पदार्थों को चरणबद्ध तरीके से समाप्त करने के लिए 1987 में हस्ताक्षरित संधि को क्या कहा जाता है?",
+  "optsEn": [
+   "Kyoto Protocol",
+   "Montreal Protocol",
+   "Paris Agreement",
+   "Vienna Convention"
+  ],
+  "optsHi": [
+   "क्योटो प्रोटोकॉल",
+   "मॉन्ट्रियल प्रोटोकॉल",
+   "पेरिस समझौता",
+   "वियना कन्वेंशन"
+  ],
+  "correct": 1,
+  "explainEn": "The Montreal Protocol is an international treaty designed to protect the ozone layer by phasing out the production of numerous substances responsible for ozone depletion.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 15: Our Environment",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:30:17Z"
  }
 ]

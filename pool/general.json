@@ -7726,5 +7726,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-12T06:01:01Z"
+ },
+ {
+  "id": "q_29628bb6fc38396a",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following vitamins is primarily obtained from sunlight by the human body?",
+  "qHi": "मानव शरीर द्वारा धूप से मुख्य रूप से निम्नलिखित में से कौन सा विटामिन प्राप्त किया जाता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "The skin synthesizes Vitamin D when exposed to ultraviolet B rays from sunlight.",
+  "sourceHint": "World Health Organization",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:28:21Z"
+ },
+ {
+  "id": "q_7b4fb0947825b524",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which classical dance form originates from the state of Tamil Nadu?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप तमिलनाडु राज्य से उत्पन्न हुआ है?",
+  "optsEn": [
+   "Kathakali",
+   "Bharatanatyam",
+   "Odissi",
+   "Kuchipudi"
+  ],
+  "optsHi": [
+   "कथकली",
+   "भरतनाट्यम",
+   "ओडिसी",
+   "कुचिपुड़ी"
+  ],
+  "correct": 1,
+  "explainEn": "Bharatanatyam is a major genre of Indian classical dance that originated in Tamil Nadu.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:28:21Z"
+ },
+ {
+  "id": "q_9e04424fa9f5a39f",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "How many players are on the field for a single team in a standard game of field hockey?",
+  "qHi": "फील्ड हॉकी के एक मानक खेल में एक टीम के लिए मैदान पर कितने खिलाड़ी होते हैं?",
+  "optsEn": [
+   "9",
+   "10",
+   "11",
+   "12"
+  ],
+  "optsHi": [
+   "9",
+   "10",
+   "11",
+   "12"
+  ],
+  "correct": 2,
+  "explainEn": "Each team plays with eleven players on the field during a standard match.",
+  "sourceHint": "International Hockey Federation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:28:21Z"
+ },
+ {
+  "id": "q_e7fcc047fcccb7f9",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which monument in India was built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal?",
+  "qHi": "भारत में किस स्मारक का निर्माण मुगल सम्राट शाहजहाँ ने अपनी पत्नी मुमताज महल की याद में करवाया था?",
+  "optsEn": [
+   "Red Fort",
+   "Qutub Minar",
+   "Taj Mahal",
+   "Humayun Tomb"
+  ],
+  "optsHi": [
+   "लाल किला",
+   "कुतुब मीनार",
+   "ताजमहल",
+   "हुमायूँ का मकबरा"
+  ],
+  "correct": 2,
+  "explainEn": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:28:21Z"
+ },
+ {
+  "id": "q_05d2fc7fd2ed67d9",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The Ajanta Caves are located in which Indian state?",
+  "qHi": "अजंता की गुफाएं किस भारतीय राज्य में स्थित हैं?",
+  "optsEn": [
+   "Madhya Pradesh",
+   "Maharashtra",
+   "Rajasthan",
+   "Gujarat"
+  ],
+  "optsHi": [
+   "मध्य प्रदेश",
+   "महाराष्ट्र",
+   "राजस्थान",
+   "गुजरात"
+  ],
+  "correct": 1,
+  "explainEn": "The Ajanta Caves are approximately 30 rock-cut Buddhist cave monuments dating from the 2nd century BCE to about 480 CE in Aurangabad district, Maharashtra.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:29:40Z"
+ },
+ {
+  "id": "q_c148bcda52772629",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin is primarily synthesized in the human body by exposure to sunlight?",
+  "qHi": "सूरज की रोशनी के संपर्क में आने से मानव शरीर में मुख्य रूप से कौन सा विटामिन बनता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin C",
+   "Vitamin D",
+   "Vitamin K"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन सी",
+   "विटामिन डी",
+   "विटामिन के"
+  ],
+  "correct": 2,
+  "explainEn": "Vitamin D is produced in the skin when it is exposed to ultraviolet B (UVB) rays from the sun.",
+  "sourceHint": "NCERT Science textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T15:29:40Z"
  }
 ]
