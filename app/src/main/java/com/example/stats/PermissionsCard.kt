@@ -59,18 +59,6 @@ internal fun notificationStatus(context: Context): String =
 
 internal fun appPermissions(): List<PermItem> = listOf(
     PermItem(
-        "Camera",
-        "Used only to scan the QR code that links KBC with KBC Web (coming soon). The game does not use the camera now. Tap to open the Android page where you can allow or stop it.",
-        { runtimeStatus(it, android.Manifest.permission.CAMERA) },
-        { it.startActivity(appSettingsIntent(it)) }
-    ),
-    PermItem(
-        "Microphone",
-        "Used only for voice answers (coming soon). The game does not use the microphone now. Tap to open the Android page where you can allow or stop it.",
-        { runtimeStatus(it, android.Manifest.permission.RECORD_AUDIO) },
-        { it.startActivity(appSettingsIntent(it)) }
-    ),
-    PermItem(
         "Notifications",
         "Used to show game and app notifications. Tap to open the Android page where you can allow or stop it.",
         { notificationStatus(it) },
