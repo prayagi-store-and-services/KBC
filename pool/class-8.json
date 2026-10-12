@@ -6886,5 +6886,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-11T22:01:22Z"
+ },
+ {
+  "id": "q_9177d31f74fcf088",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the minimum age requirement to contest an election to the Lok Sabha in India?",
+  "qHi": "भारत में लोकसभा चुनाव लड़ने के लिए न्यूनतम आयु की आवश्यकता क्या है?",
+  "optsEn": [
+   "18 years",
+   "21 years",
+   "25 years",
+   "30 years"
+  ],
+  "optsHi": [
+   "18 वर्ष",
+   "21 वर्ष",
+   "25 वर्ष",
+   "30 वर्ष"
+  ],
+  "correct": 2,
+  "explainEn": "A person must be at least 25 years of age to be a member of the Lok Sabha.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T06:00:07Z"
+ },
+ {
+  "id": "q_ccb630be25c5b440",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which micro-organism reproduces only inside the host organism?",
+  "qHi": "कौन सा सूक्ष्मजीव केवल मेजबान जीव के अंदर ही प्रजनन करता है?",
+  "optsEn": [
+   "Bacteria",
+   "Virus",
+   "Amoeba",
+   "Fungi"
+  ],
+  "optsHi": [
+   "बैक्टीरिया",
+   "वाइरस",
+   "अमीबा",
+   "कवक"
+  ],
+  "correct": 1,
+  "explainEn": "Viruses are unique because they reproduce only inside the cells of the host organism.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T06:00:07Z"
+ },
+ {
+  "id": "q_2fa3aa106be8fbd2",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What name is given to the male reproductive organ in flowers?",
+  "qHi": "फूलों में नर जनन अंग को क्या नाम दिया जाता है?",
+  "optsEn": [
+   "Pistil",
+   "Stamen",
+   "Sepal",
+   "Petal"
+  ],
+  "optsHi": [
+   "स्त्रीकेशर",
+   "पुंकेसर",
+   "बाह्यदल",
+   "पंखुड़ी"
+  ],
+  "correct": 1,
+  "explainEn": "Stamen is the male reproductive part of a flower, consisting of the filament and anther.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T06:00:07Z"
+ },
+ {
+  "id": "q_7d82aebaf070c420",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who led the Santhal rebellion that took place in the year 1855?",
+  "qHi": "वर्ष 1855 में हुए संथाल विद्रोह का नेतृत्व किसने किया था?",
+  "optsEn": [
+   "Birsa Munda",
+   "Sidhu and Kanhu",
+   "Tantia Tope",
+   "Kunwar Singh"
+  ],
+  "optsHi": [
+   "बिरसा मुंडा",
+   "सिद्धू और कान्हू",
+   "तांत्या टोपे",
+   "कुंवर सिंह"
+  ],
+  "correct": 1,
+  "explainEn": "Sidhu and Kanhu Murmu led the Santhal rebellion against the British and zamindars.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T06:00:07Z"
  }
 ]

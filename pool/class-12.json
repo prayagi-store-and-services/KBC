@@ -10274,5 +10274,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-11T22:00:31Z"
+ },
+ {
+  "id": "q_e5563bba8e8e04cd",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following organelle is known as the powerhouse of the cell?",
+  "qHi": "निम्नलिखित में से किस कोशिकांग को कोशिका का ऊर्जा गृह कहा जाता है?",
+  "optsEn": [
+   "Ribosome",
+   "Mitochondria",
+   "Golgi apparatus",
+   "Lysosome"
+  ],
+  "optsHi": [
+   "राइबोसोम",
+   "माइटोकॉन्ड्रिया",
+   "गॉल्जी काय",
+   "लसोसोम"
+  ],
+  "correct": 1,
+  "explainEn": "Mitochondria generate most of the chemical energy needed to power the biochemical reactions of the cell.",
+  "sourceHint": "NCERT Class 11 Biology Chapter 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T06:00:16Z"
+ },
+ {
+  "id": "q_da7655620c55cb6c",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which continent is the Sahara Desert located?",
+  "qHi": "सहारा मरुस्थल किस महाद्वीप में स्थित है?",
+  "optsEn": [
+   "Asia",
+   "Africa",
+   "South America",
+   "Australia"
+  ],
+  "optsHi": [
+   "एशिया",
+   "अफ्रीका",
+   "दक्षिण अमेरिका",
+   "ऑस्ट्रेलिया"
+  ],
+  "correct": 1,
+  "explainEn": "The Sahara is the largest hot desert in the world and is located in North Africa.",
+  "sourceHint": "NCERT Geography Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T06:00:16Z"
+ },
+ {
+  "id": "q_f5279053f107f91f",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary function of haemoglobin in human blood?",
+  "qHi": "मानव रक्त में हीमोग्लोबिन का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "Digesting food",
+   "Transporting oxygen",
+   "Fighting infections",
+   "Clotting blood"
+  ],
+  "optsHi": [
+   "भोजन पचाना",
+   "ऑक्सीजन का परिवहन करना",
+   "संक्रमण से लड़ना",
+   "रक्त का थक्का जमाना"
+  ],
+  "correct": 1,
+  "explainEn": "Haemoglobin is an iron-containing protein in red blood cells that transports oxygen from the lungs to the tissues.",
+  "sourceHint": "NCERT Class 10/11 Biology Chapter on Body Fluids and Circulation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T06:00:16Z"
  }
 ]

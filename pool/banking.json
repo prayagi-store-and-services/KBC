@@ -10974,5 +10974,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-11T22:00:47Z"
+ },
+ {
+  "id": "q_d43f7b64eb11c9fe",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'C' stand for in the acronym 'CASA' account?",
+  "qHi": "'CASA' खाते के संक्षिप्त नाम में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Current",
+   "Cash",
+   "Credit",
+   "Capital"
+  ],
+  "optsHi": [
+   "करेंट",
+   "कैश",
+   "क्रेडिट",
+   "कैपिटल"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account Savings Account. It refers to bank accounts that combine features of both current and savings accounts.",
+  "sourceHint": "Banking Glossary, RBI",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T06:00:30Z"
+ },
+ {
+  "id": "q_8bd0845afa74860d",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which type of account generally does not earn any interest for the account holder?",
+  "qHi": "किस प्रकार के खाते पर आमतौर पर खाताधारक को कोई ब्याज नहीं मिलता है?",
+  "optsEn": [
+   "Current Account",
+   "Savings Account",
+   "Fixed Deposit Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "चालू खाता",
+   "बचत खाता",
+   "सावधि जमा खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 0,
+  "explainEn": "Current accounts are meant for businesses and commercial transactions, and they typically do not offer any interest to the account holders.",
+  "sourceHint": "NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T06:00:30Z"
+ },
+ {
+  "id": "q_2c75b6e7a721d33b",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the term used for the rate at which the Reserve Bank of India lends short-term money to commercial banks?",
+  "qHi": "उस दर को क्या कहा जाता है जिस पर भारतीय रिजर्व बैंक व्यावसायिक बैंकों को अल्पकालिक ऋण देता है?",
+  "optsEn": [
+   "Repo Rate",
+   "Bank Rate",
+   "Reverse Repo Rate",
+   "Cash Reserve Ratio"
+  ],
+  "optsHi": [
+   "रेपो रेट",
+   "बैंक रेट",
+   "रिवर्स रेपो रेट",
+   "नकद आरक्षित अनुपात"
+  ],
+  "correct": 0,
+  "explainEn": "Repo Rate is the interest rate at which the Reserve Bank of India lends money to commercial banks in the event of any shortfall of funds.",
+  "sourceHint": "RBI Monetary Policy",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T06:00:30Z"
  }
 ]

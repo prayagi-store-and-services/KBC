@@ -7166,5 +7166,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-11T22:00:41Z"
+ },
+ {
+  "id": "q_53f9f5b8fa07192c",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "The famous monument Qutb Minar is located in which Indian city?",
+  "qHi": "प्रसिद्ध स्मारक कुतुब मीनार किस भारतीय शहर में स्थित है?",
+  "optsEn": [
+   "Agra",
+   "Delhi",
+   "Jaipur",
+   "Lucknow"
+  ],
+  "optsHi": [
+   "आगरा",
+   "दिल्ली",
+   "जयपुर",
+   "लखनऊ"
+  ],
+  "correct": 1,
+  "explainEn": "Qutb Minar is a minaret and victory tower located in the Mehrauli area of South Delhi.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T06:00:25Z"
+ },
+ {
+  "id": "q_c9e3311177b2c049",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which river originates from the Gangotri Glacier in Uttarakhand?",
+  "qHi": "उत्तराखंड में गंगोत्री ग्लेशियर से कौन सी नदी निकलती है?",
+  "optsEn": [
+   "Yamuna",
+   "Brahmaputra",
+   "Ganga",
+   "Narmada"
+  ],
+  "optsHi": [
+   "यमुना",
+   "ब्रह्मपुत्र",
+   "गंगा",
+   "नर्मदा"
+  ],
+  "correct": 2,
+  "explainEn": "The Ganga river originates as the Bhagirathi from the Gangotri Glacier in Uttarakhand.",
+  "sourceHint": "NCERT Geography Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T06:00:25Z"
+ },
+ {
+  "id": "q_39b8cfe174089003",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Kathakali is a classical dance form that originated in which Indian state?",
+  "qHi": "कथकली एक शास्त्रीय नृत्य रूप है जिसकी उत्पत्ति किस भारतीय राज्य में हुई थी?",
+  "optsEn": [
+   "Tamil Nadu",
+   "Odisha",
+   "Kerala",
+   "Andhra Pradesh"
+  ],
+  "optsHi": [
+   "तमिलनाडु",
+   "ओडिशा",
+   "केरल",
+   "आंध्र प्रदेश"
+  ],
+  "correct": 2,
+  "explainEn": "Kathakali is a major form of classical Indian dance characterized by its elaborate make-up and costumes, originating in Kerala.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T06:00:25Z"
  }
 ]

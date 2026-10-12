@@ -7642,5 +7642,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-11T22:01:11Z"
+ },
+ {
+  "id": "q_c00e5db21ef793e4",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas do plants absorb from the atmosphere during photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण के दौरान पौधे वायुमंडल से कौन सी गैस सोखते हैं?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Plants take in carbon dioxide from the air to produce food during photosynthesis.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T06:01:01Z"
+ },
+ {
+  "id": "q_ef1e6dfcb03cda4f",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which city is the Taj Mahal located?",
+  "qHi": "ताजमहल किस शहर में स्थित है?",
+  "optsEn": [
+   "Jaipur",
+   "Agra",
+   "New Delhi",
+   "Lucknow"
+  ],
+  "optsHi": [
+   "जयपुर",
+   "आगरा",
+   "नई दिल्ली",
+   "लखनऊ"
+  ],
+  "correct": 1,
+  "explainEn": "The Taj Mahal is a mausoleum located on the right bank of the Yamuna River in Agra.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T06:01:01Z"
+ },
+ {
+  "id": "q_002d7a37a03ca2ad",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which sport is played with a bat and a ball on a 22-yard pitch?",
+  "qHi": "22 गज की पिच पर बल्ले और गेंद से कौन सा खेल खेला जाता है?",
+  "optsEn": [
+   "Football",
+   "Hockey",
+   "Cricket",
+   "Badminton"
+  ],
+  "optsHi": [
+   "फुटबॉल",
+   "हॉकी",
+   "क्रिकेट",
+   "बैडमिंटन"
+  ],
+  "correct": 2,
+  "explainEn": "Cricket is a bat-and-ball game played between two teams on a 22-yard pitch.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T06:01:01Z"
  }
 ]

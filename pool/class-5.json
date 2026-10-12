@@ -9238,5 +9238,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-11T22:01:16Z"
+ },
+ {
+  "id": "q_8b0d8abcea8a95d4",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these birds can fly?",
+  "qHi": "इनमें से कौन सा पक्षी उड़ सकता है?",
+  "optsEn": [
+   "Pigeon",
+   "Penguin",
+   "Ostrich",
+   "Emu"
+  ],
+  "optsHi": [
+   "कबूतर",
+   "पेंगुइन",
+   "शुतुरमुर्ग",
+   "एमु"
+  ],
+  "correct": 0,
+  "explainEn": "Pigeons are flying birds, whereas penguins, ostriches, and emus are flightless birds.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T06:00:01Z"
+ },
+ {
+  "id": "q_77cf0972ffe43482",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which direction does the magnetic needle of a compass normally point towards?",
+  "qHi": "कम्पास की चुंबकीय सुई सामान्यतः किस दिशा की ओर संकेत करती है?",
+  "optsEn": [
+   "East and West",
+   "North and South",
+   "Up and Down",
+   "Left and Right"
+  ],
+  "optsHi": [
+   "पूर्व और पश्चिम",
+   "उत्तर और दक्षिण",
+   "ऊपर और नीचे",
+   "बाएं और दाएं"
+  ],
+  "correct": 1,
+  "explainEn": "A magnetic compass needle aligns with Earth's magnetic field, pointing towards the North and South poles.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T06:00:01Z"
+ },
+ {
+  "id": "q_705bd5c2ebf37f21",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these traditional Indian water harvesting structures is a stepwell?",
+  "qHi": "इनमें से कौन सी पारंपरिक भारतीय जल संचयन संरचना एक बावड़ी है?",
+  "optsEn": [
+   "Baoli",
+   "Dam",
+   "Tubewell",
+   "Canal"
+  ],
+  "optsHi": [
+   "बावड़ी",
+   "बांध",
+   "ट्यूबवेल",
+   "नहर"
+  ],
+  "correct": 0,
+  "explainEn": "A baoli is a traditional stepwell used in India for collecting and storing rainwater.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T06:00:01Z"
  }
 ]

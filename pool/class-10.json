@@ -9294,5 +9294,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-11T22:01:27Z"
+ },
+ {
+  "id": "q_059ac338c04a6950",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organ of government is responsible for making laws in India?",
+  "qHi": "भारत में कानून बनाने के लिए सरकार का कौन सा अंग जिम्मेदार है?",
+  "optsEn": [
+   "Executive",
+   "Judiciary",
+   "Legislature",
+   "Police"
+  ],
+  "optsHi": [
+   "कार्यपालिका",
+   "न्यायपालिका",
+   "विधायिका",
+   "पुलिस"
+  ],
+  "correct": 2,
+  "explainEn": "The legislature, consisting of Parliament at the Centre, is responsible for enacting laws.",
+  "sourceHint": "NCERT Class 10 Democratic Politics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T06:00:11Z"
+ },
+ {
+  "id": "q_6c7f5ac6017dcd9b",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of soil is most suitable for growing cotton?",
+  "qHi": "कपास की खेती के लिए किस प्रकार की मिट्टी सबसे उपयुक्त होती है?",
+  "optsEn": [
+   "Laterite soil",
+   "Red soil",
+   "Black soil",
+   "Desert soil"
+  ],
+  "optsHi": [
+   "लैटेराइट मिट्टी",
+   "लाल मिट्टी",
+   "काली मिट्टी",
+   "मरुस्थलीय मिट्टी"
+  ],
+  "correct": 2,
+  "explainEn": "Black soil, also known as regur soil, is ideal for growing cotton.",
+  "sourceHint": "NCERT Class 10 Geography Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-12T06:00:11Z"
  }
 ]
