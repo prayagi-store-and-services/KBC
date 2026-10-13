@@ -11954,5 +11954,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-13T14:15:30Z"
+ },
+ {
+  "id": "q_de8ae59be539f759",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which type of bank account generally offers no interest on the deposits?",
+  "qHi": "किस प्रकार के बैंक खाते में आमतौर पर जमा राशि पर कोई ब्याज नहीं मिलता है?",
+  "optsEn": [
+   "Current Account",
+   "Savings Account",
+   "Fixed Deposit Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "चालू खाता",
+   "बचत खाता",
+   "सावधि जमा खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 0,
+  "explainEn": "Current accounts are meant for business purposes and generally do not offer any interest on the deposited balance.",
+  "sourceHint": "Banking Awareness by Arihant Publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:46:47Z"
+ },
+ {
+  "id": "q_2b3573810a1758f4",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'C' stand for in the banking term 'CASA'?",
+  "qHi": "बैंकिंग शब्द 'CASA' में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Current",
+   "Capital",
+   "Credit",
+   "Central"
+  ],
+  "optsHi": [
+   "करेंट",
+   "कैपिटल",
+   "क्रेडिट",
+   "सेंट्रल"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account Savings Account, which represents low-cost deposits for banks.",
+  "sourceHint": "Indian Banking Glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:46:47Z"
+ },
+ {
+  "id": "q_1205a3b161fc45c9",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following cards is issued directly by a bank and debits funds immediately from the user's account?",
+  "qHi": "निम्नलिखित में से कौन सा कार्ड सीधे बैंक द्वारा जारी किया जाता है और उपयोगकर्ता के खाते से तुरंत राशि काट लेता है?",
+  "optsEn": [
+   "Debit Card",
+   "Credit Card",
+   "Ration Card",
+   "Smart ID Card"
+  ],
+  "optsHi": [
+   "डेबिट कार्ड",
+   "क्रेडिट कार्ड",
+   "राशन कार्ड",
+   "स्मार्ट आईडी कार्ड"
+  ],
+  "correct": 0,
+  "explainEn": "A debit card is linked to a bank account and withdraws money directly from that account for purchases.",
+  "sourceHint": "NCERT Business Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:46:47Z"
+ },
+ {
+  "id": "q_db3b0ecf7447010c",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'M' stand for in the context of the 'MSME' sector in India?",
+  "qHi": "भारत में 'MSME' क्षेत्र के संदर्भ में अक्षर 'M' का क्या अर्थ है?",
+  "optsEn": [
+   "Macro",
+   "Minor",
+   "Medium",
+   "Manual"
+  ],
+  "optsHi": [
+   "मैक्रो",
+   "माइनर",
+   "मीडियम",
+   "मैनुअल"
+  ],
+  "correct": 2,
+  "explainEn": "MSME stands for Micro, Small and Medium Enterprises.",
+  "sourceHint": "Ministry of Micro, Small and Medium Enterprises, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:47:25Z"
+ },
+ {
+  "id": "q_9fe872e35074adf1",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum deposit insurance cover provided by the Deposit Insurance and Credit Guarantee Corporation (DICGC) per depositor per bank in India?",
+  "qHi": "भारत में डिपाजिट इंश्योरेंस एंड क्रेडिट गारंटी कॉरपोरेशन (DICGC) द्वारा प्रति जमाकर्ता प्रति बैंक अधिकतम जमा बीमा कवर कितना प्रदान किया जाता है?",
+  "optsEn": [
+   "One Lakh Rupees",
+   "Two Lakh Rupees",
+   "Five Lakh Rupees",
+   "Ten Lakh Rupees"
+  ],
+  "optsHi": [
+   "एक लाख रुपये",
+   "दो लाख रुपये",
+   "पाँच लाख रुपये",
+   "दस लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "DICGC insures each depositor in a bank up to a maximum of Rs. 5,000,000 for both principal and interest amount held.",
+  "sourceHint": "DICGC official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:47:25Z"
+ },
+ {
+  "id": "q_741971af280f44da",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following financial instruments represents an ownership stake in a company?",
+  "qHi": "निम्नलिखित में से कौन सा वित्तीय साधन किसी कंपनी में स्वामित्व हिस्सेदारी का प्रतिनिधित्व करता है?",
+  "optsEn": [
+   "Treasury Bill",
+   "Equity Share",
+   "Certificate of Deposit",
+   "Commercial Paper"
+  ],
+  "optsHi": [
+   "Treasury Bill",
+   "इक्विटी शेयर",
+   "Certificate of Deposit",
+   "Commercial Paper"
+  ],
+  "correct": 1,
+  "explainEn": "Holding an equity share means owning a share of the company, giving the holder ownership rights.",
+  "sourceHint": "NCERT Business Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:47:25Z"
+ },
+ {
+  "id": "q_0e64420d51c7d283",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the term 'CASA' primarily refer to in the banking sector?",
+  "qHi": "बैंकिंग क्षेत्र में 'CASA' शब्द मुख्य रूप से किससे संबंधित है?",
+  "optsEn": [
+   "Current Account Saving Account",
+   "Credit Asset Security Agreement",
+   "Centralized Audit System Analysis",
+   "Core Accounting Software Application"
+  ],
+  "optsHi": [
+   "करेंट अकाउंट सेविंग अकाउंट",
+   "क्रेडिट एसेट सिक्योरिटी Agreement",
+   "सेंट्रलाइज्ड ऑडिट सिस्टम एनालिसिस",
+   "कोर अकाउंटिंग सॉफ्टवेयर एप्लीकेशन"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account and Savings Account, which are low-cost deposit accounts for banks.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) study material",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:47:25Z"
+ },
+ {
+  "id": "q_804e4b8ff539b895",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of banking technology, what does 'NEFT' stand for?",
+  "qHi": "बैंकिंग तकनीक के संदर्भ में, 'NEFT' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "Net Equity Fund Transfer",
+   "National Economy Finance Trust",
+   "Network Exchange Fund Transaction"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "नेट इक्विटी फंड ट्रांसफर",
+   "नेशनल इकोनॉमी फाइनेंस ट्रस्ट",
+   "नेटवर्क एक्सचेंज फंड ट्रांजैक्शन"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, a nation-wide centralized payment system operated by RBI.",
+  "sourceHint": "RBI Payment Systems",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:47:25Z"
+ },
+ {
+  "id": "q_905c811315b670d4",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institution was established in July 1982 by an Act of Parliament to promote integrated rural development and agricultural credit in India?",
+  "qHi": "भारत में एकीकृत ग्रामीण विकास और कृषि ऋण को बढ़ावा देने के लिए संसद के एक अधिनियम द्वारा जुलाई 1982 में किस संस्था की स्थापना की गई थी?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "IFCI"
+  ],
+  "optsHi": [
+   "सिडबी",
+   "नाबार्ड",
+   "एक्सिम बैंक",
+   "आईएफसीआई"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) was established on 12 July 1982 based on the recommendation of the B. Sivaraman Committee.",
+  "sourceHint": "NABARD official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:47:25Z"
  }
 ]

@@ -7334,5 +7334,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-13T14:22:10Z"
+ },
+ {
+  "id": "q_fc2e5b38076e0739",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which crop is classified as a Kharif crop in India?",
+  "qHi": "भारत में किस फसल को खरीफ फसल के रूप में वर्गीकृत किया गया है?",
+  "optsEn": [
+   "Wheat",
+   "Paddy",
+   "Gram",
+   "Peas"
+  ],
+  "optsHi": [
+   "गेहूं",
+   "धान",
+   "चना",
+   "मटर"
+  ],
+  "correct": 1,
+  "explainEn": "Paddy is sown in the rainy season, which is the characteristic of Kharif crops.",
+  "sourceHint": "NCERT Class 8 Science Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:46:03Z"
+ },
+ {
+  "id": "q_6c507bd8d2a91189",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of microorganism causes malaria?",
+  "qHi": "मलेरिया किस प्रकार के सूक्ष्मजीव के कारण होता है?",
+  "optsEn": [
+   "Bacterium",
+   "Virus",
+   "Protozoan",
+   "Fungus"
+  ],
+  "optsHi": [
+   "जीवाणु",
+   "विषाणु",
+   "प्रोटोजोआ",
+   "कवक"
+  ],
+  "correct": 2,
+  "explainEn": "Malaria is caused by Plasmodium, which is a protozoan.",
+  "sourceHint": "NCERT Class 8 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:47:00Z"
+ },
+ {
+  "id": "q_56c5ec87d5ac91b6",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which metal is stored immersed in kerosene because of its high reactivity with air and moisture?",
+  "qHi": "किस धातु को हवा और नमी के साथ अत्यधिक अभिक्रियाशीलता के कारण मिट्टी के तेल (केरोसिन) में डुबोकर रखा जाता है?",
+  "optsEn": [
+   "Copper",
+   "Iron",
+   "Sodium",
+   "Gold"
+  ],
+  "optsHi": [
+   "तांबा",
+   "लोहा",
+   "सोडियम",
+   "सोना"
+  ],
+  "correct": 2,
+  "explainEn": "Sodium is a highly reactive metal that catches fire if kept in contact with air and moisture, so it is stored in kerosene.",
+  "sourceHint": "NCERT Class 8 Science Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:47:00Z"
+ },
+ {
+  "id": "q_b2ba06e9d2f6cf1c",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who is known as the Father of the Indian Constitution due to his pivotal role in drafting it?",
+  "qHi": "भारतीय संविधान के निर्माण में उनकी महत्वपूर्ण भूमिका के कारण किसे भारतीय संविधान का जनक माना जाता है?",
+  "optsEn": [
+   "Mahatma Gandhi",
+   "Dr. B. R. Ambedkar",
+   "Sardar Vallabhbhai Patel",
+   "Jawaharlal Nehru"
+  ],
+  "optsHi": [
+   "महात्मा गांधी",
+   "डॉ. बी. आर. अम्बेडकर",
+   "सरदार वल्लभभाई पटेल",
+   "जवाहरलाल नेहरू"
+  ],
+  "correct": 1,
+  "explainEn": "Dr. B. R. Ambedkar was the Chairman of the Drafting Committee and is recognized as the Father of the Indian Constitution.",
+  "sourceHint": "NCERT Class 8 Civics Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:47:00Z"
+ },
+ {
+  "id": "q_a85dfeb532fa1953",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the human endocrine system, which gland is responsible for secreting the hormone thyroxine?",
+  "qHi": "मानव अंतःस्रावी तंत्र में, कौन सी ग्रंथि थायरोक्सिन हार्मोन स्रावित करने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Adrenal gland",
+   "Thyroid gland",
+   "Pituitary gland",
+   "Pancreas"
+  ],
+  "optsHi": [
+   "अधिब्रक्क ग्रंथि (Adrenal gland)",
+   "थायरॉइड ग्रंथि (Thyroid gland)",
+   "पीयूष ग्रंथि (Pituitary gland)",
+   "अग्नाशय (Pancreas)"
+  ],
+  "correct": 1,
+  "explainEn": "The thyroid gland produces thyroxine, which regulates the body's overall metabolic rate.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 10: Reaching the Age of Adolescence",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:48:02Z"
+ },
+ {
+  "id": "q_e047382ad4588b5a",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which microorganism is primarily responsible for the conversion of milk into curd?",
+  "qHi": "दूध को दही में बदलने के लिए मुख्य रूप से कौन सा सूक्ष्मजीव जिम्मेदार है?",
+  "optsEn": [
+   "Rhizobium",
+   "Lactobacillus",
+   "Penicillium",
+   "Amoeba"
+  ],
+  "optsHi": [
+   "राइजोबियम (Rhizobium)",
+   "लैक्टोबैसिलस (Lactobacillus)",
+   "पेनिसिलियम (Penicillium)",
+   "अमीबा (Amoeba)"
+  ],
+  "correct": 1,
+  "explainEn": "Milk contains lactose sugar, which is converted into lactic acid by the bacterium Lactobacillus, turning milk into curd.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 2: Microorganisms: Friend and Foe",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:48:02Z"
+ },
+ {
+  "id": "q_70059b32e01b50a6",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following treaty terms transferred the Diwani rights of Bengal, Bihar, and Orissa to the British East India Company?",
+  "qHi": "निम्नलिखित में से किस संधि के तहत बंगाल, बिहार और उरिशा के दीवानी अधिकार ब्रिटिश ईस्ट इंडिया कंपनी को हस्तांतरित किए गए थे?",
+  "optsEn": [
+   "Treaty of Alinagar",
+   "Treaty of Allahabad",
+   "Treaty of Bassein",
+   "Treaty of Seringapatam"
+  ],
+  "optsHi": [
+   "अलीनगर की संधि (Treaty of Alinagar)",
+   "इलाहाबाद की संधि (Treaty of Allahabad)",
+   "बेसिन की संधि (Treaty of Bassein)",
+   "श्रीरंगपट्टनम की संधि (Treaty of Seringapatam)"
+  ],
+  "correct": 1,
+  "explainEn": "By the Treaty of Allahabad in 1765, the Mughal Emperor granted the Diwani of Bengal, Bihar, and Orissa to the East India Company.",
+  "sourceHint": "NCERT Class 8 History, Chapter 4: Tribals, Dikus and the Vision of a Golden Age",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:48:02Z"
+ },
+ {
+  "id": "q_cc459cce3978051b",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of vegetation is typically found in regions with heavy rainfall and high temperatures year-round, characterized by dense canopies?",
+  "qHi": "वर्ष भर भारी वर्षा और उच्च तापमान वाले क्षेत्रों में आमतौर पर किस प्रकार की वनस्पति पाई जाती है, जिसकी विशेषता घने वितान (canopies) हैं?",
+  "optsEn": [
+   "Tropical evergreen forests",
+   "Temperate deciduous forests",
+   "Thorny bushes",
+   "Tundra vegetation"
+  ],
+  "optsHi": [
+   "उष्णकटिबंधीय सदाबहार वन (Tropical evergreen forests)",
+   "शीतोष्ण पर्णपाती वन (Temperate deciduous forests)",
+   "कटीली झाड़ियाँ (Thorny bushes)",
+   "टुंड्रा वनस्पति (Tundra vegetation)"
+  ],
+  "correct": 0,
+  "explainEn": "Tropical evergreen forests receive heavy rainfall throughout the year and do not shed their leaves all at once, maintaining a dense canopy.",
+  "sourceHint": "NCERT Class 8 Geography, Chapter 2: Land, Soil, Water, Natural Vegetation and Wildlife Resources",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:48:02Z"
+ },
+ {
+  "id": "q_a232012ee9f17206",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following foundational documents of Indian democracy specifically guarantees the 'Right to Equality' as a fundamental right?",
+  "qHi": "भारतीय लोकतंत्र के निम्नलिखित में से कौन सा मौलिक दस्तावेज़ विशेष रूप से एक मौलिक अधिकार के रूप में 'समानता के अधिकार' की गारंटी देता है?",
+  "optsEn": [
+   "The Preamble",
+   "Directive Principles of State Policy",
+   "Part III of the Constitution",
+   "Fundamental Duties"
+  ],
+  "optsHi": [
+   "प्रस्तावना (The Preamble)",
+   "राज्य के नीति निर्देशक तत्व (Directive Principles of State Policy)",
+   "संविधान का भाग III (Part III of the Constitution)",
+   "मौलिक कर्तव्य (Fundamental Duties)"
+  ],
+  "correct": 2,
+  "explainEn": "Fundamental Rights are enshrined in Part III of the Indian Constitution, spanning Articles 12 to 35, which include the Right to Equality.",
+  "sourceHint": "NCERT Class 8 Civics, Chapter 1: The Indian Constitution",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:48:02Z"
+ },
+ {
+  "id": "q_7a5a1479d71684ae",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In physics, what is the term used to describe the force acting per unit area on a surface?",
+  "qHi": "भौतिकी में, किसी सतह पर प्रति इकाई क्षेत्र में लगने वाले बल को वर्णित करने के लिए किस शब्द का उपयोग किया जाता है?",
+  "optsEn": [
+   "Friction",
+   "Pressure",
+   "Inertia",
+   "Momentum"
+  ],
+  "optsHi": [
+   "घर्षण (Friction)",
+   "दाब (Pressure)",
+   "जड़त्व (Inertia)",
+   "संवेग (Momentum)"
+  ],
+  "correct": 1,
+  "explainEn": "Pressure is defined mathematically as the force acting perpendicularly on a unit area of the surface (Pressure = Force / Area).",
+  "sourceHint": "NCERT Class 8 Science, Chapter 9: Force and Pressure",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:48:02Z"
+ },
+ {
+  "id": "q_b3ae92d9363726d7",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which metal is stored immersed in kerosene to prevent accidental fires because it reacts very vigorously with oxygen and moisture?",
+  "qHi": "किस धातु को आकस्मिक आग से बचाने के लिए मिट्टी के तेल (केरोसिन) में डुबोकर रखा जाता है क्योंकि यह ऑक्सीजन और नमी के साथ बहुत तेजी से प्रतिक्रिया करती है?",
+  "optsEn": [
+   "Copper",
+   "Sodium",
+   "Silver",
+   "Gold"
+  ],
+  "optsHi": [
+   "तांबा (Copper)",
+   "सोडियम (Sodium)",
+   "चांदी (Silver)",
+   "सोना (Gold)"
+  ],
+  "correct": 1,
+  "explainEn": "Sodium is a highly reactive metal that reacts violently with oxygen and water, catching fire easily, so it is stored in kerosene.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 3: Materials: Metals and Non-Metals",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:48:02Z"
  }
 ]

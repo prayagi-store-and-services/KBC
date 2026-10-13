@@ -7642,5 +7642,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-13T00:43:51Z"
+ },
+ {
+  "id": "q_5a3b1baae912e9a6",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which vitamin is primarily responsible for the clotting of human blood?",
+  "qHi": "मानव रक्त के थक्के जमने के लिए मुख्य रूप से कौन सा विटामिन जिम्मेदार है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin K"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन के"
+  ],
+  "correct": 3,
+  "explainEn": "Vitamin K plays a major role in blood clotting, preventing excessive bleeding.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:46:22Z"
+ },
+ {
+  "id": "q_b78594ebbe92f833",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Bihu is a traditional folk festival celebrated in which Indian state?",
+  "qHi": "बिहू किस भारतीय राज्य में मनाया जाने वाला एक पारंपरिक लोक त्योहार है?",
+  "optsEn": [
+   "Punjab",
+   "Assam",
+   "Kerala",
+   "Tamil Nadu"
+  ],
+  "optsHi": [
+   "पंजाब",
+   "असम",
+   "केरल",
+   "तमिलनाडु"
+  ],
+  "correct": 1,
+  "explainEn": "Bihu is a set of three important cultural festivals of Assam.",
+  "sourceHint": "NCERT Art and Culture",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:46:22Z"
+ },
+ {
+  "id": "q_0a9525cf01e3d2b0",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which article of the Indian Constitution provides for the establishment of the Finance Commission of India?",
+  "qHi": "भारतीय संविधान का कौन सा अनुच्छेद भारत के वित्त आयोग की स्थापना का प्रावधान करता है?",
+  "optsEn": [
+   "Article 263",
+   "Article 280",
+   "Article 315",
+   "Article 324"
+  ],
+  "optsHi": [
+   "अनुच्छेद 263",
+   "अनुच्छेद 280",
+   "अनुच्छेद 315",
+   "अनुच्छेद 324"
+  ],
+  "correct": 1,
+  "explainEn": "Article 280 of the Constitution of India provides for a Finance Commission as a quasi-judicial body constituted by the President of India.",
+  "sourceHint": "Constitution of India, Part XII",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:47:20Z"
+ },
+ {
+  "id": "q_deec1b486fa97d98",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who was the founder of the Satavahana dynasty in ancient India?",
+  "qHi": "प्राचीन भारत में सातवाहन वंश का संस्थापक कौन था?",
+  "optsEn": [
+   "Simukha",
+   "Gautamiputra Satakarni",
+   "Karkavahana",
+   "Hala"
+  ],
+  "optsHi": [
+   "सिमुक",
+   "गौतमीपुत्र सातकर्णि",
+   "करकवाहन",
+   "हाल"
+  ],
+  "correct": 0,
+  "explainEn": "Simukha was the founder of the Satavahana dynasty, which ruled parts of central and southern India from the 1st century BCE onwards.",
+  "sourceHint": "NCERT Class 11 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:47:20Z"
+ },
+ {
+  "id": "q_485aeecb868927e8",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which chemical element has the highest electrical conductivity at room temperature among all naturally occurring elements?",
+  "qHi": "सभी प्राकृतिक रूप से पाए जाने वाले तत्वों में से कमरे के तापमान पर किस रासायनिक तत्व की विद्युत चालकता सबसे अधिक होती है?",
+  "optsEn": [
+   "Copper",
+   "Gold",
+   "Silver",
+   "Aluminium"
+  ],
+  "optsHi": [
+   "तांबा",
+   "सोना",
+   "चांदी",
+   "एल्युमीनियम"
+  ],
+  "correct": 2,
+  "explainEn": "Silver has the highest electrical conductivity, thermal conductivity, and reflectivity of any metal.",
+  "sourceHint": "NCERT Class 10 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:47:20Z"
+ },
+ {
+  "id": "q_7aef0d1a86ff1527",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following winds is a hot, dry, and local wind that blows in the northern plains of India during the summer season?",
+  "qHi": "निम्नलिखित में से कौन सी हवा एक गर्म, शुष्क और स्थानीय हवा है जो गर्मियों के मौसम में भारत के उत्तरी मैदानों में चलती है?",
+  "optsEn": [
+   "Chinook",
+   "Foehn",
+   "Loo",
+   "Mistral"
+  ],
+  "optsHi": [
+   "चिनूक",
+   "फेहन",
+   "लू",
+   "मिस्ट्रल"
+  ],
+  "correct": 2,
+  "explainEn": "Loo is a strong, dusty, gusty, hot, and dry summer wind from the west which blows over the western Indo-Gangetic plain region of North India and Pakistan.",
+  "sourceHint": "NCERT Class 9 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:47:20Z"
+ },
+ {
+  "id": "q_a3465b3a97b18b31",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which battle was fought in 1576 between the forces of the Mughal Emperor Akbar and Maharana Pratap of Mewar?",
+  "qHi": "मुगल सम्राट अकबर और मेवाड़ के महाराणा प्रताप की सेनाओं के बीच 1576 में कौन सा युद्ध लड़ा गया था?",
+  "optsEn": [
+   "Battle of Panipat",
+   "Battle of Haldighati",
+   "Battle of Khanwa",
+   "Battle of Chausa"
+  ],
+  "optsHi": [
+   "पानीपत का युद्ध",
+   "हल्दीघाटी का युद्ध",
+   "खानवा का युद्ध",
+   "चौसा का युद्ध"
+  ],
+  "correct": 1,
+  "explainEn": "The Battle of Haldighati was fought on June 18, 1576, at Haldighati in Rajasthan between cavalry and archers supporting the Maharana Pratap, and the Mughal emperor Akbar's force.",
+  "sourceHint": "NCERT Class 7 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:47:20Z"
  }
 ]

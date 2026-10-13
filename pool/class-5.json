@@ -9798,5 +9798,453 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-13T14:21:21Z"
+ },
+ {
+  "id": "q_0b85f9a9daae2083",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these animals is known as an expert scavenger that helps keep the environment clean by eating dead animals?",
+  "qHi": "इनमें से किस जानवर को एक कुशल सफाईकर्मी के रूप में जाना जाता है जो मरे हुए जानवरों को खाकर पर्यावरण को साफ रखने में मदद करता है?",
+  "optsEn": [
+   "Vulture",
+   "Elephant",
+   "Cow",
+   "Rabbit"
+  ],
+  "optsHi": [
+   "गिद्ध",
+   "हाथी",
+   "गाय",
+   "खरगोश"
+  ],
+  "correct": 0,
+  "explainEn": "Vultures feed on dead animals, acting as natural scavengers.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:45:59Z"
+ },
+ {
+  "id": "q_26356309b3912645",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which cardinal direction does the needle of a magnetic compass always point towards?",
+  "qHi": "चुंबकीय कम्पास की सुई हमेशा किस मुख्य दिशा की ओर इशारा करती है?",
+  "optsEn": [
+   "East",
+   "West",
+   "North",
+   "South-East"
+  ],
+  "optsHi": [
+   "पूर्व",
+   "पश्चिम",
+   "उत्तर",
+   "दक्षिण-पूर्व"
+  ],
+  "correct": 2,
+  "explainEn": "A magnetic compass needle aligns with Earth's magnetic field, pointing towards the magnetic North.",
+  "sourceHint": "NCERT Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:45:59Z"
+ },
+ {
+  "id": "q_f7a2515eeef616a5",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What state of matter is water when it is in the form of ice?",
+  "qHi": "पानी जब बर्फ के रूप में होता है, तो वह पदार्थ की किस अवस्था में होता है?",
+  "optsEn": [
+   "Solid",
+   "Liquid",
+   "Gas",
+   "Plasma"
+  ],
+  "optsHi": [
+   "ठोस",
+   "द्रव",
+   "गैस",
+   "प्लाज्मा"
+  ],
+  "correct": 0,
+  "explainEn": "Ice is the solid state of water.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:45:59Z"
+ },
+ {
+  "id": "q_e4f9fd56ec1fda40",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is an internal organ located inside the human chest?",
+  "qHi": "निम्नलिखित में से कौन सा आंतरिक अंग मानव छाती के अंदर स्थित है?",
+  "optsEn": [
+   "Stomach",
+   "Lungs",
+   "Intestine",
+   "Kidney"
+  ],
+  "optsHi": [
+   "पेट",
+   "फेफड़े",
+   "आंत",
+   "गुर्दा"
+  ],
+  "correct": 1,
+  "explainEn": "The lungs are located inside the chest cavity and help in breathing.",
+  "sourceHint": "NCERT Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:45:59Z"
+ },
+ {
+  "id": "q_8ccc478d975428a8",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which season in India generally experiences very hot weather and long days?",
+  "qHi": "भारत में किस ऋतु में सामान्यतः बहुत गर्म मौसम और लंबे दिन होते हैं?",
+  "optsEn": [
+   "Winter",
+   "Monsoon",
+   "Summer",
+   "Autumn"
+  ],
+  "optsHi": [
+   "सर्दी",
+   "मानसून",
+   "गर्मी",
+   "शरद"
+  ],
+  "correct": 2,
+  "explainEn": "Summer is the season characterized by high temperatures and longer days in India.",
+  "sourceHint": "NCERT Geography textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:45:59Z"
+ },
+ {
+  "id": "q_90045c3d2953499c",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin is primarily obtained by the human body from direct sunlight?",
+  "qHi": "मानव शरीर को सीधी धूप से मुख्य रूप से कौन सा विटामिन प्राप्त होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Sunlight helps the skin produce Vitamin D, which is essential for bones.",
+  "sourceHint": "NCERT Class 5 Health and Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:46:56Z"
+ },
+ {
+  "id": "q_76da5b02cd79e358",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of skeleton does an insect like a cockroach have on the outside of its body?",
+  "qHi": "तिलचट्टे जैसे कीड़े के शरीर के बाहर किस प्रकार का कंकाल होता है?",
+  "optsEn": [
+   "Endoskeleton",
+   "Exoskeleton",
+   "Hydrostatic skeleton",
+   "No skeleton"
+  ],
+  "optsHi": [
+   "अंतःकंकाल",
+   "बाह्यकंकाल",
+   "हाइड्रॉस्टेटिक कंकाल",
+   "कोई कंकाल नहीं"
+  ],
+  "correct": 1,
+  "explainEn": "Insects have a hard outer covering called an exoskeleton for protection and support.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:46:56Z"
+ },
+ {
+  "id": "q_d6b509dc31202b2b",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian stepwell is built primarily for harvesting rainwater and storing water?",
+  "qHi": "वर्षा जल संचयन और पानी के भंडारण के लिए मुख्य रूप से कौन सी पारंपरिक भारतीय बावड़ी बनाई जाती है?",
+  "optsEn": [
+   "Baoli",
+   "Igloo",
+   "Tent",
+   "Stilt house"
+  ],
+  "optsHi": [
+   "बावड़ी",
+   "इग्लू",
+   "तंबू",
+   "बांस का घर"
+  ],
+  "correct": 0,
+  "explainEn": "Stepwells, known as baolis, were historically constructed in dry regions of India to store rainwater.",
+  "sourceHint": "NCERT Class 5 EVS Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:46:56Z"
+ },
+ {
+  "id": "q_2692498eb1bcd6b0",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which planet in our solar system has the highest surface temperature due to a runaway greenhouse effect caused mainly by carbon dioxide?",
+  "qHi": "हमारे सौरमंडल में किस ग्रह का सतह का तापमान सबसे अधिक है जो मुख्य रूप से कार्बन डाइऑक्साइड के कारण होने वाले अनियंत्रित ग्रीनहाउस प्रभाव से होता है?",
+  "optsEn": [
+   "Mercury",
+   "Venus",
+   "Mars",
+   "Jupiter"
+  ],
+  "optsHi": [
+   "बुध",
+   "शुक्र",
+   "मंगल",
+   "बृहस्पति"
+  ],
+  "correct": 1,
+  "explainEn": "Venus is the hottest planet in the solar system because its thick atmosphere traps heat through a powerful greenhouse effect.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:47:57Z"
+ },
+ {
+  "id": "q_ef50f536a5b0a233",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specialized organelle in plant cells contains chlorophyll and is responsible for conducting photosynthesis?",
+  "qHi": "पादप कोशिकाओं में कौन सा विशिष्ट अंगक क्लोरोफिल रखता है और प्रकाश संश्लेषण करने के लिए उत्तरदायी है?",
+  "optsEn": [
+   "Mitochondria",
+   "Vacuole",
+   "Chloroplast",
+   "Ribosome"
+  ],
+  "optsHi": [
+   "माइटोकॉन्ड्रिया",
+   "रिक्तिका",
+   "क्लोरोप्लास्ट",
+   "राइबोसोम"
+  ],
+  "correct": 2,
+  "explainEn": "Chloroplasts contain the green pigment chlorophyll, which captures sunlight to make food for plants.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:47:57Z"
+ },
+ {
+  "id": "q_ed277cec6f303fbe",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During which historical movement in India was the Salt March, also known as the Dandi March, undertaken in 1930?",
+  "qHi": "भारत में किस ऐतिहासिक आंदोलन के दौरान 1930 में नमक मार्च, जिसे दांडी मार्च भी कहा जाता है, निकाला गया था?",
+  "optsEn": [
+   "Non-Cooperation Movement",
+   "Civil Disobedience Movement",
+   "Quit India Movement",
+   "Khilafat Movement"
+  ],
+  "optsHi": [
+   "असहयोग आंदोलन",
+   "सविनय अवज्ञा आंदोलन",
+   "भारत छोड़ो आंदोलन",
+   "खिलाफत आंदोलन"
+  ],
+  "correct": 1,
+  "explainEn": "The Dandi March was an act of nonviolent civil disobedience led by Mahatma Gandhi against the British salt monopoly.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:47:57Z"
+ },
+ {
+  "id": "q_d96b546e97869aea",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which line of latitude divides the Earth into the Northern Hemisphere and the Southern Hemisphere?",
+  "qHi": "अक्षांश की कौन सी रेखा पृथ्वी को उत्तरी गोलार्ध और दक्षिणी गोलार्ध में विभाजित करती है?",
+  "optsEn": [
+   "Tropic of Cancer",
+   "Equator",
+   "Prime Meridian",
+   "Tropic of Capricorn"
+  ],
+  "optsHi": [
+   "कर्क रेखा",
+   "भूमध्य रेखा",
+   "प्रधान मध्याह्न रेखा",
+   "मकर रेखा"
+  ],
+  "correct": 1,
+  "explainEn": "The Equator is the 0-degree latitude line that splits the Earth into Northern and Southern hemispheres.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:47:57Z"
+ },
+ {
+  "id": "q_597593c470c4ca9c",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which vitamin is primarily synthesized in the human skin when it is exposed to ultraviolet sunlight?",
+  "qHi": "मानव त्वचा में पराबैंगनी धूप के संपर्क में आने पर मुख्य रूप से कौन सा विटामिन बनता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Sunlight allows the skin to produce Vitamin D, which is essential for strong bones and teeth.",
+  "sourceHint": "NCERT Class 6 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:47:57Z"
+ },
+ {
+  "id": "q_108f246d08c6c2e6",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which physical process causes liquid water to change into water vapor at temperatures below its boiling point?",
+  "qHi": "किस भौतिक प्रक्रिया के कारण तरल पानी अपने क्वथनांक से कम तापमान पर जल वाष्प में बदल जाता है?",
+  "optsEn": [
+   "Evaporation",
+   "Condensation",
+   "Precipitation",
+   "Melting"
+  ],
+  "optsHi": [
+   "वाष्पीकरण",
+   "संघनन",
+   "वर्षा",
+   "गलनांक"
+  ],
+  "correct": 0,
+  "explainEn": "Evaporation is the process by which water turns from a liquid to a gas at temperatures below boiling.",
+  "sourceHint": "NCERT Class 6 Science Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:47:57Z"
+ },
+ {
+  "id": "q_b3fc45bb8ca6d33e",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which major mountain range separates the Indian subcontinent from the Tibetan Plateau?",
+  "qHi": "कौन सी प्रमुख पर्वत श्रृंखला भारतीय उपमहाद्वीप को तिब्बती पठार से अलग करती है?",
+  "optsEn": [
+   "Alps",
+   "Andes",
+   "Himalayas",
+   "Rockies"
+  ],
+  "optsHi": [
+   "आल्प्स",
+   "एंडीज़",
+   "हिमालय",
+   "रॉकीज़"
+  ],
+  "correct": 2,
+  "explainEn": "The Himalayas form the northern mountain barrier of India, separating it from the Tibetan Plateau.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:47:57Z"
+ },
+ {
+  "id": "q_73e937f34ff83862",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional Indian dance style originated as a temple dance tradition in the state of Tamil Nadu?",
+  "qHi": "कौन सी पारंपरिक भारतीय नृत्य शैली तमिलनाडु राज्य में एक मंदिर नृत्य परंपरा के रूप में उत्पन्न हुई?",
+  "optsEn": [
+   "Kathak",
+   "Bharatanatyam",
+   "Kathakali",
+   "Kuchipudi"
+  ],
+  "optsHi": [
+   "कथक",
+   "भरतनाट्यम",
+   "कथकली",
+   "कुचिपुड़ी"
+  ],
+  "correct": 1,
+  "explainEn": "Bharatanatyam is a classical dance form that originated in the temples of Tamil Nadu.",
+  "sourceHint": "NCERT Class 6 Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:47:57Z"
  }
 ]

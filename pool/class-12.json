@@ -11002,5 +11002,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-13T00:43:39Z"
+ },
+ {
+  "id": "q_00f43b776a43d460",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In genetics, what term describes the physical expression or observable characteristics of an organism?",
+  "qHi": "आनुवंशिकी में, कौन सा शब्द किसी जीव की शारीरिक अभिव्यक्ति या अवलोकन योग्य विशेषताओं का वर्णन करता है?",
+  "optsEn": [
+   "Phenotype",
+   "Genotype",
+   "Allele",
+   "Genome"
+  ],
+  "optsHi": [
+   "फेनोटाइप (दृश्य रूप)",
+   "जीनोटाइप",
+   "युग्मविकल्पी (एलील)",
+   "जीनोम"
+  ],
+  "correct": 0,
+  "explainEn": "Phenotype refers to the observable physical traits of an organism, determined by its genotype and environment.",
+  "sourceHint": "NCERT Class 12 Biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:46:12Z"
+ },
+ {
+  "id": "q_2788320fb8302e78",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of chemical bond is formed by the complete transfer of valence electrons between atoms?",
+  "qHi": "परमाणुओं के बीच संयोजकता इलेक्ट्रॉनों के पूर्ण स्थानांतरण से किस प्रकार का रासायनिक बंधन बनता है?",
+  "optsEn": [
+   "Ionic bond",
+   "Covalent bond",
+   "Hydrogen bond",
+   "Metallic bond"
+  ],
+  "optsHi": [
+   "आयनिक बंध",
+   "सहसंयोजक बंध",
+   "हाइड्रोजन बंध",
+   "धात्विक बंध"
+  ],
+  "correct": 0,
+  "explainEn": "An ionic bond is formed through the electrostatic attraction between oppositely charged ions produced by electron transfer.",
+  "sourceHint": "NCERT Class 12 Chemistry",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:46:12Z"
+ },
+ {
+  "id": "q_cb6fab75be3377ad",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which international organization was established in 1945 with the primary aim of maintaining international peace and security?",
+  "qHi": "अंतरराष्ट्रीय शांति और सुरक्षा बनाए रखने के प्राथमिक उद्देश्य के साथ 1945 में किस अंतरराष्ट्रीय संगठन की स्थापना की गई थी?",
+  "optsEn": [
+   "United Nations",
+   "World Trade Organization",
+   "Amnesty International",
+   "North Atlantic Treaty Organization"
+  ],
+  "optsHi": [
+   "संयुक्त राष्ट्र",
+   "विश्व व्यापार संगठन",
+   "ऐम्नेस्टी इंटरनेशनल",
+   "उत्तर अटलांटिक संधि संगठन"
+  ],
+  "correct": 0,
+  "explainEn": "The United Nations was founded in 1945 following World War II to prevent future global conflicts and promote international cooperation.",
+  "sourceHint": "NCERT Class 12 Political Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:46:12Z"
+ },
+ {
+  "id": "q_494d82249ed549d5",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the term used in human geography for the process of people migrating from rural areas to urban areas?",
+  "qHi": "मानव भूगोल में ग्रामीण क्षेत्रों से शहरी क्षेत्रों में लोगों के प्रवास की प्रक्रिया के लिए किस शब्द का उपयोग किया जाता है?",
+  "optsEn": [
+   "Urbanisation",
+   "Globalisation",
+   "Industrialisation",
+   "Suburbanisation"
+  ],
+  "optsHi": [
+   "शहरीकरण",
+   "वैश्वीकरण",
+   "औद्योगीकरण",
+   "उपशहरीकरण"
+  ],
+  "correct": 0,
+  "explainEn": "Urbanisation refers to the population shift from rural areas to urban centres, resulting in the growth of cities.",
+  "sourceHint": "NCERT Class 12 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:46:12Z"
+ },
+ {
+  "id": "q_1a17d11d1d2cfb91",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Article of the Indian Constitution abolishes the practice of untouchability and forbids its practice in any form?",
+  "qHi": "भारतीय संविधान का कौन सा अनुच्छेद अस्पृश्यता की प्रथा को समाप्त करता है और किसी भी रूप में इसके अभ्यास को प्रतिबंधित करता है?",
+  "optsEn": [
+   "Article 15",
+   "Article 16",
+   "Article 17",
+   "Article 18"
+  ],
+  "optsHi": [
+   "अनुच्छेद 15",
+   "अनुच्छेद 16",
+   "अनुच्छेद 17",
+   "अनुच्छेद 18"
+  ],
+  "correct": 2,
+  "explainEn": "Article 17 of the Constitution of India explicitly abolishes 'untouchability' and makes its practice in any form a punishable offense.",
+  "sourceHint": "Constitution of India, Part III (Fundamental Rights)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:47:09Z"
+ },
+ {
+  "id": "q_26c5dba1f96abd9a",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In physics, what is the SI unit of magnetic flux?",
+  "qHi": "भौतिकी में, चुंबकीय फ्लक्स का एसआई मात्रक क्या है?",
+  "optsEn": [
+   "Tesla",
+   "Weber",
+   "Henry",
+   "Ampere"
+  ],
+  "optsHi": [
+   "टेस्ला",
+   "वेबर",
+   "हेनरी",
+   "एम्पीयर"
+  ],
+  "correct": 1,
+  "explainEn": "The SI unit of magnetic flux is the Weber (Wb), whereas Tesla is the unit of magnetic field strength (magnetic flux density).",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:47:09Z"
+ },
+ {
+  "id": "q_94f2434a101d502c",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which macroeconomic policy tool is directly controlled by the Reserve Bank of India to influence money supply through the buying and selling of government securities?",
+  "qHi": "सरकारी प्रतिभूतियों की खरीद और बिक्री के माध्यम से धन की आपूर्ति को प्रभावित करने के लिए भारतीय रिजर्व बैंक द्वारा किस व्यापक आर्थिक नीति उपकरण को सीधे नियंत्रित किया जाता है?",
+  "optsEn": [
+   "Fiscal deficit",
+   "Open market operations",
+   "Government budget",
+   "Tax rate"
+  ],
+  "optsHi": [
+   "राजकोषीय घाटा",
+   "खुले बाजार की क्रियाएं",
+   "सरकारी बजट",
+   "कर की दर"
+  ],
+  "correct": 1,
+  "explainEn": "Open market operations (OMO) involve the buying and selling of government securities by the central bank to regulate the money supply in the economy.",
+  "sourceHint": "NCERT Class 12 Macroeconomics, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:47:09Z"
+ },
+ {
+  "id": "q_0d0f9b9427e46a20",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of crystalline solid is quartz (silicon dioxide), where atoms are linked by a continuous network of covalent bonds?",
+  "qHi": "क्वाटर्स (सिलिकॉन डाइऑक्साइड) किस प्रकार का क्रिस्टलीय ठोस है, जिसमें परमाणु सहसंयोजक बंधों के निरंतर नेटवर्क द्वारा जुड़े होते हैं?",
+  "optsEn": [
+   "Ionic solid",
+   "Metallic solid",
+   "Molecular solid",
+   "Covalent network solid"
+  ],
+  "optsHi": [
+   "आयनिक ठोस",
+   "धात्विक ठोस",
+   "आणविक ठोस",
+   "सहसंयोजक नेटवर्क ठोस"
+  ],
+  "correct": 3,
+  "explainEn": "Quartz is a classic example of a covalent or network solid, where constituent atoms are held together by a strong network of covalent bonds extending throughout the crystal.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:47:09Z"
+ },
+ {
+  "id": "q_b47b77699def239b",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of ecological interaction is exhibited when an orchid grows as an epiphyte on a mango tree, benefiting itself without causing any harm to the host?",
+  "qHi": "जब कोई ऑर्किड आम के पेड़ पर एक अधिपादप (एपिफाइट) के रूप में उगता है, तो किस प्रकार की पारिस्थितिक अंतःक्रिया प्रदर्शित होती है, जिससे मेजबान को कोई नुकसान पहुंचाए बिना उसे स्वयं लाभ होता है?",
+  "optsEn": [
+   "Mutualism",
+   "Commensalism",
+   "Parasitism",
+   "Amensalism"
+  ],
+  "optsHi": [
+   "सहजीविता",
+   "सहभोजिता",
+   "परजीविता",
+   "अोपकारिता"
+  ],
+  "correct": 1,
+  "explainEn": "Commensalism is an interaction where one species benefits and the other is neither harmed nor benefited. An orchid on a mango tree is a standard textbook example.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 13",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:47:09Z"
+ },
+ {
+  "id": "q_fbd2e312d65608b6",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In Indian history, the permanent settlement system of land revenue was introduced in Bengal by which Governor-General?",
+  "qHi": "भारतीय इतिहास में, बंगाल में भू-राजस्व की स्थायी बंदोबस्त प्रणाली किस गवर्नर-जनरल द्वारा शुरू की गई थी?",
+  "optsEn": [
+   "Warren Hastings",
+   "Lord Cornwallis",
+   "Lord Wellesley",
+   "Lord Dalhousie"
+  ],
+  "optsHi": [
+   "वारेन हेस्टिंग्स",
+   "लॉर्ड कॉर्नवॉलिस",
+   "लॉर्ड वेलेजली",
+   "लॉर्ड डलहौजी"
+  ],
+  "correct": 1,
+  "explainEn": "Lord Cornwallis introduced the Permanent Settlement (also known as the Zamindari system) in Bengal, Bihar, and Orissa in 1793.",
+  "sourceHint": "NCERT Class 12 History, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:47:09Z"
  }
 ]

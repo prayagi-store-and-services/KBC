@@ -8118,5 +8118,341 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-13T14:16:58Z"
+ },
+ {
+  "id": "q_8a1fcecc8f9a0236",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which festival is famously known as the Festival of Lights in India?",
+  "qHi": "भारत में किस त्योहार को रोशनी का त्योहार के रूप में जाना जाता है?",
+  "optsEn": [
+   "Holi",
+   "Diwali",
+   "Eid",
+   "Pongal"
+  ],
+  "optsHi": [
+   "होली",
+   "दिवाली",
+   "ईद",
+   "पोंगल"
+  ],
+  "correct": 1,
+  "explainEn": "Diwali is widely celebrated as the festival of lights by lighting diyas and bursting crackers.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:45:55Z"
+ },
+ {
+  "id": "q_ceef6fb6cb515184",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the minimum age requirement prescribed by the Constitution of India for a person to be elected as the President of India?",
+  "qHi": "भारत के राष्ट्रपति के रूप में चुने जाने वाले व्यक्ति के लिए भारत के संविधान द्वारा निर्धारित न्यूनतम आयु आवश्यकता क्या है?",
+  "optsEn": [
+   "25 years",
+   "30 years",
+   "35 years",
+   "40 years"
+  ],
+  "optsHi": [
+   "25 वर्ष",
+   "30 वर्ष",
+   "35 वर्ष",
+   "40 वर्ष"
+  ],
+  "correct": 2,
+  "explainEn": "According to Article 58 of the Constitution of India, a candidate must have completed the age of 35 years to be eligible for election as President.",
+  "sourceHint": "Constitution of India, Article 58",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:46:51Z"
+ },
+ {
+  "id": "q_eddc60126b7b38d8",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which chemical element has the atomic number 1?",
+  "qHi": "किस रासायनिक तत्व की परमाणु संख्या 1 है?",
+  "optsEn": [
+   "Helium",
+   "Hydrogen",
+   "Carbon",
+   "Oxygen"
+  ],
+  "optsHi": [
+   "हीलीयम",
+   "हाइड्रोजन",
+   "कार्बन",
+   "ऑक्सीजन"
+  ],
+  "correct": 1,
+  "explainEn": "Hydrogen is the first chemical element in the periodic table, represented by the symbol H and atomic number 1.",
+  "sourceHint": "NCERT Chemistry Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:46:51Z"
+ },
+ {
+  "id": "q_07b6dbe33474bf82",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which Indian state is the Kaziranga National Park located, known for hosting the world's largest population of the great Indian one-horned rhinoceros?",
+  "qHi": "काजीरंगा राष्ट्रीय उद्यान किस भारतीय राज्य में स्थित है, जो महान भारतीय एक सींग वाले गैंडे की दुनिया की सबसे बड़ी आबादी की मेजबानी के लिए जाना जाता है?",
+  "optsEn": [
+   "West Bengal",
+   "Uttarakhand",
+   "Assam",
+   "Madhya Pradesh"
+  ],
+  "optsHi": [
+   "पश्चिम बंगाल",
+   "उत्तराखंड",
+   "असम",
+   "मध्य प्रदेश"
+  ],
+  "correct": 2,
+  "explainEn": "Kaziranga National Park is situated in the state of Assam and is a UNESCO World Heritage Site famous for its one-horned rhinoceroses.",
+  "sourceHint": "UNESCO World Heritage Centre",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:46:51Z"
+ },
+ {
+  "id": "q_f6b2d364e91936c6",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the standard unit of electrical resistance in the International System of Units (SI)?",
+  "qHi": "अंतर्राष्ट्रीय इकाई प्रणाली (SI) में विद्युत प्रतिरोध की मानक इकाई क्या है?",
+  "optsEn": [
+   "Volt",
+   "Ampere",
+   "Ohm",
+   "Watt"
+  ],
+  "optsHi": [
+   "वोल्ट",
+   "एम्पीयर",
+   "ओम",
+   "वाट"
+  ],
+  "correct": 2,
+  "explainEn": "The ohm is the SI derived unit of electrical resistance, named after the German physicist Georg Ohm.",
+  "sourceHint": "NCERT Physics Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:46:51Z"
+ },
+ {
+  "id": "q_9bb9e149dc64bf78",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian classical music, which of the following is classified as a 'Sandhiprakasha Raga', traditionally performed at the time of twilight (junction of day and night)?",
+  "qHi": "भारतीय शास्त्रीय संगीत के संदर्भ में, निम्नलिखित में से किसे 'संधिप्रकाश राग' के रूप में वर्गीकृत किया गया है, जिसे पारंपरिक रूप से गोधूलि बेला पर गाया जाता है?",
+  "optsEn": [
+   "Raga Bhairav",
+   "Raga Yaman",
+   "Raga Bhupali",
+   "Raga Darbari"
+  ],
+  "optsHi": [
+   "राग भैरव",
+   "राग यमन",
+   "राग भूपाली",
+   "राग दरबारी"
+  ],
+  "correct": 0,
+  "explainEn": "Raga Bhairav is sung at dawn, making it a Sandhiprakasha raga associated with the morning twilight.",
+  "sourceHint": "NCERT, Sangeet Natak Akademi archives",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:47:52Z"
+ },
+ {
+  "id": "q_530c9356552262bb",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which historical monument features the 'Alai Darwaza', recognized as the first Indian structure to use Islamic architectural principles of construction and ornamentation?",
+  "qHi": "किस ऐतिहासिक स्मारक में 'अलाई दरवाजा' है, जिसे निर्माण और सज्जा के इस्लामी वास्तुकला सिद्धांतों का उपयोग करने वाली पहली भारतीय संरचना के रूप में मान्यता प्राप्त है?",
+  "optsEn": [
+   "Qutb Minar complex",
+   "Humayun's Tomb",
+   "Gol Gumbaz",
+   "Buland Darwaza"
+  ],
+  "optsHi": [
+   "कुतुब मीनार परिसर",
+   "हुमायूं का मकबरा",
+   "गोल गुंबद",
+   "बुलंद दरवाजा"
+  ],
+  "correct": 0,
+  "explainEn": "The Alai Darwaza, built by Ala-ud-din Khilji in the Qutb Minar complex, is the first building in India employing true Islamic architectural methods.",
+  "sourceHint": "Archaeological Survey of India (ASI)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:47:52Z"
+ },
+ {
+  "id": "q_d7a85604f8247261",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific geological feature separates the Peninsular Plateau of India from the Indo-Gangetic Plain?",
+  "qHi": "कौन सी विशिष्ट भूवैज्ञानिक विशेषता भारत के प्रायद्वीपीय पठार को सिंधु-गंगा के मैदान से अलग करती है?",
+  "optsEn": [
+   "A chain of fold mountains including the Aravallis and Vindhyas",
+   "A vast belt of submerged fossil fuels and deltaic deposits",
+   "A series of scarplands and hill ranges such as the Vindhyas and Satpuras",
+   "An extensive rift valley system carved by the Narmada and Tapti"
+  ],
+  "optsHi": [
+   "अरावली और विंध्य सहित वलित पर्वतों की एक श्रृंखला",
+   "डूबे हुए जीवाश्म ईंधन और डेल्टा निक्षेपों की एक विशाल बेल्ट",
+   "विंध्य और सतपुड़ा जैसी कगार भूमि और पहाड़ी श्रृंखलाओं की एक श्रृंखला",
+   "नर्मदा और ताप्ती द्वारा उकेरी गई एक विस्तृत भ्रंश घाटी प्रणाली"
+  ],
+  "correct": 2,
+  "explainEn": "The northern boundary of the Peninsular plateau is marked by a series of hill ranges and scarps, prominently featuring the Vindhya and Satpura ranges, separating it from the Indo-Gangetic plains.",
+  "sourceHint": "NCERT Geography Class 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:47:52Z"
+ },
+ {
+  "id": "q_0d3aba36494b0434",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In Indian economic history, the 'Mahalanobis Strategy' adopted during the Second Five-Year Plan primarily focused on the development of which sector?",
+  "qHi": "भारतीय आर्थिक इतिहास में, दूसरी पंचवर्षीय योजना के दौरान अपनाई गई 'महालनोबिस रणनीति' मुख्य रूप से किस क्षेत्र के विकास पर केंद्रित थी?",
+  "optsEn": [
+   "Export-led agriculture",
+   "Heavy and capital goods industries",
+   "Microfinance and rural employment",
+   "Information technology services"
+  ],
+  "optsHi": [
+   "निर्यात-प्रेरित कृषि",
+   "भारी और पूंजीगत वस्तु उद्योग",
+   "सूक्ष्म वित्त और ग्रामीण रोजगार",
+   "सूचना प्रौद्योगिकी सेवाएँ"
+  ],
+  "correct": 1,
+  "explainEn": "The Mahalanobis model prioritized heavy industries and capital goods to build a strong foundation for rapid industrialization.",
+  "sourceHint": "NCERT Economics Class 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:47:52Z"
+ },
+ {
+  "id": "q_284ad505b048ae9a",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following Indian states possesses the largest reserves of chromite ore according to the Indian Minerals Yearbook?",
+  "qHi": "भारतीय खनिज वर्षपुस्तिका के अनुसार निम्नलिखित में से किस भारतीय राज्य में क्रोमैट अयस्क के सबसे बड़े भंडार हैं?",
+  "optsEn": [
+   "Karnataka",
+   "Jharkhand",
+   "Odisha",
+   "Maharashtra"
+  ],
+  "optsHi": [
+   "कर्नाटक",
+   "झारखंड",
+   "ओडिशा",
+   "महाराष्ट्र"
+  ],
+  "correct": 2,
+  "explainEn": "Odisha accounts for the vast majority of India's chromite ore reserves, primarily located in the Sukinda valley.",
+  "sourceHint": "Indian Bureau of Mines (IBM)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:47:52Z"
+ },
+ {
+  "id": "q_2b6181b82c317c8f",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which ancient Buddhist text consists of dialogues between the Indo-Greek King Menander I (Milinda) and the Buddhist monk Nagasena?",
+  "qHi": "कौन सा प्राचीन बौद्ध ग्रंथ इंडो-ग्रीक राजा मीनांदर प्रथम (मिलिंद) और बौद्ध भिक्षु नागसेन के बीच संवादों से मिलकर बना है?",
+  "optsEn": [
+   "Milinda Panha",
+   "Mahavamsa",
+   "Digha Nikaya",
+   "Lalitavistara"
+  ],
+  "optsHi": [
+   "मिलिंद पन्हो",
+   "महावंश",
+   "दीघ निकाय",
+   "ललितविस्तर"
+  ],
+  "correct": 0,
+  "explainEn": "The Milinda Panha records philosophical questions asked by King Menander of Bactria and answered by Nagasena.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:47:52Z"
+ },
+ {
+  "id": "q_32d867fc626c2f60",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "The wildlife sanctuary of Dachigam, situated in the Zabarwan Range, is famously known as the primary natural habitat for which critically endangered species?",
+  "qHi": "ज़बरवान श्रृंखला में स्थित दाचीगाम वन्यजीव अभयारण्य, किस गंभीर रूप से संकटग्रस्त प्रजाति के प्राथमिक प्राकृतिक आवास के रूप में जाना जाता है?",
+  "optsEn": [
+   "Nilgiri Tahr",
+   "Hangul",
+   "Lion-tailed Macaque",
+   "Indian Wild Ass"
+  ],
+  "optsHi": [
+   "नीलगिरी तहर",
+   "हंगुल",
+   "लायन-टेल्ड मकाक",
+   "भारतीय जंगली गधा"
+  ],
+  "correct": 1,
+  "explainEn": "Dachigam National Park in Jammu and Kashmir is renowned as the home of the Kashmir stag, also known as the Hangul.",
+  "sourceHint": "Wildlife Institute of India (WII)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T22:47:52Z"
  }
 ]
