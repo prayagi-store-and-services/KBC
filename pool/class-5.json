@@ -9770,5 +9770,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-13T00:43:05Z"
+ },
+ {
+  "id": "q_a847173d0a44d4ed",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following animals is a herbivore?",
+  "qHi": "निम्नलिखित में से कौन सा जानवर शाकाहारी है?",
+  "optsEn": [
+   "Lion",
+   "Tiger",
+   "Cow",
+   "Wolf"
+  ],
+  "optsHi": [
+   "शेर",
+   "बाघ",
+   "गाय",
+   "भेड़िया"
+  ],
+  "correct": 2,
+  "explainEn": "Cows feed exclusively on plants, making them herbivores.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T14:21:21Z"
  }
 ]

@@ -8034,5 +8034,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-13T00:43:01Z"
+ },
+ {
+  "id": "q_b525584ba820ef51",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "How many players are there in a standard playing team on the field in a game of cricket?",
+  "qHi": "क्रिकेट के खेल में मैदान पर मानक टीम में कितने खिलाड़ी होते हैं?",
+  "optsEn": [
+   "9",
+   "10",
+   "11",
+   "12"
+  ],
+  "optsHi": [
+   "9",
+   "10",
+   "11",
+   "12"
+  ],
+  "correct": 2,
+  "explainEn": "A standard cricket team consists of eleven players on the field.",
+  "sourceHint": "Marylebone Cricket Club Laws of Cricket",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T14:16:58Z"
+ },
+ {
+  "id": "q_2b0bb39219470050",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which traditional Indian festival is known as the festival of lights?",
+  "qHi": "किस पारंपरिक भारतीय त्योहार को रोशनी का त्योहार कहा जाता है?",
+  "optsEn": [
+   "Holi",
+   "Diwali",
+   "Eid",
+   "Pongal"
+  ],
+  "optsHi": [
+   "होली",
+   "दिवाली",
+   "ईद",
+   "पोंगल"
+  ],
+  "correct": 1,
+  "explainEn": "Diwali is celebrated by lighting oil lamps and candles.",
+  "sourceHint": "CCRT India Culture",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T14:16:58Z"
+ },
+ {
+  "id": "q_34a585ef8fe6c9d7",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the standard unit of currency used in India?",
+  "qHi": "भारत में उपयोग की जाने वाली मुद्रा की मानक इकाई क्या है?",
+  "optsEn": [
+   "Taka",
+   "Rupee",
+   "Yen",
+   "Dollar"
+  ],
+  "optsHi": [
+   "टका",
+   "रुपया",
+   "येन",
+   "डॉलर"
+  ],
+  "correct": 1,
+  "explainEn": "The Indian Rupee is the official currency of the Republic of India.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T14:16:58Z"
  }
 ]

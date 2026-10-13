@@ -7250,5 +7250,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-13T00:43:09Z"
+ },
+ {
+  "id": "q_63e18fd4f0048407",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who led the revolt of 1857 in the city of Jagdishpur?",
+  "qHi": "जगदीशपुर शहर में 1857 के विद्रोह का नेतृत्व किसने किया था?",
+  "optsEn": [
+   "Rani Lakshmibai",
+   "Kunwar Singh",
+   "Begum Hazrat Mahal",
+   "Nana Sahib"
+  ],
+  "optsHi": [
+   "रानी लक्ष्मीबाई",
+   "कुंवर सिंह",
+   "बेगम हजरत महल",
+   "नाना साहेब"
+  ],
+  "correct": 1,
+  "explainEn": "Kunwar Singh led the 1857 revolt from Jagdishpur in Bihar.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T14:22:10Z"
+ },
+ {
+  "id": "q_d3785a271a64cdd3",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which type of resource is petroleum classified as?",
+  "qHi": "पेट्रोलियम को किस प्रकार के संसाधन के रूप में वर्गीकृत किया गया है?",
+  "optsEn": [
+   "Renewable resource",
+   "Non-renewable resource",
+   "Biotic resource",
+   "Ubiquitous resource"
+  ],
+  "optsHi": [
+   "नवीकरणीय संसाधन",
+   "अनवीकरणीय संसाधन",
+   "जैविक संसाधन",
+   "सर्वव्यापी संसाधन"
+  ],
+  "correct": 1,
+  "explainEn": "Petroleum is a fossil fuel and is a non-renewable resource because it takes millions of years to form.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T14:22:10Z"
+ },
+ {
+  "id": "q_57cd6bb1988f81a9",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the upper house of the Indian Parliament called?",
+  "qHi": "भारतीय संसद के ऊपरी सदन को क्या कहा जाता है?",
+  "optsEn": [
+   "Lok Sabha",
+   "Rajya Sabha",
+   "Vidhan Sabha",
+   "Gram Panchayat"
+  ],
+  "optsHi": [
+   "लोकसभा",
+   "राज्यसभा",
+   "विधानसभा",
+   "ग्राम पंचायत"
+  ],
+  "correct": 1,
+  "explainEn": "The Rajya Sabha is known as the Council of States or the upper house of the Parliament.",
+  "sourceHint": "NCERT Class 8 Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T14:22:10Z"
  }
 ]

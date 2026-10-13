@@ -11870,5 +11870,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-13T00:43:57Z"
+ },
+ {
+  "id": "q_7559d8477bc73d70",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'I' stand for in the abbreviation IFSC, used in electronic banking?",
+  "qHi": "इलेक्ट्रॉनिक बैंकिंग में प्रयुक्त संक्षिप्त नाम IFSC में अक्षर 'I' का क्या अर्थ है?",
+  "optsEn": [
+   "International",
+   "Indian",
+   "Interbank",
+   "Investment"
+  ],
+  "optsHi": [
+   "इंटरनेशनल",
+   "इंडियन",
+   "इंटरबैंक",
+   "इन्वेस्टमेंट"
+  ],
+  "correct": 1,
+  "explainEn": "IFSC stands for Indian Financial System Code, which is an 11-character alphanumeric code used for NEFT, RTGS, and IMPS transactions.",
+  "sourceHint": "Reserve Bank of India Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T14:15:30Z"
+ },
+ {
+  "id": "q_6d2235e25b4943c3",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a specialized bank for providing credit and other facilities for agriculture and rural development in India?",
+  "qHi": "निम्नलिखित में से कौन सा बैंक भारत में कृषि और ग्रामीण विकास के लिए ऋण और अन्य सुविधाएं प्रदान करने वाला एक विशेष बैंक है?",
+  "optsEn": [
+   "EXIM Bank",
+   "NABARD",
+   "SIDBI",
+   "NHB"
+  ],
+  "optsHi": [
+   "एक्जिम बैंक",
+   "नाबार्ड",
+   "सिडबी",
+   "एनएचबी"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) is an apex regulatory body for overall regulation of regional rural banks and apex cooperative bank in India.",
+  "sourceHint": "NABARD Act, 1981",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T14:15:30Z"
+ },
+ {
+  "id": "q_01be2a91a99f25ee",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In the context of bank loans, what does 'EMI' stand for?",
+  "qHi": "बैंक ऋण के संदर्भ में 'EMI' का क्या अर्थ है?",
+  "optsEn": [
+   "Equated Monthly Installment",
+   "Estimated Monetary Index",
+   "Equal Money Interest",
+   "External Market Indicator"
+  ],
+  "optsHi": [
+   "इक्वेटेड मंथली इंस्टॉलमेंट",
+   "एिमेटेड मॉनेटरी इंडेक्स",
+   "इक्वल मनी इंटरेस्ट",
+   "एक्सटर्नल मार्केट इंडिकेटर"
+  ],
+  "correct": 0,
+  "explainEn": "EMI stands for Equated Monthly Installment, which is a fixed payment amount made by a borrower to a lender at a specified date each calendar month.",
+  "sourceHint": "Reserve Bank of India Financial Education",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T14:15:30Z"
  }
 ]
