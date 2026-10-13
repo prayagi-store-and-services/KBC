@@ -11394,5 +11394,481 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-12T15:29:36Z"
+ },
+ {
+  "id": "q_f29463bf1cb4acd7",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'I' stand for in the financial acronym 'NEFT'?",
+  "qHi": "वित्तीय संक्षिप्त नाम 'NEFT' में अक्षर 'I' का क्या अर्थ है?",
+  "optsEn": [
+   "India",
+   "Interbank",
+   "Instant",
+   "International"
+  ],
+  "optsHi": [
+   "इंडिया",
+   "इंटरबैंक",
+   "इंस्टेंट",
+   "इंटरनेशनल"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer.",
+  "sourceHint": "RBI Payment Systems",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:42:01Z"
+ },
+ {
+  "id": "q_abf75ecdb8e0d6cb",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of account generally offers no interest to the account holder?",
+  "qHi": "किस प्रकार के खाते में आम तौर पर खाता धारक को कोई ब्याज नहीं मिलता है?",
+  "optsEn": [
+   "Current Account",
+   "Savings Account",
+   "Fixed Deposit Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "चालू खाता",
+   "बचत खाता",
+   "सावधि जमा खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 0,
+  "explainEn": "Current accounts are designed for business purposes and typically do not offer any interest on the deposited balance.",
+  "sourceHint": "NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:42:01Z"
+ },
+ {
+  "id": "q_7520b7424563dc66",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which financial term refers to the rate at which the central bank lends short-term money to commercial banks?",
+  "qHi": "किस वित्तीय शब्द का तात्पर्य उस दर से है जिस पर केंद्रीय बैंक व्यावसायिक बैंकों को अल्पकालिक ऋण देता है?",
+  "optsEn": [
+   "Repo Rate",
+   "Reverse Repo Rate",
+   "Cash Reserve Ratio",
+   "Statutory Liquidity Ratio"
+  ],
+  "optsHi": [
+   "रेपो रेट",
+   "रिवर्स रेपो रेट",
+   "नकद आरक्षित अनुपात",
+   "वैधानिक तरलता अनुपात"
+  ],
+  "correct": 0,
+  "explainEn": "Repo Rate is the rate at which the Reserve Bank of India lends money to commercial banks against government securities.",
+  "sourceHint": "RBI Monetary Policy",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:42:01Z"
+ },
+ {
+  "id": "q_deb41d173fabcf20",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "How many digits are there in an IFSC (Indian Financial System Code)?",
+  "qHi": "IFSC (इंडियन फाइनेंशियल सिस्टम कोड) में कितने अंक होते हैं?",
+  "optsEn": [
+   "10 digits",
+   "11 digits",
+   "12 digits",
+   "9 digits"
+  ],
+  "optsHi": [
+   "10 अंक",
+   "11 अंक",
+   "12 अंक",
+   "9 अंक"
+  ],
+  "correct": 1,
+  "explainEn": "An IFSC is an 11-character alphanumeric code that uniquely identifies a bank branch participating in NEFT/RTGS systems.",
+  "sourceHint": "RBI IFSC Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:42:01Z"
+ },
+ {
+  "id": "q_3c1395141a82fe53",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which monetary policy instrument is defined as the rate at which the Reserve Bank of India is ready to buy or rediscount bills of exchange or other commercial papers?",
+  "qHi": "कौन सा मौद्रिक नीति उपकरण उस दर के रूप में परिभाषित किया जाता है जिस पर भारतीय रिजर्व बैंक बिलों या अन्य वाणिज्यिक पत्रों को खरीदने या पुनर्भुनाने के लिए तैयार रहता है?",
+  "optsEn": [
+   "Repo Rate",
+   "Bank Rate",
+   "Reverse Repo Rate",
+   "Cash Reserve Ratio"
+  ],
+  "optsHi": [
+   "रेपो रेट",
+   "बैंक रेट",
+   "रिवर्स रेपो रेट",
+   "नकद आरक्षित अनुपात"
+  ],
+  "correct": 1,
+  "explainEn": "Bank Rate is the standard rate at which RBI is prepared to buy or rediscount bills of exchange or other commercial papers under Section 49 of the Reserve Bank of India Act, 1934.",
+  "sourceHint": "RBI Publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:42:56Z"
+ },
+ {
+  "id": "q_f8dd8a76e9e5b398",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the Liquidity Adjustment Facility framework of the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक के तरलता समायोजन सुविधा ढांचे में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liability",
+   "Liquidity",
+   "Leverage",
+   "Ledger"
+  ],
+  "optsHi": [
+   "डैयबिलिटी",
+   "लिक्विडिटी",
+   "लेভারেज",
+   "लेजर"
+  ],
+  "correct": 1,
+  "explainEn": "LAF stands for Liquidity Adjustment Facility, which is a monetary policy tool used by the RBI to aid banks in adjusting their daily liquidity mismatches.",
+  "sourceHint": "RBI Financial Education",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:42:56Z"
+ },
+ {
+  "id": "q_623fc6d24ef6c00b",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque is a specific type of which instrument?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, चेक किस प्रकार के लिखत का एक विशिष्ट प्रकार है?",
+  "optsEn": [
+   "Promissory Note",
+   "Bill of Exchange",
+   "Letter of Credit",
+   "Certificate of Deposit"
+  ],
+  "optsHi": [
+   "वचन पत्र",
+   "विनिमय पत्र",
+   "साख पत्र",
+   "जमा प्रमाणपत्र"
+  ],
+  "correct": 1,
+  "explainEn": "Section 6 of the Negotiable Instruments Act defines a cheque as a bill of exchange drawn on a specified banker and not expressed to be payable otherwise than on demand.",
+  "sourceHint": "Negotiable Instruments Act 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:42:56Z"
+ },
+ {
+  "id": "q_9f145e2a5fc04412",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum deposit amount insured by the Deposit Insurance and Credit Guarantee Corporation per depositor per bank?",
+  "qHi": "डिपॉजिट इंश्योरेंस एंड क्रेडिट गारंटी कॉरपोरेशन द्वारा प्रति जमाकर्ता प्रति बैंक अधिकतम कितनी बीमा राशि प्रदान की जाती है?",
+  "optsEn": [
+   "One Lakh Rupees",
+   "Two Lakh Rupees",
+   "Five Lakh Rupees",
+   "Ten Lakh Rupees"
+  ],
+  "optsHi": [
+   "एक लाख रुपये",
+   "दो लाख रुपये",
+   "पांच लाख रुपये",
+   "दस लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "DICGC insures all bank deposits up to a maximum of Rs. 5,00,000 per depositor per bank.",
+  "sourceHint": "DICGC Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:42:56Z"
+ },
+ {
+  "id": "q_8a5e36bb00f84a28",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of Indian banking, what does 'RTGS' stand for?",
+  "qHi": "भारतीय बैंकिंग के संदर्भ में, 'RTGS' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Real Time Gross Settlement",
+   "Rapid Transfer General System",
+   "Reserve Transfer Guaranteed Settlement",
+   "Real Time Global Settlement"
+  ],
+  "optsHi": [
+   "रियल टाइम ग्रॉस सेटलमेंट",
+   "रैपिड ट्रांसफर जनरल सिस्टम",
+   "रिजर्व ट्रांसफर गारंटीड सेटलमेंट",
+   "रियल टाइम ग्लोबल सेटलमेंट"
+  ],
+  "correct": 0,
+  "explainEn": "RTGS stands for Real Time Gross Settlement, which is a funds transfer mechanism where transfer of money takes place from one bank to another on a real-time and gross basis.",
+  "sourceHint": "RBI Payment Systems",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:42:56Z"
+ },
+ {
+  "id": "q_d4c3eb3125a51e33",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the full form of 'CRAR', a key capital adequacy metric for banks?",
+  "qHi": "बैंकों के लिए एक प्रमुख पूंजी पर्याप्तता मीट्रिक 'CRAR' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Capital to Risk-Weighted Assets Ratio",
+   "Credit Risk and Asset Ratio",
+   "Cash Reserve Asset Rate",
+   "Capital Reserve and Audit Return"
+  ],
+  "optsHi": [
+   "कैपिटल टू रिस्क-वेटेड एसेट्स रेश्यो",
+   "क्रेडिट रिस्क एंड एसेट रेश्यो",
+   "कैश रिजर्व एसेट रेट",
+   "कैपिटल रिजर्व एंड ऑडिट रिटर्न"
+  ],
+  "correct": 0,
+  "explainEn": "CRAR stands for Capital to Risk-Weighted Assets Ratio, which is a measure of a bank's capital expressed as a percentage of its risk-weighted credit exposures.",
+  "sourceHint": "Basel III Guidelines / RBI",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:42:56Z"
+ },
+ {
+  "id": "q_f45da1aaf5e41be4",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization allots the IFSC (Indian Financial System Code) to bank branches in India?",
+  "qHi": "भारत में बैंक शाखाओं को IFSC (इंडियन फाइनेंशियल सिस्टम कोड) कौन सा संगठन आवंटित करता है?",
+  "optsEn": [
+   "State Bank of India",
+   "Indian Banks' Association",
+   "Reserve Bank of India",
+   "National Payments Corporation of India"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "इंडियन बैंक्स एसोसिएशन",
+   "भारतीय रिजर्व बैंक",
+   "नेशनल पेमेंट्स कॉरपोरेशन ऑफ इंडिया"
+  ],
+  "correct": 2,
+  "explainEn": "IFSC is an 11-character alpha-numeric code assigned by the Reserve Bank of India to identify uniquely the bank branches participating in the NEFT/RTGS network.",
+  "sourceHint": "RBI Payment and Settlement Systems",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:42:56Z"
+ },
+ {
+  "id": "q_89d5baf11c44ba79",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which section of the Banking Regulation Act, 1949 restricts a banking company from paying out dividends on its shares until all its capitalized expenses have been completely written off?",
+  "qHi": "बैंकिंग विनियमन अधिनियम, 1949 की कौन सी धारा किसी बैंकिंग कंपनी को अपने शेयरों पर लाभांश देने से रोकती है जब तक कि उसके सभी पूंजीकृत खर्च पूरी तरह से बट्टे खाते में नहीं डाल दिए जाते?",
+  "optsEn": [
+   "Section 12",
+   "Section 15",
+   "Section 21",
+   "Section 24"
+  ],
+  "optsHi": [
+   "धारा 12",
+   "धारा 15",
+   "धारा 21",
+   "धारा 24"
+  ],
+  "correct": 1,
+  "explainEn": "Section 15 of the Banking Regulation Act, 1949 prohibits payment of dividend until capitalized expenses (like preliminary expenses) are completely written off.",
+  "sourceHint": "Banking Regulation Act 1949 text - Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:43:57Z"
+ },
+ {
+  "id": "q_8f110ac024fb05e3",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the minimum net worth requirement prescribed by the Reserve Bank of India for setting up a Non-Banking Financial Company - Account Aggregator (NBFC-AA)?",
+  "qHi": "गैर-बैंकिंग वित्तीय कंपनी - खाता एग्रीगेटर (NBFC-AA) की स्थापना के लिए भारतीय रिजर्व बैंक द्वारा निर्धारित न्यूनतम कुल संपत्ति (net worth) की आवश्यकता क्या है?",
+  "optsEn": [
+   "Rs 2 crore",
+   "Rs 5 crore",
+   "Rs 10 crore",
+   "Rs 100 crore"
+  ],
+  "optsHi": [
+   "2 करोड़ रुपये",
+   "5 करोड़ रुपये",
+   "10 करोड़ रुपये",
+   "100 करोड़ रुपये"
+  ],
+  "correct": 1,
+  "explainEn": "An NBFC-Account Aggregator must maintain a minimum net worth of Rs 5 crore at all times as per RBI master directions.",
+  "sourceHint": "RBI Master Directions on NBFC-Account Aggregator",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:43:57Z"
+ },
+ {
+  "id": "q_523f54533810b628",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Basel III norms, what minimum Common Equity Tier 1 (CET1) capital ratio must Indian scheduled commercial banks maintain, excluding the Capital Conservation Buffer?",
+  "qHi": "बेसल III मानदंडों के तहत, पूंजी संरक्षण बफर को छोड़कर, भारतीय अनुसूचित वाणिज्यिक बैंकों को न्यूनतम सामान्य इक्विटी टियर 1 (CET1) पूंजी अनुपात कितना बनाए रखना चाहिए?",
+  "optsEn": [
+   "5.5 percent",
+   "8.0 percent",
+   "9.0 percent",
+   "11.5 percent"
+  ],
+  "optsHi": [
+   "5.5 प्रतिशत",
+   "8.0 प्रतिशत",
+   "9.0 प्रतिशत",
+   "11.5 प्रतिशत"
+  ],
+  "correct": 0,
+  "explainEn": "RBI guidelines stipulate a minimum CET1 capital ratio of 5.5% for commercial banks, excluding the Capital Conservation Buffer (CCB) of 2.5%.",
+  "sourceHint": "RBI Master Circular - Basel III Capital Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:43:57Z"
+ },
+ {
+  "id": "q_f2adfa4c83dd1c2d",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian public debt management, Treasury Bills of which maturity are not issued by the Government of India?",
+  "qHi": "भारतीय सार्वजनिक ऋण प्रबंधन के संदर्भ में, भारत सरकार द्वारा किस परिपक्वता अवधि के ट्रेजरी बिल जारी नहीं किए जाते हैं?",
+  "optsEn": [
+   "91 days",
+   "182 days",
+   "273 days",
+   "364 days"
+  ],
+  "optsHi": [
+   "91 दिन",
+   "182 दिन",
+   "273 दिन",
+   "364 दिन"
+  ],
+  "correct": 2,
+  "explainEn": "The Government of India currently issues Treasury Bills in three tenors only: 91-day, 182-day, and 364-day. 273-day T-bills do not exist.",
+  "sourceHint": "Reserve Bank of India - Annual Report and Public Debt Management",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:43:57Z"
+ },
+ {
+  "id": "q_06ba33a755f1a155",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "As per the Negotiable Instruments Act, 1881, which section defines a 'Cheque' as a bill of exchange drawn on a specified banker and not expressed to be payable otherwise than on demand?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के अनुसार, कौन सी धारा 'चेक' को एक विशिष्ट बैंकर पर खींचे गए विनिमय पत्र के रूप में परिभाषित करती है जो मांग के अलावा किसी अन्य प्रकार से देय नहीं है?",
+  "optsEn": [
+   "Section 5",
+   "Section 6",
+   "Section 13",
+   "Section 25"
+  ],
+  "optsHi": [
+   "धारा 5",
+   "धारा 6",
+   "धारा 13",
+   "धारा 25"
+  ],
+  "correct": 1,
+  "explainEn": "Section 6 of the Negotiable Instruments Act, 1881 defines a cheque as a bill of exchange drawn on a specified banker and payable on demand.",
+  "sourceHint": "The Negotiable Instruments Act, 1881 - India Code",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:43:57Z"
+ },
+ {
+  "id": "q_685ffe5f31b17a58",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which institution in India acts as the principal clearing house for repo and tri-party repo trades through its Tri-Party Repo (TREPS) segment?",
+  "qHi": "भारत में कौन सी संस्था अपने त्रि-पक्षीय रेपो (TREPS) खंड के माध्यम से रेपो और त्रि-पक्षीय रेपो ट्रेडों के लिए मुख्य निकासी घर (clearing house) के रूप में कार्य करती है?",
+  "optsEn": [
+   "National Payments Corporation of India",
+   "Clearing Corporation of India Limited",
+   "Stock Holding Corporation of India",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "भारतीय राष्ट्रीय भुगतान निगम",
+   "क्लियरिंग कॉर्पोरेशन ऑफ़ इंडिया लिमिटेड",
+   "स्टॉक होल्डिंग कॉर्पोरेशन ऑफ़ इंडिया",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड"
+  ],
+  "correct": 1,
+  "explainEn": "CCIL (Clearing Corporation of India Limited) operates the TREPS segment, which replaced the CBLO segment for collateralized borrowing and lending.",
+  "sourceHint": "Reserve Bank of India - Financial Markets Regulation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:43:57Z"
  }
 ]

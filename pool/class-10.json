@@ -9882,5 +9882,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-12T15:30:17Z"
+ },
+ {
+  "id": "q_66d3f53a19137beb",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who presides over the joint session of the Parliament of India?",
+  "qHi": "भारत की संसद के संयुक्त सत्र की अध्यक्षता कौन करता है?",
+  "optsEn": [
+   "President of India",
+   "Vice President of India",
+   "Speaker of the Lok Sabha",
+   "Prime Minister of India"
+  ],
+  "optsHi": [
+   "भारत के राष्ट्रपति",
+   "भारत के उपराष्ट्रपति",
+   "लोकसभा के अध्यक्ष",
+   "भारत के प्रधानमंत्री"
+  ],
+  "correct": 2,
+  "explainEn": "According to Article 108 of the Constitution of India, the Speaker of the Lok Sabha presides over a joint sitting of both Houses.",
+  "sourceHint": "Constitution of India, Article 108",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:42:16Z"
+ },
+ {
+  "id": "q_fd07b0e7062ba690",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of power-sharing is represented by the division of power between the Central Government and State Governments in India?",
+  "qHi": "भारत में केंद्र सरकार और राज्य सरकार के बीच सत्ता का विभाजन सत्ता के किस रूप को दर्शाता है?",
+  "optsEn": [
+   "Horizontal distribution",
+   "Vertical distribution",
+   "Community government",
+   "Coalition government"
+  ],
+  "optsHi": [
+   "क्षैतिज वितरण",
+   "ऊर्ध्वाधर वितरण",
+   "सामुदायिक सरकार",
+   "गठबंधन सरकार"
+  ],
+  "correct": 1,
+  "explainEn": "Power shared among governments at different levels, such as union and state levels, is called vertical division of power.",
+  "sourceHint": "NCERT Class 10 Civics Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:43:14Z"
+ },
+ {
+  "id": "q_3ae9effb9d3b6bfd",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the process of rapid integration or interconnection between countries through foreign trade and foreign investment called?",
+  "qHi": "विदेशी व्यापार और विदेशी निवेश के माध्यम से विभिन्न देशों के बीच तीव्र एकीकरण या अंतःसंबंध की प्रक्रिया को क्या कहा जाता है?",
+  "optsEn": [
+   "Privatisation",
+   "Globalisation",
+   "Liberalisation",
+   "Nationalisation"
+  ],
+  "optsHi": [
+   "निजीकरण",
+   "वैश्वीकरण",
+   "उदारीकरण",
+   "राष्ट्रीयकरण"
+  ],
+  "correct": 1,
+  "explainEn": "Globalisation is the process of rapid integration or interconnection between countries.",
+  "sourceHint": "NCERT Class 10 Economics Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:43:14Z"
+ },
+ {
+  "id": "q_0ebb8830987f3ab6",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following mirror is used by dentists to view large images of the teeth of patients?",
+  "qHi": "दंत चिकित्सकों द्वारा रोगियों के दाँतों का बड़ा प्रतिबिंब देखने के लिए किस दर्पण का उपयोग किया जाता है?",
+  "optsEn": [
+   "Plane mirror",
+   "Convex mirror",
+   "Concave mirror",
+   "Cylindrical mirror"
+  ],
+  "optsHi": [
+   "समतल दर्पण",
+   "उत्तल दर्पण",
+   "अवतल दर्पण",
+   "बेलनाकार दर्पण"
+  ],
+  "correct": 2,
+  "explainEn": "Concave mirrors are used by dentists to see large images of teeth because they can form erect and magnified images when placed close.",
+  "sourceHint": "NCERT Class 10 Science Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:43:14Z"
+ },
+ {
+  "id": "q_cc61fd80a0124171",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which hormone is responsible for the regulation of metabolism for body growth in humans?",
+  "qHi": "मनुष्यों में शरीर की वृद्धि के लिए चयापचय (मेटाबॉलिज्म) के नियमन के लिए कौन सा हार्मोन उत्तरदायी है?",
+  "optsEn": [
+   "Insulin",
+   "Thyroxine",
+   "Adrenaline",
+   "Testosterone"
+  ],
+  "optsHi": [
+   "इंसुलिन",
+   "थायरोक्सिन",
+   "एड्रेनालाईन",
+   "टेस्टोस्टेरोन"
+  ],
+  "correct": 1,
+  "explainEn": "Thyroxine regulates carbohydrate, protein and fat metabolism in the body to provide the best balance for body growth.",
+  "sourceHint": "NCERT Class 10 Science Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:43:14Z"
+ },
+ {
+  "id": "q_a97b20f8ef0edf74",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following minerals is contained in Monazite sands, which is abundant in Kerala?",
+  "qHi": "केरल में प्रचुर मात्रा में पाए जाने वाले मोनाजाइट रेत में निम्नलिखित में से कौन सा खनिज होता है?",
+  "optsEn": [
+   "Uranium",
+   "Thorium",
+   "Coal",
+   "Bauxite"
+  ],
+  "optsHi": [
+   "यूरेनियम",
+   "थोरियम",
+   "कोयला",
+   "बॉक्साइट"
+  ],
+  "correct": 1,
+  "explainEn": "Kerala's monazite sands are well-known for being rich in thorium.",
+  "sourceHint": "NCERT Class 10 Geography Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:43:14Z"
+ },
+ {
+  "id": "q_6c3b86b64ac00ced",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What chemical compound is bleaching powder?",
+  "qHi": "ब्लीचिंग पाउडर (विरंजक चूर्ण) कौन सा रासायनिक यौगिक है?",
+  "optsEn": [
+   "Calcium oxychloride",
+   "Sodium chloride",
+   "Calcium carbonate",
+   "Sodium hydroxide"
+  ],
+  "optsHi": [
+   "कैल्शियम ऑक्सीक्लोराइड",
+   "सोडियम क्लोराइड",
+   "कैल्शियम कार्बोनेट",
+   "सोडियम हाइड्रोक्साइड"
+  ],
+  "correct": 0,
+  "explainEn": "Bleaching powder is represented by the chemical formula CaOCl2, which is calcium oxychloride.",
+  "sourceHint": "NCERT Class 10 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:43:14Z"
  }
 ]

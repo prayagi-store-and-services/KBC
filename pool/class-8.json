@@ -7082,5 +7082,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-12T15:30:11Z"
+ },
+ {
+  "id": "q_2be6ec37093dfebe",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a Rabi crop grown in India?",
+  "qHi": "निम्नलिखित में से कौन सी भारत में उगाई जाने वाली रबी फसल है?",
+  "optsEn": [
+   "Rice",
+   "Maize",
+   "Wheat",
+   "Cotton"
+  ],
+  "optsHi": [
+   "चावल",
+   "मक्का",
+   "गेहूं",
+   "कपास"
+  ],
+  "correct": 2,
+  "explainEn": "Wheat is a principal Rabi crop, sown in the winter season from October to December.",
+  "sourceHint": "NCERT Class 8 Geography Chapter - Agriculture",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:42:13Z"
+ },
+ {
+  "id": "q_4b04d8cad216e783",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which microorganism converts atmospheric nitrogen into nitrogen compounds in the soil?",
+  "qHi": "कौन सा सूक्ष्म जीव वायुमंडलीय नाइट्रोजन को मिट्टी में नाइट्रोजन यौगिकों में परिवर्तित करता है?",
+  "optsEn": [
+   "Lactobacillus",
+   "Rhizobium",
+   "Yeast",
+   "Penicillin"
+  ],
+  "optsHi": [
+   "लैक्टोबैसिलस",
+   "राइजोबियम",
+   "यीस्ट",
+   "पेनिसिलिन"
+  ],
+  "correct": 1,
+  "explainEn": "Rhizobium bacteria live in the root nodules of leguminous plants and fix atmospheric nitrogen.",
+  "sourceHint": "NCERT Class 8 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:43:09Z"
+ },
+ {
+  "id": "q_1906f25745a9225a",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "During the British colonial period, the Permanent Settlement was introduced in 1793 by whom?",
+  "qHi": "ब्रिटिश औपनिवेशिक काल के दौरान, 1793 में स्थायी बंदोबस्त किसके द्वारा शुरू किया गया था?",
+  "optsEn": [
+   "Lord Cornwallis",
+   "Lord Dalhousie",
+   "Warren Hastings",
+   "Lord Curzon"
+  ],
+  "optsHi": [
+   "लॉर्ड कॉर्नवालिस",
+   "लॉर्ड डलहौजी",
+   "वारेन हेस्टिंग्स",
+   "लॉर्ड कर्जन"
+  ],
+  "correct": 0,
+  "explainEn": "Lord Cornwallis introduced the Permanent Settlement in Bengal in 1793.",
+  "sourceHint": "NCERT Class 8 History Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:43:09Z"
+ },
+ {
+  "id": "q_8b3c9cf9ebb5880a",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The Indian Constitution guarantees protection of life and personal liberty under which Article?",
+  "qHi": "भारतीय संविधान किस अनुच्छेद के तहत जीवन और व्यक्तिगत स्वतंत्रता की सुरक्षा की गारंटी देता है?",
+  "optsEn": [
+   "Article 14",
+   "Article 19",
+   "Article 21",
+   "Article 32"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14",
+   "अनुच्छेद 19",
+   "अनुच्छेद 21",
+   "अनुच्छेद 32"
+  ],
+  "correct": 2,
+  "explainEn": "Article 21 states that no person shall be deprived of his life or personal liberty except according to procedure established by law.",
+  "sourceHint": "NCERT Class 8 Civics Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:43:09Z"
+ },
+ {
+  "id": "q_963fecf44519c123",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of resources are found everywhere, such as the air we breathe?",
+  "qHi": "किस प्रकार के संसाधन हर जगह पाए जाते हैं, जैसे कि हवा में सांस लेते हैं?",
+  "optsEn": [
+   "Localized resources",
+   "Ubiquitous resources",
+   "Non-renewable resources",
+   "Biotic resources"
+  ],
+  "optsHi": [
+   "स्थानबद्ध संसाधन",
+   "सर्वव्यापक संसाधन",
+   "अनवीकरणीय संसाधन",
+   "जैविक संसाधन"
+  ],
+  "correct": 1,
+  "explainEn": "Resources that are found everywhere are called ubiquitous resources.",
+  "sourceHint": "NCERT Class 8 Geography Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:43:09Z"
+ },
+ {
+  "id": "q_b120a294de0f68e9",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which soil type is most suitable for growing cotton and is also known as regur soil?",
+  "qHi": "कपास उगाने के लिए किस प्रकार की मिट्टी सबसे उपयुक्त है और जिसे रेगुर मिट्टी भी कहा जाता है?",
+  "optsEn": [
+   "Alluvial soil",
+   "Laterite soil",
+   "Black soil",
+   "Red soil"
+  ],
+  "optsHi": [
+   "जलोढ़ मिट्टी",
+   "लैटेराइट मिट्टी",
+   "काली मिट्टी",
+   "लाल मिट्टी"
+  ],
+  "correct": 2,
+  "explainEn": "Black soil, also called regur soil, is ideal for the cultivation of cotton.",
+  "sourceHint": "NCERT Class 8 Geography Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:43:09Z"
  }
 ]

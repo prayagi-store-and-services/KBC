@@ -9602,5 +9602,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-12T15:29:46Z"
+ },
+ {
+  "id": "q_c12105a4b9248517",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which type of roots does a grass plant typically have?",
+  "qHi": "घास के पौधे में आमतौर पर किस प्रकार की जड़ें होती हैं?",
+  "optsEn": [
+   "Taproot",
+   "Fibrous root",
+   "Aerial root",
+   "Prop root"
+  ],
+  "optsHi": [
+   "मूसला जड़",
+   "झकड़ा जड़ (रेशेदार जड़)",
+   "वावीय जड़",
+   "स्तंभ मूल"
+  ],
+  "correct": 1,
+  "explainEn": "Monocots like grass usually have fibrous root systems.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:42:08Z"
+ },
+ {
+  "id": "q_29a0cc1ca6966f0a",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What gas do green plants take in from the atmosphere to make their food?",
+  "qHi": "हरे पौधे अपना भोजन बनाने के लिए वायुमंडल से कौन सी गैस लेते हैं?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Plants use carbon dioxide, water, and sunlight for photosynthesis.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:42:08Z"
+ },
+ {
+  "id": "q_2736819c7b112248",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which gas do plants primarily take in from the atmosphere to perform photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण करने के लिए पौधे मुख्य रूप से वायुमंडल से कौन सी गैस लेते हैं?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Plants absorb carbon dioxide from the air and use sunlight to make their own food.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:43:05Z"
+ },
+ {
+  "id": "q_3b0a70d287941981",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the imaginary line passing through the center of the Earth that it rotates around called?",
+  "qHi": "पृथ्वी के केंद्र से गुजरने वाली वह काल्पनिक रेखा जिसके चारों ओर वह घूमती है, क्या कहलाती है?",
+  "optsEn": [
+   "Equator",
+   "Orbit",
+   "Axis",
+   "Prime Meridian"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा",
+   "कक्षा",
+   "अक्ष",
+   "प्रमुख मध्याह्न रेखा"
+  ],
+  "correct": 2,
+  "explainEn": "The Earth rotates on its own axis, which is an imaginary line passing through its center from the North Pole to the South Pole.",
+  "sourceHint": "NCERT Class 5 Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:43:05Z"
+ },
+ {
+  "id": "q_6cb2852d3c5e9ddb",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian method was used by farmers to separate grain from chaff using wind?",
+  "qHi": "हवा का उपयोग करके अनाज को भूसे से अलग करने के लिए किसानों द्वारा किस पारंपरिक भारतीय विधि का उपयोग किया जाता था?",
+  "optsEn": [
+   "Threshing",
+   "Winnowing",
+   "Sieving",
+   "Filtration"
+  ],
+  "optsHi": [
+   "थ्रेशिंग",
+   "निरावना या ओसाना",
+   "छानना",
+   "निस्यंदन"
+  ],
+  "correct": 1,
+  "explainEn": "Winnowing is the method of separating heavier grains from lighter chaff by dropping them from a height in the wind.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:43:05Z"
+ },
+ {
+  "id": "q_2272cadb261bd26c",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the name of India's national aquatic animal found in the Ganga river?",
+  "qHi": "गंगा नदी में पाए जाने वाले भारत के राष्ट्रीय जलीय जीव का नाम क्या है?",
+  "optsEn": [
+   "Blue whale",
+   "Ganges river dolphin",
+   "Saltwater crocodile",
+   "Giant otter"
+  ],
+  "optsHi": [
+   "नीली व्हेल",
+   "गंगा नदी डॉल्फिन",
+   "खारे पानी का मगरमच्छ",
+   "विशाल ऊदबिलाव"
+  ],
+  "correct": 1,
+  "explainEn": "The Ganges river dolphin is recognized as the National Aquatic Animal of India.",
+  "sourceHint": "Ministry of Jal Shakti, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:43:05Z"
  }
 ]

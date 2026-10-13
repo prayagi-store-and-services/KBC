@@ -10862,5 +10862,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-12T15:30:24Z"
+ },
+ {
+  "id": "q_4ce7af87ca5db636",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the historical play 'Arthashastra' in ancient India?",
+  "qHi": "प्राचीन भारत में ऐतिहासिक ग्रंथ 'अर्थशास्त्र' किसने लिखा था?",
+  "optsEn": [
+   "Kalidasa",
+   "Kautilya",
+   "Banabhatta",
+   "Valmiki"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "कौटिल्य",
+   "बाणभट्ट",
+   "वाल्मीकि"
+  ],
+  "correct": 1,
+  "explainEn": "Arthashastra was authored by Kautilya, also known as Chanakya.",
+  "sourceHint": "NCERT Class 12 History Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:42:41Z"
+ },
+ {
+  "id": "q_e27e496c6135aebb",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In macroeconomics, what does M1 measure of money supply primarily include?",
+  "qHi": "समष्टि अर्थशास्त्र में, मुद्रा आपूर्ति के M1 माप में मुख्य रूप से क्या शामिल है?",
+  "optsEn": [
+   "Currency with the public and demand deposits with banks",
+   "Total post office savings bank deposits",
+   "Time deposits with commercial banks",
+   "Total national gold reserves"
+  ],
+  "optsHi": [
+   "जनता के पास करेंसी और बैंकों के पास मांग जमा",
+   "कुल डाकघर बचत बैंक जमा",
+   "वाणिज्यिक बैंकों के पास सावधि जमा",
+   "कुल राष्ट्रीय स्वर्ण भंडार"
+  ],
+  "correct": 0,
+  "explainEn": "M1 is the narrow money measure defined as currency with the public plus demand deposits with commercial banks.",
+  "sourceHint": "NCERT Class 12 Introductory Macroeconomics, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:43:39Z"
+ },
+ {
+  "id": "q_fffcdb13a721233d",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which tax was subsumed into the Goods and Services Tax (GST) in India as an indirect tax levied on the manufacture of goods?",
+  "qHi": "भारत में वस्तुओं के निर्माण पर लगाए जाने वाले अप्रत्यक्ष कर के रूप में किस कर को वस्तु एवं सेवा कर (GST) में समाहित किया गया था?",
+  "optsEn": [
+   "Income Tax",
+   "Central Excise Duty",
+   "Corporate Tax",
+   "Wealth Tax"
+  ],
+  "optsHi": [
+   "आयकर",
+   "केंद्रीय उत्पाद शुल्क",
+   "निगम कर",
+   "धन कर"
+  ],
+  "correct": 1,
+  "explainEn": "Central Excise Duty was a major indirect tax levied on goods manufactured within India and was subsumed under GST.",
+  "sourceHint": "NCERT Class 12 Macroeconomics / Indian Economy textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:43:39Z"
+ },
+ {
+  "id": "q_6cb93a1fe9b10cf0",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which literary work was written by the court poet Banabhatta during the reign of King Harsha?",
+  "qHi": "सम्राट हर्ष के शासनकाल में दरबारी कवि बाणभट्ट द्वारा कौन सी साहित्यिक रचना लिखी गई थी?",
+  "optsEn": [
+   "Meghaduta",
+   "Harshacharita",
+   "Arthashastra",
+   "Indika"
+  ],
+  "optsHi": [
+   "मेघदूत",
+   "हर्षचरित",
+   "अर्थशास्त्र",
+   "इंडिका"
+  ],
+  "correct": 1,
+  "explainEn": "Harshacharita is a biography of the Indian Emperor Harsha written in Sanskrit by Banabhatta.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part II",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:43:39Z"
+ },
+ {
+  "id": "q_76706dcd76d19a60",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which technique is commonly used to amplify a specific segment of DNA in molecular biology?",
+  "qHi": "आणविक जीवविज्ञान में डीएनए के एक विशिष्ट खंड को प्रवर्धित करने के लिए आमतौर पर किस तकनीक का उपयोग किया जाता है?",
+  "optsEn": [
+   "Polymerase Chain Reaction",
+   "Gel Electrophoresis",
+   "Southern Blotting",
+   "Centrifugation"
+  ],
+  "optsHi": [
+   "पॉलीमरेज़ चेन रिएक्शन",
+   "जेल वैद्युतकणसंचलन",
+   "सदर्न ब्लॉटिंग",
+   "अपकेंद्रण"
+  ],
+  "correct": 0,
+  "explainEn": "Polymerase Chain Reaction (PCR) is used to produce multiple copies of a specific DNA segment.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:43:39Z"
  }
 ]

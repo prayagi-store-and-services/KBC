@@ -7894,5 +7894,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-12T15:29:40Z"
+ },
+ {
+  "id": "q_6a259004e1e1fcb1",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which month is India's Independence Day celebrated?",
+  "qHi": "भारत का स्वतंत्रता दिवस किस महीने में मनाया जाता है?",
+  "optsEn": [
+   "January",
+   "August",
+   "October",
+   "November"
+  ],
+  "optsHi": [
+   "जनवरी",
+   "अगस्त",
+   "अक्टूबर",
+   "नवंबर"
+  ],
+  "correct": 1,
+  "explainEn": "India celebrates its Independence Day annually on the 15th of August, commemorating the events of 1947.",
+  "sourceHint": "NCERT Civics textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:42:05Z"
+ },
+ {
+  "id": "q_5014469d3a36587e",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas makes up the majority of Earth's atmosphere?",
+  "qHi": "पृथ्वी के वायुमंडल में अधिकांश भाग किस गैस का है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 2,
+  "explainEn": "Nitrogen makes up about 78 percent of Earth's atmosphere by volume.",
+  "sourceHint": "NCERT Geography textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:42:05Z"
+ },
+ {
+  "id": "q_827206a2d9a0af00",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which classical dance form originated in the state of Kerala and is known for elaborate facial makeup and costumes?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप केरल राज्य में उत्पन्न हुआ और विस्तृत चेहरे की मेकअप और वेशभूषा के लिए जाना जाता है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Odissi",
+   "Kuchipudi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "ओडिसी",
+   "कुचिपुड़ी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a major form of classical Indian dance native to Kerala, distinguished by its vibrant makeup and storytelling through gesture.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:43:01Z"
+ },
+ {
+  "id": "q_8fcc7dae4672289f",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the famous novel 'Godaan', which depicts rural Indian life and agrarian society?",
+  "qHi": "प्रसिद्ध उपन्यास 'गोदान' किसने लिखा, जो ग्रामीण भारतीय जीवन और कृषक समाज का चित्रण करता है?",
+  "optsEn": [
+   "Munshi Premchand",
+   "Rabindranath Tagore",
+   "Bankim Chandra Chatterjee",
+   "R. K. Narayan"
+  ],
+  "optsHi": [
+   "मुंशी प्रेमचंद",
+   "रविंद्रनाथ टैगोर",
+   "बंकिम चंद्र चटर्जी",
+   "आर. के. नारायण"
+  ],
+  "correct": 0,
+  "explainEn": "Godaan is a Hindi novel by Munshi Premchand, widely regarded as one of the greatest masterpieces of modern Hindi literature.",
+  "sourceHint": "NCERT Hindi textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:43:01Z"
+ },
+ {
+  "id": "q_a540b95293e441cc",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which national highway is popularly known as the Grand Trunk Road in India?",
+  "qHi": "भारत में किस राष्ट्रीय राजमार्ग को लोकप्रिय रूप से ग्रांड ट्रंक रोड के रूप में जाना जाता है?",
+  "optsEn": [
+   "National Highway 44",
+   "National Highway 19 and National Highway 4",
+   "National Highway 27",
+   "National Highway 48"
+  ],
+  "optsHi": [
+   "राष्ट्रीय राजमार्ग 44",
+   "राष्ट्रीय राजमार्ग 19 और राष्ट्रीय राजमार्ग 4",
+   "राष्ट्रीय राजमार्ग 27",
+   "राष्ट्रीय राजमार्ग 48"
+  ],
+  "correct": 1,
+  "explainEn": "The historical Grand Trunk Road in India is largely represented today by National Highway 19 and National Highway 44 (formerly NH 1 and NH 2).",
+  "sourceHint": "Ministry of Road Transport and Highways, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-13T00:43:01Z"
  }
 ]
