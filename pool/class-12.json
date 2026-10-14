@@ -11282,5 +11282,397 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-13T22:47:09Z"
+ },
+ {
+  "id": "q_ede084d1a12904ee",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the historical epic book 'Ain-i-Akbari'?",
+  "qHi": "ऐतिहासिक ग्रंथ 'आईना-ए-अकबरी' के लेखक कौन हैं?",
+  "optsEn": [
+   "Abul Fazl",
+   "Badauni",
+   "Faizi",
+   "Birbal"
+  ],
+  "optsHi": [
+   "अुल फज़ल",
+   "बदायूँनी",
+   "फैजी",
+   "बीरबल"
+  ],
+  "correct": 0,
+  "explainEn": "Ain-i-Akbari is the 16th-century detailed document recording the administration of the Mughal Empire under Emperor Akbar, written by his vizier, Abul Fazl.",
+  "sourceHint": "NCERT Class 12 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:57:03Z"
+ },
+ {
+  "id": "q_48e802a47dbb2af7",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of economy is India primarily classified as in macroeconomics?",
+  "qHi": "मैक्रोइकोनॉमिक्स में भारत की अर्थव्यवस्था को मुख्य रूप से किस प्रकार की अर्थव्यवस्था के रूप में वर्गीकृत किया गया है?",
+  "optsEn": [
+   "Capitalist economy",
+   "Socialist economy",
+   "Mixed economy",
+   "Traditional economy"
+  ],
+  "optsHi": [
+   "पूंजीवादी अर्थव्यवस्था",
+   "समाजवादी अर्थव्यवस्था",
+   "मिश्रित अर्थव्यवस्था",
+   "पारंपरिक अर्थव्यवस्था"
+  ],
+  "correct": 2,
+  "explainEn": "India has a mixed economy where both the private sector and the public sector coexist and operate.",
+  "sourceHint": "NCERT Class 12 Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:57:03Z"
+ },
+ {
+  "id": "q_d6d95860f7516eb9",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which transition metal compound is commonly used as an oxidizing agent in volumetric analysis due to self-indication properties?",
+  "qHi": "आयतनमितीय विश्लेषण में स्व-संकेतन गुणों के कारण किस संक्रमण धातु यौगिक का उपयोग आमतौर पर ऑक्सीकरण एजेंट के रूप में किया जाता है?",
+  "optsEn": [
+   "Potassium permanganate",
+   "Potassium dichromate",
+   "Zinc sulfate",
+   "Copper sulfate"
+  ],
+  "optsHi": [
+   "पोटेशियम परमैंगनेट",
+   "पोटेशियम डाइक्रोमेट",
+   "जिंक सल्फेट",
+   "कॉपर सल्फेट"
+  ],
+  "correct": 0,
+  "explainEn": "Potassium permanganate acts as its own indicator in acidic titrations because the purple permanganate ion reduces to colorless manganese(II) ion.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:57:59Z"
+ },
+ {
+  "id": "q_374d49cf4b6c4fa7",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In macroeconomics, which measure of money supply includes currency with the public, net demand deposits with banks, and 'other deposits' with the RBI?",
+  "qHi": "मैक्रोइकॉनॉमिक्स में, धन आपूर्ति के किस माप में जनता के पास मुद्रा, बैंकों के पास शुद्ध मांग जमा और आरबीआई के पास 'अन्य जमा' शामिल हैं?",
+  "optsEn": [
+   "M1",
+   "M2",
+   "M3",
+   "M4"
+  ],
+  "optsHi": [
+   "M1",
+   "M2",
+   "M3",
+   "M4"
+  ],
+  "correct": 0,
+  "explainEn": "M1 is the narrow money measure comprising currency with the public, demand deposits with commercial banks, and other deposits with the RBI.",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:57:59Z"
+ },
+ {
+  "id": "q_b9d9359ce48b3faa",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which literary work was composed by the court poet Banabhatta in Sanskrit?",
+  "qHi": "दरबारी कवि बाणभट्ट द्वारा संस्कृत में कौन सी साहित्यिक कृति रची गई थी?",
+  "optsEn": [
+   "Meghaduta",
+   "Harshacharita",
+   "Mudrarakshasa",
+   "Malavikagnimitra"
+  ],
+  "optsHi": [
+   "मेघदूत",
+   "हर्षचरित",
+   "मुद्राराक्षस",
+   "मालविकाग्निमित्र"
+  ],
+  "correct": 1,
+  "explainEn": "Harshacharita is a biographical account of King Harsha, written in Sanskrit by his court poet Banabhatta.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part II",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:57:59Z"
+ },
+ {
+  "id": "q_b4c550e67ab45e35",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of cloud is characterized by fibrous or hair-like patterns, typically found at high altitudes?",
+  "qHi": "किस प्रकार के बादल की विशेषता रेशेदार या बाल जैसे पैटर्न हैं, जो आमतौर पर अधिक ऊंचाई पर पाए जाते हैं?",
+  "optsEn": [
+   "Cumulus",
+   "Stratus",
+   "Cirrus",
+   "Nimbus"
+  ],
+  "optsHi": [
+   "क cumulus (क्यूमुलस)",
+   "स्ट्रेटस",
+   "सिरस",
+   "निम्बस"
+  ],
+  "correct": 2,
+  "explainEn": "Cirrus clouds are high-level clouds that appear thin, wispy, and fibrous, composed mostly of ice crystals.",
+  "sourceHint": "NCERT Class 11 Geography, Fundamentals of Physical Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:57:59Z"
+ },
+ {
+  "id": "q_61b4658fe10b0ae5",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India is primarily responsible for regulating the securities market and protecting the interests of investors?",
+  "qHi": "भारत में कौन सा संगठन मुख्य रूप से प्रतिभूति बाजार को विनियमित करने और निवेशकों के हितों की रक्षा करने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India",
+   "Insurance Regulatory and Development Authority",
+   "Competition Commission of India"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "बीमा विनियामक और विकास प्राधिकरण",
+   "भारतीय प्रतिस्पर्धा आयोग"
+  ],
+  "correct": 1,
+  "explainEn": "SEBI (Securities and Exchange Board of India) was established to protect the interests of investors in securities and to promote the development of the securities market.",
+  "sourceHint": "NCERT Class 12 Business Studies, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:57:59Z"
+ },
+ {
+  "id": "q_03b8efcd4135693e",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following kingdoms emerged in the Deccan and flourished as a major imperial power between the fourteenth and sixteenth centuries, known for its distinct architecture and Indo-Islamic synthesis?",
+  "qHi": "दक्कन में निम्नलिखित में से कौन सा साम्राज्य उभरा और चौदहवीं से सोलहवीं शताब्दी के बीच एक प्रमुख शाही शक्ति के रूप में विकसित हुआ, जो अपनी विशिष्ट वास्तुकला और इंडो-इस्लामिक संश्लेषण के लिए जाना जाता है?",
+  "optsEn": [
+   "Vijayanagara Empire",
+   "Bahamani Sultanate",
+   "Kakatiya Dynasty",
+   "Yadava Dynasty"
+  ],
+  "optsHi": [
+   "विजयनगर साम्राज्य",
+   "बहामनी सल्तनत",
+   "काकतीय राजवंश",
+   "यादव राजवंश"
+  ],
+  "correct": 1,
+  "explainEn": "The Bahamani Sultanate was a major Muslim state of the Deccan in South India and one of the great medieval Indian kingdoms, known for its distinctive Indo-Islamic architecture originating in the 14th century.",
+  "sourceHint": "NCERT Class 12 History - Themes in Indian History Part II",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:59:00Z"
+ },
+ {
+  "id": "q_5c6934d5778536f3",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under which article of the Constitution of India is the President empowered to promulgate ordinances during the recess of Parliament?",
+  "qHi": "भारत के संविधान के किस अनुच्छेद के तहत राष्ट्रपति को संसद के अवकाश के दौरान अध्यादेश प्रख्यापित करने की शक्ति प्राप्त है?",
+  "optsEn": [
+   "Article 123",
+   "Article 213",
+   "Article 356",
+   "Article 72"
+  ],
+  "optsHi": [
+   "अनुच्छेद 123",
+   "अनुच्छेद 213",
+   "अनुच्छेद 356",
+   "अनुच्छेद 72"
+  ],
+  "correct": 0,
+  "explainEn": "Article 123 of the Constitution grants the President of India the power to promulgate ordinances when both Houses of Parliament are not in session.",
+  "sourceHint": "Constitution of India / NCERT Class 12 Political Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:59:00Z"
+ },
+ {
+  "id": "q_9c741b674b19392a",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which enzyme is primarily responsible for the replication of DNA by adding nucleotides exclusively in the 5' to 3' direction?",
+  "qHi": "कौन सा एंजाइम विशेष रूप से 5' से 3' दिशा में न्यूक्लियोटाइड जोड़कर डीएनए की प्रतिकृति के लिए मुख्य रूप से जिम्मेदार है?",
+  "optsEn": [
+   "RNA polymerase",
+   "DNA ligase",
+   "DNA polymerase",
+   "Helicase"
+  ],
+  "optsHi": [
+   "आरएनए पोलीमरेज़",
+   "डीएनए लिगेज",
+   "डीएनए पोलीमरेज़",
+   "हेलिकेस"
+  ],
+  "correct": 2,
+  "explainEn": "DNA polymerase catalyses the polymerization of deoxynucleotides in the 5' to 3' direction during DNA replication.",
+  "sourceHint": "NCERT Class 12 Biology - Chapter 6 Molecular Basis of Inheritance",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:59:00Z"
+ },
+ {
+  "id": "q_8f6d143fd06e0be3",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary product formed when primary alcohols are oxidized using PCC (Pyridinium chlorochromate) in dichloromethane?",
+  "qHi": "डाइक्लोरोमेथेन में पीसीसी (पिरिडिनियम क्लोरोक्रोमेट) का उपयोग करके प्राथमिक अल्कोहल को ऑक्सीकृत करने पर मुख्य उत्पाद क्या बनता है?",
+  "optsEn": [
+   "Carboxylic acid",
+   "Ketone",
+   "Aldehyde",
+   "Alkene"
+  ],
+  "optsHi": [
+   "कार्बोक्जिलिक एसिड",
+   "कीटोन",
+   "एल्डिहाइड",
+   "एल्कीन"
+  ],
+  "correct": 2,
+  "explainEn": "PCC is a mild oxidizing agent that selectively oxidizes primary alcohols to aldehydes, stopping short of carboxylic acids.",
+  "sourceHint": "NCERT Class 12 Chemistry - Chapter 11 Alcohols, Phenols and Ethers",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:59:00Z"
+ },
+ {
+  "id": "q_4374cc6fe467807e",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which kinetic model describes a chemical reaction whose rate is independent of the concentration of the reactants?",
+  "qHi": "कौन सा गतिज मॉडल एक ऐसी रासायनिक प्रतिक्रिया का वर्णन करता है जिसकी दर अभिकारकों की सांद्रता से स्वतंत्र होती है?",
+  "optsEn": [
+   "First-order reaction",
+   "Zero-order reaction",
+   "Second-order reaction",
+   "Pseudo-first-order reaction"
+  ],
+  "optsHi": [
+   "प्रथम-कोटि की अभिक्रिया",
+   "शून्य-कोटि की अभिक्रिया",
+   "द्वितीय-कोटि की अभिक्रिया",
+   "छद्म-प्रथम-कोटि की अभिक्रिया"
+  ],
+  "correct": 1,
+  "explainEn": "In a zero-order reaction, the rate of the reaction is proportional to the zeroth power of the concentration of reactants, meaning the rate is independent of reactant concentration.",
+  "sourceHint": "NCERT Class 12 Chemistry - Chapter 4 Chemical Kinetics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:59:00Z"
+ },
+ {
+  "id": "q_a29c5cd8dd8875fe",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In human genetics, which of the following chromosomal disorders is characterized by a karyotype of 47, XXY?",
+  "qHi": "मानव आनुवंशिकी में, निम्नलिखित में से किस गुणसूत्र विकार की विशेषता 47, XXY का कैरियोटाइप है?",
+  "optsEn": [
+   "Turner syndrome",
+   "Down syndrome",
+   "Klinefelter syndrome",
+   "Patau syndrome"
+  ],
+  "optsHi": [
+   "टर्नर सिंड्रोम",
+   "डाउन सिंड्रोम",
+   "क्लाइनफ़elter सिंड्रोम",
+   "पटाऊ सिंड्रोम"
+  ],
+  "correct": 2,
+  "explainEn": "Klinefelter syndrome is a genetic condition resulting from an extra X chromosome in males, giving a 47, XXY karyotype.",
+  "sourceHint": "NCERT Class 12 Biology - Chapter 5 Principles of Inheritance and Variation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:59:00Z"
+ },
+ {
+  "id": "q_ab396a041e4b9c94",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which international organization was established in 1948 as a specialized agency of the United Nations concerned with international public health?",
+  "qHi": "अंतरराष्ट्रीय सार्वजनिक स्वास्थ्य से संबंधित संयुक्त राष्ट्र की एक विशिष्ट एजेंसी के रूप में 1948 में किस अंतरराष्ट्रीय संगठन की स्थापना की गई थी?",
+  "optsEn": [
+   "World Health Organization",
+   "United Nations Children's Fund",
+   "Food and Agriculture Organization",
+   "United Nations Educational, Scientific and Cultural Organization"
+  ],
+  "optsHi": [
+   "विश्व स्वास्थ्य संगठन",
+   "संयुक्त राष्ट्र बाल कोष",
+   "खाद्य और कृषि संगठन",
+   "संयुक्त राष्ट्र शैक्षिक, वैज्ञानिक और सांस्कृतिक संगठन"
+  ],
+  "correct": 0,
+  "explainEn": "The World Health Organization (WHO) is a specialized agency of the United Nations responsible for international public health, established on 7 April 1948.",
+  "sourceHint": "NCERT Class 12 Political Science - Contemporary World Politics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:59:00Z"
  }
 ]

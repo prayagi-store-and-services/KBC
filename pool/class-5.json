@@ -10246,5 +10246,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-13T22:47:57Z"
+ },
+ {
+  "id": "q_25efdc8ef7d43853",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these animals is primarily nocturnal and active at night?",
+  "qHi": "इनमें से कौन सा जानवर मुख्य रूप से निशाचर है और रात में सक्रिय होता है?",
+  "optsEn": [
+   "Owl",
+   "Crow",
+   "Cow",
+   "Elephant"
+  ],
+  "optsHi": [
+   "उल्लू",
+   "कौवा",
+   "गाय",
+   "हाथी"
+  ],
+  "correct": 0,
+  "explainEn": "Owls have special adaptations that make them active and able to hunt during the night.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:56:49Z"
+ },
+ {
+  "id": "q_8fb7ae65df43deae",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "How many states are there in India currently?",
+  "qHi": "वर्तमान में भारत में कितने राज्य हैं?",
+  "optsEn": [
+   "27",
+   "28",
+   "29",
+   "30"
+  ],
+  "optsHi": [
+   "27",
+   "28",
+   "29",
+   "30"
+  ],
+  "correct": 1,
+  "explainEn": "India is a union of states and currently consists of 28 states and 8 union territories.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:56:49Z"
+ },
+ {
+  "id": "q_96edf33dc635b0a3",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the process of water changing from liquid to water vapour called?",
+  "qHi": "पानी के द्रव से जलवाष्प में बदलने की प्रक्रिया को क्या कहते हैं?",
+  "optsEn": [
+   "Evaporation",
+   "Condensation",
+   "Precipitation",
+   "Melting"
+  ],
+  "optsHi": [
+   "वाष्पीकरण",
+   "संघनन",
+   "वर्षण",
+   "पिघलना"
+  ],
+  "correct": 0,
+  "explainEn": "Evaporation is the process by which water changes from a liquid to a gas or vapour.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:57:23Z"
+ },
+ {
+  "id": "q_b33c2cf6e0542fc9",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which gas is released by plants during photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण के दौरान पौधों द्वारा कौन सी गैस छोड़ी जाती है?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Nitrogen",
+   "Oxygen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "ऑक्सीजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 2,
+  "explainEn": "During photosynthesis, plants take in carbon dioxide and release oxygen.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:57:23Z"
+ },
+ {
+  "id": "q_d3e3ca38239b3442",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the upper solid layer of the Earth, consisting of rocks and soil, called?",
+  "qHi": "चट्टानों और मिट्टी से बनी पृथ्वी की ऊपरी ठोस परत को क्या कहा जाता है?",
+  "optsEn": [
+   "Hydrosphere",
+   "Atmosphere",
+   "Biosphere",
+   "Lithosphere"
+  ],
+  "optsHi": [
+   "जलमंडल",
+   "वायुमंडल",
+   "जीवमंडल",
+   "स्थलमंडल"
+  ],
+  "correct": 3,
+  "explainEn": "The solid crust of the earth comprising rocks and soil is called the lithosphere.",
+  "sourceHint": "NCERT Class 6 Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:57:23Z"
+ },
+ {
+  "id": "q_a31752454e489d2b",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which celestial body does the Earth revolve around in an elliptical orbit?",
+  "qHi": "पृथ्वी किस खगोलीय पिंड के चारों ओर दीर्घवृत्ताकार कक्षा में चक्कर लगाती है?",
+  "optsEn": [
+   "Moon",
+   "Sun",
+   "Mars",
+   "Venus"
+  ],
+  "optsHi": [
+   "चंद्रमा",
+   "सूर्य",
+   "मंगल",
+   "शुक्र"
+  ],
+  "correct": 1,
+  "explainEn": "The Earth is a planet that revolves around the Sun in a fixed elliptical path called an orbit.",
+  "sourceHint": "NCERT Class 6 Geography, The Earth in the Solar System",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:58:23Z"
+ },
+ {
+  "id": "q_1c5a74ad0804aa76",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organ in the human body is primarily responsible for pumping blood to all other parts?",
+  "qHi": "मानव शरीर में कौन सा अंग सभी अन्य भागों में रक्त पंप करने के लिए मुख्य रूप से जिम्मेदार है?",
+  "optsEn": [
+   "Lungs",
+   "Liver",
+   "Heart",
+   "Kidneys"
+  ],
+  "optsHi": [
+   "फेफड़े",
+   "यकृत",
+   "हृदय",
+   "गुर्दे"
+  ],
+  "correct": 2,
+  "explainEn": "The heart is a muscular organ that pumps blood continuously through the blood vessels.",
+  "sourceHint": "NCERT Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:58:23Z"
+ },
+ {
+  "id": "q_d242d177f35312b5",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which part of a plant does photosynthesis mainly take place to prepare food?",
+  "qHi": "पौधे के किस भाग में भोजन तैयार करने के लिए मुख्य रूप से प्रकाश संश्लेषण होता है?",
+  "optsEn": [
+   "Roots",
+   "Flowers",
+   "Leaves",
+   "Seeds"
+  ],
+  "optsHi": [
+   "जड़ें",
+   "फूल",
+   "पत्तियां",
+   "बीज"
+  ],
+  "correct": 2,
+  "explainEn": "Leaves contain chlorophyll, which traps sunlight to carry out photosynthesis, earning them the title of the food factory of the plant.",
+  "sourceHint": "NCERT Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:58:23Z"
+ },
+ {
+  "id": "q_0cecd8b06c3d0a6b",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which gas makes up the highest percentage of the Earth's atmosphere by volume?",
+  "qHi": "आयतन के हिसाब से पृथ्वी के वायुमंडल में किस गैस का प्रतिशत सबसे अधिक है?",
+  "optsEn": [
+   "Oxygen",
+   "Nitrogen",
+   "Carbon dioxide",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "कार्बन डाइऑक्साइड",
+   "आर्गन"
+  ],
+  "correct": 1,
+  "explainEn": "Nitrogen makes up about 78 percent of the Earth's atmosphere.",
+  "sourceHint": "NCERT Class 7 Geography, Our Environment",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:58:23Z"
+ },
+ {
+  "id": "q_6a6a1a3f8b5b5e3a",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the traditional name given to the massive movement of wind that brings seasonal rainfall to India?",
+  "qHi": "भारत में मौसमी वर्षा लाने वाली हवाओं की विशाल गति को पारंपरिक रूप से क्या नाम दिया गया है?",
+  "optsEn": [
+   "Monsoon",
+   "Tornado",
+   "Blizzard",
+   "Hurricane"
+  ],
+  "optsHi": [
+   "मानसून",
+   "बवंडर",
+   "बर्फ़ीला तूफ़ान",
+   "चक्रवात"
+  ],
+  "correct": 0,
+  "explainEn": "The monsoon winds blow from the sea to the land during summer, bringing heavy rainfall across India.",
+  "sourceHint": "NCERT Class 6 Geography, India: Climate",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:58:23Z"
  }
 ]

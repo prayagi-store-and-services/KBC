@@ -10582,5 +10582,425 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-13T22:47:15Z"
+ },
+ {
+  "id": "q_ec410c28321af60f",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary function of the Reserve Bank of India as the banker to banks?",
+  "qHi": "बैंकों के बैंक के रूप में भारतीय रिजर्व बैंक का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "Fixing income tax rates for individuals",
+   "Holding a part of commercial bank reserves and providing them short-term loans",
+   "Issuing passports to Indian citizens",
+   "Regulating international trade tariffs"
+  ],
+  "optsHi": [
+   "व्यक्तियों के लिए आयकर दरों को तय करना",
+   "वाणिज्यिक बैंकों के आरक्षित कोष का एक हिस्सा रखना और उन्हें अल्पकालिक ऋण प्रदान करना",
+   "भारतीय नागरिकों को पासपोर्ट जारी करना",
+   "अंतर्राष्ट्रीय व्यापार टैरिफ को विनियमित करना"
+  ],
+  "correct": 1,
+  "explainEn": "As the banker to banks, the RBI holds deposits of commercial banks and provides them financial accommodation and short-term loans when needed.",
+  "sourceHint": "NCERT Class 12 Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:57:08Z"
+ },
+ {
+  "id": "q_322b69bbb8ddad95",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which archaeological site of the Indus Valley Civilization is famous for its dockyard?",
+  "qHi": "सिंधु घाटी सभ्यता का कौन सा पुरातात्विक स्थल अपने गोदीबाड़ा (डॉकयार्ड) के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Harappa",
+   "Mohenjo-daro",
+   "Lothal",
+   "Kalibangan"
+  ],
+  "optsHi": [
+   "हड़प्पा",
+   "मोहनजोदड़ो",
+   "लोथल",
+   "कालीबंगा"
+  ],
+  "correct": 2,
+  "explainEn": "Lothal, located in Gujarat, is well known for its massive tidal dockyard, suggesting maritime trade links with other civilizations.",
+  "sourceHint": "NCERT Class 6 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:57:08Z"
+ },
+ {
+  "id": "q_238d0b78eefd38db",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which wind system is primarily responsible for the bulk of rainfall in India?",
+  "qHi": "भारत में अधिकांश वर्षा के लिए मुख्य रूप से कौन सी पवन प्रणाली जिम्मेदार है?",
+  "optsEn": [
+   "South-West Monsoon",
+   "North-East Monsoon",
+   "Western Disturbances",
+   "Trade Winds"
+  ],
+  "optsHi": [
+   "दक्षिण-पश्चिम मानसून",
+   "उत्तर-पूर्व मानसून",
+   "पश्चिमी विक्षोभ",
+   "व्यापारिक पवनें"
+  ],
+  "correct": 0,
+  "explainEn": "The South-West Monsoon brings the majority of the annual rainfall to the Indian subcontinent from June to September.",
+  "sourceHint": "NCERT Class 9 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:57:08Z"
+ },
+ {
+  "id": "q_7fde2c6543894396",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which biogeographic zone of India is the endemic species Nilgiri Tahr primarily found?",
+  "qHi": "भारत के किस जैव-भौगोलिक क्षेत्र में स्थानिक प्रजाति नीलगिरी तहर मुख्य रूप से पाई जाती है?",
+  "optsEn": [
+   "Western Ghats",
+   "Himalayas",
+   "North-East India",
+   "Deccan Peninsula"
+  ],
+  "optsHi": [
+   "पश्चिमी घाट",
+   "हिमालय",
+   "उत्तर-पूर्व भारत",
+   "दक्कन प्रायद्वीप"
+  ],
+  "correct": 0,
+  "explainEn": "The Nilgiri Tahr is an ungulate endemic to the Nilgiri Hills and the southern portion of the Western Ghats in the states of Tamil Nadu and Kerala.",
+  "sourceHint": "NCERT Class XII Biology, Ecosystem Chapter",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:58:04Z"
+ },
+ {
+  "id": "q_1ad0e68820c251c5",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following Harappan sites is located in the state of Gujarat and is famous for its systematic maritime dockyard structure?",
+  "qHi": "निम्नलिखित में से कौन सा हड़प्पा स्थल गुजरात राज्य में स्थित है और अपनी व्यवस्थित समुद्री गोदी संरचना के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Kalibangan",
+   "Lothal",
+   "Banawali",
+   "Rakhigarhi"
+  ],
+  "optsHi": [
+   "कालीबंगा",
+   "लोथल",
+   "बनावाली",
+   "राखीगढ़ी"
+  ],
+  "correct": 1,
+  "explainEn": "Lothal, situated near the Gulf of Khambhat in Gujarat, features a massive dockyard that suggests it was a major trading port during the Indus Valley Civilization.",
+  "sourceHint": "NCERT Class XII History, Themes in Indian History Part I",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:58:04Z"
+ },
+ {
+  "id": "q_6b779722afe149ed",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The term 'M2' in the context of Indian monetary aggregates primarily comprises which of the following?",
+  "qHi": "भारतीय मौद्रिक समुच्चय के संदर्भ में 'M2' शब्द में मुख्य रूप से निम्नलिखित में से क्या शामिल है?",
+  "optsEn": [
+   "Currency with public and demand deposits with banks",
+   "M1 plus savings deposits with post office savings banks",
+   "M1 plus total deposits with all commercial banks",
+   "Total deposits with the Reserve Bank of India"
+  ],
+  "optsHi": [
+   "जनता के पास मुद्रा और बैंकों के पास मांग जमा",
+   "M1 और डाकघर बचत बैंकों के पास बचत जमा",
+   "M1 और सभी वाणिज्यिक बैंकों के पास कुल जमा",
+   "भारतीय रिजर्व बैंक के पास कुल जमा"
+  ],
+  "correct": 1,
+  "explainEn": "In India, M2 is defined as M1 (Currency with public + Demand deposits with banks + Other deposits with RBI) plus savings deposits with post office savings banks.",
+  "sourceHint": "Indian Economy by Ramesh Singh, Chapter on Money Supply",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:58:04Z"
+ },
+ {
+  "id": "q_861d5a1b938929af",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The Battle of Buxar, which firmly established the British East India Company's political control over Bengal, Bihar, and Odisha, was fought in which year?",
+  "qHi": "बक्सर का युद्ध, जिसने बंगाल, बिहार और ओडिशा पर ब्रिटिश ईस्ट इंडिया Company के राजनीतिक नियंत्रण को दृढ़ता से स्थापित किया, किस वर्ष लड़ा गया था?",
+  "optsEn": [
+   "1757",
+   "1764",
+   "1772",
+   "1784"
+  ],
+  "optsHi": [
+   "1757",
+   "1764",
+   "1772",
+   "1784"
+  ],
+  "correct": 1,
+  "explainEn": "The Battle of Buxar was fought on October 22, 1764, between the forces under the command of the British East India Company and the combined army of Mir Kasim, Shuja-ud-Daula, and Shah Alam II.",
+  "sourceHint": "A Brief History of Modern India by Spectrum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:58:04Z"
+ },
+ {
+  "id": "q_ea13b6a28cfed4da",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The tropical deciduous forests in India are generally characterized by trees that shed their leaves during which period?",
+  "qHi": "भारत में उष्णकटिबंधीय पर्णपाती वनों में आमतौर पर ऐसे पेड़ होते हैं जो किस अवधि के दौरान अपनी पत्तियाँ गिरा देते हैं?",
+  "optsEn": [
+   "The entire rainy season",
+   "The dry summer season",
+   "The peak winter months",
+   "Throughout the year continuously"
+  ],
+  "optsHi": [
+   "पूरी वर्षा ऋतु",
+   "शुष्क ग्रीष्म ऋतु",
+   "शीर्ष सर्दियों के महीने",
+   "साल भर लगातार"
+  ],
+  "correct": 1,
+  "explainEn": "Tropical deciduous forests are the monsoon forests found in regions with seasonal rainfall; trees in these forests shed their leaves during the dry summer season to conserve water.",
+  "sourceHint": "NCERT Class XI Geography, India: Physical Environment",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:58:04Z"
+ },
+ {
+  "id": "q_55a5f6ea38bb8ab3",
+  "group": "upsc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which article of the Indian Constitution provides the procedural safeguards against arbitrary arrest and detention in normal circumstances?",
+  "qHi": "भारतीय संविधान का कौन सा अनुच्छेद सामान्य परिस्थितियों में मनमाने ढंग से गिरफ्तारी और हिरासत के खिलाफ प्रक्रियात्मक सुरक्षा उपाय प्रदान करता है?",
+  "optsEn": [
+   "Article 20",
+   "Article 21",
+   "Article 22",
+   "Article 32"
+  ],
+  "optsHi": [
+   "अनुच्छेद 20",
+   "अनुच्छेद 21",
+   "अनुच्छेद 22",
+   "अनुच्छेद 32"
+  ],
+  "correct": 2,
+  "explainEn": "Article 22 of the Constitution grants protection to persons who are arrested or detained under ordinary law, including the right to be informed of grounds of arrest and to consult a legal practitioner.",
+  "sourceHint": "Constitution of India, Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:59:07Z"
+ },
+ {
+  "id": "q_c905f4ab23859b44",
+  "group": "upsc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of ancient Indian history, the term 'Nishka' originally referred to what during the Vedic period?",
+  "qHi": "प्राचीन भारतीय इतिहास के संदर्भ में, वैदिक काल के दौरान 'निष्क' शब्द मूल रूप से किसे संदर्भित करता था?",
+  "optsEn": [
+   "A type of copper coin used for agriculture trade",
+   "An ornament worn around the neck that later served as a medium of exchange",
+   "A land tax collected by the tribal chief",
+   "A ritualistic fire altar used in royal consecration"
+  ],
+  "optsHi": [
+   "कृषि व्यापार के लिए प्रयुक्त तांबे का एक सिक्का",
+   "गले में पहना जाने वाला आभूषण जो बाद में विनिमय के माध्यम के रूप में कार्य करता था",
+   "قبيله के प्रमुख द्वारा एकत्र किया जाने वाला भू-राजस्व",
+   "शाही राज्याभिषेक में प्रयुक्त अनुष्ठानिक अग्नि वेदी"
+  ],
+  "correct": 1,
+  "explainEn": "Originally, 'Nishka' was a gold ornament worn around the neck in the Rigvedic period, which gradually evolved into a standard unit of value and currency in later Vedic times.",
+  "sourceHint": "NCERT Class XI Ancient India by R.S. Sharma",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:59:07Z"
+ },
+ {
+  "id": "q_989c56a5fc481886",
+  "group": "upsc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following biogeographic zones of India harbors the Loktak Lake, famous for its unique floating phumdis?",
+  "qHi": "भारत के निम्नलिखित में से किस जैव-भौगोलिक क्षेत्र में लोकटक झील स्थित है, जो अपने अनौठे तैरते फुमदियों के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "The Western Ghats",
+   "The Gangetic Plain",
+   "The North-East India",
+   "The Deccan Peninsula"
+  ],
+  "optsHi": [
+   "पश्चिमी घाट",
+   "गंगा का मैदान",
+   "उत्तर-पूर्व भारत",
+   "दक्कन का प्रायद्वीप"
+  ],
+  "correct": 2,
+  "explainEn": "Loktak Lake is located in Manipur, which falls under the North-East biogeographic zone of India.",
+  "sourceHint": "Wildlife Institute of India Biogeographic Classification",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:59:07Z"
+ },
+ {
+  "id": "q_d350dc62d64bf861",
+  "group": "upsc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the British colonial rule in India, the 'Public Safety Bill' of 1928 was primarily aimed at achieving which objective?",
+  "qHi": "भारत में ब्रिटिश औपनिवेशिक शासन के दौरान, 1928 का 'पब्लिक सेफ्टी बिल' मुख्य रूप से किस उद्देश्य को प्राप्त करने के लिए था?",
+  "optsEn": [
+   "To restrict the freedom of the vernacular press regarding financial news",
+   "To deport suspected foreign communists and socialists inciting labor unrest",
+   "To monopolize the telegraph and railway communications under military control",
+   "To regulate the safety standards in British-owned coal mines"
+  ],
+  "optsHi": [
+   "वित्तीय समाचारों के संबंध में वर्नाक्यूलर प्रेस की स्वतंत्रता को प्रतिबंधित करना",
+   "श्रम अशांति को भड़काने वाले संदिग्ध विदेशी कम्युनिस्टों और समाजवादियों को देश से निकालना",
+   "सैन्य नियंत्रण के तहत टेलीग्राफ और रेलवे संचार एकाधिकार प्राप्त करना",
+   "ब्रिटिश स्वामित्व वाली कोयला खदानों में सुरक्षा मानकों को विनियमित करना"
+  ],
+  "correct": 1,
+  "explainEn": "The Public Safety Bill was introduced to empower the government to deport foreign communists and agitators who were perceived to be organizing the growing trade union movement in India.",
+  "sourceHint": "Modern Indian History by Bipan Chandra",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:59:07Z"
+ },
+ {
+  "id": "q_923bb7dafe588a1e",
+  "group": "upsc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In macroeconomic accounting, which of the following transactions is explicitly included in the estimation of India's Gross Domestic Product (GDP) using the expenditure method?",
+  "qHi": "समष्टि आर्थिक लेखांकन में, व्यय विधि का उपयोग करके भारत के सकल घरेलू उत्पाद (GDP) के अनुमान में निम्नलिखित में से किस लेनदेन को स्पष्ट रूप से शामिल किया जाता है?",
+  "optsEn": [
+   "Purchase of shares and debentures in the secondary stock market",
+   "Government transfer payments such as old-age pensions",
+   "Expenditure on the construction of a new residential building",
+   "Sale of second-hand automobiles between private citizens"
+  ],
+  "optsHi": [
+   "माध्यमिक शेयर बाजार में शेयरों और डिबेंचरों की खरीद",
+   "वृद्धावस्था पेंशन जैसे सरकारी हस्तांतरण भुगतान",
+   "एक नए आवासीय भवन के निर्माण पर व्यय",
+   "निजी नागरिकों के बीच पुरानी कारों की बिक्री"
+  ],
+  "correct": 2,
+  "explainEn": "Investment expenditure, including residential construction, is a core component (I) in the expenditure method of GDP calculation (C + I + G + NX). Secondary market stock purchases, transfer payments, and used goods sales are excluded to avoid double counting.",
+  "sourceHint": "NCERT Class XII Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:59:07Z"
+ },
+ {
+  "id": "q_c09e9fb73ff8beb4",
+  "group": "upsc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following specialized tissues in vascular plants is primarily responsible for the lateral growth and secondary thickening of stems and roots?",
+  "qHi": "संवहनी पौधों में निम्नलिखित में से कौन सा विशिष्ट ऊतक मुख्य रूप से तनों और जड़ों की पार्श्व वृद्धि और द्वितीयक मोटाई के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Xylem parenchyma",
+   "Apical meristem",
+   "Vascular cambium",
+   "Sieve tube elements"
+  ],
+  "optsHi": [
+   "जाइलम पैरेन्काइमा",
+   "शीर्षस्थ मेरिस्टेम",
+   "संवहनी कैम्बियम",
+   "चालनी नली तत्व"
+  ],
+  "correct": 2,
+  "explainEn": "Vascular cambium and cork cambium are lateral meristems responsible for secondary growth, increasing the girth of stems and roots in woody plants.",
+  "sourceHint": "NCERT Class XI Biology Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:59:07Z"
+ },
+ {
+  "id": "q_e4a0857f5a241d52",
+  "group": "upsc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the provisions of the Biological Diversity Act of India, what is the primary mandate of the National Biodiversity Authority (NBA)?",
+  "qHi": "भारत के जैव विविधता अधिनियम के प्रावधानों के तहत, राष्ट्रीय जैव विविधता प्राधिकरण (NBA) का प्राथमिक अधिदेश क्या है?",
+  "optsEn": [
+   "To formulate the monetary policy for forest carbon credits",
+   "To regulate activities for commercial utilization of biological resources and associated traditional knowledge",
+   "To manage all wildlife sanctuaries and national parks directly from New Delhi",
+   "To issue licenses for commercial hunting of non-endangered fauna"
+  ],
+  "optsHi": [
+   "वन कार्बन क्रेडिट के लिए मौद्रिक नीति तैयार करना",
+   "जैविक संसाधनों और संबंधित पारंपरिक ज्ञान के व्यावसायिक उपयोग के लिए गतिविधियों को विनियमित करना",
+   "नई दिल्ली से सीधे सभी वन्यजीव अभ्यारण्यों और राष्ट्रीय उद्यानों का प्रबंधन करना",
+   "गैर-लुप्तप्राय जीवों के व्यावसायिक शिकार के लिए लाइसेंस जारी करना"
+  ],
+  "correct": 1,
+  "explainEn": "The NBA performs facilitative, regulatory, and advisory functions for the Government of India on issues of conservation, sustainable use of biological resources, and fair and equitable sharing of benefits.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change, Biological Diversity Act 2002",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:59:07Z"
  }
 ]

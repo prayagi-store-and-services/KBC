@@ -7642,5 +7642,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-13T22:48:02Z"
+ },
+ {
+  "id": "q_651472ebcb5dbf4b",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the minimum age requirement for a person to vote in Indian elections?",
+  "qHi": "भारतीय चुनावों में मतदान करने के लिए किसी व्यक्ति की न्यूनतम आयु सीमा क्या है?",
+  "optsEn": [
+   "18 years",
+   "21 years",
+   "25 years",
+   "35 years"
+  ],
+  "optsHi": [
+   "18 वर्ष",
+   "21 वर्ष",
+   "25 वर्ष",
+   "35 वर्ष"
+  ],
+  "correct": 0,
+  "explainEn": "According to the Indian Constitution, every citizen who is 18 years of age or older is eligible to vote.",
+  "sourceHint": "Constitution of India Article 326",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:56:53Z"
+ },
+ {
+  "id": "q_934de709e9ebe909",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which term describes the clearing of forests and using the land for other purposes?",
+  "qHi": "वनों की कटाई और उस भूमि का अन्य उद्देश्यों के लिए उपयोग करने की प्रक्रिया को क्या कहा जाता है?",
+  "optsEn": [
+   "Afforestation",
+   "Deforestation",
+   "Reforestation",
+   "Desertification"
+  ],
+  "optsHi": [
+   "वनीकरण",
+   "वनों की कटाई (डिफॉरेस्टेशन)",
+   "पुनर्वनीकरण",
+   "मरुस्थलीकरण"
+  ],
+  "correct": 1,
+  "explainEn": "Deforestation means clearing of forest areas on a large scale for various activities.",
+  "sourceHint": "NCERT Class 8 Science Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:56:53Z"
+ },
+ {
+  "id": "q_0b5d65bdab672a42",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which crop is classified as a Kharif crop in Indian agriculture?",
+  "qHi": "भारतीय कृषि में कौन सी फसल खरीफ की फसल के रूप में वर्गीकृत की जाती है?",
+  "optsEn": [
+   "Wheat",
+   "Gram",
+   "Paddy",
+   "Peas"
+  ],
+  "optsHi": [
+   "गेहूं",
+   "चना",
+   "धान",
+   "मटर"
+  ],
+  "correct": 2,
+  "explainEn": "Paddy (rice) is sown in the rainy season (June to September), which defines Kharif crops.",
+  "sourceHint": "NCERT Class 8 Science - Crop Production and Management",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:57:48Z"
+ },
+ {
+  "id": "q_c2d1f6aff8ce9d93",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the minimum age required for a person to contest elections to the Lok Sabha in India?",
+  "qHi": "भारत में लोकसभा का चुनाव लड़ने के लिए किसी व्यक्ति की न्यूनतम आयु कितनी होनी चाहिए?",
+  "optsEn": [
+   "18 years",
+   "21 years",
+   "25 years",
+   "30 years"
+  ],
+  "optsHi": [
+   "18 वर्ष",
+   "21 वर्ष",
+   "25 वर्ष",
+   "30 वर्ष"
+  ],
+  "correct": 2,
+  "explainEn": "According to Article 84 of the Constitution of India, the minimum age for becoming a member of the Lok Sabha is 25 years.",
+  "sourceHint": "Constitution of India and NCERT Class 8 Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:57:48Z"
+ },
+ {
+  "id": "q_93423f4169485969",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "During the British colonial rule in India, the Permanent Settlement was introduced in 1793 by whom?",
+  "qHi": "भारत में ब्रिटिश औपनिवेशिक शासन के दौरान, 1793 में स्थायी बंदोबस्त किसने लागू किया था?",
+  "optsEn": [
+   "Lord Cornwallis",
+   "Lord Dalhousie",
+   "Warren Hastings",
+   "Lord Wellesley"
+  ],
+  "optsHi": [
+   "लॉर्ड कॉर्नवालिस",
+   "लॉर्ड डलहौजी",
+   "वारेन हेस्टिंग्स",
+   "लॉर्ड वेलेजली"
+  ],
+  "correct": 0,
+  "explainEn": "Lord Cornwallis introduced the Permanent Settlement in 1793 for Bengal, Bihar, and Orissa.",
+  "sourceHint": "NCERT Class 8 History - Ruling the Countryside",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:57:48Z"
  }
 ]

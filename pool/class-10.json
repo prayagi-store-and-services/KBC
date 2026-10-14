@@ -10330,5 +10330,425 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-13T22:48:09Z"
+ },
+ {
+  "id": "q_b4626bc2b431a42d",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who presides over the joint sitting of the two Houses of Parliament in India?",
+  "qHi": "भारत में संसद के दोनों सदनों की संयुक्त बैठक की अध्यक्षता कौन करता है?",
+  "optsEn": [
+   "President of India",
+   "Speaker of the Lok Sabha",
+   "Vice President of India",
+   "Prime Minister of India"
+  ],
+  "optsHi": [
+   "भारत के राष्ट्रपति",
+   "लोकसभा के अध्यक्ष",
+   "भारत के उप राष्ट्रपति",
+   "भारत के प्रधानमंत्री"
+  ],
+  "correct": 1,
+  "explainEn": "According to Article 118 of the Constitution, the Speaker of the Lok Sabha presides over a joint sitting of both Houses.",
+  "sourceHint": "Constitution of India, Article 118",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:56:59Z"
+ },
+ {
+  "id": "q_c14139086c5abacb",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which soil type is best suited for growing cotton?",
+  "qHi": "कपास उगाने के लिए कौन सी मिट्टी सबसे उपयुक्त है?",
+  "optsEn": [
+   "Laterite soil",
+   "Red soil",
+   "Black soil",
+   "Desert soil"
+  ],
+  "optsHi": [
+   "लैटेराइट मिट्टी",
+   "लाल मिट्टी",
+   "काली मिट्टी",
+   "मरुस्थलीय मिट्टी"
+  ],
+  "correct": 2,
+  "explainEn": "Black soil, also known as regur soil, is ideal for growing cotton and is found extensively in the Deccan trap region.",
+  "sourceHint": "NCERT Class 10 Social Science, Chapter 1 (Contemporary India)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:56:59Z"
+ },
+ {
+  "id": "q_a2bc101ca1d83deb",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which plant hormone is primarily responsible for cell division and promotes the opening of stomata?",
+  "qHi": "कौन सा पादप हार्मोन मुख्य रूप से कोशिका विभाजन के लिए उत्तरदायी है और रंध्रों के खुलने को बढ़ावा देता है?",
+  "optsEn": [
+   "Auxin",
+   "Gibberellin",
+   "Cytokinin",
+   "Abscisic acid"
+  ],
+  "optsHi": [
+   "ऑक्साइन",
+   "जिबरेलिन",
+   "साइटोकाइनिन",
+   "एब्सिसिक एसिड"
+  ],
+  "correct": 2,
+  "explainEn": "Cytokinins are plant hormones that promote cell division and play a role in various developmental processes including stomatal opening.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:57:53Z"
+ },
+ {
+  "id": "q_8bf2fbd280c69a5c",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the chemical name of the white powder commonly known as bleaching powder used in water purification?",
+  "qHi": "जल शोधन में प्रयुक्त होने वाले सामान्य सफेद चूर्ण, जिसे विरंजक चूर्ण कहते हैं, का रासायनिक नाम क्या है?",
+  "optsEn": [
+   "Calcium oxychloride",
+   "Calcium hydroxide",
+   "Sodium carbonate",
+   "Sodium bicarbonate"
+  ],
+  "optsHi": [
+   "कैल्शियम ऑक्सीक्लोराइड",
+   "कैल्शियम हाइड्रोक्साइड",
+   "सोडियम कार्बोनेट",
+   "सोडियम बाइकार्बोनेट"
+  ],
+  "correct": 0,
+  "explainEn": "Bleaching powder is chemically represented as CaOCl2, which is calcium oxychloride.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:57:53Z"
+ },
+ {
+  "id": "q_84e58adcac732038",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which part of the human digestive system is the digested food primarily absorbed into the blood?",
+  "qHi": "मानव पाचन तंत्र के किस भाग में पचे हुए भोजन का मुख्य रूप से रक्त में अवशोषण होता है?",
+  "optsEn": [
+   "Stomach",
+   "Large intestine",
+   "Small intestine",
+   "Esophagus"
+  ],
+  "optsHi": [
+   "अमाशय",
+   "बड़ी आंत",
+   "छोटी आंत",
+   "ग्रासनली"
+  ],
+  "correct": 2,
+  "explainEn": "The inner surface of the small intestine has numerous finger-like projections called villi, which absorb digested food into the blood.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:57:53Z"
+ },
+ {
+  "id": "q_f906eaf7d9260a7a",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of coal contains the highest carbon content and is considered the best quality coal?",
+  "qHi": "किस प्रकार के कोयले में कार्बन की मात्रा सबसे अधिक होती है और जिसे सर्वोत्तम गुणवत्ता वाला कोयला माना जाता है?",
+  "optsEn": [
+   "Bituminous",
+   "Lignite",
+   "Anthracite",
+   "Peat"
+  ],
+  "optsHi": [
+   "बिटुमिनस",
+   "लिग्नाइट",
+   "एन्थरासाइट",
+   "पीट"
+  ],
+  "correct": 2,
+  "explainEn": "Anthracite is the highest rank of coal containing 80 to 95 percent carbon, making it the hardest and most efficient.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:57:53Z"
+ },
+ {
+  "id": "q_8fc8fda29c10663c",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the term used for the resistance offered by a conductor of unit length and unit cross-sectional area?",
+  "qHi": "इकाई लंबाई और इकाई अनुप्रस्थ काट क्षेत्रफल वाले चालक द्वारा प्रदान किए जाने वाले प्रतिरोध के लिए किस शब्द का प्रयोग किया जाता है?",
+  "optsEn": [
+   "Resistivity",
+   "Conductivity",
+   "Electric potential",
+   "Capacitance"
+  ],
+  "optsHi": [
+   "प्रतिरोधकता",
+   "चालकता",
+   "विद्युत विभव",
+   "धारिता"
+  ],
+  "correct": 0,
+  "explainEn": "Resistivity (or specific resistance) is defined as the resistance offered by a conductor of unit length and unit cross-sectional area.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:57:53Z"
+ },
+ {
+  "id": "q_72790ed5c219e86b",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which layer of the Earth's atmosphere contains the ozone layer that absorbs harmful ultraviolet radiation from the Sun?",
+  "qHi": "पृथ्वी के वायुमंडल की किस परत में ओजोन परत पाई जाती है जो सूर्य से आने वाली हानिकारक पराबैंगनी विकिरण को अवशोषित करती है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The ozone layer is found in the stratosphere, which absorbs the majority of the Sun's ultraviolet radiation.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 15",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:57:53Z"
+ },
+ {
+  "id": "q_22a15196c59ff7dd",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific constitutional provision empowers the Parliament of India to create a new All India Service?",
+  "qHi": "भारत के संविधान का कौन सा विशिष्ट प्रावधान संसद को एक नई अखिल भारतीय सेवा बनाने का अधिकार देता है?",
+  "optsEn": [
+   "Article 312",
+   "Article 356",
+   "Article 249",
+   "Article 368"
+  ],
+  "optsHi": [
+   "अनुच्छेद 312",
+   "अनुच्छेद 356",
+   "अनुच्छेद 249",
+   "अनुच्छेद 368"
+  ],
+  "correct": 0,
+  "explainEn": "Article 312 of the Indian Constitution grants the Rajya Sabha the power to declare that the creation of a new All India Service is necessary in the national interest, following which Parliament may create it.",
+  "sourceHint": "NCERT Class 10 Democratic Politics / Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:58:53Z"
+ },
+ {
+  "id": "q_fe8da322cec45e1c",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of carbon compounds, what is the IUPAC name of the straight-chain alkyne with four carbon atoms?",
+  "qHi": "कार्बन यौगिकों के संदर्भ में, चार कार्बन परमाणुओं वाले सीधी-श्रृंखला वाले एल्काइन का IUPAC नाम क्या है?",
+  "optsEn": [
+   "But-1-yne",
+   "Butane",
+   "Butene",
+   "But-2-ene"
+  ],
+  "optsHi": [
+   "ब्यूट-1-आइन",
+   "ब्यूटेन",
+   "ब्यूटीन",
+   "ब्यूट-2-आइन"
+  ],
+  "correct": 0,
+  "explainEn": "An alkyne with four carbon atoms and a triple bond is named But-1-yne or Butyne according to IUPAC nomenclature rules.",
+  "sourceHint": "NCERT Class 10 Science Chapter 4: Carbon and its Compounds",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:58:53Z"
+ },
+ {
+  "id": "q_3972badbb9e486b0",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which mineral resource is primarily extracted from the Balaghat mines in Madhya Pradesh?",
+  "qHi": "मध्य प्रदेश की बालाघाट खानों से मुख्य रूप से कौन सा खनिज संसाधन निकाला जाता है?",
+  "optsEn": [
+   "Manganese",
+   "Bauxite",
+   "Mica",
+   "Copper"
+  ],
+  "optsHi": [
+   "मैंगनीज",
+   "बॉक्साइट",
+   "अभ्रक",
+   "तांबा"
+  ],
+  "correct": 0,
+  "explainEn": "Madhya Pradesh produces a major share of India's manganese ore, with the Balaghat mines being one of the leading producers.",
+  "sourceHint": "NCERT Class 10 Geography Chapter 5: Minerals and Energy Resources",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:58:53Z"
+ },
+ {
+  "id": "q_649023bbacc74c4d",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which mechanism of asexual reproduction is commonly observed in the organism Leishmania?",
+  "qHi": "जीव लीशमानिया में सामान्यतः अलैंगिक जनन की कौन सी क्रियाविधि देखी जाती है?",
+  "optsEn": [
+   "Binary fission in a definite orientation",
+   "Multiple fission",
+   "Budding",
+   "Fragmentation"
+  ],
+  "optsHi": [
+   "एक निश्चित अभिविन्यास में द्विखंडन",
+   "बहुखंडन",
+   "मुकुलन",
+   "खंडन"
+  ],
+  "correct": 0,
+  "explainEn": "Leishmania reproduces by binary fission occurring in a definite orientation in relation to the whip-like structure at its ends.",
+  "sourceHint": "NCERT Class 10 Science Chapter 8: How do Organisms Reproduce?",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:58:53Z"
+ },
+ {
+  "id": "q_806f0f70c0f5baf5",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary reason why a concave mirror is used by dentists to examine teeth?",
+  "qHi": "दंत चिकित्सकों द्वारा दांतों का परीक्षण करने के लिए अवतल दर्पण का उपयोग करने का मुख्य कारण क्या है?",
+  "optsEn": [
+   "It can produce an enlarged virtual image when the object is placed close to it",
+   "It always produces a diminished real image",
+   "It forms an inverted image at infinity",
+   "It diverges light rays to cover a wide field of view"
+  ],
+  "optsHi": [
+   "जब वस्तु को इसके पास रखा जाता है तो यह एक आवर्धित आभासी प्रतिबिंब बना सकता है",
+   "यह हमेशा एक छोटा वास्तविक प्रतिबिंब बनाता है",
+   "यह अनंत पर एक उल्टे प्रतिबिंब का निर्माण करता है",
+   "यह दृष्टि के एक विस्तृत क्षेत्र को कवर करने के लिए प्रकाश किरणों को फैलाता है"
+  ],
+  "correct": 0,
+  "explainEn": "When a tooth is placed within the focus of a concave mirror, it forms an erect, magnified virtual image, helping dentists see details clearly.",
+  "sourceHint": "NCERT Class 10 Science Chapter 10: Light – Reflection and Refraction",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:58:53Z"
+ },
+ {
+  "id": "q_0a21f3291d839d7e",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In India's federal structure, which subjects are included under the Concurrent List of the Seventh Schedule?",
+  "qHi": "भारत की संघीय संरचना में, सातवीं अनुसूची की समवर्ती सूची के अंतर्गत कौन से विषय शामिल हैं?",
+  "optsEn": [
+   "Education and Forests",
+   "Police and Agriculture",
+   "Banking and Defense",
+   "Foreign Affairs and Railways"
+  ],
+  "optsHi": [
+   "शिक्षा और वन",
+   "पुलिस और कृषि",
+   "बैंकिंग और रक्षा",
+   "विदेशी मामले और रेलवे"
+  ],
+  "correct": 0,
+  "explainEn": "Education, forests, trade unions, marriage, and adoption are items listed under the Concurrent List where both Parliament and state legislatures can make laws.",
+  "sourceHint": "NCERT Class 10 Civics Chapter 2: Federalism",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:58:53Z"
+ },
+ {
+  "id": "q_0e270654b67e0e46",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which sector currently holds the largest share in India's Gross Domestic Product (GDP) as per recent economic trends reported in standard textbooks?",
+  "qHi": "मानक पाठ्यपुस्तकों में रिपोर्ट किए गए हालिया आर्थिक रुझानों के अनुसार, वर्तमान में भारत के सकल घरेलू उत्पाद (GDP) में सबसे बड़ा हिस्सा किस क्षेत्र का है?",
+  "optsEn": [
+   "Tertiary sector",
+   "Primary sector",
+   "Secondary sector",
+   "Agricultural sector"
+  ],
+  "optsHi": [
+   "तृतीयक क्षेत्र",
+   "प्राथमिक क्षेत्र",
+   "द्वितीक क्षेत्र",
+   "कृषि क्षेत्र"
+  ],
+  "correct": 0,
+  "explainEn": "The tertiary (service) sector has grown to become the largest producing sector in India's GDP, surpassing both primary and secondary sectors.",
+  "sourceHint": "NCERT Class 10 Economics Chapter 2: Sectors of the Indian Economy",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:58:53Z"
  }
 ]

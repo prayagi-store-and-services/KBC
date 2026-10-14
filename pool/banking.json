@@ -12206,5 +12206,341 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-13T22:47:25Z"
+ },
+ {
+  "id": "q_0b09492c519750b9",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of 'KYC' as used by banks?",
+  "qHi": "बैंकों द्वारा उपयोग किए जाने वाले 'KYC' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Know Your Customer",
+   "Keep Your Cash",
+   "Key Yield Calculation",
+   "Knowledge Yard Credit"
+  ],
+  "optsHi": [
+   "नो योर कस्टमर",
+   "कीप योर कैश",
+   "की यील्ड कैलकुलेशन",
+   "नॉलेज यार्ड क्रेडिट"
+  ],
+  "correct": 0,
+  "explainEn": "KYC stands for Know Your Customer, a mandatory process by financial institutions to verify the identity of their clients.",
+  "sourceHint": "Reserve Bank of India Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:57:16Z"
+ },
+ {
+  "id": "q_7c8498343012df1b",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the financial term 'SLR'?",
+  "qHi": "वित्तीय शब्द 'SLR' में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liquidity",
+   "Liability",
+   "Loan",
+   "Ledger"
+  ],
+  "optsHi": [
+   "लिक्विडिटी",
+   "लायबिलिटी",
+   "लोन",
+   "लेजर"
+  ],
+  "correct": 0,
+  "explainEn": "SLR stands for Statutory Liquidity Ratio, which is a minimum percentage of deposits that a commercial bank has to maintain in the form of liquid cash, gold, or securities.",
+  "sourceHint": "Banking Regulation Act, 1949",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:57:16Z"
+ },
+ {
+  "id": "q_8a2c3cb79ca1b570",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which is the highest-denomination currency note currently printed by the RBI in India?",
+  "qHi": "भारत में वर्तमान में आरबीआई द्वारा मुद्रित उच्चतम मूल्य का करेंसी नोट कौन सा है?",
+  "optsEn": [
+   "Rupees 500",
+   "Rupees 1000",
+   "Rupees 2000",
+   "Rupees 100"
+  ],
+  "optsHi": [
+   "रुपये 500",
+   "रुपये 1000",
+   "रुपये 2000",
+   "रुपये 100"
+  ],
+  "correct": 0,
+  "explainEn": "Following the withdrawal of the 2000 rupee note, the 500 rupee note is currently the highest denomination currency note actively printed and circulated.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:57:16Z"
+ },
+ {
+  "id": "q_a04345c21fe48e48",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of account is typically opened by salaried individuals for daily savings and transactions?",
+  "qHi": "दैनिक बचत और लेनदेन के लिए आमतौर पर वेतनभोगी व्यक्तियों द्वारा किस प्रकार का खाता खोला जाता है?",
+  "optsEn": [
+   "Current Account",
+   "Savings Account",
+   "Fixed Deposit Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "चालू खाता",
+   "बचत खाता",
+   "सावधि जमा खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 1,
+  "explainEn": "A Savings Account is meant for individuals to park their daily savings and conduct routine banking transactions with nominal interest.",
+  "sourceHint": "Indian Banking Concepts",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:57:16Z"
+ },
+ {
+  "id": "q_0dd998faafbcd7ba",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following terms is used to describe the rate at which the Reserve Bank of India lends short-term money to commercial banks?",
+  "qHi": "निम्नलिखित में से किस शब्द का उपयोग उस दर को वर्णित करने के लिए किया जाता है जिस पर भारतीय रिजर्व बैंक वाणिज्यिक बैंकों को अल्पकालिक ऋण देता है?",
+  "optsEn": [
+   "Repo Rate",
+   "Reverse Repo Rate",
+   "Bank Rate",
+   "Cash Reserve Ratio"
+  ],
+  "optsHi": [
+   "रेपो रेट",
+   "रिवर्स रेपो रेट",
+   "बैंक रेट",
+   "नकद आरक्षित अनुपात"
+  ],
+  "correct": 0,
+  "explainEn": "Repo rate is the interest rate at which the central bank lends short-term funds to commercial banks.",
+  "sourceHint": "RBI official website and NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:58:14Z"
+ },
+ {
+  "id": "q_fec8e83d51ece4f4",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under which section of the Negotiable Instruments Act, 1881 is a 'Cheque' defined?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 (Negotiable Instruments Act) की किस धारा के तहत 'चेक' को परिभाषित किया गया है?",
+  "optsEn": [
+   "Section 5",
+   "Section 6",
+   "Section 10",
+   "Section 15"
+  ],
+  "optsHi": [
+   "धारा 5",
+   "धारा 6",
+   "धारा 10",
+   "धारा 15"
+  ],
+  "correct": 1,
+  "explainEn": "Section 6 of the Negotiable Instruments Act, 1881 defines a cheque as a bill of exchange drawn on a specified banker.",
+  "sourceHint": "Negotiable Instruments Act, 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:58:14Z"
+ },
+ {
+  "id": "q_1f8cd1303da2b219",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the abbreviation 'LAF', a monetary policy tool used by the RBI?",
+  "qHi": "RBI द्वारा प्रयुक्त मौद्रिक नीति उपकरण 'LAF' संक्षेप में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liquidity",
+   "Liability",
+   "Leverage",
+   "Ledger"
+  ],
+  "optsHi": [
+   "लिक्विडिटी (तरलता)",
+   "लायबिलिटी (देयता)",
+   "लीवरेज",
+   "लेजर"
+  ],
+  "correct": 0,
+  "explainEn": "LAF stands for Liquidity Adjustment Facility, which is used to aid banks in managing their daily liquidity requirements.",
+  "sourceHint": "RBI Monetary Policy terminology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:58:14Z"
+ },
+ {
+  "id": "q_5af255bc2a765d94",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum number of digits present in an Indian Financial System Code (IFSC)?",
+  "qHi": "भारतीय वित्तीय प्रणाली कोड (IFSC) में अधिकतम अंकों की संख्या कितनी होती है?",
+  "optsEn": [
+   "9 digits",
+   "10 digits",
+   "11 digits",
+   "12 digits"
+  ],
+  "optsHi": [
+   "9 अंक",
+   "10 अंक",
+   "11 अंक",
+   "12 अंक"
+  ],
+  "correct": 2,
+  "explainEn": "An IFSC is an 11-character alpha-numeric code used for electronic funds transfer in India.",
+  "sourceHint": "Reserve Bank of India guidelines on IFSC",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:58:14Z"
+ },
+ {
+  "id": "q_dbf70247e80d0f61",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institution regulates the microfinance sector in India along with setting out regulatory frameworks for NBFCs?",
+  "qHi": "भारत में एनबीएफसी (NBFC) के लिए नियामक ढांचा तैयार करने के साथ-साथ सूक्ष्म वित्त क्षेत्र को कौन सी संस्था विनियमित करती है?",
+  "optsEn": [
+   "SEBI",
+   "RBI",
+   "NABARD",
+   "SIDBI"
+  ],
+  "optsHi": [
+   "सेबी (SEBI)",
+   "भारतीय रिजर्व बैंक (RBI)",
+   "नाबार्ड (NABARD)",
+   "सिडबी (SIDBI)"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India regulates Non-Banking Financial Companies (NBFCs) and microfinance institutions in India.",
+  "sourceHint": "RBI Act and Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:58:14Z"
+ },
+ {
+  "id": "q_672c4d21f68989d5",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of banking, what does the letter 'C' stand for in the acronym 'CASA' deposit?",
+  "qHi": "बैंकिंग के संदर्भ में, 'CASA' जमा संक्षिप्त नाम में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Capital",
+   "Current",
+   "Core",
+   "Credit"
+  ],
+  "optsHi": [
+   "कैपिटल (पूंजी)",
+   "करेंट (चालू)",
+   "कोर",
+   "क्रेडिट"
+  ],
+  "correct": 1,
+  "explainEn": "CASA stands for Current Account Savings Account, representing the bank deposits in current and savings accounts.",
+  "sourceHint": "Banking terminology and financial glossaries",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:58:14Z"
+ },
+ {
+  "id": "q_6770a362c563b691",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India allots the Legal Entity Identifier (LEI) code for financial transactions?",
+  "qHi": "भारत में वित्तीय लेनदेन के लिए लीगल एंटिटी आइडेंटिफ़ायर (LEI) कोड कौन सी संस्था आवंटित करती है?",
+  "optsEn": [
+   "Legal Entity Identifier India Limited",
+   "National Payments Corporation of India",
+   "Credit Information Bureau India Limited",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "लीगल एंटिटी आइडेंटिफ़ायर इंडिया लिमिटेड",
+   "भारतीय राष्ट्रीय भुगतान निगम",
+   "सिबिल (CIBIL)",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड"
+  ],
+  "correct": 0,
+  "explainEn": "LEI in India is issued by Legal Entity Identifier India Limited (LEIL), a subsidiary of The Clearing Corporation of India Ltd (CCIL).",
+  "sourceHint": "RBI notifications on LEI",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:58:14Z"
+ },
+ {
+  "id": "q_bf104aed0ccc8873",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of Open Market Operations (OMOs) conducted by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा संचालित खुले बाजार के संचालन (OMOs) का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "Managing foreign exchange reserves",
+   "Regulating money supply in the economy",
+   "Issuing new currency notes",
+   "Fixing interest rates for small savings schemes"
+  ],
+  "optsHi": [
+   "विदेशी मुद्रा भंडार का प्रबंधन करना",
+   "अर्थव्यवस्था में धन की आपूर्ति को विनियमित करना",
+   "नए करेंसी नोट जारी करना",
+   "लघु बचत योजनाओं के लिए ब्याज दरें तय करना"
+  ],
+  "correct": 1,
+  "explainEn": "Open Market Operations involve the sale and purchase of government securities by the RBI to regulate the money supply in the economy.",
+  "sourceHint": "NCERT Economics and RBI publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:58:14Z"
  }
 ]

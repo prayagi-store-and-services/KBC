@@ -7838,5 +7838,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-13T22:47:20Z"
+ },
+ {
+  "id": "q_61a998c7c024ddaf",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following dynasties constructed the famous Kailash Temple at Ellora?",
+  "qHi": "निम्नलिखित में से किस राजवंश ने एलोora के प्रसिद्ध कैलाश मंदिर का निर्माण कराया था?",
+  "optsEn": [
+   "Rashtrakuta dynasty",
+   "Chola dynasty",
+   "Pallava dynasty",
+   "Maurya dynasty"
+  ],
+  "optsHi": [
+   "राष्ट्रकूट राजवंश",
+   "चोल राजवंश",
+   "पल्लव राजवंश",
+   "मौर्य राजवंश"
+  ],
+  "correct": 0,
+  "explainEn": "The rock-cut Kailash Temple (Cave 16) at Ellora was built by the Rashtrakuta king Krishna I.",
+  "sourceHint": "NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:58:09Z"
+ },
+ {
+  "id": "q_f9c319c960a50009",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Where is the headquarters of the International Labour Organization (ILO) located?",
+  "qHi": "अंतर्राष्ट्रीय श्रम संगठन (ILO) का मुख्यालय कहाँ स्थित है?",
+  "optsEn": [
+   "Geneva",
+   "New York",
+   "Paris",
+   "Vienna"
+  ],
+  "optsHi": [
+   "जिनेवा",
+   "न्यूयार्क",
+   "पेरिस",
+   "वियना"
+  ],
+  "correct": 0,
+  "explainEn": "The headquarters of the International Labour Organization is located in Geneva, Switzerland.",
+  "sourceHint": "Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:58:09Z"
+ },
+ {
+  "id": "q_5ba7b143327db4d4",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "At which session did the Indian National Congress adopt the historic 'Purna Swaraj' resolution?",
+  "qHi": "भारतीय राष्ट्रीय कांग्रेस ने किस अधिवेशन में ऐतिहासिक 'पूर्ण स्वराज' प्रस्ताव को अपनाया था?",
+  "optsEn": [
+   "Calcutta Session of 1928",
+   "Lahore Session of 1929",
+   "Karachi Session of 1931",
+   "Lucknow Session of 1916"
+  ],
+  "optsHi": [
+   "कोलकाता अधिवेशन 1928",
+   "लाहौर अधिवेशन 1929",
+   "कराची अधिवेशन 1931",
+   "लखनऊ अधिवेशन 1916"
+  ],
+  "correct": 1,
+  "explainEn": "The Lahore session of the Indian National Congress passed the Purna Swaraj resolution in December 1929.",
+  "sourceHint": "NCERT Modern Indian History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:58:09Z"
  }
 ]

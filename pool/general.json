@@ -8454,5 +8454,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-13T22:47:52Z"
+ },
+ {
+  "id": "q_141456721a0e9aee",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the famous ancient Indian treatise on statecraft, economics, and military strategy known as the Arthashastra?",
+  "qHi": "राज्यकला, अर्थशास्त्र और सैन्य रणनीति पर प्रसिद्ध प्राचीन भारतीय ग्रंथ अर्थशास्त्र किसने लिखा था?",
+  "optsEn": [
+   "Kalidasa",
+   "Banabhatta",
+   "Kautilya",
+   "Valmiki"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "बाणभट्ट",
+   "कौटिल्य",
+   "वाल्मीकि"
+  ],
+  "correct": 2,
+  "explainEn": "Kautilya, also known as Chanakya, authored the Arthashastra.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T04:58:18Z"
  }
 ]
