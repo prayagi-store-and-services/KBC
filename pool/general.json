@@ -8482,5 +8482,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-14T04:58:18Z"
+ },
+ {
+  "id": "q_dd7638262cdb3847",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas do human beings primarily inhale and require for survival?",
+  "qHi": "मनुष्य मुख्य रूप से कौन सी गैस अंदर लेते हैं और जीवित रहने के लिए उसकी आवश्यकता होती है?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Oxygen",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Oxygen is essential for aerobic cellular respiration in human beings.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:56:43Z"
+ },
+ {
+  "id": "q_0caa9ae6b2e68000",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which classical dance form originates from the state of Kerala and is known for elaborate makeup and facial masks?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप केरल राज्य से उत्पन्न हुआ है और विस्तृत मेकअप और चेहरे के मास्क के लिए जाना जाता है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a major form of classical Indian dance distinct for its colorful make-up, costumes and face masks.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:59:41Z"
+ },
+ {
+  "id": "q_1acc5b467a966b05",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which year did the Reserve Bank of India (RBI) commence its operations?",
+  "qHi": "भारतीय रिजर्व बैंक (RBI) ने किस वर्ष अपना संचालन शुरू किया था?",
+  "optsEn": [
+   "1930",
+   "1935",
+   "1947",
+   "1950"
+  ],
+  "optsHi": [
+   "1930",
+   "1935",
+   "1947",
+   "1950"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India was established on April 1, 1935, in accordance with the Reserve Bank of India Act, 1934.",
+  "sourceHint": "Reserve Bank of India Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:59:41Z"
+ },
+ {
+  "id": "q_ac9ae13487c52077",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin is primarily synthesized in the human body when exposed to sunlight?",
+  "qHi": "धूप के संपर्क में आने पर मानव शरीर में मुख्य रूप से कौन सा विटामिन संश्लेषित होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin C",
+   "Vitamin D",
+   "Vitamin K"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन सी",
+   "विटामिन डी",
+   "विटामिन के"
+  ],
+  "correct": 2,
+  "explainEn": "Vitamin D is produced in the skin when it is exposed to ultraviolet B rays from sunlight.",
+  "sourceHint": "NCERT Biology Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:59:41Z"
  }
 ]

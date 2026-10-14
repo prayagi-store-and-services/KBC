@@ -11674,5 +11674,341 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-14T04:59:00Z"
+ },
+ {
+  "id": "q_f0bd18f5493b98b9",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of market structure is characterized by a single seller and no close substitutes?",
+  "qHi": "किस प्रकार की बाजार संरचना की विशेषता एक अकेला विक्रेता और कोई निकट विकल्प न होना है?",
+  "optsEn": [
+   "Perfect competition",
+   "Monopolistic competition",
+   "Oligopoly",
+   "Monopoly"
+  ],
+  "optsHi": [
+   "पूर्ण प्रतियोगिता",
+   "एकाधिकारवादी प्रतियोगिता",
+   "अल्पाधिकार",
+   "एकाधिकार"
+  ],
+  "correct": 3,
+  "explainEn": "A monopoly is a market structure characterized by a single seller selling a unique product with no close substitutes.",
+  "sourceHint": "NCERT Class 12 Economics (Microeconomics), Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:55:04Z"
+ },
+ {
+  "id": "q_f09a6740fa0a4601",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which greenhouse gas is primarily emitted from agricultural paddy fields?",
+  "qHi": "कृषि योग्य धान के खेतों से मुख्य रूप से कौन सी ग्रीनहाउस गैस उत्सर्जित होती है?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Methane",
+   "Nitrous oxide",
+   "CFCs"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "मीथेन",
+   "नाइट्रस ऑक्साइड",
+   "सीएफसी"
+  ],
+  "correct": 1,
+  "explainEn": "Anaerobic decomposition of organic matter in flooded paddy fields leads to significant emissions of methane gas.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 16",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:55:04Z"
+ },
+ {
+  "id": "q_6af07e11975d7ece",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In macroeconomics, which measure of money supply includes currency with the public, demand deposits with banks, and 'other deposits' with the RBI?",
+  "qHi": "समष्टि अर्थशास्त्र में, मुद्रा आपूर्ति के किस माप में जनता के पास मुद्रा, बैंकों के पास मांग जमा और आरबीआई के पास 'अन्य जमा' शामिल हैं?",
+  "optsEn": [
+   "M1",
+   "M2",
+   "M3",
+   "M4"
+  ],
+  "optsHi": [
+   "M1",
+   "M2",
+   "M3",
+   "M4"
+  ],
+  "correct": 0,
+  "explainEn": "M1 money supply measure is defined as CU + DD + OD, representing currency with public, demand deposits, and other deposits with RBI.",
+  "sourceHint": "NCERT Class 12 Economics (Macroeconomics), Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:57:54Z"
+ },
+ {
+  "id": "q_916de51cc612556e",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which greenhouse gas is produced naturally through the decay of plant matter and anthropogenically through paddy cultivation and ruminant livestock?",
+  "qHi": "कौन सी ग्रीनहाउस गैस पौधे के पदार्थों के क्षय के माध्यम से प्राकृतिक रूप से और धान की खेती तथा जुगाली करने वाले पशुओं के माध्यम से मानवजनित रूप से उत्पन्न होती है?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Methane",
+   "Nitrous oxide",
+   "Chlorofluorocarbon"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "मीथेन",
+   "नाइट्रस ऑक्साइड",
+   "क्लोरोफ्लोरोकार्बन"
+  ],
+  "correct": 1,
+  "explainEn": "Methane is emitted during anaerobic decomposition of organic matter, wetland agriculture, and enteric fermentation in livestock.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 13 (Ecosystem / Environmental Issues)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:57:54Z"
+ },
+ {
+  "id": "q_feb5ab39e021ea7d",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which British policy introduced in 1793 by Lord Cornwallis fixed the land revenue permanently with the zamindars in Bengal?",
+  "qHi": "लॉर्ड कॉर्नवालिस द्वारा 1793 में शुरू की गई किस ब्रिटिश नीति ने बंगाल में जमींदारों के साथ भू-राजस्व को स्थायी रूप से तय किया था?",
+  "optsEn": [
+   "Ryotwari Settlement",
+   "Mahalwari Settlement",
+   "Permanent Settlement",
+   "Subsidiary Alliance"
+  ],
+  "optsHi": [
+   "रैयतवाड़ी व्यवस्था",
+   "महालवाड़ी व्यवस्था",
+   "स्थायी बंदोबस्त (परमानेंट सेटलमेंट)",
+   "सहायक संधि"
+  ],
+  "correct": 2,
+  "explainEn": "The Permanent Settlement was introduced by Lord Cornwallis in 1793, fixing the revenue demand permanently with zamindars.",
+  "sourceHint": "NCERT Class 12 History (Themes in Indian History Part III), Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:57:54Z"
+ },
+ {
+  "id": "q_6c37c65ec7a7cebc",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which transition metal complex exhibits optical isomerism among the following coordination compounds?",
+  "qHi": "निम्नलिखित समन्वय यौगिकों में से कौन सा संक्रमण धातु परिसर ऑप्टिकल समावयवता प्रदर्शित करता है?",
+  "optsEn": [
+   "[Co(en)3]3+",
+   "[PtCl4]2-",
+   "[Co(NH3)4Cl2]+",
+   "[Ni(CO)4]"
+  ],
+  "optsHi": [
+   "[Co(en)3]3+",
+   "[PtCl4]2-",
+   "[Co(NH3)4Cl2]+",
+   "[Ni(CO)4]"
+  ],
+  "correct": 0,
+  "explainEn": "Octahedral complexes with three symmetrical bidentate ligands, such as [Co(en)3]3+, exist as pair of enantiomers (d and l forms) showing optical isomerism.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 9: Coordination Compounds",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T12:01:01Z"
+ },
+ {
+  "id": "q_9078f9aa6d9746cb",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the order of reaction and molecularity for the decomposition of gaseous hydrogen iodide on a gold surface at high pressure?",
+  "qHi": "उच्च दबाव पर सोने की सतह पर गैसीय हाइड्रोजन आयोडाइड के अपघटन के लिए प्रतिक्रिया की कोटि और आणविकता क्या है?",
+  "optsEn": [
+   "Order 1, Molecularity 2",
+   "Order 0, Molecularity 2",
+   "Order 2, Molecularity 2",
+   "Order 0, Molecularity 1"
+  ],
+  "optsHi": [
+   "कोटि 1, आणविकता 2",
+   "कोटि 0, आणविकता 2",
+   "कोटि 2, आणविकता 2",
+   "कोटि 0, आणविकता 1"
+  ],
+  "correct": 1,
+  "explainEn": "At high pressure, the metal surface gets saturated with reactant molecules making the rate independent of concentration, rendering it a zero-order reaction while its molecularity remains 2.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 4: Chemical Kinetics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T12:01:01Z"
+ },
+ {
+  "id": "q_5c80b8541023a1b1",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which constitutional amendment added Article 21A to the Constitution of India, making elementary education a fundamental right?",
+  "qHi": "किस संवैधानिक संशोधन ने भारत के संविधान में अनुच्छेद 21क जोड़ा, जिससे प्रारंभिक शिक्षा एक मौलिक अधिकार बन गई?",
+  "optsEn": [
+   "42nd Amendment Act, 1976",
+   "44th Amendment Act, 1978",
+   "86th Amendment Act, 2002",
+   "91st Amendment Act, 2003"
+  ],
+  "optsHi": [
+   "42वां संशोधन अधिनियम, 1976",
+   "44वां संशोधन अधिनियम, 1978",
+   "86वां संशोधन अधिनियम, 2002",
+   "91वां संशोधन अधिनियम, 2003"
+  ],
+  "correct": 2,
+  "explainEn": "The Constitution (Eighty-sixth Amendment) Act, 2002 inserted Article 21A to provide free and compulsory education of all children in the age group of six to fourteen years.",
+  "sourceHint": "NCERT Class 12 Political Science, Indian Constitution at Work",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T12:01:01Z"
+ },
+ {
+  "id": "q_9c5fab2a01472dd3",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In a typical microsporangium, which wall layer nourishes the developing pollen grains and is characterized by multinucleated cells with dense cytoplasm?",
+  "qHi": "एक विशिष्ट लघुबीजाणुधानी में, कौन सी भित्ति परत विकसित हो रहे परागकणों को पोषण देती है और घने साइटोप्लाज्म के साथ बहुकेन्द्रकीय कोशिकाओं द्वारा विशेषता रखती है?",
+  "optsEn": [
+   "Epidermis",
+   "Endothecium",
+   "Middle layers",
+   "Tapetum"
+  ],
+  "optsHi": [
+   "अधिचर्म",
+   "अंतःस्थलीय",
+   "मध्य परतें",
+   "टैपीटम"
+  ],
+  "correct": 3,
+  "explainEn": "The tapetum is the innermost microsporangial wall layer that nourishes the developing pollen grains and typically has cells with dense cytoplasm and more than one nucleus.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 2: Sexual Reproduction in Flowering Plants",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T12:01:01Z"
+ },
+ {
+  "id": "q_b661101b736c1bc3",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "According to Keynesian macroeconomics, what does the marginal propensity to consume (MPC) represent?",
+  "qHi": "कीनेशियन समष्टि अर्थशास्त्र के अनुसार, उपभोग की सीमांत प्रवृत्ति (MPC) क्या दर्शाती है?",
+  "optsEn": [
+   "Total consumption divided by total income",
+   "Change in consumption divided by change in income",
+   "Total savings divided by total income",
+   "Change in savings divided by change in income"
+  ],
+  "optsHi": [
+   "कुल उपभोग को कुल आय से विभाजित करना",
+   "उपभोग में परिवर्तन को आय में परिवर्तन से विभाजित करना",
+   "कुल बचत को कुल आय से विभाजित करना",
+   "बचत में परिवर्तन को आय में परिवर्तन से विभाजित करना"
+  ],
+  "correct": 1,
+  "explainEn": "Marginal propensity to consume (MPC) is the ratio of change in consumption (ΔC) to the change in income (ΔY), expressed as MPC = ΔC / ΔY.",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T12:01:01Z"
+ },
+ {
+  "id": "q_b35dcbf4eef992c1",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specialized meristematic tissue is responsible for increasing the girth (secondary growth) of plant stems and roots?",
+  "qHi": "पौधे के तनों और जड़ों की परिधि (द्वितीयक वृद्धि) को बढ़ाने के लिए कौन सा विशिष्ट विभज्योतक ऊतक जिम्मेदार है?",
+  "optsEn": [
+   "Apical meristem",
+   "Intercalary meristem",
+   "Lateral meristem",
+   "Intercalary cambium"
+  ],
+  "optsHi": [
+   "शीर्षस्थ विभज्योतक",
+   "अंतर्विष्ट विभज्योतक",
+   "पार्श्व विभज्योतक",
+   "अंतर्विष्ट कैम्बियम"
+  ],
+  "correct": 2,
+  "explainEn": "Lateral meristems, such as vascular cambium and cork cambium, occur in the mature regions of roots and stems and are responsible for secondary growth, increasing girth.",
+  "sourceHint": "NCERT Class 11/12 Biology, Plant Anatomy",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T12:01:01Z"
+ },
+ {
+  "id": "q_a3b6f9c1d2df97dd",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary function of restriction endonuclease enzymes isolated from bacteria?",
+  "qHi": "बैक्टीरिया से पृथक्कृत प्रतिबंध एंडोन्यूक्लीज एंजाइमों का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "To join two DNA fragments together",
+   "To replicate plasmid DNA inside host cells",
+   "To cleave DNA molecules at specific internal nucleotide sequences",
+   "To synthesize RNA primers on single-stranded DNA"
+  ],
+  "optsHi": [
+   "दो डीएनए खंडों को आपस में जोड़ना",
+   "मेजबान कोशिकाओं के अंदर प्लास्मिड डीएनए की प्रतिकृति बनाना",
+   "विशिष्ट आंतरिक न्यूक्लियोटाइड अनुक्रमों पर डीएनए अणुओं को काटना",
+   "सिंगल-स्ट्रैंडेड डीएनए पर आरएनए प्राइमर का संश्लेषण करना"
+  ],
+  "correct": 2,
+  "explainEn": "Restriction endonucleases inspect the DNA sequence and bind to specific recognition sites to cut the DNA molecule internally, forming an essential tool in recombinant DNA technology.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 11: Biotechnology: Principles and Processes",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T12:01:01Z"
  }
 ]

@@ -10750,5 +10750,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-14T04:58:53Z"
+ },
+ {
+  "id": "q_a4bed16ca3572bf6",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following hormones is responsible for the regulation of blood sugar levels in the human body?",
+  "qHi": "मानव शरीर में रक्त शर्करा के स्तर को नियंत्रित करने के लिए निम्नलिखित में से कौन सा हार्मोन उत्तरदायी है?",
+  "optsEn": [
+   "Thyroxine",
+   "Insulin",
+   "Adrenaline",
+   "Growth hormone"
+  ],
+  "optsHi": [
+   "थाइरॉक्सिन",
+   "इंसुलिन",
+   "एड्रेनालाईन",
+   "वृद्धि हार्मोन"
+  ],
+  "correct": 1,
+  "explainEn": "Insulin is produced by the pancreas and helps regulate blood glucose levels.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 7: Control and Coordination",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:57:37Z"
+ },
+ {
+  "id": "q_0e6890048dcb6c1e",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which mineral resource is primarily extracted from Malanjkhand in Madhya Pradesh?",
+  "qHi": "मध्य प्रदेश के मलाजखंड से मुख्य रूप से किस खनिज संसाधन का उत्खनन किया जाता है?",
+  "optsEn": [
+   "Iron ore",
+   "Copper",
+   "Bauxite",
+   "Manganese"
+  ],
+  "optsHi": [
+   "लोह अयस्क",
+   "तांबा",
+   "बॉक्साइट",
+   "मैंगनीज"
+  ],
+  "correct": 1,
+  "explainEn": "Malanjkhand in Madhya Pradesh is well known for its large reserves of copper ore.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 5: Minerals and Energy Resources",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:57:37Z"
+ },
+ {
+  "id": "q_16663e5feecbd2ac",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which level of government in India possesses the residuary subjects according to the Indian Constitution?",
+  "qHi": "भारतीय संविधान के अनुसार भारत में किस स्तर की सरकार के पास अवशिष्ट विषय हैं?",
+  "optsEn": [
+   "Union Government",
+   "State Governments",
+   "Local Government",
+   "Both Union and State Governments"
+  ],
+  "optsHi": [
+   "केंद्र सरकार",
+   "राज्य सरकारें",
+   "स्थानीय सरकार",
+   "केंद्र और राज्य दोनों सरकारें"
+  ],
+  "correct": 0,
+  "explainEn": "Subjects that do not fall in any of the three lists are called residuary subjects, and the Union Government has the power to legislate on them.",
+  "sourceHint": "NCERT Class 10 Political Science, Chapter 2: Federalism",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:57:37Z"
+ },
+ {
+  "id": "q_96347063dc4ce551",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the phenomenon called when light splits into its component colours while passing through a glass prism?",
+  "qHi": "कांच के प्रिज्म से गुजरते समय प्रकाश का अपने घटक रंगों में विभक्त होने की परिघटना क्या कहलाती है?",
+  "optsEn": [
+   "Reflection",
+   "Dispersion",
+   "Scattering",
+   "Refraction"
+  ],
+  "optsHi": [
+   "परावर्तन",
+   "वर्ण विक्षेपण",
+   "प्रकीर्णन",
+   "अपवर्तन"
+  ],
+  "correct": 1,
+  "explainEn": "The splitting of white light into its constituent colours is known as dispersion of light.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 11: The Human Eye and the Colourful World",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:57:37Z"
+ },
+ {
+  "id": "q_25b16a0d4753ced6",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the famous novel 'Anandamath', which contains the song 'Vande Mataram'?",
+  "qHi": "प्रसिद्ध उपन्यास 'आनंदमठ' के लेखक कौन हैं, जिसमें 'वंदे मातरम्' गीत शामिल है?",
+  "optsEn": [
+   "Rabindranath Tagore",
+   "Bankim Chandra Chattopadhyay",
+   "Sarat Chandra Chattopadhyay",
+   "Premchand"
+  ],
+  "optsHi": [
+   "रवीन्द्रनाथ टैगोर",
+   "बंकिम चंद्र चट्टोपाध्याय",
+   "शरद चंद्र चट्टोपाध्याय",
+   "प्रेमचंद"
+  ],
+  "correct": 1,
+  "explainEn": "Bankim Chandra Chattopadhyay authored Anandamath, published in 1882.",
+  "sourceHint": "NCERT Class 10 History, Chapter 3: Nationalism in India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:57:37Z"
+ },
+ {
+  "id": "q_05c7e7ce20268ebc",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which international body maintains the list of World Heritage Sites?",
+  "qHi": "विश्व धरोहर स्थलों की सूची कौन सा अंतरराष्ट्रीय निकाय तैयार करता है?",
+  "optsEn": [
+   "UNESCO",
+   "WHO",
+   "UNICEF",
+   "WTO"
+  ],
+  "optsHi": [
+   "यूनेस्को",
+   "विश्व स्वास्थ्य संगठन",
+   "यूनिटेक",
+   "विश्व व्यापार संगठन"
+  ],
+  "correct": 0,
+  "explainEn": "UNESCO designates and oversees World Heritage Sites of cultural and natural importance.",
+  "sourceHint": "NCERT Class 10 Social Science textbooks reference",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:57:37Z"
+ },
+ {
+  "id": "q_cb15ceaf6255cb8d",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific constitutional provision empowers the Parliament of India to create a new All India Service common to both the Union and the States?",
+  "qHi": "भारत के संविधान का कौन सा विशिष्ट प्रावधान संसद को संघ और राज्यों दोनों के लिए एक नई अखिल भारतीय सेवा बनाने का अधिकार देता है?",
+  "optsEn": [
+   "Article 312",
+   "Article 356",
+   "Article 249",
+   "Article 368"
+  ],
+  "optsHi": [
+   "अनुच्छेद 312",
+   "अनुच्छेद 356",
+   "अनुच्छेद 249",
+   "अनुच्छेद 368"
+  ],
+  "correct": 0,
+  "explainEn": "Article 312 of the Indian Constitution grants the Rajya Sabha the power to declare that it is necessary in the national interest to create one or more All India Services, enabling Parliament to create them.",
+  "sourceHint": "Indian Polity by M. Laxmikanth / NCERT Political Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T12:00:39Z"
+ },
+ {
+  "id": "q_0beed1430e9092ed",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During which phase of the Indian freedom struggle was the 'Home Rule Movement' formally launched?",
+  "qHi": "भारतीय स्वतंत्रता संग्राम के किस चरण के दौरान 'होम रूल आंदोलन' आधिकारिक रूप से शुरू किया गया था?",
+  "optsEn": [
+   "First World War",
+   "Swadeshi Movement",
+   "Non-Cooperation Movement",
+   "Civil Disobedience Movement"
+  ],
+  "optsHi": [
+   "प्रथम विश्व युद्ध",
+   "स्वदेशी आंदोलन",
+   "असहयोग आंदोलन",
+   "सविनय अवज्ञा आंदोलन"
+  ],
+  "correct": 0,
+  "explainEn": "The Home Rule Movement in India was launched during the First World War (around 1916) by Annie Besant and Bal Gangadhar Tilak, taking advantage of wartime conditions.",
+  "sourceHint": "NCERT Class 10 History - Nationalism in India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T12:00:39Z"
+ },
+ {
+  "id": "q_71c4151e29918cc4",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the process of electrolytic refining of copper, what is used as the cathode?",
+  "qHi": "तांबे के विद्युत अपघटनी परिष्करण की प्रक्रिया में, कैथोड के रूप में किसका उपयोग किया जाता है?",
+  "optsEn": [
+   "A pure copper strip",
+   "An impure copper block",
+   "A carbon rod",
+   "A platinum wire"
+  ],
+  "optsHi": [
+   "एक शुद्ध तांबे की पट्टी",
+   "एक अशुद्ध तांबे का ब्लॉक",
+   "एक कार्बन छड़",
+   "एक प्लैटिनम तार"
+  ],
+  "correct": 0,
+  "explainEn": "In electrolytic refining, a thin strip of pure copper is used as the cathode, while the impure copper block acts as the anode.",
+  "sourceHint": "NCERT Class 10 Science - Chapter 3 (Metals and Non-metals)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T12:00:39Z"
+ },
+ {
+  "id": "q_f0d5aec11b2bd490",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which trophic level in a terrestrial ecosystem typically has the minimum total biomass?",
+  "qHi": "स्थलीय पारिस्थितिकी तंत्र में किस पोषण स्तर पर आमतौर पर न्यूनतम कुल बायोमास होता है?",
+  "optsEn": [
+   "Top carnivores",
+   "Herbivores",
+   "Producers",
+   "Primary carnivores"
+  ],
+  "optsHi": [
+   "शीर्ष मांसाहारी",
+   "शाकाहारी",
+   "उत्पादक",
+   "प्राथमिक मांसाहारी"
+  ],
+  "correct": 0,
+  "explainEn": "According to the ecological pyramid of biomass in most terrestrial ecosystems, biomass decreases from producers at the base to top carnivores at the apex, leaving top carnivores with the minimum biomass.",
+  "sourceHint": "NCERT Class 10 Science - Chapter 15 (Our Environment)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T12:00:39Z"
+ },
+ {
+  "id": "q_6f0c6b351e7c70cf",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which soil type, widely found in the Deccan trap region, is well-known for its capacity to hold moisture?",
+  "qHi": "दक्कन ट्रैप क्षेत्र में व्यापक रूप से पाई जाने वाली कौन सी मिट्टी, नमी बनाए रखने की अपनी क्षमता के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Black soil",
+   "Laterite soil",
+   "Red soil",
+   "Arid soil"
+  ],
+  "optsHi": [
+   "काली मिट्टी",
+   "लैटेराइट मिट्टी",
+   "लाल मिट्टी",
+   "मरुस्थलीय मिट्टी"
+  ],
+  "correct": 0,
+  "explainEn": "Black soil, also known as regur soil, is typical of the Deccan trap region and is made up of lava flows. It is known for its high moisture retention capacity.",
+  "sourceHint": "NCERT Class 10 Geography - Chapter 1 (Resources and Development)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T12:00:39Z"
+ },
+ {
+  "id": "q_189705d845ddb570",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which sector's share in India's Gross Domestic Product (GDP) showed the largest increase over the decades of economic development according to standard economic growth models discussed in schooling?",
+  "qHi": "स्कूली शिक्षा में चर्चा किए गए मानक आर्थिक विकास मॉडल के अनुसार, आर्थिक विकास के दशकों में भारत के सकल घरेलू उत्पाद (GDP) में किस क्षेत्र की हिस्सेदारी में सबसे बड़ी वृद्धि हुई है?",
+  "optsEn": [
+   "Tertiary sector",
+   "Primary sector",
+   "Secondary sector",
+   "Agricultural sector"
+  ],
+  "optsHi": [
+   "तृतीयक क्षेत्र",
+   "प्राथमिक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "कृषि क्षेत्र"
+  ],
+  "correct": 0,
+  "explainEn": "As an economy develops, the tertiary (service) sector generally grows to become the largest contributor to the Gross Domestic Product (GDP), surpassing the primary and secondary sectors.",
+  "sourceHint": "NCERT Class 10 Economics - Chapter 2 (Sectors of the Indian Economy)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T12:00:39Z"
+ },
+ {
+  "id": "q_78415421f032c2ae",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the human eye, which part controls the amount of light entering by adjusting its size?",
+  "qHi": "मानव आँख में, कौन सा भाग अपने आकार को समायोजित करके प्रवेश करने वाले प्रकाश की मात्रा को नियंत्रित करता है?",
+  "optsEn": [
+   "Pupil",
+   "Cornea",
+   "Retina",
+   "Ciliary muscles"
+  ],
+  "optsHi": [
+   "पुतली",
+   "कॉर्निया",
+   "दृष्टि पटल",
+   "सिलिअरी मांसपेशियाँ"
+  ],
+  "correct": 0,
+  "explainEn": "The pupil is a black opening that regulates and controls the amount of light entering the eye with the help of the iris.",
+  "sourceHint": "NCERT Class 10 Science - Chapter 11 (The Human Eye and the Colorful World)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T12:00:39Z"
  }
 ]

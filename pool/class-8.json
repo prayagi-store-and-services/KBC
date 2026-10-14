@@ -7782,5 +7782,537 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-14T04:57:48Z"
+ },
+ {
+  "id": "q_1ff2ef97500f8351",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of microbe is responsible for causing malaria?",
+  "qHi": "मलेरिया रोग फैलाने के लिए किस प्रकार का रोगाणु उत्तरदायी है?",
+  "optsEn": [
+   "Bacteria",
+   "Virus",
+   "Protozoa",
+   "Fungus"
+  ],
+  "optsHi": [
+   "बैक्टीरिया",
+   "वायरस",
+   "प्रोटोजोआ",
+   "कवक"
+  ],
+  "correct": 2,
+  "explainEn": "Malaria is caused by Plasmodium, which is a protozoan.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:54:38Z"
+ },
+ {
+  "id": "q_efbc60def6d2e302",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which metal is stored in kerosene to prevent it from reacting vigorously with air and moisture?",
+  "qHi": "किस धातु को हवा और नमी के साथ तेजी से प्रतिक्रिया करने से रोकने के लिए मिट्टी के तेल में रखा जाता है?",
+  "optsEn": [
+   "Iron",
+   "Copper",
+   "Sodium",
+   "Gold"
+  ],
+  "optsHi": [
+   "लोहा",
+   "तांबा",
+   "सोडियम",
+   "सोना"
+  ],
+  "correct": 2,
+  "explainEn": "Sodium is a very reactive metal that catches fire if kept in open air, so it is stored in kerosene.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:54:38Z"
+ },
+ {
+  "id": "q_2adcdb8c48c26e7d",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What do we call the clearing of forests and using that land for other purposes?",
+  "qHi": "वनों को काटना और उस भूमि का अन्य कार्यों के लिए उपयोग करना क्या कहलाता है?",
+  "optsEn": [
+   "Reforestation",
+   "Deforestation",
+   "Desertification",
+   "Afforestation"
+  ],
+  "optsHi": [
+   "पुनर्वनीकरण",
+   "वनोंन्मूलन (वनों की कटाई)",
+   "मरुस्थलीकरण",
+   "वनारोपण"
+  ],
+  "correct": 1,
+  "explainEn": "Deforestation means clearing of forest land for various other human uses.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:54:38Z"
+ },
+ {
+  "id": "q_e402b1200fa0ec83",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which part of a plant cell provides rigidity and a definite shape to the cell?",
+  "qHi": "पादप कोशिका का कौन सा भाग कोशिका को दृढ़ता और एक निश्चित आकार प्रदान करता है?",
+  "optsEn": [
+   "Cell membrane",
+   "Cell wall",
+   "Nucleus",
+   "Cytoplasm"
+  ],
+  "optsHi": [
+   "कोशिका झिल्ली",
+   "कोशिका भित्ति",
+   "केंद्रक",
+   "कोशिका द्रव्य"
+  ],
+  "correct": 1,
+  "explainEn": "The cell wall is an outer covering in plant cells that gives them shape and rigid support.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:54:38Z"
+ },
+ {
+  "id": "q_9464b8dba7b68ca1",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which non-metal is essential for our life and is inhaled by all living beings during breathing?",
+  "qHi": "कौन सा अधातु हमारे जीवन के लिए आवश्यक है और सांस लेते समय सभी जीव अंदर लेते हैं?",
+  "optsEn": [
+   "Nitrogen",
+   "Oxygen",
+   "Carbon dioxide",
+   "Chlorine"
+  ],
+  "optsHi": [
+   "नाइट्रोजन",
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "क्लोरीन"
+  ],
+  "correct": 1,
+  "explainEn": "Oxygen is an essential non-metal required by living organisms for respiration.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:54:38Z"
+ },
+ {
+  "id": "q_f6022643cf8f0ffa",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following describes the process of transfer of heat through the actual movement of particles in fluids?",
+  "qHi": "तरलों में कणों की वास्तविक गति के माध्यम से ऊष्मा के स्थानांतरण की प्रक्रिया को निम्नलिखित में से क्या कहा जाता है?",
+  "optsEn": [
+   "Conduction",
+   "Convection",
+   "Radiation",
+   "Insulation"
+  ],
+  "optsHi": [
+   "चालन (Conduction)",
+   "संवहन (Convection)",
+   "विकिरण (Radiation)",
+   "रोधन (Insulation)"
+  ],
+  "correct": 1,
+  "explainEn": "Convection is the transfer of heat in liquids and gases by the actual movement of heated particles.",
+  "sourceHint": "NCERT Class 7/8 Science - Heat Chapter",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:57:19Z"
+ },
+ {
+  "id": "q_84743fe25e45c593",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which cell organelle is known as the powerhouse of the cell because it generates chemical energy?",
+  "qHi": "किस कोशिका अंगक को कोशिका का बिजली घर (पावरहाउस) कहा जाता है क्योंकि यह रासायनिक ऊर्जा उत्पन्न करता है?",
+  "optsEn": [
+   "Ribosome",
+   "Chloroplast",
+   "Mitochondria",
+   "Nucleus"
+  ],
+  "optsHi": [
+   "राइबोसोम",
+   "क्लोरोप्लास्ट",
+   "माइटोकॉन्ड्रिया",
+   "केंद्रक"
+  ],
+  "correct": 2,
+  "explainEn": "Mitochondria produce adenosine triphosphate (ATP), which serves as the currency of chemical energy in the cell.",
+  "sourceHint": "NCERT Class 8 Science - Cell Structure and Functions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:57:19Z"
+ },
+ {
+  "id": "q_ed6a5c1445769238",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary gas responsible for global warming and the greenhouse effect?",
+  "qHi": "ग्लोबल वार्मिंग और ग्रीनहाउस प्रभाव के लिए मुख्य रूप से कौन सी गैस उत्तरदायी है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Carbon dioxide traps heat in the atmosphere, contributing significantly to the greenhouse effect.",
+  "sourceHint": "NCERT Class 8 Science - Pollution of Air and Water",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:57:19Z"
+ },
+ {
+  "id": "q_b374bcc327252c72",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which administrative system was introduced by Lord Cornwallis in 1793 to fix land revenue in Bengal?",
+  "qHi": "बंगाल में भू-राजस्व निश्चित करने के लिए 1793 में लॉर्ड कॉर्नवॉलिस द्वारा कौन सी प्रशासनिक व्यवस्था शुरू की गई थी?",
+  "optsEn": [
+   "Ryotwari Settlement",
+   "Mahalwari Settlement",
+   "Permanent Settlement",
+   "Subsidiary Alliance"
+  ],
+  "optsHi": [
+   "रैयतवाड़ी व्यवस्था",
+   "महलवाड़ी व्यवस्था",
+   "स्थाई बंदोबस्त (परमानेंट सेटलमेंट)",
+   "सहायक संधि"
+  ],
+  "correct": 2,
+  "explainEn": "The Permanent Settlement was introduced in 1793 by Lord Cornwallis to collect land revenue in Bengal.",
+  "sourceHint": "NCERT Class 8 History - Ruling the Countryside",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:57:19Z"
+ },
+ {
+  "id": "q_941d3871d11c1b14",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which imaginary line at zero degrees longitude passes through Greenwich near London?",
+  "qHi": "शून्य डिग्री देशांतर पर स्थित कौन सी काल्पनिक रेखा लंदन के पास ग्रीनविच से गुजरती है?",
+  "optsEn": [
+   "Equator",
+   "Prime Meridian",
+   "Tropic of Cancer",
+   "International Date Line"
+  ],
+  "optsHi": [
+   "विषुवत वृत्त (भूमध्य रेखा)",
+   "प्रमुख याम्योत्तर (प्रधान मध्याह्न रेखा)",
+   "कर्क रेखा",
+   "अंतर्राष्ट्रीय तिथि रेखा"
+  ],
+  "correct": 1,
+  "explainEn": "The Prime Meridian is set at 0 degrees longitude and passes through the Royal Observatory in Greenwich, London.",
+  "sourceHint": "NCERT Class 6/8 Geography - Globe: Latitudes and Longitudes",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:57:19Z"
+ },
+ {
+  "id": "q_de2bc2b3b044a8fe",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What term is used in the Indian Constitution to refer to the separation of religion from the state?",
+  "qHi": "भारतीय संविधान में राज्य से धर्म को अलग रखने के लिए किस शब्द का प्रयोग किया जाता है?",
+  "optsEn": [
+   "Democracy",
+   "Secularism",
+   "Federalism",
+   "Republic"
+  ],
+  "optsHi": [
+   "लोकतंत्र",
+   "धर्मनिरपेक्षता (सेक्युलरिज्म)",
+   "संघवाद",
+   "गणराज्य"
+  ],
+  "correct": 1,
+  "explainEn": "Secularism refers to the practice of separating religion from the state and state institutions.",
+  "sourceHint": "NCERT Class 8 Civics - Understanding Secularism",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:57:19Z"
+ },
+ {
+  "id": "q_84fb2a7b7c05151f",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which farming method involves growing a single crop on a very large area using modern machinery and chemical fertilizers?",
+  "qHi": "आधुनिक मशीनरी और रासायनिक उर्वरकों का उपयोग करके बहुत बड़े क्षेत्र में केवल एक ही फसल उगाने की कृषि पद्धति को क्या कहते हैं?",
+  "optsEn": [
+   "Shifting cultivation",
+   "Plantation agriculture",
+   "Nomadic herding",
+   "Subsistence farming"
+  ],
+  "optsHi": [
+   "स्थानांतरित कृषि",
+   "रोपण कृषि (प्लांटेशन)",
+   "घुमंतू पशुचारण",
+   "निर्वहन कृषि"
+  ],
+  "correct": 1,
+  "explainEn": "Plantation agriculture is a type of commercial farming where a single crop of tea, coffee, sugarcane, etc., is grown on a large scale.",
+  "sourceHint": "NCERT Class 8 Geography - Agriculture",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:57:19Z"
+ },
+ {
+  "id": "q_d0b9737ced7874ff",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which microscopic organism is primarily responsible for fixing atmospheric nitrogen into usable compounds in the root nodules of leguminous plants?",
+  "qHi": "लेग्यूमिनस (फलीदार) पौधों की जड़ों की गांठों में वायुमंडलीय नाइट्रोजन को उपयोगी यौगिकों में बदलने के लिए मुख्य रूप से कौन सा सूक्ष्म जीव जिम्मेदार है?",
+  "optsEn": [
+   "Rhizobium",
+   "Lactobacillus",
+   "Penicillium",
+   "Plasmodium"
+  ],
+  "optsHi": [
+   "राइज़ोबियम",
+   "लैक्टोबैसिलस",
+   "पेनिसिलियम",
+   "प्लास्मोडियम"
+  ],
+  "correct": 0,
+  "explainEn": "Rhizobium bacteria live in the root nodules of leguminous plants and fix atmospheric nitrogen into nitrogenous compounds.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 2: Microorganisms: Friend and Foe",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T12:00:15Z"
+ },
+ {
+  "id": "q_efe74f79e1a398e3",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of force is exerted by a charged body on another uncharged or charged body without any physical contact?",
+  "qHi": "किसी आवेशित वस्तु द्वारा किसी अन्य अनावेशित या आवेशित वस्तु पर बिना किसी भौतिक संपर्क के किस प्रकार का बल लगाया जाता है?",
+  "optsEn": [
+   "Electrostatic force",
+   "Muscular force",
+   "Frictional force",
+   "Contact force"
+  ],
+  "optsHi": [
+   "स्थिरवैद्युत बल",
+   "पेशीय बल",
+   "घर्षण बल",
+   "संपर्क बल"
+  ],
+  "correct": 0,
+  "explainEn": "An electrostatic force is an example of a non-contact force where a charged body exerts a force on another body without direct physical touch.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 11: Force and Pressure",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T12:00:15Z"
+ },
+ {
+  "id": "q_e31eae412e2d1270",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During which phase of the cell division process inside a human zygote does the single cell divide to form a multicellular structure?",
+  "qHi": "मानव युग्मनज (जाइगोट) के भीतर कोशिका विभाजन प्रक्रिया के दौरान, एक एकल कोशिका विभाजित होकर बहुकोशिकीय संरचना का निर्माण करती है, इस चरण को क्या कहते हैं?",
+  "optsEn": [
+   "Embryo development",
+   "Metamorphosis",
+   "Binary fission",
+   "Budding"
+  ],
+  "optsHi": [
+   "भ्रूण विकास",
+   "कायांतरण",
+   "द्विआधारी विखंडन",
+   "मुकुलन"
+  ],
+  "correct": 0,
+  "explainEn": "The zygote divides repeatedly to give rise to a ball of cells, which then develops into tissues and organs of the body, forming an embryo.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 9: Reproduction in Animals",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T12:00:15Z"
+ },
+ {
+  "id": "q_639b842ea94a9cc9",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following British Governor-Generals introduced the policy of 'Paramountcy', claiming that British power was supreme in India?",
+  "qHi": "निम्नलिखित में से किस ब्रिटिश गवर्नर-जनरल ने 'सर्वोच्चता' (पैरामाउंटसी) की नीति शुरू की थी, जिसमें दावा किया गया था कि भारत में ब्रिटिश शक्ति सर्वोपरि है?",
+  "optsEn": [
+   "Lord Hastings",
+   "Lord Dalhousie",
+   "Lord Wellesley",
+   "Warren Hastings"
+  ],
+  "optsHi": [
+   "लॉर्ड हेस्टिंग्स",
+   "लॉर्ड डलहौजी",
+   "लॉर्ड वेलेजली",
+   "वॉरेन हेस्टिंग्स"
+  ],
+  "correct": 0,
+  "explainEn": "Under Lord Hastings (Governor-General from 1813 to 1823), a new policy of 'paramountcy' was initiated, declaring that British authority was supreme over Indian states.",
+  "sourceHint": "NCERT Class 8 History, Chapter 2: From Trade to Territory",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T12:00:15Z"
+ },
+ {
+  "id": "q_e4e953e722347c3d",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which tax system introduced by the British in India was primarily associated with the revenue settlement directly made with the cultivators (ryots)?",
+  "qHi": "ब्रिटिश द्वारा भारत में शुरू की गई कौन सी कर प्रणाली मुख्य रूप से सीधे किसानों (रैयतों) के साथ किए गए राजस्व बंदोबस्त से जुड़ी थी?",
+  "optsEn": [
+   "Ryotwari system",
+   "Mahalwari system",
+   "Permanent Settlement",
+   "Subsidiary Alliance"
+  ],
+  "optsHi": [
+   "रैयतवाड़ी व्यवस्था",
+   "महलवाड़ी व्यवस्था",
+   "स्थाई बंदोबस्त",
+   "सहायक संधि"
+  ],
+  "correct": 0,
+  "explainEn": "The Ryotwari system, devised by Captain Alexander Read and developed by Thomas Munro, involved direct revenue settlement with the ryots (cultivators).",
+  "sourceHint": "NCERT Class 8 History, Chapter 3: Ruling the Countryside",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T12:00:15Z"
+ },
+ {
+  "id": "q_96c7a22e9732685f",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which layer of the Earth's interior is composed mainly of nickel and iron, and is commonly referred to as NIFE?",
+  "qHi": "पृथ्वी के आंतरिक भाग की कौन सी परत मुख्य रूप से निकल और लोहे से बनी है, और जिसे आमतौर पर NIFE कहा जाता है?",
+  "optsEn": [
+   "Core",
+   "Mantle",
+   "Crust",
+   "Lithosphere"
+  ],
+  "optsHi": [
+   "क्रोड (कोर)",
+   "मैंटल",
+   "पर्पटी (क्रस्ट)",
+   "स्थलमंडल"
+  ],
+  "correct": 0,
+  "explainEn": "The innermost layer of the Earth is the core, with a radius of about 3500 km, primarily made of nickel and iron and known as nife (ni - nickel and fe - ferrous i.e., iron).",
+  "sourceHint": "NCERT Class 8 Geography, Chapter 3: Our Changing Earth / Interior of the Earth",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T12:00:15Z"
+ },
+ {
+  "id": "q_1d341ed1cd1512d9",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which farming method involves growing different crops in alternate rows and sown at different times to protect the soil from rain wash?",
+  "qHi": "किस कृषि पद्धति में वर्षा के पानी से मिट्टी की रक्षा के लिए विभिन्न फसलों को एकांतर पंक्तियों में और अलग-अलग समय पर उगाया जाता है?",
+  "optsEn": [
+   "Intercropping",
+   "Crop rotation",
+   "Terrace farming",
+   "Contour ploughing"
+  ],
+  "optsHi": [
+   "अंतर फसलन (इंटरक्रॉपिंग)",
+   "फसल चक्र",
+   "सीढ़ीनुमा खेती",
+   "समुच्च रेखीय जुताई"
+  ],
+  "correct": 0,
+  "explainEn": "In intercropping, different crops are grown in alternate rows and sown at different times to protect the soil from being washed away by rain.",
+  "sourceHint": "NCERT Class 8 Geography, Chapter 4: Agriculture",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T12:00:15Z"
  }
 ]

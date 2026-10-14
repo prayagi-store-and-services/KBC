@@ -10526,5 +10526,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-14T04:58:23Z"
+ },
+ {
+  "id": "q_6cedeebc25aa8ca2",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following states is famous for the classical dance form Bharatanatyam?",
+  "qHi": "निम्नलिखित में से कौन सा राज्य भरतनाट्यम शास्त्रीय नृत्य शैली के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Tamil Nadu",
+   "Kerala",
+   "Punjab",
+   "Assam"
+  ],
+  "optsHi": [
+   "तमिलनाडु",
+   "केरल",
+   "पंजाब",
+   "असम"
+  ],
+  "correct": 0,
+  "explainEn": "Bharatanatyam is a major classical dance tradition that originated in the state of Tamil Nadu.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:57:01Z"
+ },
+ {
+  "id": "q_7b80e0d934c411ee",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What do plants take in from the air to perform photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण करने के लिए पौधे हवा से क्या लेते हैं?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Helium"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हीलीयम"
+  ],
+  "correct": 1,
+  "explainEn": "Plants absorb carbon dioxide from the air, along with sunlight and water, to make their food.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:57:01Z"
+ },
+ {
+  "id": "q_2a5477000d876111",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these animals is an insect?",
+  "qHi": "इनमें से कौन सा जानवर एक कीड़ा (कीट) है?",
+  "optsEn": [
+   "Spider",
+   "Earthworm",
+   "Butterfly",
+   "Snail"
+  ],
+  "optsHi": [
+   "मकड़ी",
+   "केंचुआ",
+   "तितली",
+   "घोंघा"
+  ],
+  "correct": 2,
+  "explainEn": "Butterflies belong to the insect group, which typically have three body parts and six legs.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:57:01Z"
+ },
+ {
+  "id": "q_6ff97641dc28b9b5",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these seeds is known to travel using water as a dispersal method?",
+  "qHi": "इनमें से कौन सा बीज पानी द्वारा फैलाव के लिए जाना जाता है?",
+  "optsEn": [
+   "Coconut",
+   "Sunflower",
+   "Maple",
+   "Balsam"
+  ],
+  "optsHi": [
+   "नारियल",
+   "सूरजमुखी",
+   "मैपेल",
+   "बालसम"
+  ],
+  "correct": 0,
+  "explainEn": "Coconut has a fibrous outer covering that helps it float and travel on water.",
+  "sourceHint": "NCERT Class 5 Environmental Studies Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:59:58Z"
+ },
+ {
+  "id": "q_0ec605096b3ec12d",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which animal is famous for having an extraordinary sense of smell and can detect special uniforms?",
+  "qHi": "किस जानवर की सूंघने की शक्ति असाधारण होती है और वह विशेष वर्दी को पहचान सकता है?",
+  "optsEn": [
+   "Dog",
+   "Cow",
+   "Cat",
+   "Frog"
+  ],
+  "optsHi": [
+   "कुत्ता",
+   "गाय",
+   "बिल्ली",
+   "मेंढक"
+  ],
+  "correct": 0,
+  "explainEn": "Dogs have a powerful sense of smell and are used by police and security forces.",
+  "sourceHint": "NCERT Class 5 Environmental Studies Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:59:58Z"
+ },
+ {
+  "id": "q_0ca14b00b234f3c3",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following describes a snake that is venomous in India?",
+  "qHi": "निम्नलिखित में से कौन सा सांप भारत में जहरीला है?",
+  "optsEn": [
+   "Common Krait",
+   "Python",
+   "Rat Snake",
+   "Grass Snake"
+  ],
+  "optsHi": [
+   "कॉमन क्रैयत",
+   "अजगर",
+   "चूहा सांप",
+   "घास सांप"
+  ],
+  "correct": 0,
+  "explainEn": "Common Krait is one of the venomous snakes found in India.",
+  "sourceHint": "NCERT Class 5 Environmental Studies Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:59:58Z"
+ },
+ {
+  "id": "q_bca08097a2ba8dfa",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of mirror is commonly used inside a solar cooker to concentrate sun rays?",
+  "qHi": "सौर कुकर के अंदर सूरज की किरणों को केंद्रित करने के लिए आमतौर पर किस प्रकार के दर्पण का उपयोग किया जाता है?",
+  "optsEn": [
+   "Concave mirror",
+   "Plane mirror",
+   "Convex mirror",
+   "Spherical diverging mirror"
+  ],
+  "optsHi": [
+   "अवतल दर्पण",
+   "समतल दर्पण",
+   "उत्तल दर्पण",
+   "गोलाकार अपसारी दर्पण"
+  ],
+  "correct": 0,
+  "explainEn": "Concave mirrors converge light rays to a point, generating high heat suitable for solar cookers.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:59:58Z"
+ },
+ {
+  "id": "q_d5c3dbc819be9e66",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian stepwell structure is primarily built to store water?",
+  "qHi": "पानी के भंडारण के लिए मुख्य रूप से कौन सी पारंपरिक भारतीय सीढ़ीदार कुएं की संरचना बनाई जाती है?",
+  "optsEn": [
+   "Baoli",
+   "Stupa",
+   "Minar",
+   "Dome"
+  ],
+  "optsHi": [
+   "बावली",
+   "स्तूप",
+   "मीनार",
+   "गुंबद"
+  ],
+  "correct": 0,
+  "explainEn": "Baolis or stepwells were traditionally built to store rainwater and provide access to water.",
+  "sourceHint": "NCERT Class 5 Environmental Studies Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:59:58Z"
+ },
+ {
+  "id": "q_bb74b454e2621379",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What force pulls objects downward towards the center of the Earth?",
+  "qHi": "कौन सा बल वस्तुओं को पृथ्वी के केंद्र की ओर नीचे खींचता है?",
+  "optsEn": [
+   "Gravity",
+   "Friction",
+   "Magnetism",
+   "Muscular force"
+  ],
+  "optsHi": [
+   "गुरुत्वाकर्षण",
+   "घर्षण",
+   "चुंबकत्व",
+   "मांसपेशीय बल"
+  ],
+  "correct": 0,
+  "explainEn": "Gravity is the natural force that attracts objects toward the Earth.",
+  "sourceHint": "NCERT Class 5 Environmental Studies Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:59:58Z"
+ },
+ {
+  "id": "q_667338e34cfd0abb",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which part of the plant absorbs water and minerals from the soil?",
+  "qHi": "पौधे का कौन सा भाग मिट्टी से पानी और खनिज अवशोषित करता है?",
+  "optsEn": [
+   "Root",
+   "Leaf",
+   "Flower",
+   "Stem"
+  ],
+  "optsHi": [
+   "जड़",
+   "पत्ती",
+   "फूल",
+   "तना"
+  ],
+  "correct": 0,
+  "explainEn": "Roots anchor the plant and absorb water and essential minerals from the soil.",
+  "sourceHint": "NCERT Science Curriculum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:59:58Z"
+ },
+ {
+  "id": "q_1598e2e8790d6fe1",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which season in India is typically associated with harvesting crops like wheat?",
+  "qHi": "भारत में आमतौर पर कौन सा मौसम गेहूं जैसी फसलों की कटाई से जुड़ा है?",
+  "optsEn": [
+   "Spring",
+   "Monsoon",
+   "Autumn",
+   "Winter"
+  ],
+  "optsHi": [
+   "वसन्त",
+   "मानसून",
+   "शरद",
+   "सर्दी"
+  ],
+  "correct": 0,
+  "explainEn": "Rabi crops like wheat are harvested in spring, around March and April.",
+  "sourceHint": "NCERT Social Studies Curriculum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:59:58Z"
  }
 ]

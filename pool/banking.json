@@ -12542,5 +12542,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-14T04:58:14Z"
+ },
+ {
+  "id": "q_41cbb256544bc1e3",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum limit of characters in an Indian Financial System Code (IFSC)?",
+  "qHi": "भारतीय वित्तीय प्रणाली कोड (IFSC) में वर्णों की अधिकतम सीमा क्या है?",
+  "optsEn": [
+   "9",
+   "10",
+   "11",
+   "12"
+  ],
+  "optsHi": [
+   "9",
+   "10",
+   "11",
+   "12"
+  ],
+  "correct": 2,
+  "explainEn": "An IFSC is an 11-character alphanumeric code used for electronic fund transfers in India like NEFT and RTGS.",
+  "sourceHint": "Reserve Bank of India Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:56:27Z"
+ },
+ {
+  "id": "q_cb05bc475c22026f",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization regulates the capital market in India?",
+  "qHi": "भारत में पूंजी बाजार को कौन सी संस्था विनियमित करती है?",
+  "optsEn": [
+   "RBI",
+   "SEBI",
+   "NABARD",
+   "IRDAI"
+  ],
+  "optsHi": [
+   "आरबीआई",
+   "सेबी",
+   "नाबार्ड",
+   "इrdai"
+  ],
+  "correct": 1,
+  "explainEn": "The Securities and Exchange Board of India (SEBI) is the regulatory body for securities and capital market in India.",
+  "sourceHint": "SEBI Act, 1992",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:56:27Z"
+ },
+ {
+  "id": "q_1e1fa29365c0b3e1",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of repo rate?",
+  "qHi": "रेपो रेट का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Repurchase Option Rate",
+   "Reserve Position Rate",
+   "Regular Public Rate",
+   "Retail Payment Rate"
+  ],
+  "optsHi": [
+   "रीपरचेज ऑप्शन रेट",
+   "रिजर्व पोजीशन रेट",
+   "रेगुलर पब्लिक रेट",
+   "रिटेल पेमेंट रेट"
+  ],
+  "correct": 0,
+  "explainEn": "Repo rate stands for Repurchase Option Rate, which is the rate at which the central bank lends money to commercial banks.",
+  "sourceHint": "Reserve Bank of India Glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:56:27Z"
+ },
+ {
+  "id": "q_bb427b3d197d5771",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which money market instrument is also known as a zero-coupon bond?",
+  "qHi": "किस मुद्रा बाजार उपकरण को शून्य-कूपन बॉन्ड के रूप में भी जाना जाता है?",
+  "optsEn": [
+   "Certificate of Deposit",
+   "Commercial Paper",
+   "Treasury Bill",
+   "Call Money"
+  ],
+  "optsHi": [
+   "जमा प्रमाणपत्र",
+   "वाणिज्यिक पत्र",
+   "राजकोषीय बिल",
+   "कॉल मनी"
+  ],
+  "correct": 2,
+  "explainEn": "Treasury Bills (T-Bills) are issued at a discount to their face value and redeemed at par, earning them the classification of zero-coupon instruments.",
+  "sourceHint": "RBI FAQs on Money Market Instruments",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:59:25Z"
+ },
+ {
+  "id": "q_eb1cac19e064389c",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum amount of deposit insured by the Deposit Insurance and Credit Guarantee Corporation (DICGC) per depositor per bank?",
+  "qHi": "डिपॉजिट इंश्योरेंस एंड क्रेडिट गारंटी कॉर्पोरेशन (DICGC) द्वारा प्रति बैंक प्रति जमाकर्ता को बीमाकृत जमा की अधिकतम राशि कितनी है?",
+  "optsEn": [
+   "Rupees 1 Lakh",
+   "Rupees 2 Lakhs",
+   "Rupees 5 Lakhs",
+   "Rupees 10 Lakhs"
+  ],
+  "optsHi": [
+   "1 लाख रुपये",
+   "2 लाख रुपये",
+   "5 लाख रुपये",
+   "10 लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "DICGC provides deposit insurance up to a maximum of Rupees 5 Lakhs per depositor per insured bank for both principal and interest combined.",
+  "sourceHint": "DICGC Act and RBI Official Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:59:25Z"
+ },
+ {
+  "id": "q_7ff0141329f31f8d",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India calculates and releases the Index of Industrial Production (IIP) monthly?",
+  "qHi": "भारत में कौन सा संगठन मासिक रूप से औद्योगिक उत्पादन सूचकांक (IIP) की गणना और जारी करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "National Statistical Office",
+   "Securities and Exchange Board of India",
+   "NITI Aayog"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "राष्ट्रीय सांख्यिकी कार्यालय",
+   "भारतीय प्रतिभूति and विनिमय बोर्ड",
+   "नीति आयोग"
+  ],
+  "correct": 1,
+  "explainEn": "The National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation (MoSPI) compiles and publishes the IIP data.",
+  "sourceHint": "Ministry of Statistics and Programme Implementation (MoSPI)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T11:59:25Z"
  }
 ]
