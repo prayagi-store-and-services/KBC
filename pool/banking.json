@@ -12710,5 +12710,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-14T11:59:25Z"
+ },
+ {
+  "id": "q_284c329ef006cb8a",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum limit of digits in a PAN (Permanent Account Number) issued in India?",
+  "qHi": "भारत में जारी किए गए पैन (स्थायी खाता संख्या) में अधिकतम अंकों की सीमा क्या है?",
+  "optsEn": [
+   "10",
+   "12",
+   "14",
+   "16"
+  ],
+  "optsHi": [
+   "10",
+   "12",
+   "14",
+   "16"
+  ],
+  "correct": 0,
+  "explainEn": "PAN is a ten-digit alphanumeric identifier issued by the Income Tax Department of India.",
+  "sourceHint": "Income Tax Department of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:12:20Z"
+ },
+ {
+  "id": "q_8b2481e076ce7e2d",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which type of bank account generally offers no interest on the deposited money?",
+  "qHi": "किस प्रकार के बैंक खाते में आमतौर पर जमा राशि पर कोई ब्याज नहीं मिलता है?",
+  "optsEn": [
+   "Current Account",
+   "Savings Account",
+   "Fixed Deposit Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "चालू खाता",
+   "बचत खाता",
+   "सावधि जमा खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 0,
+  "explainEn": "Current accounts are meant for businesses and commercial transactions, and typically do not pay any interest to the account holder.",
+  "sourceHint": "Indian Banking Concepts",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:12:20Z"
+ },
+ {
+  "id": "q_8e60147e253b105d",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'R' stand for in the abbreviation repo rate?",
+  "qHi": "संक्षिप्त नाम रेपो रेट में 'R' का क्या अर्थ है?",
+  "optsEn": [
+   "Repurchase",
+   "Reserve",
+   "Rediscount",
+   "Retail"
+  ],
+  "optsHi": [
+   "रिपरचेस",
+   "रिजर्व",
+   "रीडिस्काउंट",
+   "रिटेल"
+  ],
+  "correct": 0,
+  "explainEn": "Repo stands for Repurchase Rate, which is the rate at which the central bank lends money to commercial banks.",
+  "sourceHint": "RBI Glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:12:20Z"
+ },
+ {
+  "id": "q_152262adc232c3a9",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque becomes a 'stale cheque' after the completion of how many months from its date of issue?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, जारी होने की तारीख से कितने महीने पूरे होने के बाद एक चेक 'स्टेल चेक' (पुराना चेक) बन जाता है?",
+  "optsEn": [
+   "1 month",
+   "3 months",
+   "6 months",
+   "12 months"
+  ],
+  "optsHi": [
+   "1 महीना",
+   "3 महीने",
+   "6 महीने",
+   "12 महीने"
+  ],
+  "correct": 1,
+  "explainEn": "As per RBI guidelines, the validity period of a cheque was reduced from 6 months to 3 months from the date of issue.",
+  "sourceHint": "RBI Master Circular on Cheque Truncation System",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:13:23Z"
+ },
+ {
+  "id": "q_d29416cb2be05aea",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which market deals with the sale and purchase of short-term debt instruments such as Treasury bills and Commercial paper?",
+  "qHi": "कौन सा बाजार ट्रेजरी बिल और वाणिज्यिक पत्र जैसे अल्पावधि ऋण उपकरणों की खरीद और बिक्री से संबंधित है?",
+  "optsEn": [
+   "Capital Market",
+   "Money Market",
+   "Foreign Exchange Market",
+   "Commodity Market"
+  ],
+  "optsHi": [
+   "पूंजी बाजार",
+   "मुद्रा बाजार",
+   "विदेशी मुद्रा बाजार",
+   "कमोडिटी बाजार"
+  ],
+  "correct": 1,
+  "explainEn": "The money market is a financial market for short-term debt instruments with high liquidity and maturities up to one year.",
+  "sourceHint": "RBI Financial Markets Report",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:13:23Z"
+ },
+ {
+  "id": "q_23684565f2269d7d",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'C' stand for in the acronym 'CASA' account commonly used in banking?",
+  "qHi": "बैंकिंग में आमतौर पर इस्तेमाल होने वाले संक्षिप्त नाम 'CASA' खाते में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Current",
+   "Credit",
+   "Capital",
+   "Collateral"
+  ],
+  "optsHi": [
+   "करेंट",
+   "क्रेडिट",
+   "कैपिटल",
+   "कोलेटरल"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account Savings Account, referring to bank accounts that combine checking and savings features.",
+  "sourceHint": "Banking Terminology Dictionary, RBI",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:13:23Z"
+ },
+ {
+  "id": "q_f6f869503732d375",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization acts as the primary regulator for Regional Rural Banks (RRBs) in India?",
+  "qHi": "कौन सा संगठन भारत में क्षेत्रीय ग्रामीण बैंकों (RRBs) के लिए प्राथमिक नियामक के रूप में कार्य करता है?",
+  "optsEn": [
+   "State Bank of India",
+   "NABARD",
+   "Ministry of Finance",
+   "Reserve Bank of India"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "नाबार्ड",
+   "वित्त मंत्रालय",
+   "भारतीय रिजर्व बैंक"
+  ],
+  "correct": 3,
+  "explainEn": "While NABARD supervises RRBs, the Reserve Bank of India acts as their primary statutory regulator.",
+  "sourceHint": "RBI Act, 1934 and NABARD Act, 1981",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:13:23Z"
  }
 ]

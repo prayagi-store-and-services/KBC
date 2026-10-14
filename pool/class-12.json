@@ -12010,5 +12010,453 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-14T12:01:01Z"
+ },
+ {
+  "id": "q_b95d9470c23e082b",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which economic sector includes agriculture, forestry, and fishing?",
+  "qHi": "किस आर्थिक क्षेत्र में कृषि, वानिकी और मत्स्य पालन शामिल हैं?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Quaternary sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "तृतीयक क्षेत्र",
+   "चतुर्ह क्षेत्र"
+  ],
+  "correct": 0,
+  "explainEn": "The primary sector of the economy extracts or harvests products from the earth, including agriculture, forestry, and fishing.",
+  "sourceHint": "NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:12:05Z"
+ },
+ {
+  "id": "q_a00036db1626a992",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the process of conversion of solid directly into gas called?",
+  "qHi": "ठोस के सीधे गैस में परिवर्तन की प्रक्रिया को क्या कहते हैं?",
+  "optsEn": [
+   "Melting",
+   "Condensation",
+   "Sublimation",
+   "Evaporation"
+  ],
+  "optsHi": [
+   "गलनांक",
+   "संघनन",
+   "ऊर्ध्वपातन",
+   "वाष्पीकरण"
+  ],
+  "correct": 2,
+  "explainEn": "Sublimation is the transition of a substance directly from the solid to the gas state, without passing through the liquid state.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:12:05Z"
+ },
+ {
+  "id": "q_3586c7f6a718b191",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which law of thermodynamics states that the total entropy of an isolated system can never decrease over time?",
+  "qHi": "ऊष्मप्रवैगिकी का कौन सा नियम यह कहता है कि एक विलगित प्रणाली की कुल एन्ट्रापी समय के साथ कभी कम नहीं हो सकती है?",
+  "optsEn": [
+   "Zeroth law",
+   "First law",
+   "Second law",
+   "Third law"
+  ],
+  "optsHi": [
+   "शून्य नियम",
+   "पहला नियम",
+   "दूसरा नियम",
+   "तीसरा नियम"
+  ],
+  "correct": 2,
+  "explainEn": "The second law of thermodynamics establishes the concept of entropy, stating that total entropy of an isolated system always increases for spontaneous processes.",
+  "sourceHint": "NCERT Class 11 Physics, Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:13:06Z"
+ },
+ {
+  "id": "q_1a3c968902ab1c31",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the hybridization of the carbon atoms in graphite?",
+  "qHi": "ग्रेफाइट में कार्बन परमाणुओं का संकरण (hybridization) क्या है?",
+  "optsEn": [
+   "sp",
+   "sp2",
+   "sp3",
+   "sp3d"
+  ],
+  "optsHi": [
+   "sp",
+   "sp2",
+   "sp3",
+   "sp3d"
+  ],
+  "correct": 1,
+  "explainEn": "In graphite, each carbon atom is covalently bonded to three other carbon atoms, resulting in a trigonal planar geometry and sp2 hybridization.",
+  "sourceHint": "NCERT Class 11 Chemistry, Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:13:06Z"
+ },
+ {
+  "id": "q_f4a48ba5c7fcdc86",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In an economic context, what does a Lorenz curve graphically represent?",
+  "qHi": "आर्थिक संदर्भ में, लॉरेंज वक्र (Lorenz curve) ग्राफिक रूप से क्या दर्शाता है?",
+  "optsEn": [
+   "Inflation rate over time",
+   "Income or wealth inequality",
+   "Demand and supply equilibrium",
+   "Unemployment distribution"
+  ],
+  "optsHi": [
+   "समय के साथ मुद्रास्फीति दर",
+   "आय या धन की असमानता",
+   "मांग और आपूर्ति संतुलन",
+   "बेरोजगारी का वितरण"
+  ],
+  "correct": 1,
+  "explainEn": "The Lorenz curve is a graphical representation of the distribution of income or of wealth within a population.",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:13:06Z"
+ },
+ {
+  "id": "q_2b45a6f635f721ed",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which historical site is associated with the dockyard discovery belonging to the Indus Valley Civilization?",
+  "qHi": "सिंधु घाटी सभ्यता से संबंधित गोदीवाड़ा (dockyard) की खोज किस ऐतिहासिक स्थल से जुड़ी है?",
+  "optsEn": [
+   "Harappa",
+   "Mohenjo-daro",
+   "Lothal",
+   "Kalibangan"
+  ],
+  "optsHi": [
+   "हड़प्पा",
+   "मोहनजोदड़ो",
+   "लोथल",
+   "कालीबंगा"
+  ],
+  "correct": 2,
+  "explainEn": "Lothal in Gujarat features a massive tidal dockyard, which archaeologists associate with maritime trade in the Indus Valley Civilization.",
+  "sourceHint": "NCERT Class 12 History, Theme 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:13:06Z"
+ },
+ {
+  "id": "q_e0b647fd9814dac6",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of semiconductor is formed when silicon is doped with Group 15 elements like phosphorus?",
+  "qHi": "जब सिलिकॉन को फॉस्फोरस जैसे समूह 15 के तत्वों के साथ डोप किया जाता है, तो किस प्रकार का अर्धचालक बनता है?",
+  "optsEn": [
+   "p-type semiconductor",
+   "n-type semiconductor",
+   "Intrinsic semiconductor",
+   "Superconductor"
+  ],
+  "optsHi": [
+   "पी-प्रकार अर्धचालक",
+   "एन-प्रकार अर्धचालक",
+   "आंतरिक अर्धचालक",
+   "अतिचालक"
+  ],
+  "correct": 1,
+  "explainEn": "Doping silicon (Group 14) with a Group 15 element introduces extra electrons, creating an n-type semiconductor.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:13:06Z"
+ },
+ {
+  "id": "q_df46855db6df3598",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which gland in the human body is known for regressing in size as a person ages?",
+  "qHi": "मानव शरीर की किस ग्रंथि को व्यक्ति की आयु बढ़ने के साथ आकार में छोटा होने के लिए जाना जाता है?",
+  "optsEn": [
+   "Thyroid gland",
+   "Pituitary gland",
+   "Thymus gland",
+   "Adrenal gland"
+  ],
+  "optsHi": [
+   "थायरॉयड ग्रंथि",
+   "पीयूष ग्रंथि",
+   "थाइमस ग्रंथि",
+   "अधिवृक्क ग्रंथि"
+  ],
+  "correct": 2,
+  "explainEn": "The thymus gland plays a crucial role in T-cell maturation and undergoes significant involution or shrinking after puberty.",
+  "sourceHint": "NCERT Class 11 Biology, Chapter 22",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:13:06Z"
+ },
+ {
+  "id": "q_363c037c07d2b022",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of international organizations, which principal organ of the United Nations is the only one with no permanent members?",
+  "qHi": "अंतर्राष्ट्रीय संगठनों کے સંદર્භ में, संयुक्त राष्ट्र کا کون سا اہم ترین अंग ہے جس کا کوئی مستقل رکن نہیں ہے؟",
+  "optsEn": [
+   "General Assembly",
+   "Security Council",
+   "International Court of Justice",
+   "Secretariat"
+  ],
+  "optsHi": [
+   "महासभा",
+   "सुरक्षा परिषद",
+   "अंतर्राष्ट्रीय न्यायालय",
+   "सचिवालय"
+  ],
+  "correct": 0,
+  "explainEn": "The UN General Assembly comprises all member states, each having one vote, and has no permanent members unlike the Security Council.",
+  "sourceHint": "NCERT Class 12 Political Science - Contemporary World Politics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:14:11Z"
+ },
+ {
+  "id": "q_9ab10c0ab8c585ec",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific constitutional amendment act in India lowered the voting age from 21 years to 18 years?",
+  "qHi": "भारत में किस विशिष्ट संविधान संशोधन अधिनियम द्वारा मतदान की आयु 21 वर्ष से घटाकर 18 वर्ष कर दी गई थी?",
+  "optsEn": [
+   "42nd Amendment Act",
+   "44th Amendment Act",
+   "61st Amendment Act",
+   "73rd Amendment Act"
+  ],
+  "optsHi": [
+   "42वां संशोधन अधिनियम",
+   "44वां संशोधन अधिनियम",
+   "61वां संशोधन अधिनियम",
+   "73वां संशोधन अधिनियम"
+  ],
+  "correct": 2,
+  "explainEn": "The 61st Constitutional Amendment Act of 1988 lowered the voting age for elections to the Lok Sabha and Legislative Assemblies of States from 21 years to 18 years.",
+  "sourceHint": "NCERT Class 12 Political Science - Indian Politics Since Independence",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:14:11Z"
+ },
+ {
+  "id": "q_3f6f682fe41802cb",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What was the primary objective of the Second Five Year Plan in independent India, formulated under the leadership of P. C. Mahalanobis?",
+  "qHi": "स्वतंत्र भारत में पी. सी. महालनोबिस के नेतृत्व में तैयार की गई दूसरी पंचवर्षीय योजना का प्राथमिक उद्देश्य क्या था?",
+  "optsEn": [
+   "Agricultural self-sufficiency",
+   "Rapid industrialization focusing on heavy industries",
+   "Eradication of absolute poverty",
+   "Universal primary education"
+  ],
+  "optsHi": [
+   "कृषि में आत्मनिर्भरता",
+   "भारी उद्योगों पर ध्यान केंद्रित करते हुए तीव्र औद्योगिकीकरण",
+   "पूर्ण गरीबी का उन्मूलन",
+   "सार्वभौमिक प्राथमिक शिक्षा"
+  ],
+  "correct": 1,
+  "explainEn": "The Second Five Year Plan (1956-1961) stressed heavy industries and was based on the Mahalanobis model, aiming at rapid industrialization.",
+  "sourceHint": "NCERT Class 12 Political Science - Politics of Planned Development",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:14:11Z"
+ },
+ {
+  "id": "q_9786246c5cb7daca",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In macroeconomics, which of the following represents the total stock of money in circulation among the public at a particular point in time?",
+  "qHi": "समष्टि अर्थशास्त्र में, निम्नलिखित में से कौन सा एक विशिष्ट समय बिंदु पर जनता के बीच प्रचलन में मुद्रा के कुल स्टॉक का प्रतिनिधित्व करता है?",
+  "optsEn": [
+   "Flow variable",
+   "Stock variable",
+   "Budget deficit",
+   "Fiscal surplus"
+  ],
+  "optsHi": [
+   "प्रवाह चर",
+   "स्टॉक चर",
+   "बजट घाटा",
+   "राजकोषीय अधिशेष"
+  ],
+  "correct": 1,
+  "explainEn": "Money supply is measured at a particular point in time, making it a stock variable rather than a flow variable which is measured over a period.",
+  "sourceHint": "NCERT Class 12 Economics - Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:14:11Z"
+ },
+ {
+  "id": "q_fd8d933775f2063a",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which enzyme is primarily responsible for the replication of DNA strands by adding nucleotides exclusively in the 5' to 3' direction?",
+  "qHi": "कौन सा एंजाइम मुख्य रूप से न्यूक्लियोटाइड को केवल 5' से 3' दिशा में जोड़कर डीएनए स्ट्रैंड्स की प्रतिकृति के लिए जिम्मेदार है?",
+  "optsEn": [
+   "RNA polymerase",
+   "DNA ligase",
+   "DNA polymerase",
+   "Restriction endonuclease"
+  ],
+  "optsHi": [
+   "आरएनए पोलीमरेज़",
+   "डीएनए लाइगेज़",
+   "डीएनए पोलीमरेज़",
+   "रिस्ट्रिक्शन एंडोन्यूक्लीज"
+  ],
+  "correct": 2,
+  "explainEn": "DNA polymerases catalyze the synthesis of DNA by adding nucleotides to the 3' end of a DNA strand, synthesizing exclusively in the 5' to 3' direction.",
+  "sourceHint": "NCERT Class 12 Biology - Molecular Basis of Inheritance",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:14:11Z"
+ },
+ {
+  "id": "q_bc48b250cb7aebd8",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In haloalkanes, under which specific reaction mechanism do tertiary alkyl halides predominantly undergo nucleophilic substitution?",
+  "qHi": "हैलोएल्केन में, तृतीयक एल्काइल हैलाइड मुख्य रूप से किस विशिष्ट प्रतिक्रिया तंत्र के तहत न्यूक्लियोफिलिक प्रतिस्थापन से गुजरते हैं?",
+  "optsEn": [
+   "SN1 mechanism",
+   "SN2 mechanism",
+   "E1cb mechanism",
+   "Free radical substitution"
+  ],
+  "optsHi": [
+   "SN1 तंत्र",
+   "SN2 तंत्र",
+   "E1cb तंत्र",
+   "मुक्त मूलक प्रतिस्थापन"
+  ],
+  "correct": 0,
+  "explainEn": "Tertiary alkyl halides undergo nucleophilic substitution primarily via the SN1 mechanism due to the high stability of the formed tertiary carbocation.",
+  "sourceHint": "NCERT Class 12 Chemistry - Haloalkanes and Haloarenes",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:14:11Z"
+ },
+ {
+  "id": "q_e2a5a22f12fbfbac",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian princely state was integrated into the Indian Union through a military operation named 'Operation Polo' in September 1948?",
+  "qHi": "सितंबर 1948 में 'ऑपरेशन पोलो' नामक सैन्य अभियान के माध्यम से किस भारतीय रियासत को भारतीय संघ में एकीकृत किया गया था?",
+  "optsEn": [
+   "Junagadh",
+   "Kashmir",
+   "Hyderabad",
+   "Travancore"
+  ],
+  "optsHi": [
+   "जूनागढ़",
+   "कश्मीर",
+   "हैदराबाद",
+   "त्रावणकोर"
+  ],
+  "correct": 2,
+  "explainEn": "Hyderabad was integrated into India following a police action codenamed Operation Polo conducted by the Indian Army in September 1948.",
+  "sourceHint": "NCERT Class 12 Political Science - Challenges of Nation Building",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:14:11Z"
+ },
+ {
+  "id": "q_6ec1241eeeffffc0",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What term is used in computing and networking to describe malicious software that masquerades as legitimate software to deceive users?",
+  "qHi": "कंप्यूटिंग और नेटवर्किंग में उस मैलवेयर का वर्णन करने के लिए किस शब्द का उपयोग किया जाता है जो उपयोगकर्ताओं को धोखा देने के लिए वैध सॉफ्टवेयर का रूप धारण करता है?",
+  "optsEn": [
+   "Computer Worm",
+   "Trojan Horse",
+   "Logic Bomb",
+   "Spyware"
+  ],
+  "optsHi": [
+   "कंप्यूटर वर्म",
+   "ट्रोजन हॉर्स",
+   "लॉजिक बॉम्ब",
+   "स्पाइवेयर"
+  ],
+  "correct": 1,
+  "explainEn": "A Trojan Horse is a type of malicious code or software that looks legitimate but takes control of a computer once installed, deceiving users.",
+  "sourceHint": "NCERT Class 12 Computer Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:14:11Z"
  }
 ]

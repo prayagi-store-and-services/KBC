@@ -11114,5 +11114,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-14T12:00:39Z"
+ },
+ {
+  "id": "q_15aa15108ed3f3d4",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following non-metals is a liquid at room temperature?",
+  "qHi": "निम्नलिखित में से कौन सी अधातु कमरे के तापमान पर तरल होती है?",
+  "optsEn": [
+   "Carbon",
+   "Bromine",
+   "Iodine",
+   "Sulphur"
+  ],
+  "optsHi": [
+   "कार्बन",
+   "ब्रोमीन",
+   "आयोडीन",
+   "सल्फर"
+  ],
+  "correct": 1,
+  "explainEn": "Bromine is the only non-metal that exists as a liquid at room temperature.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:12:00Z"
+ },
+ {
+  "id": "q_4ad33d193030b823",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the human digestive system, which part is primarily responsible for the complete digestion of carbohydrates, proteins, and fats?",
+  "qHi": "मानव पाचन तंत्र में, कार्बोहाइड्रेट, प्रोटीन और वसा के पूर्ण पाचन के लिए मुख्य रूप से कौन सा भाग उत्तरदायी है?",
+  "optsEn": [
+   "Stomach",
+   "Small intestine",
+   "Large intestine",
+   "Oesophagus"
+  ],
+  "optsHi": [
+   "अमाशय",
+   "छोटी आंत",
+   "बड़ी आंत",
+   "ग्रसिका"
+  ],
+  "correct": 1,
+  "explainEn": "The small intestine is the site of complete digestion of carbohydrates, proteins, and fats due to secretions from the liver and pancreas.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:13:00Z"
+ },
+ {
+  "id": "q_6e9974a7bcd40126",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which soil type is formed by the deposition of silt brought down by rivers, particularly found in the northern plains of India?",
+  "qHi": "नदियों द्वारा बहाकर लाई गई गाद के निक्षेपण से कौन सी मिट्टी बनती है, जो विशेष रूप से भारत के उत्तरी मैदानों में पाई जाती है?",
+  "optsEn": [
+   "Black soil",
+   "Laterite soil",
+   "Alluvial soil",
+   "Arid soil"
+  ],
+  "optsHi": [
+   "काली मिट्टी",
+   "लैटेराइट मिट्टी",
+   "जलोढ़ मिट्टी",
+   "मरुस्थलीय मिट्टी"
+  ],
+  "correct": 2,
+  "explainEn": "Alluvial soils are widespread northern plains, formed by depositional work of Himalayan rivers like the Ganga, Brahmaputra, and Indus.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:13:00Z"
+ },
+ {
+  "id": "q_811d9f1ccba39a5b",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the basic objective behind the formation of Self-Help Groups (SHGs) in rural areas?",
+  "qHi": "ग्रामीण क्षेत्रों में स्वयं सहायता समूहों (SHGs) के गठन के पीछे मुख्य उद्देश्य क्या है?",
+  "optsEn": [
+   "To provide political leadership",
+   "To organize rural poor, particularly women, to pool savings and access credit",
+   "To manage large government industries",
+   "To regulate foreign trade policies"
+  ],
+  "optsHi": [
+   "राजनीतिक नेतृत्व प्रदान करना",
+   "ग्रामीण गरीबों, विशेषकर महिलाओं को संगठित करके बचत करना और ऋण प्राप्त करना",
+   "बड़े सरकारी उद्योगों का प्रबंधन करना",
+   "विदेशी व्यापार नीतियों को विनियमित करना"
+  ],
+  "correct": 1,
+  "explainEn": "SHGs are formed to organize rural poor, especially women, enabling them to pool their savings and access micro-loans without collateral.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:13:00Z"
+ },
+ {
+  "id": "q_d07e1b97d4ba61bb",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which movement in India successfully used the method of hugging trees to prevent them from being cut down by contractors in the Himalayan region?",
+  "qHi": "भारत में किस आंदोलन ने हिमालयी क्षेत्र में ठेकेदारों द्वारा पेड़ों को काटे जाने से रोकने के लिए पेड़ों से लिपट जाने की पद्धति का सफलतापूर्वक उपयोग किया था?",
+  "optsEn": [
+   "Narmada Bachao Andolan",
+   "Chipko Movement",
+   "Appiko Movement",
+   "Silent Valley Movement"
+  ],
+  "optsHi": [
+   "नर्मदा बचाओ आंदोलन",
+   "चिपको आंदोलन",
+   "अपिको आंदोलन",
+   "साइलेंट वैली आंदोलन"
+  ],
+  "correct": 1,
+  "explainEn": "The Chipko movement began in the early 1970s in the Garhwal Himalayas where villagers hugged trees to protect them from being felled.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 16",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:13:00Z"
+ },
+ {
+  "id": "q_143d77777691db20",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which constitutional amendment added the Fundamental Duties to the Indian Constitution, upon the recommendation of the Swaran Singh Committee?",
+  "qHi": "किस संवैधानिक संशोधन द्वारा स्वर्ण सिंह समिति की सिफारिश पर भारतीय संविधान में मौलिक कर्तव्य जोड़े गए थे?",
+  "optsEn": [
+   "42nd Amendment",
+   "44th Amendment",
+   "86th Amendment",
+   "73rd Amendment"
+  ],
+  "optsHi": [
+   "42वां संशोधन",
+   "44वां संशोधन",
+   "86वां संशोधन",
+   "73वां संशोधन"
+  ],
+  "correct": 0,
+  "explainEn": "The 42nd Amendment Act of 1976 added Article 51A, creating Part IVA of the Constitution, which contains the Fundamental Duties.",
+  "sourceHint": "NCERT Class 10 Political Science (Democratic Politics)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:14:05Z"
+ },
+ {
+  "id": "q_aec26e4839a6c98d",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the process of electrolytic refining of copper, where is the impure copper metal placed in the electrolytic cell?",
+  "qHi": "तांबे के विद्युत अपघटनी परिष्करण की प्रक्रिया में, अशुद्ध तांबे की धातु को विद्युत अपघटनी सेल में कहाँ रखा जाता है?",
+  "optsEn": [
+   "Anode",
+   "Cathode",
+   "Electrolyte solution",
+   "Salt bridge"
+  ],
+  "optsHi": [
+   "एनोड (धन ध्रुव)",
+   "कैथोड (ऋण ध्रुव)",
+   "विद्युत अपघट्य विलयन",
+   "लवण सेतु"
+  ],
+  "correct": 0,
+  "explainEn": "During electrolytic refining of metals like copper, the impure metal is made the anode, and a strip of pure metal is made the cathode.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:14:05Z"
+ },
+ {
+  "id": "q_5d513736c791e6d6",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which plant hormone is primarily responsible for the cell elongation and bending of a plant shoot towards light?",
+  "qHi": "कौन सा पादप हार्मोन मुख्य रूप से कोशिका की लंबाई बढ़ाने और पौधे के प्ररोह (shoot) को प्रकाश की ओर मोड़ने के लिए उत्तरदायी है?",
+  "optsEn": [
+   "Auxin",
+   "Cytokinin",
+   "Gibberellin",
+   "Abscisic acid"
+  ],
+  "optsHi": [
+   "ऑक्साइन",
+   "साइटोकिनिन",
+   "जिबरेलिन",
+   "एब्सिसिक अम्ल"
+  ],
+  "correct": 0,
+  "explainEn": "Auxin is synthesized at the shoot tip and helps the cells grow longer; it accumulates on the shaded side, causing phototropism.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:14:05Z"
+ },
+ {
+  "id": "q_ff84b509f57d4913",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which sector had the largest share in India's Gross Domestic Product (GDP) in the year 2020-21?",
+  "qHi": "वर्ष 2020-21 में भारत के सकल घरेलू उत्पाद (GDP) में सबसे बड़ा हिस्सा किस क्षेत्र का था?",
+  "optsEn": [
+   "Tertiary sector",
+   "Primary sector",
+   "Secondary sector",
+   "Quaternary sector"
+  ],
+  "optsHi": [
+   "तृतीयक क्षेत्र",
+   "प्राथमिक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "चतुर्थक क्षेत्र"
+  ],
+  "correct": 0,
+  "explainEn": "The tertiary sector (service sector) generates the largest share of India's GDP, overtaking primary and secondary sectors in recent decades.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:14:05Z"
+ },
+ {
+  "id": "q_8fcb2a3fbc635a4c",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In a human eye, what controls the amount of light entering the eye by adjusting its size?",
+  "qHi": "मानव नेत्र में, इसके आकार को समायोजित करके नेत्र में प्रवेश करने वाले प्रकाश की मात्रा को कौन नियंत्रित करता है?",
+  "optsEn": [
+   "Iris",
+   "Cornea",
+   "Retina",
+   "Ciliary muscles"
+  ],
+  "optsHi": [
+   "परितारिका (आइरिस)",
+   "कॉर्निया",
+   "दृष्टि पटल (रेटिना)",
+   "पक्षाभ पेशियाँ"
+  ],
+  "correct": 0,
+  "explainEn": "The iris is a dark muscular diaphragm that controls the size of the pupil, thereby regulating the amount of light entering the eye.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:14:05Z"
+ },
+ {
+  "id": "q_d138a502934d8c12",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "The famous painting 'Bharat Mata' was originally created by which Indian artist during the Swadeshi movement?",
+  "qHi": "प्रसिद्ध चित्र 'भारत माता' मूल रूप से स्वदेशी आंदोलन के दौरान किस भारतीय कलाकार द्वारा बनाया गया था?",
+  "optsEn": [
+   "Abanindranath Tagore",
+   "Raja Ravi Varma",
+   "Nandalal Bose",
+   "Jamini Roy"
+  ],
+  "optsHi": [
+   "अनीन्द्रनाथ टैगोर",
+   "राजा रवि वर्मा",
+   "नंदलाल बोस",
+   "यामिनी राय"
+  ],
+  "correct": 0,
+  "explainEn": "Abanindranath Tagore painted Bharat Mata in 1905, portraying her as an ascetic figure dispensing learning, food, and clothing.",
+  "sourceHint": "NCERT Class 10 History, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:14:05Z"
+ },
+ {
+  "id": "q_dd40693934607652",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which soil type, formed due to intense leaching in tropical regions with high temperature and heavy rainfall, is generally not suitable for cultivation?",
+  "qHi": "उच्च तापमान और भारी वर्षा वाले उष्णकटिबंधीय क्षेत्रों में तीव्र निक्षालन (leaching) के कारण बनने वाली कौन सी मिट्टी आमतौर पर खेती के लिए उपयुक्त नहीं होती है?",
+  "optsEn": [
+   "Laterite soil",
+   "Alluvial soil",
+   "Black soil",
+   "Arid soil"
+  ],
+  "optsHi": [
+   "लेटराइट मिट्टी",
+   "जलोढ़ मिट्टी",
+   "काली मिट्टी",
+   "मरुस्थलीय मिट्टी"
+  ],
+  "correct": 0,
+  "explainEn": "Laterite soils develop in areas with high temperature and heavy rainfall, resulting in heavy leaching which makes them acidic and poor in humus.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:14:05Z"
+ },
+ {
+  "id": "q_7e848aa8a709dfce",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the common name of the chemical compound calcium sulphate hemihydrate?",
+  "qHi": "रासायनिक यौगिक कैल्शियम सल्फेट हेमीहाइड्रेट का सामान्य नाम क्या है?",
+  "optsEn": [
+   "Plaster of Paris",
+   "Bleaching powder",
+   "Washing soda",
+   "Baking soda"
+  ],
+  "optsHi": [
+   "प्लास्टर ऑफ पेरिस",
+   "ब्लीचिंग पाउडर",
+   "धोने का सोडा",
+   "बेकिंग सोडा"
+  ],
+  "correct": 0,
+  "explainEn": "Plaster of Paris is chemically calcium sulphate hemihydrate (CaSO4·1/2H2O), obtained by heating gypsum.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:14:05Z"
  }
 ]

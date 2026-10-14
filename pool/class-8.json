@@ -8314,5 +8314,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-14T12:00:15Z"
+ },
+ {
+  "id": "q_3c4835bbb4071608",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which invisible force pulls objects towards the centre of the Earth?",
+  "qHi": "कौन सा अदृश्य बल वस्तुओं को पृथ्वी के केंद्र की ओर खींचता है?",
+  "optsEn": [
+   "Friction force",
+   "Magnetic force",
+   "Electrostatic force",
+   "Gravitational force"
+  ],
+  "optsHi": [
+   "घर्षण बल",
+   "चुंबकीय बल",
+   "स्थिरवैद्युत बल",
+   "गुरुत्वाकर्षण बल"
+  ],
+  "correct": 3,
+  "explainEn": "Gravity is the force of attraction between any two bodies having mass, pulling objects toward Earth.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:12:34Z"
+ },
+ {
+  "id": "q_bf8783e5e21defae",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which synthetic fibre is commonly known as artificial silk?",
+  "qHi": "किस सिंथेटिक फाइबर को आमतौर पर कृत्रिम रेशम (आर्टिफिशियल सिल्क) के रूप में जाना जाता है?",
+  "optsEn": [
+   "Nylon",
+   "Polyester",
+   "Rayon",
+   "Acrylic"
+  ],
+  "optsHi": [
+   "नायलॉन",
+   "पॉलिएस्टर",
+   "रेयान",
+   "एक्रेलिक"
+  ],
+  "correct": 2,
+  "explainEn": "Rayon is obtained from wood pulp and has properties similar to that of silk, hence called artificial silk.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:12:34Z"
+ },
+ {
+  "id": "q_48fe1c8d0e3e6748",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following describes the process of setting free of wastewater before it is released into water bodies?",
+  "qHi": "जल निकायों में छोड़े जाने से पहले गंदे पानी को साफ करने की प्रक्रिया को इनमें से क्या कहा जाता है?",
+  "optsEn": [
+   "Rainwater harvesting",
+   "Sewage treatment",
+   "Aqueduct maintenance",
+   "Desalination"
+  ],
+  "optsHi": [
+   "वर्षा जल संचयन",
+   "वाहित मल उपचार",
+   "जलसेतु रखरखाव",
+   "लवनीकरण"
+  ],
+  "correct": 1,
+  "explainEn": "Wastewater is cleaned in a sewage treatment plant (STP) before being released into water bodies to reduce pollution.",
+  "sourceHint": "NCERT Class 8 Science Chapter 18: Wastewater Story",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:13:38Z"
+ },
+ {
+  "id": "q_58bd5e9b8c117335",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which imaginary line at 0 degrees longitude is also known as the Prime Meridian?",
+  "qHi": "0 degree देशांतर पर स्थित किस काल्पनिक रेखा को प्रमुख याम्योत्तर (Prime Meridian) भी कहा जाता है?",
+  "optsEn": [
+   "Equator",
+   "Tropic of Cancer",
+   "Greenwich Meridian",
+   "International Date Line"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा",
+   "कर्क रेखा",
+   "ग्रीनविच याम्योत्तर",
+   "अंतर्राष्ट्रीय तिथि रेखा"
+  ],
+  "correct": 2,
+  "explainEn": "The Prime Meridian passes through Greenwich, London, and is set at 0 degrees longitude.",
+  "sourceHint": "NCERT Class 8 Geography Chapter 2: Globe: Latitudes and Longitudes",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:13:38Z"
+ },
+ {
+  "id": "q_26b17b56bb1de7df",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which type of agriculture are crops grown and animals reared mainly to meet the family's basic needs?",
+  "qHi": "किस प्रकार की कृषि में मुख्य रूप से परिवार की बुनियादी जरूरतों को पूरा करने के लिए फसलें उगाई जाती हैं और पशु पाले जाते हैं?",
+  "optsEn": [
+   "Commercial agriculture",
+   "Subsistence agriculture",
+   "Plantation agriculture",
+   "Extensive agriculture"
+  ],
+  "optsHi": [
+   "वाणिज्यिक कृषि",
+   "निर्वाह कृषि",
+   "रोपण कृषि",
+   "विस्तृत कृषि"
+  ],
+  "correct": 1,
+  "explainEn": "Subsistence farming is practiced to meet the needs of the farmer's family rather than for sale in the market.",
+  "sourceHint": "NCERT Class 8 Geography Chapter 4: Agriculture",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:13:38Z"
+ },
+ {
+  "id": "q_5354c813345eb469",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the name of the reproductive cell formed by the fusion of a male gamete and a female gamete?",
+  "qHi": "नर युग्मक और मादा युग्मक के संलयन से बनने वाली कोशिका का नाम क्या है?",
+  "optsEn": [
+   "Zygote",
+   "Foetus",
+   "Embryo",
+   "Ovum"
+  ],
+  "optsHi": [
+   "युग्मज (Zygote)",
+   "भ्रूण (Foetus)",
+   "भ्रूण (Embryo)",
+   "अंडाणु"
+  ],
+  "correct": 0,
+  "explainEn": "The fusion of sperm and egg results in the formation of a single cell called a zygote.",
+  "sourceHint": "NCERT Class 8 Science Chapter 9: Reproduction in Animals",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:13:38Z"
+ },
+ {
+  "id": "q_d3c982b44aa9dc93",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "During the British rule in India, what was the primary purpose of the Permanent Settlement introduced in 1793?",
+  "qHi": "भारत में ब्रिटिश शासन के दौरान, 1793 में शुरू की गई स्थायी बंदोबस्त (Permanent Settlement) का मुख्य उद्देश्य क्या था?",
+  "optsEn": [
+   "To improve soil fertility",
+   "To fix a regular and permanent amount of revenue for the company",
+   "To distribute land equally among peasants",
+   "To encourage modern industrial growth"
+  ],
+  "optsHi": [
+   "मिट्टी की उर्वरता में सुधार करना",
+   "कंपनी के लिए राजस्व की एक नियमित और स्थायी राशि तय करना",
+   "किसानों के बीच समान रूप से भूमि वितरित करना",
+   "आधुनिक औद्योगिक विकास को प्रोत्साहित करना"
+  ],
+  "correct": 1,
+  "explainEn": "The Permanent Settlement was introduced to ensure a stable and predictable flow of revenue to the East India Company.",
+  "sourceHint": "NCERT Class 8 History Chapter 3: Ruling the Countryside",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:13:38Z"
+ },
+ {
+  "id": "q_2681f9be9022a2b1",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which metal is stored immersed in kerosene because it reacts very vigorously with oxygen and moisture?",
+  "qHi": "किस धातु को मिट्टी के तेल (केरोसिन) में डुबोकर रखा जाता है क्योंकि यह ऑक्सीजन और नमी के साथ अत्यधिक तीव्रता से अभिक्रिया करती है?",
+  "optsEn": [
+   "Copper",
+   "Iron",
+   "Sodium",
+   "Gold"
+  ],
+  "optsHi": [
+   "तांबा",
+   "लोहा",
+   "सोडियम",
+   "सोना"
+  ],
+  "correct": 2,
+  "explainEn": "Sodium is a highly reactive metal that catches fire if kept open in air, hence it is stored in kerosene.",
+  "sourceHint": "NCERT Class 8 Science Chapter 4: Materials: Metals and Non-Metals",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:13:38Z"
+ },
+ {
+  "id": "q_59839a524c345b59",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following terms refers to the separation of religion from the state in democratic societies?",
+  "qHi": "लोकतांत्रिक समाजों में राज्य से धर्म को अलग रखने के लिए इनमें से किस शब्द का प्रयोग किया जाता है?",
+  "optsEn": [
+   "Monarchy",
+   "Secularism",
+   "Totalitarianism",
+   "Federation"
+  ],
+  "optsHi": [
+   "राजशाही",
+   "धर्मनिरपेक्षता (Secularism)",
+   "सर्वसत्तावाद",
+   "संघवाद"
+  ],
+  "correct": 1,
+  "explainEn": "Secularism refers to the practice of keeping the state and religion separate from each other.",
+  "sourceHint": "NCERT Class 8 Civics Chapter 2: Understanding Secularism",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:13:38Z"
  }
 ]

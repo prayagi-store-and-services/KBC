@@ -10834,5 +10834,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-14T11:59:58Z"
+ },
+ {
+  "id": "q_80ef9f5b4bbaa7b0",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following animals is an omnivore?",
+  "qHi": "निम्नलिखित में से कौन सा जानवर सर्वाहारी है?",
+  "optsEn": [
+   "Lion",
+   "Cow",
+   "Bear",
+   "Zebra"
+  ],
+  "optsHi": [
+   "शेर",
+   "गाय",
+   "भालू",
+   "जेबरा"
+  ],
+  "correct": 2,
+  "explainEn": "Bears eat both plants and other animals, making them omnivores.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:12:29Z"
+ },
+ {
+  "id": "q_31e8dacfd635cfcf",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the National Anthem of India?",
+  "qHi": "भारत का राष्ट्रगान कौन सा है?",
+  "optsEn": [
+   "Vande Mataram",
+   "Jana Gana Mana",
+   "Sare Jahan Se Achha",
+   "Maa Tujhe Salaam"
+  ],
+  "optsHi": [
+   "वंदे मातरम्",
+   "जन गण मन",
+   "सारे जहाँ से अच्छा",
+   "माँ तुझे सलाम"
+  ],
+  "correct": 1,
+  "explainEn": "Jana Gana Mana, written by Rabindranath Tagore, is the National Anthem of India.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:12:29Z"
+ },
+ {
+  "id": "q_f30cdc5dad59ad26",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which layer of the atmosphere contains the air we breathe?",
+  "qHi": "वायुमंडल की किस परत में वह हवा होती है जिसे हम सांस लेते हैं?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 0,
+  "explainEn": "The troposphere is the lowest layer of Earth's atmosphere and contains the air we breathe.",
+  "sourceHint": "NCERT Class 5 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:12:29Z"
+ },
+ {
+  "id": "q_8b396ea37f3824bc",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of seed dispersal method is used by the dandelion plant, which has hair-like structures?",
+  "qHi": "बाल जैसी संरचना वाले डेंडेलियन पौधे द्वारा बीज प्रकीर्णन की किस विधि का उपयोग किया जाता है?",
+  "optsEn": [
+   "Water",
+   "Explosion",
+   "Wind",
+   "Animals"
+  ],
+  "optsHi": [
+   "जल",
+   "विस्फोट",
+   "वायु",
+   "जानवर"
+  ],
+  "correct": 2,
+  "explainEn": "Dandelion seeds have hair-like parts that act like parachutes, allowing them to be carried away by the wind.",
+  "sourceHint": "NCERT Class 5 Science Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:13:32Z"
+ },
+ {
+  "id": "q_4bfa9b3760fa2942",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian stepwell is designed to store rainwater and is known locally as a baoli?",
+  "qHi": "वर्षा के जल को संचित करने के लिए डिज़ाइन की गई पारंपरिक भारतीय सीढ़ीनुमा कुएं को स्थानीय रूप से क्या कहा जाता है?",
+  "optsEn": [
+   "Talab",
+   "Baoli",
+   "Canal",
+   "Dam"
+  ],
+  "optsHi": [
+   "तालाब",
+   "बावली",
+   "नहर",
+   "बांध"
+  ],
+  "correct": 1,
+  "explainEn": "Baolis are traditional stepwells found in India, historically used for water harvesting.",
+  "sourceHint": "NCERT Class 5 EVS Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:13:32Z"
+ },
+ {
+  "id": "q_34df187e6e28d7db",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the name of the imaginary line running from the North Pole to the South Pole through the center of the Earth?",
+  "qHi": "उत्तरी ध्रुव से दक्षिणी ध्रुव तक पृथ्वी के केंद्र से गुजरने वाली काल्पनिक रेखा का नाम क्या है?",
+  "optsEn": [
+   "Orbit",
+   "Axis",
+   "Equator",
+   "Diameter"
+  ],
+  "optsHi": [
+   "कक्षा",
+   "अक्ष",
+   "भूमध्य रेखा",
+   "व्यास"
+  ],
+  "correct": 1,
+  "explainEn": "The axis is an imaginary line on which the Earth rotates.",
+  "sourceHint": "NCERT Class 5 Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:13:32Z"
+ },
+ {
+  "id": "q_2421498926e806cf",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which insect helps in the pollination of flowering plants by moving from one flower to another?",
+  "qHi": "फूल वाले पौधों के परागण में कौन सा कीट एक फूल से दूसरे फूल पर जाकर मदद करता है?",
+  "optsEn": [
+   "Honeybee",
+   "Housefly",
+   "Cockroach",
+   "Silverfish"
+  ],
+  "optsHi": [
+   "मधुमक्खी",
+   "घरेलू मक्खी",
+   "तिलचट्टा",
+   "सिल्वरफ़िश"
+  ],
+  "correct": 0,
+  "explainEn": "Honeybees collect nectar and transfer pollen between flowers, aiding in plant reproduction.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:13:32Z"
+ },
+ {
+  "id": "q_b0426c578ede937f",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which layer of the atmosphere contains the ozone layer that protects Earth from harmful ultraviolet rays?",
+  "qHi": "वायुमंडल की किस परत में ओजोन परत होती है जो पृथ्वी को हानिकारक पराबैंगनी किरणों से बचाती है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षوبमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The stratosphere contains the highest concentration of ozone, absorbing harmful UV radiation.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:13:32Z"
  }
 ]

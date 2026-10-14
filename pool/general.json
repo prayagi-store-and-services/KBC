@@ -8594,5 +8594,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-14T11:59:41Z"
+ },
+ {
+  "id": "q_19a1682db6994680",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which Indian state has the coastline on the Arabian Sea?",
+  "qHi": "किस भारतीय राज्य की तटरेखा अरब सागर पर है?",
+  "optsEn": [
+   "Bihar",
+   "Madhya Pradesh",
+   "Gujarat",
+   "Jharkhand"
+  ],
+  "optsHi": [
+   "बिहार",
+   "मध्य प्रदेश",
+   "गुजरात",
+   "झारखंड"
+  ],
+  "correct": 2,
+  "explainEn": "Gujarat is located on the western coast of India and opens into the Arabian Sea.",
+  "sourceHint": "Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:12:24Z"
+ },
+ {
+  "id": "q_28c0e93ec3ab7697",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian city is known as the Silicon Valley of India due to its role as the nation's leading information technology hub?",
+  "qHi": "भारत के किस शहर को देश के प्रमुख सूचना प्रौद्योगिकी केंद्र के रूप में इसकी भूमिका के कारण भारत की सिलिकॉन वैली के रूप में जाना जाता है?",
+  "optsEn": [
+   "Mumbai",
+   "Bengaluru",
+   "Hyderabad",
+   "Chennai"
+  ],
+  "optsHi": [
+   "मुंबई",
+   "बेंगलुरु",
+   "हैदराबाद",
+   "चेन्नई"
+  ],
+  "correct": 1,
+  "explainEn": "Bengaluru is widely recognized as the IT capital and Silicon Valley of India.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:13:28Z"
+ },
+ {
+  "id": "q_d43b06990ce7c705",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which classical dance form originates from the state of Kerala and is traditionally characterized by elaborate makeup and colorful face masks?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप केरल राज्य से उत्पन्न हुआ है और पारंपरिक रूप से विस्तृत मेकअप और रंगीन चेहरे के मास्क द्वारा विशेषता है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Odissi",
+   "Kuchipudi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "ओडिसी",
+   "कुचिपुड़ी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a major form of classical Indian dance that originated in Kerala, known for its distinctive storytelling, heavy makeup, and costumes.",
+  "sourceHint": "NCERT Fine Arts textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:13:28Z"
+ },
+ {
+  "id": "q_4ba08f5e8c45814b",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which Indian state is the Kaziranga National Park located, famous for the great Indian one-horned rhinoceros?",
+  "qHi": "भारतीय गैंडे के लिए प्रसिद्ध काजीरंगा राष्ट्रीय उद्यान किस भारतीय राज्य में स्थित है?",
+  "optsEn": [
+   "Assam",
+   "Uttarakhand",
+   "Gujarat",
+   "Madhya Pradesh"
+  ],
+  "optsHi": [
+   "असम",
+   "उत्तराखंड",
+   "गुजरात",
+   "मध्य प्रदेश"
+  ],
+  "correct": 0,
+  "explainEn": "Kaziranga National Park is located in the Golaghat and Nagaon districts of Assam.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change, India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:13:28Z"
+ },
+ {
+  "id": "q_f924f1ec7b75740b",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which monument in Agra was commissioned by Mughal Emperor Shah Jahan as a mausoleum for his wife Mumtaz Mahal?",
+  "qHi": "आगरा में किस स्मारक को मुगल सम्राट शाहजहाँ द्वारा अपनी पत्नी मुमताज महल के मकबरे के रूप में बनवाया गया था?",
+  "optsEn": [
+   "Red Fort",
+   "Qutub Minar",
+   "Taj Mahal",
+   "Humayun Tomb"
+  ],
+  "optsHi": [
+   "लाल किला",
+   "कुतुब मीनार",
+   "ताज महल",
+   "हुमायूं का मकबरा"
+  ],
+  "correct": 2,
+  "explainEn": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, built by Shah Jahan.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T17:13:28Z"
  }
 ]
