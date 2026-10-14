@@ -8734,5 +8734,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-14T17:13:28Z"
+ },
+ {
+  "id": "q_52423f91554b26b6",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which is the national bird of India?",
+  "qHi": "भारत का राष्ट्रीय पक्षी कौन सा है?",
+  "optsEn": [
+   "Indian Peafowl",
+   "House Sparrow",
+   "Common Myna",
+   "Rock Pigeon"
+  ],
+  "optsHi": [
+   "भारतीय मोर",
+   "घरेलू गौरैया",
+   "सामान्य मैना",
+   "रॉक कबूतर"
+  ],
+  "correct": 0,
+  "explainEn": "The Indian peacock (Pavo cristatus) is the national bird of India.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:42:32Z"
+ },
+ {
+  "id": "q_d91a41be2bf6918b",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "How many players are there on the field in a standard team during a field hockey match?",
+  "qHi": "फील्ड हॉकी मैच के दौरान मानक टीम में मैदान पर कितने खिलाड़ी होते हैं?",
+  "optsEn": [
+   "9",
+   "10",
+   "11",
+   "12"
+  ],
+  "optsHi": [
+   "9",
+   "10",
+   "11",
+   "12"
+  ],
+  "correct": 2,
+  "explainEn": "Each team plays with 11 players on the field at any one time during a standard field hockey match.",
+  "sourceHint": "International Hockey Federation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:42:32Z"
+ },
+ {
+  "id": "q_02c813b44d0deadb",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which classical dance form originated in the state of Kerala and is traditionally distinguished by elaborate colorful makeup and facial masks?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप केरल राज्य में उत्पन्न हुआ है और पारंपरिक रूप से विस्तृत रंगीन मेकअप और चेहरे के मुखौटों द्वारा प्रतिष्ठित है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Odissi",
+   "Kuchipudi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "ओडिसी",
+   "कुचिपुड़ी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a major form of classical Indian dance originating from Kerala, well-known for its distinctive storytelling, heavy make-up, and elaborate costumes.",
+  "sourceHint": "NCERT Fine Arts textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:44:04Z"
+ },
+ {
+  "id": "q_502b9e0e52717826",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which national highway connects Delhi and Kolkata via Mathura and Varanasi, forming a major historic trade route?",
+  "qHi": "कौन सा राष्ट्रीय राजमार्ग मथुरा और वाराणसी के माध्यम से दिल्ली और कोलकाता को जोड़ता है, जो एक प्रमुख ऐतिहासिक व्यापार मार्ग बनाता है?",
+  "optsEn": [
+   "NH 44",
+   "NH 19",
+   "NH 48",
+   "NH 66"
+  ],
+  "optsHi": [
+   "एनएच 44",
+   "एनएच 19",
+   "एनएच 48",
+   "एनएच 66"
+  ],
+  "correct": 1,
+  "explainEn": "National Highway 19 (part of the historical Grand Trunk Road) connects Delhi to Kolkata, passing through major cities like Mathura, Agra, Kanpur, and Varanasi.",
+  "sourceHint": "Ministry of Road Transport and Highways, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:44:04Z"
+ },
+ {
+  "id": "q_ffdc5e4b0d64ab08",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian state is the largest producer of raw silk in the country?",
+  "qHi": "कौन सा भारतीय राज्य देश में कच्चे रेशम का सबसे बड़ा उत्पादक है?",
+  "optsEn": [
+   "Karnataka",
+   "Assam",
+   "West Bengal",
+   "Tamil Nadu"
+  ],
+  "optsHi": [
+   "कर्नाटक",
+   "असम",
+   "पश्चिम बंगाल",
+   "तमिलनाडु"
+  ],
+  "correct": 0,
+  "explainEn": "Karnataka is the leading producer of mulberry silk in India, accounting for a significant portion of the total national output.",
+  "sourceHint": "Central Silk Board, Ministry of Textiles, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:44:04Z"
  }
 ]

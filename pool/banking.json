@@ -12906,5 +12906,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-14T17:13:23Z"
+ },
+ {
+  "id": "q_3f855a529cfbfaa8",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is the central banking institution of India?",
+  "qHi": "निम्नलिखित में से कौन भारत का केंद्रीय बैंकिंग संस्थान है?",
+  "optsEn": [
+   "State Bank of India",
+   "Reserve Bank of India",
+   "Punjab National Bank",
+   "Bank of Baroda"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "भारतीय रिजर्व बैंक",
+   "पंजाब नेशनल बैंक",
+   "बैंक ऑफ बड़ौदा"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India (RBI) is India's central bank, established in 1935 under the Reserve Bank of India Act, 1934.",
+  "sourceHint": "RBI official website and Indian Economy textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:42:25Z"
+ },
+ {
+  "id": "q_345ef827594b68fe",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'I' stand for in the financial term 'NEFT'?",
+  "qHi": "वित्तीय शब्द 'NEFT' में अक्षर 'I' का क्या अर्थ है?",
+  "optsEn": [
+   "Interbank",
+   "Instant",
+   "India",
+   "International"
+  ],
+  "optsHi": [
+   "इंटरबैंक",
+   "इंस्टेंट",
+   "इंडिया",
+   "इंटरनेशनल"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer.",
+  "sourceHint": "RBI payment systems documentation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:42:25Z"
+ },
+ {
+  "id": "q_bb033208ac4ed44d",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which financial institution regulates the mutual funds in India?",
+  "qHi": "कौन सा वित्तीय संस्थान भारत में म्यूचुअल फंड को नियंत्रित करता है?",
+  "optsEn": [
+   "SEBI",
+   "RBI",
+   "IRDAI",
+   "NABARD"
+  ],
+  "optsHi": [
+   "सेबी",
+   "आरबीआई",
+   "इरडाई",
+   "नाबार्ड"
+  ],
+  "correct": 0,
+  "explainEn": "The Securities and Exchange Board of India (SEBI) is the regulator for the securities market and mutual funds in India.",
+  "sourceHint": "SEBI Act, 1992",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:42:25Z"
+ },
+ {
+  "id": "q_e48d24600d7e800b",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In the context of banking, what does 'ATM' stand for?",
+  "qHi": "बैंकिंग के संदर्भ में, 'ATM' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Automated Teller Machine",
+   "Any Time Money",
+   "Automated Transfer Mode",
+   "Authorized Transaction Machine"
+  ],
+  "optsHi": [
+   "ऑटोमेटेड टेलर मशीन",
+   "एनी टाइम मनी",
+   "ऑटोमेटेड ट्रांसफर मोड",
+   "अधिकृत ट्रांजैक्शन मशीन"
+  ],
+  "correct": 0,
+  "explainEn": "ATM stands for Automated Teller Machine, used for banking transactions without visiting a branch.",
+  "sourceHint": "Basic banking terminology and NCERT commerce",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:42:25Z"
+ },
+ {
+  "id": "q_e21557dfccd313be",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which institution provides refinance facilities to micro, small, and medium enterprises (MSME) indirectly through banks?",
+  "qHi": "बैंकों के माध्यम से अप्रत्यक्ष रूप से सूक्ष्म, लघु और मध्यम उद्यमों (MSME) को पुनर्वित्त सुविधा कौन सा संस्थान प्रदान करता है?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "NHB"
+  ],
+  "optsHi": [
+   "सिडबी",
+   "नाबार्ड",
+   "एक्जिम बैंक",
+   "एनएचबी"
+  ],
+  "correct": 0,
+  "explainEn": "Small Industries Development Bank of India (SIDBI) is the principal financial institution for the promotion, financing, and development of MSMEs.",
+  "sourceHint": "SIDBI official profile",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:42:25Z"
+ },
+ {
+  "id": "q_d837804c87af39bd",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institution regulates the microfinance institutions (MFIs) in India that are organized as Non-Banking Financial Companies (NBFCs)?",
+  "qHi": "भारत में गैर-बैंकिंग वित्तीय कंपनियों (NBFCs) के रूप में संगठित सूक्ष्म वित्त संस्थानों (MFIs) को कौन सा संस्थान विनियमित करता है?",
+  "optsEn": [
+   "Securities and Exchange Board of India",
+   "Reserve Bank of India",
+   "National Bank for Agriculture and Rural Development",
+   "Small Industries Development Bank of India"
+  ],
+  "optsHi": [
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "भारतीय रिजर्व बैंक",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक",
+   "भारतीय लघु उद्योग विकास बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India regulates NBFC-MFIs in India under the Reserve Bank of India Act, 1934.",
+  "sourceHint": "RBI Master Directions on Regulatory Framework for NBFC-MFIs",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:43:55Z"
+ },
+ {
+  "id": "q_4d982e557ae11ce1",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'S' stand for in the context of the financial acronym 'ASBA', used in initial public offerings?",
+  "qHi": "प्रारंभिक सार्वजनिक पेशकशों में प्रयुक्त वित्तीय संक्षिप्त नाम 'ASBA' के संदर्भ में अक्षर 'S' का क्या अर्थ है?",
+  "optsEn": [
+   "Securities",
+   "Supported",
+   "Savings",
+   "Settlement"
+  ],
+  "optsHi": [
+   "प्रतिभूतियां (Securities)",
+   "समर्थित (Supported)",
+   "बचत (Savings)",
+   "निपटान (Settlement)"
+  ],
+  "correct": 1,
+  "explainEn": "ASBA stands for Application Supported by Blocked Amount, an application for subscribing to an issue, containing an authorization to block the application money in a bank account.",
+  "sourceHint": "SEBI Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:43:55Z"
+ },
+ {
+  "id": "q_1ab4b125e1984d35",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the Indian banking system, what is the term used for a loan in which the borrower defaults on interest or principal repayments for a period exceeding 90 days?",
+  "qHi": "भारतीय बैंकिंग प्रणाली में, उस ऋण के लिए किस शब्द का प्रयोग किया जाता है जिसमें उधारकर्ता 90 दिनों से अधिक की अवधि के लिए ब्याज या मूलधन के पुनर्भुगतान में चूक करता है?",
+  "optsEn": [
+   "Substandard Asset",
+   "Doubtful Asset",
+   "Non-Performing Asset",
+   "Loss Asset"
+  ],
+  "optsHi": [
+   "अवर मानक परिसंपत्ति",
+   "संदिग्ध परिसंपत्ति",
+   "निष्पादित परिसंपत्ति (NPA)",
+   "हानि परिसंपत्ति"
+  ],
+  "correct": 2,
+  "explainEn": "A Non-Performing Asset (NPA) is a loan or advance for which the principal or interest payment remained overdue for a period of 90 days.",
+  "sourceHint": "RBI Prudential Norms on Income Recognition and Asset Classification",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:43:55Z"
+ },
+ {
+  "id": "q_0c1ddb0895e066c9",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which money market instrument is an unsecured promissory note issued by highly rated corporate bodies for a fixed maturity period?",
+  "qHi": "कौन सा मुद्रा बाजार साधन एक निश्चित परिपक्वता अवधि के लिए अत्यधिक मूल्यांकित कॉर्पोरेट निकायों द्वारा जारी किया गया एक असुरक्षित वचन पत्र है?",
+  "optsEn": [
+   "Treasury Bill",
+   "Certificate of Deposit",
+   "Commercial Paper",
+   "Bill of Exchange"
+  ],
+  "optsHi": [
+   "राजकोषीय बिल",
+   "जमा प्रमाणपत्र",
+   "वाणिज्यिक पत्र",
+   "विनिमय पत्र"
+  ],
+  "correct": 2,
+  "explainEn": "Commercial Paper (CP) is an unsecured money market instrument issued in the form of a promissory note introduced in India in 1990.",
+  "sourceHint": "RBI Guidelines on Money Market Instruments",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:43:55Z"
+ },
+ {
+  "id": "q_3c7bb5a7cf5d8a75",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Priority Sector Lending (PSL) guidelines in India, what is the overall target for lending to the priority sector for domestic scheduled commercial banks?",
+  "qHi": "भारत में प्राथमिकता प्राप्त क्षेत्र को ऋण (PSL) दिशा-निर्देशों के तहत, घरेलू अनुसूचित वाणिज्यिक बैंकों के लिए प्राथमिकता प्राप्त क्षेत्र को ऋण देने का समग्र लक्ष्य क्या है?",
+  "optsEn": [
+   "35 percent of Adjusted Net Bank Credit",
+   "40 percent of Adjusted Net Bank Credit",
+   "45 percent of Adjusted Net Bank Credit",
+   "50 percent of Adjusted Net Bank Credit"
+  ],
+  "optsHi": [
+   "समायोजित शुद्ध बैंक ऋण का 35 प्रतिशत",
+   "समायोजित शुद्ध बैंक ऋण का 40 प्रतिशत",
+   "समायोजित शुद्ध बैंक ऋण का 45 प्रतिशत",
+   "समायोजित शुद्ध बैंक ऋण का 50 प्रतिशत"
+  ],
+  "correct": 1,
+  "explainEn": "Domestic scheduled commercial banks are required to meet the 40 percent target of Adjusted Net Bank Credit (ANBC) for Priority Sector Lending.",
+  "sourceHint": "RBI Master Directions - Priority Sector Lending",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:43:55Z"
+ },
+ {
+  "id": "q_85bbd034a25a1b70",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India operates the Unified Payments Interface (UPI) system?",
+  "qHi": "भारत में कौन सा संगठन एकीकृत भुगतान इंटरफेस (UPI) प्रणाली का संचालन करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "National Payments Corporation of India",
+   "Indian Banks' Association",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय राष्ट्रीय भुगतान निगम",
+   "भारतीय बैंक संघ",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड"
+  ],
+  "correct": 1,
+  "explainEn": "The National Payments Corporation of India (NPCI) an umbrella organization for operating retail payments and settlement systems in India, created UPI.",
+  "sourceHint": "NPCI Official Portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:43:55Z"
  }
 ]

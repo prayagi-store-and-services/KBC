@@ -8566,5 +8566,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-14T17:13:38Z"
+ },
+ {
+  "id": "q_cd65e052e36ccbc2",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which term is used for the process of clearing forests and using that land for other purposes?",
+  "qHi": "वनों को साफ करने और उस भूमि का अन्य उद्देश्यों के लिए उपयोग करने की प्रक्रिया के लिए किस शब्द का उपयोग किया जाता है?",
+  "optsEn": [
+   "Rafforestation",
+   "Deforestation",
+   "Afforestation",
+   "Conservation"
+  ],
+  "optsHi": [
+   "पुनर्वनीकरण",
+   "वनों की कटाई",
+   "वनीकरण",
+   "संरक्षण"
+  ],
+  "correct": 1,
+  "explainEn": "Deforestation refers to the large-scale removal of trees from forests.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:42:40Z"
+ },
+ {
+  "id": "q_56672992e289b0b8",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which state of India is the Jim Corbett National Park situated?",
+  "qHi": "जिम कॉर्बेट राष्ट्रीय उद्यान भारत के किस राज्य में स्थित है?",
+  "optsEn": [
+   "Rajasthan",
+   "Gujarat",
+   "Uttarakhand",
+   "Assam"
+  ],
+  "optsHi": [
+   "राजस्थान",
+   "गुजरात",
+   "उत्तराखंड",
+   "असम"
+  ],
+  "correct": 2,
+  "explainEn": "Jim Corbett National Park is located in the Nainital district of Uttarakhand.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:44:24Z"
+ },
+ {
+  "id": "q_0498c69a2a496ee5",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which imaginary line runs through the middle of the Earth, dividing it into the Northern and Southern Hemispheres?",
+  "qHi": "कौन सी काल्पनिक रेखा पृथ्वी के बीच से गुजरती है, इसे उत्तरी और दक्षिणी गोलार्ध में विभाजित करती है?",
+  "optsEn": [
+   "Equator",
+   "Prime Meridian",
+   "Tropic of Cancer",
+   "Arctic Circle"
+  ],
+  "optsHi": [
+   "विषुवत वृत्त (भूमध्य रेखा)",
+   "प्रधान मध्याह्न रेखा",
+   "कर्क रेखा",
+   "आर्कटिक वृत्त"
+  ],
+  "correct": 0,
+  "explainEn": "The Equator is the 0 degrees latitude line that divides the Earth into Northern and Southern hemispheres.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:44:24Z"
+ },
+ {
+  "id": "q_27db1db2ee141e14",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What force causes a moving object to eventually slow down and stop when no external push or pull is applied?",
+  "qHi": "जब कोई बाहरी धक्का या खिंचाव न लगाया जाए, तो किस बल के कारण गतिशील वस्तु अंततः धीमी हो जाती है और रुक जाती है?",
+  "optsEn": [
+   "Magnetic force",
+   "Electrostatic force",
+   "Friction",
+   "Gravitational pull"
+  ],
+  "optsHi": [
+   "चुंबकीय बल",
+   "स्थिरवैद्युत बल",
+   "घर्षण",
+   "गुरुत्वाकर्षण खिंचाव"
+  ],
+  "correct": 2,
+  "explainEn": "Friction opposes the relative motion between two surfaces in contact.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:44:24Z"
  }
 ]

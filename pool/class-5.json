@@ -11058,5 +11058,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-14T17:13:32Z"
+ },
+ {
+  "id": "q_ddb4f5b57543b23b",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the direction of the sunrise every morning?",
+  "qHi": "प्रतिदिन सुबह सूर्योदय किस दिशा में होता है?",
+  "optsEn": [
+   "North",
+   "South",
+   "East",
+   "West"
+  ],
+  "optsHi": [
+   "उत्तर",
+   "दक्षिण",
+   "पूर्व",
+   "पश्चिम"
+  ],
+  "correct": 2,
+  "explainEn": "The sun always rises in the east.",
+  "sourceHint": "NCERT Class 5 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:42:36Z"
+ },
+ {
+  "id": "q_2f9e78515adf4fff",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these sense organs helps a human body to feel the texture of an object?",
+  "qHi": "इनमें से कौन सा ज्ञानेन्द्रिय अंग मानव शरीर को किसी वस्तु की बनावट (टेक्सचर) को महसूस करने में मदद करता है?",
+  "optsEn": [
+   "Eyes",
+   "Ears",
+   "Skin",
+   "Nose"
+  ],
+  "optsHi": [
+   "आँखें",
+   "कान",
+   "त्वचा",
+   "नाक"
+  ],
+  "correct": 2,
+  "explainEn": "Skin is the sense organ responsible for the sense of touch and feeling textures.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:42:36Z"
+ },
+ {
+  "id": "q_579e1b35bb65188b",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which vitamin do we primarily get from early morning sunlight?",
+  "qHi": "सुबह की हल्की धूप से हमें मुख्य रूप से कौन सा विटामिन मिलता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Sunlight helps the human body produce Vitamin D.",
+  "sourceHint": "NCERT Class 5 Health and Physical Education",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:42:36Z"
+ },
+ {
+  "id": "q_49bad97f58b493bc",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which season in India is generally associated with the months of December and January?",
+  "qHi": "भारत में आमतौर पर दिसंबर और जनवरी के महीने किस ऋतु से जुड़े हैं?",
+  "optsEn": [
+   "Winter",
+   "Summer",
+   "Monsoon",
+   "Spring"
+  ],
+  "optsHi": [
+   "सर्दी",
+   "गर्मी",
+   "मानसून",
+   "वसन्त"
+  ],
+  "correct": 0,
+  "explainEn": "December and January are the core winter months in India.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:42:36Z"
+ },
+ {
+  "id": "q_5d99225de5d59e6c",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of food group is rice mainly a source of?",
+  "qHi": "चावल मुख्य रूप से किस प्रकार के खाद्य समूह का स्रोत है?",
+  "optsEn": [
+   "Proteins",
+   "Carbohydrates",
+   "Vitamins",
+   "Fats"
+  ],
+  "optsHi": [
+   "प्रोटीन",
+   "कार्बोहाइड्रेट",
+   "विटामिन",
+   "वसा"
+  ],
+  "correct": 1,
+  "explainEn": "Rice is rich in carbohydrates, which provide energy to the body.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:42:36Z"
+ },
+ {
+  "id": "q_bf73214d2aa3d2c1",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of resources are coal and petroleum?",
+  "qHi": "कोयला और पेट्रोलियम किस प्रकार के संसाधन हैं?",
+  "optsEn": [
+   "Renewable resources",
+   "Non-renewable resources",
+   "Biotic resources",
+   "Infinite resources"
+  ],
+  "optsHi": [
+   "नवीकरणीय संसाधन",
+   "अनवीकरणीय संसाधन",
+   "जैविक संसाधन",
+   "अनंत संसाधन"
+  ],
+  "correct": 1,
+  "explainEn": "Coal and petroleum take millions of years to form and are exhaustible, making them non-renewable.",
+  "sourceHint": "NCERT Class 5 Science/Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:44:15Z"
+ },
+ {
+  "id": "q_5ad68a6478098c4d",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which imaginary line passes through the middle of India, dividing it almost into two equal halves?",
+  "qHi": "भारत के मध्य से कौन सी काल्पनिक रेखा गुजरती है, जो इसे लगभग दो बराबर भागों में बांटती है?",
+  "optsEn": [
+   "Equator",
+   "Tropic of Capricorn",
+   "Tropic of Cancer",
+   "Arctic Circle"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा",
+   "मकर रेखा",
+   "कर्क रेखा",
+   "आर्कटिक वृत्त"
+  ],
+  "correct": 2,
+  "explainEn": "The Tropic of Cancer passes through the middle of India.",
+  "sourceHint": "NCERT Class 5 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:44:15Z"
+ },
+ {
+  "id": "q_d909ae7d759d4e66",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin is obtained naturally by the human body with the help of sunlight?",
+  "qHi": "मानव शरीर को सूर्य के प्रकाश की सहायता से प्राकृतिक रूप से कौन सा विटामिन प्राप्त होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Sunlight helps the human skin produce Vitamin D.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:44:15Z"
  }
 ]

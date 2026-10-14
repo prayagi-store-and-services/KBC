@@ -12458,5 +12458,425 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-14T17:14:11Z"
+ },
+ {
+  "id": "q_94a0ea7246346d5f",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following molecules shows the phenomenon of optical isomerism?",
+  "qHi": "निम्नलिखित में से कौन सा अणु प्रकाशिक समावयवता दर्शाता है?",
+  "optsEn": [
+   "Chloroacetic acid",
+   "Lactic acid",
+   "Acetone",
+   "Formic acid"
+  ],
+  "optsHi": [
+   "क्लोरोएसेटिक अम्ल",
+   "लैक्टिक अम्ल",
+   "एसीटोन",
+   "फॉर्मिक अम्ल"
+  ],
+  "correct": 1,
+  "explainEn": "Lactic acid contains a chiral carbon atom, making it optically active and capable of showing optical isomerism.",
+  "sourceHint": "NCERT Chemistry Class 12, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:42:11Z"
+ },
+ {
+  "id": "q_643d75d1fb66d0c5",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which process of microspore formation in flowering plants involves meiosis?",
+  "qHi": "फूल वाले पौधों में लघुबीजाणु निर्माण की किस प्रक्रिया में अर्धसूत्री विभाजन शामिल होता है?",
+  "optsEn": [
+   "Microsporogenesis",
+   "Megasporogenesis",
+   "Embryogenesis",
+   "Pollination"
+  ],
+  "optsHi": [
+   "लघुबीजाणुजनन",
+   "गुरुबीजाणुजनन",
+   "भ्रूणजनन",
+   "परागण"
+  ],
+  "correct": 0,
+  "explainEn": "Microsporogenesis is the formation of microspores from a pollen mother cell through meiosis.",
+  "sourceHint": "NCERT Biology Class 12, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:42:11Z"
+ },
+ {
+  "id": "q_ef22e3983dec00ab",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who was the permanent Chairman of the Constituent Assembly of India?",
+  "qHi": "भारत की संविधान सभा के स्थायी अध्यक्ष कौन थे?",
+  "optsEn": [
+   "Dr. B. R. Ambedkar",
+   "Dr. Rajendra Prasad",
+   "Jawaharlal Nehru",
+   "Sardar Vallabhbhai Patel"
+  ],
+  "optsHi": [
+   "डॉ. बी. आर. अम्बेडकर",
+   "डॉ. राजेंद्र प्रसाद",
+   "जवाहरलाल नेहरू",
+   "सरदार वल्लभभाई पटेल"
+  ],
+  "correct": 1,
+  "explainEn": "Dr. Rajendra Prasad was elected as the permanent Chairman of the Constituent Assembly on December 11, 1946.",
+  "sourceHint": "NCERT Political Science Class 12, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:42:11Z"
+ },
+ {
+  "id": "q_470864064b9e7828",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which sector contributes the largest share to India's Gross Domestic Product currently?",
+  "qHi": "वर्तमान में भारत के सकल घरेलू उत्पाद में सबसे बड़ा हिस्सा किस क्षेत्र का है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Agricultural sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "तृतीयक क्षेत्र",
+   "कृषि क्षेत्र"
+  ],
+  "correct": 2,
+  "explainEn": "The tertiary sector (services sector) contributes the largest share to India's Gross Domestic Product.",
+  "sourceHint": "NCERT Economics Class 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:42:11Z"
+ },
+ {
+  "id": "q_2f380a01ea1a7a40",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the name of the central bank of India?",
+  "qHi": "भारत के केंद्रीय बैंक का नाम क्या है?",
+  "optsEn": [
+   "State Bank of India",
+   "Reserve Bank of India",
+   "Punjab National Bank",
+   "World Bank"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "भारतीय रिजर्व बैंक",
+   "पंजाब नेशनल बैंक",
+   "विश्व बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India (RBI) is the central bank of the country, established in 1935.",
+  "sourceHint": "NCERT Economics Class 12, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:42:11Z"
+ },
+ {
+  "id": "q_5271bf4e3abe71dc",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which sector is traditionally known to have the largest share in India's Gross Domestic Product (GDP) in recent decades?",
+  "qHi": "हाल के दशकों में भारत के सकल घरेलू उत्पाद (GDP) में पारंपरिक रूप से किस क्षेत्र का हिस्सा सबसे बड़ा माना जाता है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Quaternary sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "तृतीयक क्षेत्र",
+   "चतुर्धातुक क्षेत्र"
+  ],
+  "correct": 2,
+  "explainEn": "The tertiary sector (service sector) contributes the largest share to India's GDP.",
+  "sourceHint": "NCERT Class 12 Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:43:15Z"
+ },
+ {
+  "id": "q_9721c7be6e0e3300",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In physics, what does the phenomenon of optical interference primarily demonstrate?",
+  "qHi": "भौतिकी में, प्रकाश व्यतिकरण की घटना मुख्य रूप से क्या प्रदर्शित करती है?",
+  "optsEn": [
+   "Particle nature of light",
+   "Wave nature of light",
+   "Mass of photons",
+   "Rectilinear propagation of light"
+  ],
+  "optsHi": [
+   "प्रकाश की कण प्रकृति",
+   "प्रकाश की तरंग प्रकृति",
+   "फोटॉनों का द्रव्यमान",
+   "प्रकाश का सीधा प्रसार"
+  ],
+  "correct": 1,
+  "explainEn": "Interference is a characteristic phenomenon of waves, demonstrating the wave nature of light.",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:43:15Z"
+ },
+ {
+  "id": "q_69fa6567d009dd30",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of vegetation is typically found in regions with high annual rainfall and warm temperatures throughout the year?",
+  "qHi": "वर्ष भर उच्च वार्षिक वर्षा और गर्म तापमान वाले क्षेत्रों में आमतौर पर किस प्रकार की वनस्पति पाई जाती है?",
+  "optsEn": [
+   "Tropical Evergreen Forests",
+   "Tundra Vegetation",
+   "Desert Thorn Forests",
+   "Coniferous Forests"
+  ],
+  "optsHi": [
+   "उष्णकटिबंधीय सदाबहार वन",
+   "टुंड्रा वनस्पति",
+   "मरुस्थलीय कंटीले वन",
+   "शंकुधारी वन"
+  ],
+  "correct": 0,
+  "explainEn": "Tropical evergreen forests thrive in regions experiencing heavy rainfall and warm temperatures year-round.",
+  "sourceHint": "NCERT Class 11 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:43:15Z"
+ },
+ {
+  "id": "q_a81c8039be646d58",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary product formed when an aldehyde is oxidized using a mild oxidizing agent like Tollens' reagent?",
+  "qHi": "टॉलेन अभिकर्मक जैसे हल्के ऑक्सीकरण एजेंट का उपयोग करके जब एक एल्डिहाइड को ऑक्सीकृत किया जाता है, तो मुख्य उत्पाद क्या बनता है?",
+  "optsEn": [
+   "Ketone",
+   "Carboxylic acid",
+   "Alkane",
+   "Primary alcohol"
+  ],
+  "optsHi": [
+   "कीटोन",
+   "कार्बोक्जिलिक अम्ल",
+   "ऐल्केन",
+   "प्राथमिक ऐल्कोहॉल"
+  ],
+  "correct": 1,
+  "explainEn": "Oxidation of aldehydes yields carboxylic acids with the same number of carbon atoms.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:43:15Z"
+ },
+ {
+  "id": "q_d224dfe448455116",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which enzyme is primarily responsible for the continuous replication of the leading strand during DNA replication in prokaryotes?",
+  "qHi": "प्रोकैरियोट्स में डीएनए प्रतिकृति के दौरान प्रमुख रज्जु (leading strand) के निरंतर प्रतिकृति के लिए मुख्य रूप से कौन सा एंजाइम जिम्मेदार है?",
+  "optsEn": [
+   "DNA polymerase I",
+   "DNA polymerase III",
+   "RNA primase",
+   "DNA ligase"
+  ],
+  "optsHi": [
+   "डीएनए पोलीमरेज़ I",
+   "डीएनए पोलीमरेज़ III",
+   "आरएनए प्राइमेज",
+   "डीएनए लाइगेस"
+  ],
+  "correct": 1,
+  "explainEn": "DNA polymerase III is the main replication enzyme in prokaryotes that synthesizes the leading strand continuously and the lagging strand discontinuously.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 6: Molecular Basis of Inheritance",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:44:47Z"
+ },
+ {
+  "id": "q_35ae8fcaab5a4c14",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the hybridization and geometry of the central metal atom in the coordination complex [Co(NH3)6]3+?",
+  "qHi": "उपसहसंयोजन संकुल [Co(NH3)6]3+ में केंद्रीय धातु परमाणु का संकरण और ज्यामिति क्या है?",
+  "optsEn": [
+   "sp3d2, octahedral",
+   "dsp2, square planar",
+   "d2sp3, octahedral",
+   "sp3, tetrahedral"
+  ],
+  "optsHi": [
+   "sp3d2, अष्टफलकीय",
+   "dsp2, वर्ग समतलीय",
+   "d2sp3, अष्टफलकीय",
+   "sp3, चतुष्फलकीय"
+  ],
+  "correct": 2,
+  "explainEn": "Cobalt(III) in [Co(NH3)6]3+ is a d6 system where Co3+ forces pairing of electrons in the presence of strong field ligand NH3, undergoing d2sp3 hybridization to form an inner orbital octahedral complex.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 5: Coordination Compounds",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:44:47Z"
+ },
+ {
+  "id": "q_c0390d73acc77789",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under Article 352 of the Constitution of India, a Proclamation of National Emergency may be issued on which of the following grounds?",
+  "qHi": "भारत के संविधान के अनुच्छेद 352 के तहत, राष्ट्रीय आपातकाल की उद्घोषणा निम्नलिखित में से किन आधारों पर की जा सकती है?",
+  "optsEn": [
+   "War, external aggression, or internal disturbance",
+   "War, external aggression, or armed rebellion",
+   "Failure of constitutional machinery in a state",
+   "Financial instability or threat to economic credit"
+  ],
+  "optsHi": [
+   "युद्ध, बाह्य आक्रमण, या आंतरिक अशांति",
+   "युद्ध, बाह्य आक्रमण, या सशस्त्र विद्रोह",
+   "किसी राज्य में संवैधानिक तंत्र की विफलता",
+   "वित्तीय अस्थिरता या आर्थिक साख को खतरा"
+  ],
+  "correct": 1,
+  "explainEn": "By the 44th Constitutional Amendment Act of 1978, the term 'internal disturbance' was replaced with 'armed rebellion' as a ground for National Emergency under Article 352.",
+  "sourceHint": "Constitution of India, Article 352 and NCERT Political Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:44:47Z"
+ },
+ {
+  "id": "q_1f5b8d9355be0b04",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which macroeconomic aggregate is calculated by subtracting net factor income from abroad (NFIA) from Gross National Product (GNP)?",
+  "qHi": "सकल राष्ट्रीय उत्पाद (GNP) में से विदेशों से शुद्ध कारक आय (NFIA) घटाकर कौन सा समष्टि अर्थशास्त्र कुल योग प्राप्त किया जाता है?",
+  "optsEn": [
+   "Net Domestic Product",
+   "Gross Domestic Product",
+   "National Income",
+   "Disposable Personal Income"
+  ],
+  "optsHi": [
+   "शुद्ध घरेलू उत्पाद",
+   "सकल घरेलू उत्पाद",
+   "राष्ट्रीय आय",
+   "प्रयोज्य व्यक्तिगत आय"
+  ],
+  "correct": 1,
+  "explainEn": "GNP minus Net Factor Income from Abroad (NFIA) equals Gross Domestic Product (GDP).",
+  "sourceHint": "NCERT Class 12 Economics (Introductory Macroeconomics), Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:44:47Z"
+ },
+ {
+  "id": "q_7c3ca40a66902a79",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In a Young's double slit experiment, if the monochromatic source is replaced by a white light source, what change is observed in the interference pattern?",
+  "qHi": "यंग के द्वि-झिरी प्रयोग में, यदि एकवर्ण F (monochromatic) स्रोत को श्वेत प्रकाश स्रोत से बदल दिया जाए, तो व्यतिकरण प्रतिरूप में क्या परिवर्तन देखा जाता है?",
+  "optsEn": [
+   "The fringe pattern disappears completely.",
+   "A white bright fringe is formed at the center, flanked by a few colored fringes.",
+   "Only uniform white illumination is seen across the screen.",
+   "Alternate dark and bright fringes of equal width are formed for all wavelengths."
+  ],
+  "optsHi": [
+   "फ्रिंज प्रतिरूप पूरी तरह से गायब हो जाता है।",
+   "केंद्र में एक सफेद चमकीली फ्रिंज बनती है, जिसके दोनों ओर कुछ रंगीन फ्रिंज होती हैं।",
+   "पर्दे पर केवल एकसमान सफेद रोशनी दिखाई देती है।",
+   "सभी तरंग दैर्ध्य के लिए समान चौड़ाई की एकांतर काली और चमकीली फ्रिंज बनती हैं।"
+  ],
+  "correct": 1,
+  "explainEn": "With white light, the path difference is zero for all wavelengths at the central maximum, forming a white fringe. Other wavelengths form colored fringes due to varying fringe widths.",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 10: Wave Optics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:44:47Z"
+ },
+ {
+  "id": "q_7bc6273e8b3e8857",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In a face-centered cubic (FCC) lattice, what is the total number of octahedral voids present per unit cell?",
+  "qHi": "एक फलक-केंद्रित घनीय (FCC) जालक में, प्रति एकक कोष्ठिका में उपस्थित अष्टफलकीय रिक्तियों की कुल संख्या कितनी होती है?",
+  "optsEn": [
+   "1",
+   "2",
+   "4",
+   "8"
+  ],
+  "optsHi": [
+   "1",
+   "2",
+   "4",
+   "8"
+  ],
+  "correct": 2,
+  "explainEn": "In an FCC unit cell, the number of effective atoms per unit cell is 4. The number of octahedral voids is equal to the number of effective atoms, which is 4.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 1: The Solid State",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-14T21:44:47Z"
  }
 ]
