@@ -13270,5 +13270,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-15T11:37:27Z"
+ },
+ {
+  "id": "q_bdfaa269653060f7",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organism is commonly used for studying the lac operon model of gene regulation?",
+  "qHi": "जीन विनियमन के लैक ऑपेरॉन मॉडल के अध्ययन के लिए आमतौर पर किस जीव का उपयोग किया जाता है?",
+  "optsEn": [
+   "Escherichia coli",
+   "Drosophila melanogaster",
+   "Saccharomyces cerevisiae",
+   "Pisum sativum"
+  ],
+  "optsHi": [
+   "एशचेरिचिया कोलाई",
+   "ड्रोसोफिला मेलानोगास्टर",
+   "सैकरोमाइसेस सेरेविसी",
+   "पिसम सैटिवम"
+  ],
+  "correct": 0,
+  "explainEn": "François Jacob and Jacques Monod used the bacterium Escherichia coli to elucidate the lac operon.",
+  "sourceHint": "NCERT Class 12 Biology Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:03:13Z"
+ },
+ {
+  "id": "q_eb5433088ce3a5b4",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which metal is obtained primarily from the ore bauxite?",
+  "qHi": "मुख्य रूप से बॉक्साइट अयस्क से कौन सी धातु प्राप्त की जाती है?",
+  "optsEn": [
+   "Iron",
+   "Copper",
+   "Aluminium",
+   "Zinc"
+  ],
+  "optsHi": [
+   "लोहा",
+   "तांबा",
+   "एल्यूमीनियम",
+   "जस्ता"
+  ],
+  "correct": 2,
+  "explainEn": "Bauxite is the primary ore of aluminium, containing hydrated aluminium oxides.",
+  "sourceHint": "NCERT Class 12 Chemistry Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:03:13Z"
+ },
+ {
+  "id": "q_093a3657b616b38c",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the 'M' stand for in the macroeconomic aggregate M1 money supply?",
+  "qHi": "समष्टि अर्थशास्त्र के अंतर्गत एम1 मुद्रा आपूर्ति में 'M' का क्या अर्थ है?",
+  "optsEn": [
+   "Market",
+   "Monetary",
+   "Money",
+   "Management"
+  ],
+  "optsHi": [
+   "बाजार",
+   "मौद्रिक",
+   "धन (मनी)",
+   "प्रबंधन"
+  ],
+  "correct": 2,
+  "explainEn": "M1 represents money supply, comprising currency with the public and demand deposits with commercial banks.",
+  "sourceHint": "NCERT Class 12 Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:03:13Z"
+ },
+ {
+  "id": "q_4eb9f66e5291913c",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which dynasty constructed the famous Brihadisvara Temple at Thanjavur?",
+  "qHi": "तंजौर के प्रसिद्ध बृहदेश्वर मंदिर का निर्माण किस राजवंश ने करवाया था?",
+  "optsEn": [
+   "Chola dynasty",
+   "Gupta dynasty",
+   "Maurya dynasty",
+   "Pallava dynasty"
+  ],
+  "optsHi": [
+   "चोल राजवंश",
+   "गुप्त राजवंश",
+   "मौर्य राजवंश",
+   "पल्लव राजवंश"
+  ],
+  "correct": 0,
+  "explainEn": "The Brihadisvara Temple was built by Raja Raja Chola I during the Chola dynasty.",
+  "sourceHint": "NCERT Class 12 History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:03:13Z"
+ },
+ {
+  "id": "q_e2c55847e715801b",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the molecularity of an elementary chemical reaction where two reactant molecules collide simultaneously?",
+  "qHi": "एक प्राथमिक रासायनिक अभिक्रिया की आणविकता क्या होती है जिसमें दो अभिकारक अणु एक साथ टकराते हैं?",
+  "optsEn": [
+   "Zero",
+   "Unimolecular",
+   "Bimolecular",
+   "Trimolecular"
+  ],
+  "optsHi": [
+   "शून्य",
+   "एकणुक",
+   "द्विणुक",
+   "त्रिविधक"
+  ],
+  "correct": 2,
+  "explainEn": "Molecularity is the number of reacting species colliding simultaneously in an elementary reaction. When two species collide, it is bimolecular.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:04:31Z"
+ },
+ {
+  "id": "q_b07f3ab3dd7a1296",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which article of the Constitution of India provides the right to constitutional remedies?",
+  "qHi": "भारत के संविधान का कौन सा अनुच्छेद संवैधानिक उपचार का अधिकार प्रदान करता है?",
+  "optsEn": [
+   "Article 14",
+   "Article 19",
+   "Article 21",
+   "Article 32"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14",
+   "अनुच्छेद 19",
+   "अनुच्छेद 21",
+   "अनुच्छेद 32"
+  ],
+  "correct": 3,
+  "explainEn": "Article 32 gives the right to move the Supreme Court for the enforcement of Fundamental Rights, described by Dr. B.R. Ambedkar as the heart and soul of the Constitution.",
+  "sourceHint": "Constitution of India, Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:04:31Z"
+ },
+ {
+  "id": "q_78c69a682d0345e2",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which phenomenon demonstrates the particle nature of light by showing the emission of electrons from a metal surface?",
+  "qHi": "कौन सी घटना धातु की सतह से इलेक्ट्रॉनों के उत्सर्जन को दिखाकर प्रकाश की कण प्रकृति को प्रदर्शित करती है?",
+  "optsEn": [
+   "Interference",
+   "Diffraction",
+   "Photoelectric effect",
+   "Polarization"
+  ],
+  "optsHi": [
+   "व्यतिकरण",
+   "विवर्तन",
+   "प्रकाश विद्युत प्रभाव",
+   "ध्रुवीकरण"
+  ],
+  "correct": 2,
+  "explainEn": "The photoelectric effect proves that light interacts with matter as discrete packets of energy (photons), highlighting particle nature.",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:04:31Z"
+ },
+ {
+  "id": "q_9f5d1a770a5d6be7",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary mode of reproduction in Saccharomyces cerevisiae (yeast)?",
+  "qHi": "सैकरोमाइसेज सेरेविसी (खमीर) में जनन की मुख्य विधि क्या है?",
+  "optsEn": [
+   "Binary fission",
+   "Budding",
+   "Spore formation",
+   "Fragmentation"
+  ],
+  "optsHi": [
+   "द्विखंडन",
+   "मुकुलन",
+   "बीजाणु निर्माण",
+   "खंडन"
+  ],
+  "correct": 1,
+  "explainEn": "Yeast commonly reproduces asexually by forming a small bud that pinches off from the parent cell.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:04:31Z"
+ },
+ {
+  "id": "q_fa3ec5de66f7118c",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which British Governor-General introduced the Permanent Settlement in Bengal in 1793?",
+  "qHi": "किस ब्रिटिश गवर्नर-जनरल ने 1793 में बंगाल में स्थायी बंदोबस्त की शुरुआत की थी?",
+  "optsEn": [
+   "Warren Hastings",
+   "Lord Cornwallis",
+   "Lord Wellesley",
+   "Lord Dalhousie"
+  ],
+  "optsHi": [
+   "वारेन हेस्टिंग्स",
+   "लॉर्ड कॉर्नवॉलिस",
+   "लॉर्ड वेलेजली",
+   "लॉर्ड डलहौजी"
+  ],
+  "correct": 1,
+  "explainEn": "Lord Cornwallis introduced the Permanent Settlement system with Bengali zamindars for revenue collection in 1793.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:04:31Z"
  }
 ]

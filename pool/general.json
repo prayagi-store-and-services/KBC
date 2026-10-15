@@ -9462,5 +9462,397 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-15T11:38:02Z"
+ },
+ {
+  "id": "q_47ad92fe4eca45c5",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas do human beings primarily inhale for survival?",
+  "qHi": "मनुष्य जीवित रहने के लिए मुख्य रूप से कौन सी गैस अंदर लेते हैं?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Oxygen",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Humans inhale oxygen, which is essential for cellular respiration.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:02:49Z"
+ },
+ {
+  "id": "q_185713f7b520f000",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which city is the famous Taj Mahal located?",
+  "qHi": "प्रसिद्ध ताजमहल किस शहर में स्थित है?",
+  "optsEn": [
+   "Agra",
+   "Jaipur",
+   "Delhi",
+   "Lucknow"
+  ],
+  "optsHi": [
+   "आगरा",
+   "जयपुर",
+   "दिल्ली",
+   "लखनऊ"
+  ],
+  "correct": 0,
+  "explainEn": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:02:49Z"
+ },
+ {
+  "id": "q_010f7b0d32daebab",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which traditional Indian classical dance originated in the state of Kerala?",
+  "qHi": "कौन सा पारंपरिक भारतीय शास्त्रीय नृत्य केरल राज्य में उत्पन्न हुआ था?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a major form of classical Indian dance characterized by its elaborate make-up and costumes, originating in Kerala.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:02:49Z"
+ },
+ {
+  "id": "q_65bb292d409b233f",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which state is the Kaziranga National Park, famous for hosting the world's largest population of great Indian one-horned rhinoceroses, primarily located?",
+  "qHi": "दुनिया के सबसे बड़े एक सींग वाले गैंडों की आबादी के लिए प्रसिद्ध काजीरंगा राष्ट्रीय उद्यान मुख्य रूप से किस राज्य में स्थित है?",
+  "optsEn": [
+   "West Bengal",
+   "Assam",
+   "Uttarakhand",
+   "Madhya Pradesh"
+  ],
+  "optsHi": [
+   "पश्चिम बंगाल",
+   "असम",
+   "उत्तराखंड",
+   "मध्य प्रदेश"
+  ],
+  "correct": 1,
+  "explainEn": "Kaziranga National Park is located in the northeastern state of Assam.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:04:00Z"
+ },
+ {
+  "id": "q_cd76f606890b6006",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which classical dance form originated in the state of Kerala and is traditionally performed with elaborate makeup and colorful costumes?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप केरल राज्य में उत्पन्न हुआ और पारंपरिक रूप से विस्तृत मेकअप और रंगीन वेशभूषा के साथ किया जाता है?",
+  "optsEn": [
+   "Kathakali",
+   "Bharatanatyam",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "कथकली",
+   "भरतनाट्यम",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 0,
+  "explainEn": "Kathakali is a major form of classical Indian dance native to Kerala.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:04:00Z"
+ },
+ {
+  "id": "q_fd667bd42418a30a",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary gas that makes up the atmosphere of the planet Jupiter?",
+  "qHi": "बृहस्पति ग्रह के वायुमंडल में मुख्य रूप से कौन सी गैस पाई जाती है?",
+  "optsEn": [
+   "Oxygen and Nitrogen",
+   "Carbon Dioxide and Argon",
+   "Hydrogen and Helium",
+   "Methane and Ammonia"
+  ],
+  "optsHi": [
+   "ऑक्सीजन और नाइट्रोजन",
+   "कार्बन डाइऑक्साइड और आर्गन",
+   "हाइड्रोजन और हीलियम",
+   "मीथेन और अमोनिया"
+  ],
+  "correct": 2,
+  "explainEn": "Jupiter is a gas giant primarily composed of hydrogen and helium.",
+  "sourceHint": "NASA Solar System Exploration",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:04:00Z"
+ },
+ {
+  "id": "q_a64303087d71794c",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin is synthesized by the human body when the skin is exposed to sunlight?",
+  "qHi": "सूर्य के प्रकाश के संपर्क में आने पर मानव शरीर द्वारा कौन सा विटामिन संश्लेषित किया जाता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin C",
+   "Vitamin D",
+   "Vitamin K"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन सी",
+   "विटामिन डी",
+   "विटामिन के"
+  ],
+  "correct": 2,
+  "explainEn": "Vitamin D is often called the sunshine vitamin because the body produces it when exposed to ultraviolet B rays from the sun.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:04:00Z"
+ },
+ {
+  "id": "q_caaebfcbcd0e3169",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which musical instrument is the renowned Indian maestro Pandit Ravi Shankar universally associated with?",
+  "qHi": "प्रसिद्ध भारतीय उस्ताद पंडित रविशंकर सार्वभौमिक रूप से किस वाद्ययंत्र से जुड़े हैं?",
+  "optsEn": [
+   "Sarod",
+   "Sitar",
+   "Flute",
+   "Tabla"
+  ],
+  "optsHi": [
+   "सरोद",
+   "सितार",
+   "बांसुरी",
+   " tabla"
+  ],
+  "correct": 1,
+  "explainEn": "Pandit Ravi Shankar was a world-renowned virtuoso of the sitar.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:04:00Z"
+ },
+ {
+  "id": "q_800e07364a52c3bb",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which biogeographic zone of India is the Sundarbans mangrove forest primarily classified?",
+  "qHi": "भारत के किस जैव-भौgolिक क्षेत्र में सुंदरबन मैंग्रोव वन को मुख्य रूप से वर्गीकृत किया गया है?",
+  "optsEn": [
+   "Western Ghats",
+   "Coasts",
+   "Gangetic Plain",
+   "North-East"
+  ],
+  "optsHi": [
+   "पश्चिमी घाट",
+   "तटीय क्षेत्र",
+   "गंगा का मैदान",
+   "उत्तर-पूर्व"
+  ],
+  "correct": 1,
+  "explainEn": "",
+  "sourceHint": "Wildlife Institute of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:04:58Z"
+ },
+ {
+  "id": "q_2a3f7ed0a685a014",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary mineral ore from which aluminium is commercially extracted in India?",
+  "qHi": "भारत में एल्युमिनियम का व्यावसायिक रूप से निष्कर्षण किस मुख्य खनिज अयस्क से किया जाता है?",
+  "optsEn": [
+   "Hematite",
+   "Bauxite",
+   "Pyrite",
+   "Magnetite"
+  ],
+  "optsHi": [
+   "हेमेटाइट",
+   "बॉкси्ट",
+   "पाइराइट",
+   "मैग्नेटाइट"
+  ],
+  "correct": 1,
+  "explainEn": "Bauxite is the primary ore of aluminium.",
+  "sourceHint": "NCERT Class 10 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:04:58Z"
+ },
+ {
+  "id": "q_0ba458785607a71b",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which planet in our solar system has the maximum number of officially recognized natural satellites as of recent astronomical counts?",
+  "qHi": "हाल की खगोलीय गणना के अनुसार हमारे सौरमंडल के किस ग्रह के पास आधिकारिक तौर पर मान्यता प्राप्त प्राकृतिक उपग्रहों की संख्या सबसे अधिक है?",
+  "optsEn": [
+   "Jupiter",
+   "Saturn",
+   "Uranus",
+   "Neptune"
+  ],
+  "optsHi": [
+   "बृहस्पति",
+   "शनि",
+   "यूरेनस",
+   "नेपच्यून"
+  ],
+  "correct": 1,
+  "explainEn": "Saturn holds the record for the highest number of recognized moons in the solar system.",
+  "sourceHint": "International Astronomical Union",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:04:58Z"
+ },
+ {
+  "id": "q_42fd4ef79eebc9a0",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian classical music, what does the term 'Khayal' literally translate to?",
+  "qHi": "भारतीय शास्त्रीय संगीत के संदर्भ में 'ख्याल' शब्द का शाब्दिक अर्थ क्या है?",
+  "optsEn": [
+   "Strict discipline",
+   "Imagination",
+   "Ancient rhythm",
+   "Divine prayer"
+  ],
+  "optsHi": [
+   "कठोर अनुशासन",
+   "कल्पना",
+   "प्राचीन ताल",
+   "दिव्य प्रार्थना"
+  ],
+  "correct": 1,
+  "explainEn": "Khayal is an Arabic/Persian word that literally translates to 'imagination' or 'thought'.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:04:58Z"
+ },
+ {
+  "id": "q_6323ebb238460b05",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian state is the largest producer of raw silk as per recent Central Silk Board data?",
+  "qHi": "केंद्रीय रेशम बोर्ड के हालिया आंकड़ों के अनुसार कौन सा भारतीय राज्य कच्चे रेशम का सबसे बड़ा उत्पादक है?",
+  "optsEn": [
+   "Karnataka",
+   "Assam",
+   "West Bengal",
+   "Tamil Nadu"
+  ],
+  "optsHi": [
+   "कर्नाटक",
+   "असम",
+   "पश्चिम बंगाल",
+   "तमिलनाडु"
+  ],
+  "correct": 0,
+  "explainEn": "Karnataka traditionally leads India in raw mulberry silk production.",
+  "sourceHint": "Central Silk Board, Ministry of Textiles",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:04:58Z"
+ },
+ {
+  "id": "q_3dfbf9f97d4f908c",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the chemical formula of heavy water used as a moderator in nuclear reactors?",
+  "qHi": "परमाणु रिएक्टरों में मॉडरेटर के रूप में प्रयुक्त भारी पानी का रासायनिक सूत्र क्या है?",
+  "optsEn": [
+   "H2O2",
+   "D2O",
+   "T2O",
+   "H3O"
+  ],
+  "optsHi": [
+   "H2O2",
+   "D2O",
+   "T2O",
+   "H3O"
+  ],
+  "correct": 1,
+  "explainEn": "Heavy water is deuterium oxide, represented chemically as D2O.",
+  "sourceHint": "NCERT Class 12 Chemistry",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:04:58Z"
  }
 ]

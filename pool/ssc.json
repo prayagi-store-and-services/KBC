@@ -9294,5 +9294,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-15T11:37:47Z"
+ },
+ {
+  "id": "q_f0d06f8f38c47277",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who is the custodian of the Constitution of India?",
+  "qHi": "भारत के संविधान का संरक्षक कौन है?",
+  "optsEn": [
+   "Supreme Court of India",
+   "Prime Minister of India",
+   "President of India",
+   "Speaker of Lok Sabha"
+  ],
+  "optsHi": [
+   "भारत का उच्चतम न्यायालय",
+   "भारत के प्रधानमंत्री",
+   "भारत के राष्ट्रपति",
+   "लोकसभा अध्यक्ष"
+  ],
+  "correct": 0,
+  "explainEn": "The Supreme Court is the final interpreter and custodian of the Indian Constitution.",
+  "sourceHint": "Constitution of India / NCERT Class 11 Political Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:03:49Z"
+ },
+ {
+  "id": "q_4d3f17364134ffac",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organism is commonly known as the 'Portuguese man-of-war'?",
+  "qHi": "किस जीव को आमतौर पर 'पुर्तगाली मैन-ऑफ-वार' कहा जाता है?",
+  "optsEn": [
+   "Physalia physalis",
+   "Aurelia aurita",
+   "Octopus vulgaris",
+   "Sepia officinalis"
+  ],
+  "optsHi": [
+   "फिसेलिया फिसालिस",
+   "ऑरेलिया ऑरिटा",
+   "ऑक्टोपस वल्गरिस",
+   "सेपिया ऑफिसिनालिस"
+  ],
+  "correct": 0,
+  "explainEn": "Physalia physalis, a marine cnidarian, is commonly known as the Portuguese man-of-war.",
+  "sourceHint": "NCERT Biology Class 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:04:47Z"
+ },
+ {
+  "id": "q_f0a8cf908c98c0eb",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The 'Purna Swaraj' resolution was formally adopted at which session of the Indian National Congress?",
+  "qHi": "भारतीय राष्ट्रीय कांग्रेस के किस अधिवेशन में 'पूर्ण स्वराज' प्रस्ताव को औपचारिक रूप से अपनाया गया था?",
+  "optsEn": [
+   "Calcutta Session, 1928",
+   "Lahore Session, 1929",
+   "Karachi Session, 1931",
+   "Tripuri Session, 1939"
+  ],
+  "optsHi": [
+   "कलकत्ता अधिवेशन, 1928",
+   "लाहौर अधिवेशन, 1929",
+   "कराची अधिवेशन, 1931",
+   "त्रिपुरी अधिवेशन, 1939"
+  ],
+  "correct": 1,
+  "explainEn": "The Lahore session of the INC in December 1929 passed the Purna Swaraj resolution under the presidency of Jawaharlal Nehru.",
+  "sourceHint": "Modern Indian History by Bipin Chandra",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:04:47Z"
+ },
+ {
+  "id": "q_7d6cfb3860632710",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary function of ribosomes inside a living cell?",
+  "qHi": "एक जीवित कोशिका के अंदर राइबोसोम का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "Lipid synthesis",
+   "Protein synthesis",
+   "ATP generation",
+   "DNA replication"
+  ],
+  "optsHi": [
+   "लिपिड संश्लेषण",
+   "प्रोटीन संश्लेषण",
+   "एटीपी उत्पादन",
+   "डीएनए प्रतिकृति"
+  ],
+  "correct": 1,
+  "explainEn": "Ribosomes are cellular structures responsible for synthesizing proteins by translating messenger RNA.",
+  "sourceHint": "NCERT Biology Class 9",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:04:47Z"
  }
 ]

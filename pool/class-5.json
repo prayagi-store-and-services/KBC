@@ -12122,5 +12122,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-15T11:36:33Z"
+ },
+ {
+  "id": "q_89d1c6f5fea8681f",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these animals is primarily nocturnal and sleeps upside down during the day?",
+  "qHi": "इनमें से कौन सा जानवर मुख्य रूप से निशाचर है और दिन में उल्टा लटककर सोता है?",
+  "optsEn": [
+   "Sloth",
+   "Bat",
+   "Monkey",
+   "Squirrel"
+  ],
+  "optsHi": [
+   "स्लॉट",
+   "चमगादड़",
+   "बंदर",
+   "गिलहरी"
+  ],
+  "correct": 1,
+  "explainEn": "Bats are nocturnal mammals that typically roost upside down during the daylight hours.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:02:54Z"
+ },
+ {
+  "id": "q_1956525f32f950af",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of natural resource is sunlight?",
+  "qHi": "सूर्य का प्रकाश किस प्रकार का प्राकृतिक संसाधन है?",
+  "optsEn": [
+   "Exhaustible resource",
+   "Non-renewable resource",
+   "Renewable resource",
+   "Fossil fuel"
+  ],
+  "optsHi": [
+   "समाप्त होने योग्य संसाधन",
+   "अनवीकरणीय संसाधन",
+   "नवीकरणीय संसाधन",
+   "जीवाश्म ईंधन"
+  ],
+  "correct": 2,
+  "explainEn": "Sunlight is an infinite and renewable source of energy that does not run out.",
+  "sourceHint": "NCERT Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:02:54Z"
+ },
+ {
+  "id": "q_f1e014169ec1f3da",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following imaginary lines divides the Earth into the Northern and Southern Hemispheres?",
+  "qHi": "निम्नलिखित में से कौन सी काल्पनिक रेखा पृथ्वी को उत्तरी और दक्षिणी गोलार्ध में विभाजित करती है?",
+  "optsEn": [
+   "Equator",
+   "Tropic of Cancer",
+   "Prime Meridian",
+   "Tropic of Capricorn"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा (विषुवत वृत्त)",
+   "कर्क रेखा",
+   "प्रमुख याम्योत्तर (प्राइम मेरिडियन)",
+   "मकर रेखा"
+  ],
+  "correct": 0,
+  "explainEn": "The Equator is the 0-degree latitude line that divides the Earth into the Northern and Southern Hemispheres.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:04:05Z"
+ },
+ {
+  "id": "q_21f0511c4ece6f0a",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which state in India is well known for the classical dance form called Kathakali?",
+  "qHi": "भारत का कौन सा राज्य कथकली शास्त्रीय नृत्य शैली के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Tamil Nadu",
+   "Kerala",
+   "Assam",
+   "Odisha"
+  ],
+  "optsHi": [
+   "तमिलनाडु",
+   "केरल",
+   "असम",
+   "ओडिशा"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a traditional classical dance-drama that originated in the southern state of Kerala.",
+  "sourceHint": "NCERT Art and Culture references",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:04:05Z"
+ },
+ {
+  "id": "q_97d054b82b195184",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these planets is known as the Red Planet in our solar system?",
+  "qHi": "हमारे सौर मंडल में इनमें से किस ग्रह को लाल ग्रह के रूप में जाना जाता है?",
+  "optsEn": [
+   "Venus",
+   "Mars",
+   "Jupiter",
+   "Mercury"
+  ],
+  "optsHi": [
+   "शुक्र",
+   "मंगल",
+   "बृहस्पति",
+   "बुध"
+  ],
+  "correct": 1,
+  "explainEn": "Mars appears reddish because of iron oxide (rust) on its surface, earning it the name Red Planet.",
+  "sourceHint": "NCERT Class 6 Science Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:04:05Z"
+ },
+ {
+  "id": "q_42470f314c6a1c3e",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which planet in our solar system has the highest surface temperature due to a runaway greenhouse effect caused by its thick carbon dioxide atmosphere?",
+  "qHi": "हमारे सौर मंडल में किस ग्रह की सतह का तापमान सबसे अधिक है, जिसका कारण इसके मोटे कार्बन डाइऑक्साइड वायुमंडल के कारण होने वाला भगोड़ा ग्रीनहाउस प्रभाव है?",
+  "optsEn": [
+   "Mercury",
+   "Venus",
+   "Mars",
+   "Jupiter"
+  ],
+  "optsHi": [
+   "बुध",
+   "शुक्र",
+   "मंगल",
+   "बृहस्पति"
+  ],
+  "correct": 1,
+  "explainEn": "Venus is the hottest planet because its thick carbon dioxide atmosphere traps heat effectively, even though Mercury is closer to the Sun.",
+  "sourceHint": "NCERT Class 6 Science Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:05:08Z"
+ },
+ {
+  "id": "q_20734a3d66c66ba0",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which part of a plant cell contains chlorophyll and is responsible for capturing light energy to perform photosynthesis?",
+  "qHi": "पादप कोशिका के किस भाग में क्लोरोफिल होता है और जो प्रकाश संश्लेषण करने के लिए प्रकाश ऊर्जा को कैप्चर करने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Nucleus",
+   "Mitochondria",
+   "Chloroplast",
+   "Vacuole"
+  ],
+  "optsHi": [
+   "केंद्रक",
+   "माइटोकॉन्ड्रिया",
+   "क्लोरोप्लास्ट",
+   "रिक्तिका"
+  ],
+  "correct": 2,
+  "explainEn": "Chloroplasts contain the green pigment chlorophyll, which absorbs sunlight for plants to make their food.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:05:08Z"
+ },
+ {
+  "id": "q_4e1c4929212ece1a",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the name of the imaginary line of latitude located at 23.5 degrees North that passes through the middle of India?",
+  "qHi": "23.5 डिग्री उत्तर पर स्थित उस काल्पनिक अक्षांश रेखा का नाम क्या है जो भारत के मध्य से गुजरती है?",
+  "optsEn": [
+   "Equator",
+   "Tropic of Cancer",
+   "Tropic of Capricorn",
+   "Prime Meridian"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा",
+   "कर्क रेखा",
+   "मकर रेखा",
+   "प्रमुख याम्योत्तर"
+  ],
+  "correct": 1,
+  "explainEn": "The Tropic of Cancer (23.5° N) passes almost halfway through the country of India.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:05:08Z"
+ },
+ {
+  "id": "q_d817dab6855d75e4",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian classical dance form originated in the state of Kerala and is traditionally performed with elaborate facial makeup and colorful costumes?",
+  "qHi": "कौन सा भारतीय शास्त्रीय नृत्य रूप केरल राज्य में उत्पन्न हुआ और पारंपरिक रूप से विस्तृत चेहरे के मेकअप और रंगीन वेशभूषा के साथ किया जाता है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a major classical dance form from Kerala known for its storytelling, heavy makeup, and costumes.",
+  "sourceHint": "NCERT Class 6 Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:05:08Z"
+ },
+ {
+  "id": "q_96cf9809e5303af5",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which vitamin is primarily synthesized in human skin when it is exposed to direct sunlight?",
+  "qHi": "प्रत्यक्ष सूर्य के प्रकाश के संपर्क में आने पर मानव त्वचा में मुख्य रूप से कौन सा विटामिन संश्लेषित होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Sunlight helps the human body produce Vitamin D, which is essential for healthy bones and teeth.",
+  "sourceHint": "NCERT Class 6 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:05:08Z"
+ },
+ {
+  "id": "q_da7fd954301413b6",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the term for the process in which a liquid changes directly into a gas without first becoming a liquid, or vice versa? Wait, let's use the standard deposition/sublimation question: Which process describes the direct conversion of a solid into a gas without changing into a liquid state?",
+  "qHi": "उस प्रक्रिया के लिए क्या शब्द है जिसमें कोई ठोस पदार्थ बिना द्रव अवस्था में बदले सीधे गैस में परिवर्तित हो जाता है?",
+  "optsEn": [
+   "Evaporation",
+   "Condensation",
+   "Sublimation",
+   "Melting"
+  ],
+  "optsHi": [
+   "वाष्पीकरण",
+   "संघनन",
+   "ऊर्ध्वपातन",
+   "गलनांक"
+  ],
+  "correct": 2,
+  "explainEn": "Sublimation is the transition of a substance directly from the solid to the gas state, such as camphor or dry ice.",
+  "sourceHint": "NCERT Class 9 Science (Foundation level concepts)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:05:08Z"
+ },
+ {
+  "id": "q_86c20f8abb09e857",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which physical feature acts as a natural climatic barrier protecting the Indian subcontinent from the freezing winds of Central Asia?",
+  "qHi": "कौन सी भौतिक विशेषता मध्य एशिया की ठंडी हवाओं से भारतीय उपमहाद्वीप की रक्षा करने वाले एक प्राकृतिक जलवायु अवरोध के रूप में कार्य करती है?",
+  "optsEn": [
+   "The Vindhya Range",
+   "The Himalayas",
+   "The Western Ghats",
+   "The Aravalli Range"
+  ],
+  "optsHi": [
+   "विंध्य श्रृंखला",
+   "हिमालय",
+   "पश्चिमी घाट",
+   "अरावली श्रृंखला"
+  ],
+  "correct": 1,
+  "explainEn": "The towering Himalayas block the bitter cold winds from Central Asia from entering India.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:05:08Z"
+ },
+ {
+  "id": "q_dba5dfbefc366c5b",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "According to the Constitution of India, who is the constitutional head of the executive of the Indian Union?",
+  "qHi": "भारत के संविधान के अनुसार, भारतीय संघ की कार्यपालिका का संवैधानिक प्रमुख कौन होता है?",
+  "optsEn": [
+   "The Prime Minister",
+   "The Chief Justice of India",
+   "The President of India",
+   "The Speaker of the Lok Sabha"
+  ],
+  "optsHi": [
+   "प्रधान मंत्री",
+   "भारत के मुख्य न्यायाधीश",
+   "भारत के राष्ट्रपति",
+   "लोकसभा अध्यक्ष"
+  ],
+  "correct": 2,
+  "explainEn": "Under Article 53 of the Constitution, the executive power of the Union is vested in the President, who is the constitutional head.",
+  "sourceHint": "Constitution of India, Article 53",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:05:08Z"
  }
 ]

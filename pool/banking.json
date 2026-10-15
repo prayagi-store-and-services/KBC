@@ -14110,5 +14110,397 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-15T11:37:56Z"
+ },
+ {
+  "id": "q_a1bda4fcb493d81b",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Dr. A. P. J. Abdul Kalam is widely known by which popular title in India?",
+  "qHi": "डॉ. ए. पी. जे. अब्दुल कलाम को भारत में किस लोकप्रिय नाम से जाना जाता है?",
+  "optsEn": [
+   "Missile Man of India",
+   "Father of the Indian Constitution",
+   "Iron Man of India",
+   "Metro Man of India"
+  ],
+  "optsHi": [
+   "भारत के मिसाइल मैन",
+   "भारतीय संविधान के जनक",
+   "भारत के लौह पुरुष",
+   "भारत के मेट्रो मैन"
+  ],
+  "correct": 0,
+  "explainEn": "Due to his work on ballistic missile and launch vehicle technology, he is known as the Missile Man of India.",
+  "sourceHint": "Defence Research and Development Organisation (DRDO)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:02:35Z"
+ },
+ {
+  "id": "q_7da6f8876e8852b1",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Which of the following well-known books was authored by Dr. A. P. J. Abdul Kalam?",
+  "qHi": "निम्नलिखित में से कौन सी प्रसिद्ध पुस्तक डॉ. ए. पी. जे. अब्दुल कलाम द्वारा लिखी गई थी?",
+  "optsEn": [
+   "Wings of Fire",
+   "Discovery of India",
+   "My Experiments with Truth",
+   "An Autobiography"
+  ],
+  "optsHi": [
+   "विंग्स ऑफ़ फायर",
+   "डिस्कवरी ऑफ़ इंडिया",
+   "माई एक्सपेरिमेंट्स विद ट्रूथ",
+   "एन ऑटोबायोग्राफी"
+  ],
+  "correct": 0,
+  "explainEn": "Wings of Fire is the autobiographical book of Dr. A. P. J. Abdul Kalam, co-written by Arun Tiwari.",
+  "sourceHint": "National Book Trust India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:02:35Z"
+ },
+ {
+  "id": "q_8a64d37a3d9b4faa",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Before entering public service as President, Dr. Kalam played a pivotal role in India's nuclear tests at which location?",
+  "qHi": "राष्ट्रपति के रूप में सार्वजनिक सेवा में आने से पहले, डॉ. कलाम ने किस स्थान पर भारत के परमाणु परीक्षणों में महत्वपूर्ण भूमिका निभाई थी?",
+  "optsEn": [
+   "Pokhran",
+   "Sriharikota",
+   "Thumba",
+   "Chandipur"
+  ],
+  "optsHi": [
+   "पोखरण",
+   "श्रीहरिकोटा",
+   "थुंबा",
+   "चांदीपुर"
+  ],
+  "correct": 0,
+  "explainEn": "Dr. Kalam served as the Chief Scientific Adviser to the Prime Minister and Secretary of the DRDO during the Pokhran-II nuclear tests in 1998.",
+  "sourceHint": "Press Information Bureau (PIB) India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:02:35Z"
+ },
+ {
+  "id": "q_3509de8493020e69",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Which prestigious civilian award was conferred upon Dr. A.P.J. Abdul Kalam in 1997?",
+  "qHi": "वर्ष 1997 में डॉ. ए.पी.जे. अब्दुल कलाम को कौन सा प्रतिष्ठित नागरिक पुरस्कार प्रदान किया गया था?",
+  "optsEn": [
+   "Padma Bhushan",
+   "Padma Shri",
+   "Bharat Ratna",
+   "Padma Vibhushan"
+  ],
+  "optsHi": [
+   "पद्म भूषण",
+   "पद्म श्री",
+   "भारत रत्न",
+   "पद्म विभूषण"
+  ],
+  "correct": 2,
+  "explainEn": "Dr. Kalam was awarded India's highest civilian honor, the Bharat Ratna, in 1997 for his contribution to scientific research and modernization of defense technology.",
+  "sourceHint": "Ministry of Home Affairs, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:03:55Z"
+ },
+ {
+  "id": "q_2e43888914906fc1",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "What was the codename of the Pokhran-II nuclear tests for which Dr. Kalam played a key organizational and technical role?",
+  "qHi": "पोखरण-द्वितीय परमाणु परीक्षण का कूट नाम क्या था जिसमें डॉ. कलाम ने एक प्रमुख संगठनात्मक और तकनीकी भूमिका निभाई थी?",
+  "optsEn": [
+   "Operation Smiling Buddha",
+   "Operation Shakti",
+   "Operation Vijay",
+   "Operation Meghdoot"
+  ],
+  "optsHi": [
+   "ऑपरेशन स्माइलिंग बुद्ध",
+   "ऑपरेशन शक्ति",
+   "ऑपरेशन विजय",
+   "ऑपरेशन मेघदूत"
+  ],
+  "correct": 1,
+  "explainEn": "Pokhran-II tests conducted in May 1998 were collectively called Operation Shakti, where Dr. Kalam served as the Chief Scientific Adviser to the Prime Minister.",
+  "sourceHint": "Department of Atomic Energy and DRDO official archives",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:03:55Z"
+ },
+ {
+  "id": "q_c17031c952d6a15f",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Dr. A.P.J. Abdul Kalam is widely known as the 'Missile Man of India' due to his work on which indigenous program?",
+  "qHi": "डॉ. ए.पी.जे. अब्दुल कलाम को किस स्वदेशी कार्यक्रम पर उनके काम के कारण व्यापक रूप से 'मिसाइल मैन ऑफ इंडिया' के रूप में जाना जाता है?",
+  "optsEn": [
+   "Integrated Guided Missile Development Programme",
+   "Indian National Satellite System",
+   "Polar Satellite Launch Vehicle",
+   "Advanced Medium Combat Aircraft"
+  ],
+  "optsHi": [
+   "एकीकृत निर्देशित मिसाइल विकास कार्यक्रम",
+   "भारतीय राष्ट्रीय उपग्रह प्रणाली",
+   "ध्रुवीय उपग्रह प्रक्षेपण यान",
+   "उन्नत मध्यम लड़ाकू विमान"
+  ],
+  "correct": 0,
+  "explainEn": "Dr. Kalam directed the Integrated Guided Missile Development Programme (IGMDP) at DRDO, leading to the development of Agni and Prithvi missiles.",
+  "sourceHint": "DRDO official records",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:03:55Z"
+ },
+ {
+  "id": "q_837730bbed724bd1",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Before joining DRDO and ISRO, from which educational institution did Dr. A.P.J. Abdul Kalam graduate with a degree in Aeronautical Engineering?",
+  "qHi": "डीआरडीओ और इसरो में शामिल होने से पहले, डॉ. ए.पी.जे. अब्दुल कलाम ने किस शिक्षण संस्थान से एयरोनॉटिकल इंजीनियरिंग में स्नातक की डिग्री प्राप्त की थी?",
+  "optsEn": [
+   "Indian Institute of Technology Madras",
+   "Madras Institute of Technology",
+   "Indian Institute of Science Bangalore",
+   "College of Engineering Guindy"
+  ],
+  "optsHi": [
+   "भारतीय प्रौद्योगिकी संस्थान मद्रास",
+   "मद्रास इंस्टीट्यूट ऑफ टेक्नोलॉजी",
+   "भारतीय विज्ञान संस्थान बेंगलुरु",
+   "कॉलेज ऑफ इंजीनियरिंग गिंडी"
+  ],
+  "correct": 1,
+  "explainEn": "Dr. Kalam studied Aeronautical Engineering at the Madras Institute of Technology (MIT), graduating in 1954.",
+  "sourceHint": "Official biographies and educational institution records",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:03:55Z"
+ },
+ {
+  "id": "q_419276d9927f8b06",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "In which year did the United Nations officially designate October 15, the birth anniversary of Dr. A. P. J. Abdul Kalam, as World Students' Day?",
+  "qHi": "किस वर्ष संयुक्त राष्ट्र ने डॉ. ए. पी. जे. अब्दुल कलाम की जयंती 15 अक्टूबर को आधिकारिक तौर पर विश्व छात्र दिवस के रूप में नामित किया?",
+  "optsEn": [
+   "2010",
+   "2015",
+   "2018",
+   "2020"
+  ],
+  "optsHi": [
+   "2010",
+   "2015",
+   "2018",
+   "2020"
+  ],
+  "correct": 1,
+  "explainEn": "The United Nations officially declared October 15 as World Students' Day in 2015, honoring Dr. Kalam's dedication to students and education.",
+  "sourceHint": "United Nations Public Information / PIB",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:04:53Z"
+ },
+ {
+  "id": "q_b9ae672aa057e651",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Dr. A. P. J. Abdul Kalam served as the Principal Scientific Adviser to the Government of India during which of the following significant national events?",
+  "qHi": "डॉ. ए. पी. जे. अब्दुल कलाम ने निम्नलिखित में से किस महत्वपूर्ण राष्ट्रीय घटना के दौरान भारत सरकार के प्रधान वैज्ञानिक सलाहकार के रूप में कार्य किया?",
+  "optsEn": [
+   "Pokhran-II nuclear tests in 1998",
+   "Launch of India's first satellite Aryabhata in 1975",
+   "Establishment of ISRO in 1969",
+   "Challenger space shuttle mission"
+  ],
+  "optsHi": [
+   "1998 में पोखरण-द्वितीय परमाणु परीक्षण",
+   "1975 में भारत के पहले उपग्रह आर्यभट्ट का प्रक्षेपण",
+   "1969 में इसरो की स्थापना",
+   "चैलेंजर अंतरिक्ष शटल मिशन"
+  ],
+  "correct": 0,
+  "explainEn": "Dr. Kalam served as the Principal Scientific Adviser from 1999 to 2001 and played a key technological role following the Pokhran-II nuclear tests in 1998.",
+  "sourceHint": "Cabinet Secretariat, Government of India / Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:04:53Z"
+ },
+ {
+  "id": "q_5487a7e1ef1e6550",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Before becoming the 11th President of India, Dr. A. P. J. Abdul Kalam was awarded the Bharat Ratna in which year?",
+  "qHi": "भारत के 11वें राष्ट्रपति बनने से पहले, डॉ. ए. पी. जे. अब्दुल कलाम को किस वर्ष भारत रत्न से सम्मानित किया गया था?",
+  "optsEn": [
+   "1990",
+   "1992",
+   "1997",
+   "2001"
+  ],
+  "optsHi": [
+   "1990",
+   "1992",
+   "1997",
+   "2001"
+  ],
+  "correct": 2,
+  "explainEn": "Dr. A. P. J. Abdul Kalam was awarded India's highest civilian honor, the Bharat Ratna, in 1997.",
+  "sourceHint": "Ministry of Home Affairs, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:04:53Z"
+ },
+ {
+  "id": "q_680e1b0185513e91",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "What was the codename of the Integrated Guided Missile Development Program (IGMDP) led by Dr. A. P. J. Abdul Kalam?",
+  "qHi": "डॉ. ए. पी. जे. अब्दुल कलाम के नेतृत्व में एकीकृत निर्देशित मिसाइल विकास कार्यक्रम (IGMDP) का कोडनेम क्या था?",
+  "optsEn": [
+   "Project Devil",
+   "Project Valiant",
+   "The IGMDP did not have a separate codename",
+   "Project Shakti"
+  ],
+  "optsHi": [
+   "प्रोजेक्ट डेविल",
+   "प्रोजेक्ट वैलियंट",
+   "IGMDP का कोई अलग कोडनेम नहीं था",
+   "प्रोजेक्ट शक्ति"
+  ],
+  "correct": 2,
+  "explainEn": "The Integrated Guided Missile Development Program was officially referred to by its acronym IGMDP and did not carry a separate operational codename as a whole, though projects under it like Devil and Valiant were separate.",
+  "sourceHint": "DRDO Archives",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:04:53Z"
+ },
+ {
+  "id": "q_3d3d92d0cf761137",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "In his book 'India 2020: A Vision for the New Millennium', co-authored with Y. S. Rajan, Dr. Kalam advocated for transforming India into what status?",
+  "qHi": "वाई. एस. राजन के साथ सह-लेखक उनकी पुस्तक 'इंडिया 2020: ए विजन फॉर द न्यू मिलिनियम' में, डॉ. कलाम ने भारत को किस स्थिति में बदलने की वकालत की?",
+  "optsEn": [
+   "A developed nation",
+   "A purely agrarian economy",
+   "A non-aligned military superpower",
+   "A zero-tax economy"
+  ],
+  "optsHi": [
+   "एक विकसित राष्ट्र",
+   "एक विशुद्ध रूप से कृषि अर्थव्यवस्था",
+   "एक गुटनिरपेक्ष सैन्य महाशक्ति",
+   "एक शून्य-कर अर्थव्यवस्था"
+  ],
+  "correct": 0,
+  "explainEn": "India 2020 outlines an action plan to transform India into a developed nation through technological growth and economic self-reliance.",
+  "sourceHint": "Penguin Books / Public Domain Book summaries",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:04:53Z"
+ },
+ {
+  "id": "q_036991ec7f9af714",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Which Indian launch vehicle project was successfully launched under Dr. A. P. J. Abdul Kalam's tenure as Project Director at ISRO in 1980, making India a space power capable of placing indigenous satellites in orbit?",
+  "qHi": "1980 में इसरो में प्रोजेक्ट डायरेक्टर के रूप में डॉ. ए. पी. जे. अब्दुल कलाम के कार्यकाल के दौरान किस भारतीय प्रक्षेपण वाहन परियोजना को सफलतापूर्वक लॉन्च किया गया था, जिससे भारत कक्षा में स्वदेशी उपग्रह स्थापित करने में सक्षम अंतरिक्ष शक्ति बन गया?",
+  "optsEn": [
+   "SLV-3",
+   "PSLV-C1",
+   "ASLV-D1",
+   "GSLV-F01"
+  ],
+  "optsHi": [
+   "एसएएलवी-3 (SLV-3)",
+   "पीएसएलवी-सी1 (PSLV-C1)",
+   "एएसएलवी-डी1 (ASLV-D1)",
+   "जीएसएलवी-एफ01 (GSLV-F01)"
+  ],
+  "correct": 0,
+  "explainEn": "Dr. Kalam was the Project Director for India's first indigenous Satellite Launch Vehicle (SLV-3), which successfully injected the Rohini satellite into orbit on July 18, 1980.",
+  "sourceHint": "ISRO official history",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:04:53Z"
+ },
+ {
+  "id": "q_f46dc3bfab9e21d9",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Which institution was Dr. A. P. J. Abdul Kalam visiting to deliver a lecture when he passed away on July 27, 2015?",
+  "qHi": "27 जुलाई 2015 को निधन के समय डॉ. ए. पी. जे. अब्दुल कलाम किस संस्थान में व्याख्यान देने जा रहे थे?",
+  "optsEn": [
+   "Indian Institute of Science Bangalore",
+   "Indian Institute of Management Shillong",
+   "Indian Institute of Technology Madras",
+   "IIT Delhi"
+  ],
+  "optsHi": [
+   "भारतीय विज्ञान संस्थान बेंगलुरु",
+   "भारतीय प्रबंधन संस्थान शिलांग",
+   "भारतीय प्रौद्योगिकी संस्थान मद्रास",
+   "आईआईटी दिल्ली"
+  ],
+  "correct": 1,
+  "explainEn": "Dr. Kalam collapsed while delivering a lecture to the students of the Indian Institute of Management (IIM) Shillong on July 27, 2015.",
+  "sourceHint": "PIB / National News Archives",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T17:04:53Z"
  }
 ]
