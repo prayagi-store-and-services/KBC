@@ -126,3 +126,6 @@ The screen shown after saving the profile said "100% offline game bank ready" an
 
 - A card near the top of the home screen shows today's festival (India calendar, bundled in the app, from timeanddate.com India 2026-2027) or "coming soon" for a festival within 3 days, with the live date and time. India's Independence Day (15 August) is shown too. It has no death anniversaries and no other country's days. After 2027 there is no data, so no banner is shown and nothing is invented. A date marked "may differ by a day" says so.
 - It works offline. No new permission, network call or library.
+
+
+2026-10-15 family attribution: 1.1.29 adds " | Netra Ecosystem" immediately after the visible version. Production header extracted for 360dp rendering; no permissions, telemetry, signing, network or data-path changes. Not a security vulnerability patch. Phone testing remains pending.
