@@ -12486,5 +12486,397 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-15T17:05:08Z"
+ },
+ {
+  "id": "q_7d7c5dbfaf619338",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which vitamin do we primarily get from sunlight?",
+  "qHi": "हमें मुख्य रूप से धूप से कौन सा विटामिन मिलता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Human skin produces Vitamin D when exposed to ultraviolet rays from sunlight.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:24:17Z"
+ },
+ {
+  "id": "q_5b0e5d5f5f1ff34b",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is an example of a seed that disperses by water?",
+  "qHi": "निम्नलिखित में से कौन सा बीज पानी द्वारा प्रकीर्णन (फैलाव) का एक उदाहरण है?",
+  "optsEn": [
+   "Lotus",
+   "Cotton",
+   "Maple",
+   "Xanthium"
+  ],
+  "optsHi": [
+   "कमल",
+   "कपास",
+   "मेपल",
+   "जैंथियम"
+  ],
+  "correct": 0,
+  "explainEn": "Lotus seeds and fruits have spongy or fibrous parts that help them float and travel through water.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:24:17Z"
+ },
+ {
+  "id": "q_c52d160e3778a792",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the young one of a frog called?",
+  "qHi": "मेढक के बच्चे को क्या कहा जाता है?",
+  "optsEn": [
+   "Caterpillar",
+   "Tadpole",
+   "Cub",
+   "Fry"
+  ],
+  "optsHi": [
+   "कैटरपिलर",
+   "टैडपोल",
+   "शावक",
+   "फ्राई"
+  ],
+  "correct": 1,
+  "explainEn": "A tadpole is the aquatic larval stage in the life cycle of a frog.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:24:17Z"
+ },
+ {
+  "id": "q_e8eac884ba0a0d46",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin do we primarily get from sunlight exposure on the skin?",
+  "qHi": "त्वचा पर धूप पड़ने से हमें मुख्य रूप से कौन सा विटामिन प्राप्त होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Sunlight helps the human body produce Vitamin D.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:25:23Z"
+ },
+ {
+  "id": "q_db7b1c3f7b21cf73",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the standard unit for measuring temperature in the Celsius scale?",
+  "qHi": "सेल्सियस पैमाने में तापमान मापने की मानक इकाई क्या है?",
+  "optsEn": [
+   "Degree Celsius",
+   "Joule",
+   "Pascal",
+   "Watt"
+  ],
+  "optsHi": [
+   "डिग्री सेल्सियस",
+   "जूल",
+   "पास्कल",
+   "वाट"
+  ],
+  "correct": 0,
+  "explainEn": "Temperature in the Celsius scale is measured in degrees Celsius.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:25:23Z"
+ },
+ {
+  "id": "q_c0cf5e50da378d89",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which historical monument in Agra was built by Shah Jahan in memory of his wife Mumtaz Mahal?",
+  "qHi": "आगरा में किस ऐतिहासिक स्मारक का निर्माण शाहजहाँ ने अपनी पत्नी मुमताज महल की याद में करवाया था?",
+  "optsEn": [
+   "Red Fort",
+   "Qutub Minar",
+   "Taj Mahal",
+   "Humayun Tomb"
+  ],
+  "optsHi": [
+   "लाल किला",
+   "कुतुब मीनार",
+   "ताजमहल",
+   "हुमायूं का मकबरा"
+  ],
+  "correct": 2,
+  "explainEn": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, built by Shah Jahan.",
+  "sourceHint": "NCERT Class 7 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:25:23Z"
+ },
+ {
+  "id": "q_1c475c140547757e",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of these seeds has hair-like structures that help it disperse over long distances using the wind?",
+  "qHi": "इनमें से किस बीज में बाल जैसी संरचनाएं होती हैं जो हवा का उपयोग करके लंबी दूरी तय करने में मदद करती हैं?",
+  "optsEn": [
+   "Mango",
+   "Cotton",
+   "Lotus",
+   "Xanthium"
+  ],
+  "optsHi": [
+   "आम",
+   "कपास",
+   "कमल",
+   "जैंन्थियम"
+  ],
+  "correct": 1,
+  "explainEn": "Cotton seeds have hair-like structures (or cotton fibers) that make them light and easily carried away by the wind.",
+  "sourceHint": "NCERT Class 5 EVS, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:26:11Z"
+ },
+ {
+  "id": "q_79db5727d499d93f",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "At which of the following places in India is rock salt primarily mined in traditional large quantities?",
+  "qHi": "भारत में निम्नलिखित में से किस स्थान पर पारंपरिक रूप से बड़े पैमाने पर सेंधा नमक (रॉक सॉल्ट) निकाला जाता है?",
+  "optsEn": [
+   "Sambhar Lake, Rajasthan",
+   "Mandi, Himachal Pradesh",
+   "Kutch, Gujarat",
+   "Kovalam, Kerala"
+  ],
+  "optsHi": [
+   "सांभर झील, राजस्थान",
+   "मंडी, हिमाचल प्रदेश",
+   "कच्छ, गुजरात",
+   "कोवलम, केरल"
+  ],
+  "correct": 1,
+  "explainEn": "Rock salt deposits in India are notably found and mined in the Mandi district of Himachal Pradesh.",
+  "sourceHint": "NCERT Class 5 EVS, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:26:11Z"
+ },
+ {
+  "id": "q_388b967c00a01bd2",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional Indian water harvesting system features deep underground stepwells known locally as baolis?",
+  "qHi": "किस पारंपरिक भारतीय जल संचयन प्रणाली में गहरी भूमिगत सीढ़ीदार कुएँ हैं जिन्हें स्थानीय रूप से बावड़ी कहा जाता है?",
+  "optsEn": [
+   "Kuls",
+   "Baolis",
+   "Johads",
+   "Zings"
+  ],
+  "optsHi": [
+   "कुल",
+   "बावड़ी",
+   "जोहड़",
+   "जिंग"
+  ],
+  "correct": 1,
+  "explainEn": "Stepwells are historically referred to as baolis or baoris in various parts of India.",
+  "sourceHint": "NCERT Class 5 EVS, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:26:11Z"
+ },
+ {
+  "id": "q_eb64bd8c66686b8e",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of animal sense is prominently highlighted by the ability of mosquitoes to find humans in the dark?",
+  "qHi": "अंधेरे में मनुष्यों को ढूंढने की मच्छरों की क्षमता द्वारा किस प्रकार की पशु इंद्रिय को प्रमुखता से उजागर किया जाता है?",
+  "optsEn": [
+   "Sense of taste through feet",
+   "Sense of smell of the body heat and foot odor",
+   "Sense of hearing through antennae",
+   "Sense of echolocation using ultrasonic sounds"
+  ],
+  "optsHi": [
+   "पैरों के माध्यम से स्वाद की भावना",
+   "शरीर की गर्मी और पैरों की गंध की गंध की भावना",
+   "एंटीना के माध्यम से सुनने की भावना",
+   "अल्ट्रासोनिक ध्वनियों का उपयोग करके इकोलोकेशन की भावना"
+  ],
+  "correct": 1,
+  "explainEn": "Mosquitoes can find humans by the smell of their body odor and the heat of their bodies.",
+  "sourceHint": "NCERT Class 5 EVS, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:26:11Z"
+ },
+ {
+  "id": "q_830c1922078a712e",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following mountain ranges forms the northern boundary of the Indian subcontinent and contains Mount Everest?",
+  "qHi": "निम्नलिखित में से कौन सी पर्वत श्रृंखला भारतीय उपमहाद्वीप की उत्तरी सीमा बनाती है और इसमें माउंट एवरेस्ट शामिल है?",
+  "optsEn": [
+   "The Vindhya Range",
+   "The Himalayas",
+   "The Aravalli Range",
+   "The Eastern Ghats"
+  ],
+  "optsHi": [
+   "विंध्य श्रृंखला",
+   "हिमालय",
+   "अरावली श्रृंखला",
+   "पूर्वी घाट"
+  ],
+  "correct": 1,
+  "explainEn": "The Himalayas form the northern barrier of India and contain the highest peak, Mount Everest.",
+  "sourceHint": "NCERT Class 5 Social Studies / Geography Basics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:26:11Z"
+ },
+ {
+  "id": "q_8db0a72d16ac9d3b",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of snake charming communities in India, what name is given to the traditional folk dance that mimics snake movements?",
+  "qHi": "भारत में सपेरा समुदायों के संदर्भ में, सांप की गतिविधियों की नकल करने वाले पारंपरिक लोक नृत्य को क्या नाम दिया जाता है?",
+  "optsEn": [
+   "Bihu",
+   "Kalbelia",
+   "Garba",
+   "Lavani"
+  ],
+  "optsHi": [
+   "बिहू",
+   "कालका",
+   "गरबा",
+   "लावणी"
+  ],
+  "correct": 1,
+  "explainEn": "Kalbelia is a folk dance of Rajasthan performed by the Kalbelia community, inspired by snake movements.",
+  "sourceHint": "NCERT Class 5 EVS, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:26:11Z"
+ },
+ {
+  "id": "q_599510c33a87b385",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organ system in the human body is primarily responsible for exchanging oxygen and carbon dioxide through breathing?",
+  "qHi": "मानव शरीर में सांस लेने के माध्यम से ऑक्सीजन और कार्बन डाइऑक्साइड का आदान-प्रदान करने के लिए मुख्य रूप से कौन सी अंग प्रणाली जिम्मेदार है?",
+  "optsEn": [
+   "Circulatory system",
+   "Respiratory system",
+   "Digestive system",
+   "Nervous system"
+  ],
+  "optsHi": [
+   "परंच संचार प्रणाली",
+   "श्वसन प्रणाली",
+   "पाचन तंत्र",
+   "तंत्रिका तंत्र"
+  ],
+  "correct": 1,
+  "explainEn": "The respiratory system includes the lungs and windpipe, which handle gas exchange.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:26:11Z"
+ },
+ {
+  "id": "q_e174e82c189ef5f7",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary function of chlorophyll found in green plant leaves?",
+  "qHi": "हरे पौधे की पत्तियों में पाए जाने वाले क्लोरोफिल का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "Absorbing sunlight for photosynthesis",
+   "Absorbing water from the soil",
+   "Attracting pollinators like bees",
+   "Protecting the plant from heavy rainfall"
+  ],
+  "optsHi": [
+   "प्रकाश संश्लेषण के लिए सूर्य के प्रकाश को अवशोषित करना",
+   "मिट्टी से पानी को अवशोषित करना",
+   "मधुमक्खियों जैसे परागणकों को आकर्षित करना",
+   "पौधे को भारी वर्षा से बचाना"
+  ],
+  "correct": 0,
+  "explainEn": "Chlorophyll is the green pigment that absorbs sunlight, enabling plants to perform photosynthesis.",
+  "sourceHint": "NCERT Class 5 Science Basics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:26:11Z"
  }
 ]

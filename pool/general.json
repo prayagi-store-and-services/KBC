@@ -9854,5 +9854,537 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-15T17:04:58Z"
+ },
+ {
+  "id": "q_3370934d1b532d8e",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Which Indian state is Dr. A. P. J. Abdul Kalam's birthplace of Rameswaram located in?",
+  "qHi": "डॉ. ए. पी. जे. अब्दुल कलाम की जन्मस्थली रामेश्वरम किस भारतीय राज्य में स्थित है?",
+  "optsEn": [
+   "Kerala",
+   "Karnataka",
+   "Tamil Nadu",
+   "Andhra Pradesh"
+  ],
+  "optsHi": [
+   "केरल",
+   "कर्नाटक",
+   "तमिलनाडु",
+   "आंध्र प्रदेश"
+  ],
+  "correct": 2,
+  "explainEn": "Rameswaram is an island town and municipality in the Ramnathapuram district of Tamil Nadu.",
+  "sourceHint": "NCERT / Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:24:13Z"
+ },
+ {
+  "id": "q_ba519b64d9f2d432",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "The United Nations designated October 15, Dr. Kalam's birth anniversary, as which global observance?",
+  "qHi": "संयुक्त राष्ट्र ने डॉ. कलाम की जयंती 15 अक्टूबर को किस वैश्विक दिवस के रूप में नामित किया है?",
+  "optsEn": [
+   "World Students' Day",
+   "International Teachers' Day",
+   "World Literacy Day",
+   "Global Youth Day"
+  ],
+  "optsHi": [
+   "विश्व छात्र दिवस",
+   "अंतर्राष्ट्रीय शिक्षक दिवस",
+   "विश्व साक्षरता दिवस",
+   "वैश्विक युवा दिवस"
+  ],
+  "correct": 0,
+  "explainEn": "The UN recognizes October 15 as World Students' Day, honoring Dr. Kalam's dedication to students and teaching.",
+  "sourceHint": "United Nations / PIB",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:24:13Z"
+ },
+ {
+  "id": "q_24b0fbf90b2e042f",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "What was the title of Dr. A. P. J. Abdul Kalam's famous autobiographical book first published in 1999?",
+  "qHi": "1999 में पहली बार प्रकाशित डॉ. ए. पी. जे. अब्दुल कलाम की प्रसिद्ध आत्मकथात्मक पुस्तक का शीर्षक क्या था?",
+  "optsEn": [
+   "Wings of Fire",
+   "Ignited Minds",
+   "India 2020",
+   "My Journey"
+  ],
+  "optsHi": [
+   "विंग्स ऑफ फायर",
+   "इग्नाइटेड माइंड्स",
+   "इंडिया 2020",
+   "माई जर्नी"
+  ],
+  "correct": 0,
+  "explainEn": "'Wings of Fire' is the autobiography of Dr. A. P. J. Abdul Kalam, co-written with Arun Tiwari.",
+  "sourceHint": "Universities Press / National Book Trust",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:24:13Z"
+ },
+ {
+  "id": "q_a117ca83368ddb77",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Which position did Dr. A. P. J. Abdul Kalam hold in India from 2002 to 2007?",
+  "qHi": "डॉ. ए. पी. जे. अब्दुल कलाम ने 2002 से 2007 तक भारत में किस पद पर कार्य किया?",
+  "optsEn": [
+   "Prime Minister",
+   "Vice President",
+   "President",
+   "Chief Scientific Advisor"
+  ],
+  "optsHi": [
+   "प्रधान मंत्री",
+   "उप राष्ट्रपति",
+   "राष्ट्रपति",
+   "मुख्य वैज्ञानिक सलाहकार"
+  ],
+  "correct": 2,
+  "explainEn": "Dr. Kalam served as the 11th President of India from July 2002 to July 2007.",
+  "sourceHint": "President of India Secretariat",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:24:13Z"
+ },
+ {
+  "id": "q_b237b6eb4c567142",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Which popular nickname is often used to refer to Dr. A. P. J. Abdul Kalam due to his work in India's aerospace development?",
+  "qHi": "भारत के एयरोस्पेस विकास में उनके कार्य के कारण डॉ. ए. पी. जे. अब्दुल कलाम को अक्सर किस लोकप्रिय उपनाम से पुकारा जाता है?",
+  "optsEn": [
+   "Missile Man of India",
+   "Rocket Man of India",
+   "Aviation Man of India",
+   "Satellite Man of India"
+  ],
+  "optsHi": [
+   "भारत के मिसाइल मैन",
+   "भारत के रॉकेट मैन",
+   "भारत के एविएशन मैन",
+   "भारत के सैटेलाइट मैन"
+  ],
+  "correct": 0,
+  "explainEn": "Dr. Kalam is widely known as the 'Missile Man of India' for his pivotal role in the development of ballistic missile and launch vehicle technology.",
+  "sourceHint": "PIB / NCERT",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:24:13Z"
+ },
+ {
+  "id": "q_67ed770c6bc5350f",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "World Students' Day is observed annually on the birth anniversary of which prominent Indian figure?",
+  "qHi": "विश्व छात्र दिवस प्रतिवर्ष किस प्रमुख भारतीय हस्ती की जयंती पर मनाया जाता है?",
+  "optsEn": [
+   "Dr. Sarvepalli Radhakrishnan",
+   "Swami Vivekananda",
+   "Dr. A. P. J. Abdul Kalam",
+   "Subhas Chandra Bose"
+  ],
+  "optsHi": [
+   "डॉ. सर्वपल्ली राधाकृष्णन",
+   "स्वामी विवेकानंद",
+   "डॉ. ए. पी. जे. अब्दुल कलाम",
+   "सुभाष चंद्र बोस"
+  ],
+  "correct": 2,
+  "explainEn": "The United Nations recognizes October 15, Dr. Kalam's birth anniversary, as World Students' Day.",
+  "sourceHint": "United Nations observance records",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:24:58Z"
+ },
+ {
+  "id": "q_fb9b14ec46d2306b",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Which academic institution did Dr. A. P. J. Abdul Kalam attend to earn his degree in Aeronautical Engineering?",
+  "qHi": "डॉ. ए. पी. जे. अब्दुल कलाम ने एयरोनॉटिकल इंजीनियरिंग में अपनी डिग्री किस शैक्षणिक संस्थान से प्राप्त की थी?",
+  "optsEn": [
+   "Madras Institute of Technology",
+   "Indian Institute of Science, Bangalore",
+   "St. Joseph's College, Tiruchirappalli",
+   "College of Engineering, Guindy"
+  ],
+  "optsHi": [
+   "मद्रास इंस्टीट्यूट ऑफ टेक्नोलॉजी",
+   "भारतीय विज्ञान संस्थान, बैंगलोर",
+   "सेंट जोसेफ कॉलेज, तिरुचिरापल्ली",
+   "कॉलेज ऑफ इंजीनियरिंग, गिंडी"
+  ],
+  "correct": 0,
+  "explainEn": "Dr. Kalam studied aeronautical engineering at the Madras Institute of Technology (MIT), graduating in 1954.",
+  "sourceHint": "Autobiography Wings of Fire",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:24:58Z"
+ },
+ {
+  "id": "q_ff1ead30955a97dd",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "What was the designation of Dr. A. P. J. Abdul Kalam before he assumed office as the President of India?",
+  "qHi": "भारत के राष्ट्रपति का पद संभालने से पहले डॉ. ए. पी. जे. अब्दुल कलाम का पद क्या था?",
+  "optsEn": [
+   "Chairman of ISRO",
+   "Principal Scientific Adviser to the Government of India",
+   "Director of Bhabha Atomic Research Centre",
+   "Governor of Tamil Nadu"
+  ],
+  "optsHi": [
+   "इसरो के अध्यक्ष",
+   "भारत सरकार के प्रधान वैज्ञानिक सलाहकार",
+   "भाभा परमाणु अनुसंधान केंद्र के निदेशक",
+   "तमिलनाडु के राज्यपाल"
+  ],
+  "correct": 1,
+  "explainEn": "Before becoming President, Dr. Kalam served as the Principal Scientific Adviser to the Government of India from 1999 to 2001.",
+  "sourceHint": "Cabinet Secretariat of India archives",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:24:58Z"
+ },
+ {
+  "id": "q_7c4ca270e2177889",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Which major defense project in India was directed by Dr. A. P. J. Abdul Kalam in the 1980s?",
+  "qHi": "1980 के दशक में भारत की किस प्रमुख रक्षा परियोजना का निर्देशन डॉ. ए. पी. जे. अब्दुल कलाम ने किया था?",
+  "optsEn": [
+   "Integrated Guided Missile Development Programme",
+   "Advanced Tactical Vessel Project",
+   "Light Combat Aircraft Tejas Project",
+   "BrahMos Supersonic Cruise Missile Project"
+  ],
+  "optsHi": [
+   "एकीकृत निर्देशित मिसाइल विकास कार्यक्रम",
+   "उन्नत सामरिक पोत परियोजना",
+   "हल्का लड़ाकू विमान तेजस परियोजना",
+   "ब्रह्मोस सुपरसोनिक क्रूज मिसाइल परियोजना"
+  ],
+  "correct": 0,
+  "explainEn": "Dr. Kalam played a pivotal role in the Integrated Guided Missile Development Programme (IGMDP) as its chief executive.",
+  "sourceHint": "DRDO official history",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:24:58Z"
+ },
+ {
+  "id": "q_410c562af4c37c0c",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Which autobiography of Dr. A. P. J. Abdul Kalam covers his early life and career up to 1991?",
+  "qHi": "डॉ. ए. पी. जे. अब्दुल कलाम की कौन सी आत्मकथा उनके शुरुआती जीवन और 1991 तक के करियर को कवर करती है?",
+  "optsEn": [
+   "Ignited Minds",
+   "Wings of Fire",
+   "Target 3 Billion",
+   "Turning Points"
+  ],
+  "optsHi": [
+   "इग्नाइटेड माइंड्स",
+   "विंग्स ऑफ फायर",
+   "टारगेट 3 बिलियन",
+   "टर्निंग पॉइंट्स"
+  ],
+  "correct": 1,
+  "explainEn": "Wings of Fire: An Autobiography of A. P. J. Abdul Kalam was co-written by Arun Tiwari and published in 1999.",
+  "sourceHint": "Universities Press publication records",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:24:58Z"
+ },
+ {
+  "id": "q_e661af8b3ead0296",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "In which year was Dr. A. P. J. Abdul Kalam conferred with India's highest civilian award, the Bharat Ratna?",
+  "qHi": "डॉ. ए. पी. जे. अब्दुल कलाम को भारत के सर्वोच्च नागरिक सम्मान 'भारत रत्न' से किस वर्ष सम्मानित किया गया था?",
+  "optsEn": [
+   "1987",
+   "1990",
+   "1997",
+   "2002"
+  ],
+  "optsHi": [
+   "1987",
+   "1990",
+   "1997",
+   "2002"
+  ],
+  "correct": 2,
+  "explainEn": "Dr. Kalam was awarded the Bharat Ratna in 1997 for his immense contribution to scientific research and modernization of defense technology.",
+  "sourceHint": "Padma Awards Directory, Ministry of Home Affairs, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:24:58Z"
+ },
+ {
+  "id": "q_23bccd4503470a43",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Which vision document co-authored by Dr. A. P. J. Abdul Kalam outlines a roadmap for transforming India into a developed nation by 2020?",
+  "qHi": "डॉ. ए. पी. जे. अब्दुल कलाम द्वारा सह-लेखकित किस विजन डॉक्यूमेंट में वर्ष 2020 तक भारत को एक विकसित राष्ट्र में बदलने का रोडमैप तैयार किया गया है?",
+  "optsEn": [
+   "India 2020: A Vision for the New Millennium",
+   "Vision 2047: Independent India",
+   "The Scientific Edge",
+   "Guiding Souls for a Better Tomorrow"
+  ],
+  "optsHi": [
+   "इंडिया 2020: ए विजन फॉर द न्यू मिलेनियम",
+   "विजन 2047: स्वतंत्र भारत",
+   "द साइंटिफिक एज",
+   "गाइडिंग सोल्स फॉर ए बेटर टुमॉरो"
+  ],
+  "correct": 0,
+  "explainEn": "'India 2020: A Vision for the New Millennium' was written by Dr. A. P. J. Abdul Kalam along with Y. S. Rajan.",
+  "sourceHint": "Penguin Books publication catalog",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:24:58Z"
+ },
+ {
+  "id": "q_6891cf423de6a868",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "The United Nations designated World Students' Day to honor whose birth anniversary?",
+  "qHi": "संयुक्त राष्ट्र ने किसकी जयंती को सम्मानित करने के लिए 'विश्व छात्र दिवस' घोषित किया?",
+  "optsEn": [
+   "Swami Vivekananda",
+   "Dr. A.P.J. Abdul Kalam",
+   "Srinivasa Ramanujan",
+   "Rabindranath Tagore"
+  ],
+  "optsHi": [
+   "स्वामी विवेकानंद",
+   "डॉ. ए. पी. जे. अब्दुल कलाम",
+   "श्रीनिवास रामानुजन",
+   "रवींद्रनाथ टैगोर"
+  ],
+  "correct": 1,
+  "explainEn": "World Students' Day is celebrated annually on October 15, marking the birth anniversary of Dr. A.P.J. Abdul Kalam.",
+  "sourceHint": "United Nations / PIB",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:26:05Z"
+ },
+ {
+  "id": "q_8c2e448916dad0c8",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Which educational institution did Dr. A.P.J. Abdul Kalam attend to study aerospace engineering?",
+  "qHi": "डॉ. ए. पी. जे. अब्दुल कलाम ने एयरोस्पेस इंजीनियरिंग की पढ़ाई के लिए किस शिक्षण संस्थान में अध्ययन किया था?",
+  "optsEn": [
+   "Indian Institute of Science, Bangalore",
+   "Madras Institute of Technology",
+   "College of Engineering, Guindy",
+   "Banaras Hindu University"
+  ],
+  "optsHi": [
+   "इंडियन इंस्टीट्यूट ऑफ साइंस, बैंगलोर",
+   "मद्रास इंस्टीट्यूट ऑफ टेक्नोलॉजी",
+   "कॉलेज ऑफ इंजीनियरिंग, गिंडी",
+   "बनारस हिंदू विश्वविद्यालय"
+  ],
+  "correct": 1,
+  "explainEn": "Dr. Kalam studied Aeronautical Engineering at the Madras Institute of Technology (MIT), graduating in 1954.",
+  "sourceHint": "Dr. Kalam's autobiographical works / PIB",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:26:05Z"
+ },
+ {
+  "id": "q_b6bdb95d2e21b98e",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Which Indian missile development program was spearheaded by Dr. A.P.J. Abdul Kalam as its project director?",
+  "qHi": "किस भारतीय मिसाइल विकास कार्यक्रम का नेतृत्व डॉ. ए. पी. जे. अब्दुल कलाम ने इसके प्रोजेक्ट डायरेक्टर के रूप में किया था?",
+  "optsEn": [
+   "Integrated Guided Missile Development Program",
+   "BrahMos Supersonic Cruise Missile Program",
+   "Agni Ballistic Missile Program exclusively",
+   "Prithvi Tactical Missile Program exclusively"
+  ],
+  "optsHi": [
+   "एकीकृत निर्देशित मिसाइल विकास कार्यक्रम",
+   "ब्रह्मोस सुपरसोनि क्रूज़ मिसाइल कार्यक्रम",
+   "विशेष रूप से अग्नि बैलिस्टिक मिसाइल कार्यक्रम",
+   "विशेष रूप से पृथ्वी सामरिक मिसाइल कार्यक्रम"
+  ],
+  "correct": 0,
+  "explainEn": "Dr. Kalam played a pivotal organizational and technical role as the Chief Executive of the Integrated Guided Missile Development Program (IGMDP).",
+  "sourceHint": "DRDO Archives",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:26:05Z"
+ },
+ {
+  "id": "q_d7a4031a4dc1a3f9",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Which autobiography by Dr. A.P.J. Abdul Kalam details his early life in Rameswaram and his journey in Indian science?",
+  "qHi": "डॉ. ए. पी. जे. अब्दुल कलाम की किस आत्मकथा में रामेश्वरम में उनके शुरुआती जीवन और भारतीय विज्ञान में उनकी यात्रा का विवरण है?",
+  "optsEn": [
+   "Wings of Fire",
+   "Ignited Minds",
+   "Target 3 Billion",
+   "Turning Points"
+  ],
+  "optsHi": [
+   "विंग्स ऑफ फायर",
+   "इग्नाइटेड माइंड्स",
+   "टारगेट 3 बिलियन",
+   "टर्निंग पॉइंट्स"
+  ],
+  "correct": 0,
+  "explainEn": "'Wings of Fire: An Autobiography' was co-authored by Dr. A.P.J. Abdul Kalam and Arun Tiwari.",
+  "sourceHint": "Universities Press publication records",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:26:05Z"
+ },
+ {
+  "id": "q_27119da3b2c8811b",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "In which year was Dr. A.P.J. Abdul Kalam awarded the Bharat Ratna, India's highest civilian honor?",
+  "qHi": "डॉ. ए. पी. जे. अब्दुल कलाम को भारत के सर्वोच्च नागरिक सम्मान 'भारत रत्न' से किस वर्ष सम्मानित किया गया था?",
+  "optsEn": [
+   "1987",
+   "1990",
+   "1997",
+   "2002"
+  ],
+  "optsHi": [
+   "1987",
+   "1990",
+   "1997",
+   "2002"
+  ],
+  "correct": 2,
+  "explainEn": "Dr. A.P.J. Abdul Kalam received the Bharat Ratna in 1997 for his immense contribution to scientific research and modernization of defense technology in India.",
+  "sourceHint": "Padma Awards Directory, Ministry of Home Affairs",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:26:05Z"
+ },
+ {
+  "id": "q_ec1a39e44f02ee0a",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "What was the name of the Presidential residence where Dr. A.P.J. Abdul Kalam resided during his term from 2002 to 2007?",
+  "qHi": "2002 से 2007 तक अपने कार्यकाल के दौरान डॉ. ए. पी. जे. अब्दुल कलाम जिस राष्ट्रपति भवन में रहे, उसका नाम क्या था?",
+  "optsEn": [
+   "The Retreat Building",
+   "Rashtrapati Bhavan",
+   "Rashtrapati Nilayam",
+   "Viceregal Lodge"
+  ],
+  "optsHi": [
+   "द रिट्रीट बिल्डिंग",
+   "राष्ट्रपति भवन",
+   "राष्ट्रपति निलयम",
+   "वाइसरीगल लॉज"
+  ],
+  "correct": 1,
+  "explainEn": "He served as the 11th President of India and lived at the official presidential residence, Rashtrapati Bhavan, in New Delhi.",
+  "sourceHint": "President of India official secretariat records",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:26:05Z"
+ },
+ {
+  "id": "q_efbcd05db8ed6073",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Which of the following books by Dr. A.P.J. Abdul Kalam outlines a vision for transforming India into a developed nation by 2020?",
+  "qHi": "डॉ. ए. पी. जे. अब्दुल कलाम की निम्नलिखित में से किस पुस्तक में 2020 तक भारत को एक विकसित राष्ट्र में बदलने की परिकल्पना की गई है?",
+  "optsEn": [
+   "India 2020: A Vision for the New Millennium",
+   "My Journey: Transforming Dreams into Actions",
+   "Transcendence: My Spiritual Experiences with Pramukh Swami Maharaj",
+   "You Are Born to Define Your Own Destiny"
+  ],
+  "optsHi": [
+   "इंडिया 2020: ए विजन फॉर द न्यू मिलेनियम",
+   "माई जर्नी: ट्रांसफॉर्मिंग ड्रीम्स इनटू एक्शन",
+   "ट्रांससेंडेंस: माई स्पिरिचुअल एक्सपीरियंस विद प्रमुख स्वामी महाराज",
+   "यू आर बॉर्न टू डिफाइन योर ओन डेस्टिनी"
+  ],
+  "correct": 0,
+  "explainEn": "'India 2020: A Vision for the New Millennium', co-authored with Y.S. Rajan, details action plans for national development.",
+  "sourceHint": "Publisher catalog records",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:26:05Z"
  }
 ]

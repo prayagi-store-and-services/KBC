@@ -14502,5 +14502,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-15T17:04:53Z"
+ },
+ {
+  "id": "q_a37715d3dbeb7421",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum limit of characters in the Indian Financial System Code (IFSC)?",
+  "qHi": "भारतीय वित्तीय प्रणाली कोड (IFSC) में अधिकतम वर्णों की सीमा कितनी है?",
+  "optsEn": [
+   "11 characters",
+   "10 characters",
+   "9 characters",
+   "12 characters"
+  ],
+  "optsHi": [
+   "11 वर्ण",
+   "10 वर्ण",
+   "9 वर्ण",
+   "12 वर्ण"
+  ],
+  "correct": 0,
+  "explainEn": "An IFSC is an 11-character alphanumeric code that uniquely identifies a bank branch participating in electronic funds transfer systems.",
+  "sourceHint": "RBI Payment Systems guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:24:51Z"
+ },
+ {
+  "id": "q_12b8958da531a3a4",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of 'KYC' in the banking sector?",
+  "qHi": "बैंकिंग क्षेत्र में 'KYC' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Know Your Customer",
+   "Keep Your Capital",
+   "Key Yield Calculation",
+   "Knowledge Yield Center"
+  ],
+  "optsHi": [
+   "नो योर कस्टमर",
+   "कीप योर कैपिटल",
+   "की यील्ड कैलकुलेशन",
+   "नॉलेज यील्ड सेंटर"
+  ],
+  "correct": 0,
+  "explainEn": "KYC stands for Know Your Customer, a mandatory process by financial institutions to verify the identity of their clients.",
+  "sourceHint": "RBI Master Direction on KYC",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:24:51Z"
+ },
+ {
+  "id": "q_9928529ddbce2e47",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following terms is used to describe the rate at which commercial banks borrow short-term funds from the central bank by pledging government securities?",
+  "qHi": "निम्नलिखित में से किस शब्द का उपयोग उस दर का वर्णन करने के लिए किया जाता है जिस पर वाणिज्यिक बैंक सरकारी प्रतिभूतियों को गिरवी रखकर केंद्रीय बैंक से अल्पकालिक धन उधार लेते हैं?",
+  "optsEn": [
+   "Repo Rate",
+   "Reverse Repo Rate",
+   "Bank Rate",
+   "Cash Reserve Ratio"
+  ],
+  "optsHi": [
+   "रेपो रेट",
+   "रिवर्स रेपो रेट",
+   "बैंक रेट",
+   "नकद आरक्षित अनुपात"
+  ],
+  "correct": 0,
+  "explainEn": "Repo rate is the rate at which the Reserve Bank of India lends money to commercial banks against the pledge of government securities.",
+  "sourceHint": "Reserve Bank of India (RBI) Publications and Monetary Policy Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:26:00Z"
+ },
+ {
+  "id": "q_9309cd5094629777",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which financial institution in India is the regulator of the cooperative banks in the country?",
+  "qHi": "भारत में कौन सा वित्तीय संस्थान देश के सहकारी बैंकों का नियामक है?",
+  "optsEn": [
+   "NABARD",
+   "SIDBI",
+   "Reserve Bank of India",
+   "Ministry of Finance"
+  ],
+  "optsHi": [
+   "नाबार्ड",
+   "सिडबी",
+   "भारतीय रिजर्व बैंक",
+   "वित्त मंत्रालय"
+  ],
+  "correct": 2,
+  "explainEn": "State Cooperative Banks and Central Cooperative Banks are regulated by the Reserve Bank of India under the Banking Regulation Act, 1949.",
+  "sourceHint": "Reserve Bank of India Act, 1934 and Banking Regulation Act, 1949",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:26:00Z"
+ },
+ {
+  "id": "q_daf6c4fa75022b80",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum deposit insurance coverage limit provided by the Deposit Insurance and Credit Guarantee Corporation (DICGC) per depositor per bank in India?",
+  "qHi": "भारत में डिपॉजिट इंश्योरेंस एंड क्रेडिट गारंटी कॉरपोरेशन (DICGC) द्वारा प्रति जमाकर्ता प्रति बैंक प्रदान की जाने वाली अधिकतम जमा बीमा कवरेज सीमा क्या है?",
+  "optsEn": [
+   "One Lakh Rupees",
+   "Two Lakh Rupees",
+   "Three Lakh Rupees",
+   "Five Lakh Rupees"
+  ],
+  "optsHi": [
+   "एक लाख रुपये",
+   "दो लाख रुपये",
+   "तीन लाख रुपये",
+   "पाँच लाख रुपये"
+  ],
+  "correct": 3,
+  "explainEn": "DICGC provides deposit insurance up to 5 lakh rupees per depositor per bank for both principal and interest amounts.",
+  "sourceHint": "DICGC Official Website and RBI Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:26:00Z"
+ },
+ {
+  "id": "q_a09a32aaf68e06c0",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following money market instruments is also known as a zero-coupon bond issued by the Government of India?",
+  "qHi": "निम्नलिखित में से किस मुद्रा बाजार उपकरण को भारत सरकार द्वारा जारी जीरो-कूपन बॉन्ड के रूप में भी जाना जाता है?",
+  "optsEn": [
+   "Treasury Bill",
+   "Commercial Paper",
+   "Certificate of Deposit",
+   "Promissory Note"
+  ],
+  "optsHi": [
+   "राजकोषीय बिल",
+   "वाणिज्यिक पत्र",
+   "जमा प्रमाणपत्र",
+   "वचन पत्र"
+  ],
+  "correct": 0,
+  "explainEn": "Treasury bills are short-term debt instruments issued by the Government of India and are zero-coupon securities that do not pay interest but are issued at a discount.",
+  "sourceHint": "Reserve Bank of India Financial Markets Operations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:26:00Z"
+ },
+ {
+  "id": "q_00d459511658ff0b",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Priority Sector Lending guidelines in India, what is the sub-target set for lending to Small and Marginal Farmers by domestic commercial banks?",
+  "qHi": "भारत में प्राथमिकता प्राप्त क्षेत्र को ऋण देने (Priority Sector Lending) के दिशानिर्देशों के तहत, घरेलू वाणिज्यिक बैंकों द्वारा छोटे और सीमांत किसानों को ऋण देने के लिए क्या उप-लक्ष्य निर्धारित किया गया है?",
+  "optsEn": [
+   "4.5 percent",
+   "7.5 percent",
+   "10.0 percent",
+   "12.0 percent"
+  ],
+  "optsHi": [
+   "4.5 प्रतिशत",
+   "7.5 प्रतिशत",
+   "10.0 प्रतिशत",
+   "12.0 प्रतिशत"
+  ],
+  "correct": 1,
+  "explainEn": "The RBI mandates a sub-target of 7.5 percent of Adjusted Net Bank Credit (ANBC) for lending to Small and Marginal Farmers under Priority Sector Lending.",
+  "sourceHint": "RBI Master Directions on Priority Sector Lending",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:26:00Z"
+ },
+ {
+  "id": "q_174a4fee2c9f3186",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'C' stand for in the context of the CKYC registry managed by CERSAI in India?",
+  "qHi": "भारत में CERSAI द्वारा प्रबंधित CKYC रजिस्ट्री के संदर्भ में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Central",
+   "Credit",
+   "Currency",
+   "Collateral"
+  ],
+  "optsHi": [
+   "केंद्रीय",
+   "क्रेडिट",
+   "मुद्रा",
+   "संपार्श्विक"
+  ],
+  "correct": 0,
+  "explainEn": "CKYC stands for Central Know Your Customer, a centralized registry of KYC records in the financial sector.",
+  "sourceHint": "CERSAI Guidelines and Prevention of Money Laundering Rules",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:26:00Z"
+ },
+ {
+  "id": "q_a02d01ef389fb0c4",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the minimum paid-up capital requirement for setting up a Small Finance Bank in India as per current RBI guidelines?",
+  "qHi": "वर्तमान आरबीआई दिशानिर्देशों के अनुसार भारत में एक लघु वित्त बैंक (Small Finance Bank) स्थापित करने के लिए न्यूनतम चुकता पूंजी आवश्यकता क्या है?",
+  "optsEn": [
+   "100 Crore Rupees",
+   "200 Crore Rupees",
+   "500 Crore Rupees",
+   "1000 Crore Rupees"
+  ],
+  "optsHi": [
+   "100 करोड़ रुपये",
+   "200 करोड़ रुपये",
+   "500 करोड़ रुपये",
+   "1000 करोड़ रुपये"
+  ],
+  "correct": 1,
+  "explainEn": "The minimum capital requirement for setting up a Small Finance Bank is 200 crore rupees, as per the guidelines issued by the RBI.",
+  "sourceHint": "RBI Licensing Guidelines for Small Finance Banks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:26:00Z"
  }
 ]

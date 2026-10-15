@@ -12178,5 +12178,425 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-15T17:04:22Z"
+ },
+ {
+  "id": "q_36611bf4c56bff29",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the formula for the compound calcium oxide?",
+  "qHi": "यौगिक कैल्शियम ऑक्साइड का सूत्र क्या है?",
+  "optsEn": [
+   "CaO",
+   "CaCl2",
+   "CaCO3",
+   "CaSO4"
+  ],
+  "optsHi": [
+   "CaO",
+   "CaCl2",
+   "CaCO3",
+   "CaSO4"
+  ],
+  "correct": 0,
+  "explainEn": "Calcium oxide, commonly known as quicklime, has the chemical formula CaO.",
+  "sourceHint": "NCERT Science Class 10 Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:24:33Z"
+ },
+ {
+  "id": "q_fd050777005c10c3",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following gases turns lime water milky?",
+  "qHi": "निम्नलिखित में से कौन सी गैस चूने के पानी को दूधिया कर देती है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Hydrogen",
+   "Nitrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "हाइड्रोजन",
+   "नाइट्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "When carbon dioxide is passed through lime water, it forms an insoluble white precipitate of calcium carbonate, turning the liquid milky.",
+  "sourceHint": "NCERT Science Class 10 Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:24:33Z"
+ },
+ {
+  "id": "q_e0368628c4dcab38",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which layer of the atmosphere contains the ozone layer that protects Earth from ultraviolet radiation?",
+  "qHi": "वायुमंडल की किस परत में ओजोन परत पाई जाती है जो पृथ्वी को पराबैंगनी विकिरण से बचाती है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षوبमंडल (ट्रोपोस्फेयर)",
+   "समताप मंडल (स्ट्रैटोस्फेयर)",
+   "मध्यमंडल (मेसोस्फेयर)",
+   "तापमंडल (थर्मोस्फेयर)"
+  ],
+  "correct": 1,
+  "explainEn": "The stratosphere houses the ozone layer, which absorbs harmful ultraviolet radiation from the Sun.",
+  "sourceHint": "NCERT Science Class 10 Chapter 15",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:24:33Z"
+ },
+ {
+  "id": "q_e45907d4c3b4d8d8",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which renewable energy source is harnessed using photovoltaic cells?",
+  "qHi": "फोटोवोल्टिक सेल का उपयोग करके किस नवीकरणीय ऊर्जा स्रोत का दोहन किया जाता है?",
+  "optsEn": [
+   "Wind energy",
+   "Solar energy",
+   "Geothermal energy",
+   "Hydroelectric energy"
+  ],
+  "optsHi": [
+   "पवन ऊर्जा",
+   "सौर ऊर्जा",
+   "भू-ऊष्मीय ऊर्जा",
+   "जलविद्युत ऊर्जा"
+  ],
+  "correct": 1,
+  "explainEn": "Photovoltaic cells convert sunlight directly into electricity.",
+  "sourceHint": "NCERT Science Class 10 Chapter 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:24:33Z"
+ },
+ {
+  "id": "q_1813545518a799a3",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary function of political parties in a democracy?",
+  "qHi": "लोकतंत्र में राजनीतिक दलों का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "To judge court cases",
+   "To contest elections and form government",
+   "To collect all taxes",
+   "To regulate currency notes"
+  ],
+  "optsHi": [
+   "अदालत के मामलों का निर्णय करना",
+   "चुनाव लड़ना और सरकार बनाना",
+   "सभी कर एकत्र करना",
+   "करेंसी नोटों को विनियमित करना"
+  ],
+  "correct": 1,
+  "explainEn": "Political parties contest elections, put forward policies and programmes, and play a decisive role in making laws and forming governments.",
+  "sourceHint": "NCERT Class 10 Political Science Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:25:33Z"
+ },
+ {
+  "id": "q_d5b66d8aeb574ec8",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Self Help Groups (SHGs) mainly help rural poor women in which of the following activities?",
+  "qHi": "स्वयं सहायता समूह (SHG) मुख्य रूप से ग्रामीण गरीब महिलाओं को निम्नलिखित में से किस गतिविधि में मदद करते हैं?",
+  "optsEn": [
+   "Issuing currency notes",
+   "Collecting income tax",
+   "Pooling savings and obtaining micro-loans",
+   "Conducting general elections"
+  ],
+  "optsHi": [
+   "करेंसी नोट जारी करना",
+   "आयकर एकत्र करना",
+   "बचत एकत्र करना और सूक्ष्म ऋण प्राप्त करना",
+   "आम चुनाव कराना"
+  ],
+  "correct": 2,
+  "explainEn": "SHGs help rural poor, especially women, pool their savings and access bank credit without collateral.",
+  "sourceHint": "NCERT Class 10 Economics Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:25:33Z"
+ },
+ {
+  "id": "q_c54b562152caab84",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What term is used to describe the removal or relaxation of barriers or restrictions set by the government?",
+  "qHi": "सरकार द्वारा निर्धारित बाधाओं या प्रतिबंधों को हटाने या उनमें ढील देने को किस शब्द से जाना जाता है?",
+  "optsEn": [
+   "Privatisation",
+   "Liberalisation",
+   "Globalisation",
+   "Nationalisation"
+  ],
+  "optsHi": [
+   "निजीकरण",
+   "उदारीकरण",
+   "वैश्वीकरण",
+   "राष्ट्रीयकरण"
+  ],
+  "correct": 1,
+  "explainEn": "Liberalisation refers to the removal of government restrictions and regulations, allowing businesses more freedom.",
+  "sourceHint": "NCERT Class 10 Economics Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:25:33Z"
+ },
+ {
+  "id": "q_5ea78932cd49ac5d",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which soil type is best suited for growing cotton and is also known as regur soil?",
+  "qHi": "कपास उगाने के लिए कौन सी मिट्टी सबसे उपयुक्त है और जिसे रेगुर मिट्टी भी कहा जाता है?",
+  "optsEn": [
+   "Laterite soil",
+   "Red soil",
+   "Black soil",
+   "Desert soil"
+  ],
+  "optsHi": [
+   "लैटेराइट मिट्टी",
+   "लाल मिट्टी",
+   "काली मिट्टी",
+   "मरुस्थलीय मिट्टी"
+  ],
+  "correct": 2,
+  "explainEn": "Black soil is ideal for growing cotton and is also known as black cotton soil or regur soil.",
+  "sourceHint": "NCERT Class 10 Geography Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:25:33Z"
+ },
+ {
+  "id": "q_eaa4dc2a00319fec",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the process of photosynthesis, which of the following events does not take place during the light-dependent reactions?",
+  "qHi": "प्रकाश संश्लेषण की प्रक्रिया के दौरान, प्रकाश-निर्भर प्रतिक्रियाओं में निम्नलिखित में से कौन सी घटना नहीं होती है?",
+  "optsEn": [
+   "Reduction of carbon dioxide to carbohydrates",
+   "Absorption of light energy by chlorophyll",
+   "Conversion of light energy to chemical energy",
+   "Splitting of water molecules into hydrogen and oxygen"
+  ],
+  "optsHi": [
+   "कार्बोहाइड्रेट में कार्बन डाइऑक्साइड का अपचयन",
+   "क्लोरोफिल द्वारा प्रकाश ऊर्जा का अवशोषण",
+   "प्रकाश ऊर्जा का रासायनिक ऊर्जा में रूपांतरण",
+   "जल के अणुओं का हाइड्रोजन और ऑक्सीजन में टूटना"
+  ],
+  "correct": 0,
+  "explainEn": "The reduction of carbon dioxide to carbohydrates (glucose) takes place during the light-independent reactions (Calvin cycle) in the stroma, not during the light-dependent reactions.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6: Life Processes",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:26:21Z"
+ },
+ {
+  "id": "q_8f65462b47dc5d73",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the carbon cycle, which biogeochemical process removes carbon dioxide from the atmosphere?",
+  "qHi": "कार्बन चक्र के संदर्भ में, कौन सी जैव-भू-रासायनिक प्रक्रिया वायुमंडल से कार्बन डाइऑक्साइड को हटाती है?",
+  "optsEn": [
+   "Photosynthesis",
+   "Respiration",
+   "Combustion of fossil fuels",
+   "Volcanic eruption"
+  ],
+  "optsHi": [
+   "प्रकाश संश्लेषण",
+   "श्वसन",
+   "जीश्म ईंधनों का दहन",
+   "ज्वालामुखी उद्गार"
+  ],
+  "correct": 0,
+  "explainEn": "Photosynthesis is the primary biological process by which green plants and other organisms absorb carbon dioxide from the atmosphere to convert it into organic compounds.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 15: Our Environment",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:26:21Z"
+ },
+ {
+  "id": "q_574e85c5f0211ea3",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following treaties or events marked the formal recognition of Greece as an independent nation following its nationalist struggle?",
+  "qHi": "निम्नलिखित में से किस संधि या घटना ने अपनी राष्ट्रवादी लड़ाई के बाद ग्रीस को एक स्वतंत्र राष्ट्र के रूप में औपचारिक मान्यता दी?",
+  "optsEn": [
+   "Treaty of Constantinople of 1832",
+   "Treaty of Vienna of 1815",
+   "Treaty of Versailles of 1919",
+   "Act of Union of 1707"
+  ],
+  "optsHi": [
+   "1832 की कॉन्स्टेंटिनोपल की संधि",
+   "1815 की वियना की संधि",
+   "1919 की वर्साय की संधि",
+   "1707 का एक्ट ऑफ़ यूनियन"
+  ],
+  "correct": 0,
+  "explainEn": "The Treaty of Constantinople of 1832 recognized Greece as an independent nation, concluding the Greek War of Independence.",
+  "sourceHint": "NCERT Class 10 History, Chapter 1: The Rise of Nationalism in Europe",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:26:21Z"
+ },
+ {
+  "id": "q_659c56eb42469b2e",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which chemical compound is the primary constituent of the white precipitate formed when carbon dioxide gas is passed through lime water for a short duration?",
+  "qHi": "चूने के पानी में थोड़ी देर के लिए कार्बन डाइऑक्साइड गैस प्रवाहित करने पर बनने वाले सफेद अवक्षेप का मुख्य घटक कौन सा रासायनिक यौगिक है?",
+  "optsEn": [
+   "Calcium carbonate",
+   "Calcium bicarbonate",
+   "Calcium oxide",
+   "Calcium hydroxide"
+  ],
+  "optsHi": [
+   "कैल्शियम कार्बोनेट",
+   "कैल्शियम बाइकार्बोनेट",
+   "कैल्शियम ऑक्साइड",
+   "कैल्शियम हाइड्रोक्साइड"
+  ],
+  "correct": 0,
+  "explainEn": "Passing CO2 through lime water turns it milky due to the formation of insoluble calcium carbonate (CaCO3).",
+  "sourceHint": "NCERT Class 10 Science, Chapter 1: Chemical Reactions and Equations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:26:21Z"
+ },
+ {
+  "id": "q_935a7ebb38d6cffc",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In a human eye, which part is responsible for controlling the amount of light entering the eye by adjusting its size?",
+  "qHi": "मानव आँख में, कौन सा भाग अपने आकार को समायोजित करके आँख में प्रवेश करने वाले प्रकाश की मात्रा को नियंत्रित करने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Iris",
+   "Cornea",
+   "Retina",
+   "Crystalline lens"
+  ],
+  "optsHi": [
+   "परितारिका (आइरिस)",
+   "कॉर्निया",
+   "दृтиपटल (रेटिना)",
+   "क्रिस्टलीय लेंस"
+  ],
+  "correct": 0,
+  "explainEn": "The iris is a dark muscular diaphragm that controls the size of the pupil, thereby regulating the amount of light entering the eye.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 11: The Human Eye and the Colorful World",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:26:21Z"
+ },
+ {
+  "id": "q_f0a91a53df10b59f",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which sector is categorized under the secondary economic sector according to standard economic classifications taught in school curricula?",
+  "qHi": "स्कूली पाठ्यचर्या में पढ़ाए जाने वाले मानक आर्थिक वर्गीकरण के अनुसार किस क्षेत्र को द्वितीयक आर्थिक क्षेत्र के अंतर्गत वर्गीकृत किया गया है?",
+  "optsEn": [
+   "Manufacturing of steel",
+   "Dairy farming",
+   "Banking and financial services",
+   "Mining and extraction of minerals"
+  ],
+  "optsHi": [
+   "स्टील का विनिर्माण",
+   "डेरी फार्मिंग",
+   "बैंकिंग और वित्तीय सेवाएं",
+   "खनन और खनिजों का निष्कर्षण"
+  ],
+  "correct": 0,
+  "explainEn": "Manufacturing (such as manufacturing steel) belongs to the secondary sector, which transforms raw materials into finished goods.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 2: Sectors of the Indian Economy",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:26:21Z"
+ },
+ {
+  "id": "q_0550aab503e964fc",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which mineral resource is primarily mined in the Balaghat mines of Madhya Pradesh and the Khetri belt of Rajasthan?",
+  "qHi": "मध्य प्रदेश की बालाघाट खानों और राजस्थान की खेतड़ी पेटी में मुख्य रूप से किस खनिज संसाधन का खनन किया जाता है?",
+  "optsEn": [
+   "Copper",
+   "Bauxite",
+   "Manganese",
+   "Iron ore"
+  ],
+  "optsHi": [
+   "तांबा",
+   "बॉक्साइट",
+   "मैंगनीज",
+   "लोह अयस्क"
+  ],
+  "correct": 0,
+  "explainEn": "The Balaghat mines in Madhya Pradesh and Khetri in Rajasthan are famous for the production of copper in India.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 5: Minerals and Energy Resources",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:26:21Z"
  }
 ]

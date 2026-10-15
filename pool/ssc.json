@@ -9406,5 +9406,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-15T17:04:47Z"
+ },
+ {
+  "id": "q_857c16fd19dc5b10",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Mughal ruler shifted the capital from Agra to Delhi by founding Shahjahanabad?",
+  "qHi": "किस मुगल शासक ने शाहजहांबाद की स्थापना करके राजधानी को आगरा से दिल्ली स्थानांतरित किया था?",
+  "optsEn": [
+   "Akbar",
+   "Jahangir",
+   "Shah Jahan",
+   "Aurangzeb"
+  ],
+  "optsHi": [
+   "अकबर",
+   "जहाँगीर",
+   "शाहजहाँ",
+   "औरंगजेब"
+  ],
+  "correct": 2,
+  "explainEn": "Shah Jahan shifted his capital from Agra to Delhi in 1648, where he built the walled city of Shahjahanabad.",
+  "sourceHint": "NCERT History Class 7 / 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:25:54Z"
+ },
+ {
+  "id": "q_9977e2ab8cb61a7c",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which battle established Mughal rule in India in 1526?",
+  "qHi": "1526 में किस युद्ध ने भारत में मुगल शासन की स्थापना की?",
+  "optsEn": [
+   "First Battle of Panipat",
+   "Battle of Khanwa",
+   "Battle of Chausa",
+   "Battle of Talikota"
+  ],
+  "optsHi": [
+   "पानीपत का प्रथम युद्ध",
+   "खानवा का युद्ध",
+   "चौसा का युद्ध",
+   "तालीकोटा का युद्ध"
+  ],
+  "correct": 0,
+  "explainEn": "Babur defeated Ibrahim Lodi in the First Battle of Panipat in 1526, marking the beginning of the Mughal Empire.",
+  "sourceHint": "NCERT History Class 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:25:54Z"
+ },
+ {
+  "id": "q_fb8bab544febfb98",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian state is the largest producer of bauxite, according to standard mineral data?",
+  "qHi": "मानक खनिज डेटा के अनुसार, कौन सा भारतीय राज्य बॉक्साइट का सबसे बड़ा उत्पादक है?",
+  "optsEn": [
+   "Jharkhand",
+   "Odisha",
+   "Gujarat",
+   "Maharashtra"
+  ],
+  "optsHi": [
+   "झारखंड",
+   "ओडिशा",
+   "गुजरात",
+   "महाराष्ट्र"
+  ],
+  "correct": 1,
+  "explainEn": "Odisha is the leading producer of bauxite in India, accounting for a major share of the total production.",
+  "sourceHint": "Ministry of Mines, Government of India / NCERT",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T21:25:54Z"
  }
 ]
