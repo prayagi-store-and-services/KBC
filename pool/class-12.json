@@ -13102,5 +13102,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-15T04:42:40Z"
+ },
+ {
+  "id": "q_5b1f635d9d44fde8",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a primary amine?",
+  "qHi": "निम्नलिखित में से कौन सा प्राथमिक एमीन है?",
+  "optsEn": [
+   "Methylamine",
+   "Dimethylamine",
+   "Trimethylamine",
+   "N-methylaniline"
+  ],
+  "optsHi": [
+   "मेथिलएमीन",
+   "डाइमेथिलएमीन",
+   "ट्राइमेथिलएमीन",
+   "एन-मेथिलएनिलीन"
+  ],
+  "correct": 0,
+  "explainEn": "Methylamine has the formula CH3NH2, where only one hydrogen atom of ammonia is replaced by an alkyl group, making it a primary amine.",
+  "sourceHint": "NCERT Class 12 Chemistry Chapter 13",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:33:32Z"
+ },
+ {
+  "id": "q_fbf2772917015805",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of economy is characterized by the central government making all major economic decisions?",
+  "qHi": "किस प्रकार की अर्थव्यवस्था की विशेषता यह है कि केंद्र सरकार सभी प्रमुख आर्थिक निर्णय लेती है?",
+  "optsEn": [
+   "Market economy",
+   "Mixed economy",
+   "Command economy",
+   "Dual economy"
+  ],
+  "optsHi": [
+   "बाजार अर्थव्यवस्था",
+   "मिश्रित अर्थव्यवस्था",
+   "कमांड (नियंत्रित) अर्थव्यवस्था",
+   "द्वैध अर्थव्यवस्था"
+  ],
+  "correct": 2,
+  "explainEn": "In a command economy, a central authority controls the production and distribution of goods.",
+  "sourceHint": "NCERT Class 12 Economics Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:33:32Z"
+ },
+ {
+  "id": "q_0e8838b5f418697e",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In a partnership firm, what is the document that contains the terms and conditions of partnership called?",
+  "qHi": "साझेदारी फर्म में, उस दस्तावेज़ को क्या कहा जाता है जिसमें साझेदारी के नियम और शर्तें शामिल होती हैं?",
+  "optsEn": [
+   "Partnership Deed",
+   "Prospectus",
+   "Certificate of Incorporation",
+   "Memorandum of Association"
+  ],
+  "optsHi": [
+   "साझेदारी विलेख (पार्टनरशिप डीड)",
+   "प्रॉस्पेक्टस",
+   "निगमन प्रमाण पत्र",
+   "मेमोरेंडम ऑफ एसोसिएशन"
+  ],
+  "correct": 0,
+  "explainEn": "A Partnership Deed is a written agreement among partners that outlines the terms and conditions of their partnership.",
+  "sourceHint": "NCERT Class 12 Accountancy Part 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:33:32Z"
+ },
+ {
+  "id": "q_2986d97f4b9c32bf",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian state has the highest reserve of crude mica according to geological surveys?",
+  "qHi": "भूगर्भीय सर्वेक्षणों के अनुसार किस भारतीय राज्य में कच्चे अभ्रक का सबसे बड़ा भंडार है?",
+  "optsEn": [
+   "Jharkhand",
+   "Andhra Pradesh",
+   "Rajasthan",
+   "Karnataka"
+  ],
+  "optsHi": [
+   "झारखंड",
+   "आंध्र प्रदेश",
+   "राजस्थान",
+   "कर्नाटक"
+  ],
+  "correct": 1,
+  "explainEn": "Andhra Pradesh leads in the production and reserves of mica in India.",
+  "sourceHint": "NCERT Class 12 Geography, India People and Economy",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:37:27Z"
+ },
+ {
+  "id": "q_7b2b3b20f07256c6",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In British India, the Permanent Settlement of Bengal was introduced in which year?",
+  "qHi": "ब्रिटिश भारत में बंगाल का स्थायी बंदोबस्त किस वर्ष लागू किया गया था?",
+  "optsEn": [
+   "1793",
+   "1857",
+   "1765",
+   "1820"
+  ],
+  "optsHi": [
+   "1793",
+   "1857",
+   "1765",
+   "1820"
+  ],
+  "correct": 0,
+  "explainEn": "Lord Cornwallis introduced the Permanent Settlement in Bengal in 1793 to fix the land revenue demand.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:37:27Z"
+ },
+ {
+  "id": "q_7fced59c8ffd0825",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which literary work is authored by the ancient Indian writer Banabhatta?",
+  "qHi": "प्राचीन भारतीय लेखक बाणभट्ट द्वारा रचित साहित्यिक कृति कौन सी है?",
+  "optsEn": [
+   "Meghaduta",
+   "Harshacharita",
+   "Mrichchhakatika",
+   "Mudrarakshasa"
+  ],
+  "optsHi": [
+   "मेघदूत",
+   "हर्षचरित",
+   "मच्छकटिकम",
+   "मुद्राराक्षस"
+  ],
+  "correct": 1,
+  "explainEn": "Harshacharita, a biography of King Harsha, was written in Sanskrit by his court poet, Banabhatta.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part I",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:37:27Z"
  }
 ]

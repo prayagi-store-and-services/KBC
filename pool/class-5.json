@@ -11926,5 +11926,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-15T04:43:32Z"
+ },
+ {
+  "id": "q_d135b467f7901a13",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which layer of the Earth is the outermost solid crust on which we live?",
+  "qHi": "पृथ्वी की कौन सी परत सबसे बाहरी ठोस पपड़ी है जिस पर हम रहते हैं?",
+  "optsEn": [
+   "Core",
+   "Mantle",
+   "Crust",
+   "Magma"
+  ],
+  "optsHi": [
+   "कोर",
+   "मैंटल",
+   "क्रस्ट",
+   " magma"
+  ],
+  "correct": 2,
+  "explainEn": "The outermost solid layer of the Earth is called the crust.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:32:21Z"
+ },
+ {
+  "id": "q_e3d913f75e638d7e",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which insect is well-known for making honey and living in hives?",
+  "qHi": "कौन सा कीड़ा शहद बनाने और छत्तों में रहने के लिए जाना जाता है?",
+  "optsEn": [
+   "Ant",
+   "Honeybee",
+   "Butterfly",
+   "Housefly"
+  ],
+  "optsHi": [
+   "चींटी",
+   "मधुमक्खी",
+   "तितली",
+   "घरेलू मक्खी"
+  ],
+  "correct": 1,
+  "explainEn": "Honeybees collect nectar from flowers and store it as honey in their hives.",
+  "sourceHint": "NCERT Class 4 and 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:32:21Z"
+ },
+ {
+  "id": "q_f26ab8dffb1cc544",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which vitamin do we primarily get from sunlight exposure on our skin?",
+  "qHi": "हमारी त्वचा पर धूप पड़ने से हमें मुख्य रूप से कौन सा विटामिन मिलता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Sunlight helps the human body produce Vitamin D.",
+  "sourceHint": "NCERT Health and Physical Education",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:32:21Z"
+ },
+ {
+  "id": "q_33126e76ac275ce0",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian classical dance form originates from the state of Tamil Nadu?",
+  "qHi": "कौन सा भारतीय शास्त्रीय नृत्य रूप तमिलनाडु राज्य से उत्पन्न होता है?",
+  "optsEn": [
+   "Kathak",
+   "Bharatanatyam",
+   "Kuchipudi",
+   "Kathakali"
+  ],
+  "optsHi": [
+   "कथक",
+   "भरतनाट्यम",
+   "कुचिपुड़ी",
+   "कथकली"
+  ],
+  "correct": 1,
+  "explainEn": "Bharatanatyam is a major genre of Indian classical dance that originated in Tamil Nadu.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:36:33Z"
+ },
+ {
+  "id": "q_702e7030d93d54ad",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these is a Rabi crop grown in India?",
+  "qHi": "इनमें से कौन सी भारत में उगाई जाने वाली रबी फसल है?",
+  "optsEn": [
+   "Rice",
+   "Wheat",
+   "Maize",
+   "Cotton"
+  ],
+  "optsHi": [
+   "चावल",
+   "गेहूं",
+   "मक्का",
+   "कपास"
+  ],
+  "correct": 1,
+  "explainEn": "Wheat is a principal Rabi crop sown in the winter season in India.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:36:33Z"
+ },
+ {
+  "id": "q_e6f0fe2ecaf10746",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which direction does the needle of a magnetic compass always point?",
+  "qHi": "चुंबकीय कम्पास की सुई हमेशा किस दिशा में इंगित करती है?",
+  "optsEn": [
+   "East and West",
+   "North and South",
+   "Up and Down",
+   "North-East and South-West"
+  ],
+  "optsHi": [
+   "पूर्व और पश्चिम",
+   "उत्तर और दक्षिण",
+   "ऊपर और नीचे",
+   "उत्तर-पूर्व और दक्षिण-पश्चिम"
+  ],
+  "correct": 1,
+  "explainEn": "A magnetic compass needle aligns with Earth's magnetic field, pointing North and South.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:36:33Z"
+ },
+ {
+  "id": "q_ad47aaa2b83c3dcb",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of map mainly shows country boundaries, states, and capitals?",
+  "qHi": "किस प्रकार का मानचित्र मुख्य रूप से देश की सीमाओं, राज्यों और राजधानियों को दिखाता है?",
+  "optsEn": [
+   "Physical map",
+   "Political map",
+   "Thematic map",
+   "Weather map"
+  ],
+  "optsHi": [
+   "भौतिक मानचित्र",
+   "राजनीतिक मानचित्र",
+   "विषगत मानचित्र",
+   "मौसम मानचित्र"
+  ],
+  "correct": 1,
+  "explainEn": "Political maps show government boundaries of countries, states, and major cities.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:36:33Z"
  }
 ]

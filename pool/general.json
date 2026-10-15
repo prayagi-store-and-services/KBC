@@ -9014,5 +9014,453 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-15T04:43:25Z"
+ },
+ {
+  "id": "q_e16e8e1175ea5ad5",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas do human beings predominantly exhale during respiration?",
+  "qHi": "मनुष्य श्वसन के दौरान मुख्य रूप से किस गैस को छोड़ते हैं?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "During cellular respiration, humans inhale oxygen and exhale carbon dioxide as a waste product.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:32:05Z"
+ },
+ {
+  "id": "q_4b7378d3a1ca8711",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which state is the classical dance form Bharatanatyam originally rooted?",
+  "qHi": "शास्त्रीय नृत्य शैली भरतनाट्यम मूल रूप से किस राज्य से संबंधित है?",
+  "optsEn": [
+   "Tamil Nadu",
+   "Kerala",
+   "Odisha",
+   "Uttar Pradesh"
+  ],
+  "optsHi": [
+   "तमिलनाडु",
+   "केरल",
+   "ओडिशा",
+   "उत्तर प्रदेश"
+  ],
+  "correct": 0,
+  "explainEn": "Bharatanatyam is a major Indian classical dance tradition that originated in Tamil Nadu.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:32:05Z"
+ },
+ {
+  "id": "q_bb67b0da830fcfa0",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the chemical symbol for pure gold?",
+  "qHi": "शुद्ध सोने का रासायनिक प्रतीक क्या है?",
+  "optsEn": [
+   "Ag",
+   "Au",
+   "Fe",
+   "Cu"
+  ],
+  "optsHi": [
+   "एजी",
+   "एयू",
+   "एफई",
+   "सीयूपी"
+  ],
+  "correct": 1,
+  "explainEn": "The chemical symbol Au for gold is derived from aurum, its Latin name meaning shining dawn.",
+  "sourceHint": "Encyclopædia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:32:05Z"
+ },
+ {
+  "id": "q_8873e04989ff0382",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which iconic monument in Agra was built by Mughal Emperor Shah Jahan?",
+  "qHi": "आगरा में किस प्रतिष्ठित स्मारक का निर्माण मुगल सम्राट शाहजहाँ ने करवाया था?",
+  "optsEn": [
+   "Qutub Minar",
+   "Taj Mahal",
+   "Red Fort",
+   "Humayun's Tomb"
+  ],
+  "optsHi": [
+   "कुतुब मीनार",
+   "ताजमहल",
+   "लाल किला",
+   "हुमायूं का मकबरा"
+  ],
+  "correct": 1,
+  "explainEn": "Shah Jahan commissioned the construction of the Taj Mahal as a mausoleum for his wife Mumtaz Mahal.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:32:05Z"
+ },
+ {
+  "id": "q_5ed2f2b7394b6f62",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which vitamin is primarily synthesized by the human body when exposed to sunlight?",
+  "qHi": "धूप के संपर्क में आने पर मानव शरीर द्वारा मुख्य रूप से कौन सा विटामिन संश्लेषित होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin C",
+   "Vitamin D",
+   "Vitamin K"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन सी",
+   "विटामिन डी",
+   "विटामिन के"
+  ],
+  "correct": 2,
+  "explainEn": "Vitamin D is often called the sunshine vitamin because the skin produces it when exposed to ultraviolet light.",
+  "sourceHint": "National Health Portal of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:32:05Z"
+ },
+ {
+  "id": "q_edf678b45ee33133",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum strength of the Lok Sabha as specified by the Constitution of India?",
+  "qHi": "भारत के संविधान द्वारा निर्दिष्ट लोकसभा की अधिकतम संख्या कितनी है?",
+  "optsEn": [
+   "545",
+   "550",
+   "552",
+   "560"
+  ],
+  "optsHi": [
+   "545",
+   "550",
+   "552",
+   "560"
+  ],
+  "correct": 2,
+  "explainEn": "Article 81 of the Constitution sets the maximum strength of the Lok Sabha at 552 members.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:35:20Z"
+ },
+ {
+  "id": "q_b8d74f229a48906c",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which classical dance form originates from the state of Kerala and is known for its elaborate makeup and costumes?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप केरल राज्य से उत्पन्न हुआ है और अपनी विस्तृत वेशभूषा और मेकअप के लिए जाना जाता है?",
+  "optsEn": [
+   "Kathakali",
+   "Bharatanatyam",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "कथकली",
+   "भरतनाट्यम",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 0,
+  "explainEn": "Kathakali is a major form of classical Indian dance that originated in Kerala.",
+  "sourceHint": "NCERT Fine Arts textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:35:20Z"
+ },
+ {
+  "id": "q_d094358ba84cfe05",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the game of cricket, what is the total number of stumps on a single wicket?",
+  "qHi": "क्रिकेट के खेल में, एक सिंगल विकेट पर कुल कितने स्टंप होते हैं?",
+  "optsEn": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "optsHi": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "correct": 1,
+  "explainEn": "A standard cricket wicket consists of three wooden stumps.",
+  "sourceHint": "Marylebone Cricket Club Laws of Cricket",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:35:20Z"
+ },
+ {
+  "id": "q_a98c5b07da9e7a5c",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which national highway is traditionally known as the Grand Trunk Road in India?",
+  "qHi": "भारत में पारंपरिक रूप से किस राष्ट्रीय राजमार्ग को ग्रांड ट्रंक रोड के रूप में जाना जाता है?",
+  "optsEn": [
+   "NH 44",
+   "NH 19",
+   "NH 27",
+   "NH 48"
+  ],
+  "optsHi": [
+   "एनएच 44",
+   "एनएच 19",
+   "एनएच 27",
+   "एनएच 48"
+  ],
+  "correct": 1,
+  "explainEn": "National Highway 19 (part of the historical Grand Trunk Road) runs from Delhi to Kolkata.",
+  "sourceHint": "Ministry of Road Transport and Highways",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:35:20Z"
+ },
+ {
+  "id": "q_9f7ef7f4b799ec9a",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which biogeographic zone of India is the Nilgiri Tahr primarily found as an endemic species?",
+  "qHi": "भारत के किस जैव-भौगोलिक क्षेत्र में नीलगिरी तहर मुख्य रूप से एक स्थानिक प्रजाति के रूप में पाया जाता है?",
+  "optsEn": [
+   "Western Ghats",
+   "Eastern Himalayas",
+   "Thar Desert",
+   "Sundarbans"
+  ],
+  "optsHi": [
+   "पश्चिमी घाट",
+   "पूर्वी हिमालय",
+   "थार मरुस्थल",
+   "सुंदरबन"
+  ],
+  "correct": 0,
+  "explainEn": "The Nilgiri Tahr is an endangered ungulate endemic to the montane grassland habitats of the Western Ghats.",
+  "sourceHint": "NCERT Biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:38:02Z"
+ },
+ {
+  "id": "q_16af8f4ea312ab69",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form of India traditionally utilizes the 'Sattriya' repertoire, originating from monastic institutions called Sattras?",
+  "qHi": "भारत की किस शास्त्रीय नृत्य शैली में पारंपरिक रूप से 'सत्रिया' प्रदर्शन का उपयोग किया जाता है, जो सत्र नामक मठवासी संस्थानों से उत्पन्न हुआ है?",
+  "optsEn": [
+   "Assam",
+   "Odisha",
+   "Kerala",
+   "Manipur"
+  ],
+  "optsHi": [
+   "असम",
+   "ओडिशा",
+   "केरल",
+   "मणिपुर"
+  ],
+  "correct": 0,
+  "explainEn": "Sattriya is a classical dance-drama performance art of Assam, introduced by the 15th-century saint Srimanta Sankardeva in Vaishnavite monasteries known as Sattras.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:38:02Z"
+ },
+ {
+  "id": "q_cccaab61a222d9b9",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who founded the Asiatic Society of Bengal in Kolkata in 1784 to encourage oriental studies?",
+  "qHi": "प्राच्य अध्ययन को प्रोत्साहित करने के लिए 1784 में कोलकाता में एशियाटिक सोसाइटी ऑफ़ बंगाल की स्थापना किसने की थी?",
+  "optsEn": [
+   "William Jones",
+   "Warren Hastings",
+   "Charles Cornwallis",
+   "Thomas Macaulay"
+  ],
+  "optsHi": [
+   "विलियम जोन्स",
+   "वारेन हेस्टिंग्स",
+   "चार्ल्स कार्नवालिस",
+   "थॉमस मैकाले"
+  ],
+  "correct": 0,
+  "explainEn": "Sir William Jones founded the Asiatic Society of Bengal on 15 January 1784 to promote the study of Asian history and culture.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:38:02Z"
+ },
+ {
+  "id": "q_ae6657afb4296dc3",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which fundamental constitutional amendment act introduced the Goods and Services Tax (GST) in India?",
+  "qHi": "किस मौलिक संवैधानिक संशोधन अधिनियम ने भारत में वस्तु एवं सेवा कर (GST) की शुरुआत की?",
+  "optsEn": [
+   "101st Amendment Act",
+   "103rd Amendment Act",
+   "97th Amendment Act",
+   "104th Amendment Act"
+  ],
+  "optsHi": [
+   "101वां संशोधन अधिनियम",
+   "103वां संशोधन अधिनियम",
+   "97वां संशोधन अधिनियम",
+   "104वां संशोधन अधिनियम"
+  ],
+  "correct": 0,
+  "explainEn": "The Constitution (One Hundred and First Amendment) Act, 2016 introduced the framework for Goods and Services Tax in India.",
+  "sourceHint": "Legislative Department, Ministry of Law and Justice, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:38:02Z"
+ },
+ {
+  "id": "q_57178ca25e298a4d",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of rock is predominantly formed by the cooling and solidification of molten magma beneath or above the Earth's surface?",
+  "qHi": "पृथ्वी की सतह के नीचे या ऊपर पिघले हुए मैग्मा के ठंडे होने और जमने से मुख्य रूप से किस प्रकार की चट्टान का निर्माण होता है?",
+  "optsEn": [
+   "Igneous rock",
+   "Sedimentary rock",
+   "Metamorphic rock",
+   "Calcareous rock"
+  ],
+  "optsHi": [
+   "आग्नेय चट्टान",
+   "अवसादी चट्टान",
+   "कायांतरित चट्टान",
+   "चूना पत्थर"
+  ],
+  "correct": 0,
+  "explainEn": "Igneous rocks are formed through the cooling and solidification of magma or lava.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:38:02Z"
+ },
+ {
+  "id": "q_57009184c4bf875e",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian mathematician and astronomer wrote the seminal treatise 'Aryabhatiya' in the 5th century CE?",
+  "qHi": "किस भारतीय गणितज्ञ और खगोलविद ने 5वीं शताब्दी ईस्वी में महत्वपूर्ण ग्रंथ 'आर्यभटीय' लिखा था?",
+  "optsEn": [
+   "Aryabhata",
+   "Varahamihira",
+   "Brahmagupta",
+   "Bhaskara I"
+  ],
+  "optsHi": [
+   "आर्यभट्ट",
+   "वाराहमहिर",
+   "ब्रह्मगुप्त",
+   "भास्कर प्रथम"
+  ],
+  "correct": 0,
+  "explainEn": "Aryabhata composed the Aryabhatiya, which covers numerous mathematical and astronomical concepts.",
+  "sourceHint": "National Council of Educational Research and Training (NCERT History)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:38:02Z"
+ },
+ {
+  "id": "q_2667a583457d4ea0",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In Indian monetary economics, which aggregate measure represents the narrow money category comprising currency with the public and demand deposits with banks?",
+  "qHi": "भारतीय मौद्रिक अर्थशास्त्र में, कौन सा समग्र उपाय जनता के पास मुद्रा और बैंकों के पास मांग जमा को शामिल करने वाली संकीर्ण मुद्रा श्रेणी का प्रतिनिधित्व करता है?",
+  "optsEn": [
+   "M1",
+   "M3",
+   "M4",
+   "M2"
+  ],
+  "optsHi": [
+   "M1",
+   "M3",
+   "M4",
+   "M2"
+  ],
+  "correct": 0,
+  "explainEn": "According to the Reserve Bank of India, M1 is known as narrow money and consists of currency with the public plus demand deposits with the banking system.",
+  "sourceHint": "Reserve Bank of India (RBI) Bulletin",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:38:02Z"
  }
 ]

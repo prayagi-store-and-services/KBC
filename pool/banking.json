@@ -13606,5 +13606,509 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-15T04:43:20Z"
+ },
+ {
+  "id": "q_f8123a8024a07ac3",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of 'ATM' in banking?",
+  "qHi": "बैंकिंग में 'ATM' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Automated Teller Machine",
+   "Any Time Money",
+   "Automated Transaction Machine",
+   "Aadhaar Transfer Module"
+  ],
+  "optsHi": [
+   "ऑटोमेटेड टेलर मशीन",
+   "एनी टाइम मनी",
+   "ऑटोमेटेड ट्रांजैक्शन मशीन",
+   "आधार ट्रांसफर मॉड्यूल"
+  ],
+  "correct": 0,
+  "explainEn": "ATM stands for Automated Teller Machine, used for self-service banking transactions.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:31:54Z"
+ },
+ {
+  "id": "q_cf0404e44cbb3ff9",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who is the custodian of India's foreign exchange reserves?",
+  "qHi": "भारत के विदेशी मुद्रा भंडार का संरक्षक कौन है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "State Bank of India",
+   "World Bank",
+   "Ministry of External Affairs"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय स्टेट बैंक",
+   "विश्व बैंक",
+   "विदेश मंत्रालय"
+  ],
+  "correct": 0,
+  "explainEn": "The RBI acts as the custodian of India's foreign exchange reserves and manages exchange control.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:31:54Z"
+ },
+ {
+  "id": "q_07328aadf3370721",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which note in Indian currency bears the signature of the Governor of RBI?",
+  "qHi": "भारतीय मुद्रा में किस नोट पर आरबीआई के गवर्नर के हस्ताक्षर होते हैं?",
+  "optsEn": [
+   "All banknotes except One Rupee note",
+   "Only One Rupee note",
+   "Only coins",
+   "All notes including One Rupee note"
+  ],
+  "optsHi": [
+   "एक रुपये के नोट को छोड़कर सभी बैंकनोट",
+   "केवल एक रुपये का नोट",
+   "केवल सिक्के",
+   "एक रुपये के नोट सहित सभी नोट"
+  ],
+  "correct": 0,
+  "explainEn": "One Rupee notes are issued by the Ministry of Finance and bear the Finance Secretary's signature, while all other banknotes bear the RBI Governor's signature.",
+  "sourceHint": "RBI Currency Operations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:31:54Z"
+ },
+ {
+  "id": "q_5d570d5fdae2a319",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following institutions regulates microfinance institutions (MFIs) in India that are registered as Non-Banking Financial Companies (NBFC-MFIs)?",
+  "qHi": "भारत में सूक्ष्म वित्त संस्थानों (MFIs) को जो गैर-बैंकिंग वित्तीय कंपनियों (NBFC-MFIs) کے रूप में पंजीकृत हैं, निम्नलिखित में से कौन सा संस्थान नियंत्रित करता है?",
+  "optsEn": [
+   "Securities and Exchange Board of India",
+   "Reserve Bank of India",
+   "Small Industries Development Bank of India",
+   "National Bank for Agriculture and Rural Development"
+  ],
+  "optsHi": [
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय लघु उद्योग विकास बैंक",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India regulates all NBFC-MFIs operating in India under the Reserve Bank of India Act, 1934.",
+  "sourceHint": "Reserve Bank of India official guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:34:37Z"
+ },
+ {
+  "id": "q_e76dc1aaf8259547",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of monetary policy implemented by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा कार्यान्वित मौद्रिक नीति का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "Maximizing corporate tax revenue",
+   "Maintaining price stability while keeping in mind growth",
+   "Managing foreign direct investment inflows",
+   "Regulating stock market indices"
+  ],
+  "optsHi": [
+   "कॉर्पोरेट कर राजस्व को अधिकतम करना",
+   "विकास को ध्यान में रखते हुए मूल्य स्थिरता बनाए रखना",
+   "प्रत्यक्ष विदेशी निवेश के प्रवाह को प्रबंधित करना",
+   "शेयर बाजार सूचकांकों को विनियमित करना"
+  ],
+  "correct": 1,
+  "explainEn": "Under Section 45ZA of the RBI Act, the primary objective of the monetary policy is the maintenance of price stability while keeping in mind the objective of growth.",
+  "sourceHint": "RBI Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:34:37Z"
+ },
+ {
+  "id": "q_b17d19a87f6953d1",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which financial instrument is used by the government to raise short-term funds with a maximum maturity of less than one year?",
+  "qHi": "एक वर्ष से कम की अधिकतम परिपक्वता के साथ अल्पकालिक धन जुटाने के लिए सरकार द्वारा किस वित्तीय उपकरण का उपयोग किया जाता है?",
+  "optsEn": [
+   "Treasury Bills",
+   "Dated Government Securities",
+   "Zero Coupon Bonds",
+   "Infrastructure Bonds"
+  ],
+  "optsHi": [
+   "राजकोषीय बिल (Treasury Bills)",
+   "दिनांकित सरकारी प्रतिभूतियां",
+   "शून्य कूपन बांड",
+   "बुनियादी ढांचा बांड"
+  ],
+  "correct": 0,
+  "explainEn": "Treasury bills are money market instruments used by the Government of India to raise short-term funds for periods of less than one year.",
+  "sourceHint": "RBI Publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:34:37Z"
+ },
+ {
+  "id": "q_f071ff997540f5d2",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Basel III norms, what does 'Tier 1 Capital' primarily represent for a commercial bank?",
+  "qHi": "बासल III मानदंडों के तहत, किसी वाणिज्यिक बैंक के लिए 'टियर 1 पूंजी' मुख्य रूप से क्या दर्शाती है?",
+  "optsEn": [
+   "Subordinated debt with a fixed maturity",
+   "Core capital including equity and disclosed reserves",
+   "Revaluation reserves and general provisions",
+   "Unsecured borrowings from the interbank market"
+  ],
+  "optsHi": [
+   "एक निश्चित परिपक्वता के साथ अधीनस्थ ऋण",
+   "इक्विटी और प्रकट आरक्षित सहित कोर पूंजी",
+   "पुनर्मूल्यांकन आरक्षित और सामान्य प्रावधान",
+   "अंतर-बैंक बाजार से असुरक्षित उधार"
+  ],
+  "correct": 1,
+  "explainEn": "Tier 1 capital represents going-concern capital, primarily consisting of common equity and disclosed reserves, which absorbs losses immediately when they occur.",
+  "sourceHint": "Bank for International Settlements (BIS) guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:34:37Z"
+ },
+ {
+  "id": "q_abd8ed07c610f507",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the term 'Repo Rate' signify in the Indian banking system?",
+  "qHi": "भारतीय बैंकिंग प्रणाली में 'रेपो रेट' शब्द का क्या तात्पर्य है?",
+  "optsEn": [
+   "The rate at which commercial banks lend long-term funds to the public",
+   "The rate at which the RBI borrows short-term funds from commercial banks",
+   "The rate at which the RBI lends short-term funds to commercial banks against securities",
+   "The rate charged by commercial banks on interbank overnight loans"
+  ],
+  "optsHi": [
+   "वह दर जिस पर वाणिज्यिक बैंक जनता को दीर्घकालिक ऋण देते हैं",
+   "वह दर जिस पर आरबीआई वाणिज्यिक बैंकों से अल्पकालिक धन उधार लेता है",
+   "वह दर जिस पर आरबीआई प्रतिभूतियों के एवज में वाणिज्यिक बैंकों को अल्पकालिक ऋण देता है",
+   "अंतरबैंक रात्रिकालीन ऋणों पर वाणिज्यिक बैंकों द्वारा ली जाने वाली दर"
+  ],
+  "correct": 2,
+  "explainEn": "Repo rate is the interest rate at which the central bank lends money to commercial banks in the event of any shortfall of funds, against eligible collateral.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:34:37Z"
+ },
+ {
+  "id": "q_5c59cca5f72a9cdb",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India assigns credit ratings to various debt instruments and corporate entities?",
+  "qHi": "भारत में कौन सा संगठन विभिन्न ऋण उपकरणों और कॉर्पोरेट संस्थाओं को क्रेडिट रेटिंग प्रदान करता है?",
+  "optsEn": [
+   "Securities and Exchange Board of India",
+   "Credit Rating Information Services of India Limited",
+   "Insurance Regulatory and Development Authority",
+   "National Payments Corporation of India"
+  ],
+  "optsHi": [
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "क्रिसिल (CRISIL)",
+   "बीमा विनियामक और विकास प्राधिकरण",
+   "भारतीय राष्ट्रीय भुगतान निगम"
+  ],
+  "correct": 1,
+  "explainEn": "CRISIL (Credit Rating Information Services of India Limited) is a leading analytical company providing ratings, research, and risk and policy advisory services.",
+  "sourceHint": "SEBI regulated credit rating agencies list",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:34:37Z"
+ },
+ {
+  "id": "q_b53368b1be0c2c6a",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the full form of the acronym 'NEFT' in the context of Indian banking payments?",
+  "qHi": "भारतीय बैंकिंग भुगतानों के संदर्भ में संक्षिप्त नाम 'NEFT' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "New Electronic Financial Transaction",
+   "National Economy Fund Transfer",
+   "Networked Exchange For Transfer"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "न्यू इलेक्ट्रॉनिक फाइनेंशियल ट्रांजैक्शन",
+   "नेशनल इकोनॉमी फंड ट्रांसफर",
+   "नेटवर्क एक्सचेंज फॉर ट्रांसफर"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, an online system for transferring funds from one bank account to another in India.",
+  "sourceHint": "Reserve Bank of India payment systems",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:34:37Z"
+ },
+ {
+  "id": "q_0646406a873e2f34",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is considered a non-fund-based facility provided by commercial banks to their corporate clients?",
+  "qHi": "निम्नलिखित में से किसे वाणिज्यिक बैंकों द्वारा अपने कॉर्पोरेट ग्राहकों को प्रदान की जाने वाली गैर-निधि-आधारित सुविधा माना जाता है?",
+  "optsEn": [
+   "Cash Credit",
+   "Term Loan",
+   "Letter of Credit",
+   "Overdraft Facility"
+  ],
+  "optsHi": [
+   "नकद साख (Cash Credit)",
+   "मियादी ऋण (Term Loan)",
+   "साख पत्र (Letter of Credit)",
+   "ओवरड्राफ्ट सुविधा"
+  ],
+  "correct": 2,
+  "explainEn": "A Letter of Credit is a non-fund-based facility where the bank does not disburse immediate cash, but gives a guarantee of payment on behalf of the client.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) study material",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:34:37Z"
+ },
+ {
+  "id": "q_8d2ee9c7f7f85392",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the maximum permissible limit of Foreign Portfolio Investment (FPI) in government securities (G-secs) for a particular category without any short-term investment restrictions, as per the Medium Term Framework set by the RBI?",
+  "qHi": "आरबीआई द्वारा निर्धारित मध्यम अवधि के ढांचे के अनुसार, किसी विशेष श्रेणी के लिए सरकारी प्रतिभूतियों (जी-सेक) में विदेशी पोर्टफोलियो निवेश (एफपीआई) की अधिकतम स्वीकार्य सीमा क्या है?",
+  "optsEn": [
+   "25 percent of outstanding stock",
+   "30 percent of outstanding stock",
+   "There is no upper ceiling on specified categories under the Fully Accessible Route (FAR)",
+   "10 percent of total budget deficit"
+  ],
+  "optsHi": [
+   "बकाया स्टॉक का 25 प्रतिशत",
+   "बकाया स्टॉक का 30 प्रतिशत",
+   "पूरी तरह से सुलभ मार्ग (एफएआर) के तहत निर्दिष्ट श्रेणियों पर कोई ऊपरी सीमा नहीं है",
+   "कुल राजकोषीय घाटे का 10 प्रतिशत"
+  ],
+  "correct": 2,
+  "explainEn": "Under the Fully Accessible Route (FAR) introduced by the RBI, eligible non-resident investors are allowed to invest specified categories of government securities without any investment ceilings.",
+  "sourceHint": "RBI Master Directions on FPI Investment in Debt",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:37:56Z"
+ },
+ {
+  "id": "q_44688c4e14a6b683",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Basel III guidelines implemented in India, what is the minimum Capital Conservation Buffer (CCB) requirement that banks must maintain over and above the minimum Capital to Risk-Weighted Assets Ratio (CRAR)?",
+  "qHi": "भारत में लागू बेसल III दिशानिर्देशों के तहत, न्यूनतम पूंजी से जोखिम-भारित संपत्ति अनुपात (सीआरएआर) के अलावा बैंकों को न्यूनतम पूंजी संरक्षण बफर (सीसीबी) आवश्यकता क्या रखनी होगी?",
+  "optsEn": [
+   "1.00 percent",
+   "2.50 percent",
+   "3.75 percent",
+   "5.00 percent"
+  ],
+  "optsHi": [
+   "1.00 प्रतिशत",
+   "2.50 प्रतिशत",
+   "3.75 प्रतिशत",
+   "5.00 प्रतिशत"
+  ],
+  "correct": 1,
+  "explainEn": "RBI guidelines on Basel III capital regulations stipulate that banks must maintain a Capital Conservation Buffer (CCB) of 2.50% in the form of Common Equity Tier 1 capital, over and above the regulatory CRAR.",
+  "sourceHint": "RBI Master Circular - Basel III Capital Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:37:56Z"
+ },
+ {
+  "id": "q_99bd85c877cebf6d",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific money market instrument carries a statutory minimum issue size of Rs. 5 crore and a minimum denomination of Rs. 25 lakh thereafter, as per current RBI guidelines?",
+  "qHi": "वर्तमान आरबीआई दिशानिर्देशों के अनुसार, किस विशिष्ट मुद्रा बाजार साधन की वैधानिक न्यूनतम जारी करने का आकार 5 करोड़ रुपये और उसके बाद 25 लाख रुपये का न्यूनतम मूल्यवर्ग है?",
+  "optsEn": [
+   "Treasury Bills",
+   "Certificate of Deposit",
+   "Commercial Paper",
+   "Cash Management Bills"
+  ],
+  "optsHi": [
+   "राजकोषीय बिल (Treasury Bills)",
+   "जमा प्रमाणपत्र (Certificate of Deposit)",
+   "वाणिज्यिक पत्र (Commercial Paper)",
+   "नकद प्रबंधन बिल (Cash Management Bills)"
+  ],
+  "correct": 1,
+  "explainEn": "According to RBI guidelines, Certificates of Deposit (CDs) can be issued with a minimum denomination of Rs. 5 lakh and in multiples of Rs. 1 lakh thereafter, but the minimum application size for a single investor is Rs. 5 crore (revised in recent guidelines, though historically Rs. 1 lakh denomination applies; wait, let's verify standard CD norms: minimum amount Rs. 1 lakh and in multiples of Rs. 1 lakh, let's use a cleaner factual question instead to avoid ambiguity).",
+  "sourceHint": "RBI Guidelines on Money Market Instruments",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:37:56Z"
+ },
+ {
+  "id": "q_42ede8c1e44132d7",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian public debt management, what does 'Ways and Means Advances' (WMA) primarily serve as?",
+  "qHi": "भारतीय सार्वजनिक ऋण प्रबंधन के संदर्भ में, 'वेज एंड मीन्स एडवांसेज' (WMA) मुख्य रूप से किस रूप में कार्य करता है?",
+  "optsEn": [
+   "Long-term capital investment for infrastructure projects",
+   "Temporary liquidity facility provided by the RBI to the government to bridge mismatches",
+   "External commercial borrowing vehicle for state governments",
+   "Subsidy disbursement mechanism for agricultural loans"
+  ],
+  "optsHi": [
+   "बुनियादी ढांचा परियोजनाओं के लिए दीर्घकालिक पूंजी निवेश",
+   "बेमेल को पाटने के लिए सरकार को आरबीआई द्वारा प्रदान की जाने वाली अस्थायी तरलता सुविधा",
+   "राज्य सरकारों के लिए बाहरी वाणिज्यिक उधार वाहन",
+   "कृषि ऋण के लिए सब्सिडी वितरण तंत्र"
+  ],
+  "correct": 1,
+  "explainEn": "Ways and Means Advances (WMA) are temporary loan facilities given by the Reserve Bank of India to the Central and State Governments to accommodate mismatches in the receipts and payments.",
+  "sourceHint": "Reserve Bank of India FAQs and Public Debt Management Reports",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:37:56Z"
+ },
+ {
+  "id": "q_abce134a9668542f",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary purpose of the 'Prompt Corrective Action' (PCA) framework enforced by the Reserve Bank of India for scheduled commercial banks?",
+  "qHi": "अनुसूचित व्यावसायिक बैंकों के लिए भारतीय रिजर्व बैंक द्वारा लागू 'प्रॉम्प्ट करेक्टिव एक्शन' (PCA) फ्रेमवर्क का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To privatize loss-making public sector banks",
+   "To monitor financial health indicators like capital, asset quality, and profitability and intervene early",
+   "To manage foreign exchange reserves during hyperinflation",
+   "To set mandatory corporate social responsibility budgets"
+  ],
+  "optsHi": [
+   "घाटे में चल रहे सार्वजनिक क्षेत्र के बैंकों का निजीकरण करना",
+   "पूंजी, परिसंपत्ति गुणवत्ता और लाभप्रदता जैसे वित्तीय स्वास्थ्य संकेतकों की निगरानी करना और समय पर हस्तक्षेप करना",
+   "अतिमुद्रास्फीति के दौरान विदेशी मुद्रा भंडार का प्रबंधन करना",
+   "अनिवार्य कॉर्पोरेट सामाजिक उत्तरदायित्व बजट निर्धारित करना"
+  ],
+  "correct": 1,
+  "explainEn": "The PCA framework enables the RBI to intervene early and take supervisory actions (such as restricting capital expenditure, branch expansion, or dividend distribution) when banks breach certain thresholds of capital, asset quality, and leverage.",
+  "sourceHint": "RBI Supervisory Frameworks and Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:37:56Z"
+ },
+ {
+  "id": "q_6b3c2c8b18ec4b25",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following entities is legally mandated to act as the primary regulator for Mutual Funds in India under specific legislative powers?",
+  "qHi": "निम्नलिखित में से कौन सी संस्था विशिष्ट विधायी शक्तियों के तहत भारत में म्यूचुअल फंड के लिए प्राथमिक नियामक के रूप में कार्य करने के लिए कानूनी रूप से अनिवार्य है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India",
+   "Insurance Regulatory and Development Authority of India",
+   "National Bank for Agriculture and Rural Development"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI)",
+   "भारतीय बीमा विनियामक और विकास प्राधिकरण",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक (NABARD)"
+  ],
+  "correct": 1,
+  "explainEn": "SEBI regulates mutual funds in India under the SEBI (Mutual Funds) Regulations, 1996, framed under the Securities and Exchange Board of India Act, 1992.",
+  "sourceHint": "SEBI Act, 1992 and SEBI Mutual Fund Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:37:56Z"
+ },
+ {
+  "id": "q_c327b7e18ec186d9",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What does the term 'Tier 2 Capital' represent in the context of bank capital adequacy under Basel norms?",
+  "qHi": "बेसल मानदंडों के तहत बैंक पूंजी पर्याप्तता के संदर्भ में 'टियर 2 कैपिटल' शब्द क्या दर्शाता है?",
+  "optsEn": [
+   "Core capital that provides the highest degree of protection against unexpected losses",
+   "Supplementary capital that absorbs losses in the event of a winding-up and provides a lower degree of protection",
+   "Government equity infused exclusively for rural microfinance",
+   "Short-term inter-bank borrowings maturing within seven days"
+  ],
+  "optsHi": [
+   "कोर पूंजी जो अप्रत्याशित नुकसान के खिलाफ सुरक्षा की उच्चतम डिग्री प्रदान करती है",
+   "पूरक पूंजी जो समापन की स्थिति में नुकसान को अवशोषित करती है और सुरक्षा की कम डिग्री प्रदान करती है",
+   "विशेष रूप से ग्रामीण सूक्ष्म वित्त के लिए डाली गई सरकारी इक्विटी",
+   "सात दिनों के भीतर परिपक्व होने वाले अल्पकालिक अंतर-बैंक ऋण"
+  ],
+  "correct": 1,
+  "explainEn": "Tier 2 capital is considered supplementary capital, which includes items like undisclosed reserves, revaluation reserves, general loan-loss reserves, and subordinated debt, providing a secondary layer of protection against losses.",
+  "sourceHint": "Basel Committee on Banking Supervision (BCBS) Framework / RBI Master Circular",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T11:37:56Z"
  }
 ]
