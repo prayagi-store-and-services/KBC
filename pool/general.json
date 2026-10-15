@@ -8874,5 +8874,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-14T21:44:04Z"
+ },
+ {
+  "id": "q_9ae8586bed129f3d",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which Indian state is the classical dance form Kathakali traditionally performed?",
+  "qHi": "शास्त्रीय नृत्य शैली कथकली पारंपरिक रूप से किस भारतीय राज्य में की जाती है?",
+  "optsEn": [
+   "Tamil Nadu",
+   "Andhra Pradesh",
+   "Kerala",
+   "Odisha"
+  ],
+  "optsHi": [
+   "तमिलनाडु",
+   "आंध्र प्रदेश",
+   "केरल",
+   "ओडिशा"
+  ],
+  "correct": 2,
+  "explainEn": "Kathakali is a major classical dance form that originated in the southern state of Kerala.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:42:21Z"
+ },
+ {
+  "id": "q_5218da84e9e7f25a",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which state is the ancient port city of Lothal located?",
+  "qHi": "प्राचीन पत्तन नगर लोथल किस राज्य में स्थित है?",
+  "optsEn": [
+   "Rajasthan",
+   "Gujarat",
+   "Maharashtra",
+   "Punjab"
+  ],
+  "optsHi": [
+   "राजस्थान",
+   "गुजरात",
+   "महाराष्ट्र",
+   "पंजाब"
+  ],
+  "correct": 1,
+  "explainEn": "Lothal is one of the southernmost sites of the ancient Indus Valley civilization, located in the Bhal region of Gujarat.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:43:25Z"
+ },
+ {
+  "id": "q_a1cb1102612af7be",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian scientist is known for developing the theory of statistical mechanics known as Bose-Einstein statistics?",
+  "qHi": "किस भारतीय वैज्ञानिक को बोस-आइंस्टीन सांख्यिकी के रूप में जानी जाने वाली सांख्यिकी यांत्रिकी के सिद्धांत को विकसित करने के लिए जाना जाता है?",
+  "optsEn": [
+   "Homi J. Bhabha",
+   "Meghnad Saha",
+   "Satyendra Nath Bose",
+   "Jagadish Chandra Bose"
+  ],
+  "optsHi": [
+   "होमी जे. भाभा",
+   "मेघनाद साहा",
+   "सत्येंद्र नाथ बोस",
+   "जगदीश चंद्र बोस"
+  ],
+  "correct": 2,
+  "explainEn": "Satyendra Nath Bose provided the foundation for Bose-Einstein statistics and the theory of the condensation of Bose-Einstein gas.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:43:25Z"
+ },
+ {
+  "id": "q_93f0a269089646f7",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which wildlife sanctuary in India is famous as the last natural habitat of the Asiatic lion?",
+  "qHi": "भारत में कौन सा वन्यजीव अभयारण्य एशियाई शेर के अंतिम प्राकृतिक आवास के रूप में प्रसिद्ध है?",
+  "optsEn": [
+   "Jim Corbett National Park",
+   "Gir National Park",
+   "Kaziranga National Park",
+   "Bandipur National Park"
+  ],
+  "optsHi": [
+   "जिम कॉर्बेट राष्ट्रीय उद्यान",
+   "गिर राष्ट्रीय उद्यान",
+   "काजीरंगा राष्ट्रीय उद्यान",
+   "बांदीपुर राष्ट्रीय उद्यान"
+  ],
+  "correct": 1,
+  "explainEn": "Gir National Park and Wildlife Sanctuary in Gujarat is the only place in the wild where Asiatic lions are found.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:43:25Z"
+ },
+ {
+  "id": "q_8ce6470c867f2778",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian monetary policy, what does the abbreviation 'REPO' stand for in 'Repo Rate'?",
+  "qHi": "भारतीय मौद्रिक नीति के संदर्भ में, 'रेपो रेट' में 'रेपो' (REPO) शब्द का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Repurchase Option",
+   "Reserve Economy Portfolio Operation",
+   "Regular Economic Public Obligation",
+   "Redemption Policy Output"
+  ],
+  "optsHi": [
+   "रीपर्चेस ऑप्शन (Repurchase Option)",
+   "रिज़र्व इकोनॉमी पोर्टफोलियो ऑपरेशन",
+   "रेगुलर इकोनॉमिक पब्लिक ऑब्लिगेशन",
+   "रिडेम्पशन पॉलिसी आउटपुट"
+  ],
+  "correct": 0,
+  "explainEn": "Repo stands for 'Repurchase agreement' or 'Repurchase option', which is the rate at which the central bank lends money to commercial banks.",
+  "sourceHint": "Reserve Bank of India (RBI) Glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:43:25Z"
  }
 ]

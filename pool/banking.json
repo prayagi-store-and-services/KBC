@@ -13214,5 +13214,397 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-14T21:43:55Z"
+ },
+ {
+  "id": "q_6f9a40d0154d77f5",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which type of bank account typically offers no interest to the account holder?",
+  "qHi": "किस प्रकार के बैंक खाते में आमतौर पर खाताधारक को कोई ब्याज नहीं मिलता है?",
+  "optsEn": [
+   "Savings Account",
+   "Fixed Deposit Account",
+   "Current Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "बचत खाता",
+   "सावधि जमा खाता",
+   "चालू खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 2,
+  "explainEn": "Current accounts are designed for business purposes and generally do not offer any interest on the deposits.",
+  "sourceHint": "NCERT Banking Concepts",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:41:22Z"
+ },
+ {
+  "id": "q_62873a4011e5573c",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization insures bank deposits in India up to a specified limit per depositor?",
+  "qHi": "कौन सा संगठन भारत में प्रति depositor एक निश्चित सीमा तक बैंक जमा का बीमा करता है?",
+  "optsEn": [
+   "NABARD",
+   "SIDBI",
+   "DICGC",
+   "EXIM Bank"
+  ],
+  "optsHi": [
+   "नाबार्ड",
+   "सिडबी",
+   "ड DICGC",
+   "एक्जिम बैंक"
+  ],
+  "correct": 2,
+  "explainEn": "Deposit Insurance and Credit Guarantee Corporation (DICGC), a wholly-owned subsidiary of RBI, insures all bank deposits.",
+  "sourceHint": "DICGC Act, 1961",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:41:22Z"
+ },
+ {
+  "id": "q_78bccda3f79f1fde",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is an apex institution for agricultural and rural development financing in India?",
+  "qHi": "निम्नलिखित में से कौन भारत में कृषि और ग्रामीण विकास वित्तपोषण के लिए एक शीर्ष संस्था है?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "SEBI",
+   "IRDAI"
+  ],
+  "optsHi": [
+   "सिडबी",
+   "नाबार्ड",
+   "सेबी",
+   "इrdai"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) is an apex development regulatory body in India for agriculture and rural sectors.",
+  "sourceHint": "NABARD Act, 1981",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:41:22Z"
+ },
+ {
+  "id": "q_39bf06ef8b84c283",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque is a special type of bill of exchange that is drawn on:",
+  "qHi": "परिक्रामी लिखत अधिनियम, 1881 के तहत, चेक विनिमय पत्र का एक विशेष प्रकार है जो किस पर आहरित किया जाता है?",
+  "optsEn": [
+   "Any corporate body",
+   "A specified banker",
+   "The Reserve Bank of India",
+   "Any individual account holder"
+  ],
+  "optsHi": [
+   "कोई भी कॉर्पोरेट निकाय",
+   "एक विशिष्ट बैंकर",
+   "भारतीय रिजर्व बैंक",
+   "कोई भी व्यक्तिगत खाता धारक"
+  ],
+  "correct": 1,
+  "explainEn": "According to Section 6 of the Negotiable Instruments Act, 1881, a cheque is a bill of exchange drawn on a specified banker and not expressed to be payable otherwise than on demand.",
+  "sourceHint": "The Negotiable Instruments Act, 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:42:17Z"
+ },
+ {
+  "id": "q_e88440cb5d55658c",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India regulates the mutual fund industry and protects the interests of investors in securities?",
+  "qHi": "भारत में कौन सा संगठन म्यूचुअल फंड उद्योग को विनियमित करता है और प्रतिभूतियों में निवेशकों के हितों की रक्षा करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India",
+   "National Bank for Agriculture and Rural Development",
+   "Insurance Regulatory and Development Authority"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक",
+   "बीमा विनियामक और विकास प्राधिकरण"
+  ],
+  "correct": 1,
+  "explainEn": "SEBI is the statutory regulatory body established by an Act of Parliament to protect the interests of investors in securities and to promote and regulate the securities market.",
+  "sourceHint": "SEBI Act, 1992",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:42:17Z"
+ },
+ {
+  "id": "q_c46784e20a28ee73",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does 'S' represent in the financial acronym 'SLR' used by commercial banks?",
+  "qHi": "वाणिज्यिक बैंकों द्वारा उपयोग किए जाने वाले वित्तीय संक्षिप्त नाम 'SLR' में 'S' क्या दर्शाता है?",
+  "optsEn": [
+   "Securities",
+   "Statutory",
+   "Standard",
+   "Systemic"
+  ],
+  "optsHi": [
+   "प्रतिभूतियाँ",
+   "सांविधिक",
+   "मानक",
+   "प्रणालीगत"
+  ],
+  "correct": 1,
+  "explainEn": "SLR stands for Statutory Liquidity Ratio, which is the rate at which commercial banks must maintain liquid assets before lending to customers.",
+  "sourceHint": "Banking Regulation Act, 1949 and RBI publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:42:17Z"
+ },
+ {
+  "id": "q_3b9e52c7d8a25486",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institution acts as the apex refinancing agency for micro, small, and medium enterprises (MSME) in India?",
+  "qHi": "भारत में सूक्ष्म, लघु और मध्यम उद्यमों (MSME) के लिए कौन सी संस्था शीर्ष पुनर्वित्त एजेंसी के रूप में कार्य करती है?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "IFCI"
+  ],
+  "optsHi": [
+   "सिडबी",
+   "नाबार्ड",
+   "एक्जिम बैंक",
+   "आईएफसीआई"
+  ],
+  "correct": 0,
+  "explainEn": "Small Industries Development Bank of India (SIDBI) is the principal financial institution for the promotion, financing, and development of the MSME sector.",
+  "sourceHint": "SIDBI Act and Ministry of MSME, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:42:17Z"
+ },
+ {
+  "id": "q_90f13e13494c8099",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which section of the Banking Regulation Act, 1949 restricts a banking company from paying dividends on its shares until all its capitalized expenses have been completely written off?",
+  "qHi": "बैंकिंग विनियमन अधिनियम, 1949 की कौन सी धारा किसी बैंकिंग कंपनी को अपने शेयरों पर लाभांश के भुगतान से रोकती है जब तक कि उसके सभी पूंजीकृत खर्च पूरी तरह से बट्टे खाते में नहीं डाल दिए जाते?",
+  "optsEn": [
+   "Section 12",
+   "Section 15",
+   "Section 19",
+   "Section 24"
+  ],
+  "optsHi": [
+   "धारा 12",
+   "धारा 15",
+   "धारा 19",
+   "धारा 24"
+  ],
+  "correct": 1,
+  "explainEn": "Section 15 of the Banking Regulation Act, 1949 prohibits payment of dividend until capitalized expenses (like preliminary expenses, organization expenses, share selling commission) are completely written off.",
+  "sourceHint": "Banking Regulation Act, 1949",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:43:20Z"
+ },
+ {
+  "id": "q_ca7313e7d626579d",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Prompt Corrective Action (PCA) framework for commercial banks, which of the following parameters is not used by the Reserve Bank of India to monitor financial health?",
+  "qHi": "वाणिज्यिक बैंकों के लिए त्वरित सुधारात्मक कार्रवाई (PCA) फ्रेमवर्क के तहत, वित्तीय स्वास्थ्य की निगरानी के लिए भारतीय रिजर्व बैंक द्वारा निम्नलिखित में से किस पैरामीटर का उपयोग नहीं किया जाता है?",
+  "optsEn": [
+   "Capital to Risk-weighted Assets Ratio",
+   "Net Non-Performing Assets Ratio",
+   "Return on Assets",
+   "Credit-Deposit Ratio"
+  ],
+  "optsHi": [
+   "पूंजी से जोखिम-भारित संपत्ति अनुपात",
+   "शुद्ध गैर-निष्पादित परिसंपत्ति अनुपात",
+   "परिसंपत्ति पर रिटर्न",
+   "ऋण-जमा अनुपात"
+  ],
+  "correct": 3,
+  "explainEn": "The PCA framework monitors three main parameters: Capital (CRAR), Asset Quality (NPA ratios), and Profitability (Return on Assets). Credit-Deposit ratio is not a PCA trigger parameter.",
+  "sourceHint": "RBI PCA Framework Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:43:20Z"
+ },
+ {
+  "id": "q_b36075004a33979a",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What does the 'L' stand for in the Liquidity Coverage Ratio (LCR) framework introduced under Basel III norms?",
+  "qHi": "बेसल III मानदंडों के तहत शुरू किए गए तरलता कवरेज अनुपात (LCR) फ्रेमवर्क में 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Leverage",
+   "Liquidity",
+   "Liability",
+   "Ledger"
+  ],
+  "optsHi": [
+   "लिवरेज",
+   "लिक्विडिटी",
+   "लायबिलिटी",
+   "लेजर"
+  ],
+  "correct": 1,
+  "explainEn": "LCR stands for Liquidity Coverage Ratio, which ensures that banks have an adequate stock of unencumbered high-quality liquid assets to survive a 30-day severe stress scenario.",
+  "sourceHint": "Basel Committee on Banking Supervision (BCBS) / RBI Basel III Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:43:20Z"
+ },
+ {
+  "id": "q_6cc58c7dea9c9f6c",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the Indian payment systems, what is the minimum transaction amount required for settling funds through the Real Time Gross Settlement (RTGS) system?",
+  "qHi": "भारतीय भुगतान प्रणालियों के संदर्भ में, रियल टाइम ग्रॉस सेटलमेंट (RTGS) प्रणाली के माध्यम से फंड निपटाने के लिए आवश्यक न्यूनतम लेनदेन राशि क्या है?",
+  "optsEn": [
+   "One lakh rupees",
+   "Two lakh rupees",
+   "Five lakh rupees",
+   "No minimum limit"
+  ],
+  "optsHi": [
+   "एक लाख रुपये",
+   "दो लाख रुपये",
+   "पाँच लाख रुपये",
+   "कोई न्यूनतम सीमा नहीं"
+  ],
+  "correct": 1,
+  "explainEn": "The minimum amount to be remitted through RTGS is 2,00,000 rupees, with no upper ceiling.",
+  "sourceHint": "RBI Payment Systems Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:43:20Z"
+ },
+ {
+  "id": "q_9b7fc51a339ee76d",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which institution in India acts as the principal regulator for Micro Finance Institutions (MFIs) that are registered as Non-Banking Financial Companies (NBFCs)?",
+  "qHi": "भारत में कौन सी संस्था गैर-बैंकिंग वित्तीय कंपनियों (NBFCs) के रूप में पंजीकृत सूक्ष्म वित्त संस्थानों (MFIs) के लिए मुख्य नियामक के रूप में कार्य करती है?",
+  "optsEn": [
+   "Small Industries Development Bank of India",
+   "National Bank for Agriculture and Rural Development",
+   "Reserve Bank of India",
+   "Ministry of Finance"
+  ],
+  "optsHi": [
+   "भारतीय लघु उद्योग विकास बैंक",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक",
+   "भारतीय रिजर्व बैंक",
+   "वित्त मंत्रालय"
+  ],
+  "correct": 2,
+  "explainEn": "NBFC-MFIs are regulated by the Reserve Bank of India under Chapter III B of the Reserve Bank of India Act, 1934.",
+  "sourceHint": "RBI Master Directions - Non-Banking Financial Company - Non-Systemically Important Non-Deposit taking Company (Reserve Bank) Directions, 2016",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:43:20Z"
+ },
+ {
+  "id": "q_5e60fcd9db5c8312",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary objective of introducing the 'Standing Deposit Facility' (SDF) by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा 'स्थाई जमा सुविधा' (SDF) शुरू करने का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To provide collateralized overnight loans to commercial banks",
+   "To absorb excess liquidity from the banking system without requiring collateral",
+   "To finance long-term infrastructure projects of the government",
+   "To regulate foreign exchange reserves"
+  ],
+  "optsHi": [
+   "वाणिज्यिक बैंकों को संपार्श्विक ओवरनाइट ऋण प्रदान करना",
+   "संपार्श्विक की आवश्यकता के बिना बैंकिंग प्रणाली से अतिरिक्त तरलता को अवशोषित करना",
+   "सरकार की दीर्घकालिक बुनियादी ढांचा परियोजनाओं को वित्त पोषित करना",
+   "विदेशी मुद्रा भंडार को विनियमित करना"
+  ],
+  "correct": 1,
+  "explainEn": "The Standing Deposit Facility (SDF) is a financial stability tool introduced to absorb liquidity from commercial banks without the requirement of collateral (government securities), unlike the fixed-rate reverse repo.",
+  "sourceHint": "RBI Monetary Policy Report",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:43:20Z"
+ },
+ {
+  "id": "q_789b49f510e0640b",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque that is payable to order can be transferred by whom?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, आर्डर देय चेक को किसके द्वारा स्थानांतरित किया जा सकता है?",
+  "optsEn": [
+   "Endorsement and delivery",
+   "Delivery alone",
+   "Registration with the issuer bank",
+   "Written permission from the court"
+  ],
+  "optsHi": [
+   "पृष्ठांकन और परिदान",
+   "केवल परिदान",
+   "जारीकर्ता बैंक के साथ पंजीकरण",
+   "अदालत की लिखित अनुमति"
+  ],
+  "correct": 0,
+  "explainEn": "A negotiable instrument payable to order is negotiated by endorsement and delivery, whereas an instrument payable to bearer is negotiated by delivery alone.",
+  "sourceHint": "Negotiable Instruments Act, 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:43:20Z"
  }
 ]

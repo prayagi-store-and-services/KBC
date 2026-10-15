@@ -8678,5 +8678,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-14T21:44:24Z"
+ },
+ {
+  "id": "q_7df87c6c29959096",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which natural resource is often referred to as 'Black Gold'?",
+  "qHi": "किस प्राकृतिक संसाधन को अक्सर 'काला सोना' कहा जाता है?",
+  "optsEn": [
+   "Coal",
+   "Petroleum",
+   "Iron ore",
+   "Mica"
+  ],
+  "optsHi": [
+   "कोयला",
+   "पेट्रोलियम",
+   "लोह अयस्क",
+   "अभ्रक"
+  ],
+  "correct": 1,
+  "explainEn": "Petroleum and its derivatives are valuable and are commonly called black gold.",
+  "sourceHint": "NCERT Class 8 Geography Chapter - Land, Soil, Water, Natural Vegetation and Wildlife Resources",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:41:33Z"
+ },
+ {
+  "id": "q_bf28a4c9879a0e74",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of sound frequency is below the audible range for humans?",
+  "qHi": "मनुष्यों के लिए श्रव्य सीमा से कम आवृत्ति की ध्वनि किस प्रकार की होती है?",
+  "optsEn": [
+   "Ultrasonic",
+   "Infrasonic",
+   "Supersonic",
+   "Auditory"
+  ],
+  "optsHi": [
+   "पराश्रव्य",
+   "अवश्रव्य",
+   "पराध्वनिक",
+   "श्रवण"
+  ],
+  "correct": 1,
+  "explainEn": "Frequencies below 20 Hz are called infrasonic sounds.",
+  "sourceHint": "NCERT Class 8 Science Chapter - Sound",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:41:33Z"
  }
 ]

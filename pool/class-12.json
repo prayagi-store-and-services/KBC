@@ -12878,5 +12878,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-14T21:44:47Z"
+ },
+ {
+  "id": "q_7e2dc502a29ed5ed",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'CPU' stand for in computer science?",
+  "qHi": "कंप्यूटर विज्ञान में 'CPU' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Control Processing Unit",
+   "Central Processing Unit",
+   "Computer Processing Unit",
+   "Central Program Utility"
+  ],
+  "optsHi": [
+   "कंट्रोल प्रोसेसिंग यूनिट",
+   "सेंट्रल प्रोसेसिंग यूनिट",
+   "कंप्यूटर प्रोसेसिंग यूनिट",
+   "सेंट्रल प्रोग्राम यूटिलिटी"
+  ],
+  "correct": 1,
+  "explainEn": "CPU stands for Central Processing Unit, which is the primary component of a computer that executes instructions.",
+  "sourceHint": "NCERT Class 12 Computer Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:41:42Z"
+ },
+ {
+  "id": "q_7552bbab16ddf54a",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the molecularity of an elementary reaction if its rate is found to be directly proportional to the concentration of two reactant molecules?",
+  "qHi": "किसी प्राथमिक अभिक्रिया की आणुकता क्या होगी यदि उसकी दर दो अभिकारक अणुओं की सांद्रता के सीधे समानुपाती पाई जाती है?",
+  "optsEn": [
+   "Zero",
+   "Unimolecular",
+   "Bimolecular",
+   "Trimolecular"
+  ],
+  "optsHi": [
+   "शून्य",
+   "एकाणुक",
+   "द्विअणुक",
+   "त्रिअणुक"
+  ],
+  "correct": 2,
+  "explainEn": "Molecularity is the number of reacting species taking part in an elementary reaction. If two molecules react simultaneously, the molecularity is bimolecular.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:42:40Z"
+ },
+ {
+  "id": "q_c1e40e782bf4ff07",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vector is commonly used to transfer the gene for dsRNA-mediated RNA interference in transgenic tobacco plants to protect against Meloidogyne incognita?",
+  "qHi": "मेलोगिडाइन इनकोग्निटा से बचाने के लिए ट्रांसजेनिक तंबाकू पौधों में dsRNA-मध्यित RNA हस्तक्षेप के लिए सामान्यतः किस संवाहक का उपयोग किया जाता है?",
+  "optsEn": [
+   "Agrobacterium tumefaciens",
+   "Retrovirus",
+   "Bacillus thuringiensis",
+   "Escherichia coli"
+  ],
+  "optsHi": [
+   "एग्रोबैक्टीरियम ट्यूमेफेशियंस",
+   "रेट्रोवायरस",
+   "बैसिलस थुरिंजिएنسिस",
+   "एस्चेरिचिया कोलाई"
+  ],
+  "correct": 0,
+  "explainEn": "Agrobacterium vectors are used to introduce nematode-specific genes into host plants to produce dsRNA for silencing essential genes in the nematode.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:42:40Z"
+ },
+ {
+  "id": "q_bf187b452c640dda",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "According to Gauss's Law in electrostatics, the total electric flux through a closed surface depends upon which of the following?",
+  "qHi": "स्थिरवैद्युतिकी में गॉस के नियम के अनुसार, किसी बंद सतह से कुल विद्युत फ्लक्स निम्नलिखित में से किस पर निर्भर करता है?",
+  "optsEn": [
+   "The shape of the closed surface only",
+   "The net charge enclosed within the surface",
+   "The volume enclosed by the surface only",
+   "The external charges placed outside the surface"
+  ],
+  "optsHi": [
+   "केवल बंद सतह के आकार पर",
+   "सतह के भीतर संलग्न कुल आवेश पर",
+   "केवल सतह द्वारा घिरे आयतन पर",
+   "सतह के बाहर रखे बाहरी आवेशों पर"
+  ],
+  "correct": 1,
+  "explainEn": "Gauss's Law states that the total electric flux through a closed surface is equal to 1/epsilon_0 times the net charge enclosed by the closed surface.",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:42:40Z"
+ },
+ {
+  "id": "q_ba16303182d1d233",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which macroeconomic aggregate is calculated by subtracting net factor income from abroad from Gross National Product?",
+  "qHi": "सकल राष्ट्रीय उत्पाद में से विदेशों से शुद्ध कारक आय घटाकर कौन सा समष्टि अर्थशास्त्र समुच्चय ज्ञात किया जाता है?",
+  "optsEn": [
+   "Gross Domestic Product",
+   "Net National Product",
+   "National Income",
+   "Personal Income"
+  ],
+  "optsHi": [
+   "सकल घरेलू उत्पाद",
+   "शुद्ध राष्ट्रीय उत्पाद",
+   "राष्ट्रीय आय",
+   "व्यक्तिगत आय"
+  ],
+  "correct": 0,
+  "explainEn": "Gross National Product (GNP) minus Net Factor Income from Abroad (NFIA) equals Gross Domestic Product (GDP).",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:42:40Z"
+ },
+ {
+  "id": "q_c1529969062d4cea",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of the Indian Constitution, which part contains the Directive Principles of State Policy?",
+  "qHi": "भारतीय संविधान के संदर्भ में, राज्य के नीति निर्देशक तत्व किस भाग में दिए गए हैं?",
+  "optsEn": [
+   "Part I",
+   "Part II",
+   "Part III",
+   "Part IV"
+  ],
+  "optsHi": [
+   "भाग I",
+   "भाग II",
+   "भाग III",
+   "भाग IV"
+  ],
+  "correct": 3,
+  "explainEn": "Part IV of the Indian Constitution (Articles 36-51) contains the Directive Principles of State Policy, borrowed from the Irish Constitution.",
+  "sourceHint": "Constitution of India / NCERT Class 11 Political Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:42:40Z"
+ },
+ {
+  "id": "q_05799496fd35f1e3",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of symmetry is characteristic of adult Echinodermata, whereas their larvae exhibit bilateral symmetry?",
+  "qHi": "वयस्क इकाइनोडर्मेटा की विशेषता किस प्रकार की सममिति है, जबकि उनके लार्वा द्वipashvik (द्विपार्श्व) सममिति दर्शाते हैं?",
+  "optsEn": [
+   "Radial symmetry",
+   "Asymmetry",
+   "Spherical symmetry",
+   "Bilateral symmetry"
+  ],
+  "optsHi": [
+   "अदयी (त्रिज्य) सममिति",
+   "असममिति",
+   "गोलाकार सममिति",
+   "द्विपार्श्व सममिति"
+  ],
+  "correct": 0,
+  "explainEn": "Adult echinoderms possess radial symmetry (specifically pentamerous), which is a secondary adaptation as their free-swimming larvae are bilaterally symmetrical.",
+  "sourceHint": "NCERT Class 11 Biology, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:42:40Z"
+ },
+ {
+  "id": "q_d8bfef631f8e7b50",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which metal is refined commercially using the Mond process?",
+  "qHi": "मॉन्ड प्रक्रम का उपयोग करके व्यावसायिक रूप से किस धातु का परिष्करण किया जाता है?",
+  "optsEn": [
+   "Copper",
+   "Zinc",
+   "Nickel",
+   "Aluminium"
+  ],
+  "optsHi": [
+   "तांबा",
+   "जस्ता",
+   "निकल",
+   "एल्युमीनियम"
+  ],
+  "correct": 2,
+  "explainEn": "In the Mond process, nickel is heated with carbon monoxide to form volatile nickel tetracarbonyl, which is subsequently decomposed to yield pure nickel.",
+  "sourceHint": "NCERT Class 12 Chemistry, General Principles and Processes of Isolation of Elements",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:42:40Z"
  }
 ]

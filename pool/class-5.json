@@ -11282,5 +11282,649 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-14T21:44:15Z"
+ },
+ {
+  "id": "q_ef6d743e26e2a658",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "On which date is World Students' Day celebrated annually to honour Dr. A. P. J. Abdul Kalam?",
+  "qHi": "डॉ. ए. पी. जे. अब्दुल कलाम के सम्मान में प्रतिवर्ष विश्व छात्र दिवस किस तारीख को मनाया जाता है?",
+  "optsEn": [
+   "October 15",
+   "November 14",
+   "September 5",
+   "January 26"
+  ],
+  "optsHi": [
+   "15 अक्टूबर",
+   "14 नवंबर",
+   "5 सितंबर",
+   "26 जनवरी"
+  ],
+  "correct": 0,
+  "explainEn": "World Students' Day is celebrated on October 15, which is the birth anniversary of Dr. A.P.J. Abdul Kalam.",
+  "sourceHint": "United Nations / PIB",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:41:30Z"
+ },
+ {
+  "id": "q_d4f192d2585d4978",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "In which Indian state was Dr. A. P. J. Abdul Kalam born?",
+  "qHi": "डॉ. ए. पी. जे. अब्दुल कलाम का जन्म भारत के किस राज्य में हुआ था?",
+  "optsEn": [
+   "Kerala",
+   "Tamil Nadu",
+   "Karnataka",
+   "Andhra Pradesh"
+  ],
+  "optsHi": [
+   "केरल",
+   "तमिलनाडु",
+   "कर्नाटक",
+   "आंध्र प्रदेश"
+  ],
+  "correct": 1,
+  "explainEn": "Dr. A.P.J. Abdul Kalam was born in Rameswaram, which is located in the Indian state of Tamil Nadu.",
+  "sourceHint": "NCERT textbooks / Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:41:30Z"
+ },
+ {
+  "id": "q_b2c169fc00f03a79",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Which famous title is often used for Dr. A. P. J. Abdul Kalam because of his work with children and education?",
+  "qHi": "बच्चों और शिक्षा के क्षेत्र में उनके काम के कारण डॉ. ए. पी. जे. अब्दुल कलाम को अक्सर किस प्रसिद्ध उपनाम से पुकारा जाता है?",
+  "optsEn": [
+   "Missile Man of India",
+   "People's President",
+   "Iron Man of India",
+   "Father of the Nation"
+  ],
+  "optsHi": [
+   "भारत के मिसाइल मैन",
+   "जनता के राष्ट्रपति",
+   "भारत के लौह पुरुष",
+   "राष्ट्रपिता"
+  ],
+  "correct": 1,
+  "explainEn": "Dr. Kalam was widely known as the 'People's President' due to his immense popularity and deep connection with citizens, especially students.",
+  "sourceHint": "PIB / NCERT",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:41:30Z"
+ },
+ {
+  "id": "q_5e014462e918579a",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Dr. A. P. J. Abdul Kalam served as the President of which country?",
+  "qHi": "डॉ. ए. पी. जे. अब्दुल कलाम ने किस देश के राष्ट्रपति के रूप में कार्य किया?",
+  "optsEn": [
+   "India",
+   "USA",
+   "Japan",
+   "France"
+  ],
+  "optsHi": [
+   "भारत",
+   "अमेरिका",
+   "जापान",
+   "फ्रांस"
+  ],
+  "correct": 0,
+  "explainEn": "Dr. Kalam served as the 11th President of India from 2002 to 2007.",
+  "sourceHint": "Election Commission of India / Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:41:30Z"
+ },
+ {
+  "id": "q_bca52ae602f47022",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Which scientific organization is closely associated with Dr. A. P. J. Abdul Kalam's career in aerospace development?",
+  "qHi": "एयरोस्पेस विकास में डॉ. ए. पी. जे. अब्दुल कलाम के करियर से कौन सा वैज्ञानिक संगठन गहराई से जुड़ा हुआ है?",
+  "optsEn": [
+   "ISRO",
+   "WHO",
+   "UNESCO",
+   "UNICEF"
+  ],
+  "optsHi": [
+   "इसरो (ISRO)",
+   "डब्ल्यूएचओ (WHO)",
+   "यूनेस्को (UNESCO)",
+   "यूनिसेफ (UNICEF)"
+  ],
+  "correct": 0,
+  "explainEn": "Dr. Kalam worked for decades at ISRO (Indian Space Research Organisation) and DRDO, contributing to India's space and missile programmes.",
+  "sourceHint": "ISRO official records",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:41:30Z"
+ },
+ {
+  "id": "q_6de32978c85505d1",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Name the autobiography written by Dr. A. P. J. Abdul Kalam that inspires many young readers.",
+  "qHi": "डॉ. ए. पी. जे. अब्दुल कलाम द्वारा लिखी गई उस आत्मकथा का नाम बताइए जो कई युवा पाठकों को प्रेरित करती है।",
+  "optsEn": [
+   "Wings of Fire",
+   "Discovery of India",
+   "My Experiments with Truth",
+   "Jungle Book"
+  ],
+  "optsHi": [
+   "विंग्स ऑफ़ फायर",
+   "डिस्कवरी ऑफ़ इंडिया",
+   "माय एक्सपेरिमेंट्स विद ट्रूथ",
+   "जंगल बुक"
+  ],
+  "correct": 0,
+  "explainEn": "'Wings of Fire' is the autobiography of Dr. A.P.J. Abdul Kalam, co-authored by Arun Tiwari.",
+  "sourceHint": "Universities Press / NCERT reference",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:41:30Z"
+ },
+ {
+  "id": "q_3dd1f439186b0041",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "What was Dr. A. P. J. Abdul Kalam's favourite role when interacting with students?",
+  "qHi": "छात्रों के साथ बातचीत करते समय डॉ. ए. पी. जे. अब्दुल कलाम की पसंदीदा भूमिका क्या थी?",
+  "optsEn": [
+   "Teacher",
+   "Coach",
+   "Captain",
+   "Director"
+  ],
+  "optsHi": [
+   "शिक्षक",
+   "कोच",
+   "कप्तान",
+   "निदेशक"
+  ],
+  "correct": 0,
+  "explainEn": "Dr. Kalam always preferred to be remembered first as a teacher, even when he held the office of the President.",
+  "sourceHint": "PIB / Dr. Kalam's speeches",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:41:30Z"
+ },
+ {
+  "id": "q_36568574efee3e2d",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Which prestigious civilian award of India was conferred upon Dr. A. P. J. Abdul Kalam in 1997?",
+  "qHi": "वर्ष 1997 में डॉ. ए. पी. जे. अब्दुल कलाम को भारत के किस सर्वोच्च नागरिक सम्मान से सम्मानित किया गया था?",
+  "optsEn": [
+   "Bharat Ratna",
+   "Padma Shri",
+   "Padma Bhushan",
+   "Arjuna Award"
+  ],
+  "optsHi": [
+   "भारत रत्न",
+   "पद्म श्री",
+   "पद्म भूषण",
+   "अर्जुन पुरस्कार"
+  ],
+  "correct": 0,
+  "explainEn": "Dr. A.P.J. Abdul Kalam was awarded India's highest civilian honor, the Bharat Ratna, in 1997.",
+  "sourceHint": "Ministry of Home Affairs, India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:41:30Z"
+ },
+ {
+  "id": "q_128a5ed79d74c4a6",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "On which date is World Students' Day celebrated annually in honor of Dr. A. P. J. Abdul Kalam?",
+  "qHi": "डॉ. ए. पी. जे. अब्दुल कलाम के सम्मान में प्रतिवर्ष विश्व छात्र दिवस किस तारीख को मनाया जाता है?",
+  "optsEn": [
+   "15 October",
+   "5 September",
+   "14 November",
+   "26 January"
+  ],
+  "optsHi": [
+   "15 अक्टूबर",
+   "5 सितंबर",
+   "14 नवंबर",
+   "26 जनवरी"
+  ],
+  "correct": 0,
+  "explainEn": "World Students' Day is celebrated on October 15, which is the birth anniversary of Dr. A. P. J. Abdul Kalam.",
+  "sourceHint": "United Nations / PIB",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:42:25Z"
+ },
+ {
+  "id": "q_3e7c8d7e1b24a7b4",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Which Indian state was Dr. A. P. J. Abdul Kalam born in?",
+  "qHi": "डॉ. ए. पी. जे. अब्दुल कलाम का जन्म भारत के किस राज्य में हुआ था?",
+  "optsEn": [
+   "Kerala",
+   "Tamil Nadu",
+   "Karnataka",
+   "Andhra Pradesh"
+  ],
+  "optsHi": [
+   "केरल",
+   "तमिलनाडु",
+   "कर्नाटक",
+   "आंध्र प्रदेश"
+  ],
+  "correct": 1,
+  "explainEn": "Dr. Kalam was born in Rameswaram, which is located in the Indian state of Tamil Nadu.",
+  "sourceHint": "NCERT textbooks / Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:42:25Z"
+ },
+ {
+  "id": "q_6b83ac2d92ec01ea",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "What prominent nickname is often given to Dr. A. P. J. Abdul Kalam in India due to his work on missile technology?",
+  "qHi": "मिसाइल तकनीक पर अपने काम के कारण भारत में डॉ. ए. पी. जे. अब्दुल कलाम को अक्सर किस लोकप्रिय उपनाम से जाना जाता है?",
+  "optsEn": [
+   "Missile Man of India",
+   "Rocket Man of India",
+   "Aviation Man of India",
+   "Space Man of India"
+  ],
+  "optsHi": [
+   "भारत के मिसाइल मैन",
+   "भारत के रॉकेट मैन",
+   "भारत के विमानन मैन",
+   "भारत के अंतरिक्ष मैन"
+  ],
+  "correct": 0,
+  "explainEn": "Dr. Kalam played a pivotal role in the development of India's ballistic missile technology, earning him the title 'Missile Man of India'.",
+  "sourceHint": "DRDO / PIB",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:42:25Z"
+ },
+ {
+  "id": "q_5681c003f9689248",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Dr. A. P. J. Abdul Kalam served as the constitutional head of India as the...",
+  "qHi": "डॉ. ए. पी. जे. अब्दुल कलाम ने भारत के संवैधानिक प्रमुख के रूप में किस पद पर कार्य किया?",
+  "optsEn": [
+   "Prime Minister",
+   "Vice President",
+   "President",
+   "Chief Justice"
+  ],
+  "optsHi": [
+   "प्रधान मंत्री",
+   "उप राष्ट्रपति",
+   "राष्ट्रपति",
+   "मुख्य न्यायाधीश"
+  ],
+  "correct": 2,
+  "explainEn": "Dr. Kalam served as the 11th President of India from 2002 to 2007.",
+  "sourceHint": "President of India official portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:42:25Z"
+ },
+ {
+  "id": "q_ee00001aa92d3b8a",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Before his career in politics and presidency, what was Dr. A. P. J. Abdul Kalam's primary professional background?",
+  "qHi": "राजनीति और राष्ट्रपति बनने से पहले, डॉ. ए. पी. जे. अब्दुल कलाम की मुख्य व्यावसायिक पृष्ठभूमि क्या थी?",
+  "optsEn": [
+   "Scientist",
+   "Banker",
+   "Lawyer",
+   "Doctor"
+  ],
+  "optsHi": [
+   "वैज्ञानिक",
+   "बैंकर",
+   "वकील",
+   "डॉक्टर"
+  ],
+  "correct": 0,
+  "explainEn": "Dr. Kalam was a renowned aerospace scientist who worked with DRDO and ISRO.",
+  "sourceHint": "ISRO / DRDO archives",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:42:25Z"
+ },
+ {
+  "id": "q_0e777ab1a2970f30",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Name the famous autobiographical book written by Dr. A. P. J. Abdul Kalam that narrates his early life journey.",
+  "qHi": "डॉ. ए. पी. जे. अब्दुल कलाम द्वारा लिखित उस प्रसिद्ध आत्मकथात्मक पुस्तक का नाम बताइए जो उनके शुरुआती जीवन की यात्रा का वर्णन करती है?",
+  "optsEn": [
+   "Discovery of India",
+   "Wings of Fire",
+   "My Experiments with Truth",
+   "Ignited Minds"
+  ],
+  "optsHi": [
+   "डिस्कवरी ऑफ इंडिया",
+   "वििंग्स ऑफ फायर",
+   "माई एक्सपेरिमेंट्स विद ट्रुथ",
+   "इग्नाइटेड माइंड्स"
+  ],
+  "correct": 1,
+  "explainEn": "'Wings of Fire' is the autobiography of Dr. A. P. J. Abdul Kalam, co-written by Arun Tiwari.",
+  "sourceHint": "Universities Press / NCERT references",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:42:25Z"
+ },
+ {
+  "id": "q_8977676a8d039102",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Which prestigious civilian award of India was awarded to Dr. A. P. J. Abdul Kalam in the year 1997?",
+  "qHi": "वर्ष 1997 में डॉ. ए. पी. जे. अब्दुल कलाम को भारत का कौन सा सर्वोच्च नागरिक सम्मान प्रदान किया गया था?",
+  "optsEn": [
+   "Padma Shri",
+   "Padma Bhushan",
+   "Bharat Ratna",
+   "Padma Vibhushan"
+  ],
+  "optsHi": [
+   "पद्म श्री",
+   "पद्म भूषण",
+   "भारत रत्न",
+   "पद्म विभूषण"
+  ],
+  "correct": 2,
+  "explainEn": "Dr. Kalam was awarded India's highest civilian honor, the Bharat Ratna, in 1997 for his contribution to scientific research and modernization in defense technology.",
+  "sourceHint": "Padma Awards portal / Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:42:25Z"
+ },
+ {
+  "id": "q_584d7a59f53e5673",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "In which year was Dr. A.P.J. Abdul Kalam born?",
+  "qHi": "डॉ. ए. पी. जे. अब्दुल कलाम का जन्म किस वर्ष हुआ था?",
+  "optsEn": [
+   "1925",
+   "1931",
+   "1935",
+   "1942"
+  ],
+  "optsHi": [
+   "1925",
+   "1931",
+   "1935",
+   "1942"
+  ],
+  "correct": 1,
+  "explainEn": "Dr. A.P.J. Abdul Kalam was born on October 15, 1931, in Rameswaram, Tamil Nadu.",
+  "sourceHint": "PIB / Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:43:32Z"
+ },
+ {
+  "id": "q_ba903f38b75598d5",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Which city is the birthplace of Dr. A.P.J. Abdul Kalam?",
+  "qHi": "डॉ. ए. पी. जे. अब्दुल कलाम का जन्म किस शहर में हुआ था?",
+  "optsEn": [
+   "Madurai",
+   "Chennai",
+   "Rameswaram",
+   "Thiruvananthapuram"
+  ],
+  "optsHi": [
+   "मुरैना",
+   "चेन्नई",
+   "रामेश्वरम",
+   "तिरुवनंतपुरम"
+  ],
+  "correct": 2,
+  "explainEn": "He was born in the pilgrimage town of Rameswaram on Pamban Island, Tamil Nadu.",
+  "sourceHint": "NCERT / Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:43:32Z"
+ },
+ {
+  "id": "q_c307aa573686bf88",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "The United Nations declared October 15 as World Students Day in honor of Dr. Kalam. What is his full formal name?",
+  "qHi": "संयुक्त राष्ट्र ने डॉ. कलाम के सम्मान में 15 अक्टूबर को विश्व छात्र दिवस घोषित किया। उनका पूरा औपचारिक नाम क्या है?",
+  "optsEn": [
+   "Avul Pakir Jainulabdeen Abdul Kalam",
+   "Abdul Pakir Jainulabdeen Ahmed Kalam",
+   "Avul Prasad Jainulabdeen Abdul Kalam",
+   "Ahmed Pakir Jainulabdeen Abdul Kalam"
+  ],
+  "optsHi": [
+   "अवुल पाकिर जैनुलअब्दिन अब्दुल कलाम",
+   "अब्दुल पाकिर जैनुलअब्दिन अहमद कलाम",
+   "अवुल प्रसाद जैनुलअब्दिन अब्दुल कलाम",
+   "अहमद पाकिर जैनुलअब्दिन अब्दुल कलाम"
+  ],
+  "correct": 0,
+  "explainEn": "His full name is Avul Pakir Jainulabdeen Abdul Kalam.",
+  "sourceHint": "PIB India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:43:32Z"
+ },
+ {
+  "id": "q_dd361bae5be043e0",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Before becoming the President of India, Dr. Kalam worked primarily as a scientist in which major Indian organization?",
+  "qHi": "भारत के राष्ट्रपति बनने से पहले, डॉ. कलाम ने मुख्य रूप से किस प्रमुख भारतीय संगठन में वैज्ञानिक के रूप में काम किया?",
+  "optsEn": [
+   "CSIR",
+   "ISRO",
+   "BARC",
+   "ONGC"
+  ],
+  "optsHi": [
+   "सीएसआईआर",
+   "इसरो",
+   "भाभा परमाणु अनुसंधान केंद्र",
+   "ओएनजीसी"
+  ],
+  "correct": 1,
+  "explainEn": "Dr. Kalam worked at ISRO as the Project Director of India's first indigenous Satellite Launch Vehicle (SLV-III).",
+  "sourceHint": "ISRO official records",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:43:32Z"
+ },
+ {
+  "id": "q_244f8ca5a0aaaef1",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Which famous book written by Dr. A.P.J. Abdul Kalam is an autobiography detailing his early life?",
+  "qHi": "डॉ. ए. पी. जे. अब्दुल कलाम द्वारा लिखी गई कौन सी प्रसिद्ध पुस्तक उनके शुरुआती जीवन का आत्मकथात्मक विवरण है?",
+  "optsEn": [
+   "Wings of Fire",
+   "Ignited Minds",
+   "India 2020",
+   "Target 3 Billion"
+  ],
+  "optsHi": [
+   "विंग्स ऑफ़ फायर",
+   "इग्नाइटेड माइंड्स",
+   "इंडिया 2020",
+   "टारगेट 3 बिलियन"
+  ],
+  "correct": 0,
+  "explainEn": "Wings of Fire is the autobiography of Dr. A.P.J. Abdul Kalam, co-written by Arun Tiwari.",
+  "sourceHint": "Universities Press / Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:43:32Z"
+ },
+ {
+  "id": "q_d645c11e64c82b3a",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Which civilian award of India was awarded to Dr. A.P.J. Abdul Kalam in the year 1997?",
+  "qHi": "वर्ष 1997 में डॉ. ए. पी. जे. अब्दुल कलाम को भारत का कौन सा सर्वोच्च नागरिक सम्मान प्रदान किया गया था?",
+  "optsEn": [
+   "Padma Shri",
+   "Padma Bhushan",
+   "Padma Vibhushan",
+   "Bharat Ratna"
+  ],
+  "optsHi": [
+   "पद्म श्री",
+   "पद्म भूषण",
+   "पद्म विभूषण",
+   "भारत रत्न"
+  ],
+  "correct": 3,
+  "explainEn": "Dr. Kalam was awarded the Bharat Ratna, India's highest civilian honor, in 1997.",
+  "sourceHint": "PIB India Awards",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:43:32Z"
+ },
+ {
+  "id": "q_0e5d3e17beb32aae",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "As a distinguished scientist, Dr. Kalam played a leading role in the development of India's first successful satellite launch vehicle known as:",
+  "qHi": "एक प्रतिष्ठित वैज्ञानिक के रूप में, डॉ. कलाम ने भारत के पहले सफल उपग्रह प्रक्षेपण वाहन के विकास में अग्रणी भूमिका निभाई, जिसे किस नाम से जाना जाता है?",
+  "optsEn": [
+   "SLV-III",
+   "PSLV-C1",
+   "GSLV-F01",
+   "ASLV-D3"
+  ],
+  "optsHi": [
+   "एसएलवी-थ्री",
+   "पीएसएलवी-सी1",
+   "जीएसएलवी-एफ01",
+   "एएसएलवी-डी3"
+  ],
+  "correct": 0,
+  "explainEn": "He was the Project Director for India's Satellite Launch Vehicle III (SLV-III) which successfully deployed the Rohini satellite in 1980.",
+  "sourceHint": "ISRO archives",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:43:32Z"
+ },
+ {
+  "id": "q_7f45b094f080ec87",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "World Students' Day / Dr. A. P. J. Abdul Kalam",
+  "qEn": "Dr. A.P.J. Abdul Kalam served as the which President of India?",
+  "qHi": "डॉ. ए. पी. जे. अब्दुल कलाम ने भारत के कौन से राष्ट्रपति के रूप में कार्य किया?",
+  "optsEn": [
+   "10th",
+   "11th",
+   "12th",
+   "13th"
+  ],
+  "optsHi": [
+   "10वें",
+   "11वें",
+   "12वें",
+   "13वें"
+  ],
+  "correct": 1,
+  "explainEn": "Dr. Kalam served as the 11th President of India from 2002 to 2007.",
+  "sourceHint": "President of India official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-15T04:43:32Z"
  }
 ]
