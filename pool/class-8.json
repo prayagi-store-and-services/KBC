@@ -9882,5 +9882,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-16T04:35:42Z"
+ },
+ {
+  "id": "q_bd13b21cdfa707be",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the famous text 'Ain-i-Akbari' detailing the administration of Akbar?",
+  "qHi": "अकबर के प्रशासन का वर्णन करने वाला प्रसिद्ध ग्रंथ 'आईना-ए-अकबरी' किसने लिखा था?",
+  "optsEn": [
+   "Birbal",
+   "Tansen",
+   "Abul Fazl",
+   "Todar Mal"
+  ],
+  "optsHi": [
+   "बीरबल",
+   "तानसेन",
+   "अुल फज़ल",
+   "टोडर मल"
+  ],
+  "correct": 2,
+  "explainEn": "Abul Fazl was a courtier of the Mughal Emperor Akbar and wrote the Akbarnama, of which Ain-i-Akbari is the third volume.",
+  "sourceHint": "NCERT Class 8 History, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T11:26:27Z"
+ },
+ {
+  "id": "q_b3e05fac72c66f41",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who drafted the Indian Constitution as the Chairman of the Drafting Committee?",
+  "qHi": "प्रारूप समिति के अध्यक्ष के रूप में भारतीय संविधान का प्रारूप किसने तैयार किया था?",
+  "optsEn": [
+   "Dr. Rajendra Prasad",
+   "Mahatma Gandhi",
+   "Dr. B. R. Ambedkar",
+   "Jawaharlal Nehru"
+  ],
+  "optsHi": [
+   "डॉ. राजेंद्र प्रसाद",
+   "महात्मा गांधी",
+   "डॉ. बी. आर. अंबेडकर",
+   "जवाहरलाल नेहरू"
+  ],
+  "correct": 2,
+  "explainEn": "Dr. B. R. Ambedkar served as the Chairman of the Drafting Committee of the Constituent Assembly.",
+  "sourceHint": "NCERT Class 8 Civics, Chapter 1: The Indian Constitution",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T11:28:10Z"
+ },
+ {
+  "id": "q_ba4680bb9e0c8e0d",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific layer of the Earth's atmosphere is characterized by an increase in temperature with height due to the absorption of ultraviolet radiation by ozone?",
+  "qHi": "पृथ्वी के वायुमंडल की किस विशिष्ट परत में ओजोन द्वारा पराबैंगनी विकिरण के अवशोषण के कारण ऊंचाई के साथ तापमान में वृद्धि होती है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The stratosphere contains the ozone layer which absorbs UV rays, causing temperatures to rise in this layer.",
+  "sourceHint": "NCERT Class 7/8 Geography Chapter on Air",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T11:30:26Z"
+ },
+ {
+  "id": "q_0b3a6431a8a74de5",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the British colonial period in India, the Permanent Settlement of 1793 primarily fixed the revenue demand with which category of intermediaries?",
+  "qHi": "भारत में ब्रिटिश औपनिवेशिक काल के दौरान, 1793 के स्थायी बंदोबस्त ने मुख्य रूप से किस वर्ग के मध्यस्थों के साथ राजस्व मांग तय की थी?",
+  "optsEn": [
+   "Zamindars",
+   "Ryots",
+   "Village elders",
+   "Mahaldars"
+  ],
+  "optsHi": [
+   "जमींदार",
+   "रैयत",
+   "ग्राम बुजुर्ग",
+   "महालदार"
+  ],
+  "correct": 0,
+  "explainEn": "The Permanent Settlement was introduced by Lord Cornwallis in 1793, fixing the revenue collection rights with the zamindars.",
+  "sourceHint": "NCERT Class 8 History Chapter on Ruling the Countryside",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T11:30:26Z"
+ },
+ {
+  "id": "q_d467b45dedee5979",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which cell organelle is commonly referred to as the powerhouse of the cell because it generates chemical energy in the form of ATP?",
+  "qHi": "किस कोशिका अंगक को आमतौर पर कोशिका का पावरहाउस कहा जाता है क्योंकि यह एटीपी के रूप में रासायनिक ऊर्जा उत्पन्न करता है?",
+  "optsEn": [
+   "Ribosome",
+   "Golgi apparatus",
+   "Mitochondria",
+   "Endoplasmic reticulum"
+  ],
+  "optsHi": [
+   "राइबोसोम",
+   "गॉल्जी उपकरण",
+   "माइटोकॉन्ड्रिया",
+   "एंडोप्लाज्मिक रेटिकुलम"
+  ],
+  "correct": 2,
+  "explainEn": "Mitochondria produce cellular energy in the form of ATP through cellular respiration.",
+  "sourceHint": "NCERT Class 8 Science Chapter on Cell Structure and Functions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T11:30:26Z"
+ },
+ {
+  "id": "q_65eaabb38cc501e6",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the Indian parliamentary system, what is the maximum permissible gap allowed between two consecutive sessions of Parliament?",
+  "qHi": "भारतीय संसदीय प्रणाली के संदर्भ में, संसद के दो लगातार सत्रों के बीच अधिकतम स्वीकार्य अंतराल कितना है?",
+  "optsEn": [
+   "Three months",
+   "Four months",
+   "Six months",
+   "One year"
+  ],
+  "optsHi": [
+   "तीन महीने",
+   "चार महीने",
+   "छह महीने",
+   "एक वर्ष"
+  ],
+  "correct": 2,
+  "explainEn": "Article 85 of the Indian Constitution states that six months shall not intervene between two parliamentary sessions.",
+  "sourceHint": "Constitution of India, Article 85",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T11:30:26Z"
+ },
+ {
+  "id": "q_24542671d7a0d925",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which agricultural practice involves the cultivation of crops in controlled environments using mineral nutrient solutions in water, without soil?",
+  "qHi": "किस कृषि पद्धति में मिट्टी के बिना पानी में खनिज पोषक तत्वों के समाधान का उपयोग करके नियंत्रित वातावरण में फसलें उगाई जाती हैं?",
+  "optsEn": [
+   "Sericulture",
+   "Hydroponics",
+   "Pisciculture",
+   "Horticulture"
+  ],
+  "optsHi": [
+   "सेरीकल्चर",
+   "हाइड्रोपोनिक्स",
+   "पिसिकल्चर",
+   "बागवानी"
+  ],
+  "correct": 1,
+  "explainEn": "Hydroponics is the method of growing plants using mineral nutrient solutions, in water, without soil.",
+  "sourceHint": "NCERT Class 8 Science Chapter on Crop Production and Management",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T11:30:26Z"
+ },
+ {
+  "id": "q_0015dabf5789350d",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which fundamental right guaranteed by the Constitution of India prohibits human trafficking and forced labor?",
+  "qHi": "भारत के संविधान द्वारा गारंटीकृत कौन सा मौलिक अधिकार मानव तस्करी और जबरन श्रम पर प्रतिबंध लगाता है?",
+  "optsEn": [
+   "Right to Equality",
+   "Right to Freedom",
+   "Right against Exploitation",
+   "Right to Freedom of Religion"
+  ],
+  "optsHi": [
+   "समानता का अधिकार",
+   "स्वतंत्रता का अधिकार",
+   "शोषण के विरुद्ध अधिकार",
+   "धर्म की स्वतंत्रता का अधिकार"
+  ],
+  "correct": 2,
+  "explainEn": "Articles 23 and 24 of the Indian Constitution enshrine the Right against Exploitation, prohibiting human trafficking and forced labor.",
+  "sourceHint": "NCERT Class 8 Civics Chapter on Understanding Our Criminal Justice System / Fundamental Rights",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T11:30:26Z"
+ },
+ {
+  "id": "q_fc4bf9f5e92c6438",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "When light travels from a rarer medium to a denser medium, how does its speed and direction change relative to the normal?",
+  "qHi": "जब प्रकाश एक विरल माध्यम से सघन माध्यम में यात्रा करता है, तो अभिलंब के सापेक्ष इसकी गति और दिशा कैसे बदलती है?",
+  "optsEn": [
+   "Speed increases; bends away from the normal",
+   "Speed decreases; bends towards the normal",
+   "Speed increases; bends towards the normal",
+   "Speed decreases; bends away from the normal"
+  ],
+  "optsHi": [
+   "गति बढ़ती है; अभिलंब से दूर झुकता है",
+   "गति घटती है; अभिलंब की ओर झुकता है",
+   "गति बढ़ती है; अभिलंब की ओर झुकता है",
+   "गति घटती है; अभिलंब से दूर झुकता है"
+  ],
+  "correct": 1,
+  "explainEn": "When light enters a denser medium, its speed decreases and it bends towards the normal line.",
+  "sourceHint": "NCERT Class 8 Science Chapter on Light",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T11:30:26Z"
  }
 ]

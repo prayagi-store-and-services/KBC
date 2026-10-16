@@ -14110,5 +14110,453 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-16T04:35:11Z"
+ },
+ {
+  "id": "q_94cb23f8ca7b504b",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the capital of Australia?",
+  "qHi": "ऑस्ट्रेलिया की राजधानी क्या है?",
+  "optsEn": [
+   "Sydney",
+   "Melbourne",
+   "Canberra",
+   "Perth"
+  ],
+  "optsHi": [
+   "सिडनी",
+   "मेलबर्न",
+   "कैनबरा",
+   "पर्थ"
+  ],
+  "correct": 2,
+  "explainEn": "Canberra is the federal capital city of Australia.",
+  "sourceHint": "NCERT Class 12 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T11:26:53Z"
+ },
+ {
+  "id": "q_7280bca1cd487036",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following hormones is released by the posterior lobe of the pituitary gland?",
+  "qHi": "निम्नलिखित में से कौन सा हार्मोन पिट्यूटरी ग्रंथि के पश्च भाग से स्रावित होता है?",
+  "optsEn": [
+   "Thyroxine",
+   "Oxytocin",
+   "Insulin",
+   "Cortisol"
+  ],
+  "optsHi": [
+   "थाइरॉक्सिन",
+   "ऑक्सीटोसिन",
+   "इंसुलिन",
+   "कॉर्टिसोल"
+  ],
+  "correct": 1,
+  "explainEn": "Oxytocin and vasopressin are synthesized by the hypothalamus and released from the posterior pituitary.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 22",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T11:28:37Z"
+ },
+ {
+  "id": "q_2c77f0887a305cc6",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In a p-n junction diode, the depletion region is created due to which of the following processes?",
+  "qHi": "एक पी-एन जंक्शन डायोड में, अवक्षय क्षेत्र (डिप्लीशन रीजन) किस प्रक्रिया के कारण बनता है?",
+  "optsEn": [
+   "Diffusion of charge carriers",
+   "Avalanche breakdown",
+   "Photoelectric emission",
+   "Thermal ionization"
+  ],
+  "optsHi": [
+   "आवेश वाहकों का विसरण",
+   "एवार्ड्स ब्रेकडाउन",
+   "प्रकाश विद्युत उत्सर्जन",
+   "ऊष्मीय आयनीकरण"
+  ],
+  "correct": 0,
+  "explainEn": "The diffusion of electrons from n-region to p-region and holes from p-region to n-region creates the depletion region.",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T11:28:37Z"
+ },
+ {
+  "id": "q_1726da6675cdf305",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which coordination compound is used as an effective chemotherapeutic agent for the treatment of cancer?",
+  "qHi": "कैंसर के उपचार के लिए किस उपसहसंयोजक यौगिक का उपयोग प्रभावी कीमोथेरेपी एजेंट के रूप में किया जाता है?",
+  "optsEn": [
+   "Cisplatin",
+   "EDTA-calcium complex",
+   "Potassium ferrocyanide",
+   "Zeise's salt"
+  ],
+  "optsHi": [
+   "सिसप्लैटिन",
+   "ईटीडीए-कैल्शियम कॉम्प्लेक्स",
+   "पोटेशियम फेरोसाइनाइड",
+   "ज़ेइस सॉल्ट"
+  ],
+  "correct": 0,
+  "explainEn": "Cisplatin, a coordination complex of platinum, is widely used in cancer chemotherapy.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 9",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T11:28:37Z"
+ },
+ {
+  "id": "q_98dde9517f759657",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What term is used in macroeconomics to describe the total value of all final goods and services produced within a country during a particular year, measured at current prices?",
+  "qHi": "मैक्रोइकोनॉमिक्स में उस पद का क्या नाम है जो किसी देश के भीतर एक वर्ष के दौरान उत्पादित सभी अंतिम वस्तुओं और सेवाओं के कुल मूल्य को वर्तमान कीमतों पर दर्शाता है?",
+  "optsEn": [
+   "Real GDP",
+   "Nominal GDP",
+   "Gross National Product",
+   "Net National Product"
+  ],
+  "optsHi": [
+   "वास्तविक जीडीपी",
+   "नाममात्र जीडीपी",
+   " सकल राष्ट्रीय उत्पाद",
+   "शुद्ध राष्ट्रीय उत्पाद"
+  ],
+  "correct": 1,
+  "explainEn": "Nominal GDP measures the value of goods and services produced at current market prices.",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Macroeconomics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T11:28:37Z"
+ },
+ {
+  "id": "q_67430e53db346fa1",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organizational structure groups jobs based on functions such as production, purchase, marketing, and human resources?",
+  "qHi": "कौन सा संगठनात्मक ढांचा उत्पादन, खरीद, विपणन और मानव संसाधन जैसे कार्यों के आधार पर नौकरियों का समूहीकरण करता है?",
+  "optsEn": [
+   "Divisional structure",
+   "Functional structure",
+   "Informal structure",
+   "Matrix structure"
+  ],
+  "optsHi": [
+   "प्रभागिय ढांचा",
+   "कार्यात्मक ढांचा",
+   "अनौपचारिक ढांचा",
+   "मैट्रिक्स ढांचा"
+  ],
+  "correct": 1,
+  "explainEn": "A functional structure groups jobs under specific functions like production, marketing, and finance.",
+  "sourceHint": "NCERT Class 12 Business Studies, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T11:28:37Z"
+ },
+ {
+  "id": "q_02d4e10c3b8a9b23",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which Indian state is the Kaziranga National Park situated?",
+  "qHi": "काजीरंगा राष्ट्रीय उद्यान भारत के किस राज्य में स्थित है?",
+  "optsEn": [
+   "Uttarakhand",
+   "Assam",
+   "Madhya Pradesh",
+   "Gujarat"
+  ],
+  "optsHi": [
+   "उत्तराखंड",
+   "असम",
+   "मध्य प्रदेश",
+   "गुजरात"
+  ],
+  "correct": 1,
+  "explainEn": "Kaziranga National Park, famous for the great Indian one-horned rhinoceros, is located in Assam.",
+  "sourceHint": "NCERT Class 12 Geography, India People and Economy",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T11:28:37Z"
+ },
+ {
+  "id": "q_157deee5237a355b",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which literary work by the Bhakti poet Kabir forms a significant part of the Guru Granth Sahib?",
+  "qHi": "भक्ति कवि कबीर की कौन सी साहित्यिक रचना गुरु ग्रंथ साहिब का एक महत्वपूर्ण हिस्सा है?",
+  "optsEn": [
+   "Bijak",
+   "Ramaini",
+   "Shabads and Dohas",
+   "Sur Sagar"
+  ],
+  "optsHi": [
+   "बीजक",
+   "रमैनी",
+   "शब्द और दोहे",
+   "सूर सागर"
+  ],
+  "correct": 2,
+  "explainEn": "Verses attributed to Kabir are compiled in the Adi Granth or Guru Granth Sahib as Shabads and Dohas.",
+  "sourceHint": "NCERT Class 12 History, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T11:28:37Z"
+ },
+ {
+  "id": "q_b4405e15052acab9",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organelle synthesizes lipids, including cholesterol and phospholipids, in eukaryotic cells?",
+  "qHi": "यूकैरियोटिक कोशिकाओं में कोलेस्ट्रॉल और फॉस्फोलिपिड सहित लिपिड का संश्लेषण कौन सा अंगक करता है?",
+  "optsEn": [
+   "Rough Endoplasmic Reticulum",
+   "Smooth Endoplasmic Reticulum",
+   "Golgi apparatus",
+   "Lysosome"
+  ],
+  "optsHi": [
+   "खुरदरा अंतःप्रद्रव्यी जालिका",
+   "चिकना अंतःप्रद्रव्यी जालिका",
+   "गॉल्जी उपकरण",
+   "लाइसोसोम"
+  ],
+  "correct": 1,
+  "explainEn": "Smooth Endoplasmic Reticulum lacks ribosomes on its surface and is the primary site for lipid and steroid hormone synthesis.",
+  "sourceHint": "NCERT Class 11 Biology, Chapter 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T11:30:46Z"
+ },
+ {
+  "id": "q_4e475a40292d3ec7",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In a p-n junction diode under reverse bias, the current flowing through the circuit is primarily due to:",
+  "qHi": "पश्च बायस (रिवर्स बायस) के अंतर्गत पी-एन जंक्शन डायोड में सर्किट के माध्यम से प्रवाहित होने वाली धारा मुख्य रूप से किसके कारण होती है?",
+  "optsEn": [
+   "majority charge carriers",
+   "minority charge carriers",
+   "thermionic emission of protons",
+   "neutral atomic collisions"
+  ],
+  "optsHi": [
+   "बहुसंख्यक आवेश वाहक",
+   "अल्पसंख्यक आवेश वाहक",
+   "प्रोटॉनों का तापायनिक उत्सर्जन",
+   "उदासीन परमाणु टक्कर"
+  ],
+  "correct": 1,
+  "explainEn": "Under reverse bias, the barrier potential increases, opposing the majority carriers, so a very small reverse saturation current flows due to minority charge carriers.",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T11:30:46Z"
+ },
+ {
+  "id": "q_fe2cdbc246a36197",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following coordination compounds exhibits linkage isomerism?",
+  "qHi": "निम्नलिखित में से कौन सा उपसहसंयोजन यौगिक लिंकेज समावयवता (संयोजकता समावयवता) प्रदर्शित करता है?",
+  "optsEn": [
+   "[Co(NH3)5(SO4)]Br",
+   "[Co(NH3)5(NO2)]Cl2",
+   "[Pt(NH3)4Cl2]Cl2",
+   "[Co(en)3]Cl3"
+  ],
+  "optsHi": [
+   "[Co(NH3)5(SO4)]Br",
+   "[Co(NH3)5(NO2)]Cl2",
+   "[Pt(NH3)4Cl2]Cl2",
+   "[Co(en)3]Cl3"
+  ],
+  "correct": 1,
+  "explainEn": "Linkage isomerism arises in coordination compounds containing ambidentate ligands such as NO2(-), which can coordinate through different atoms.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 9",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T11:30:46Z"
+ },
+ {
+  "id": "q_d588ff57944dc792",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which article of the Indian Constitution empowers the Parliament to create a new All India Service?",
+  "qHi": "भारतीय संविधान का कौन सा अनुच्छेद संसद को एक नई अखिल भारतीय सेवा बनाने का अधिकार देता है?",
+  "optsEn": [
+   "Article 312",
+   "Article 356",
+   "Article 249",
+   "Article 360"
+  ],
+  "optsHi": [
+   "अनुच्छेद 312",
+   "अनुच्छेद 356",
+   "अनुच्छेद 249",
+   "अनुच्छेद 360"
+  ],
+  "correct": 0,
+  "explainEn": "Article 312 of the Constitution authorizes Parliament to create one or more All India Services common to the Union and the States if the Rajya Sabha passes a resolution supported by two-thirds of members present and voting.",
+  "sourceHint": "Constitution of India, Article 312",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T11:30:46Z"
+ },
+ {
+  "id": "q_7e213cdb1794e5cc",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the Glycolysis pathway in cellular respiration, which enzyme catalyzes the conversion of Fructose-6-phosphate to Fructose-1,6-bisphosphate?",
+  "qHi": "कोशिकीय श्वसन में ग्लाइकोलिसिस मार्ग के दौरान, कौन सा एंजाइम फ्रुक्टोज-6-फास्फेट को फ्रुक्टोज-1,6-बिसफास्फेट में बदलने उत्प्रेरित करता है?",
+  "optsEn": [
+   "Hexokinase",
+   "Phosphofructokinase",
+   "Aldolase",
+   "Pyruvate kinase"
+  ],
+  "optsHi": [
+   "हेक्सोकाइनेज",
+   "फास्फोफ्रुक्टोकाइनेज",
+   "एल्डोलेज",
+   "पाइरुवेट काइनेज"
+  ],
+  "correct": 1,
+  "explainEn": "Phosphofructokinase is the key regulatory enzyme that catalyzes the phosphorylation of Fructose-6-phosphate using ATP during glycolysis.",
+  "sourceHint": "NCERT Class 11 Biology, Chapter 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T11:30:46Z"
+ },
+ {
+  "id": "q_8867b5ce606ca0fc",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the dimensional formula of Magnetic Permeability of free space (mu-naught)?",
+  "qHi": "मुक्त आकाश की चुंबकीय पारगम्यता (म्यू-नॉट) का विमीय सूत्र क्या है?",
+  "optsEn": [
+   "[M L T^-2 A^-2]",
+   "[M L T^-2 A^-1]",
+   "[M L^2 T^-2 A^-2]",
+   "[M L T^-1 A^-2]"
+  ],
+  "optsHi": [
+   "[M L T^-2 A^-2]",
+   "[M L T^-2 A^-1]",
+   "[M L^2 T^-2 A^-2]",
+   "[M L T^-1 A^-2]"
+  ],
+  "correct": 0,
+  "explainEn": "Using the force between two parallel current-carrying wires, F = (mu_0 * I1 * I2 * l) / (2 * pi * d), the dimensions of mu_0 are derived as [M L T^-2 A^-2].",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T11:30:46Z"
+ },
+ {
+  "id": "q_b589b4e515dd200d",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which macro-economic variable represents the total market value of all final goods and services produced within a domestic territory of a country in a given year, measured at current prices?",
+  "qHi": "कौन सा व्यापक आर्थिक चर किसी दिए गए वर्ष में देश के घरेलू क्षेत्र के भीतर उत्पादित सभी अंतिम वस्तुओं और सेवाओं के कुल बाजार मूल्य को चालू कीमतों पर मापता है?",
+  "optsEn": [
+   "Gross National Product at factor cost",
+   "Gross Domestic Product at market price",
+   "Net National Product at factor cost",
+   "Net Domestic Product at factor cost"
+  ],
+  "optsHi": [
+   "साधन लागत पर सकल राष्ट्रीय उत्पाद",
+   "बाजार मूल्य पर सकल घरेलू उत्पाद",
+   "साधन लागत पर शुद्ध राष्ट्रीय उत्पाद",
+   "साधन लागत पर शुद्ध घरेलू उत्पाद"
+  ],
+  "correct": 1,
+  "explainEn": "GDP at market price measures the monetary value of all finished goods and services made within a country's borders using current prices.",
+  "sourceHint": "NCERT Class 12 Economics (Introductory Macroeconomics), Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T11:30:46Z"
+ },
+ {
+  "id": "q_618b66dc446927d7",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian state launched the 'Kudumbashree' poverty eradication and women empowerment program, later recognized globally?",
+  "qHi": "किस भारतीय राज्य ने 'कुटुंबश्री' गरीबी उन्मूलन और महिला सशक्तिकरण कार्यक्रम शुरू किया, जिसे बाद में वैश्विक स्तर पर मान्यता मिली?",
+  "optsEn": [
+   "Tamil Nadu",
+   "Kerala",
+   "Karnataka",
+   "Andhra Pradesh"
+  ],
+  "optsHi": [
+   "तमिलनाडु",
+   "केरल",
+   "कर्नाटक",
+   "आंध्र प्रदेश"
+  ],
+  "correct": 1,
+  "explainEn": "Kudumbashree was set up in Kerala in 1998 by the State Government for poverty eradication and women empowerment through community action.",
+  "sourceHint": "NCERT Class 12 Sociology, Indian Society Chapter",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T11:30:46Z"
  }
 ]

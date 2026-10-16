@@ -14978,5 +14978,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-16T04:35:27Z"
+ },
+ {
+  "id": "q_1518fe0dcd437744",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which term is used to describe a bank account that has had no customer-initiated transactions for a continuous period of two years?",
+  "qHi": "उस बैंक खाते को क्या कहा जाता है जिसमें लगातार दो वर्षों तक ग्राहक द्वारा कोई लेनदेन नहीं किया गया हो?",
+  "optsEn": [
+   "Current Account",
+   "Inoperative Account",
+   "Joint Account",
+   "Basic Account"
+  ],
+  "optsHi": [
+   "चालू खाता",
+   "निष्क्रिय खाता",
+   "संयुक्त खाता",
+   "मूल खाता"
+  ],
+  "correct": 1,
+  "explainEn": "Savings or current bank accounts in which there are no transactions for over two years are classified as inoperative or dormant accounts by the RBI.",
+  "sourceHint": "RBI Master Circular on KYC",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T11:27:36Z"
+ },
+ {
+  "id": "q_1fd87ffe58864a0b",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Under the Priority Sector Lending guidelines in India, what does 'MSME' stand for?",
+  "qHi": "भारत में प्राथमिकता प्राप्त क्षेत्र को ऋण (Priority Sector Lending) दिशानिर्देशों के तहत, 'MSME' का क्या पूर्ण रूप है?",
+  "optsEn": [
+   "Micro, Small and Medium Enterprises",
+   "Maximum Savings and Money Exchange",
+   "Monetary System and Market Economy",
+   "Mutual Savings and Micro Enterprise"
+  ],
+  "optsHi": [
+   "सूक्ष्म, लघु और मध्यम उद्यम",
+   "मैक्सिमम सेविंग्स एंड मनी एक्सचेंज",
+   "मनेटरी सिस्टम एंड मार्केट इकॉनमी",
+   "म्यूचुअल सेविंग्स एंड माइक्रो एंटरप्राइज"
+  ],
+  "correct": 0,
+  "explainEn": "MSME stands for Micro, Small and Medium Enterprises, which form a crucial sector for lending targets by commercial banks in India.",
+  "sourceHint": "Ministry of MSME, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T11:27:36Z"
+ },
+ {
+  "id": "q_ef16f6649d5fe242",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the frequency of compiling and publishing the Gross Domestic Product (GDP) data in India?",
+  "qHi": "भारत में सकल घरेलू उत्पाद (GDP) डेटा को संकलित और प्रकाशित करने की आवृत्ति क्या है?",
+  "optsEn": [
+   "Weekly",
+   "Monthly",
+   "Quarterly",
+   "Biennial"
+  ],
+  "optsHi": [
+   "साप्ताहिक",
+   "मासिक",
+   "त्रैमासिक",
+   "द्विवार्षिक"
+  ],
+  "correct": 2,
+  "explainEn": "The National Statistical Office (NSO), Ministry of Statistics and Programme Implementation, releases the GDP estimates on a quarterly basis in India.",
+  "sourceHint": "Ministry of Statistics and Programme Implementation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T11:27:36Z"
+ },
+ {
+  "id": "q_709e02efe3bd3fdf",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the Liquidity Coverage Ratio (LCR), a Basel III norm?",
+  "qHi": "बेसेल III मानदंडों के तहत लिक्विडिटी कवरेज रेशो (LCR) में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liability",
+   "Liquidity",
+   "Leverage",
+   "Ledger"
+  ],
+  "optsHi": [
+   "लायबिलिटी (देनदारी)",
+   "लिक्विडिटी (तरलता)",
+   "लीवेज (उत्तोलन)",
+   "लेजर (खाताबही)"
+  ],
+  "correct": 1,
+  "explainEn": "LCR stands for Liquidity Coverage Ratio, which ensures that banks have an adequate stock of unencumbered high-quality liquid assets.",
+  "sourceHint": "Basel III Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T11:29:37Z"
+ },
+ {
+  "id": "q_8b1775868eaba9a0",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum deposit amount insured by DICGC per depositor per bank?",
+  "qHi": "DICGC द्वारा प्रति depositor प्रति बैंक अधिकतम कितनी जमा राशि का बीमा किया जाता है?",
+  "optsEn": [
+   "Rupees 1 Lakh",
+   "Rupees 2 Lakhs",
+   "Rupees 5 Lakhs",
+   "Rupees 10 Lakhs"
+  ],
+  "optsHi": [
+   "1 लाख रुपये",
+   "2 लाख रुपये",
+   "5 लाख रुपये",
+   "10 लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "Deposit Insurance and Credit Guarantee Corporation (DICGC) insures bank deposits up to a limit of Rupees 5 Lakhs per depositor per bank.",
+  "sourceHint": "DICGC Act and RBI",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T11:29:37Z"
+ },
+ {
+  "id": "q_f3a0461cfdf98d48",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following terms is used to describe a market where debt securities with a maturity of up to one year are traded?",
+  "qHi": "उस बाजार का वर्णन करने के लिए निम्नलिखित में से किस शब्द का उपयोग किया जाता है जहाँ एक वर्ष तक की परिपक्वता वाले ऋण प्रतिभूतियों का कारोबार होता है?",
+  "optsEn": [
+   "Capital Market",
+   "Money Market",
+   "Foreign Exchange Market",
+   "Derivatives Market"
+  ],
+  "optsHi": [
+   "पूंजी बाजार",
+   "मुद्रा बाजार",
+   "विदेशी मुद्रा बाजार",
+   "व्युत्पन्न बाजार"
+  ],
+  "correct": 1,
+  "explainEn": "The money market is a financial market for short-term debt instruments with maturities ranging from overnight up to one year.",
+  "sourceHint": "RBI Financial Education",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T11:29:37Z"
+ },
+ {
+  "id": "q_27eccf62b420a93e",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the acronym 'NEFT' stand for in the Indian banking system?",
+  "qHi": "भारतीय बैंकिंग प्रणाली में संक्षिप्त नाम 'NEFT' का विस्तार क्या है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "New Electronic Finance Terminal",
+   "National External Foreign Transaction",
+   "Net Electronic Fund Turnover"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "न्यू इलेक्ट्रॉनिक फाइनेंस टर्मिनल",
+   "नेशनल एक्सटर्नल फॉरेन ट्रांजैक्शन",
+   "नेट इलेक्ट्रॉनिक फंड टर्नओवर"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, a nationwide centralized system enabling electronic transfer of funds.",
+  "sourceHint": "RBI Payments Systems",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T11:29:37Z"
  }
 ]
