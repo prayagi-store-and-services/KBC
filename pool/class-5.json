@@ -13466,5 +13466,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-16T11:30:07Z"
+ },
+ {
+  "id": "q_1d2863a554f0f3b7",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which natural feature forms the northern boundary of India?",
+  "qHi": "कौन सी प्राकृतिक विशेषता भारत की उत्तरी सीमा बनाती है?",
+  "optsEn": [
+   "The Himalayas",
+   "The Thar Desert",
+   "The Deccan Plateau",
+   "The Western Ghats"
+  ],
+  "optsHi": [
+   "हिमालय",
+   "थार मरुस्थल",
+   "दक्कन का पठार",
+   "पश्चिमी घाट"
+  ],
+  "correct": 0,
+  "explainEn": "The Himalayan mountain range stands proudly along the northern border of India.",
+  "sourceHint": "NCERT Class 6 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:10:33Z"
+ },
+ {
+  "id": "q_b9c0890b2b6177c1",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of seed dispersal occurs when pods burst open suddenly with a jerk to scatter seeds?",
+  "qHi": "बीजों को बिखेरने के लिए जब फलियाँ अचानक झटके के साथ फट जाती हैं, तो किस प्रकार का बीज प्रकटन होता है?",
+  "optsEn": [
+   "Wind dispersal",
+   "Water dispersal",
+   "Explosion or bursting",
+   "Animal dispersal"
+  ],
+  "optsHi": [
+   "वायु द्वारा प्रकीर्णन",
+   "जल द्वारा प्रकीर्णन",
+   "विस्फोट या फटना",
+   "जंतुओं द्वारा प्रकीर्णन"
+  ],
+  "correct": 2,
+  "explainEn": "Certain pods like peas and beans burst with a jerk to scatter their seeds away from the parent plant.",
+  "sourceHint": "NCERT Class 5 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:11:52Z"
+ },
+ {
+  "id": "q_f80dbfb739cc7420",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian stepwell structure is built for storing water underground?",
+  "qHi": "भूमिगत पानी के भंडारण के लिए कौन सी पारंपरिक भारतीय सीढ़ीदार कुआँ संरचना बनाई जाती है?",
+  "optsEn": [
+   "Baoli",
+   "Bridge",
+   "Dam",
+   "Canal"
+  ],
+  "optsHi": [
+   "बावड़ी",
+   "पुल",
+   "बांध",
+   "नहर"
+  ],
+  "correct": 0,
+  "explainEn": "Baolis or stepwells were historically built in dry regions of India to collect and store rainwater.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:11:52Z"
+ },
+ {
+  "id": "q_94f52157fd92aa61",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which part of a mosquito transmits malaria-causing germs to humans?",
+  "qHi": "मच्छर का कौन सा भाग मनुष्यों में मलेरिया पैदा करने वाले कीटाणु पहुंचाता है?",
+  "optsEn": [
+   "Wings",
+   "Saliva through its bite",
+   "Legs",
+   "Antennae"
+  ],
+  "optsHi": [
+   "पंख",
+   "काटने के माध्यम से लार",
+   "पैर",
+   "एंटीना"
+  ],
+  "correct": 1,
+  "explainEn": "Female Anopheles mosquitoes transmit malaria parasites through their saliva when they bite.",
+  "sourceHint": "NCERT Class 5 EVS Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:11:52Z"
+ },
+ {
+  "id": "q_3f04cb3c420d9b4e",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary mineral component found in bones and teeth?",
+  "qHi": "हड्डियों और दांतों में पाया जाने वाला प्राथमिक खनिज घटक क्या है?",
+  "optsEn": [
+   "Iron",
+   "Calcium",
+   "Sodium",
+   "Potassium"
+  ],
+  "optsHi": [
+   "लोहा",
+   "कैल्शियम",
+   "सोडियम",
+   "पोटेशियम"
+  ],
+  "correct": 1,
+  "explainEn": "Calcium is essential for building and maintaining strong bones and teeth.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:11:52Z"
  }
 ]

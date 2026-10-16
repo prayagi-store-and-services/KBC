@@ -15286,5 +15286,397 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-16T16:43:59Z"
+ },
+ {
+  "id": "q_2c377ea66dd059dc",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'I' stand for in the abbreviation IFSC, used in electronic fund transfers?",
+  "qHi": "इलेक्ट्रॉनिक फंड ट्रांसफर में प्रयुक्त होने वाले संक्षिप्त नाम IFSC में अक्षर 'I' का क्या अर्थ है?",
+  "optsEn": [
+   "International",
+   "Indian",
+   "Interbank",
+   "Investment"
+  ],
+  "optsHi": [
+   "इंटरनेशनल",
+   "इंडियन",
+   "इंटरबैंक",
+   "इन्वेस्टमेंट"
+  ],
+  "correct": 1,
+  "explainEn": "IFSC stands for Indian Financial System Code.",
+  "sourceHint": "Reserve Bank of India payment systems documentation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:10:26Z"
+ },
+ {
+  "id": "q_5b6fd8eccff0f955",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following cards is issued directly by banks allowing customers to spend from their own savings or current account balance?",
+  "qHi": "निम्नलिखित में से कौन सा कार्ड सीधे बैंकों द्वारा जारी किया जाता है जिससे ग्राहक अपनी बचत या चालू खाता शेष से खर्च कर सकते हैं?",
+  "optsEn": [
+   "Credit Card",
+   "Debit Card",
+   "Gift Card",
+   "Ration Card"
+  ],
+  "optsHi": [
+   "क्रेडिट कार्ड",
+   "डेबिट कार्ड",
+   "गिफ्ट कार्ड",
+   "राशन कार्ड"
+  ],
+  "correct": 1,
+  "explainEn": "A debit card deducts money directly from the user's bank account when making a purchase.",
+  "sourceHint": "NCERT Economics textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:10:26Z"
+ },
+ {
+  "id": "q_351a96c2f0ddf456",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of the financial term 'NEFT'?",
+  "qHi": "वित्तीय शब्द 'NEFT' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "National Equity Funding Trust",
+   "Net Economic Fund Transaction",
+   "New Electronic Finance Technology"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "नेशनल इक्विटी फंडिंग ट्रस्ट",
+   "नेट इकोनॉमिक फंड ट्रांजेक्शन",
+   "न्यू इलेक्ट्रॉनिक फाइनेंस टेक्नोलॉजी"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, a nationwide centralized payment system owned and operated by the RBI.",
+  "sourceHint": "RBI payment systems overview",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:10:26Z"
+ },
+ {
+  "id": "q_13212a2c479145dc",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'C' stand for in the financial term 'CASA' ratio used by banks?",
+  "qHi": "बैंकों द्वारा उपयोग किए जाने वाले वित्तीय शब्द 'CASA' अनुपात में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Capital",
+   "Current",
+   "Credit",
+   "Collateral"
+  ],
+  "optsHi": [
+   "पूंजी (Capital)",
+   "चालू (Current)",
+   "क्रेडिट (Credit)",
+   "संपार्श्विक (Collateral)"
+  ],
+  "correct": 1,
+  "explainEn": "CASA stands for Current Account Savings Account ratio, which measures the proportion of deposits a bank raises through current and savings accounts compared to total deposits.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) textbook on Banking Operations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:11:42Z"
+ },
+ {
+  "id": "q_7e86d4c8a501c4a1",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque becomes stale if it is not presented for payment within how many months from its date of issuance?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, यदि कोई चेक जारी होने की तारीख से कितने महीनों के भीतर भुगतान के लिए प्रस्तुत नहीं किया जाता है, तो वह पुराना (stale) हो जाता है?",
+  "optsEn": [
+   "1 month",
+   "3 months",
+   "6 months",
+   "12 months"
+  ],
+  "optsHi": [
+   "1 महीना",
+   "3 महीने",
+   "6 महीने",
+   "12 महीने"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India mandated that the validity period of cheques, demand drafts, and pay orders is 3 months from the date of the instrument.",
+  "sourceHint": "RBI circular on reduction of validity period of cheque from 6 months to 3 months",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:11:42Z"
+ },
+ {
+  "id": "q_51c3a87ed9a77a0a",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India calculates and releases the Index of Industrial Production (IIP) data monthly?",
+  "qHi": "भारत में कौन सा संगठन मासिक आधार पर औद्योगिक उत्पादन सूचकांक (IIP) डेटा की गणना और जारी करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "National Statistical Office",
+   "NITI Aayog",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "राष्ट्रीय सांख्यिकी कार्यालय",
+   "नीति आयोग",
+   "भारतीय प्रतिभूति and विनिमय बोर्ड"
+  ],
+  "correct": 1,
+  "explainEn": "The National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation compiles and publishes the IIP data in India.",
+  "sourceHint": "Ministry of Statistics and Programme Implementation (MoSPI) portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:11:42Z"
+ },
+ {
+  "id": "q_2d9e3b84f89b0a07",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Priority Sector Lending (PSL) norms in India, what is the overall target set for domestic commercial banks for lending to priority sectors as a percentage of Adjusted Net Bank Credit (ANBC)?",
+  "qHi": "भारत में प्राथमिकता प्राप्त क्षेत्र को ऋण (PSL) मानदंडों के तहत, समायोजित शुद्ध बैंक ऋण (ANBC) के प्रतिशत के रूप में प्राथमिकता वाले क्षेत्रों को ऋण देने के लिए घरेलू वाणिज्यिक बैंकों के लिए कुल लक्ष्य क्या है?",
+  "optsEn": [
+   "18 percent",
+   "40 percent",
+   "75 percent",
+   "10 percent"
+  ],
+  "optsHi": [
+   "18 प्रतिशत",
+   "40 प्रतिशत",
+   "75 प्रतिशत",
+   "10 प्रतिशत"
+  ],
+  "correct": 1,
+  "explainEn": "Domestic commercial banks and foreign banks with 20 branches and above are required to achieve a total Priority Sector Lending target of 40 percent of ANBC or Credit Equivalent Amount of Off-Balance Sheet Exposure, whichever is higher.",
+  "sourceHint": "RBI Master Directions on Priority Sector Lending",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:11:42Z"
+ },
+ {
+  "id": "q_7d19742d762319a6",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, what is the maximum permissible period within which a cheque must be presented to the bank for payment from the date on which it is drawn, as per current RBI guidelines?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, वर्तमान आरबीआई दिशानिर्देशों के अनुसार, चेक जारी होने की तारीख से भुगतान के लिए बैंक में प्रस्तुत करने की अधिकतम स्वीकार्य अवधि क्या है?",
+  "optsEn": [
+   "1 month",
+   "3 months",
+   "6 months",
+   "12 months"
+  ],
+  "optsHi": [
+   "1 महीना",
+   "3 महीने",
+   "6 महीने",
+   "12 महीने"
+  ],
+  "correct": 1,
+  "explainEn": "RBI directed banks to restrict the validity period of cheques, demand drafts, pay orders, and banker's cheques to 3 months from the date of issuance.",
+  "sourceHint": "RBI Master Directions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:12:37Z"
+ },
+ {
+  "id": "q_836978ca8f6648b0",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the minimum paid-up capital requirement for setting up a Small Finance Bank in India under the RBI guidelines for licensing of Small Finance Banks in the private sector?",
+  "qHi": "निजी क्षेत्र में लघु वित्त बैंकों के लाइसेंस के लिए आरबीआई के दिशानिर्देशों के तहत भारत में लघु वित्त बैंक स्थापित करने के लिए न्यूनतम चुकता पूंजी आवश्यकता क्या है?",
+  "optsEn": [
+   "100 crore rupees",
+   "200 crore rupees",
+   "500 crore rupees",
+   "1000 crore rupees"
+  ],
+  "optsHi": [
+   "100 करोड़ रुपये",
+   "200 करोड़ रुपये",
+   "500 करोड़ रुपये",
+   "1000 करोड़ रुपये"
+  ],
+  "correct": 1,
+  "explainEn": "As per the guidelines for Small Finance Banks, the minimum initial paid-up voting equity capital for setting up a small finance bank shall be Rs. 200 crore.",
+  "sourceHint": "RBI Guidelines for Small Finance Banks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:12:37Z"
+ },
+ {
+  "id": "q_3af43576b9b4a3f7",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which committee was constituted by the Reserve Bank of India to review the extant guidelines on the ownership and corporate structure for Indian private sector banks?",
+  "qHi": "भारतीय निजी क्षेत्र के बैंकों के लिए स्वामित्व और कॉर्पोरेट संरचना पर मौजूदा दिशानिर्देशों की समीक्षा के लिए भारतीय रिजर्व बैंक द्वारा किस समिति का गठन किया गया था?",
+  "optsEn": [
+   "P. J. Nayak Committee",
+   "N. K. Singh Committee",
+   "Bimal Jalan Committee",
+   "Urjit Patel Committee"
+  ],
+  "optsHi": [
+   "पी. जे. नायक समिति",
+   "एन. के. सिंह समिति",
+   "बिमल जालान समिति",
+   "उर्जित पटेल समिति"
+  ],
+  "correct": 0,
+  "explainEn": "The RBI constituted an internal working group (IWG) under the chairmanship of P. J. Nayak to review governance in banks, though ownership guidelines were specifically reviewed by committees like the PK Mohanty committee. However, P. J. Nayak Committee is famously known for Governance of Boards in Banks in India.",
+  "sourceHint": "RBI Official Website / P. J. Nayak Committee Report",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:12:37Z"
+ },
+ {
+  "id": "q_44cd43e604a2f3a0",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Basel III norms, what does the term 'Capital Conservation Buffer' (CCB) primarily aim to ensure?",
+  "qHi": "बेसल III मानदंडों के संदर्भ में, 'पूंजी संरक्षण बफर' (CCB) शब्द का मुख्य उद्देश्य क्या सुनिश्चित करना है?",
+  "optsEn": [
+   "Banks maintain extra capital during normal times to be absorbed during periods of stress",
+   "Banks maintain sufficient liquidity to manage daily cash outflows",
+   "Banks limit their exposure to single corporate borrowers",
+   "Banks keep a separate reserve exclusively for foreign exchange fluctuations"
+  ],
+  "optsHi": [
+   "बैंक सामान्य समय के दौरान अतिरिक्त पूंजी बनाए रखें ताकि तनाव की अवधि के दौरान इसे अवशोषित किया जा सके",
+   "बैंक दैनिक नकदी बहिर्वाह को प्रबंधित करने के लिए पर्याप्त तरलता बनाए रखें",
+   "बैंक एकल कॉर्पोरेट उधारकर्ताओं के प्रति अपने जोखिम को सीमित करें",
+   "बैंक विशेष रूप से विदेशी मुद्रा उतार-चढ़ाव के लिए एक अलग रिजर्व रखें"
+  ],
+  "correct": 0,
+  "explainEn": "The Capital Conservation Buffer is designed to ensure that banks build up capital buffers during normal times that can be drawn down as losses are incurred during a stressed period.",
+  "sourceHint": "Bank for International Settlements (BIS) Basel III Framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:12:37Z"
+ },
+ {
+  "id": "q_bd527113dda07bb3",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary objective of the Prompt Corrective Action (PCA) framework introduced by the Reserve Bank of India for scheduled commercial banks?",
+  "qHi": "अनुसूचित वाणिज्यिक बैंकों के लिए भारतीय रिजर्व बैंक द्वारा शुरू किए गए त्वरित सुधार कार्रवाई (PCA) फ्रेम का मुख्य उद्देश्य क्या है?",
+  "optsEn": [
+   "To facilitate mergers of weak public sector banks with stronger ones",
+   "To monitor financial health indicators like capital, asset quality, and profitability to intervene early",
+   "To provide direct financial bailout packages funded by the central government",
+   "To privatize loss-making scheduled commercial banks within a fixed timeline"
+  ],
+  "optsHi": [
+   "कमजोर सार्वजनिक क्षेत्र के बैंकों को मजबूत बैंकों के साथ विलय की सुविधा प्रदान करना",
+   "शुरुआती हस्तक्षेप के लिए पूंजी, संपत्ति की गुणवत्ता और लाभप्रदता जैसे वित्तीय स्वास्थ्य संकेतकों की निगरानी करना",
+   "केंद्र सरकार द्वारा वित्त पोषित प्रत्यक्ष वित्तीय सहायता पैकेज प्रदान करना",
+   "एक निश्चित समय सीमा के भीतर घाटे में चल रहे अनुसूचित वाणिज्यिक बैंकों का निजीकरण करना"
+  ],
+  "correct": 1,
+  "explainEn": "The PCA framework enables supervisory intervention by the RBI at an early stage when a bank hits certain tripwires on specified prudential parameters such as capital, asset quality, and leverage.",
+  "sourceHint": "RBI Master Directions on PCA Framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:12:37Z"
+ },
+ {
+  "id": "q_14895b2b657997ea",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002, what minimum percentage of secured creditors must agree to enforce security interest?",
+  "qHi": "वित्तीय परिसंपत्तियों के प्रतिभूतिकरण और पुनर्निर्माण और सुरक्षा हित के प्रवर्तन (SARFAESI) अधिनियम, 2002 के तहत, सुरक्षा हित को लागू करने के लिए सुरक्षित लेनदारों का न्यूनतम कितना प्रतिशत सहमत होना चाहिए?",
+  "optsEn": [
+   "Not less than 50 percent by value of amount outstanding",
+   "Not less than 60 percent by value of amount outstanding",
+   "Not less than 75 percent by value of amount outstanding",
+   "100 percent of all secured creditors"
+  ],
+  "optsHi": [
+   "बकाया राशि के मूल्य का 50 प्रतिशत से कम नहीं",
+   "बकाया राशि के मूल्य का 60 प्रतिशत से कम नहीं",
+   "बकाया राशि के मूल्य का 75 प्रतिशत से कम नहीं",
+   "सभी सुरक्षित लेनदारों का 100 प्रतिशत"
+  ],
+  "correct": 1,
+  "explainEn": "Section 13(9) of the SARFAESI Act specifies that in the case of financing by more than one secured creditor, no secured creditor shall be entitled to exercise any of the rights unless secured creditors representing not less than 60 percent in value of the amount outstanding are agreed upon.",
+  "sourceHint": "SARFAESI Act, 2002",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:12:37Z"
+ },
+ {
+  "id": "q_a916cd2fc23be8a3",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which institution in India acts as the principal regulator for Micro Finance Institutions (MFIs) that are structured as Non-Banking Financial Companies (NBFC-MFIs)?",
+  "qHi": "भारत में कौन सी संस्था सूक्ष्म वित्त संस्थानों (MFIs) के लिए मुख्य नियामक के रूप में कार्य करती है जो गैर-बैंकिंग वित्तीय कंपनियों (NBFC-MFIs) के रूप में संरचित हैं?",
+  "optsEn": [
+   "Securities and Exchange Board of India (SEBI)",
+   "National Bank for Agriculture and Rural Development (NABARD)",
+   "Reserve Bank of India (RBI)",
+   "Small Industries Development Bank of India (SIDBI)"
+  ],
+  "optsHi": [
+   "भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI)",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक (NABARD)",
+   "भारतीय रिजर्व बैंक (RBI)",
+   "भारतीय लघु उद्योग विकास बैंक (SIDBI)"
+  ],
+  "correct": 2,
+  "explainEn": "NBFC-MFIs are registered as Non-Banking Financial Companies and are regulated directly by the Reserve Bank of India.",
+  "sourceHint": "RBI Regulatory Framework for NBFC-MFIs",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:12:37Z"
  }
 ]

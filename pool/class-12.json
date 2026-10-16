@@ -14614,5 +14614,509 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-16T16:41:44Z"
+ },
+ {
+  "id": "q_b8e2c32e0d26fa80",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a primary haloalkane?",
+  "qHi": "निम्नलिखित में से कौन सा प्राथमिक हेलोएल्केन है?",
+  "optsEn": [
+   "2-Bromopropane",
+   "1-Chlorobutane",
+   "2-Chloro-2-methylpropane",
+   "Chlorocyclohexane"
+  ],
+  "optsHi": [
+   "2-ब्रोमोप्रोपेन",
+   "1-क्लोरोब्यूटेन",
+   "2-क्लोरो-2-मेथिलप्रोपेन",
+   "क्लोरोसाइक्लोहेक्सेन"
+  ],
+  "correct": 1,
+  "explainEn": "In 1-chlorobutane, the carbon atom bearing the chlorine atom is attached to only one other carbon atom, making it primary.",
+  "sourceHint": "NCERT Class 12 Chemistry Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:10:12Z"
+ },
+ {
+  "id": "q_1e83afc4bac42626",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which process converts glucose into pyruvate in the cytoplasm of a cell?",
+  "qHi": "कोशिका के साइटोप्लाज्म में ग्लूकोज को पायरुवेट में बदलने वाली प्रक्रिया कौन सी है?",
+  "optsEn": [
+   "Glycolysis",
+   "Krebs cycle",
+   "Oxidative phosphorylation",
+   "Fermentation"
+  ],
+  "optsHi": [
+   "ग्लाइकोबाइसिस",
+   "क्रेब्स चक्र",
+   "ऑक्सीडेटिव फॉस्फोरिलेशन",
+   "किण्वन"
+  ],
+  "correct": 0,
+  "explainEn": "Glycolysis is the metabolic pathway that converts glucose into pyruvate, taking place in the cytoplasm.",
+  "sourceHint": "NCERT Class 11 Biology Chapter 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:10:12Z"
+ },
+ {
+  "id": "q_8f31ea6f970b5da0",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which greenhouse gas is emitted primarily from paddy fields and ruminant livestock?",
+  "qHi": "मुख्य रूप से धान के खेतों और जुगाली करने वाले पशुओं से कौन सी ग्रीनहाउस गैस उत्सर्जित होती है?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Methane",
+   "Nitrous oxide",
+   "CFCs"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "मीथेन",
+   "नाइट्रस ऑक्साइड",
+   "सीएफसी"
+  ],
+  "correct": 1,
+  "explainEn": "Methane is produced naturally through the anaerobic decomposition of organic matter in flooded rice fields and via enteric fermentation in cattle.",
+  "sourceHint": "NCERT Class 12 Biology Chapter 16",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:10:12Z"
+ },
+ {
+  "id": "q_f13023b5734a21d5",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which constitutional article abolishes untouchability and forbids its practice in any form in India?",
+  "qHi": "भारत में कौन सा संवैधानिक अनुच्छेद अस्पृश्यता को समाप्त करता है और किसी भी रूप में इसके अभ्यास पर प्रतिबंध लगाता है?",
+  "optsEn": [
+   "Article 14",
+   "Article 17",
+   "Article 21",
+   "Article 32"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14",
+   "अनुच्छेद 17",
+   "अनुच्छेद 21",
+   "अनुच्छेद 32"
+  ],
+  "correct": 1,
+  "explainEn": "Article 17 of the Constitution of India abolishes 'untouchability' and makes its practice in any form a punishable offense.",
+  "sourceHint": "Constitution of India, Part III - Fundamental Rights",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:11:07Z"
+ },
+ {
+  "id": "q_3d4575af512c9554",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organelle in plant cells contains its own DNA and ribosomes, supporting the endosymbiotic theory?",
+  "qHi": "पादप कोशिकाओं में किस अंगक में अपना स्वयं का डीएनए और राइबोसोम होता है, जो अंतःसहजीवी सिद्धांत का समर्थन करता है?",
+  "optsEn": [
+   "Golgi apparatus",
+   "Mitochondria",
+   "Lysosome",
+   "Endoplasmic reticulum"
+  ],
+  "optsHi": [
+   "गॉल्जी उपकरण",
+   "माइटोकॉन्ड्रिया",
+   "लाइसोसोम",
+   "एंडोप्लाज्मिक रेटिकुलम"
+  ],
+  "correct": 1,
+  "explainEn": "Mitochondria and plastids contain their own circular DNA and 70S ribosomes, supporting the endosymbiotic theory of cellular evolution.",
+  "sourceHint": "NCERT Class 11/12 Biology, Cell Structure and Functions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:11:07Z"
+ },
+ {
+  "id": "q_40b98af8d6d2e22a",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In organic chemistry, which reagent is commonly used for the reduction of aldehydes and ketones to primary and secondary alcohols respectively?",
+  "qHi": "कार्बनिक रसायन विज्ञान में, एल्डिहाइड और कीटोन को क्रमशः प्राथमिक और माध्यमिक अल्कोहल में अपचयित करने के लिए आमतौर पर किस अभिकर्मक का उपयोग किया जाता है?",
+  "optsEn": [
+   "Sodium borohydride",
+   "Alkaline potassium permanganate",
+   "Lithium aluminium hydride",
+   "Both Sodium borohydride and Lithium aluminium hydride"
+  ],
+  "optsHi": [
+   "सोडियम बोरोहाइड्राइड",
+   "क्षारीय पोटेशियम परमैंगनेट",
+   "लिथियम एल्युमिनियम हाइड्राइड",
+   "सोडियम बोरोहाइड्राइड और लिथियम एल्युमिनियम हाइड्राइड दोनों"
+  ],
+  "correct": 3,
+  "explainEn": "Both Sodium borohydride (NaBH4) and Lithium aluminium hydride (LiAlH4) act as reducing agents to convert aldehydes and ketones into respective alcohols.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 11: Alcohols, Phenols and Ethers",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:11:07Z"
+ },
+ {
+  "id": "q_9dcd5aaad377b8da",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which macroeconomics aggregate represents the total market value of all final goods and services produced within a domestic territory of a country in a year, measured at current prices?",
+  "qHi": "कौन सा समष्टि अर्थशास्त्र कुल एक वर्ष में किसी देश के घरेलू क्षेत्र के भीतर उत्पादित सभी अंतिम वस्तुओं और सेवाओं का वर्तमान कीमतों पर कुल बाजार मूल्य दर्शाता है?",
+  "optsEn": [
+   "Gross National Product at factor cost",
+   "Gross Domestic Product at market prices",
+   "Net Domestic Product at factor cost",
+   "National Disposable Income"
+  ],
+  "optsHi": [
+   "साधन लागत पर सकल राष्ट्रीय उत्पाद",
+   "बाजार कीमतों पर सकल घरेलू उत्पाद",
+   "साधन लागत पर शुद्ध घरेलू उत्पाद",
+   "राष्ट्रीय प्रयोज्य आय"
+  ],
+  "correct": 1,
+  "explainEn": "Gross Domestic Product (GDP) at market price is the market value of all final goods and services produced within the domestic territory of a country during a year.",
+  "sourceHint": "NCERT Class 12 Macroeconomics, Chapter 2: National Income Accounting",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:11:07Z"
+ },
+ {
+  "id": "q_8b98c64f5de20e50",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which medieval text, written by Abul Fazl, provides a detailed account of the administration of Mughal Emperor Akbar?",
+  "qHi": "अुल फज़ल द्वारा लिखित कौन सा मध्यकालीन ग्रंथ मुगल सम्राट अकबर के प्रशासन का विस्तृत विवरण प्रदान करता है?",
+  "optsEn": [
+   "Baburnama",
+   "Akbarnama",
+   "Humayunnama",
+   "Padshahnama"
+  ],
+  "optsHi": [
+   "बाबरनामा",
+   "अकबरनामा",
+   "हुमायूंनामा",
+   "पादशाहनामा"
+  ],
+  "correct": 1,
+  "explainEn": "The Akbarnama, authored by Abul Fazl, is the official chronicle of the reign of Akbar, with its third volume known as the Ain-i Akbari focusing on administration.",
+  "sourceHint": "NCERT Class 12 History, Theme 9: Kings and Chronicles",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:11:07Z"
+ },
+ {
+  "id": "q_9971abeaf1439a80",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of mutation involves the substitution of a single base pair resulting in a codon that codes for a different amino acid?",
+  "qHi": "किस प्रकार के उत्परिवर्तन में एक एकल आधार जोड़े का प्रतिस्थापन शामिल होता है जिसके परिणामस्वरूप एक अलग अमीनो एसिड के लिए कोडन बनता है?",
+  "optsEn": [
+   "Silent mutation",
+   "Missense mutation",
+   "Nonsense mutation",
+   "Frameshift mutation"
+  ],
+  "optsHi": [
+   "मूक उत्परिवर्तन (साइलेंट म्यूटेशन)",
+   "मिससेंस उत्परिवर्तन",
+   "नॉनसेंस उत्परिवर्तन",
+   "फ्रेमशिफ्ट उत्परिवर्तन"
+  ],
+  "correct": 1,
+  "explainEn": "A missense mutation is a point mutation in which a single nucleotide change results in a codon that codes for a different amino acid.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 5: Principles of Inheritance and Variation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:11:07Z"
+ },
+ {
+  "id": "q_50af9645062584bf",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In microeconomics, what does the term 'Marginal Rate of Substitution' (MRS) measure on an indifference curve?",
+  "qHi": "सूक्ष्मअर्थशास्त्र में, अनधिमान वक्र पर 'प्रतिस्थापन की सीमांत दर' (MRS) शब्द क्या मापता है?",
+  "optsEn": [
+   "The slope of the budget line",
+   "The rate at which a consumer is willing to substitute one good for another while maintaining the same level of satisfaction",
+   "The ratio of prices of two goods",
+   "The total utility derived from the consumption of a good"
+  ],
+  "optsHi": [
+   "बजट रेखा का ढलान",
+   "वह दर जिस पर एक उपभोक्ता संतुष्टि के समान स्तर को बनाए रखते हुए एक वस्तु को दूसरी वस्तु के लिए प्रतिस्थापित करने को तैयार रहता है",
+   "दो वस्तुओं की कीमतों का अनुपात",
+   "किसी वस्तु की खपत से प्राप्त कुल उपयोगिता"
+  ],
+  "correct": 1,
+  "explainEn": "Marginal Rate of Substitution is the amount of one good that a consumer is willing to give up for one more unit of another good, keeping utility constant.",
+  "sourceHint": "NCERT Class 12 Microeconomics, Chapter 2: Theory of Consumer Behaviour",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:11:07Z"
+ },
+ {
+  "id": "q_cd70e4f4737187f5",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following kingdoms established absolute monopoly over the trade in betel nut and pepper along the Malabar coast in the late 18th century?",
+  "qHi": "अठारहवीं सदी के उत्तरार्ध में निम्नलिखित में से किस राज्य ने मालाबार तट पर सुपारी और काली मिर्च के व्यापार पर पूर्ण एकाधिकार स्थापित किया था?",
+  "optsEn": [
+   "Kingdom of Mysore under Tipu Sultan",
+   "Kingdom of Travancore under Marthanda Varma",
+   "Kingdom of Cochin under Rama Varma",
+   "The Zamorin of Calicut"
+  ],
+  "optsHi": [
+   "टीपू सुल्तान के अधीन मैसूर साम्राज्य",
+   "मार्तंड वर्मा के अधीन त्रावणकोर साम्राज्य",
+   "राम वर्मा के अधीन कोचीन साम्राज्य",
+   "कालीकट का ज़मोरिन"
+  ],
+  "correct": 0,
+  "explainEn": "In 1793, Tipu Sultan prohibited the export of sandalwood and pepper through the ports of his domains and established a state monopoly over their trade, particularly affecting the Malabar coast.",
+  "sourceHint": "NCERT Class 12 History - Themes in Indian History Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:12:14Z"
+ },
+ {
+  "id": "q_dbc3ec9ce3fe6485",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Indian Constitution, which body has the exclusive power to make laws on matters not enumerated in the Concurrent List or the State List?",
+  "qHi": "भारतीय संविधान के तहत, समवर्ती सूची या राज्य सूची में शामिल न किए गए मामलों पर कानून बनाने की अनन्य शक्ति किस निकाय के पास है?",
+  "optsEn": [
+   "The Parliament of India",
+   "The Supreme Court of India",
+   "The Inter-State Council",
+   "The NITI Aayog"
+  ],
+  "optsHi": [
+   "भारत की संसद",
+   "भारत का उच्चतम न्यायालय",
+   "अंतर-राज्यीय परिषद",
+   "नीति आयोग"
+  ],
+  "correct": 0,
+  "explainEn": "Article 248 of the Constitution vests residuary powers of legislation exclusively in the Parliament of India.",
+  "sourceHint": "Constitution of India, Article 248 / NCERT Class 12 Political Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:12:14Z"
+ },
+ {
+  "id": "q_9bcb22e484d5dff2",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In microeconomics, when the price elasticity of demand for a good is unitary across all points on the demand curve, what shape does the demand curve take?",
+  "qHi": "व्यष्टि अर्थशास्त्र में, जब किसी वस्तु की मांग की कीमत लोच मांग वक्र के सभी बिंदुओं पर एक समान होती है, तो मांग वक्र का आकार क्या होता है?",
+  "optsEn": [
+   "Rectangular hyperbola",
+   "Downward-sloping straight line",
+   "Upward-sloping parabola",
+   "Horizontal parallel to the x-axis"
+  ],
+  "optsHi": [
+   "आयत अतिपरवलय",
+   "नीचे की ओर ढलान वाली सीधी रेखा",
+   "ऊपर की ओर ढलान वाला परवलय",
+   "एक्स-अक्ष के समानांतर क्षैतिज"
+  ],
+  "correct": 0,
+  "explainEn": "A demand curve with unitary elasticity (e = 1) at all points is represented mathematically as a rectangular hyperbola, where total expenditure remains constant at any price.",
+  "sourceHint": "NCERT Class 12 Economics - Introductory Microeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:12:14Z"
+ },
+ {
+  "id": "q_253323b4b0cf407c",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which enzyme is responsible for the direct joining of Okazaki fragments during DNA replication in Escherichia coli?",
+  "qHi": "एस्चेरिचिया कोलाई में डीएनए प्रतिकृति के दौरान ओकाजाकी खंडों को सीधे जोड़ने के लिए कौन सा एंजाइम जिम्मेदार है?",
+  "optsEn": [
+   "DNA ligase",
+   "DNA polymerase I",
+   "RNA primase",
+   "DNA helicase"
+  ],
+  "optsHi": [
+   "डीएनए लाइगेस",
+   "डीएनए पोलीमरेज़ I",
+   "आरएनए प्राइमेस",
+   "डीएनए हेलीकेस"
+  ],
+  "correct": 0,
+  "explainEn": "DNA ligase seals the nicks in the sugar-phosphate backbone by catalyzing the formation of phosphodiester bonds, thereby joining the Okazaki fragments on the lagging strand.",
+  "sourceHint": "NCERT Class 12 Biology - Chapter 6 Molecular Basis of Inheritance",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:12:14Z"
+ },
+ {
+  "id": "q_32308c34697df323",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which coordination compound exhibits linkage isomerism because of an ambidentate ligand?",
+  "qHi": "कौन सा उपसहसंयोजन यौगिक एक उभयसंयोगी लिगैंड के कारण लिंकेज समावयवता प्रदर्शित करता है?",
+  "optsEn": [
+   "[Co(NH3)5(NO2)]Cl2",
+   "[Co(NH3)5(H2O)]Cl3",
+   "[Pt(NH3)4Cl2]Cl2",
+   "[Co(en)3]Cl3"
+  ],
+  "optsHi": [
+   "[Co(NH3)5(NO2)]Cl2",
+   "[Co(NH3)5(H2O)]Cl3",
+   "[Pt(NH3)4Cl2]Cl2",
+   "[Co(en)3]Cl3"
+  ],
+  "correct": 0,
+  "explainEn": "The nitrite ion (NO2-) is an ambidentate ligand that can coordinate through nitrogen (-NO2) or oxygen (-ONO), exhibiting linkage isomerism.",
+  "sourceHint": "NCERT Class 12 Chemistry - Coordination Compounds",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:12:14Z"
+ },
+ {
+  "id": "q_b63aa1e610b1b6f8",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In human reproductive physiology, which hormone surge triggers the rupture of the Graafian follicle, leading to ovulation?",
+  "qHi": "मानव प्रजनन शरीर विज्ञान में, कौन सा हार्मोनल उछाल ग्राफियन कूप के फटने को ट्रिगर करता है, जिससे ओव्यूलेशन होता है?",
+  "optsEn": [
+   "Luteinizing Hormone (LH)",
+   "Follicle Stimulating Hormone (FSH)",
+   "Human Chorionic Gonadotropin (hCG)",
+   "Progesterone"
+  ],
+  "optsHi": [
+   "ल्यूटिनाइजिंग हार्मोन (LH)",
+   "फॉलिकल स्टिम्युलेटिंग हार्मोन (FSH)",
+   "ह्यूमन कोरियोनिक गोनाडोट्रोपिन (hCG)",
+   "प्रोजेस्ट्रोन"
+  ],
+  "correct": 0,
+  "explainEn": "A rapid secretion of Luteinizing Hormone (LH) during the mid-cycle (around day 14) induces the rupture of the Graafian follicle and thereby the release of the ovum.",
+  "sourceHint": "NCERT Class 12 Biology - Chapter 3 Human Reproduction",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:12:14Z"
+ },
+ {
+  "id": "q_67148ba118324d36",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the colonial period in India, the Ryotwari settlement was primarily introduced and implemented in which of the following regions?",
+  "qHi": "भारत में औपनिवेशिक काल के दौरान, रैयतवाड़ी व्यवस्था मुख्य रूप से निम्नलिखित में से किस क्षेत्र में शुरू और लागू की गई थी?",
+  "optsEn": [
+   "Madras and Bombay Presidencies",
+   "Bengal and Bihar Provinces",
+   "United Provinces of Agra and Oudh",
+   "Punjab and North-West Frontier Province"
+  ],
+  "optsHi": [
+   "मद्रास और बॉम्बे प्रेसीडेंसी",
+   "बंगाल और बिहार प्रांत",
+   "आगरा और अवध के संयुक्त प्रांत",
+   "पंजाब और उत्तर-पश्चिम सीमांत प्रांत"
+  ],
+  "correct": 0,
+  "explainEn": "The Ryotwari system of land revenue was pioneered by Alexander Read and Thomas Munro, and was primarily implemented in the Madras and Bombay presidencies.",
+  "sourceHint": "NCERT Class 12 History - Themes in Indian History Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:12:14Z"
+ },
+ {
+  "id": "q_7bf5a90cce60584d",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In an n-type semiconductor, which of the following statements is chemically and physically correct regarding its charge neutrality?",
+  "qHi": "एक n-प्रकार के अर्धचालक में, इसकी आवेश तटस्थता के संबंध में निम्नलिखित में से कौन सा कथन रासायनिक और भौतिक रूप से सही है?",
+  "optsEn": [
+   "It is electrically neutral as a whole.",
+   "It possesses a net negative charge due to excess electrons.",
+   "It possesses a net positive charge due to donor ions.",
+   "It has equal concentrations of free electrons and holes."
+  ],
+  "optsHi": [
+   "यह समग्र रूप से विद्युत रूप से तटस्थ है।",
+   "अतिरिक्त इलेक्ट्रॉनों के कारण इस पर शुद्ध ऋणात्मक आवेश होता है।",
+   "दाता आयनों के कारण इस पर शुद्ध धनात्मक आवेश होता है।",
+   "इसमें मुक्त इलेक्ट्रॉनों और होल्स की सांद्रता समान होती है।"
+  ],
+  "correct": 0,
+  "explainEn": "Although doped with donor impurities, an n-type semiconductor remains electrically neutral overall because the number of protons equals the number of electrons in the bulk material.",
+  "sourceHint": "NCERT Class 12 Physics - Semiconductor Electronics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:12:14Z"
  }
 ]

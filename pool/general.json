@@ -10582,5 +10582,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-16T16:45:51Z"
+ },
+ {
+  "id": "q_41312e0e595652df",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which planet in our solar system has the highest number of officially recognized moons?",
+  "qHi": "हमारे सौरमंडल में किस ग्रह के पास आधिकारिक तौर पर सबसे अधिक संख्या में चंद्रमा हैं?",
+  "optsEn": [
+   "Jupiter",
+   "Saturn",
+   "Uranus",
+   "Neptune"
+  ],
+  "optsHi": [
+   "बृहस्पति",
+   "शनि",
+   "यूरेनस",
+   "नेपच्यून"
+  ],
+  "correct": 1,
+  "explainEn": "Saturn has the most confirmed moons in the solar system, surpassing Jupiter according to recent astronomical discoveries.",
+  "sourceHint": "NASA Solar System Exploration",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:11:46Z"
+ },
+ {
+  "id": "q_b21ce5d6b10ab503",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary chemical element that makes up the majority of the Sun's mass?",
+  "qHi": "वह प्राथमिक रासायनिक तत्व कौन सा है जो सूर्य के द्रव्यमान का अधिकांश हिस्सा बनाता है?",
+  "optsEn": [
+   "Helium",
+   "Oxygen",
+   "Hydrogen",
+   "Carbon"
+  ],
+  "optsHi": [
+   "हीलीयम",
+   "ऑक्सीजन",
+   "हाइड्रोजन",
+   "कार्बन"
+  ],
+  "correct": 2,
+  "explainEn": "Hydrogen accounts for about 73 percent of the Sun's mass, with helium making up most of the remaining 25 percent.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:11:46Z"
+ },
+ {
+  "id": "q_18639ab6bd5ed78e",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian national park is famous as the last remaining natural habitat of the endangered Asiatic lion?",
+  "qHi": "कौन सा भारतीय राष्ट्रीय उद्यान लुप्तप्राय एशियाई शेर के अंतिम शेष प्राकृतिक आवास के रूप में प्रसिद्ध है?",
+  "optsEn": [
+   "Jim Corbett National Park",
+   "Gir National Park",
+   "Kaziranga National Park",
+   "Sundarbans National Park"
+  ],
+  "optsHi": [
+   "जिम कार्बेट राष्ट्रीय उद्यान",
+   "गीर राष्ट्रीय उद्यान",
+   "काजीरंगा राष्ट्रीय उद्यान",
+   "सुंदरबन राष्ट्रीय उद्यान"
+  ],
+  "correct": 1,
+  "explainEn": "Gir National Park and Wildlife Sanctuary in Gujarat is the only place in the wild where Asiatic lions are found.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change, India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:11:46Z"
+ },
+ {
+  "id": "q_406bab49cab0df5a",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the term used in physics for the rate of change of velocity with respect to time?",
+  "qHi": "समय के संबंध में वेग के परिवर्तन की दर के लिए भौतिकी में किस शब्द का उपयोग किया जाता है?",
+  "optsEn": [
+   "Speed",
+   "Momentum",
+   "Acceleration",
+   "Displacement"
+  ],
+  "optsHi": [
+   "चाल",
+   "संवेग",
+   "त्वरण",
+   "विस्थापन"
+  ],
+  "correct": 2,
+  "explainEn": "Acceleration is defined as the vector quantity that expresses the rate at which an object changes its velocity.",
+  "sourceHint": "NCERT Physics Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:11:46Z"
+ },
+ {
+  "id": "q_bedadd8049ce3879",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the ancient Indian Sanskrit treatise on statecraft, economic policy, and military strategy known as the Arthashastra?",
+  "qHi": "अर्थशास्त्र के रूप में जानी जाने वाली राज्यकला, आर्थिक नीति और सैन्य रणनीति पर प्राचीन भारतीय संस्कृत ग्रंथ किसने लिखा था?",
+  "optsEn": [
+   "Kalidasa",
+   "Chanakya",
+   "Valmiki",
+   "Tulsidas"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "चाणक्य",
+   "वाल्मीकि",
+   "तुलसीदास"
+  ],
+  "correct": 1,
+  "explainEn": "The Arthashastra was traditionally attributed to Chanakya, also known as Kautilya, who was the chief advisor to Emperor Chandragupta Maurya.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T21:11:46Z"
  }
 ]
