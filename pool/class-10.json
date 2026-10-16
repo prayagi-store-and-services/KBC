@@ -13410,5 +13410,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-16T11:30:35Z"
+ },
+ {
+  "id": "q_b0fadde60232b385",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas is evolved when a metal reacts with a dilute acid?",
+  "qHi": "जब कोई धातु किसी तनु अम्ल के साथ प्रतिक्रिया करती है, तो कौन सी गैस निकलती है?",
+  "optsEn": [
+   "Oxygen",
+   "Hydrogen",
+   "Nitrogen",
+   "Carbon dioxide"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "हाइड्रोजन",
+   "नाइट्रोजन",
+   "कार्बन डाइऑक्साइड"
+  ],
+  "correct": 1,
+  "explainEn": "Metals generally react with dilute acids to form a salt and evolve hydrogen gas.",
+  "sourceHint": "NCERT Class 10 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T16:41:25Z"
+ },
+ {
+  "id": "q_7720a0643e126c0f",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organ of government is responsible for implementing laws?",
+  "qHi": "सरकार का कौन सा अंग कानूनों को लागू करने के लिए उत्तरदायी है?",
+  "optsEn": [
+   "Legislature",
+   "Executive",
+   "Judiciary",
+   "Media"
+  ],
+  "optsHi": [
+   "विधायिका",
+   "कार्यपालिका",
+   "न्यायपालिका",
+   "मीडिया"
+  ],
+  "correct": 1,
+  "explainEn": "The Executive is the organ of government responsible for the implementation of laws and policies.",
+  "sourceHint": "NCERT Class 9 and 10 Political Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T16:41:25Z"
  }
 ]

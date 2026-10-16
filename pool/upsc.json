@@ -13970,5 +13970,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-16T11:28:55Z"
+ },
+ {
+  "id": "q_717f584a0daf9416",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which historical site is associated with the Mauryan Emperor Ashoka's conversion to Buddhism after a major war?",
+  "qHi": "कौन सा ऐतिहासिक स्थल एक बड़े युद्ध के बाद मौर्य सम्राट अशोक के बौद्ध धर्म अपनाने से जुड़ा है?",
+  "optsEn": [
+   "Kalinga",
+   "Pataliputra",
+   "Taxila",
+   "Ujjain"
+  ],
+  "optsHi": [
+   "कलिंग",
+   "पाटलिपुत्र",
+   "तक्षशिला",
+   "उज्जैन"
+  ],
+  "correct": 0,
+  "explainEn": "The Kalinga War deeply affected Ashoka, leading him to renounce violence and embrace Buddhism.",
+  "sourceHint": "NCERT Class 6 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T16:42:25Z"
+ },
+ {
+  "id": "q_6cc09e27327be97b",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which institution releases the 'Ease of Doing Business' report historically, or compiles macro-economic data for India?",
+  "qHi": "भारत के लिए समष्टि आर्थिक डेटा कौन सी संस्था संकलित करती है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India",
+   "NITI Aayog",
+   "Competition Commission of India"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "नीति आयोग",
+   "भारतीय प्रतिस्पर्धा आयोग"
+  ],
+  "correct": 0,
+  "explainEn": "The Reserve Bank of India (RBI) is the central bank responsible for regulating the monetary policy and publishing key economic data for India.",
+  "sourceHint": "RBI Official Publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T16:42:25Z"
+ },
+ {
+  "id": "q_c0ac3828d8b40a27",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the tenure of a member of the Rajya Sabha (Council of States) in India?",
+  "qHi": "भारत में राज्य सभा के सदस्य का कार्यकाल कितना होता है?",
+  "optsEn": [
+   "4 years",
+   "5 years",
+   "6 years",
+   "Permanent"
+  ],
+  "optsHi": [
+   "4 वर्ष",
+   "5 वर्ष",
+   "6 वर्ष",
+   "स्थाई"
+  ],
+  "correct": 2,
+  "explainEn": "The Rajya Sabha is a permanent body not subject to dissolution, but nearly one-third of its members retire every second year. Each member has a tenure of 6 years.",
+  "sourceHint": "Article 83 of the Constitution",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T16:42:25Z"
  }
 ]

@@ -10554,5 +10554,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-16T11:30:00Z"
+ },
+ {
+  "id": "q_bfeb328e629a1eb6",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which city is the famous monument Gateway of India located?",
+  "qHi": "प्रसिद्ध स्मारक गेटवे ऑफ़ इंडिया किस शहर में स्थित है?",
+  "optsEn": [
+   "New Delhi",
+   "Mumbai",
+   "Kolkata",
+   "Chennai"
+  ],
+  "optsHi": [
+   "नई दिल्ली",
+   "मुंबई",
+   "कोलकाता",
+   "चेन्नई"
+  ],
+  "correct": 1,
+  "explainEn": "The Gateway of India is an arch-monument built in Mumbai during the 20th century.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T16:45:51Z"
  }
 ]

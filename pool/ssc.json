@@ -9826,5 +9826,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-16T11:29:27Z"
+ },
+ {
+  "id": "q_afbcfff42d595800",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Bhangra is a traditional folk dance associated with which Indian state?",
+  "qHi": "भांगड़ा किस भारतीय राज्य से जुड़ा एक पारंपरिक लोक नृत्य है?",
+  "optsEn": [
+   "Punjab",
+   "Tamil Nadu",
+   "Odisha",
+   "Maharashtra"
+  ],
+  "optsHi": [
+   "पंजाब",
+   "तमिलनाडु",
+   "ओडिशा",
+   "महाराष्ट्र"
+  ],
+  "correct": 0,
+  "explainEn": "Bhangra is a lively folk dance originating from the Punjab region.",
+  "sourceHint": "CCRT India Culture",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T16:42:54Z"
  }
 ]

@@ -15174,5 +15174,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-16T11:29:37Z"
+ },
+ {
+  "id": "q_18aab227602cfcd2",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'P' stand for in the financial acronym PAN?",
+  "qHi": "वित्तीय संक्षिप्त नाम PAN में अक्षर 'P' का क्या अर्थ है?",
+  "optsEn": [
+   "Primary",
+   "Permanent",
+   "Public",
+   "Private"
+  ],
+  "optsHi": [
+   "प्राथमिक",
+   "स्थायी",
+   "सार्वजनिक",
+   "निजी"
+  ],
+  "correct": 1,
+  "explainEn": "PAN stands for Permanent Account Number, which is a ten-digit alphanumeric identifier issued by the Income Tax Department.",
+  "sourceHint": "Income Tax Department of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T16:43:59Z"
+ },
+ {
+  "id": "q_538050e32e0553f6",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization insures bank deposits in India up to a specified limit?",
+  "qHi": "भारत में कौन सा संगठन एक निश्चित सीमा तक बैंक जमा राशि का बीमा करता है?",
+  "optsEn": [
+   "DICGC",
+   "SIDBI",
+   "EXIM Bank",
+   "IRDAI"
+  ],
+  "optsHi": [
+   "डीआईसीजीसी",
+   "सिडबी",
+   "एक्जिम बैंक",
+   "इrdai"
+  ],
+  "correct": 0,
+  "explainEn": "Deposit Insurance and Credit Guarantee Corporation (DICGC), a wholly-owned subsidiary of RBI, insures all bank deposits.",
+  "sourceHint": "DICGC Act, 1961",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T16:43:59Z"
+ },
+ {
+  "id": "q_657478f711b11035",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of account is typically used by businesses for frequent daily transactions?",
+  "qHi": "व्यवसायों द्वारा लगातार दैनिक लेनदेन के लिए आमतौर पर किस प्रकार के खाते का उपयोग किया जाता है?",
+  "optsEn": [
+   "Savings Account",
+   "Current Account",
+   "Fixed Deposit Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "बचत खाता",
+   "चालू खाता",
+   "सावधि जमा खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 1,
+  "explainEn": "Current accounts are designed for businesses and companies that require high liquidity and frequent banking transactions without interest on balances.",
+  "sourceHint": "NCERT Business Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T16:43:59Z"
+ },
+ {
+  "id": "q_85063d42976cdfb4",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which coin or currency note denomination has the portrait of Mahatma Gandhi on the obverse in India?",
+  "qHi": "भारत में किस सिक्के या करेंसी नोट के अग्रभाग पर महात्मा गांधी का चित्र होता है?",
+  "optsEn": [
+   "One Rupee Coin",
+   "All active Mahatma Gandhi Series Banknotes",
+   "Two Rupee Coin",
+   "Only the 2000 Rupee Note"
+  ],
+  "optsHi": [
+   "एक रुपये का सिक्का",
+   "सभी सक्रिय महात्मा गांधी श्रृंखला के बैंकनोट",
+   "दो रुपये का सिक्का",
+   "केवल 2000 रुपये का नोट"
+  ],
+  "correct": 1,
+  "explainEn": "All active paper currency notes issued by the Reserve Bank of India under the Mahatma Gandhi Series feature the portrait of Mahatma Gandhi.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T16:43:59Z"
  }
 ]
