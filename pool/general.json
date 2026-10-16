@@ -10386,5 +10386,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-15T21:26:05Z"
+ },
+ {
+  "id": "q_dd2e99f0531ab030",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who is the author of the famous Indian epic 'Ramayana'?",
+  "qHi": "प्रसिद्ध भारतीय महाकाव्य 'रामायण' के रचयिता कौन हैं?",
+  "optsEn": [
+   "Valmiki",
+   "Tulsidas",
+   "Kalidasa",
+   "Ved Vyasa"
+  ],
+  "optsHi": [
+   "वाल्मीकि",
+   "तुलसीदास",
+   "कालिदास",
+   "वेद व्यास"
+  ],
+  "correct": 0,
+  "explainEn": "Sage Valmiki is traditionally credited as the author of the epic Ramayana.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:34:11Z"
+ },
+ {
+  "id": "q_131015451955c534",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the famous Indian epic Meghaduta?",
+  "qHi": "प्रसिद्ध भारतीय महाकाव्य मेघदूत किसने लिखा है?",
+  "optsEn": [
+   "Kalidasa",
+   "Tulsidas",
+   "Valmiki",
+   "Vedavyasa"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "तुलसीदास",
+   "वाल्मीकि",
+   "वेदव्यास"
+  ],
+  "correct": 0,
+  "explainEn": "Meghaduta is a lyric poem written by the classical Sanskrit writer Kalidasa.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:31Z"
  }
 ]

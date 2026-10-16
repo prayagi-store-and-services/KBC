@@ -12598,5 +12598,397 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-15T21:26:21Z"
+ },
+ {
+  "id": "q_8d597b713e5d1c96",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Power sharing is desirable primarily because it helps to:",
+  "qHi": "सत्ता की साझेदारी वांछनीय है क्योंकि यह मुख्य रूप से मदद करती है:",
+  "optsEn": [
+   "Increase conflict between communities",
+   "Reduce the possibility of conflict between social groups",
+   "Delay decision making",
+   "Concentrate power in one hand"
+  ],
+  "optsHi": [
+   "समुदायों के बीच संघर्ष बढ़ाना",
+   "सामाजिक समूहों के बीच संघर्ष की संभावना को कम करना",
+   "निर्णय लेने में देरी करना",
+   "एक हाथ में सत्ता केंद्रित करना"
+  ],
+  "correct": 1,
+  "explainEn": "Power sharing reduces the possibility of conflict between social groups, ensuring political stability.",
+  "sourceHint": "NCERT Class 10 Social Science (Democratic Politics), Chapter 1: Power Sharing",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:33:49Z"
+ },
+ {
+  "id": "q_222dbfb01e11b214",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "The S.I. unit of electric current is:",
+  "qHi": "विद्युत धारा का एस.आई. मात्रक क्या है?",
+  "optsEn": [
+   "Volt",
+   "Ohm",
+   "Ampere",
+   "Watt"
+  ],
+  "optsHi": [
+   "पोटेंशियल अंतर / वोल्ट",
+   "ओम",
+   "एम्पियर",
+   "वाट"
+  ],
+  "correct": 2,
+  "explainEn": "Electric current is expressed by a unit called ampere, named after the scientist André-Marie Ampère.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 12: Electricity",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:33:49Z"
+ },
+ {
+  "id": "q_e5218a40222ce24a",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the molecular formula of the cyclic hydrocarbon named cyclohexane?",
+  "qHi": "चक्रवर्ती हाइड्रोकार्बन साइक्लोहेक्सेन का आणविक सूत्र क्या है?",
+  "optsEn": [
+   "C6H6",
+   "C6H12",
+   "C6H14",
+   "C5H10"
+  ],
+  "optsHi": [
+   "C6H6",
+   "C6H12",
+   "C6H14",
+   "C5H10"
+  ],
+  "correct": 1,
+  "explainEn": "Cyclohexane is a cycloalkane with six carbon atoms and twelve hydrogen atoms, following the general formula CnH2n.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:06Z"
+ },
+ {
+  "id": "q_bbae449527ad48b2",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organelle in plant cells is responsible for trapping solar energy for photosynthesis?",
+  "qHi": "पादप कोशिकाओं में कौन सा अंगक प्रकाश संश्लेषण के लिए सौर ऊर्जा को फँसाने के लिए उत्तरदायी है?",
+  "optsEn": [
+   "Mitochondria",
+   "Ribosome",
+   "Chloroplast",
+   "Lysosome"
+  ],
+  "optsHi": [
+   "माइटोकॉन्ड्रिया",
+   "राइबोसोम",
+   "क्लोरोप्लास्ट",
+   "लाइसोसोम"
+  ],
+  "correct": 2,
+  "explainEn": "Chloroplasts contain chlorophyll, which absorbs sunlight to drive the process of photosynthesis.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:06Z"
+ },
+ {
+  "id": "q_420586090dd585b1",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the Indian Parliament, what is the minimum age requirement for a person to become a member of the Rajya Sabha?",
+  "qHi": "भारतीय संसद में, किसी व्यक्ति के राज्यसभा का सदस्य बनने के लिए न्यूनतम आयु क्या है?",
+  "optsEn": [
+   "21 years",
+   "25 years",
+   "30 years",
+   "35 years"
+  ],
+  "optsHi": [
+   "21 वर्ष",
+   "25 वर्ष",
+   "30 वर्ष",
+   "35 वर्ष"
+  ],
+  "correct": 2,
+  "explainEn": "Article 84 of the Constitution of India specifies that the minimum age for Rajya Sabha membership is 30 years.",
+  "sourceHint": "Constitution of India, Article 84",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:06Z"
+ },
+ {
+  "id": "q_d4c8108f0d390fb1",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which soil type is most suitable for the growth of cotton in the Deccan plateau region?",
+  "qHi": "दक्कन के पठार क्षेत्र में कपास की वृद्धि के लिए कौन सी मिट्टी सबसे उपयुक्त है?",
+  "optsEn": [
+   "Laterite soil",
+   "Black soil",
+   "Red soil",
+   "Desert soil"
+  ],
+  "optsHi": [
+   "लैटेराइट मृदा",
+   "काली मृदा",
+   "लाल मृदा",
+   "मरुस्थलीय मृदा"
+  ],
+  "correct": 1,
+  "explainEn": "Black soil, also known as regur soil, is ideal for growing cotton and is found extensively in the Deccan trap region.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:06Z"
+ },
+ {
+  "id": "q_9757489cddd093b1",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of forming Self Help Groups (SHGs) in rural areas?",
+  "qHi": "ग्रामीण क्षेत्रों में स्वयं सहायता समूहों (एसएचजी) के गठन का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To organize political protests",
+   "To pool savings and provide microloans to members",
+   "To export agricultural machinery",
+   "To collect taxes for the central government"
+  ],
+  "optsHi": [
+   "राजनीतिक विरोध आयोजित करना",
+   "बचत को एकत्र करना और सदस्यों को सूक्ष्म ऋण प्रदान करना",
+   "कृषि मशीनरी का निर्यात करना",
+   "केंद्र सरकार के लिए कर एकत्र करना"
+  ],
+  "correct": 1,
+  "explainEn": "SHGs help rural poor, especially women, to pool their savings and access credit without relying on informal lenders.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:06Z"
+ },
+ {
+  "id": "q_03eff9c58a9301d2",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "During which historical movement was the 'Vande Mataram' song widely sung as a nationalist anthem in Bengal?",
+  "qHi": "बंगाल में किस ऐतिहासिक आंदोलन के दौरान 'वंदे मातरम्' गीत को राष्ट्रवादी गान के रूप में बड़े पैमाने पर गाया गया था?",
+  "optsEn": [
+   "Non-Cooperation Movement",
+   "Civil Disobedience Movement",
+   "Swadeshi Movement",
+   "Quit India Movement"
+  ],
+  "optsHi": [
+   "असहयोग आंदोलन",
+   "सविनय अवज्ञा आंदोलन",
+   "स्वदेशी आंदोलन",
+   "भारत छोड़ो आंदोलन"
+  ],
+  "correct": 2,
+  "explainEn": "The Swadeshi movement in Bengal (post-1905 partition) saw widespread adoption of Vande Mataram to mobilize people.",
+  "sourceHint": "NCERT Class 10 History, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:06Z"
+ },
+ {
+  "id": "q_42da0d63ada34ac9",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the human digestive system, which enzyme is responsible for breaking down proteins into peptones in the stomach?",
+  "qHi": "मानव पाचन तंत्र में, पेट में प्रोटीन को पेप्टोन में तोड़ने के लिए कौन सा एंजाइम जिम्मेदार है?",
+  "optsEn": [
+   "Pepsin",
+   "Trypsin",
+   "Amylase",
+   "Lipase"
+  ],
+  "optsHi": [
+   "पेप्सिन",
+   "ट्रिप्सिन",
+   "एमाइलेज",
+   "लाइपेज"
+  ],
+  "correct": 0,
+  "explainEn": "Pepsin is secreted by the gastric glands in the stomach and acts in an acidic medium to digest proteins.",
+  "sourceHint": "NCERT Science Class 10, Chapter 6: Life Processes",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:49Z"
+ },
+ {
+  "id": "q_c70eb0c601c4f000",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following elements has the highest electro-negativity according to the Modern Periodic Table?",
+  "qHi": "आधुनिक आवर्त सारणी के अनुसार निम्नलिखित में से किस तत्व की विद्युत ऋणात्मकता (electronegativity) सबसे अधिक है?",
+  "optsEn": [
+   "Fluorine",
+   "Oxygen",
+   "Chlorine",
+   "Nitrogen"
+  ],
+  "optsHi": [
+   "फ्लोरिन",
+   "ऑक्सीजन",
+   "क्लोरिन",
+   "नाइट्रोजन"
+  ],
+  "correct": 0,
+  "explainEn": "Fluorine is at the top right of the halogen group and has the highest electronegativity value of all elements.",
+  "sourceHint": "NCERT Science Class 10, Chapter 5: Periodic Classification of Elements",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:49Z"
+ },
+ {
+  "id": "q_6e404de4fb8c41a7",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following bodies in India has the constitutional authority to decide election disputes relating to the President and the Vice-President?",
+  "qHi": "भारत में निम्नलिखित में से किस निकाय के पास राष्ट्रपति और उपराष्ट्रपति से संबंधित चुनाव विवादों का निर्णय लेने का संवैधानिक अधिकार है?",
+  "optsEn": [
+   "The Supreme Court of India",
+   "The Election Commission of India",
+   "The Parliament of India",
+   "The High Court of Delhi"
+  ],
+  "optsHi": [
+   "भारत का सर्वोच्च न्यायालय",
+   "भारत का चुनाव आयोग",
+   "भारत की संसद",
+   "दिल्ली उच्च न्यायालय"
+  ],
+  "correct": 0,
+  "explainEn": "According to Article 71 of the Constitution, all doubts and disputes arising out of or in connection with the election of a President or Vice-President shall be inquired into and decided by the Supreme Court.",
+  "sourceHint": "Constitution of India, Article 71",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:49Z"
+ },
+ {
+  "id": "q_e017f6f97f1a5a8b",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which type of resources are resources that are found in a region, but have not been utilised due to lack of capital or technology, classified?",
+  "qHi": "पूंजी या प्रौद्योगिकी की कमी के कारण उपयोग में न लाए जाने वाले संसाधनों को किस प्रकार के संसाधनों के रूप में वर्गीकृत किया जाता है?",
+  "optsEn": [
+   "Potential resources",
+   "Developed resources",
+   "Stock",
+   "Reserves"
+  ],
+  "optsHi": [
+   "संभाव्य संसाधन",
+   "विकसित संसाधन",
+   "भंडार",
+   "संचित कोष"
+  ],
+  "correct": 0,
+  "explainEn": "Potential resources are found in a region, but have not been utilized, such as wind and solar energy potential in Rajasthan and Gujarat.",
+  "sourceHint": "NCERT Geography Class 10, Chapter 1: Resources and Development",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:49Z"
+ },
+ {
+  "id": "q_fc37077f4c8f0724",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary function of self-help groups (SHGs) in rural areas regarding credit?",
+  "qHi": "ग्रामीण क्षेत्रों में ऋण के संबंध में स्वयं सहायता समूहों (SHG) का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "To pool their savings and provide small loans to members without collateral",
+   "To act as a direct subsidiary of the Reserve Bank of India",
+   "To replace commercial banks entirely in rural districts",
+   "To collect land revenue on behalf of the state government"
+  ],
+  "optsHi": [
+   "अपनी बचत को एकत्रित करना और बिना संपार्श्विक (collateral) के सदस्यों को छोटे ऋण प्रदान करना",
+   "भारतीय रिजर्व बैंक की प्रत्यक्ष सहायक कंपनी के रूप में कार्य करना",
+   "ग्रामीण जिलों में वाणिज्यिक बैंकों को पूरी तरह से प्रतिस्थापित करना",
+   "राज्य सरकार की ओर से भू-राजस्व एकत्र करना"
+  ],
+  "correct": 0,
+  "explainEn": "SHGs help rural poor, especially women, pool their savings and access micro-credit without needing heavy collateral, helping them overcome traditional moneylender traps.",
+  "sourceHint": "NCERT Economics Class 10, Chapter 3: Money and Credit",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:49Z"
+ },
+ {
+  "id": "q_776b3509415b4b4b",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which alloy of copper and zinc is commonly used to make cartridge cases, musical instruments, and hardware?",
+  "qHi": "तांबे और जस्ते (zinc) की किस मिश्र धातु का उपयोग आमतौर पर कारतूस के खोल, वाद्य यंत्र और हार्डवेयर बनाने के लिए किया जाता है?",
+  "optsEn": [
+   "Brass",
+   "Bronze",
+   "Solder",
+   "Amalgam"
+  ],
+  "optsHi": [
+   "पीतल (Brass)",
+   "कांस्य (Bronze)",
+   "टांका (Solder)",
+   "अमलगम"
+  ],
+  "correct": 0,
+  "explainEn": "Brass is an alloy made of copper and zinc, known for its malleability and acoustic properties, making it ideal for instruments and hardware.",
+  "sourceHint": "NCERT Science Class 10, Chapter 3: Metals and Non-metals",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:49Z"
  }
 ]

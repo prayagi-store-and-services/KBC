@@ -9490,5 +9490,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-15T21:25:54Z"
+ },
+ {
+  "id": "q_dc28fc0540570f2b",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the minimum age required to be eligible for election to the office of President of India?",
+  "qHi": "भारत के राष्ट्रपति पद के चुनाव के लिए पात्र होने के लिए न्यूनतम आयु कितनी आवश्यक है?",
+  "optsEn": [
+   "35 years",
+   "30 years",
+   "25 years",
+   "21 years"
+  ],
+  "optsHi": [
+   "35 वर्ष",
+   "30 वर्ष",
+   "25 वर्ष",
+   "21 वर्ष"
+  ],
+  "correct": 0,
+  "explainEn": "According to Article 58 of the Constitution, a candidate must have completed the age of 35 years to become the President of India.",
+  "sourceHint": "Constitution of India, Article 58",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:34:03Z"
+ },
+ {
+  "id": "q_a91caf506019d038",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Kaziranga National Park is famous for which of the following animals?",
+  "qHi": "काजीरंगा राष्ट्रीय उद्यान निम्नलिखित में से किस जानवर के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "One-horned rhinoceros",
+   "Bengal tiger",
+   "Asian elephant",
+   "Snow leopard"
+  ],
+  "optsHi": [
+   "एक सींग वाला गैंडा",
+   "बंगाल टाइगर",
+   "एशियाई हाथी",
+   "हिम तेंदुआ"
+  ],
+  "correct": 0,
+  "explainEn": "Located in Assam, Kaziranga National Park hosts two-thirds of the world's great Indian one-horned rhinoceroses.",
+  "sourceHint": "UNESCO World Heritage Centre",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:34:03Z"
+ },
+ {
+  "id": "q_196b982e4f06130c",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following atmospheric layers is responsible for the reflection of radio waves back to the Earth?",
+  "qHi": "निम्नलिखित में से कौन सी वायुमंडलीय परत रेडियो तरंगों को वापस पृथ्वी पर परावर्तित करने के लिए उत्तरदायी है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 3,
+  "explainEn": "The thermosphere contains the ionosphere, which has electrically charged particles that reflect radio waves.",
+  "sourceHint": "NCERT Class 7 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:22Z"
+ },
+ {
+  "id": "q_174ba211ebe82c47",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which writ is issued by a higher court to a lower court or tribunal to prevent it from exceeding its jurisdiction?",
+  "qHi": "अपनी अधिकार क्षेत्र से बाहर जाने से रोकने के लिए किसी उच्च न्यायालय द्वारा निचली अदालत या न्यायाधिकरण को कौन सी रिट जारी की जाती है?",
+  "optsEn": [
+   "Habeas Corpus",
+   "Mandamus",
+   "Prohibition",
+   "Quo-Warranto"
+  ],
+  "optsHi": [
+   "बंदी प्रत्यक्षीकरण",
+   "परमादेश",
+   "प्रतिषेध",
+   "अधिकार पृच्छा"
+  ],
+  "correct": 2,
+  "explainEn": "The writ of Prohibition is issued by a higher court to a lower court to prevent them from exceeding their jurisdiction.",
+  "sourceHint": "Indian Polity by M. Laxmikanth / Constitution Article 32",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:22Z"
+ },
+ {
+  "id": "q_ac3d150f9dfc0094",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary commercial product obtained from the tree species 'Cinchona'?",
+  "qHi": "सिंचोना वृक्ष प्रजाति से प्राप्त होने वाला मुख्य व्यावसायिक उत्पाद क्या है?",
+  "optsEn": [
+   "Quinine",
+   "Rubber",
+   "Resin",
+   "Cork"
+  ],
+  "optsHi": [
+   "कुनैन",
+   "रबर",
+   "रेजिन",
+   "कॉर्क"
+  ],
+  "correct": 0,
+  "explainEn": "Quinine, an antimalarial drug, is extracted from the bark of the Cinchona tree.",
+  "sourceHint": "NCERT Science / Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:22Z"
  }
 ]

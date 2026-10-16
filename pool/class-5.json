@@ -12878,5 +12878,425 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-15T21:26:11Z"
+ },
+ {
+  "id": "q_5f4ac054a4ced643",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a plant product that we get from trees?",
+  "qHi": "निम्नलिखित में से कौन सा एक पादप उत्पाद है जो हमें पेड़ों से प्राप्त होता है?",
+  "optsEn": [
+   "Wood",
+   "Steel",
+   "Glass",
+   "Plastic"
+  ],
+  "optsHi": [
+   "लकड़ी",
+   "स्टील",
+   "कांच",
+   "प्लास्टिक"
+  ],
+  "correct": 0,
+  "explainEn": "Wood is obtained from trees, while steel, glass, and plastic are man-made or mineral materials.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:33:41Z"
+ },
+ {
+  "id": "q_c4b84ae826d30429",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these is a Rabi crop grown in winter in India?",
+  "qHi": "इनमें से कौन सी भारत में सर्दियों में उगाई जाने वाली रबी फसल है?",
+  "optsEn": [
+   "Rice",
+   "Wheat",
+   "Maize",
+   "Cotton"
+  ],
+  "optsHi": [
+   "चावल",
+   "गेहूं",
+   "मक्का",
+   "कपास"
+  ],
+  "correct": 1,
+  "explainEn": "Wheat is a major Rabi crop sown in winter and harvested in spring.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:33:41Z"
+ },
+ {
+  "id": "q_97d3ad3623a03a77",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these is a rabi crop grown in India during the winter season?",
+  "qHi": "इनमें से कौन सी भारत में सर्दियों के मौसम में उगाई जाने वाली रबी की फसल है?",
+  "optsEn": [
+   "Rice",
+   "Wheat",
+   "Maize",
+   "Cotton"
+  ],
+  "optsHi": [
+   "चावल",
+   "गेहूं",
+   "मक्का",
+   "कपास"
+  ],
+  "correct": 1,
+  "explainEn": "Wheat is a major rabi crop sown in winter and harvested in spring in India.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:34:56Z"
+ },
+ {
+  "id": "q_684516b5cc67768d",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Lines of latitude that run horizontally on a globe are also known by what name?",
+  "qHi": "ग्लोब पर क्षैतिज रूप से चलने वाली अक्षांश रेखाओं को किस अन्य नाम से भी जाना जाता है?",
+  "optsEn": [
+   "Meridians",
+   "Parallels",
+   "Equators",
+   "Tropics"
+  ],
+  "optsHi": [
+   "देशांतर",
+   "समानांतर",
+   "भूमध्य रेखा",
+   "उष्णकटिबंध"
+  ],
+  "correct": 1,
+  "explainEn": "Lines of latitude run horizontally east-west and are referred to as parallels of latitude.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:34:56Z"
+ },
+ {
+  "id": "q_68bbe043fe851f12",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which gas is released by green plants during the process of photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण की प्रक्रिया के दौरान हरे पौधों द्वारा कौन सी गैस छोड़ी जाती है?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Nitrogen",
+   "Oxygen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "ऑक्सीजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 2,
+  "explainEn": "Plants produce oxygen as a byproduct during photosynthesis while making their food.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:34:56Z"
+ },
+ {
+  "id": "q_0ff919471d8ae8f0",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of resource is coal, which cannot be replaced easily once it is exhausted?",
+  "qHi": "कोयला किस प्रकार का संसाधन है, जिसे एक बार समाप्त होने के बाद आसानी से प्रतिस्थापित नहीं किया जा सकता है?",
+  "optsEn": [
+   "Renewable resource",
+   "Non-renewable resource",
+   "Inexhaustible resource",
+   "Biotic resource"
+  ],
+  "optsHi": [
+   "नवीकरणीय संसाधन",
+   "अनवीकरणीय संसाधन",
+   "अक्षय संसाधन",
+   "जैविक संसाधन"
+  ],
+  "correct": 1,
+  "explainEn": "Coal takes millions of years to form and is classified as a non-renewable resource.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:34:56Z"
+ },
+ {
+  "id": "q_ed48a04b1ba2a126",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the name of the imaginary line running through the center of the Earth around which it rotates?",
+  "qHi": "पृथ्वी के केंद्र से गुजरने वाली उस काल्पनिक रेखा का नाम क्या है जिसके चारों ओर वह घूमती है?",
+  "optsEn": [
+   "Orbit",
+   "Axis",
+   "Equator",
+   "Prime Meridian"
+  ],
+  "optsHi": [
+   "कक्षा",
+   "अक्ष",
+   "भूमध्य रेखा",
+   "प्रधान मध्याह्न रेखा"
+  ],
+  "correct": 1,
+  "explainEn": "The Earth rotates daily on its own imaginary line called its axis.",
+  "sourceHint": "NCERT Class 5 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:34:56Z"
+ },
+ {
+  "id": "q_3076fe37be504688",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional water harvesting system uses a stepwell structure known locally as a baoli?",
+  "qHi": "पारंपरिक जल संचयन प्रणाली में किस सीढ़ीदार कुएं की संरचना को स्थानीय रूप से बावली कहा जाता है?",
+  "optsEn": [
+   "Stepwell",
+   "Percolation tank",
+   "Check dam",
+   "Bamboo drip system"
+  ],
+  "optsHi": [
+   "सीढ़ीदार कुआँ",
+   "परकोलेशन टैंक",
+   "चेक डैम",
+   "बांस ड्रिप प्रणाली"
+  ],
+  "correct": 0,
+  "explainEn": "Baolis are traditional stepwells found in arid regions of India used for water storage.",
+  "sourceHint": "NCERT Class 5 Environmental Studies Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:37Z"
+ },
+ {
+  "id": "q_a8c9234fa420074c",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which seed dispersal mechanism relies on seeds bursting open with sudden jerks to scatter away from the parent plant?",
+  "qHi": "बीजों के प्रकीर्णन की कौन सी क्रियाविधि में बीज अचानक झटके के साथ फटकर मूल पौधे से दूर बिखर जाते हैं?",
+  "optsEn": [
+   "Explosion of pods",
+   "Wind dispersal",
+   "Water currents",
+   "Animal attachment"
+  ],
+  "optsHi": [
+   "फलियों का फटना",
+   "हवा द्वारा प्रकीर्णन",
+   "पानी की धाराएं",
+   "जानवरों द्वारा चिपकना"
+  ],
+  "correct": 0,
+  "explainEn": "Plants like peas and balsam disperse seeds when their seed pods dry and burst open suddenly.",
+  "sourceHint": "NCERT Class 5 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:37Z"
+ },
+ {
+  "id": "q_006224fee53cf628",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary function of the root system in a mangrove plant growing in coastal saline mud?",
+  "qHi": "तटीय खारे कीचड़ में उगने वाले मैंग्रोव पौधे की जड़ प्रणाली का मुख्य कार्य क्या है?",
+  "optsEn": [
+   "Breathing in oxygen through specialized pneumatophores",
+   "Absorbing sunlight directly for food",
+   "Catching insects for nitrogen",
+   "Producing sweet nectar for bees"
+  ],
+  "optsHi": [
+   "विशेष न्यूमेटोफोरस के माध्यम से ऑक्सीजन सांस लेना",
+   "भोजन के लिए सीधे धूप को अवशोषित करना",
+   "नाइट्रोजन के लिए कीड़े पकड़ना",
+   "मधुमक्खियों के लिए मीठा रस पैदा करना"
+  ],
+  "correct": 0,
+  "explainEn": "Mangrove trees in waterlogged soils develop specialized roots called breathing roots or pneumatophores.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:37Z"
+ },
+ {
+  "id": "q_d1baf40850eeb08d",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During digestion in the human body, where does the absorption of most digested food nutrients primarily take place?",
+  "qHi": "मानव शरीर में पाचन के दौरान, अधिकांश पचे हुए भोजन के पोषक तत्वों का अवशोषण मुख्य रूप से कहाँ होता है?",
+  "optsEn": [
+   "Small intestine",
+   "Stomach",
+   "Large intestine",
+   "Food pipe"
+  ],
+  "optsHi": [
+   "छोटी आंत",
+   "पेट",
+   "बड़ी आंत",
+   "भोजन नली"
+  ],
+  "correct": 0,
+  "explainEn": "The inner walls of the small intestine absorb nutrients from digested food into the bloodstream.",
+  "sourceHint": "NCERT Class 5 Science Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:37Z"
+ },
+ {
+  "id": "q_96549b08cd07bc3c",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In map reading, what are the imaginary lines running horizontally from west to east called?",
+  "qHi": "मानचित्र पढ़ने में, पश्चिम से पूर्व की ओर क्षैतिज रूप से चलने वाली काल्पनिक रेखाओं को क्या कहा जाता है?",
+  "optsEn": [
+   "Latitudes",
+   "Longitudes",
+   "Prime meridians",
+   "Standard time zones"
+  ],
+  "optsHi": [
+   "अक्षांश रेखाएं",
+   "देशांतर रेखाएं",
+   "प्रधान मध्याह्न रेखा",
+   "मानक समय क्षेत्र"
+  ],
+  "correct": 0,
+  "explainEn": "Latitudes are lines of latitude that run horizontally across maps and globes.",
+  "sourceHint": "NCERT Class 5 Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:37Z"
+ },
+ {
+  "id": "q_07fd20735bba0a9e",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which celestial event occurs when the Earth comes directly between the Sun and the Moon, casting a shadow on the Moon?",
+  "qHi": "कौन सी खगोलीय घटना तब होती है जब पृथ्वी सूर्य और चंद्रमा के बीच ठीक आ जाती है, जिससे चंद्रमा पर छाया पड़ती है?",
+  "optsEn": [
+   "Lunar eclipse",
+   "Solar eclipse",
+   "Meteor shower",
+   "Planet transit"
+  ],
+  "optsHi": [
+   "चंद्र ग्रहण",
+   "सूर्य ग्रहण",
+   "उल्का बौछार",
+   "ग्रह पारगमन"
+  ],
+  "correct": 0,
+  "explainEn": "A lunar eclipse happens when Earth blocks direct sunlight from reaching the Moon.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:37Z"
+ },
+ {
+  "id": "q_08ac48ad1b946462",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific organ in the human respiratory system is responsible for exchanging oxygen and carbon dioxide with the blood?",
+  "qHi": "मानव श्वसन तंत्र का कौन सा विशिष्ट अंग रक्त के साथ ऑक्सीजन और कार्बन डाइऑक्साइड का आदान-प्रदान करने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Lungs",
+   "Heart",
+   "Liver",
+   "Kidney"
+  ],
+  "optsHi": [
+   "फेफड़े",
+   "हृदय",
+   "यकृत",
+   "गुर्दा"
+  ],
+  "correct": 0,
+  "explainEn": "Alveoli inside the lungs facilitate the exchange of oxygen and carbon dioxide with blood capillaries.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:37Z"
+ },
+ {
+  "id": "q_7dda4c9fbb1255fa",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of map primarily focuses on showing physical features such as mountains, plateaus, plains, and rivers?",
+  "qHi": "किस प्रकार का मानचित्र मुख्य रूप से पर्वत, पठार, मैदान और नदियाँ जैसी भौतिक विशेषताओं को दिखाने पर केंद्रित होता है?",
+  "optsEn": [
+   "Physical map",
+   "Political map",
+   "Thematic map",
+   "Road map"
+  ],
+  "optsHi": [
+   "भौतिक मानचित्र",
+   "राजनीतिक मानचित्र",
+   "थीमैटिक मानचित्र",
+   "सड़क मानचित्र"
+  ],
+  "correct": 0,
+  "explainEn": "Physical maps show natural features of the Earth like mountains, rivers, and elevations.",
+  "sourceHint": "NCERT Class 5 Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:37Z"
  }
 ]

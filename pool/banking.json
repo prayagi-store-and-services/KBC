@@ -14754,5 +14754,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-15T21:26:00Z"
+ },
+ {
+  "id": "q_7d3f53774af74354",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which type of bank account typically offers no interest on the deposited balance?",
+  "qHi": "किस प्रकार के बैंक खाते में आमतौर पर जमा शेष पर कोई ब्याज नहीं मिलता है?",
+  "optsEn": [
+   "Savings Account",
+   "Current Account",
+   "Fixed Deposit Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "बचत खाता",
+   "चालू खाता",
+   "सावधि जमा खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 1,
+  "explainEn": "Current accounts are designed for business purposes and generally do not provide any interest on the deposits.",
+  "sourceHint": "NCERT Business Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:34:08Z"
+ },
+ {
+  "id": "q_c53e4ced4773e86e",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'Repo Rate' mean?",
+  "qHi": "‘रेपो रेट’ का क्या अर्थ है?",
+  "optsEn": [
+   "Rate at which RBI lends money to commercial banks",
+   "Rate at which commercial banks lend to the public",
+   "Rate at which banks borrow from the public",
+   "Rate of inflation in the country"
+  ],
+  "optsHi": [
+   "वह दर जिस पर आरबीआई वाणिज्यिक बैंकों को ऋण देता है",
+   "वह दर जिस पर वाणिज्यिक बैंक जनता को ऋण देते हैं",
+   "वह दर जिस पर बैंक जनता से उधार लेते हैं",
+   "देश में मुद्रास्फीति की दर"
+  ],
+  "correct": 0,
+  "explainEn": "Repo rate is the interest rate at which the central bank (RBI) lends money to commercial banks in the event of any shortfall of funds.",
+  "sourceHint": "Reserve Bank of India Monetary Policy",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:34:08Z"
+ },
+ {
+  "id": "q_5751ee900357a513",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum number of digits in a Permanent Account Number (PAN) issued in India?",
+  "qHi": "भारत में जारी स्थायी खाता संख्या (PAN) में अधिकतम अंकों की संख्या कितनी होती है?",
+  "optsEn": [
+   "10",
+   "12",
+   "14",
+   "16"
+  ],
+  "optsHi": [
+   "10",
+   "12",
+   "14",
+   "16"
+  ],
+  "correct": 0,
+  "explainEn": "PAN is a ten-digit alphanumeric number issued in the form of a laminated card by the Income Tax Department.",
+  "sourceHint": "Income Tax Department of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:34:08Z"
+ },
+ {
+  "id": "q_6470cc03192b0d9e",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following bodies regulates Mutual Funds in India?",
+  "qHi": "भारत में म्यूचुअल फंड को निम्नलिखित में से कौन सा निकाय नियंत्रित करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India",
+   "Insurance Regulatory and Development Authority of India",
+   "Pension Fund Regulatory and Development Authority"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "भारतीय बीमा विनियामक और विकास प्राधिकरण",
+   "पेंशन फंड नियामक और विकास प्राधिकरण"
+  ],
+  "correct": 1,
+  "explainEn": "SEBI is the statutory regulatory body established in 1992 to protect the interests of investors in securities and to regulate the securities market, including mutual funds.",
+  "sourceHint": "SEBI Act, 1992",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:27Z"
+ },
+ {
+  "id": "q_749cb42c1363686d",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institution releases the 'Financial Stability Report' (FSR) in India?",
+  "qHi": "भारत में 'वित्तीय स्थिरता रिपोर्ट' (FSR) कौन सी संस्था जारी करती है?",
+  "optsEn": [
+   "Ministry of Finance",
+   "NITI Aayog",
+   "Reserve Bank of India",
+   "State Bank of India"
+  ],
+  "optsHi": [
+   "वित्त मंत्रालय",
+   "नीति आयोग",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय स्टेट बैंक"
+  ],
+  "correct": 2,
+  "explainEn": "The Financial Stability Report is a biannual publication released by the Reserve Bank of India reflecting the assessment of the Sub-Committee of the Financial Stability and Development Council on risks to financial stability.",
+  "sourceHint": "RBI Official Publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:27Z"
+ },
+ {
+  "id": "q_16e54e3c121a8716",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum limit of amount for a single transaction through the Immediate Payment Service (IMPS)?",
+  "qHi": "तत्काल भुगतान सेवा (IMPS) के माध्यम से एक एकल लेनदेन के लिए अधिकतम राशि की सीमा क्या है?",
+  "optsEn": [
+   "Rupees 1 Lakh",
+   "Rupees 2 Lakhs",
+   "Rupees 5 Lakhs",
+   "No upper limit"
+  ],
+  "optsHi": [
+   "1 लाख रुपये",
+   "2 लाख रुपये",
+   "5 लाख रुपये",
+   "कोई ऊपरी सीमा नहीं"
+  ],
+  "correct": 2,
+  "explainEn": "The Reserve Bank of India set the maximum per-transaction limit for IMPS at Rupees 5 Lakhs to facilitate safe and swift digital payments.",
+  "sourceHint": "NPCI Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:27Z"
+ },
+ {
+  "id": "q_d40243981be49860",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of risk refers to the potential loss arising from a bank's inability to meet its obligations as they come due without incurring unacceptable losses?",
+  "qHi": "किस प्रकार का जोखिम उस संभावित नुकसान को संदर्भित करता है जो अस्वीकार्य नुकसान उठाए बिना अपने दायित्वों को पूरा करने में बैंक की असमर्थता से उत्पन्न होता है?",
+  "optsEn": [
+   "Credit Risk",
+   "Market Risk",
+   "Liquidity Risk",
+   "Operational Risk"
+  ],
+  "optsHi": [
+   "क्रेडिट जोखिम",
+   "बाजार जोखिम",
+   "तरलता जोखिम",
+   "परिचालन जोखिम"
+  ],
+  "correct": 2,
+  "explainEn": "Liquidity risk is the risk that a bank may not have sufficient liquid assets to meet its financial obligations when they fall due.",
+  "sourceHint": "Basel III Guidelines / RBI Risk Management",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:27Z"
+ },
+ {
+  "id": "q_06b6b38af1bd825f",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the expanded form of the acronym 'NEFT' used in banking?",
+  "qHi": "बैंकिंग में प्रयुक्त संक्षिप्त नाम 'NEFT' का विस्तारित रूप क्या है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "New Electronic Financial Technology",
+   "National Exchange and Foreign Trade",
+   "Network for Electronic Fund Transactions"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "न्यू इलेक्ट्रॉनिक फाइनेंशियल टेक्नोलॉजी",
+   "नेशनल एक्सचेंज एंड फॉरेन ट्रेड",
+   "नेटवर्क फॉर इलेक्ट्रॉनिक फंड ट्रांजैक्शंस"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, an Indian centralized payment system owned and operated by the Reserve Bank of India.",
+  "sourceHint": "RBI Payment Systems",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:27Z"
  }
 ]

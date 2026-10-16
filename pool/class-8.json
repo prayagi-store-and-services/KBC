@@ -9406,5 +9406,481 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-15T21:25:28Z"
+ },
+ {
+  "id": "q_9f7c884a22c3be53",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the fundamental unit of life in all living organisms?",
+  "qHi": "सभी जीवित जीवों में जीवन की मौलिक इकाई क्या है?",
+  "optsEn": [
+   "Tissue",
+   "Organ",
+   "Cell",
+   "Organism"
+  ],
+  "optsHi": [
+   "ऊतक",
+   "अंग",
+   "कोशिका",
+   "जीव"
+  ],
+  "correct": 2,
+  "explainEn": "The cell is the basic structural and functional unit of all living organisms.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:33:45Z"
+ },
+ {
+  "id": "q_88b651b2d36bc194",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What do we call the process of conversion of sugar into alcohol by yeast?",
+  "qHi": "खमीर द्वारा चीनी को अल्कोहल में बदलने की प्रक्रिया को क्या कहते हैं?",
+  "optsEn": [
+   "Nitrogen fixation",
+   "Fermentation",
+   "Photosynthesis",
+   "Distillation"
+  ],
+  "optsHi": [
+   "नाइट्रोजन स्थिरीकरण",
+   "किण्वन",
+   "प्रकाश संश्लेषण",
+   "आसवन"
+  ],
+  "correct": 1,
+  "explainEn": "The process of conversion of sugar into alcohol by yeast is known as fermentation.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:33:45Z"
+ },
+ {
+  "id": "q_83747026bde2e1b7",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following describes the process of transfer of heat through the movement of heated fluid particles?",
+  "qHi": "गर्म तरल कणों की गति के माध्यम से ऊष्मा के स्थानांतरण की प्रक्रिया को निम्नलिखित में से कौन दर्शाता है?",
+  "optsEn": [
+   "Conduction",
+   "Convection",
+   "Radiation",
+   "Insulation"
+  ],
+  "optsHi": [
+   "चालन (Conduction)",
+   "संवहन (Convection)",
+   "विकिरण (Radiation)",
+   "रोधन (Insulation)"
+  ],
+  "correct": 1,
+  "explainEn": "Convection is the transfer of heat by the actual movement of particles in fluids (liquids and gases).",
+  "sourceHint": "NCERT Class 7 Science, Chapter on Heat",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:01Z"
+ },
+ {
+  "id": "q_8c9f7d2d0b6a47a3",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which imaginary line passing through the center of the Earth makes an angle of 66.5 degrees with its orbital plane?",
+  "qHi": "पृथ्वी के केंद्र से गुजरने वाली कौन सी काल्पनिक रेखा उसके कक्षीय तल के साथ 66.5 डिग्री का कोण बनाती है?",
+  "optsEn": [
+   "Equator",
+   "Axis of the Earth",
+   "Tropic of Cancer",
+   "Prime Meridian"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा",
+   "पृथ्वी का अक्ष",
+   "कर्क रेखा",
+   "प्रधान मध्याह्न रेखा"
+  ],
+  "correct": 1,
+  "explainEn": "The axis of the Earth is an imaginary line that makes an angle of 66.5 degrees with its orbital plane.",
+  "sourceHint": "NCERT Class 6 Geography, Chapter on Motions of the Earth",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:01Z"
+ },
+ {
+  "id": "q_b448af67b0896a2a",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of the Indian Parliament, what does the term Lok Sabha mean?",
+  "qHi": "भारतीय संसद के संदर्भ में, लोकसभा शब्द का क्या अर्थ है?",
+  "optsEn": [
+   "Council of States",
+   "House of the People",
+   "Supreme Court",
+   "Cabinet Secretariat"
+  ],
+  "optsHi": [
+   "राज्यों की परिषद",
+   "लोगों का सदन",
+   "सर्वोच्च न्यायालय",
+   "मंत्रिमंडल सचिवालय"
+  ],
+  "correct": 1,
+  "explainEn": "Lok Sabha translates to the House of the People, which is the lower house of the Parliament of India.",
+  "sourceHint": "NCERT Class 8 Civics, Chapter on Parliament and the Making of Laws",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:01Z"
+ },
+ {
+  "id": "q_57420a3a6096caf2",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which microorganisms are primarily responsible for converting milk into curd?",
+  "qHi": "दूध को दही में बदलने के लिए मुख्य रूप से कौन से सूक्ष्मजीव जिम्मेदार हैं?",
+  "optsEn": [
+   "Rhizobium",
+   "Lactobacillus",
+   "Yeast",
+   "Amoeba"
+  ],
+  "optsHi": [
+   "राइबोज़ियम",
+   "लैक्टोबैसिलस",
+   "यीस्ट",
+   "अमीबा"
+  ],
+  "correct": 1,
+  "explainEn": "Lactobacillus is the bacterium that multiplies in milk and converts it into curd.",
+  "sourceHint": "NCERT Class 8 Science, Chapter on Microorganisms: Friend and Foe",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:01Z"
+ },
+ {
+  "id": "q_cf0e36c4b360887a",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following non-metals is liquid at room temperature?",
+  "qHi": "निम्नलिखित में से कौन सी अधातु कमरे के तापमान पर तरल होती है?",
+  "optsEn": [
+   "Carbon",
+   "Bromine",
+   "Iodine",
+   "Sulphur"
+  ],
+  "optsHi": [
+   "कार्बन",
+   "ब्रोमीन",
+   "आयोडीन",
+   "सल्फर"
+  ],
+  "correct": 1,
+  "explainEn": "Bromine is the only non-metal that exists as a liquid at room temperature.",
+  "sourceHint": "NCERT Class 8 Science, Chapter on Materials: Metals and Non-Metals",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:01Z"
+ },
+ {
+  "id": "q_421bf6be7fbeb7e4",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of agricultural practice involves growing two or more crops simultaneously on the same piece of land in a definite pattern?",
+  "qHi": "किस प्रकार की कृषि पद्धति में एक ही भूमि के टुकड़े पर एक निश्चित पैटर्न में एक साथ दो या दो से अधिक फसलें उगाना शामिल है?",
+  "optsEn": [
+   "Crop rotation",
+   "Intercropping",
+   "Fallowing",
+   "Monoculture"
+  ],
+  "optsHi": [
+   "फसल चक्र",
+   "अंतर फसलन (Intercropping)",
+   "परती छोड़ना",
+   "एकल कृषि"
+  ],
+  "correct": 1,
+  "explainEn": "Intercropping involves growing two or more crops simultaneously on the same field in a definite row pattern.",
+  "sourceHint": "NCERT Class 8 Science, Chapter on Crop Production and Management",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:01Z"
+ },
+ {
+  "id": "q_c350194352a715f4",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which term is used to describe species of plants and animals that are found exclusively in a particular area?",
+  "qHi": "पौधे और जंतुओं की उन प्रजातियों का वर्णन करने के लिए किस शब्द का उपयोग किया जाता है जो विशेष रूप से किसी विशेष क्षेत्र में पाई जाती हैं?",
+  "optsEn": [
+   "Migratory species",
+   "Endemic species",
+   "Extinct species",
+   "Exotic species"
+  ],
+  "optsHi": [
+   "प्रवासी प्रजातियाँ",
+   "स्थानिक प्रजातियाँ (Endemic species)",
+   "विलुप्त प्रजातियाँ",
+   "विदेशी प्रजातियाँ"
+  ],
+  "correct": 1,
+  "explainEn": "Endemic species are plants and animals that are found exclusively in a particular geographical zone.",
+  "sourceHint": "NCERT Class 8 Science, Chapter on Conservation of Plants and Animals",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:01Z"
+ },
+ {
+  "id": "q_f6eba55fffc027ad",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which administrative official was appointed by the British East India Company to reside in Indian states after the subsidiary alliance system was imposed?",
+  "qHi": "सहायक संधि प्रणाली लागू होने के बाद भारतीय राज्यों में निवास करने के लिए ब्रिटिश ईस्ट इंडिया कंपनी द्वारा किस प्रशासनिक अधिकारी को नियुक्त किया गया था?",
+  "optsEn": [
+   "Governor-General",
+   "Viceroy",
+   "Resident",
+   "Secretary of State"
+  ],
+  "optsHi": [
+   "गवर्नर-जनरल",
+   "वायसराय",
+   "रेजिडेंट",
+   "सेक्रेटरी ऑफ़ स्टेट"
+  ],
+  "correct": 2,
+  "explainEn": "Under the subsidiary alliance system, the British stationed a Resident in the courts of the allied Indian rulers.",
+  "sourceHint": "NCERT Class 8 History, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:42Z"
+ },
+ {
+  "id": "q_590159665ac24fd1",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which imaginary line of latitude passes almost halfway through the territory of India?",
+  "qHi": "अक्षांश की कौन सी काल्पनिक रेखा भारत के लगभग बीचों-बीच से गुजरती है?",
+  "optsEn": [
+   "Equator",
+   "Tropic of Cancer",
+   "Tropic of Capricorn",
+   "Prime Meridian"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा",
+   "कर्क रेखा",
+   "मकर रेखा",
+   "प्रमुख याम्योत्तर"
+  ],
+  "correct": 1,
+  "explainEn": "The Tropic of Cancer (23°30' N) passes almost through the middle of the country.",
+  "sourceHint": "NCERT Class 8 Geography, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:42Z"
+ },
+ {
+  "id": "q_d6b7e030e6510aa6",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which type of resource is formed over millions of years from the remains of dead plants and animals?",
+  "qHi": "मृत पौधों और जंतुओं के अवशेषों से लाखों वर्षों में किस प्रकार के संसाधन का निर्माण होता है?",
+  "optsEn": [
+   "Biotic renewable resource",
+   "Fossil fuel",
+   "Metallic mineral",
+   "Potential resource"
+  ],
+  "optsHi": [
+   "जैविक नवीकरणीय संसाधन",
+   "जीवाश्म ईधन",
+   "धात्विक खनिज",
+   "संभाव्य संसाधन"
+  ],
+  "correct": 1,
+  "explainEn": "Coal, petroleum and natural gas are fossil fuels formed from the remains of ancient organisms over millions of years.",
+  "sourceHint": "NCERT Class 8 Geography, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:42Z"
+ },
+ {
+  "id": "q_f8a08e4e836be45a",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the Indian judiciary, what does the term 'appellate jurisdiction' mean?",
+  "qHi": "भारतीय न्यायपालिका के संदर्भ में, 'अपीलीय क्षेत्राधिकार' शब्द का क्या अर्थ है?",
+  "optsEn": [
+   "Power to hear cases directly without any trial",
+   "Power to review laws passed by the Parliament",
+   "Power to hear appeals against the decisions of lower courts",
+   "Power to advise the President on legal matters"
+  ],
+  "optsHi": [
+   "बिना किसी मुकदमे के सीधे मामले सुनने की शक्ति",
+   "संसद द्वारा पारित कानूनों की समीक्षा करने की शक्ति",
+   "निचले अदालतों के फैसलों के खिलाफ अपील सुनने की शक्ति",
+   "कानूनी मामलों पर राष्ट्रपति को सलाह देने की शक्ति"
+  ],
+  "correct": 2,
+  "explainEn": "Appellate jurisdiction means the power of a higher court to hear appeals and review judgments of lower courts.",
+  "sourceHint": "NCERT Class 8 Civics, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:42Z"
+ },
+ {
+  "id": "q_180619e30dd91222",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which term describes the practice of keeping one's religion distinct from state affairs in Indian democracy?",
+  "qHi": "भारतीय लोकतंत्र में अपने धर्म को राज्य के मामलों से अलग रखने की प्रथा को कौन सा शब्द वर्णित करता है?",
+  "optsEn": [
+   "Secularism",
+   "Federalism",
+   "Universal adult suffrage",
+   "Totalitarianism"
+  ],
+  "optsHi": [
+   "धर्मनिरपेक्षता",
+   "संघवाद",
+   "सार्वभौमिक वयस्क मताधिकार",
+   "कुलतंत्र"
+  ],
+  "correct": 0,
+  "explainEn": "Secularism refers to the separation of religion from the state.",
+  "sourceHint": "NCERT Class 8 Civics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:42Z"
+ },
+ {
+  "id": "q_cd280e2768aa9072",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional Indian textile technique involves resisting dye on fabric by tying portions of it with thread before dyeing?",
+  "qHi": "पारंपरिक भारतीय वस्त्र तकनीक में से किसमें रंगने से पहले कपड़े के कुछ हिस्सों को धागे से बांधकर डाई को रोकने की प्रक्रिया शामिल है?",
+  "optsEn": [
+   "Kalamkari",
+   "Jamdani",
+   "Bandhana",
+   "Pochampally"
+  ],
+  "optsHi": [
+   "कलमकारी",
+   "जामदानी",
+   "बांधना",
+   "पोचमपल्ली"
+  ],
+  "correct": 2,
+  "explainEn": "Bandhana (or Bandhani) refers to brightly colored fabrics produced through a method of tying and dyeing.",
+  "sourceHint": "NCERT Class 8 History, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:42Z"
+ },
+ {
+  "id": "q_0ec58b5d3b857560",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of farming involves growing crops and rearing animals for the primary purpose of meeting the family's needs?",
+  "qHi": "किस प्रकार की कृषि में मुख्य रूप से परिवार की आवश्यकताओं को पूरा करने के उद्देश्य से फसलें उगाना और पशु पालना शामिल है?",
+  "optsEn": [
+   "Commercial agriculture",
+   "Subsistence farming",
+   "Plantation agriculture",
+   "Extensive agriculture"
+  ],
+  "optsHi": [
+   "वाणिज्यिक कृषि",
+   "निर्वाह कृषि",
+   "रोपण कृषि",
+   "विस्तृत कृषि"
+  ],
+  "correct": 1,
+  "explainEn": "Subsistence farming is practiced to meet the needs of the farmer's family, with little or no surplus for sale.",
+  "sourceHint": "NCERT Class 8 Geography, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:42Z"
+ },
+ {
+  "id": "q_d321f41306fcef4e",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Fundamental Right in the Indian Constitution guarantees protection against exploitation, including forced labor?",
+  "qHi": "भारतीय संविधान में कौन सा मौलिक अधिकार जबरन श्रम सहित शोषण के खिलाफ सुरक्षा की गारंटी देता है?",
+  "optsEn": [
+   "Right to Equality",
+   "Right to Freedom",
+   "Right against Exploitation",
+   "Right to Constitutional Remedies"
+  ],
+  "optsHi": [
+   "समानता का अधिकार",
+   "स्वतंत्रता का अधिकार",
+   "शोषण के खिलाफ अधिकार",
+   "संवैधानिक उपचार का अधिकार"
+  ],
+  "correct": 2,
+  "explainEn": "The Right against Exploitation prohibits human trafficking, forced labor (begar), and employment of children below 14 years.",
+  "sourceHint": "NCERT Class 8 Civics, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-16T04:35:42Z"
  }
 ]
