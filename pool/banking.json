@@ -16182,5 +16182,425 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-17T04:30:57Z"
+ },
+ {
+  "id": "q_958b1bdf888db61e",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of account typically offers no interest but provides high liquidity for frequent transactions?",
+  "qHi": "किस प्रकार के खाते में आमतौर पर कोई ब्याज नहीं मिलता है लेकिन बार-बार लेनदेन के लिए उच्च तरलता मिलती है?",
+  "optsEn": [
+   "Savings Account",
+   "Current Account",
+   "Fixed Deposit Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "बचत खाता",
+   "चालू खाता",
+   "सावधि जमा खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 1,
+  "explainEn": "Current accounts are meant for businesses and commercial entities, offering high liquidity with generally zero interest.",
+  "sourceHint": "Indian Banking Fundamentals",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:46:27Z"
+ },
+ {
+  "id": "q_022a743248c3fee0",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which institution provides refinance facilities to agricultural and rural development sectors in India?",
+  "qHi": "भारत में कृषि और ग्रामीण विकास क्षेत्रों के लिए कौन सी संस्था पुनर्वित्त सुविधा प्रदान करती है?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "NHB"
+  ],
+  "optsHi": [
+   "सिडबी",
+   "नाबार्ड",
+   "एक्ज़िम बैंक",
+   "एनएचबी"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) is an apex development bank focusing on agriculture and rural sectors.",
+  "sourceHint": "NABARD Act, 1981",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:46:27Z"
+ },
+ {
+  "id": "q_cca945024b73cffc",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following entities issues currency notes in India on behalf of the Central Government?",
+  "qHi": "निम्नलिखित में से कौन सी इकाई केंद्र सरकार की ओर से भारत में करेंसी नोट जारी करती है?",
+  "optsEn": [
+   "State Bank of India",
+   "Ministry of Finance",
+   "Reserve Bank of India",
+   "Comptroller and Auditor General"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "वित्त मंत्रालय",
+   "भारतीय रिजर्व बैंक",
+   "नियंत्रक और महालेखा परीक्षक"
+  ],
+  "correct": 2,
+  "explainEn": "Under Section 22 of the RBI Act, the Reserve Bank of India has the sole right to issue bank notes in India.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:46:27Z"
+ },
+ {
+  "id": "q_b7c8c0e4caa2b742",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which instrument is used by the Reserve Bank of India to absorb liquidity from the banking system by selling government securities without transferring their ownership permanently?",
+  "qHi": "बैंकिंग प्रणाली से सरकारी प्रतिभूतियों को बेचकर बिना उनका स्वामित्व स्थायी रूप से स्थानांतरित किए तरलता को अवशोषित करने के लिए भारतीय रिजर्व बैंक द्वारा किस उपकरण का उपयोग किया जाता है?",
+  "optsEn": [
+   "Repo Rate",
+   "Reverse Repo Rate",
+   "Cash Reserve Ratio",
+   "Market Stabilization Scheme"
+  ],
+  "optsHi": [
+   "रेपो रेट",
+   "रिवर्स रेपो रेट",
+   "नकद आरक्षित अनुपात",
+   "बाजार स्थिरीकरण योजना"
+  ],
+  "correct": 3,
+  "explainEn": "The Market Stabilization Scheme (MSS) was introduced to absorb structural liquidity of a more permanent nature arising from large capital inflows through the sale of short-dated government securities and Treasury bills.",
+  "sourceHint": "RBI Publications and Monetary Policy Framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:47:24Z"
+ },
+ {
+  "id": "q_c621bfb95f8bcf4c",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the term 'Basel III' primarily refer to in the context of the banking sector?",
+  "qHi": "बैंकिंग क्षेत्र के संदर्भ में 'बेसल III' शब्द मुख्य रूप से किससे संबंधित है?",
+  "optsEn": [
+   "International regulatory framework on bank capital adequacy, stress testing, and market liquidity risk",
+   "Global accounting standards for cross-border mergers and acquisitions of financial institutions",
+   "A set of cybersecurity guidelines for retail online banking operations",
+   "Guidelines for establishing foreign bank branches in developing nations"
+  ],
+  "optsHi": [
+   "बैंक पूंजी पर्याप्तता, तनाव परीक्षण और बाजार तरलता जोखिम पर अंतर्राष्ट्रीय विनियामक ढांचा",
+   "वित्तीय संस्थानों के सीमा पार विलय और अधिग्रहण के लिए वैश्विक लेखा मानक",
+   "खुदरा ऑनलाइन बैंकिंग संचालन के लिए साइबर सुरक्षा दिशानिर्देशों का एक सेट",
+   "विकासशील देशों में विदेशी बैंक शाखाएं स्थापित करने के लिए दिशानिर्देश"
+  ],
+  "correct": 0,
+  "explainEn": "Basel III is a globally agreed regulatory framework developed by the Basel Committee on Banking Supervision (BCBS) to strengthen bank capital requirements and introduce new regulatory requirements on bank liquidity and bank leverage.",
+  "sourceHint": "Bank for International Settlements (BIS)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:47:24Z"
+ },
+ {
+  "id": "q_525a35ffab2d636e",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India regulates and supervises microfinance institutions organized as Non-Banking Financial Companies (NBFC-MFIs)?",
+  "qHi": "भारत में गैर-बैंकिंग वित्तीय कंपनियों (NBFC-MFIs) के रूप में संगठित सूक्ष्म वित्त संस्थानों को कौन सा संगठन विनियमित और पर्यवेक्षण करता है?",
+  "optsEn": [
+   "Securities and Exchange Board of India",
+   "Reserve Bank of India",
+   "National Bank for Agriculture and Rural Development",
+   "Small Industries Development Bank of India"
+  ],
+  "optsHi": [
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "भारतीय रिजर्व बैंक",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक",
+   "भारतीय लघु उद्योग विकास बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "Reserve Bank of India regulates all NBFCs, including microfinance institutions registered as NBFCs, ensuring compliance with capital adequacy and lending norms.",
+  "sourceHint": "RBI Master Directions on NBFC-MFI",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:47:24Z"
+ },
+ {
+  "id": "q_f7e4d6a015cdd243",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of the Prompt Corrective Action (PCA) framework implemented by the Reserve Bank of India for commercial banks?",
+  "qHi": "वाणिज्यिक बैंकों के लिए भारतीय रिजर्व बैंक द्वारा कार्यान्वित त्वरित सुधार कार्रवाई (PCA) ढांचे का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To monitor and intervene early in banks showing signs of financial stress regarding capital, asset quality, and profitability",
+   "To manage the foreign exchange reserves and prevent volatility in the rupee exchange rate",
+   "To oversee the nationwide rollout of digital currency and blockchain infrastructure",
+   "To handle rural credit disbursement targets for priority sector lending"
+  ],
+  "optsHi": [
+   "पूंजी, संपत्ति की गुणवत्ता और लाभनिता के संबंध में वित्तीय तनाव के लक्षण दिखाने वाले बैंकों की निगरानी करना और उनमें शीघ्र हस्तक्षेप करना",
+   "विदेशी मुद्रा भंडार का प्रबंधन करना और रुपये के विनिमय दर में उतार-चढ़ाव को रोकना",
+   "डिजिटल मुद्रा और ब्लॉकचेन बुनियादी ढांचे के देशव्यापी विस्तार की देखरेख करना",
+   "प्राथमिकता प्राप्त क्षेत्र को ऋण वितरण के ग्रामीण लक्ष्यों को संभालना"
+  ],
+  "correct": 0,
+  "explainEn": "The PCA framework enables the RBI to supervise and take remedial measures on financially weak banks based on parameters like capital adequacy ratio, non-performing assets, and profitability.",
+  "sourceHint": "RBI Guidelines on PCA Framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:47:24Z"
+ },
+ {
+  "id": "q_79008c7bb1f58f30",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of international trade finance, what document represents a receipt of goods issued by a carrier and acts as a document of title?",
+  "qHi": "अंतर्राष्ट्रीय व्यापार वित्त के संदर्भ में, कौन सा दस्तावेज वाहक द्वारा जारी किए गए माल की रसीद का प्रतिनिधित्व करता है और शीर्षक के दस्तावेज के रूप में कार्य करता है?",
+  "optsEn": [
+   "Letter of Credit",
+   "Bill of Lading",
+   "Certificate of Origin",
+   "Commercial Invoice"
+  ],
+  "optsHi": [
+   "लेटर ऑफ क्रेडिट",
+   "बिल ऑफ लैडिंग",
+   "उत्पत्ति प्रमाण पत्र",
+   "वाणिज्यिक चालान"
+  ],
+  "correct": 1,
+  "explainEn": "A Bill of Lading (BoL) is a legal document issued by a shipping carrier to a shipper that details the type, quantity, and destination of the goods being carried, and serves as a title document.",
+  "sourceHint": "Uniform Customs and Practice for Documentary Credits (UCPDC)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:47:24Z"
+ },
+ {
+  "id": "q_c017484dd83911b7",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which interest rate acts as the benchmark rate at which the Reserve Bank of India lends funds to commercial banks overnight against government securities under the Liquidity Adjustment Facility?",
+  "qHi": "कौन सी ब्याज दर वह बेंचमार्क दर है जिस पर भारतीय रिजर्व बैंक तरलता समायोजन सुविधा के तहत सरकारी प्रतिभूतियों के मुकाबले वाणिज्यिक बैंकों को रातों-रात धन उधार देता है?",
+  "optsEn": [
+   "Bank Rate",
+   "Repo Rate",
+   "SDR Rate",
+   "Base Rate"
+  ],
+  "optsHi": [
+   "बैंक रेट",
+   "रेपो रेट",
+   "एसडीआर रेट",
+   "बेस रेट"
+  ],
+  "correct": 1,
+  "explainEn": "Repo rate is the rate at which the central bank of a country lends money to commercial banks in the event of any shortfall of funds under the Liquidity Adjustment Facility.",
+  "sourceHint": "RBI Monetary Policy Report",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:47:24Z"
+ },
+ {
+  "id": "q_c0742f9c99aeb6b5",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the 'C' stand for in the financial acronym 'CASA' account widely used in Indian banking?",
+  "qHi": "भारतीय बैंकिंग में व्यापक रूप से उपयोग किए जाने वाले वित्तीय संक्षिप्त नाम 'CASA' खाते में 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Capital",
+   "Current",
+   "Credit",
+   "Collateral"
+  ],
+  "optsHi": [
+   "पूंजी",
+   "करेंट (चालू)",
+   "क्रेडिट",
+   "संपार्श्विक"
+  ],
+  "correct": 1,
+  "explainEn": "CASA stands for Current Account Savings Account, representing the bank deposits that combine current and savings account balances, typically offering lower interest rates to the bank.",
+  "sourceHint": "Banking Operations and Practice Textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:47:24Z"
+ },
+ {
+  "id": "q_9af5ddd92f2e2d04",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of international banking standards, what does the 'Numerator' represent in the Common Equity Tier 1 (CET1) capital ratio calculation under Basel III norms?",
+  "qHi": "अंतर्राष्ट्रीय बैंकिंग मानकों के संदर्भ में, बेसल III मानदंडों के तहत कॉमन इक्विटी टियर 1 (CET1) पूंजी अनुपात की गणना में 'अंश' (Numerator) क्या दर्शाता है?",
+  "optsEn": [
+   "Total Risk-Weighted Assets",
+   "Common Equity Tier 1 Capital after all regulatory adjustments",
+   "Total Tier 2 Capital plus Tier 1 Capital",
+   "Average Liquidity Coverage Ratio"
+  ],
+  "optsHi": [
+   "कुल जोखिम-भारित संपत्तियां",
+   "सभी नियामक समायोजनों के बाद कॉमन इक्विटी टियर 1 पूंजी",
+   "कुल टियर 2 पूंजी और टियर 1 पूंजी",
+   "औसत तरलता कवरेज अनुपात"
+  ],
+  "correct": 1,
+  "explainEn": "The CET1 capital ratio is calculated as CET1 capital divided by total risk-weighted assets (RWA). The numerator is CET1 capital after regulatory deductions.",
+  "sourceHint": "Basel III guidelines by the Basel Committee on Banking Supervision (BCBS)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:48:26Z"
+ },
+ {
+  "id": "q_e594f874d3686fd5",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific money market instrument in India is issued as a promissory note and has a maturity period of not less than 7 days and not more than one year?",
+  "qHi": "भारत में कौन सा विशिष्ट मुद्रा बाजार साधन एक वचन पत्र (promissory note) के रूप में जारी किया जाता है और इसकी परिपक्वता अवधि 7 दिन से कम और एक वर्ष से अधिक नहीं होती है?",
+  "optsEn": [
+   "Treasury Bill",
+   "Commercial Paper",
+   "Certificate of Deposit",
+   "Cash Management Bill"
+  ],
+  "optsHi": [
+   "राजकोषीय बिल (Treasury Bill)",
+   "वाणिज्यिक पत्र (Commercial Paper)",
+   "साझा जमा प्रमाणपत्र (Certificate of Deposit)",
+   "नकद प्रबंधन बिल (Cash Management Bill)"
+  ],
+  "correct": 1,
+  "explainEn": "Commercial Paper (CP) is an unsecured money market instrument issued in the form of a promissory note with a maturity of 7 days to one year.",
+  "sourceHint": "RBI Guidelines on Money Market Instruments",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:48:26Z"
+ },
+ {
+  "id": "q_aea951939c65cb1d",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, which section defines a 'Cheque' as a bill of exchange drawn on a specified banker and not expressed to be payable otherwise than on demand?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, कौन सी धारा एक 'चेक' को एक निर्दिष्ट बैंकर पर तैयार किए गए विनिमय पत्र के रूप में परिभाषित करती है जो मांग पर भुगतान करने के अलावा अन्य रूप से देय नहीं है?",
+  "optsEn": [
+   "Section 5",
+   "Section 6",
+   "Section 13",
+   "Section 25"
+  ],
+  "optsHi": [
+   "धारा 5",
+   "धारा 6",
+   "धारा 13",
+   "धारा 25"
+  ],
+  "correct": 1,
+  "explainEn": "Section 6 of the Negotiable Instruments Act, 1881 defines a cheque as a bill of exchange drawn on a specified banker and payable only on demand.",
+  "sourceHint": "The Negotiable Instruments Act, 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:48:26Z"
+ },
+ {
+  "id": "q_903d90e7dc0896bc",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organization in India acts as the central nodal agency responsible for providing refinancing facilities to regional rural banks and cooperative banks for agricultural and rural development?",
+  "qHi": "भारत में कौन सा संगठन कृषि और ग्रामीण विकास के लिए क्षेत्रीय ग्रामीण बैंकों और सहकारी बैंकों को पुनर्वित्त सुविधाएं प्रदान करने के लिए जिम्मेदार केंद्रीय नोडल एजेंसी के रूप में कार्य करता है?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "NHB"
+  ],
+  "optsHi": [
+   "सिडबी (SIDBI)",
+   "नाबार्ड (NABARD)",
+   "एक्ज़िम बैंक (EXIM Bank)",
+   "राष्ट्रीय आवास बैंक (NHB)"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) was established to provide refinancing for agricultural and rural development in India.",
+  "sourceHint": "NABARD Act, 1981 / Reserve Bank of India publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:48:26Z"
+ },
+ {
+  "id": "q_5ce5adc87de2bb16",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of corporate finance and banking, what does 'EBITDA' stand for?",
+  "qHi": "कॉर्पोरेट वित्त और बैंकिंग के संदर्भ में, 'EBITDA' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Earnings Before Interest, Taxes, Depreciation, and Amortization",
+   "Equity Based Income Tax and Dividend Allocation",
+   "Economic Benefits Including Tax Deductions and Asset valuation",
+   "Estimated Borrowing Interest Tier and Debt Assessment"
+  ],
+  "optsHi": [
+   "ब्याज, कर, मूल्यह्रास और परिशोधन से पहले की कमाई",
+   "इक्विटी आधारित आयकर और लाभांश आवंटन",
+   "कर कटौती और संपत्ति मूल्यांकन सहित आर्थिक लाभ",
+   "अनुमानित उधार ब्याज स्तर और ऋण मूल्यांकन"
+  ],
+  "correct": 0,
+  "explainEn": "EBITDA stands for Earnings Before Interest, Taxes, Depreciation, and Amortization, a widely used metric to evaluate a company's operating profitability.",
+  "sourceHint": "Standard Financial Accounting and Corporate Finance Principles",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:48:26Z"
  }
 ]

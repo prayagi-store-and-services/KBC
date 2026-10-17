@@ -10946,5 +10946,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-17T04:31:01Z"
+ },
+ {
+  "id": "q_7513b4754f67cdb0",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which musical instrument did Pandit Ravi Shankar famously play?",
+  "qHi": "पंडित रविशंकर कौन सा वाद्य यंत्र बजाने के लिए प्रसिद्ध थे?",
+  "optsEn": [
+   "Sitar",
+   "Flute",
+   "Tabla",
+   "Sarod"
+  ],
+  "optsHi": [
+   "सतार",
+   "बांसुरी",
+   " tabla",
+   "सरोद"
+  ],
+  "correct": 0,
+  "explainEn": "Pandit Ravi Shankar was an Indian musician who made the sitar prominent all over the world.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:46:31Z"
+ },
+ {
+  "id": "q_71958551b0183663",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which year did the Reserve Bank of India commence its operations?",
+  "qHi": "भारतीय रिजर्व बैंक ने किस वर्ष अपना संचालन शुरू किया था?",
+  "optsEn": [
+   "1935",
+   "1947",
+   "1950",
+   "1955"
+  ],
+  "optsHi": [
+   "1935",
+   "1947",
+   "1950",
+   "1955"
+  ],
+  "correct": 0,
+  "explainEn": "The Reserve Bank of India was established on April 1, 1935, in accordance with the Reserve Bank of India Act, 1934.",
+  "sourceHint": "Reserve Bank of India Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:47:28Z"
+ },
+ {
+  "id": "q_7e25b182016580a6",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian monument was built by Mughal Emperor Shah Jahan as a mausoleum for his wife Mumtaz Mahal?",
+  "qHi": "मुगल सम्राट शाहजहाँ ने अपनी पत्नी मुमताज महल के मकबरे के रूप में किस भारतीय स्मारक का निर्माण करवाया था?",
+  "optsEn": [
+   "Qutub Minar",
+   "Taj Mahal",
+   "Humayun Tomb",
+   "Red Fort"
+  ],
+  "optsHi": [
+   "कुतुब मीनार",
+   "ताजमहल",
+   "हुमायूं का मकबरा",
+   "लाल किला"
+  ],
+  "correct": 1,
+  "explainEn": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:47:28Z"
  }
 ]

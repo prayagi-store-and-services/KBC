@@ -10218,5 +10218,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-17T04:28:51Z"
+ },
+ {
+  "id": "q_428a83c265abf980",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the name of the upper layer of the Earth's crust that supports plant growth?",
+  "qHi": "पृथ्वी की पपड़ी की ऊपरी परत का क्या नाम है जो पौधों की वृद्धि में सहायता करती है?",
+  "optsEn": [
+   "Magma",
+   "Soil",
+   "Core",
+   "Mantle"
+  ],
+  "optsHi": [
+   "मैग्मा",
+   "मिट्टी",
+   "क्रोड",
+   "मेंटल"
+  ],
+  "correct": 1,
+  "explainEn": "Soil is the thin layer of grainy substance covering the surface of the earth, vital for plant growth.",
+  "sourceHint": "NCERT Class 8 Geography Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:46:39Z"
+ },
+ {
+  "id": "q_b2c072190ac23623",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which natural phenomenon is caused by the sudden shaking of the Earth's crust?",
+  "qHi": "पृथ्वी की पपड़ी के अचानक हिलने से कौन सी प्राकृतिक घटना होती है?",
+  "optsEn": [
+   "Earthquake",
+   "Cyclone",
+   "Flood",
+   "Drought"
+  ],
+  "optsHi": [
+   "भूकंप",
+   "चक्रवात",
+   "बाढ़",
+   "सूखा"
+  ],
+  "correct": 0,
+  "explainEn": "An earthquake is a sudden vibration or shaking of the earth caused by movement deep inside the earth's crust.",
+  "sourceHint": "NCERT Class 7 Geography Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:46:39Z"
+ },
+ {
+  "id": "q_5dcebe6ab46bc748",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which Indian state is the Kaziranga National Park located, which is famous for the one-horned rhinoceros?",
+  "qHi": "काजीरंगा राष्ट्रीय उद्यान, जो एक सींग वाले गैंडे के लिए प्रसिद्ध है, किस भारतीय राज्य में स्थित है?",
+  "optsEn": [
+   "Uttarakhand",
+   "Gujarat",
+   "Assam",
+   "Madhya Pradesh"
+  ],
+  "optsHi": [
+   "उत्तराखंड",
+   "गुजरात",
+   "असम",
+   "मध्य प्रदेश"
+  ],
+  "correct": 2,
+  "explainEn": "Kaziranga National Park is located in the state of Assam and hosts a large population of the great Indian one-horned rhinoceros.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:47:37Z"
+ },
+ {
+  "id": "q_e4b62cbcbbd745ef",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which battle fought in 1757 marked the consolidation of British political power in India?",
+  "qHi": "1757 में लड़ी गई किस लड़ाई ने भारत में ब्रिटिश राजनीतिक सत्ता की नींव मजबूत की?",
+  "optsEn": [
+   "Battle of Buxar",
+   "Battle of Plassey",
+   "Third Battle of Panipat",
+   "Battle of Haldighati"
+  ],
+  "optsHi": [
+   "बक्सर का युद्ध",
+   "प्लासी का युद्ध",
+   "पानीपत का तीसरा युद्ध",
+   "हल्दीघाटी का युद्ध"
+  ],
+  "correct": 1,
+  "explainEn": "The Battle of Plassey in 1757, won by the British East India Company under Robert Clive, is widely regarded as the starting point of British rule in India.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:47:37Z"
+ },
+ {
+  "id": "q_9cb1899fec3ab2d6",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which layer of the atmosphere contains the ozone layer that protects living organisms from harmful ultraviolet radiation?",
+  "qHi": "वायुमंडल की किस परत में ओजोन परत पाई जाती है जो जीवों को हानिकारक पराबैंगनी विकिरण से बचाती है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षوب मंडल",
+   "समताप मंडल",
+   "मध्य मंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The ozone layer is primarily found in the lower portion of the stratosphere, absorbing harmful ultraviolet rays from the Sun.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:47:37Z"
  }
 ]

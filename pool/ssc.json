@@ -10246,5 +10246,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-17T04:30:50Z"
+ },
+ {
+  "id": "q_79385e2ad3963ae3",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which vitamin is abundantly available in citrus fruits like oranges and lemons?",
+  "qHi": "संतरे और नींबू जैसे खट्टे फलों में कौन सा विटामिन प्रचुर मात्रा में पाया जाता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 2,
+  "explainEn": "Citrus fruits are well-known rich sources of ascorbic acid, commonly known as Vitamin C.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:46:21Z"
+ },
+ {
+  "id": "q_291f448f41079016",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary gas found in the Earth's atmosphere?",
+  "qHi": "पृथ्वी के वायुमंडल में पाई जाने वाली मुख्य गैस कौन सी है?",
+  "optsEn": [
+   "Oxygen",
+   "Nitrogen",
+   "Carbon Dioxide",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "कार्बन डाइऑक्साइड",
+   "आर्गन"
+  ],
+  "correct": 1,
+  "explainEn": "Nitrogen makes up about 78 percent of Earth's atmosphere by volume.",
+  "sourceHint": "NCERT Geography Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:46:21Z"
+ },
+ {
+  "id": "q_2e099eb56ad9dcca",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which national highway is known as the historical Grand Trunk Road in India?",
+  "qHi": "भारत में किस राष्ट्रीय राजमार्ग को ऐतिहासिक ग्रांड ट्रंक रोड के रूप में जाना जाता है?",
+  "optsEn": [
+   "NH 44",
+   "NH 1 and NH 2",
+   "NH 8",
+   "NH 27"
+  ],
+  "optsHi": [
+   "राष्ट्रीय राजमार्ग 44",
+   "राष्ट्रीय राजमार्ग 1 और 2",
+   "राष्ट्रीय राजमार्ग 8",
+   "राष्ट्रीय राजमार्ग 27"
+  ],
+  "correct": 1,
+  "explainEn": "The historic Grand Trunk Road spans the routes covered by National Highway 1 (Delhi to Amritsar) and National Highway 2 (Delhi to Kolkata).",
+  "sourceHint": "NCERT Geography Class 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:47:18Z"
+ },
+ {
+  "id": "q_900ce13921b787ba",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following writs is issued by a higher court to a lower court to prevent excess of jurisdiction?",
+  "qHi": "अधिकार क्षेत्र से अधिक कार्य करने को रोकने के लिए उच्च न्यायालय द्वारा निचली अदालत को निम्नलिखित में से कौन सी रिट जारी की जाती है?",
+  "optsEn": [
+   "Habeas Corpus",
+   "Mandamus",
+   "Prohibition",
+   "Quo-Warranto"
+  ],
+  "optsHi": [
+   "बंदी प्रत्यक्षीकरण",
+   "परमादेश",
+   "प्रतिषेध",
+   "अधिकार पृच्छा"
+  ],
+  "correct": 2,
+  "explainEn": "The writ of Prohibition is issued by a higher court to a lower court or tribunal to prevent them from exceeding their jurisdiction.",
+  "sourceHint": "Indian Polity by M. Laxmikanth",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:47:18Z"
+ },
+ {
+  "id": "q_d54b4c63ad17a28b",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Nokrek Biosphere Reserve is located in which Indian state?",
+  "qHi": "नोकरेक बायोस्फीयर रिजर्व किस भारतीय राज्य में स्थित है?",
+  "optsEn": [
+   "Assam",
+   "Meghalaya",
+   "Sikkim",
+   "Arunachal Pradesh"
+  ],
+  "optsHi": [
+   "असम",
+   "मेघालय",
+   "सिक्किम",
+   "अरुणाचल प्रदेश"
+  ],
+  "correct": 1,
+  "explainEn": "Nokrek Biosphere Reserve is located in the Garo Hills district of Meghalaya and is also a UNESCO World Heritage site.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:47:18Z"
+ },
+ {
+  "id": "q_cbf18f494d4a200e",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "The 'Barak Valley', known for tea cultivation and swamp forests, is situated in which state of India?",
+  "qHi": "चाय की खेती और दलदली जंगलों के लिए प्रसिद्ध 'बराॅक घाटी' भारत के किस राज्य में स्थित है?",
+  "optsEn": [
+   "Assam",
+   "Manipur",
+   "Nagaland",
+   "Tripura"
+  ],
+  "optsHi": [
+   "असम",
+   "मणिपुर",
+   "नागालैंड",
+   "त्रिपुरा"
+  ],
+  "correct": 0,
+  "explainEn": "Barak Valley is located in the southern part of Assam, named after the Barak River, and is a major hub for tea production.",
+  "sourceHint": "Geography of India by Majid Husain / NCERT",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:48:00Z"
+ },
+ {
+  "id": "q_e0b8645347ec6394",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "The famous 'Aihole Inscription', written in Sanskrit and composed in the Kannada script style, praises the achievements of which Chalukya ruler?",
+  "qHi": "संस्कृत में रचित और कन्नड़ लिपि शैली में लिखित प्रसिद्ध 'ऐहोल शिलालेख' किस चालुक्य शासक की उपलब्धियों की प्रशंसा करता है?",
+  "optsEn": [
+   "Pulakeshin II",
+   "Vikramaditya I",
+   "Kirtivarman I",
+   "Mangalesha"
+  ],
+  "optsHi": [
+   "पुलकेशिन द्वितीय",
+   "विक्रमादित्य प्रथम",
+   "कीर्तिवर्मन प्रथम",
+   "मंगलेश"
+  ],
+  "correct": 0,
+  "explainEn": "The Aihole Inscription at Meguti Jain temple was composed by the court poet Ravikirti and details the military exploits and victory of Pulakeshin II over Harshavardhana.",
+  "sourceHint": "Ancient India by R.S. Sharma / NIOS History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:48:00Z"
+ },
+ {
+  "id": "q_8f75fba36ebf9a3f",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "As per the Köppen climate classification, which symbol denotes the tropical monsoon climate found in the coastal regions of southwestern India?",
+  "qHi": "कोपेन के जलवायु वर्गीकरण के अनुसार, दक्षिण-पश्चिमी भारत के तटीय क्षेत्रों में पाई जाने वाली उष्णकटिबंधीय मानसून जलवायु को कौन सा प्रतीक दर्शाता है?",
+  "optsEn": [
+   "Am",
+   "Aw",
+   "As",
+   "BShw"
+  ],
+  "optsHi": [
+   "Am",
+   "Aw",
+   "As",
+   "BShw"
+  ],
+  "correct": 0,
+  "explainEn": "In Köppen's classification, 'Am' stands for Tropical Monsoon Climate with short dry season, typical of the western coast of India.",
+  "sourceHint": "NCERT Class 11 Geography - India: Physical Environment",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:48:00Z"
+ },
+ {
+  "id": "q_43bb4d404688e54b",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the provisions of the Reserve Bank of India Act, 1934, the minimum reserve system for note issue requires the maintenance of gold and foreign currency reserves of what value?",
+  "qHi": "भारतीय रिजर्व बैंक अधिनियम, 1934 के प्रावधानों के तहत, नोट जारी करने के लिए न्यूनतम आरक्षित प्रणाली के तहत सोने और विदेशी मुद्रा भंडार का कितना मूल्य बनाए रखना आवश्यक है?",
+  "optsEn": [
+   "200 crore rupees",
+   "100 crore rupees",
+   "500 crore rupees",
+   "50 crore rupees"
+  ],
+  "optsHi": [
+   "200 करोड़ रुपये",
+   "100 करोड़ रुपये",
+   "500 करोड़ रुपये",
+   "50 करोड़ रुपये"
+  ],
+  "correct": 0,
+  "explainEn": "The RBI operates under the Minimum Reserve System, where it must maintain a total of Rs 200 crore in gold and foreign securities, out of which at least Rs 115 crore must be in gold.",
+  "sourceHint": "Indian Economy by Ramesh Singh / RBI Publication",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:48:00Z"
+ },
+ {
+  "id": "q_4b0d59650a07e84b",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "The 'Hague Convention' of 1954 is primarily associated with the protection of which of the following?",
+  "qHi": "1954 का 'हेग सम्मेलन' मुख्य रूप से निम्नलिखित में से किसकी सुरक्षा से संबंधित है?",
+  "optsEn": [
+   "Cultural property in the event of armed conflict",
+   "Endangered marine species and coral reefs",
+   "Cybersecurity and cross-border data protection",
+   "Civil aviation against hijacking and sabotage"
+  ],
+  "optsHi": [
+   "सशस्त्र संघर्ष की स्थिति में सांस्कृतिक संपत्ति",
+   "लुप्तप्राय समुद्री प्रजातियां और प्रवाल भित्तियां",
+   "साइबर सुरक्षा और सीमा पार डेटा संरक्षण",
+   "अपहरण और तोड़फोड़ के खिलाफ नागरिक उड्डयन"
+  ],
+  "correct": 0,
+  "explainEn": "The 1954 Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict is the first international treaty of worldwide scope focused exclusively on the protection of cultural heritage during war.",
+  "sourceHint": "UNESCO / International Law standard reference",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:48:00Z"
  }
 ]

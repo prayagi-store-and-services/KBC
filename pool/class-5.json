@@ -13830,5 +13830,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-17T04:30:24Z"
+ },
+ {
+  "id": "q_572a85ee7d498813",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organ of the human body pumps blood?",
+  "qHi": "मानव शरीर का कौन सा अंग रक्त पंप करता है?",
+  "optsEn": [
+   "Lungs",
+   "Heart",
+   "Stomach",
+   "Kidney"
+  ],
+  "optsHi": [
+   "फेफड़े",
+   "दिल",
+   "पेट",
+   "गुर्दा"
+  ],
+  "correct": 1,
+  "explainEn": "The heart is the muscular organ responsible for pumping blood throughout the body.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:46:35Z"
+ },
+ {
+  "id": "q_42d109208c309605",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of gas do plants take in from the air for photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण के लिए पौधे हवा से कौन सी गैस लेते हैं?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Plants absorb carbon dioxide from the air to make their food during photosynthesis.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:46:35Z"
+ },
+ {
+  "id": "q_869915741065abfe",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which gas is released by plants during the daytime as a byproduct of photosynthesis?",
+  "qHi": "दिन के समय प्रकाश संश्लेषण के उपोत्पाद के रूप में पौधे कौन सी गैस छोड़ते हैं?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Oxygen",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Plants release oxygen into the atmosphere during photosynthesis.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:47:33Z"
+ },
+ {
+  "id": "q_84d3d4cf42055a7d",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of resource is coal considered to be because it takes millions of years to form and cannot be easily replaced once used?",
+  "qHi": "कोयला किस प्रकार का संसाधन माना जाता है क्योंकि इसे बनने में लाखों वर्ष लगते हैं और एक बार उपयोग किए जाने के बाद इसे आसानी से बदला नहीं जा सकता है?",
+  "optsEn": [
+   "Renewable resource",
+   "Non-renewable resource",
+   "Inexhaustible resource",
+   "Biotic resource"
+  ],
+  "optsHi": [
+   "नवीकरणीय संसाधन",
+   "अनवीकरणीय संसाधन",
+   "अक्षय संसाधन",
+   "जैविक संसाधन"
+  ],
+  "correct": 1,
+  "explainEn": "Coal, petroleum, and natural gas are non-renewable resources because their stocks get depleted with use and take millions of years to form.",
+  "sourceHint": "NCERT Class 8 Geography Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:47:33Z"
+ },
+ {
+  "id": "q_3b57995595a274e2",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following is a Kharif crop harvested in India around the autumn season?",
+  "qHi": "निम्नलिखित में से कौन सी एक खरीफ फसल है जिसे भारत में शरद ऋतु के आसपास काटा जाता है?",
+  "optsEn": [
+   "Wheat",
+   "Paddy",
+   "Barley",
+   "Gram"
+  ],
+  "optsHi": [
+   "गेहूं",
+   "धान",
+   "जौ",
+   "चना"
+  ],
+  "correct": 1,
+  "explainEn": "Paddy is a major Kharif crop sown with the onset of the monsoon and harvested in autumn.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:48:36Z"
+ },
+ {
+  "id": "q_090b977b446cebd2",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which line of latitude passes almost halfway through the country of India?",
+  "qHi": "अक्षांश की कौन सी रेखा भारत देश के लगभग बीचों-बीच से गुजरती है?",
+  "optsEn": [
+   "Equator",
+   "Tropic of Cancer",
+   "Tropic of Capricorn",
+   "Prime Meridian"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा",
+   "कर्क रेखा",
+   "मकर रेखा",
+   "प्रमुख मध्याह्न रेखा"
+  ],
+  "correct": 1,
+  "explainEn": "The Tropic of Cancer (23 degrees 30 minutes North) passes through the middle of India.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:48:36Z"
+ },
+ {
+  "id": "q_d13a16282a74f111",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of forest vegetation is typically found in the delta regions of major Indian rivers like the Ganga-Brahmaputra?",
+  "qHi": "गंगा-ब्रह्मपुत्र जैसी प्रमुख भारतीय नदियों के डेल्टा क्षेत्रों में आमतौर पर किस प्रकार की वनस्पति पाई जाती है?",
+  "optsEn": [
+   "Coniferous forest",
+   "Mangrove forest",
+   "Thorn forest",
+   "Deciduous forest"
+  ],
+  "optsHi": [
+   "शंकुधारी वन",
+   "मैंग्रोव वन",
+   "कटीले वन",
+   "पर्णपाती वन"
+  ],
+  "correct": 1,
+  "explainEn": "Mangrove forests, such as the Sundarbans, grow well in saline swampy areas of river deltas.",
+  "sourceHint": "NCERT Geography Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:48:36Z"
+ },
+ {
+  "id": "q_385df18d96683ad9",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During which historical period in ancient India was the Iron Pillar of Delhi constructed?",
+  "qHi": "प्राचीन भारत के किस ऐतिहासिक काल के दौरान दिल्ली के लौह स्तंभ का निर्माण किया गया था?",
+  "optsEn": [
+   "Mauryan Empire",
+   "Gupta Empire",
+   "Mughal Empire",
+   "Chola Dynasty"
+  ],
+  "optsHi": [
+   "मौर्य साम्राज्य",
+   "गुप्त साम्राज्य",
+   "मुगल साम्राज्य",
+   "चोल राजवंश"
+  ],
+  "correct": 1,
+  "explainEn": "The famous rust-resistant Iron Pillar in Delhi dates back to the Gupta period.",
+  "sourceHint": "NCERT Class 6 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:48:36Z"
+ },
+ {
+  "id": "q_e87eb9ef7fa15f76",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which instrument is traditionally used in a weather station to measure atmospheric pressure?",
+  "qHi": "वायुमंडलीय दबाव को मापने के लिए मौसम केंद्र में पारंपरिक रूप से किस उपकरण का उपयोग किया जाता है?",
+  "optsEn": [
+   "Thermometer",
+   "Barometer",
+   "Anemometer",
+   "Rain gauge"
+  ],
+  "optsHi": [
+   "थर्मामीटर",
+   "बैरोमीटर",
+   "एनीमोमीटर",
+   "वर्षा मापक"
+  ],
+  "correct": 1,
+  "explainEn": "A barometer is a scientific instrument used to measure air pressure in a given environment.",
+  "sourceHint": "NCERT Science Basics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:48:36Z"
+ },
+ {
+  "id": "q_c83e8194a15bd956",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary gas absorbed by green plants from the atmosphere during the process of photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण की प्रक्रिया के दौरान हरे पौधों द्वारा वायुमंडल से मुख्य रूप से कौन सी गैस अवशोषित की जाती है?",
+  "optsEn": [
+   "Oxygen",
+   "Nitrogen",
+   "Carbon dioxide",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "कार्बन डाइऑक्साइड",
+   "हाइड्रोजन"
+  ],
+  "correct": 2,
+  "explainEn": "Plants take in carbon dioxide from the air to synthesize food during photosynthesis.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:48:36Z"
+ },
+ {
+  "id": "q_8c531ffdceeb3d8d",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which physical property is primarily used to separate a mixture of sand and water through filtration?",
+  "qHi": "निस्पंदन के माध्यम से रेत और पानी के मिश्रण को अलग करने के लिए मुख्य रूप से किस भौतिक गुण का उपयोग किया जाता है?",
+  "optsEn": [
+   "Solubility in water",
+   "Magnetic attraction",
+   "Particle size difference",
+   "Boiling point difference"
+  ],
+  "optsHi": [
+   "पानी में घुलनशीलता",
+   "चुंबकीय आकर्षण",
+   "कण आकार अंतर",
+   "क्वथनांक अंतर"
+  ],
+  "correct": 2,
+  "explainEn": "Filtration separates insoluble solid particles from liquids based on differences in particle size.",
+  "sourceHint": "NCERT Science Curriculum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T10:48:36Z"
  }
 ]
