@@ -10722,5 +10722,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-16T21:11:46Z"
+ },
+ {
+  "id": "q_ced3ad9dc97b05dc",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the boiling point of pure water at standard atmospheric pressure in Celsius?",
+  "qHi": "मानक वायुमंडलीय दबाव पर शुद्ध पानी का क्वथनांक सेल्सियस में कितना होता है?",
+  "optsEn": [
+   "0 degrees",
+   "50 degrees",
+   "100 degrees",
+   "212 degrees"
+  ],
+  "optsHi": [
+   "0 डिग्री",
+   "50 डिग्री",
+   "100 डिग्री",
+   "212 डिग्री"
+  ],
+  "correct": 2,
+  "explainEn": "Pure water boils at 100 degrees Celsius at sea level.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:28:43Z"
+ },
+ {
+  "id": "q_e16687b0fa37e1d9",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which classical dance form originates from the southern state of Kerala and is characterized by elaborate makeup and costumes?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप दक्षिणी राज्य केरल से उत्पन्न हुआ है और विस्तृत मेकअप तथा वेशभूषा द्वारा विशेषता प्राप्त है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a major form of classical Indian dance that originated in Kerala, renowned for its distinctive storytelling, vibrant face masks, and heavy makeup.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:30:20Z"
+ },
+ {
+  "id": "q_b18abf1628f1ed12",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which element has the chemical symbol Fe on the periodic table?",
+  "qHi": "आवर्त सारणी में किस तत्व का रासायनिक प्रतीक Fe है?",
+  "optsEn": [
+   "Iron",
+   "Fluorine",
+   "Francium",
+   "Fermium"
+  ],
+  "optsHi": [
+   "लोहा",
+   "फ्लोरिन",
+   "फ्रांसियम",
+   "फर्मियम"
+  ],
+  "correct": 0,
+  "explainEn": "The chemical symbol Fe is derived from ferrum, the Latin word for iron.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:30:20Z"
+ },
+ {
+  "id": "q_7057214cdc26e235",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which Indian state is the Kaziranga National Park located, famous for its population of the great Indian one-horned rhinoceros?",
+  "qHi": "काजीरंगा राष्ट्रीय उद्यान, जो महान भारतीय एक सींग वाले गैंडे की आबादी के लिए प्रसिद्ध है, किस भारतीय राज्य में स्थित है?",
+  "optsEn": [
+   "West Bengal",
+   "Uttarakhand",
+   "Assam",
+   "Madhya Pradesh"
+  ],
+  "optsHi": [
+   "पश्चिम बंगाल",
+   "उत्तराखंड",
+   "असम",
+   "मध्य प्रदेश"
+  ],
+  "correct": 2,
+  "explainEn": "Kaziranga National Park is a UNESCO World Heritage Site located in the state of Assam.",
+  "sourceHint": "UNESCO World Heritage Centre",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:30:20Z"
+ },
+ {
+  "id": "q_6c0dacc39ea8c49a",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the monetary currency of Japan?",
+  "qHi": "जापान की मौद्रिक मुद्रा क्या है?",
+  "optsEn": [
+   "Yuan",
+   "Yen",
+   "Won",
+   "Ringgit"
+  ],
+  "optsHi": [
+   "युआन",
+   "येन",
+   "वोन",
+   "रिंगित"
+  ],
+  "correct": 1,
+  "explainEn": "The yen is the official currency of Japan and is one of the most traded currencies in the foreign exchange market.",
+  "sourceHint": "International Monetary Fund",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:30:20Z"
+ },
+ {
+  "id": "q_e8e4e4ca3b06f96b",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form of India traditionally uses a heavy brass plate to perform intricate footwork patterns?",
+  "qHi": "भारत की किस शास्त्रीय नृत्य शैली में पारंपरिक रूप से जटिल पदाभिनय के लिए भारी पीतल की थाली का उपयोग किया जाता है?",
+  "optsEn": [
+   "Kathakali",
+   "Kuchipudi",
+   "Mohiniyattam",
+   "Manipuri"
+  ],
+  "optsHi": [
+   "कथकली",
+   "कुचिपुड़ी",
+   "मोहिनीअट्टम",
+   "मणिपुरी"
+  ],
+  "correct": 1,
+  "explainEn": "In the Tarangam of Kuchipudi, the dancer performs while balancing on the edges of a brass plate.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:31:01Z"
+ },
+ {
+  "id": "q_ebb2601b1f9f1dee",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian city houses the headquarters of the Botanical Survey of India?",
+  "qHi": "भारतीय वनस्पति सर्वेक्षण का मुख्यालय भारत के किस शहर में स्थित है?",
+  "optsEn": [
+   "Dehradun",
+   "Kolkata",
+   "Lucknow",
+   "Bengaluru"
+  ],
+  "optsHi": [
+   "देहरादून",
+   "कोलकाता",
+   "लखनऊ",
+   "बेंगलुरु"
+  ],
+  "correct": 1,
+  "explainEn": "The Botanical Survey of India (BSI) was founded in 1890 and has its headquarters in Kolkata.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:31:01Z"
+ },
+ {
+  "id": "q_88d4f67e802e3a3b",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which state is the ancient Harappan site of Dholavira located?",
+  "qHi": "प्राचीन हड़प्पा स्थल धोलावीरा किस राज्य में स्थित है?",
+  "optsEn": [
+   "Rajasthan",
+   "Haryana",
+   "Gujarat",
+   "Punjab"
+  ],
+  "optsHi": [
+   "राजस्थान",
+   "हरियाणा",
+   "गुजरात",
+   "पंजाब"
+  ],
+  "correct": 2,
+  "explainEn": "Dholavira is an archaeological site belonging to the Indus Valley Civilization located in Khadir island in Gujarat.",
+  "sourceHint": "Archaeological Survey of India (ASI)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:31:01Z"
  }
 ]

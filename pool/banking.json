@@ -15678,5 +15678,509 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-16T21:12:37Z"
+ },
+ {
+  "id": "q_c2ce735995911c87",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which type of bank account typically does not earn any interest for the account holder?",
+  "qHi": "किस प्रकार के बैंक खाते पर आमतौर पर खाता धारक को कोई ब्याज नहीं मिलता है?",
+  "optsEn": [
+   "Current Account",
+   "Savings Account",
+   "Fixed Deposit Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "चालू खाता",
+   "बचत खाता",
+   "सावधि जमा खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 0,
+  "explainEn": "Current accounts are designed for business purposes and generally offer high liquidity with zero interest on deposits.",
+  "sourceHint": "NCERT Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:28:39Z"
+ },
+ {
+  "id": "q_dcfd10fce67fda42",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization issues currency notes in India under the guidance of the central bank?",
+  "qHi": "केंद्रीय बैंक के मार्गदर्शन में भारत में मुद्रा नोट कौन सा संगठन जारी करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "State Bank of India",
+   "NITI Aayog",
+   "Bhartiya Reserve Bank Note Mudran Private Limited"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय स्टेट बैंक",
+   "नीति आयोग",
+   "भारतीय रिजर्व बैंक नोट मुद्रण प्राइवेट लिमिटेड"
+  ],
+  "correct": 0,
+  "explainEn": "Under Section 22 of the RBI Act, the Reserve Bank of India has the sole right to issue bank notes in India.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:28:39Z"
+ },
+ {
+  "id": "q_96e6c610031b7e87",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a direct tax levied by the Government of India?",
+  "qHi": "निम्नलिखित में से कौन सा भारत सरकार द्वारा लगाया जाने वाला प्रत्यक्ष कर है?",
+  "optsEn": [
+   "Income Tax",
+   "Goods and Services Tax",
+   "Customs Duty",
+   "Excise Duty"
+  ],
+  "optsHi": [
+   "आय कर",
+   "वस्तु एवं सेवा कर",
+   "सीमा शुल्क",
+   "उत्पाद शुल्क"
+  ],
+  "correct": 0,
+  "explainEn": "Income tax is a direct tax because the burden of paying it falls directly on the person or entity on whom it is levied.",
+  "sourceHint": "Central Board of Direct Taxes (CBDT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:28:39Z"
+ },
+ {
+  "id": "q_e2a6b555eb3ec8fb",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of NEFT in the Indian banking payment system?",
+  "qHi": "भारतीय बैंकिंग भुगतान प्रणाली में NEFT का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "National Equity Finance Transfer",
+   "New Electronic Fund Transaction",
+   "National Economy Foreign Trade"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "नेशनल इक्विटी फाइनेंस ट्रांसफर",
+   "न्यू इलेक्ट्रॉनिक फंड ट्रांजैक्शन",
+   "नेशनल इकोनॉमी फॉरेन ट्रेड"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT is an online system maintained by the RBI for transferring funds electronically from one bank account to another.",
+  "sourceHint": "RBI official payment systems manual",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:28:39Z"
+ },
+ {
+  "id": "q_d76b3eb05f4f95c3",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which monetary policy instrument is defined as the rate at which the Reserve Bank of India is willing to buy or rediscount bills of exchange or other commercial papers?",
+  "qHi": "कौन सा मौद्रिक नीति उपकरण उस दर के रूप में परिभाषित किया जाता है जिस पर भारतीय रिजर्व बैंक विनिमय बिलों या अन्य वाणिज्यिक पत्रों को खरीदने या पुनर्भुगतान करने के लिए तैयार है?",
+  "optsEn": [
+   "Repo Rate",
+   "Bank Rate",
+   "Reverse Repo Rate",
+   "Cash Reserve Ratio"
+  ],
+  "optsHi": [
+   "रेपो रेट",
+   "बैंक रेट",
+   "रिवर्स रेपो रेट",
+   "नकद आरक्षित अनुपात"
+  ],
+  "correct": 1,
+  "explainEn": "Bank Rate is the standard rate at which the RBI is prepared to buy or rediscount bills of exchange or other commercial papers.",
+  "sourceHint": "RBI Handbook of Instructions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:30:16Z"
+ },
+ {
+  "id": "q_cb4ad87182d353d7",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the Liquidity Adjustment Facility framework used by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा प्रयुक्त तरलता समायोजन सुविधा (LAF) ढांचे में 'L' अक्षर का क्या अर्थ है?",
+  "optsEn": [
+   "Liability",
+   "Liquidity",
+   "Leverage",
+   "Lending"
+  ],
+  "optsHi": [
+   "दायित्व (Liability)",
+   "तरलता (Liquidity)",
+   "लिवरेज (Leverage)",
+   "उधार (Lending)"
+  ],
+  "correct": 1,
+  "explainEn": "LAF stands for Liquidity Adjustment Facility, which is a monetary policy tool used by the RBI.",
+  "sourceHint": "RBI Monetary Policy Documentation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:30:16Z"
+ },
+ {
+  "id": "q_97e331767720c179",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India regulates the housing finance companies alongside the Reserve Bank of India after regulatory powers were transferred?",
+  "qHi": "भारतीय रिजर्व बैंक के अलावा भारत में कौन सा संगठन विनियामक शक्तियां स्थानांतरित होने के बाद आवास वित्त कंपनियों को नियंत्रित करता है?",
+  "optsEn": [
+   "SEBI",
+   "NABARD",
+   "National Housing Bank",
+   "IRDAI"
+  ],
+  "optsHi": [
+   "सेबी (SEBI)",
+   "नाबार्ड (NABARD)",
+   "राष्ट्रीय आवास बैंक (National Housing Bank)",
+   "इरडाई (IRDAI)"
+  ],
+  "correct": 2,
+  "explainEn": "National Housing Bank (NHB) regulates housing finance companies in coordination with RBI.",
+  "sourceHint": "National Housing Bank Act",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:30:16Z"
+ },
+ {
+  "id": "q_36c078a82a640b78",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque is a special type of which financial instrument?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, चेक किस वित्तीय साधन का एक विशेष प्रकार है?",
+  "optsEn": [
+   "Promissory Note",
+   "Bill of Exchange",
+   "Letter of Credit",
+   "Certificate of Deposit"
+  ],
+  "optsHi": [
+   "वचन पत्र (Promissory Note)",
+   "विनिमय बिल (Bill of Exchange)",
+   "साख पत्र (Letter of Credit)",
+   "जमा प्रमाणपत्र (Certificate of Deposit)"
+  ],
+  "correct": 1,
+  "explainEn": "According to Section 6 of the Negotiable Instruments Act, 1881, a cheque is a bill of exchange drawn on a specified banker.",
+  "sourceHint": "Negotiable Instruments Act, 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:30:16Z"
+ },
+ {
+  "id": "q_5c8f19fa0b4e0123",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of the Prompt Corrective Action framework applied by the Reserve Bank of India to commercial banks?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा वाणिज्यिक बैंकों पर लागू त्वरित सुधारात्मक कार्रवाई (PCA) ढांचे का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To promote rural banking expansion",
+   "To monitor weak financial health and capital adequacy",
+   "To manage foreign exchange reserves",
+   "To fix interest rates for retail loans"
+  ],
+  "optsHi": [
+   "ग्रामीण बैंकिंग विस्तार को बढ़ावा देना",
+   "कमजोर वित्तीय स्वास्थ्य और पूंजी पर्याप्तता की निगरानी करना",
+   "विदेशी मुद्रा भंडार का प्रबंधन करना",
+   "खुदरा ऋणों के लिए ब्याज दरें तय करना"
+  ],
+  "correct": 1,
+  "explainEn": "PCA framework enables the RBI to intervene early and take corrective measures when a bank hits certain thresholds on capital, asset quality, and profitability.",
+  "sourceHint": "RBI Supervisory Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:30:16Z"
+ },
+ {
+  "id": "q_0d60b28baa495b87",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which entity is responsible for the establishment and operation of the Aadhaar Enabled Payment System in India?",
+  "qHi": "भारत में आधार सक्षम भुगतान प्रणाली की स्थापना और संचालन के लिए कौन सी संस्था जिम्मेदार है?",
+  "optsEn": [
+   "NPCI",
+   "UIDAI",
+   "SBI",
+   "SIDBI"
+  ],
+  "optsHi": [
+   "एनपीसीआई (NPCI)",
+   "यूआईडीएआई (UIDAI)",
+   "भारतीय स्टेट बैंक (SBI)",
+   "सिडबी (SIDBI)"
+  ],
+  "correct": 0,
+  "explainEn": "NPCI (National Payments Corporation of India) in collaboration with UIDAI developed the AePS system.",
+  "sourceHint": "NPCI Official Portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:30:16Z"
+ },
+ {
+  "id": "q_e72eb2634b922181",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the term 'Gilt-edged market' refer to in the context of the Indian financial system?",
+  "qHi": "भारतीय वित्तीय प्रणाली के संदर्भ में 'गिल्ट-एज्ड बाजार' शब्द का क्या अर्थ है?",
+  "optsEn": [
+   "Market for gold and precious metals",
+   "Market for government securities",
+   "Market for high-risk corporate bonds",
+   "Market for foreign currencies"
+  ],
+  "optsHi": [
+   "सोने और कीमती धातुओं का बाजार",
+   "सरकारी प्रतिभूतियों का बाजार",
+   "उच्च जोखिम वाले कॉर्पोरेट बॉन्ड का बाजार",
+   "विदेशी मुद्राओं का बाजार"
+  ],
+  "correct": 1,
+  "explainEn": "A gilt-edged securities market is a market where debt securities issued by the government are traded.",
+  "sourceHint": "RBI Financial Glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:30:16Z"
+ },
+ {
+  "id": "q_106042cb0f874353",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of banking operations, what does 'CASA' stand for?",
+  "qHi": "बैंकिंग संचालन के संदर्भ में, 'CASA' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Current Account Savings Account",
+   "Capital Adequacy Statutory Asset",
+   "Credit Asset Settlement Association",
+   "Core Accounting System Application"
+  ],
+  "optsHi": [
+   "करेंट अकाउंट सेविंग्स अकाउंट",
+   "कैपिटल एडिक्वेंसी स्टेटूटरी एसेट",
+   "क्रेडिट एसेट सेटलमेंट एसोसिएशन",
+   "कोर अकाउंटिंग सिस्टम एप्लीकेशन"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account and Savings Account, which form low-cost deposits for commercial banks.",
+  "sourceHint": "Indian Institute of Banking and Finance",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:30:16Z"
+ },
+ {
+  "id": "q_f993c58c789ace41",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian monetary policy, what does the term 'Marginal Standing Facility' (MSF) precisely enable scheduled commercial banks to do?",
+  "qHi": "भारतीय मौद्रिक नीति के संदर्भ में, 'सीमांत स्थायी सुविधा' (MSF) शब्द अनुसूचित वाणिज्यिक बैंकों को वास्तव में क्या करने में सक्षम बनाता है?",
+  "optsEn": [
+   "Borrow overnight funds from RBI against approved government securities up to a prescribed limit",
+   "Issue long-term infrastructure bonds without prior RBI approval",
+   "Maintain mandatory cash reserve ratio using foreign currency assets",
+   "Provide collateral-free microloans to priority sector enterprises"
+  ],
+  "optsHi": [
+   "एक निर्धारित सीमा तक अनुमोदित सरकारी प्रतिभूतियों के मुकाबले आरबीआई से रातोंरात धन उधार लेना",
+   "पूर्व आरबीआई अनुमोदन के बिना लंबी अवधि के बुनियादी ढांचा बांड जारी करना",
+   "विदेशी मुद्रा संपत्तियों का उपयोग करके अनिवार्य नकद आरक्षित अनुपात बनाए रखना",
+   "प्राथमिकता प्राप्त क्षेत्र के उद्यमों को संपार्श्विक-मुक्त सूक्ष्म ऋण प्रदान करना"
+  ],
+  "correct": 0,
+  "explainEn": "MSF is a window for scheduled commercial banks to borrow overnight funds from RBI in emergency situations by pledging government securities over and above their SLR portfolio limit.",
+  "sourceHint": "RBI Master Circular on Monetary Policy",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:30:57Z"
+ },
+ {
+  "id": "q_3727ac8bbf64f9ae",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, what is the maximum period within which a cheque must be presented to the bank for payment from the date on which it is drawn?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, चेक को उसके आरेखण की तारीख से भुगतान के लिए बैंक में प्रस्तुत करने की अधिकतम अवधि क्या है?",
+  "optsEn": [
+   "1 month",
+   "3 months",
+   "6 months",
+   "12 months"
+  ],
+  "optsHi": [
+   "1 महीना",
+   "3 महीने",
+   "6 महीने",
+   "12 महीने"
+  ],
+  "correct": 1,
+  "explainEn": "RBI directed in 2012 that the validity period of cheques, demand drafts, pay orders, and banker's cheques be reduced from 6 months to 3 months from the date of issuance.",
+  "sourceHint": "Reserve Bank of India Guidelines on Negotiable Instruments",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:30:57Z"
+ },
+ {
+  "id": "q_00f320d69fe13a5a",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary purpose of the 'Countercyclical Capital Buffer' (CCCB) introduced under the Basel III norms for banks?",
+  "qHi": "बैंकों के लिए बासेल III मानदंडों के तहत शुरू किए गए 'काउंटरसाइक्लिकल कैपिटल बफर' (CCCB) का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To restrict executive compensation during periods of low inflation",
+   "To ensure that banking sector capital requirements take into account the macro-financial environment and build up buffers during economic booms",
+   "To provide liquidity support exclusively for foreign exchange transactions",
+   "To penalize banks for lending to non-performing asset accounts"
+  ],
+  "optsHi": [
+   "कम मुद्रास्फीति की अवधि के दौरान कार्यकारी पारिश्रमिक को प्रतिबंधित करना",
+   "यह सुनिश्चित करना कि बैंकिंग क्षेत्र की पूंजी आवश्यकताएं मैक्रो-वित्तीय माहौल को ध्यान में रखें और आर्थिक तेजी के दौरान बफर का निर्माण करें",
+   "विशेष रूप से विदेशी मुद्रा लेनदेन के लिए तरलता सहायता प्रदान करना",
+   "गैर-निष्पादित परिसंपत्ति खातों को ऋण देने के लिए बैंकों को दंडित करना"
+  ],
+  "correct": 1,
+  "explainEn": "The Countercyclical Capital Buffer aims to ensure that banking system capital requirements take account of the macro-financial environment in which banks operate, protecting the sector during systemic downturns by building capital during economic expansions.",
+  "sourceHint": "Basel Committee on Banking Supervision (BCBS) guidelines / RBI Basel III regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:30:57Z"
+ },
+ {
+  "id": "q_c291cd7e98b37134",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which section of the Reserve Bank of India Act, 1934 outlines the constitution and composition of the Central Board of Directors of the RBI?",
+  "qHi": "भारतीय रिजर्व बैंक अधिनियम, 1934 की कौन सी धारा आरबीआई के केंद्रीय निदेशक मंडल के गठन और संरचना की रूपरेखा तैयार करती है?",
+  "optsEn": [
+   "Section 7",
+   "Section 8",
+   "Section 17",
+   "Section 22"
+  ],
+  "optsHi": [
+   "धारा 7",
+   "धारा 8",
+   "धारा 17",
+   "धारा 22"
+  ],
+  "correct": 1,
+  "explainEn": "Section 8 of the RBI Act, 1934 deals with the composition of the Central Board, specifying the appointment of the Governor, Deputy Governors, and directors nominated by the Central Government.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:30:57Z"
+ },
+ {
+  "id": "q_485de2d7f426a9c5",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian financial markets, what does an 'Interest Rate Swap' (IRS) fundamentally allow two counterparties to exchange?",
+  "qHi": "भारतीय वित्तीय बाजारों के संदर्भ में, 'ब्याज दर स्वैप' (IRS) मौलिक रूप से दो प्रतिपक्षों को क्या आदान-प्रदान करने की अनुमति देता है?",
+  "optsEn": [
+   "Fixed interest rate cash flows for floating interest rate cash flows based on a principal amount",
+   "Physical gold reserves against sovereign bonds",
+   "Equity shares of domestic companies for foreign currency reserves",
+   "Short-term treasury bills for commercial paper"
+  ],
+  "optsHi": [
+   "एक मूल राशि के आधार पर फ्लोटिंग ब्याज दर नकदी प्रवाह के लिए निश्चित ब्याज दर नकदी प्रवाह",
+   "सॉवरेन बांड के मुकाबले भौतिक स्वर्ण भंडार",
+   "विदेशी मुद्रा भंडार के लिए घरेलू कंपनियों के इक्विटी शेयर",
+   "वाणिज्यिक पत्र के लिए अल्पकालिक ट्रेजरी बिल"
+  ],
+  "correct": 0,
+  "explainEn": "An Interest Rate Swap is a derivative contract through which two parties exchange interest rate cash flows (typically a fixed rate for a floating rate) based on a specific principal amount without exchanging the principal itself.",
+  "sourceHint": "FIMMDA (Fixed Income Money Market and Derivatives Association of India) guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:30:57Z"
+ },
+ {
+  "id": "q_fd6cb6bbd3cdff1f",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Insolvency and Bankruptcy Code (IBC), 2016 of India, what is the initial maximum time limit prescribed for completing the Corporate Insolvency Resolution Process (CIRP)?",
+  "qHi": "भारत के दिवाला और शोधन अक्षमता संहिता (IBC), 2016 के तहत, कॉर्पोरेट दिवाला समाधान प्रक्रिया (CIRP) को पूरा करने के लिए निर्धारित प्रारंभिक अधिकतम समय सीमा क्या है?",
+  "optsEn": [
+   "90 days",
+   "180 days",
+   "270 days",
+   "365 days"
+  ],
+  "optsHi": [
+   "90 दिन",
+   "180 दिन",
+   "270 दिन",
+   "365 दिन"
+  ],
+  "correct": 1,
+  "explainEn": "Section 16 of the IBC, 2016 stipulates that the Corporate Insolvency Resolution Process shall be completed within a period of 180 days from the date of admission of the application to initiate such process, with a one-time extension possible up to 270 days.",
+  "sourceHint": "Insolvency and Bankruptcy Code 2016, IBBI handbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:30:57Z"
  }
 ]

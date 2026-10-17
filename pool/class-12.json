@@ -15118,5 +15118,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-16T21:12:14Z"
+ },
+ {
+  "id": "q_9497cdeb7c460ea7",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas is primarily responsible for the greenhouse effect on Venus?",
+  "qHi": "शुक्र ग्रह पर ग्रीनहाउस प्रभाव के लिए मुख्य रूप से कौन सी गैस उत्तरदायी है?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Oxygen",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 0,
+  "explainEn": "The atmosphere of Venus is composed mainly of carbon dioxide, which creates a strong greenhouse effect.",
+  "sourceHint": "NCERT Class 11 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:29:00Z"
+ },
+ {
+  "id": "q_3fb18df8ca58bdb2",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Article of the Indian Constitution guarantees equality before the law and equal protection of the laws within the territory of India?",
+  "qHi": "भारतीय संविधान का कौन सा अनुच्छेद भारत के राज्यक्षेत्र के भीतर विधि के समक्ष समता और विधियों के समान संरक्षण की गारंटी देता है?",
+  "optsEn": [
+   "Article 14",
+   "Article 19",
+   "Article 21",
+   "Article 32"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14",
+   "अनुच्छेद 19",
+   "अनुच्छेद 21",
+   "अनुच्छेद 32"
+  ],
+  "correct": 0,
+  "explainEn": "Article 14 of the Constitution of India states that the State shall not deny to any person equality before the law or the equal protection of the laws.",
+  "sourceHint": "Constitution of India, Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:30:38Z"
+ },
+ {
+  "id": "q_379529f70c5c0208",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which enzyme is primarily responsible for the fixation of carbon dioxide in C3 plants during the Calvin cycle?",
+  "qHi": "केल्विन चक्र के दौरान C3 पौधों में कार्बन डाइऑक्साइड के स्थिरीकरण के लिए मुख्य रूप से कौन सा एंजाइम उत्तरदायी है?",
+  "optsEn": [
+   "Hexokinase",
+   "PEP carboxylase",
+   "RuBisCO",
+   "Pyruvate kinase"
+  ],
+  "optsHi": [
+   "हेक्सोकाइनेज",
+   "पीईपी कार्बोक्सिलेज",
+   "रुबिस्को",
+   "पाइरुवेट काइनेज"
+  ],
+  "correct": 2,
+  "explainEn": "RuBisCO (Ribulose-1,5-bisphosphate carboxylase-oxygenase) is the key enzyme that catalyzes the first major step of carbon fixation in C3 plants.",
+  "sourceHint": "NCERT Class 11 Biology, Chapter 13",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:30:38Z"
+ },
+ {
+  "id": "q_a59ba9a1c673f2e3",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following coordination compounds is used as an effective anticancer drug?",
+  "qHi": "निम्नलिखित में से किस उपसहसंयोजन यौगिक का उपयोग एक प्रभावी कैंसर-रोधी दवा के रूप में किया जाता है?",
+  "optsEn": [
+   "Cisplatin",
+   "Chlorophyll",
+   "Haemoglobin",
+   "EDTA"
+  ],
+  "optsHi": [
+   "सिसप्लैटिन",
+   "क्लोरोफिल",
+   "हीमोग्लोबिन",
+   "ई़डीटीए"
+  ],
+  "correct": 0,
+  "explainEn": "Cis-diamminedichloroplatinum(II), commonly known as cisplatin, is widely used in chemotherapy to treat various cancers.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 9",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:30:38Z"
+ },
+ {
+  "id": "q_97517569f5da7389",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In macroeconomics, which of the following is considered a component of M1 measure of money supply in India?",
+  "qHi": "समष्टि अर्थशास्त्र में, भारत में मुद्रा आपूर्ति के M1 माप का घटक निम्नलिखित में से किसे माना जाता है?",
+  "optsEn": [
+   "Time deposits with banks",
+   "Total post office savings",
+   "Currency held by the public and demand deposits with banks",
+   "Net fixed assets of commercial banks"
+  ],
+  "optsHi": [
+   "बैंकों के पास सावधि जमा",
+   "कुल डाकघर बचत",
+   "जनता के पास मुद्रा और बैंकों के पास मांग जमा",
+   "वाणिज्यिक बैंकों की शुद्ध अचल संपत्तियां"
+  ],
+  "correct": 2,
+  "explainEn": "M1 is the narrow money measure defined as Currency with the Public (CU) plus Demand Deposits with the banking system (DD).",
+  "sourceHint": "NCERT Class 12 Economics (Introductory Macroeconomics), Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:30:38Z"
+ },
+ {
+  "id": "q_9a7e98b23e582cbb",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of crystalline solid is silicon dioxide (quartz) classified as?",
+  "qHi": "सिलिकन डाइऑक्साइड (क्वाटर्स) को किस प्रकार के क्रिस्टलीय ठोस के रूप में वर्गीकृत किया गया है?",
+  "optsEn": [
+   "Ionic solid",
+   "Metallic solid",
+   "Molecular solid",
+   "Network covalent solid"
+  ],
+  "optsHi": [
+   "आयनिक ठोस",
+   "धात्विक ठोस",
+   "आणविक ठोस",
+   "नेटवर्क सहसंयोजक ठोस"
+  ],
+  "correct": 3,
+  "explainEn": "Silicon dioxide is a network covalent solid where silicon and oxygen atoms are linked together in a giant three-dimensional covalent lattice.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:30:38Z"
  }
 ]

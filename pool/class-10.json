@@ -13662,5 +13662,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-16T21:12:07Z"
+ },
+ {
+  "id": "q_f6b112fa1690cd1b",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which metal is obtained from bauxite ore?",
+  "qHi": "बॉक्साइट अयस्क से कौन सी धातु प्राप्त होती है?",
+  "optsEn": [
+   "Copper",
+   "Iron",
+   "Aluminium",
+   "Gold"
+  ],
+  "optsHi": [
+   "तांबा",
+   "लोहा",
+   "एल्युमीनियम",
+   "सोना"
+  ],
+  "correct": 2,
+  "explainEn": "Bauxite is a clayey rock that is the primary ore of aluminium.",
+  "sourceHint": "NCERT Class 10 Geography Chapter 5 Minerals and Energy Resources",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:28:56Z"
+ },
+ {
+  "id": "q_78f1708d4a2bfba4",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary motive of production in a public sector enterprise?",
+  "qHi": "सार्वजनिक क्षेत्र के उद्यम में उत्पादन का मुख्य उद्देश्य क्या होता है?",
+  "optsEn": [
+   "Profit maximization",
+   "Public welfare and social service",
+   "Charity only",
+   "Export promotion only"
+  ],
+  "optsHi": [
+   "लाभ अधिकतम करना",
+   "जन कल्याण और सामाजिक सेवा",
+   "केवल दान",
+   "केवल निर्यात प्रोत्साहन"
+  ],
+  "correct": 1,
+  "explainEn": "Public sector enterprises are owned and managed by the government with a focus on public welfare rather than just earning profit.",
+  "sourceHint": "NCERT Class 10 Economics Chapter 4 Globalisation and the Indian Economy",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:28:56Z"
+ },
+ {
+  "id": "q_00eb54dab852980b",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organ of government is responsible for implementing laws and running administration?",
+  "qHi": "सरकार का कौन सा अंग कानूनों को लागू करने और प्रशासन चलाने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Legislature",
+   "Executive",
+   "Judiciary",
+   "Election Commission"
+  ],
+  "optsHi": [
+   "विधायिका",
+   "कार्यपालिका",
+   "न्यायपालिका",
+   "चुनाव आयोग"
+  ],
+  "correct": 1,
+  "explainEn": "The Executive is the branch of government charged with the execution and enforcement of laws.",
+  "sourceHint": "NCERT Class 10 Civics Chapter 1 Power Sharing",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:28:56Z"
+ },
+ {
+  "id": "q_48e43b158f347891",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which type of power plant is water heated using nuclear fission of radioactive elements?",
+  "qHi": "किस प्रकार के बिजली संयंत्र में रेडियोएक्टिव तत्वों के नाभिकीय विखंडन का उपयोग करके पानी को गर्म किया जाता है?",
+  "optsEn": [
+   "Thermal power plant",
+   "Nuclear power plant",
+   "Hydroelectric power plant",
+   "Geothermal power plant"
+  ],
+  "optsHi": [
+   "तापीय विद्युत संयंत्र",
+   "परमाणु ऊर्जा संयंत्र",
+   "जलविद्युत संयंत्र",
+   "भू-ऊष्मीय ऊर्जा संयंत्र"
+  ],
+  "correct": 1,
+  "explainEn": "Nuclear power plants use the energy released by the fission of uranium or similar elements to boil water into steam, which then turns turbines.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:30:33Z"
+ },
+ {
+  "id": "q_bbee526e038c479e",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of soil is most suitable for growing cotton in India?",
+  "qHi": "भारत में कपास उगाने के लिए किस प्रकार की मिट्टी सबसे अधिक उपयुक्त है?",
+  "optsEn": [
+   "Laterite soil",
+   "Black soil",
+   "Red soil",
+   "Desert soil"
+  ],
+  "optsHi": [
+   "लैटेराइट मिट्टी",
+   "काली मिट्टी",
+   "लाल मिट्टी",
+   "मरुस्थलीय मिट्टी"
+  ],
+  "correct": 1,
+  "explainEn": "Black soil, also known as regur soil, is ideal for growing cotton due to its high moisture retention capacity.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:30:33Z"
  }
 ]

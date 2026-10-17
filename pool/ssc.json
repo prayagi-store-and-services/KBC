@@ -10078,5 +10078,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-16T21:12:27Z"
+ },
+ {
+  "id": "q_e39b046558470408",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following dynasties constructed the Ellora Caves?",
+  "qHi": "निम्नलिखित में से किस राजवंश ने एलोरा गुफाओं का निर्माण करवाया था?",
+  "optsEn": [
+   "Mauryan Dynasty",
+   "Rashtrakuta Dynasty",
+   "Gupta Dynasty",
+   "Chola Dynasty"
+  ],
+  "optsHi": [
+   "मौर्य वंश",
+   "राष्ट्रकूट वंश",
+   "गुप्त वंश",
+   "चोल वंश"
+  ],
+  "correct": 1,
+  "explainEn": "The Ellora Caves were built during the rule of the Rashtrakuta dynasty, with cave 16 being the famous Kailash temple.",
+  "sourceHint": "NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:30:11Z"
+ },
+ {
+  "id": "q_0d09eb7c7ee429a3",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin deficiency causes the disease known as beri-beri?",
+  "qHi": "किस विटामिन की कमी के कारण बेरी-बेरी नामक रोग होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B1",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी1",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 1,
+  "explainEn": "Beri-beri is a disease caused by a deficiency of Vitamin B1, also known as thiamine.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:30:11Z"
+ },
+ {
+  "id": "q_c1adbbd5dd9f918f",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian monetary policy, which institution is legally mandated to fix the benchmark interest rate under the Flexible Inflation Targeting framework?",
+  "qHi": "भारतीय मौद्रिक नीति के संदर्भ में, किस संस्था को लचीली मुद्रास्फीति लक्ष्यीकरण (Flexible Inflation Targeting) फ्रेमवर्क के तहत बेंचमार्क ब्याज दर तय करने का कानूनी अधिकार प्राप्त है?",
+  "optsEn": [
+   "Ministry of Finance",
+   "Reserve Bank of India Governor",
+   "Monetary Policy Committee",
+   "NITI Aayog"
+  ],
+  "optsHi": [
+   "वित्त मंत्रालय",
+   "भारतीय रिजर्व बैंक के गवर्नर",
+   "मौद्रिक नीति समिति",
+   "नीति आयोग"
+  ],
+  "correct": 2,
+  "explainEn": "Under Section 45ZB of the RBI Act, 1934, the Central Government is empowered to constitute a six-member Monetary Policy Committee (MPC) to determine the policy interest rate required to achieve the inflation target.",
+  "sourceHint": "RBI Act, 1934 / Indian Economy by Ramesh Singh",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:30:50Z"
+ },
+ {
+  "id": "q_f731456716cb1307",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following archaeological sites is famous for yielding the largest Harappan reservoir and a sophisticated water management system?",
+  "qHi": "निम्नलिखित में से कौन सा पुरातात्विक स्थल सबसे बड़े हड़प्पा कालीन जलाशय और एक परिष्कृत जल प्रबंधन प्रणाली के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Kalibangan",
+   "Dholavira",
+   "Rakhigarhi",
+   "Banawali"
+  ],
+  "optsHi": [
+   "कालीबंगा",
+   "धोलावीरा",
+   "राखीगढ़ी",
+   "बनावाली"
+  ],
+  "correct": 1,
+  "explainEn": "Dholavira, located in Gujarat, is renowned for its unique water management system, featuring a series of massive stone-cut water reservoirs and stepwells.",
+  "sourceHint": "NCERT Class 12 History - Themes in Indian History Part I",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:30:50Z"
+ },
+ {
+  "id": "q_66972f2cd587232b",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "The 'Kaziranga Tiger Reserve' is primarily bounded to the north by which major river?",
+  "qHi": "'काजीरंगा टाइगर रिजर्व' मुख्य रूप से उत्तर में किस प्रमुख नदी से घिरा हुआ है?",
+  "optsEn": [
+   "Brahmaputra River",
+   "Barak River",
+   "Subansiri River",
+   "Manas River"
+  ],
+  "optsHi": [
+   "ब्रह्मपुत्र नदी",
+   "बराक नदी",
+   "सुबनसिरी नदी",
+   "मानस नदी"
+  ],
+  "correct": 0,
+  "explainEn": "Kaziranga National Park and Tiger Reserve is situated in the floodplains of the Brahmaputra River, which forms its northern boundary.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change / Wildlife Institute of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:30:50Z"
+ },
+ {
+  "id": "q_5f5a5cbd03f80d5a",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "The 'Helioseismic and Magnetic Imager' (HMI) and 'Atmospheric Imaging Assembly' (AIA) are key scientific instruments onboard which solar observation space mission?",
+  "qHi": "'हिलियोसिस्मिक एंड मैग्नेटिक इमेजर' (HMI) और 'एटमॉस्फेरिक इमेजिंग असेंबली' (AIA) किस सौर अवलोकन अंतरिक्ष मिशन पर लगे प्रमुख वैज्ञानिक उपकरण हैं?",
+  "optsEn": [
+   "Aditya-L1",
+   "Solar Dynamics Observatory",
+   "Parker Solar Probe",
+   "STEREO"
+  ],
+  "optsHi": [
+   "आदित्य-एल1",
+   "सोलर डायनेमिक्स ऑब्जर्वेटरी",
+   "पार्कर सोलर प्रोब",
+   "स्टीरियो"
+  ],
+  "correct": 1,
+  "explainEn": "Solar Dynamics Observatory (SDO), launched by NASA, carries instruments including HMI and AIA to study the solar atmosphere and magnetic field.",
+  "sourceHint": "NASA Science / Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:30:50Z"
  }
 ]

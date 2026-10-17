@@ -10162,5 +10162,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-16T21:11:57Z"
+ },
+ {
+  "id": "q_dbd9155acf76bc2d",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary source of energy for the water cycle?",
+  "qHi": "जल चक्र के लिए ऊर्जा का मुख्य स्रोत क्या है?",
+  "optsEn": [
+   "Sun",
+   "Wind",
+   "Moon",
+   "Geothermal heat"
+  ],
+  "optsHi": [
+   "सूर्य",
+   " हवा",
+   "चंद्रमा",
+   "भू-तापीय ऊर्जा"
+  ],
+  "correct": 0,
+  "explainEn": "Heat from the sun drives the evaporation of water, powering the water cycle.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:28:51Z"
+ },
+ {
+  "id": "q_7cff6beae274339a",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which battle marked the beginning of the British rule in Bengal?",
+  "qHi": "किस युद्ध ने बंगाल में ब्रिटिश शासन की शुरुआत को चिह्नित किया?",
+  "optsEn": [
+   "Battle of Plassey",
+   "Battle of Buxar",
+   "Battle of Panipat",
+   "Battle of Haldighati"
+  ],
+  "optsHi": [
+   "प्लासी का युद्ध",
+   "बक्सर का युद्ध",
+   "पानीपत का युद्ध",
+   "हल्दीघाटी का युद्ध"
+  ],
+  "correct": 0,
+  "explainEn": "The Battle of Plassey in 1757 established Company rule in Bengal.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T04:28:51Z"
  }
 ]
