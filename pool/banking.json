@@ -16602,5 +16602,425 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-17T10:48:26Z"
+ },
+ {
+  "id": "q_6e3b05162522d418",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum deposit insurance coverage provided by DICGC per depositor per bank?",
+  "qHi": "DICGC द्वारा प्रति depositor प्रति bank अधिकतम जमा बीमा कवरेज कितना प्रदान किया जाता है?",
+  "optsEn": [
+   "5 Lakh Rupees",
+   "1 Lakh Rupees",
+   "2 Lakh Rupees",
+   "10 Lakh Rupees"
+  ],
+  "optsHi": [
+   "5 लाख रुपये",
+   "1 लाख रुपये",
+   "2 लाख रुपये",
+   "10 लाख रुपये"
+  ],
+  "correct": 0,
+  "explainEn": "Deposit Insurance and Credit Guarantee Corporation (DICGC) insures bank deposits up to 5 lakh rupees per depositor per bank.",
+  "sourceHint": "DICGC official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:37:03Z"
+ },
+ {
+  "id": "q_5538873f54987f38",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which term is used to describe a loan granted by a bank without any collateral security?",
+  "qHi": "बिना किसी संपार्श्विक सुरक्षा के बैंक द्वारा दिए गए ऋण को वर्णित करने के लिए किस शब्द का उपयोग किया जाता है?",
+  "optsEn": [
+   "Unsecured loan",
+   "Secured loan",
+   "Mortgage loan",
+   "Pledge loan"
+  ],
+  "optsHi": [
+   "सुरक्षित ऋण",
+   "असुरक्षित ऋण",
+   "बंधक ऋण",
+   "गिरवी ऋण"
+  ],
+  "correct": 0,
+  "explainEn": "An unsecured loan is a loan that is issued and supported only by the borrower's creditworthiness, rather than by any type of collateral.",
+  "sourceHint": "NCERT Business Studies and Banking terminology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:37:03Z"
+ },
+ {
+  "id": "q_8abce986ee6a77bc",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which rate refers to the interest rate at which the Reserve Bank of India lends short-term funds to commercial banks?",
+  "qHi": "वह दर कौन सी है जिस पर भारतीय रिजर्व बैंक वाणिज्यिक बैंकों को अल्पकालिक धन उधार देता है?",
+  "optsEn": [
+   "Repo Rate",
+   "Bank Rate",
+   "Reverse Repo Rate",
+   "Cash Reserve Ratio"
+  ],
+  "optsHi": [
+   "रेपो रेट",
+   "बैंक रेट",
+   "रिवर्स रेपो रेट",
+   "नकद आरक्षित अनुपात"
+  ],
+  "correct": 0,
+  "explainEn": "Repo rate is the rate at which the central bank lends money to commercial banks in the event of any shortfall of funds.",
+  "sourceHint": "RBI monetary policy publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:37:03Z"
+ },
+ {
+  "id": "q_254886ed1ebf7465",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum amount insured per depositor by DICGC in a scheduled commercial bank in India?",
+  "qHi": "भारत में एक अनुसूचित वाणिज्यिक बैंक में DICGC द्वारा प्रति जमाकर्ता अधिकतम कितनी राशि बीमित होती है?",
+  "optsEn": [
+   "Rupees One Lakh",
+   "Rupees Two Lakhs",
+   "Rupees Five Lakhs",
+   "Rupees Ten Lakhs"
+  ],
+  "optsHi": [
+   "एक लाख रुपये",
+   "दो लाख रुपये",
+   "पाँच लाख रुपये",
+   "दस लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "Deposit Insurance and Credit Guarantee Corporation (DICGC) insures bank deposits up to a maximum of Rupees Five Lakhs per depositor per bank.",
+  "sourceHint": "DICGC Official Website and RBI Notifications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:38:20Z"
+ },
+ {
+  "id": "q_b2bf055d8865258d",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which monetary policy instrument refers to the rate at which the Reserve Bank of India absorbs liquidity from commercial banks?",
+  "qHi": "किस मौद्रिक नीति उपकरण का तात्पर्य उस दर से है जिस पर भारतीय रिजर्व बैंक वाणिज्यिक बैंकों से तरलता को अवशोषित करता है?",
+  "optsEn": [
+   "Repo Rate",
+   "Reverse Repo Rate",
+   "Bank Rate",
+   "Statutory Liquidity Ratio"
+  ],
+  "optsHi": [
+   "रेपो रेट",
+   "रिवर्स रेपो रेट",
+   "बैंक रेट",
+   "वैधानिक तरलता अनुपात"
+  ],
+  "correct": 1,
+  "explainEn": "Reverse Repo Rate is the rate at which the central bank borrows money from commercial banks or absorbs liquidity from them.",
+  "sourceHint": "RBI Monetary Policy Report and NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:38:20Z"
+ },
+ {
+  "id": "q_be97a17cd6847634",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "How many digits are present in an Indian Financial System Code (IFSC)?",
+  "qHi": "भारतीय वित्तीय प्रणाली कोड (IFSC) में कितने अंक होते हैं?",
+  "optsEn": [
+   "9 digits",
+   "10 digits",
+   "11 digits",
+   "12 digits"
+  ],
+  "optsHi": [
+   "9 अंक",
+   "10 अंक",
+   "11 अंक",
+   "12 अंक"
+  ],
+  "correct": 2,
+  "explainEn": "An IFSC is an 11-character alpha-numeric code that uniquely identifies a bank branch participating in electronic funds transfer systems.",
+  "sourceHint": "RBI Payment Systems Documentation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:38:20Z"
+ },
+ {
+  "id": "q_eed69b6fe5010e0b",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which entity operates the Unified Payments Interface (UPI) ecosystem in India?",
+  "qHi": "भारत में यूनिफाइड पेमेंट इंटरफेस (UPI) पारिस्थितिकी तंत्र का संचालन कौन सी संस्था करती है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "National Payments Corporation of India",
+   "Ministry of Finance",
+   "Indian Banks Association"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय राष्ट्रीय भुगतान निगम",
+   "वित्त मंत्रालय",
+   "भारतीय बैंक संघ"
+  ],
+  "correct": 1,
+  "explainEn": "NPCI (National Payments Corporation of India) is the umbrella organization for operating retail payments and settlement systems in India, including UPI.",
+  "sourceHint": "NPCI Official Portal and RBI Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:38:20Z"
+ },
+ {
+  "id": "q_d13b01351c48ab41",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the term 'Basel Norms' primarily relate to in the banking sector?",
+  "qHi": "बैंकिंग क्षेत्र में 'बेसल मानदंड' शब्द मुख्य रूप से किससे संबंधित है?",
+  "optsEn": [
+   "Agricultural credit targets",
+   "Capital adequacy and risk management",
+   "Foreign exchange reserves",
+   "Customer grievance redressal"
+  ],
+  "optsHi": [
+   "कृषि ऋण लक्ष्य",
+   "पूंजी पर्याप्तता और जोखिम प्रबंधन",
+   "विदेशी मुद्रा भंडार",
+   "ग्राहक शिकायत निवारण"
+  ],
+  "correct": 1,
+  "explainEn": "Basel Norms are international banking regulations issued by the Basel Committee on Banking Supervision, focusing on capital adequacy, stress testing, and market risk.",
+  "sourceHint": "Bank for International Settlements (BIS) and RBI Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:38:20Z"
+ },
+ {
+  "id": "q_dae32b376be7a077",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which section of the Banking Regulation Act, 1949 restricts a banking company from paying out dividends on its shares until all of its capitalized expenses have been completely written off?",
+  "qHi": "बैंकिंग विनियमन अधिनियम, 1949 की कौन सी धारा किसी बैंकिंग कंपनी को अपने शेयरों पर लाभांश देने से तब तक रोकती है जब तक कि उसके सभी पूंजीकृत खर्च पूरी तरह से बट्टे खाते में नहीं डाल दिए जाते?",
+  "optsEn": [
+   "Section 12",
+   "Section 15",
+   "Section 20",
+   "Section 24"
+  ],
+  "optsHi": [
+   "धारा 12",
+   "धारा 15",
+   "धारा 20",
+   "धारा 24"
+  ],
+  "correct": 1,
+  "explainEn": "Section 15 of the Banking Regulation Act, 1949 prohibits payment of dividend until capitalized expenses are completely written off.",
+  "sourceHint": "Banking Regulation Act, 1949",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:39:21Z"
+ },
+ {
+  "id": "q_3ce9735b01e91b6b",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian monetary policy, what is the upper tolerance limit for the Consumer Price Index (CPI) inflation set by the Central Government in consultation with the Reserve Bank of India?",
+  "qHi": "भारतीय मौद्रिक नीति के संदर्भ में, भारतीय रिजर्व बैंक के परामर्श से केंद्र सरकार द्वारा उपभोक्ता मूल्य सूचकांक (CPI) मुद्रास्फीति के लिए ऊपरी सहिष्णुता सीमा क्या निर्धारित की गई है?",
+  "optsEn": [
+   "2 percent",
+   "4 percent",
+   "6 percent",
+   "8 percent"
+  ],
+  "optsHi": [
+   "2 प्रतिशत",
+   "4 प्रतिशत",
+   "6 प्रतिशत",
+   "8 प्रतिशत"
+  ],
+  "correct": 2,
+  "explainEn": "The inflation target is 4% with a tolerance band of +/- 2 percent, making 6% the upper limit and 2% the lower limit.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:39:21Z"
+ },
+ {
+  "id": "q_3d31d1298e0c650a",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the minimum Net Owned Fund (NOF) requirement mandated by the RBI for setting up a new Universal Bank in the private sector?",
+  "qHi": "निजी क्षेत्र में एक नया यूनिवर्सल बैंक स्थापित करने के लिए आरबीआई द्वारा अनिवार्य न्यूनतम शुद्ध स्वामित्व कोष (NOF) की आवश्यकता क्या है?",
+  "optsEn": [
+   "Rs 200 crore",
+   "Rs 500 crore",
+   "Rs 1000 crore",
+   "Rs 5000 crore"
+  ],
+  "optsHi": [
+   "200 करोड़ रुपये",
+   "500 करोड़ रुपये",
+   "1000 करोड़ रुपये",
+   "5000 करोड़ रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "As per the guidelines for licensing of universal banks in the private sector issued by RBI, the minimum initial net owned fund shall be Rs 1000 crore.",
+  "sourceHint": "RBI Guidelines on On-tap Licensing of Universal Banks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:39:21Z"
+ },
+ {
+  "id": "q_6fc961c2ea9ba19e",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which international agreement introduced capital adequacy ratios, often referred to as risk-weighted asset ratios, for commercial banks?",
+  "qHi": "किस अंतरराष्ट्रीय समझौते ने वाणिज्यिक बैंकों के लिए पूंजी पर्याप्तता अनुपात, जिसे अक्सर जोखिम-भारित परिसंपत्ति अनुपात कहा जाता है, की शुरुआत की?",
+  "optsEn": [
+   "Bretton Woods Agreement",
+   "Basel Accord",
+   "Kyoto Protocol",
+   "Washington Consensus"
+  ],
+  "optsHi": [
+   "ब्रेटन वुड्स समझौता",
+   "बासेल समझौता",
+   "क्योटो प्रोटोकॉल",
+   "वाशिंगटन आम सहमति"
+  ],
+  "correct": 1,
+  "explainEn": "The Basel Accords, issued by the Basel Committee on Banking Supervision, establish international standards for bank capital adequacy.",
+  "sourceHint": "Bank for International Settlements",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:39:21Z"
+ },
+ {
+  "id": "q_b4d75054163e3d42",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque is defined as a bill of exchange drawn on a specified banker and payable:",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, चेक को एक विशिष्ट बैंकर पर खींची गई विनिमय पत्र के रूप में परिभाषित किया गया है और इसका भुगतान देय है:",
+  "optsEn": [
+   "Only on a specified date",
+   "On demand",
+   "After a notice period of 30 days",
+   "Only through electronic clearing"
+  ],
+  "optsHi": [
+   "केवल एक निश्चित तिथि पर",
+   "मांग पर",
+   "30 दिनों की सूचना अवधि के बाद",
+   "केवल इलेक्ट्रॉनिक क्लीयरिंग के माध्यम से"
+  ],
+  "correct": 1,
+  "explainEn": "Section 6 of the Negotiable Instruments Act defines a cheque as a bill of exchange drawn on a specified banker and expressed to be payable otherwise than on demand.",
+  "sourceHint": "Negotiable Instruments Act, 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:39:21Z"
+ },
+ {
+  "id": "q_13c8d5ccb060f7ad",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which type of financial market deals with the issuance and trading of short-term debt instruments with maturities ranging up to one year?",
+  "qHi": "किस प्रकार का वित्तीय बाजार एक वर्ष तक की परिपक्वता वाले अल्पकालिक ऋण उपकरणों के निर्गमन और व्यापार से संबंधित है?",
+  "optsEn": [
+   "Capital Market",
+   "Money Market",
+   "Foreign Exchange Market",
+   "Derivatives Market"
+  ],
+  "optsHi": [
+   "पूंजी बाजार",
+   "मुद्रा बाजार",
+   "विदेशी मुद्रा बाजार",
+   "व्युत्पन्न बाजार"
+  ],
+  "correct": 1,
+  "explainEn": "The money market is the market for short-term financial assets having a maturity period of up to one year.",
+  "sourceHint": "Reserve Bank of India Functions and Working",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:39:21Z"
+ },
+ {
+  "id": "q_0e45523c7c6464fa",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What does the term 'Prompt Corrective Action' (PCA) framework by the RBI primarily seek to monitor for commercial banks?",
+  "qHi": "आरबीआई द्वारा 'शीघ्र सुधारात्मक कार्रवाई' (PCA) फ्रेमवर्क का मुख्य उद्देश्य वाणिज्यिक बैंकों के लिए किसकी निगरानी करना है?",
+  "optsEn": [
+   "Customer grievance redressal speed",
+   "Capital, asset quality, and profitability",
+   "Foreign exchange exposure limits",
+   "Rural branch expansion targets"
+  ],
+  "optsHi": [
+   "ग्राहक शिकायत निवारण गति",
+   "पूंजी, संपत्ति की गुणवत्ता और लाभप्रदता",
+   "विदेशी मुद्रा जोखिम सीमा",
+   "ग्रामीण शाखा विस्तार लक्ष्य"
+  ],
+  "correct": 1,
+  "explainEn": "The PCA framework is a tool to monitor key parameters of banks such as capital, asset quality, and profitability.",
+  "sourceHint": "RBI Master Directions on PCA Framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:39:21Z"
  }
 ]

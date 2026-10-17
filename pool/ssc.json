@@ -10526,5 +10526,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-17T10:48:00Z"
+ },
+ {
+  "id": "q_f0efda5aac1c62f2",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Hirakud Dam, one of the longest major earthen dams, is built across which river?",
+  "qHi": "हीराकुंड बांध, जो सबसे लंबे प्रमुख मिट्टी के बांधों में से एक है, किस नदी पर बनाया गया है?",
+  "optsEn": [
+   "Ganga",
+   "Mahanadi",
+   "Narmada",
+   "Kaveri"
+  ],
+  "optsHi": [
+   "गंगा",
+   "महानदी",
+   "नर्मदा",
+   "कावेरी"
+  ],
+  "correct": 1,
+  "explainEn": "Hirakud Dam is constructed across the Mahanadi River in Odisha.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:37:55Z"
+ },
+ {
+  "id": "q_e6201d36a4f1982d",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which historical monument is famously known as the Tegh Bahadur Memorial?",
+  "qHi": "किस ऐतिहासिक स्मारक को तेग बहादुर स्मारक के रूप में भी जाना जाता है?",
+  "optsEn": [
+   "Qutub Minar",
+   "Red Fort Complex",
+   "Gurdwara Sis Ganj Sahib",
+   "Humayun Tomb"
+  ],
+  "optsHi": [
+   "कुतुब मीनार",
+   "लाल किला परिसर",
+   "गुरुद्वारा सीस गंज साहिब",
+   "हुमायूं का मकबरा"
+  ],
+  "correct": 2,
+  "explainEn": "Gurdwara Sis Ganj Sahib in Delhi marks the site where Guru Tegh Bahadur was martyred.",
+  "sourceHint": "NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:37:55Z"
+ },
+ {
+  "id": "q_08b2965ccde3fac4",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who among the following propounded the 'Drain of Wealth' theory during the British colonial rule in India?",
+  "qHi": "ब्रिटिश colonial शासन के दौरान भारत में 'धन की निकासी' (Drain of Wealth) सिद्धांत का प्रतिपादन निम्नलिखित में से किसने किया था?",
+  "optsEn": [
+   "Dadabhai Naoroji",
+   "Surendranath Banerjee",
+   "Gopal Krishna Gokhale",
+   "Bal Gangadhar Tilak"
+  ],
+  "optsHi": [
+   "दादाभाई नौरोजी",
+   "सुरेंद्रनाथ बनर्जी",
+   "गोपाल कृष्ण गोखले",
+   "बाल गंगाधर तिलक"
+  ],
+  "correct": 0,
+  "explainEn": "Dadabhai Naoroji propounded the 'Drain of Wealth' theory in his book 'Poverty and Un-British Rule in India', explaining how Britain was draining India's wealth.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:39:15Z"
+ },
+ {
+  "id": "q_f0fe2b61883ba96f",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following atmospheric layers is responsible for reflecting radio waves back to the Earth?",
+  "qHi": "निम्नलिखित में से कौन सी वायुमंडलीय परत रेडियो तरंगों को वापस पृथ्वी पर परावर्तित करने के लिए उत्तरदायी है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षوبमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 3,
+  "explainEn": "The thermosphere contains the ionosphere layer, which is abundant in electrically charged ions that reflect radio waves back to Earth.",
+  "sourceHint": "NCERT Class 7 Geography, Our Environment",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:39:15Z"
  }
 ]

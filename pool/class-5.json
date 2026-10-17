@@ -14138,5 +14138,397 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-17T10:48:36Z"
+ },
+ {
+  "id": "q_8cb3cf6a63d77ab9",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following organs helps us to breathe?",
+  "qHi": "निम्नलिखित में से कौन सा अंग हमें सांस लेने में मदद करता है?",
+  "optsEn": [
+   "Heart",
+   "Lungs",
+   "Stomach",
+   "Kidneys"
+  ],
+  "optsHi": [
+   "हृदय",
+   "फेफड़े",
+   "पेट",
+   "गुर्दे"
+  ],
+  "correct": 1,
+  "explainEn": "Lungs are the main respiratory organs in the human body used for breathing.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:37:12Z"
+ },
+ {
+  "id": "q_58c8c71ac6839257",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which is the national fruit of India?",
+  "qHi": "भारत का राष्ट्रीय फल कौन सा है?",
+  "optsEn": [
+   "Apple",
+   "Banana",
+   "Mango",
+   "Orange"
+  ],
+  "optsHi": [
+   "सेब",
+   "केला",
+   "आम",
+   "संतरा"
+  ],
+  "correct": 2,
+  "explainEn": "The mango is the tropical fruit produced by numerous species of tropical trees and is the national fruit of India.",
+  "sourceHint": "NCERT Environment Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:37:12Z"
+ },
+ {
+  "id": "q_aefb231724e63896",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which direction does the Sun rise?",
+  "qHi": "सूर्य किस दिशा में उगता है?",
+  "optsEn": [
+   "East",
+   "West",
+   "North",
+   "South"
+  ],
+  "optsHi": [
+   "पूर्व",
+   "पश्चिम",
+   "उत्तर",
+   "दक्षिण"
+  ],
+  "correct": 0,
+  "explainEn": "Due to the rotation of the Earth, the Sun appears to rise in the east and set in the west.",
+  "sourceHint": "NCERT Geography basics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:37:12Z"
+ },
+ {
+  "id": "q_ab845e23d253d853",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these is a domestic animal?",
+  "qHi": "इनमें से कौन सा पालतू जानवर है?",
+  "optsEn": [
+   "Lion",
+   "Tiger",
+   "Cow",
+   "Zebra"
+  ],
+  "optsHi": [
+   "शेर",
+   "बाघ",
+   "गाय",
+   "जेब्रा"
+  ],
+  "correct": 2,
+  "explainEn": "Cows are domesticated animals raised for milk and agricultural labour, unlike wild animals such as lions and tigers.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:37:12Z"
+ },
+ {
+  "id": "q_6fe4ac0e9f3e44b9",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the main source of water on Earth?",
+  "qHi": "पृथ्वी पर पानी का मुख्य स्रोत क्या है?",
+  "optsEn": [
+   "Rain",
+   "Rivers",
+   "Tap",
+   "Well"
+  ],
+  "optsHi": [
+   "वर्षा",
+   "नदियाँ",
+   "नल",
+   "कुआँ"
+  ],
+  "correct": 0,
+  "explainEn": "Rain is the primary natural source of freshwater on Earth that fills rivers, lakes, and ponds.",
+  "sourceHint": "NCERT Class 5 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:37:12Z"
+ },
+ {
+  "id": "q_3e7ca217f7258ae2",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which part of the plant is normally under the soil?",
+  "qHi": "पौधे का कौन सा भाग सामान्यतः मिट्टी के नीचे होता है?",
+  "optsEn": [
+   "Leaf",
+   "Flower",
+   "Root",
+   "Stem"
+  ],
+  "optsHi": [
+   "पत्ती",
+   "फूल",
+   "जड़",
+   "तना"
+  ],
+  "correct": 2,
+  "explainEn": "Roots grow underground, anchoring the plant and absorbing water and minerals from the soil.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:37:12Z"
+ },
+ {
+  "id": "q_3f56eb305682ca1a",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is a Kharif crop harvested in autumn in India?",
+  "qHi": "निम्नलिखित में से कौन सी भारत में शरद ऋतु में काटी जाने वाली खरीफ फसल है?",
+  "optsEn": [
+   "Wheat",
+   "Rice",
+   "Barley",
+   "Gram"
+  ],
+  "optsHi": [
+   "गेहूँ",
+   "चावल",
+   "जौ",
+   "चना"
+  ],
+  "correct": 1,
+  "explainEn": "Rice is a major Kharif crop grown during the rainy season and harvested in autumn.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:38:29Z"
+ },
+ {
+  "id": "q_ca417845696ad45c",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who is the constitutional head of the Republic of India?",
+  "qHi": "भारत गणराज्य के संवैधानिक प्रमुख कौन हैं?",
+  "optsEn": [
+   "Prime Minister",
+   "President",
+   "Chief Justice",
+   "Vice President"
+  ],
+  "optsHi": [
+   "प्रधान मंत्री",
+   "राष्ट्रपति",
+   "मुख्य न्यायाधीश",
+   "उप राष्ट्रपति"
+  ],
+  "correct": 1,
+  "explainEn": "The President of India is the head of the state and the constitutional head of the country.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:38:29Z"
+ },
+ {
+  "id": "q_aa181f248d42c488",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of energy is obtained from the Sun?",
+  "qHi": "सूर्य से किस प्रकार की ऊर्जा प्राप्त होती है?",
+  "optsEn": [
+   "Solar energy",
+   "Wind energy",
+   "Geothermal energy",
+   "Hydro energy"
+  ],
+  "optsHi": [
+   "सौर ऊर्जा",
+   "पवन ऊर्जा",
+   "भू-तापीय ऊर्जा",
+   "जल ऊर्जा"
+  ],
+  "correct": 0,
+  "explainEn": "Energy harnessed directly from sunlight is called solar energy.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:38:29Z"
+ },
+ {
+  "id": "q_08af38a54cae7ecc",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which is the primary producer in a typical aquatic food chain in a pond?",
+  "qHi": "एक तालाब में विशिष्ट जलीय खाद्य श्रृंखला में प्राथमिक उत्पादक कौन है?",
+  "optsEn": [
+   "Small fish",
+   "Algae",
+   "Frog",
+   "Heron"
+  ],
+  "optsHi": [
+   "छोटी मछली",
+   "शैवाल",
+   "मेंढक",
+   "बगुला"
+  ],
+  "correct": 1,
+  "explainEn": "Algae are microscopic plants that act as primary producers by making their own food using sunlight.",
+  "sourceHint": "NCERT Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:38:29Z"
+ },
+ {
+  "id": "q_9a617b091af65e12",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which part of the plant does the process of transpiration primarily take place through microscopic pores?",
+  "qHi": "पौधे के किस भाग में वाष्पसर्जन की प्रक्रिया मुख्य रूप से सूक्ष्म छिद्रों के माध्यम से होती है?",
+  "optsEn": [
+   "Roots",
+   "Stem",
+   "Leaves",
+   "Flowers"
+  ],
+  "optsHi": [
+   "जड़ें",
+   "तना",
+   "पत्तियां",
+   "फूल"
+  ],
+  "correct": 2,
+  "explainEn": "Transpiration is the loss of water from plants in the form of water vapour, which mainly occurs through stomata present on the leaves.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:39:30Z"
+ },
+ {
+  "id": "q_9c5ef586ea3225c2",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of joint is present between your skull bones that does not allow any movement?",
+  "qHi": "आपकी खोपड़ी की हड्डियों के बीच किस प्रकार की संधि होती है जो किसी भी गति की अनुमति नहीं देती है?",
+  "optsEn": [
+   "Hinge joint",
+   "Ball and socket joint",
+   "Fixed joint",
+   "Pivot joint"
+  ],
+  "optsHi": [
+   "कब्जा संधि",
+   "कंदुक-खलिका संधि",
+   "अचल संधि",
+   "धुराग्र संधि"
+  ],
+  "correct": 2,
+  "explainEn": "Some bones in the head are joined together by joints that cannot move; these are called fixed joints.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:39:30Z"
+ },
+ {
+  "id": "q_8b0b91f91be50eae",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the standard term for the process by which liquid changes into gas at any temperature below its boiling point?",
+  "qHi": "उस प्रक्रिया के लिए मानक शब्द क्या है जिसके द्वारा तरल अपने क्वथनांक से नीचे किसी भी तापमान पर गैस में बदल जाता है?",
+  "optsEn": [
+   "Condensation",
+   "Evaporation",
+   "Melting",
+   "Sublimation"
+  ],
+  "optsHi": [
+   "संघनन",
+   "वाष्पीकरण",
+   "पिघलना",
+   "ऊर्ध्वपातन"
+  ],
+  "correct": 1,
+  "explainEn": "Evaporation is the phenomenon of change of a liquid into vapours at any temperature below its boiling point.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:39:30Z"
+ },
+ {
+  "id": "q_e9d909dc050b2640",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional Indian stepwell is designed as a multi-storied step-well primarily used for conserving rainwater?",
+  "qHi": "कौन सी पारंपरिक भारतीय बावड़ी एक बहु-मंजिला सीढ़ीदार कुएं के रूप में डिज़ाइन की गई है जिसका उपयोग मुख्य रूप से वर्षा जल के संरक्षण के लिए किया जाता था?",
+  "optsEn": [
+   "Baoli",
+   "Ghat",
+   "Stupa",
+   "Dome"
+  ],
+  "optsHi": [
+   "बावली",
+   "घाट",
+   "स्तूप",
+   "गुंबद"
+  ],
+  "correct": 0,
+  "explainEn": "Stepwells, locally known as baolis, were traditional methods of rainwater harvesting and storage in India.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:39:30Z"
  }
 ]

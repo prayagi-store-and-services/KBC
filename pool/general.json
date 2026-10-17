@@ -11030,5 +11030,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-17T10:47:28Z"
+ },
+ {
+  "id": "q_213ce5bd322f5e78",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these is the largest continent by land area?",
+  "qHi": "इनमें से क्षेत्रफल की दृष्टि से सबसे बड़ा महाद्वीप कौन सा है?",
+  "optsEn": [
+   "Africa",
+   "Asia",
+   "North America",
+   "Antarctica"
+  ],
+  "optsHi": [
+   "अफ़्रीका",
+   "एशिया",
+   "उत्तरी अमेरिका",
+   "अंटार्कटिका"
+  ],
+  "correct": 1,
+  "explainEn": "Asia is the world's largest and most populous continent.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:37:08Z"
+ },
+ {
+  "id": "q_26c8ce857a2980a5",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which planet in our solar system is known for having the most prominent ring system?",
+  "qHi": "हमारे सौर मंडल में किस ग्रह को उसकी सबसे प्रमुख वलय प्रणाली के लिए जाना जाता है?",
+  "optsEn": [
+   "Jupiter",
+   "Saturn",
+   "Uranus",
+   "Neptune"
+  ],
+  "optsHi": [
+   "बृहस्पति",
+   "शनि",
+   "अरुण",
+   "वरुण"
+  ],
+  "correct": 1,
+  "explainEn": "Saturn has the largest and most visible ring system in the solar system, composed mostly of ice particles and rocky debris.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:38:24Z"
+ },
+ {
+  "id": "q_991a21c6fee0711a",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary chemical component of natural gas used for domestic cooking in India?",
+  "qHi": "भारत में घरेलू खाना पकाने के लिए उपयोग की जाने वाली प्राकृतिक गैस का मुख्य रासायनिक घटक क्या है?",
+  "optsEn": [
+   "Methane",
+   "Propane",
+   "Butane",
+   "Ethane"
+  ],
+  "optsHi": [
+   "मीथेन",
+   "प्रोपेन",
+   "ब्यूटेन",
+   "एथेन"
+  ],
+  "correct": 0,
+  "explainEn": "Natural gas consists primarily of methane, whereas LPG used in cylinders is typically a mixture of propane and butane.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:38:24Z"
+ },
+ {
+  "id": "q_91514ea74299b16a",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the famous play 'Meghaduta' in classical Sanskrit literature?",
+  "qHi": "शास्त्रीय संस्कृत साहित्य में प्रसिद्ध नाटक 'मेघदूत' किसने लिखा था?",
+  "optsEn": [
+   "Kalidasa",
+   "Bhasa",
+   "Shudraka",
+   "Bhavabhuti"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "भास",
+   "शूद्रक",
+   "भवभूति"
+  ],
+  "correct": 0,
+  "explainEn": "Meghaduta is a lyric poem written by Kalidasa, widely considered to be one of the greatest Sanskrit poets and dramatists.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:38:24Z"
+ },
+ {
+  "id": "q_26629194f675529b",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin is synthesized in the human skin upon exposure to ultraviolet sunlight?",
+  "qHi": "पराबैंगनी धूप के संपर्क में आने पर मानव त्वचा में कौन सा विटामिन संश्लेषित होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B12",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी12",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Vitamin D is produced in the skin when cholesterol reacts with ultraviolet B (UVB) radiation from sunlight.",
+  "sourceHint": "NCERT Biology Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:38:24Z"
+ },
+ {
+  "id": "q_26f50ed477396451",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who wrote the ancient Sanskrit treatise on statecraft, the Arthashastra?",
+  "qHi": "राज्यकला पर प्राचीन संस्कृत ग्रंथ 'अर्थशास्त्र' की रचना किसने की थी?",
+  "optsEn": [
+   "Kalidasa",
+   "Kautilya",
+   "Banabhatta",
+   "Visakhadatta"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "कौटिल्य",
+   "बाणभट्ट",
+   "विशाखदत्त"
+  ],
+  "correct": 1,
+  "explainEn": "The Arthashastra was authored by Kautilya, also known as Chanakya.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:39:26Z"
+ },
+ {
+  "id": "q_2156dea586e9aeaf",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which planet is the second largest in our solar system by mass?",
+  "qHi": "द्रव्यमान के आधार पर हमारे सौर मंडल का दूसरा सबसे बड़ा ग्रह कौन सा है?",
+  "optsEn": [
+   "Saturn",
+   "Neptune",
+   "Uranus",
+   "Earth"
+  ],
+  "optsHi": [
+   "शनि",
+   "नेपच्यून",
+   "अरुण",
+   "पृथ्वी"
+  ],
+  "correct": 0,
+  "explainEn": "Jupiter is the largest and Saturn is the second largest planet in the solar system by mass.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:39:26Z"
+ },
+ {
+  "id": "q_8a52c086caa6c23a",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the chemical symbol for the element Tungsten?",
+  "qHi": "टंगस्टन तत्व का रासायनिक प्रतीक क्या है?",
+  "optsEn": [
+   "Ta",
+   "Tn",
+   "W",
+   "Tg"
+  ],
+  "optsHi": [
+   "Ta",
+   "Tn",
+   "W",
+   "Tg"
+  ],
+  "correct": 2,
+  "explainEn": "The chemical symbol W for tungsten comes from Wolfram, its former name.",
+  "sourceHint": "NCERT Chemistry Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:39:26Z"
+ },
+ {
+  "id": "q_a90d627b83399947",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian city is home to the headquarters of the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक का मुख्यालय भारत के किस शहर में स्थित है?",
+  "optsEn": [
+   "New Delhi",
+   "Mumbai",
+   "Kolkata",
+   "Chennai"
+  ],
+  "optsHi": [
+   "नई दिल्ली",
+   "मुंबई",
+   "कोलकाता",
+   "चेन्नई"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India was established in 1935 and its headquarters are in Mumbai.",
+  "sourceHint": "RBI Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:39:26Z"
+ },
+ {
+  "id": "q_1991c6c617bc4014",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which vitamin is primarily known as cholecalciferol?",
+  "qHi": "किस विटामिन को मुख्य रूप से कोolecalciferol (कोलेकल्सीफेरोल) के रूप में जाना जाता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin C",
+   "Vitamin D",
+   "Vitamin K"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन सी",
+   "विटामिन डी",
+   "विटामिन के"
+  ],
+  "correct": 2,
+  "explainEn": "Vitamin D3 is specifically known by the chemical name cholecalciferol.",
+  "sourceHint": "NCERT Biology Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:39:26Z"
  }
 ]

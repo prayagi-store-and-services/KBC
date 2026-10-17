@@ -10358,5 +10358,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-17T10:47:37Z"
+ },
+ {
+  "id": "q_aa1440fae378c26a",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which process involves the conversion of water vapor into liquid water?",
+  "qHi": "किस प्रक्रिया में जलवाष्प तरल जल में परिवर्तित होती है?",
+  "optsEn": [
+   "Evaporation",
+   "Condensation",
+   "Sublimation",
+   "Transpiration"
+  ],
+  "optsHi": [
+   "वाष्पीकरण",
+   "संघनन",
+   "ऊर्ध्वपातन",
+   "वाष्पोत्सर्जन"
+  ],
+  "correct": 1,
+  "explainEn": "Condensation is the process where water vapor cools down and turns back into liquid water.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:37:16Z"
+ },
+ {
+  "id": "q_171604b1833400ba",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the unit of force in the International System of Units (SI)?",
+  "qHi": "अंतर्राष्ट्रीय इकाई प्रणाली (SI) में बल की इकाई क्या है?",
+  "optsEn": [
+   "Joule",
+   "Newton",
+   "Pascal",
+   "Watt"
+  ],
+  "optsHi": [
+   "जूल",
+   "न्यूटन",
+   "पास्कल",
+   "वाट"
+  ],
+  "correct": 1,
+  "explainEn": "The SI unit of force is the Newton, named after Sir Isaac Newton.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:37:16Z"
+ },
+ {
+  "id": "q_fef9d47e25943612",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of resources are petroleum and coal considered to be?",
+  "qHi": "पेट्रोलियम और कोयले को किस प्रकार के संसाधन माना जाता है?",
+  "optsEn": [
+   "Renewable resources",
+   "Non-renewable resources",
+   "Biotic resources",
+   "Ubiquitous resources"
+  ],
+  "optsHi": [
+   "नवीकरणीय संसाधन",
+   "अनवीकरणीय संसाधन",
+   "जैविक संसाधन",
+   "सर्वव्यापक संसाधन"
+  ],
+  "correct": 1,
+  "explainEn": "Petroleum and coal take millions of years to form and are exhaustible, making them non-renewable.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:37:16Z"
+ },
+ {
+  "id": "q_b4510b7bd16b9db2",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which planet in our solar system has a rotation period on its axis that is longer than its period of revolution around the Sun?",
+  "qHi": "हमारे सौर मंडल के किस ग्रह का अपनी धुरी पर घूर्णन काल, सूर्य के चारों ओर परिक्रमण काल से अधिक है?",
+  "optsEn": [
+   "Venus",
+   "Mars",
+   "Jupiter",
+   "Saturn"
+  ],
+  "optsHi": [
+   "शुक्र",
+   "मंगल",
+   "बृहस्पति",
+   "शनि"
+  ],
+  "correct": 0,
+  "explainEn": "Venus takes about 243 Earth days to rotate on its axis, while it takes about 225 Earth days to complete one orbit around the Sun.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:39:36Z"
+ },
+ {
+  "id": "q_b83dd0336d8c4981",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the British colonial period in India, the Ryotwari system of land revenue settlement was primarily introduced in which region?",
+  "qHi": "भारत में ब्रिटिश औपनिवेशिक काल के दौरान, भू-राजस्व बंदोबस्त की रयतवाड़ी व्यवस्था मुख्य रूप से किस क्षेत्र में शुरू की गई थी?",
+  "optsEn": [
+   "Bengal Presidency",
+   "Madras and Bombay Presidencies",
+   "North-Western Provinces",
+   "Punjab region"
+  ],
+  "optsHi": [
+   "बंगाल प्रेसीडेंसी",
+   "मद्रास और बॉम्बे प्रेसीडेंसी",
+   "उत्तर-पश्चिमी प्रांत",
+   "पंजाब क्षेत्र"
+  ],
+  "correct": 1,
+  "explainEn": "The Ryotwari system was devised by Captain Alexander Read and Thomas Munro, and was primarily introduced in the Madras and Bombay Presidencies.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:39:36Z"
+ },
+ {
+  "id": "q_b41b0bd0501fc0a8",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which metal is obtained commercially from the ore bauxite?",
+  "qHi": "बॉक्साइट अयस्क से व्यावसायिक रूप से कौन सी धातु प्राप्त की जाती है?",
+  "optsEn": [
+   "Copper",
+   "Iron",
+   "Aluminium",
+   "Zinc"
+  ],
+  "optsHi": [
+   "तांबा",
+   "लोहा",
+   "एल्यूमीनियम",
+   "जस्ता"
+  ],
+  "correct": 2,
+  "explainEn": "Bauxite is the primary ore of aluminium, from which alumina is extracted and then smelted into aluminium metal.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:39:36Z"
+ },
+ {
+  "id": "q_c3aa9caf9b38d6b6",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Article of the Indian Constitution guarantees the Right to Equality before law?",
+  "qHi": "भारतीय संविधान का कौन सा अनुच्छेद कानून के समक्ष समानता के अधिकार की गारंटी देता है?",
+  "optsEn": [
+   "Article 12",
+   "Article 14",
+   "Article 19",
+   "Article 21"
+  ],
+  "optsHi": [
+   "अनुच्छेद 12",
+   "अनुच्छेद 14",
+   "अनुच्छेद 19",
+   "अनुच्छेद 21"
+  ],
+  "correct": 1,
+  "explainEn": "Article 14 of the Constitution of India states that the State shall not deny to any person equality before the law or the equal protection of the laws.",
+  "sourceHint": "Constitution of India / NCERT Class 8 Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:39:36Z"
+ },
+ {
+  "id": "q_cd9c463d68e8d19a",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which cell organelle is responsible for the release of energy through cellular respiration and is known as the powerhouse of the cell?",
+  "qHi": "कोशिकीय श्वसन के माध्यम से ऊर्जा जारी करने के लिए कौन सा कोशिकांग जिम्मेदार है और इसे कोशिका का पावरहाउस कहा जाता है?",
+  "optsEn": [
+   "Ribosome",
+   "Golgi apparatus",
+   "Mitochondria",
+   "Chloroplast"
+  ],
+  "optsHi": [
+   "राइबोसोम",
+   "गॉल्जीकाय",
+   "माइटोकॉन्ड्रिया",
+   "क्लोरोप्लास्ट"
+  ],
+  "correct": 2,
+  "explainEn": "Mitochondria generate most of the chemical energy needed to power the cell's biochemical reactions, earning them the title of powerhouse.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:39:36Z"
+ },
+ {
+  "id": "q_cdcd8b77ad4f6f59",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of coal formation, what is the intermediate stage of coal that contains about 60 to 70 percent carbon called?",
+  "qHi": "कोयले के निर्माण के संदर्भ में, कोयले की उस मध्यवर्ती अवस्था को क्या कहा जाता है जिसमें लगभग 60 से 70 प्रतिशत कार्बन होता है?",
+  "optsEn": [
+   "Peat",
+   "Lignite",
+   "Bituminous",
+   "Anthracite"
+  ],
+  "optsHi": [
+   "पीट",
+   "लिग्नाइट",
+   "बिटुमिनस",
+   "एंथ्रेसाइट"
+  ],
+  "correct": 1,
+  "explainEn": "Lignite is a low-grade brown coal, which represents an intermediate stage of coalification containing 60-70 percent carbon.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:39:36Z"
+ },
+ {
+  "id": "q_5ed5e6de0742e8e4",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which social reformer founded the Atmiya Sabha in Kolkata in the early 19th century to campaign against idol worship and caste rigidities?",
+  "qHi": "किस समाज सुधारक ने मूर्तिपूजा और जातिगत कठोरताओं के खिलाफ अभियान चलाने के लिए 19वीं शताब्दी की शुरुआत में कोलकाता में आत्मीय सभा की स्थापना की थी?",
+  "optsEn": [
+   "Swami Vivekananda",
+   "Raja Ram Mohan Roy",
+   "Dayanand Saraswati",
+   "Ishwar Chandra Vidyasagar"
+  ],
+  "optsHi": [
+   "स्वामी विवेकानंद",
+   "राजा राम मोहन राय",
+   "दयानंद सरस्वती",
+   "ईश्वर चंद्र विद्यासागर"
+  ],
+  "correct": 1,
+  "explainEn": "Raja Ram Mohan Roy founded Atmiya Sabha in 1815 to propagate anti-idol worship monotheistic ideals and social reform.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:39:36Z"
  }
 ]

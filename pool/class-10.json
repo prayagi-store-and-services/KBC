@@ -13830,5 +13830,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-17T10:46:43Z"
+ },
+ {
+  "id": "q_3a76bdbbf10c60c3",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which part of the human alimentary canal is food completely digested?",
+  "qHi": "मानव आहार नली के किस भाग में भोजन का पूर्ण पाचन होता है?",
+  "optsEn": [
+   "Stomach",
+   "Small intestine",
+   "Large intestine",
+   "Oesophagus"
+  ],
+  "optsHi": [
+   "अमाशय",
+   "छोटी आंत",
+   "बड़ी आंत",
+   "ग्रास नली"
+  ],
+  "correct": 1,
+  "explainEn": "The small intestine is the site of complete digestion of carbohydrates, proteins, and fats.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:37:21Z"
+ },
+ {
+  "id": "q_cc063c695eaa83e6",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which process is responsible for the production of energy in the human body during cellular respiration?",
+  "qHi": "कोशकीय श्वसन के दौरान मानव शरीर में ऊर्जा उत्पादन के लिए कौन सी प्रक्रिया उत्तरदायी है?",
+  "optsEn": [
+   "Oxidation of glucose",
+   "Reduction of water",
+   "Hydrolysis of proteins",
+   "Photolysis of lipids"
+  ],
+  "optsHi": [
+   "ग्लूकोज का ऑक्सीकरण",
+   "जल का अपचयन",
+   "प्रोटीन का जलअपघटन",
+   "लिपिड का प्रकाश अपघटन"
+  ],
+  "correct": 0,
+  "explainEn": "Cellular respiration involves the oxidation of glucose to release energy in the form of ATP.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:38:38Z"
+ },
+ {
+  "id": "q_74beacc3978bd7df",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the pH range of a neutral aqueous solution at 298 Kelvin?",
+  "qHi": "298 केल्विन पर एक उदासीन जलीय विलयन का pH परास क्या होता है?",
+  "optsEn": [
+   "Less than 7",
+   "Exactly 7",
+   "Between 8 and 14",
+   "Between 0 and 6"
+  ],
+  "optsHi": [
+   "7 से कम",
+   "ठीक 7",
+   "8 और 14 के बीच",
+   "0 और 6 के बीच"
+  ],
+  "correct": 1,
+  "explainEn": "A neutral solution has a pH of exactly 7 at standard temperature.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:38:38Z"
+ },
+ {
+  "id": "q_74ad5dd91bcd9465",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which line of latitude divides India approximately into two equal halves?",
+  "qHi": "कौन सी अक्षांश रेखा भारत को लगभग दो बराबर भागों में विभाजित करती है?",
+  "optsEn": [
+   "Equator",
+   "Tropic of Cancer",
+   "Tropic of Capricorn",
+   "Arctic Circle"
+  ],
+  "optsHi": [
+   "विषुवत वृत्त",
+   "कर्क वृत्त",
+   "मकर वृत्त",
+   "आर्कटिक वृत्त"
+  ],
+  "correct": 1,
+  "explainEn": "The Tropic of Cancer (23°30' N) passes through the middle of the country, dividing it into two latitudinal halves.",
+  "sourceHint": "NCERT Class 9/10 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:38:38Z"
+ },
+ {
+  "id": "q_722344a1a2914fb0",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which sector of the Indian economy does primary manufacturing fall?",
+  "qHi": "भारतीय अर्थव्यवस्था के किस क्षेत्रक के अंतर्गत प्राथमिक विनिर्माण आता है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Quaternary sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्रक",
+   "द्वितीयक क्षेत्रक",
+   "तृतीयक क्षेत्रक",
+   "चतुर्थक क्षेत्रक"
+  ],
+  "correct": 1,
+  "explainEn": "Manufacturing activities that change raw materials into finished products belong to the secondary sector.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:38:38Z"
+ },
+ {
+  "id": "q_c515e8710a63e4eb",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organelle in plant cells is responsible for trapping solar energy to perform photosynthesis?",
+  "qHi": "पादप कोशिकाओं में कौन सा कोशिकांग प्रकाश संश्लेषण हेतु सौर ऊर्जा को अवशोषित करने के लिए उत्तरदायी है?",
+  "optsEn": [
+   "Mitochondria",
+   "Chloroplast",
+   "Ribosome",
+   "Golgi apparatus"
+  ],
+  "optsHi": [
+   "माइटोकॉन्ड्रिया",
+   "हरित लवक",
+   "राइबोसोम",
+   "गॉल्जी उपकरण"
+  ],
+  "correct": 1,
+  "explainEn": "Chloroplasts contain chlorophyll, which captures sunlight for photosynthesis.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:38:38Z"
+ },
+ {
+  "id": "q_ae30428ea0c93b50",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of power resource is coal primarily classified as?",
+  "qHi": "कोयले को मुख्य रूप से किस प्रकार के ऊर्जा संसाधन के रूप में वर्गीकृत किया जाता है?",
+  "optsEn": [
+   "Renewable resource",
+   "Exhaustible non-renewable resource",
+   "Flow resource",
+   "Biotic resource"
+  ],
+  "optsHi": [
+   "नवीकरणीय संसाधन",
+   "समाप्य अनवीकरणीय संसाधन",
+   "प्रवाह संसाधन",
+   "जैविक संसाधन"
+  ],
+  "correct": 1,
+  "explainEn": "Coal is a fossil fuel formed over millions of years and is a non-renewable, exhaustible resource.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:38:38Z"
+ },
+ {
+  "id": "q_f8733039db837105",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which element forms the basis of catenation and numerous organic compounds studied in chemistry?",
+  "qHi": "कौन सा तत्व रसायन विज्ञान में श्रृंखलन (कैटिनेशन) और अनेक कार्बनिक यौगिकों का आधार बनाता है?",
+  "optsEn": [
+   "Silicon",
+   "Carbon",
+   "Nitrogen",
+   "Oxygen"
+  ],
+  "optsHi": [
+   "सिलिकॉन",
+   "कार्बन",
+   "नाइट्रोजन",
+   "ऑक्सीजन"
+  ],
+  "correct": 1,
+  "explainEn": "Carbon shows a unique ability to form bonds with other atoms of carbon, giving rise to large molecules through catenation.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T15:38:38Z"
  }
 ]
