@@ -10638,5 +10638,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-17T15:39:15Z"
+ },
+ {
+  "id": "q_7b4ca4fcf5507fdd",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Bihu is a traditional dance and festival primarily celebrated in which Indian state?",
+  "qHi": "बिहू एक पारंपरिक नृत्य और उत्सव है जो मुख्य रूप से किस भारतीय राज्य में मनाया जाता है?",
+  "optsEn": [
+   "Assam",
+   "Punjab",
+   "Tamil Nadu",
+   "Odisha"
+  ],
+  "optsHi": [
+   "असम",
+   "पंजाब",
+   "तमिलनाडु",
+   "ओडिशा"
+  ],
+  "correct": 0,
+  "explainEn": "Bihu is a set of three cultural festivals of Assam and also refers to the traditional dance associated with it.",
+  "sourceHint": "NCERT Art and Culture",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:38:06Z"
+ },
+ {
+  "id": "q_7f0ed06609f3a99a",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary constituent gas of the Earth's atmosphere by volume?",
+  "qHi": "आयतन के हिसाब से पृथ्वी के वायुमंडल की मुख्य घटक गैस कौन सी है?",
+  "optsEn": [
+   "Oxygen",
+   "Nitrogen",
+   "Carbon dioxide",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "कार्बन डाइऑक्साइड",
+   "आर्गन"
+  ],
+  "correct": 1,
+  "explainEn": "Nitrogen makes up about 78 percent of the Earth's atmosphere by volume, making it the most abundant gas.",
+  "sourceHint": "NCERT Class 7 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:40:15Z"
+ },
+ {
+  "id": "q_c323df59beaced3b",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which instrument is used to measure the purity of milk?",
+  "qHi": "दूध की शुद्धता मापने के लिए किस उपकरण का उपयोग किया जाता है?",
+  "optsEn": [
+   "Barometer",
+   "Lactometer",
+   "Hydrometer",
+   "Anemometer"
+  ],
+  "optsHi": [
+   "बैरोमीटर",
+   "लैक्टोमीटर",
+   "हाइड्रोमीटर",
+   "एनीमोमीटर"
+  ],
+  "correct": 1,
+  "explainEn": "A lactometer is a small glass instrument used to test the purity of milk by measuring its specific gravity.",
+  "sourceHint": "General Science NCERT",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:40:15Z"
  }
 ]

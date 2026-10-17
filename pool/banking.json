@@ -17022,5 +17022,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-17T15:39:21Z"
+ },
+ {
+  "id": "q_f210f6576e67715a",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum character limit of an IFSC code used for electronic fund transfers in India?",
+  "qHi": "भारत में इलेक्ट्रॉनिक फंड ट्रांसफर के लिए उपयोग किए जाने वाले IFSC कोड की अधिकतम वर्ण सीमा क्या है?",
+  "optsEn": [
+   "10 characters",
+   "11 characters",
+   "9 characters",
+   "12 characters"
+  ],
+  "optsHi": [
+   "10 वर्ण",
+   "11 वर्ण",
+   "9 वर्ण",
+   "12 वर्ण"
+  ],
+  "correct": 1,
+  "explainEn": "An Indian Financial System Code (IFSC) is an 11-character alphanumeric code unique to each bank branch.",
+  "sourceHint": "RBI guidelines on IFSC",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:38:10Z"
+ },
+ {
+  "id": "q_1f150f811204e96a",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization in India regulates the securities market and mutual funds?",
+  "qHi": "भारत में कौन सा संगठन प्रतिभूति बाजार और म्यूचुअल फंड को नियंत्रित करता है?",
+  "optsEn": [
+   "RBI",
+   "SEBI",
+   "NABARD",
+   "IRDAI"
+  ],
+  "optsHi": [
+   "आरबीआई",
+   "सेबी",
+   "नाबार्ड",
+   "इrdai"
+  ],
+  "correct": 1,
+  "explainEn": "The Securities and Exchange Board of India (SEBI) is the regulatory body for securities and commodity market in India.",
+  "sourceHint": "SEBI Act 1992",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:38:10Z"
+ },
+ {
+  "id": "q_5bb1df30081d5508",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of account typically offers no interest or very low interest and is meant for frequent daily transactions?",
+  "qHi": "किस प्रकार के खाते में आमतौर पर कोई ब्याज नहीं मिलता या बहुत कम ब्याज मिलता है और जो लगातार दैनिक लेनदेन के लिए होता है?",
+  "optsEn": [
+   "Fixed Deposit Account",
+   "Savings Account",
+   "Current Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "सावधि जमा खाता",
+   "बचत खाता",
+   "चालू खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 2,
+  "explainEn": "A Current Account is designed for businesses and offers no interest along with high liquidity and frequent transaction limits.",
+  "sourceHint": "NCERT Business Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:38:10Z"
+ },
+ {
+  "id": "q_ffd8f861d2d82243",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the Liquidity Adjustment Facility framework used by the RBI?",
+  "qHi": "RBI द्वारा उपयोग किए जाने वाले तरलता समायोजन सुविधा (Liquidity Adjustment Facility) ढांचे में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liability",
+   "Leverage",
+   "Liquidity",
+   "Ledger"
+  ],
+  "optsHi": [
+   "दायित्व (Liability)",
+   "लिवरेज (Leverage)",
+   "तरलता (Liquidity)",
+   "खाता बही (Ledger)"
+  ],
+  "correct": 2,
+  "explainEn": "LAF stands for Liquidity Adjustment Facility, which is a monetary policy tool used by the RBI.",
+  "sourceHint": "Reserve Bank of India Monetary Policy Glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:40:20Z"
+ },
+ {
+  "id": "q_d0a392c71a1155c2",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque becomes a 'stale cheque' after the expiration of how many months from its date of issue, as per standard banking norms in India?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, भारत में मानक बैंकिंग मानदंडों के अनुसार, जारी होने की तारीख से कितने महीनों की समाप्ति के बाद एक चेक 'स्टेल चेक' (Stale cheque) बन जाता है?",
+  "optsEn": [
+   "1 month",
+   "3 months",
+   "6 months",
+   "12 months"
+  ],
+  "optsHi": [
+   "1 महीना",
+   "3 महीने",
+   "6 महीने",
+   "12 महीने"
+  ],
+  "correct": 1,
+  "explainEn": "RBI guidelines mandate the validity of cheques, demand drafts, and pay orders as three months from the date of issuance.",
+  "sourceHint": "RBI Circulars and Banking Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:40:20Z"
+ },
+ {
+  "id": "q_74c43fffde73b18c",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary function of the National Payments Corporation of India regarding retail payment systems?",
+  "qHi": "खुदरा भुगतान प्रणालियों के संबंध में भारतीय राष्ट्रीय भुगतान निगम (NPCI) का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "Issuing sovereign currency notes",
+   "Operating retail payment and settlement systems in India",
+   "Providing loans directly to retail agricultural borrowers",
+   "Regulating foreign direct investment inflows"
+  ],
+  "optsHi": [
+   "संप्रभु मुद्रा नोट जारी करना",
+   "भारत में खुदरा भुगतान और निपटान प्रणालियों का संचालन करना",
+   "खुदरा कृषि उधारकर्ताओं को सीधे ऋण प्रदान करना",
+   "प्रत्यक्ष विदेशी निवेश प्रवाह को विनियमित करना"
+  ],
+  "correct": 1,
+  "explainEn": "NPCI is an umbrella organization for operating retail payments and settlement systems in India, such as UPI, IMPS, and RuPay.",
+  "sourceHint": "Payment and Settlement Systems Act, 2007 and NPCI overview",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:40:20Z"
+ },
+ {
+  "id": "q_0e0c2480218f15be",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which financial metric represents the total value of goods and services produced within the domestic territory of a country during a specific period, adjusted for inflation?",
+  "qHi": "मुद्रास्फीति के लिए समायोजित, एक विशिष्ट अवधि के दौरान किसी देश के घरेलू क्षेत्र के भीतर उत्पादित वस्तुओं और सेवाओं के कुल मूल्य को कौन सा वित्तीय मीट्रिक दर्शाता है?",
+  "optsEn": [
+   "Nominal Gross Domestic Product",
+   "Real Gross Domestic Product",
+   "Gross National Product",
+   "Net National Disposable Income"
+  ],
+  "optsHi": [
+   "नाममात्र सकल घरेलू उत्पाद (Nominal GDP)",
+   "वास्तविक सकल घरेलू उत्पाद (Real GDP)",
+   "सकल राष्ट्रीय उत्पाद (GNP)",
+   "शुद्ध राष्ट्रीय प्रयोज्य आय"
+  ],
+  "correct": 1,
+  "explainEn": "Real GDP measures economic output adjusted for price changes, reflecting inflation-free growth.",
+  "sourceHint": "NCERT Economics and National Accounts Statistics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:40:20Z"
+ },
+ {
+  "id": "q_9a2333363a9d0098",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of Indian banking, what does the acronym 'CASA' stand for?",
+  "qHi": "भारतीय बैंकिंग के संदर्भ में, संक्षिप्त नाम 'CASA' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Current Account Savings Account",
+   "Cash Assets and Statutory Advances",
+   "Credit Allocation and Savings Allocation",
+   "Capital Adequacy and Standard Assets"
+  ],
+  "optsHi": [
+   "करेंट अकाउंट सेविंग्स अकाउंट",
+   "कैश एसेट्स एंड स्टेटटरी एडवांसेज",
+   "क्रेडिट एलोकेशन एंड सेविंग्स एलोकेशन",
+   "कैपिटल एडिक्वेंसी एंड स्टैंडर्ड एसेट्स"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account Savings Account, representing low-cost deposits for commercial banks.",
+  "sourceHint": "Standard Banking Terminology and RBI publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:40:20Z"
  }
 ]

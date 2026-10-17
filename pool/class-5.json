@@ -14530,5 +14530,397 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-17T15:39:30Z"
+ },
+ {
+  "id": "q_503d6f1140b284af",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary gas that living beings take in from the air during respiration?",
+  "qHi": "सांस लेते समय सजीव प्राणी हवा से मुख्य रूप से कौन सी गैस अंदर लेते हैं?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Nitrogen",
+   "Oxygen",
+   "Helium"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "ऑक्सीजन",
+   "हीलीयम"
+  ],
+  "correct": 2,
+  "explainEn": "Living organisms inhale oxygen for respiration to produce energy.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:37:45Z"
+ },
+ {
+  "id": "q_4f02fae56a7b8bc5",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which sense organ helps human beings to taste different flavors?",
+  "qHi": "मानव शरीर का कौन सा ज्ञानेंद्रिय विभिन्न स्वादों को चखने में मदद करता है?",
+  "optsEn": [
+   "Skin",
+   "Tongue",
+   "Nose",
+   "Ear"
+  ],
+  "optsHi": [
+   "त्वचा",
+   "जीभ",
+   "नाक",
+   "कान"
+  ],
+  "correct": 1,
+  "explainEn": "The tongue has taste buds that help humans perceive sweet, salty, sour, and bitter tastes.",
+  "sourceHint": "NCERT Class 3 to 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:37:45Z"
+ },
+ {
+  "id": "q_74d0380a5b384083",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is an example of an invertebrate animal?",
+  "qHi": "निम्नलिखित में से कौन सा अकशेरुकी (बिना रीढ़ की हड्डी वाला) जंतु का उदाहरण है?",
+  "optsEn": [
+   "Earthworm",
+   "Frog",
+   "Bird",
+   "Fish"
+  ],
+  "optsHi": [
+   "केंचुआ",
+   "मेंढक",
+   "पक्षी",
+   "मछली"
+  ],
+  "correct": 0,
+  "explainEn": "Earthworms do not have a backbone, making them invertebrates.",
+  "sourceHint": "NCERT Science Basics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:37:45Z"
+ },
+ {
+  "id": "q_4e2e866d7e80c8d0",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the solid form of water that falls from clouds during very cold weather called?",
+  "qHi": "बहुत ठंडे मौसम के दौरान बादलों से गिरने वाले पानी के ठोस रूप को क्या कहते हैं?",
+  "optsEn": [
+   "Steam",
+   "Rain",
+   "Snow",
+   "Smoke"
+  ],
+  "optsHi": [
+   "भाप",
+   "बारिश",
+   "बर्फ",
+   "धुआँ"
+  ],
+  "correct": 2,
+  "explainEn": "Snow is frozen precipitation in the form of ice crystals that falls from clouds in cold regions.",
+  "sourceHint": "NCERT Geography Basics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:37:45Z"
+ },
+ {
+  "id": "q_7e7934ced10a7138",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which part of a plant is normally located underground and absorbs water and minerals?",
+  "qHi": "पौधे का कौन सा भाग सामान्यतः जमीन के नीचे स्थित होता है और पानी तथा खनिजों को सोखता है?",
+  "optsEn": [
+   "Leaf",
+   "Flower",
+   "Root",
+   "Stem"
+  ],
+  "optsHi": [
+   "पत्ती",
+   "फूल",
+   "जड़",
+   "तना"
+  ],
+  "correct": 2,
+  "explainEn": "Roots grow underground to anchor the plant and absorb water and nutrients from the soil.",
+  "sourceHint": "NCERT Class 3 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:37:45Z"
+ },
+ {
+  "id": "q_83f1483674edfe11",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these materials is biodegradable?",
+  "qHi": "इनमें से कौन सी सामग्री जैव-अवक्रमणीय (biodegradable) है?",
+  "optsEn": [
+   "Plastic bag",
+   "Glass bottle",
+   "Banana peel",
+   "Aluminum can"
+  ],
+  "optsHi": [
+   "प्लास्टिक बैग",
+   "कांच की बोतल",
+   "केले का छिलका",
+   "एल्युमिनियम का डिब्बा"
+  ],
+  "correct": 2,
+  "explainEn": "Banana peels are organic matter that can be broken down naturally by microorganisms.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:39:18Z"
+ },
+ {
+  "id": "q_9de9b59bbf32bf7e",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "How many days does the Earth take to complete one revolution around the Sun?",
+  "qHi": "पृथ्वी सूर्य के चारों ओर एक चक्कर पूरा करने में कितने दिन लेती है?",
+  "optsEn": [
+   "365 days",
+   "24 days",
+   "30 days",
+   "7 days"
+  ],
+  "optsHi": [
+   "365 दिन",
+   "24 दिन",
+   "30 दिन",
+   "7 दिन"
+  ],
+  "correct": 0,
+  "explainEn": "Earth takes approximately 365 days (a year) to orbit the Sun.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:39:18Z"
+ },
+ {
+  "id": "q_263ee756e78e19f0",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which imaginary line of latitude passes almost halfway through the country of India?",
+  "qHi": "अक्षांश की कौन सी काल्पनिक रेखा भारत के लगभग बीचों-बीच से गुजरती है?",
+  "optsEn": [
+   "Equator",
+   "Tropic of Cancer",
+   "Tropic of Capricorn",
+   "Prime Meridian"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा",
+   "कर्क रेखा",
+   "मकर रेखा",
+   "प्रमुख मध्याह्न रेखा"
+  ],
+  "correct": 1,
+  "explainEn": "The Tropic of Cancer (23 degrees 30 minutes North) passes through the middle of India.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:40:29Z"
+ },
+ {
+  "id": "q_29b9488f426b2ae2",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which vitamin deficiency causes the disease known as scurvy, characterized by bleeding gums?",
+  "qHi": "किस विटामिन की कमी से स्कर्वी रोग होता है, जिसमें मसूड़ों से खून आता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 2,
+  "explainEn": "Scurvy is caused by a deficiency of Vitamin C, found abundantly in citrus fruits.",
+  "sourceHint": "NCERT Class 6 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:40:29Z"
+ },
+ {
+  "id": "q_1f90779c04c6414e",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of rock is formed from the cooling and solidification of molten magma or lava?",
+  "qHi": "पिघले हुए मैग्मा या लावा के ठंडा होकर ठोस बनने से किस प्रकार की चट्टान का निर्माण होता है?",
+  "optsEn": [
+   "Igneous rock",
+   "Sedimentary rock",
+   "Metamorphic rock",
+   "Fossil rock"
+  ],
+  "optsHi": [
+   "आग्नेय चट्टान",
+   "अवसादी चट्टान",
+   "रूपांतरित चट्टान",
+   "जीवाश्म चट्टान"
+  ],
+  "correct": 0,
+  "explainEn": "Igneous rocks are formed when molten rock cools and solidifies.",
+  "sourceHint": "NCERT Class 7 Geography Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:40:29Z"
+ },
+ {
+  "id": "q_7791c5563c38c319",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which physical process is responsible for the formation of water droplets on the outer surface of a cold water glass in summer?",
+  "qHi": "गर्मी के दिनों में ठंडे पानी के गिलास की बाहरी सतह पर पानी की बूंदों के बनने के लिए कौन सी भौतिक प्रक्रिया उत्तरदायी है?",
+  "optsEn": [
+   "Evaporation",
+   "Condensation",
+   "Sublimation",
+   "Melting"
+  ],
+  "optsHi": [
+   "वाष्पीकरण",
+   "संघनन",
+   "ऊर्ध्वपातन",
+   "पिघलना"
+  ],
+  "correct": 1,
+  "explainEn": "Water vapor in the air comes in contact with the cold glass and condenses into liquid water droplets.",
+  "sourceHint": "NCERT Class 6 Science Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:40:29Z"
+ },
+ {
+  "id": "q_f8d0071dc727e850",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organ in the human digestive system is primarily responsible for absorbing water from undigested food material?",
+  "qHi": "मानव पाचन तंत्र में कौन सा अंग मुख्य रूप से पचे हुए भोजन के अपशिष्ट से पानी को अवशोषित करने के लिए उत्तरदायी है?",
+  "optsEn": [
+   "Stomach",
+   "Small intestine",
+   "Large intestine",
+   "Liver"
+  ],
+  "optsHi": [
+   "अमाशय",
+   "छोटी आंत",
+   "बड़ी आंत",
+   "यकृत"
+  ],
+  "correct": 2,
+  "explainEn": "The large intestine absorbs water and salts from the remaining indigestible food matter.",
+  "sourceHint": "NCERT Class 7 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:40:29Z"
+ },
+ {
+  "id": "q_54356d674a15d600",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which instrument is used by meteorologists to measure atmospheric pressure?",
+  "qHi": "मौसम वैज्ञानिकों द्वारा वायुमंडलीय दबाव को मापने के लिए किस उपकरण का उपयोग किया जाता है?",
+  "optsEn": [
+   "Thermometer",
+   "Barometer",
+   "Anemometer",
+   "Rain gauge"
+  ],
+  "optsHi": [
+   "थर्मामीटर",
+   "बैरोमीटर",
+   "एनीमोमीटर",
+   "वर्षा मापी"
+  ],
+  "correct": 1,
+  "explainEn": "A barometer is a scientific instrument used to measure atmospheric pressure in a given environment.",
+  "sourceHint": "NCERT Class 7 Geography Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:40:29Z"
+ },
+ {
+  "id": "q_e29e8d80892f8486",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional Indian harvest festival is celebrated in January, marking the transition of the sun into the zodiac sign of Capricorn?",
+  "qHi": "जनवरी में मनाया जाने वाला कौन सा पारंपरिक भारतीय फसल उत्सव सूर्य के मकर राशि में प्रवेश का प्रतीक है?",
+  "optsEn": [
+   "Onam",
+   "Bihu",
+   "Makar Sankranti",
+   "Durga Puja"
+  ],
+  "optsHi": [
+   "ओणम",
+   "बिहू",
+   "मकर संक्रांति",
+   "दुर्गा पूजा"
+  ],
+  "correct": 2,
+  "explainEn": "Makar Sankranti marks the transition of the sun into Makara (Capricorn) and is a major harvest festival.",
+  "sourceHint": "NCERT Class 6 Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:40:29Z"
  }
 ]

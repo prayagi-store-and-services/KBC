@@ -11310,5 +11310,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-17T15:39:26Z"
+ },
+ {
+  "id": "q_55c01948d9440340",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which sport is the term 'LBW' used?",
+  "qHi": "खेल जगत में 'एलबीडब्ल्यू' (LBW) शब्द का प्रयोग किस खेल में किया जाता है?",
+  "optsEn": [
+   "Football",
+   "Cricket",
+   "Tennis",
+   "Badminton"
+  ],
+  "optsHi": [
+   "फुटबॉल",
+   "क्रिकेट",
+   "टेनिस",
+   "बैडमिंटन"
+  ],
+  "correct": 1,
+  "explainEn": "LBW stands for Leg Before Wicket, a method of dismissal in cricket.",
+  "sourceHint": "Laws of Cricket by Marylebone Cricket Club",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:37:41Z"
+ },
+ {
+  "id": "q_1b869e88e858cad9",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which classical dance form originated in the state of Kerala and is traditionally characterized by elaborate makeup and colorful costumes?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप केरल राज्य में उत्पन्न हुआ है और पारंपरिक रूप से विस्तृत मेकअप और रंगीन वेशभूषा की विशेषता है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathak",
+   "Kathakali",
+   "Odissi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथक",
+   "कथकली",
+   "ओडिसी"
+  ],
+  "correct": 2,
+  "explainEn": "Kathakali is a major form of classical Indian dance that originated in Kerala.",
+  "sourceHint": "NCERT Fine Arts textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:39:14Z"
+ },
+ {
+  "id": "q_93fb157510257ee4",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary gas found in the atmosphere of Mars?",
+  "qHi": "मंगल ग्रह के वायुमंडल में पाई जाने वाली मुख्य गैस कौन सी है?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Oxygen",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 0,
+  "explainEn": "Carbon dioxide makes up about 95 percent of the Martian atmosphere.",
+  "sourceHint": "NASA Space Place",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:39:14Z"
+ },
+ {
+  "id": "q_a772819972dd5f25",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the famous novel 'Godaan', which depicts the socio-economic deprivation of rural India?",
+  "qHi": "प्रसिद्ध उपन्यास 'गोदान' किसने लिखा, जो ग्रामीण भारत की सामाजिक-आर्थिक अभाव को दर्शाता है?",
+  "optsEn": [
+   "Rabindranath Tagore",
+   "Munshi Premchand",
+   "Bankim Chandra Chattopadhyay",
+   "R. K. Narayan"
+  ],
+  "optsHi": [
+   "रवींद्रनाथ टैगोर",
+   "मुंशी प्रेमचंद",
+   "बंकिम चंद्र चट्टोपाध्याय",
+   "आर. के. नारायण"
+  ],
+  "correct": 1,
+  "explainEn": "Godaan is a Hindi novel by Munshi Premchand, considered one of the greatest Hindi novels of modern Indian literature.",
+  "sourceHint": "NCERT Hindi Literature",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:39:14Z"
+ },
+ {
+  "id": "q_84b2e4c048e9845a",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which Indian state is the Kaziranga National Park, known for the great Indian one-horned rhinoceros, located?",
+  "qHi": "एक सींग वाले गैंडे के लिए प्रसिद्ध काजीरंगा राष्ट्रीय उद्यान भारत के किस राज्य में स्थित है?",
+  "optsEn": [
+   "Assam",
+   "Uttarakhand",
+   "Gujarat",
+   "Madhya Pradesh"
+  ],
+  "optsHi": [
+   "असम",
+   "उत्तराखंड",
+   "गुजरात",
+   "मध्य प्रदेश"
+  ],
+  "correct": 0,
+  "explainEn": "Kaziranga National Park is located in the Golaghat and Nagaon districts of Assam.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change, India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:39:14Z"
+ },
+ {
+  "id": "q_835fe44f9c5050f4",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the financial term used for the total value of all finished goods and services produced within a country's borders in a specific time period?",
+  "qHi": "एक निश्चित समय अवधि में देश की सीमाओं के भीतर उत्पादित सभी तैयार वस्तुओं और सेवाओं के कुल मूल्य के लिए किस वित्तीय शब्द का उपयोग किया जाता है?",
+  "optsEn": [
+   "Gross National Product",
+   "Gross Domestic Product",
+   "Net National Product",
+   "Per Capita Income"
+  ],
+  "optsHi": [
+   " सकल राष्ट्रीय उत्पाद",
+   "सकल घरेलू उत्पाद",
+   "शुद्ध राष्ट्रीय उत्पाद",
+   "प्रति व्यक्ति आय"
+  ],
+  "correct": 1,
+  "explainEn": "Gross Domestic Product (GDP) is the standard measure of the value added created through the production of goods and services in a country.",
+  "sourceHint": "NCERT Economics textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:39:14Z"
+ },
+ {
+  "id": "q_bdba5e98bb5dda3a",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which element has the chemical symbol W, derived from its German name Wolfram?",
+  "qHi": "किस रासायनिक तत्व का प्रतीक W है, जो इसके जर्मन नाम वोल्फ्राम से लिया गया है?",
+  "optsEn": [
+   "Tungsten",
+   "Vanadium",
+   "Yttrium",
+   "Bismuth"
+  ],
+  "optsHi": [
+   "टंगस्टन",
+   "वैनेडियम",
+   "यitट्रियम",
+   "बिस्मथ"
+  ],
+  "correct": 0,
+  "explainEn": "Tungsten has the chemical symbol W and atomic number 74, originating from the German word wolfram.",
+  "sourceHint": "Encyclopædia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:40:25Z"
+ },
+ {
+  "id": "q_e8f44a4d16ea130a",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who wrote the Sanskrit treatise 'Ashtadhyayi', a pioneering work on grammar?",
+  "qHi": "संस्कृत ग्रंथ 'अष्टाध्यायी', जो व्याकरण पर एक अग्रणी कार्य है, की रचना किसने की थी?",
+  "optsEn": [
+   "Kalidasa",
+   "Panini",
+   "Patanjali",
+   "Bhartrihari"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "पाणिनी",
+   "पतंजलि",
+   "भर्तृहरि"
+  ],
+  "correct": 1,
+  "explainEn": "Panini was a philologist and grammarian from ancient India who authored the Ashtadhyayi.",
+  "sourceHint": "NCERT Class 6 History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:40:25Z"
+ },
+ {
+  "id": "q_376b6e2c1e230983",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary function of the ribosome in a living cell?",
+  "qHi": "एक जीवित कोशिका में राइबोसोम का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "Lipid synthesis",
+   "Protein synthesis",
+   "ATP production",
+   "Waste degradation"
+  ],
+  "optsHi": [
+   "लिपिड संश्लेषण",
+   "प्रोटीन संश्लेषण",
+   "ATP उत्पादन",
+   "अपशिष्ट का विघटन"
+  ],
+  "correct": 1,
+  "explainEn": "Ribosomes are biological macromoelcules responsible for cellular protein synthesis.",
+  "sourceHint": "NCERT Class 11 Biology Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:40:25Z"
+ },
+ {
+  "id": "q_7e992dd7c14d65e4",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian mathematician's work heavily influenced modern number theory and infinite series, studied extensively by G.H. Hardy?",
+  "qHi": "किस भारतीय गणितज्ञ के कार्य ने आधुनिक संख्या सिद्धांत और अनंत श्रृंखला को अत्यधिक प्रभावित किया, जिसका जी.एच. हार्डी ने व्यापक अध्ययन किया?",
+  "optsEn": [
+   "Srinivasa Ramanujan",
+   "Aryabhata",
+   "Brahmagupta",
+   "Bhaskara II"
+  ],
+  "optsHi": [
+   "श्रीनिवास रामानुजन",
+   "आर्यभट्ट",
+   "ब्रह्मगुप्त",
+   "भास्कराचार्य द्वितीय"
+  ],
+  "correct": 0,
+  "explainEn": "Srinivasa Ramanujan made extraordinary contributions to mathematical analysis, number theory, and infinite series.",
+  "sourceHint": "Biographical records / National Academy of Sciences",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:40:25Z"
+ },
+ {
+  "id": "q_4ee36c8b3f5d0413",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the name of the boundary line that separates the crust and the mantle of the Earth?",
+  "qHi": "पृथ्वी की पपड़ी (crust) और मेंटल (mantle) को अलग करने वाली सीमा रेखा का नाम क्या है?",
+  "optsEn": [
+   "Gutenberg discontinuity",
+   "Mohorovicic discontinuity",
+   "Lehmann discontinuity",
+   "Conrad discontinuity"
+  ],
+  "optsHi": [
+   "गुटेनबर्ग असंतुलन",
+   "मोहरोविकिक असंतुलन",
+   "लेहमान असंतुलन",
+   "कॉनराड असंतुलन"
+  ],
+  "correct": 1,
+  "explainEn": "The Mohorovicic discontinuity, or Moho, is the boundary between the Earth's crust and the mantle.",
+  "sourceHint": "NCERT Class 11 Geography Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:40:25Z"
  }
 ]

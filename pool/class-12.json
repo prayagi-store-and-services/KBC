@@ -15706,5 +15706,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-17T15:38:43Z"
+ },
+ {
+  "id": "q_eec9f108787401bc",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which Indian city is known as the Silicon Valley of India?",
+  "qHi": "किस भारतीय शहर को भारत की सिलिकॉन वैली के रूप में जाना जाता है?",
+  "optsEn": [
+   "Mumbai",
+   "Chennai",
+   "Bengaluru",
+   "Hyderabad"
+  ],
+  "optsHi": [
+   "मुंबई",
+   "चेन्नई",
+   "बेंगलुरु",
+   "हैदराबाद"
+  ],
+  "correct": 2,
+  "explainEn": "Bengaluru is globally recognized as the Silicon Valley of India due to its role as the nation's leading information technology hub.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:37:57Z"
+ },
+ {
+  "id": "q_c8aaa21bbceb8e5a",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which process is primarily responsible for the production of energy in the core of the Sun?",
+  "qHi": "सूर्य के क्रोड में ऊर्जा के उत्पादन के लिए मुख्य रूप से कौन सी प्रक्रिया उत्तरदायी है?",
+  "optsEn": [
+   "Nuclear fission",
+   "Nuclear fusion",
+   "Radioactive decay",
+   "Gravitational contraction"
+  ],
+  "optsHi": [
+   "नाभिकीय विखंडन",
+   "नाभिकीय संलयन",
+   "रेडियोधर्मी क्षय",
+   "गुरुत्वाकर्षण संकुचन"
+  ],
+  "correct": 1,
+  "explainEn": "Nuclear fusion, specifically the proton-proton chain reaction converting hydrogen into helium, powers the Sun.",
+  "sourceHint": "NCERT Class 11 Physics / General Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:39:53Z"
+ },
+ {
+  "id": "q_84f880f11278ef8d",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary commercial source of the metal sodium?",
+  "qHi": "सोमियम धातु का प्राथमिक व्यावसायिक स्रोत क्या है?",
+  "optsEn": [
+   "Sodium carbonate",
+   "Sodium chloride",
+   "Sodium nitrate",
+   "Sodium sulphate"
+  ],
+  "optsHi": [
+   "सोडियम कार्बोनेट",
+   "सोडियम क्लोराइड",
+   "सोडियम नाइट्रेट",
+   "सोडियम सल्फेट"
+  ],
+  "correct": 1,
+  "explainEn": "Sodium metal is commercially produced by the electrolysis of molten sodium chloride in Down's cell.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:39:53Z"
+ },
+ {
+  "id": "q_53b50b12fad9ad77",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which British Viceroy implemented the Partition of Bengal in the year 1905?",
+  "qHi": "किस ब्रिटिश वाइसराय ने वर्ष 1905 में बंगाल के विभाजन को लागू किया था?",
+  "optsEn": [
+   "Lord Ripon",
+   "Lord Curzon",
+   "Lord Dalhousie",
+   "Lord Minto"
+  ],
+  "optsHi": [
+   "लॉर्ड रिपन",
+   "लॉर्ड कर्जन",
+   "लॉर्ड डलहौजी",
+   "लॉर्ड मिंटो"
+  ],
+  "correct": 1,
+  "explainEn": "Lord Curzon announced and implemented the partition of Bengal in July 1905, leading to the Swadeshi movement.",
+  "sourceHint": "NCERT Class 12 History, Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:39:53Z"
+ },
+ {
+  "id": "q_ad01d6059ae8d793",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which enzyme is responsible for the replication of DNA strands by adding nucleotides to the 3' end?",
+  "qHi": "3' सिरे पर न्यूक्लियोटाइड जोड़कर डीएनए स्ट्रैंड्स की प्रतिकृति के लिए कौन सा एंजाइम उत्तरदायी है?",
+  "optsEn": [
+   "RNA polymerase",
+   "DNA ligase",
+   "DNA polymerase",
+   "Helicase"
+  ],
+  "optsHi": [
+   "आरएनए पॉलीमरेज़",
+   "डीएनए लाइगेज़",
+   "डीएनए पॉलीमरेज़",
+   "हेलिकेस"
+  ],
+  "correct": 2,
+  "explainEn": "DNA polymerase catalyses the polymerization of deoxynucleotides efficiently in the 5' to 3' direction, adding to the 3' end.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:39:53Z"
  }
 ]

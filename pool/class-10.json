@@ -14054,5 +14054,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-17T15:38:38Z"
+ },
+ {
+  "id": "q_04bf5ef9cace3d9d",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which element is oxidized in the reaction: ZnO + C -> Zn + CO?",
+  "qHi": "अभिक्रिया ZnO + C -> Zn + CO में किस तत्व का उपचयन (ऑक्सीकरण) होता है?",
+  "optsEn": [
+   "Zn",
+   "O",
+   "C",
+   "ZnO"
+  ],
+  "optsHi": [
+   "Zn",
+   "O",
+   "C",
+   "ZnO"
+  ],
+  "correct": 2,
+  "explainEn": "Carbon (C) gains oxygen to form carbon monoxide (CO), so carbon is oxidized.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:37:53Z"
+ },
+ {
+  "id": "q_57d8125ae080d8ee",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Where does the fusion of male and female gametes normally take place in human females?",
+  "qHi": "मानव स्त्रियों में नर और मादा युग्मकों का संलयन सामान्यतः कहाँ होता है?",
+  "optsEn": [
+   "Ovary",
+   "Uterus",
+   "Fallopian tube",
+   "Vagina"
+  ],
+  "optsHi": [
+   "अंडाशय",
+   "गर्भाशय",
+   "फैलोपियन नलिका",
+   "योनियों"
+  ],
+  "correct": 2,
+  "explainEn": "Fertilization, which is the fusion of male and female gametes, takes place in the fallopian tube.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:37:53Z"
+ },
+ {
+  "id": "q_74842553429cb202",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which social reformer founded the Brahmo Samaj in Kolkata in 1828?",
+  "qHi": "किस समाज सुधारक ने 1828 में कोलकाता में ब्रह्म समाज की स्थापना की थी?",
+  "optsEn": [
+   "Swami Vivekananda",
+   "Dayanand Saraswati",
+   "Raja Ram Mohan Roy",
+   "Ishwar Chandra Vidyasagar"
+  ],
+  "optsHi": [
+   "स्वामी विवेकानंद",
+   "दयानंद सरस्वती",
+   "राजा राम मोहन राय",
+   "ईश्वर चंद्र विद्यासागर"
+  ],
+  "correct": 2,
+  "explainEn": "Raja Ram Mohan Roy founded the Brahmo Samaj in 1828, which was a reform movement aiming to purge Hinduism of its abuses.",
+  "sourceHint": "NCERT Class 10 History, India and the Contemporary World-II",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:39:49Z"
+ },
+ {
+  "id": "q_5755cd6db9c6323b",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of power-sharing arrangement is practiced in Belgium to accommodate different linguistic groups?",
+  "qHi": "विभिन्न भाषाई समूहों को समायोजित करने के लिए बेल्जियम में किस प्रकार की सत्ता की साझेदारी की व्यवस्था की जाती है?",
+  "optsEn": [
+   "Unitary government",
+   "Community government",
+   "Military junta",
+   "Absolute monarchy"
+  ],
+  "optsHi": [
+   "एकात्मक सरकार",
+   "सामुदायिक सरकार",
+   "सैन्य जंता",
+   "निरंकुश राजशाही"
+  ],
+  "correct": 1,
+  "explainEn": "In Belgium, a unique 'community government' is elected by people belonging to one language community- Dutch, French, and German- no matter where they live.",
+  "sourceHint": "NCERT Class 10 Political Science, Democratic Politics-II",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-17T20:39:49Z"
  }
 ]
