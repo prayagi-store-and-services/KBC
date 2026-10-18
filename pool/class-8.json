@@ -11562,5 +11562,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-18T15:55:16Z"
+ },
+ {
+  "id": "q_b59cb6097ac3a184",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the famous book 'Ain-i-Akbari' detailing the administration of Emperor Akbar?",
+  "qHi": "सम्राट अकबर के प्रशासन का विवरण देने वाली प्रसिद्ध पुस्तक 'आईना-ए-अकबरी' किसने लिखी थी?",
+  "optsEn": [
+   "Birbal",
+   "Tansen",
+   "Abul Fazl",
+   "Faizi"
+  ],
+  "optsHi": [
+   "बीरबल",
+   "तानसेन",
+   "अुल फज़ल",
+   "फैजी"
+  ],
+  "correct": 2,
+  "explainEn": "Abul Fazl was a court historian of Akbar who wrote the Akbarnama, of which Ain-i-Akbari is the third volume.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:45:34Z"
+ },
+ {
+  "id": "q_fb9d99b776fb149e",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which micro-organism causes the disease malaria?",
+  "qHi": "मलेरिया रोग किस सूक्ष्म जीव के कारण होता है?",
+  "optsEn": [
+   "Bacterium",
+   "Virus",
+   "Protozoan",
+   "Fungus"
+  ],
+  "optsHi": [
+   "बैक्टीरिया",
+   "वायरस",
+   "प्रोटोजोआ",
+   "कवक"
+  ],
+  "correct": 2,
+  "explainEn": "Malaria is caused by protozoan parasites of the genus Plasmodium, transmitted by mosquitoes.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:45:34Z"
+ },
+ {
+  "id": "q_92a0ab23102b4ed7",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which invisible force is responsible for the downward fall of an apple from a tree?",
+  "qHi": "पेड़ से सेब के नीचे गिरने के लिए कौन सा अदृश्य बल जिम्मेदार है?",
+  "optsEn": [
+   "Magnetic force",
+   "Electrostatic force",
+   "Gravitational force",
+   "Muscular force"
+  ],
+  "optsHi": [
+   "चुंबकीय बल",
+   "स्थिरवैद्युत बल",
+   "गुरुत्वाकर्षण बल",
+   "पेशीय बल"
+  ],
+  "correct": 2,
+  "explainEn": "Gravity is the attractive force exerted by the Earth on objects near its surface.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:46:30Z"
+ },
+ {
+  "id": "q_7fb8e9b4105f5958",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which metal is stored immersed in kerosene because it reacts vigorously with air and water?",
+  "qHi": "किस धातु को केरोसिन में डुबोकर रखा जाता है क्योंकि यह हवा और पानी के साथ तेजी से प्रतिक्रिया करती है?",
+  "optsEn": [
+   "Copper",
+   "Aluminum",
+   "Sodium",
+   "Iron"
+  ],
+  "optsHi": [
+   "तांबा",
+   "एल्युमीनियम",
+   "सोडियम",
+   "लोहा"
+  ],
+  "correct": 2,
+  "explainEn": "Sodium is a very reactive metal and catches fire if kept open in air.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:46:30Z"
  }
 ]

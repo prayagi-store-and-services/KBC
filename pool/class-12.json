@@ -16882,5 +16882,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-18T15:55:28Z"
+ },
+ {
+  "id": "q_d0d22e7cdc209ad7",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas is released during the light reaction of photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण की प्रकाशिक अभिक्रिया के दौरान कौन सी गैस निकलती है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 0,
+  "explainEn": "During the light reaction of photosynthesis, photolysis of water takes place which releases oxygen as a byproduct.",
+  "sourceHint": "NCERT Class 11 Biology Chapter 13",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:45:10Z"
+ },
+ {
+  "id": "q_262a0c127bf5dd79",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which economic sector does agriculture primarily fall?",
+  "qHi": "कृषि मुख्य रूप से किस आर्थिक क्षेत्र के अंतर्गत आती है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Quaternary sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "तृतीयक क्षेत्र",
+   "चतुर्थक क्षेत्र"
+  ],
+  "correct": 0,
+  "explainEn": "Agriculture, forestry, and fishing are activities that directly extract resources from nature, categorizing them under the primary sector.",
+  "sourceHint": "NCERT Class 12 Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:45:10Z"
+ },
+ {
+  "id": "q_c37aa6379fc7fc92",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian Constitutional Article guarantees the right to equality before the law?",
+  "qHi": "भारतीय संविधान का कौन सा अनुच्छेद कानून के समक्ष समानता की गारंटी देता है?",
+  "optsEn": [
+   "Article 12",
+   "Article 14",
+   "Article 19",
+   "Article 21"
+  ],
+  "optsHi": [
+   "अनुच्छेद 12",
+   "अनुच्छेद 14",
+   "अनुच्छेद 19",
+   "अनुच्छेद 21"
+  ],
+  "correct": 1,
+  "explainEn": "Article 14 of the Indian Constitution states that the State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India.",
+  "sourceHint": "Constitution of India, Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:45:42Z"
+ },
+ {
+  "id": "q_6840595b605edb13",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which process involves the direct conversion of an alkyl halide to an alcohol by replacing the halogen atom with a hydroxyl group?",
+  "qHi": "किस प्रक्रिया में हैलोजन परमाणु को हाइड्रॉक्सिल समूह द्वारा प्रतिस्थापित करके एल्किल हैलाइड को सीधे अल्कोहल में बदला जाता है?",
+  "optsEn": [
+   "Elimination reaction",
+   "Nucleophilic substitution reaction",
+   "Electrophilic addition reaction",
+   "Free radical halogenation"
+  ],
+  "optsHi": [
+   "लोप प्रतिक्रिया",
+   "नाभिकस्नेही प्रतिस्थापन प्रतिक्रिया",
+   "इलेक्ट्रोफिलिक जोड़ प्रतिक्रिया",
+   "मुक्त कण हैलोजनीकरण"
+  ],
+  "correct": 1,
+  "explainEn": "When an alkyl halide is reacted with aqueous alkali, the halogen is replaced by an OH- group via nucleophilic substitution.",
+  "sourceHint": "NCERT Class 12 Chemistry, Part II, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:45:42Z"
+ },
+ {
+  "id": "q_b7222f8ef3cbb858",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which specialized tissue in plants is primarily responsible for the transport of water and dissolved minerals from roots to stems and leaves?",
+  "qHi": "पौधों में कौन सा विशिष्ट ऊतक मुख्य रूप से जड़ों से तनों और पत्तियों तक पानी और घुले हुए खनिजों के परिवहन के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Phloem",
+   "Xylem",
+   "Collenchyma",
+   "Sclerenchyma"
+  ],
+  "optsHi": [
+   "फ्लोएम",
+   "जाइलम",
+   "कोलेंकाइमा",
+   "स्क्लेरेन्काइमा"
+  ],
+  "correct": 1,
+  "explainEn": "Xylem is the specialized conducting tissue in vascular plants that transports water and inorganic solutes upward.",
+  "sourceHint": "NCERT Class 11 Biology, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:45:42Z"
+ },
+ {
+  "id": "q_c154fbc27e1a0dc8",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which British Governor-General introduced the policy of Doctrine of Lapse in India during the 19th century?",
+  "qHi": "19वीं शताब्दी के दौरान किस ब्रिटिश गवर्नर-जनरल ने भारत में व्यपगत का सिद्धांत (डॉक्ट्रीन ऑफ लैप्स) नीति की शुरुआत की थी?",
+  "optsEn": [
+   "Lord Dalhousie",
+   "Lord Wellesley",
+   "Lord Cornwallis",
+   "Lord Curzon"
+  ],
+  "optsHi": [
+   "लॉर्ड डलहौजी",
+   "लॉर्ड वेलेजली",
+   "लॉर्ड कॉर्नवॉलिस",
+   "लॉर्ड कर्जन"
+  ],
+  "correct": 0,
+  "explainEn": "Lord Dalhousie applied the Doctrine of Lapse extensively to annex several princely states where the ruler died without a natural male heir.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part III, Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:45:42Z"
+ },
+ {
+  "id": "q_75112d2ab30b50ad",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What term is used in microeconomics for the total revenue generated divided by the total quantity of output sold?",
+  "qHi": "सूक्ष्मअर्थशास्त्र में बेची गई उत्पादन की कुल मात्रा से कुल राजस्व को विभाजित करने पर प्राप्त परिणाम के लिए किस शब्द का उपयोग किया जाता है?",
+  "optsEn": [
+   "Marginal Revenue",
+   "Average Revenue",
+   "Total Cost",
+   "Explicit Cost"
+  ],
+  "optsHi": [
+   "सीमांत राजस्व",
+   "औसत राजस्व",
+   "कुल लागत",
+   "स्पष्ट लागत"
+  ],
+  "correct": 1,
+  "explainEn": "Average Revenue (AR) is defined as total revenue divided by the quantity of output sold, which also equals the market price of the good.",
+  "sourceHint": "NCERT Class 12 Introductory Microeconomics, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:45:42Z"
+ },
+ {
+  "id": "q_4acf8baa29a7a3b5",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the hybridization and geometry of the nickel complex [Ni(CN)4]2- based on Valence Bond Theory?",
+  "qHi": "संयोजकता बंध सिद्धांत के आधार पर निकल संकुल [Ni(CN)4]2- का संकरण और ज्यामिति क्या है?",
+  "optsEn": [
+   "sp3, tetrahedral",
+   "dsp2, square planar",
+   "sp3d2, octahedral",
+   "d2sp3, octahedral"
+  ],
+  "optsHi": [
+   "sp3, चतुष्फलकीय",
+   "dsp2, वर्ग समतलीय",
+   "sp3d2, अष्टफलकीय",
+   "d2sp3, अष्टफलकीय"
+  ],
+  "correct": 1,
+  "explainEn": "CN- is a strong field ligand which causes pairing of 3d electrons, leading to dsp2 hybridization and a square planar geometry for [Ni(CN)4]2-.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 5: Coordination Compounds",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:46:40Z"
+ },
+ {
+  "id": "q_12f5d99935bf15dd",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In macroeconomic accounting, which measure represents the total value of final goods and services produced by the normal residents of a country and their property, whether operating within or outside the domestic territory?",
+  "qHi": "मैक्रोइकॉनॉमिक लेखांकन में, कौन सा माप देश के सामान्य निवासियों और उनकी संपत्ति द्वारा उत्पादित अंतिम वस्तुओं और सेवाओं के कुल मूल्य को दर्शाता है, चाहे वे घरेलू क्षेत्र के भीतर काम कर रहे हों या बाहर?",
+  "optsEn": [
+   "Gross Domestic Product at Market Price",
+   "Net Domestic Product at Factor Cost",
+   "Gross National Product at Market Price",
+   "Net National Product at Factor Cost"
+  ],
+  "optsHi": [
+   "बाजार मूल्य पर सकल घरेलू उत्पाद",
+   "कारक लागत पर शुद्ध घरेलू उत्पाद",
+   "बाजार मूल्य पर सकल राष्ट्रीय उत्पाद",
+   "कारक लागत पर शुद्ध राष्ट्रीय उत्पाद"
+  ],
+  "correct": 2,
+  "explainEn": "Gross National Product (GNP) measures the total output produced by the normal residents of a country, including net factor income from abroad.",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Macroeconomics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:46:40Z"
+ },
+ {
+  "id": "q_c7b1c83bf979f064",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the product formed when primary nitroalkanes react with nitrous acid (HNO2)?",
+  "qHi": "प्राथमिक नाइट्रोएल्केन जब नाइट्रस अम्ल (HNO2) के साथ प्रतिक्रिया करते हैं तो कौन सा उत्पाद बनता है?",
+  "optsEn": [
+   "Nitrolic acids",
+   "Pseudonitroles",
+   "Ketoximes",
+   "Secondary nitroalkanes"
+  ],
+  "optsHi": [
+   "नाइट्रोलिक अम्ल",
+   "सूडोनाइट्रोल",
+   "कीटोक्सिम",
+   "द्वितीयक नाइट्रोएल्केन"
+  ],
+  "correct": 0,
+  "explainEn": "Primary nitroalkanes react with nitrous acid to form nitrolic acids, which dissolve in NaOH to give red solutions.",
+  "sourceHint": "NCERT Class 12 Chemistry, Amines Chapter (Reactions of Nitroalkanes)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:46:40Z"
+ },
+ {
+  "id": "q_73413ec9803ff76e",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which phylum exhibits a water vascular system, which is a characteristic locomotory and respiratory organ system?",
+  "qHi": "कौन सा फाइलम जल संवहन प्रणाली प्रदर्शित करता है, जो एक विशिष्ट लोकोमोटरी और श्वसन अंग प्रणाली है?",
+  "optsEn": [
+   "Annelida",
+   "Arthropoda",
+   "Echinodermata",
+   "Mollusca"
+  ],
+  "optsHi": [
+   "एनेलिडा",
+   "आर्थ्रोपोडा",
+   "इचिनोडर्मेटा",
+   "मोलस्का"
+  ],
+  "correct": 2,
+  "explainEn": "Echinoderms possess a unique water vascular system that aids in locomotion, capture and transport of food, and respiration.",
+  "sourceHint": "NCERT Class 11/12 Biology, Animal Kingdom",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:46:40Z"
  }
 ]

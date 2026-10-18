@@ -17974,5 +17974,341 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-18T15:55:03Z"
+ },
+ {
+  "id": "q_93e0185b3400c68e",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'I' stand for in the acronym 'NEFT', a payment system in Indian banking?",
+  "qHi": "भारतीय बैंकिंग में भुगतान प्रणाली 'NEFT' संक्षिप्त नाम में अक्षर 'I' का क्या अर्थ है?",
+  "optsEn": [
+   "Interbank",
+   "India",
+   "Instant",
+   "International"
+  ],
+  "optsHi": [
+   "इंटरबैंक",
+   "इंडिया",
+   "इंस्टेंट",
+   "इंटरनेशनल"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer.",
+  "sourceHint": "Reserve Bank of India Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:45:22Z"
+ },
+ {
+  "id": "q_88677f79534e8a61",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'C' stand for in the KYC norms followed by banks?",
+  "qHi": "बैंकों द्वारा पालन किए जाने वाले KYC मानदंडों में 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Customer",
+   "Credit",
+   "Currency",
+   "Capital"
+  ],
+  "optsHi": [
+   "कस्टमर",
+   "क्रेडिट",
+   "करेंसी",
+   "कैपिटल"
+  ],
+  "correct": 0,
+  "explainEn": "KYC stands for Know Your Customer, which is a mandatory process by financial institutions to verify the identity of their clients.",
+  "sourceHint": "RBI KYC Master Directions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:45:22Z"
+ },
+ {
+  "id": "q_64c7bb156270af5f",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the context of the Liquidity Coverage Ratio (LCR) under Basel III norms?",
+  "qHi": "Basel III मानदंडों के तहत तरलता कवरेज अनुपात (LCR) के संदर्भ में 'L' अक्षर का क्या अर्थ है?",
+  "optsEn": [
+   "Liability",
+   "Liquidity",
+   "Leverage",
+   "Ledger"
+  ],
+  "optsHi": [
+   "दायित्व (Liability)",
+   "तरलता (Liquidity)",
+   "उत्पीडन (Leverage)",
+   "बहीखाता (Ledger)"
+  ],
+  "correct": 1,
+  "explainEn": "LCR stands for Liquidity Coverage Ratio, which is a regulatory requirement for banks to hold enough high-quality liquid assets to survive an acute stress scenario.",
+  "sourceHint": "Reserve Bank of India (RBI) Guidelines on Basel III Standards",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:46:18Z"
+ },
+ {
+  "id": "q_bc072a4cfe42b5d5",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institutional body in India regulates the credit rating agencies?",
+  "qHi": "भारत में कौन सा संस्थागत निकाय क्रेडिट रेटिंग एजेंसियों को विनियमित करता है?",
+  "optsEn": [
+   "RBI",
+   "SEBI",
+   "IRDAI",
+   "NABARD"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक (RBI)",
+   "भारतीय प्रतिभूति and विनिमय बोर्ड (SEBI)",
+   "इrdai (IRDAI)",
+   "नाबार्ड (NABARD)"
+  ],
+  "correct": 1,
+  "explainEn": "Credit rating agencies in India are registered and regulated by the Securities and Exchange Board of India (SEBI) under SEBI (Credit Rating Agencies) Regulations, 1999.",
+  "sourceHint": "SEBI Act, 1992",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:46:18Z"
+ },
+ {
+  "id": "q_dd930b0ab5075a49",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does 'M' stand for in the context of MSME classification in India?",
+  "qHi": "भारत में MSME वर्गीकरण के संदर्भ में 'M' का क्या अर्थ है?",
+  "optsEn": [
+   "Macro",
+   "Medium",
+   "Minor",
+   "Mercantile"
+  ],
+  "optsHi": [
+   "मैक्रो (Macro)",
+   "मध्यम (Medium)",
+   "लघु (Minor)",
+   "वाणिज्यिक (Mercantile)"
+  ],
+  "correct": 1,
+  "explainEn": "MSME stands for Micro, Small and Medium Enterprises, where 'M' represents Medium.",
+  "sourceHint": "Ministry of Micro, Small and Medium Enterprises, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:46:18Z"
+ },
+ {
+  "id": "q_ba67bdd153c24d2b",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which market deals in the raising of short-term debt instruments such as Treasury Bills and Commercial Paper?",
+  "qHi": "कौन सा बाजार ट्रेजरी बिल और वाणिज्यिक पत्र जैसे अल्पकालिक ऋण साधनों को जुटाने का काम करता है?",
+  "optsEn": [
+   "Capital Market",
+   "Money Market",
+   "Foreign Exchange Market",
+   "Derivatives Market"
+  ],
+  "optsHi": [
+   "पूंजी बाजार (Capital Market)",
+   "मुद्रा बाजार (Money Market)",
+   "विदेशी मुद्रा बाजार (Foreign Exchange Market)",
+   "व्युत्पन्न बाजार (Derivatives Market)"
+  ],
+  "correct": 1,
+  "explainEn": "The money market is a financial market where short-term borrowing and lending with maturities of one year or less take place.",
+  "sourceHint": "NCERT Economics / RBI Financial Markets",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:46:18Z"
+ },
+ {
+  "id": "q_34b961f1760a3dd4",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In banking terminology, what does the acronym 'CASA' refer to?",
+  "qHi": "बैंकिंग शब्दावली में, संक्षिप्त नाम 'CASA' किसे संदर्भित करता है?",
+  "optsEn": [
+   "Current Account Saving Account",
+   "Credit Asset Security Agreement",
+   "Capital Adequacy Statutory Audit",
+   "Centralized Accounting System Application"
+  ],
+  "optsHi": [
+   "चालू खाता बचत खाता (Current Account Saving Account)",
+   "क्रेडिट संपत्ति सुरक्षा समझौता (Credit Asset Security Agreement)",
+   "पूंजी पर्याप्तता वैधानिक लेखा परीक्षा (Capital Adequacy Statutory Audit)",
+   "केंद्रीकृत लेखा प्रणाली अनुप्रयोग (Centralized Accounting System Application)"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account Savings Account, which represents the bank deposits in current and savings accounts that typically offer lower interest rates to banks.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) Publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:46:18Z"
+ },
+ {
+  "id": "q_436816edbe963ed0",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, what is the statutory period within which a complaint must be filed in the Magistrate's court after the expiry of the 15-day notice period following the dishonour of a cheque?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, चेक के अनादर के बाद 15 दिन की नोटिस अवधि समाप्त होने के बाद मजिस्ट्रेट की अदालत में कितने समय के भीतर शिकायत दर्ज की जानी चाहिए?",
+  "optsEn": [
+   "15 days",
+   "30 days",
+   "45 days",
+   "90 days"
+  ],
+  "optsHi": [
+   "15 दिन",
+   "30 दिन",
+   "45 दिन",
+   "90 दिन"
+  ],
+  "correct": 1,
+  "explainEn": "According to Section 138(c) read with Section 142 of the Negotiable Instruments Act, 1881, the complaint must be filed within one month (30 days) of the date on which the cause of action arises.",
+  "sourceHint": "Negotiable Instruments Act, 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:47:19Z"
+ },
+ {
+  "id": "q_0faecffd2df4f029",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Basel III norms, what does the Capital Conservation Buffer (CCB) consist of?",
+  "qHi": "बेसल III मानदंडों के संदर्भ में, पूंजी संरक्षण बफर (CCB) में क्या शामिल होता है?",
+  "optsEn": [
+   "Tier 2 Capital only",
+   "Common Equity Tier 1 (CET1) Capital",
+   "Additional Tier 1 (AT1) Capital",
+   "Total Debt Instruments"
+  ],
+  "optsHi": [
+   "केवल टीयर 2 पूंजी",
+   "सामान्य इक्विटी टीयर 1 (CET1) पूंजी",
+   "अतिरिक्त टीयर 1 (AT1) पूंजी",
+   "कुल ऋण साधन"
+  ],
+  "correct": 1,
+  "explainEn": "The Capital Conservation Buffer is designed to ensure that banks build up capital buffers during normal times that can be drawn down in periods of stress. It must be met with Common Equity Tier 1 (CET1) capital.",
+  "sourceHint": "Basel Committee on Banking Supervision (BCBS) / RBI Basel III Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:47:19Z"
+ },
+ {
+  "id": "q_d91f0ff2ea80b48c",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Indian Stamp Act, 1899, who is primarily liable to pay the stamp duty on a Bill of Exchange payable otherwise than on demand, unless there is an agreement to the contrary?",
+  "qHi": "भारतीय स्टांप अधिनियम, 1899 के तहत, मांग के अलावा अन्य देय विनिमय पत्र (Bill of Exchange) पर स्टांप शुल्क का भुगतान करने के लिए मुख्य रूप से कौन उत्तरदायी है, जब तक कि इसके विपरीत कोई समझौता न हो?",
+  "optsEn": [
+   "The drawee",
+   "The payee",
+   "The maker or drawer",
+   "The collecting banker"
+  ],
+  "optsHi": [
+   "ड्राई (भुगतानकर्ता)",
+   "पेयी (प्राप्तकर्ता)",
+   "निर्माता या ड्रावर",
+   "संग्रहण बैंकर"
+  ],
+  "correct": 2,
+  "explainEn": "Section 29(a) of the Indian Stamp Act, 1899 specifies that in the absence of an agreement to the contrary, the stamp duty on a bill of exchange or promissory note is paid by the maker or drawer.",
+  "sourceHint": "Indian Stamp Act, 1899",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:47:19Z"
+ },
+ {
+  "id": "q_7132d4e5e22090ed",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the maximum permissible limit for an individual depositor under the Deposit Insurance and Credit Guarantee Corporation (DICGC) Act, 1961 for total deposits held in the same capacity and same right across a single insured bank?",
+  "qHi": "एक एकल बीमित बैंक में समान क्षमता और समान अधिकार के तहत रखे गए कुल जमा के लिए जमा बीमा और ऋण गारंटी निगम (DICGC) अधिनियम, 1961 के तहत एक व्यक्तिगत जमाकर्ता के लिए अधिकतम स्वीकार्य सीमा क्या है?",
+  "optsEn": [
+   "1 lakh rupees",
+   "2 lakh rupees",
+   "5 lakh rupees",
+   "10 lakh rupees"
+  ],
+  "optsHi": [
+   "1 लाख रुपये",
+   "2 लाख रुपये",
+   "5 लाख रुपये",
+   "10 लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "Each depositor in a bank is insured up to a maximum of Rs. 5,00,000 (Rupees Five Lakh) for both principal and interest amount held in the same right and capacity.",
+  "sourceHint": "DICGC official guidelines (RBI website)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:47:19Z"
+ },
+ {
+  "id": "q_bae7b9db01ae2f80",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following entities is legally exempt from the requirement of holding a banking license under Section 22 of the Banking Regulation Act, 1949?",
+  "qHi": "निम्नलिखित में से कौन सी संस्था बैंकिंग विनियमन अधिनियम, 1949 की धारा 22 के तहत बैंकिंग लाइसेंस रखने की आवश्यकता से कानूनी रूप से छूट प्राप्त है?",
+  "optsEn": [
+   "Small Finance Banks",
+   "Payment Banks",
+   "Cooperative Banks operating within a single state",
+   "The National Bank for Agriculture and Rural Development (NABARD)"
+  ],
+  "optsHi": [
+   "स्मॉल फाइनेंस बैंक",
+   "पेमेंट्स बैंक",
+   "एक ही राज्य के भीतर संचालित सहकारी बैंक",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक (NABARD)"
+  ],
+  "correct": 3,
+  "explainEn": "NABARD, EXIM Bank, SIDBI, and NHB are established under separate Acts of Parliament and are explicitly excluded from the licensing and regulatory provisions applicable to commercial banking companies under the Banking Regulation Act.",
+  "sourceHint": "NABARD Act, 1981 / Banking Regulation Act, 1949",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:47:19Z"
  }
 ]

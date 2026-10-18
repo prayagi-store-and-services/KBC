@@ -11814,5 +11814,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-18T15:55:06Z"
+ },
+ {
+  "id": "q_a3eeacea1dfe14ee",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a classical dance form originating from Kerala?",
+  "qHi": "निम्नलिखित में से कौन सा शास्त्रीय नृत्य केरल से संबंधित है?",
+  "optsEn": [
+   "Kathakali",
+   "Bharatanatyam",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "कथकली",
+   "भरतनाट्यम",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 0,
+  "explainEn": "Kathakali is a major classical Indian dance form that originated in Kerala, known for its elaborate costumes and makeup.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:45:26Z"
+ },
+ {
+  "id": "q_95e35ee57fcb1cb1",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the famous ancient Indian treatise on statecraft and economic policy, Arthashastra?",
+  "qHi": "राज्यकला और आर्थिक नीति पर प्रसिद्ध प्राचीन भारतीय ग्रंथ 'अर्थशास्त्र' किसने लिखा था?",
+  "optsEn": [
+   "Kalidasa",
+   "Chanakya",
+   "Banabhatta",
+   "Aryabhata"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "चाणक्य",
+   "बाणभट्ट",
+   "आर्यभट्ट"
+  ],
+  "correct": 1,
+  "explainEn": "Chanakya, also known as Kautilya or Vishnugupta, authored the Arthashastra.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:46:22Z"
+ },
+ {
+  "id": "q_9d3ad85a288768a0",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which year did the Indian Space Research Organisation (ISRO) successfully launch its first lunar probe, Chandrayaan-1?",
+  "qHi": "भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO) ने अपने पहले चंद्र जांच अभियान, चंद्रयान-1 को किस वर्ष सफलतापूर्वक लॉन्च किया था?",
+  "optsEn": [
+   "2005",
+   "2008",
+   "2011",
+   "2014"
+  ],
+  "optsHi": [
+   "2005",
+   "2008",
+   "2011",
+   "2014"
+  ],
+  "correct": 1,
+  "explainEn": "Chandrayaan-1 was launched successfully on October 22, 2008, from Satish Dhawan Space Centre.",
+  "sourceHint": "ISRO official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:46:22Z"
+ },
+ {
+  "id": "q_593c3439ba567a49",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin is primarily synthesized in the human skin when exposed to ultraviolet light from the sun?",
+  "qHi": "सूर्य के पराबैंगनी प्रकाश के संपर्क में आने पर मानव त्वचा में मुख्य रूप से कौन सा विटामिन संश्लेषित होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin C",
+   "Vitamin D",
+   "Vitamin K"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन सी",
+   "विटामिन डी",
+   "विटामिन के"
+  ],
+  "correct": 2,
+  "explainEn": "Vitamin D is produced in the skin when cholesterol reacts with UV-B radiation from sunlight.",
+  "sourceHint": "Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:46:22Z"
  }
 ]

@@ -15174,5 +15174,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-18T15:55:21Z"
+ },
+ {
+  "id": "q_5831ce8455bbfe5f",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which state of India is the famous Jim Corbett National Park located?",
+  "qHi": "प्रसिद्ध जिम कॉर्बेट नेशनल पार्क भारत के किस राज्य में स्थित है?",
+  "optsEn": [
+   "Madhya Pradesh",
+   "Uttarakhand",
+   "Assam",
+   "Rajasthan"
+  ],
+  "optsHi": [
+   "मध्य प्रदेश",
+   "उत्तराखंड",
+   "असम",
+   "राजस्थान"
+  ],
+  "correct": 1,
+  "explainEn": "Jim Corbett National Park is situated in the Nainital district of Uttarakhand.",
+  "sourceHint": "NCERT Class 10 Social Science (Geography), Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:46:35Z"
+ },
+ {
+  "id": "q_097e32367a9863d7",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which crop is classified as a rabi crop in the agricultural seasons of India?",
+  "qHi": "भारत की कृषि ऋतुओं में कौन सी फसल रबी की फसल के रूप में वर्गीकृत की जाती है?",
+  "optsEn": [
+   "Paddy",
+   "Wheat",
+   "Maize",
+   "Cotton"
+  ],
+  "optsHi": [
+   "धान",
+   "गेहूं",
+   "मक्का",
+   "कपास"
+  ],
+  "correct": 1,
+  "explainEn": "Wheat is a major rabi crop sown in winter from October to December and harvested in summer from April to June.",
+  "sourceHint": "NCERT Class 10 Social Science (Geography), Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:46:35Z"
+ },
+ {
+  "id": "q_85c4120f49c401f2",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of chemical reaction occurs when an acid reacts with a base to form salt and water?",
+  "qHi": "जब कोई अम्ल किसी क्षार के साथ अभिक्रिया करके लवण और जल बनाता है, तो किस प्रकार की रासायनिक अभिक्रिया होती है?",
+  "optsEn": [
+   "Combination reaction",
+   "Decomposition reaction",
+   "Neutralisation reaction",
+   "Precipitation reaction"
+  ],
+  "optsHi": [
+   "संयोजन अभिक्रिया",
+   "वियोजन अभिक्रिया",
+   "उदासीनीकरण अभिक्रिया",
+   "अवक्षेपण अभिक्रिया"
+  ],
+  "correct": 2,
+  "explainEn": "The reaction between an acid and a base to give salt and water is known as a neutralisation reaction.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:46:35Z"
  }
 ]

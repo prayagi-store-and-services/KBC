@@ -11310,5 +11310,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-18T15:55:39Z"
+ },
+ {
+  "id": "q_ac4e7050315628ca",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which state is the Silent Valley National Park located?",
+  "qHi": "शांत घाटी राष्ट्रीय उद्यान किस राज्य में स्थित है?",
+  "optsEn": [
+   "Uttarakhand",
+   "Assam",
+   "Kerala",
+   "Himachal Pradesh"
+  ],
+  "optsHi": [
+   "उत्तराखंड",
+   "असम",
+   "केरल",
+   "हिमाचल प्रदेश"
+  ],
+  "correct": 2,
+  "explainEn": "Silent Valley National Park is situated in the Nilgiri Hills, Palakkad district of Kerala, India.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:46:13Z"
+ },
+ {
+  "id": "q_004e877e5a9f65e8",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who was the founder of the Nanda Dynasty in ancient India?",
+  "qHi": "प्राचीन भारत में नंद वंश के संस्थापक कौन थे?",
+  "optsEn": [
+   "Mahapadma Nanda",
+   "Dhana Nanda",
+   "Bimbisara",
+   "Ajatashatru"
+  ],
+  "optsHi": [
+   "महापद्म नंद",
+   "धनानंद",
+   "बिम्बिसार",
+   "अजातशत्रु"
+  ],
+  "correct": 0,
+  "explainEn": "Mahapadma Nanda founded the Nanda Dynasty by overthrowing the Shishunaga dynasty.",
+  "sourceHint": "NCERT History Class 6/12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:46:13Z"
+ },
+ {
+  "id": "q_1003b9e0acf4cd91",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Sonal Mansingh is a classical dancer renowned for which two dance forms?",
+  "qHi": "सोनाल मानसिंह एक शास्त्रीय नृत्यांगना हैं जो मुख्य रूप से किन दो नृत्य शैलियों के लिए प्रसिद्ध हैं?",
+  "optsEn": [
+   "Kathak and Kathakali",
+   "Bharatanatyam and Odissi",
+   "Kuchipudi and Mohiniyattam",
+   "Manipuri and Sattriya"
+  ],
+  "optsHi": [
+   "कथक और कथकली",
+   "भरतनाट्यम और ओडिसी",
+   "कुचिपुड़ी और मोहिनीअट्टम",
+   "मणिपुरी और सत्रिया"
+  ],
+  "correct": 1,
+  "explainEn": "Sonal Mansingh is an eminent Indian classical dancer proficient in both Bharatanatyam and Odissi.",
+  "sourceHint": "CCRT India Culture Portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:46:13Z"
+ },
+ {
+  "id": "q_f88ef188fca4c5df",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the British colonial period in India, the Ryotwari System of land revenue was primarily introduced in which of the following regions?",
+  "qHi": "भारत में ब्रिटिश औपनिवेशिक काल के दौरान, भू-राजस्व की रैयतवाड़ी व्यवस्था मुख्य रूप से निम्नलिखित में से किस क्षेत्र में शुरू की गई थी?",
+  "optsEn": [
+   "Bengal Presidency",
+   "Madras and Bombay Presidencies",
+   "United Provinces of Agra and Oudh",
+   "Punjab region"
+  ],
+  "optsHi": [
+   "बंगाल प्रेसीdेंसी",
+   "मद्रास और बॉम्बे प्रेसीdेंसी",
+   "आगरा और अवध के संयुक्त प्रांत",
+   "पंजाब क्षेत्र"
+  ],
+  "correct": 1,
+  "explainEn": "The Ryotwari system was introduced by Thomas Munro and Captain Alexander Read, and it was primarily implemented in the Madras and Bombay Presidencies.",
+  "sourceHint": "NCERT Class 12 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:47:13Z"
+ },
+ {
+  "id": "q_c731a5917d645d11",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian monetary policy, which institution is legally mandated to determine the policy rate required to achieve the inflation target?",
+  "qHi": "भारतीय मौद्रिक नीति के संदर्भ में, मुद्रास्फीति के लक्ष्य को प्राप्त करने के लिए आवश्यक नीतिगत दर निर्धारित करने के लिए किस संस्था को कानूनी रूप से अधिकृत किया गया है?",
+  "optsEn": [
+   "NITI Aayog",
+   "Ministry of Finance",
+   "Monetary Policy Committee",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "नीति आयोग",
+   "वित्त मंत्रालय",
+   "मौद्रिक नीति समिति",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड"
+  ],
+  "correct": 2,
+  "explainEn": "Under Section 45ZB of the Reserve Bank of India Act, 1934, the Central Government is empowered to constitute a six-member Monetary Policy Committee (MPC) to determine the policy interest rate.",
+  "sourceHint": "RBI Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:47:13Z"
+ },
+ {
+  "id": "q_5aabda5eebf3ecac",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following tropical deciduous tree species is most predominantly found in the moist regions of the Eastern Ghats and Central India, known for yielding high-quality timber?",
+  "qHi": "निम्नलिखित में से कौन सी उष्णकटिबंधीय पर्णपाती वृक्ष प्रजाति पूर्वी घाट और मध्य भारत के नम क्षेत्रों में सबसे प्रमुख रूप से पाई जाती है, जो उच्च गुणवत्ता वाली लकड़ी प्रदान करने के लिए जानी जाती है?",
+  "optsEn": [
+   "Sandalwood",
+   "Teak",
+   "Deodar",
+   "Blue Pine"
+  ],
+  "optsHi": [
+   "चंदन",
+   "सागौन",
+   "देवदार",
+   "ब्लू पाइन"
+  ],
+  "correct": 1,
+  "explainEn": "Teak (Tectona grandis) is one of the most important tropical deciduous timber trees found in India, thriving in regions with moderate to high rainfall such as parts of Central India and the Western and Eastern Ghats.",
+  "sourceHint": "NCERT Class 11 Geography - Natural Vegetation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T20:47:13Z"
  }
 ]
