@@ -10722,5 +10722,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-17T20:40:15Z"
+ },
+ {
+  "id": "q_f51662f29aec2844",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which historical monument was built by Emperor Shah Jahan in Agra as a mausoleum for his wife?",
+  "qHi": "सम्राट शाहजहाँ द्वारा आगरा में अपनी पत्नी के मकबरे के रूप में कौन सा ऐतिहासिक स्मारक बनवाया गया था?",
+  "optsEn": [
+   "Qutub Minar",
+   "Taj Mahal",
+   "Red Fort",
+   "Humayun Tomb"
+  ],
+  "optsHi": [
+   "कुतुब मीनार",
+   "ताजमहल",
+   "लाल किला",
+   "हुमायूं का मकबरा"
+  ],
+  "correct": 1,
+  "explainEn": "The Taj Mahal was commissioned by Shah Jahan in 1631 to house the tomb of his favorite wife, Mumtaz Mahal.",
+  "sourceHint": "NCERT Class 7 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:36:14Z"
+ },
+ {
+  "id": "q_a9a90d5609f254e6",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary constituent of natural gas?",
+  "qHi": "प्राकृतिक गैस का मुख्य घटक क्या है?",
+  "optsEn": [
+   "Methane",
+   "Ethane",
+   "Propane",
+   "Butane"
+  ],
+  "optsHi": [
+   "मीथेन",
+   "एथेन",
+   "प्रोपेन",
+   "ब्यूटेन"
+  ],
+  "correct": 0,
+  "explainEn": "Natural gas is a naturally occurring hydrocarbon gas mixture consisting primarily of methane, along with small amounts of higher alkanes.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:37:49Z"
+ },
+ {
+  "id": "q_62a149a905d95773",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The Bardoli Satyagraha of 1928 was led by whom?",
+  "qHi": "1928 के बारडोली सत्याग्रह का नेतृत्व किसने किया था?",
+  "optsEn": [
+   "Mahatma Gandhi",
+   "Vallabhbhai Patel",
+   "Jawaharlal Nehru",
+   "Subhas Chandra Bose"
+  ],
+  "optsHi": [
+   "महात्मा गांधी",
+   "वल्लभभाई पटेल",
+   "जवाहरलाल नेहरू",
+   "सुभाष चंद्र बोस"
+  ],
+  "correct": 1,
+  "explainEn": "The Bardoli Satyagraha was a major movement in the independence movement led by Vallabhbhai Patel in Gujarat against enhanced land revenue.",
+  "sourceHint": "NCERT Class 12 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:37:49Z"
+ },
+ {
+  "id": "q_7be20e5dab2448fa",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The instrument used to measure the intensity of earthquakes is known as what?",
+  "qHi": "भूकंप की तीव्रता मापने के लिए प्रयुक्त उपकरण को क्या कहा जाता है?",
+  "optsEn": [
+   "Barometer",
+   "Seismograph",
+   "Anemometer",
+   "Hygrometer"
+  ],
+  "optsHi": [
+   "बैरोमीटर",
+   "सिस्मोग्राफ",
+   "एनीमोमीटर",
+   "हाइग्रोमीटर"
+  ],
+  "correct": 1,
+  "explainEn": "A seismograph is an instrument used to detect and record earthquakes, measuring the intensity of seismic waves.",
+  "sourceHint": "NCERT Class 7 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:37:49Z"
  }
 ]

@@ -10946,5 +10946,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-17T20:40:34Z"
+ },
+ {
+  "id": "q_fb817f816e9acbde",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific layer of the Earth's interior is inferred to be in a liquid state based on the behavior of seismic waves?",
+  "qHi": "भूकम्प तरंगों के व्यवहार के आधार पर पृथ्वी के आंतरिक भाग की किस विशिष्ट परत को तरल अवस्था में माना जाता है?",
+  "optsEn": [
+   "Crust",
+   "Outer core",
+   "Inner core",
+   "Mantle"
+  ],
+  "optsHi": [
+   "पर्पटी (क्रस्ट)",
+   "बाहरी क्रोड",
+   "आंतरिक क्रोड",
+   "प्रवार (मैंटल)"
+  ],
+  "correct": 1,
+  "explainEn": "S-waves (secondary waves) cannot pass through liquids, and they stop at the boundary of the outer core, proving it is liquid.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:38:08Z"
+ },
+ {
+  "id": "q_6994ef234af2d115",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the Indian parliamentary system, what is the minimum age requirement for a person to be elected as a member of the Rajya Sabha?",
+  "qHi": "भारतीय संसदीय प्रणाली के संदर्भ में, राज्य सभा के सदस्य के रूप में निर्वाचित होने के लिए व्यक्ति की न्यूनतम आयु कितनी होनी चाहिए?",
+  "optsEn": [
+   "21 years",
+   "25 years",
+   "30 years",
+   "35 years"
+  ],
+  "optsHi": [
+   "21 वर्ष",
+   "25 वर्ष",
+   "30 वर्ष",
+   "35 वर्ष"
+  ],
+  "correct": 2,
+  "explainEn": "Article 84 of the Constitution of India stipulates that a person must be not less than 30 years of age to be chosen as a member of the Council of States (Rajya Sabha).",
+  "sourceHint": "Constitution of India, Article 84",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:38:08Z"
+ },
+ {
+  "id": "q_e8c35c469aab8bec",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which cell organelle is primarily responsible for the packaging and dispatching of materials synthesized in the cell to various targets inside and outside the cell?",
+  "qHi": "कौन सा कोशिका अंग मुख्य रूप से कोशिका के अंदर और बाहर विभिन्न लक्ष्यों तक संश्लेषित सामग्रियों के पैकेजिंग और प्रेषण के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Mitochondria",
+   "Ribosome",
+   "Golgi apparatus",
+   "Vacuole"
+  ],
+  "optsHi": [
+   "माइटोकॉन्ड्रिया",
+   "राइबोसोम",
+   "गॉल्जी उपकरण",
+   "रिक्तिका"
+  ],
+  "correct": 2,
+  "explainEn": "The Golgi apparatus functions as a cytoplasmic factory where proteins and other materials received from the endoplasmic reticulum are processed, packaged, and dispatched.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:38:08Z"
+ },
+ {
+  "id": "q_359988a8edb339f4",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following coal varieties contains the highest percentage of carbon and burns with the least smoke?",
+  "qHi": "कोयले की निम्नलिखित किस्मों में से किसमें कार्बन का प्रतिशत सबसे अधिक होता है और जो सबसे कम धुएं के साथ जलता है?",
+  "optsEn": [
+   "Peat",
+   "Lignite",
+   "Bituminous",
+   "Anthracite"
+  ],
+  "optsHi": [
+   "पीट",
+   "लिग्नाइट",
+   "बिटुमिनस",
+   "एन्थ्रेसाइट"
+  ],
+  "correct": 3,
+  "explainEn": "Anthracite is the highest rank of coal containing between 86% and 97% carbon, giving it the highest heating value and lowest smoke production.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:38:08Z"
+ },
+ {
+  "id": "q_2942f68f9f50d5a1",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In a closed circuit, if the cross-sectional area of a metallic wire is halved while keeping its length and material constant, what happens to its electrical resistance?",
+  "qHi": "एक बंद परिपथ में, यदि किसी धात्विक तार की लंबाई और पदार्थ को स्थिर रखते हुए उसके अनुप्रस्थ काट के क्षेत्रफल को आधा कर दिया जाए, तो उसके विद्युत प्रतिरोध पर क्या प्रभाव पड़ेगा?",
+  "optsEn": [
+   "It remains unchanged",
+   "It gets halved",
+   "It gets doubled",
+   "It becomes four times"
+  ],
+  "optsHi": [
+   "यह अपरिवर्तित रहता है",
+   "यह आधा हो जाता है",
+   "यह दोगुना हो जाता है",
+   "यह चार गुना हो जाता है"
+  ],
+  "correct": 2,
+  "explainEn": "Resistance is inversely proportional to the cross-sectional area (R = rho * l / A). Halving the area doubles the resistance.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:38:08Z"
+ },
+ {
+  "id": "q_de31fe6f5896990f",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific crop rotation practice is traditionally used in agriculture to naturally replenish soil nitrogen without synthetic fertilizers?",
+  "qHi": "कृषि में पारंपरिक रूप से सिंथेटिक उर्वरकों के बिना मिट्टी में प्राकृतिक रूप से नाइट्रोजन की पुनःपूर्ति के लिए कौन सी विशिष्ट फसल चक्र प्रथा का उपयोग किया जाता है?",
+  "optsEn": [
+   "Growing wheat continuously",
+   "Cultivating leguminous plants after cereal crops",
+   "Growing paddy in standing water year-round",
+   "Fallowing the land without planting any cover crop"
+  ],
+  "optsHi": [
+   "लगातार गेहूं उगाना",
+   "अनाज वाली फसलों के बाद दलहनी पौधे उगाना",
+   "साल भर खड़े पानी में धान उगाना",
+   "बिना कोई आवरण फसल उगाए भूमि को बंजर छोड़ना"
+  ],
+  "correct": 1,
+  "explainEn": "Leguminous plants host Rhizobium bacteria in their root nodules, which fix atmospheric nitrogen into usable nitrates, enriching the soil.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:38:08Z"
+ },
+ {
+  "id": "q_d28cd6325abb0e2f",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which treaty marked the formal acquisition of the Diwani rights of Bengal, Bihar, and Orissa by the East India Company from the Mughal Emperor?",
+  "qHi": "किस संधि के द्वारा ईस्ट इंडिया कंपनी ने मुगल सम्राट से बंगाल, बिहार और उड़ीसा के दीवानी अधिकारों का औपचारिक अधिग्रहण किया था?",
+  "optsEn": [
+   "Treaty of Alinagar",
+   "Treaty of Allahabad",
+   "Treaty of Bassein",
+   "Treaty of Seringapatam"
+  ],
+  "optsHi": [
+   "अलीगढ़ की संधि",
+   "इलाहाबाद की संधि",
+   "बसीन की संधि",
+   "श्रीरंगपट्टनम की संधि"
+  ],
+  "correct": 1,
+  "explainEn": "Following the Battle of Buxar, Shah Alam II signed the Treaty of Allahabad in 1765, granting the Diwani rights to the East India Company.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:38:08Z"
  }
 ]

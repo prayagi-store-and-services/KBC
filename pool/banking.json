@@ -17246,5 +17246,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-17T20:40:20Z"
+ },
+ {
+  "id": "q_17cded7ac865b1ed",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'A' stand for in the acronym ATM as used in banking?",
+  "qHi": "बैंकिंग में प्रयुक्त संक्षिप्त नाम ATM में 'A' का क्या अर्थ है?",
+  "optsEn": [
+   "Automated",
+   "Annual",
+   "Asset",
+   "Audited"
+  ],
+  "optsHi": [
+   "ऑटोमेटेड",
+   "एनुअल",
+   "एसेट",
+   "ऑडिटेड"
+  ],
+  "correct": 0,
+  "explainEn": "ATM stands for Automated Teller Machine, an electronic telecommunication device that enables customers to perform financial transactions.",
+  "sourceHint": "Britannica and RBI glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:36:19Z"
+ },
+ {
+  "id": "q_32a8ae474ba43328",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization in India regulates the mutual funds market?",
+  "qHi": "भारत में म्यूचुअल फंड बाजार को कौन सा संगठन विनियमित करता है?",
+  "optsEn": [
+   "IRDAI",
+   "SEBI",
+   "NABARD",
+   "PFRDA"
+  ],
+  "optsHi": [
+   "IRDAI",
+   "SEBI",
+   "NABARD",
+   "PFRDA"
+  ],
+  "correct": 1,
+  "explainEn": "The Securities and Exchange Board of India (SEBI) is the regulator for the securities market and mutual funds in India.",
+  "sourceHint": "SEBI official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:36:19Z"
+ },
+ {
+  "id": "q_a61e3f89d83a407b",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of repo rate in monetary policy?",
+  "qHi": "मौद्रिक नीति में रेपो रेट का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Repurchase Rate",
+   "Reserve Position Rate",
+   "Real Economic Performance Option",
+   "Rate of Public Offering"
+  ],
+  "optsHi": [
+   "रीपरचेज रेट",
+   "रिजर्व पोजीशन रेट",
+   "रियल इकोनॉमिक परफॉर्मेंस ऑप्शन",
+   "रेट ऑफ पब्लिक ऑफरिंग"
+  ],
+  "correct": 0,
+  "explainEn": "Repo rate stands for Repurchase rate, which is the rate at which the central bank lends money to commercial banks.",
+  "sourceHint": "RBI monetary policy definitions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:36:19Z"
+ },
+ {
+  "id": "q_5a912bcb2ef369d7",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which financial institution in India regulates and supervises the functioning of Regional Rural Banks (RRBs)?",
+  "qHi": "भारत में क्षेत्रीय ग्रामीण बैंकों (RRBs) کے कामकाज को कौन सा वित्तीय संस्थान विनियमित और पर्यवेक्षित करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "NABARD",
+   "State Bank of India",
+   "SIDBI"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "नाबार्ड",
+   "भारतीय स्टेट बैंक",
+   "सिडबी"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) is statutorily mandated to inspect and supervise Regional Rural Banks and State Cooperative Banks in India.",
+  "sourceHint": "NABARD Act, 1981 / RBI guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:37:54Z"
+ },
+ {
+  "id": "q_5e0d98c788e6d6b2",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of banking transactions, what does 'NEFT' stand for?",
+  "qHi": "बैंकिंग लेनदेन के संदर्भ में 'NEFT' का क्या अर्थ है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "National Equity Finance Terminal",
+   "Net Electronic Funds Transaction",
+   "New Economic Funds Transfer"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "नेशनल इक्विटी फाइनेंस टर्मिनल",
+   "नेट इलेक्ट्रॉनिक फंड्स ट्रांजैक्शन",
+   "न्यू इकोनॉमिक फंड्स ट्रांसफर"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, a nationwide centralized payment system owned and operated by the Reserve Bank of India.",
+  "sourceHint": "RBI official glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:37:54Z"
+ },
+ {
+  "id": "q_e0d8c656c02474fd",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is the maximum limit for a single transfer through the Immediate Payment Service (IMPS)?",
+  "qHi": "Immediate Payment Service (IMPS) के माध्यम से एक एकल ट्रांसफर की अधिकतम सीमा निम्नलिखित में से कौन सी है?",
+  "optsEn": [
+   "1 Lakh Rupees",
+   "2 Lakh Rupees",
+   "5 Lakh Rupees",
+   "No upper limit set by NPCI"
+  ],
+  "optsHi": [
+   "1 लाख रुपये",
+   "2 लाख रुपये",
+   "5 लाख रुपये",
+   "NPCI द्वारा कोई ऊपरी सीमा तय नहीं की गई है"
+  ],
+  "correct": 2,
+  "explainEn": "The maximum permissible limit for fund transfers through IMPS per transaction is 5 Lakh Rupees as per NPCI guidelines.",
+  "sourceHint": "National Payments Corporation of India (NPCI)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:37:54Z"
+ },
+ {
+  "id": "q_60be1fd9c7d25352",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which market instrument is also known as a Zero Coupon Bond issued by the Government of India?",
+  "qHi": "भारत सरकार द्वारा जारी किस बाजार उपकरण को शून्य कूपन बांड (Zero Coupon Bond) के रूप में भी जाना जाता है?",
+  "optsEn": [
+   "Treasury Bill",
+   "Certificate of Deposit",
+   "Commercial Paper",
+   "Promissory Note"
+  ],
+  "optsHi": [
+   "राजकोषीय बिल (Treasury Bill)",
+   "जमा प्रमाणपत्र (Certificate of Deposit)",
+   "वाणिज्यिक पत्र (Commercial Paper)",
+   "वचन पत्र (Promissory Note)"
+  ],
+  "correct": 0,
+  "explainEn": "Treasury Bills are short-term debt instruments issued by the Government of India and are zero-coupon bonds because they do not pay interest; instead, they are issued at a discount and redeemed at face value.",
+  "sourceHint": "Reserve Bank of India Financial Education",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:37:54Z"
+ },
+ {
+  "id": "q_7c53d0bde73a563f",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the term 'CASA' ratio refer to in the banking sector?",
+  "qHi": "बैंकिंग क्षेत्र में 'CASA' अनुपात शब्द किससे संबंधित है?",
+  "optsEn": [
+   "Capital and Statutory Assets ratio",
+   "Current Account and Savings Account deposit ratio",
+   "Credit and Savings Allocation ratio",
+   "Centralized Asset and Security Audit"
+  ],
+  "optsHi": [
+   "पूंजी और वैधानिक परिसंपत्ति अनुपात",
+   "चालू खाता और बचत खाता जमा अनुपात",
+   "ऋด और बचत आवंटन अनुपात",
+   "केंद्रीकृत संपत्ति और सुरक्षा लेखापरीक्षा"
+  ],
+  "correct": 1,
+  "explainEn": "The CASA ratio measures the proportion of deposits a bank raises through Current Accounts and Savings Accounts compared to its total deposits.",
+  "sourceHint": "Banking manuals and financial glossaries",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:37:54Z"
  }
 ]

@@ -15846,5 +15846,453 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-17T20:39:53Z"
+ },
+ {
+  "id": "q_88cac6e3cb5056dd",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organelle is primarily responsible for the packaging of materials to be delivered either to the intracellular targets or secreted outside the cell?",
+  "qHi": "कौन सा कोशिकांग मुख्य रूप से उन पदार्थों की पैकेजिंग के लिए जिम्मेदार है जिन्हें intracellular लक्ष्यों तक पहुँचाया जाना है या कोशिका के बाहर स्रावित किया जाना है?",
+  "optsEn": [
+   "Endoplasmic reticulum",
+   "Golgi apparatus",
+   "Mitochondria",
+   "Ribosome"
+  ],
+  "optsHi": [
+   "अंतर्द्रव्यी जालिका",
+   "गॉल्जी उपकरण",
+   "माइटोकॉन्ड्रिया",
+   "राइबोसोम"
+  ],
+  "correct": 1,
+  "explainEn": "The Golgi apparatus principally performs the function of packaging materials, modifying them, and dispatching them to various targets.",
+  "sourceHint": "NCERT Biology Class 11/12 Cell structure",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:36:06Z"
+ },
+ {
+  "id": "q_aefd5f715b36cb45",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the famous book 'The Discovery of India'?",
+  "qHi": "प्रसिद्ध पुस्तक 'द डिस्कवरी ऑफ़ इंडिया' किसने लिखी?",
+  "optsEn": [
+   "Mahatma Gandhi",
+   "Jawaharlal Nehru",
+   "Rabindranath Tagore",
+   "Subhash Chandra Bose"
+  ],
+  "optsHi": [
+   "महात्मा गांधी",
+   "जवाहरलाल नेहरू",
+   "रवींद्रनाथ टैगोर",
+   "सुभाष चंद्र बोस"
+  ],
+  "correct": 1,
+  "explainEn": "Jawaharlal Nehru wrote 'The Discovery of India' during his imprisonment in Ahmednagar fort between 1942 and 1945.",
+  "sourceHint": "NCERT History textbook references",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:36:06Z"
+ },
+ {
+  "id": "q_92f58d7ce722ac08",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which economic sector includes activities related to agriculture, forestry, and fishing?",
+  "qHi": "किस आर्थिक क्षेत्र में कृषि, वानिकी और मत्स्य पालन से संबंधित गतिविधियाँ शामिल हैं?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Quaternary sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "तृतीयक क्षेत्र",
+   "चतुर्थक क्षेत्र"
+  ],
+  "correct": 0,
+  "explainEn": "The primary sector comprises activities that are directly dependent on the extraction and harvesting of natural resources, such as agriculture.",
+  "sourceHint": "NCERT Economics Class 12, Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:36:06Z"
+ },
+ {
+  "id": "q_4f2b488335d6e69b",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary gas responsible for global warming through the greenhouse effect?",
+  "qHi": "ग्रीनहाउस प्रभाव के माध्यम से ग्लोबल वार्मिंग के लिए जिम्मेदार प्राथमिक गैस कौन सी है?",
+  "optsEn": [
+   "Oxygen",
+   "Nitrogen",
+   "Carbon dioxide",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "कार्बन डाइऑक्साइड",
+   "आर्गन"
+  ],
+  "correct": 2,
+  "explainEn": "Carbon dioxide is the primary greenhouse gas contributing significantly to global warming and climate change.",
+  "sourceHint": "NCERT Geography Class 12, Fundamentals of Human Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:36:06Z"
+ },
+ {
+  "id": "q_8a1d7cdf9c5e2575",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which coordination compound is commonly known as Cisplatin and is used as an anticancer drug?",
+  "qHi": "किस उपसहसंयोजक यौगिक को आमतौर पर सिस्प्लैटिन के रूप में जाना जाता है और इसका उपयोग कैंसर रोधी दवा के रूप में किया जाता है?",
+  "optsEn": [
+   "[PtCl2(NH3)2]",
+   "[Co(NH3)6]Cl3",
+   "K4[Fe(CN)6]",
+   "[Ni(CO)4]"
+  ],
+  "optsHi": [
+   "[PtCl2(NH3)2]",
+   "[Co(NH3)6]Cl3",
+   "K4[Fe(CN)6]",
+   "[Ni(CO)4]"
+  ],
+  "correct": 0,
+  "explainEn": "Cis-diamminedichloroplatinum(II), commonly called cisplatin, has the formula [PtCl2(NH3)2] and is used in chemotherapy.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 9",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:37:38Z"
+ },
+ {
+  "id": "q_ea2965f259bb1b3e",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which year was the first official Census of population conducted across the entire British India synchronously?",
+  "qHi": "संपूर्ण ब्रिटिश भारत में पहली आधिकारिक जनगणना किस वर्ष समकालिक रूप से की गई थी?",
+  "optsEn": [
+   "1872",
+   "1881",
+   "1901",
+   "1921"
+  ],
+  "optsHi": [
+   "1872",
+   "1881",
+   "1901",
+   "1921"
+  ],
+  "correct": 1,
+  "explainEn": "The first complete and synchronous census of India was conducted in 1881 under British rule, and thereafter every 10 years.",
+  "sourceHint": "NCERT Class 12 Geography, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:37:38Z"
+ },
+ {
+  "id": "q_490915155905000f",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of natural vegetation belt is characterized by stunted trees and low-growing shrubs found in polar regions?",
+  "qHi": "ध्रुवीय क्षेत्रों में पाए जाने वाले बौने पेड़ों और कम ऊंचाई वाली झाड़ियों वाली प्राकृतिक वनस्पति बेल्ट को किस रूप में जाना जाता है?",
+  "optsEn": [
+   "Taiga",
+   "Tundra",
+   "Steppe",
+   "Savanna"
+  ],
+  "optsHi": [
+   "टाइगा",
+   "टुंड्रा",
+   "स्टेपी",
+   "सवाना"
+  ],
+  "correct": 1,
+  "explainEn": "Tundra vegetation consists of dwarf shrubs, sedges, mosses, and lichens adapted to extremely cold polar conditions.",
+  "sourceHint": "NCERT Class 11 Geography, Fundamentals of Physical Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:37:38Z"
+ },
+ {
+  "id": "q_1c28e594b94bf328",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which micro-organism is commercially used for the production of acetic acid (vinegar)?",
+  "qHi": "एसिटिक एसिड (सिरका) के उत्पादन के लिए व्यावसायिक रूप से किस सूक्ष्मजीव का उपयोग किया जाता है?",
+  "optsEn": [
+   "Lactobacillus",
+   "Acetobacter aceti",
+   "Aspergillus niger",
+   "Saccharomyces cerevisiae"
+  ],
+  "optsHi": [
+   "लैक्टोबैसिलस",
+   "एसिटोबैक्टर एसिटी",
+   "एस्परगिलस नाइजर",
+   "सैकरोमाइसेज सेरेविसी"
+  ],
+  "correct": 1,
+  "explainEn": "Acetobacter aceti is a bacterium used in commercial production to convert ethanol into acetic acid (vinegar).",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:37:38Z"
+ },
+ {
+  "id": "q_a44668747d9c16a9",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of fiscal policy managed by the government in an economy?",
+  "qHi": "अर्थव्यवस्था में सरकार द्वारा प्रबंधित राजकोषीय नीति का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "Regulating money supply and interest rates",
+   "Managing government revenue and public expenditure",
+   "Controlling foreign exchange reserves directly",
+   "Setting commercial bank reserve ratios"
+  ],
+  "optsHi": [
+   "धन की आपूर्ति और ब्याज दरों को विनियमित करना",
+   "सरकारी राजस्व और सार्वजनिक व्यय का प्रबंधन करना",
+   "विदेशी मुद्रा भंडार को सीधे नियंत्रित करना",
+   "वाणिज्यिक बैंक आरक्षित अनुपातों को तय करना"
+  ],
+  "correct": 1,
+  "explainEn": "Fiscal policy is the means by which a government adjusts its spending levels and tax rates to monitor and influence a nation's economy.",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:37:38Z"
+ },
+ {
+  "id": "q_6fe72ead5add7a27",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the hybridization and geometry of the central atom in the complex ion [Ni(CN)4]2-?",
+  "qHi": "संकुल आयन [Ni(CN)4]2- में केंद्रीय परमाणु का प्रसंकरण (hybridization) और ज्यामिति क्या है?",
+  "optsEn": [
+   "sp3, tetrahedral",
+   "dsp2, square planar",
+   "sp3d2, octahedral",
+   "d2sp3, octahedral"
+  ],
+  "optsHi": [
+   "sp3, चतुष्फलकीय",
+   "dsp2, वर्गाकार समतलीय",
+   "sp3d2, अष्टफलकीय",
+   "d2sp3, अष्टफलकीय"
+  ],
+  "correct": 1,
+  "explainEn": "Cyanide is a strong field ligand causing pairing of d-electrons in Nickel(II), resulting in dsp2 hybridization and square planar geometry.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 9: Coordination Compounds",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:38:19Z"
+ },
+ {
+  "id": "q_2dfb449a9487018d",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Article of the Constitution of India provides for the establishment and constitution of the Supreme Court of India?",
+  "qHi": "भारत के संविधान का कौन सा अनुच्छेद भारत के उच्चतम न्यायालय की स्थापना और गठन का प्रावधान करता है?",
+  "optsEn": [
+   "Article 124",
+   "Article 131",
+   "Article 143",
+   "Article 120"
+  ],
+  "optsHi": [
+   "अनुच्छेद 124",
+   "अनुच्छेद 131",
+   "अनुच्छेद 143",
+   "अनुच्छेद 120"
+  ],
+  "correct": 0,
+  "explainEn": "Article 124 of the Constitution of India deals with the establishment and constitution of the Supreme Court.",
+  "sourceHint": "Constitution of India, Part V",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:38:19Z"
+ },
+ {
+  "id": "q_fc9ca70064517de2",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the microsporogenesis in angiosperms, each cell of the sporogenous tissue acts as a potential microspore mother cell and gives rise to how many pollens?",
+  "qHi": "आवृतबीजियों में लघुबीजाणुजन के दौरान, बीजाणुजन ऊतक की प्रत्येक कोशिका एक संभावित लघुबीजाणु मातृ कोशिका के रूप में कार्य करती है और कितने परागकण उत्पन्न करती है?",
+  "optsEn": [
+   "1",
+   "2",
+   "4",
+   "8"
+  ],
+  "optsHi": [
+   "1",
+   "2",
+   "4",
+   "8"
+  ],
+  "correct": 2,
+  "explainEn": "Each microspore mother cell undergoes meiosis to form a microspore tetrad containing four haploid cells, each developing into a pollen grain.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 2: Sexual Reproduction in Flowering Plants",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:38:19Z"
+ },
+ {
+  "id": "q_54b9a0a14a2dda86",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which thermodynamic property remains constant during a free expansion of an ideal gas in an insulated container?",
+  "qHi": "एक विद्युत-रोधित पात्र में आदर्श गैस के स्वतंत्र प्रसार के दौरान कौन सा ऊष्मागतिक गुण स्थिर रहता है?",
+  "optsEn": [
+   "Temperature",
+   "Pressure",
+   "Internal energy",
+   "Enthalpy"
+  ],
+  "optsHi": [
+   "तापमान",
+   "दाब",
+   "आंतरिक ऊर्जा",
+   "एन्थैल्पी"
+  ],
+  "correct": 2,
+  "explainEn": "In free expansion against vacuum, work done is zero and heat exchanged is zero (insulated), hence internal energy and temperature remain constant for an ideal gas.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 6: Thermodynamics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:38:19Z"
+ },
+ {
+  "id": "q_3624a952a0d13d59",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In British India, the Permanent Settlement of Bengal was introduced by Lord Cornwallis in which year?",
+  "qHi": "ब्रिटिश भारत में, बंगाल का स्थायी बंदोबस्त लॉर्ड कॉर्नवॉलिस द्वारा किस वर्ष में शुरू किया गया था?",
+  "optsEn": [
+   "1784",
+   "1793",
+   "1801",
+   "1813"
+  ],
+  "optsHi": [
+   "1784",
+   "1793",
+   "1801",
+   "1813"
+  ],
+  "correct": 1,
+  "explainEn": "The Permanent Settlement was enacted by the East India Company led by Lord Cornwallis in 1793.",
+  "sourceHint": "NCERT Class 12 History, Theme 10: Colonialism and the Countryside",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:38:19Z"
+ },
+ {
+  "id": "q_f2cd265744a57de1",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the dimensional formula of self-inductance in terms of mass (M), length (L), time (T), and current (A)?",
+  "qHi": "द्रव्यमान (M), लंबाई (L), समय (T), और विद्युत धारा (A) के पदों में स्व-प्रेरकत्व (self-inductance) का विमीय सूत्र क्या है?",
+  "optsEn": [
+   "[M L2 T-2 A-2]",
+   "[M L2 T-3 A-1]",
+   "[M L T-2 A-2]",
+   "[M L2 T-2 A-1]"
+  ],
+  "optsHi": [
+   "[M L2 T-2 A-2]",
+   "[M L2 T-3 A-1]",
+   "[M L T-2 A-2]",
+   "[M L2 T-2 A-1]"
+  ],
+  "correct": 0,
+  "explainEn": "Self-inductance L can be derived from induced emf E = -L (di/dt), leading to dimensions [M L2 T-2 A-2].",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 6: Electromagnetic Induction",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:38:19Z"
+ },
+ {
+  "id": "q_f90ce987adfcdfe9",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "According to Keynesian macroeconomics, what is the value of the marginal propensity to consume (MPC) plus the marginal propensity to save (MPS)?",
+  "qHi": "कीनेशियाई समष्टि अर्थशास्त्र के अनुसार, उपभोग की सीमांत प्रवृत्ति (MPC) और बचत की सीमांत प्रवृत्ति (MPS) का योग कितना होता है?",
+  "optsEn": [
+   "Zero",
+   "Infinity",
+   "One",
+   "Variable based on income"
+  ],
+  "optsHi": [
+   "शून्य",
+   "अनंत",
+   "एक",
+   "आय के आधार पर परिवर्तनशील"
+  ],
+  "correct": 2,
+  "explainEn": "An increase in income is either consumed or saved, so MPC + MPS = 1 always.",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Macroeconomics, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:38:19Z"
  }
 ]

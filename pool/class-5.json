@@ -14922,5 +14922,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-17T20:40:29Z"
+ },
+ {
+  "id": "q_51d9004043424f73",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these animals is primarily nocturnal?",
+  "qHi": "इनमें से कौन सा जानवर मुख्य रूप से निशाचर (रात में जागने वाला) है?",
+  "optsEn": [
+   "Owl",
+   "Cow",
+   "Crow",
+   "Horse"
+  ],
+  "optsHi": [
+   "उल्लू",
+   "गाय",
+   "कौवा",
+   "घोड़ा"
+  ],
+  "correct": 0,
+  "explainEn": "Owls are active mostly during the night and sleep during the day.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:35:54Z"
+ },
+ {
+  "id": "q_d1e1aa66934da16d",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What do plants take in from the air to make their food during photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण के दौरान पौधे अपना भोजन बनाने के लिए हवा से क्या लेते हैं?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Helium"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हीलियम"
+  ],
+  "correct": 1,
+  "explainEn": "Green plants absorb carbon dioxide from the air to prepare food.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:35:54Z"
+ },
+ {
+  "id": "q_ea588fd72a46e382",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Water exists in how many main physical states on Earth?",
+  "qHi": "पृथ्वी पर पानी मुख्य रूप से कितनी भौतिक अवस्थाओं में पाया जाता है?",
+  "optsEn": [
+   "One",
+   "Two",
+   "Three",
+   "Four"
+  ],
+  "optsHi": [
+   "एक",
+   "दो",
+   "तीन",
+   "चार"
+  ],
+  "correct": 2,
+  "explainEn": "Water exists in solid (ice), liquid (water), and gas (water vapor) states.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:35:54Z"
+ },
+ {
+  "id": "q_5bc29ae3eb0295fd",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which directional instrument uses a magnetized needle to show magnetic north?",
+  "qHi": "चुंबकीय उत्तर दिखाने के लिए कौन सा दिशासूचक यंत्र चुम्बकीय सुई का उपयोग करता है?",
+  "optsEn": [
+   "Barometer",
+   "Thermometer",
+   "Compass",
+   "Anemometer"
+  ],
+  "optsHi": [
+   "बैरोमीटर",
+   "थर्मोमीटर",
+   "कम्पास",
+   "एनिमोमीटर"
+  ],
+  "correct": 2,
+  "explainEn": "A compass is a navigational instrument that points towards magnetic north.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:37:26Z"
+ },
+ {
+  "id": "q_ea486349b6b47eb3",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Seed dispersal in the madar (akarkata) plant happens mainly through which medium?",
+  "qHi": "मदार के पौधे में बीजों का प्रकीर्णन मुख्य रूप से किस माध्यम से होता है?",
+  "optsEn": [
+   "Water",
+   "Wind",
+   "Animals",
+   "Explosion"
+  ],
+  "optsHi": [
+   "जल",
+   "वायु",
+   "जानवर",
+   "विस्फोट"
+  ],
+  "correct": 1,
+  "explainEn": "Madar seeds have hair-like structures that help them float and travel far with the wind.",
+  "sourceHint": "NCERT Class 5 EVS Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:37:26Z"
+ },
+ {
+  "id": "q_85ef2050f8391b74",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which historical monument in Agra was built by Mughal Emperor Shah Jahan as a mausoleum for his wife?",
+  "qHi": "आगरा में किस ऐतिहासिक स्मारक का निर्माण मुगल सम्राट शाहजहाँ ने अपनी पत्नी के मकबरे के रूप में करवाया था?",
+  "optsEn": [
+   "Red Fort",
+   "Qutub Minar",
+   "Taj Mahal",
+   "Humayun's Tomb"
+  ],
+  "optsHi": [
+   "लाल किला",
+   "कुतुब मीनार",
+   "ताजमहल",
+   "हुमायूं का मकबरा"
+  ],
+  "correct": 2,
+  "explainEn": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:37:26Z"
+ },
+ {
+  "id": "q_a8996b7f5a76f4db",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which vitamin is primarily produced in the human skin when exposed to sunlight?",
+  "qHi": "सूर्य के प्रकाश के संपर्क में आने पर मानव त्वचा में मुख्य रूप से कौन सा विटामिन बनता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Vitamin D is synthesized in the skin through a photochemical reaction triggered by exposure to ultraviolet B (UVB) sunlight.",
+  "sourceHint": "NCERT Class 6 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:38:03Z"
+ },
+ {
+  "id": "q_48345876667c3a76",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the term for animals that give birth to live young and feed them with milk produced by mammary glands?",
+  "qHi": "उन जंतुओं को क्या कहा जाता है जो जीवित बच्चों को जन्म देते हैं और उन्हें स्तन ग्रंथियों से उत्पन्न दूध पिलाते हैं?",
+  "optsEn": [
+   "Amphibians",
+   "Reptiles",
+   "Mammals",
+   "Aves"
+  ],
+  "optsHi": [
+   "उभयचर",
+   "सरीसृप",
+   "स्तनधारी",
+   "पक्षी"
+  ],
+  "correct": 2,
+  "explainEn": "Mammals are vertebrate animals characterized by the presence of mammary glands which produce milk for their young.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:38:03Z"
+ },
+ {
+  "id": "q_daa34c020a491988",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which physical process causes wet clothes to dry when they are hung in the open air?",
+  "qHi": "खुली हवा में लटकाए जाने पर गीले कपड़ों के सूखने का कौन सा भौतिक प्रक्रम कारण है?",
+  "optsEn": [
+   "Condensation",
+   "Evaporation",
+   "Sublimation",
+   "Precipitation"
+  ],
+  "optsHi": [
+   "संघनन",
+   "वाष्पीकरण",
+   "ऊर्ध्वपातन",
+   "वर्षा"
+  ],
+  "correct": 1,
+  "explainEn": "Evaporation is the process by which water changes from a liquid to a gas or vapor at temperatures below its boiling point.",
+  "sourceHint": "NCERT Class 6 Science Chapter 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:38:03Z"
+ },
+ {
+  "id": "q_46e288b02f937504",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of resources are coal and petroleum considered to be, since they take millions of years to form and cannot be quickly replaced?",
+  "qHi": "कोयला और पेट्रोलियम को किस प्रकार के संसाधन माना जाता है, क्योंकि इन्हें बनने में लाखों वर्ष लगते हैं और उनकी जल्दी भरपाई नहीं की जा सकती?",
+  "optsEn": [
+   "Renewable resources",
+   "Non-renewable resources",
+   "Biotic resources",
+   "Inexhaustible resources"
+  ],
+  "optsHi": [
+   "नवीकरणीय संसाधन",
+   "अनवीकरणीय संसाधन",
+   "जैविक संसाधन",
+   "अक्षय संसाधन"
+  ],
+  "correct": 1,
+  "explainEn": "Non-renewable resources exist in finite quantities and take geological epochs to form, meaning they deplete with use.",
+  "sourceHint": "NCERT Class 8 Geography Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:38:03Z"
+ },
+ {
+  "id": "q_bc70fd0b15f8b867",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which part of a plant is primarily responsible for conducting water and minerals absorbed by the roots to the leaves?",
+  "qHi": "पौधे का कौन सा भाग मुख्य रूप से जड़ों द्वारा अवशोषित जल और खनिजों को पत्तियों तक पहुँचाने के लिए उत्तरदायी होता है?",
+  "optsEn": [
+   "Stomata",
+   "Xylem",
+   "Phloem",
+   "Petiole"
+  ],
+  "optsHi": [
+   "रंध्र",
+   "जाइलम",
+   "फ्लोएम",
+   "पर्णवृंत"
+  ],
+  "correct": 1,
+  "explainEn": "Xylem is the specialized vascular tissue in plants that transports water and dissolved minerals upward from the roots.",
+  "sourceHint": "NCERT Class 7 Science Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:38:03Z"
  }
 ]

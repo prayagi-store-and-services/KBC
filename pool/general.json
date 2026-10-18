@@ -11618,5 +11618,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-17T20:40:25Z"
+ },
+ {
+  "id": "q_0896fd42ce9c8fca",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which year did India adopt the metric system of weights and measures?",
+  "qHi": "भारत ने किस वर्ष माप और तौल की मीट्रिक प्रणाली को अपनाया था?",
+  "optsEn": [
+   "1947",
+   "1950",
+   "1956",
+   "1962"
+  ],
+  "optsHi": [
+   "1947",
+   "1950",
+   "1956",
+   "1962"
+  ],
+  "correct": 2,
+  "explainEn": "The Standards of Weights and Measures Act was passed in 1956, officially transitioning India to the metric system.",
+  "sourceHint": "PIB Archives",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:37:58Z"
+ },
+ {
+  "id": "q_c62962dc237a7fa8",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which wildlife sanctuary in Assam is famous as the primary home of the one-horned rhinoceros?",
+  "qHi": "असम का कौन सा वन्यजीव अभयारण्य एक सींग वाले गैंडे के प्राथमिक घर के रूप में प्रसिद्ध है?",
+  "optsEn": [
+   "Jim Corbett",
+   "Kaziranga",
+   "Gir",
+   "Periyar"
+  ],
+  "optsHi": [
+   "जिम कार्बेट",
+   "काजीरंगा",
+   "गीर",
+   "पेरियार"
+  ],
+  "correct": 1,
+  "explainEn": "Kaziranga National Park in Assam hosts a significant population of the great Indian one-horned rhinoceros.",
+  "sourceHint": "UNESCO World Heritage Centre",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T04:37:58Z"
  }
 ]
