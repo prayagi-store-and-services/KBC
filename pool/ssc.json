@@ -11142,5 +11142,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-18T11:09:32Z"
+ },
+ {
+  "id": "q_79ef477bd56d1bf8",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Bihu is a traditional folk dance of which Indian state?",
+  "qHi": "बिहू किस भारतीय राज्य का पारंपरिक लोक नृत्य है?",
+  "optsEn": [
+   "Punjab",
+   "Assam",
+   "Kerala",
+   "Odisha"
+  ],
+  "optsHi": [
+   "पंजाब",
+   "असम",
+   "केरल",
+   "ओडिशा"
+  ],
+  "correct": 1,
+  "explainEn": "Bihu is a popular folk dance associated with the festivals of Assam.",
+  "sourceHint": "NCERT Art and Culture",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:53:19Z"
+ },
+ {
+  "id": "q_58a1cf9831bc6ee1",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following constitutional amendments added the Ninth Schedule to the Constitution of India?",
+  "qHi": "निम्नलिखित में से किस संविधान संशोधन द्वारा भारतीय संविधान में नौवीं अनुसूची जोड़ी गई थी?",
+  "optsEn": [
+   "First Amendment Act, 1951",
+   "Fourth Amendment Act, 1955",
+   "Seventh Amendment Act, 1956",
+   "Ninth Amendment Act, 1960"
+  ],
+  "optsHi": [
+   "प्रथम संशोधन अधिनियम, 1951",
+   "चौथा संशोधन अधिनियम, 1955",
+   "सातवां संशोधन अधिनियम, 1956",
+   "नौवां संशोधन अधिनियम, 1960"
+  ],
+  "correct": 0,
+  "explainEn": "The First Amendment to the Constitution of India in 1951 added the Ninth Schedule to protect land reform laws from judicial review.",
+  "sourceHint": "Indian Polity by M. Laxmikanth / Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:55:39Z"
+ },
+ {
+  "id": "q_6e46159c750ea0c4",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "The famous rock-cut Kailash Temple at Ellora was constructed under the patronage of which dynasty?",
+  "qHi": "एलोरा का प्रसिद्ध चट्टान-कटी कैलाश मंदिर किस राजवंश के संरक्षण में बनवाया गया था?",
+  "optsEn": [
+   "Chalukya dynasty",
+   "Rashtrakuta dynasty",
+   "Pallava dynasty",
+   "Eastern Ganga dynasty"
+  ],
+  "optsHi": [
+   "चालुक्य राजवंश",
+   "राष्ट्रकूट राजवंश",
+   "पल्लव राजवंश",
+   "पूर्वी गंग राजवंश"
+  ],
+  "correct": 1,
+  "explainEn": "The monolithic Kailash Temple (Cave 16) at Ellora was built by the Rashtrakuta king Krishna I in the 8th century.",
+  "sourceHint": "NCERT Class 12 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:55:39Z"
+ },
+ {
+  "id": "q_2f0d115e9dff68c0",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary ore from which aluminum is commercially extracted?",
+  "qHi": "वह प्राथमिक अयस्क कौन सा है जिससे एल्युमीनियम का व्यावसायिक रूप से निष्कर्षण किया जाता है?",
+  "optsEn": [
+   "Hematite",
+   "Bauxite",
+   "Calamine",
+   "Galena"
+  ],
+  "optsHi": [
+   "हेमेटाइट",
+   "बॉक्साइट",
+   "कैलामाइन",
+   "गैलेना"
+  ],
+  "correct": 1,
+  "explainEn": "Bauxite is a hydrated aluminum oxide and serves as the principal ore of aluminum.",
+  "sourceHint": "NCERT Class 10 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:55:39Z"
+ },
+ {
+  "id": "q_631d2ccafa712733",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "The 'Battle of Wandiwash' fought in 1760 was a decisive conflict between which two European powers?",
+  "qHi": "1760 में लड़ी गई 'वांडीवाश की लड़ाई' किन दो यूरोपीय शक्तियों के बीच एक निर्णायक संघर्ष था?",
+  "optsEn": [
+   "British and Portuguese",
+   "British and French",
+   "French and Dutch",
+   "British and Dutch"
+  ],
+  "optsHi": [
+   "ब्रिटिश और पुर्तगाली",
+   "ब्रिटिश और फ्रांसीसी",
+   "फ्रांसीसी और डच",
+   "ब्रिटिश और डच"
+  ],
+  "correct": 1,
+  "explainEn": "The Battle of Wandiwash was won by the British forces against the French during the Third Carnatic War.",
+  "sourceHint": "A Brief History of Modern India by Spectrum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:55:39Z"
+ },
+ {
+  "id": "q_cd79320ee23e00bb",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who among the following was the founder of the Satavahana dynasty according to Puranic records and inscriptions?",
+  "qHi": "पुराणों और अभिलेखों के अनुसार निम्नलिखित में से कौन सातवाहन वंश का संस्थापक था?",
+  "optsEn": [
+   "Gautamiputra Satakarni",
+   "Simukha",
+   "Hala",
+   "Satakarni I"
+  ],
+  "optsHi": [
+   "गौतमीपुत्र सातकर्णि",
+   "सिमुख",
+   "हाल",
+   "सातकर्णि प्रथम"
+  ],
+  "correct": 1,
+  "explainEn": "Simukha is credited in historical sources and Puranas as the founder of the Satavahana dynasty.",
+  "sourceHint": "NCERT Class 11 Ancient Indian History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:55:39Z"
  }
 ]

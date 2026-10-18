@@ -14866,5 +14866,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-18T11:08:53Z"
+ },
+ {
+  "id": "q_04bdeb187a71a8ad",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the novel 'Anandamath'?",
+  "qHi": "उपन्यास 'आनंदमठ' किसने लिखा था?",
+  "optsEn": [
+   "Bankim Chandra Chattopadhyay",
+   "Rabindranath Tagore",
+   "Subramania Bharati",
+   "Premchand"
+  ],
+  "optsHi": [
+   "बंकिम चंद्र चट्टोपाध्याय",
+   "रविंद्रनाथ टैगोर",
+   "सुब्रह्मण्य भारती",
+   "प्रेमचंद"
+  ],
+  "correct": 0,
+  "explainEn": "Anandamath is a Bengali novel written by Bankim Chandra Chattopadhyay and published in 1882.",
+  "sourceHint": "NCERT Class 10 History, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:53:07Z"
+ },
+ {
+  "id": "q_fb5295f13214eeb9",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which plant hormone is primarily responsible for cell division and is found in greater concentration in areas of rapid growth like fruits and seeds?",
+  "qHi": "कौन सा पादप हॉर्मोन मुख्य रूप से कोशिका विभाजन के लिए जिम्मेदार है और फलों तथा बीजों जैसे तीव्र वृद्धि वाले क्षेत्रों में अधिक सांद्रता में पाया जाता है?",
+  "optsEn": [
+   "Auxin",
+   "Gibberellin",
+   "Cytokinin",
+   "Abscisic acid"
+  ],
+  "optsHi": [
+   "ऑक्सिन",
+   "जिबरेलिन",
+   "साइटोकाइनिन",
+   "एब्सिसिक अम्ल"
+  ],
+  "correct": 2,
+  "explainEn": "Cytokinins promote cell division and are present in high concentrations in areas of rapid cell division, such as fruits and seeds.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:54:43Z"
+ },
+ {
+  "id": "q_35997b1c487fe8bf",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which type of soil does black soil develop, which is ideal for growing cotton?",
+  "qHi": "काली मिट्टी का विकास मुख्य रूप से किस प्रकार की चट्टानों से होता है, जो कपास की खेती के लिए आदर्श है?",
+  "optsEn": [
+   "Laterite rocks",
+   "Igneous volcanic rocks",
+   "Sedimentary sandstone",
+   "Granite plutonic rocks"
+  ],
+  "optsHi": [
+   "लैटेराइट चट्टानें",
+   "आग्नेय ज्वालामुखी चट्टानें",
+   "अवसादी बलुआ पत्थर",
+   "ग्रेनाइट प्लूटोनिक चट्टानें"
+  ],
+  "correct": 1,
+  "explainEn": "Black soil is formed from volcanic igneous rocks and is widely found in the Deccan trap region, making it ideal for cotton cultivation.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:54:43Z"
+ },
+ {
+  "id": "q_f00541c888ba8499",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which sector is also known as the service sector in Indian economy classification?",
+  "qHi": "भारतीय अर्थव्यवस्था के वर्गीकरण में किस क्षेत्र को सेवा क्षेत्र भी कहा जाता है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Quaternary sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "तृतीयक क्षेत्र",
+   "चतुर्थक क्षेत्र"
+  ],
+  "correct": 2,
+  "explainEn": "The tertiary sector generates services rather than goods and is commonly referred to as the service sector.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:54:43Z"
+ },
+ {
+  "id": "q_9754ca3187a41564",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which animal is the symbol of the Wildlife Protection Act implemented in India in 1972 for a specific conservation project?",
+  "qHi": "भारत में 1972 में लागू किए गए वन्यजीव संरक्षण अधिनियम के तहत किस विशिष्ट संरक्षण परियोजना के प्रतीक के रूप में कौन सा जानवर चुना गया था?",
+  "optsEn": [
+   "One-horned rhinoceros",
+   "Tiger",
+   "Asian elephant",
+   "Snow leopard"
+  ],
+  "optsHi": [
+   "एक सींग वाला गैंडा",
+   "बाघ",
+   "एशियाई हाथी",
+   "हिम तेंदुआ"
+  ],
+  "correct": 1,
+  "explainEn": "Project Tiger was launched in 1973 under the Wildlife Protection Act to ensure the survival and maintenance of the tiger population.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:54:43Z"
+ },
+ {
+  "id": "q_3ab29b5a8be0c5b1",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the phenomenon of splitting of white light into its seven constituent colors when passing through a glass prism called?",
+  "qHi": "कांच के प्रिज्म से गुजरने पर श्वेत प्रकाश का अपने सात अवयवी रंगों में विभक्त होने की परिघटना क्या कहलाती है?",
+  "optsEn": [
+   "Refraction",
+   "Dispersion",
+   "Scattering",
+   "Reflection"
+  ],
+  "optsHi": [
+   "अपवर्तन",
+   "विक्षेपण (वर्ण विक्षेपण)",
+   "प्रकीर्णन",
+   "परावर्तन"
+  ],
+  "correct": 1,
+  "explainEn": "The splitting of white light into its component colors through a prism is called dispersion of light.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:54:43Z"
+ },
+ {
+  "id": "q_8292554dcf1c711c",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the human respiratory system, what prevents the collapse of the trachea during low air pressure?",
+  "qHi": "मानव श्वसन तंत्र में, कम वायु दाब के दौरान श्वास नली को पिचकने से क्या बचाता है?",
+  "optsEn": [
+   "Bone rings",
+   "Cartilaginous rings",
+   "Muscular flaps",
+   "Valves"
+  ],
+  "optsHi": [
+   "हड्डियों के छल्ले",
+   "उपास्थि के छल्ले",
+   "पेशीय पट्टियाँ",
+   "कपाट"
+  ],
+  "correct": 1,
+  "explainEn": "C-shaped rings of cartilage are present in the trachea to ensure that the air-passage does not collapse.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6: Life Processes",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:55:21Z"
+ },
+ {
+  "id": "q_f903161e83b8fade",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following elements belongs to the halogen group in the modern periodic table?",
+  "qHi": "आधुनिक आवर्त सारणी में निम्नलिखित में से कौन सा तत्व हैलोजन समूह से संबंधित है?",
+  "optsEn": [
+   "Sodium",
+   "Fluorine",
+   "Magnesium",
+   "Oxygen"
+  ],
+  "optsHi": [
+   "सोडियम",
+   "फ्लोरीन",
+   "मैग्नीशियम",
+   "ऑक्सीजन"
+  ],
+  "correct": 1,
+  "explainEn": "Fluorine belongs to Group 17, which is known as the halogen family.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 5: Periodic Classification of Elements",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:55:21Z"
+ },
+ {
+  "id": "q_05f6cc17dea3c16e",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which type of chemical reaction do two or more reactants combine to form a single product?",
+  "qHi": "किस प्रकार की रासायनिक अभिक्रिया में दो या दो से अधिक अभिकारक मिलकर एक एकल उत्पाद बनाते हैं?",
+  "optsEn": [
+   "Decomposition reaction",
+   "Displacement reaction",
+   "Combination reaction",
+   "Double displacement reaction"
+  ],
+  "optsHi": [
+   "वियोजन अभिक्रिया",
+   "विस्थापन अभिक्रिया",
+   "संयोजन अभिक्रिया",
+   "द्विविस्थापन अभिक्रिया"
+  ],
+  "correct": 2,
+  "explainEn": "A combination reaction is a reaction in which two or more substances combine to form a single new substance.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 1: Chemical Reactions and Equations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:55:21Z"
+ },
+ {
+  "id": "q_933825f038e2d90d",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "According to the Constitution of India, which body has the power to amend the Constitution?",
+  "qHi": "भारत के संविधान के अनुसार, संविधान में संशोधन करने की शक्ति किस निकाय के पास है?",
+  "optsEn": [
+   "Parliament of India",
+   "Supreme Court of India",
+   "Election Commission of India",
+   "President of India alone"
+  ],
+  "optsHi": [
+   "भारत की संसद",
+   "भारत का उच्चतम न्यायालय",
+   "भारत का निर्वाचन आयोग",
+   "केवल भारत के राष्ट्रपति"
+  ],
+  "correct": 0,
+  "explainEn": "Article 368 of the Constitution of India grants constituent power to Parliament to amend the Constitution.",
+  "sourceHint": "Constitution of India, Article 368",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:55:21Z"
+ },
+ {
+  "id": "q_c1d7ce209dbddcb9",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What was the main objective of launching the Non-Cooperation Movement in 1920 under Mahatma Gandhi?",
+  "qHi": "महात्मा गांधी के नेतृत्व में 1920 में असहयोग आंदोलन शुरू करने का मुख्य उद्देश्य क्या था?",
+  "optsEn": [
+   "Complete economic isolation from Britain",
+   "Attainment of Swaraj and redressal of Punjab and Khilafat wrongs",
+   "Immediate creation of a separate constituent assembly",
+   "Abolition of all religious taxation"
+  ],
+  "optsHi": [
+   "ब्रिटेन से पूर्ण आर्थिक अलगाव",
+   "स्वराज की प्राप्ति तथा पंजाब और खिलाफत की अन्यायों का निवारण",
+   "एक अलग संविधान सभा का तत्काल निर्माण",
+   "सभी धार्मिक करों की समाप्ति"
+  ],
+  "correct": 1,
+  "explainEn": "Mahatma Gandhi coupled the Khilafat issue with the demand for Swaraj to launch the Non-Cooperation Movement.",
+  "sourceHint": "NCERT Class 10 History, Chapter 3: Nationalism in India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:55:21Z"
  }
 ]

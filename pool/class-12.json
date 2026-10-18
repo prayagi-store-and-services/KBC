@@ -16602,5 +16602,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-18T11:09:00Z"
+ },
+ {
+  "id": "q_9d5a887d84db65de",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which enzyme is responsible for the replication of DNA?",
+  "qHi": "DNA के प्रतिकृति (replication) के लिए कौन सा एंजाइम उत्तरदायी है?",
+  "optsEn": [
+   "RNA polymerase",
+   "DNA ligase",
+   "DNA polymerase",
+   "Helicase"
+  ],
+  "optsHi": [
+   "RNA पोलीमरेज़",
+   "DNA लाइगेज़",
+   "DNA पोलीमरेज़",
+   "हेलिकेस"
+  ],
+  "correct": 2,
+  "explainEn": "DNA polymerase is the primary enzyme responsible for synthesizing new DNA strands during replication.",
+  "sourceHint": "NCERT Biology Class 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:53:11Z"
+ },
+ {
+  "id": "q_e747a06820cc8a1e",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following elements belongs to the lanthanoid series of the periodic table?",
+  "qHi": "निम्नलिखित में से कौन सा तत्व आवर्त सारणी की लैंथेनाइड श्रेणी से संबंधित है?",
+  "optsEn": [
+   "Actinium",
+   "Cerium",
+   "Uranium",
+   "Yttrium"
+  ],
+  "optsHi": [
+   "एक्टिनियम",
+   "सीरियम",
+   "यूरेनियम",
+   "यिट्रियम"
+  ],
+  "correct": 1,
+  "explainEn": "Cerium (atomic number 58) is the first element in the lanthanoid series.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:54:48Z"
+ },
+ {
+  "id": "q_38d5eecfff892d64",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which tropical cyclone naming body operates under the framework of the World Meteorological Organization for the North Indian Ocean basin?",
+  "qHi": "उत्तर हिंद महासागर बेसिन के लिए विश्व मौसम विज्ञान संगठन के ढांचे के तहत कौन सा उष्णकटिबंधीय चक्रवात नामकरण निकाय संचालित होता है?",
+  "optsEn": [
+   "ESCAP Panel on Tropical Cyclones",
+   "Hurricane Specialist Unit",
+   "Typhoon Committee",
+   "Mediterranean Cyclone Bureau"
+  ],
+  "optsHi": [
+   "उष्णकटिबंधीय चक्रवातों पर एस्केप पैनल",
+   "hurricane specialist unit",
+   "टाइफून समिति",
+   "मेडिटेरियन साइक्लोन ब्यूरो"
+  ],
+  "correct": 0,
+  "explainEn": "The WMO/ESCAP Panel on Tropical Cyclones names cyclones in the North Indian Ocean basin, including the Bay of Bengal and the Arabian Sea.",
+  "sourceHint": "India Meteorological Department (IMD) / WMO guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:54:48Z"
+ },
+ {
+  "id": "q_0d9c58cbf9307d88",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which type of natural selection do individuals at both extremes of the phenotypic distribution have higher fitness than individuals near the center?",
+  "qHi": "प्राकृतिक चयन के किस प्रकार में, फेनोटाइपिक वितरण के दोनों सिरों (चरम सीमाओं) पर मौजूद व्यक्तियों की फिटनेस केंद्र के पास के व्यक्तियों की तुलना में अधिक होती है?",
+  "optsEn": [
+   "Stabilizing selection",
+   "Directional selection",
+   "Disruptive selection",
+   "Artificial selection"
+  ],
+  "optsHi": [
+   "स्थिरकारी चयन",
+   "दिशात्मक चयन",
+   "विच्छेदित चयन",
+   "कृत्रिम चयन"
+  ],
+  "correct": 2,
+  "explainEn": "Disruptive selection favors individuals at both extremes of a trait range, often leading to a split in the population distribution.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:54:48Z"
+ },
+ {
+  "id": "q_562af21b7525fcd4",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary commercial product derived from the bacterium Monascus purpureus that acts as a blood-cholesterol lowering agent?",
+  "qHi": "बैक्टीरिया मोनస్కस पर्पुरियस से प्राप्त मुख्य व्यावसायिक उत्पाद क्या है जो रक्त-कोलेस्ट्रॉल घटाने वाले एजेंट के रूप में कार्य करता है?",
+  "optsEn": [
+   "Cyclosporin A",
+   "Streptokinase",
+   "Statins",
+   "Lipases"
+  ],
+  "optsHi": [
+   "साइक्लोस्पोरिन ए",
+   "स्ट्रप्टोकनेज",
+   "स्टेटिन",
+   "लाइपेज"
+  ],
+  "correct": 2,
+  "explainEn": "Statins produced by the yeast Monascus purpureus have been commercialized as blood-cholesterol lowering agents by competitively inhibiting the enzyme responsible for cholesterol synthesis.",
+  "sourceHint": "NCERT Biology Class 12, Chapter 10: Microbes in Human Welfare",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:55:28Z"
+ },
+ {
+  "id": "q_cef90a8540270528",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In an ecosystem, the rate of production of organic matter during photosynthesis is referred to as which of the following?",
+  "qHi": "एक पारिस्थितिकी तंत्र में, प्रकाश संश्लेषण के दौरान कार्बनिक पदार्थ के उत्पादन की दर को निम्नलिखित में से क्या कहा जाता है?",
+  "optsEn": [
+   "Gross Primary Productivity",
+   "Net Primary Productivity",
+   "Secondary Productivity",
+   "Standing Crop"
+  ],
+  "optsHi": [
+   " सकल प्राथमिक उत्पादकता",
+   "शुद्ध प्राथमिक उत्पादकता",
+   "माध्यमिक उत्पादकता",
+   "स्टैंडिंग क्रॉप"
+  ],
+  "correct": 0,
+  "explainEn": "Gross Primary Productivity (GPP) of an ecosystem is the rate of production of organic matter during photosynthesis.",
+  "sourceHint": "NCERT Biology Class 12, Chapter 14: Ecosystem",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:55:28Z"
+ },
+ {
+  "id": "q_a1dbe7f2e3109f83",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which constitutional mechanism allows Parliament to legislate on a subject enumerated in the State List, provided a resolution is passed by the Rajya Sabha supported by not less than two-thirds of the members present and voting?",
+  "qHi": "कौन सा संवैधानिक तंत्र संसद को राज्य सूची में शामिल विषय पर कानून बनाने की अनुमति देता है, बशर्ते कि राज्य सभा द्वारा उपस्थित और मतदान करने वाले सदस्यों के कम से कम दो-तिहाई बहुमत से एक प्रस्ताव पारित किया जाए?",
+  "optsEn": [
+   "Article 249",
+   "Article 352",
+   "Article 356",
+   "Article 368"
+  ],
+  "optsHi": [
+   "अनुच्छेद 249",
+   "अनुच्छेद 352",
+   "अनुच्छेद 356",
+   "अनुच्छेद 368"
+  ],
+  "correct": 0,
+  "explainEn": "Article 249 empowers Parliament to legislate on State List subjects if Rajya Sabha passes a resolution by a 2/3rd majority.",
+  "sourceHint": "Constitution of India, Part XI / NCERT Political Science Class 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:55:28Z"
+ },
+ {
+  "id": "q_9f7b5e847db6d7c2",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the magnetic flux linked with a closed surface placed in a uniform magnetic field according to Gauss's law for magnetism?",
+  "qHi": "चुंबकत्व के गॉस के नियम के अनुसार एक समान चुंबकीय क्षेत्र में रखी बंद सतह से जुड़ा चुंबकीय फ्लक्स क्या होता है?",
+  "optsEn": [
+   "Maximum",
+   "Zero",
+   "Infinity",
+   "Dependent on the area of the surface"
+  ],
+  "optsHi": [
+   "अधिकतम",
+   "शून्य",
+   "अनंत",
+   "सतह के क्षेत्रफल पर निर्भर"
+  ],
+  "correct": 1,
+  "explainEn": "Gauss's law for magnetism states that the net magnetic flux through any closed surface is always zero because isolated magnetic monopoles do not exist.",
+  "sourceHint": "NCERT Physics Class 12, Chapter 5: Magnetism and Matter",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:55:28Z"
+ },
+ {
+  "id": "q_9b9479a89cac8f4f",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which type of colonial organism or spore is typically formed by certain fungi and algae during unfavorable conditions to withstand harsh environments?",
+  "qHi": "प्रतिकूल परिस्थितियों में कठोर वातावरण का सामना करने के लिए कुछ कवक और शैवाल द्वारा आमतौर पर किस प्रकार के बीजाणु या संरचना का निर्माण किया जाता है?",
+  "optsEn": [
+   "Zoospores",
+   "Conidia",
+   "Zygospores",
+   "Gemmules"
+  ],
+  "optsHi": [
+   "जूस्पोर",
+   "कोनिडिया",
+   "जाइगोस्पोर",
+   "जेम्यूल"
+  ],
+  "correct": 2,
+  "explainEn": "In organisms such as fungi and algae, a thick-walled zygospore is formed during unfavorable conditions, helping them tide over unfavourable periods.",
+  "sourceHint": "NCERT Biology Class 12, Chapter 1: Reproduction in Organisms",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:55:28Z"
+ },
+ {
+  "id": "q_8c82b70c8711a930",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of India's foreign policy during the Cold War era, the Non-Aligned Movement (NAM) primarily aimed at which of the following?",
+  "qHi": "शीत युद्ध के दौर में भारत की विदेश नीति के संदर्भ में, गुटनिरपेक्ष आंदोलन (NAM) का मुख्य उद्देश्य निम्नलिखित में से क्या था?",
+  "optsEn": [
+   "Military alliance with the Western bloc",
+   "Total isolation from international affairs",
+   "Staying away from the two military power blocs",
+   "Joining the Warsaw Pact for economic aid"
+  ],
+  "optsHi": [
+   "पश्चिमी गुट के साथ सैन्य गठबंधन",
+   "अंतर्राष्ट्रीय मामलों से पूर्ण अलगाव",
+   "दोनों सैन्य शक्ति गुटों से दूर रहना",
+   "आर्थिक सहायता के लिए वारसा पैक्ट में शामिल होना"
+  ],
+  "correct": 2,
+  "explainEn": "NAM was founded on the principle of maintaining independence in foreign affairs by not joining either the US-led or Soviet-led military blocs.",
+  "sourceHint": "NCERT Political Science Class 12, Contemporary World Politics, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:55:28Z"
  }
 ]

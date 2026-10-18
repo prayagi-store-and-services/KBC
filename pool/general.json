@@ -11730,5 +11730,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-18T11:08:38Z"
+ },
+ {
+  "id": "q_a0f56236ea7a9638",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which planet is closest to the Sun?",
+  "qHi": "सूर्य के सबसे निकट कौन सा ग्रह है?",
+  "optsEn": [
+   "Venus",
+   "Earth",
+   "Mercury",
+   "Mars"
+  ],
+  "optsHi": [
+   "शुक्र",
+   "पृथ्वी",
+   "बुध",
+   "मंगल"
+  ],
+  "correct": 2,
+  "explainEn": "Mercury is the smallest and innermost planet in the Solar System, making it the closest to the Sun.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:53:28Z"
+ },
+ {
+  "id": "q_0b81c58a9a2a2012",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the play 'Meghaduta'?",
+  "qHi": "'मेघदूत' नाटक किसने लिखा था?",
+  "optsEn": [
+   "Kalidasa",
+   "Tulsidas",
+   "Banabhatta",
+   "Surdas"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "तुलसीदास",
+   "बाणभट्ट",
+   "सूरदास"
+  ],
+  "correct": 0,
+  "explainEn": "Meghaduta is a lyrical poem written by classical Sanskrit writer Kalidasa.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:55:06Z"
+ },
+ {
+  "id": "q_2fd67d7dfe315e0a",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the base SI unit of electric current?",
+  "qHi": "विद्युत धारा की एसआई (SI) मूल इकाई क्या है?",
+  "optsEn": [
+   "Volt",
+   "Ampere",
+   "Ohm",
+   "Watt"
+  ],
+  "optsHi": [
+   "वोल्ट",
+   "एम्पीयर",
+   "ओम",
+   "वाट"
+  ],
+  "correct": 1,
+  "explainEn": "The ampere is the base unit of electric current in the International System of Units.",
+  "sourceHint": "Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:55:06Z"
  }
 ]

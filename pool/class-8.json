@@ -11422,5 +11422,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-18T11:08:48Z"
+ },
+ {
+  "id": "q_96e6cff6bfb2fc77",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the cell organelle known as the powerhouse of the cell?",
+  "qHi": "कोशिका के किस अंगक को कोशिका का पावरहाउस कहा जाता है?",
+  "optsEn": [
+   "Nucleus",
+   "Vacuole",
+   "Mitochondria",
+   "Plastid"
+  ],
+  "optsHi": [
+   "केंद्रक",
+   "रिक्तिका",
+   "माइटोकॉन्ड्रिया",
+   "प्लास्टिड"
+  ],
+  "correct": 2,
+  "explainEn": "Mitochondria release energy for various chemical activities of the cell, earning them the name powerhouse.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:53:37Z"
+ },
+ {
+  "id": "q_f7d9ac902991b1af",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which battle established Company rule in Bengal in the 18th century?",
+  "qHi": "18वीं शताब्दी में बंगाल में किस युद्ध ने कंपनी शासन की स्थापना की?",
+  "optsEn": [
+   "Battle of Plassey",
+   "Battle of Buxar",
+   "Third Battle of Panipat",
+   "Battle of Talikota"
+  ],
+  "optsHi": [
+   "प्लासी का युद्ध",
+   "बक्सर का युद्ध",
+   "पानीपत का तीसरा युद्ध",
+   "तालीकोट का युद्ध"
+  ],
+  "correct": 0,
+  "explainEn": "The Battle of Plassey in 1757 marked the beginning of British Company rule in India.",
+  "sourceHint": "NCERT Class 8 History, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:53:37Z"
+ },
+ {
+  "id": "q_3a3f50d4e9b229b3",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who is the custodian of the Indian Constitution?",
+  "qHi": "भारतीय संविधान का संरक्षक कौन है?",
+  "optsEn": [
+   "Prime Minister",
+   "President",
+   "Parliament",
+   "Supreme Court"
+  ],
+  "optsHi": [
+   "प्रधान मंत्री",
+   "राष्ट्रपति",
+   "संसद",
+   "उच्चतम न्यायालय (सुप्रीम कोर्ट)"
+  ],
+  "correct": 3,
+  "explainEn": "The Supreme Court of India acts as the guardian and custodian of the Indian Constitution.",
+  "sourceHint": "NCERT Class 8 Civics, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:55:16Z"
+ },
+ {
+  "id": "q_616532471cd6e37c",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the name of India's first lunar probe mission launched in 2008?",
+  "qHi": "वर्ष 2008 में लॉन्च किए गए भारत के पहले चंद्र अन्वेषण मिशन का नाम क्या है?",
+  "optsEn": [
+   "Chandrayaan-1",
+   "Mangalyaan",
+   "Aryabhata",
+   "Cartosat-1"
+  ],
+  "optsHi": [
+   "चंद्रयान-1",
+   "मंगलयान",
+   "आर्यभट्ट",
+   "कार्टोसैट-1"
+  ],
+  "correct": 0,
+  "explainEn": "Chandrayaan-1 was India's first lunar exploration mission, launched by ISRO in October 2008.",
+  "sourceHint": "ISRO / NCERT reference",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:55:16Z"
+ },
+ {
+  "id": "q_24b4eec144d161a3",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which greenhouse gas is produced in large quantities during the cultivation of paddy?",
+  "qHi": "धान की खेती के दौरान कौन सी ग्रीनहाउस गैस बड़ी मात्रा में उत्पन्न होती है?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Methane",
+   "Ozone",
+   "Sulfur dioxide"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "मीथेन",
+   "ओजोन",
+   "सल्फर डाइऑक्साइड"
+  ],
+  "correct": 1,
+  "explainEn": "Water-logged paddy fields create anaerobic conditions that produce methane gas.",
+  "sourceHint": "NCERT Science / Environmental studies reference",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:55:16Z"
  }
 ]

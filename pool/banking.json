@@ -17694,5 +17694,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-18T11:08:34Z"
+ },
+ {
+  "id": "q_03872fdb4b9a7d42",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which term is used in banking to describe a loan that is in default or is close to being in default because the borrower has not made scheduled payments for a specific period?",
+  "qHi": "बैंकिंग में उस ऋण का वर्णन करने के लिए किस शब्द का उपयोग किया जाता है जो डिफ़ॉल्ट में है या डिफ़ॉल्ट के करीब है क्योंकि उधारकर्ता ने एक विशिष्ट अवधि के लिए अनुसूचित भुगतान नहीं किया है?",
+  "optsEn": [
+   "Standard Asset",
+   "Non-Performing Asset",
+   "Liquid Asset",
+   "Fixed Asset"
+  ],
+  "optsHi": [
+   "मानक परिसंपत्ति",
+   "गैर-निष्पादित परिसंपत्ति",
+   "तरल परिसंपत्ति",
+   "स्थिर परिसंपत्ति"
+  ],
+  "correct": 1,
+  "explainEn": "A Non-Performing Asset (NPA) is a classification for loans or advances that are in default or in arrears on principal and interest payments.",
+  "sourceHint": "RBI Master Circular on Prudential Norms",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:53:24Z"
+ },
+ {
+  "id": "q_7c06a82d7f8507c9",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of 'ATM' as used in banking?",
+  "qHi": "बैंकिंग में प्रयुक्त 'ATM' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Automated Teller Machine",
+   "Any Time Money",
+   "Automated Transfer Machine",
+   "Authentication Teller Mechanism"
+  ],
+  "optsHi": [
+   "ऑटोमेटेड टेलर मशीन",
+   "एनी टाइम मनी",
+   "ऑटोमेटेड ट्रांसफर मशीन",
+   "ऑथेंटिकेशन टेलर मैकेनिज्म"
+  ],
+  "correct": 0,
+  "explainEn": "An Automated Teller Machine (ATM) is an electronic banking outlet that allows customers to complete transactions without the aid of a branch representative.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:53:24Z"
+ },
+ {
+  "id": "q_4df11acce84b4790",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a direct tax in India?",
+  "qHi": "निम्नलिखित में से कौन सा भारत में प्रत्यक्ष कर है?",
+  "optsEn": [
+   "Goods and Services Tax",
+   "Customs Duty",
+   "Income Tax",
+   "Excise Duty"
+  ],
+  "optsHi": [
+   "वस्तु एवं सेवा कर",
+   "सीमा शुल्क",
+   "आयकर",
+   "उत्पाद शुल्क"
+  ],
+  "correct": 2,
+  "explainEn": "Income tax is a direct tax because the burden of the tax falls directly on the taxpayer and cannot be shifted to someone else.",
+  "sourceHint": "Central Board of Direct Taxes (CBDT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:53:24Z"
+ },
+ {
+  "id": "q_52f9658a00486518",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the abbreviation 'IFSC' stand for in the Indian banking system?",
+  "qHi": "भारतीय बैंकिंग प्रणाली में संक्षिप्त नाम 'IFSC' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Indian Financial System Code",
+   "International Fund Security Check",
+   "Interbank Foreign Settlement Currency",
+   "Indian Fund Standard Certificate"
+  ],
+  "optsHi": [
+   "इंडियन फाइनेंशियल सिस्टम कोड",
+   "इंटरनेशनल फंड सिक्योरिटी चेक",
+   "इंटरबैंक फॉरेन सेटलमेंट करेंसी",
+   "इंडियन फंड स्टैंडर्ड सर्टिफिकेट"
+  ],
+  "correct": 0,
+  "explainEn": "IFSC is an 11-character alphanumeric code that uniquely identifies a bank branch participating in electronic funds transfer systems in India.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:53:24Z"
+ },
+ {
+  "id": "q_1d26caf30aeefb3c",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which entity regulates the capital market and stock exchanges in India?",
+  "qHi": "भारत में पूंजी बाजार और स्टॉक एक्सचेंजों को कौन सी संस्था विनियमित करती है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India",
+   "Insurance Regulatory and Development Authority",
+   "National Bank for Agriculture and Rural Development"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "बीमा विनियामक और विकास प्राधिकरण",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "SEBI is the regulatory body for securities and commodity market in India under the jurisdiction of the Ministry of Finance.",
+  "sourceHint": "SEBI Act, 1992",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:53:24Z"
+ },
+ {
+  "id": "q_e70d40b8355fea88",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following accounts typically offers the highest rate of interest for retail depositors in commercial banks?",
+  "qHi": "व्यापारी बैंकों में खुदरा जमाकर्ताओं के लिए निम्नलिखित में से कौन सा खाता आम तौर पर सबसे अधिक ब्याज दर प्रदान करता है?",
+  "optsEn": [
+   "Current Account",
+   "Savings Account",
+   "Fixed Deposit Account",
+   "Basic Savings Bank Deposit Account"
+  ],
+  "optsHi": [
+   "चालू खाता",
+   "बचत खाता",
+   "सावधि जमा खाता",
+   "बुनियादी बचत बैंक जमा खाता"
+  ],
+  "correct": 2,
+  "explainEn": "Fixed Deposit (FD) accounts offer higher interest rates compared to savings or current accounts because the money is locked in for a specified tenure.",
+  "sourceHint": "Indian Banking Association (IBA)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:53:24Z"
+ },
+ {
+  "id": "q_d9ec21237d9c1ebc",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the Liquidity Adjustment Facility (LAF), a monetary policy tool used by the RBI?",
+  "qHi": "RBI द्वारा प्रयुक्त मौद्रिक नीति उपकरण, लिक्विडिटी एडजस्टमेंट फैसिलिटी (LAF) में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liability",
+   "Liquidity",
+   "Leverage",
+   "Ledger"
+  ],
+  "optsHi": [
+   "डैबिलिटी",
+   "लिक्विडिटी",
+   "लेवेज",
+   "लेजर"
+  ],
+  "correct": 1,
+  "explainEn": "LAF stands for Liquidity Adjustment Facility, which is used by the RBI to aid banks in adjusting their daily liquidity mismatches.",
+  "sourceHint": "RBI Glossary of Banking Terms",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:55:03Z"
+ },
+ {
+  "id": "q_052e12e7ecc4f007",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following entities is primarily responsible for calculating the Gross Domestic Product (GDP) in India?",
+  "qHi": "भारत में सकल घरेलू उत्पाद (GDP) की गणना के लिए मुख्य रूप से कौन सी संस्था जिम्मेदार है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "NITI Aayog",
+   "National Statistical Office",
+   "Ministry of Finance"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "नीति आयोग",
+   "राष्ट्रीय सांख्यिकी कार्यालय",
+   "वित्त मंत्रालय"
+  ],
+  "correct": 2,
+  "explainEn": "The National Statistical Office (NSO), operating under the Ministry of Statistics and Programme Implementation, is responsible for macro data collection including GDP.",
+  "sourceHint": "Ministry of Statistics and Programme Implementation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:55:03Z"
+ },
+ {
+  "id": "q_0da596732f210920",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of banking operations, what does 'RTGS' stand for?",
+  "qHi": "बैंकिंग संचालन के संदर्भ में, 'RTGS' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Real Time Gross Settlement",
+   "Regular Transfer Global System",
+   "Rapid Transaction Gross Scheme",
+   "Reserve Transfer Government Standard"
+  ],
+  "optsHi": [
+   "रियल टाइम ग्रॉस सेटलमेंट",
+   "रेगुलर ट्रांसफर ग्लोबल सिस्टम",
+   "रैपिड ट्रांजैक्शन ग्रॉस स्कीम",
+   "रिजर्व ट्रांसफर गवर्नमेंट स्टैंडर्ड"
+  ],
+  "correct": 0,
+  "explainEn": "RTGS stands for Real Time Gross Settlement, which enables continuous and real-time settlement of fund transfers individually on a transaction-by-transaction basis.",
+  "sourceHint": "RBI Payment Systems",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:55:03Z"
+ },
+ {
+  "id": "q_4880649c21021c02",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is considered a primary money market instrument in India?",
+  "qHi": "निम्नलिखित में से किसे भारत में प्राथमिक मुद्रा बाजार साधन माना जाता है?",
+  "optsEn": [
+   "Equity Shares",
+   "Treasury Bills",
+   "Preference Shares",
+   "Debentures"
+  ],
+  "optsHi": [
+   "इक्विटी शेयर",
+   "ट्रेजरी बिल",
+   "वरीयता शेयर",
+   "डिबेंचर"
+  ],
+  "correct": 1,
+  "explainEn": "Treasury Bills (T-Bills) are short-term money market instruments issued by the Government of India.",
+  "sourceHint": "Reserve Bank of India Financial Markets",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T15:55:03Z"
  }
 ]
