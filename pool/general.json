@@ -11674,5 +11674,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-18T04:37:58Z"
+ },
+ {
+  "id": "q_b41292540d98791d",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which metal is most commonly used to make traditional Indian brass and bell metal items alongside copper?",
+  "qHi": "तांबे के अलावा पारंपरिक भारतीय पीतल और कांसे की वस्तुएं बनाने के लिए आमतौर पर किस धातु का उपयोग किया जाता है?",
+  "optsEn": [
+   "Zinc",
+   "Iron",
+   "Gold",
+   "Lead"
+  ],
+  "optsHi": [
+   "जस्ता",
+   "लोहा",
+   "सोना",
+   "सीसा"
+  ],
+  "correct": 0,
+  "explainEn": "Brass is an alloy primarily made of copper and zinc.",
+  "sourceHint": "NCERT Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T11:07:40Z"
+ },
+ {
+  "id": "q_a2cafcc31c59149f",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which monument in India was built by Emperor Shah Jahan as a mausoleum for his wife Mumtaz Mahal?",
+  "qHi": "भारत में किस स्मारक का निर्माण सम्राट शाहजहाँ ने अपनी पत्नी मुमताज महल के मकबरे के रूप में करवाया था?",
+  "optsEn": [
+   "Qutb Minar",
+   "Taj Mahal",
+   "Red Fort",
+   "Humayun's Tomb"
+  ],
+  "optsHi": [
+   "कुतुब मीनार",
+   "ताजमहल",
+   "लाल किला",
+   "हुमायूं का मकबरा"
+  ],
+  "correct": 1,
+  "explainEn": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T11:08:38Z"
  }
 ]

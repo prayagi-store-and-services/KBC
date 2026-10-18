@@ -17470,5 +17470,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-18T04:37:54Z"
+ },
+ {
+  "id": "q_457ed313f09caea8",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which financial organization insures bank deposits in India?",
+  "qHi": "भारत में बैंक जमा का बीमा कौन सा वित्तीय संगठन करता है?",
+  "optsEn": [
+   "DICGC",
+   "NABARD",
+   "SIDBI",
+   "EXIM Bank"
+  ],
+  "optsHi": [
+   "DICGC",
+   "नाबार्ड",
+   "सिडबी",
+   "एजिम बैंक"
+  ],
+  "correct": 0,
+  "explainEn": "Deposit Insurance and Credit Guarantee Corporation (DICGC), a subsidiary of RBI, insures all bank deposits up to a specified limit.",
+  "sourceHint": "DICGC Act, 1961",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T11:07:37Z"
+ },
+ {
+  "id": "q_92350b4a3dfeab8d",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India regulates the Housing Finance Companies (HFCs)?",
+  "qHi": "भारत में हाउसिंग फाइनेंस कंपनियों (HFCs) को कौन सा संगठन नियंत्रित करता है?",
+  "optsEn": [
+   "Securities and Exchange Board of India",
+   "Reserve Bank of India",
+   "National Housing Bank",
+   "Insurance Regulatory and Development Authority"
+  ],
+  "optsHi": [
+   "भारतीय प्रतिभूति and विनिमय बोर्ड",
+   "भारतीय रिजर्व बैंक",
+   "राष्ट्रीय आवास बैंक",
+   "बीमा विनियामक और विकास प्राधिकरण"
+  ],
+  "correct": 1,
+  "explainEn": "Regulation and supervision of Housing Finance Companies (HFCs) was transferred from the National Housing Bank to the Reserve Bank of India.",
+  "sourceHint": "Reserve Bank of India Act / RBI Notifications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T11:08:34Z"
+ },
+ {
+  "id": "q_0d90b16d33f5ae5f",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque becomes a 'stale cheque' after the expiry of how many months from its date of issue?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, जारी होने की तारीख से कितने महीनों की समाप्ति के बाद एक चेक 'बासी चेक' (stale cheque) बन जाता है?",
+  "optsEn": [
+   "1 month",
+   "3 months",
+   "6 months",
+   "12 months"
+  ],
+  "optsHi": [
+   "1 महीना",
+   "3 महीने",
+   "6 महीने",
+   "12 महीने"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India directed that the validity period of cheques, demand drafts, and pay orders is 3 months from the date of issuance.",
+  "sourceHint": "Reserve Bank of India Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T11:08:34Z"
+ },
+ {
+  "id": "q_c40ecb248c86fb02",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which monetary policy tool refers to the minimum percentage of deposits that a commercial bank must maintain in the form of liquid cash with the central bank?",
+  "qHi": "कौन सा मौद्रिक नीति उपकरण उस न्यूनतम प्रतिशत जमा को संदर्भित करता है जिसे एक वाणिज्यिक बैंक को केंद्रीय बैंक के पास तरल नकदी के रूप में बनाए रखना चाहिए?",
+  "optsEn": [
+   "Statutory Liquidity Ratio",
+   "Cash Reserve Ratio",
+   "Bank Rate",
+   "Repo Rate"
+  ],
+  "optsHi": [
+   "वैधानिक तरलता अनुपात",
+   "नकद आरक्षित अनुपात",
+   "बैंक दर",
+   "रेपो रेट"
+  ],
+  "correct": 1,
+  "explainEn": "Cash Reserve Ratio (CRR) is the specified minimum fraction of the total deposits of customers that commercial banks have to hold as reserves either in cash with the central bank.",
+  "sourceHint": "NCERT Economics / RBI Monetary Policy Framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T11:08:34Z"
+ },
+ {
+  "id": "q_6fcb87aedb11475d",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum limit of amount that can be transferred through Immediate Payment Service (IMPS), as per current guidelines?",
+  "qHi": "वर्तमान दिशानिर्देशों के अनुसार, तत्काल भुगतान सेवा (IMPS) के माध्यम से हस्तांतरित की जाने वाली अधिकतम राशि की सीमा क्या है?",
+  "optsEn": [
+   "Rs 2 Lakh",
+   "Rs 5 Lakh",
+   "Rs 10 Lakh",
+   "No upper limit"
+  ],
+  "optsHi": [
+   "2 लाख रुपये",
+   "5 लाख रुपये",
+   "10 लाख रुपये",
+   "कोई ऊपरी सीमा नहीं"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India enhanced the per-transaction limit for IMPS from Rs 2 lakh to Rs 5 lakh for channels other than SMS and IVRS.",
+  "sourceHint": "NPCI / RBI Payment Systems Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T11:08:34Z"
+ },
+ {
+  "id": "q_1eb3fdd074ab24e9",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following institutions is the primary regulator of microfinance institutions (MFIs) organized as Non-Banking Financial Companies in India?",
+  "qHi": "निम्नलिखित में से कौन सी संस्था भारत में गैर-बैंकिंग वित्तीय कंपनियों के रूप में संगठित सूक्ष्म वित्त संस्थानों (MFIs) की प्राथमिक नियामक है?",
+  "optsEn": [
+   "NABARD",
+   "SEBI",
+   "RBI",
+   "SIDBI"
+  ],
+  "optsHi": [
+   "नाबार्ड",
+   "सेबी",
+   "आरबीआई",
+   "सिडबी"
+  ],
+  "correct": 2,
+  "explainEn": "Non-Banking Financial Company-Micro Finance Institutions (NBFC-MFIs) are regulated by the Reserve Bank of India.",
+  "sourceHint": "RBI Master Directions on NBFC-MFIs",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T11:08:34Z"
+ },
+ {
+  "id": "q_b0112b70cc9ea359",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the term 'G-Sec' stand for in the context of Indian financial markets?",
+  "qHi": "भारतीय वित्तीय बाजारों के संदर्भ में 'G-Sec' शब्द का क्या अर्थ है?",
+  "optsEn": [
+   "Government Security",
+   "Global Sector",
+   "Guaranteed Security",
+   "General Settlement"
+  ],
+  "optsHi": [
+   "सरकारी प्रतिभूति",
+   "वैश्विक क्षेत्र",
+   "गारंटीकृत प्रतिभूति",
+   "सामान्य निपटान"
+  ],
+  "correct": 0,
+  "explainEn": "G-Sec stands for Government Security, which is a tradable instrument issued by the Central Government or the State Governments.",
+  "sourceHint": "RBI Retail Direct / Public Debt Office Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T11:08:34Z"
+ },
+ {
+  "id": "q_317eca41e9d71c51",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of banking technology, what does the letter 'F' stand for in 'IFSC'?",
+  "qHi": "बैंकिंग प्रौद्योगिकी के संदर्भ में, 'IFSC' में अक्षर 'F' का क्या अर्थ है?",
+  "optsEn": [
+   "Federal",
+   "Financial",
+   "Foreign",
+   "Fiscal"
+  ],
+  "optsHi": [
+   "फेडरल",
+   "वित्तीय",
+   "विदेशी",
+   "राजकोषीय"
+  ],
+  "correct": 1,
+  "explainEn": "IFSC stands for Indian Financial System Code, an alphanumeric code that facilitates electronic funds transfer in India.",
+  "sourceHint": "Reserve Bank of India Payment Systems",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T11:08:34Z"
  }
 ]

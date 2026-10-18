@@ -15230,5 +15230,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-18T04:38:03Z"
+ },
+ {
+  "id": "q_d30a7795970bdc3a",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "How many bones are there in an adult human body approximately?",
+  "qHi": "एक वयस्क मानव शरीर में लगभग कितनी हड्डियाँ होती हैं?",
+  "optsEn": [
+   "100",
+   "206",
+   "350",
+   "500"
+  ],
+  "optsHi": [
+   "100",
+   "206",
+   "350",
+   "500"
+  ],
+  "correct": 1,
+  "explainEn": "An adult human body has 206 bones in its skeletal system.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T11:07:44Z"
+ },
+ {
+  "id": "q_ba43f444dced6bf8",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following lines passes almost halfway through India?",
+  "qHi": "निम्नलिखित में से कौन सी रेखा भारत के लगभग बीच से गुजरती है?",
+  "optsEn": [
+   "Equator",
+   "Tropic of Cancer",
+   "Tropic of Capricorn",
+   "Prime Meridian"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा",
+   "कर्क रेखा",
+   "मकर रेखा",
+   "प्रमुख मध्याह्न रेखा"
+  ],
+  "correct": 1,
+  "explainEn": "The Tropic of Cancer (23.30 degrees North) passes through the middle of India.",
+  "sourceHint": "NCERT Class 5 Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T11:08:43Z"
+ },
+ {
+  "id": "q_4ffd60242dcd3a7b",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the process by which plants make their food using sunlight?",
+  "qHi": "उस प्रक्रिया को क्या कहते हैं जिसके द्वारा पौधे सूर्य के प्रकाश का उपयोग करके अपना भोजन बनाते हैं?",
+  "optsEn": [
+   "Respiration",
+   "Transpiration",
+   "Photosynthesis",
+   "Germination"
+  ],
+  "optsHi": [
+   "श्वसन",
+   "वाष्पोत्सर्जन",
+   "प्रकाश संश्लेषण",
+   "अंकुरण"
+  ],
+  "correct": 2,
+  "explainEn": "Plants use sunlight, water, and carbon dioxide to prepare food during photosynthesis.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T11:08:43Z"
+ },
+ {
+  "id": "q_2244f464406c9a65",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which gas makes up the largest share of Earth's atmosphere?",
+  "qHi": "पृथ्वी के वायुमंडल में किस गैस की हिस्सेदारी सबसे अधिक है?",
+  "optsEn": [
+   "Oxygen",
+   "Nitrogen",
+   "Carbon dioxide",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "कार्बन डाइऑक्साइड",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Nitrogen makes up about 78 percent of Earth's atmosphere.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T11:08:43Z"
+ },
+ {
+  "id": "q_5c704c596e56561c",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Seed dispersal in the dandelion plant mainly takes place through which medium?",
+  "qHi": "डंडेलियन पौधे में बीज का प्रकीर्णन मुख्य रूप से किस माध्यम से होता है?",
+  "optsEn": [
+   "Wind",
+   "Water",
+   "Explosion",
+   "Insects"
+  ],
+  "optsHi": [
+   "हवा",
+   "पानी",
+   "विस्फोट",
+   "कीड़े"
+  ],
+  "correct": 0,
+  "explainEn": "Dandelion seeds have feather-like hairs that help them float and disperse easily in the wind.",
+  "sourceHint": "NCERT Class 5 EVS Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T11:08:43Z"
+ },
+ {
+  "id": "q_a46bc557ab80848e",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What do we call animals that eat both plants and other animals?",
+  "qHi": "उन जानवरों को हम क्या कहते हैं जो पौधे और अन्य जानवर दोनों को खाते हैं?",
+  "optsEn": [
+   "Herbivores",
+   "Carnivores",
+   "Omnivores",
+   "Parasites"
+  ],
+  "optsHi": [
+   "शाकाहारी",
+   "मांसाहारी",
+   "सर्वाहारी",
+   "परजीवी"
+  ],
+  "correct": 2,
+  "explainEn": "Omnivores are animals that consume both plant and animal matter for food.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T11:08:43Z"
  }
 ]

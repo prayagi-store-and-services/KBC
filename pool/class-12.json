@@ -16294,5 +16294,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-18T04:38:19Z"
+ },
+ {
+  "id": "q_2b3e481c40488e85",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which literary work was written by the ancient Indian author Kalidasa?",
+  "qHi": "प्राचीन भारतीय लेखक कालिदास द्वारा कौन सी साहित्यिक रचना लिखी गई थी?",
+  "optsEn": [
+   "Arthashastra",
+   "Meghaduta",
+   "Indika",
+   "Ashtadhyayi"
+  ],
+  "optsHi": [
+   "अर्थशास्त्र",
+   "मेघदूत",
+   "इंडिका",
+   "अष्टाध्यायी"
+  ],
+  "correct": 1,
+  "explainEn": "Meghaduta is a famous lyric poem written by Kalidasa in Classical Sanskrit.",
+  "sourceHint": "NCERT Class 12 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T11:07:24Z"
+ },
+ {
+  "id": "q_61906a6957316280",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of map projection preserves directions accurately over small areas and is commonly used for navigation?",
+  "qHi": "किस प्रकार का मानचित्र प्रक्षेप छोटे क्षेत्रों में दिशाओं को सटीक रूप से सुरक्षित रखता है और आमतौर पर नेविगेशन के लिए उपयोग किया जाता है?",
+  "optsEn": [
+   "Mercator projection",
+   "Conical projection",
+   "Zenithal projection",
+   "Cylindrical equal-area projection"
+  ],
+  "optsHi": [
+   "मर्केटर प्रक्षेप",
+   "शंकु प्रक्षेप",
+   "खमध्य प्रक्षेप",
+   "बेलनाकार सम-क्षेत्र प्रक्षेप"
+  ],
+  "correct": 0,
+  "explainEn": "The Mercator projection is a conformal map projection that preserves angles and shapes of small areas, making it ideal for marine navigation.",
+  "sourceHint": "NCERT Class 11 Geography, Practical Work in Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T11:07:24Z"
+ },
+ {
+  "id": "q_d481e91a51c1669c",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of economy is characterized by the central government making all decisions regarding the production and distribution of goods?",
+  "qHi": "किस प्रकार की अर्थव्यवस्था की विशेषता यह है कि केंद्रीय सरकार वस्तुओं के उत्पादन और वितरण से संबंधित सभी निर्णय लेती है?",
+  "optsEn": [
+   "Market economy",
+   "Centrally planned economy",
+   "Mixed economy",
+   "Dual economy"
+  ],
+  "optsHi": [
+   "बाजार अर्थव्यवस्था",
+   "केंद्रीय रूप से नियोजित अर्थव्यवस्था",
+   "मिश्रित अर्थव्यवस्था",
+   "द्वैत अर्थव्यवस्था"
+  ],
+  "correct": 1,
+  "explainEn": "In a centrally planned economy (socialist economy), all economic decisions are taken by the central government or a central authority.",
+  "sourceHint": "NCERT Class 12 Economics (Introductory Microeconomics)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T11:08:19Z"
+ },
+ {
+  "id": "q_4fc0c597aa4b1c57",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following Harappan sites is located in Gujarat?",
+  "qHi": "निम्नलिखित में से कौन सा हड़प्पा स्थल गुजरात में स्थित है?",
+  "optsEn": [
+   "Kalibangan",
+   "Banawali",
+   "Lothal",
+   "Rupar"
+  ],
+  "optsHi": [
+   "कालीबंगा",
+   "बनावाली",
+   "लोथल",
+   "रूपड़"
+  ],
+  "correct": 2,
+  "explainEn": "Lothal is located in Gujarat near the Gulf of Khambhat and was a prominent trading port of the Indus Valley Civilization.",
+  "sourceHint": "NCERT Class 12 History, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T11:08:19Z"
+ },
+ {
+  "id": "q_1ab9d70ca9301806",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the process of conversion of atmospheric nitrogen into ammonia by living organisms called?",
+  "qHi": "जीवित जीवों द्वारा वायुमंडलीय नाइट्रोजन को अमोनिया में बदलने की प्रक्रिया को क्या कहा जाता है?",
+  "optsEn": [
+   "Nitrification",
+   "Denitrification",
+   "Nitrogen fixation",
+   "Ammonification"
+  ],
+  "optsHi": [
+   "नाइट्रीकरण",
+   "डिनिट्रीकरण",
+   "नाइट्रोजन स्थिरीकरण",
+   "अमोनीकरण"
+  ],
+  "correct": 2,
+  "explainEn": "Nitrogen fixation is the biological or chemical process by which atmospheric nitrogen is converted into ammonia.",
+  "sourceHint": "NCERT Class 11 Biology, Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T11:08:19Z"
+ },
+ {
+  "id": "q_3e7d0472ebbe105c",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which enzyme is primarily responsible for the synthesis of complementary DNA from an RNA template during reverse transcription in retroviruses?",
+  "qHi": "रेट्रोवाइरस में रिवर्स ट्रांसक्रिप्शन के दौरान आरएनए टेम्पलेट से पूरक डीएनए के संश्लेषण के लिए मुख्य रूप से कौन सा एंजाइम जिम्मेदार है?",
+  "optsEn": [
+   "DNA polymerase I",
+   "RNA polymerase II",
+   "Reverse transcriptase",
+   "Taq polymerase"
+  ],
+  "optsHi": [
+   "डीएनए पोलीमरेज़ I",
+   "आरएनए पोलीमरेज़ II",
+   "रिवर्स ट्रांसक्रिपटेस",
+   "टैक पोलीमरेज़"
+  ],
+  "correct": 2,
+  "explainEn": "Reverse transcriptase is an RNA-dependent DNA polymerase used by retroviruses to transcribe single-stranded RNA into double-stranded DNA.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T11:09:00Z"
+ },
+ {
+  "id": "q_39253fb34b5e0de5",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In macroeconomics, which measure of money supply includes currency with the public, demand deposits with banks, and 'other deposits' with the Reserve Bank of India?",
+  "qHi": "समष्टि अर्थशास्त्र में, मुद्रा आपूर्ति के किस माप में जनता के पास मुद्रा, बैंकों के पास मांग जमा और भारतीय रिजर्व बैंक के पास 'अन्य जमा' शामिल हैं?",
+  "optsEn": [
+   "M1",
+   "M2",
+   "M3",
+   "M4"
+  ],
+  "optsHi": [
+   "M1",
+   "M2",
+   "M3",
+   "M4"
+  ],
+  "correct": 0,
+  "explainEn": "M1 is defined as currency with the public plus demand deposits with commercial banks plus other deposits with RBI.",
+  "sourceHint": "NCERT Class 12 Introductory Macroeconomics, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T11:09:00Z"
+ },
+ {
+  "id": "q_5d3d54bc840dc74d",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the Mauryan administration, the official designated as 'Sannidhata' was primarily responsible for which department?",
+  "qHi": "मौर्य प्रशासन में, 'सन्निधातृ' के रूप में नामित अधिकारी मुख्य रूप से किस विभाग के लिए जिम्मेदार था?",
+  "optsEn": [
+   "Chief judicial officer",
+   "Head of the royal treasury and storehouse",
+   "Commander-in-chief of the military",
+   "Collector general of revenue"
+  ],
+  "optsHi": [
+   "मुख्य न्यायिक अधिकारी",
+   "शाही खजाने और भंडार गृह का प्रमुख",
+   "सेना का मुख्य सेनापति",
+   "राजस्व का समाहर्ता"
+  ],
+  "correct": 1,
+  "explainEn": "In the Mauryan central administration, Samaharta was the collector general of revenue, while Sannidhata was the chief custodian of the treasury and storehouse.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part I",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T11:09:00Z"
+ },
+ {
+  "id": "q_5cf0251ff007429f",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "According to Coulomb's Law, if the dielectric constant of the medium separating two point charges increases, the electrostatic force between them will:",
+  "qHi": "कूलम्ब के नियम के अनुसार, यदि दो बिंदु आवेशों को अलग करने वाले माध्यम का परावैद्युतांक (डाईइलेक्ट्रिक कांस्टेंट) बढ़ता है, तो उनके बीच का इलेक्ट्रोस्टैटिक बल:",
+  "optsEn": [
+   "increase proportionately",
+   "remain unaffected",
+   "decrease",
+   "become zero instantly"
+  ],
+  "optsHi": [
+   "आनुपातिक रूप से बढ़ेगा",
+   "अप्रभावित रहेगा",
+   "घटेगा",
+   "तुरंत शून्य हो जाएगा"
+  ],
+  "correct": 2,
+  "explainEn": "The electrostatic force is inversely proportional to the relative permittivity (dielectric constant) of the medium, so an increase in the dielectric constant decreases the force.",
+  "sourceHint": "NCERT Class 12 Physics Part 1, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T11:09:00Z"
+ },
+ {
+  "id": "q_7fd17d616850eb37",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which British official introduced the Ryotwari Settlement system in the Madras Presidency during the early 19th century?",
+  "qHi": "19वीं शताब्दी की शुरुआत में मद्रास प्रेसीडेंसी में रैयतवाड़ी बंदोबस्त प्रणाली किस ब्रिटिश अधिकारी ने शुरू की थी?",
+  "optsEn": [
+   "Lord Cornwallis",
+   "Thomas Munro",
+   "John Shore",
+   "Lord Dalhousie"
+  ],
+  "optsHi": [
+   "लॉर्ड कॉर्नवालिस",
+   "थॉमस मुनरो",
+   "जॉन शोर",
+   "लॉर्ड डलहौजी"
+  ],
+  "correct": 1,
+  "explainEn": "Thomas Munro introduced the Ryotwari system in the Madras Presidency, where revenue settlement was made directly with the cultivators (ryots).",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T11:09:00Z"
+ },
+ {
+  "id": "q_38dafa2496e8c583",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In human female gametogenesis, a primary oocyte completes its first meiotic division resulting in the formation of:",
+  "qHi": "मानव मादा युग्मजजनन में, एक प्राथमिक अंड कोशिका (प्राइमरी ऊसाइट) अपना पहला अर्धसूत्री विभाजन पूरा करती है जिसके परिणामस्वरूप निर्माण होता है:",
+  "optsEn": [
+   "two equal-sized secondary oocytes",
+   "a secondary oocyte and a tiny first polar body",
+   "an ootid and two polar bodies",
+   "an ovum and a secondary oocyte"
+  ],
+  "optsHi": [
+   "दो समान आकार के द्वितीयक अंड कोशिकाएं",
+   "एक द्वितीयक अंड कोशिका और एक छोटा पहला ध्रुवीय पिंड",
+   "एक ऊटिड और दो ध्रुवीय पिंड",
+   "एक डिंब और एक द्वितीयक अंड कोशिका"
+  ],
+  "correct": 1,
+  "explainEn": "The first meiotic division of the primary oocyte is unequal, resulting in a large haploid secondary oocyte and a tiny first polar body.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-18T11:09:00Z"
  }
 ]
