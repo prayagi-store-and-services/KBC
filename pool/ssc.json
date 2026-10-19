@@ -11814,5 +11814,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-19T04:44:32Z"
+ },
+ {
+  "id": "q_f70dbaae66b73aeb",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which river is known as the longest river in peninsular India?",
+  "qHi": "प्रायद्वीपीय भारत की सबसे लंबी नदी के रूप में किसे जाना जाता है?",
+  "optsEn": [
+   "Mahanadi",
+   "Godavari",
+   "Krishna",
+   "Narmada"
+  ],
+  "optsHi": [
+   "महानदी",
+   "गोदावरी",
+   "कृष्णा",
+   "नर्मदा"
+  ],
+  "correct": 1,
+  "explainEn": "The Godavari is the largest river system in peninsular India and is often referred to as the Dakshina Ganga.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T13:18:55Z"
+ },
+ {
+  "id": "q_edb27832f77f1c3f",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the standard chemical formula for common salt?",
+  "qHi": "साधारण नमक का मानक रासायनिक सूत्र क्या है?",
+  "optsEn": [
+   "HCl",
+   "NaOH",
+   "NaCl",
+   "Na2CO3"
+  ],
+  "optsHi": [
+   "एचसीएल",
+   "एनओएच",
+   "एनएसीएल",
+   "एनिट्रोजन कार्बोनेट"
+  ],
+  "correct": 2,
+  "explainEn": "Common salt is primarily sodium chloride, represented by the chemical formula NaCl.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T13:18:55Z"
+ },
+ {
+  "id": "q_1fdf0a3246719efd",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the minimum age requirement to become a member of the Lok Sabha in India?",
+  "qHi": "भारत में लोकसभा का सदस्य बनने के लिए न्यूनतम आयु की आवश्यकता क्या है?",
+  "optsEn": [
+   "21 years",
+   "25 years",
+   "30 years",
+   "35 years"
+  ],
+  "optsHi": [
+   "21 वर्ष",
+   "25 वर्ष",
+   "30 वर्ष",
+   "35 वर्ष"
+  ],
+  "correct": 1,
+  "explainEn": "According to Article 84 of the Constitution of India, the minimum age for contesting an election to the Lok Sabha is 25 years.",
+  "sourceHint": "Indian Constitution, Article 84",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T13:18:55Z"
+ },
+ {
+  "id": "q_640bd9f8d2120b82",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which historical site were the famous rock-cut Rathas (chariots) belonging to the Pallava dynasty constructed?",
+  "qHi": "पल्लव वंश से संबंधित प्रसिद्ध शैल-कृत रथों का निर्माण किस ऐतिहासिक स्थल पर किया गया था?",
+  "optsEn": [
+   "Mahabalipuram",
+   "Kanchipuram",
+   "Thanjavur",
+   "Madurai"
+  ],
+  "optsHi": [
+   "महाबलीपुरम",
+   "कांचीपुरम",
+   "तंजावुर",
+   "मदुरै"
+  ],
+  "correct": 0,
+  "explainEn": "The Pancha Rathas, or monolithic rock-cut temples, were built at Mahabalipuram (Mamallapuram) during the reign of Pallava king Mahendravarman I and Narasimhavarman I.",
+  "sourceHint": "NCERT Class 12 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T13:20:35Z"
+ },
+ {
+  "id": "q_c70e471d97d477b2",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The Battle of Buxar, which firmly established the British East India Company's political control over Bengal, was fought in which year?",
+  "qHi": "बक्सर का युद्ध, जिसने बंगाल पर ब्रिटिश ईस्ट इंडिया कंपनी के राजनीतिक नियंत्रण को दृढ़ता से स्थापित किया, किस वर्ष लड़ा गया था?",
+  "optsEn": [
+   "1757",
+   "1761",
+   "1764",
+   "1770"
+  ],
+  "optsHi": [
+   "1757",
+   "1761",
+   "1764",
+   "1770"
+  ],
+  "correct": 2,
+  "explainEn": "The Battle of Buxar was fought on October 22, 1764, between British forces and the combined army of Mir Kasim, Shuja-ud-Daula, and Shah Alam II.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T13:20:35Z"
+ },
+ {
+  "id": "q_995e38c84cc5ccfc",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which element has the chemical symbol 'Au'?",
+  "qHi": "किस तत्व का रासायनिक प्रतीक 'Au' है?",
+  "optsEn": [
+   "Silver",
+   "Gold",
+   "Copper",
+   "Aluminum"
+  ],
+  "optsHi": [
+   "चांदी",
+   "सोना",
+   "तांबा",
+   "एल्युमीनियम"
+  ],
+  "correct": 1,
+  "explainEn": "The chemical symbol 'Au' is derived from the Latin word 'aurum', meaning 'shining dawn', which represents Gold.",
+  "sourceHint": "NCERT Class 9 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T13:20:35Z"
+ },
+ {
+  "id": "q_35fded10159764c6",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The famous dance form 'Kathakali' originated and traditionally belongs to which Indian state?",
+  "qHi": "प्रसिद्ध नृत्य शैली 'कथकली' की उत्पत्ति हुई है और पारंपरिक रूप से यह किस भारतीय राज्य से संबंधित है?",
+  "optsEn": [
+   "Andhra Pradesh",
+   "Kerala",
+   "Tamil Nadu",
+   "Karnataka"
+  ],
+  "optsHi": [
+   "आंध्र प्रदेश",
+   "केरल",
+   "तमिलनाडु",
+   "कर्नाटक"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a major form of classical Indian dance that is a story play genre of art, originating from the southern state of Kerala.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T13:20:35Z"
  }
 ]

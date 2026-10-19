@@ -12122,5 +12122,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-19T04:44:44Z"
+ },
+ {
+  "id": "q_b465db3362d12db1",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which city is the Gateway of India located?",
+  "qHi": "गेटवे ऑफ़ इंडिया किस शहर में स्थित है?",
+  "optsEn": [
+   "New Delhi",
+   "Kolkata",
+   "Mumbai",
+   "Chennai"
+  ],
+  "optsHi": [
+   "नई दिल्ली",
+   "कोलकाता",
+   "मुंबई",
+   "चेन्नई"
+  ],
+  "correct": 2,
+  "explainEn": "The Gateway of India is a monument built in Mumbai during the 20th century.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T13:18:30Z"
+ },
+ {
+  "id": "q_ed0f5c8683856d8f",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organ in the human body is primarily responsible for filtering blood?",
+  "qHi": "मानव शरीर में कौन सा अंग मुख्य रूप से रक्त को छानने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Heart",
+   "Lungs",
+   "Kidneys",
+   "Liver"
+  ],
+  "optsHi": [
+   "दिल",
+   "फेफड़े",
+   "गुर्दे",
+   "यकृत"
+  ],
+  "correct": 2,
+  "explainEn": "The kidneys filter waste products and excess water from the blood to form urine.",
+  "sourceHint": "NCERT Biology textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T13:20:05Z"
+ },
+ {
+  "id": "q_58ba4066c4dd57b1",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which Indian mountain range is the hill station of Ooty situated?",
+  "qHi": "ऊटी का हिल स्टेशन किस भारतीय पर्वत श्रृंखला में स्थित है?",
+  "optsEn": [
+   "Himalayas",
+   "Nilgiri Hills",
+   "Aravalli Range",
+   "Vindhya Range"
+  ],
+  "optsHi": [
+   "हिमालय",
+   "नीलगिरी पहाड़ियाँ",
+   "अरावली श्रेणी",
+   "विंध्य श्रेणी"
+  ],
+  "correct": 1,
+  "explainEn": "Ooty is a popular hill resort located in the Nilgiri Hills of Tamil Nadu.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T13:20:05Z"
+ },
+ {
+  "id": "q_027e49003212e795",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which Indian state is the Loktak Lake, famous for its floating phumdis, located?",
+  "qHi": "अपनी तैरती हुई फुमदी के लिए प्रसिद्ध लोकतक झील भारत के किस राज्य में स्थित है?",
+  "optsEn": [
+   "Meghalaya",
+   "Assam",
+   "Manipur",
+   "Tripura"
+  ],
+  "optsHi": [
+   "मेघालय",
+   "असम",
+   "मणिपुर",
+   "त्रिपुरा"
+  ],
+  "correct": 2,
+  "explainEn": "Loktak Lake is located in the state of Manipur and is famous for the phumdis floating over it.",
+  "sourceHint": "NCERT Geography Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T13:20:47Z"
+ },
+ {
+  "id": "q_bb13500d60d947ce",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which element has the chemical symbol 'Hg' derived from its historical name hydrargyrum?",
+  "qHi": "किस तत्व का रासायनिक प्रतीक 'Hg' है जो उसके ऐतिहासिक नाम हाइड्रारgyrum से लिया गया है?",
+  "optsEn": [
+   "Silver",
+   "Mercury",
+   "Lead",
+   "Gold"
+  ],
+  "optsHi": [
+   "चांदी",
+   "पारा",
+   "सीसा",
+   "सोना"
+  ],
+  "correct": 1,
+  "explainEn": "Mercury has the chemical symbol Hg, which comes from hydrargyrum, a Greek-derived Latin word meaning liquid silver.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T13:20:47Z"
+ },
+ {
+  "id": "q_a657695b5fdb61b3",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form originated in the state of Kerala and features elaborate facial makeup called chutti?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप केरल राज्य में उत्पन्न हुआ है और इसमें चुट्टी नामक विस्तृत चेहरे की मेकअप विशेषता होती है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Odissi",
+   "Kuchipudi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "ओडिसी",
+   "कुचिपुड़ी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a classical dance-drama from Kerala known for its distinct makeup, including the white paste border called chutti.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T13:20:47Z"
+ },
+ {
+  "id": "q_d94984a5ffb79f6b",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Constitution of India, which article grants the right to constitutional remedies?",
+  "qHi": "भारत के संविधान के तहत कौन सा अनुच्छेद संवैधानिक उपचार का अधिकार प्रदान करता है?",
+  "optsEn": [
+   "Article 14",
+   "Article 19",
+   "Article 21",
+   "Article 32"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14",
+   "अनुच्छेद 19",
+   "अनुच्छेद 21",
+   "अनुच्छेद 32"
+  ],
+  "correct": 3,
+  "explainEn": "Dr. B.R. Ambedkar called Article 32 the heart and soul of the Indian Constitution as it provides the right to constitutional remedies.",
+  "sourceHint": "Constitution of India, Legislative Department",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T13:20:47Z"
  }
 ]

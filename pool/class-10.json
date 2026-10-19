@@ -15454,5 +15454,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-19T04:43:54Z"
+ },
+ {
+  "id": "q_46127a0f5f053f99",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a renewable energy source?",
+  "qHi": "निम्नलिखित में से कौन सा ऊर्जा का नवीकरणीय स्रोत है?",
+  "optsEn": [
+   "Coal",
+   "Petroleum",
+   "Solar energy",
+   "Natural gas"
+  ],
+  "optsHi": [
+   "कोयला",
+   "पेट्रोलियम",
+   "सौर ऊर्जा",
+   "प्राकृतिक गैस"
+  ],
+  "correct": 2,
+  "explainEn": "Solar energy is inexhaustible and gets replenished naturally, making it a renewable source.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 14: Sources of Energy",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T13:18:41Z"
+ },
+ {
+  "id": "q_530ae169bfb127c9",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which constitutional body conducts elections to the Panchayats and Municipalities in each state?",
+  "qHi": "प्रत्येक राज्य में पंचायतों और नगर पालिकाوं के चुनाव कौन सा संवैधानिक निकाय कराता है?",
+  "optsEn": [
+   "Election Commission of India",
+   "State Election Commission",
+   "Union Public Service Commission",
+   "Supreme Court of India"
+  ],
+  "optsHi": [
+   "भारत का निर्वाचन आयोग",
+   "राज्य निर्वाचन आयोग",
+   "संघ लोक सेवा आयोग",
+   "भारत का उच्चतम न्यायालय"
+  ],
+  "correct": 1,
+  "explainEn": "The State Election Commission is responsible for conducting elections to panchayats and municipalities in the states as per the Indian Constitution.",
+  "sourceHint": "NCERT Class 10 Civics Chapter 2 Federalism",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T13:20:19Z"
+ },
+ {
+  "id": "q_3691a53850b8c679",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What was the main purpose of launching the Satyagraha against the Rowlatt Act in 1919?",
+  "qHi": "1919 में रौलट एक्ट के खिलाफ सत्याग्रह शुरू करने का मुख्य उद्देश्य क्या था?",
+  "optsEn": [
+   "To demand separate electorates",
+   "To protest against the restriction of fundamental freedoms and detention without trial",
+   "To oppose the imposition of salt tax",
+   "To boycott foreign cloth completely"
+  ],
+  "optsHi": [
+   "पृथक निर्वाचन क्षेत्रों की मांग करना",
+   "मौलिक स्वतंत्रता पर प्रतिबंध और बिना मुकदमे के नजरबंदी का विरोध करना",
+   "नमक कर लगाने का विरोध करना",
+   "विदेशी कपड़े का पूर्ण बहिष्कार करना"
+  ],
+  "correct": 1,
+  "explainEn": "The Rowlatt Act gave the government enormous powers to repress political activities and allowed detention of political prisoners without trial for two years.",
+  "sourceHint": "NCERT Class 10 History Chapter 3 Nationalism in India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T13:20:19Z"
+ },
+ {
+  "id": "q_c125eb1ae376b657",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of government does Belgium follow to accommodate regional and linguistic differences?",
+  "qHi": "क्षेत्रीय और भाषाई अंतरों को समायोजित करने के लिए बेल्जियम किस प्रकार की सरकार का पालन करता है?",
+  "optsEn": [
+   "Unitary government",
+   "Military dictatorship",
+   "Community government",
+   "Monarchy without parliament"
+  ],
+  "optsHi": [
+   "एकात्मक सरकार",
+   "सैन्य तानाशाही",
+   "सामुदायिक सरकार",
+   "संसद के बिना राजशाही"
+  ],
+  "correct": 2,
+  "explainEn": "Belgium has a unique community government elected by people belonging to one language community no matter where they live, dealing with cultural, educational and language-related issues.",
+  "sourceHint": "NCERT Class 10 Civics Chapter 1 Power Sharing",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T13:20:19Z"
+ },
+ {
+  "id": "q_c11ad5d0d85c371b",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the basic function of self-help groups (SHGs) regarding rural poor?",
+  "qHi": "ग्रामीण गरीबों के संबंध में स्व-सहायता समूह (SHG) का मूल कार्य क्या है?",
+  "optsEn": [
+   "To provide free electricity",
+   "To organize rural poor, especially women, to pool savings and obtain small loans",
+   "To construct national highways",
+   "To export agricultural produce"
+  ],
+  "optsHi": [
+   "मुफ्त बिजली प्रदान करना",
+   "ग्रामीण गरीबों, विशेषकर महिलाओं को बचत एकत्र करने और छोटे ऋण प्राप्त करने के लिए संगठित करना",
+   "राष्ट्रीय राजमार्गों का निर्माण करना",
+   "कृषि उपज का निर्यात करना"
+  ],
+  "correct": 1,
+  "explainEn": "SHGs help rural people, especially women, pool their savings and access collective bank credit without heavy collateral.",
+  "sourceHint": "NCERT Class 10 Economics Chapter 3 Money and Credit",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T13:20:19Z"
  }
 ]

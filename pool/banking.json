@@ -18590,5 +18590,425 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-19T04:44:39Z"
+ },
+ {
+  "id": "q_bc5d5be70760ace3",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following cards is issued directly by banks as a debit card on a domestic payment network in India?",
+  "qHi": "भारत में घरेलू भुगतान नेटवर्क पर डेबिट कार्ड के रूप में सीधे बैंकों द्वारा निम्नलिखित में से कौन सा कार्ड जारी किया जाता है?",
+  "optsEn": [
+   "Mastercard",
+   "Visa",
+   "RuPay",
+   "American Express"
+  ],
+  "optsHi": [
+   "मास्टरकार्ड",
+   "वीज़ा",
+   "रुपे",
+   "अमेरिकन एक्सप्रेस"
+  ],
+  "correct": 2,
+  "explainEn": "RuPay is India's domestic card payment network developed by NPCI.",
+  "sourceHint": "National Payments Corporation of India (NPCI)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T13:18:26Z"
+ },
+ {
+  "id": "q_f719428b59af6d84",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary objective of regional rural banks (RRBs) in India?",
+  "qHi": "भारत में क्षेत्रीय ग्रामीण बैंकों (RRBs) का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "Financing international trade",
+   "Providing credit to agriculture and rural sectors",
+   "Regulating stock exchanges",
+   "Issuing currency notes"
+  ],
+  "optsHi": [
+   "अंतर्राष्ट्रीय व्यापार का वित्तपोषण",
+   "कृषि और ग्रामीण क्षेत्रों को ऋण प्रदान करना",
+   "स्टॉक एक्सचेंजों को विनियमित करना",
+   "करेन्सी नोट जारी करना"
+  ],
+  "correct": 1,
+  "explainEn": "Regional Rural Banks were established to provide sufficient banking and credit facilities for agriculture and rural sectors.",
+  "sourceHint": "NABARD and RBI rural banking guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T13:18:26Z"
+ },
+ {
+  "id": "q_7af4ea85752275cb",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following bodies regulates the credit rating agencies operating in India?",
+  "qHi": "भारत में काम करने वाली क्रेडिट रेटिंग एजेंसियों को निम्नलिखित में से कौन सा निकाय विनियमित करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India",
+   "Insurance Regulatory and Development Authority",
+   "Ministry of Finance"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "बीमा विनियामक और विकास प्राधिकरण",
+   "वित्त मंत्रालय"
+  ],
+  "correct": 1,
+  "explainEn": "SEBI regulates credit rating agencies in India under the SEBI (Credit Rating Agencies) Regulations, 1999.",
+  "sourceHint": "SEBI Act, 1992",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T13:20:01Z"
+ },
+ {
+  "id": "q_74eea7a25fffbc66",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Priority Sector Lending (PSL) norms in India, foreign banks with 20 branches and above are required to allocate what percentage of Adjusted Net Bank Credit to priority sectors?",
+  "qHi": "भारत में प्राथमिकता प्राप्त क्षेत्र को ऋण (PSL) मानदंडों के तहत, 20 या उससे अधिक शाखाओं वाले विदेशी बैंकों को प्राथमिकता प्राप्त क्षेत्रों को समायोजित शुद्ध बैंक ऋण का कितना प्रतिशत आवंटित करना आवश्यक है?",
+  "optsEn": [
+   "18 percent",
+   "32 percent",
+   "40 percent",
+   "75 percent"
+  ],
+  "optsHi": [
+   "18 प्रतिशत",
+   "32 प्रतिशत",
+   "40 प्रतिशत",
+   "75 प्रतिशत"
+  ],
+  "correct": 2,
+  "explainEn": "Foreign banks with 20 branches and above are mandated to meet the 40 percent overall priority sector lending target, similar to domestic commercial banks.",
+  "sourceHint": "RBI Master Directions on Priority Sector Lending",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T13:20:01Z"
+ },
+ {
+  "id": "q_234ab61bdc2c20c6",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is an example of a capital market instrument in India?",
+  "qHi": "निम्नलिखित में से कौन सा भारत में पूंजी बाजार साधन का एक उदाहरण है?",
+  "optsEn": [
+   "Treasury Bill",
+   "Certificate of Deposit",
+   "Equity Shares",
+   "Commercial Paper"
+  ],
+  "optsHi": [
+   "राजकोषीय बिल ( ट्रेजरी बिल )",
+   "जमा प्रमाणपत्र",
+   "इक्विटी शेयर",
+   "वाणिज्यिक पत्र"
+  ],
+  "correct": 2,
+  "explainEn": "Equity shares are long-term financial instruments traded in the capital market, whereas Treasury bills, Certificates of Deposit, and Commercial Papers are money market instruments.",
+  "sourceHint": "NCERT Business Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T13:20:01Z"
+ },
+ {
+  "id": "q_aaa7b65d5c001992",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the minimum paid-up voting equity capital required for setting up a small finance bank in India as per current guidelines?",
+  "qHi": "वर्तमान दिशानिर्देशों के अनुसार भारत में एक लघु वित्त बैंक (स्मॉल फाइनेंस बैंक) स्थापित करने के लिए आवश्यक न्यूनतम चुकता मतदान इक्विटी पूंजी क्या है?",
+  "optsEn": [
+   "100 crore rupees",
+   "200 crore rupees",
+   "500 crore rupees",
+   "1000 crore rupees"
+  ],
+  "optsHi": [
+   "100 करोड़ रुपये",
+   "200 करोड़ रुपये",
+   "500 करोड़ रुपये",
+   "1000 करोड़ रुपये"
+  ],
+  "correct": 1,
+  "explainEn": "The minimum capital requirement for setting up a small finance bank is 200 crore rupees.",
+  "sourceHint": "RBI Guidelines for Licensing of Small Finance Banks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T13:20:01Z"
+ },
+ {
+  "id": "q_7fda7f2567f2c2ed",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the Liquidity Adjustment Facility (LAF) framework used by the RBI?",
+  "qHi": "आरबीआई द्वारा उपयोग किए जाने वाले तरलता समायोजन सुविधा (LAF) ढांचे में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liability",
+   "Liquidity",
+   "Ledger",
+   "Leverage"
+  ],
+  "optsHi": [
+   "दे देता (Liability)",
+   "तरलता (Liquidity)",
+   "बही-खाता (Ledger)",
+   "उत्प्रेरण (Leverage)"
+  ],
+  "correct": 1,
+  "explainEn": "LAF stands for Liquidity Adjustment Facility, which is a monetary policy tool used by the Reserve Bank of India.",
+  "sourceHint": "RBI Glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T13:20:01Z"
+ },
+ {
+  "id": "q_ac9aaaec92e3b5f5",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following negotiable instruments is defined under Section 6 of the Negotiable Instruments Act, 1881?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 की धारा 6 के तहत निम्नलिखित में से किस परक्राम्य लिखत को परिभाषित किया गया है?",
+  "optsEn": [
+   "Promissory Note",
+   "Bill of Exchange",
+   "Cheque",
+   "Hundi"
+  ],
+  "optsHi": [
+   "वचन पत्र (Promissory Note)",
+   "विनिमय पत्र (Bill of Exchange)",
+   "चेक (Cheque)",
+   "हुंडी"
+  ],
+  "correct": 2,
+  "explainEn": "Section 6 of the Negotiable Instruments Act, 1881 defines a 'cheque' as a bill of exchange drawn on a specified banker.",
+  "sourceHint": "The Negotiable Instruments Act, 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T13:20:01Z"
+ },
+ {
+  "id": "q_fe36263ef05035dd",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following entities is statutorily mandated to maintain the Central Fraud Registry under the Reserve Bank of India guidelines?",
+  "qHi": "भारतीय रिजर्व बैंक के दिशानिर्देशों के तहत केंद्रीय धोखाधड़ी रजिस्ट्री बनाए रखने के लिए निम्नलिखित में से कौन सी संस्था वैधानिक रूप से अनिवार्य है?",
+  "optsEn": [
+   "Scheduled Commercial Banks",
+   "Non-Banking Financial Companies",
+   "Credit Information Companies",
+   "Asset Reconstruction Companies"
+  ],
+  "optsHi": [
+   "अनुसूचित वाणिज्यिक बैंक",
+   "गैर-बैंकिंग वित्तीय कंपनियां",
+   "ऋण सूचना कंपनियां",
+   "संपत्ति पुनर्रचना कंपनियां"
+  ],
+  "correct": 0,
+  "explainEn": "Scheduled Commercial Banks and select financial institutions are required to report frauds to the Central Fraud Registry maintained by the RBI.",
+  "sourceHint": "RBI Master Directions on Frauds",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T13:20:41Z"
+ },
+ {
+  "id": "q_fc0ed48c4740e456",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Basel III norms, what is the minimum Capital Conservation Buffer (CCB) requirement for Indian scheduled commercial banks as stipulated by the RBI?",
+  "qHi": "बेसल III मानदंडों के तहत, आरबीआई द्वारा निर्धारित भारतीय अनुसूचित वाणिज्यिक बैंकों के लिए न्यूनतम पूंजी संरक्षण बफर (CCB) आवश्यकता क्या है?",
+  "optsEn": [
+   "1.00%",
+   "2.50%",
+   "3.00%",
+   "4.50%"
+  ],
+  "optsHi": [
+   "1.00%",
+   "2.50%",
+   "3.00%",
+   "4.50%"
+  ],
+  "correct": 1,
+  "explainEn": "RBI guidelines mandate a Capital Conservation Buffer of 2.5% of Risk-Weighted Assets (RWAs) for banks under Basel III norms.",
+  "sourceHint": "RBI Basel III Capital Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T13:20:41Z"
+ },
+ {
+  "id": "q_2453ae1676be932e",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the maximum permissible limit for an individual transaction using the Immediate Payment Service (IMPS) through internet banking or mobile banking, as per current NPCI guidelines?",
+  "qHi": "वर्तमान एनपीसीआई दिशानिर्देशों के अनुसार, इंटरनेट बैंकिंग या मोबाइल बैंकिंग के माध्यम से तत्काल भुगतान सेवा (IMPS) का उपयोग करके एक व्यक्तिगत लेनदेन के लिए अधिकतम स्वीकार्य सीमा क्या है?",
+  "optsEn": [
+   "Two Lakh Rupees",
+   "Five Lakh Rupees",
+   "Ten Lakh Rupees",
+   "No upper limit"
+  ],
+  "optsHi": [
+   "दो लाख रुपये",
+   "पाँच लाख रुपये",
+   "दस लाख रुपये",
+   "कोई ऊपरी सीमा नहीं"
+  ],
+  "correct": 1,
+  "explainEn": "NPCI revised the per-transaction limit for IMPS channels like internet banking and mobile banking to 5 Lakh Rupees.",
+  "sourceHint": "NPCI Circulars",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T13:20:41Z"
+ },
+ {
+  "id": "q_86267ff245b3602b",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which section of the Banking Regulation Act, 1949 empowers the Reserve Bank of India to issue directions to banking companies in public interest or to prevent banking policy from being prejudicially affected?",
+  "qHi": "बैंकिंग विनियमन अधिनियम, 1949 की कौन सी धारा भारतीय रिजर्व बैंक को जनहित में या बैंकिंग नीति को प्रतिकूल रूप से प्रभावित होने से बचाने के लिए बैंकिंग कंपनियों को निर्देश जारी करने का अधिकार देती है?",
+  "optsEn": [
+   "Section 21",
+   "Section 35A",
+   "Section 42",
+   "Section 45"
+  ],
+  "optsHi": [
+   "धारा 21",
+   "धारा 35A",
+   "धारा 42",
+   "धारा 45"
+  ],
+  "correct": 1,
+  "explainEn": "Section 35A of the Banking Regulation Act, 1949 empowers the RBI to issue directions to banks.",
+  "sourceHint": "Banking Regulation Act 1949",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T13:20:41Z"
+ },
+ {
+  "id": "q_f94924128ed9de53",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the Indian money market, what is the maximum maturity period for a Certificate of Deposit (CD) issued by a scheduled commercial bank?",
+  "qHi": "भारतीय मुद्रा बाजार के संदर्भ में, एक अनुसूचित वाणिज्यिक बैंक द्वारा जारी किए गए डिपाजिट सर्टिफिकेट (सीडी) की अधिकतम परिपक्वता अवधि क्या है?",
+  "optsEn": [
+   "One Year",
+   "Two Years",
+   "Three Years",
+   "Five Years"
+  ],
+  "optsHi": [
+   "एक वर्ष",
+   "दो वर्ष",
+   "तीन वर्ष",
+   "पाँच वर्ष"
+  ],
+  "correct": 0,
+  "explainEn": "Certificates of Deposit can be issued by scheduled commercial banks with a minimum maturity of 7 days and a maximum maturity of one year.",
+  "sourceHint": "RBI Guidelines on Certificates of Deposit",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T13:20:41Z"
+ },
+ {
+  "id": "q_d13d40e7b077b5bd",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What does the 'L' stand for in the Liquidity Coverage Ratio (LCR) framework implemented under Basel III norms for banks?",
+  "qHi": "बैंकों के लिए बेसल III मानदंडों के तहत लागू तरलता कवरेज अनुपात (LCR) ढांचे में 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liability",
+   "Liquidity",
+   "Leverage",
+   "Ledger"
+  ],
+  "optsHi": [
+   "दायित्व (Liability)",
+   "तरलता (Liquidity)",
+   "उत्प्रेरक (Leverage)",
+   "बहीखाता (Ledger)"
+  ],
+  "correct": 1,
+  "explainEn": "LCR stands for Liquidity Coverage Ratio, which ensures that banks have an adequate stock of unencumbered high-quality liquid assets.",
+  "sourceHint": "Basel Committee on Banking Supervision",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T13:20:41Z"
+ },
+ {
+  "id": "q_8f59ccbe7892831e",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific institutional mechanism in India acts as the central counterparty for clearing and settling repo transactions in government securities?",
+  "qHi": "भारत में कौन सा विशिष्ट संस्थागत तंत्र सरकारी प्रतिभूतियों में रेपो लेनदेन को क्लीयर और सेटल करने के लिए केंद्रीय प्रतिपक्ष के रूप में कार्य करता है?",
+  "optsEn": [
+   "Clearing Corporation of India Limited",
+   "National Securities Depository Limited",
+   "Central Depository Services Limited",
+   "Stock Holding Corporation of India"
+  ],
+  "optsHi": [
+   "क्लियरिंग कॉरपोरेशन ऑफ इंडिया लिमिटेड",
+   "नेशनल सिक्योरिटीज डिपॉजिटरी लिमिटेड",
+   "सेंट्रल डिपॉजिटरी सर्विसेज लिमिटेड",
+   "स्टॉक होल्डिंग कॉरपोरेशन ऑफ इंडिया"
+  ],
+  "correct": 0,
+  "explainEn": "CCIL (Clearing Corporation of India Limited) acts as the central counterparty for all money market, g-sec, and foreign exchange trades.",
+  "sourceHint": "RBI Financial Stability Report",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T13:20:41Z"
  }
 ]
