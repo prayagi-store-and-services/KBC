@@ -86,7 +86,7 @@ class SpeechNarrator(context: Context) : TextToSpeech.OnInitListener {
 
     /** Releases focus after a fire-and-forget line's estimated speaking time. */
     private fun releaseFocusAfterEstimate(text: String) {
-        val words = text.split("\s+".toRegex()).size
+        val words = text.split("\\s+".toRegex()).size
         val est = (words * 400L + 2500L).coerceIn(4000L, 25000L)
         scope.launch {
             delay(est)
