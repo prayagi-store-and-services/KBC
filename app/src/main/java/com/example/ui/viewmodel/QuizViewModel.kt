@@ -134,6 +134,11 @@ class QuizViewModel(application: Application) : AndroidViewModel(application) {
         soundPlayer.setMuted(nextMuted)
     }
 
+    /** Clearly labelled test line through the real narration path (standing rule, 19 Oct 2026). */
+    fun testVoice() {
+        speechNarrator.speakTest(languageMode.value)
+    }
+
     val userProfile: StateFlow<UserProfile> = repository.userProfileFlow.stateIn(
         scope = viewModelScope,
         started = SharingStarted.WhileSubscribed(5000),
