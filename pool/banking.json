@@ -19010,5 +19010,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-19T13:20:41Z"
+ },
+ {
+  "id": "q_f016454ffca09086",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the expanded form of 'KYC' in the banking industry?",
+  "qHi": "बैंकिंग उद्योग में 'KYC' का विस्तारित रूप क्या है?",
+  "optsEn": [
+   "Know Your Customer",
+   "Keep Your Cash",
+   "Knowledge Yields Capital",
+   "Key Yearly Credit"
+  ],
+  "optsHi": [
+   "Know Your Customer",
+   "Keep Your Cash",
+   "Knowledge Yields Capital",
+   "Key Yearly Credit"
+  ],
+  "correct": 0,
+  "explainEn": "KYC stands for Know Your Customer, which is a mandatory process by financial institutions to verify the identity of their clients.",
+  "sourceHint": "Reserve Bank of India KYC Master Directions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:24:58Z"
+ },
+ {
+  "id": "q_c680bc9d8da586e6",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the abbreviation 'MSF', a liquidity adjustment facility window introduced by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा शुरू की गई तरलता समायोजन सुविधा विंडो 'MSF' संक्षिप्त नाम में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liability",
+   "Liquidity",
+   "Leverage",
+   "Lending"
+  ],
+  "optsHi": [
+   "दायित्व",
+   "लिक्विडिटी (तरलता)",
+   "उत्तोलन",
+   "उधार"
+  ],
+  "correct": 1,
+  "explainEn": "MSF stands for Marginal Standing Facility, which is a window for scheduled banks to borrow overnight from the RBI in emergency situations.",
+  "sourceHint": "RBI Glossary of Banking Terms",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:27:16Z"
+ },
+ {
+  "id": "q_3e89bf3652e52dfc",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Priority Sector Lending (PSL) guidelines in India, what is the overall target for lending to the priority sector for domestic commercial banks as a percentage of Adjusted Net Bank Credit?",
+  "qHi": "भारत में प्राथमिकता प्राप्त क्षेत्र को ऋण (PSL) दिशानिर्देशों के तहत, समायोजित शुद्ध बैंक ऋण के प्रतिशत के रूप में घरेलू वाणिज्यिक बैंकों के लिए प्राथमिकता प्राप्त क्षेत्र को ऋण देने का समग्र लक्ष्य क्या है?",
+  "optsEn": [
+   "18 percent",
+   "40 percent",
+   "75 percent",
+   "10 percent"
+  ],
+  "optsHi": [
+   "18 प्रतिशत",
+   "40 प्रतिशत",
+   "75 प्रतिशत",
+   "10 प्रतिशत"
+  ],
+  "correct": 1,
+  "explainEn": "Domestic commercial banks and foreign banks with 20 branches and above must meet a 40 percent target for Priority Sector Lending.",
+  "sourceHint": "RBI Master Directions on Priority Sector Lending",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:27:16Z"
+ },
+ {
+  "id": "q_8e4959d26ae99ece",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'C' stand for in the digital payment identifier 'IFSC', which is used in electronic fund transfers like NEFT and RTGS in India?",
+  "qHi": "भारत में NEFT और RTGS जैसे इलेक्ट्रॉनिक फंड ट्रांसफर में उपयोग किए जाने वाले डिजिटल भुगतान पहचानकर्ता 'IFSC' में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Currency",
+   "Clearing",
+   "Central",
+   "Credit"
+  ],
+  "optsHi": [
+   "मुद्रा",
+   "क्लीयरिंग",
+   "केंद्रीय",
+   "क्रेडिट"
+  ],
+  "correct": 1,
+  "explainEn": "IFSC stands for Indian Financial System Code, where 'C' stands for Clearing.",
+  "sourceHint": "RBI Payment Systems Documentation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:27:16Z"
+ },
+ {
+  "id": "q_0b870368f74cb0ab",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institution in India acts as the principal apex financial institution for promoting rural development and agricultural credit?",
+  "qHi": "भारत में कौन सी संस्था ग्रामीण विकास और कृषि ऋण को बढ़ावा देने के लिए मुख्य शीर्ष वित्तीय संस्थान के रूप में कार्य करती है?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "IDBI Bank"
+  ],
+  "optsHi": [
+   "सिडबी",
+   "नाबार्ड",
+   "एक्जिम बैंक",
+   "आईडीबीआई बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) was established in 1982 to facilitate credit for agriculture and rural development.",
+  "sourceHint": "NABARD Act, 1981",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:27:16Z"
  }
 ]

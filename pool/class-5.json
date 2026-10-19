@@ -16350,5 +16350,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-19T13:20:51Z"
+ },
+ {
+  "id": "q_ff5d4e4f63092d61",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary source of energy for the Earth's weather and climate?",
+  "qHi": "पृथ्वी के मौसम और जलवायु के लिए ऊर्जा का मुख्य स्रोत क्या है?",
+  "optsEn": [
+   "The Moon",
+   "The Sun",
+   "The Stars",
+   "The Ocean"
+  ],
+  "optsHi": [
+   "चंद्रमा",
+   "सूर्य",
+   "तारे",
+   "महासागर"
+  ],
+  "correct": 1,
+  "explainEn": "The Sun provides the heat and light energy that drives weather patterns on Earth.",
+  "sourceHint": "NCERT Geography basics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:22:54Z"
+ },
+ {
+  "id": "q_aa7deec4f428b6a3",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What gas do plants absorb from the atmosphere during photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण के दौरान पौधे वायुमंडल से कौन सी गैस अवशोषित करते हैं?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Plants take in carbon dioxide from the air to make their food using sunlight.",
+  "sourceHint": "NCERT Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:22:54Z"
+ },
+ {
+  "id": "q_dae16517c11bd4e0",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the standard unit of measurement for length in the International System of Units (SI)?",
+  "qHi": "अंतर्राष्ट्रीय इकाई प्रणाली (SI) में लंबाई की मानक इकाई क्या है?",
+  "optsEn": [
+   "Gram",
+   "Liter",
+   "Meter",
+   "Second"
+  ],
+  "optsHi": [
+   "ग्राम",
+   "लीटर",
+   "मीटर",
+   "सेकंड"
+  ],
+  "correct": 2,
+  "explainEn": "The meter is the basic unit of length in the metric system.",
+  "sourceHint": "NCERT Mathematics and Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:22:54Z"
+ },
+ {
+  "id": "q_92890866fb1e1621",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which type of map mainly shows physical features like mountains, rivers, and plains?",
+  "qHi": "किस प्रकार का नक्शा मुख्य रूप से पहाड़, नदियाँ और मैदान जैसी भौतिक विशेषताओं को दर्शाता है?",
+  "optsEn": [
+   "Political map",
+   "Physical map",
+   "Road map",
+   "Weather map"
+  ],
+  "optsHi": [
+   "राजनीतिक नक्शा",
+   "भौतिक नक्शा",
+   "सड़क का नक्शा",
+   "मौसम का नक्शा"
+  ],
+  "correct": 1,
+  "explainEn": "Physical maps display natural features of the Earth such as mountains, plateaus, and rivers.",
+  "sourceHint": "NCERT Class 6 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:22:54Z"
+ },
+ {
+  "id": "q_d930558b0a60a96c",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Seed dispersal in the dandelion plant is primarily carried out by which agent?",
+  "qHi": "डंडेलियन (सिंधवार) पौधे में बीजों का प्रकीर्णन मुख्य रूप से किस माध्यम से होता है?",
+  "optsEn": [
+   "Water",
+   "Animals",
+   "Wind",
+   "Explosion"
+  ],
+  "optsHi": [
+   "पानी",
+   "जानवर",
+   " हवा",
+   "विस्फोट"
+  ],
+  "correct": 2,
+  "explainEn": "Dandelion seeds have feathery structures that help them float and get carried away by the wind.",
+  "sourceHint": "NCERT Class 5 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:25:28Z"
+ },
+ {
+  "id": "q_a3731f9d16bf2aed",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian grain is known for requiring a large amount of standing water during its growth?",
+  "qHi": "किस पारंपरिक भारतीय अनाज को उगाने के दौरान बड़ी मात्रा में खड़े पानी की आवश्यकता होती है?",
+  "optsEn": [
+   "Wheat",
+   "Maize",
+   "Rice",
+   "Barley"
+  ],
+  "optsHi": [
+   "गेहूं",
+   "मक्का",
+   "चावल",
+   "जौ"
+  ],
+  "correct": 2,
+  "explainEn": "Rice is a staple crop that requires flooded fields or standing water for proper cultivation.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:25:28Z"
+ },
+ {
+  "id": "q_60b1fc6df825c9cc",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The instrument used to measure earthquake tremors is known as a what?",
+  "qHi": "भूकंप के झटके मापने के लिए इस्तेमाल किए जाने वाले उपकरण को क्या कहा जाता है?",
+  "optsEn": [
+   "Thermometer",
+   "Barometer",
+   "Seismograph",
+   "Anemometer"
+  ],
+  "optsHi": [
+   "थर्मामीटर",
+   "बैरोमीटर",
+   "भूकंपमापी (सीस्मोग्राफ)",
+   "एनीमोमीटर"
+  ],
+  "correct": 2,
+  "explainEn": "A seismograph detects and records the vibrations caused by earthquakes.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:25:28Z"
+ },
+ {
+  "id": "q_039f96f46a42a774",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which part of a flowering plant is primarily responsible for the process of transpiration, where water vapor is released into the atmosphere?",
+  "qHi": "फूल वाले पौधे का कौन सा भाग मुख्य रूप से वाष्पोसर्जन की प्रक्रिया के लिए जिम्मेदार है, जिसमें जल वाष्प वायुमंडल में छोड़ा जाता है?",
+  "optsEn": [
+   "Roots",
+   "Stem",
+   "Leaves",
+   "Seeds"
+  ],
+  "optsHi": [
+   "जड़ें",
+   "तना",
+   "पत्तियाँ",
+   "बीज"
+  ],
+  "correct": 2,
+  "explainEn": "Leaves contain tiny pores called stomata through which the vast majority of transpiration takes place in plants.",
+  "sourceHint": "NCERT Class 6 Science Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:27:52Z"
+ },
+ {
+  "id": "q_c2e8be5c882b3953",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional Indian stepwell, located in Gujarat, is designed as an inverted pyramid and has seven levels of stairs?",
+  "qHi": "गुजरात में स्थित कौन सी पारंपरिक भारतीय बावड़ी (स्टेपवेल) उल्टे पिरामिड के रूप में डिज़ाइन की गई है और इसमें सीढ़ियों के सात स्तर हैं?",
+  "optsEn": [
+   "Rani ki Vav",
+   "Agrasen ki Baoli",
+   "Chand Baori",
+   "Adalaj Stepwell"
+  ],
+  "optsHi": [
+   "रानी की वाव",
+   "अग्रसेन की बावली",
+   "चांद बावड़ी",
+   "अडालज स्टेपवेल"
+  ],
+  "correct": 0,
+  "explainEn": "Rani ki Vav in Patan, Gujarat, is built in the Maru-Gurjara architectural style and designed as an inverted pyramid highlighting water management.",
+  "sourceHint": "NCERT Class 5 Environmental Studies (EFS) Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:27:52Z"
+ },
+ {
+  "id": "q_efee47ffd1bcc974",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which vitamin is synthesized in human skin when it is exposed to ultraviolet sunlight?",
+  "qHi": "मानव त्वचा में पराबैंगनी धूप के संपर्क में आने पर कौन सा विटामिन संश्लेषित होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B12",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी12",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Exposure to ultraviolet-B (UVB) radiation from sunlight triggers the synthesis of Vitamin D in human skin cells.",
+  "sourceHint": "NCERT Class 6 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:27:52Z"
+ },
+ {
+  "id": "q_795547780c5b3fdc",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which fundamental right in the Constitution of India guarantees equality of all persons before the law?",
+  "qHi": "भारत के संविधान में कौन सा मौलिक अधिकार कानून के समक्ष सभी व्यक्तियों की समानता की गारंटी देता है?",
+  "optsEn": [
+   "Right to Equality",
+   "Right to Freedom",
+   "Right to Education",
+   "Right to Constitutional Remedies"
+  ],
+  "optsHi": [
+   "समानता का अधिकार",
+   "स्वतंत्रता का अधिकार",
+   "शिक्षा का अधिकार",
+   "संवैधानिक उपचार का अधिकार"
+  ],
+  "correct": 0,
+  "explainEn": "Article 14 of the Constitution of India guarantees the Right to Equality, ensuring equality before the law and equal protection of the laws.",
+  "sourceHint": "NCERT Class 7 Social and Political Life Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:27:52Z"
+ },
+ {
+  "id": "q_bd99e42bb6c4aac9",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which imaginary line passing through the center of the Earth at 0 degrees latitude divides it into the Northern and Southern Hemispheres?",
+  "qHi": "पृथ्वी के केंद्र से 0 डिग्री अक्षांश पर गुजरने वाली कौन सी काल्पनिक रेखा इसे उत्तरी और दक्षिणी गोलार्ध में विभाजित करती है?",
+  "optsEn": [
+   "Prime Meridian",
+   "Tropic of Cancer",
+   "Equator",
+   "Tropic of Capricorn"
+  ],
+  "optsHi": [
+   "प्रमुख मध्याह्न रेखा",
+   "कर्क रेखा",
+   "भूमध्य रेखा",
+   "मकर रेखा"
+  ],
+  "correct": 2,
+  "explainEn": "The Equator is the 0-degree latitude line that circles the Earth horizontally, dividing it into Northern and Southern Hemispheres.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:27:52Z"
+ },
+ {
+  "id": "q_3a077bc4083db383",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which layer of the atmosphere contains the ozone layer that absorbs harmful ultraviolet radiation from the Sun?",
+  "qHi": "वायुमंडल की किस परत में ओजोन परत होती है जो सूर्य से आने वाली हानिकारक पराबैंगनी विकिरण को अवशोषित करती है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "बाह्य वायुमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The stratosphere houses the ozone layer, which plays a crucial role in absorbing most of the Sun's harmful ultraviolet radiation.",
+  "sourceHint": "NCERT Class 7 Geography Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:27:52Z"
  }
 ]

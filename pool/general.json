@@ -12318,5 +12318,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-19T13:20:47Z"
+ },
+ {
+  "id": "q_c850f5033a69590b",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which element has the chemical symbol W, derived from its former German name wolfram?",
+  "qHi": "किस तत्व का रासायनिक प्रतीक W है, जो इसके पूर्व जर्मन नाम वोल्फ्राम से लिया गया है?",
+  "optsEn": [
+   "Tungsten",
+   "Vanadium",
+   "Yttrium",
+   "Bismuth"
+  ],
+  "optsHi": [
+   "टंगस्टन",
+   "वैनेडियम",
+   "यिट्रियम",
+   "बिस्मथ"
+  ],
+  "correct": 0,
+  "explainEn": "Tungsten uses the symbol W from wolfram, originating from the mineral wolframite.",
+  "sourceHint": "IUPAC Periodic Table",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:27:35Z"
+ },
+ {
+  "id": "q_b0e3643e293587e5",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who wrote the Sanskrit play 'Malavikagnimitra', which features King Agnimitra as its protagonist?",
+  "qHi": "संस्कृत नाटक 'मालविकाग्निमित्रम्' के लेखक कौन हैं, जिसमें राजा अग्निमित्र मुख्य पात्र हैं?",
+  "optsEn": [
+   "Bhasa",
+   "Kalidasa",
+   "Shudraka",
+   "Bhavabhuti"
+  ],
+  "optsHi": [
+   "भास",
+   "कालिदास",
+   "शूद्रक",
+   "भवभूति"
+  ],
+  "correct": 1,
+  "explainEn": "Malavikagnimitra is a Sanskrit play by Kalidasa, widely considered his first play.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:27:35Z"
+ },
+ {
+  "id": "q_bc4b4c4ce253f96b",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which planet in our solar system has the highest surface temperature due to a runaway greenhouse effect?",
+  "qHi": "अनियंत्रित ग्रीनहाउस प्रभाव के कारण हमारे सौर मंडल में किस ग्रह का सतही तापमान सबसे अधिक है?",
+  "optsEn": [
+   "Mercury",
+   "Venus",
+   "Mars",
+   "Jupiter"
+  ],
+  "optsHi": [
+   "बुध",
+   "शुक्र",
+   "मंगल",
+   "बृहस्पति"
+  ],
+  "correct": 1,
+  "explainEn": "Venus has a dense carbon dioxide atmosphere that traps heat, making it the hottest planet.",
+  "sourceHint": "NASA Solar System Exploration",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:27:35Z"
+ },
+ {
+  "id": "q_e3c561edc9354d73",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which hill range connects the Eastern Ghats and the Western Ghats in southern India?",
+  "qHi": "दक्षिण भारत में कौन सी पहाड़ी श्रृंखला पूर्वी घाट और पश्चिमी घाट को जोड़ती है?",
+  "optsEn": [
+   "Vindhya Range",
+   "Satpura Range",
+   "Nilgiri Hills",
+   "Aravalli Range"
+  ],
+  "optsHi": [
+   "विंध्य श्रेणी",
+   "सातपुड़ा श्रेणी",
+   "नीलगिरी पहाड़ियाँ",
+   "अरावली श्रेणी"
+  ],
+  "correct": 2,
+  "explainEn": "The Nilgiri Hills form part of the Western Ghats and meet the Eastern Ghats at the trijunction of Tamil Nadu, Kerala, and Karnataka.",
+  "sourceHint": "NCERT Geography Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:27:35Z"
+ },
+ {
+  "id": "q_da59e5fec3a6161f",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary law governing arbitration and conciliation proceedings in India?",
+  "qHi": "भारत में मध्यस्थता और सुलह की कार्यवाही को नियंत्रित करने वाला मुख्य कानून कौन सा है?",
+  "optsEn": [
+   "Arbitration and Conciliation Act, 1996",
+   "Code of Civil Procedure, 1908",
+   "Indian Contract Act, 1872",
+   "Alternative Dispute Resolution Act, 2005"
+  ],
+  "optsHi": [
+   "मध्यस्थता और सुलह अधिनियम, 1996",
+   "सिविल प्रक्रिया संहिता, 1908",
+   "भारतीय संविदा अधिनियम, 1872",
+   "वैकल्पिक विवाद समाधान अधिनियम, 2005"
+  ],
+  "correct": 0,
+  "explainEn": "The Arbitration and Conciliation Act, 1996 is the principal legislation governing domestic and international commercial arbitration in India.",
+  "sourceHint": "Ministry of Law and Justice, India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:27:35Z"
+ },
+ {
+  "id": "q_e23bea3ace015d57",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which vitamin is also known by the chemical name cobalamin?",
+  "qHi": "किस विटामिन को रासायनिक नाम कोबालामिन के नाम से भी जाना जाता है?",
+  "optsEn": [
+   "Vitamin B1",
+   "Vitamin B6",
+   "Vitamin B12",
+   "Vitamin C"
+  ],
+  "optsHi": [
+   "विटामिन B1",
+   "विटामिन B6",
+   "विटामिन B12",
+   "विटामिन C"
+  ],
+  "correct": 2,
+  "explainEn": "Vitamin B12, a water-soluble vitamin, is chemically known as cobalamin because it contains the metal cobalt.",
+  "sourceHint": "NCERT Biology Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:27:35Z"
  }
 ]

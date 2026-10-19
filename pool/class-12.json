@@ -17526,5 +17526,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-19T13:20:24Z"
+ },
+ {
+  "id": "q_5a86a61bbe23334d",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas is released during photosynthesis by green plants?",
+  "qHi": "हरे पौधों द्वारा प्रकाश संश्लेषण के दौरान कौन सी गैस छोड़ी जाती है?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Oxygen",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "During photosynthesis, plants take in carbon dioxide and water, using solar energy to release oxygen as a byproduct.",
+  "sourceHint": "NCERT Class 11 Biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:23:52Z"
+ },
+ {
+  "id": "q_5790dfecad8550da",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of chemical reaction is the formation of water from hydrogen and oxygen?",
+  "qHi": "हाइड्रोजन और ऑक्सीजन से पानी का बनना किस प्रकार की रासायनिक अभिक्रिया है?",
+  "optsEn": [
+   "Decomposition reaction",
+   "Combination reaction",
+   "Displacement reaction",
+   "Double displacement reaction"
+  ],
+  "optsHi": [
+   "वियोजन अभिक्रिया",
+   "संयोजन अभिक्रिया",
+   "विस्थापन अभिक्रिया",
+   "द्वि-विस्थापन अभिक्रिया"
+  ],
+  "correct": 1,
+  "explainEn": "When two or more reactants combine to form a single product, it is known as a combination reaction.",
+  "sourceHint": "NCERT Class 10 Chemistry",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:23:52Z"
+ },
+ {
+  "id": "q_6344328093b62468",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In microeconomics, which market structure is characterized by a single seller and no close substitutes?",
+  "qHi": "व्यष्टि अर्थशास्त्र में, किस बाजार संरचना की विशेषता एक अकेला विक्रेता और कोई करीबी विकल्प न होना है?",
+  "optsEn": [
+   "Perfect competition",
+   "Monopolistic competition",
+   "Oligopoly",
+   "Monopoly"
+  ],
+  "optsHi": [
+   "पूर्ण प्रतियोगिता",
+   "एकाधिकारवादी प्रतियोगिता",
+   "अल्पाधिकार",
+   "एकाधिकार"
+  ],
+  "correct": 3,
+  "explainEn": "A monopoly market structure features a single producer or seller dominating the entire market with no close substitutes available.",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Microeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:26:19Z"
+ },
+ {
+  "id": "q_43b0416f405e3472",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which chemical compound is formed when ethanol reacts with ethanoic acid in the presence of concentrated sulfuric acid?",
+  "qHi": "सांद्र सल्फ्यूरिक एसिड की उपस्थिति में जब एथेनॉल एथेनोइक एसिड के साथ प्रतिक्रिया करता है तो कौन सा रासायनिक यौगिक बनता है?",
+  "optsEn": [
+   "Ester",
+   "Aldehyde",
+   "Ketone",
+   "Ether"
+  ],
+  "optsHi": [
+   "एस्टर",
+   "एल्डिहाइड",
+   "कीटोन",
+   "ईथर"
+  ],
+  "correct": 0,
+  "explainEn": "The reaction between a carboxylic acid and an alcohol in the presence of an acid catalyst yields an ester, a process known as esterification.",
+  "sourceHint": "NCERT Class 10/12 Chemistry",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:26:19Z"
+ },
+ {
+  "id": "q_741f1fdd20e14f7b",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of vegetation is predominantly found in regions with high annual rainfall and consistent high temperatures near the equator?",
+  "qHi": "भूमध्य रेखा के पास उच्च वार्षिक वर्षा और लगातार उच्च तापमान वाले क्षेत्रों में मुख्य रूप से किस प्रकार की वनस्पति पाई जाती है?",
+  "optsEn": [
+   "Tundra vegetation",
+   "Tropical rainforest",
+   "Temperate deciduous forest",
+   "Taiga"
+  ],
+  "optsHi": [
+   "टुंड्रा वनस्पति",
+   "उष्णकटिबंधीय वर्षा वन",
+   "शीतोष्ण पर्णपाती वन",
+   "टाइगा"
+  ],
+  "correct": 1,
+  "explainEn": "Equatorial and near-equatorial regions with heavy rainfall and warm temperatures support lush tropical rainforests.",
+  "sourceHint": "NCERT Class 11 Geography, Fundamentals of Physical Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:26:19Z"
+ },
+ {
+  "id": "q_c3936824cab450b5",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which enzyme is primarily responsible for the transcription of messenger RNA (mRNA) in eukaryotes?",
+  "qHi": "यूकेरियोट्स में मैसेंजर आरएनए (mRNA) के प्रतिलेखन (transcription) के लिए मुख्य रूप से कौन सा एंजाइम जिम्मेदार है?",
+  "optsEn": [
+   "RNA polymerase I",
+   "RNA polymerase II",
+   "RNA polymerase III",
+   "DNA polymerase"
+  ],
+  "optsHi": [
+   "आरएनए पोलीमरेज़ I",
+   "आरएनए पोलीमरेज़ II",
+   "आरएनए पोलीमरेज़ III",
+   "डीएनए पोलीमरेज़"
+  ],
+  "correct": 1,
+  "explainEn": "In eukaryotes, RNA polymerase II is responsible for the transcription of precursors of mRNA (heterogeneous nuclear RNA).",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:26:19Z"
+ },
+ {
+  "id": "q_1e69dc2c9c0be5a1",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following sites of the Indus Valley Civilization is known for the presence of a massive dockyard?",
+  "qHi": "सिंधु घाटी सभ्यता का निम्नलिखित में से कौन सा स्थल एक विशाल गोदी (डॉकिंग यार्ड) की उपस्थिति के लिए जाना जाता है?",
+  "optsEn": [
+   "Harappa",
+   "Mohenjo-daro",
+   "Lothal",
+   "Kalibangan"
+  ],
+  "optsHi": [
+   "हड़प्पा",
+   "मोहनजोदड़ो",
+   "लोथल",
+   "कालीबंगा"
+  ],
+  "correct": 2,
+  "explainEn": "Lothal, situated in Gujarat, is famous for its massive brick basin identified as a dockyard, indicating maritime trade.",
+  "sourceHint": "NCERT Class 12 History - Themes in Indian History Part I",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:28:57Z"
+ },
+ {
+  "id": "q_44ab44e730952407",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organelle in a plant cell contains photosynthetic pigments and is derived from proplastids?",
+  "qHi": "पादप कोशिका के किस अंगक में प्रकाश संश्लेषक वर्णक होते हैं और जो प्रोप्लास्टिड से उत्पन्न होता है?",
+  "optsEn": [
+   "Chloroplast",
+   "Chromoplast",
+   "Leucoplast",
+   "Amyloplast"
+  ],
+  "optsHi": [
+   "हरित लवक (क्लोरोप्लास्ट)",
+   "वर्णी लवक (क्रोमोप्लास्ट)",
+   "अवरणी लवक (लुकoplअस्ट)",
+   "मंड लवक (अमाइलोप्लास्ट)"
+  ],
+  "correct": 0,
+  "explainEn": "Chloroplasts contain chlorophyll and carotenoid pigments which are responsible for trapping light energy for photosynthesis.",
+  "sourceHint": "NCERT Class 11 Biology - Chapter 8: Cell: The Unit of Life",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:28:57Z"
+ },
+ {
+  "id": "q_1a3838f21f9a8cc4",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In macroeconomics, what does the term 'Fiscal Deficit' precisely signify?",
+  "qHi": "समष्टि अर्थशास्त्र (मैक्रोइकॉनॉमिक्स) में, 'राजकोषीय घाटा' शब्द का सटीक अर्थ क्या है?",
+  "optsEn": [
+   "Total expenditure minus total receipts",
+   "Revenue expenditure minus revenue receipts",
+   "Total expenditure minus total receipts excluding borrowings",
+   "Capital expenditure minus capital receipts"
+  ],
+  "optsHi": [
+   "कुल व्यय माइनस कुल प्राप्तियां",
+   "राजस्व व्यय माइनस राजस्व प्राप्तियां",
+   "उधार को छोड़कर कुल व्यय माइनस कुल प्राप्तियां",
+   "पूंजीगत व्यय माइनस पूंजीगत प्राप्तियां"
+  ],
+  "correct": 2,
+  "explainEn": "Fiscal deficit is the excess of total expenditure over total receipts (excluding borrowings), representing the total borrowing requirement of the government.",
+  "sourceHint": "NCERT Class 12 Economics - Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:28:57Z"
+ },
+ {
+  "id": "q_af33921eeccfd4c1",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which process of chemical kinetics involves the change of molecularity and order being equal, typically in elementary reactions?",
+  "qHi": "रासायनिक बलगतिकी की किस प्रक्रिया में आणविकता और कोटि का परिवर्तन समान होता है, जो आमतौर पर प्रारंभिक प्रतिक्रियाओं में होता है?",
+  "optsEn": [
+   "Zero-order reaction",
+   "Unimolecular elementary reaction",
+   "Pseudo-first-order reaction",
+   "Complex reaction"
+  ],
+  "optsHi": [
+   "शून्य-कोटि की अभिक्रिया",
+   "एकणुक प्रारंभिक अभिक्रिया",
+   "आभासी-प्रथम-कोटि की अभिक्रिया",
+   "जटिल अभिक्रिया"
+  ],
+  "correct": 1,
+  "explainEn": "For elementary reactions, the molecularity equals the order of the reaction, such as unimolecular reactions where only one reactant molecule is involved.",
+  "sourceHint": "NCERT Class 12 Chemistry - Chapter 4: Chemical Kinetics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:28:57Z"
+ },
+ {
+  "id": "q_1f2831614615018d",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which British official introduced the 'Doctrine of Lapse', annexing states like Satara, Jhansi, and Nagpur?",
+  "qHi": "किस ब्रिटिश अधिकारी ने 'व्यपगत का सिद्धांत' (डॉक्ट्रिन ऑफ लैप्स) शुरू किया था, जिसके तहत सतारा, झाँसी और नागपुर जैसे राज्यों का विलय किया गया था?",
+  "optsEn": [
+   "Lord Wellesley",
+   "Lord Dalhousie",
+   "Lord Cornwallis",
+   "Lord Canning"
+  ],
+  "optsHi": [
+   "लॉर्ड वेलेजली",
+   "लॉर्ड डलहौजी",
+   "लॉर्ड कॉर्नवॉलिस",
+   "लॉर्ड कैनिंग"
+  ],
+  "correct": 1,
+  "explainEn": "Lord Dalhousie, Governor-General of India from 1848 to 1856, applied the Doctrine of Lapse to annex several princely states.",
+  "sourceHint": "NCERT Class 12 History - Themes in Indian History Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:28:57Z"
+ },
+ {
+  "id": "q_60f8ce2b96109e92",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary ecological interaction where one species benefits and the other is neither harmed nor benefited called?",
+  "qHi": "उस प्राथमिक पारिस्थितिक अंतःक्रिया को क्या कहा जाता है जिसमें एक प्रजाति को लाभ होता है और दूसरी प्रजाति को न तो हानि होती है और न ही लाभ?",
+  "optsEn": [
+   "Mutualism",
+   "Commensalism",
+   "Amensalism",
+   "Parasitism"
+  ],
+  "optsHi": [
+   "सहजीविता (म्यूचुअलिज्म)",
+   "सहभोजिता (कमेंसेलिज्म)",
+   "अपरजीविता (अमेंसेलिज्म)",
+   "परजीविता (पैरासिटिज्म)"
+  ],
+  "correct": 1,
+  "explainEn": "Commensalism is an interaction in which one species benefits and the other is unaffected.",
+  "sourceHint": "NCERT Class 12 Biology - Chapter 13: Organisms and Populations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:28:57Z"
+ },
+ {
+  "id": "q_8019dc8fdf08ae1a",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In physical geography, which depositional landform is formed by the meandering of rivers across a broad, flat floodplain?",
+  "qHi": "भौतिक भूगोल में, एक विस्तृत, समतल बाढ़ के मैदान में नदियों के विसर्पण (मीउन्डरिंग) द्वारा कौन सा निक्षेपण भू-आकार बनता है?",
+  "optsEn": [
+   "V-shaped valley",
+   "Oxbow lake",
+   "Cirque",
+   "Delta"
+  ],
+  "optsHi": [
+   "V-आकार की घाटी",
+   "गोखुर झील (ऑक्सबो झील)",
+   "सर्क (हिमानी गर्त)",
+   "डेल्टा"
+  ],
+  "correct": 1,
+  "explainEn": "When a meander loop is cut off from the main river course due to continuous erosion and deposition, it forms an oxbow lake.",
+  "sourceHint": "NCERT Class 11 Geography - Fundamentals of Physical Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T22:28:57Z"
  }
 ]
