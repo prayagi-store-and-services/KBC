@@ -18310,5 +18310,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-18T20:47:19Z"
+ },
+ {
+  "id": "q_7d2a35350358ecd6",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following institutions is the central banking authority of India?",
+  "qHi": "निम्नलिखित में से कौन सी संस्था भारत का केंद्रीय बैंकिंग प्राधिकरण है?",
+  "optsEn": [
+   "State Bank of India",
+   "Reserve Bank of India",
+   "Ministry of Finance",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "भारतीय रिजर्व बैंक",
+   "वित्त मंत्रालय",
+   "भारतीय प्रतिभूति and विनिमय बोर्ड"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India (RBI) is India's central bank and regulatory body responsible for the regulation of the banking system.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:42:38Z"
+ },
+ {
+  "id": "q_d8d63999323c7bc1",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the expanded form of the banking acronym 'NEFT'?",
+  "qHi": "बैंकिंग संक्षिप्त नाम 'NEFT' का विस्तारित रूप क्या है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "National Equity Finance Trust",
+   "Net Economic Fund Transfer",
+   "New Electronic Finance Trade"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "नेशनल इक्विटी फाइनेंस ट्रस्ट",
+   "नेट इकोनॉमिक फंड ट्रांसफर",
+   "न्यू इलेक्ट्रॉनिक फाइनेंस ट्रेड"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, an online system for transferring funds from one bank account to another.",
+  "sourceHint": "Reserve Bank of India Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:42:38Z"
+ },
+ {
+  "id": "q_aa42267f673b3648",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is considered the primary function of a commercial bank?",
+  "qHi": "निम्नलिखित में से किसे वाणिज्यिक बैंक का प्राथमिक कार्य माना जाता है?",
+  "optsEn": [
+   "Accepting deposits and granting loans",
+   "Underwriting shares",
+   "Issuing currency notes",
+   "Formulating monetary policy"
+  ],
+  "optsHi": [
+   "जमा स्वीकार करना और ऋण देना",
+   "शेयरों का हामी होना",
+   "करेंसी नोट जारी करना",
+   "मौद्रिक नीति तैयार करना"
+  ],
+  "correct": 0,
+  "explainEn": "The core fundamental operations of a commercial bank involve accepting public deposits and extending loans to individuals and businesses.",
+  "sourceHint": "NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:42:38Z"
+ },
+ {
+  "id": "q_ba32591e6e1d0769",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the acronym 'ATM' stand for in the banking sector?",
+  "qHi": "बैंकिंग क्षेत्र में 'ATM' संक्षिप्त नाम का क्या अर्थ है?",
+  "optsEn": [
+   "Automated Teller Machine",
+   "Any Time Money",
+   "Automated Transfer Mechanism",
+   "Audit Trail Module"
+  ],
+  "optsHi": [
+   "ऑटोमेटेड टेलर मशीन",
+   "एनी टाइम मनी",
+   "ऑटोमेटेड ट्रांसफर मैकेनिज्म",
+   "ऑडिट ट्रेल मॉड्यूल"
+  ],
+  "correct": 0,
+  "explainEn": "ATM stands for Automated Teller Machine, an electronic telecommunication device that enables customers to perform financial transactions.",
+  "sourceHint": "Banking Terminology Standard",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:42:38Z"
+ },
+ {
+  "id": "q_ce29ab6dd53e2fcc",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the minimum net worth requirement stipulated by the Reserve Bank of India for setting up a White Label ATM (WLA) in the country?",
+  "qHi": "देश में व्हाइट लेबल एटीएम (WLA) स्थापित करने के लिए भारतीय रिजर्व बैंक द्वारा निर्धारित न्यूनतम कुल संपत्ति (net worth) की आवश्यकता क्या है?",
+  "optsEn": [
+   "Rs 25 crore",
+   "Rs 50 crore",
+   "Rs 100 crore",
+   "Rs 200 crore"
+  ],
+  "optsHi": [
+   "25 करोड़ रुपये",
+   "50 करोड़ रुपये",
+   "100 करोड़ रुपये",
+   "200 करोड़ रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "RBI guidelines on White Label ATMs mandate a minimum net worth of Rs 100 crore to be maintained at all times by the WLA operator.",
+  "sourceHint": "RBI Master Directions on White Label ATMs",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:44:39Z"
+ },
+ {
+  "id": "q_deaba5b9d0f3fb35",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Prompt Corrective Action (PCA) framework for commercial banks, which parameter is NOT directly used by the Reserve Bank of India to monitor a bank's financial health?",
+  "qHi": "वाणिज्यिक बैंकों के लिए त्वरित सुधार कार्रवाई (PCA) ढांचे के तहत, बैंक के वित्तीय स्वास्थ्य की निगरानी के लिए भारतीय रिजर्व बैंक द्वारा सीधे तौर पर किस पैरामीटर का उपयोग नहीं किया जाता है?",
+  "optsEn": [
+   "Capital to Risk-Weighted Assets Ratio",
+   "Net Non-Performing Asset Ratio",
+   "Return on Assets",
+   "Cost-to-Income Ratio"
+  ],
+  "optsHi": [
+   "पूंजी से जोखिम-भारित संपत्ति अनुपात",
+   "शुद्ध गैर-निष्पादित परिसंपत्ति अनुपात",
+   "परिसंपत्तियों पर रिटर्न",
+   "लागत-से-आय अनुपात"
+  ],
+  "correct": 3,
+  "explainEn": "The PCA framework relies primarily on CRAR, Net NPA, and Tier-1 leverage ratio, alongside asset quality and profitability (RoA), but cost-to-income ratio is not a core metric for PCA triggering.",
+  "sourceHint": "RBI PCA Framework Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:44:39Z"
+ },
+ {
+  "id": "q_d1ff7defa8e88f1c",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which multilateral development bank has its headquarters located in Manila, Philippines?",
+  "qHi": "किस बहुपक्षीय विकास बैंक का मुख्यालय मनीला, फिलीपींस में स्थित है?",
+  "optsEn": [
+   "Asian Development Bank",
+   "New Development Bank",
+   "Asian Infrastructure Investment Bank",
+   "Bank for International Settlements"
+  ],
+  "optsHi": [
+   "एशियाई विकास बैंक",
+   "नया विकास बैंक",
+   "एशियाई बुनियादी ढांचा निवेश बैंक",
+   "बैंक फॉर इंटरनेशनल सेटलमेंट्स"
+  ],
+  "correct": 0,
+  "explainEn": "The Asian Development Bank (ADB) is headquartered in Mandaluyong, Metro Manila, Philippines.",
+  "sourceHint": "Britannica / ADB official profile",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:44:39Z"
+ },
+ {
+  "id": "q_79517f1cf4b92de6",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What does the term 'Basel III Liquidity Coverage Ratio' (LCR) primarily require banks to maintain?",
+  "qHi": "बेसल III तरलता कवरेज अनुपात (LCR) शब्द का मुख्य रूप से बैंकों से क्या बनाए रखने की अपेक्षा है?",
+  "optsEn": [
+   "Sufficient high-quality liquid assets to withstand a 30-day stressed funding scenario",
+   "Long-term capital reserves exceeding total loan portfolios",
+   "Minimum foreign exchange reserves to cover import bills",
+   "Core equity tier 1 capital equal to total risk-weighted assets"
+  ],
+  "optsHi": [
+   "30 दिनों के तनावपूर्ण फंडिंग परिदृश्य का सामना करने के लिए पर्याप्त उच्च गुणवत्ता वाली तरल संपत्ति",
+   "कुल ऋण पोर्टफोलियो से अधिक दीर्घकालिक पूंजी भंडार",
+   "आयात बिलों को कवर करने के लिए न्यूनतम विदेशी मुद्रा भंडार",
+   "कुल जोखिम-भारित परिसंपत्तियों के बराबर कोर इक्विटी टीयर 1 पूंजी"
+  ],
+  "correct": 0,
+  "explainEn": "The LCR promotes short-term resilience of a bank's liquidity risk profile by ensuring it holds sufficient high-quality liquid assets to meet obligations over a 30-day stress scenario.",
+  "sourceHint": "Basel Committee on Banking Supervision (BCBS) Framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:44:39Z"
+ },
+ {
+  "id": "q_99e9524bf851c0e9",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque that does not bear any date of drawing is classified legally as what?",
+  "qHi": "परक्राम्य लिखत अधिनियम (Negotiable Instruments Act), 1881 के तहत, एक ऐसा चेक जिस पर आहरण की कोई तारीख नहीं है, उसे कानूनी रूप से किस रूप में वर्गीकृत किया गया है?",
+  "optsEn": [
+   "A void instrument",
+   "An incomplete instrument",
+   "An ambiguous instrument",
+   "A bearer instrument"
+  ],
+  "optsHi": [
+   "एक शून्य लिखत",
+   "एक अधूरा लिखत",
+   "एक अस्पष्ट लिखत",
+   "एक वाहक लिखत"
+  ],
+  "correct": 1,
+  "explainEn": "Under Section 20 of the Negotiable Instruments Act, an inchoate or incomplete instrument (such as an undated cheque) gives the holder the authority to complete it, though banks typically return undated cheques as materially incomplete.",
+  "sourceHint": "Negotiable Instruments Act 1881, Section 20",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:44:39Z"
+ },
+ {
+  "id": "q_af98bcab684a2d0a",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organization in India regulates and supervises mutual funds and venture capital funds?",
+  "qHi": "भारत में कौन सा संगठन म्यूचुअल फंड और वेंचर कैपिटल फंड को विनियमित और पर्यवेक्षित करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Insurance Regulatory and Development Authority of India",
+   "Securities and Exchange Board of India",
+   "Pension Fund Regulatory and Development Authority"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय बीमा विनियामक और विकास प्राधिकरण",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "पेंशन निधि विनियामक और विकास प्राधिकरण"
+  ],
+  "correct": 2,
+  "explainEn": "SEBI regulates mutual funds, venture capital funds, and other collective investment schemes in India under the SEBI Act, 1992.",
+  "sourceHint": "SEBI Act 1992 / Ministry of Finance",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:44:39Z"
  }
 ]

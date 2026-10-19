@@ -11926,5 +11926,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-18T20:46:22Z"
+ },
+ {
+  "id": "q_1eea5691e75a8116",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the currency of Japan?",
+  "qHi": "जापान की मुद्रा क्या है?",
+  "optsEn": [
+   "Yen",
+   "Yuan",
+   "Won",
+   "Ringgit"
+  ],
+  "optsHi": [
+   "येन",
+   "युआन",
+   "वोन",
+   "रिंगित"
+  ],
+  "correct": 0,
+  "explainEn": "The yen is the official currency of Japan.",
+  "sourceHint": "International Monetary Fund",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:42:42Z"
+ },
+ {
+  "id": "q_7a76910b8922bc1b",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which state is the Kaziranga National Park located, which is famous for hosting the world's largest population of the great Indian one-horned rhinoceros?",
+  "qHi": "काजीरंगा राष्ट्रीय पार्क किस राज्य में स्थित है, जो महान भारतीय एक-सींग वाले गैंडे की दुनिया की सबसे बड़ी आबादी की मेजबानी के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Assam",
+   "West Bengal",
+   "Uttarakhand",
+   "Madhya Pradesh"
+  ],
+  "optsHi": [
+   "असम",
+   "पश्चिम बंगाल",
+   "उत्तराखंड",
+   "मध्य प्रदेश"
+  ],
+  "correct": 0,
+  "explainEn": "Kaziranga National Park is located in the state of Assam and is a UNESCO World Heritage Site.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:43:40Z"
+ },
+ {
+  "id": "q_6e67198b486a4ce4",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the term of office for the President of India, as specified in the Constitution of India?",
+  "qHi": "भारत के संविधान में निर्दिष्ट भारत के राष्ट्रपति का कार्यकाल क्या है?",
+  "optsEn": [
+   "4 years",
+   "5 years",
+   "6 years",
+   "7 years"
+  ],
+  "optsHi": [
+   "4 वर्ष",
+   "5 वर्ष",
+   "6 वर्ष",
+   "7 वर्ष"
+  ],
+  "correct": 1,
+  "explainEn": "According to Article 56 of the Constitution of India, the President holds office for a term of five years.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:43:40Z"
+ },
+ {
+  "id": "q_b6f500205600330a",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form of India originated in the state of Kerala and features elaborate facial makeup called Chutti?",
+  "qHi": "भारत की किस शास्त्रीय नृत्य शैली की उत्पत्ति केरल राज्य में हुई है और इसमें चुट्टी नामक विस्तृत चेहरे की सजावट होती है?",
+  "optsEn": [
+   "Mohiniyattam",
+   "Kathakali",
+   "Bharatanatyam",
+   "Kuchipudi"
+  ],
+  "optsHi": [
+   "मोहिनीअट्टम",
+   "कथकली",
+   "भरतनाट्यम",
+   "कुचिपुड़ी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is known for its heavy vibrant make-up, face masks, and costumes, including the distinctive Chutti beard/makeup.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:44:44Z"
+ },
+ {
+  "id": "q_dd0b1c9e6636bc98",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the periodic table, what is the chemical symbol for Gold?",
+  "qHi": "आवर्त सारणी में सोने (Gold) का रासायनिक प्रतीक क्या है?",
+  "optsEn": [
+   "Ag",
+   "Au",
+   "Gd",
+   "Go"
+  ],
+  "optsHi": [
+   "Ag",
+   "Au",
+   "Gd",
+   "Go"
+  ],
+  "correct": 1,
+  "explainEn": "The chemical symbol 'Au' for gold is derived from the Latin word 'aurum', meaning 'shining dawn'.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:44:44Z"
+ },
+ {
+  "id": "q_1212251c1b618644",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Tiger Reserve, located in Assam, is famously known for its population of the one-horned rhinoceros?",
+  "qHi": "असम में स्थित किस टाइगर रिजर्व को एक सींग वाले गैंडे की आबादी के लिए जाना जाता है?",
+  "optsEn": [
+   "Manas National Park",
+   "Kaziranga National Park",
+   "Nameri National Park",
+   "Dibru-Saikhowa National Park"
+  ],
+  "optsHi": [
+   "मानस राष्ट्रीय उद्यान",
+   "काजीरंगा राष्ट्रीय उद्यान",
+   "नामेरी राष्ट्रीय उद्यान",
+   "डिब्रू-साइखवा राष्ट्रीय उद्यान"
+  ],
+  "correct": 1,
+  "explainEn": "Kaziranga National Park hosts two-thirds of the world's great one-horned rhinoceroses and is both a tiger reserve and a UNESCO World Heritage Site.",
+  "sourceHint": "UNESCO World Heritage Centre",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:44:44Z"
+ },
+ {
+  "id": "q_0846477960af244a",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian astronomer and mathematician wrote the astronomical treatise Aryabhatiya in the 5th century?",
+  "qHi": "पाँचवीं शताब्दी में किस भारतीय खगोलविद और गणितज्ञ ने 'आर्यभटीय' नामक खगोलीय ग्रंथ लिखा था?",
+  "optsEn": [
+   "Brahmagupta",
+   "Varahamihira",
+   "Aryabhata",
+   "Bhaskara I"
+  ],
+  "optsHi": [
+   "ब्रह्मगुप्त",
+   "वराहमिहिर",
+   "आर्यभट्ट",
+   "भास्कराचार्य प्रथम"
+  ],
+  "correct": 2,
+  "explainEn": "Aryabhata composed the Aryabhatiya, a foundational text in Indian mathematics and astronomy, in 499 CE.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:44:44Z"
  }
 ]

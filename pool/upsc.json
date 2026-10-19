@@ -17246,5 +17246,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-18T20:46:47Z"
+ },
+ {
+  "id": "q_d4281a14446a81ad",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which layer of the Earth's atmosphere contains the ozone layer that absorbs harmful ultraviolet rays?",
+  "qHi": "पृथ्वी के वायुमंडल की किस परत में ओजोन परत पाई जाती है जो हानिकारक पराबैंगनी किरणों को अवशोषित करती है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The stratosphere contains the ozone layer, which absorbs the majority of the Sun's ultraviolet radiation.",
+  "sourceHint": "NCERT Class 7 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:42:30Z"
+ },
+ {
+  "id": "q_941f4d5e4bd8d9b4",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the standard time zone of India relative to Greenwich Mean Time (GMT)?",
+  "qHi": "ग्रीनविच मीन टाइम (GMT) के सापेक्ष भारत का मानक समय क्षेत्र क्या है?",
+  "optsEn": [
+   "GMT + 4:30",
+   "GMT + 5:00",
+   "GMT + 5:30",
+   "GMT + 6:00"
+  ],
+  "optsHi": [
+   "जीएमटी + 4:30",
+   "जीएमटी + 5:00",
+   "जीएमटी + 5:30",
+   "जीएमटी + 6:00"
+  ],
+  "correct": 2,
+  "explainEn": "Indian Standard Time (IST) is calculated on the basis of 82.5° E longitude, which is 5 hours and 30 minutes ahead of GMT.",
+  "sourceHint": "NCERT Class 6 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:42:30Z"
+ },
+ {
+  "id": "q_3cc54acfe102e4c4",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which body conducts elections to the offices of the President and the Vice-President of India?",
+  "qHi": "भारत के राष्ट्रपति और उप-राष्ट्रपति के कार्यालयों के लिए चुनाव कौन कराता है?",
+  "optsEn": [
+   "Election Commission of India",
+   "Union Public Service Commission",
+   "Supreme Court of India",
+   "Parliament of India"
+  ],
+  "optsHi": [
+   "भारत का निर्वाचन आयोग",
+   "संघ लोक सेवा आयोग",
+   "भारत का उच्चतम न्यायालय",
+   "भारतीय संसद"
+  ],
+  "correct": 0,
+  "explainEn": "The Election Commission of India is empowered under Article 324 to conduct elections to Parliament, State Legislatures, and the offices of President and Vice-President.",
+  "sourceHint": "Constitution of India, Article 324",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:42:30Z"
+ },
+ {
+  "id": "q_9c2ec8ad38705280",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which Indian classical dance form originated in the state of Andhra Pradesh?",
+  "qHi": "कौन सा भारतीय शास्त्रीय नृत्य रूप आंध्र प्रदेश राज्य में उत्पन्न हुआ था?",
+  "optsEn": [
+   "Bharatnatyam",
+   "Kathakali",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 2,
+  "explainEn": "Kuchipudi is a major Indian classical dance originating from the village of Kuchelapuram in Andhra Pradesh.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT), Ministry of Culture, India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:42:30Z"
+ },
+ {
+  "id": "q_a9ecaff3e2a78cdd",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which climatic region is characterized by hot, dry summers and mild, rainy winters, typically found between 30 and 45 degrees latitude on the western margins of continents?",
+  "qHi": "किस जलवायु प्रदेश की विशेषता गर्म, शुष्क ग्रीष्मकाल और हल्की, वर्षा वाली सर्दियाँ हैं, जो आमतौर पर महाद्वीपों के पश्चिमी किनारों पर 30 से 45 डिग्री अक्षांश के बीच पाई जाती है?",
+  "optsEn": [
+   "Equatorial climate",
+   "Mediterranean climate",
+   "Tundra climate",
+   "Savanna climate"
+  ],
+  "optsHi": [
+   "भूमध्यरेखीय जलवायु",
+   "भूमध्यसागरीय जलवायु",
+   "टुंड्रा जलवायु",
+   "सवाना जलवायु"
+  ],
+  "correct": 1,
+  "explainEn": "The Mediterranean climate is marked by dry summers and wet winters and occurs around the Mediterranean Sea, California, Central Chile, and parts of South Africa and Australia.",
+  "sourceHint": "Certificate Physical and Human Geography by Goh Cheng Leong",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:43:06Z"
+ },
+ {
+  "id": "q_b999864c6ad177e7",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the provisions of the Indian Constitution, the authority to alter the boundaries of states is vested in which of the following?",
+  "qHi": "भारतीय संविधान के प्रावधानों के तहत, राज्यों की सीमाओं को बदलने की शक्ति निम्नलिखित में से किसमें निहित है?",
+  "optsEn": [
+   "Parliament by a simple majority",
+   "Parliament by a two-thirds special majority",
+   "President on the recommendation of the concerned state legislature",
+   "Supreme Court of India"
+  ],
+  "optsHi": [
+   "साधारण बहुमत द्वारा संसद",
+   "दो-तिहाई विशेष बहुमत द्वारा संसद",
+   "संबंधित राज्य विधानमंडल की सिफारिश पर राष्ट्रपति",
+   "भारत का उच्चतम न्यायालय"
+  ],
+  "correct": 0,
+  "explainEn": "Article 3 of the Constitution empowers Parliament to form new states and alter areas, boundaries, or names of existing states by law passed by a simple majority.",
+  "sourceHint": "Constitution of India, Article 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:43:06Z"
+ },
+ {
+  "id": "q_f122f39a4e1b3198",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following organizations releases the 'World Economic Outlook' report?",
+  "qHi": "निम्नलिखित में से कौन सा संगठन 'विश्व आर्थिक आउटलुक' रिपोर्ट जारी करता है?",
+  "optsEn": [
+   "World Bank",
+   "International Monetary Fund",
+   "World Economic Forum",
+   "Organisation for Economic Co-operation and Development"
+  ],
+  "optsHi": [
+   "विश्व बैंक",
+   "अंतर्राष्ट्रीय मुद्रा कोष",
+   "विश्व आर्थिक मंच",
+   "आर्थिक सहयोग और विकास संगठन"
+  ],
+  "correct": 1,
+  "explainEn": "The World Economic Outlook is a survey by the International Monetary Fund (IMF) that is usually published twice a year.",
+  "sourceHint": "International Organizations and Reports, standard economic textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:43:06Z"
+ },
+ {
+  "id": "q_7611e99d89084ef5",
+  "group": "upsc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which article of the Indian Constitution provides for the establishment of a Joint Public Service Commission for two or more States upon a resolution passed by the Houses of the Legislatures of those States?",
+  "qHi": "भारतीय संविधान का कौन सा अनुच्छेद उन राज्यों के विधान-मंडलों के सदनों द्वारा पारित प्रस्ताव पर दो या दो से अधिक राज्यों के लिए एक संयुक्त लोक सेवा आयोग की स्थापना का उपबंध करता है?",
+  "optsEn": [
+   "Article 312",
+   "Article 315",
+   "Article 317",
+   "Article 318"
+  ],
+  "optsHi": [
+   "अनुच्छेद 312",
+   "अनुच्छेद 315",
+   "अनुच्छेद 317",
+   "अनुच्छेद 318"
+  ],
+  "correct": 1,
+  "explainEn": "Article 315 of the Constitution of India deals with Public Service Commissions for the Union and for the States, and explicitly provides for the creation of a Joint State Public Service Commission under clause (2).",
+  "sourceHint": "Constitution of India, Part XIV",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:44:06Z"
+ },
+ {
+  "id": "q_8338492d007b0dc2",
+  "group": "upsc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian monetary policy, the term 'Standing Deposit Facility (SDF)' was introduced on the recommendation of which committee?",
+  "qHi": "भारतीय मौद्रिक नीति के संदर्भ में, 'स्थाई जमा सुविधा (SDF)' शब्द किस समिति की सिफारिश पर शुरू किया गया था?",
+  "optsEn": [
+   "Urjit Patel Committee",
+   "Narasimham Committee",
+   "P. J. Nayak Committee",
+   "Nachiket Mor Committee"
+  ],
+  "optsHi": [
+   "उर्जित पटेल समिति",
+   "नरसिम्हम समिति",
+   "पी. जे. नायक समिति",
+   "nachiket mor समिति"
+  ],
+  "correct": 0,
+  "explainEn": "The introduction of the Standing Deposit Facility (SDF) as an absorptive liquidity tool without collateral was recommended by the Expert Committee to Revise and Strengthen the Monetary Policy Framework headed by Urjit Patel.",
+  "sourceHint": "RBI Official Publications and Reports",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:44:06Z"
+ },
+ {
+  "id": "q_024b1441b23e0c9a",
+  "group": "upsc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "The 'Nannilam Inscription' and 'Uttiramerur Inscriptions', famous for detailing ancient local self-government and electoral procedures, belong to the rule of which dynasty?",
+  "qHi": "प्राचीन स्थानीय स्वशासन और चुनावी प्रक्रियाओं का विवरण देने के लिए प्रसिद्ध 'नन्निलम शिलालेख' और 'उत्तारमेरूर शिलालेख' किस राजवंश के शासनकाल से संबंधित हैं?",
+  "optsEn": [
+   "Chalukyas of Badami",
+   "Pallavas of Kanchi",
+   "Cholas of Thanjavur",
+   "Rashtrakutas of Manyakheta"
+  ],
+  "optsHi": [
+   "बादामी के चालुक्य",
+   "कांची के पल्लव",
+   "तंजावुर के चोल",
+   "मान्यखेत के राष्ट्रकूट"
+  ],
+  "correct": 2,
+  "explainEn": "The Uttiramerur inscriptions from the reign of Parantaka Chola provide detailed accounts of the Kudavolai system of village committee elections under the Imperial Cholas.",
+  "sourceHint": "NCERT Class XII History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:44:06Z"
+ },
+ {
+  "id": "q_3b3b076f6a19bcb3",
+  "group": "upsc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following elements is classified as a pnictogen in the periodic table?",
+  "qHi": "आवर्त सारणी में निम्नलिखित में से किस तत्व को निक्टोजेन (pnictogen) के रूप में वर्गीकृत किया गया है?",
+  "optsEn": [
+   "Selenium",
+   "Antimony",
+   "Tellurium",
+   "Bromine"
+  ],
+  "optsHi": [
+   "सेलेनियम",
+   "एंटीमनी",
+   "टेल्यूरियम",
+   "ब्रोमीन"
+  ],
+  "correct": 1,
+  "explainEn": "Pnictogens comprise the elements in Group 15 of the periodic table, which includes nitrogen, phosphorus, arsenic, antimony, and bismuth.",
+  "sourceHint": "NCERT Class XII Chemistry",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:44:06Z"
+ },
+ {
+  "id": "q_568decf46e2299bd",
+  "group": "upsc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the provisions of the Wildlife Protection Act, 1972, hunting of which of the following animals is strictly prohibited under Schedule I?",
+  "qHi": "वन्यजीव संरक्षण अधिनियम, 1972 के प्रावधानों के तहत, निम्नलिखित में से किस जानवर का शिकार अनुसूची I के अंतर्गत पूर्णतः प्रतिबंधित है?",
+  "optsEn": [
+   "Wild Buffalo",
+   "Rhesus Macaque",
+   "Nilgai",
+   "Common Crow"
+  ],
+  "optsHi": [
+   "जंगली भैंसा",
+   "रीसस मकाक",
+   "नीलगाय",
+   "सामान्य कौवा"
+  ],
+  "correct": 0,
+  "explainEn": "Wild Buffalo (Bubalus arnee) is listed under Schedule I of the Wildlife Protection Act, 1972, providing it absolute protection against hunting.",
+  "sourceHint": "Wildlife Protection Act, 1972 (Schedules)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:44:06Z"
+ },
+ {
+  "id": "q_01f5a0383d3df385",
+  "group": "upsc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "The doctrine of 'Basic Structure' of the Constitution was propounded by the Supreme Court in which landmark case?",
+  "qHi": "संविधान के 'बुनियादी ढांचे' के सिद्धांत को सर्वोच्च न्यायालय द्वारा किस ऐतिहासिक मामले में प्रतिपादित किया गया था?",
+  "optsEn": [
+   "Golaknath v. State of Punjab",
+   "Kesavananda Bharati v. State of Kerala",
+   "Minerva Mills v. Union of India",
+   "Indira Nehru Gandhi v. Raj Narain"
+  ],
+  "optsHi": [
+   "गोलकनाथ बनाम पंजाब राज्य",
+   "केशवानंद भारती बनाम केरल राज्य",
+   "मिनर्वा मिल्स बनाम भारत संघ",
+   "इंदिरा नेहरू गांधी बनाम राज नारायण"
+  ],
+  "correct": 1,
+  "explainEn": "The landmark 1973 Supreme Court ruling in Kesavananda Bharati v. State of Kerala established the Basic Structure doctrine, limiting Parliament's amending power.",
+  "sourceHint": "Indian Polity by M. Laxmikanth / Supreme Court Judgments",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:44:06Z"
  }
 ]

@@ -15258,5 +15258,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-18T20:46:35Z"
+ },
+ {
+  "id": "q_c7782ed0fabad100",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which element is found in group 1 of the Modern Periodic Table?",
+  "qHi": "आधुनिक आवर्त सारणी के समूह 1 में कौन सा तत्व पाया जाता है?",
+  "optsEn": [
+   "Sodium",
+   "Calcium",
+   "Carbon",
+   "Oxygen"
+  ],
+  "optsHi": [
+   "सोडियम",
+   "कैल्शियम",
+   "कार्बन",
+   "ऑक्सीजन"
+  ],
+  "correct": 0,
+  "explainEn": "Sodium belongs to group 1 of the Modern Periodic Table as an alkali metal.",
+  "sourceHint": "NCERT Class 10 Science Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:42:55Z"
+ },
+ {
+  "id": "q_c2b9ecb1f056484a",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organ of the human body filters nitrogenous waste to form urine?",
+  "qHi": "मानव शरीर का कौन सा अंग मूत्र बनाने के लिए नाइट्रोजनयुक्त अपशिष्ट को छानता है?",
+  "optsEn": [
+   "Heart",
+   "Lungs",
+   "Kidneys",
+   "Liver"
+  ],
+  "optsHi": [
+   "हृदय",
+   "फेफड़े",
+   "गुर्दे",
+   "यकृत"
+  ],
+  "correct": 2,
+  "explainEn": "The kidneys filter blood to remove nitrogenous waste products like urea, forming urine.",
+  "sourceHint": "NCERT Class 10 Science Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:42:55Z"
+ },
+ {
+  "id": "q_eff98e85cb11690c",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of chemical reaction is the burning of coal?",
+  "qHi": "कोयले का जलना किस प्रकार की रासायनिक अभिक्रिया है?",
+  "optsEn": [
+   "Decomposition reaction",
+   "Combination reaction",
+   "Displacement reaction",
+   "Double displacement reaction"
+  ],
+  "optsHi": [
+   "वियोजन अभिक्रिया",
+   "संयोजन अभिक्रिया",
+   "विस्थापन अभिक्रिया",
+   "द्वि-विस्थापन अभिक्रिया"
+  ],
+  "correct": 1,
+  "explainEn": "Burning of coal involves carbon combining with oxygen to form carbon dioxide, which is a combination reaction.",
+  "sourceHint": "NCERT Class 10 Science Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:42:55Z"
+ },
+ {
+  "id": "q_35575025fa7f19f1",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which part of the human digestive system is water primarily absorbed from digested food?",
+  "qHi": "मानव पाचन तंत्र के किस भाग में पचे हुए भोजन से मुख्य रूप से पानी का अवशोषण होता है?",
+  "optsEn": [
+   "Stomach",
+   "Small intestine",
+   "Large intestine",
+   "Oesophagus"
+  ],
+  "optsHi": [
+   "अमाशय",
+   "छोटी आंत",
+   "बड़ी आंत",
+   "ग्रासनली"
+  ],
+  "correct": 2,
+  "explainEn": "The large intestine is specialized to absorb water from the remaining indigestible food matter.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:43:54Z"
+ },
+ {
+  "id": "q_260bcd56162fd558",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which crop is known as a staple food crop in India and requires high humidity and annual rainfall above 100 cm?",
+  "qHi": "भारत में कौन सी फसल मुख्य खाद्य फसल के रूप में जानी जाती है और इसके लिए उच्च आर्द्रता तथा 100 सेमी से अधिक वार्षिक वर्षा की आवश्यकता होती है?",
+  "optsEn": [
+   "Wheat",
+   "Rice",
+   "Barley",
+   "Millets"
+  ],
+  "optsHi": [
+   "गेहूं",
+   "चावल",
+   "जौ",
+   "बाजरा"
+  ],
+  "correct": 1,
+  "explainEn": "Rice is the staple food crop of a majority of the people in India, requiring high temperature, high humidity, and rainfall above 100 cm.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:43:54Z"
+ },
+ {
+  "id": "q_443b4ca9f1eb0a59",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which soil type is also known as regur soil and is ideal for growing cotton?",
+  "qHi": "किस मृदा को रेगुर मृदा के नाम से भी जाना जाता है और यह कपास की खेती के लिए आदर्श है?",
+  "optsEn": [
+   "Laterite soil",
+   "Red soil",
+   "Black soil",
+   "Alluvial soil"
+  ],
+  "optsHi": [
+   "लैटेराइट मृदा",
+   "लाल मृदा",
+   "काली मृदा",
+   "जलोढ़ मृदा"
+  ],
+  "correct": 2,
+  "explainEn": "Black soils are also known as regur soils and are best suited for cotton cultivation.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:43:54Z"
+ },
+ {
+  "id": "q_1aad769ed67bae52",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the form of power sharing where power is distributed among different organs of government such as the legislature, executive, and judiciary called?",
+  "qHi": "सत्ता की उस साझेदारी को क्या कहा जाता है जिसमें सत्ता सरकार के विभिन्न अंगों जैसे विधायिका, कार्यपालिका और न्यायपालिका के बीच वितरित होती है?",
+  "optsEn": [
+   "Vertical division of power",
+   "Horizontal division of power",
+   "Community government",
+   "Federal division of power"
+  ],
+  "optsHi": [
+   "सत्ता का ऊर्ध्वाधर वितरण",
+   "सत्ता का क्षैतिज वितरण",
+   "सामुदायिक सरकार",
+   "सत्ता का संघीय वितरण"
+  ],
+  "correct": 1,
+  "explainEn": "Power sharing among different organs of government like legislature, executive, and judiciary is called horizontal division of power.",
+  "sourceHint": "NCERT Class 10 Political Science, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-19T04:43:54Z"
  }
 ]
