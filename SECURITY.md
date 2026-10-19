@@ -1,5 +1,9 @@
 # Security notes - KBC
 
+## Voice holds audio focus, plus a test button (v1.1.32)
+
+Every spoken line (question reading, options, results, solution narration, final score) now holds transient audio focus while it speaks, so music or other media pauses and then resumes instead of being talked over (ecosystem rule, 19 Oct 2026). The focus is released when the line finishes, errors, or is stopped, and a watchdog releases it even if the speech engine never calls back. A new "Test voice" button on the home screen speaks one clearly labelled test line through the same narration path - it is only a test, never a game event. No new permission, library or network address; speech still runs fully on the phone.
+
 ## Usage count is opt-in (v1.1.26)
 
 The anonymous daily usage counter (adds 1 to a public counter, no ID, no location, no app data) used to be on by default. It is now OFF by default: nothing is sent until the user turns it on in Settings. People who never touched the switch are therefore no longer counted. This follows the privacy-first and DPDP consent rule. No new permission, library or network address.
