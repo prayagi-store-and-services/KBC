@@ -132,6 +132,16 @@ fun HomeScreen(
                         )
                     }
 
+                    // Test voice: speaks one clearly labelled test line through the real narration
+                    // path (standing rule, 19 Oct 2026). Only a test, never a game event.
+                    OutlinedButton(
+                        onClick = { viewModel.testVoice() },
+                        modifier = Modifier.testTag("test_voice_button"),
+                        contentPadding = androidx.compose.foundation.layout.PaddingValues(horizontal = 10.dp, vertical = 0.dp)
+                    ) {
+                        Text(if (isHi) "टेस्ट आवाज़" else "Test voice", fontSize = 11.sp, fontWeight = FontWeight.Bold, color = GoldPrimary)
+                    }
+
                     // History Button
                     IconButton(
                         onClick = { viewModel.navigateToHistory() },
