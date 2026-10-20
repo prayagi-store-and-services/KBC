@@ -12990,5 +12990,341 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-20T04:55:20Z"
+ },
+ {
+  "id": "q_2c08bd9fbf04d99e",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the name of the upper house of the Parliament of India?",
+  "qHi": "भारत की संसद के उच्च सदन का क्या नाम है?",
+  "optsEn": [
+   "Lok Sabha",
+   "Rajya Sabha",
+   "Vidhan Sabha",
+   "Gram Sabha"
+  ],
+  "optsHi": [
+   "लोकसभा",
+   "राज्यसभा",
+   "विधानसभा",
+   "ग्राम सभा"
+  ],
+  "correct": 1,
+  "explainEn": "Rajya Sabha is the upper house of the Indian Parliament, representing the states.",
+  "sourceHint": "NCERT Class 8 Civics Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:39:03Z"
+ },
+ {
+  "id": "q_54d5a9b391e3da4f",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who led the famous Salt March (Dandi March) in 1930?",
+  "qHi": "1930 में प्रसिद्ध नमक यात्रा (दांडी मार्च) का नेतृत्व किसने किया था?",
+  "optsEn": [
+   "Subhas Chandra Bose",
+   "Mahatma Gandhi",
+   "Sardar Vallabhbhai Patel",
+   "Jawaharlal Nehru"
+  ],
+  "optsHi": [
+   "सुभाष चंद्र बोस",
+   "महात्मा गांधी",
+   "सरदार वल्लभभाई पटेल",
+   "जवाहरलाल नेहरू"
+  ],
+  "correct": 1,
+  "explainEn": "Mahatma Gandhi led the Dandi March in 1930 to protest against the salt tax imposed by the British.",
+  "sourceHint": "NCERT Class 8 History Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:39:03Z"
+ },
+ {
+  "id": "q_4a7362abdcc07c83",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of resource is petroleum, which takes millions of years to form and cannot be easily replaced once depleted?",
+  "qHi": "पेट्रोलियम किस प्रकार का संसाधन है, जिसके बनने में लाखों वर्ष लगते हैं और एक बार समाप्त होने के बाद इसे आसानी से प्रतिस्थापित नहीं किया जा सकता?",
+  "optsEn": [
+   "Renewable resource",
+   "Non-renewable resource",
+   "Biotic resource",
+   "Ubiquitous resource"
+  ],
+  "optsHi": [
+   "नवीकरणीय संसाधन",
+   "अनवीकरणीय संसाधन",
+   "जैविक संसाधन",
+   "सर्वव्यापक संसाधन"
+  ],
+  "correct": 1,
+  "explainEn": "Petroleum is a fossil fuel and a non-renewable resource because its stock gets exhausted with use and takes geological periods to renew.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:40:07Z"
+ },
+ {
+  "id": "q_df10369aa57b050b",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the process of settling of heavier particles at the bottom of a liquid called?",
+  "qHi": "किसी तरल के तल पर भारी कणों के नीचे बैठने की प्रक्रिया को क्या कहा जाता है?",
+  "optsEn": [
+   "Decantation",
+   "Sedimentation",
+   "Filtration",
+   "Evaporation"
+  ],
+  "optsHi": [
+   "निस्तारण",
+   "अवसादन",
+   "निंदन",
+   "वाष्पीकरण"
+  ],
+  "correct": 1,
+  "explainEn": "When the heavier component in a mixture settles after water is added, the process is called sedimentation.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:40:07Z"
+ },
+ {
+  "id": "q_e4b27aea4715748a",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific layer of the Earth's atmosphere is characterized by an increase in temperature with altitude due to the absorption of ultraviolet radiation by ozone?",
+  "qHi": "पृथ्वी के वायुमंडल की किस विशिष्ट परत में ओजोन द्वारा पराबैंगनी विकिरण के अवशोषण के कारण ऊंचाई के साथ तापमान में वृद्धि होती है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The stratosphere contains the ozone layer which absorbs UV rays, causing temperatures to rise in this layer.",
+  "sourceHint": "NCERT Class 7/8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:41:09Z"
+ },
+ {
+  "id": "q_872b8b3d6109edaa",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During which historical period in India were the administrative units known as 'Parganas' further divided into smaller revenue circles called 'Mauzas'?",
+  "qHi": "भारत के किस ऐतिहासिक काल के दौरान 'परगना' नामक प्रशासनिक इकाइयों को 'मौजा' नामक छोटे राजस्व हलकों में विभाजित किया गया था?",
+  "optsEn": [
+   "Mauryan Empire",
+   "Gupta Empire",
+   "Mughal Empire",
+   "Delhi Sultanate"
+  ],
+  "optsHi": [
+   "मौर्य साम्राज्य",
+   "गुप्त साम्राज्य",
+   "मुगल साम्राज्य",
+   "दिल्ली सल्तनत"
+  ],
+  "correct": 2,
+  "explainEn": "Under the Mughal administrative system, provinces (subas) were divided into sarkars, parganas, and finally villages (mauzas).",
+  "sourceHint": "NCERT Class 7/8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:41:09Z"
+ },
+ {
+  "id": "q_68486b436fa33324",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which fundamental right enshrined in the Constitution of India guarantees protection against self-incrimination, stating that no person accused of any offence shall be compelled to be a witness against themselves?",
+  "qHi": "भारत के संविधान में निहित कौन सा मौलिक अधिकार आत्म-दोषारोप के खिलाफ सुरक्षा की गारंटी देता है, जिसमें कहा गया है कि किसी भी अपराध के आरोपी व्यक्ति को खुद के खिलाफ गवाही देने के लिए मजबूर नहीं किया जाएगा?",
+  "optsEn": [
+   "Article 14",
+   "Article 19",
+   "Article 20(3)",
+   "Article 21"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14",
+   "अनुच्छेद 19",
+   "अनुच्छेद 20(3)",
+   "अनुच्छेद 21"
+  ],
+  "correct": 2,
+  "explainEn": "Article 20(3) of the Indian Constitution protects an accused person from being compelled to be a witness against themselves.",
+  "sourceHint": "Constitution of India / NCERT Class 8 Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:41:09Z"
+ },
+ {
+  "id": "q_93e16d1957b29636",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of crop production in India, which agricultural practice involves the growing of two or more crops simultaneously on the same piece of land in a definite row pattern?",
+  "qHi": "भारत में फसल उत्पादन के संदर्भ में, किस कृषि पद्धति में एक निश्चित पंक्ति पैटर्न में जमीन के एक ही टुकड़े पर एक साथ दो या दो से अधिक फसलें उगाना शामिल है?",
+  "optsEn": [
+   "Mixed cropping",
+   "Intercropping",
+   "Crop rotation",
+   "Fallowing"
+  ],
+  "optsHi": [
+   "मिश्रित फसल",
+   "अंतरासस्यन (इंटरक्रॉपिंग)",
+   "फसल चक्र",
+   "परती छोड़ना"
+  ],
+  "correct": 1,
+  "explainEn": "Intercropping involves growing two or more crops simultaneously on the same field in a definite pattern, unlike mixed cropping where seeds are mixed.",
+  "sourceHint": "NCERT Class 8 Science - Crop Production and Management",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:41:09Z"
+ },
+ {
+  "id": "q_ea39148fbfdaa776",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which synthetic polymer is commonly known as artificial silk because its properties are similar to that of silk and it can be obtained by chemical treatment of wood pulp?",
+  "qHi": "किस सिंथेटिक बहुलक को आमतौर पर कृत्रिम रेशम के रूप में जाना जाता है क्योंकि इसके गुण रेशम के समान होते हैं और इसे लकड़ी की लुगदी के रासायनिक उपचार से प्राप्त किया जाता है?",
+  "optsEn": [
+   "Nylon",
+   "Polyester",
+   "Rayon",
+   "Acrylic"
+  ],
+  "optsHi": [
+   "नायलॉन",
+   "पॉलिएस्टर",
+   "रेयान",
+   "एक्रिलिक"
+  ],
+  "correct": 2,
+  "explainEn": "Rayon is a synthetic fibre obtained from natural source wood pulp, making it a regenerated cellulose fibre known as artificial silk.",
+  "sourceHint": "NCERT Class 8 Science - Synthetic Fibres and Plastics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:41:09Z"
+ },
+ {
+  "id": "q_ab6324dd3f588b22",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which type of coal contains the highest percentage of carbon and burns with the least smoke, representing the highest rank of coal?",
+  "qHi": "किस प्रकार के कोयले में कार्बन का सबसे अधिक प्रतिशत होता है और यह सबसे कम धुएं के साथ जलता है, जो कोयले की सर्वोच्च श्रेणी का प्रतिनिधित्व करता है?",
+  "optsEn": [
+   "Peat",
+   "Lignite",
+   "Bituminous",
+   "Anthracite"
+  ],
+  "optsHi": [
+   "पीट",
+   "लिग्नाइट",
+   "बिटुमिनस",
+   "एंथरासाइट"
+  ],
+  "correct": 3,
+  "explainEn": "Anthracite is the highest grade of coal containing 80-95% carbon, burning cleanly with little smoke.",
+  "sourceHint": "NCERT Class 8 Geography - Coal and Petroleum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:41:09Z"
+ },
+ {
+  "id": "q_07a6e3688a5c058d",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In physics, what is the SI unit of pressure, which is defined as one Newton per square meter?",
+  "qHi": "भौतिकी में, दबाव (प्रेशर) की एसआई इकाई क्या है, जिसे प्रति वर्ग मीटर एक न्यूटन के रूप में परिभाषित किया गया है?",
+  "optsEn": [
+   "Pascal",
+   "Joule",
+   "Watt",
+   "Hertz"
+  ],
+  "optsHi": [
+   "पास्कल",
+   "जूल",
+   "वाट",
+   "हर्ट्ज"
+  ],
+  "correct": 0,
+  "explainEn": "The SI unit of pressure is the pascal (Pa), named after Blaise Pascal, equal to one newton per square metre.",
+  "sourceHint": "NCERT Class 8 Science - Friction and Pressure",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:41:09Z"
+ },
+ {
+  "id": "q_62945044c317e120",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which major institutional body was established by the British colonial government in 1935 through the Government of India Act to regulate the currency and credit system of the country?",
+  "qHi": "देश की मुद्रा और साख प्रणाली को विनियमित करने के लिए 1935 में भारत सरकार अधिनियम के माध्यम से ब्रिटिश औपनिवेशिक सरकार द्वारा किस प्रमुख संस्थागत निकाय की स्थापना की गई थी?",
+  "optsEn": [
+   "Imperial Bank of India",
+   "Reserve Bank of India",
+   "State Bank of India",
+   "Central Bank of India"
+  ],
+  "optsHi": [
+   "इंपीरियल बैंक ऑफ इंडिया",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय स्टेट बैंक",
+   "सेंट्रल बैंक ऑफ इंडिया"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India was established on April 1, 1935, in accordance with the provisions of the Reserve Bank of India Act, 1934.",
+  "sourceHint": "RBI official history / NCERT social science references",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:41:09Z"
  }
 ]

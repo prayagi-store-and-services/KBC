@@ -18058,5 +18058,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-20T04:54:46Z"
+ },
+ {
+  "id": "q_d7583ab70418f040",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a primary sector activity?",
+  "qHi": "निम्नलिखित में से कौन सी प्राथमिक क्षेत्र की गतिविधि है?",
+  "optsEn": [
+   "Banking",
+   "Agriculture",
+   "Manufacturing",
+   "Information Technology"
+  ],
+  "optsHi": [
+   "बैंकिंग",
+   "कृषि",
+   "विनिर्माण",
+   "सूचना प्रौद्योगिकी"
+  ],
+  "correct": 1,
+  "explainEn": "Agriculture involves the extraction and harvesting of natural products, which defines primary sector economic activities.",
+  "sourceHint": "NCERT Class 12 Geography, Fundamentals of Human Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:39:13Z"
+ },
+ {
+  "id": "q_9bb2e1e87bb10e77",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the decimal equivalent of the binary number 10?",
+  "qHi": "द्विआधारी संख्या (बाइनरी नंबर) 10 का दशमलव समतुल्य क्या है?",
+  "optsEn": [
+   "1",
+   "2",
+   "10",
+   "3"
+  ],
+  "optsHi": [
+   "1",
+   "2",
+   "10",
+   "3"
+  ],
+  "correct": 1,
+  "explainEn": "In binary, 10 represents (1 × 2^1) + (0 × 2^0), which equals 2 in the decimal system.",
+  "sourceHint": "NCERT Class 12 Computer Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:39:13Z"
+ },
+ {
+  "id": "q_a3a76a5925999a36",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Article of the Constitution of India guarantees the right to equality before the law?",
+  "qHi": "भारत के संविधान का कौन सा अनुच्छेद कानून के समक्ष समानता के अधिकार की गारंटी देता है?",
+  "optsEn": [
+   "Article 12",
+   "Article 14",
+   "Article 19",
+   "Article 21"
+  ],
+  "optsHi": [
+   "अनुच्छेद 12",
+   "अनुच्छेद 14",
+   "अनुच्छेद 19",
+   "अनुच्छेद 21"
+  ],
+  "correct": 1,
+  "explainEn": "Article 14 of the Indian Constitution states that the State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India.",
+  "sourceHint": "Constitution of India, Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:40:17Z"
+ },
+ {
+  "id": "q_5ab374c6e6e7b322",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which chemical compound is formed when ethanol reacts with acetic acid in the presence of concentrated sulfuric acid?",
+  "qHi": "सांद्र सल्फ्यूरिक एसिड की उपस्थिति में जब एथेनॉल एसिटिक एसिड के साथ प्रतिक्रिया करता है, तो कौन सा रासायनिक यौगिक बनता है?",
+  "optsEn": [
+   "Ester",
+   "Ether",
+   "Ketone",
+   "Aldehyde"
+  ],
+  "optsHi": [
+   "एस्टर",
+   "ईथर",
+   "कीटोन",
+   "एल्डिहाइड"
+  ],
+  "correct": 0,
+  "explainEn": "The reaction of an alcohol with a carboxylic acid in the presence of an acid catalyst forms an ester, a process known as esterification.",
+  "sourceHint": "NCERT Class 10/12 Chemistry",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:40:17Z"
+ },
+ {
+  "id": "q_4460499d3c9541fb",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of data structure follows the Last In, First Out (LIFO) principle?",
+  "qHi": "कौन सी डेटा संरचना 'लास्ट इन, फर्स्ट आउट' (LIFO) सिद्धांत का पालन करती है?",
+  "optsEn": [
+   "Queue",
+   "Stack",
+   "Tree",
+   "Graph"
+  ],
+  "optsHi": [
+   "कतार (Queue)",
+   "स्टैक (Stack)",
+   "ट्री (Tree)",
+   "ग्राफ (Graph)"
+  ],
+  "correct": 1,
+  "explainEn": "A stack is a linear data structure that operates on the LIFO principle, where elements are added and removed from the same end.",
+  "sourceHint": "NCERT Class 12 Computer Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:40:17Z"
+ },
+ {
+  "id": "q_6f093048e2b5d367",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which process in flowering plants involves the fusion of a male gamete with the egg cell to form a zygote?",
+  "qHi": "फूल वाले पौधों में किस प्रक्रिया में ज़ीगोट बनाने के लिए नर युग्मक का अंडा कोशिका के साथ संलयन होता है?",
+  "optsEn": [
+   "Syngamy",
+   "Plasmogamy",
+   "Apomixis",
+   "Parthenogenesis"
+  ],
+  "optsHi": [
+   "सिनगैमी (युग्मक संलयन)",
+   "प्लाज्मोगैमी",
+   "एपॉमिक्सिस",
+   "अनिषेकजनन"
+  ],
+  "correct": 0,
+  "explainEn": "Syngamy is the fusion of a male gamete with a female gamete (egg) to yield a diploid zygote.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:40:17Z"
+ },
+ {
+  "id": "q_02e33b356c67ce3c",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In a p-n junction diode, what constitutes the depletion region?",
+  "qHi": "एक p-n जंक्शन डायोड में, अवक्षय क्षेत्र (depletion region) का निर्माण किससे होता है?",
+  "optsEn": [
+   "Mobile electrons and holes",
+   "Immobile donor and acceptor ions",
+   "Free protons and neutrons",
+   "Neutral impurity atoms"
+  ],
+  "optsHi": [
+   "मोबाइल इलेक्ट्रॉन और होल",
+   "अचल दाता और ग्राही आयन",
+   "मुक्त प्रोटॉन और न्यूट्रॉन",
+   "तटस्थ अशुद्धता परमाणु"
+  ],
+  "correct": 1,
+  "explainEn": "Diffusion of charge carriers leaves behind uncompensated immobile ions near the junction, forming the depletion region.",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 14: Semiconductor Electronics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:41:20Z"
+ },
+ {
+  "id": "q_c3ad40609a02ec18",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary product formed when primary aliphatic amines react with nitrous acid at low temperatures (0-5 °C)?",
+  "qHi": "कम तापमान (0-5 °C) पर नाइट्रस अम्ल के साथ प्राथमिक एलिफेटिक अमीन की अभिक्रिया से मुख्य उत्पाद क्या बनता है?",
+  "optsEn": [
+   "Diazonium salt",
+   "Nitroalkane",
+   "Aliphatic alcohol",
+   "Secondary amine"
+  ],
+  "optsHi": [
+   "डाइएजोनीयम लवण",
+   "नाइट्रोऐल्केन",
+   "ऐलिफेटिक ऐल्कोहॉल",
+   "द्वितीयक ऐमीन"
+  ],
+  "correct": 2,
+  "explainEn": "Aliphatic primary amines react with HNO2 to form unstable diazonium salts which instantly decompose to yield alcohols and nitrogen gas.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 13: Amines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:41:20Z"
+ },
+ {
+  "id": "q_1242eec49135b7a0",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "According to Alfred Weber's theory of industrial location, which factor is considered of primary importance?",
+  "qHi": "अल्फ्रेड वेबर के औद्योगिक अवस्थिति के सिद्धांत के अनुसार, किस कारक को प्राथमिक महत्व का माना जाता है?",
+  "optsEn": [
+   "Government subsidies",
+   "Transport costs",
+   "Labor union strength",
+   "Proximity to financial capitals"
+  ],
+  "optsHi": [
+   "सरकारी सब्सिडी",
+   "परिवहन लागत",
+   "श्रम संघ की ताकत",
+   "वित्तीय राजधानियों से निकटता"
+  ],
+  "correct": 1,
+  "explainEn": "Weber's least-cost theory assumes that transport costs, determined by weight of raw materials and distance, are the primary determinant of industrial location.",
+  "sourceHint": "NCERT Class 12 Geography, Fundamentals of Human Geography, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:41:20Z"
+ },
+ {
+  "id": "q_85723e3f28f6960f",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which ecological pyramid can sometimes be inverted in certain ecosystems?",
+  "qHi": "कुछ पारिस्थितिकी तंत्रों में कौन सा पारिस्थितिक पिरामिड कभी-कभी उलटा हो सकता है?",
+  "optsEn": [
+   "Pyramid of energy",
+   "Pyramid of biomass in an open ocean",
+   "Pyramid of number in a grassland",
+   "Pyramid of energy in a forest"
+  ],
+  "optsHi": [
+   "ऊर्जा का पिरामिड",
+   "खुले महासागर में बायोमास का पिरामिड",
+   "घास के मैदान में संख्या का पिरामिड",
+   "वन में ऊर्जा का पिरामिड"
+  ],
+  "correct": 1,
+  "explainEn": "The pyramid of biomass in an open ocean can be inverted because producers (phytoplankton) have a smaller biomass than consumers (zooplankton) at any given instant.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 14: Ecosystem",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:41:20Z"
+ },
+ {
+  "id": "q_2153a8a25aaaf033",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In macroeconomics, what does the term 'narrow money' (M1) typically comprise?",
+  "qHi": "समष्टि अर्थशास्त्र में, 'संकीर्ण मुद्रा' (M1) शब्द में आमतौर पर क्या शामिल होता है?",
+  "optsEn": [
+   "Currency with the public plus demand deposits with banks",
+   "Currency with the public plus total time deposits",
+   "Demand deposits plus post office savings deposits",
+   "Total bank reserves plus currency in circulation"
+  ],
+  "optsHi": [
+   "जनता के पास मुद्रा और बैंकों के पास मांग जमा",
+   "जनता के पास मुद्रा और कुल सावधि जमा",
+   "मांग जमा और डाकघर बचत जमा",
+   "कुल बैंक आरक्षित और संचलन में मुद्रा"
+  ],
+  "correct": 0,
+  "explainEn": "M1 is the measure of money supply that includes currency held by the public and demand deposits with commercial banks.",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Macroeconomics, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:41:20Z"
  }
 ]

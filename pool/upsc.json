@@ -18310,5 +18310,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-20T04:54:52Z"
+ },
+ {
+  "id": "q_fbcb326fa1a45dda",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which soil type is most suitable for the cultivation of cotton in India?",
+  "qHi": "भारत में कपास की खेती के लिए कौन सी मिट्टी सबसे उपयुक्त है?",
+  "optsEn": [
+   "Laterite soil",
+   "Red soil",
+   "Black soil",
+   "Desert soil"
+  ],
+  "optsHi": [
+   "लैटेराइट मिट्टी",
+   "लाल मिट्टी",
+   "काली मिट्टी",
+   "मरुस्थलीय मिट्टी"
+  ],
+  "correct": 2,
+  "explainEn": "Black soil, also known as regur soil, is ideal for growing cotton and is found extensively in the Deccan trap region.",
+  "sourceHint": "NCERT Class 10 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:39:18Z"
+ },
+ {
+  "id": "q_b3e598aaafa8e9ac",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Consider the location of the Tropic of Cancer: which of the following Indian states has its capital situated closest to the Tropic of Cancer?",
+  "qHi": "कर्क रेखा की स्थिति पर विचार करें: निम्नलिखित में से किस भारतीय राज्य की राजधानी कर्क रेखा के सबसे निकट स्थित है?",
+  "optsEn": [
+   "Chhattisgarh",
+   "Jharkhand",
+   "Tripura",
+   "Madhya Pradesh"
+  ],
+  "optsHi": [
+   "छत्तीसगढ़",
+   "झारखंड",
+   "त्रिपुरा",
+   "मध्य प्रदेश"
+  ],
+  "correct": 1,
+  "explainEn": "Ranchi, the capital of Jharkhand, is situated very close to the Tropic of Cancer, noticeably closer compared to the capitals of the other listed states (Bhopal, Raipur, Agartala).",
+  "sourceHint": "NCERT Class 9 Geography, Contemporary India-I",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:40:24Z"
+ },
+ {
+  "id": "q_ecdaf06ae1c801b0",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of ancient Indian history, the term 'Apad dharma' refers to which of the following?",
+  "qHi": "प्राचीन भारतीय इतिहास के संदर्भ में, 'आपद्धर्म' शब्द का तात्पर्य निम्नलिखित में से किससे है?",
+  "optsEn": [
+   "Rules of conduct prescribed during times of distress or emergency",
+   "A special tax levied exclusively on foreign merchants",
+   "Rituals performed during the coronation of a king",
+   "The code of conduct for Buddhist monks during the rainy season"
+  ],
+  "optsHi": [
+   "संकट या आपातकाल के समय निर्धारित आचरण के नियम",
+   "विशेष रूप से विदेशी व्यापारियों पर लगाया जाने वाला कर",
+   "राजा के राज्याभिषेक के दौरान किए जाने वाले अनुष्ठान",
+   "वर्षा ऋतु के दौरान बौद्ध भिक्षुओं के लिए आचार संहिता"
+  ],
+  "correct": 0,
+  "explainEn": "In ancient Hindu jurisprudence and Dharmashastra texts, 'Apad dharma' denotes exceptional rules of conduct permitted during times of severe distress, crisis, or emergency when normal duties cannot be followed.",
+  "sourceHint": "Ancient Indian History by R.S. Sharma, NCERT",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:40:24Z"
+ },
+ {
+  "id": "q_2b6648ec38d2f55b",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Indian Constitution, the power to make laws regarding 'Foreign Jurisdiction' is vested in which of the following?",
+  "qHi": "भारतीय संविधान के तहत, 'विदेशी क्षेत्राधिकार' के संबंध में कानून बनाने की शक्ति किसमें निहित है?",
+  "optsEn": [
+   "State Legislatures",
+   "Parliament",
+   "President by Ordinance",
+   "Supreme Court via rule-making power"
+  ],
+  "optsHi": [
+   "राज्य विधानमंडल",
+   "संसद",
+   "अध्यादेश द्वारा राष्ट्रपति",
+   "नियम बनाने की शक्ति के माध्यम से उच्चतम न्यायालय"
+  ],
+  "correct": 1,
+  "explainEn": "Foreign Jurisdiction is an item enumerated in Entry 16 of the Union List (List I) of the Seventh Schedule of the Constitution, meaning only Parliament can make laws on it.",
+  "sourceHint": "Constitution of India, Seventh Schedule, Union List",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:40:24Z"
  }
 ]

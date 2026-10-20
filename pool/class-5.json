@@ -17162,5 +17162,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-20T04:55:13Z"
+ },
+ {
+  "id": "q_65735226ec5559f9",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which planet is closest to the Sun in our solar system?",
+  "qHi": "हमारे सौर मंडल में सूर्य के सबसे निकट कौन सा ग्रह है?",
+  "optsEn": [
+   "Mercury",
+   "Venus",
+   "Earth",
+   "Mars"
+  ],
+  "optsHi": [
+   "बुध",
+   "शुक्र",
+   "पृथ्वी",
+   "मंगल"
+  ],
+  "correct": 0,
+  "explainEn": "Mercury is the first and closest planet to the Sun in our solar system.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:39:39Z"
+ },
+ {
+  "id": "q_e97f73daafe31c85",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these animals is known as a nocturnal animal because it is active at night?",
+  "qHi": "इनमें से किस जानवर को निशाचर जानवर के रूप में जाना जाता है क्योंकि यह रात में सक्रिय होता है?",
+  "optsEn": [
+   "Owl",
+   "Cow",
+   "Horse",
+   "Elephant"
+  ],
+  "optsHi": [
+   "उल्लू",
+   "गाय",
+   "घोड़ा",
+   "हाथी"
+  ],
+  "correct": 0,
+  "explainEn": "Owls are nocturnal creatures, meaning they sleep during the day and hunt or stay active at night.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:39:39Z"
+ },
+ {
+  "id": "q_112683eed028015e",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which part of the plant usually grows under the soil and absorbs water and minerals?",
+  "qHi": "पौधे का कौन सा भाग आमतौर पर मिट्टी के नीचे उगता है और पानी तथा खनिज सोखता है?",
+  "optsEn": [
+   "Leaf",
+   "Flower",
+   "Root",
+   "Stem"
+  ],
+  "optsHi": [
+   "पत्ती",
+   "फूल",
+   "जड़",
+   "तना"
+  ],
+  "correct": 2,
+  "explainEn": "Roots grow underground to anchor the plant and absorb water and essential minerals from the soil.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:39:39Z"
+ },
+ {
+  "id": "q_3d849e069587342a",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these seeds is known to disperse mainly through water?",
+  "qHi": "इनमें से कौन सा बीज मुख्य रूप से पानी के माध्यम से फैलता है?",
+  "optsEn": [
+   "Lotus",
+   "Maple",
+   "Dandelion",
+   "Xanthium"
+  ],
+  "optsHi": [
+   "कमल",
+   "मेपल",
+   "डैंडेलियन",
+   "जैंथियम"
+  ],
+  "correct": 0,
+  "explainEn": "Lotus seeds and fruits have spongy or fibrous parts that help them float and disperse in water.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:40:43Z"
+ },
+ {
+  "id": "q_4919b8f55ec4c55d",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the process of changing water into water vapor called?",
+  "qHi": "पानी को जल वाष्प में बदलने की प्रक्रिया को क्या कहा जाता है?",
+  "optsEn": [
+   "Condensation",
+   "Evaporation",
+   "Precipitation",
+   "Melting"
+  ],
+  "optsHi": [
+   "संघनन",
+   "वाष्पीकरण",
+   "वर्षा",
+   "पिघलना"
+  ],
+  "correct": 1,
+  "explainEn": "Evaporation is the process by which water changes from a liquid to a gas or vapor.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:40:43Z"
+ },
+ {
+  "id": "q_cf7152d60e2e58ea",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the main source of vitamin D for humans, often called the sunshine vitamin?",
+  "qHi": "मनुष्यों के लिए विटामिन डी का मुख्य स्रोत क्या है, जिसे अक्सर धूप का विटामिन कहा जाता है?",
+  "optsEn": [
+   "Sunlight",
+   "Moonlight",
+   "Rainwater",
+   "Wind"
+  ],
+  "optsHi": [
+   "सूर्य का प्रकाश",
+   "चांदनी",
+   "वर्षा का पानी",
+   "हवा"
+  ],
+  "correct": 0,
+  "explainEn": "Exposure to sunlight helps the human body produce vitamin D.",
+  "sourceHint": "NCERT Science Curriculum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:40:43Z"
  }
 ]

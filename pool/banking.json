@@ -19486,5 +19486,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-20T04:55:03Z"
+ },
+ {
+  "id": "q_d49b00577bd2b501",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which financial term refers to the rate at which the central bank lends money to commercial banks in the short term?",
+  "qHi": "किस वित्तीय शब्द का तात्पर्य उस दर से है जिस पर केंद्रीय बैंक अल्पకాల के लिए वाणिज्यिक बैंकों को धन उधार देता है?",
+  "optsEn": [
+   "Repo Rate",
+   "Inflation Rate",
+   "Exchange Rate",
+   "Mortgage Rate"
+  ],
+  "optsHi": [
+   "रेपो रेट",
+   "मुस्फीति दर",
+   "विनिमय दर",
+   "बंधक दर"
+  ],
+  "correct": 0,
+  "explainEn": "Repo rate is the rate at which the central bank of a country lends money to commercial banks in the event of any shortfall of funds.",
+  "sourceHint": "RBI Monetary Policy",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:39:26Z"
+ },
+ {
+  "id": "q_bb343f08820c9dae",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'P' stand for in the term 'PAN' issued by the Income Tax Department?",
+  "qHi": "आय द्वारा जारी 'PAN' शब्द में 'P' का क्या अर्थ है?",
+  "optsEn": [
+   "Permanent",
+   "Personal",
+   "Primary",
+   "Public"
+  ],
+  "optsHi": [
+   "परमानेंट",
+   "पर्सनल",
+   "प्राइमरी",
+   "पब्लिक"
+  ],
+  "correct": 0,
+  "explainEn": "PAN stands for Permanent Account Number, a unique 10-digit alphanumeric identifier issued by the Income Tax Department.",
+  "sourceHint": "Income Tax Department India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:39:26Z"
+ },
+ {
+  "id": "q_a56263ad5c2db3ba",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is an asset of a commercial bank?",
+  "qHi": "निम्नलिखित में से कौन सा एक वाणिज्यिक बैंक की संपत्ति है?",
+  "optsEn": [
+   "Savings bank deposits",
+   "Current account deposits",
+   "Loans and advances given",
+   "Bills payable"
+  ],
+  "optsHi": [
+   "बचत बैंक जमा",
+   "चालू खाता जमा",
+   "दिए गए ऋण और अग्रिम",
+   "देय बिल"
+  ],
+  "correct": 2,
+  "explainEn": "Loans and advances given by a bank generate income and are classified as assets, whereas deposits are liabilities for the bank.",
+  "sourceHint": "NCERT Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:40:34Z"
+ },
+ {
+  "id": "q_8c37c7db8a06a0d1",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which market in the Indian financial system deals in short-term funds?",
+  "qHi": "भारतीय वित्तीय प्रणाली में कौन सा बाजार अल्पकालिक धन का लेन-देन करता है?",
+  "optsEn": [
+   "Capital market",
+   "Money market",
+   "Primary market",
+   "Foreign exchange market"
+  ],
+  "optsHi": [
+   "पूंजी बाजार",
+   "मुद्रा बाजार",
+   "प्राथमिक बाजार",
+   "विदेशी मुद्रा बाजार"
+  ],
+  "correct": 1,
+  "explainEn": "The money market is a wholesale financial market for short-term debt instruments with maturities ranging from overnight up to one year.",
+  "sourceHint": "RBI Handbook of Statistics on Indian Economy",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:40:34Z"
+ },
+ {
+  "id": "q_3ac6796b17e623fe",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the full form of the acronym 'NEFT' in the context of banking payments?",
+  "qHi": "बैंकिंग भुगतानों के संदर्भ में संक्षिप्त नाम 'NEFT' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "Net Economic Financial Transaction",
+   "National Equity and Finance Terminal",
+   "New Electronic Foreign Transfer"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "नेट इकोनॉमिक फाइनेंशियल ट्रांजेक्शन",
+   "नेशनल इक्विटी एंड फाइनेंस टर्मिनल",
+   "न्यू इलेक्ट्रॉनिक फॉरेन ट्रांसफर"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, an online system for transferring funds from one bank account to another.",
+  "sourceHint": "RBI Payment Systems guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:40:34Z"
+ },
+ {
+  "id": "q_030b7da8473eb110",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under which schedule of the Reserve Bank of India Act, 1934, are commercial banks included to be termed as scheduled banks?",
+  "qHi": "भारतीय रिजर्व बैंक अधिनियम, 1934 की किस अनुसूची के अंतर्गत वाणिज्यिक बैंकों को अनुसूचित बैंक कहा जाता है?",
+  "optsEn": [
+   "First Schedule",
+   "Second Schedule",
+   "Third Schedule",
+   "Fourth Schedule"
+  ],
+  "optsHi": [
+   "पहली अनुसूची",
+   "दूसरी अनुसूची",
+   "तीसरी अनुसूची",
+   "चौथी अनुसूची"
+  ],
+  "correct": 1,
+  "explainEn": "Banks included in the Second Schedule of the RBI Act, 1934 are known as Scheduled Banks and must fulfill specific capital and reserve criteria.",
+  "sourceHint": "Reserve Bank of India Act 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:40:34Z"
+ },
+ {
+  "id": "q_e118a7e39734d945",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India assigns credit ratings to various financial instruments and borrows?",
+  "qHi": "भारत में कौन सा संगठन विभिन्न वित्तीय उपकरणों और उधारकर्ताओं को क्रेडिट रेटिंग प्रदान करता है?",
+  "optsEn": [
+   "SEBI",
+   "IRDAI",
+   "CRISIL",
+   "TRAI"
+  ],
+  "optsHi": [
+   "सेबी",
+   "इरडाई",
+   "क्रिसिल",
+   "ट्राई"
+  ],
+  "correct": 2,
+  "explainEn": "CRISIL (Credit Rating Information Services of India Limited) is a prominent analytical company providing ratings, research, and risk and policy advisory services.",
+  "sourceHint": "SEBI registered credit rating agencies directory",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T11:40:34Z"
  }
 ]
