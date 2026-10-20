@@ -12094,5 +12094,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-19T22:26:59Z"
+ },
+ {
+  "id": "q_67807546b1668fc6",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which fundamental right guarantees the protection of life and personal liberty in the Indian Constitution?",
+  "qHi": "भारतीय संविधान में कौन सा मौलिक अधिकार जीवन और व्यक्तिगत स्वतंत्रता की सुरक्षा की गारंटी देता है?",
+  "optsEn": [
+   "Article 14",
+   "Article 19",
+   "Article 21",
+   "Article 32"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14",
+   "अनुच्छेद 19",
+   "अनुच्छेद 21",
+   "अनुच्छेद 32"
+  ],
+  "correct": 2,
+  "explainEn": "Article 21 states that no person shall be deprived of his life or personal liberty except according to procedure established by law.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T04:53:16Z"
+ },
+ {
+  "id": "q_40122c41a1198559",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which wind system is primarily responsible for bringing rainfall to the southern coast of India during winter?",
+  "qHi": "सर्दियों के दौरान भारत के दक्षिणी तट पर वर्षा लाने के लिए मुख्य रूप से कौन सी पवन प्रणाली जिम्मेदार है?",
+  "optsEn": [
+   "South-West Monsoon",
+   "North-East Monsoon",
+   "South-East Trade Winds",
+   "Westerlies"
+  ],
+  "optsHi": [
+   "दक्षिण-पश्चिम मानसून",
+   "उत्तर-पूर्व मानसून",
+   "दक्षिण-पूर्वी व्यापारिक हवाएं",
+   "पछुआ हवाएं"
+  ],
+  "correct": 1,
+  "explainEn": "The North-East monsoon picks up moisture from the Bay of Bengal and brings winter rainfall to Tamil Nadu and parts of Andhra Pradesh.",
+  "sourceHint": "NCERT Geography Class 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T04:54:57Z"
+ },
+ {
+  "id": "q_fed70f01a3ead3cc",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following vitamins is also known as Ascorbic Acid?",
+  "qHi": "निम्नलिखित में से किस विटामिन को एस्कॉर्बिक एसिड के नाम से भी जाना जाता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B1",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी1",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 2,
+  "explainEn": "Vitamin C is chemically known as Ascorbic Acid. Its deficiency causes scurvy.",
+  "sourceHint": "NCERT Science Class 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T04:54:57Z"
  }
 ]

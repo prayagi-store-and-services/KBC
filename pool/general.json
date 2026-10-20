@@ -12486,5 +12486,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-19T22:27:35Z"
+ },
+ {
+  "id": "q_b7a30077b9b2575c",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which vitamin is primarily obtained from sunlight?",
+  "qHi": "धूप से मुख्य रूप से कौन सा विटामिन प्राप्त होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Human skin synthesizes Vitamin D when exposed to ultraviolet B rays from sunlight.",
+  "sourceHint": "Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T04:53:27Z"
+ },
+ {
+  "id": "q_b8f0b4c697571358",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The classical dance form known as Kathakali originated in which Indian state?",
+  "qHi": "कथकली के रूप में जानी जाने वाली शास्त्रीय नृत्य शैली की उत्पत्ति किस भारतीय राज्य में हुई थी?",
+  "optsEn": [
+   "Tamil Nadu",
+   "Andhra Pradesh",
+   "Kerala",
+   "Odisha"
+  ],
+  "optsHi": [
+   "तमिलनाडु",
+   "आंध्र प्रदेश",
+   "केरल",
+   "ओडिशा"
+  ],
+  "correct": 2,
+  "explainEn": "Kathakali is a major form of classical Indian dance originating from the southern state of Kerala.",
+  "sourceHint": "NCERT Fine Arts textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T04:55:07Z"
+ },
+ {
+  "id": "q_a4ecfa254c682092",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following national parks in India is famous as the last refuge of the endangered Asiatic lion?",
+  "qHi": "भारत का निम्नलिखित में से कौन सा राष्ट्रीय उद्यान लुप्तप्राय एशियाई शेर के अंतिम आश्रय स्थल के रूप में प्रसिद्ध है?",
+  "optsEn": [
+   "Jim Corbett National Park",
+   "Gir National Park",
+   "Kaziranga National Park",
+   "Sundarbans National Park"
+  ],
+  "optsHi": [
+   "जिम कार्बेट राष्ट्रीय उद्यान",
+   "गीर राष्ट्रीय उद्यान",
+   "काजीरंगा राष्ट्रीय उद्यान",
+   "सुंदरबन राष्ट्रीय उद्यान"
+  ],
+  "correct": 1,
+  "explainEn": "Gir National Park and Wildlife Sanctuary in Gujarat is the only natural habitat of the Asiatic lion.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change, India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T04:55:07Z"
+ },
+ {
+  "id": "q_78b28ab299051683",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which Indian state is the famous Sun Temple of Konark located?",
+  "qHi": "कोणार्क का प्रसिद्ध सूर्य मंदिर किस भारतीय राज्य में स्थित है?",
+  "optsEn": [
+   "Odisha",
+   "Karnataka",
+   "Madhya Pradesh",
+   "Rajasthan"
+  ],
+  "optsHi": [
+   "ओडिशा",
+   "कर्नाटक",
+   "मध्य प्रदेश",
+   "राजस्थान"
+  ],
+  "correct": 0,
+  "explainEn": "The 13th-century Konark Sun Temple is situated in the coastal district of Puri in Odisha.",
+  "sourceHint": "UNESCO World Heritage Centre",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T04:55:07Z"
  }
 ]

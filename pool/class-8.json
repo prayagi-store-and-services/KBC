@@ -12626,5 +12626,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-19T22:28:09Z"
+ },
+ {
+  "id": "q_281e15fde0e71b0d",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the minimum age required for a person to vote in Indian Lok Sabha elections?",
+  "qHi": "भारतीय लोकसभा चुनावों में मतदान करने के लिए किसी व्यक्ति की न्यूनतम आयु कितनी होनी चाहिए?",
+  "optsEn": [
+   "18 years",
+   "21 years",
+   "25 years",
+   "35 years"
+  ],
+  "optsHi": [
+   "18 वर्ष",
+   "21 वर्ष",
+   "25 वर्ष",
+   "35 वर्ष"
+  ],
+  "correct": 0,
+  "explainEn": "According to Article 326 of the Constitution of India, every citizen who is not less than 18 years of age is entitled to vote.",
+  "sourceHint": "Constitution of India Article 326 / NCERT Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T04:52:58Z"
+ },
+ {
+  "id": "q_dd29d294fb149f26",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which microorganism is responsible for the conversion of milk into curd?",
+  "qHi": "दूध को दही में बदलने के लिए कौन सा सूक्ष्मजीव जिम्मेदार है?",
+  "optsEn": [
+   "Yeast",
+   "Lactobacillus",
+   "Amoeba",
+   "Plasmodium"
+  ],
+  "optsHi": [
+   "खमीर",
+   "लैक्टोबैसिलस",
+   "अमीबा",
+   "प्लास्मोडियम"
+  ],
+  "correct": 1,
+  "explainEn": "The bacterium Lactobacillus multiplies in milk and converts it into curd.",
+  "sourceHint": "NCERT Class 8 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T04:52:58Z"
+ },
+ {
+  "id": "q_da5a1e264b908f3b",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "During the British colonial period in India, which system of land revenue was introduced in the Bombay Deccan region?",
+  "qHi": "भारत में ब्रिटिश औपनिवेशिक काल के दौरान, बॉम्बे दक्कन क्षेत्र में भू-राजस्व की कौन सी प्रणाली शुरू की गई थी?",
+  "optsEn": [
+   "Permanent Settlement",
+   "Ryotwari Settlement",
+   "Mahalwari Settlement",
+   "Zemindari Settlement"
+  ],
+  "optsHi": [
+   "स्थाई बंदोबस्त",
+   "रयतवाड़ी व्यवस्था",
+   "महलवाड़ी व्यवस्था",
+   "ज़मींदारी व्यवस्था"
+  ],
+  "correct": 1,
+  "explainEn": "The Ryotwari system was introduced in the south, including the Bombay Deccan region, dealing directly with cultivators (ryots).",
+  "sourceHint": "NCERT Class 8 History Chapter 3 - Ruling the Countryside",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T04:54:37Z"
+ },
+ {
+  "id": "q_c2db8f770bf80c84",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the term used for the process of clearing forests and using that land for other purposes?",
+  "qHi": "वनों को साफ करने और उस भूमि का अन्य उद्देश्यों के लिए उपयोग करने की प्रक्रिया के लिए किस शब्द का उपयोग किया जाता है?",
+  "optsEn": [
+   "Afforestation",
+   "Deforestation",
+   "Reforestation",
+   "Desertification"
+  ],
+  "optsHi": [
+   "वनीकरण",
+   "वनों की कटाई",
+   "पुनर्वनीकरण",
+   "मरुस्थलीकरण"
+  ],
+  "correct": 1,
+  "explainEn": "Deforestation refers to the conversion of forest land to non-forest uses.",
+  "sourceHint": "NCERT Class 8 Geography Chapter 2 - Land, Soil, Water, Natural Vegetation and Wildlife Resources",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T04:54:37Z"
+ },
+ {
+  "id": "q_e04d83def8c1e525",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which type of reproduction does a new individual develop from a bud as seen in Hydra?",
+  "qHi": "किस प्रकार के जनन में हाइड्रा की तरह एक मुकुल से नया जीव विकसित होता है?",
+  "optsEn": [
+   "Binary fission",
+   "Budding",
+   "Sexual reproduction",
+   "Spore formation"
+  ],
+  "optsHi": [
+   "द्विखंडन",
+   "मुकुलन",
+   "लैंगिक जनन",
+   "बीजाणु निर्माण"
+  ],
+  "correct": 1,
+  "explainEn": "In Hydra, buds develop as outgrowths due to repeated cell division, a process known as budding.",
+  "sourceHint": "NCERT Class 8 Science Chapter 9 - Reproduction in Animals",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T04:54:37Z"
+ },
+ {
+  "id": "q_9a1c628b493ccef7",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which synthetic fibre is often called artificial silk because its appearance resembles that of silk?",
+  "qHi": "किस संश्लेषित रेशे को अक्सर कृत्रिम रेशम कहा जाता है क्योंकि इसकी दिखावट रेशम जैसी होती है?",
+  "optsEn": [
+   "Nylon",
+   "Polyester",
+   "Rayon",
+   "Acrylic"
+  ],
+  "optsHi": [
+   "ना नायलॉन",
+   "पॉलिएस्टर",
+   "रेयान",
+   "एक्रेलिक"
+  ],
+  "correct": 2,
+  "explainEn": "Rayon is obtained from wood pulp and is chemically treated, making it cheaper than silk while resembling it in appearance.",
+  "sourceHint": "NCERT Class 8 Science Chapter 3 - Synthetic Fibres and Plastics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T04:54:37Z"
+ },
+ {
+  "id": "q_c6ed48bcbf18a3d2",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under which Article of the Constitution of India is the right to education guaranteed as a fundamental right for children between the ages of 6 and 14 years?",
+  "qHi": "भारत के संविधान के किस अनुच्छेद के तहत 6 से 14 वर्ष की आयु के बच्चों के लिए शिक्षा के अधिकार को मौलिक अधिकार के रूप में गारंटी दी गई है?",
+  "optsEn": [
+   "Article 19",
+   "Article 21A",
+   "Article 32",
+   "Article 45"
+  ],
+  "optsHi": [
+   "अनुच्छेद 19",
+   "अनुच्छेद 21ए",
+   "अनुच्छेद 32",
+   "अनुच्छेद 45"
+  ],
+  "correct": 1,
+  "explainEn": "Article 21A was inserted by the 86th Constitutional Amendment Act, 2002, making education a fundamental right for children aged 6-14.",
+  "sourceHint": "Constitution of India / NCERT Class 8 Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T04:55:20Z"
+ },
+ {
+  "id": "q_e264887e6043388e",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which type of coal contains the highest percentage of carbon and burns with the least smoke?",
+  "qHi": "किस प्रकार के कोयले में कार्बन का प्रतिशत सबसे अधिक होता है और यह सबसे कम धुएं के साथ जलता है?",
+  "optsEn": [
+   "Peat",
+   "Lignite",
+   "Bituminous",
+   "Anthracite"
+  ],
+  "optsHi": [
+   "पीट",
+   "लिग्नाइट",
+   "बिटुमिनस",
+   "एन्थरासाइट"
+  ],
+  "correct": 3,
+  "explainEn": "Anthracite is the highest rank of coal containing 86-97% carbon, making it hard, brittle, and clean-burning.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 5: Coal and Petroleum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T04:55:20Z"
+ },
+ {
+  "id": "q_590c1fb7b5e49236",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What term is used to describe the species of plants and animals that are found exclusively in a particular area and nowhere else on Earth?",
+  "qHi": "उन पौधों और जानवरों की प्रजातियों का वर्णन करने के लिए किस शब्द का उपयोग किया जाता है जो विशेष रूप से किसी विशेष क्षेत्र में पाए जाते हैं और पृथ्वी पर कहीं और नहीं?",
+  "optsEn": [
+   "Endemic species",
+   "Extinct species",
+   "Migratory species",
+   "Exotic species"
+  ],
+  "optsHi": [
+   "स्थानिक प्रजाति",
+   "विलुप्त प्रजाति",
+   "प्रवासी प्रजाति",
+   "विदेशी प्रजाति"
+  ],
+  "correct": 0,
+  "explainEn": "Endemic species are plants and animals that exist only in one geographic region.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 7: Conservation of Plants and Animals",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T04:55:20Z"
+ },
+ {
+  "id": "q_7f30dc6cb886792e",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the Revolt of 1857 in India, who was the adopted son of Peshwa Baji Rao II who led the uprising from Kanpur?",
+  "qHi": "भारत में 1857 के विद्रोह के संदर्भ में, पेशवा बाजीराव द्वितीय के दत्तक पुत्र कौन थे जिन्होंने कानपुर से विद्रोह का नेतृत्व किया था?",
+  "optsEn": [
+   "Kunwar Singh",
+   "Nana Saheb",
+   "Birjis Qadir",
+   "Khan Bahadur Khan"
+  ],
+  "optsHi": [
+   "कुंवर सिंह",
+   "नाना साहब",
+   "बिरजिस कादिर",
+   "खान बहादुर खान"
+  ],
+  "correct": 1,
+  "explainEn": "Nana Saheb, the adopted son of Peshwa Baji Rao II, gathered armed forces and expelled the British garrison from Kanpur.",
+  "sourceHint": "NCERT Class 8 History, Chapter 5: When People Rebel",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T04:55:20Z"
+ },
+ {
+  "id": "q_007fab5b90610fe7",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following atmospheric layers is characterized by the presence of ozone gas, which absorbs harmful ultraviolet radiation from the Sun?",
+  "qHi": "निम्नलिखित में से किस वायुमंडलीय परत की विशेषता ओजोन गैस की उपस्थिति है, जो सूर्य से आने वाली हानिकारक पराबैंगनी विकिरण को अवशोषित करती है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The stratosphere contains the ozone layer, which protects the Earth by absorbing solar ultraviolet radiation.",
+  "sourceHint": "NCERT Class 8 Geography, Chapter 4: Air",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T04:55:20Z"
+ },
+ {
+  "id": "q_507e8f0520de3245",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which cell organelle is known as the powerhouse of the cell because it generates chemical energy needed for biochemical reactions?",
+  "qHi": "किस कोशिका अंगक को कोशिका का पावरहाउस कहा जाता है क्योंकि यह जैव रासायनिक प्रतिक्रियाओं के लिए आवश्यक रासायनिक ऊर्जा उत्पन्न करता है?",
+  "optsEn": [
+   "Ribosome",
+   "Golgi apparatus",
+   "Mitochondria",
+   "Chloroplast"
+  ],
+  "optsHi": [
+   "राइबोसोम",
+   "गॉल्जी उपकरण",
+   "माइटोकॉन्ड्रिया",
+   "क्लोरोप्लास्ट"
+  ],
+  "correct": 2,
+  "explainEn": "Mitochondria produce adenosine triphosphate (ATP), the main energy currency of the cell, earning them the title 'powerhouse of the cell'.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 8: Cell Structure and Functions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T04:55:20Z"
+ },
+ {
+  "id": "q_69ff514b15b9d256",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which agricultural practice involves growing different crops on the same land in pre-planned succession to prevent soil nutrient depletion?",
+  "qHi": "मिट्टी के पोषक तत्वों की कमी को रोकने के लिए पूर्व-नियोजित उत्तराधिकार में एक ही भूमि पर विभिन्न फसलें उगाने की कृषि पद्धति को क्या कहा जाता है?",
+  "optsEn": [
+   "Crop rotation",
+   "Fallowing",
+   "Mixed cropping",
+   "Broadcasting"
+  ],
+  "optsHi": [
+   "फसल चक्र",
+   "पड़ती छोड़ना",
+   "मिश्रित फसल",
+   "प्रसारण"
+  ],
+  "correct": 0,
+  "explainEn": "Crop rotation is the practice of growing a series of dissimilar types of crops in the same area in sequential seasons to help maintain soil fertility.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 1: Crop Production and Management",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T04:55:20Z"
  }
 ]

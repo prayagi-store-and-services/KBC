@@ -19150,5 +19150,341 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-19T22:27:16Z"
+ },
+ {
+  "id": "q_622f387092791e87",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'I' stand for in the acronym IFSC, used in electronic funds transfers?",
+  "qHi": "इलेक्ट्रॉनिक फंड ट्रांसफर में प्रयुक्त होने वाले संक्षिप्त नाम IFSC में अक्षर 'I' का क्या अर्थ है?",
+  "optsEn": [
+   "Indian",
+   "International",
+   "Interbank",
+   "Investment"
+  ],
+  "optsHi": [
+   "इंडियन (Indian)",
+   "इंटरनेशनल (International)",
+   "इंटरबैंक (Interbank)",
+   "ইনवेस्टमेंट (Investment)"
+  ],
+  "correct": 0,
+  "explainEn": "IFSC stands for Indian Financial System Code, which is an 11-character alphanumeric code used for NEFT, RTGS, and IMPS transactions.",
+  "sourceHint": "RBI official guidelines on IFSC",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T04:53:23Z"
+ },
+ {
+  "id": "q_32effb31d2ab61d5",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a quantitative credit control tool used by the Reserve Bank of India?",
+  "qHi": "निम्नलिखित में से कौन सा भारतीय रिजर्व बैंक द्वारा उपयोग किया जाने वाला एक मात्रात्मक साख नियंत्रण उपकरण है?",
+  "optsEn": [
+   "Moral suasion",
+   "Margin requirements",
+   "Cash Reserve Ratio",
+   "Direct action"
+  ],
+  "optsHi": [
+   "नैतिक दबाव",
+   "मार्जिन आवश्यकताएं",
+   "नकद आरक्षित अनुपात",
+   "प्रत्यक्ष कार्रवाई"
+  ],
+  "correct": 2,
+  "explainEn": "Cash Reserve Ratio (CRR) is a quantitative monetary policy tool used by the RBI to regulate the total volume of money in the economy.",
+  "sourceHint": "NCERT Economics textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T04:53:23Z"
+ },
+ {
+  "id": "q_61b04ecbce8b137e",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum number of digits present in a Permanent Account Number (PAN) issued in India?",
+  "qHi": "भारत में जारी किए गए स्थायी खाता संख्या (PAN) में अधिकतम कितने अंक या वर्ण होते हैं?",
+  "optsEn": [
+   "8",
+   "10",
+   "12",
+   "16"
+  ],
+  "optsHi": [
+   "8",
+   "10",
+   "12",
+   "16"
+  ],
+  "correct": 1,
+  "explainEn": "A PAN is a ten-digit alphanumeric number issued in the form of a lamination card by the Income Tax Department.",
+  "sourceHint": "Income Tax Department of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T04:53:23Z"
+ },
+ {
+  "id": "q_0644dd2991da2e24",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In the context of banking, what does the letter 'A' stand for in 'ATM'?",
+  "qHi": "बैंकिंग के संदर्भ में, 'ATM' में अक्षर 'A' का क्या अर्थ है?",
+  "optsEn": [
+   "Automated",
+   "Anywhere",
+   "Applied",
+   "Automatic"
+  ],
+  "optsHi": [
+   "ऑटोमेटेड (Automated)",
+   "एनीवेयर (Anywhere)",
+   "अपलाइड (Applied)",
+   "ऑटोमैटिक (Automatic)"
+  ],
+  "correct": 0,
+  "explainEn": "ATM stands for Automated Teller Machine, an electronic banking outlet that allows customers to complete transactions without a human teller.",
+  "sourceHint": "Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T04:53:23Z"
+ },
+ {
+  "id": "q_8b0f566d235d562f",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which public sector bank in India was originally known as the Imperial Bank of India before 1955?",
+  "qHi": "भारत में किस सार्वजनिक क्षेत्र के बैंक को 1955 से पहले मूल रूप से इम्पीरियल बैंक ऑफ इंडिया के नाम से जाना जाता تھا?",
+  "optsEn": [
+   "Bank of Baroda",
+   "Canara Bank",
+   "State Bank of India",
+   "Union Bank of India"
+  ],
+  "optsHi": [
+   "बैंक ऑफ बड़ौदा",
+   "केनरा बैंक",
+   "भारतीय स्टेट बैंक",
+   "यूनियन बैंक ऑफ इंडिया"
+  ],
+  "correct": 2,
+  "explainEn": "The Imperial Bank of India was nationalized in 1955 and renamed as the State Bank of India (SBI).",
+  "sourceHint": "State Bank of India History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T04:53:23Z"
+ },
+ {
+  "id": "q_57a65b8b8193d600",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of 'NABARD', the apex development bank in India?",
+  "qHi": "भारत के शीर्ष विकास बैंक 'NABARD' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "National Bank for Agriculture and Rural Development",
+   "National Bank for Asian Research and Development",
+   "National Bureau of Agricultural Resources and Development",
+   "National Bank for Asset Reconstruction and Development"
+  ],
+  "optsHi": [
+   "नेशनल बैंक फॉर एग्रीकल्चर एंड रूरल डेवलपमेंट",
+   "नेशनल बैंक फॉर एशियन रिसर्च एंड डेवलपमेंट",
+   "नेशनल ब्यूरो ऑफ एग्रीकल्चरल रिसोर्सेज एंड डेवलपमेंट",
+   "नेशनल बैंक फॉर एसेट रिकंस्ट्रक्शन एंड डेवलपमेंट"
+  ],
+  "correct": 0,
+  "explainEn": "NABARD stands for National Bank for Agriculture and Rural Development, established in 1982.",
+  "sourceHint": "NABARD official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T04:53:23Z"
+ },
+ {
+  "id": "q_5721d703fc07914f",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the context of the Liquidity Coverage Ratio (LCR), a banking regulation under Basel III norms?",
+  "qHi": "बेसल III मानदंडों के तहत एक बैंकिंग विनियमन, तरलता कवरेज अनुपात (LCR) के संदर्भ में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liability",
+   "Leverage",
+   "Liquidity",
+   "Loan"
+  ],
+  "optsHi": [
+   "लायबिलिटी",
+   "लेवेज",
+   "लिक्विडिटी",
+   "लोन"
+  ],
+  "correct": 2,
+  "explainEn": "LCR stands for Liquidity Coverage Ratio, which ensures that financial institutions have the necessary ongoing liquidity to withstand a 30-day stress scenario.",
+  "sourceHint": "Basel III Guidelines by Basel Committee on Banking Supervision",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T04:55:03Z"
+ },
+ {
+  "id": "q_206b110c47e0c2ce",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of Indian banking, what does NEFT stand for?",
+  "qHi": "भारतीय बैंकिंग के संदर्भ में NEFT का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "National Equity Funding Trust",
+   "Net Electronic Finance Transaction",
+   "National Economy Fund Transfer"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "नेशनल इक्विटी फंडिंग ट्रस्ट",
+   "नेट इलेक्ट्रॉनिक फाइनेंस ट्रांजैक्शन",
+   "नेशनल इकोनॉमी फंड ट्रांसफर"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, an Indian centralized payment system owned and operated by the Reserve Bank of India.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T04:55:03Z"
+ },
+ {
+  "id": "q_a0d009b3be228262",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of the Priority Sector Lending (PSL) norms mandated by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा अनिवार्य प्राथमिकता प्राप्त क्षेत्र ऋण (PSL) मानदंडों का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To provide loans exclusively to large corporate houses",
+   "To ensure adequate flow of credit to vulnerable and weaker sections of the economy",
+   "To maximize profits for foreign banks operating in India",
+   "To regulate foreign exchange reserves"
+  ],
+  "optsHi": [
+   "विशेष रूप से बड़े कॉर्पोरेट घरानों को ऋण प्रदान करना",
+   "अर्थव्यवस्था के कमजोर और वंचित वर्गों को ऋण का पर्याप्त प्रवाह सुनिश्चित करना",
+   "भारत में काम कर रहे विदेशी बैंकों के मुनाफे को अधिकतम करना",
+   "विदेशी मुद्रा भंडार को विनियमित करना"
+  ],
+  "correct": 1,
+  "explainEn": "Priority Sector Lending directives are issued by the RBI to ensure that banks provide sufficient credit to crucial sectors like agriculture, MSMEs, and weaker sections.",
+  "sourceHint": "RBI Master Directions on Priority Sector Lending",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T04:55:03Z"
+ },
+ {
+  "id": "q_0b66717027d164ff",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following financial instruments represents an ownership position in a publicly traded company in India?",
+  "qHi": "निम्नलिखित में से कौन सा वित्तीय साधन भारत में सार्वजनिक रूप से कारोबार करने वाली कंपनी में स्वामित्व की स्थिति का प्रतिनिधित्व करता है?",
+  "optsEn": [
+   "Corporate Bond",
+   "Equity Share",
+   "Treasury Bill",
+   "Certificate of Deposit"
+  ],
+  "optsHi": [
+   "कॉर्पोरेट बॉंड",
+   "इक्विटी शेयर",
+   "ट्रेजरी बिल",
+   "प्रमाण पत्र (डिपॉजिट)"
+  ],
+  "correct": 1,
+  "explainEn": "An equity share represents ownership in a company and a claim on a part of the corporation's assets and earnings.",
+  "sourceHint": "NCERT Business Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T04:55:03Z"
+ },
+ {
+  "id": "q_6ab1cba92326cf40",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the term used when a bank classifies a loan account as a Non-Performing Asset (NPA) if the interest or principal installment remains overdue for a period exceeding how many days?",
+  "qHi": "उस स्थिति में जब कोई बैंक किसी ऋण खाते को गैर-निष्पादित परिसंपत्ति (NPA) के रूप में वर्गीकृत करता है, यदि ब्याज या मूलधन की किस्त कितने दिनों से अधिक समय तक अतिदेय रहती है?",
+  "optsEn": [
+   "30 days",
+   "60 days",
+   "90 days",
+   "180 days"
+  ],
+  "optsHi": [
+   "30 दिन",
+   "60 दिन",
+   "90 दिन",
+   "180 दिन"
+  ],
+  "correct": 2,
+  "explainEn": "According to RBI guidelines, an asset becomes non-performing (NPA) when it ceases to generate income for the bank for a period of 90 days or more.",
+  "sourceHint": "RBI Prudential Norms on Income Recognition and Asset Classification",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T04:55:03Z"
+ },
+ {
+  "id": "q_8185cf1b77ab6df4",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the 'C' stand for in the CAMELS rating framework used for supervising financial institutions?",
+  "qHi": "वित्तीय संस्थानों की निगरानी के लिए उपयोग किए जाने वाले CAMELS रेटिंग ढांचे में 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Capital Adequacy",
+   "Currency",
+   "Creditability",
+   "Collateral"
+  ],
+  "optsHi": [
+   "पूंजी पर्याप्तता",
+   "मुद्रा",
+   "क्रेडिबिलिटी",
+   "संपार्श्विक"
+  ],
+  "correct": 0,
+  "explainEn": "CAMELS stands for Capital adequacy, Asset quality, Management, Earnings, Liquidity, and Sensitivity. It is an international rating system used by regulatory authorities to rate financial institutions.",
+  "sourceHint": "Bank for International Settlements (BIS)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T04:55:03Z"
  }
 ]
