@@ -12822,5 +12822,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-20T17:12:53Z"
+ },
+ {
+  "id": "q_805d50145ed67392",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "How many strings does a standard acoustic guitar typically have?",
+  "qHi": "एक मानक ध्वनिक गिटार में आमतौर पर कितने तार होते हैं?",
+  "optsEn": [
+   "4",
+   "5",
+   "6",
+   "8"
+  ],
+  "optsHi": [
+   "4",
+   "5",
+   "6",
+   "8"
+  ],
+  "correct": 2,
+  "explainEn": "A standard guitar has six strings, typically tuned to E, A, D, G, B, and E.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:39:17Z"
+ },
+ {
+  "id": "q_115aca55178a1fb6",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas do green plants primarily absorb from the atmosphere during photosynthesis?",
+  "qHi": "हरे पौधे प्रकाश संश्लेषण के दौरान वायुमंडल से मुख्य रूप से कौन सी गैस सोखते हैं?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Plants absorb carbon dioxide and release oxygen during the process of photosynthesis.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:39:17Z"
+ },
+ {
+  "id": "q_7dfb6d87fd627efb",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary law-making body of the Indian Union consisting of the President, the Lok Sabha, and the Rajya Sabha called?",
+  "qHi": "राष्ट्रपति, लोकसभा और राज्यसभा से मिलकर बनने वाले भारतीय संघ के प्राथमिक कानून बनाने वाले निकाय को क्या कहा जाता है?",
+  "optsEn": [
+   "Supreme Court",
+   "Parliament",
+   "Cabinet",
+   "Secretariat"
+  ],
+  "optsHi": [
+   "उच्चतम न्यायालय",
+   "संसद",
+   "मंत्रिमंडल",
+   "सचिवालय"
+  ],
+  "correct": 1,
+  "explainEn": "The Parliament of India is the supreme legislative body of the Republic of India.",
+  "sourceHint": "Constitution of India, Article 79",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:40:50Z"
+ },
+ {
+  "id": "q_514b1f329b53998a",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which seasonal phenomenon is primarily responsible for bringing the majority of rainfall to the Indian subcontinent?",
+  "qHi": "भारतीय उपमहाद्वीप में अधिकांश वर्षा लाने के लिए मुख्य रूप से कौन सी मौसमी घटना जिम्मेदार है?",
+  "optsEn": [
+   "Southwest Monsoon",
+   "Northwest Trade Winds",
+   "Western Disturbances",
+   "Retreating Monsoon"
+  ],
+  "optsHi": [
+   "दक्षिण-पश्चिम मानसून",
+   "उत्तर-पश्चिम व्यापारिक हवाएँ",
+   "पश्चिमी विक्षोभ",
+   "लौटता हुआ मानसून"
+  ],
+  "correct": 0,
+  "explainEn": "The Southwest Monsoon accounts for the vast majority of India's annual rainfall.",
+  "sourceHint": "NCERT Geography textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:40:50Z"
+ },
+ {
+  "id": "q_6ec2c1f1acb4f3ce",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which National Park, located in Assam, is world-famous as the primary habitat for the endangered Indian rhinoceros?",
+  "qHi": "असम में स्थित कौन सा राष्ट्रीय उद्यान, लुप्तप्राय भारतीय गैंडे के प्राथमिक निवास स्थान के रूप में दुनिया भर में प्रसिद्ध है?",
+  "optsEn": [
+   "Jim Corbett National Park",
+   "Kaziranga National Park",
+   "Sundarbans National Park",
+   "Gir National Park"
+  ],
+  "optsHi": [
+   "जिम कॉर्बेट राष्ट्रीय उद्यान",
+   "काजीरंगा राष्ट्रीय उद्यान",
+   "सुंदरबन राष्ट्रीय उद्यान",
+   "गीर राष्ट्रीय उद्यान"
+  ],
+  "correct": 1,
+  "explainEn": "Kaziranga National Park hosts two-thirds of the world's great one-horned rhinoceroses.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change, India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:40:50Z"
+ },
+ {
+  "id": "q_0213077976793b81",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which chemical element, essential for agriculture and industrial explosives, forms nearly 78 percent of Earth's atmosphere by volume?",
+  "qHi": "कृषि और औद्योगिक विस्फोटकों के लिए आवश्यक कौन सा रासायनिक तत्व, आयतन के हिसाब से पृथ्वी के वायुमंडल का लगभग 78 प्रतिशत हिस्सा बनाता है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon Dioxide",
+   "Nitrogen",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "आर्गन"
+  ],
+  "correct": 2,
+  "explainEn": "Nitrogen is the most abundant gas in the Earth's atmosphere.",
+  "sourceHint": "NCERT Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:40:50Z"
+ },
+ {
+  "id": "q_9404f3499049998e",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian mathematician and astronomer formulated the concept of zero and stated that zero divided by zero is zero in ancient texts?",
+  "qHi": "किस भारतीय गणितज्ञ और खगोलविद ने शून्य की अवधारणा को प्रतिपादित किया और प्राचीन ग्रंथों में यह बताया कि शून्य को शून्य से विभाजित करने पर शून्य प्राप्त होता है?",
+  "optsEn": [
+   "Varahamihira",
+   "Brahmagupta",
+   "Bhaskara II",
+   "Srinivasa Ramanujan"
+  ],
+  "optsHi": [
+   "वराहमिहिर",
+   "ब्रह्मगुप्त",
+   "भास्कराचार्य द्वितीय",
+   "श्रीनिवास रामानुजन"
+  ],
+  "correct": 1,
+  "explainEn": "Brahmagupta's 7th-century text Brahmasphutasiddhanta contains the first definitive rules concerning arithmetic operations involving zero.",
+  "sourceHint": "NCERT Mathematics History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:40:50Z"
  }
 ]

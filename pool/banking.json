@@ -19906,5 +19906,397 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-20T17:17:48Z"
+ },
+ {
+  "id": "q_621ac7130baf6559",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is an example of a cashless payment method in India?",
+  "qHi": "निम्नलिखित में से कौन सा भारत में कैशलेस भुगतान विधि का एक उदाहरण है?",
+  "optsEn": [
+   "Physical gold",
+   "Promissory note",
+   "Unified Payments Interface",
+   "Paper currency note"
+  ],
+  "optsHi": [
+   "भौतिक सोना",
+   "वचन पत्र",
+   "यिफाइड पेमेंट इंटरफेस",
+   "कागज का करेंसी नोट"
+  ],
+  "correct": 2,
+  "explainEn": "Unified Payments Interface (UPI) is a real-time digital payment system developed by NPCI.",
+  "sourceHint": "National Payments Corporation of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:39:13Z"
+ },
+ {
+  "id": "q_c0d25508d6d844bb",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of account typically offers no interest to the account holder?",
+  "qHi": "किस प्रकार के खाते में आम तौर पर खाताधारक को कोई ब्याज नहीं मिलता है?",
+  "optsEn": [
+   "Savings Account",
+   "Current Account",
+   "Fixed Deposit Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "बचत खाता",
+   "चालू खाता",
+   "सावधि जमा खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 1,
+  "explainEn": "Current accounts are meant for businesses and generally do not offer interest, unlike savings or fixed deposit accounts.",
+  "sourceHint": "NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:39:13Z"
+ },
+ {
+  "id": "q_cd024fded7aa53ce",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which financial institution in India regulates the cooperative banks in urban and rural areas?",
+  "qHi": "भारत में शहरी और ग्रामीण क्षेत्रों में सहकारी बैंकों को कौन सा वित्तीय संस्थान नियंत्रित करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "State Bank of India",
+   "NABARD",
+   "SIDBI"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय स्टेट बैंक",
+   "नाबार्ड",
+   "सिडबी"
+  ],
+  "correct": 0,
+  "explainEn": "Reserve Bank of India regulates cooperative banks under the Banking Regulation Act, 1949.",
+  "sourceHint": "RBI official website and Banking Regulation Act",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:40:45Z"
+ },
+ {
+  "id": "q_2841cb682581f6c2",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the full form of 'RTGS' in the context of Indian banking payment systems?",
+  "qHi": "भारतीय बैंकिंग भुगतान प्रणाली के संदर्भ में 'RTGS' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Real Time Gross Settlement",
+   "Rapid Transfer Guaranteed System",
+   "Reserve Transfer Gross Settlement",
+   "Real Time Global System"
+  ],
+  "optsHi": [
+   "रियल टाइम ग्रॉस सेटलमेंट",
+   "रैपिड ट्रांसफर गारंटीड सिस्टम",
+   "रिजर्व ट्रांसफर ग्रॉस सेटलमेंट",
+   "रियल टाइम ग्लोबल सिस्टम"
+  ],
+  "correct": 0,
+  "explainEn": "RTGS stands for Real Time Gross Settlement, which is a funds transfer mechanism where transfer of money takes place from one bank to another on a real-time and gross basis.",
+  "sourceHint": "RBI payment systems documentation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:40:45Z"
+ },
+ {
+  "id": "q_ebbc68277b48e644",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Priority Sector Lending (PSL) guidelines in India, what is the overall target for domestic commercial banks?",
+  "qHi": "भारत में प्राथमिकता प्राप्त क्षेत्र को ऋण (PSL) दिशानिर्देशों के तहत, घरेलू वाणिज्यिक बैंकों के लिए समग्र लक्ष्य क्या है?",
+  "optsEn": [
+   "40 percent of Adjusted Net Bank Credit",
+   "25 percent of Adjusted Net Bank Credit",
+   "50 percent of Adjusted Net Bank Credit",
+   "18 percent of Adjusted Net Bank Credit"
+  ],
+  "optsHi": [
+   "समायोजित शुद्ध बैंक ऋण का 40 प्रतिशत",
+   "समायोजित शुद्ध बैंक ऋण का 25 प्रतिशत",
+   "समायोजित शुद्ध बैंक ऋण का 50 प्रतिशत",
+   "समायोजित शुद्ध बैंक ऋण का 18 प्रतिशत"
+  ],
+  "correct": 0,
+  "explainEn": "Domestic commercial banks and foreign banks with 20 branches and above are mandated to allocate 40 percent of their ANBC to priority sectors.",
+  "sourceHint": "RBI Master Directions on Priority Sector Lending",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:40:45Z"
+ },
+ {
+  "id": "q_6c43ebd64f0035f7",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which instrument is used as a tool for monetary policy by the Reserve Bank of India to absorb liquidity from the banking system?",
+  "qHi": "बैंकिंग प्रणाली से तरलता को अवशोषित करने के लिए भारतीय रिजर्व बैंक द्वारा मौद्रिक नीति के उपकरण के रूप में किस साधन का उपयोग किया जाता है?",
+  "optsEn": [
+   "Reverse Repo Rate",
+   "Bank Rate",
+   "Marginal Cost of Funds based Lending Rate",
+   "Base Rate"
+  ],
+  "optsHi": [
+   "रिवर्स रेपो रेट",
+   "बैंक रेट",
+   "मार्जिनल कॉस्ट ऑफ फंड्स बेस्ड लेंडिंग रेट",
+   "बेस रेट"
+  ],
+  "correct": 0,
+  "explainEn": "Reverse Repo Rate is the rate at which the central bank borrows money from commercial banks, thereby absorbing liquidity from the system.",
+  "sourceHint": "RBI Monetary Policy Report and Textbook Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:40:45Z"
+ },
+ {
+  "id": "q_1684f2fccd703014",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'C' stand for in the financial acronym 'CASA' account?",
+  "qHi": "वित्तीय संक्षिप्त नाम 'CASA' खाते में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Current",
+   "Capital",
+   "Credit",
+   "Collateral"
+  ],
+  "optsHi": [
+   "करंट",
+   "कैपिटल",
+   "क्रेडिट",
+   "कोललेटरल"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account Savings Account, representing low-cost deposits for banks.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) study material",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:40:45Z"
+ },
+ {
+  "id": "q_7bfb5b74b23446b9",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institution was established on the recommendation of the B. Sivaraman Committee in July 1982?",
+  "qHi": "जुलाई 1982 में बी. शिवरामन समिति की सिफारिश पर किस संस्था की स्थापना की गई थी?",
+  "optsEn": [
+   "NABARD",
+   "SIDBI",
+   "EXIM Bank",
+   "SEBI"
+  ],
+  "optsHi": [
+   "नाबार्ड",
+   "सिडबी",
+   "एक्सिम बैंक",
+   "सेबी"
+  ],
+  "correct": 0,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) was established on 12 July 1982 by an Act of Parliament on the recommendations of the B. Sivaraman Committee.",
+  "sourceHint": "NABARD official website history",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:40:45Z"
+ },
+ {
+  "id": "q_2610be168c2d8419",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which money market instrument is an unsecured promissory note issued by highly rated corporates in India?",
+  "qHi": "भारत में उच्च रेटिंग वाले कॉरपोरेट्स द्वारा जारी किया जाने वाला कौन सा मुद्रा बाजार साधन असुरक्षित promissory note है?",
+  "optsEn": [
+   "Commercial Paper",
+   "Certificate of Deposit",
+   "Treasury Bill",
+   "Repurchase Agreement"
+  ],
+  "optsHi": [
+   "कमर्शियल पेपर",
+   "सर्टिफिकेट ऑफ डिपॉजिट",
+   "ट्रेजरी बिल",
+   "रिपर्चेस एग्रीमेंट"
+  ],
+  "correct": 0,
+  "explainEn": "Commercial Paper (CP) is an unsecured money market instrument issued in the form of a promissory note.",
+  "sourceHint": "RBI guidelines on money market instruments",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:40:45Z"
+ },
+ {
+  "id": "q_8d1b1fa74edecb32",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Prompt Corrective Action (PCA) framework for Scheduled Commercial Banks in India, which of the following parameters is not utilized for invoking the framework?",
+  "qHi": "भारत में अनुसूचित वाणिज्यिक बैंकों के लिए त्वरित सुधार कार्रवाई (पीसीए) ढांचे के तहत, निम्नलिखित में से किस पैरामीटर का उपयोग ढांचे को लागू करने के लिए नहीं किया जाता है?",
+  "optsEn": [
+   "Capital to Risk-weighted Assets Ratio",
+   "Net Non-Performing Assets Ratio",
+   "Return on Assets",
+   "Credit-Deposit Ratio"
+  ],
+  "optsHi": [
+   "पूंजी से जोखिम-भारित संपत्ति अनुपात",
+   "शुद्ध गैर-निष्पादित परिसंपत्ति अनुपात",
+   " परिसंपत्ति पर रिटर्न",
+   "ऋण-जमा अनुपात"
+  ],
+  "correct": 3,
+  "explainEn": "The PCA framework relies on CRAR, Net NPAs, and Tier 1 Leverage Ratio. Credit-Deposit Ratio is not a core parameter for PCA initiation.",
+  "sourceHint": "RBI Master Direction on Prompt Corrective Action",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:41:40Z"
+ },
+ {
+  "id": "q_f4ab796732ed5a24",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "The borrower has defaulted despite having the capacity to honor repayment commitments.",
+  "qHi": "भारतीय वित्तीय बाजारों के संदर्भ में, 'इच्छुक चूककर्ता' (विलफुल डिफॉल्टर) शब्द का किसी उधारकर्ता की बाध्यताओं के संबंध में क्या तात्पर्य है?",
+  "optsEn": [
+   "The borrower has defaulted despite having the capacity to honor repayment commitments.",
+   "The borrower defaulted exclusively due to a macroeconomic downturn affecting the specific industry.",
+   "The borrower missed two consecutive quarterly interest payments due to operational restructuring.",
+   "The borrower filed for formal insolvency proceedings under the IBC without prior notice."
+  ],
+  "optsHi": [
+   "उधारकर्ता ने चुकौती प्रतिबद्धताओं का सम्मान करने की क्षमता होने के बावजूद चूक की है।",
+   "उधारकर्ता ने विशेष रूप से उद्योग को प्रभावित करने वाली व्यापक आर्थिक मंदी के कारण चूक की।",
+   "उधारकर्ता ने परिचालन पुन restructuring के कारण लगातार दो त्रैमासिक ब्याज भुगतान चूक दिए।",
+   "उधारकर्ता ने पूर्व सूचना के बिना आईबीसी के तहत औपचारिक दिवाला कार्यवाही के लिए आवेदन किया।"
+  ],
+  "correct": 0,
+  "explainEn": "A wilful defaulter refers to an entity that has defaulted despite having the financial capacity to pay or has diverted funds.",
+  "sourceHint": "RBI Master Directions on Wilful Defaulters",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:41:40Z"
+ },
+ {
+  "id": "q_6a773dff00343c8c",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which institution regulates credit rating agencies operating within the jurisdiction of the Indian financial system?",
+  "qHi": "भारतीय वित्तीय प्रणाली के दायरे में काम करने वाली क्रेडिट रेटिंग एजेंसियों को कौन सी संस्था विनियमित करती है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India",
+   "Insurance Regulatory and Development Authority",
+   "Ministry of Corporate Affairs"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "बीमा नियामक और विकास प्राधिकरण",
+   "कॉर्पोरेट मामलों के मंत्रालय"
+  ],
+  "correct": 1,
+  "explainEn": "Credit Rating Agencies (CRAs) in India are regulated by SEBI under the SEBI (Credit Rating Agencies) Regulations, 1999.",
+  "sourceHint": "SEBI Act, 1992 and SEBI Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:41:40Z"
+ },
+ {
+  "id": "q_8a13e3bd6f388b59",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Basel III norms, what does the 'Capital Conservation Buffer' (CCB) primarily require banks to maintain?",
+  "qHi": "बेसल III मानदंडों के तहत, 'पूंजी संरक्षण बफर' (CCB) मुख्य रूप से बैंकों को क्या बनाए रखने की आवश्यकता करता है?",
+  "optsEn": [
+   "An additional layer of Common Equity Tier 1 capital over and above the minimum regulatory capital requirements",
+   "A fixed percentage of liquid assets exclusively held in sovereign gold bonds",
+   "A mandatory reserve fund kept with the central bank to offset foreign exchange fluctuations",
+   "A dedicated insurance pool for covering operational risks arising from cyber threats"
+  ],
+  "optsHi": [
+   "न्यूनतम नियामक पूंजी आवश्यकताओं के ऊपर और परे कॉमन इक्विटी टियर 1 पूंजी की एक अतिरिक्त परत",
+   "संप्रभु स्वर्ण बांड में विशेष रूप से रखे गए तरल परिसंपदियों का एक निश्चित प्रतिशत",
+   "विदेशी मुद्रा उतार-चढ़ाव की भरपाई के लिए केंद्रीय बैंक के पास रखा गया एक अनिवार्य आरक्षित फंड",
+   "साइबर खतरों से उत्पन्न होने वाले परिचालन जोखिमों को कवर करने के लिए एक समर्पित बीमा पूल"
+  ],
+  "correct": 0,
+  "explainEn": "CCB is designed to ensure that banks build up capital buffers during normal times that can be drawn down during stress periods.",
+  "sourceHint": "Basel Committee on Banking Supervision (BCBS) / RBI Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:41:40Z"
+ },
+ {
+  "id": "q_a0b17e7d47922017",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary function of the 'Collateralized Borrowing and Lending Obligation' (CBLO), now largely replaced by Triparty Repo, in the money market?",
+  "qHi": "मनी मार्केट में 'कोलैटराइज्ड बॉरोइंग एंड लेंडिंग ऑब्लिगेशन' (सीबीएलओ), जिसे अब काफी हद तक ट्रिपार्टी रेपो द्वारा बदल दिया गया है, का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "To provide a money market instrument for short-term, collateralized lending and borrowing among institutions",
+   "To finance long-term infrastructure projects through foreign institutional investments",
+   "To manage retail remittances across different cooperative banks",
+   "To issue sovereign debt instruments on behalf of state governments"
+  ],
+  "optsHi": [
+   "संस्थानों के बीच अल्पकालिक, संपार्श्विक ऋण और उधार के लिए एक मनी मार्केट साधन प्रदान करना",
+   "विदेशी संस्थागत निवेश के माध्यम से दीर्घकालिक बुनियादी ढांचा परियोजनाओं को वित्त पोषित करना",
+   "विभिन्न सहकारी बैंकों में खुदरा प्रेषण का प्रबंधन करना",
+   "राज्य सरकारों की ओर से संप्रभु ऋण साधन जारी करना"
+  ],
+  "correct": 0,
+  "explainEn": "CBLO was a money market instrument that enabled entities to borrow and lend against sovereign securities collateral.",
+  "sourceHint": "Clearing Corporation of India Limited (CCIL) / RBI",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:41:40Z"
  }
 ]

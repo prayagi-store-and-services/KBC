@@ -12710,5 +12710,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-20T17:23:02Z"
+ },
+ {
+  "id": "q_baff0e603106d80c",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which vitamin is abundant in citrus fruits like lemons and oranges?",
+  "qHi": "नींबू और संतरे जैसे खट्टे फलों में कौन सा विटामिन प्रचुर मात्रा में पाया जाता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 2,
+  "explainEn": "Citrus fruits are rich sources of Vitamin C, also known as ascorbic acid.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:39:09Z"
+ },
+ {
+  "id": "q_fb11ef85debae089",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Where is the headquarters of the Reserve Bank of India located?",
+  "qHi": "भारतीय रिजर्व बैंक का मुख्यालय कहाँ स्थित है?",
+  "optsEn": [
+   "New Delhi",
+   "Mumbai",
+   "Kolkata",
+   "Chennai"
+  ],
+  "optsHi": [
+   "नई दिल्ली",
+   "मुंबई",
+   "कोलकाता",
+   "चेन्नई"
+  ],
+  "correct": 1,
+  "explainEn": "The Central Office of the Reserve Bank of India was initially established in Kolkata but was permanently moved to Mumbai in 1937.",
+  "sourceHint": "RBI Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:39:09Z"
+ },
+ {
+  "id": "q_0211dd00adb8504b",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which battle marked the definitive defeat of the Maratha Empire by the British East India Company?",
+  "qHi": "किस युद्ध ने ब्रिटिश ईस्ट इंडिया कंपनी द्वारा मराठा साम्राज्य की निर्णायक हार को चिह्नित किया?",
+  "optsEn": [
+   "Battle of Buxar",
+   "Third Battle of Panipat",
+   "Third Anglo-Maratha War",
+   "Battle of Plassey"
+  ],
+  "optsHi": [
+   "बक्सर का युद्ध",
+   "पानीपत का तीसरा युद्ध",
+   "तृतीय आंग्ल-मराठा युद्ध",
+   "प्लासी का युद्ध"
+  ],
+  "correct": 2,
+  "explainEn": "The Third Anglo-Maratha War (1817-1818) led to the collapse of the Maratha Empire and British supremacy in India.",
+  "sourceHint": "NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:40:08Z"
+ },
+ {
+  "id": "q_0224bdcf68d0dea3",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which standard parallel is used as the Indian Standard Time (IST) meridian?",
+  "qHi": "भारतीय मानक समय (IST) मेरिडियन के रूप में किस मानक देशांतर का उपयोग किया जाता है?",
+  "optsEn": [
+   "82.5 degree East",
+   "80.0 degree East",
+   "85.0 degree East",
+   "87.5 degree East"
+  ],
+  "optsHi": [
+   "82.5 डिग्री पूर्व",
+   "80.0 डिग्री पूर्व",
+   "85.0 डिग्री पूर्व",
+   "87.5 डिग्री पूर्व"
+  ],
+  "correct": 0,
+  "explainEn": "The Indian Standard Time is calculated on the basis of 82.5 degree E longitude, passing through Mirzapur in Uttar Pradesh.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:40:08Z"
+ },
+ {
+  "id": "q_7bd14345e34df198",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Vitamin is also known as Ascorbic Acid?",
+  "qHi": "किस विटामिन को एस्कॉर्बिक एसिड के नाम से भी जाना जाता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B1",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी1",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 2,
+  "explainEn": "Vitamin C is a water-soluble vitamin chemically known as Ascorbic acid, found in citrus fruits.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:40:08Z"
+ },
+ {
+  "id": "q_9963d23d0953466b",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the famous ancient Indian treatise on statecraft, 'Arthashastra'?",
+  "qHi": "राजनीति पर प्रसिद्ध प्राचीन भारतीय ग्रंथ 'अर्थशास्त्र' किसने लिखा था?",
+  "optsEn": [
+   "Kalidasa",
+   "Chanakya",
+   "Banabhatta",
+   "Vishakhadatta"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "चाणक्य",
+   "बाणभट्ट",
+   "विशाखादत्त"
+  ],
+  "correct": 1,
+  "explainEn": "Arthashastra was authored by Chanakya (also known as Kautilya or Vishnugupta), the chief minister of Chandragupta Maurya.",
+  "sourceHint": "NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:40:08Z"
+ },
+ {
+  "id": "q_d474f82fc8173127",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which biosphere reserve is located at the tri-junction of Kerala, Tamil Nadu, and Karnataka?",
+  "qHi": "केरल, तमिलनाडु और कर्नाटक के त्रिसंगम पर कौन सा बायोस्फीयर रिजर्व स्थित है?",
+  "optsEn": [
+   "Nilgiri Biosphere Reserve",
+   "Gulf of Mannar",
+   "Nokrek Biosphere Reserve",
+   "Simlipal Biosphere Reserve"
+  ],
+  "optsHi": [
+   "नीलगिरी बायोस्फीयर रिजर्व",
+   "मन्नार की खाड़ी",
+   "नोकरेक बायोस्फीयर रिजर्व",
+   "सिमलीपाल बायोस्फीयर रिजर्व"
+  ],
+  "correct": 0,
+  "explainEn": "The Nilgiri Biosphere Reserve is India's first biosphere reserve, spanning the states of Tamil Nadu, Kerala, and Karnataka.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:40:08Z"
+ },
+ {
+  "id": "q_ae9474755060b9b5",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under which Article of the Indian Constitution is the Supreme Court empowered to review its own judgments or orders?",
+  "qHi": "भारतीय संविधान کے کس آرٹیکل کے تحت سپریم کورٹ کو اپنے ہی فیصلوں یا احکامات پر نظرثانی کرنے کا اختیار حاصل ہے؟",
+  "optsEn": [
+   "Article 137",
+   "Article 142",
+   "Article 145",
+   "Article 131"
+  ],
+  "optsHi": [
+   "آرٹیکل 137",
+   "آرٹیکل 142",
+   "آرٹیکل 145",
+   "آرٹیکل 131"
+  ],
+  "correct": 0,
+  "explainEn": "Article 137 of the Constitution of India grants the Supreme Court the power to review any judgment pronounced or order made by it.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:41:33Z"
+ },
+ {
+  "id": "q_8e9170825913f018",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Harappan site is characterized by the presence of a dockyard and evidence of maritime trade?",
+  "qHi": "کون سا ہڑپائی مقام گودی (ڈاک یارڈ) کی موجودگی اور سمندری تجارت کے شواہد کی وجہ سے پہچانا جاتا ہے؟",
+  "optsEn": [
+   "Harappa",
+   "Mohenjo-daro",
+   "Lothal",
+   "Kalibangan"
+  ],
+  "optsHi": [
+   "ہڑپہ",
+   "موہنجودڑو",
+   "لوتھل",
+   "کالی بنگن"
+  ],
+  "correct": 2,
+  "explainEn": "Lothal, located in Gujarat, features a massive brick basin identified by archaeologists as a dockyard, indicating significant maritime trade.",
+  "sourceHint": "NCERT Class 12 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:41:33Z"
+ },
+ {
+  "id": "q_d7d4cc6273c87025",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian monetary policy, what does MSF stand for?",
+  "qHi": "بھارتی مالیاتی پالیسی کے تناظر میں ایم ایس ایف (MSF) سے کیا مراد ہے؟",
+  "optsEn": [
+   "Marginal Standing Facility",
+   "Monetary Stabilization Fund",
+   "Minimum Savings Factor",
+   "Market Security Foundation"
+  ],
+  "optsHi": [
+   "مارجنل اسٹینڈنگ فیسلیٹی",
+   "مانیٹری اسٹیبلائزیشن فنڈ",
+   "منیمم سیونگز فیکٹر",
+   "مارکیٹ سیکیورٹی فاؤنڈیشن"
+  ],
+  "correct": 0,
+  "explainEn": "MSF stands for Marginal Standing Facility, a window for scheduled banks to borrow overnight from the RBI in emergency situations.",
+  "sourceHint": "RBI Publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:41:33Z"
+ },
+ {
+  "id": "q_6dfe2952026a29cf",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which layer of the atmosphere is primarily responsible for the reflection of radio waves back to the Earth?",
+  "qHi": "محیط کا کون سا طبقہ بنیادی طور پر ریڈیو لہروں کو زمین پر واپس منعکس کرنے کا ذمہ دار ہے؟",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "ٹروپوسفیئر",
+   "اسٹریٹوسفیئر",
+   "میسوسفیئر",
+   "تھرموسفیئر"
+  ],
+  "correct": 3,
+  "explainEn": "The thermosphere contains the ionosphere, which is ionized by solar radiation and reflects radio waves back to the Earth.",
+  "sourceHint": "NCERT Class 11 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:41:33Z"
+ },
+ {
+  "id": "q_169a4a94bca1a1cb",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Mauryan rock edict contains the famous declaration: All men are my children?",
+  "qHi": "موریہ دور کے کس چٹانی فرمان میں یہ مشہور اعلان درج ہے: تمام مرد میرے بچے ہیں؟",
+  "optsEn": [
+   "Major Rock Edict XIII",
+   "Separate Kalinga Edict I",
+   "Major Rock Edict VI",
+   "Minor Rock Edict I"
+  ],
+  "optsHi": [
+   "بڑا چٹانی فرمان XIII",
+   "الگ کلنگ فرمان I",
+   "بڑا چٹانی فرمان VI",
+   "چھوٹا چٹانی فرمان I"
+  ],
+  "correct": 1,
+  "explainEn": "The Separate Kalinga Edict I (also known as Dhauli/Jaugada edict) contains Asoka's statement that all men are his children.",
+  "sourceHint": "NCERT Class 12 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:41:33Z"
+ },
+ {
+  "id": "q_ea3a016ee6922725",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which plant hormone is primarily responsible for inducing dormancy in seeds and buds and helping plants withstand desiccation?",
+  "qHi": "کونسا پودوں کا ہارمون بنیادی طور پر بیجوں اور کلیوں میں خوابیدہگی پیدا کرنے اور پودوں کو سوکھنے سے بچانے میں مدد کرتا ہے؟",
+  "optsEn": [
+   "Auxin",
+   "Gibberellin",
+   "Abscisic Acid",
+   "Cytokinin"
+  ],
+  "optsHi": [
+   "آکسین",
+   "جیبرلن",
+   "ابسیسک ایسڈ",
+   "سائٹوکینن"
+  ],
+  "correct": 2,
+  "explainEn": "Abscisic Acid (ABA) acts as a general plant growth inhibitor, stimulating the closure of stomata and inducing seed dormancy.",
+  "sourceHint": "NCERT Class 11 Biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:41:33Z"
  }
 ]

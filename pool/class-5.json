@@ -17414,5 +17414,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-20T17:18:34Z"
+ },
+ {
+  "id": "q_43280690c5e0875e",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas do green plants take in from the air to make their food during photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण के दौरान हरे पौधे अपना भोजन बनाने के लिए हवा से कौन सी गैस लेते हैं?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Helium"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हीलीयम"
+  ],
+  "correct": 1,
+  "explainEn": "Plants absorb carbon dioxide from the air and use sunlight to make food.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:39:41Z"
+ },
+ {
+  "id": "q_0ba106865e49703c",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which animal is the national heritage animal of India?",
+  "qHi": "भारत का राष्ट्रीय विरासत पशु कौन सा है?",
+  "optsEn": [
+   "Elephant",
+   "Tiger",
+   "Lion",
+   "Leopard"
+  ],
+  "optsHi": [
+   "हाथी",
+   "बाघ",
+   "शेर",
+   "तेंदुआ"
+  ],
+  "correct": 0,
+  "explainEn": "The Indian elephant was declared the National Heritage Animal of India in 2010.",
+  "sourceHint": "Ministry of Environment and Forests, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:39:41Z"
+ },
+ {
+  "id": "q_477d0a2fdfe64642",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these lines of latitude passes almost through the middle of India?",
+  "qHi": "अक्षांश रेखाओं में से कौन सी भारत के लगभग बीच से गुजरती है?",
+  "optsEn": [
+   "Equator",
+   "Tropic of Cancer",
+   "Tropic of Capricorn",
+   "Arctic Circle"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा",
+   "कर्क रेखा",
+   "मकर रेखा",
+   "आर्कटिक वृत्त"
+  ],
+  "correct": 1,
+  "explainEn": "The Tropic of Cancer (23.5° N) passes through the middle of India, covering several states.",
+  "sourceHint": "NCERT Class 5 Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:40:54Z"
+ },
+ {
+  "id": "q_8829432afc7fa917",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian grain is also known as finger millet?",
+  "qHi": "किस पारंपरिक भारतीय अनाज को रागी के नाम से भी जाना जाता है?",
+  "optsEn": [
+   "Wheat",
+   "Rice",
+   "Ragi",
+   "Barley"
+  ],
+  "optsHi": [
+   "गेहूं",
+   "चावल",
+   "रागी",
+   "जौ"
+  ],
+  "correct": 2,
+  "explainEn": "Ragi is the common regional name for finger millet, widely grown in parts of India.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:40:54Z"
+ },
+ {
+  "id": "q_b2c6247bfc152f78",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which instrument is commonly used to measure earthquake tremors?",
+  "qHi": "भूकंप के झटके मापने के लिए आमतौर पर किस उपकरण का उपयोग किया जाता है?",
+  "optsEn": [
+   "Barometer",
+   "Thermometer",
+   "Seismograph",
+   "Anemometer"
+  ],
+  "optsHi": [
+   "बैरोमीटर",
+   "थर्मामीटर",
+   "सिस्मोग्राफ",
+   "एनीमोमीटर"
+  ],
+  "correct": 2,
+  "explainEn": "A seismograph records the motion of the ground during an earthquake.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:40:54Z"
+ },
+ {
+  "id": "q_030e5f209795362a",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these animals is known to build complex mounds using mud and saliva?",
+  "qHi": "इनमें से कौन सा जानवर मिट्टी और लार का उपयोग करके जटिल टीले बनाता है?",
+  "optsEn": [
+   "Honeybee",
+   "Termite",
+   "Earthworm",
+   "Spider"
+  ],
+  "optsHi": [
+   "मधुमक्खी",
+   "दीमक",
+   "केंचुआ",
+   "मकड़ी"
+  ],
+  "correct": 1,
+  "explainEn": "Termites construct large and complex mounds made of soil, mud, and organic secretions.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T21:40:54Z"
  }
 ]
