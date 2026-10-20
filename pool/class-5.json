@@ -17330,5 +17330,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-20T11:40:43Z"
+ },
+ {
+  "id": "q_9d0fbcce9d1923d0",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which bird is known for its ability to mimic human speech and sounds?",
+  "qHi": "मानव वाणी और ध्वनियों की नकल करने की क्षमता के लिए किस पक्षी को जाना जाता है?",
+  "optsEn": [
+   "Crow",
+   "Pigeon",
+   "Parrot",
+   "Sparrow"
+  ],
+  "optsHi": [
+   "कौवा",
+   "कबूतर",
+   "तोता",
+   "गोरेया"
+  ],
+  "correct": 2,
+  "explainEn": "Parrots have specialized vocal organs that allow them to mimic sounds and human words.",
+  "sourceHint": "NCERT Class 3 and 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T17:13:37Z"
+ },
+ {
+  "id": "q_20d90a07f095bdfb",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which seed method of dispersal relies heavily on animals carrying hooks or spines?",
+  "qHi": "बीजों के प्रकीर्णन की कौन सी विधि में जानवरों द्वारा कांटों या हुक को ले जाने पर अत्यधिक निर्भरता होती है?",
+  "optsEn": [
+   "Explosion",
+   "Wind",
+   "Water",
+   "Attachment to fur"
+  ],
+  "optsHi": [
+   "विस्फोट",
+   "हवा",
+   "पानी",
+   "बालों या फर से चिपकना"
+  ],
+  "correct": 3,
+  "explainEn": "Some seeds have hooks that catch on animal fur and get carried to new locations.",
+  "sourceHint": "NCERT Science Class 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T17:18:34Z"
+ },
+ {
+  "id": "q_527ad0d5404ece16",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of map primarily shows countries, state boundaries, and capital cities?",
+  "qHi": "किस प्रकार का मानचित्र मुख्य रूप से देशों, राज्य की सीमाओं और राजधानी शहरों को दर्शाता है?",
+  "optsEn": [
+   "Physical map",
+   "Political map",
+   "Thematic map",
+   "Climate map"
+  ],
+  "optsHi": [
+   "भौतिक मानचित्र",
+   "राजनीतिक मानचित्र",
+   "विषयगत मानचित्र",
+   "जलवायु मानचित्र"
+  ],
+  "correct": 1,
+  "explainEn": "Political maps show man-made boundaries such as countries, states, and cities.",
+  "sourceHint": "NCERT Social Studies Class 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T17:18:34Z"
  }
 ]

@@ -12710,5 +12710,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-20T11:40:38Z"
+ },
+ {
+  "id": "q_1913fe45210ac127",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which classical dance style originates from Kerala?",
+  "qHi": "कौन सी शास्त्रीय नृत्य शैली केरल से उत्पन्न होती है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a major form of classical Indian dance that originated in the southern state of Kerala.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T17:12:53Z"
+ },
+ {
+  "id": "q_2960fae9b2fd9069",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which metal is most commonly associated with the traditional Indian currency coin known as the Rupee?",
+  "qHi": "पारंपरिक भारतीय मुद्रा 'रुपये' से कौन सी धातु सबसे अधिक जुड़ी हुई है?",
+  "optsEn": [
+   "Iron",
+   "Gold",
+   "Metal alloy",
+   "Lead"
+  ],
+  "optsHi": [
+   "लोहा",
+   "सोना",
+   "धातु मिश्र धातु",
+   "सीसा"
+  ],
+  "correct": 2,
+  "explainEn": "Modern Indian currency coins are minted using various metal alloys such as stainless steel, copper-nickel, or ferritic stainless steel.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T17:12:53Z"
+ },
+ {
+  "id": "q_9e5582c88e342ab9",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the chemical symbol for iron?",
+  "qHi": "लोहे का रासायनिक प्रतीक क्या है?",
+  "optsEn": [
+   "Ir",
+   "In",
+   "Fe",
+   "F"
+  ],
+  "optsHi": [
+   "Ir",
+   "In",
+   "Fe",
+   "F"
+  ],
+  "correct": 2,
+  "explainEn": "The chemical symbol for iron is Fe, which comes from the Latin word 'ferrum'.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T17:12:53Z"
+ },
+ {
+  "id": "q_9334295448ae3dda",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "How many spokes are there on the Ashoka Chakra depicted on the National Flag of India?",
+  "qHi": "भारत के राष्ट्रीय ध्वज पर बने अशोक चक्र में कितनी तीलियाँ होती हैं?",
+  "optsEn": [
+   "12",
+   "24",
+   "32",
+   "64"
+  ],
+  "optsHi": [
+   "12",
+   "24",
+   "32",
+   "64"
+  ],
+  "correct": 1,
+  "explainEn": "The Ashoka Chakra on the Indian national flag features 24 evenly spaced spokes.",
+  "sourceHint": "Bureau of Indian Standards",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T17:12:53Z"
  }
 ]

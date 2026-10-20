@@ -13326,5 +13326,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-20T11:41:09Z"
+ },
+ {
+  "id": "q_7cd37aab5bf9824a",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these is a renewable source of energy?",
+  "qHi": "इनमें से ऊर्जा का कौन सा नवीकरणीय स्रोत है?",
+  "optsEn": [
+   "Coal",
+   "Petroleum",
+   "Natural Gas",
+   "Solar Energy"
+  ],
+  "optsHi": [
+   "कोयला",
+   "पेट्रोलियम",
+   "प्राकृतिक गैस",
+   "सौर ऊर्जा"
+  ],
+  "correct": 3,
+  "explainEn": "Solar energy is inexhaustible and renews naturally, unlike fossil fuels.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T17:14:10Z"
  }
 ]

@@ -19682,5 +19682,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-20T11:40:34Z"
+ },
+ {
+  "id": "q_2d646c2f74c4c397",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'PPF' stand for in Indian personal finance?",
+  "qHi": "भारतीय व्यक्तिगत वित्त में 'PPF' का क्या अर्थ है?",
+  "optsEn": [
+   "Public Provident Fund",
+   "Personal Pension Fund",
+   "Public Payment Facility",
+   "Primary Provident Finance"
+  ],
+  "optsHi": [
+   "पब्लिक प्रोविडेंट फंड",
+   "पर्सनल पेंशन फंड",
+   "पब्लिक पेमेंट फैसिलिटी",
+   "प्राइमरी प्रोविडेंट फाइनेंस"
+  ],
+  "correct": 0,
+  "explainEn": "PPF stands for Public Provident Fund, a popular long-term savings and tax-saving scheme in India.",
+  "sourceHint": "National Savings Institute, Ministry of Finance",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T17:12:27Z"
+ },
+ {
+  "id": "q_c7f292d492268431",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the liquidity term 'LAF' used in banking?",
+  "qHi": "बैंकिंग में प्रयुक्त तरलता शब्द 'LAF' में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liquidity",
+   "Leverage",
+   "Liability",
+   "Ledger"
+  ],
+  "optsHi": [
+   "लिक्विडिटी (Liquidity)",
+   "लीverage (Leverage)",
+   "लायबिलिटी (Liability)",
+   "लेजर (Ledger)"
+  ],
+  "correct": 0,
+  "explainEn": "LAF stands for Liquidity Adjustment Facility, which is a monetary policy tool used by the RBI.",
+  "sourceHint": "RBI Glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T17:17:48Z"
+ },
+ {
+  "id": "q_d0397df91319d583",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque becomes stale after how many months from the date of its issuance?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, एक चेक उसके जारी होने की तारीख से कितने महीनों के बाद पुराना (stale) हो जाता है?",
+  "optsEn": [
+   "3 months",
+   "6 months",
+   "12 months",
+   "1 month"
+  ],
+  "optsHi": [
+   "3 महीने",
+   "6 महीने",
+   "12 महीने",
+   "1 महीना"
+  ],
+  "correct": 0,
+  "explainEn": "RBI guidelines mandate that a cheque is valid for a period of 3 months from the date of its issuance, after which it becomes stale.",
+  "sourceHint": "RBI Notifications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T17:17:48Z"
+ },
+ {
+  "id": "q_406af2f0f37d0875",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is not a component of Broad Money (M3) in India?",
+  "qHi": "निम्नलिखित में से कौन सा भारत में व्यापक मुद्रा (M3) का घटक नहीं है?",
+  "optsEn": [
+   "Post Office savings bank deposits",
+   "Currency with the public",
+   "Demand deposits with banks",
+   "Time deposits with banks"
+  ],
+  "optsHi": [
+   "डाकघर बचत बैंक जमा",
+   "जनता के पास मुद्रा",
+   "बैंकों के पास मांग जमा",
+   "बैंकों के पास सावधि जमा"
+  ],
+  "correct": 0,
+  "explainEn": "M3 money supply in India comprises Currency with the public, Demand deposits with banks, and Time deposits with banks. Post office savings are part of M1/M2 measures, not M3.",
+  "sourceHint": "RBI Bulletin",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T17:17:48Z"
+ },
+ {
+  "id": "q_7e73edb83e054bf6",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum amount insured per depositor by the Deposit Insurance and Credit Guarantee Corporation (DICGC) for deposits in a commercial bank?",
+  "qHi": "वाणिज्यिक बैंक में जमा के लिए जमा बीमा और क्रेडिट गारंटी निगम (DICGC) द्वारा प्रति जमाकर्ता अधिकतम कितनी राशि बीमित की जाती है?",
+  "optsEn": [
+   "Five Lakh Rupees",
+   "One Lakh Rupees",
+   "Ten Lakh Rupees",
+   "Two Lakh Rupees"
+  ],
+  "optsHi": [
+   "पाँच लाख रुपये",
+   "एक लाख रुपये",
+   "दस लाख रुपये",
+   "दो लाख रुपये"
+  ],
+  "correct": 0,
+  "explainEn": "DICGC provides deposit insurance up to a maximum of Rs. 5,00,000 per depositor per bank.",
+  "sourceHint": "DICGC Act and RBI",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T17:17:48Z"
+ },
+ {
+  "id": "q_b0e2dc06945f0bd0",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which financial market segment deals with short-term funds, typically up to one year?",
+  "qHi": "कौन सा वित्तीय बाजार खंड अल्पकालिक धन से संबंधित है, आमतौर पर एक वर्ष तक?",
+  "optsEn": [
+   "Money Market",
+   "Capital Market",
+   "Foreign Exchange Market",
+   "Derivative Market"
+  ],
+  "optsHi": [
+   "मुद्रा बाजार",
+   "पूंजी बाजार",
+   "विदेशी मुद्रा बाजार",
+   "व्युत्पन्न बाजार"
+  ],
+  "correct": 0,
+  "explainEn": "The money market is a market for short-term financial assets with maturities of up to one year.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T17:17:48Z"
+ },
+ {
+  "id": "q_b9eedf4b97e9f1f7",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does 'C' stand for in the KYC guidelines issued by financial regulators?",
+  "qHi": "वित्तीय नियामकों द्वारा जारी केवाईसी (KYC) दिशा-निर्देशों में 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Customer",
+   "Credit",
+   "Collateral",
+   "Capital"
+  ],
+  "optsHi": [
+   "कस्टमर (Customer)",
+   "क्रेडिट (Credit)",
+   "कोलेटरल (Collateral)",
+   "कैपिटल (Capital)"
+  ],
+  "correct": 0,
+  "explainEn": "KYC stands for Know Your Customer, which is a mandatory process for verifying the identity of clients.",
+  "sourceHint": "RBI KYC Master Direction",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T17:17:48Z"
+ },
+ {
+  "id": "q_82dea22c9e8b2ab6",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following entities is responsible for computing and releasing the Index of Industrial Production (IIP) in India?",
+  "qHi": "निम्नलिखित में से कौन सी संस्था भारत में औद्योगिक उत्पादन सूचकांक (IIP) की गणना और जारी करने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "National Statistical Office",
+   "Reserve Bank of India",
+   "NITI Aayog",
+   "Ministry of Finance"
+  ],
+  "optsHi": [
+   "राष्ट्रीय सांख्यिकी कार्यालय",
+   "भारतीय रिजर्व बैंक",
+   "नीति आयोग",
+   "वित्त मंत्रालय"
+  ],
+  "correct": 0,
+  "explainEn": "The National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation compiles and publishes the IIP data.",
+  "sourceHint": "Ministry of Statistics and Programme Implementation (MoSPI)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-20T17:17:48Z"
  }
 ]
