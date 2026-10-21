@@ -13018,5 +13018,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-20T21:40:50Z"
+ },
+ {
+  "id": "q_e84db48e2276bbee",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which planet in our solar system has the most natural satellites as of recent astronomical counts?",
+  "qHi": "हालिया खगोलीय गणना के अनुसार हमारे सौरमंडल के किस ग्रह के पास सबसे अधिक प्राकृतिक उपग्रह हैं?",
+  "optsEn": [
+   "Jupiter",
+   "Saturn",
+   "Uranus",
+   "Neptune"
+  ],
+  "optsHi": [
+   "बृहस्पति",
+   "शनि",
+   "अरुण",
+   "वरुण"
+  ],
+  "correct": 1,
+  "explainEn": "Saturn holds the record for the planet with the most confirmed moons in the solar system.",
+  "sourceHint": "NASA Planetary Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:52:26Z"
+ },
+ {
+  "id": "q_f422c6804a63fe86",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who wrote the classical Sanskrit play 'Abhijnanashakuntalam'?",
+  "qHi": "शास्त्रीय संस्कृत नाटक 'अभिज्ञानशाकुंतलम' की रचना किसने की थी?",
+  "optsEn": [
+   "Bhasa",
+   "Kalidasa",
+   "Bhavabhuti",
+   "Shudraka"
+  ],
+  "optsHi": [
+   "भास",
+   "कालिदास",
+   "भवभूति",
+   "शूद्रक"
+  ],
+  "correct": 1,
+  "explainEn": "Abhijnanashakuntalam is a famous Sanskrit play by the poet Kalidasa recounting the story of Dushyanta and Shakuntala.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:52:26Z"
+ },
+ {
+  "id": "q_756725b2bbb1bd47",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian state shares its borders with the maximum number of other states?",
+  "qHi": "भारत का कौन सा राज्य अन्य राज्यों के साथ अधिकतम सीमाएं साझा करता है?",
+  "optsEn": [
+   "Madhya Pradesh",
+   "Uttar Pradesh",
+   "Assam",
+   "Chhattisgarh"
+  ],
+  "optsHi": [
+   "मध्य प्रदेश",
+   "उत्तर प्रदेश",
+   "असम",
+   "छत्तीसगढ़"
+  ],
+  "correct": 1,
+  "explainEn": "Uttar Pradesh shares its border with 8 states and 1 union territory, making it the state with the highest number of state borders.",
+  "sourceHint": "Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:52:26Z"
  }
 ]

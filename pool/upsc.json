@@ -19318,5 +19318,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-20T21:41:27Z"
+ },
+ {
+  "id": "q_0fa83f55cb0b5a53",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which river basin is the Nagarjuna Sagar Dam built across?",
+  "qHi": "नागार्जुन सागर बांध किस नदी बेसिन पर बनाया गया है?",
+  "optsEn": [
+   "Ganga",
+   "Mahanadi",
+   "Krishna",
+   "Kaveri"
+  ],
+  "optsHi": [
+   "गंगा",
+   "महानदी",
+   "कृष्णा",
+   "कावेरी"
+  ],
+  "correct": 2,
+  "explainEn": "The Nagarjuna Sagar Dam is a masonry dam built across the Krishna River in Nalgonda district, Telangana and Guntur district, Andhra Pradesh.",
+  "sourceHint": "NCERT Class 10 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:50:05Z"
+ },
+ {
+  "id": "q_09c55c635d343c20",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The 'Barak Valley', known for its extensive tea cultivation and wetland ecosystems, is primarily located in which Indian state?",
+  "qHi": "'बराक घाटी', जो अपने व्यापक चाय की खेती और आर्द्रभूमि पारिस्थितिकी तंत्र के लिए जानी जाती है, मुख्य रूप से किस भारतीय राज्य में स्थित है?",
+  "optsEn": [
+   "Assam",
+   "Manipur",
+   "Meghalaya",
+   "Tripura"
+  ],
+  "optsHi": [
+   "असम",
+   "मणिपुर",
+   "मेघालय",
+   "त्रिपुरा"
+  ],
+  "correct": 0,
+  "explainEn": "The Barak Valley is located in the southern part of Assam, named after the Barak River, and is a major hub for tea production and agriculture.",
+  "sourceHint": "NCERT Geography / India Yearbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:50:48Z"
+ },
+ {
+  "id": "q_e5e56d9fae781c2e",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The 'Nokrek Biosphere Reserve', recognized by UNESCO, is situated in which of the following hill ranges?",
+  "qHi": "यूनेस्को द्वारा मान्यता प्राप्त 'नोकरेक बायोस्फीयर रिजर्व' निम्नलिखित में से किस पहाड़ी श्रृंखला में स्थित है?",
+  "optsEn": [
+   "Khasi Hills",
+   "Jaintia Hills",
+   "Garo Hills",
+   "Mizo Hills"
+  ],
+  "optsHi": [
+   "खासी पहाड़ियां",
+   "जयंतिया पहाड़ियां",
+   "गारो पहाड़ियां",
+   "मिज़ो पहाड़ियां"
+  ],
+  "correct": 2,
+  "explainEn": "Nokrek Biosphere Reserve is located in the Garo Hills district of Meghalaya and is home to the red panda and various citrus species.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:50:48Z"
+ },
+ {
+  "id": "q_bd06bdef93eb264e",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which constitutional amendment Act restricted the size of the Council of Ministers at the Centre and in the States to 15 percent of the total strength of the Lok Sabha or the Legislative Assembly?",
+  "qHi": "किस संविधान संशोधन अधिनियम ने केंद्र और राज्यों में मंत्रिपरिषद के आकार को लोकसभा या विधानसभा की कुल संख्या के 15 प्रतिशत तक सीमित कर दिया?",
+  "optsEn": [
+   "86th Amendment Act",
+   "91st Amendment Act",
+   "97th Amendment Act",
+   "103rd Amendment Act"
+  ],
+  "optsHi": [
+   "86वां संशोधन अधिनियम",
+   "91वां संशोधन अधिनियम",
+   "97वां संशोधन अधिनियम",
+   "103वां संशोधन अधिनियम"
+  ],
+  "correct": 1,
+  "explainEn": "The 91st Constitutional Amendment Act, 2003 limited the size of the Council of Ministers to prevent large ministries and curb defection.",
+  "sourceHint": "Constitution of India, Article 75 and 164",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:50:48Z"
+ },
+ {
+  "id": "q_1c4e2ec5653edcf7",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The 'Kaleshwaram Lift Irrigation Project', designed to irrigate large tracts of land, is constructed across which of the following rivers?",
+  "qHi": "बड़े भूभाग की सिंचाई के लिए डिज़ाइन की गई 'कालेश्वरम लिफ्ट सिंचाई परियोजना' का निर्माण किस नदी पर किया गया है?",
+  "optsEn": [
+   "Godavari",
+   "Krishna",
+   "Mahanadi",
+   "Cauvery"
+  ],
+  "optsHi": [
+   "गोदावरी",
+   "कृष्णा",
+   "महानहदी",
+   "कावेरी"
+  ],
+  "correct": 0,
+  "explainEn": "The Kaleshwaram Project is a multi-purpose irrigation project on the Godavari River in Telangana.",
+  "sourceHint": "Central Water Commission, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:50:48Z"
+ },
+ {
+  "id": "q_3ff9ebc4c1e558d4",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the provisions of the Indian Constitution, the 'Right to Property' is currently categorized as which of the following?",
+  "qHi": "भारतीय संविधान के प्रावधानों के तहत, 'संपत्ति का अधिकार' वर्तमान में किस रूप में वर्गीकृत है?",
+  "optsEn": [
+   "Fundamental Right",
+   "Legal Right",
+   "Constitutional Right",
+   "Both Legal and Constitutional Right"
+  ],
+  "optsHi": [
+   "मौलिक अधिकार",
+   "कानूनी अधिकार",
+   "संवैधानिक अधिकार",
+   "कानूनी और संवैधानिक दोनों अधिकार"
+  ],
+  "correct": 3,
+  "explainEn": "The Right to Property was removed from Part III (Fundamental Rights) by the 44th Amendment Act, 1978, and placed under Article 300A in Part XII, making it both a constitutional right and a legal right.",
+  "sourceHint": "Indian Polity by M. Laxmikanth, Chapter on Fundamental Rights",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:50:48Z"
+ },
+ {
+  "id": "q_a1ba541ee3bbfa2a",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The 'Sattriya' dance form, recognized as one of the classical dances of India, belongs primarily to the cultural tradition of which state?",
+  "qHi": "'सत्रिया' नृत्य शैली, जिसे भारत के शास्त्रीय नृत्यों में से एक के रूप में मान्यता प्राप्त है, मुख्य रूप से किस राज्य की सांस्कृतिक परंपरा से संबंधित है?",
+  "optsEn": [
+   "Odisha",
+   "Assam",
+   "Manipur",
+   "West Bengal"
+  ],
+  "optsHi": [
+   "ओडिशा",
+   "असम",
+   "मणिपुर",
+   "पश्चिम बंगाल"
+  ],
+  "correct": 1,
+  "explainEn": "Sattriya is a classical dance-drama performance art with origins in the Krishna-centered Vaishnavism monasteries of Assam, introduced by the 15th-century saint Srimanta Sankardeva.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT), India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:50:48Z"
+ },
+ {
+  "id": "q_a678278a0fa06a56",
+  "group": "upsc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following species of bamboo is predominantly used in the manufacturing of traditional Indian agarbattis and is classified under the Poaceae family?",
+  "qHi": "बांस की निम्नलिखित में से किस प्रजाति का उपयोग मुख्य रूप से पारंपरिक भारतीय अगरबत्ती के निर्माण में किया जाता है और इसे पोएसे परिवार के तहत वर्गीकृत किया गया है?",
+  "optsEn": [
+   "Bambusa tulda",
+   "Dendrocalamus strictus",
+   "Melocanna baccifera",
+   "Bambusa vulgaris"
+  ],
+  "optsHi": [
+   "बंबुसा टुलडा",
+   "डेंड्रोकैलामस स्ट्रिक्टस",
+   "मेलोकन्ना बैसिफेरा",
+   "बंबुसा वल्गेरिस"
+  ],
+  "correct": 1,
+  "explainEn": "Dendrocalamus strictus, commonly known as solid bamboo or male bamboo, is widely used for making paper and agarbatti sticks due to its solid culms.",
+  "sourceHint": "Forest Survey of India, Ministry of Environment, Forest and Climate Change",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:51:48Z"
+ },
+ {
+  "id": "q_4cec9ed70314da9e",
+  "group": "upsc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "The 'Parkash Purab' celebrations are historically associated with the birth anniversaries of which religious figures in India?",
+  "qHi": "'प्रकाश पर्व' समारोह ऐतिहासिक रूप से भारत में किस धार्मिक हस्तियों की जयंती से जुड़े हैं?",
+  "optsEn": [
+   "Sikh Gurus",
+   "Jain Tirthankaras",
+   "Buddhist Bodhisattvas",
+   "Alwar Saints"
+  ],
+  "optsHi": [
+   "सिख गुरु",
+   "जैन तीर्थंकर",
+   "बौद्ध बोधिसत्व",
+   "आलवार संत"
+  ],
+  "correct": 0,
+  "explainEn": "Parkash Purab marks the birth anniversary celebrations of the Sikh Gurus, most notably Guru Nanak Dev and Guru Gobind Singh.",
+  "sourceHint": "CCRT India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:51:48Z"
+ },
+ {
+  "id": "q_2d7cd3be984ced39",
+  "group": "upsc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "The 'Miyawaki method', often seen in environmental news, is primarily used for which of the following?",
+  "qHi": "पर्यावरण संबंधी समाचारों में अक्सर दिखने वाली 'मियावाकी पद्धति' का मुख्य रूप से किस लिए उपयोग किया जाता है?",
+  "optsEn": [
+   "Creating dense urban forests in a short time",
+   "Desalinating seawater for agricultural use",
+   "Cleaning heavy metal pollution in rivers",
+   "Harvesting rainwater in arid regions"
+  ],
+  "optsHi": [
+   "कम समय में घने शहरी वन तैयार करना",
+   "कृषि उपयोग के लिए समुद्र के पानी को मीठा करना",
+   "नदियों में भारी धातु के प्रदूषण को साफ करना",
+   "शुष्क क्षेत्रों में वर्षा जल संचयन करना"
+  ],
+  "correct": 0,
+  "explainEn": "The Miyawaki method is a technique for planting dense, native multi-layered forests in small urban plots to accelerate afforestation.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:51:48Z"
+ },
+ {
+  "id": "q_1f997f5d46870cec",
+  "group": "upsc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following taxes is levied by the Union and collected and appropriated by the States under Article 268 of the Constitution of India?",
+  "qHi": "भारत के संविधान के अनुच्छेद 268 के तहत निम्नलिखित में से कौन सा कर संघ द्वारा लगाया जाता है और राज्यों द्वारा एकत्र तथा विनियोजित किया जाता है?",
+  "optsEn": [
+   "Stamp duties on medicinal and toilet preparations",
+   "Taxes on railway fares and freights",
+   "Taxes on agricultural income",
+   "Taxes on mineral rights"
+  ],
+  "optsHi": [
+   "औषधीय और प्रसाधन तैयारियों पर स्टाम्प शुल्क",
+   "रेलवे किराए और मालभाड़े पर कर",
+   "कृषि आय पर कर",
+   "खनिज अधिकारों पर कर"
+  ],
+  "correct": 0,
+  "explainEn": "Article 268 deals with duties levied by the Union but collected and appropriated by the States, specifically stamp duties on medicinal and toilet preparations.",
+  "sourceHint": "Constitution of India, Article 268",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:51:48Z"
+ },
+ {
+  "id": "q_cc9a6f674a11e027",
+  "group": "upsc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian classical music, the term 'Prabandha' refers to which of the following?",
+  "qHi": "भारतीय शास्त्रीय संगीत के संदर्भ में, 'प्रबंध' शब्द किसे संदर्भित करता है?",
+  "optsEn": [
+   "A musical composition bound by rules of poetic meter and melodic structure",
+   "A fast-paced percussion solo performed at the end of a concert",
+   "An improvised melodic movement without rhythmic accompaniment",
+   "A wind instrument made of bamboo used in folk traditions"
+  ],
+  "optsHi": [
+   "काव्य मीटर और मेलोडिक संरचना के नियमों से बंधे एक संगीत रचना",
+   "संगीत समारोह के अंत में प्रस्तुत किया जाने वाला तीव्र गति का ताल वादन",
+   "लयबद्ध संगत के बिना एक तात्कालिक मधुर गति",
+   "लोक परंपराओं में प्रयुक्त बांस से बना एक सुषिर वाद्य यंत्र"
+  ],
+  "correct": 0,
+  "explainEn": "Prabandha was a major musical form in ancient and medieval Indian music treatises, representing a composition bound by specific structural rules before the emergence of modern Khyal or Dhrupad.",
+  "sourceHint": "NCERT and Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:51:48Z"
+ },
+ {
+  "id": "q_ad72aabd950b817c",
+  "group": "upsc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following organizations releases the 'Global Gender Gap Report'?",
+  "qHi": "निम्नलिखित में से कौन सा संगठन 'वैश्विक लिंग अंतराल रिपोर्ट' (Global Gender Gap Report) जारी करता है?",
+  "optsEn": [
+   "World Economic Forum",
+   "United Nations Development Programme",
+   "International Labour Organization",
+   "World Bank"
+  ],
+  "optsHi": [
+   "विश्व आर्थिक मंच",
+   "संयुक्त राष्ट्र विकास कार्यक्रम",
+   "अंतर्राष्ट्रीय श्रम संगठन",
+   "विश्व बैंक"
+  ],
+  "correct": 0,
+  "explainEn": "The Global Gender Gap Report is published annually by the World Economic Forum, benchmarking countries on their progress towards gender parity.",
+  "sourceHint": "World Economic Forum Official Publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:51:48Z"
  }
 ]

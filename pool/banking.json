@@ -20298,5 +20298,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-20T21:41:40Z"
+ },
+ {
+  "id": "q_86cc474afb68cb01",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'NEFT' stand for in electronic fund transfers?",
+  "qHi": "इलेक्ट्रॉनिक फंड ट्रांसफर में 'NEFT' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "National Economic Financial Transfer",
+   "New Electronic Fund Transaction",
+   "National Entry Fee Trust"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "नेशनल इकोनॉमिक फाइनेंशियल ट्रांसफर",
+   "न्यू इलेक्ट्रॉनिक फंड ट्रांजैक्शन",
+   "नेशनल एंट्री फी ट्रस्ट"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, an online system for transferring funds between banks.",
+  "sourceHint": "RBI Payment Systems",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:50:14Z"
+ },
+ {
+  "id": "q_449629c29c82a513",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary function of a commercial bank?",
+  "qHi": "एक व्यावसायिक बैंक का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "Printing currency notes",
+   "Accepting deposits and granting loans",
+   "Formulating fiscal policy",
+   "Regulating stock markets"
+  ],
+  "optsHi": [
+   "करेंसी नोट छापना",
+   "जमा स्वीकार करना और ऋण देना",
+   "राजकोषीय नीति तैयार करना",
+   "शेयर बाजार को विनियमित करना"
+  ],
+  "correct": 1,
+  "explainEn": "Commercial banks primarily accept deposits from the general public and grant loans for various purposes.",
+  "sourceHint": "NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:50:14Z"
+ },
+ {
+  "id": "q_d9a62577af5782f3",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization regulates the capital market and stock exchanges in India?",
+  "qHi": "भारत में पूंजी बाजार और स्टॉक एक्सचेंजों को कौन सा संगठन विनियमित करता है?",
+  "optsEn": [
+   "IRDAI",
+   "SEBI",
+   "NABARD",
+   "SIDBI"
+  ],
+  "optsHi": [
+   "इरडाई",
+   "सेबी",
+   "नाबार्ड",
+   "सिडबी"
+  ],
+  "correct": 1,
+  "explainEn": "SEBI (Securities and Exchange Board of India) is the regulatory body for securities and the capital market in India.",
+  "sourceHint": "SEBI Act",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:50:14Z"
+ },
+ {
+  "id": "q_3af81ebba3120a87",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization operates the Unified Payments Interface (UPI) system in India?",
+  "qHi": "भारत में यूनिफाइड पेमेंट इंटरफेस (UPI) प्रणाली का संचालन कौन सा संगठन करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "National Payments Corporation of India",
+   "Securities and Exchange Board of India",
+   "Indian Banks' Association"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय राष्ट्रीय भुगतान निगम",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "इंडियन बैंक्स एसोसिएशन"
+  ],
+  "correct": 1,
+  "explainEn": "National Payments Corporation of India (NPCI) is an umbrella organization for operating retail payments and settlement systems in India, including UPI.",
+  "sourceHint": "NPCI official portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:51:18Z"
+ },
+ {
+  "id": "q_1e8c994e115a8c6f",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'T' stand for in the financial market term 'RTGS'?",
+  "qHi": "वित्तीय बाजार के शब्द 'RTGS' में अक्षर 'T' का क्या अर्थ है?",
+  "optsEn": [
+   "Transfer",
+   "Time",
+   "Transaction",
+   "Term"
+  ],
+  "optsHi": [
+   "ट्रांसफर (Transfer)",
+   "टाइम (Time)",
+   "ट्रांजेक्शन (Transaction)",
+   "टर्म (Term)"
+  ],
+  "correct": 1,
+  "explainEn": "RTGS stands for Real Time Gross Settlement, where Real Time means processing instructions at the time they are received.",
+  "sourceHint": "RBI Payment Systems",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:51:18Z"
+ },
+ {
+  "id": "q_d65e04c11e355e60",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following monetary policy tools is legally mandated to be held by scheduled commercial banks in India as a percentage of their Net Demand and Time Liabilities (NDTL) directly in the form of cash, gold, or approved securities?",
+  "qHi": "निम्नलिखित में से कौन सा मौद्रिक नीति उपकरण अनुसूचित वाणिज्यिक बैंकों द्वारा अपनी शुद्ध मांग और समय देयता (NDTL) के प्रतिशत के रूप में सीधे नकदी, सोने या स्वीकृत प्रतिभूतियों के रूप में रखने के लिए कानूनी रूप से अनिवार्य है?",
+  "optsEn": [
+   "Cash Reserve Ratio",
+   "Statutory Liquidity Ratio",
+   "Bank Rate",
+   "Repo Rate"
+  ],
+  "optsHi": [
+   "नकद आरक्षित अनुपात",
+   "वैधानिक तरलता अनुपात",
+   "बैंक दर",
+   "रेपो दर"
+  ],
+  "correct": 1,
+  "explainEn": "Statutory Liquidity Ratio (SLR) is the minimum percentage of deposits that a commercial bank has to maintain in the form of liquid cash, gold or other securities before lending to customers, mandated under Section 24 of the Banking Regulation Act, 1949.",
+  "sourceHint": "RBI Publications and Banking Regulation Act 1949",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:52:22Z"
+ },
+ {
+  "id": "q_6479011f882df5cd",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Basel III norms implemented by the Reserve Bank of India, what constitutes Tier 1 Capital for a bank?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा कार्यान्वित बेसल III मानदंडों के तहत, बैंक के लिए टीयर 1 पूंजी का गठन क्या करता है?",
+  "optsEn": [
+   "Subordinated debt and general provisions",
+   "Equity share capital and disclosed reserves",
+   "Revaluation reserves and undisclosed reserves",
+   "Long-term unsecured loans from the government"
+  ],
+  "optsHi": [
+   "अवरुद्ध ऋण और सामान्य प्रावधान",
+   "इक्विटी शेयर पूंजी और प्रकट आरक्षित निधि",
+   "पुनमूल्यांकन आरक्षित निधि और अप्रकट आरक्षित निधि",
+   "सरकार से दीर्घकालिक असुरक्षित ऋण"
+  ],
+  "correct": 1,
+  "explainEn": "Tier 1 capital consists mainly of common equity tier 1 (CET1) capital, which includes common shares and stock surpluses, retained earnings, and other disclosed reserves.",
+  "sourceHint": "RBI Master Circular on Basel III Capital Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:52:22Z"
+ },
+ {
+  "id": "q_36370c1515853c4d",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary purpose of the Marginal Standing Facility (MSF) introduced by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा शुरू की गई सीमांत स्थायी सुविधा (MSF) का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To allow scheduled banks to borrow overnight funds during severe liquidity shortages",
+   "To provide long-term capital for infrastructure financing",
+   "To regulate foreign exchange reserves and prevent currency depreciation",
+   "To manage government borrowing through treasury bills"
+  ],
+  "optsHi": [
+   "गंभीर तरलता की कमी के दौरान अनुसूचित बैंकों को रातोंरात धन उधार लेने की अनुमति देना",
+   "बुनियादी ढांचा वित्तपोषण के लिए दीर्घकालिक पूंजी प्रदान करना",
+   "विदेशी मुद्रा भंडार को विनियमित करना और मुद्रा मूल्यह्रास को रोकना",
+   "राजकोषीय बिलों के माध्यम से सरकारी उधार का प्रबंधन करना"
+  ],
+  "correct": 0,
+  "explainEn": "MSF is a window for scheduled banks to borrow overnight from the RBI in emergency situations by pledging government securities at a rate higher than the repo rate.",
+  "sourceHint": "RBI Monetary Policy Framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:52:22Z"
+ },
+ {
+  "id": "q_c0b1457ad4c43003",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian banking, what does an 'Asset Reconstruction Company' (ARC) primarily deal with?",
+  "qHi": "भारतीय बैंकिंग के संदर्भ में, 'परसंपत्ति पुनर्गठन कंपनी' (ARC) मुख्य रूप से किससे संबंधित है?",
+  "optsEn": [
+   "Financing greenfield industrial projects",
+   "Acquiring Non-Performing Assets (NPAs) from banks to resolve them",
+   "Issuing currency notes on behalf of the central bank",
+   "Providing microfinance loans to rural self-help groups"
+  ],
+  "optsHi": [
+   "ग्रीनफील्ड औद्योगिक परियोजनाओं का वित्तपोषण करना",
+   "बैंकों से गैर-निष्पादित संपत्तियों (एनपीए) का अधिग्रहण करके उनका समाधान करना",
+   "केंद्रीय बैंक की ओर से करेंसी नोट जारी करना",
+   "ग्रामीण स्व-सहायता समूहों को सूक्ष्म वित्त ऋण प्रदान करना"
+  ],
+  "correct": 1,
+  "explainEn": "ARCs are specialized financial institutions that buy the Non-Performing Assets (NPAs) or bad loans from banks and financial institutions so that the latter can clean up their balance sheets.",
+  "sourceHint": "SARFAESI Act 2002 and RBI Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:52:22Z"
+ },
+ {
+  "id": "q_b15b61ed5ceeb5f6",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following entities regulates and supervises Mutual Funds in India?",
+  "qHi": "निम्नलिखित में से कौन सी संस्था भारत में म्यूचुअल फंड को विनियमित और पर्यवेक्षण करती है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Insurance Regulatory and Development Authority of India",
+   "Securities and Exchange Board of India",
+   "Pension Fund Regulatory and Development Authority"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय बीमा विनियामक और विकास प्राधिकरण",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "पेंशन निधि विनियामक और विकास प्राधिकरण"
+  ],
+  "correct": 2,
+  "explainEn": "SEBI regulates the securities market in India, which includes mutual funds, under the SEBI (Mutual Funds) Regulations, 1996.",
+  "sourceHint": "SEBI Act 1992",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:52:22Z"
+ },
+ {
+  "id": "q_a1c16bd9a61f239f",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What does the term 'Negotiable Instrument' refer to under the Negotiable Instruments Act, 1881 of India?",
+  "qHi": "भारत के परक्राम्य लिखत अधिनियम, 1881 के तहत 'परक्राम्य लिखत' (Negotiable Instrument) शब्द का क्या अर्थ है?",
+  "optsEn": [
+   "A verbal agreement between two trading parties",
+   "A promissory note, bill of exchange or cheque payable either to order or to bearer",
+   "Any government bond held in dematerialized form",
+   "An insurance policy document with surrender value"
+  ],
+  "optsHi": [
+   "दो व्यापारिक पक्षों के बीच एक मौखिक समझौता",
+   "एक promissory note, हुंडी या चेक जो या तो आदेश के अनुसार या वाहक को देय हो",
+   "डीमैट रूप में रखा गया कोई भी सरकारी बॉंड",
+   "समर्पण मूल्य वाला बीमा पॉलिसी दस्तावेज"
+  ],
+  "correct": 1,
+  "explainEn": "Section 13 of the Negotiable Instruments Act, 1881 defines a negotiable instrument as a promissory note, bill of exchange or cheque payable either to order or to bearer.",
+  "sourceHint": "Negotiable Instruments Act 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:52:22Z"
+ },
+ {
+  "id": "q_8f351107064958fc",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary function of the National Payments Corporation of India (NPCI)?",
+  "qHi": "भारतीय राष्ट्रीय भुगतान निगम (NPCI) का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "To formulate fiscal policy and set direct tax rates",
+   "To operate and manage retail payment and settlement systems in India",
+   "To provide foreign exchange to private commercial banks",
+   "To regulate cooperative banks in rural areas"
+  ],
+  "optsHi": [
+   "राजकोषीय नीति तैयार करना और प्रत्यक्ष कर दरों को निर्धारित करना",
+   "भारत में खुदरा भुगतान और निपटान प्रणालियों का संचालन और प्रबंधन करना",
+   "निजी वाणिज्यिक बैंकों को विदेशी मुद्रा प्रदान करना",
+   "ग्रामीण क्षेत्रों में सहकारी बैंकों को विनियमित करना"
+  ],
+  "correct": 1,
+  "explainEn": "NPCI is an umbrella organization for operating retail payments and settlement systems in India, created by RBI and IBA under the Payment and Settlement Systems Act, 2007.",
+  "sourceHint": "Payment and Settlement Systems Act 2007",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:52:22Z"
+ },
+ {
+  "id": "q_08f2043601bab518",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the Indian banking system, what is meant by 'Prompt Corrective Action' (PCA)?",
+  "qHi": "भारतीय बैंकिंग प्रणाली के संदर्भ में, 'त्वरित सुधार कार्रवाई' (PCA) से क्या तात्पर्य है?",
+  "optsEn": [
+   "A framework used by RBI to monitor and penalize banks showing signs of financial weakness",
+   "A mechanism to fast-track court cases related to banking fraud",
+   "An incentive scheme for banks achieving highest rural lending targets",
+   "A digital platform for clearing cross-border trade transactions"
+  ],
+  "optsHi": [
+   "वित्तीय कमजोरी के लक्षण दिखाने वाले बैंकों की निगरानी और दंडित करने के लिए आरबीआई द्वारा उपयोग किया जाने वाला ढांचा",
+   "बैंकिंग धोखाधड़ी से संबंधित अदालती मामलों को तेजी से निपटाने के लिए एक तंत्र",
+   "সর্বउच ग्रामीण ऋण लक्ष्य प्राप्त करने वाले बैंकों के लिए एक प्रोत्साहन योजना",
+   "सीमा पार व्यापार लेनदेन को स्पष्ट करने के लिए एक डिजिटल मंच"
+  ],
+  "correct": 0,
+  "explainEn": "PCA is a framework under which banks with weak financial metrics (such as capital, asset quality, and profitability) are put under watch by the RBI and subjected to certain restrictions.",
+  "sourceHint": "RBI Supervisory Framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:52:22Z"
  }
 ]

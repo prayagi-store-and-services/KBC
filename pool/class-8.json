@@ -13494,5 +13494,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-20T21:39:49Z"
+ },
+ {
+  "id": "q_96f7574024d30117",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which layer of the Earth is the outermost solid layer?",
+  "qHi": "पृथ्वी की कौन सी परत सबसे बाहरी ठोस परत है?",
+  "optsEn": [
+   "Mantle",
+   "Core",
+   "Crust",
+   "Magma"
+  ],
+  "optsHi": [
+   "मैントল (प्रावार)",
+   "क्रोड",
+   "पर्पटी (क्रस्ट)",
+   "मैग्मा"
+  ],
+  "correct": 2,
+  "explainEn": "The crust is the outermost solid shell of our planet.",
+  "sourceHint": "NCERT Class 8 Geography Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:50:25Z"
  }
 ]

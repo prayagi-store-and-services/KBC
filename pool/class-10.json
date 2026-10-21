@@ -17274,5 +17274,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-20T21:41:14Z"
+ },
+ {
+  "id": "q_57eff639c0c07300",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which plant hormone is primarily responsible for cell division and promotes rapid cell growth in areas like fruits and seeds?",
+  "qHi": "कौन सा पादप हार्मोन मुख्य रूप से कोशिका विभाजन के लिए जिम्मेदार है और फलों तथा बीजों जैसे क्षेत्रों में तेजी से कोशिका वृद्धि को बढ़ावा देता है?",
+  "optsEn": [
+   "Auxin",
+   "Gibberellin",
+   "Cytokinin",
+   "Abscisic acid"
+  ],
+  "optsHi": [
+   "ऑक्सिन",
+   "जिबरेलिन",
+   "साइटोकिनिन",
+   "एब्सिसिक अम्ल"
+  ],
+  "correct": 2,
+  "explainEn": "Cytokinins are plant hormones that promote cell division, especially in plant roots, fruits, and seeds.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:51:36Z"
+ },
+ {
+  "id": "q_14b60ffacddb88f2",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which part of the human digestive system is food completely digested and nutrients absorbed into the bloodstream?",
+  "qHi": "मानव पाचन तंत्र के किस भाग में भोजन का पूर्ण पाचन होता है और पोषक तत्व रक्तप्रवाह में अवशोषित होते हैं?",
+  "optsEn": [
+   "Stomach",
+   "Large intestine",
+   "Small intestine",
+   "Oesophagus"
+  ],
+  "optsHi": [
+   "अमाशय",
+   "बड़ी आंत",
+   "छोटी आंत",
+   "ग्रसिका"
+  ],
+  "correct": 2,
+  "explainEn": "The small intestine is the site of complete digestion of carbohydrates, proteins, and fats, and absorption of nutrients.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:51:36Z"
+ },
+ {
+  "id": "q_f6e9332a170a07b9",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of reaction is the formation of zinc oxide from zinc and oxygen?",
+  "qHi": "जस्ता और ऑक्सीजन से जिंक ऑक्साइड का बनना किस प्रकार की अभिक्रिया है?",
+  "optsEn": [
+   "Decomposition reaction",
+   "Combination reaction",
+   "Displacement reaction",
+   "Double displacement reaction"
+  ],
+  "optsHi": [
+   "वियोजन अभिक्रिया",
+   "संयोजन अभिक्रिया",
+   "विस्थापन अभिक्रिया",
+   "द्वि-विस्थापन अभिक्रिया"
+  ],
+  "correct": 1,
+  "explainEn": "When two or more substances combine to form a single new substance, it is called a combination reaction.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:51:36Z"
+ },
+ {
+  "id": "q_91ad9fce399e0d1f",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the phenomenon of bending of light at the boundary of two different media called?",
+  "qHi": "दो अलग-अलग माध्यमों की सीमा पर प्रकाश के मुड़ने की घटना को क्या कहते हैं?",
+  "optsEn": [
+   "Reflection",
+   "Refraction",
+   "Dispersion",
+   "Scattering"
+  ],
+  "optsHi": [
+   "परावर्तन",
+   "अपवर्तन",
+   "विक्षेपण",
+   "प्रकीर्णन"
+  ],
+  "correct": 1,
+  "explainEn": "Refraction is the change in direction of a light wave passing from one transparent medium to another due to a change in its speed.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:51:36Z"
  }
 ]

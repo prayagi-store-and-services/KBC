@@ -19178,5 +19178,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-20T21:41:21Z"
+ },
+ {
+  "id": "q_6cbd4fff85baf617",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which greenhouse gas is emitted in large quantities from paddy fields?",
+  "qHi": "धान के खेतों से कौन सी ग्रीनहाउस गैस बड़ी मात्रा में उत्सर्जित होती है?",
+  "optsEn": [
+   "Methane",
+   "CFC",
+   "Oxygen",
+   "Sulphur dioxide"
+  ],
+  "optsHi": [
+   "मीथेन",
+   "सीएफसी",
+   "ऑक्सीजन",
+   "सल्फर डाइऑक्साइड"
+  ],
+  "correct": 0,
+  "explainEn": "Anaerobic conditions in flooded paddy fields lead to the production and emission of methane gas.",
+  "sourceHint": "NCERT Class 12 Biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:50:37Z"
+ },
+ {
+  "id": "q_686b7aa9529d24b2",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the hybridization of the central carbon atom in a methane molecule (CH4)?",
+  "qHi": "मीथेन अणु (CH4) में केंद्रीय कार्बन परमाणु का संकरण क्या है?",
+  "optsEn": [
+   "sp",
+   "sp2",
+   "sp3",
+   "sp3d"
+  ],
+  "optsHi": [
+   "sp",
+   "sp2",
+   "sp3",
+   "sp3d"
+  ],
+  "correct": 2,
+  "explainEn": "Carbon in methane forms four single sigma bonds with hydrogen atoms, resulting in tetrahedral geometry and sp3 hybridization.",
+  "sourceHint": "NCERT Class 11 Chemistry, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:51:41Z"
+ },
+ {
+  "id": "q_c5ba08eabecdae7a",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which British Governor-General introduced the Doctrine of Lapse in India?",
+  "qHi": "किस ब्रिटिश गवर्नर-जनरल ने भारत में हड़प नीति (डॉक्ट्रिन ऑफ लैप्स) की शुरुआत की थी?",
+  "optsEn": [
+   "Lord Cornwallis",
+   "Lord Dalhousie",
+   "Lord Wellesley",
+   "Lord Curzon"
+  ],
+  "optsHi": [
+   "लॉर्ड कॉर्नवालिस",
+   "लॉर्ड डलहौजी",
+   "लॉर्ड वेलेजली",
+   "लॉर्ड कर्जन"
+  ],
+  "correct": 1,
+  "explainEn": "Lord Dalhousie, who served as Governor-General from 1848 to 1856, extensively applied the Doctrine of Lapse to annex princely states.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:51:41Z"
+ },
+ {
+  "id": "q_4be74b0b60bcfe0a",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which soil type, formed by the deposition of silt by rivers, is most widespread and agriculturally productive in Northern India?",
+  "qHi": "नदियों द्वारा गाद के जमाव से बनने वाली कौन सी मिट्टी उत्तरी भारत में सबसे व्यापक और कृषि रूप से उपजाऊ है?",
+  "optsEn": [
+   "Laterite soil",
+   "Black soil",
+   "Alluvial soil",
+   "Red soil"
+  ],
+  "optsHi": [
+   "लैटेराइट मिट्टी",
+   "काली मिट्टी",
+   "जलोढ़ मिट्टी",
+   "लाल मिट्टी"
+  ],
+  "correct": 2,
+  "explainEn": "Alluvial soils are northern plains deposits brought down by rivers, making them highly fertile and agriculturally productive.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:51:41Z"
+ },
+ {
+  "id": "q_bb3df2cdee50611a",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which literary work is authored by the ancient Indian scholar Panini?",
+  "qHi": "प्राचीन भारतीय विद्वान पाणिनि द्वारा रचित साहित्यिक कृति कौन सी है?",
+  "optsEn": [
+   "Ashtadhyayi",
+   "Arthashastra",
+   "Meghaduta",
+   "Natya Shastra"
+  ],
+  "optsHi": [
+   "अष्टाध्यायी",
+   "अर्थशास्त्र",
+   "मेघदूत",
+   "नाट्य शास्त्र"
+  ],
+  "correct": 0,
+  "explainEn": "Ashtadhyayi is a Sanskrit treatise on grammar written by the ancient scholar Panini.",
+  "sourceHint": "NCERT Class 11 History / Indian Art",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:51:41Z"
  }
 ]

@@ -17582,5 +17582,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-20T21:40:54Z"
+ },
+ {
+  "id": "q_1929e25fa651e7ea",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which traditional Indian dance originates from the state of Tamil Nadu?",
+  "qHi": "कौन सा पारंपरिक भारतीय नृत्य तमिलनाडु राज्य से उत्पन्न हुआ है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathak",
+   "Kuchipudi",
+   "Kathakali"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथक",
+   "कुचिपुड़ी",
+   "कथकली"
+  ],
+  "correct": 0,
+  "explainEn": "Bharatanatyam is a classical dance form that originated in the temples of Tamil Nadu.",
+  "sourceHint": "NCERT Art and Culture basics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:50:21Z"
+ },
+ {
+  "id": "q_bf8b399c68ce4655",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organ system in the human body is primarily responsible for breathing in oxygen and breathing out carbon dioxide?",
+  "qHi": "मानव शरीर का कौन सा अंग तंत्र मुख्य रूप से ऑक्सीजन अंदर लेने और कार्बन डाइऑक्साइड बाहर छोड़ने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Circulatory system",
+   "Respiratory system",
+   "Digestive system",
+   "Skeletal system"
+  ],
+  "optsHi": [
+   "संचार तंत्र",
+   "श्वसन तंत्र",
+   "पाचन तंत्र",
+   "कंकाल तंत्र"
+  ],
+  "correct": 1,
+  "explainEn": "The respiratory system includes the lungs and windpipe, which help in the exchange of gases like oxygen and carbon dioxide.",
+  "sourceHint": "NCERT Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:51:27Z"
+ },
+ {
+  "id": "q_c976c05424134593",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian classical dance form originates from the state of Kerala and is known for elaborate makeup and face masks?",
+  "qHi": "कौन सा भारतीय शास्त्रीय नृत्य केरल राज्य से उत्पन्न हुआ है और विस्तृत मेकअप और चेहरे के मुखौटों के लिए जाना जाता है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a traditional dance-drama form from Kerala recognized by its vibrant costumes and heavy facial makeup.",
+  "sourceHint": "NCERT Art and Culture references",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:51:27Z"
+ },
+ {
+  "id": "q_d2525b119c071ae6",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of force pulls objects toward the center of the Earth?",
+  "qHi": "किस प्रकार का बल वस्तुओं को पृथ्वी के केंद्र की ओर खींचता है?",
+  "optsEn": [
+   "Friction",
+   "Magnetic force",
+   "Gravitational force",
+   "Muscular force"
+  ],
+  "optsHi": [
+   "घर्षण बल",
+   "चुंबकीय बल",
+   "गुरुत्वाकर्षण बल",
+   "पेशीय बल"
+  ],
+  "correct": 2,
+  "explainEn": "Gravity is the invisible force that pulls objects toward the Earth.",
+  "sourceHint": "NCERT Science Chapter (A Shelter so High / Up You Go references)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:51:27Z"
+ },
+ {
+  "id": "q_17ab0f553d400f8a",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary function of the stomata found on the undersides of plant leaves?",
+  "qHi": "पौधों की पत्तियों के निचले हिस्से में पाए जाने वाले रंध्रों (स्टोमेटा) का मुख्य कार्य क्या है?",
+  "optsEn": [
+   "Absorbing water from the soil",
+   "Exchanging gases like carbon dioxide and oxygen",
+   "Storing excess food as starch",
+   "Producing seeds for reproduction"
+  ],
+  "optsHi": [
+   "मिट्टी से पानी吸收 करना",
+   "कार्बन डाइऑक्साइड और ऑक्सीजन जैसी गैसों का आदान-प्रदान करना",
+   "अतिरिक्त भोजन को स्टार्च के रूप में संग्रहित करना",
+   "प्रजनन के लिए बीज उत्पन्न करना"
+  ],
+  "correct": 1,
+  "explainEn": "Stomata are tiny pores on leaves that allow plants to take in carbon dioxide and release oxygen during photosynthesis.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:52:32Z"
+ },
+ {
+  "id": "q_12f86aa48ad6f7de",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional Indian stepwell, located in Gujarat, is designed like an inverted temple and features seven levels of stairs?",
+  "qHi": "गुजरात में स्थित कौन सी पारंपरिक भारतीय बावड़ी (स्टेपवेल) एक उलटे मंदिर की तरह डिज़ाइन की गई है और इसमें सीढ़ियों के सात स्तर हैं?",
+  "optsEn": [
+   "Chand Baori",
+   "Rani ki Vav",
+   "Agrasen ki Baoli",
+   "Adalaj Stepwell"
+  ],
+  "optsHi": [
+   "चांद बावड़ी",
+   "रानी की वाव",
+   "अग्रसेन की बावली",
+   "अदालाज स्टेपवेल"
+  ],
+  "correct": 1,
+  "explainEn": "Rani ki Vav in Patan, Gujarat, is built on the Saraswati riverbank and is designed as an inverted temple highlighting water management.",
+  "sourceHint": "NCERT Class 5 EVS Looking Around",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:52:32Z"
+ },
+ {
+  "id": "q_e30b8880b3f705f0",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the water cycle, what is the term used for the process by which water vapor turns back into liquid water droplets to form clouds?",
+  "qHi": "जल चक्र में, उस प्रक्रिया के लिए किस शब्द का उपयोग किया जाता है जिसके द्वारा जल वाष्प बादलों का निर्माण करने के लिए वापस तरल पानी की बूंदों में बदल जाती है?",
+  "optsEn": [
+   "Evaporation",
+   "Transpiration",
+   "Condensation",
+   "Precipitation"
+  ],
+  "optsHi": [
+   "वाष्पीकरण",
+   "वाष्पोत्सर्जन",
+   "संघनन",
+   "वर्षा"
+  ],
+  "correct": 2,
+  "explainEn": "Condensation is the process where water vapor cools and changes back into liquid droplets, forming clouds.",
+  "sourceHint": "NCERT Class 6 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:52:32Z"
+ },
+ {
+  "id": "q_054165f7db66ecd4",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organ in the human digestive system is primarily responsible for absorbing water and salts from undigested food material?",
+  "qHi": "मानव पाचन तंत्र में कौन सा अंग मुख्य रूप से पच न पाने वाले भोजन सामग्री से पानी और लवण को अवशोषित करने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Stomach",
+   "Small intestine",
+   "Large intestine",
+   "Liver"
+  ],
+  "optsHi": [
+   "पेट",
+   "छोटा आंत",
+   "बड़ा आंत",
+   "यकृत"
+  ],
+  "correct": 2,
+  "explainEn": "The large intestine absorbs water and remaining mineral salts from the undigested food before waste is excreted.",
+  "sourceHint": "NCERT Class 7 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:52:32Z"
+ },
+ {
+  "id": "q_a6eb57a200d07e3d",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which part of a seed contains the stored food that provides nourishment to the baby plant (embryo) during germination?",
+  "qHi": "बीज के किस भाग में संचित भोजन होता है जो अंकुरण के दौरान नन्हे पौधे (भ्रूण) को पोषण प्रदान करता है?",
+  "optsEn": [
+   "Seed coat",
+   "Cotyledon",
+   "Radicle",
+   "Micropyle"
+  ],
+  "optsHi": [
+   "बीज आवरण",
+   "बीजपत्र",
+   "मूलांकुर",
+   "बीजद्वार"
+  ],
+  "correct": 1,
+  "explainEn": "Cotyledons store food for the embryo inside the seed until the plant can make its own food through photosynthesis.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:52:32Z"
  }
 ]

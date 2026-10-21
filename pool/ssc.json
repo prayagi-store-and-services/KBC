@@ -13074,5 +13074,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-20T21:41:33Z"
+ },
+ {
+  "id": "q_1bd0932a4c401552",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which river flows through the city of Surat in Gujarat?",
+  "qHi": "गुजरात के सूरत शहर से कौन सी नदी बहती है?",
+  "optsEn": [
+   "Narmada",
+   "Tapi",
+   "Sabarmati",
+   "Mahi"
+  ],
+  "optsHi": [
+   "नर्मदा",
+   "तापी",
+   "साबरमती",
+   "माही"
+  ],
+  "correct": 1,
+  "explainEn": "The city of Surat is situated on the banks of the Tapi River.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:50:09Z"
+ },
+ {
+  "id": "q_d016a7c7053f5974",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is the chief ore of aluminum?",
+  "qHi": "निम्नलिखित में से कौन एल्यूमीनियम का मुख्य अयस्क है?",
+  "optsEn": [
+   "Hematite",
+   "Bauxite",
+   "Calamine",
+   "Galena"
+  ],
+  "optsHi": [
+   "हेमेटाइट",
+   "बॉксиाइट",
+   "कैलामाइन",
+   "गैलेना"
+  ],
+  "correct": 1,
+  "explainEn": "Bauxite is a sedimentary rock with a high aluminum content and is the principal ore of aluminum.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:51:13Z"
+ },
+ {
+  "id": "q_b5b6f0bae0ac29b6",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the British colonial period in India, the Doctrine of Lapse was prominently used to annex which of the following princely states in the year 1848?",
+  "qHi": "भारत में ब्रिटिश औपनिवेशिक काल के दौरान, वर्ष 1848 में निम्नलिखित में से किस रियासत का विलय करने के लिए व्यपगत के सिद्धांत (डॉक्ट्रिन ऑफ लैप्स) का प्रमुखता से उपयोग किया गया था?",
+  "optsEn": [
+   "Satara",
+   "Jhansi",
+   "Nagpur",
+   "Awadh"
+  ],
+  "optsHi": [
+   "सतारा",
+   "झांसी",
+   "नागपुर",
+   "अवध"
+  ],
+  "correct": 0,
+  "explainEn": "Satara was the first princely state annexed by Lord Dalhousie under the Doctrine of Lapse in 1848.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:52:14Z"
+ },
+ {
+  "id": "q_6ba1cf02def86703",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary objective of the 'Ramsar Convention', to which India is a contracting party?",
+  "qHi": "'रामसर कन्वेंशन', जिसका भारत एक पक्षकार है, का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "Conservation and sustainable use of wetlands",
+   "Reduction of transboundary air pollution",
+   "Regulation of international trade in endangered species",
+   "Protection of stratospheric ozone layer"
+  ],
+  "optsHi": [
+   "आर्द्रभूमि (वेटलैंड्स) का संरक्षण और सतत उपयोग",
+   "सीमा पार वायु प्रदूषण में कमी",
+   "लुप्तप्राय प्रजातियों के अंतर्राष्ट्रीय व्यापार का विनियमन",
+   "समताप मंडल ओजोन परत की सुरक्षा"
+  ],
+  "correct": 0,
+  "explainEn": "The Ramsar Convention is an international treaty for the conservation and sustainable use of wetlands, signed in 1971 in Ramsar, Iran.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:52:14Z"
+ },
+ {
+  "id": "q_bd505f9720f714f6",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian monetary policy, which institution is legally mandated to regulate the issuance of bank notes and maintain reserves with a view to securing monetary stability?",
+  "qHi": "भारतीय मौद्रिक नीति के संदर्भ में, किस संस्था को कानूनी रूप से बैंक नोटों के निर्गमन को विनियमित करने और मौद्रिक स्थिरता सुरक्षित करने के उद्देश्य से भंडार बनाए रखने का आदेश दिया गया है?",
+  "optsEn": [
+   "Ministry of Finance",
+   "State Bank of India",
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "वित्त मंत्रालय",
+   "भारतीय स्टेट बैंक",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड"
+  ],
+  "correct": 2,
+  "explainEn": "Under the Reserve Bank of India Act, 1934, the RBI is entrusted with the statutory responsibility of banknote issuance and monetary stability.",
+  "sourceHint": "RBI Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:52:14Z"
+ },
+ {
+  "id": "q_b8400c22383ec7b3",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which physiographic division of India is structurally a stable block composed of ancient gneisses and granites, forming part of the Indo-African shield?",
+  "qHi": "भारत का कौन सा भौतिक विभाजन संरचनात्मक रूप से प्राचीन नीस और ग्रेनाइट से बना एक स्थिर ब्लॉक है, जो इंडो-अफ्रीकी शील्ड का हिस्सा है?",
+  "optsEn": [
+   "The Himalayas",
+   "The Peninsular Plateau",
+   "The Northern Plains",
+   "The Coastal Plains"
+  ],
+  "optsHi": [
+   "हिमालय",
+   "प्रायद्वीपीय पठार",
+   "उत्तरी मैदान",
+   "तटीय मैदान"
+  ],
+  "correct": 1,
+  "explainEn": "The Peninsular Plateau is a tableland composed of the old crystalline, igneous and metamorphic rocks, forming a stable shield area.",
+  "sourceHint": "NCERT Geography Class 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:52:14Z"
+ },
+ {
+  "id": "q_45f3d448809d7941",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Government of India Act 1919, which of the following subjects was categorized as 'Transferred' rather than 'Reserved' in the provinces?",
+  "qHi": "भारत सरकार अधिनियम 1919 के तहत, प्रांतों में निम्नलिखित में से किस विषय को 'आरक्षित' के बजाय 'हस्तांतरित' के रूप में वर्गीकृत किया गया था?",
+  "optsEn": [
+   "Finance",
+   "Law and Order",
+   "Education",
+   "Land Revenue"
+  ],
+  "optsHi": [
+   "वित्त",
+   "कानून और व्यवस्था",
+   "शिक्षा",
+   "भू-राजस्व"
+  ],
+  "correct": 2,
+  "explainEn": "Dyarchy introduced provincial subjects as Reserved (administered by Governor and executive council) and Transferred (administered by ministers responsible to legislature). Education was a transferred subject.",
+  "sourceHint": "Indian Polity by M. Laxmikanth / NCERT",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:52:14Z"
+ },
+ {
+  "id": "q_4a2ff160c48f4ef9",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following elements is a metalloid commonly used in the manufacture of semiconductor devices in the electronics industry?",
+  "qHi": "निम्नलिखित में से कौन सा तत्व एक उपधातु (मेटलॉइड) है जिसका उपयोग इलेक्ट्रॉनिक्स उद्योग में सेमीकंडक्टर उपकरणों के निर्माण में आम तौर पर किया जाता है?",
+  "optsEn": [
+   "Silicon",
+   "Copper",
+   "Aluminum",
+   "Sulfur"
+  ],
+  "optsHi": [
+   "सिलिकॉन",
+   "तांबा",
+   "एल्युमीनियम",
+   "सल्फर"
+  ],
+  "correct": 0,
+  "explainEn": "Silicon is a chemical element with symbol Si and atomic number 14. It is a tetravalent metalloid and semiconductor widely used in computer chips.",
+  "sourceHint": "NCERT Science Textbook Class 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:52:14Z"
+ },
+ {
+  "id": "q_cb2fd08dc8d9bc7c",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In statistical mechanics and thermodynamics, which law states that the entropy of a pure crystalline substance approaches zero as the temperature approaches absolute zero?",
+  "qHi": "सांख्यिकी यांत्रिकी और ऊष्मागतिकी में, कौन सा नियम यह बताता है कि तापमान के परम शून्य (एब्सोल्यूट जीरो) के करीब पहुंचने पर एक शुद्ध क्रिस्टलीय पदार्थ की एंट्रोपी शून्य के करीब हो जाती है?",
+  "optsEn": [
+   "Zeroth Law of Thermodynamics",
+   "First Law of Thermodynamics",
+   "Second Law of Thermodynamics",
+   "Third Law of Thermodynamics"
+  ],
+  "optsHi": [
+   "ऊष्मागतिकी का शून्यवां नियम",
+   "ऊष्मागतिकी का प्रथम नियम",
+   "ऊष्मागतिकी का द्वितीय नियम",
+   "ऊष्मागतिकी का तृतीय नियम"
+  ],
+  "correct": 3,
+  "explainEn": "The Third Law of Thermodynamics states that the entropy of a system at absolute zero is a well-defined constant, typically zero for a perfect crystal.",
+  "sourceHint": "NCERT Physics Class 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T04:52:14Z"
  }
 ]
