@@ -13494,5 +13494,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-21T17:16:08Z"
+ },
+ {
+  "id": "q_b697d6733a4d7b5e",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas do plants absorb primarily from the atmosphere for photosynthesis?",
+  "qHi": "पौधे प्रकाश संश्लेषण के लिए मुख्य रूप से वायुमंडल से कौन सी गैस अवशोषित करते हैं?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Plants use carbon dioxide, water, and sunlight to synthesize foods during photosynthesis.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:43:56Z"
+ },
+ {
+  "id": "q_8d1333aa82243118",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the currency used in India?",
+  "qHi": "भारत में कौन सी मुद्रा का उपयोग किया जाता है?",
+  "optsEn": [
+   "Taka",
+   "Rupee",
+   "Yen",
+   "Dollar"
+  ],
+  "optsHi": [
+   "टक्का",
+   "रुपया",
+   "येन",
+   "डॉलर"
+  ],
+  "correct": 1,
+  "explainEn": "The official currency of the Republic of India is the Indian Rupee.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:43:56Z"
+ },
+ {
+  "id": "q_6fe63a6182da5eb6",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who wrote the ancient treatise on statecraft, the Arthashastra?",
+  "qHi": "राजव्यवस्था पर प्राचीन ग्रंथ 'अर्थशास्त्र' की रचना किसने की थी?",
+  "optsEn": [
+   "Kalidasa",
+   "Banabhatta",
+   "Kautilya",
+   "Patanjali"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "बाणभट्ट",
+   "कौटिल्य",
+   "पतंजलि"
+  ],
+  "correct": 2,
+  "explainEn": "Arthashastra was written by Kautilya, also known as Chanakya.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:45:46Z"
+ },
+ {
+  "id": "q_5d7e6977c9a5831f",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary function of the Reserve Bank of India's repo rate?",
+  "qHi": "भारतीय रिजर्व बैंक की रेपो रेट का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "Regulating foreign exchange reserves",
+   "Controlling inflation by managing money supply",
+   "Determining minimum support prices for crops",
+   "Fixing corporate tax rates"
+  ],
+  "optsHi": [
+   "विदेशी मुद्रा भंडार को विनियमित करना",
+   "धन की आपूर्ति का प्रबंधन करके मुद्रास्फीति को नियंत्रित करना",
+   "फसलों के लिए न्यूनतम समर्थन मूल्य निर्धारित करना",
+   "कॉर्पोरेट कर दरों को तय करना"
+  ],
+  "correct": 1,
+  "explainEn": "The repo rate is the rate at which the RBI lends money to commercial banks, used primarily to control inflation.",
+  "sourceHint": "Reserve Bank of India (RBI) website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:45:46Z"
+ },
+ {
+  "id": "q_1c92ba42779e67a5",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which cave temple complex in Mumbai harbor is a UNESCO World Heritage Site dedicated to Lord Shiva?",
+  "qHi": "मुंबई बंदरगाह में कौन सा गुफा मंदिर परिसर भगवान शिव को समर्पित यूनेस्को विश्व धरोहर स्थल है?",
+  "optsEn": [
+   "Elephanta Caves",
+   "Ajanta Caves",
+   "Karla Caves",
+   "Kanheri Caves"
+  ],
+  "optsHi": [
+   "एलीफेंटा गुफाएं",
+   "अजंता गुफाएं",
+   "कार्ला गुफाएं",
+   "कान्हेरी गुफाएं"
+  ],
+  "correct": 0,
+  "explainEn": "The Elephanta Caves on Elephanta Island contain rock-cut stone sculptures, mostly associated with the sect of Shiva.",
+  "sourceHint": "UNESCO World Heritage Centre",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:45:46Z"
  }
 ]

@@ -13718,5 +13718,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-21T17:15:34Z"
+ },
+ {
+  "id": "q_308bd86b7f636baf",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which amendment of the Constitution of India lowered the voting age from 21 years to 18 years?",
+  "qHi": "भारत के संविधान के किस संशोधन ने मतदान की आयु 21 वर्ष से घटाकर 18 वर्ष कर दी?",
+  "optsEn": [
+   "42nd Amendment",
+   "44th Amendment",
+   "61st Amendment",
+   "73rd Amendment"
+  ],
+  "optsHi": [
+   "42वां संशोधन",
+   "44वां संशोधन",
+   "61वां संशोधन",
+   "73वां संशोधन"
+  ],
+  "correct": 2,
+  "explainEn": "The 61st Constitutional Amendment Act, 1988 lowered the voting age of elections to the Lok Sabha and Legislative Assemblies from 21 to 18 years.",
+  "sourceHint": "Indian Polity by M. Laxmikanth",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:45:22Z"
+ },
+ {
+  "id": "q_c0784494db9bd750",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following classical dance forms originated in Kerala?",
+  "qHi": "निम्नलिखित में से कौन सा शास्त्रीय नृत्य रूप केरल में उत्पन्न हुआ?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a major form of classical Indian dance that originated in the southern state of Kerala.",
+  "sourceHint": "CCRT India Culture",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:45:22Z"
  }
 ]

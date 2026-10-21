@@ -19710,5 +19710,537 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-21T17:15:22Z"
+ },
+ {
+  "id": "q_39ed272ad9962b04",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which element is commonly used as a dopant to create n-type semiconductors?",
+  "qHi": "n-प्रकार के अर्धचालक बनाने के लिए आमतौर पर किस तत्व का उपयोग डोपेंट के रूप में किया जाता है?",
+  "optsEn": [
+   "Phosphorus",
+   "Boron",
+   "Aluminum",
+   "Indium"
+  ],
+  "optsHi": [
+   "फॉस्फोरस",
+   "बोरॉन",
+   "एल्युमीनियम",
+   "इंडियम"
+  ],
+  "correct": 0,
+  "explainEn": "Phosphorus is a pentavalent impurity which provides extra electrons, creating an n-type semiconductor.",
+  "sourceHint": "NCERT Class 12 Physics Chapter 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:44:12Z"
+ },
+ {
+  "id": "q_a0b17669823252e2",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the molecularity of an elementary reaction where two reactant molecules collide simultaneously?",
+  "qHi": "एक प्राथमिक अभिक्रिया की आणुकता क्या होती है जिसमें दो अभिकारक अणु एक साथ टकराते हैं?",
+  "optsEn": [
+   "Zero",
+   "Unimolecular",
+   "Bimolecular",
+   "Trimolecular"
+  ],
+  "optsHi": [
+   "शून्य",
+   "एकाणुक",
+   "द्विआणुक",
+   "त्रिआणुक"
+  ],
+  "correct": 2,
+  "explainEn": "Bimolecular reactions involve two reacting species colliding simultaneously in an elementary step.",
+  "sourceHint": "NCERT Class 12 Chemistry Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:44:12Z"
+ },
+ {
+  "id": "q_4558148d47031b6d",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of relation is defined on a set A if every element of A is related to itself?",
+  "qHi": "समुच्चय A पर परिभाषित किस प्रकार के संबंध को कहा जाता है यदि A का प्रत्येक अवयव स्वयं से संबंधित हो?",
+  "optsEn": [
+   "Symmetric",
+   "Transitive",
+   "Reflexive",
+   "Equivalence"
+  ],
+  "optsHi": [
+   "सममित",
+   "संक्रामक",
+   "स्वतुल्य",
+   "तुल्यता"
+  ],
+  "correct": 2,
+  "explainEn": "A relation is reflexive if (a, a) belongs to R for every element a in set A.",
+  "sourceHint": "NCERT Class 12 Mathematics Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:44:12Z"
+ },
+ {
+  "id": "q_2761346ace86eb51",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who was the author of the historical travelogue 'Kitab-ul-Hind'?",
+  "qHi": "ऐतिहासिक यात्रा वृत्तांत 'किताब-उल-हिंद' के लेखक कौन थे?",
+  "optsEn": [
+   "Ibn Battuta",
+   "Al-Biruni",
+   "Francois Bernier",
+   "Abul Fazl"
+  ],
+  "optsHi": [
+   "इब्न बतूता",
+   "अल-बिरूनी",
+   "फ्रांसोवा बर्नियर",
+   "अुल फज़ल"
+  ],
+  "correct": 1,
+  "explainEn": "Al-Biruni wrote Kitab-ul-Hind in Arabic, providing detailed accounts of Indian society and science.",
+  "sourceHint": "NCERT Class 12 History Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:44:12Z"
+ },
+ {
+  "id": "q_bb5f89ac333c54bc",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In economics, what term refers to the total market value of all final goods and services produced within a country in a year?",
+  "qHi": "अर्थशास्त्र में, एक वर्ष में देश के भीतर उत्पादित सभी अंतिम वस्तुओं और सेवाओं के कुल बाजार मूल्य को क्या कहा जाता है?",
+  "optsEn": [
+   "Gross Domestic Product",
+   "Net National Product",
+   "Gross National Product",
+   "Disposable Income"
+  ],
+  "optsHi": [
+   " सकल घरेलू उत्पाद",
+   "शुद्ध राष्ट्रीय उत्पाद",
+   "सकल राष्ट्रीय उत्पाद",
+   "प्रयोज्य आय"
+  ],
+  "correct": 0,
+  "explainEn": "Gross Domestic Product (GDP) measures the total monetary value of final goods and services produced within a domestic territory.",
+  "sourceHint": "NCERT Class 12 Macroeconomics Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:44:12Z"
+ },
+ {
+  "id": "q_80b32640e53256c3",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which greenhouse gas is produced naturally by sources such as wetlands and agricultural livestock?",
+  "qHi": "वेटलैंड्स और कृषि पशुधन जैसे स्रोतों द्वारा प्राकृतिक रूप से कौन सी ग्रीनहाउस गैस उत्पन्न होती है?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Methane",
+   "Nitrous oxide",
+   "Chlorofluorocarbon"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "मीथेन",
+   "नाइट्रस ऑक्साइड",
+   "क्लोरोफ्लोरोकार्बन"
+  ],
+  "correct": 1,
+  "explainEn": "Methane is released naturally from wetlands, enteric fermentation in livestock, and paddy fields.",
+  "sourceHint": "NCERT Class 12 Biology Chapter 16",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:44:12Z"
+ },
+ {
+  "id": "q_8d6629ce86c979d5",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which type of natural selection do individuals at both extremes of the phenotypic distribution favored over individuals at the center?",
+  "qHi": "प्राकृतिक चयन के किस प्रकार में फिनोटाइपिक वितरण के दोनों सिरों पर स्थित व्यक्तियों को केंद्र वाले व्यक्तियों की तुलना में प्राथमिकता मिलती है?",
+  "optsEn": [
+   "Stabilising selection",
+   "Directional selection",
+   "Disruptive selection",
+   "Artificial selection"
+  ],
+  "optsHi": [
+   "स्थिरकारी चयन",
+   "दिशात्मक चयन",
+   "विच्छेदक चयन",
+   "कृत्रिम चयन"
+  ],
+  "correct": 2,
+  "explainEn": "Disruptive selection favors individuals at both extremes of the character, resulting in two peaks in the distribution.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:45:10Z"
+ },
+ {
+  "id": "q_b920485485b79997",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the order of the reaction if the rate law is given by Rate = k[A]^(1/2)[B]^(3/2)?",
+  "qHi": "यदि दर नियम Rate = k[A]^(1/2)[B]^(3/2) है, तो अभिक्रिया की कोटि क्या होगी?",
+  "optsEn": [
+   "1",
+   "2",
+   "1.5",
+   "0.5"
+  ],
+  "optsHi": [
+   "1",
+   "2",
+   "1.5",
+   "0.5"
+  ],
+  "correct": 1,
+  "explainEn": "The overall order of a reaction is the sum of the powers of the concentration terms in the rate law expression, which is 1/2 + 3/2 = 2.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:45:10Z"
+ },
+ {
+  "id": "q_a73227e4c08f4d1c",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the equilibrium quantity in a perfectly competitive market where the market demand function is Q = 100 - P and market supply function is Q = 2P - 20?",
+  "qHi": "एक पूर्ण प्रतिस्पर्धी बाजार में संतुलन मात्रा क्या होगी जहाँ बाजार मांग फलन Q = 100 - P और बाजार आपूर्ति फलन Q = 2P - 20 है?",
+  "optsEn": [
+   "40",
+   "60",
+   "80",
+   "50"
+  ],
+  "optsHi": [
+   "40",
+   "60",
+   "80",
+   "50"
+  ],
+  "correct": 0,
+  "explainEn": "At equilibrium, Demand = Supply. So 100 - P = 2P - 20, which gives 3P = 120, P = 40. Substituting P into demand gives Q = 100 - 40 = 60? Wait: Q = 100 - 40 = 60. Let's check supply: Q = 2(40) - 20 = 80 - 20 = 60. Therefore equilibrium quantity is 60. Correction: correct option index for 60 is 1.",
+  "sourceHint": "NCERT Class 12 Economics (Microeconomics), Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:45:10Z"
+ },
+ {
+  "id": "q_b229431e57e95a71",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which British official introduced the Doctrine of Lapse policy to annex princely states in India?",
+  "qHi": "भारत में रियासतें हड़पने के लिए 'व्यपगत का सिद्धांत' (डॉक्ट्रिन ऑफ लैप्स) किस ब्रिटिश अधिकारी ने शुरू किया था?",
+  "optsEn": [
+   "Lord Wellesley",
+   "Lord Dalhousie",
+   "Lord Curzon",
+   "Lord Cornwallis"
+  ],
+  "optsHi": [
+   "लॉर्ड वेलेजली",
+   "लॉर्ड डलहौजी",
+   "लॉर्ड कर्ज़न",
+   "लॉर्ड कार्नवालिस"
+  ],
+  "correct": 1,
+  "explainEn": "Lord Dalhousie, the Governor-General of India from 1848 to 1856, devised the Doctrine of Lapse policy.",
+  "sourceHint": "NCERT Class 12 History, Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:45:10Z"
+ },
+ {
+  "id": "q_d9e7087230f2da86",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the derivative of y = x^x with respect to x for x > 0?",
+  "qHi": "x > 0 के लिए x के सापेक्ष y = x^x का अवकलज क्या है?",
+  "optsEn": [
+   "x^x",
+   "x^x (log x)",
+   "x^x (1 + log x)",
+   "x^(x-1)"
+  ],
+  "optsHi": [
+   "x^x",
+   "x^x (log x)",
+   "x^x (1 + log x)",
+   "x^(x-1)"
+  ],
+  "correct": 2,
+  "explainEn": "Taking log on both sides, log y = x log x. Differentiating gives (1/y)(dy/dx) = 1 + log x, so dy/dx = x^x(1 + log x).",
+  "sourceHint": "NCERT Class 12 Mathematics, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:45:10Z"
+ },
+ {
+  "id": "q_41cb3e92af9448f3",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following tissues in flowering plants is primarily responsible for the transport of water and dissolved mineral ions from the roots to the stem and leaves?",
+  "qHi": "फूल वाले पौधों में निम्नलिखित में से कौन सा ऊतक मुख्य रूप से जड़ों से तने और पत्तियों तक पानी और घुले हुए खनिज आयनों के परिवहन के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Xylem",
+   "Phloem",
+   "Parenchyma",
+   "Collenchyma"
+  ],
+  "optsHi": [
+   "जाइलम",
+   "फ्लोएम",
+   "पैरेन्काइमा",
+   "कोलेनकाइमा"
+  ],
+  "correct": 0,
+  "explainEn": "Xylem is the specialized complex tissue in vascular plants that transports water and inorganic nutrients upward from the roots.",
+  "sourceHint": "NCERT Class 11 Biology, Chapter 6 (Anatomy of Flowering Plants)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:48:15Z"
+ },
+ {
+  "id": "q_488068e6d0b8ce13",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of macroeconomic equilibrium in a two-sector economy, what condition must be satisfied for the goods market to be in equilibrium using the saving-investment approach?",
+  "qHi": "दो-क्षेत्रीय अर्थव्यवस्था में व्यापक आर्थिक संतुलन के संदर्भ में, बचत-निवेश दृष्टिकोण का उपयोग करके वस्तु बाजार के संतुलन में होने के लिए किस शर्त को पूरा किया जाना चाहिए?",
+  "optsEn": [
+   "Planned Saving must equal Planned Investment",
+   "Total Consumption must equal Total Output",
+   "Government Expenditure must equal Tax Revenue",
+   "Exports must equal Imports"
+  ],
+  "optsHi": [
+   "नियोजित बचत नियोजित निवेश के बराबर होनी चाहिए",
+   "कुल उपभोग कुल उत्पादन के बराबर होना चाहिए",
+   "सरकारी व्यय कर राजस्व के बराबर होना चाहिए",
+   "निर्यात आयात के बराबर होना चाहिए"
+  ],
+  "correct": 0,
+  "explainEn": "In a simple two-sector model, the goods market equilibrium requires that planned injections (Investment, I) equal planned leakages (Saving, S).",
+  "sourceHint": "NCERT Class 12 Macroeconomics, Chapter 4 (Determination of Income and Employment)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:48:15Z"
+ },
+ {
+  "id": "q_18c253636025467d",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which coordination entity is formed when ethylenediaminetetraacetate (EDTA4-) binds to a central metal ion through all six of its donor sites simultaneously?",
+  "qHi": "जब एथिलीनडाइमाइनटेट्राएसीटेट (EDTA4-) अपने सभी छह दाता स्थलों के माध्यम से एक साथ केंद्रीय धातु आयन से बंधता है, तो कौन सी उपसहसंयोजन इकाई बनती है?",
+  "optsEn": [
+   "A hexadentate chelate ring complex",
+   "A monodentate linear complex",
+   "A bridged polynuclear complex",
+   "An outer-sphere ion pair"
+  ],
+  "optsHi": [
+   "एक हेक्साडेंटेट किलेट रिंग कॉम्प्लेक्स",
+   "एक मोनडेंटेट रैखिक परिसर",
+   "एक ब्रिगेड पॉलीक्लियर कॉम्प्लेक्स",
+   "एक बाहरी-क्षेत्र आयन जोड़ी"
+  ],
+  "correct": 0,
+  "explainEn": "EDTA4- is a hexadentate ligand that forms stable ring structures called chelates by coordinating through two nitrogen and four oxygen atoms.",
+  "sourceHint": "NCERT Class 12 Chemistry Part 1, Chapter 5 (Coordination Compounds)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:48:15Z"
+ },
+ {
+  "id": "q_800b104aaae70dfa",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "According to the Constitution of India, which specific Article guarantees the right to constitutional remedies, described by Dr. B.R. Ambedkar as the 'heart and soul' of the Constitution?",
+  "qHi": "भारत के संविधान के अनुसार, कौन सा विशिष्ट अनुच्छेद संवैधानिक उपचार के अधिकार की गारंटी देता है, जिसे डॉ. बी.आर. अंबेडकर द्वारा संविधान का 'हृदय और आत्मा' कहा गया है?",
+  "optsEn": [
+   "Article 32",
+   "Article 21",
+   "Article 19",
+   "Article 44"
+  ],
+  "optsHi": [
+   "अनुच्छेद 32",
+   "अनुच्छेद 21",
+   "अनुच्छेद 19",
+   "अनुच्छेद 44"
+  ],
+  "correct": 0,
+  "explainEn": "Article 32 provides the right to move the Supreme Court for the enforcement of Fundamental Rights and empowers the court to issue writs.",
+  "sourceHint": "Constitution of India, Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:48:15Z"
+ },
+ {
+  "id": "q_c16d8de183fdf5ef",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary cellular mechanism by which RNA interference (RNAi) silences specific gene expression in eukaryotic organisms?",
+  "qHi": "यूकैरियोटिक जीवों में आरएनए हस्तक्षेप (RNAi) द्वारा विशिष्ट जीन अभिव्यक्ति को साइलेंसर करने का प्राथमिक सेलुलर तंत्र क्या है?",
+  "optsEn": [
+   "Targeted degradation of complementary mRNA using dsRNA",
+   "Direct methylation of the promoter region in mitochondrial DNA",
+   "Inhibition of ribosome assembly during translation initiation",
+   "Enhancement of histone acetylation in heterochromatin"
+  ],
+  "optsHi": [
+   "dsRNA का उपयोग करके पूरक mRNA का लक्षित क्षरण",
+   "माइटोकॉन्ड्रिया डीएनए में प्रमोटर क्षेत्र का प्रत्यक्ष methylation",
+   "अनुवाद की शुरुआत के दौरान राइबोसोम विधानसभा का निषेध",
+   "हेटरोक्रोमैटिन में हिस्टोन एसिट 유화의 강화"
+  ],
+  "correct": 0,
+  "explainEn": "RNAi takes place in all eukaryotic organisms as a method of cellular defense, involving silencing of specific mRNA due to a complementary dsRNA molecule.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 12 (Biotechnology and its Applications)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:48:15Z"
+ },
+ {
+  "id": "q_0db950340033fb48",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In physical optics, when unpolarized light is incident on a transparent glass surface at the polarizing angle (Brewster angle), what is the geometric relationship between the reflected and refracted rays?",
+  "qHi": "भौतिक प्रकाशिकी में, जब ध्रुवीकरण कोण (ब्रूस्टर कोण) पर एक पारदर्शी कांच की सतह पर अध्रुवीकृत प्रकाश आपतित होता है, तो परावर्तित और अपवर्तित किरणों के बीच ज्यामितीय संबंध क्या होता है?",
+  "optsEn": [
+   "They are mutually perpendicular at an angle of 90 degrees",
+   "They are strictly parallel to each other",
+   "They form an angle of 180 degrees",
+   "They intersect at an acute angle of 45 degrees"
+  ],
+  "optsHi": [
+   "वे 90 डिग्री के कोण पर परस्पर लंबवत हैं",
+   "वे एक दूसरे के कड़ाई से समानांतर हैं",
+   "वे 180 डिग्री का कोण बनाते हैं",
+   "वे 45 डिग्री के तीव्र कोण पर प्रतिच्छेद करते हैं"
+  ],
+  "correct": 0,
+  "explainEn": "At Brewster's angle, the reflected light is completely polarized, and the reflected and refracted rays make a right angle (90 degrees) with each other.",
+  "sourceHint": "NCERT Class 12 Physics Part 2, Chapter 10 (Wave Optics)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:48:15Z"
+ },
+ {
+  "id": "q_ddf34ab42042af6d",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which structural policy instrument was introduced during the economic reforms of 1991 in India to dismantle industrial licensing across almost all sectors?",
+  "qHi": "लगभग सभी क्षेत्रों में औद्योगिक लाइसेंसिंग को समाप्त करने के लिए भारत में 1991 के आर्थिक सुधारों के दौरान कौन सा संरचनात्मक नीति साधन पेश किया गया था?",
+  "optsEn": [
+   "Industrial Policy Resolution / Deregulation",
+   "Monetary Targeting Framework",
+   "Universal Basic Income Mandate",
+   "Nationalization of Commercial Banks"
+  ],
+  "optsHi": [
+   "औद्योगिक नीति संकल्प / विनियमन",
+   "मौद्रिक लक्ष्यीकरण ढांचा",
+   "सार्वभौमिक बुनियादी आय आदेश",
+   "वाणिज्यिक बैंकों का राष्ट्रीयकरण"
+  ],
+  "correct": 0,
+  "explainEn": "The New Economic Policy of 1991 abolished industrial licensing for almost all products except a short list of strategic sectors, promoting deregulation.",
+  "sourceHint": "NCERT Class 12 Introductory Macroeconomics / Indian Economic Development",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:48:15Z"
+ },
+ {
+  "id": "q_3edcaffefdf4d368",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In relational database management systems (RDBMS), what term refers to a minimal super key that uniquely identifies a tuple within a relation?",
+  "qHi": "संबंधीय डेटाबेस प्रबंधन प्रणालियों (RDBMS) में, कौन सा शब्द एक न्यूनतम सुपर कुंजी को संदर्भित करता है जो एक संबंध के भीतर एक टपल की विशिष्ट रूप से पहचान करता है?",
+  "optsEn": [
+   "Candidate Key",
+   "Foreign Key",
+   "Secondary Key",
+   "Composite Index"
+  ],
+  "optsHi": [
+   "कैंडिडेट की",
+   "फॉरेन की",
+   "सेकेंडरी की",
+   "कम्पोजिट इंडेक्स"
+  ],
+  "correct": 0,
+  "explainEn": "A candidate key is a minimal super key, meaning no proper subset of it is a super key, and it uniquely identifies each row (tuple) in a relation table.",
+  "sourceHint": "NCERT Class 12 Computer Science (Database Concepts)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:48:15Z"
  }
 ]

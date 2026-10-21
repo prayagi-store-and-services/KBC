@@ -18338,5 +18338,425 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-21T17:16:16Z"
+ },
+ {
+  "id": "q_069cb14ee6ff71bb",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these animals is a mammal?",
+  "qHi": "इनमें से कौन सा जानवर स्तनधारी है?",
+  "optsEn": [
+   "Frog",
+   "Whale",
+   "Snake",
+   "Crow"
+  ],
+  "optsHi": [
+   "मेंढक",
+   "हवादार व्हेल",
+   "सांप",
+   "कौवा"
+  ],
+  "correct": 1,
+  "explainEn": "Whales are aquatic mammals that give birth to live young and feed them milk.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:43:59Z"
+ },
+ {
+  "id": "q_4e67a215224ed8ec",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which vitamin do we get naturally from early morning sunlight?",
+  "qHi": "सुबह की धूप से हमें प्राकृतिक रूप से कौन सा विटामिन मिलता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Sunlight helps the human body produce Vitamin D.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:43:59Z"
+ },
+ {
+  "id": "q_2074ca0c7fa3f5d4",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a root vegetable?",
+  "qHi": "निम्नलिखित में से कौन सी जड़ वाली सब्जी है?",
+  "optsEn": [
+   "Potato",
+   "Carrot",
+   "Cabbage",
+   "Spinach"
+  ],
+  "optsHi": [
+   "आलू",
+   "गाजर",
+   "गोभी",
+   "पालक"
+  ],
+  "correct": 1,
+  "explainEn": "Carrot grows underground as a taproot, making it a root vegetable.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:43:59Z"
+ },
+ {
+  "id": "q_7c58e0d004d107ec",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these seeds is known to disperse mainly through the action of wind?",
+  "qHi": "इनमें से कौन सा बीज मुख्य रूप से हवा के माध्यम से प्रकीर्णित होने के लिए जाना जाता है?",
+  "optsEn": [
+   "Mango seed",
+   "Cotton seed",
+   "Pea seed",
+   "Xanthium seed"
+  ],
+  "optsHi": [
+   "आम का बीज",
+   "कपास का बीज",
+   "मटर का बीज",
+   "जैंन्थियम का बीज"
+  ],
+  "correct": 1,
+  "explainEn": "Cotton seeds are light and hairy, which helps them float and travel long distances with the wind.",
+  "sourceHint": "NCERT Class 5 Environmental Studies (EVS)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:44:55Z"
+ },
+ {
+  "id": "q_a13e2f2f1528a789",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of map mainly shows physical features like mountains, rivers, and plains?",
+  "qHi": "किस प्रकार का मानचित्र मुख्य रूप से पहाड़ों, नदियों और मैदानों जैसी भौतिक विशेषताओं को दर्शाता है?",
+  "optsEn": [
+   "Political map",
+   "Physical map",
+   "Thematic map",
+   "Road map"
+  ],
+  "optsHi": [
+   "राजनीतिक मानचित्र",
+   "भौतिक मानचित्र",
+   "विषयगत मानचित्र",
+   "सड़क मानचित्र"
+  ],
+  "correct": 1,
+  "explainEn": "A physical map displays natural landscape features of the Earth such as mountains, rivers, and plains.",
+  "sourceHint": "NCERT Class 6 Social Science (Geography)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:44:55Z"
+ },
+ {
+  "id": "q_2a8bbe1cf05a48b8",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the main function of stomata found on the underside of green leaves?",
+  "qHi": "हरी पत्तियों की निचلی सतह पर पाए जाने वाले रंध्र (स्टोमेटा) का मुख्य कार्य क्या है?",
+  "optsEn": [
+   "Absorbing sunlight",
+   "Exchanging gases",
+   "Producing seeds",
+   "Storing water"
+  ],
+  "optsHi": [
+   "सूर्य का प्रकाश अवशोषित करना",
+   "गैसों का आदान-प्रदान करना",
+   "बीज उत्पन्न करना",
+   "पानी का भंडारण करना"
+  ],
+  "correct": 1,
+  "explainEn": "Stomata are tiny pores on leaves that allow plants to take in carbon dioxide and release oxygen.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:44:55Z"
+ },
+ {
+  "id": "q_d85bc8ac07201c7c",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian stepwell structure is built for storing rainwater and is locally known as what?",
+  "qHi": "वर्षा जल के भंडारण के लिए बनाई गई पारंपरिक भारतीय सीढ़ीदार कुएं की संरचना को स्थानीय रूप से क्या कहा जाता है?",
+  "optsEn": [
+   "Baoli",
+   "Bhangar",
+   "Bhakra",
+   "Barrage"
+  ],
+  "optsHi": [
+   "बावली",
+   "भानगढ़",
+   "भाखड़ा",
+   "बैराज"
+  ],
+  "correct": 0,
+  "explainEn": "Stepwells, traditionally called baolis or step-wells, were built in ancient India to store rainwater for dry periods.",
+  "sourceHint": "NCERT Class 5 EVS Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:44:55Z"
+ },
+ {
+  "id": "q_ec8264d6692f7ce2",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which layer of the atmosphere is closest to the Earth's surface and contains the air we breathe?",
+  "qHi": "वायुमंडल की कौन सी परत पृथ्वी की सतह के सबसे करीब है और उसमें वह हवा है जिसे हम सांस लेते हैं?",
+  "optsEn": [
+   "Stratosphere",
+   "Troposphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "समताप मंडल",
+   "क्षोभ मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The troposphere is the lowest layer of Earth's atmosphere and contains weather systems and the breathable air.",
+  "sourceHint": "NCERT Geography Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:44:55Z"
+ },
+ {
+  "id": "q_a34c3c872903f870",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which instrument is commonly used by meteorologists to measure the amount of rainfall?",
+  "qHi": "मौसम वैज्ञानिकों द्वारा वर्षा की मात्रा को मापने के लिए आमतौर पर किस उपकरण का उपयोग किया जाता है?",
+  "optsEn": [
+   "Thermometer",
+   "Barometer",
+   "Rain gauge",
+   "Wind vane"
+  ],
+  "optsHi": [
+   "थर्मामीटर",
+   "बैरोमीटर",
+   "वर्षा मापक (रेन गेज)",
+   "विंड वेन"
+  ],
+  "correct": 2,
+  "explainEn": "A rain gauge is a meteorological instrument used to gather and measure the amount of liquid precipitation over a set period.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:44:55Z"
+ },
+ {
+  "id": "q_7b3305fabc6eca91",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional Indian grain variety is known as 'ragi' in common speech and is rich in calcium?",
+  "qHi": "पारंपरिक भारतीय अनाज की किस किस्म को आम बोलचाल में 'रागी' कहा जाता है और यह कैल्शियम से भरपूर होता है?",
+  "optsEn": [
+   "Pearl Millet",
+   "Finger Millet",
+   "Sorghum",
+   "Foxtail Millet"
+  ],
+  "optsHi": [
+   "बाजरा",
+   "मडुआ या रागी (फिंगर मिलेट)",
+   "ज्वार",
+   "कंगनी"
+  ],
+  "correct": 1,
+  "explainEn": "Finger millet is commonly known as ragi and is a nutrient-dense grain.",
+  "sourceHint": "NCERT Class 5 Environmental Studies (Looking Around)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:46:21Z"
+ },
+ {
+  "id": "q_7a470f3ecc556ec8",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the name of the special organ of government in India that is responsible for making laws for the entire country?",
+  "qHi": "भारत सरकार के उस विशेष अंग का क्या नाम है जो पूरे देश के लिए कानून बनाने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Judiciary",
+   "Parliament",
+   "Executive",
+   "Municipal Corporation"
+  ],
+  "optsHi": [
+   "न्यायपालिका",
+   "संसद",
+   "कार्यपालिका",
+   "नगर निगम"
+  ],
+  "correct": 1,
+  "explainEn": "The Parliament of India is the supreme legislative body responsible for making laws.",
+  "sourceHint": "NCERT Class 6 Social and Political Life",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:46:21Z"
+ },
+ {
+  "id": "q_1451d54ea67d3bdf",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which part of a plant does photosynthesis primarily take place to produce food?",
+  "qHi": "पौधे के किस भाग में भोजन बनाने के लिए मुख्य रूप से प्रकाश संश्लेषण होता है?",
+  "optsEn": [
+   "Roots",
+   "Flowers",
+   "Leaves",
+   "Seeds"
+  ],
+  "optsHi": [
+   "जड़ें",
+   "फूल",
+   "पत्तियां",
+   "बीज"
+  ],
+  "correct": 2,
+  "explainEn": "Leaves contain chlorophyll and are the primary site for photosynthesis in plants.",
+  "sourceHint": "NCERT Class 5 Science curriculum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:46:21Z"
+ },
+ {
+  "id": "q_6cf8ea96286632d5",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian historical monument was built by Mughal Emperor Shah Jahan as a mausoleum for his wife Mumtaz Mahal?",
+  "qHi": "मुगल सम्राट शाहजहाँ ने अपनी पत्नी मुमताज महल के मकबरे के रूप में किस ऐतिहासिक भारतीय स्मारक का निर्माण करवाया था?",
+  "optsEn": [
+   "Qutub Minar",
+   "Taj Mahal",
+   "Red Fort",
+   "Humayun's Tomb"
+  ],
+  "optsHi": [
+   "कुतुब मीनार",
+   "ताजमहल",
+   "लाल किला",
+   "हुमायूं का मकबरा"
+  ],
+  "correct": 1,
+  "explainEn": "The Taj Mahal in Agra was commissioned by Shah Jahan for Mumtaz Mahal.",
+  "sourceHint": "NCERT Class 7 History Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:46:21Z"
+ },
+ {
+  "id": "q_375cc8bd1b896b78",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the standard name given to lines of latitude that run parallel to the Equator on a globe?",
+  "qHi": "ग्लोब पर भूमध्य रेखा के समानांतर चलने वाली अक्षांश रेखाओं को क्या कहा जाता है?",
+  "optsEn": [
+   "Meridians",
+   "Parallels of Latitude",
+   "Longitudes",
+   "Standard Time Zones"
+  ],
+  "optsHi": [
+   "देशांतर रेखाएं",
+   "अक्षांश रेखाएं",
+   "याम्योत्तर",
+   "मानक समय क्षेत्र"
+  ],
+  "correct": 1,
+  "explainEn": "All circles from the equator up to the poles are called parallels of latitude.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:46:21Z"
+ },
+ {
+  "id": "q_1e2f762c6c7a22a9",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which seasonal wind system brings widespread rainfall to the Indian subcontinent during the months of June to September?",
+  "qHi": "कौन सी मौसमी पवन प्रणाली जून से सितंबर के महीनों के दौरान भारतीय उपमहाद्वीप में व्यापक वर्षा लाती है?",
+  "optsEn": [
+   "Trade Winds",
+   "Monsoon Winds",
+   "Westerlies",
+   "Polar Easterlies"
+  ],
+  "optsHi": [
+   "व्यापारिक पवनें",
+   "मानसून पवनें",
+   "पछुआ पवनें",
+   "ध्रुवीय पूर्वी पवनें"
+  ],
+  "correct": 1,
+  "explainEn": "South-west monsoon winds bring the major share of rainfall to India.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:46:21Z"
  }
 ]

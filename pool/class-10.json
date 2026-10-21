@@ -17722,5 +17722,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-21T17:16:28Z"
+ },
+ {
+  "id": "q_7caa26bcda0c907e",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which level of government in India has the power to legislate on subjects in the Union List?",
+  "qHi": "भारत में संघ सूची के विषयों पर कानून बनाने की शक्ति किस स्तर की सरकार के पास है?",
+  "optsEn": [
+   "State Government",
+   "Local Government",
+   "Union Government",
+   "Village Panchayat"
+  ],
+  "optsHi": [
+   "राज्य सरकार",
+   "स्थानीय सरकार",
+   "केंद्र सरकार",
+   "ग्राम पंचायत"
+  ],
+  "correct": 2,
+  "explainEn": "The Union Government alone can make laws on subjects mentioned in the Union List.",
+  "sourceHint": "NCERT Class 10 Civics Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:44:07Z"
+ },
+ {
+  "id": "q_5cab7fa1b586e8c7",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Hematite is an important ore of which metal?",
+  "qHi": "हेमेटाइट किस धातु का एक महत्वपूर्ण अयस्क है?",
+  "optsEn": [
+   "Copper",
+   "Iron",
+   "Aluminum",
+   "Zinc"
+  ],
+  "optsHi": [
+   "तांबा",
+   "लोहा",
+   "एल्यूमीनियम",
+   "जस्ता"
+  ],
+  "correct": 1,
+  "explainEn": "Hematite is the primary and most important ore of iron.",
+  "sourceHint": "NCERT Class 10 Geography Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:44:07Z"
+ },
+ {
+  "id": "q_5d7604dbad69ccb3",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which part of the human alimentary canal is digested food primarily absorbed?",
+  "qHi": "मानव आहार नली के किस भाग में पचे हुए भोजन का मुख्य रूप से अवशोषण होता है?",
+  "optsEn": [
+   "Stomach",
+   "Small intestine",
+   "Large intestine",
+   "Esophagus"
+  ],
+  "optsHi": [
+   "आमाशय",
+   "छोटी आंत",
+   "बड़ी आंत",
+   "ग्रासनली"
+  ],
+  "correct": 1,
+  "explainEn": "The small intestine is the main region for the absorption of digested food, facilitated by finger-like projections called villi.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:45:04Z"
+ },
+ {
+  "id": "q_816c613c97914a85",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following elements belongs to Group 1 of the Modern Periodic Table?",
+  "qHi": "आधुनिक आवर्त सारणी के समूह 1 से निम्नलिखित में से कौन सा तत्व संबंधित है?",
+  "optsEn": [
+   "Magnesium",
+   "Sodium",
+   "Aluminum",
+   "Chlorine"
+  ],
+  "optsHi": [
+   "मैग्नीशियम",
+   "सोडियम",
+   "एल्युमिनियम",
+   "क्लोरीन"
+  ],
+  "correct": 1,
+  "explainEn": "Sodium (Na) is an alkali metal belonging to Group 1 of the Modern Periodic Table.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:45:04Z"
+ },
+ {
+  "id": "q_b972bdbbb8165c63",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which soil type, formed by the deposition of silt by rivers, is extremely fertile and covers large parts of northern India?",
+  "qHi": "नदियों द्वारा लाई गई गाद के निक्षेप से बनी कौन सी मिट्टी अत्यधिक उपजाऊ है और उत्तर भारत के बड़े हिस्से को कवर करती है?",
+  "optsEn": [
+   "Laterite soil",
+   "Black soil",
+   "Alluvial soil",
+   "Arid soil"
+  ],
+  "optsHi": [
+   "लैटेराइट मिट्टी",
+   "काली मिट्टी",
+   "जलोढ़ मिट्टी",
+   "मरुस्थलीय मिट्टी"
+  ],
+  "correct": 2,
+  "explainEn": "Alluvial soil is formed by river deposition and is very fertile, covering the northern plains.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:45:04Z"
+ },
+ {
+  "id": "q_d86ea86187b0e3f4",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which sector is the largest employer in the Indian economy according to macroeconomic employment data?",
+  "qHi": "समष्टि आर्थिक रोजगार डेटा के अनुसार भारतीय अर्थव्यवस्था में कौन सा क्षेत्र सबसे बड़ा नियोक्ता है?",
+  "optsEn": [
+   "Agriculture",
+   "Manufacturing",
+   "Information Technology",
+   "Banking"
+  ],
+  "optsHi": [
+   "कृषि",
+   "विनिर्माण",
+   "सूचना प्रौद्योगिकी",
+   "बैंकिंग"
+  ],
+  "correct": 0,
+  "explainEn": "Agriculture continues to be the largest employing sector in the Indian economy.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:45:04Z"
+ },
+ {
+  "id": "q_76b996380ba13a70",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which movement was launched in 1920 under the leadership of Mahatma Gandhi, uniting various social groups against colonial rule?",
+  "qHi": "महात्मा गांधी के नेतृत्व में 1920 में औपनिवेशिक शासन के खिलाफ विभिन्न सामाजिक समूहों को एकजुट करते हुए कौन सा आंदोलन शुरू किया गया था?",
+  "optsEn": [
+   "Civil Disobedience Movement",
+   "Non-Cooperation Movement",
+   "Quit India Movement",
+   "Champaran Satyagraha"
+  ],
+  "optsHi": [
+   "सविनय अवज्ञा आंदोलन",
+   "असहयोग आंदोलन",
+   "भारत छोड़ो आंदोलन",
+   "चंपारण सत्याग्रह"
+  ],
+  "correct": 1,
+  "explainEn": "The Non-Cooperation Movement was launched in 1920 by Mahatma Gandhi.",
+  "sourceHint": "NCERT Class 10 History, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:45:04Z"
+ },
+ {
+  "id": "q_32a0461d8284e139",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of power-sharing arrangement is practiced in India where power is divided between the central government and state governments?",
+  "qHi": "भारत में सत्ता का कौन सा रूप अपनाया जाता है जहाँ सत्ता केंद्र सरकार और राज्य सरकारों के बीच विभाजित होती है?",
+  "optsEn": [
+   "Unitary system",
+   "Federal system",
+   "Autocratic system",
+   "Dictatorship"
+  ],
+  "optsHi": [
+   "एकात्मक प्रणाली",
+   "संघीय प्रणाली",
+   "निरंकुश प्रणाली",
+   "तानाशाही"
+  ],
+  "correct": 1,
+  "explainEn": "Federalism is a system of government where power is divided between a central authority and various constituent units of the country.",
+  "sourceHint": "NCERT Class 10 Political Science, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:45:04Z"
+ },
+ {
+  "id": "q_a0ec59ccd3a98968",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which carbon compound is formed when ethanol is heated with excess concentrated sulfuric acid at 443 K?",
+  "qHi": "जब एथेनॉल को आधिक्य सांद्र सल्फ्यूरिक एसिड के साथ 443 K पर गर्म किया जाता है, तो कौन सा कार्बन यौगिक बनता है?",
+  "optsEn": [
+   "Ethane",
+   "Ethene",
+   "Ethanoic acid",
+   "Ethyl ethanoate"
+  ],
+  "optsHi": [
+   "एथेन",
+   "एथीन",
+   "एथेनोइक अम्ल",
+   "एथिल एथेनोएट"
+  ],
+  "correct": 1,
+  "explainEn": "Hot concentrated sulfuric acid acts as a dehydrating agent and removes water from ethanol to produce ethene.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 4 - Carbon and its Compounds",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:47:36Z"
+ },
+ {
+  "id": "q_34dcfcd3fecf30bf",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which hormone coordinates cell growth in plants by helping cells to elongate when directed towards light?",
+  "qHi": "प्रकाश की ओर मुड़ते समय कोशिकाओं को लंबा होने में मदद करके पौधों में कोशिका वृद्धि का समन्वय कौन सा हार्मोन करता है?",
+  "optsEn": [
+   "Cytokinin",
+   "Gibberellin",
+   "Auxin",
+   "Abscisic acid"
+  ],
+  "optsHi": [
+   "साइटोकैिनिन",
+   "जिबरेलिन",
+   "ऑक्सिन",
+   "एब्सिसिक एसिड"
+  ],
+  "correct": 2,
+  "explainEn": "Auxin is synthesized at the shoot tip and helps the cells grow longer when plant parts detect light, causing phototropism.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 7 - Control and Coordination",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:47:36Z"
+ },
+ {
+  "id": "q_2b37a558e79a7786",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which sector is credited with having the highest share in India's Gross Domestic Product (GDP) in recent decades according to economic data frameworks?",
+  "qHi": "आर्थिक डेटा ढाँचे के अनुसार हाल के दशकों में भारत के सकल घरेलू उत्पाद (GDP) में सबसे अधिक हिस्सेदारी किस क्षेत्र की है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Quaternary sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "तृतीयक क्षेत्र",
+   "चतुर्धातुक क्षेत्र"
+  ],
+  "correct": 2,
+  "explainEn": "The tertiary sector (service sector) has emerged as the largest producing sector in India, contributing the maximum share to the GDP.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 2 - Sectors of the Indian Economy",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:47:36Z"
+ },
+ {
+  "id": "q_dd6965bb2a5ad2d0",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which type of mirror is commonly used as a rear-view mirror in vehicles due to its ability to give an erect, diminished image and a wider field of view?",
+  "qHi": "सीधा, छोटा प्रतिबिंब और व्यापक दृष्टि क्षेत्र देने की क्षमता के कारण वाहनों में पीछे देखने के लिए आमतौर पर किस प्रकार के दर्पण का उपयोग किया जाता है?",
+  "optsEn": [
+   "Concave mirror",
+   "Convex mirror",
+   "Plane mirror",
+   "Parabolic mirror"
+  ],
+  "optsHi": [
+   "अवतल दर्पण",
+   "उत्पल दर्पण (उत्तल दर्पण)",
+   "समतल दर्पण",
+   "परवलयिक दर्पण"
+  ],
+  "correct": 1,
+  "explainEn": "Convex mirrors are curved outwards, giving a wide field of view and always forming virtual, erect, and diminished images.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 10 - Light: Reflection and Refraction",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:47:36Z"
+ },
+ {
+  "id": "q_4a1f7fc96515cec3",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under which treaty or agreement was the customs union known as 'Zollverein' formed in 1834 at the initiative of Prussia?",
+  "qHi": "प्रशा की पहल पर 1834 में 'जॉलवेरिन' नामक सीमा शुल्क संघ किस संधि या समझौते के तहत बनाया गया था?",
+  "optsEn": [
+   "Treaty of Vienna",
+   "Customs union initiative of German states",
+   "Frankfurt Parliament decree",
+   "Treaty of Constantinople"
+  ],
+  "optsHi": [
+   "विएना की संधि",
+   "जर्मन राज्यों की सीमा शुल्क संघ पहल",
+   "फ्रैंकफर्ट संसद डिक्री",
+   "कुस्तुुन्तुनिया की संधि"
+  ],
+  "correct": 1,
+  "explainEn": "In 1834, a customs union or Zollverein was formed at the initiative of Prussia and joined by most of the German states to abolish tariff barriers.",
+  "sourceHint": "NCERT Class 10 History, Chapter 1 - The Rise of Nationalism in Europe",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:47:36Z"
  }
 ]

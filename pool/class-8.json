@@ -14082,5 +14082,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-21T17:16:22Z"
+ },
+ {
+  "id": "q_5da736f1d968f62f",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which part of a plant cell provides rigidity and a definite shape?",
+  "qHi": "पादप कोशिका का कौन सा भाग उसे दृढ़ता और निश्चित आकार प्रदान करता है?",
+  "optsEn": [
+   "Cell membrane",
+   "Cell wall",
+   "Nucleus",
+   "Cytoplasm"
+  ],
+  "optsHi": [
+   "कोशिका झिल्ली",
+   "कोशिका भित्ति",
+   "केंद्रक",
+   "कोशिका द्रव्य"
+  ],
+  "correct": 1,
+  "explainEn": "The cell wall is an outer rigid layer that surrounds the cell membrane in plant cells, giving them shape and support.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:44:03Z"
+ },
+ {
+  "id": "q_1fa99a7c71583567",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which battle established the political power of the East India Company in Bengal?",
+  "qHi": "किस युद्ध ने बंगाल में ईस्ट इंडिया Company की राजनीतिक सत्ता स्थापित की?",
+  "optsEn": [
+   "Battle of Plassey",
+   "Battle of Buxar",
+   "Battle of Panipat",
+   "Battle of Haldighati"
+  ],
+  "optsHi": [
+   "प्लासी का युद्ध",
+   "बक्सर का युद्ध",
+   "पानीपत का युद्ध",
+   "हल्दीघाटी का युद्ध"
+  ],
+  "correct": 0,
+  "explainEn": "The Battle of Plassey in 1757 was a major victory for the English East India Company over the Nawab of Bengal.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:44:03Z"
+ },
+ {
+  "id": "q_98d8addc1b091b9b",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which part of the cell contains organelles called chromosomes?",
+  "qHi": "कोशिका के किस भाग में गुणसूत्र (क्रोमोसोम) नामक अंगक होते हैं?",
+  "optsEn": [
+   "Cell membrane",
+   "Cytoplasm",
+   "Nucleus",
+   "Vacuole"
+  ],
+  "optsHi": [
+   "कोशिका झिल्ली",
+   "कोशिकाद्रव्य",
+   "केंद्रक",
+   "रिक्तिका"
+  ],
+  "correct": 2,
+  "explainEn": "The nucleus contains thread-like structures called chromosomes that carry genes.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:44:59Z"
+ },
+ {
+  "id": "q_3124302fa88bc9a3",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Mughal emperor introduced the system of mansabdars to grade officers and fix their salaries?",
+  "qHi": "किस मुगल सम्राट ने अधिकारियों को श्रेणीबद्ध करने और उनके वेतन तय करने के लिए मनसबदारी प्रणाली की शुरुआत की थी?",
+  "optsEn": [
+   "Babur",
+   "Akbar",
+   "Shah Jahan",
+   "Aurangzeb"
+  ],
+  "optsHi": [
+   "बाबर",
+   "अकबर",
+   "शाहजहाँ",
+   "औरंगजेब"
+  ],
+  "correct": 1,
+  "explainEn": "Akbar implemented the mansabdari system to organize the nobility and the army.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:44:59Z"
+ },
+ {
+  "id": "q_8cdfa29ac8a7a325",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which natural resource is often referred to as 'Black Gold' due to its high value?",
+  "qHi": "किस प्राकृतिक संसाधन को उसके उच्च मूल्य के कारण अक्सर 'काला सोना' कहा जाता है?",
+  "optsEn": [
+   "Coal",
+   "Petroleum",
+   "Graphite",
+   "Manganese"
+  ],
+  "optsHi": [
+   "कोयला",
+   "पेट्रोलियम",
+   "ग्रेफाइट",
+   "मैंगनीज"
+  ],
+  "correct": 1,
+  "explainEn": "Petroleum and its derivatives are valuable and are commonly called black gold.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:44:59Z"
  }
 ]

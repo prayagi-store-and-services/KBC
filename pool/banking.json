@@ -21362,5 +21362,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-21T17:16:01Z"
+ },
+ {
+  "id": "q_18f9650fb8a4b486",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which type of bank account typically offers no interest or very low interest on deposits?",
+  "qHi": "किस प्रकार के बैंक खाते में आमतौर पर जमा पर कोई ब्याज या बहुत कम ब्याज मिलता है?",
+  "optsEn": [
+   "Savings Account",
+   "Current Account",
+   "Fixed Deposit Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "बचत खाता",
+   "चालू खाता",
+   "सावधि जमा खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 1,
+  "explainEn": "Current accounts are designed for business purposes and generally do not offer any interest on the deposited funds.",
+  "sourceHint": "NCERT Business Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:44:26Z"
+ },
+ {
+  "id": "q_734749499d90ff33",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who acts as the lender of last resort for commercial banks in India?",
+  "qHi": "भारत में व्यावसायिक बैंकों के लिए अंतिम ऋणदाता के रूप में कौन कार्य करता है?",
+  "optsEn": [
+   "State Bank of India",
+   "Reserve Bank of India",
+   "World Bank",
+   "NABARD"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "भारतीय रिजर्व बैंक",
+   "विश्व बैंक",
+   "नाबार्ड"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India acts as the lender of last resort by providing emergency credit to banks facing liquidity shortages.",
+  "sourceHint": "RBI Functions and Operations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:44:26Z"
+ },
+ {
+  "id": "q_672e5e11263ae5e3",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization in India regulates the capital market and stock exchanges?",
+  "qHi": "भारत में पूंजी बाजार और स्टॉक एक्सचेंजों को कौन सा संगठन विनियमित करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India",
+   "Insurance Regulatory and Development Authority",
+   "Ministry of Corporate Affairs"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "बीमा नियामक और विकास प्राधिकरण",
+   "कॉर्पोरेट मामलों के मंत्रालय"
+  ],
+  "correct": 1,
+  "explainEn": "SEBI (Securities and Exchange Board of India) is the regulatory body for securities and commodity market in India under the ownership of the Ministry of Finance.",
+  "sourceHint": "SEBI Act, 1992",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:44:26Z"
+ },
+ {
+  "id": "q_445e6d41da221bc3",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following bodies regulates the credit rating agencies in India?",
+  "qHi": "भारत में क्रेडिट रेटिंग एजेंसियों को निम्नलिखित में से कौन सा निकाय विनियमित करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India",
+   "Insurance Regulatory and Development Authority of India",
+   "Pension Fund Regulatory and Development Authority"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "भारतीय बीमा विनियामक और विकास प्राधिकरण",
+   "पेंशन निधि विनियामक और विकास प्राधिकरण"
+  ],
+  "correct": 1,
+  "explainEn": "SEBI is the statutory regulator for credit rating agencies operating in India under SEBI (Credit Rating Agencies) Regulations.",
+  "sourceHint": "SEBI Act, 1992",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:45:33Z"
+ },
+ {
+  "id": "q_e1d4c1223b35f878",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which market instrument is commonly known as 'Zero Coupon Bonds' issued by the Government of India?",
+  "qHi": "भारत सरकार द्वारा जारी किस बाजार साधन को आमतौर पर 'शून्य कूपन बांड' के रूप में जाना जाता है?",
+  "optsEn": [
+   "Treasury Bills",
+   "Certificate of Deposit",
+   "Commercial Paper",
+   "National Savings Certificate"
+  ],
+  "optsHi": [
+   "राजकोषीय हुंडी (ट्रेजरी बिल)",
+   "प्रमाण पत्र जमा (सर्टिफिकेट ऑफ डिपॉजिट)",
+   "वाणिज्यिक पत्र",
+   "राष्ट्रीय बचत पत्र"
+  ],
+  "correct": 0,
+  "explainEn": "Treasury Bills are money market instruments issued at a discount and redeemed at face value, effectively acting as zero-coupon bonds.",
+  "sourceHint": "Reserve Bank of India FAQs",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:45:33Z"
+ },
+ {
+  "id": "q_36a18b75c6052906",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under Basel III norms, what does Tier-1 Capital primarily consist of?",
+  "qHi": "बेसल III मानदंडों के तहत, टियर-1 पूंजी में मुख्य रूप से क्या शामिल होता है?",
+  "optsEn": [
+   "Subordinated debt with a maturity of less than one year",
+   "General provisions and loan-loss reserves",
+   "Common equity and disclosed reserves",
+   "Revaluation reserves and undisclosed reserves"
+  ],
+  "optsHi": [
+   "एक वर्ष से कम परिपक्वता वाला अधीनस्थ ऋण",
+   "सामान्य प्रावधान और ऋण-हानि भंडार",
+   "सामान्य इक्विटी और प्रकट भंडार",
+   "पुनर्मूल्यन भंडार और अज्ञात भंडार"
+  ],
+  "correct": 2,
+  "explainEn": "Tier-1 capital represents a bank's core capital, primarily consisting of common stock and disclosed reserves (retained earnings).",
+  "sourceHint": "Basel Committee on Banking Supervision guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:45:33Z"
+ },
+ {
+  "id": "q_cefa4e35aa8e8363",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institution acts as the principal financial institution for the promotion and financing of Micro, Small and Medium Enterprises in India?",
+  "qHi": "भारत में सूक्ष्म, लघु और मध्यम उद्यमों के संवर्धन और वित्तपोषण के लिए कौन सी संस्था प्रमुख वित्तीय संस्थान के रूप में कार्य करती है?",
+  "optsEn": [
+   "NABARD",
+   "SIDBI",
+   "EXIM Bank",
+   "NHB"
+  ],
+  "optsHi": [
+   "नाबार्ड",
+   "सिडबी",
+   "एक्ज़िम बैंक",
+   "राष्ट्रीय आवास बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "Small Industries Development Bank of India (SIDBI) is the apex regulatory body for licensing and regulating micro, small and medium enterprise finance in India.",
+  "sourceHint": "SIDBI Act, 1989",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:45:33Z"
+ },
+ {
+  "id": "q_42bc4d689743dfc3",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the liquidity aggregate measure 'LM3' published by RBI?",
+  "qHi": "RBI द्वारा प्रकाशित तरलता समग्र माप 'LM3' में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liability",
+   "Liquidity",
+   "Loan",
+   "Leverage"
+  ],
+  "optsHi": [
+   "देयता (लायबिलिटी)",
+   "तरलता (लिक्विडिटी)",
+   "ऋण (लोन)",
+   "उत्तोलन (लेवरेज)"
+  ],
+  "correct": 1,
+  "explainEn": "RBI publishes liquidity aggregates like L1, L2, and L3, where 'L' stands for Liquidity, capturing broader measures including deposits with non-banking financial companies.",
+  "sourceHint": "RBI Bulletin on Monetary Statistics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T21:45:33Z"
  }
 ]
