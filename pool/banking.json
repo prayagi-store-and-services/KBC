@@ -20662,5 +20662,453 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-21T04:52:22Z"
+ },
+ {
+  "id": "q_bb994ab2f040f589",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum limit of characters in an IFSC code used for electronic fund transfers in India?",
+  "qHi": "भारत में इलेक्ट्रॉनिक फंड ट्रांसफर के लिए उपयोग किए जाने वाले IFSC कोड में वर्णों की अधिकतम सीमा क्या है?",
+  "optsEn": [
+   "9 characters",
+   "10 characters",
+   "11 characters",
+   "12 characters"
+  ],
+  "optsHi": [
+   "9 वर्ण",
+   "10 वर्ण",
+   "11 वर्ण",
+   "12 वर्ण"
+  ],
+  "correct": 2,
+  "explainEn": "An Indian Financial System Code (IFSC) is an 11-character alphanumeric code uniquely identifying a bank branch.",
+  "sourceHint": "RBI guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:50:58Z"
+ },
+ {
+  "id": "q_2333b439f5e6222d",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization issues currency notes in India under the aegis of the central government?",
+  "qHi": "केंद्र सरकार के तत्वावधान में भारत में कौन सा संगठन करेंसी नोट जारी करता है?",
+  "optsEn": [
+   "Ministry of Finance",
+   "Reserve Bank of India",
+   "State Bank of India",
+   "Controller of Currency"
+  ],
+  "optsHi": [
+   "वित्त मंत्रालय",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय स्टेट बैंक",
+   "कंट्रोलर ऑफ करेंसी"
+  ],
+  "correct": 1,
+  "explainEn": "Under Section 22 of the Reserve Bank of India Act, RBI has the sole right to issue bank notes in India.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:50:58Z"
+ },
+ {
+  "id": "q_067c8f68aef2420e",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of account typically offers zero or very low interest and is designed for daily transactions by businesses or working individuals?",
+  "qHi": "किस प्रकार के खाते में आमतौर पर शून्य या बहुत कम ब्याज मिलता है और इसे व्यवसायों या कामकाजी व्यक्तियों द्वारा दैनिक लेनदेन के लिए डिज़ाइन किया गया है?",
+  "optsEn": [
+   "Savings Account",
+   "Current Account",
+   "Fixed Deposit Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "बचत खाता",
+   "चालू खाता",
+   "सावधि जमा खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 1,
+  "explainEn": "A Current Account is designed for business purposes, allowing high volumes of transactions with no limit on the number of daily deposits or withdrawals, usually yielding no interest.",
+  "sourceHint": "NCERT Business Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:50:58Z"
+ },
+ {
+  "id": "q_b8a8d3fab23b2c58",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'C' stand for in the banking acronym 'KYC'?",
+  "qHi": "बैंकिंग संक्षिप्त नाम 'KYC' में 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Credit",
+   "Customer",
+   "Capital",
+   "Currency"
+  ],
+  "optsHi": [
+   "क्रेडिट",
+   "कस्टमर",
+   "कैपिटल",
+   "करेंसी"
+  ],
+  "correct": 1,
+  "explainEn": "KYC stands for Know Your Customer, a mandatory process by financial institutions to verify the identity of their clients.",
+  "sourceHint": "RBI KYC Master Directions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:50:58Z"
+ },
+ {
+  "id": "q_fdedb7ff661eb815",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which statutory body in India regulates the mutual fund industry?",
+  "qHi": "भारत में म्यूचुअल फंड उद्योग को कौन सा वैधानिक निकाय नियंत्रित करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India",
+   "Insurance Regulatory and Development Authority of India",
+   "Pension Fund Regulatory and Development Authority"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "भारतीय बीमा विनियामक और विकास प्राधिकरण",
+   "पेंशन निधि विनियामक और विकास प्राधिकरण"
+  ],
+  "correct": 1,
+  "explainEn": "SEBI regulates the securities market in India, including mutual funds, under the SEBI Act, 1992.",
+  "sourceHint": "SEBI Official Website and SEBI Act 1992",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:51:53Z"
+ },
+ {
+  "id": "q_73575f194ca2942b",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization acts as the central nodal agency for implementing the Pradhan Mantri Jan Dhan Yojana?",
+  "qHi": "प्रधानमंत्री जन धन योजना को लागू करने के लिए कौन सा संगठन केंद्रीय नोडल एजेंसी के रूप में कार्य करता है?",
+  "optsEn": [
+   "National Bank for Agriculture and Rural Development",
+   "Small Industries Development Bank of India",
+   "Department of Financial Services",
+   "State Bank of India"
+  ],
+  "optsHi": [
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक",
+   "भारतीय लघु उद्योग विकास बैंक",
+   "वित्तीय सेवा विभाग",
+   "भारतीय स्टेट बैंक"
+  ],
+  "correct": 2,
+  "explainEn": "The Department of Financial Services under the Ministry of Finance administers the Pradhan Mantri Jan Dhan Yojana.",
+  "sourceHint": "Ministry of Finance PIB Releases",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:51:53Z"
+ },
+ {
+  "id": "q_82ca6aadde7cba1a",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which instrument is used as a short-term money market instrument issued as a promissory note?",
+  "qHi": "वचन पत्र के रूप में जारी अल्पकालिक मुद्रा बाजार उपकरण के रूप में किस साधन का उपयोग किया जाता है?",
+  "optsEn": [
+   "Treasury Bill",
+   "Commercial Paper",
+   "Equity Share",
+   "Debenture"
+  ],
+  "optsHi": [
+   "राजकोषीय बिल",
+   "वाणिज्यिक पत्र",
+   "इक्विटी शेयर",
+   "डिबेंचर"
+  ],
+  "correct": 1,
+  "explainEn": "Commercial Paper is an unsecured short-term debt instrument issued by corporations in the form of a promissory note.",
+  "sourceHint": "RBI Master Directions on Money Market Instruments",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:51:53Z"
+ },
+ {
+  "id": "q_cb024197e04817ed",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Priority Sector Lending guidelines in India, what is the sub-target set for lending to Small and Marginal Farmers?",
+  "qHi": "भारत में प्राथमिकता प्राप्त क्षेत्र को ऋण (Priority Sector Lending) दिशानिर्देशों के तहत, छोटे और सीमांत किसानों को ऋण देने के लिए क्या उप-लक्ष्य निर्धारित किया गया है?",
+  "optsEn": [
+   "4.5 percent",
+   "7.5 percent",
+   "10.0 percent",
+   "12.0 percent"
+  ],
+  "optsHi": [
+   "4.5 प्रतिशत",
+   "7.5 प्रतिशत",
+   "10.0 प्रतिशत",
+   "12.0 प्रतिशत"
+  ],
+  "correct": 1,
+  "explainEn": "RBI guidelines mandate a sub-target of 7.5 percent of Adjusted Net Bank Credit for Small and Marginal Farmers.",
+  "sourceHint": "RBI Master Directions on Priority Sector Lending",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:51:53Z"
+ },
+ {
+  "id": "q_7cf3545e51bc7823",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institution operates the Unified Payments Interface ecosystem in India?",
+  "qHi": "भारत में यूनिफाइड पेमेंट इंटरफेस इकोसिस्टम का संचालन कौन सा संस्थान करता है?",
+  "optsEn": [
+   "National Payments Corporation of India",
+   "Telecom Regulatory Authority of India",
+   "Indian Banks' Association",
+   "Controller of Controller of Certification Authorities"
+  ],
+  "optsHi": [
+   "भारतीय राष्ट्रीय भुगतान निगम",
+   "भारतीय दूरसञ्चार विनियामक प्राधिकरण",
+   "भारतीय बैंक संघ",
+   "प्रमाणन प्राधिकरण नियंत्रक"
+  ],
+  "correct": 0,
+  "explainEn": "NPCI is an umbrella organization for operating retail payments and settlement systems in India, including UPI.",
+  "sourceHint": "NPCI Official Website and Payment and Settlement Systems Act",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:51:53Z"
+ },
+ {
+  "id": "q_512699ad103bda77",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which section of the Banking Regulation Act, 1949 empowers the Reserve Bank of India to issue directions to banking companies in public interest or to prevent their affairs from being conducted in a manner detrimental to the interests of the depositors?",
+  "qHi": "बैंकिंग विनियमन अधिनियम, 1949 की कौन सी धारा भारतीय रिजर्व बैंक को जनहित में या जमाकर्ताओं के हितों के लिए हानिकारक तरीके से उनके मामलों के संचालन को रोकने के लिए बैंकिंग कंपनियों को निर्देश जारी करने का अधिकार देती है?",
+  "optsEn": [
+   "Section 21",
+   "Section 35A",
+   "Section 44A",
+   "Section 45"
+  ],
+  "optsHi": [
+   "धारा 21",
+   "धारा 35ए",
+   "धारा 44ए",
+   "धारा 45"
+  ],
+  "correct": 1,
+  "explainEn": "Section 35A of the Banking Regulation Act, 1949 grants the RBI power to issue directions to banking companies.",
+  "sourceHint": "Banking Regulation Act, 1949",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:52:36Z"
+ },
+ {
+  "id": "q_15f7015e62de94b1",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Prompt Corrective Action (PCA) framework for scheduled commercial banks, which of the following is considered a mandatory restriction once a bank enters Risk Threshold 3?",
+  "qHi": "अनुसूचित वाणिज्यिक बैंकों के लिए त्वरित सुधारात्मक कार्रवाई (पीसीए) ढांचे के तहत, जब कोई बैंक जोखिम सीमा 3 में प्रवेश करता है, तो निम्नलिखित में से किसे अनिवार्य प्रतिबंध माना जाता है?",
+  "optsEn": [
+   "Restriction on opening new branches",
+   "Restriction on capital expenditure except for technological upgradation",
+   "Restriction on increasing credit risk and reduction in leverage",
+   "Restriction on staff recruitment and salary increments"
+  ],
+  "optsHi": [
+   "नई शाखाएं खोलने पर प्रतिबंध",
+   "तकनीकी उन्नयन को छोड़कर पूंजीगत व्यय पर प्रतिबंध",
+   "ऋण जोखिम बढ़ाने पर प्रतिबंध और उत्तोलन में कमी",
+   "कर्मचारी भर्ती और वेतन वृद्धि पर प्रतिबंध"
+  ],
+  "correct": 2,
+  "explainEn": "At Risk Threshold 3, mandatory restrictions include restriction on increasing credit risk and reduction in leverage, along with other severe measures.",
+  "sourceHint": "RBI Revised PCA Framework for Scheduled Commercial Banks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:52:36Z"
+ },
+ {
+  "id": "q_6285bcb3e75c1118",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of international trade finance, what does the term 'Red Clause Letter of Credit' signify?",
+  "qHi": "अंतर्राष्ट्रीय व्यापार वित्त के संदर्भ में, 'रेड क्लॉज लेटर ऑफ क्रेडिट' शब्द का क्या तात्पर्य है?",
+  "optsEn": [
+   "A credit that allows the beneficiary to obtain a pre-shipment advance from the paying bank",
+   "A credit that expires automatically if the shipment is delayed beyond the red-marked date",
+   "A credit issued exclusively for the import of restricted defense and hazardous goods",
+   "A credit that requires counter-guarantee from a central bank of a red-listed country"
+  ],
+  "optsHi": [
+   "एक ऋण जो लाभार्थी को भुगतान करने वाले बैंक से शिपमेंट पूर्व अग्रिम प्राप्त करने की अनुमति देता है",
+   "एक ऋण जो लाल-चिह्नित तिथि के बाद शिपमेंट में देरी होने पर स्वतः समाप्त हो जाता है",
+   "प्रतिबंधित रक्षा और खतरनाक वस्तुओं के आयात के लिए विशेष रूप से जारी किया गया ऋण",
+   "एक ऋण जिसके लिए लाल सूची वाले देश के केंद्रीय बैंक से प्रति-गारंटी की आवश्यकता होती है"
+  ],
+  "correct": 0,
+  "explainEn": "A Red Clause L/C contains a clause allowing the seller to draw advances before shipment of goods.",
+  "sourceHint": "Uniform Customs and Practice for Documentary Credits (UCPDC) / IIBF Training Manuals",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:52:36Z"
+ },
+ {
+  "id": "q_59019922639a1361",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific money market instrument in India is statutorily exempt from the minimum maturity period restriction of one day, unlike Treasury Bills and Commercial Papers?",
+  "qHi": "भारत में कौन सा विशिष्ट मुद्रा बाजार साधन ट्रेजरी बिल और वाणिज्यिक पत्रों के विपरीत, एक दिन की न्यूनतम परिपक्वता अवधि प्रतिबंध से कानूनी रूप से मुक्त है?",
+  "optsEn": [
+   "Certificate of Deposit",
+   "Call and Notice Money",
+   "Cash Management Bills",
+   "Repo and Tri-Party Repo"
+  ],
+  "optsHi": [
+   "जमा प्रमाणपत्र",
+   "कॉल और नोटिस मनी",
+   "नकद प्रबंधन बिल",
+   "रेपो और ट्रिपार्टी रेपो"
+  ],
+  "correct": 1,
+  "explainEn": "Call money is borrowed/lent for overnight, and notice money is for 2 to 14 days, with call money operating essentially on a day-to-day basis without standard multi-day limits.",
+  "sourceHint": "Reserve Bank of India Act, 1934 and RBI Money Market Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:52:36Z"
+ },
+ {
+  "id": "q_a97066bcaf02efc6",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary operational objective of the Marginal Cost of Funds based Lending Rate (MCLR) system introduced for banks in India?",
+  "qHi": "भारत में बैंकों के लिए शुरू की गई फंड आधारित ऋण दर (एमसीएलआर) प्रणाली की प्राथमिक परिचालन उद्देश्य क्या है?",
+  "optsEn": [
+   "To align bank lending rates directly with the repo rate announced in monetary policy reviews",
+   "To improve the transmission of policy rates to lending rates and ensure transparency in pricing",
+   "To replace the Base Rate entirely with a floating rate pegged to international LIBOR benchmarks",
+   "To penalize banks maintaining excessive liquidity in the Marginal Standing Facility window"
+  ],
+  "optsHi": [
+   "बैंक ऋण दरों को सीधे मौद्रिक नीति समीक्षा में घोषित रेपो दर के साथ संरेखित करना",
+   "ऋण दरों तक नीतिगत दरों के संचरण में सुधार करना और मूल्य निर्धारण में पारर्दशिता सुनिश्चित करना",
+   "बेस रेट को पूरी तरह से अंतरराष्ट्रीय LIBOR बेंचमार्क से जुड़े फ्लोटिंग रेट से बदलना",
+   "सीमांत स्थायी सुविधा विंडो में अत्यधिक नकदी बनाए रखने वाले बैंकों को दंडित करना"
+  ],
+  "correct": 1,
+  "explainEn": "MCLR was introduced to improve monetary policy transmission and ensure transparency in the methodology followed by banks in determining interest rates on advances.",
+  "sourceHint": "RBI Guidelines on MCLR",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:52:36Z"
+ },
+ {
+  "id": "q_65de59873c41d0af",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002, what minimum percentage of secured creditors by value of outstanding dues must agree to enforce security interest or take measures under Section 13(4)?",
+  "qHi": "वित्तीय परिसंपत्तियों का प्रतिभूतिकरण और पुनर्गठन और सुरक्षा हित का प्रवर्तन (SARFAESI) अधिनियम, 2002 के तहत, बकाया बकाए के मूल्य के हिसाब से सुरक्षित लेनदारों का न्यूनतम कितना प्रतिशत सुरक्षा हित लागू करने या धारा 13(4) के तहत उपाय करने के लिए सहमत होना चाहिए?",
+  "optsEn": [
+   "50 percent",
+   "60 percent",
+   "75 percent",
+   "90 percent"
+  ],
+  "optsHi": [
+   "50 प्रतिशत",
+   "60 प्रतिशत",
+   "75 प्रतिशत",
+   "90 प्रतिशत"
+  ],
+  "correct": 1,
+  "explainEn": "Post the 2016 amendment, Section 13(9) of the SARFAESI Act specifies that secured creditors holding not less than 60 percent of the outstanding dues must agree for taking action.",
+  "sourceHint": "SARFAESI Act, 2002 (as amended)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:52:36Z"
+ },
+ {
+  "id": "q_8a2255ae7c8e9c7e",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which institution in India acts as the apex regulator for Micro Finance Institutions (MFIs) that are registered as Non-Banking Financial Companies (NBFC-MFIs)?",
+  "qHi": "भारत में कौन सी संस्था गैर-बैंकिंग वित्तीय कंपनियों (एनबीएफसी-एमएफआई) के रूप में पंजीकृत सूक्ष्म वित्त संस्थानों (एमएफआई) के लिए शीर्ष नियामक के रूप में कार्य करती है?",
+  "optsEn": [
+   "Small Industries Development Bank of India",
+   "National Bank for Agriculture and Rural Development",
+   "Reserve Bank of India",
+   "Ministry of Finance"
+  ],
+  "optsHi": [
+   "भारतीय लघु उद्योग विकास बैंक",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक",
+   "भारतीय रिजर्व बैंक",
+   "वित्त मंत्रालय"
+  ],
+  "correct": 2,
+  "explainEn": "NBFC-MFIs are regulated by the Reserve Bank of India under Chapter III B of the Reserve Bank of India Act, 1934.",
+  "sourceHint": "RBI Master Directions - Regulatory Framework for Microfinance Loans",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:52:36Z"
  }
 ]

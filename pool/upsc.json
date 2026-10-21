@@ -19682,5 +19682,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-21T04:51:48Z"
+ },
+ {
+  "id": "q_5e659ae013fce026",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which planet in our solar system is known as the Earth's twin due to its similar size and mass?",
+  "qHi": "हमारे सौर मंडल के किस ग्रह को उसके समान आकार और द्रव्यमान के कारण पृथ्वी की जुड़वां बहन कहा जाता है?",
+  "optsEn": [
+   "Mercury",
+   "Venus",
+   "Mars",
+   "Jupiter"
+  ],
+  "optsHi": [
+   "बुध",
+   "शुक्र",
+   "मंगल",
+   "बृहस्पति"
+  ],
+  "correct": 1,
+  "explainEn": "Venus is considered Earth's twin because of its comparable size and mass.",
+  "sourceHint": "NCERT Class 6 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:51:23Z"
+ },
+ {
+  "id": "q_f1261f4b772c58b7",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which constitutional body is responsible for conducting elections to the Panchayats and Municipalities in every state?",
+  "qHi": "प्रत्येक राज्य में पंचायतों और नगर पालिकाओं के चुनाव कराने के लिए कौन सा संवैधानिक निकाय जिम्मेदार है?",
+  "optsEn": [
+   "Election Commission of India",
+   "State Election Commission",
+   "Union Public Service Commission",
+   "Finance Commission"
+  ],
+  "optsHi": [
+   "भारत का निर्वाचन आयोग",
+   "राज्य निर्वाचन आयोग",
+   "संघ लोक सेवा आयोग",
+   "वित्त आयोग"
+  ],
+  "correct": 1,
+  "explainEn": "The State Election Commission is entrusted with conducting elections to the local bodies (Panchayats and Municipalities) as per Articles 243K and 243ZA.",
+  "sourceHint": "Constitution of India, Article 243K",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:51:23Z"
+ },
+ {
+  "id": "q_c907f0cdf977b58e",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following Indus Valley Civilization sites is famous for its dockyard?",
+  "qHi": "निम्नलिखित में से कौन सा सिंधु घाटी सभ्यता स्थल अपने बंदरगाह (गोदीवाड़ा) के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Harappa",
+   "Mohenjo-daro",
+   "Lothal",
+   "Kalibangan"
+  ],
+  "optsHi": [
+   "हड़प्पा",
+   "मोहनजोदड़ो",
+   "लोथल",
+   "कालीबंगा"
+  ],
+  "correct": 2,
+  "explainEn": "Lothal, located in Gujarat, is well-known for its massive tidal dockyard used for maritime trade.",
+  "sourceHint": "NCERT Class 6 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:51:23Z"
+ },
+ {
+  "id": "q_b823fa72e459432e",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary function of the Reserve Bank of India acting as the 'Lender of Last Resort'?",
+  "qHi": "'अंतिम ऋणदाता' के रूप में कार्य करते हुए भारतीय रिजर्व बैंक का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "Providing loans to the central government for fiscal deficits",
+   "Providing emergency financial assistance to commercial banks facing liquidity crunches",
+   "Providing microfinance loans to rural farmers",
+   "Providing foreign exchange to export businesses"
+  ],
+  "optsHi": [
+   "राजकोषीय घाटे के लिए केंद्र सरकार को ऋण प्रदान करना",
+   "तरलता संकट का सामना कर रहे वाणिज्यिक बैंकों को आपातकालीन वित्तीय सहायता प्रदान करना",
+   "ग्रामीण किसानों को माइक्रofinance ऋण प्रदान करना",
+   "निर्यात व्यवसायों को विदेशी मुद्रा प्रदान करना"
+  ],
+  "correct": 1,
+  "explainEn": "As the lender of last resort, the central bank extends emergency credit to commercial banks that are solvent but face temporary liquidity problems.",
+  "sourceHint": "NCERT Class 12 Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:51:23Z"
+ },
+ {
+  "id": "q_ae30cd920563dc36",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which atmospheric layer is primarily responsible for the reflection of radio waves back to the Earth?",
+  "qHi": "कौन सी वायुमंडलीय परत मुख्य रूप से रेडियो तरंगों को वापस पृथ्वी पर परावर्तित करने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 3,
+  "explainEn": "The thermosphere contains the ionosphere, which is characterized by the presence of ions and free electrons that reflect radio waves back to Earth.",
+  "sourceHint": "NCERT Class 11 Geography Fundamentals of Physical Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:52:22Z"
+ },
+ {
+  "id": "q_a8ae8e775116fe83",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The Dediapada wildlife sanctuary, known for its rich biodiversity, is primarily located in which Indian state?",
+  "qHi": "अपनी समृद्ध जैव विविधता के लिए जाना जाने वाला डेडियापाड़ा वन्यजीव अभ्यारण्य मुख्य रूप से किस भारतीय राज्य में स्थित है?",
+  "optsEn": [
+   "Gujarat",
+   "Maharashtra",
+   "Odisha",
+   "Karnataka"
+  ],
+  "optsHi": [
+   "गुजरात",
+   "महाराष्ट्र",
+   "ओडिशा",
+   "कर्नाटक"
+  ],
+  "correct": 0,
+  "explainEn": "Dediapada wildlife sanctuary is located in the Narmada district of Gujarat, known for its dense forests and wildlife.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:52:22Z"
+ },
+ {
+  "id": "q_393fd394d2992182",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "During the Vedic period, the term 'Nishka' originally referred to which of the following?",
+  "qHi": "वैदिक काल के दौरान, 'निष्क' शब्द मूल रूप से किससे संबंधित था?",
+  "optsEn": [
+   "An agricultural tax",
+   "A gold ornament",
+   "A type of ritual sacrifice",
+   "A military commander"
+  ],
+  "optsHi": [
+   "एक कृषि कर",
+   "एक स्वर्ण आभूषण",
+   "एक प्रकार का अनुष्ठानिक बलिदान",
+   "एक सैन्य कमांडर"
+  ],
+  "correct": 1,
+  "explainEn": "In the early Vedic period, Nishka was a popular gold ornament worn around the neck, which later evolved into a medium of exchange and currency.",
+  "sourceHint": "NCERT Class 11 History Themes in Indian History / R.S. Sharma Ancient India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:52:22Z"
+ },
+ {
+  "id": "q_c140f56260196d58",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following international organizations publishes the 'World Economic Outlook' report?",
+  "qHi": "निम्नलिखित में से कौन सा अंतर्राष्ट्रीय संगठन 'विश्व आर्थिक आउटलुक' (World Economic Outlook) रिपोर्ट प्रकाशित करता है?",
+  "optsEn": [
+   "World Bank",
+   "International Monetary Fund",
+   "World Economic Forum",
+   "Asian Development Bank"
+  ],
+  "optsHi": [
+   "विश्व बैंक",
+   "अंतर्राष्ट्रीय मुद्रा कोष",
+   "विश्व आर्थिक मंच",
+   "एशियाई विकास बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "The World Economic Outlook is a survey by the International Monetary Fund (IMF) that is usually published twice a year.",
+  "sourceHint": "Standard International Economics Textbooks / IMF Official Publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:52:22Z"
+ },
+ {
+  "id": "q_0c503123b6e49c75",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The concept of 'Directive Principles of State Policy' in the Indian Constitution was borrowed from the constitution of which country?",
+  "qHi": "भारतीय संविधान में 'राज्य के नीति निर्देशक तत्वों' का विचार किस देश के संविधान से लिया गया था?",
+  "optsEn": [
+   "Ireland",
+   "Canada",
+   "Australia",
+   "United States"
+  ],
+  "optsHi": [
+   "आयरलैंड",
+   "कनाडा",
+   "ऑस्ट्रिया",
+   "संयुक्त राज्य अमेरिका"
+  ],
+  "correct": 0,
+  "explainEn": "The framers of the Indian Constitution borrowed the Directive Principles of State Policy from the Irish Constitution of 1937, which had copied it from the Spanish Constitution.",
+  "sourceHint": "Indian Constitution Part IV, Laxmikanth Indian Polity",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:52:22Z"
+ },
+ {
+  "id": "q_18075f8d26ff4576",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of botany, what is a 'pneumatophore' primarily used for?",
+  "qHi": "वनस्पति विज्ञान के संदर्भ में, 'न्यूटैफ़ोर' (pneumatophore) का मुख्य उपयोग क्या है?",
+  "optsEn": [
+   "Water storage in arid conditions",
+   "Respiration in water-logged soils",
+   "Nutrient absorption from host plants",
+   "Seed dispersal by wind"
+  ],
+  "optsHi": [
+   "शुष्क परिस्थितियों में जल का भंडारण",
+   "जलमग्न मिट्टी में श्वसन",
+   "परजीवी पौधों से पोषक तत्वों का अवशोषण",
+   " हवा द्वारा बीजों का प्रकीर्णन"
+  ],
+  "correct": 1,
+  "explainEn": "Pneumatophores are specialized aerial roots that enable plants to breathe air in habitats that have waterlogged soil, such as mangroves.",
+  "sourceHint": "NCERT Class 11 Biology Chapter on Morphology of Flowering Plants",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:52:22Z"
  }
 ]

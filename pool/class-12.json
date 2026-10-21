@@ -19318,5 +19318,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-21T04:51:41Z"
+ },
+ {
+  "id": "q_298bdd9d71ee9453",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of economy is characterized by the central government controlling major economic decisions?",
+  "qHi": "किस प्रकार की अर्थव्यवस्था की विशेषता केंद्र सरकार द्वारा प्रमुख आर्थिक निर्णयों को नियंत्रित करना है?",
+  "optsEn": [
+   "Market economy",
+   "Capitalist economy",
+   "Centrally planned economy",
+   "Mixed economy"
+  ],
+  "optsHi": [
+   "बाजार अर्थव्यवस्था",
+   "पूंजीवादी अर्थव्यवस्था",
+   "केंद्रीय नियोजित अर्थव्यवस्था",
+   "मिश्रित अर्थव्यवस्था"
+  ],
+  "correct": 2,
+  "explainEn": "In a centrally planned economy, all important economic decisions are made by the government.",
+  "sourceHint": "NCERT Class 12 Economics (Microeconomics) Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:51:17Z"
+ },
+ {
+  "id": "q_4c6e2961ae45b434",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which part of the human brain maintains posture and balance?",
+  "qHi": "मानव मस्तिष्क का कौन सा भाग शरीर की मुद्रा और संतुलन बनाए रखता है?",
+  "optsEn": [
+   "Cerebrum",
+   "Cerebellum",
+   "Medulla oblongata",
+   "Pons"
+  ],
+  "optsHi": [
+   "प्रमस्तिष्क (सेरेब्रम)",
+   "अनुमस्तिष्क (सेरेबेलम)",
+   "मेड्युला ओब्लोंगाटा",
+   "पॉन्स"
+  ],
+  "correct": 1,
+  "explainEn": "The cerebellum is the part of the brain responsible for coordinating voluntary movements, posture, and balance.",
+  "sourceHint": "NCERT Class 11 Biology Chapter 21",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:51:17Z"
+ },
+ {
+  "id": "q_b559d979c2ed9778",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In a p-n junction diode, what happens to the depletion region under forward bias conditions?",
+  "qHi": "एक पी-एन जंक्शन डायोड में, अग्र अभिनति (फॉरवर्ड बायस) की स्थिति में अवक्षय क्षेत्र (डिप्लीशन रीजन) का क्या होता है?",
+  "optsEn": [
+   "It widens",
+   "It narrows",
+   "It disappears completely",
+   "It remains unchanged"
+  ],
+  "optsHi": [
+   "यह चौड़ा हो जाता है",
+   "यह संकीर्ण हो जाता है",
+   "यह पूरी तरह से गायब हो जाता है",
+   "यह अपरिवर्तित रहता है"
+  ],
+  "correct": 1,
+  "explainEn": "Applying a forward bias to a p-n junction diode opposes the internal electric field, thereby reducing the barrier potential and narrowing the depletion region.",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:52:16Z"
+ },
+ {
+  "id": "q_50536139acb8ac6e",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which coordination compound is used as an effective chemotherapeutic agent in the treatment of cancer?",
+  "qHi": "कैंसर के इलाज में एक प्रभावी कीमोथेरेप्यूटिक एजेंट के रूप में किस उपसहसंयोजक यौगिक का उपयोग किया जाता है?",
+  "optsEn": [
+   "Cisplatin",
+   "Sodium EDTA",
+   "Potassium ferrocyanide",
+   "Chlorophyll"
+  ],
+  "optsHi": [
+   "सिसप्लैटिन",
+   "सोडियम ईडिटा",
+   "पोटेशियम फेरोसाइनाइड",
+   "क्लोरोफिल"
+  ],
+  "correct": 0,
+  "explainEn": "Cisplatin, a coordination complex of platinum, is widely used in cancer chemotherapy to inhibit the replication of DNA.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:52:16Z"
+ },
+ {
+  "id": "q_3407b5f3ac9d9594",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In macroeconomics, which measure represents the total market value of all final goods and services produced within a domestic territory of a country in a given year?",
+  "qHi": "समष्टि अर्थशास्त्र में, कौन सा माप किसी दिए गए वर्ष में देश के घरेलू क्षेत्र के भीतर उत्पादित सभी अंतिम वस्तुओं और सेवाओं के कुल बाजार मूल्य का प्रतिनिधित्व करता है?",
+  "optsEn": [
+   "Gross National Product",
+   "Gross Domestic Product",
+   "Net National Product",
+   "Personal Income"
+  ],
+  "optsHi": [
+   " सकल राष्ट्रीय उत्पाद",
+   "सकल घरेलू उत्पाद",
+   "शुद्ध राष्ट्रीय उत्पाद",
+   "व्यक्तिगत आय"
+  ],
+  "correct": 1,
+  "explainEn": "Gross Domestic Product (GDP) is defined as the total value of goods and services produced within the domestic territory of a country.",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:52:16Z"
+ },
+ {
+  "id": "q_8d10ea7cc63060e6",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which phase of the Indian national movement saw the widespread adoption of the Swadeshi and Boycott movements in response to the partition of a major province?",
+  "qHi": "भारतीय राष्ट्रीय आंदोलन के किस चरण में एक प्रमुख प्रांत के विभाजन के जवाब में स्वदेशी और बहिष्कार आंदोलनों को व्यापक रूप से अपनाया गया था?",
+  "optsEn": [
+   "Non-Cooperation Movement",
+   "Civil Disobedience Movement",
+   "Anti-Partition movement of Bengal",
+   "Quit India Movement"
+  ],
+  "optsHi": [
+   "असहयोग आंदोलन",
+   "सविनय अवज्ञा आंदोलन",
+   "बंगाल का विभाजन विरोधी आंदोलन",
+   "भारत छोड़ो आंदोलन"
+  ],
+  "correct": 2,
+  "explainEn": "The Swadeshi and Boycott movements were launched in 1905 as a direct reaction to the partition of Bengal by Lord Curzon.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:52:16Z"
+ },
+ {
+  "id": "q_a663ed24d79b8a51",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following biogeochemical cycles has a sedimentary cycle component without any significant gaseous phase in the atmosphere?",
+  "qHi": "निम्नलिखित में से किस जैव-भू-रासायनिक चक्र में वायुमंडल में किसी भी महत्वपूर्ण गैसीय चरण के बिना एक अवसादी (सेडimentary) चक्र घटक होता है?",
+  "optsEn": [
+   "Nitrogen cycle",
+   "Carbon cycle",
+   "Phosphorus cycle",
+   "Oxygen cycle"
+  ],
+  "optsHi": [
+   "नाइट्रोजन चक्र",
+   "कार्बन चक्र",
+   "फास्फोरस चक्र",
+   "ऑक्सीजन चक्र"
+  ],
+  "correct": 2,
+  "explainEn": "The phosphorus cycle is a sedimentary biogeochemical cycle because phosphorus has no significant gas phase in the atmosphere.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 13",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:52:16Z"
+ },
+ {
+  "id": "q_5217e370b5575710",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary function of the entrepreneur in traditional economic theory alongside land, labour, and capital?",
+  "qHi": "पारंपरिक आर्थिक सिद्धांत में भूमि, श्रम और पूंजी के साथ उद्यमी का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "Bearing uncertainty and risk",
+   "Only manual labor execution",
+   "Providing government regulation",
+   "Sole consumption of output"
+  ],
+  "optsHi": [
+   "अनिश्चितता और जोखिम उठाना",
+   "केवल शारीरिक श्रम निष्पादन",
+   "सरकारी विनियमन प्रदान करना",
+   "उत्पादन की एकमात्र खपत"
+  ],
+  "correct": 0,
+  "explainEn": "In economic theory, the entrepreneur combines factors of production and bears the uncertainty and risk of running a business.",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Microeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:52:16Z"
  }
 ]

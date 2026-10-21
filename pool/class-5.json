@@ -17834,5 +17834,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-21T04:52:32Z"
+ },
+ {
+  "id": "q_506d5672fcfedae3",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the freezing point of water in Celsius?",
+  "qHi": "सेल्सियस में पानी का हिमांक (फ्रीजिंग प्वाइंट) क्या है?",
+  "optsEn": [
+   "0 degrees",
+   "50 degrees",
+   "100 degrees",
+   "37 degrees"
+  ],
+  "optsHi": [
+   "0 डिग्री",
+   "50 डिग्री",
+   "100 डिग्री",
+   "37 डिग्री"
+  ],
+  "correct": 0,
+  "explainEn": "Water freezes at 0 degrees Celsius under standard atmospheric pressure.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:51:05Z"
+ },
+ {
+  "id": "q_c3aec7f679482da2",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following mountain ranges separates the Indo-Gangetic Plain from the Deccan Plateau in the Indian subcontinent?",
+  "qHi": "भारतीय उपमहाद्वीप में सिंधु-गंगा के मैदान को दक्कन के पठार से निम्नलिखित में से कौन सी पर्वत श्रृंखला अलग करती है?",
+  "optsEn": [
+   "Himalayas",
+   "Vindhya Range",
+   "Aravalli Range",
+   "Eastern Ghats"
+  ],
+  "optsHi": [
+   "हिमालय",
+   "विंध्य श्रेणी",
+   "अरावली श्रेणी",
+   "पूर्वी घाट"
+  ],
+  "correct": 1,
+  "explainEn": "The Vindhya range traditionally marks the boundary between the northern Indo-Gangetic plain and the southern Deccan plateau.",
+  "sourceHint": "NCERT Class 5 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:53:07Z"
+ },
+ {
+  "id": "q_ee284d25512c07d9",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional Indian harvest festival is associated with the transit of the Sun into the constellation of Capricorn (Makara)?",
+  "qHi": "कौन सा पारंपरिक भारतीय फसल उत्सव सूर्य के मकर राशि में प्रवेश से जुड़ा हुआ है?",
+  "optsEn": [
+   "Bihu",
+   "Onam",
+   "Makar Sankranti",
+   "Baisakhi"
+  ],
+  "optsHi": [
+   "बिहू",
+   "ओणम",
+   "मकर संक्रांति",
+   "बैसाखी"
+  ],
+  "correct": 2,
+  "explainEn": "Makar Sankranti marks the transition of the sun into Makara (Capricorn) rashi and is celebrated as a harvest festival across India.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:53:07Z"
+ },
+ {
+  "id": "q_5b4412d33f3c9bbd",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of plant reproduction, which part of a flower develops into a fruit after fertilization?",
+  "qHi": "पौधों में प्रजनन के संदर्भ में, निषेचन के बाद फूल का कौन सा भाग फल में विकसित होता है?",
+  "optsEn": [
+   "Ovary",
+   "Anther",
+   "Petal",
+   "Sepal"
+  ],
+  "optsHi": [
+   "अंडाशय",
+   "परागण",
+   "पंखुड़ी",
+   "बाह्यदल"
+  ],
+  "correct": 0,
+  "explainEn": "After fertilization, the ovary of the flower swells and ripens into a fruit, while ovules become seeds.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:53:07Z"
+ },
+ {
+  "id": "q_1e24e14c8292a398",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which type of mirror is commonly used by dentists to get an enlarged view of a patient's teeth?",
+  "qHi": "दंत चिकित्सक द्वारा मरीज के दांतों का बड़ा दृश्य प्राप्त करने के लिए आमतौर पर किस प्रकार के दर्पण का उपयोग किया जाता है?",
+  "optsEn": [
+   "Plane mirror",
+   "Concave mirror",
+   "Convex mirror",
+   "Cylindrical mirror"
+  ],
+  "optsHi": [
+   "समतल दर्पण",
+   "अवतल दर्पण",
+   "उत्तल दर्पण",
+   "बेलनाकार दर्पण"
+  ],
+  "correct": 1,
+  "explainEn": "A concave mirror can produce an erect and enlarged image of an object when placed close to it, which helps dentists examine teeth.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:53:07Z"
+ },
+ {
+  "id": "q_652ce4b1c35eb2b1",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which famous historical monument was built by Mughal Emperor Shah Jahan as a mausoleum for his wife Mumtaz Mahal?",
+  "qHi": "मुगल सम्राट शाहजहाँ ने अपनी पत्नी मुमताज महल के मकबरे के रूप में कौन सा प्रसिद्ध ऐतिहासिक स्मारक बनवाया था?",
+  "optsEn": [
+   "Red Fort",
+   "Taj Mahal",
+   "Qutb Minar",
+   "Humayun's Tomb"
+  ],
+  "optsHi": [
+   "लाल किला",
+   "ताजमहल",
+   "कुतुब मीनार",
+   "हुमायूं का मकबरा"
+  ],
+  "correct": 1,
+  "explainEn": "The Taj Mahal in Agra was commissioned by Shah Jahan in 1631 to house the tomb of his favorite wife, Mumtaz Mahal.",
+  "sourceHint": "NCERT Class 5 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:53:07Z"
+ },
+ {
+  "id": "q_d23bb19d0f790219",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which instrument is traditionally used in meteorology to measure the amount of rainfall at a specific location?",
+  "qHi": "मौसम विज्ञान में किसी विशिष्ट स्थान पर वर्षा की मात्रा मापने के लिए पारंपरिक रूप से किस उपकरण का उपयोग किया जाता है?",
+  "optsEn": [
+   "Barometer",
+   "Anemometer",
+   "Rain gauge",
+   "Hygrometer"
+  ],
+  "optsHi": [
+   "बैरोमीटर",
+   "एनीमोमीटर",
+   "वर्षा मापक (रेन गेज)",
+   "हाइग्रोमीटर"
+  ],
+  "correct": 2,
+  "explainEn": "A rain gauge is a meteorological instrument used to measure precipitation in millimeters over a set period.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:53:07Z"
+ },
+ {
+  "id": "q_78c60504b23ed548",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following celestial bodies is classified as a dwarf planet in our solar system?",
+  "qHi": "हमारे सौर मंडल में निम्नलिखित में से किस खगोलीय पिंड को बौने ग्रह के रूप में वर्गीकृत किया गया है?",
+  "optsEn": [
+   "Mars",
+   "Pluto",
+   "Saturn",
+   "Mercury"
+  ],
+  "optsHi": [
+   "मंगल",
+   "प्लूटो",
+   "शनि",
+   "बुध"
+  ],
+  "correct": 1,
+  "explainEn": "Pluto was reclassified from a major planet to a dwarf planet by the International Astronomical Union in 2006.",
+  "sourceHint": "NCERT Class 6 Science (Astronomy basics)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:53:07Z"
  }
 ]

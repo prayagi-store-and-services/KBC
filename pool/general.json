@@ -13102,5 +13102,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-21T04:52:26Z"
+ },
+ {
+  "id": "q_64aec9acbed41f98",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organ in the human body primarily purifies blood?",
+  "qHi": "मानव शरीर में कौन सा अंग मुख्य रूप से रक्त को शुद्ध करता है?",
+  "optsEn": [
+   "Heart",
+   "Kidney",
+   "Stomach",
+   "Liver"
+  ],
+  "optsHi": [
+   "हृदय",
+   "गुर्दा",
+   "पेट",
+   "यकृत"
+  ],
+  "correct": 1,
+  "explainEn": "Kidneys filter waste products and excess water from the blood to produce urine.",
+  "sourceHint": "NCERT Biology Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:51:02Z"
+ },
+ {
+  "id": "q_3d85dfece102f373",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which Indian city is the headquarters of the Indian Space Research Organisation located?",
+  "qHi": "भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO) का मुख्यालय किस भारतीय शहर में स्थित है?",
+  "optsEn": [
+   "New Delhi",
+   "Mumbai",
+   "Bengaluru",
+   "Hyderabad"
+  ],
+  "optsHi": [
+   "नई दिल्ली",
+   "मुंबई",
+   "बेंगलुरु",
+   "हैदराबाद"
+  ],
+  "correct": 2,
+  "explainEn": "The headquarters of ISRO is located in Bengaluru, Karnataka.",
+  "sourceHint": "ISRO official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:51:57Z"
+ },
+ {
+  "id": "q_74a57160eabc9a95",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which tectonic plate collided with the Eurasian Plate to form the Himalayas?",
+  "qHi": "हिमालय का निर्माण करने के लिए कौन सी विवर्तनिक प्लेट यूरेशियन प्लेट से टकराई थी?",
+  "optsEn": [
+   "Indian Plate",
+   "African Plate",
+   "Antarctic Plate",
+   "Pacific Plate"
+  ],
+  "optsHi": [
+   "भारतीय प्लेट",
+   "अफ्रिकी प्लेट",
+   "अंटार्कटिक प्लेट",
+   "प्रशांत प्लेट"
+  ],
+  "correct": 0,
+  "explainEn": "The Himalayas were formed as a result of the collision between the Indian Plate and the Eurasian Plate.",
+  "sourceHint": "Geological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:51:57Z"
+ },
+ {
+  "id": "q_aa47a9ecff596786",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which state is the ancient site of Dholavira, an Indus Valley Civilization city, located?",
+  "qHi": "सिंधु घाटी सभ्यता का प्राचीन नगर धोलावीरा किस राज्य में स्थित है?",
+  "optsEn": [
+   "Rajasthan",
+   "Gujarat",
+   "Haryana",
+   "Punjab"
+  ],
+  "optsHi": [
+   "राजस्थान",
+   "गुजरात",
+   "हरियाणा",
+   "पंजाब"
+  ],
+  "correct": 1,
+  "explainEn": "Dholavira is an archaeological site belonging to the Indus Valley Civilization located in Khadir bet in Bhachau Taluka of Kutch district, in Gujarat.",
+  "sourceHint": "ASI / UNESCO World Heritage Centre",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:52:41Z"
+ },
+ {
+  "id": "q_9447ef2d022f2a95",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which vitamin is chemically known as Ascorbic Acid?",
+  "qHi": "किस विटामिन को रासायनिक रूप से एस्कॉर्बिक एसिड के रूप में जाना जाता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B1",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी1",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 2,
+  "explainEn": "Ascorbic acid is a naturally occurring organic compound with antioxidant properties, commonly known as Vitamin C.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:52:41Z"
+ },
+ {
+  "id": "q_f157909ccaf9060a",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who was the first Indian woman to win an individual Olympic medal?",
+  "qHi": "व्यक्तिगत ओलंपिक पदक जीतने वाली पहली भारतीय महिला कौन थीं?",
+  "optsEn": [
+   "P. T. Usha",
+   "Karnam Malleswari",
+   "Mary Kom",
+   "Saina Nehwal"
+  ],
+  "optsHi": [
+   "पी. टी. उषा",
+   "कर्णम मल्लेश्वरी",
+   "मैरी कॉम",
+   "साइना नेहवाल"
+  ],
+  "correct": 1,
+  "explainEn": "Weightlifter Karnam Malleswari won the bronze medal at the 2000 Sydney Olympics, becoming the first Indian woman to win an individual Olympic medal.",
+  "sourceHint": "IOC / Sports Authority of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:52:41Z"
  }
 ]

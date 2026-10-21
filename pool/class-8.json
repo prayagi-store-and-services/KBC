@@ -13522,5 +13522,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-21T04:50:25Z"
+ },
+ {
+  "id": "q_2d21f1e0490ef1d4",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which planet in our solar system has the highest number of recognized natural satellites as of recent astronomical discoveries?",
+  "qHi": "हमारे सौर मंडल में किस ग्रह के पास हाल की खगोलीय खोजों के अनुसार सबसे अधिक मान्यता प्राप्त प्राकृतिक उपग्रह हैं?",
+  "optsEn": [
+   "Venus",
+   "Mars",
+   "Saturn",
+   "Earth"
+  ],
+  "optsHi": [
+   "शुक्र",
+   "मंगल",
+   "शनि",
+   "पृथ्वी"
+  ],
+  "correct": 2,
+  "explainEn": "Saturn has the highest number of confirmed moons in our solar system, surpassing Jupiter in recent counts.",
+  "sourceHint": "NCERT Class 8 Science Chapter 17",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:52:06Z"
+ },
+ {
+  "id": "q_a89bd8b57799eded",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which micro-organism is primarily responsible for the setting of curd from milk?",
+  "qHi": "दूध से दही जमने के लिए मुख्य रूप से कौन सा सूक्ष्म जीव उत्तरदायी है?",
+  "optsEn": [
+   "Lactobacillus",
+   "Rhizobium",
+   "Amoeba",
+   "Penicillium"
+  ],
+  "optsHi": [
+   "लैक्टोबैसिलस",
+   "राइबोज़ियम",
+   "अमीबा",
+   "पेनिसिलियम"
+  ],
+  "correct": 0,
+  "explainEn": "Lactobacillus is the bacterium that promotes the formation of curd by multiplying in milk.",
+  "sourceHint": "NCERT Class 8 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:52:06Z"
+ },
+ {
+  "id": "q_3b309ceb1e6a0f1f",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the name of the imaginary line running through the center of the Earth that represents its axis of rotation?",
+  "qHi": "पृथ्वी के केंद्र से गुजरने वाली उस काल्पनिक रेखा का नाम क्या है जो इसके घूर्णन अक्ष को दर्शाती है?",
+  "optsEn": [
+   "Equator",
+   "Prime Meridian",
+   "Axis",
+   "Tropic of Cancer"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा",
+   "प्रधान मध्याह्न रेखा",
+   "अक्ष",
+   "कर्क रेखा"
+  ],
+  "correct": 2,
+  "explainEn": "The axis is an imaginary line passing through the center of the Earth around which it rotates.",
+  "sourceHint": "NCERT Class 6 and 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:52:06Z"
+ },
+ {
+  "id": "q_dcf1aff4bb217927",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which synthetic fiber is often called artificial silk because it resembles silk in appearance and texture?",
+  "qHi": "किस सिंथेटिक फाइबर को अक्सर कृत्रिम रेशम कहा जाता है क्योंकि यह दिखने और बनावट में रेशम जैसा होता है?",
+  "optsEn": [
+   "Nylon",
+   "Rayon",
+   "Polリエステル",
+   "Acrylic"
+  ],
+  "optsHi": [
+   "ना नायलॉन",
+   "रयान",
+   "पॉलिएस्टर",
+   "एक्रिलिक"
+  ],
+  "correct": 1,
+  "explainEn": "Rayon is obtained from wood pulp and is chemically treated to resemble silk, hence called artificial silk.",
+  "sourceHint": "NCERT Class 8 Science Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:52:06Z"
+ },
+ {
+  "id": "q_851a28a76cd4256f",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under which Article of the Constitution of India is the Right to Education guaranteed as a fundamental right for children aged 6 to 14 years?",
+  "qHi": "भारत के संविधान के किस अनुच्छेद के तहत 6 से 14 वर्ष की आयु के बच्चों के लिए शिक्षा का अधिकार मौलिक अधिकार के रूप में गारंटीकृत है?",
+  "optsEn": [
+   "Article 14",
+   "Article 21A",
+   "Article 32",
+   "Article 51A"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14",
+   "अनुच्छेद 21ए",
+   "अनुच्छेद 32",
+   "अनुच्छेद 51ए"
+  ],
+  "correct": 1,
+  "explainEn": "Article 21A was inserted by the 86th Constitutional Amendment Act, 2002, making education a fundamental right.",
+  "sourceHint": "Constitution of India and NCERT Class 8 Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:52:06Z"
+ },
+ {
+  "id": "q_e5dbbe13105ccbaa",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which state of India is the Jim Corbett National Park primarily located?",
+  "qHi": "जिम कॉर्बेट नेशनल पार्क मुख्य रूप से भारत के किस राज्य में स्थित है?",
+  "optsEn": [
+   "Madhya Pradesh",
+   "Uttarakhand",
+   "Assam",
+   "Rajasthan"
+  ],
+  "optsHi": [
+   "मध्य प्रदेश",
+   "उत्तराखंड",
+   "असम",
+   "राजस्थान"
+  ],
+  "correct": 1,
+  "explainEn": "Jim Corbett National Park is located in the Nainital district of Uttarakhand and was the first national park in India.",
+  "sourceHint": "NCERT Class 8 Geography Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:52:06Z"
+ },
+ {
+  "id": "q_ccfafa15aa87f20b",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "During the British colonial period in India, the Permanent Settlement was introduced in 1793 by which Governor-General?",
+  "qHi": "भारत में ब्रिटिश औपनिवेशिक काल के दौरान, 1793 में स्थायी बंदोबस्त (परमानेंट सेटलमेंट) किस गवर्नर-जनरल द्वारा शुरू किया गया था?",
+  "optsEn": [
+   "Lord Cornwallis",
+   "Lord Dalhousie",
+   "Warren Hastings",
+   "Lord Wellesley"
+  ],
+  "optsHi": [
+   "लॉर्ड कॉर्नवालिस",
+   "लॉर्ड डलहौजी",
+   "वारेन हेस्टिंग्स",
+   "लॉर्ड वेलेडजी"
+  ],
+  "correct": 0,
+  "explainEn": "Lord Cornwallis introduced the Permanent Settlement in Bengal in 1793 to fix the land revenue demand.",
+  "sourceHint": "NCERT Class 8 History Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T11:52:06Z"
  }
 ]
