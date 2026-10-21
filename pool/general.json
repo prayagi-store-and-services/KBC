@@ -13270,5 +13270,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-21T11:52:41Z"
+ },
+ {
+  "id": "q_b5d7c74d185ef483",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "How many players are on the field in a standard cricket team match for one side?",
+  "qHi": "क्रिकेट के एक मानक मैच में मैदान पर एक पक्ष के कितने खिलाड़ी होते हैं?",
+  "optsEn": [
+   "9",
+   "10",
+   "11",
+   "12"
+  ],
+  "optsHi": [
+   "9",
+   "10",
+   "11",
+   "12"
+  ],
+  "correct": 2,
+  "explainEn": "A standard cricket team consists of 11 players on the field at a time during a match.",
+  "sourceHint": "ICC Official Rulebook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:14:01Z"
+ },
+ {
+  "id": "q_deb4a9e413a1b5b3",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of the Indian Constitution, which part deals with Fundamental Rights?",
+  "qHi": "भारतीय संविधान के संदर्भ में, कौन सा भाग मौलिक अधिकारों से संबंधित है?",
+  "optsEn": [
+   "Part II",
+   "Part III",
+   "Part IV",
+   "Part IX"
+  ],
+  "optsHi": [
+   "भाग II",
+   "भाग III",
+   "भाग IV",
+   "भाग IX"
+  ],
+  "correct": 1,
+  "explainEn": "Part III of the Constitution of India, spanning articles 12 to 35, contains the guaranteed Fundamental Rights.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:14:59Z"
+ },
+ {
+  "id": "q_fef289c80330c935",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which river forms the Jog Falls, one of the notable waterfalls in India?",
+  "qHi": "कौन सी नदी जोग जलप्रपात बनाती है, जो भारत के उल्लेखनीय झरनों में से एक है?",
+  "optsEn": [
+   "Sharavathi",
+   "Kaveri",
+   "Narmada",
+   "Tapti"
+  ],
+  "optsHi": [
+   "शरावती",
+   "कावेरी",
+   "नर्मदा",
+   "ताप्ती"
+  ],
+  "correct": 0,
+  "explainEn": "Jog Falls is created by the Sharavathi river in the Shimoga district of Karnataka.",
+  "sourceHint": "Encyclopædia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:14:59Z"
+ },
+ {
+  "id": "q_8a75ff4c5f912a42",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form of India traditionally begins with an invocatory item known as 'Alarippu'?",
+  "qHi": "भारत का कौन सा शास्त्रीय नृत्य पारंपरिक रूप से 'अल्लारिप्पु' नामक एक वंदना वस्तु से शुरू होता है?",
+  "optsEn": [
+   "Kathak",
+   "Bharatanatyam",
+   "Odissi",
+   "Kuchipudi"
+  ],
+  "optsHi": [
+   "कत्थक",
+   "भरतनाट्यम",
+   "ओडिसी",
+   "कुचिपुड़ी"
+  ],
+  "correct": 1,
+  "explainEn": "In Bharatanatyam, the performance traditionally begins with Alarippu, which is a pure dance item serving as an offering to the deities and the guru.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:16:08Z"
+ },
+ {
+  "id": "q_8d87246125e667da",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who wrote the ancient Sanskrit treatise on statecraft and political economy titled 'Arthashastra'?",
+  "qHi": "'अर्थशास्त्र' नामक राजनीति और अर्थव्यवस्था पर प्राचीन संस्कृत ग्रंथ किसने लिखा था?",
+  "optsEn": [
+   "Kalidasa",
+   "Banabhatta",
+   "Kautilya",
+   "Vishakadatta"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "बाणभट्ट",
+   "कौटिल्य",
+   "विशाखदत्त"
+  ],
+  "correct": 2,
+  "explainEn": "Arthashastra was authored by Kautilya, also known as Chanakya or Vishnugupta, during the Mauryan period.",
+  "sourceHint": "NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:16:08Z"
+ },
+ {
+  "id": "q_b33666ee0a77712d",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What chemical element is designated by the symbol 'W', derived from its alternative name Wolfram?",
+  "qHi": "किस रासायनिक तत्व को इसके वैकल्पिक नाम 'वोल्फ्राम' से लिए गए प्रतीक 'W' द्वारा दर्शाया जाता है?",
+  "optsEn": [
+   "Tungsten",
+   "Tin",
+   "Zinc",
+   "Lead"
+  ],
+  "optsHi": [
+   "टंगस्टन",
+   "टिन",
+   "जस्ता",
+   "सीसा"
+  ],
+  "correct": 0,
+  "explainEn": "Tungsten has the chemical symbol W, which comes from wolframite, the mineral from which the element was historically isolated.",
+  "sourceHint": "NCERT Chemistry",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:16:08Z"
+ },
+ {
+  "id": "q_44fbf51a49e62d4e",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In Indian classical music, which thaat does not belong to the ten basic parent scales classified by Vishnu Narayan Bhatkhande?",
+  "qHi": "भारतीय शास्त्रीय संगीत में, कौन सा थाट विष्णु नारायण भातखंडे द्वारा वर्गीकृत दस बुनियादी मूल पैमानों में से नहीं है?",
+  "optsEn": [
+   "Kalyan",
+   "Bhairav",
+   "Bhairavi",
+   "Malhar"
+  ],
+  "optsHi": [
+   "कल्याण",
+   "भैरव",
+   "भैरवी",
+   "मल्हार"
+  ],
+  "correct": 3,
+  "explainEn": "Malhar is a raga group, not one of the ten primary thaats (Kalyan, Bilawal, Khamaj, Bhairav, Bhairavi, Asavari, Todi, Poorvi, Marwa, Kafi).",
+  "sourceHint": "Sangeet Natak Akademi",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:16:08Z"
+ },
+ {
+  "id": "q_d44db5dfbcd64f6a",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian astronomer and mathematician of the 5th century wrote the astronomical treatise 'Aryabhatiya'?",
+  "qHi": "5वीं सदी के किस भारतीय खगोलविद और गणितज्ञ ने खगोलीय ग्रंथ 'आर्यभटीय' लिखा था?",
+  "optsEn": [
+   "Varahamihira",
+   "Brahmagupta",
+   "Aryabhata",
+   "Bhaskara I"
+  ],
+  "optsHi": [
+   "वराहमिहिर",
+   "ब्रह्मगुप्त",
+   "आर्यभट्ट",
+   "भास्कर प्रथम"
+  ],
+  "correct": 2,
+  "explainEn": "Aryabhatiya is the magnum opus of the classical Indian mathematician and astronomer Aryabhata, composed in the 5th century.",
+  "sourceHint": "NCERT Mathematics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:16:08Z"
  }
 ]

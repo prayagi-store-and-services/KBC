@@ -13718,5 +13718,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-21T11:52:06Z"
+ },
+ {
+  "id": "q_de7ebde9bea2d1f6",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What minimum age is required for a citizen to vote in Lok Sabha elections in India?",
+  "qHi": "भारत में लोकसभा चुनाव में मतदान करने के लिए एक नागरिक की न्यूनतम आयु क्या होनी चाहिए?",
+  "optsEn": [
+   "18 years",
+   "21 years",
+   "25 years",
+   "35 years"
+  ],
+  "optsHi": [
+   "18 वर्ष",
+   "21 वर्ष",
+   "25 वर्ष",
+   "35 वर्ष"
+  ],
+  "correct": 0,
+  "explainEn": "According to the Indian Constitution, any citizen who is 18 years of age or older is eligible to vote.",
+  "sourceHint": "NCERT Class 8 Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:14:09Z"
+ },
+ {
+  "id": "q_aa5a00c40ecc4047",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which metal is stored immersed in kerosene because it reacts vigorously with moisture and oxygen at room temperature?",
+  "qHi": "किस धातु को केरोसिन में डुबोकर रखा जाता है क्योंकि यह कमरे के तापमान पर नमी और ऑक्सीजन के साथ तेजी से प्रतिक्रिया करती है?",
+  "optsEn": [
+   "Copper",
+   "Iron",
+   "Sodium",
+   "Gold"
+  ],
+  "optsHi": [
+   "तांबा",
+   "लोहा",
+   "सोडियम",
+   "सोना"
+  ],
+  "correct": 2,
+  "explainEn": "Sodium is a highly reactive metal that catches fire if kept in contact with air and moisture, so it is stored in kerosene.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:15:11Z"
+ },
+ {
+  "id": "q_8929a34dddef281c",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the term used for the process of conversion of sugar into alcohol by yeast?",
+  "qHi": "खमीर (यीस्ट) द्वारा चीनी को अल्कोहल में बदलने की प्रक्रिया के लिए किस शब्द का उपयोग किया जाता है?",
+  "optsEn": [
+   "Fermentation",
+   "Nitrogen fixation",
+   "Photosynthesis",
+   "Distillation"
+  ],
+  "optsHi": [
+   "किण्वन (फर्मेंटेशन)",
+   "नाइट्रोजन स्थिरीकरण",
+   "प्रकाश संश्लेषण",
+   "आसवन"
+  ],
+  "correct": 0,
+  "explainEn": "Louis Pasteur discovered fermentation, which is the conversion of sugar into alcohol by microorganisms like yeast.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:15:11Z"
+ },
+ {
+  "id": "q_f5e62b1e207e2702",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organelle in plant cells contains the green pigment chlorophyll necessary for photosynthesis?",
+  "qHi": "पादप कोशिकाओं में किस अंगक में प्रकाश संश्लेषण के लिए आवश्यक हरा वर्णक क्लोरोफिल होता है?",
+  "optsEn": [
+   "Mitochondria",
+   "Chloroplast",
+   "Ribosome",
+   "Nucleus"
+  ],
+  "optsHi": [
+   "माइटोकॉन्ड्रिया",
+   "क्लोरोप्लास्ट",
+   "राइबोसोम",
+   "केंद्रक"
+  ],
+  "correct": 1,
+  "explainEn": "Chloroplasts are plant cell organelles that contain chlorophyll and capture sunlight for photosynthesis.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:15:11Z"
+ },
+ {
+  "id": "q_c1ad7cf112c5e045",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of the Indian parliamentary system, what is the minimum age requirement to become a member of the Lok Sabha?",
+  "qHi": "भारतीय संसदीय प्रणाली के संदर्भ में, लोकसभा का सदस्य बनने के लिए न्यूनतम आयु की आवश्यकता क्या है?",
+  "optsEn": [
+   "21 years",
+   "25 years",
+   "30 years",
+   "35 years"
+  ],
+  "optsHi": [
+   "21 वर्ष",
+   "25 वर्ष",
+   "30 वर्ष",
+   "35 वर्ष"
+  ],
+  "correct": 1,
+  "explainEn": "Article 84 of the Constitution states that a person must be at least 25 years of age to be a member of the Lok Sabha.",
+  "sourceHint": "Constitution of India and NCERT Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:15:11Z"
+ },
+ {
+  "id": "q_56993ceaefcdb0a3",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which administrative official was appointed by the East India Company to reside in Indian states after the subsidiary alliance system was imposed?",
+  "qHi": "सहायक संधि प्रणाली लागू होने के बाद भारतीय राज्यों में निवास करने के लिए ईस्ट इंडिया कंपनी द्वारा किस प्रशासनिक अधिकारी को नियुक्त किया गया था?",
+  "optsEn": [
+   "Governor-General",
+   "Viceroy",
+   "Resident",
+   "Collector"
+  ],
+  "optsHi": [
+   "गवर्नर-जनरल",
+   "वाइसराय",
+   "रेजिडेंट",
+   "कलेक्टर"
+  ],
+  "correct": 2,
+  "explainEn": "Under the subsidiary alliance, Indian rulers accepted a British 'Resident' in their courts who wielded political influence.",
+  "sourceHint": "NCERT Class 8 History - Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:16:22Z"
+ },
+ {
+  "id": "q_6cb02351a5d66d3d",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which biosphere reserve in India is internationally recognized as part of the UNESCO World Network of Biosphere Reserves and is located in the Nilgiri Hills?",
+  "qHi": "भारत का कौन सा बायोस्फीयर रिजर्व यूनेस्को वर्ल्ड नेटवर्क ऑफ बायोस्फीयर रिजर्व्स का हिस्सा है और नीलगिरी पहाड़ियों में स्थित है?",
+  "optsEn": [
+   "Sundarbans Biosphere Reserve",
+   "Nilgiri Biosphere Reserve",
+   "Nanda Devi Biosphere Reserve",
+   "Gulf of Mannar Biosphere Reserve"
+  ],
+  "optsHi": [
+   "सुंदरबन बायोस्फीयर रिजर्व",
+   "नीलगिरी बायोस्फीयर रिजर्व",
+   "नंदा देवी बायोस्फीयर रिजर्व",
+   "मन्नार की खाड़ी बायोस्फीयर रिजर्व"
+  ],
+  "correct": 1,
+  "explainEn": "The Nilgiri Biosphere Reserve was the first to be included in the UNESCO World Network of Biosphere Reserves from India.",
+  "sourceHint": "NCERT Class 8 Geography - Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:16:22Z"
+ },
+ {
+  "id": "q_345e9fb71972577d",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of soil is most typical of the Deccan trap region in peninsular India, formed from the weathering of lava rocks?",
+  "qHi": "प्रायद्वीपीय भारत के दक्कन ट्रैप क्षेत्र की सबसे विशिष्ट मिट्टी कौन सी है, जो लावा चट्टानों के अपक्षय से बनी है?",
+  "optsEn": [
+   "Laterite soil",
+   "Alluvial soil",
+   "Black soil",
+   "Red soil"
+  ],
+  "optsHi": [
+   "लैटेराइट मिट्टी",
+   "जलोढ़ मिट्टी",
+   "काली मिट्टी",
+   "लाल मिट्टी"
+  ],
+  "correct": 2,
+  "explainEn": "Black soil, also known as regur, is formed from volcanic lava rock and is prevalent in the Deccan trap region.",
+  "sourceHint": "NCERT Class 8 Geography - Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:16:22Z"
+ },
+ {
+  "id": "q_067ec45a41fc4903",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which part of the Indian Constitution contains the Fundamental Rights, often referred to as the 'conscience' of the Constitution?",
+  "qHi": "भारतीय संविधान के किस भाग में मौलिक अधिकार शामिल हैं, जिन्हें अक्सर संविधान की 'अंतरात्मा' कहा जाता है?",
+  "optsEn": [
+   "Part I",
+   "Part II",
+   "Part III",
+   "Part IV"
+  ],
+  "optsHi": [
+   "भाग I",
+   "भाग II",
+   "भाग III",
+   "भाग IV"
+  ],
+  "correct": 2,
+  "explainEn": "Part III of the Indian Constitution, spanning Articles 12 to 35, guarantees Fundamental Rights.",
+  "sourceHint": "NCERT Class 8 Civics - Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:16:22Z"
+ },
+ {
+  "id": "q_606948b07dd2cd21",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the British colonial rule, the Permanent Settlement was introduced in 1793 primarily to regularize land revenue collection through which intermediaries?",
+  "qHi": "ब्रिटिश औपनिवेशिक शासन के दौरान, मुख्य रूप से किस माध्यम से भू-राजस्व संग्रह को नियमित करने के लिए 1793 में स्थायी बंदोबस्त शुरू किया गया था?",
+  "optsEn": [
+   "Zamindars",
+   "Ryots",
+   "Mahals",
+   "Munshis"
+  ],
+  "optsHi": [
+   "जमींदार",
+   "रैयत",
+   "महल",
+   "मुंशी"
+  ],
+  "correct": 0,
+  "explainEn": "The Permanent Settlement recognized zamindars as collectors of land revenue, fixing the amount to be paid permanently.",
+  "sourceHint": "NCERT Class 8 History - Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:16:22Z"
+ },
+ {
+  "id": "q_79d0b9cc4b393925",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which law-making body in India consists of the Lok Sabha, the Rajya Sabha, and the President?",
+  "qHi": "भारत में कानून बनाने वाली किस संस्था में लोकसभा, राज्यसभा और राष्ट्रपति शामिल होते हैं?",
+  "optsEn": [
+   "Cabinet",
+   "Parliament",
+   "Supreme Court",
+   "Secretariat"
+  ],
+  "optsHi": [
+   "मंत्रिमंडल",
+   "संसद",
+   "उच्चतम न्यायालय",
+   "सचिवालय"
+  ],
+  "correct": 1,
+  "explainEn": "The Indian Parliament is bicameral and consists of the President, the Lok Sabha, and the Rajya Sabha.",
+  "sourceHint": "NCERT Class 8 Civics - Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:16:22Z"
+ },
+ {
+  "id": "q_16c93fa940f52670",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which mineral resource is often referred to as 'buried sunshine' because it was formed from plant material buried millions of years ago?",
+  "qHi": "किस खनिज संसाधन को अक्सर 'दबी हुई धूप' कहा जाता है क्योंकि यह लाखों साल पहले दबी हुई वनस्पति सामग्री से बना था?",
+  "optsEn": [
+   "Petroleum",
+   "Coal",
+   "Iron ore",
+   "Mica"
+  ],
+  "optsHi": [
+   "पेट्रोलियम",
+   "कोयला",
+   "लोह अयस्क",
+   "अभ्रक"
+  ],
+  "correct": 1,
+  "explainEn": "Coal is formed from compressed plant remains and is frequently termed 'buried sunshine'.",
+  "sourceHint": "NCERT Class 8 Geography - Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:16:22Z"
+ },
+ {
+  "id": "q_83268980f26b9f8c",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who was the Governor-General of India who introduced the policy of 'Doctrine of Lapse', annexing states if a ruler died without a natural male heir?",
+  "qHi": "भारत के वे गवर्नर-जनरल कौन थे जिन्होंने 'व्यपगत का सिद्धांत' (डॉक्ट्रिन ऑफ लैप्स) की नीति शुरू की थी, जिसके तहत किसी शासक की प्राकृतिक पुरुष उत्तराधिकारी के बिना मृत्यु होने पर राज्य का विलय कर लिया जाता था?",
+  "optsEn": [
+   "Lord Wellesley",
+   "Lord Dalhousie",
+   "Lord Cornwallis",
+   "Warren Hastings"
+  ],
+  "optsHi": [
+   "लॉर्ड वेलेजली",
+   "लॉर्ड डलहौजी",
+   "लॉर्ड कॉर्नवालिस",
+   "वारेन हेस्टिंग्स"
+  ],
+  "correct": 1,
+  "explainEn": "Lord Dalhousie applied the Doctrine of Lapse to annex principalities like Satara, Nagpur, and Jhansi.",
+  "sourceHint": "NCERT Class 8 History - Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:16:22Z"
  }
 ]

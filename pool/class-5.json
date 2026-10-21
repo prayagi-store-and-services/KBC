@@ -18058,5 +18058,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-21T11:53:07Z"
+ },
+ {
+  "id": "q_f378b27bf556d1ff",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which national festival of India is celebrated on the 26th of January every year?",
+  "qHi": "भारत का कौन सा राष्ट्रीय त्योहार हर साल 26 जनवरी को मनाया जाता है?",
+  "optsEn": [
+   "Independence Day",
+   "Republic Day",
+   "Gandhi Jayanti",
+   "Children's Day"
+  ],
+  "optsHi": [
+   "स्वतंत्रता दिवस",
+   "गणतंत्र दिवस",
+   "गांधी जयंती",
+   "बाल दिवस"
+  ],
+  "correct": 1,
+  "explainEn": "Republic Day is celebrated every year on January 26 to mark the adoption of the Constitution.",
+  "sourceHint": "NCERT Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:14:05Z"
+ },
+ {
+  "id": "q_a59294c0b90ba56b",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What do bees collect from flowers to make honey?",
+  "qHi": "मधुमक्खियां शहद बनाने के लिए फूलों से क्या एकत्र करती हैं?",
+  "optsEn": [
+   "Water",
+   "Nectar",
+   "Soil",
+   "Leaves"
+  ],
+  "optsHi": [
+   "पानी",
+   "मकरंद",
+   "मिट्टी",
+   "पत्तियां"
+  ],
+  "correct": 1,
+  "explainEn": "Bees collect nectar from flowers and convert it into honey in their hives.",
+  "sourceHint": "NCERT Class 4/5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:14:05Z"
+ },
+ {
+  "id": "q_eaea859dd1b20ce5",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas do green plants take in from the atmosphere to make their food during photosynthesis?",
+  "qHi": "हरे पौधे प्रकाश संश्लेषण के दौरान अपना भोजन बनाने के लिए वायुमंडल से कौन सी गैस लेते हैं?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Plants absorb carbon dioxide from the air to perform photosynthesis.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:14:05Z"
+ },
+ {
+  "id": "q_2f137b185813050d",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which gas do plants take in from the atmosphere to make their food through photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण द्वारा अपना भोजन बनाने के लिए पौधे वायुमंडल से कौन सी गैस लेते हैं?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Plants use carbon dioxide, water, and sunlight to make food during photosynthesis.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:15:04Z"
+ },
+ {
+  "id": "q_9372e73605bb0ff1",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following animal senses is famously used by honeybees to communicate the location of nectar?",
+  "qHi": "मक्खियों द्वारा मकरंद (नेक्टर) के स्थान को संप्रेषित करने के लिए निम्नलिखित में से किस इंद्रिय या व्यवहार का उपयोग किया जाता है?",
+  "optsEn": [
+   "Tasting leaves",
+   "Waggle dancing",
+   "Making high-pitched sounds",
+   "Changing skin color"
+  ],
+  "optsHi": [
+   "पत्तियों का स्वाद लेना",
+   "वाग्गल नृत्य करना",
+   "तेज़ आवाज़ निकालना",
+   "त्वचा का रंग बदलना"
+  ],
+  "correct": 1,
+  "explainEn": "Honeybees perform a special movement known as the waggle dance to inform other bees about the direction and distance of food sources.",
+  "sourceHint": "NCERT Class 5 Environmental Studies Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:15:04Z"
+ },
+ {
+  "id": "q_698adbe38591a646",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of natural resource is petroleum considered to be?",
+  "qHi": "पेट्रोलियम को किस प्रकार का प्राकृतिक संसाधन माना जाता है?",
+  "optsEn": [
+   "Renewable resource",
+   "Inexhaustible resource",
+   "Non-renewable resource",
+   "Inorganic resource"
+  ],
+  "optsHi": [
+   "नवीकरणीय संसाधन",
+   "अक्षय संसाधन",
+   "अनवीकरणीय संसाधन",
+   "अकार्बनिक संसाधन"
+  ],
+  "correct": 2,
+  "explainEn": "Petroleum is a fossil fuel that takes millions of years to form and cannot be easily replaced once used up, making it non-renewable.",
+  "sourceHint": "NCERT Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:15:04Z"
+ },
+ {
+  "id": "q_689adacc933d92e8",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organ in the human body is primarily responsible for filtering wastes from the blood to form urine?",
+  "qHi": "मानव शरीर में मूत्र बनाने के लिए रक्त से अपशिष्ट पदार्थों को छानने के लिए मुख्य रूप से कौन सा अंग उत्तरदायी है?",
+  "optsEn": [
+   "Heart",
+   "Lungs",
+   "Kidneys",
+   "Liver"
+  ],
+  "optsHi": [
+   "हृदय",
+   "फेफड़े",
+   "गुर्दे",
+   "यकृत"
+  ],
+  "correct": 2,
+  "explainEn": "Kidneys act as natural filters in the human body, removing waste products and excess water from the blood.",
+  "sourceHint": "NCERT Science curriculum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:15:04Z"
+ },
+ {
+  "id": "q_770c66abfde45edf",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following is a Kharif crop harvested at the end of the monsoon season in India?",
+  "qHi": "निम्नलिखित में से कौन सी एक खरीफ फसल है जिसे भारत में मानसून के मौसम के अंत में काटा जाता है?",
+  "optsEn": [
+   "Wheat",
+   "Paddy",
+   "Barley",
+   "Gram"
+  ],
+  "optsHi": [
+   "गेहूं",
+   "धान",
+   "जौ",
+   "चना"
+  ],
+  "correct": 1,
+  "explainEn": "Paddy is a major Kharif crop sown at the beginning of the rainy season and harvested around September-October.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:16:16Z"
+ },
+ {
+  "id": "q_57da6484f2e9f14e",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organ system in the human body is primarily responsible for pumping blood to all parts?",
+  "qHi": "मानव शरीर में कौन सा अंग तंत्र मुख्य रूप से सभी अंगों में रक्त पंप करने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Respiratory system",
+   "Digestive system",
+   "Circulatory system",
+   "Nervous system"
+  ],
+  "optsHi": [
+   "श्वसन तंत्र",
+   "पाचन तंत्र",
+   "परंचरण तंत्र",
+   "तंत्रिका तंत्र"
+  ],
+  "correct": 2,
+  "explainEn": "The circulatory system consists of the heart and blood vessels, which circulate blood throughout the body.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:16:16Z"
+ },
+ {
+  "id": "q_1bda7365ca5808a5",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional Indian water harvesting system is famously associated with stepwells found in arid regions?",
+  "qHi": "शुष्क क्षेत्रों में पाई जाने वाली बावड़ियों से कौन सी पारंपरिक भारतीय जल संचयन प्रणाली प्रसिद्ध रूप से जुड़ी हुई है?",
+  "optsEn": [
+   "Baolis",
+   "Kuls",
+   "Johads",
+   "Tanks"
+  ],
+  "optsHi": [
+   "बावड़ी",
+   "कुल",
+   "जोहड़",
+   "टांका"
+  ],
+  "correct": 0,
+  "explainEn": "Baolis are traditional stepwells built to store rainwater in dry regions of India.",
+  "sourceHint": "NCERT Class 5 EVS Chapter - A Shelter so High",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:16:16Z"
  }
 ]

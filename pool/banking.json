@@ -21110,5 +21110,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-21T11:52:36Z"
+ },
+ {
+  "id": "q_74084db94e7e7fa3",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the term 'Repo Rate' stand for in the monetary policy of India?",
+  "qHi": "भारत की मौद्रिक नीति में 'रेपो रेट' शब्द का क्या अर्थ है?",
+  "optsEn": [
+   "Rate at which commercial banks lend short-term funds to the central bank",
+   "Rate at which the central bank lends short-term funds to commercial banks",
+   "Rate of interest charged on long-term government securities",
+   "Rate of return on retail fixed deposits in commercial banks"
+  ],
+  "optsHi": [
+   "वह दर जिस पर वाणिज्यिक बैंक केंद्रीय बैंक को अल्पकालिक धन उधार देते हैं",
+   "वह दर जिस पर केंद्रीय बैंक वाणिज्यिक बैंकों को अल्पकालिक धन उधार देता है",
+   "दीर्घकालिक सरकारी प्रतिभूतियों पर लिया जाने वाला ब्याज दर",
+   "वाणिज्यिक बैंकों में खुदरा सावधि जमा पर रिटर्न की दर"
+  ],
+  "correct": 1,
+  "explainEn": "Repo rate is the rate at which the Reserve Bank of India lends money to commercial banks against government securities.",
+  "sourceHint": "RBI Official Website Glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:14:34Z"
+ },
+ {
+  "id": "q_530029b06e1e8b12",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which financial institution in India is the principal agency for promoting rural development and agricultural credit?",
+  "qHi": "ग्रामीण विकास और कृषि ऋण को बढ़ावा देने के लिए भारत में कौन सी वित्तीय संस्था प्रमुख एजेंसी है?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "IFCI"
+  ],
+  "optsHi": [
+   "सिडबी",
+   "नाबार्ड (NABARD)",
+   "एक्ज़िम बैंक",
+   "IFCI"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD was established in 1982 to provide and regulate credit for agriculture and rural development.",
+  "sourceHint": "NABARD Act, 1981 / Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:14:34Z"
+ },
+ {
+  "id": "q_cae9bf11b4c90ce1",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of banking operations in India, what is the full form of 'NEFT'?",
+  "qHi": "भारत में बैंकिंग संचालन के संदर्भ में, 'NEFT' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "National Equity Finance Transfer",
+   "New Electronic Financial Transaction",
+   "National External Fund Transmission"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "नेशनल इक्विटी फाइनेंस ट्रांसफर",
+   "न्यू इलेक्ट्रॉनिक फाइनेंशियल ट्रांजैक्शन",
+   "नेशनल एक्सटर्नल फंड ट्रांसमिशन"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, an electronic payment system operated by the RBI.",
+  "sourceHint": "RBI Payment Systems Overview",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:14:34Z"
+ },
+ {
+  "id": "q_efa55e9ba435e891",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which section of the Banking Regulation Act, 1949 restricts the payment of dividends by banking companies until all capitalized expenses are completely written off?",
+  "qHi": "बैंकिंग विनियमन अधिनियम, 1949 की कौन सी धारा बैंकिंग कंपनियों द्वारा लाभांश के भुगतान को तब तक प्रतिबंधित करती है जब तक कि सभी पूंजीकृत व्यय पूरी तरह से बट्टे खाते में न डाल दिए जाएं?",
+  "optsEn": [
+   "Section 12",
+   "Section 15",
+   "Section 19",
+   "Section 24"
+  ],
+  "optsHi": [
+   "धारा 12",
+   "धारा 15",
+   "धारा 19",
+   "धारा 24"
+  ],
+  "correct": 1,
+  "explainEn": "Section 15 of the Banking Regulation Act, 1949 prohibits payment of dividends until capitalized expenses (like preliminary expenses) are completely written off.",
+  "sourceHint": "Banking Regulation Act, 1949",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:16:01Z"
+ },
+ {
+  "id": "q_1235d4de0a0068ec",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Basel III framework, what is the minimum Capital Conservation Buffer (CCB) requirement that banks must maintain in the form of Common Equity Tier 1 capital, as mandated by RBI?",
+  "qHi": "बेसल III ढांचे के तहत, आरबीआई द्वारा अनिवार्य सामान्य इक्विटी टियर 1 पूंजी के रूप में बैंकों को न्यूनतम पूंजी संरक्षण बफर (CCB) आवश्यकता कितनी बनाए रखनी होगी?",
+  "optsEn": [
+   "1.00%",
+   "1.875%",
+   "2.50%",
+   "3.00%"
+  ],
+  "optsHi": [
+   "1.00%",
+   "1.875%",
+   "2.50%",
+   "3.00%"
+  ],
+  "correct": 2,
+  "explainEn": "The Basel III capital regulations require banks to maintain a Capital Conservation Buffer of 2.50% in the form of Common Equity Tier 1 capital.",
+  "sourceHint": "RBI Master Circular on Basel III Capital Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:16:01Z"
+ },
+ {
+  "id": "q_4d9348347f1e6a57",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the maximum permissible tenor for Certificate of Deposits (CDs) issued by scheduled commercial banks, excluding regional rural banks and local area banks?",
+  "qHi": "क्षेत्रीय ग्रामीण बैंकों और स्थानीय क्षेत्र के बैंकों को छोड़कर, अनुसूचित वाणिज्यिक बैंकों द्वारा जारी किए जाने वाले प्रमाणपत्रों (सीडी) की अधिकतम स्वीकार्य अवधि क्या है?",
+  "optsEn": [
+   "One year",
+   "Three years",
+   "Five years",
+   "Indefinite"
+  ],
+  "optsHi": [
+   "एक वर्ष",
+   "तीन वर्ष",
+   "पाँच वर्ष",
+   "अनिश्चित"
+  ],
+  "correct": 0,
+  "explainEn": "As per RBI guidelines, the maturity period of certificates of deposit issued by scheduled commercial banks shall be not less than 7 days and not more than one year.",
+  "sourceHint": "RBI Guidelines on Certificates of Deposit",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:16:01Z"
+ },
+ {
+  "id": "q_98cdc9bc3df0930b",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organization in India acts as the central nodal agency for implementing the electronic National Agriculture Market (e-NAM) platform?",
+  "qHi": "भारत में कौन सा संगठन इलेक्ट्रॉनिक राष्ट्रीय कृषि बाजार (ई-नाम) मंच को लागू करने के लिए केंद्रीय नोडल एजेंसी के रूप में कार्य करता है?",
+  "optsEn": [
+   "NABARD",
+   "Small Farmers Agribusiness Consortium",
+   "Food Corporation of India",
+   "Agricultural and Processed Food Products Export Development Authority"
+  ],
+  "optsHi": [
+   "नाबार्ड",
+   "स्मॉल फार्मर्स एग्रीबिजनेस कंसोर्टियम",
+   "भारतीय खाद्य निगम",
+   "कृषि और प्रसंस्कृत खाद्य उत्पाद निर्यात विकास प्राधिकरण"
+  ],
+  "correct": 1,
+  "explainEn": "Small Farmers Agribusiness Consortium (SFAC) is the lead agency implementing e-NAM under the aegis of the Ministry of Agriculture and Farmers Welfare.",
+  "sourceHint": "PIB / Ministry of Agriculture",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:16:01Z"
+ },
+ {
+  "id": "q_a6bde8b1895d2411",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific committee recommended the establishment of the National Bank for Agriculture and Rural Development (NABARD)?",
+  "qHi": "किस विशिष्ट समिति ने राष्ट्रीय कृषि और ग्रामीण विकास बैंक (नाबार्ड) की स्थापना की सिफारिश की थी?",
+  "optsEn": [
+   "Narasimham Committee",
+   "B. Sivaraman Committee",
+   "Khusro Committee",
+   "Kelkar Committee"
+  ],
+  "optsHi": [
+   "नरसिम्हम समिति",
+   "बी. शिवरामन समिति",
+   "खुसरो समिति",
+   "केलकर समिति"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD was established on the recommendations of the Committee to Review Arrangements for Institutional Credit for Agriculture and Rural Development (CRAFICARD), chaired by B. Sivaraman.",
+  "sourceHint": "NABARD Official History / RBI",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:16:01Z"
+ },
+ {
+  "id": "q_33945f33ad145aae",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, which section legally defines a 'Cheque' as a bill of exchange drawn on a specified banker and not expressed to be payable otherwise than on demand?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, कौन सी धारा कानूनी रूप से 'चेक' को एक विशिष्ट बैंकर पर आहरित विनिमय पत्र के रूप में परिभाषित करती है जिसे मांग पर भुगतान के अलावा किसी अन्य तरीके से देय नहीं बताया गया है?",
+  "optsEn": [
+   "Section 5",
+   "Section 6",
+   "Section 13",
+   "Section 25"
+  ],
+  "optsHi": [
+   "धारा 5",
+   "धारा 6",
+   "धारा 13",
+   "धारा 25"
+  ],
+  "correct": 1,
+  "explainEn": "Section 6 of the Negotiable Instruments Act, 1881 defines a cheque as a bill of exchange drawn on a specified banker and payable otherwise than on demand.",
+  "sourceHint": "Negotiable Instruments Act, 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:16:01Z"
  }
 ]

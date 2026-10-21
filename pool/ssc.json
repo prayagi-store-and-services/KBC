@@ -13606,5 +13606,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-21T11:52:28Z"
+ },
+ {
+  "id": "q_c88fa0a44a84d313",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who founded the Arya Samaj in the year 1875?",
+  "qHi": "वर्ष 1875 में आर्य समाज की स्थापना किसने की थी?",
+  "optsEn": [
+   "Swami Vivekananda",
+   "Swami Dayanand Saraswati",
+   "Raja Ram Mohan Roy",
+   "Atmaram Pandurang"
+  ],
+  "optsHi": [
+   "स्वामी विवेकानंद",
+   "स्वामी दयानंद सरस्वती",
+   "राजा राम मोहन राय",
+   "आत्माराम पांडुरंग"
+  ],
+  "correct": 1,
+  "explainEn": "Swami Dayanand Saraswati founded the Arya Samaj in Bombay on April 10, 1875.",
+  "sourceHint": "NCERT History Class 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:15:34Z"
+ },
+ {
+  "id": "q_a9f3945ffa9b3098",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which atmospheric layer is primarily responsible for the reflection of radio waves back to Earth?",
+  "qHi": "कौन सी वायुमंडलीय परत मुख्य रूप से रेडियो तरंगों को वापस पृथ्वी पर परावर्तित करने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 3,
+  "explainEn": "The thermosphere contains the ionosphere, which is abundant in electrically charged ions and free electrons that reflect radio waves.",
+  "sourceHint": "NCERT Geography Class 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:15:34Z"
+ },
+ {
+  "id": "q_28ea2999ca258c5b",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Gupta ruler is depicted on his coins playing the veena (lute)?",
+  "qHi": "किस गुप्त शासक को उसके सिक्कों पर वीणा बजाते हुए दर्शाया गया है?",
+  "optsEn": [
+   "Chandragupta I",
+   "Samudragupta",
+   "Chandragupta II",
+   "Skandagupta"
+  ],
+  "optsHi": [
+   "चंद्रगुप्त प्रथम",
+   "समुद्रगुप्त",
+   "चंद्रगुप्त द्वितीय",
+   "स्कंदगुप्त"
+  ],
+  "correct": 1,
+  "explainEn": "Samudragupta issued gold coins of the 'lyrist type' showing him playing the veena, indicating his patronage of music and arts.",
+  "sourceHint": "NCERT History Class 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:15:34Z"
+ },
+ {
+  "id": "q_cc218c5a0a072dbb",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The 'Right to Education' became a fundamental right in India under which Constitutional Amendment Act?",
+  "qHi": "भारत में 'शिक्षा का अधिकार' किस संविधान संशोधन अधिनियम के तहत मौलिक अधिकार बना?",
+  "optsEn": [
+   "42nd Amendment Act",
+   "44th Amendment Act",
+   "86th Amendment Act",
+   "103rd Amendment Act"
+  ],
+  "optsHi": [
+   "42वां संशोधन अधिनियम",
+   "44वां संशोधन अधिनियम",
+   "86वां संशोधन अधिनियम",
+   "103वां संशोधन अधिनियम"
+  ],
+  "correct": 2,
+  "explainEn": "The 86th Constitutional Amendment Act, 2002 inserted Article 21A, making education for children aged 6 to 14 years a fundamental right.",
+  "sourceHint": "Constitution of India / NCERT Polity",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:15:34Z"
  }
 ]

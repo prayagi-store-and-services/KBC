@@ -19542,5 +19542,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-21T11:52:16Z"
+ },
+ {
+  "id": "q_5a51304135f46559",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the famous book 'Arthashastra' in ancient India?",
+  "qHi": "प्राचीन भारत में प्रसिद्ध पुस्तक 'अर्थशास्त्र' किसने लिखी थी?",
+  "optsEn": [
+   "Kalidasa",
+   "Kautilya",
+   "Banabhatta",
+   "Aryabhata"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "कौटिल्य",
+   "बाणभट्ट",
+   "आर्यभट्ट"
+  ],
+  "correct": 1,
+  "explainEn": "Arthashastra is an ancient Indian Sanskrit treatise on statecraft, economic policy and military strategy written by Kautilya, also known as Chanakya.",
+  "sourceHint": "NCERT Class 12 History, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:14:19Z"
+ },
+ {
+  "id": "q_761813b970673cf1",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In microeconomics, what does GDP stand for?",
+  "qHi": "व्यष्टि अर्थशास्त्र में, जीडीपी (GDP) का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Gross Domestic Product",
+   "General Demand Price",
+   "Global Development Project",
+   "Gross Distribution Profit"
+  ],
+  "optsHi": [
+   "सकल घरेलू उत्पाद (Gross Domestic Product)",
+   "सामान्य मांग मूल्य (General Demand Price)",
+   "वैश्विक विकास परियोजना (Global Development Project)",
+   "सकल वितरण लाभ (Gross Distribution Profit)"
+  ],
+  "correct": 0,
+  "explainEn": "GDP stands for Gross Domestic Product, which is the total monetary value of all finished goods and services made within a country.",
+  "sourceHint": "NCERT Class 12 Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:14:19Z"
+ },
+ {
+  "id": "q_29b3cdcf2e07aa0c",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which river basin has the largest catchment area in India?",
+  "qHi": "भारत में किस नदी बेसिन का जलग्रहण क्षेत्र सबसे बड़ा है?",
+  "optsEn": [
+   "Indus",
+   "Brahmaputra",
+   "Ganga",
+   "Godavari"
+  ],
+  "optsHi": [
+   "सिंधु",
+   "ब्रह्मपुत्र",
+   "गंगा",
+   "गोदावरी"
+  ],
+  "correct": 2,
+  "explainEn": "The Ganga basin is the largest river basin in India in terms of catchment area.",
+  "sourceHint": "NCERT Class 11 Geography, India: Physical Environment, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:14:19Z"
+ },
+ {
+  "id": "q_97d7fe8d0afa27c0",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the order of a zero-order chemical reaction with respect to the reactant concentration?",
+  "qHi": "अभिकारक की सांद्रता के संबंध में शून्य-कोटि की रासायनिक प्रतिक्रिया की कोटि क्या है?",
+  "optsEn": [
+   "Zero",
+   "First",
+   "Second",
+   "Fractional"
+  ],
+  "optsHi": [
+   "शून्य",
+   "प्रथम",
+   "द्वितीय",
+   "भिन्न"
+  ],
+  "correct": 0,
+  "explainEn": "A zero-order reaction is one whose rate is independent of the concentration of the reactants.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 3 (Chemical Kinetics)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:15:22Z"
+ },
+ {
+  "id": "q_02072188e5d4801f",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which phenomenon demonstrates the particle nature of light by showing the ejection of electrons from a metal surface?",
+  "qHi": "कौन सी घटना धातु की सतह से इलेक्ट्रॉनों के निष्कासन को दिखा कर प्रकाश की कण प्रकृति को प्रदर्शित करती है?",
+  "optsEn": [
+   "Interference",
+   "Diffraction",
+   "Photoelectric effect",
+   "Polarization"
+  ],
+  "optsHi": [
+   "व्यतिकरण",
+   "विवर्तन",
+   "प्रकाश विद्युत प्रभाव",
+   "ध्रुवण"
+  ],
+  "correct": 2,
+  "explainEn": "The photoelectric effect provides evidence for the particulate nature of light, where photons transfer energy to electrons.",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:15:22Z"
+ },
+ {
+  "id": "q_41b61b9b36698c67",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which specific tissue in vascular plants is primarily responsible for the transport of water and dissolved minerals from roots to stems and leaves?",
+  "qHi": "संवहनी पौधों में कौन सा विशिष्ट ऊतक मुख्य रूप से जड़ों से तनों और पत्तियों तक पानी और घुले हुए खनिजों के परिवहन के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Phloem",
+   "Xylem",
+   "Cortex",
+   "Pith"
+  ],
+  "optsHi": [
+   "फ्लोएम",
+   " जाइलम",
+   "कॉर्टेक्स",
+   "पिथ"
+  ],
+  "correct": 1,
+  "explainEn": "Xylem is the specialized plant tissue that transports water and inorganic nutrients upward from the roots.",
+  "sourceHint": "NCERT Class 11 Biology, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-21T17:15:22Z"
  }
 ]
