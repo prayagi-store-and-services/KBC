@@ -1,5 +1,9 @@
 # Security notes - KBC
 
+## Verified web link (v1.1.33)
+
+The app now declares a verified web link for its own page, https://prayagi-store-and-services.github.io/netra-eco/app/kbc. Android opens the link in the app only when the website's assetlinks.json confirms this app's package and signing certificate; otherwise the link stays in the browser. The link is only an entry point: no screen reads data from it, nothing is stored or sent. No new permission, library or server.
+
 ## Voice holds audio focus, plus a test button (v1.1.32)
 
 Every spoken line (question reading, options, results, solution narration, final score) now holds transient audio focus while it speaks, so music or other media pauses and then resumes instead of being talked over (ecosystem rule, 19 Oct 2026). The focus is released when the line finishes, errors, or is stopped, and a watchdog releases it even if the speech engine never calls back. A new "Test voice" button on the home screen speaks one clearly labelled test line through the same narration path - it is only a test, never a game event. No new permission, library or network address; speech still runs fully on the phone.
