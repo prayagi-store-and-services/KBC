@@ -93,7 +93,9 @@ class SpeechNarrator(context: Context) : TextToSpeech.OnInitListener {
             releaseSpeechFocus()
         }
     }
-    private var tts: TextToSpeech? = TextToSpeech(context.applicationContext, this)
+    // A phone whose speech service is missing, updating or refusing the connection must not crash the app:
+    // without speech the game still runs (narration calls become no-ops).
+    private var tts: TextToSpeech? = try { TextToSpeech(context.applicationContext, this) } catch (_: Throwable) { null }
     @Volatile
     private var isReady = false
     private val initDeferred = CompletableDeferred<Boolean>()
