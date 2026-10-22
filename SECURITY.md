@@ -1,5 +1,9 @@
 # Security notes - KBC
 
+## Battery and temperature check before a game (v1.1.35)
+
+Before a game starts the app reads the phone's own battery level and temperature (Android's standard battery broadcast) and holds the game when the phone is 42 C or hotter. The values are not stored or sent anywhere. No new permission, library or server. Not a vulnerability fix. Checking with other Netra apps is not part of this version.
+
 ## Start-up crash hardening and fuller crash reports (v1.1.34)
 
 A crash report from a Pixel 6 Pro (Android 12, v1.1.32) showed the quiz screen failing to start, but the report was cut off before the real cause. Two changes: (1) the speech engine is now created safely, so a phone whose speech service is missing or refuses to connect no longer stops the app from starting (narration is simply off); (2) crash reports keep the root cause (a few frames of each wrapper exception, more frames for the root) within a larger size limit. Reports still hold only class names and code locations, never exception messages. No new permission, library or server. The exact root cause of the Pixel crash is not yet confirmed; the next report will show it.
