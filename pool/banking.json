@@ -21586,5 +21586,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-21T21:45:33Z"
+ },
+ {
+  "id": "q_7fd3f78f85081ae8",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following cards is generally issued by banks with a revolving credit facility?",
+  "qHi": "निम्नलिखित में से कौन सा कार्ड आमतौर पर बैंकों द्वारा रिवॉल्विंग क्रेडिट सुविधा के साथ जारी किया जाता है?",
+  "optsEn": [
+   "Credit Card",
+   "Debit Card",
+   "Aadhaar Card",
+   "Ration Card"
+  ],
+  "optsHi": [
+   "क्रेडिट कार्ड",
+   "डेबिट कार्ड",
+   "आधार कार्ड",
+   "राशन कार्ड"
+  ],
+  "correct": 0,
+  "explainEn": "A credit card allows the cardholder to borrow funds up to a certain limit with a revolving credit facility.",
+  "sourceHint": "NCERT Business Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:49:16Z"
+ },
+ {
+  "id": "q_d48e24b9341f86df",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of account is typically best suited for business entities that require frequent transactions?",
+  "qHi": "किस प्रकार का खाता आमतौर पर उन व्यावसायिक संस्थाओं के लिए सबसे उपयुक्त होता है जिन्हें लगातार लेनदेन की आवश्यकता होती है?",
+  "optsEn": [
+   "Current Account",
+   "Savings Account",
+   "Fixed Deposit Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "चालू खाता",
+   "बचत खाता",
+   "सावधि जमा खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 0,
+  "explainEn": "Current accounts are designed for businesses and allow for a high number of daily transactions without restrictions.",
+  "sourceHint": "Banking basics textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:49:16Z"
+ },
+ {
+  "id": "q_7751fd587eadedda",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which entity operates the Unified Payments Interface (UPI) system in India?",
+  "qHi": "भारत में यूनिफाइड पेमेंट इंटरफेस (UPI) प्रणाली का संचालन कौन सी संस्था करती है?",
+  "optsEn": [
+   "National Payments Corporation of India",
+   "Securities and Exchange Board of India",
+   "State Bank of India",
+   "Indian Banks Association"
+  ],
+  "optsHi": [
+   "नेशनल पेमेंट कॉर्पोरेशन ऑफ इंडिया",
+   "भारतीय प्रतिभूति and विनिमय बोर्ड",
+   "भारतीय स्टेट बैंक",
+   "इंडियन बैंक एसोसिएशन"
+  ],
+  "correct": 0,
+  "explainEn": "NPCI (National Payments Corporation of India) created and operates the UPI platform.",
+  "sourceHint": "NPCI official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:49:16Z"
+ },
+ {
+  "id": "q_41a93439398f7eba",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum amount of insurance cover available per depositor per bank under the Deposit Insurance and Credit Guarantee Corporation (DICGC)?",
+  "qHi": "निक्षेप बीमा और प्रत्यय गारंटी निगम (DICGC) के तहत प्रति बैंक प्रति जमाकर्ता को उपलब्ध अधिकतम बीमा कवर राशि क्या है?",
+  "optsEn": [
+   "One Lakh Rupees",
+   "Two Lakh Rupees",
+   "Five Lakh Rupees",
+   "Ten Lakh Rupees"
+  ],
+  "optsHi": [
+   "एक लाख रुपये",
+   "दो लाख रुपये",
+   "पाँच लाख रुपये",
+   "दस लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "DICGC provides insurance cover up to Rs. 5,00,000 per depositor per bank for both principal and interest.",
+  "sourceHint": "DICGC Act, 1961",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:50:56Z"
+ },
+ {
+  "id": "q_e3061d68eb15269d",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India acts as the central node for the Public Financial Management System (PFMS)?",
+  "qHi": "भारत में कौन सा संगठन सार्वजनिक वित्तीय प्रबंधन प्रणाली (PFMS) के लिए केंद्रीय नोडल के रूप में कार्य करता है?",
+  "optsEn": [
+   "Controller General of Accounts",
+   "NITI Aayog",
+   "Reserve Bank of India",
+   "Comptroller and Auditor General of India"
+  ],
+  "optsHi": [
+   "महालेखा नियंत्रक",
+   "नीति आयोग",
+   "भारतीय रिजर्व बैंक",
+   "भारत के नियंत्रक एवं महालेखा परीक्षक"
+  ],
+  "correct": 0,
+  "explainEn": "PFMS is administered by the Controller General of Accounts in the Ministry of Finance.",
+  "sourceHint": "Ministry of Finance, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:50:56Z"
+ },
+ {
+  "id": "q_d3e8b8a81bd37a5f",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of banking technology, what does 'UPI' stand for?",
+  "qHi": "बैंकिंग तकनीक के संदर्भ में, 'UPI' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Universal Payment Integration",
+   "Unified Payments Interface",
+   "Unique Payment Identifier",
+   "User Payment Infrastructure"
+  ],
+  "optsHi": [
+   "यूनिवर्सल पेमेंट इंटीग्रेशन",
+   "यिफाइड पेमेंट्स इंटरफेस",
+   "यूनिक पेमेंट आइडेंटिफायर",
+   "यूजर पेमेंट इंफ्रास्ट्रक्चर"
+  ],
+  "correct": 1,
+  "explainEn": "UPI stands for Unified Payments Interface, developed by NPCI for instant real-time payment system.",
+  "sourceHint": "National Payments Corporation of India (NPCI)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:50:56Z"
+ },
+ {
+  "id": "q_7b2f5fe3d812ba0d",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of introducing Priority Sector Lending (PSL) guidelines by the RBI?",
+  "qHi": "RBI द्वारा प्राथमिकता प्राप्त क्षेत्र को ऋण (PSL) दिशानिर्देश पेश करने का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "Maximizing profitability for foreign banks",
+   "Ensuring adequate credit flow to vulnerable sectors of the economy",
+   "Controlling inflation directly through credit rationing",
+   "Financing large scale heavy industries exclusively"
+  ],
+  "optsHi": [
+   "विदेशी बैंकों के लिए लाभ अधिकतम करना",
+   "अर्थव्यवस्था के कमजोर क्षेत्रों को पर्याप्त ऋण प्रवाह सुनिश्चित करना",
+   "ऋण राशनिंग के माध्यम से सीधे मुद्रास्फीति को नियंत्रित करना",
+   "विशेष रूप से बड़े पैमाने पर भारी उद्योगों को वित्तपोषित करना"
+  ],
+  "correct": 1,
+  "explainEn": "PSL aims to ensure that adequate institutional credit reaches vulnerable and weaker sectors like agriculture, MSMEs, and housing.",
+  "sourceHint": "RBI Master Directions on Priority Sector Lending",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:50:56Z"
  }
 ]

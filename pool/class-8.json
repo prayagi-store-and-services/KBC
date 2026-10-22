@@ -14222,5 +14222,425 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-21T21:44:59Z"
+ },
+ {
+  "id": "q_0bf1604a814a38e5",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the process of the conversion of sugar into alcohol by yeast called?",
+  "qHi": "खमीर (यीस्ट) द्वारा चीनी को अल्कोहल में बदलने की प्रक्रिया को क्या कहा जाता है?",
+  "optsEn": [
+   "Nitrogen fixation",
+   "Fermentation",
+   "Photosynthesis",
+   "Distillation"
+  ],
+  "optsHi": [
+   "नाइट्रोजन स्थिरीकरण",
+   "किण्वन",
+   "प्रकाश संश्लेषण",
+   "आसवन"
+  ],
+  "correct": 1,
+  "explainEn": "Fermentation is the metabolic process in which microorganisms like yeast convert sugars into alcohol and carbon dioxide.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:48:53Z"
+ },
+ {
+  "id": "q_65a7a54df5f2f78a",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the supreme law of the country that contains fundamental rules and principles for governance in India?",
+  "qHi": "देश का सर्वोच्च कानून कौन सा है जिसमें भारत में शासन के लिए मौलिक नियम और सिद्धांत शामिल हैं?",
+  "optsEn": [
+   "The Constitution of India",
+   "The Penal Code",
+   "The Civil Procedure Code",
+   "The Parliament Act"
+  ],
+  "optsHi": [
+   "भारत का संविधान",
+   "दंड संहिता",
+   "सिविल प्रक्रिया संहिता",
+   "संसद अधिनियम"
+  ],
+  "correct": 0,
+  "explainEn": "The Constitution of India is the supreme law of the country, outlining the framework of fundamental political principles and procedures.",
+  "sourceHint": "NCERT Class 8 Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:48:53Z"
+ },
+ {
+  "id": "q_6e5c9a104ebdc7dc",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who led the revolt of 1857 in the region of Jagdishpur, Bihar?",
+  "qHi": "बिहार के जगदीशपुर क्षेत्र में 1857 के विद्रोह का नेतृत्व किसने किया था?",
+  "optsEn": [
+   "Kunwar Singh",
+   "Rani Laxmibai",
+   "Nana Sahib",
+   "Birjis Qadir"
+  ],
+  "optsHi": [
+   "कुंवर सिंह",
+   "रानी लक्ष्मीबाई",
+   "नाना साहब",
+   "बिरजिश कादिर"
+  ],
+  "correct": 0,
+  "explainEn": "Veer Kunwar Singh was a notable leader of the Indian Rebellion of 1857 from Jagdishpur, Bihar.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:48:53Z"
+ },
+ {
+  "id": "q_8500ee0d771bcdc3",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which agricultural practice involves the growing of two or more crops simultaneously on the same piece of land?",
+  "qHi": "किस कृषि पद्धति में एक ही भूमि के टुकड़े पर एक साथ दो या दो से अधिक फसलें उगाना शामिल है?",
+  "optsEn": [
+   "Crop rotation",
+   "Fallowing",
+   "Multiple cropping",
+   "Mixed cropping"
+  ],
+  "optsHi": [
+   "फसल चक्र",
+   "पड़ती छोड़ना",
+   "बहु-फसल",
+   "मिश्रित फसल"
+  ],
+  "correct": 3,
+  "explainEn": "Mixed cropping involves growing two or more crops simultaneously on the same land to minimize the risk of total crop failure.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:48:53Z"
+ },
+ {
+  "id": "q_f199e5b0c3629d23",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the non-contact force exerted by magnets called?",
+  "qHi": "चुंबकों द्वारा लगाए जाने वाले गैर-संपर्क बल को क्या कहा जाता है?",
+  "optsEn": [
+   "Friction force",
+   "Magnetic force",
+   "Muscular force",
+   "Tension force"
+  ],
+  "optsHi": [
+   "घर्षण बल",
+   "चुंबकीय बल",
+   "पेशीय बल",
+   "तनाव बल"
+  ],
+  "correct": 1,
+  "explainEn": "Magnetic force is a non-contact force because magnets can attract or repel objects without physical touch.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:48:53Z"
+ },
+ {
+  "id": "q_cf6f079869850d63",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of resource is petroleum, which takes millions of years to form?",
+  "qHi": "पेट्रोलियम किस प्रकार का संसाधन है, जिसके बनने में लाखों वर्ष लगते हैं?",
+  "optsEn": [
+   "Biotic resource",
+   "Renewable resource",
+   "Non-renewable resource",
+   "Human-made resource"
+  ],
+  "optsHi": [
+   "जैविक संसाधन",
+   "नवीकरणीय संसाधन",
+   "अनवीकरणीय संसाधन",
+   "मानव निर्मित संसाधन"
+  ],
+  "correct": 2,
+  "explainEn": "Petroleum is a fossil fuel and a non-renewable resource because once consumed, it cannot be replenished quickly.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:50:29Z"
+ },
+ {
+  "id": "q_468781e00f3e25ca",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the term used for the process of shedding of the old skin by caterpillars to grow into adults?",
+  "qHi": "कैटरपिलर द्वारा वयस्क बनने के लिए पुरानी त्वचा को छोड़ने की प्रक्रिया को क्या कहा जाता है?",
+  "optsEn": [
+   "Metamorphosis",
+   "Molting",
+   "Budding",
+   "Fertilization"
+  ],
+  "optsHi": [
+   "कायांतरण",
+   "मोल्टिंग (निर्लोचन)",
+   "मुकुलन",
+   "निषेचन"
+  ],
+  "correct": 1,
+  "explainEn": "Molting is the shedding of the outer cuticle or skin during the growth process of insects like silkworms and caterpillars.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:50:29Z"
+ },
+ {
+  "id": "q_9c09f4ad445b83ec",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which British official introduced the Doctrine of Lapse in India?",
+  "qHi": "किस ब्रिटिश अधिकारी ने भारत में हड़प नीति (डॉक्ट्रिन ऑफ लैप्स) की शुरुआत की थी?",
+  "optsEn": [
+   "Lord Dalhousie",
+   "Lord Wellesley",
+   "Lord Cornwallis",
+   "Lord Curzon"
+  ],
+  "optsHi": [
+   "लॉर्ड डलहौजी",
+   "लॉर्ड वेलेजली",
+   "लॉर्ड कॉर्नवॉलिस",
+   "लॉर्ड कर्ज़न"
+  ],
+  "correct": 0,
+  "explainEn": "Lord Dalhousie devised the Doctrine of Lapse, annexing several princely states when rulers died without a natural male heir.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:50:29Z"
+ },
+ {
+  "id": "q_2352e8c9a249746e",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following describes the process by which a metal surface is coated with a thin layer of zinc to prevent corrosion?",
+  "qHi": "निम्नलिखित में से कौन सी प्रक्रिया उस विधि का वर्णन करती है जिसके द्वारा संक्षारण को रोकने के लिए धातु की सतह पर जस्ते की एक पतली परत चढ़ाई जाती है?",
+  "optsEn": [
+   "Electroplating",
+   "Galvanisation",
+   "Anodising",
+   "Crystallisation"
+  ],
+  "optsHi": [
+   "विद्युत लेपन (इलेक्ट्रोप्लेटिंग)",
+   "यशदलेपन (गैल्वेनाइजेशन)",
+   "एनोडाइजिंग",
+   "क्रिस्टलीकरण"
+  ],
+  "correct": 1,
+  "explainEn": "Galvanisation is the process of depositing a layer of zinc on iron or steel to protect it from rusting and corrosion.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 6: Combustion and Flame",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:51:11Z"
+ },
+ {
+  "id": "q_8e27f23bbe39e3ac",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the Indian Parliament, what does a 'Money Bill' primarily deal with?",
+  "qHi": "भारतीय संसद के संदर्भ में, 'धन विधेयक' (मनी बिल) मुख्य रूप से किससे संबंधित है?",
+  "optsEn": [
+   "Amendment of the Constitution",
+   "Financial matters such as taxation and government expenditure",
+   "Declaration of a state of emergency",
+   "Ratification of international treaties"
+  ],
+  "optsHi": [
+   "संविधान का संशोधन",
+   "कराधान और सरकारी व्यय जैसे वित्तीय मामले",
+   "आपातकाल की घोषणा",
+   "अंतर्राष्ट्रीय संधियों का अनुसमर्थन"
+  ],
+  "correct": 1,
+  "explainEn": "A Money Bill is specifically concerned with financial matters like taxation, public expenditure, or borrowing by the government, as defined in Article 110 of the Constitution.",
+  "sourceHint": "Constitution of India, Article 110",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:51:11Z"
+ },
+ {
+  "id": "q_e1475765aec9c196",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the British colonial rule in India, the Permanent Settlement was introduced in 1793 primarily with which group of people?",
+  "qHi": "भारत में ब्रिटिश ঔपनिबेसिक शासन के दौरान, 1793 में स्थायी बंदोबस्त मुख्य रूप से किस समूह के साथ शुरू किया गया था?",
+  "optsEn": [
+   "Zamindars",
+   "Ryots",
+   "Village elders",
+   "Industrialists"
+  ],
+  "optsHi": [
+   "जमींदार",
+   "रैयत",
+   "गाँव के बुजुर्ग",
+   "उद्योगपति"
+  ],
+  "correct": 0,
+  "explainEn": "The Permanent Settlement was introduced by Lord Cornwallis in 1793, fixing the revenue demand permanently with the Rajas and taluqdars, who were recognized as zamindars.",
+  "sourceHint": "NCERT Class 8 History, Chapter 2: From Trade to Territory",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:51:11Z"
+ },
+ {
+  "id": "q_ef17050ba3dc9ffc",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific atmospheric layer is characterized by the presence of ozone gas that absorbs harmful ultraviolet rays from the Sun?",
+  "qHi": "किस विशिष्ट वायुमंडलीय परत में ओजोन गैस की उपस्थिति होती है जो सूर्य की हानिकारक पराबैंगनी किरणों को अवशोषित करती है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल (ट्रोपोस्फीयर)",
+   "समताप मंडल (स्ट्रेटोस्फीयर)",
+   "मध्यमंडल (मेसोस्फीयर)",
+   "बाह्य वायुमंडल (थर्मोस्फीयर)"
+  ],
+  "correct": 1,
+  "explainEn": "The stratosphere contains the ozone layer, which absorbs harmful ultraviolet radiation coming from the Sun.",
+  "sourceHint": "NCERT Class 8 Geography, Chapter 4: Air",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:51:11Z"
+ },
+ {
+  "id": "q_fe147633ff3cb207",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organelle in plant cells contains chlorophyll and is responsible for the process of photosynthesis?",
+  "qHi": "पादप कोशिकाओं में किस कोशिकांग में क्लोरोफिल होता है और जो प्रकाश संश्लेषण की प्रक्रिया के लिए जिम्मेदार होता है?",
+  "optsEn": [
+   "Mitochondria",
+   "Vacuole",
+   "Chloroplast",
+   "Ribosome"
+  ],
+  "optsHi": [
+   "माइटोकॉन्ड्रिया",
+   "रिक्तिका (वैक्यूओल)",
+   "हरित लवक (क्लोरोप्लास्ट)",
+   "राइबोसोम"
+  ],
+  "correct": 2,
+  "explainEn": "Chloroplasts contain the green pigment chlorophyll, which traps solar energy needed for photosynthesis.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 7: Cell - Structure and Functions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:51:11Z"
+ },
+ {
+  "id": "q_fda824e87d9841f6",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In 1854, the famous Despatch sent by the Court of Directors of the East India Company to India primarily dealt with which domain?",
+  "qHi": "1854 में, ईस्ट इंडिया कंपनी के कोर्ट ऑफ़ डायरेक्टर्स द्वारा भारत भेजा गया प्रसिद्ध डिस्पैच मुख्य रूप से किस क्षेत्र से संबंधित था?",
+  "optsEn": [
+   "Railway expansion",
+   "Education policy",
+   "Military recruitment",
+   "Tax reforms"
+  ],
+  "optsHi": [
+   "रेलवे का विस्तार",
+   "शिक्षा नीति",
+   "सैन्य भर्ती",
+   "कर सुधार"
+  ],
+  "correct": 1,
+  "explainEn": "Wood's Despatch of 1854 outlined the educational policy to be followed in India, often called the Magna Carta of English education in India.",
+  "sourceHint": "NCERT Class 8 History, Chapter 8: Civilising the 'Native', Educating the Nation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:51:11Z"
+ },
+ {
+  "id": "q_addf2cf77e174d71",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which term refers to the clearing of forests over a vast area and using the land for other purposes such as agriculture or urban development?",
+  "qHi": "किस शब्द का अर्थ एक विशाल क्षेत्र में वनों को साफ करना और उस भूमि का कृषि या शहरी विकास जैसे अन्य उद्देश्यों के लिए उपयोग करना है?",
+  "optsEn": [
+   "Reforestation",
+   "Deforestation",
+   "Afforestation",
+   "Conservation"
+  ],
+  "optsHi": [
+   "पुनर्वनरोपण (रिफ़ॉरेस्टेशन)",
+   "वनों की कटाई (डिफ़ॉरेस्टेशन)",
+   "वनरोपण (अफ़ॉरेस्टेशन)",
+   "संरक्षण"
+  ],
+  "correct": 1,
+  "explainEn": "Deforestation means clearing of forests and using that land for other purposes.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 7: Conservation of Plants and Animals",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:51:11Z"
  }
 ]

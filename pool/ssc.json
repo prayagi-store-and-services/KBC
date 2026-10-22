@@ -13774,5 +13774,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-21T21:45:22Z"
+ },
+ {
+  "id": "q_11a2497886a705e9",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who is regarded as the Father of the Indian Constitution?",
+  "qHi": "भारतीय संविधान के जनक के रूप में किसे माना जाता है?",
+  "optsEn": [
+   "Mahatma Gandhi",
+   "Jawaharlal Nehru",
+   "B. R. Ambedkar",
+   "Rajendra Prasad"
+  ],
+  "optsHi": [
+   "महात्मा गांधी",
+   "जवाहरलाल नेहरू",
+   "बी. आर. अंबेडकर",
+   "राजेंद्र प्रसाद"
+  ],
+  "correct": 2,
+  "explainEn": "Dr. B. R. Ambedkar was the Chairman of the Drafting Committee of the Constituent Assembly.",
+  "sourceHint": "NCERT Political Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:49:11Z"
+ },
+ {
+  "id": "q_cb10525ee1e2939a",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which line of latitude passes almost midway through India?",
+  "qHi": "कौन सी अक्षांश रेखा लगभग भारत के बीचों-बीच से गुजरती है?",
+  "optsEn": [
+   "Equator",
+   "Tropic of Cancer",
+   "Tropic of Capricorn",
+   "Arctic Circle"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा",
+   "कर्क रेखा",
+   "मकर रेखा",
+   "आर्कटिक वृत्त"
+  ],
+  "correct": 1,
+  "explainEn": "The Tropic of Cancer (23.30 degrees N) passes through the middle of India, covering eight states.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:49:11Z"
+ },
+ {
+  "id": "q_5d2c15ac849705c6",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Kuchipudi is a classical dance form originating from which Indian state?",
+  "qHi": "कुचिपुड़ी किस भारतीय राज्य से उत्पन्न होने वाला शास्त्रीय नृत्य रूप है?",
+  "optsEn": [
+   "Kerala",
+   "Tamil Nadu",
+   "Odisha",
+   "Andhra Pradesh"
+  ],
+  "optsHi": [
+   "केरल",
+   "तमिलनाडु",
+   "ओडिशा",
+   "आंध्र प्रदेश"
+  ],
+  "correct": 3,
+  "explainEn": "Kuchipudi is one of the eight major Indian classical dances and originates from Andhra Pradesh.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:49:11Z"
+ },
+ {
+  "id": "q_38ad2a70f7cadcb0",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which plateau is situated between the Aravalli and Vindhya ranges?",
+  "qHi": "अरावली और विंध्य श्रेणियों के बीच कौन सा पठार स्थित है?",
+  "optsEn": [
+   "Chota Nagpur Plateau",
+   "Malwa Plateau",
+   "Deccan Plateau",
+   "Meghalaya Plateau"
+  ],
+  "optsHi": [
+   "छोटा नागपुर पठार",
+   "मालवा पठार",
+   "दक्कन का पठार",
+   "मेघालय पठार"
+  ],
+  "correct": 1,
+  "explainEn": "The Malwa Plateau is bounded by the Aravalli range in the west and the Vindhya range in the south.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:50:51Z"
+ },
+ {
+  "id": "q_c9ea428d28df630d",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Gupta ruler assumed the title of 'Kaviraja' due to his proficiency in music and poetry?",
+  "qHi": "किस गुप्त शासक को संगीत और कविता में दक्षता के कारण 'कविराज' की उपाधि दी गई थी?",
+  "optsEn": [
+   "Chandragupta I",
+   "Samudragupta",
+   "Chandragupta II",
+   "Skandagupta"
+  ],
+  "optsHi": [
+   "चंद्रगुप्त प्रथम",
+   "समुद्रगुप्त",
+   "चंद्रगुप्त द्वितीय",
+   "स्कंदगुप्त"
+  ],
+  "correct": 1,
+  "explainEn": "Samudragupta is depicted playing the veena on his coins and is described as 'Kaviraja' in the Allahabad Pillar inscription.",
+  "sourceHint": "NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:50:51Z"
+ },
+ {
+  "id": "q_0e4e9a9a7c9be722",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India calculates the Gross Domestic Product (GDP) at the national level?",
+  "qHi": "भारत में राष्ट्रीय स्तर पर सकल घरेलू उत्पाद (GDP) की गणना कौन सा संगठन करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "NITI Aayog",
+   "National Statistical Office",
+   "Finance Ministry"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "नीति आयोग",
+   "राष्ट्रीय सांख्यिकी कार्यालय",
+   "वित्त मंत्रालय"
+  ],
+  "correct": 2,
+  "explainEn": "The National Statistical Office (NSO), under the Ministry of Statistics and Programme Implementation, is responsible for macro-economic data collection including GDP calculation.",
+  "sourceHint": "PIB / Ministry of Statistics and Programme Implementation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:50:51Z"
  }
 ]

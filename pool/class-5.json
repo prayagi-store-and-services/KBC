@@ -18758,5 +18758,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-21T21:46:21Z"
+ },
+ {
+  "id": "q_4c3b76e7858eff72",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas do plants release into the air during photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण के दौरान पौधे हवा में कौन सी गैस छोड़ते हैं?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Nitrogen",
+   "Oxygen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "ऑक्सीजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 2,
+  "explainEn": "Plants produce oxygen as a byproduct during photosynthesis.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:48:49Z"
+ },
+ {
+  "id": "q_622c4ea3f2bd9710",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary direction pointed to by the top of a standard map?",
+  "qHi": "मानक मानचित्र के शीर्ष द्वारा कौन सी मुख्य दिशा दर्शाई जाती है?",
+  "optsEn": [
+   "North",
+   "South",
+   "East",
+   "West"
+  ],
+  "optsHi": [
+   "उत्तर",
+   "दक्षिण",
+   "पूर्व",
+   "पश्चिम"
+  ],
+  "correct": 0,
+  "explainEn": "Maps are universally oriented with North at the top.",
+  "sourceHint": "NCERT Class 6 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:48:49Z"
+ },
+ {
+  "id": "q_2bc13696ba15c7eb",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Seed dispersal in the 'Madar' plant takes place through which of the following agents?",
+  "qHi": "मदार के पौधे में बीजों का प्रकीर्णन निम्नलिखित में से किस माध्यम से होता है?",
+  "optsEn": [
+   "Water",
+   "Explosion",
+   "Wind",
+   "Animals"
+  ],
+  "optsHi": [
+   "जल",
+   "विस्फोट",
+   "हवा",
+   "जानवर"
+  ],
+  "correct": 2,
+  "explainEn": "Madar seeds have hair-like structures that help them float and travel long distances with the wind.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:50:25Z"
+ },
+ {
+  "id": "q_3917f6a2d2d488e5",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional harvesting festival is celebrated in the state of Assam?",
+  "qHi": "असम राज्य में कौन सा पारंपरिक फसल उत्सव मनाया जाता है?",
+  "optsEn": [
+   "Bihu",
+   "Pongal",
+   "Onam",
+   "Baisakhi"
+  ],
+  "optsHi": [
+   "बिहू",
+   "पोंगल",
+   "ओणम",
+   "बैसाखी"
+  ],
+  "correct": 0,
+  "explainEn": "Bihu is a set of three important cultural festivals of Assam associated with farming seasons.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:50:25Z"
+ },
+ {
+  "id": "q_6628873ae122abb6",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which instrument is commonly used to measure the direction of the wind?",
+  "qHi": "हवा की दिशा मापने के लिए आमतौर पर किस उपकरण का उपयोग किया जाता है?",
+  "optsEn": [
+   "Rain gauge",
+   "Wind vane",
+   "Thermometer",
+   "Barometer"
+  ],
+  "optsHi": [
+   "वर्षा मापक",
+   "वाताग्र या पवन दिकसूचक",
+   "थर्मामीटर",
+   "बैरोमीटर"
+  ],
+  "correct": 1,
+  "explainEn": "A wind vane points in the direction from which the wind is blowing.",
+  "sourceHint": "NCERT Class 5 Geography concepts",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:50:25Z"
+ },
+ {
+  "id": "q_3b102fbc704de3f5",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary gas used by green plants to prepare their food during photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण के दौरान हरे पौधों द्वारा अपना भोजन तैयार करने के लिए उपयोग की जाने वाली मुख्य गैस कौन सी है?",
+  "optsEn": [
+   "Oxygen",
+   "Nitrogen",
+   "Carbon dioxide",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "कार्बन डाइऑक्साइड",
+   "हाइड्रोजन"
+  ],
+  "correct": 2,
+  "explainEn": "Plants take in carbon dioxide from the air and use sunlight to make food.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:50:25Z"
+ },
+ {
+  "id": "q_81fc5d7b8de0c9de",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these monuments in India was built as a mausoleum by Emperor Shah Jahan?",
+  "qHi": "भारत में इनमें से कौन सा स्मारक सम्राट शाहजहाँ द्वारा मकबरे के रूप में बनवाया गया था?",
+  "optsEn": [
+   "Qutub Minar",
+   "Taj Mahal",
+   "Red Fort",
+   "Hawa Mahal"
+  ],
+  "optsHi": [
+   "कुतुब मीनार",
+   "ताजमहल",
+   "लाल किला",
+   "हवा महल"
+  ],
+  "correct": 1,
+  "explainEn": "The Taj Mahal in Agra was commissioned by the Mughal emperor Shah Jahan as a tomb.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:50:25Z"
+ },
+ {
+  "id": "q_73ed9eb5de12c1f6",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which part of a flowering plant is primarily responsible for producing pollen grains?",
+  "qHi": "फूल वाले पौधे का कौन सा भाग मुख्य रूप से परागकण उत्पन्न करने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Petal",
+   "Sepal",
+   "Stamen",
+   "Pistil"
+  ],
+  "optsHi": [
+   "पंखुड़ी",
+   "बा–दल",
+   "पुंकेसर",
+   "स्त्रीकेसर"
+  ],
+  "correct": 2,
+  "explainEn": "The stamen is the male reproductive organ of a flower, consisting of the anther and filament, where pollen is produced.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:51:06Z"
+ },
+ {
+  "id": "q_1796df049a63dfd8",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which instrument is specifically used by meteorologists to measure atmospheric pressure?",
+  "qHi": "वायुमंडलीय दबाव मापने के लिए मौसम वैज्ञानिकों द्वारा विशेष रूप से किस उपकरण का उपयोग किया जाता है?",
+  "optsEn": [
+   "Thermometer",
+   "Anemometer",
+   "Barometer",
+   "Rain gauge"
+  ],
+  "optsHi": [
+   "थर्मोमीटर",
+   "एनीमोमीटर",
+   "बैरोमीटर",
+   "वर्षा मापी"
+  ],
+  "correct": 2,
+  "explainEn": "A barometer is a scientific instrument used in meteorology to measure atmospheric pressure.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:51:06Z"
+ },
+ {
+  "id": "q_3ecbd2c23cb4928e",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which climatic zone do regions near the Equator generally fall, experiencing warm temperatures throughout the year?",
+  "qHi": "भूमध्य रेखा के निकट के क्षेत्र सामान्यतः किस जलवायु क्षेत्र के अंतर्गत आते हैं, जहाँ वर्ष भर गर्म तापमान रहता है?",
+  "optsEn": [
+   "Torrid zone",
+   "Temperate zone",
+   "Frigid zone",
+   "Polar zone"
+  ],
+  "optsHi": [
+   "उष्ण कटिबंध",
+   "शीतोष्ण कटिबंध",
+   "शीत कटिबंध",
+   "ध्रुवीय क्षेत्र"
+  ],
+  "correct": 0,
+  "explainEn": "The torrid zone lies between the Tropic of Cancer and the Tropic of Capricorn, receiving maximum heat from the sun because the midday sun is exactly overhead at least once a year.",
+  "sourceHint": "NCERT Class 6 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:51:06Z"
+ },
+ {
+  "id": "q_e7087c4032c30543",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of map primarily shows physical features such as mountains, plateaus, plains, rivers, and oceans?",
+  "qHi": "किस प्रकार का मानचित्र मुख्य रूप से पर्वत, पठार, मैदान, नदियाँ और महासागर जैसी भौतिक विशेषताओं को दर्शाता है?",
+  "optsEn": [
+   "Political map",
+   "Physical map",
+   "Thematic map",
+   "Road map"
+  ],
+  "optsHi": [
+   "राजनीतिक मानचित्र",
+   "भौतिक मानचित्र",
+   "विषयगत मानचित्र",
+   "सड़क मानचित्र"
+  ],
+  "correct": 1,
+  "explainEn": "Physical maps show natural features of the Earth such as mountains, plateaus, plains, rivers, oceans, and lakes.",
+  "sourceHint": "NCERT Class 6 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:51:06Z"
  }
 ]

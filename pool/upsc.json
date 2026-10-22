@@ -20522,5 +20522,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-21T21:45:16Z"
+ },
+ {
+  "id": "q_78dc3391d3f98f24",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which ancient Indian site was known for being a major center of learning and a Buddhist monastic university?",
+  "qHi": "कौन सा प्राचीन भारतीय स्थल शिक्षा के एक प्रमुख केंद्र और बौद्ध मठाधीश विश्वविद्यालय के रूप में जाना जाता था?",
+  "optsEn": [
+   "Harappa",
+   "Nalanda",
+   "Lothal",
+   "Kalibangan"
+  ],
+  "optsHi": [
+   "हड़प्पा",
+   "नालंदा",
+   "लोथल",
+   "कालीबंगा"
+  ],
+  "correct": 1,
+  "explainEn": "Nalanda was a renowned Mahavihara or Buddhist monastic university in ancient Magadha, India.",
+  "sourceHint": "NCERT Class 12 History - Themes in Indian History Part I",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:49:07Z"
+ },
+ {
+  "id": "q_bb2760600d3cd64f",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following vitamins is generally synthesized by the human body upon exposure to sunlight?",
+  "qHi": "सूर्य के प्रकाश के संपर्क में आने पर सामान्यतः मानव शरीर द्वारा निम्नलिखित में से कौन सा विटामिन संश्लेषित किया जाता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B12",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी12",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Vitamin D is synthesized in the skin when it is exposed to ultraviolet B (UVB) rays from sunlight.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:49:07Z"
+ },
+ {
+  "id": "q_7ac1e752d0f5400e",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which body is responsible for preparing the National Income estimates in India?",
+  "qHi": "भारत में राष्ट्रीय आय के अनुमान तैयार करने के लिए कौन सा निकाय जिम्मेदार है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "NITI Aayog",
+   "National Statistical Office",
+   "Finance Commission"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "नीति आयोग",
+   "राष्ट्रीय सांख्यिकी कार्यालय",
+   "वित्त आयोग"
+  ],
+  "correct": 2,
+  "explainEn": "The National Statistical Office (NSO), under the Ministry of Statistics and Programme Implementation, calculates the national income of India.",
+  "sourceHint": "NCERT Class 12 Economics - Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:49:07Z"
+ },
+ {
+  "id": "q_ec045b62a6f390ea",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following atmospheric layers is characterized by a constant temperature or a slight increase in temperature with height due to the absorption of ultraviolet radiation by ozone?",
+  "qHi": "निम्नलिखित में से किस वायुमंडलीय परत की विशेषता ओजोन द्वारा पराबैंगनी विकिरण के अवशोषण के कारण ऊंचाई के साथ निरंतर तापमान या तापमान में मामूली वृद्धि है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The stratosphere contains the ozone layer, which absorbs UV radiation, causing the temperature to increase with height in this layer.",
+  "sourceHint": "NCERT Class 11 Geography, Fundamentals of Physical Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:50:46Z"
+ },
+ {
+  "id": "q_42a7d41d374f4a9f",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of Indian economy, Statutory Liquidity Ratio (SLR) is maintained by commercial banks in the form of which of the following?",
+  "qHi": "भारतीय अर्थव्यवस्था के संदर्भ में, सांविधिक तरलता अनुपात (SLR) वाणिज्यिक बैंकों द्वारा निम्नलिखित में से किस रूप में बनाए रखा जाता है?",
+  "optsEn": [
+   "Cash reserves kept only with the Reserve Bank of India",
+   "Liquid assets such as cash, gold, or approved securities",
+   "Foreign exchange reserves held abroad",
+   "Long-term infrastructure bonds issued by the government"
+  ],
+  "optsHi": [
+   "केवल भारतीय रिजर्व बैंक के पास रखे गए नकद भंडार",
+   "नकद, सोना या स्वीकृत प्रतिभूतियों जैसी तरल संपत्तियां",
+   "विदेशों में रखे गए विदेशी मुद्रा भंडार",
+   "सरकार द्वारा जारी किए गए दीर्घकालिक बुनियादी ढांचा बांड"
+  ],
+  "correct": 1,
+  "explainEn": "SLR is the minimum percentage of deposits that a commercial bank has to maintain in the form of liquid cash, gold, or other securities before providing credit to customers.",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:50:46Z"
+ },
+ {
+  "id": "q_66a2fbfcc960ae84",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The 'Bhitarkanika Mangroves', known for being an important habitat for saltwater crocodiles, are located in the deltaic region of which rivers?",
+  "qHi": "खारे पानी के मगरमच्छों के लिए एक महत्वपूर्ण आवास के रूप में जाने जाने वाले 'भितरकनिका मैंग्रोव' किन नदियों के डेल्टा क्षेत्र में स्थित हैं?",
+  "optsEn": [
+   "Mahanadi and Brahmani",
+   "Krishna and Godavari",
+   "Subarnakhani and Baitarani",
+   "Ganga and Brahmaputra"
+  ],
+  "optsHi": [
+   "महानادي और ब्राह्मणी",
+   "कृष्णा और गोदावरी",
+   "सुवर्णरेखा और बैतरणी",
+   "गंगा और ब्रह्मपुत्र"
+  ],
+  "correct": 0,
+  "explainEn": "Bhitarkanika Mangroves are formed by the river deltas of Brahmani and Baitarani, with Mahanadi river basin also influencing the region in Odisha.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change (MoEFCC) Reports",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:50:46Z"
  }
 ]

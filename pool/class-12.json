@@ -20242,5 +20242,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-21T21:48:15Z"
+ },
+ {
+  "id": "q_18475f4ff2a5abba",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which biome is characterized by low temperatures, short growing seasons, and the absence of trees due to permafrost?",
+  "qHi": "किस बायोम की विशेषता कम तापमान, छोटी बढ़ने वाली ऋतुएं, और पर्माफ्रॉस्ट के कारण पेड़ों की अनुपस्थिति है?",
+  "optsEn": [
+   "Tropical Rainforest",
+   "Savanna",
+   "Tundra",
+   "Desert"
+  ],
+  "optsHi": [
+   "उष्णकटिबंधीय वर्षावन",
+   "सवाना",
+   "टुंड्रा",
+   "मरुस्थल"
+  ],
+  "correct": 2,
+  "explainEn": "Tundra is a treeless biome where the subsoil is permanently frozen (permafrost), found in high-latitude regions.",
+  "sourceHint": "NCERT Class 12 Biology Chapter 13",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:49:02Z"
+ },
+ {
+  "id": "q_401273b99b3ffc98",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organelle is considered the primary site for the synthesis of cellular lipids?",
+  "qHi": "किस कोशिकांग को कोशकीय लिपिड के संश्लेषण का प्रमुख स्थल माना जाता है?",
+  "optsEn": [
+   "Rough endoplasmic reticulum",
+   "Smooth endoplasmic reticulum",
+   "Golgi apparatus",
+   "Lysosome"
+  ],
+  "optsHi": [
+   "खुरदरी अंतःप्रदव्ययी जालिका",
+   "चिकनी अंतःप्रदव्ययी जालिका",
+   "गॉल्जी उपकरण",
+   "लसोसोम"
+  ],
+  "correct": 1,
+  "explainEn": "The smooth endoplasmic reticulum lacks ribosomes and is the main site for lipid synthesis in eukaryotic cells.",
+  "sourceHint": "NCERT Class 11 Biology, Chapter 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:50:40Z"
+ },
+ {
+  "id": "q_1abce2de1bec0de9",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which constitutional article guarantees the right to equality before the law within the territory of India?",
+  "qHi": "भारत के राज्यक्षेत्र के भीतर विधि के समक्ष समता का अधिकार कौन सा संवैधानिक अनुच्छेद प्रदान करता है?",
+  "optsEn": [
+   "Article 14",
+   "Article 19",
+   "Article 21",
+   "Article 32"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14",
+   "अनुच्छेद 19",
+   "अनुच्छेद 21",
+   "अनुच्छेद 32"
+  ],
+  "correct": 0,
+  "explainEn": "Article 14 of the Constitution of India states that the State shall not deny to any person equality before the law or the equal protection of the laws.",
+  "sourceHint": "Constitution of India, Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:50:40Z"
+ },
+ {
+  "id": "q_016a1eb50198d0d5",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the molecularity of an elementary chemical reaction whose rate is directly proportional to the square of the concentration of a single reactant?",
+  "qHi": "उस प्राथमिक रासायनिक अभिक्रिया की आणविकता क्या है जिसकी दर एक ही अभिकारक की सांद्रता के वर्ग के सीधे आनुपातिक होती है?",
+  "optsEn": [
+   "Zero",
+   "One",
+   "Two",
+   "Three"
+  ],
+  "optsHi": [
+   "शून्य",
+   "एक",
+   "दो",
+   "तीन"
+  ],
+  "correct": 2,
+  "explainEn": "Molecularity is the number of reacting species colliding simultaneously in an elementary reaction. If the rate depends on the square of one reactant concentration, two molecules of that reactant are involved, making the molecularity two.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:50:40Z"
+ },
+ {
+  "id": "q_7b8c639579196de2",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In macroeconomics, which measure includes the total value of final goods and services produced within the domestic territory of a country along with net factor income from abroad?",
+  "qHi": "समष्टि अर्थशास्त्र में, कौन सा माप किसी देश के घरेलू क्षेत्र के भीतर उत्पादित अंतिम वस्तुओं और सेवाओं के कुल मूल्य के साथ-साथ विदेशों से शुद्ध कारक आय को शामिल करता है?",
+  "optsEn": [
+   "Gross Domestic Product",
+   "Gross National Product",
+   "Net Domestic Product",
+   "Disposable Personal Income"
+  ],
+  "optsHi": [
+   "सकल घरेलू उत्पाद",
+   "सकल राष्ट्रीय उत्पाद",
+   "शुद्ध घरेलू उत्पाद",
+   "प्रयोज्य व्यक्तिगत आय"
+  ],
+  "correct": 1,
+  "explainEn": "Gross National Product (GNP) is defined as GDP plus net factor income from abroad.",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:50:40Z"
+ },
+ {
+  "id": "q_6b2c8771892eb99a",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which phenomenon demonstrates the particle nature of light by showing that photons transfer momentum to electrons during scattering?",
+  "qHi": "कौन सी घटना प्रकाश की कण प्रकृति को यह दर्शाकर प्रदर्शित करती है कि प्रकीर्णन के दौरान फोटॉन इलेक्ट्रॉनों को गति momentum स्थानांतरित करते हैं?",
+  "optsEn": [
+   "Interference",
+   "Diffraction",
+   "Compton effect",
+   "Polarization"
+  ],
+  "optsHi": [
+   "व्यतिकरण",
+   "विवर्तन",
+   "कॉम्पटन प्रभाव",
+   "ध्रुवण"
+  ],
+  "correct": 2,
+  "explainEn": "The Compton effect involves the scattering of a photon by a charged particle, typically an electron, providing evidence for the particle nature of electromagnetic radiation.",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:50:40Z"
+ },
+ {
+  "id": "q_d0552ffacaf3e336",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which specialized meristematic tissue is responsible for increasing the girth or diameter of the plant axis in dicotyledonous stems?",
+  "qHi": "द्विबीजपत्री तनों में पौधे के अक्ष के घेरे या व्यास को बढ़ाने के लिए कौन सा विशिष्ट विभज्योतक ऊतक उत्तरदायी है?",
+  "optsEn": [
+   "Apical meristem",
+   "Intercalary meristem",
+   "Lateral meristem",
+   "Primary meristem"
+  ],
+  "optsHi": [
+   "शीर्षस्थ विभज्योतक",
+   "अंतर्विष्ट विभज्योतक",
+   "पार्श्व विभज्योतक",
+   "प्राथमिक विभज्योतक"
+  ],
+  "correct": 2,
+  "explainEn": "Lateral meristems, such as vascular cambium and cork cambium, occur in the mature regions of roots and shoots and are responsible for secondary growth, which increases girth.",
+  "sourceHint": "NCERT Class 11 Biology, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:50:40Z"
+ },
+ {
+  "id": "q_38dfad2347a79aa1",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which historical site features the famous rock-cut monolithic Rathas constructed during the Pallava dynasty?",
+  "qHi": "किस ऐतिहासिक स्थल पर पल्लव वंश के दौरान निर्मित प्रसिद्ध शैलकृत एकाश्म रथ मौजूद हैं?",
+  "optsEn": [
+   "Mahabalipuram",
+   "Khajuraho",
+   "Hampi",
+   "Ellora"
+  ],
+  "optsHi": [
+   "महाबलीपुरम",
+   "खजुराहो",
+   "हम्पी",
+   "एलोरा"
+  ],
+  "correct": 0,
+  "explainEn": "The Pancha Rathas and other rock-cut monuments at Mahabalipuram were built during the reign of the Pallava dynasty.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part I",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:50:40Z"
+ },
+ {
+  "id": "q_50b4346e84c0bf19",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In a standard English alphabet set, what type of relation is 'is parallel to' defined on the set of all straight lines in a plane?",
+  "qHi": "मानक गणितीय समुच्चय सिद्धांत में, एक तल में सभी सरल रेखाओं के समुच्चय पर परिभाषित संबंध 'के समांतर है' किस प्रकार का संबंध है?",
+  "optsEn": [
+   "Reflexive only",
+   "Symmetric and transitive only",
+   "Equivalence relation",
+   "Partial order relation"
+  ],
+  "optsHi": [
+   "केवल स्तुत्य",
+   "केवल सममित और संक्रामक",
+   "तु तुल्यता संबंध",
+   "आंशिक क्रम संबंध"
+  ],
+  "correct": 2,
+  "explainEn": "Parallelism of lines is reflexive (a line is parallel to itself), symmetric (if line A is parallel to line B, B is parallel to A), and transitive (if A is parallel to B and B to C, A is parallel to C), making it an equivalence relation.",
+  "sourceHint": "NCERT Class 12 Mathematics, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:50:40Z"
  }
 ]

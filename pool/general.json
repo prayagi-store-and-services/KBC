@@ -13634,5 +13634,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-21T21:45:46Z"
+ },
+ {
+  "id": "q_952ae5767abc94a8",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the standard chemical symbol for gold?",
+  "qHi": "सोने (गोल्ड) का मानक रासायनिक प्रतीक क्या है?",
+  "optsEn": [
+   "Ag",
+   "Au",
+   "Pb",
+   "Fe"
+  ],
+  "optsHi": [
+   "Ag",
+   "Au",
+   "Pb",
+   "Fe"
+  ],
+  "correct": 1,
+  "explainEn": "The symbol 'Au' for gold comes from its Latin name 'aurum', meaning shining dawn.",
+  "sourceHint": "IUPAC Periodic Table",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:50:20Z"
+ },
+ {
+  "id": "q_55618eaa252afc39",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the heavy noble gas used in certain types of high-intensity lighting and flashlamps?",
+  "qHi": "निश्चित प्रकार की उच्च-तीव्रता वाली प्रकाश व्यवस्था और फ्लैशलैंप में उपयोग की जाने वाली भारी उत्कृष्ट गैस कौन सी है?",
+  "optsEn": [
+   "Helium",
+   "Neon",
+   "Xenon",
+   "Argon"
+  ],
+  "optsHi": [
+   "हीलीयम",
+   "नियन",
+   "क्सीनन",
+   "आर्गन"
+  ],
+  "correct": 2,
+  "explainEn": "Xenon is a heavy noble gas used in specialized photographic flashes and arc lamps.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T04:51:01Z"
  }
 ]
