@@ -18,6 +18,12 @@ class CrashReporterTest {
         assertTrue(s.contains("Caused by: java.lang.IllegalArgumentException"))
         assertFalse(s.contains("inner-secret"))
     }
+    @Test fun rootCauseSurvivesTheSizeLimit() {
+        fun deep(n: Int, e: Throwable): Throwable = if (n == 0) e else RuntimeException("w$n", deep(n - 1, e))
+        val s = CrashReporter.sanitize(deep(4, IllegalStateException("root")))
+        assertTrue(s.contains("java.lang.IllegalStateException"))
+        assertTrue(s.length <= 6000)
+    }
     @Test fun acceptedNeedsRealSuccessAnswer() {
         assertTrue(CrashReporter.accepted("{\"success\":\"true\",\"message\":\"ok\"}"))
         assertTrue(CrashReporter.accepted("{\"success\":true}"))
