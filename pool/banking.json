@@ -21978,5 +21978,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-22T11:56:56Z"
+ },
+ {
+  "id": "q_e1c104da412f55b7",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following institutions is responsible for issuing currency notes in India?",
+  "qHi": "भारत में करेंसी नोट जारी करने के लिए निम्नलिखित में से कौन सी संस्था जिम्मेदार है?",
+  "optsEn": [
+   "Ministry of Finance",
+   "State Bank of India",
+   "Reserve Bank of India",
+   "SEBI"
+  ],
+  "optsHi": [
+   "वित्त मंत्रालय",
+   "भारतीय स्टेट बैंक",
+   "भारतीय रिजर्व बैंक",
+   "सेबी"
+  ],
+  "correct": 2,
+  "explainEn": "Under Section 22 of the Reserve Bank of India Act, 1934, the RBI has the sole right to issue bank notes in India.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:37:25Z"
+ },
+ {
+  "id": "q_e1056a9a00ffc537",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following terms is used in banking for a loan that has not been repaid for a period of 90 days or more?",
+  "qHi": "बैंकिंग में उस ऋण के लिए निम्नलिखित में से किस शब्द का उपयोग किया जाता है जिसका भुगतान 90 दिन या उससे अधिक की अवधि के लिए नहीं किया गया है?",
+  "optsEn": [
+   "Standard Asset",
+   "Non-Performing Asset",
+   "Prime Asset",
+   "Liquid Asset"
+  ],
+  "optsHi": [
+   "मानक परिसंपत्ति",
+   "गैर-निष्पादित परिसंपत्ति",
+   "प्रमुख परिसंपत्ति",
+   "तरल परिसंपत्ति"
+  ],
+  "correct": 1,
+  "explainEn": "An asset becomes non-performing when it ceases to generate income for the bank for a period of 90 days or more.",
+  "sourceHint": "RBI Master Circular on Prudential Norms",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:37:25Z"
+ },
+ {
+  "id": "q_83ba854e7f2713f7",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'S' stand for in the acronym 'RTGS' used in banking transactions?",
+  "qHi": "बैंकिंग लेनदेन में प्रयुक्त संक्षिप्त नाम 'RTGS' में 'S' का क्या अर्थ है?",
+  "optsEn": [
+   "Settlement",
+   "System",
+   "Security",
+   "Savings"
+  ],
+  "optsHi": [
+   "सेtlement",
+   "सिस्टम",
+   "सिक्योरिटी",
+   "सेविंग्स"
+  ],
+  "correct": 0,
+  "explainEn": "RTGS stands for Real Time Gross Settlement.",
+  "sourceHint": "Reserve Bank of India Payment Systems",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:37:25Z"
+ },
+ {
+  "id": "q_aee2637b4ef2dbb3",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization regulates the securities market in India?",
+  "qHi": "कौन सा संगठन भारत में प्रतिभूति बाजार को नियंत्रित करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India",
+   "Insurance Regulatory and Development Authority",
+   "NABARD"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "बीमा विनियामक और विकास प्राधिकरण",
+   "नाबार्ड"
+  ],
+  "correct": 1,
+  "explainEn": "SEBI (Securities and Exchange Board of India) is the regulatory body for securities and commodity market in India.",
+  "sourceHint": "SEBI Act, 1992",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:37:25Z"
+ },
+ {
+  "id": "q_dec42dbecd8f0a1d",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institution acts as the principal agency for financing agricultural and rural development in India?",
+  "qHi": "भारत में कृषि and ग्रामीण विकास के लिए वित्त पोषण करने वाली प्रमुख एजेंसी के रूप में कौन सी संस्था कार्य करती है?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "IFCI"
+  ],
+  "optsHi": [
+   "सिडबी",
+   "नाबार्ड",
+   "एक्सिम बैंक",
+   "आईएफसीआई"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) was established in 1982 to promote sustainable agriculture and rural prosperity.",
+  "sourceHint": "NABARD Act, 1981",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:38:41Z"
+ },
+ {
+  "id": "q_241fd4aff8d0805f",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum limit of transaction amount per transaction for Immediate Payment Service (IMPS)?",
+  "qHi": "तत्काल भुगतान सेवा (IMPS) के लिए प्रति लेनदेन अधिकतम लेनदेन राशि क्या है?",
+  "optsEn": [
+   "Rupees 1 Lakh",
+   "Rupees 2 Lakhs",
+   "Rupees 5 Lakhs",
+   "No upper limit"
+  ],
+  "optsHi": [
+   "1 लाख रुपये",
+   "2 लाख रुपये",
+   "5 लाख रुपये",
+   "कोई ऊपरी सीमा नहीं"
+  ],
+  "correct": 2,
+  "explainEn": "The Reserve Bank of India set the maximum per-transaction limit for IMPS at Rupees 5 Lakhs.",
+  "sourceHint": "NPCI and Reserve Bank of India guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:38:41Z"
+ },
+ {
+  "id": "q_17eea0a4881d5389",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which monetary policy tool refers to the rate at which the Reserve Bank of India absorbs liquidity from banks?",
+  "qHi": "कौन सा मौद्रिक नीति उपकरण उस दर को संदर्भित करता है जिस पर भारतीय रिजर्व बैंक बैंकों से तरलता को अवशोषित करता है?",
+  "optsEn": [
+   "Repo Rate",
+   "Reverse Repo Rate",
+   "Bank Rate",
+   "Statutory Liquidity Ratio"
+  ],
+  "optsHi": [
+   "रेपो रेट",
+   "रिवर्स रेपो रेट",
+   "बैंक रेट",
+   "वैधानिक तरलता अनुपात"
+  ],
+  "correct": 1,
+  "explainEn": "Reverse Repo Rate is the interest rate at which the central bank borrows money from commercial banks within the country.",
+  "sourceHint": "Reserve Bank of India Monetary Policy Framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:38:41Z"
+ },
+ {
+  "id": "q_9d91fcc78fffeb22",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does 'M' stand for in the financial acronym 'MSME'?",
+  "qHi": "वित्तीय संक्षिप्त नाम 'MSME' में 'M' का क्या अर्थ है?",
+  "optsEn": [
+   "Macro",
+   "Medium",
+   "Monetary",
+   " Mercantile"
+  ],
+  "optsHi": [
+   "मैक्रो",
+   "मीडियम",
+   "मौद्रिक",
+   "मर्केंटाइल"
+  ],
+  "correct": 1,
+  "explainEn": "MSME stands for Micro, Small and Medium Enterprises.",
+  "sourceHint": "Ministry of Micro, Small and Medium Enterprises, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:38:41Z"
+ },
+ {
+  "id": "q_d96e3c7cd16e4641",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which financial market segment deals with the borrowing and lending of funds for a period of one day, known as overnight borrowing?",
+  "qHi": "कौन सा वित्तीय बाजार खंड एक दिन की अवधि के लिए धन के उधार and ऋण से संबंधित है, जिसे रात्रिकालीन उधार के रूप में जाना जाता है?",
+  "optsEn": [
+   "Call money market",
+   "Notice money market",
+   "Term money market",
+   "Capital market"
+  ],
+  "optsHi": [
+   "कॉल मनी मार्केट",
+   "नोटिस मनी मार्केट",
+   "टर्म मनी मार्केट",
+   "कैपिटल मार्केट"
+  ],
+  "correct": 0,
+  "explainEn": "Call money is a method by which commercial banks borrow or lend money on a daily basis, specifically for one day (overnight).",
+  "sourceHint": "Reserve Bank of India financial markets bulletin",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:38:41Z"
  }
 ]

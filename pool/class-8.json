@@ -14978,5 +14978,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-22T11:57:11Z"
+ },
+ {
+  "id": "q_eb256c7ecc9168ef",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which microorganism is responsible for setting milk into curd?",
+  "qHi": "दूध को दही में जमाने के लिए कौन सा सूक्ष्मजीव उत्तरदायी है?",
+  "optsEn": [
+   "Rhizobium",
+   "Lactobacillus",
+   "Yeast",
+   "Amoeba"
+  ],
+  "optsHi": [
+   "राइजोबियम",
+   "लैक्टोबैसिलस",
+   "यीस्ट",
+   "अमीबा"
+  ],
+  "correct": 1,
+  "explainEn": "The bacterium Lactobacillus promotes the formation of curd from milk.",
+  "sourceHint": "NCERT Class 8 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:37:36Z"
+ },
+ {
+  "id": "q_b96cf2a0ae1ae0c0",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following cell organelles is known as the powerhouse of the cell?",
+  "qHi": "निम्नलिखित में से किस कोशिका अंगक को कोशिका का पावरहाउस कहा जाता है?",
+  "optsEn": [
+   "Nucleus",
+   "Ribosome",
+   "Mitochondria",
+   "Chloroplast"
+  ],
+  "optsHi": [
+   "केंद्रक",
+   "राइबोसोम",
+   "माइटोकॉन्ड्रिया",
+   "क्लोरोप्लास्ट"
+  ],
+  "correct": 2,
+  "explainEn": "Mitochondria generate most of the chemical energy needed to power the cell's biochemical reactions.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:38:54Z"
+ },
+ {
+  "id": "q_44ab2c3801658b5d",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which movement was launched by Mahatma Gandhi in August 1942?",
+  "qHi": "महात्मा गांधी द्वारा अगस्त 1942 में कौन सा आंदोलन शुरू किया गया था?",
+  "optsEn": [
+   "Non-Cooperation Movement",
+   "Civil Disobedience Movement",
+   "Quit India Movement",
+   "Khilafat Movement"
+  ],
+  "optsHi": [
+   "असहयोग आंदोलन",
+   "सविनय अवज्ञा आंदोलन",
+   "भारत छोड़ो आंदोलन",
+   "खिलाफत आंदोलन"
+  ],
+  "correct": 2,
+  "explainEn": "The Quit India Movement was launched at the Bombay session of the All-India Congress Committee by Mahatma Gandhi in August 1942.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:38:54Z"
+ },
+ {
+  "id": "q_7a09e9127e49c0d1",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which soil type is most suitable for growing cotton?",
+  "qHi": "कपास की खेती के लिए किस प्रकार की मिट्टी सबसे उपयुक्त है?",
+  "optsEn": [
+   "Laterite soil",
+   "Red soil",
+   "Black soil",
+   "Desert soil"
+  ],
+  "optsHi": [
+   "लैटेराइट मिट्टी",
+   "लाल मिट्टी",
+   "काली मिट्टी",
+   "रेगिस्तानी मिट्टी"
+  ],
+  "correct": 2,
+  "explainEn": "Black soil, also known as regur soil, is ideal for growing cotton due to its high moisture retention capacity.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:38:54Z"
  }
 ]

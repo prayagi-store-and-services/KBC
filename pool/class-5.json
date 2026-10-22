@@ -19150,5 +19150,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-22T11:57:05Z"
+ },
+ {
+  "id": "q_03e490cbfc5a6f2f",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these is a major source of vitamin C?",
+  "qHi": "इनमें से कौन सा विटामिन सी का एक प्रमुख स्रोत है?",
+  "optsEn": [
+   "Amla",
+   "Rice",
+   "Milk",
+   "Potato"
+  ],
+  "optsHi": [
+   "आंवला",
+   "चावल",
+   "दूध",
+   "आलू"
+  ],
+  "correct": 0,
+  "explainEn": "Amla (Indian gooseberry) is very rich in vitamin C.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:37:33Z"
+ },
+ {
+  "id": "q_9be100268c46e5ac",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Seed dispersal in the touch-me-not plant occurs mainly through which of the following methods?",
+  "qHi": "छुई-मुई (टच-मी-नॉट) पौधे में बीजों का प्रकीर्णन मुख्य रूप से किस विधि द्वारा होता है?",
+  "optsEn": [
+   "Explosion of the seed pod",
+   "Carried by wind",
+   "Eaten by birds",
+   "Floating on water"
+  ],
+  "optsHi": [
+   "बीज फली के फटने से",
+   "हवा द्वारा ले जाया जाना",
+   "पक्षियों द्वारा खाया जाना",
+   "पानी पर तैरना"
+  ],
+  "correct": 0,
+  "explainEn": "The pods of the touch-me-not plant burst open suddenly when ripe, scattering the seeds away from the parent plant.",
+  "sourceHint": "NCERT Class 5 Environmental Studies (EVS)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:38:50Z"
+ },
+ {
+  "id": "q_c8caac844809c75c",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian stepwell structure is built primarily for harvesting and storing rainwater?",
+  "qHi": "वर्षा जल के संचयन और भंडारण के लिए मुख्य रूप से कौन सी पारंपरिक भारतीय सीढ़ीनुमा कुआँ संरचना बनाई जाती है?",
+  "optsEn": [
+   "Baoli",
+   "Stupa",
+   "Minar",
+   "Dome"
+  ],
+  "optsHi": [
+   "बावड़ी",
+   "स्तूप",
+   "मीनार",
+   "गुंबद"
+  ],
+  "correct": 0,
+  "explainEn": "Baolis or stepwells were historically built in India to collect and store rainwater for dry periods.",
+  "sourceHint": "NCERT Class 5 EVS Chapter - A Shelter so High!",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:38:50Z"
+ },
+ {
+  "id": "q_e45ed7df3c8e25ad",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these crops is typically harvested during the Rabi season in India?",
+  "qHi": "इनमें से कौन सी फसल आमतौर पर भारत में रबी के मौसम में काटी जाती है?",
+  "optsEn": [
+   "Rice",
+   "Wheat",
+   "Maize",
+   "Cotton"
+  ],
+  "optsHi": [
+   "चावल",
+   "गेहूं",
+   "मक्का",
+   "कपास"
+  ],
+  "correct": 1,
+  "explainEn": "Wheat is a major Rabi crop sown in winter and harvested in spring in India.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:38:50Z"
+ },
+ {
+  "id": "q_48edc8b21841872b",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of map representation shows physical features like mountains, rivers, and plains?",
+  "qHi": "किस प्रकार का मानचित्र प्रतिनिधित्व पहाड़ों, नदियों और मैदानों जैसी भौतिक विशेषताओं को दिखाता है?",
+  "optsEn": [
+   "Political map",
+   "Physical map",
+   "Road map",
+   "Climatic map"
+  ],
+  "optsHi": [
+   "राजनीतिक मानचित्र",
+   "भौतिक मानचित्र",
+   "सड़क मानचित्र",
+   "जलवायु मानचित्र"
+  ],
+  "correct": 1,
+  "explainEn": "Physical maps show natural features of the Earth such as mountains, plateaus, plains, rivers, and oceans.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:38:50Z"
+ },
+ {
+  "id": "q_da1a301775f6b063",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which sense organ is specially adapted for detecting light and enabling vision?",
+  "qHi": "प्रकाश का पता लगाने और दृष्टि को सक्षम करने के लिए कौन सा ज्ञानेंद्रिय विशेष रूप से अनुकूलित है?",
+  "optsEn": [
+   "Ear",
+   "Nose",
+   "Eye",
+   "Skin"
+  ],
+  "optsHi": [
+   "कान",
+   "नाक",
+   "आंख",
+   "त्वचा"
+  ],
+  "correct": 2,
+  "explainEn": "The eye is the sensory organ responsible for vision by detecting light.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:38:50Z"
+ },
+ {
+  "id": "q_fbb9cc22592a4cc4",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which state of matter has a definite shape and a definite volume at room temperature?",
+  "qHi": "कमरे के तापमान पर पदार्थ की किस अवस्था का एक निश्चित आकार और एक निश्चित आयतन होता है?",
+  "optsEn": [
+   "Solid",
+   "Liquid",
+   "Gas",
+   "Plasma"
+  ],
+  "optsHi": [
+   "ठोस",
+   "तरल",
+   "गैस",
+   "प्लाज्मा"
+  ],
+  "correct": 0,
+  "explainEn": "Solids maintain a fixed volume and a definite shape because their particles are tightly packed.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:38:50Z"
  }
 ]

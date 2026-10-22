@@ -13802,5 +13802,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-22T11:57:01Z"
+ },
+ {
+  "id": "q_838cd27b640377c0",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "On which date is Republic Day celebrated in India every year?",
+  "qHi": "भारत में हर साल गणतंत्र दिवस किस तारीख को मनाया जाता है?",
+  "optsEn": [
+   "15 August",
+   "26 January",
+   "2 October",
+   "26 November"
+  ],
+  "optsHi": [
+   "15 अगस्त",
+   "26 जनवरी",
+   "2 अक्टूबर",
+   "26 नवंबर"
+  ],
+  "correct": 1,
+  "explainEn": "Republic Day honors the date on which the Constitution of India came into effect on 26 January 1950.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:37:29Z"
+ },
+ {
+  "id": "q_968808fa005a74ad",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which planet in our solar system has the highest surface temperature?",
+  "qHi": "हमारे सौरमंडल में किस ग्रह का सतही तापमान सबसे अधिक है?",
+  "optsEn": [
+   "Mercury",
+   "Venus",
+   "Mars",
+   "Jupiter"
+  ],
+  "optsHi": [
+   "बुध",
+   "शुक्र",
+   "मंगल",
+   "बृहस्पति"
+  ],
+  "correct": 1,
+  "explainEn": "Venus has a runaway greenhouse effect caused by its thick carbon dioxide atmosphere, making it hotter than Mercury despite being further from the Sun.",
+  "sourceHint": "NASA Solar System Exploration",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:38:45Z"
+ },
+ {
+  "id": "q_31ed0390b24388f2",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian state shares its international border with three countries: Bhutan, China, and Nepal?",
+  "qHi": "कौन सा भारतीय राज्य तीन देशों - भूटान, चीन और नेपाल - के साथ अपनी अंतर्राष्ट्रीय सीमा साझा करता है?",
+  "optsEn": [
+   "Arunachal Pradesh",
+   "Uttarakhand",
+   "Sikkim",
+   "West Bengal"
+  ],
+  "optsHi": [
+   "अरुणाचल प्रदेश",
+   "उत्तराखंड",
+   "सिक्किम",
+   "पश्चिम बंगाल"
+  ],
+  "correct": 2,
+  "explainEn": "Sikkim is geographically bordered by Tibet (China) to the north and northeast, Bhutan to the east, and Nepal to the west.",
+  "sourceHint": "NCERT Geography Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:38:45Z"
+ },
+ {
+  "id": "q_c58e4034bdce67c4",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary chemical component of natural gas?",
+  "qHi": "प्राकृतिक गैस का मुख्य रासायनिक घटक क्या है?",
+  "optsEn": [
+   "Methane",
+   "Propane",
+   "Butane",
+   "Ethane"
+  ],
+  "optsHi": [
+   "मीथेन",
+   "प्रोपेन",
+   "ब्यूटेन",
+   "एथेन"
+  ],
+  "correct": 0,
+  "explainEn": "Methane is the primary hydrocarbon making up roughly 70 to 90 percent of natural gas deposits.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:38:45Z"
+ },
+ {
+  "id": "q_87d16e52118d5b58",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization awards the prestigious Nobel Prize in Physiology or Medicine?",
+  "qHi": "कौन सा संगठन शरीर विज्ञान या चिकित्सा में प्रतिष्ठित नोबेल पुरस्कार प्रदान करता है?",
+  "optsEn": [
+   "Karolinska Institute",
+   "Royal Swedish Academy of Sciences",
+   "Norwegian Nobel Committee",
+   "Swedish Academy"
+  ],
+  "optsHi": [
+   "कैरोलिंस्का संस्थान",
+   "रॉयल स्वीडिश एकेडमी ऑफ साइंसेज",
+   "नॉर्वेजियन नोबेल समिति",
+   "स्वीडिश अकादमी"
+  ],
+  "correct": 0,
+  "explainEn": "The Nobel Assembly at the Karolinska Institute in Stockholm, Sweden, awards the Nobel Prize in Physiology or Medicine.",
+  "sourceHint": "Nobel Prize Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:38:45Z"
  }
 ]

@@ -14110,5 +14110,341 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-22T11:56:51Z"
+ },
+ {
+  "id": "q_6a179b0fcb2db0ac",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "The classical dance form named Kathakali originated in which Indian state?",
+  "qHi": "कथकली नामक शास्त्रीय नृत्य शैली की उत्पत्ति किस भारतीय राज्य में हुई थी?",
+  "optsEn": [
+   "Kerala",
+   "Tamil Nadu",
+   "Andhra Pradesh",
+   "Odisha"
+  ],
+  "optsHi": [
+   "केरल",
+   "तमिलनाडु",
+   "आंध्र प्रदेश",
+   "ओडिशा"
+  ],
+  "correct": 0,
+  "explainEn": "Kathakali is a major form of classical Indian dance that originated in the southern state of Kerala.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:37:21Z"
+ },
+ {
+  "id": "q_6c3ec150ea55955f",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "The Tropic of Cancer does not pass through which of the following Indian states?",
+  "qHi": "कर्क रेखा निम्नलिखित में से किस भारतीय राज्य से होकर नहीं गुजरती है?",
+  "optsEn": [
+   "Rajasthan",
+   "Chhattisgarh",
+   "Odisha",
+   "Tripura"
+  ],
+  "optsHi": [
+   "राजस्थान",
+   "छत्तीसगढ़",
+   "ओडिशा",
+   "त्रिपुरा"
+  ],
+  "correct": 2,
+  "explainEn": "The Tropic of Cancer passes through eight Indian states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram. It does not pass through Odisha.",
+  "sourceHint": "NCERT Class 9 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:37:21Z"
+ },
+ {
+  "id": "q_4d23baf4743f2cea",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which dynasty constructed the famous Kailash Temple at Ellora?",
+  "qHi": "इलोरा में प्रसिद्ध कैलाश मंदिर का निर्माण किस राजवंश ने करवाया था?",
+  "optsEn": [
+   "Rashtrakuta dynasty",
+   "Maurya dynasty",
+   "Gupta dynasty",
+   "Chola dynasty"
+  ],
+  "optsHi": [
+   "राष्ट्रकूट राजवंश",
+   "मौर्य राजवंश",
+   "गुप्त राजवंश",
+   "चोल राजवंश"
+  ],
+  "correct": 0,
+  "explainEn": "The rock-cut Kailash Temple (Cave 16) at Ellora was built by the Rashtrakuta king Krishna I in the 8th century.",
+  "sourceHint": "NCERT Class 7 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:38:36Z"
+ },
+ {
+  "id": "q_3d5a9570eefc76ec",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary commercial crop grown in the black soils (Regur soil) of India?",
+  "qHi": "भारत की काली मिट्टी (रेगुर मिट्टी) में उगाई जाने वाली प्रमुख व्यावसायिक फसल कौन सी है?",
+  "optsEn": [
+   "Tea",
+   "Coffee",
+   "Cotton",
+   "Jute"
+  ],
+  "optsHi": [
+   "चाय",
+   "कॉफ़ी",
+   "कपास",
+   "जूट"
+  ],
+  "correct": 2,
+  "explainEn": "Black soil is ideal for growing cotton due to its high moisture retention capacity, which is why it is also known as black cotton soil.",
+  "sourceHint": "NCERT Class 10 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:38:36Z"
+ },
+ {
+  "id": "q_06609fce1ed7f038",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who was the first woman President of the Indian National Congress?",
+  "qHi": "भारतीय राष्ट्रीय कांग्रेस की पहली महिला अध्यक्ष कौन थीं?",
+  "optsEn": [
+   "Sarojini Naidu",
+   "Annie Besant",
+   "Nellie Sengupta",
+   "Kasturba Gandhi"
+  ],
+  "optsHi": [
+   "सरोजिनी नायडू",
+   "एनी बेसेंट",
+   "नेल्ली सेनगुप्ता",
+   "कस्तूरबा गांधी"
+  ],
+  "correct": 1,
+  "explainEn": "Annie Besant was the first woman President of the Indian National Congress, presiding over the Calcutta session in 1917.",
+  "sourceHint": "Modern Indian History standard texts",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:38:36Z"
+ },
+ {
+  "id": "q_5b1e3bbcccb4a792",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following writs is issued by a higher court to a lower court or tribunal to prevent exceeding its jurisdiction?",
+  "qHi": "निम्नलिखित में से कौन सी रिट किसी उच्च न्यायालय द्वारा निचली अदालत या न्यायाधिकरण को उसकी अधिकार क्षेत्र से बाहर जाने से रोकने के लिए जारी की जाती है?",
+  "optsEn": [
+   "Habeas Corpus",
+   "Mandamus",
+   "Prohibition",
+   "Quo-Warranto"
+  ],
+  "optsHi": [
+   "बंदी प्रत्यक्षीकरण",
+   "परमादेश",
+   "प्रतिषेध",
+   "धिकारपृच्छा"
+  ],
+  "correct": 2,
+  "explainEn": "The writ of Prohibition is literally meant 'to forbid'. It is issued by a higher court to a lower court or tribunal to prevent them from exceeding their jurisdiction.",
+  "sourceHint": "Indian Polity by M. Laxmikanth, Chapter on Fundamental Rights",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:38:36Z"
+ },
+ {
+  "id": "q_e37b4be8fa38b830",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the Gupta period, what was the primary tax levied on agricultural produce, typically fixed at one-sixth of the produce?",
+  "qHi": "गुप्त काल के दौरान, कृषि उपज पर लगाया जाने वाला प्रमुख कर क्या था, जो आमतौर पर उपज का छठा हिस्सा तय किया जाता था?",
+  "optsEn": [
+   "Bali",
+   "Bhaga",
+   "Kara",
+   "Shulka"
+  ],
+  "optsHi": [
+   "बलि",
+   "भाग",
+   "कर",
+   "शुल्क"
+  ],
+  "correct": 1,
+  "explainEn": "Bhaga was the main land revenue tax in ancient India, particularly during the Gupta period, usually amounting to one-sixth of the total agricultural produce.",
+  "sourceHint": "NCERT Class 12 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:39:36Z"
+ },
+ {
+  "id": "q_735e5232d8089cd6",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary function of the 'Coriolis force' in relation to global wind patterns?",
+  "qHi": "वैश्विक पवन पैटर्न के संबंध में 'कोरिolis बल' का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "It alters the speed of the wind",
+   "It deflects the wind to the right in the Northern Hemisphere",
+   "It generates the initial pressure gradient",
+   "It destroys wind energy near the equator"
+  ],
+  "optsHi": [
+   "यह हवा की गति को बदलता है",
+   "यह उत्तरी गोलार्ध में हवा को दाईं ओर विक्षेपित करता है",
+   "यह प्रारंभिक दबाव प्रवणता उत्पन्न करता है",
+   "यह भूमध्य रेखा के पास पवन ऊर्जा को नष्ट करता है"
+  ],
+  "correct": 1,
+  "explainEn": "The Coriolis force deflects winds to the right in the Northern Hemisphere and to the left in the Southern Hemisphere, without affecting wind speed directly.",
+  "sourceHint": "NCERT Class 11 Geography - Atmospheric Circulation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:39:36Z"
+ },
+ {
+  "id": "q_3f0fefcf39184ca4",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organism is primarily responsible for the biological fixation of atmospheric nitrogen in leguminous root nodules?",
+  "qHi": "दलहनी पौधों की जड़ों की गांठों में वायुमंडलीय नाइट्रोजन के जैविक स्थिरीकरण के लिए मुख्य रूप से कौन सा जीव जिम्मेदार है?",
+  "optsEn": [
+   "Azotobacter",
+   "Rhizobium",
+   "Clostridium",
+   "Nitrosomonas"
+  ],
+  "optsHi": [
+   "एज़ोटोबैक्टर",
+   "राइज़ोबियम",
+   "क्लोस्ट्रिडियम",
+   "नाइट्रोसोमोनास"
+  ],
+  "correct": 1,
+  "explainEn": "Rhizobium bacteria form a symbiotic relationship with the root nodules of leguminous plants to fix atmospheric nitrogen.",
+  "sourceHint": "NCERT Class 11 Biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:39:36Z"
+ },
+ {
+  "id": "q_8a9d53a1bd79d68a",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian monetary policy, which institution is legally mandated to regulate inflation targeting under the Reserve Bank of India Act, 1934?",
+  "qHi": "भारतीय मौद्रिक नीति के संदर्भ में, भारतीय रिजर्व बैंक अधिनियम, 1934 के तहत मुद्रास्फीति लक्षित करने के लिए किस संस्था को कानूनी रूप से अधिकृत किया गया है?",
+  "optsEn": [
+   "Ministry of Finance",
+   "Monetary Policy Committee",
+   "NITI Aayog",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "वित्त मंत्रालय",
+   "मौद्रिक नीति समिति",
+   "नीति आयोग",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड"
+  ],
+  "correct": 1,
+  "explainEn": "The Monetary Policy Committee (MPC) was constituted under Section 45ZB of the RBI Act, 1934, to determine the policy interest rate required to achieve the inflation target.",
+  "sourceHint": "RBI Act, 1934 / Ministry of Finance",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:39:36Z"
+ },
+ {
+  "id": "q_e4e9182035a2903c",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who established the Asiatic Society of Bengal in Kolkata in the year 1784?",
+  "qHi": "वर्ष 1784 में कोलकाता में एशियाटिक सोसाइटी ऑफ़ बंगाल की स्थापना किसने की थी?",
+  "optsEn": [
+   "William Jones",
+   "Warren Hastings",
+   "Charles Wilkins",
+   "James Prinsep"
+  ],
+  "optsHi": [
+   "विलियम जोन्स",
+   "वारेन हेस्टिंग्स",
+   "चार्ल्स विल्किंस",
+   "जेम्स प्रिंसेप"
+  ],
+  "correct": 0,
+  "explainEn": "Sir William Jones established the Asiatic Society of Bengal on January 15, 1784, to encourage oriental studies in India.",
+  "sourceHint": "NCERT Class 12 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:39:36Z"
+ },
+ {
+  "id": "q_a2ac621f64035b2c",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which vitamin is chemically known as Cyanocobalamin and contains the transition metal cobalt?",
+  "qHi": "किस विटामिन को रासायनिक रूप से साइनोकोबलामिन के रूप में जाना जाता है और इसमें संक्रमण धातु कोबाल्ट होता है?",
+  "optsEn": [
+   "Vitamin B2",
+   "Vitamin B6",
+   "Vitamin B12",
+   "Vitamin C"
+  ],
+  "optsHi": [
+   "विटामिन बी2",
+   "विटामिन बी6",
+   "विटामिन बी12",
+   "विटामिन सी"
+  ],
+  "correct": 2,
+  "explainEn": "Vitamin B12 is chemically called cyanocobalamin and is unique among vitamins for containing the metal ion cobalt.",
+  "sourceHint": "NCERT Class 12 Chemistry / Biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T21:39:36Z"
  }
 ]
