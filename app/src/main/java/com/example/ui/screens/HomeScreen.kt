@@ -494,7 +494,15 @@ fun HomeScreen(
                         fontSize = 15.sp
                     )
                 )
-            }
+                     val phoneCtx = androidx.compose.ui.platform.LocalContext.current
+            val phoneTestState = androidx.compose.runtime.remember { androidx.compose.runtime.mutableStateOf("") }
+            androidx.compose.material3.OutlinedButton(
+                onClick = { phoneTestState.value = com.example.util.PhoneHealth.testText(com.example.util.PhoneHealth.read(phoneCtx)) },
+                modifier = Modifier.fillMaxWidth().testTag("phone_check_test_button")
+            ) { Text("TEST phone check (battery and temperature)", fontSize = 12.sp) }
+            if (phoneTestState.value.isNotEmpty()) Text(phoneTestState.value, fontSize = 12.sp)
+
+   }
 
             Spacer(modifier = Modifier.height(24.dp))
         }
