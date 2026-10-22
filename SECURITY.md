@@ -1,5 +1,9 @@
 # Security notes - KBC
 
+## Start-up crash hardening and fuller crash reports (v1.1.34)
+
+A crash report from a Pixel 6 Pro (Android 12, v1.1.32) showed the quiz screen failing to start, but the report was cut off before the real cause. Two changes: (1) the speech engine is now created safely, so a phone whose speech service is missing or refuses to connect no longer stops the app from starting (narration is simply off); (2) crash reports keep the root cause (a few frames of each wrapper exception, more frames for the root) within a larger size limit. Reports still hold only class names and code locations, never exception messages. No new permission, library or server. The exact root cause of the Pixel crash is not yet confirmed; the next report will show it.
+
 ## Verified web link (v1.1.33)
 
 The app now declares a verified web link for its own page, https://prayagi-store-and-services.github.io/netra-eco/app/kbc. Android opens the link in the app only when the website's assetlinks.json confirms this app's package and signing certificate; otherwise the link stays in the browser. The link is only an entry point: no screen reads data from it, nothing is stored or sent. No new permission, library or server.
