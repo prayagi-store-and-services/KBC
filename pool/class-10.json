@@ -18478,5 +18478,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-22T04:51:17Z"
+ },
+ {
+  "id": "q_c65232614636dd3b",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which metal is obtained by roasting its sulphide ore directly in air during metallurgical processes?",
+  "qHi": "धातुकर्म प्रक्रियाओं के दौरान किस धातु को उसके सल्फाइड अयस्क को वायु में भूनकर सीधे प्राप्त किया जाता है?",
+  "optsEn": [
+   "Iron",
+   "Mercury",
+   "Aluminum",
+   "Sodium"
+  ],
+  "optsHi": [
+   "लोहा",
+   "पारा",
+   "एल्युमीनियम",
+   "सोडियम"
+  ],
+  "correct": 1,
+  "explainEn": "Mercury is obtained from its sulphide ore, cinnabar, by simply heating (roasting) it in air, which converts it to mercurial oxide and then decomposes.",
+  "sourceHint": "NCERT Science Class 10, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:56:33Z"
+ },
+ {
+  "id": "q_291937d0e3ecfa27",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the human digestive system, which enzyme present in pancreatic juice helps in the breakdown of emulsified fats?",
+  "qHi": "मानव पाचन तंत्र में, अग्न्याशय रस में मौजूद कौन सा एंजाइम पायसीकृत वसा को तोड़ने में मदद करता है?",
+  "optsEn": [
+   "Pepsin",
+   "Trypsin",
+   "Amylase",
+   "Lipase"
+  ],
+  "optsHi": [
+   "पेप्सिन",
+   "ट्रिप्सिन",
+   "एमाइलेज",
+   "लाइपेज"
+  ],
+  "correct": 3,
+  "explainEn": "Lipase is the enzyme responsible for breaking down emulsified fats into fatty acids and glycerol in the small intestine.",
+  "sourceHint": "NCERT Science Class 10, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:56:33Z"
+ },
+ {
+  "id": "q_9d825a4639999ba1",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which soil type is formed by the weathering of lava rocks and is well-known for growing cotton?",
+  "qHi": "लावा चट्टानों के अपक्षय से किस प्रकार की मिट्टी बनती है और जो कपास उगाने के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Laterite soil",
+   "Alluvial soil",
+   "Black soil",
+   "Red soil"
+  ],
+  "optsHi": [
+   "लैटेराइट मिट्टी",
+   "जलोढ़ मिट्टी",
+   "काली मिट्टी",
+   "लाल मिट्टी"
+  ],
+  "correct": 2,
+  "explainEn": "Black soil, also known as regur soil, is ideal for growing cotton and is formed from volcanic lava rocks in the Deccan trap region.",
+  "sourceHint": "NCERT Geography Class 10, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:56:33Z"
+ },
+ {
+  "id": "q_54abf67270e8de17",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the carbon cycle, which process removes carbon dioxide from the atmosphere?",
+  "qHi": "कार्बन चक्र के संदर्भ में, कौन सी प्रक्रिया वायुमंडल से कार्बन डाइऑक्साइड को हटाती है?",
+  "optsEn": [
+   "Respiration",
+   "Photosynthesis",
+   "Combustion",
+   "Decomposition"
+  ],
+  "optsHi": [
+   "श्वसन",
+   "प्रकाश संश्लेषण",
+   "दहन",
+   "अपघटन"
+  ],
+  "correct": 1,
+  "explainEn": "Photosynthesis is the biological process used by plants to convert carbon dioxide and water into glucose and oxygen, thereby removing CO2 from the atmosphere.",
+  "sourceHint": "NCERT Class 10 Science Chapter 6 Life Processes",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:57:37Z"
+ },
+ {
+  "id": "q_e975a3068c13dbfc",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the resistance of an ideal voltmeter?",
+  "qHi": "एक आदर्श वोल्टमीटर का प्रतिरोध कितना होता है?",
+  "optsEn": [
+   "Zero",
+   "Infinite",
+   "Low",
+   "Equal to the circuit resistance"
+  ],
+  "optsHi": [
+   "शून्य",
+   "अनंत",
+   "कम",
+   "परिपथ प्रतिरोध के बराबर"
+  ],
+  "correct": 1,
+  "explainEn": "An ideal voltmeter has infinite resistance so that it draws no current from the circuit and measures the exact potential difference.",
+  "sourceHint": "NCERT Class 10 Science Chapter 12 Electricity",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:57:37Z"
+ },
+ {
+  "id": "q_d426f7e7993e1c88",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the non-cooperation movement, which social group in Awadh was led by Baba Ramchandra against landlords?",
+  "qHi": "असहयोग आंदोलन के दौरान, अवध में ज़मींदार के खिलाफ बाबा रामचन्द्र के नेतृत्व में कौन सा सामाजिक समूह था?",
+  "optsEn": [
+   "Plantation workers",
+   "Tribal peasants",
+   "Awadh peasants",
+   "Industrial workers"
+  ],
+  "optsHi": [
+   "बगान मजदूर",
+   "आदिवासी किसान",
+   "अवध के किसान",
+   "औद्योगिक श्रमिक"
+  ],
+  "correct": 2,
+  "explainEn": "In Awadh, peasants were led by Baba Ramchandra against talukdars and landlords who demanded exorbitantly high rents.",
+  "sourceHint": "NCERT Class 10 History Chapter 3 Nationalism in India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:57:37Z"
+ },
+ {
+  "id": "q_de4cbebc507c0acd",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which compound is formed when ethanol is heated with excess concentrated sulfuric acid at 443 K?",
+  "qHi": "जब एथेनॉल को 443 केल्विन पर अतिरिक्त सांद्र सल्फ्यूरिक एसिड के साथ गर्म किया जाता है तो कौन सा यौगिक बनता है?",
+  "optsEn": [
+   "Ethanoic acid",
+   "Ethene",
+   "Ethane",
+   "Ethyl ethanoate"
+  ],
+  "optsHi": [
+   "एथेनोइक एसिड",
+   "एथीन",
+   "एथेन",
+   "एथिल एथेनोएट"
+  ],
+  "correct": 1,
+  "explainEn": "Hot concentrated sulfuric acid acts as a dehydrating agent and removes water from ethanol to form ethene.",
+  "sourceHint": "NCERT Class 10 Science Chapter 4 Carbon and its Compounds",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:57:37Z"
+ },
+ {
+  "id": "q_d54d6fed1b059d49",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which institution releases the Human Development Report (HDR) globally?",
+  "qHi": "वैश्विक स्तर पर मानव विकास रिपोर्ट (HDR) कौन सी संस्था जारी करती है?",
+  "optsEn": [
+   "World Bank",
+   "UNESCO",
+   "United Nations Development Programme",
+   "World Health Organization"
+  ],
+  "optsHi": [
+   "विश्व बैंक",
+   "यूनेस्को",
+   "संयुक्त राष्ट्र विकास कार्यक्रम",
+   "विश्व स्वास्थ्य संगठन"
+  ],
+  "correct": 2,
+  "explainEn": "The United Nations Development Programme (UNDP) has published the Human Development Report annually since 1990.",
+  "sourceHint": "NCERT Class 10 Economics Chapter 1 Development",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:57:37Z"
+ },
+ {
+  "id": "q_a7b2404a42abdcd4",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of lens is used to correct myopia (near-sightedness)?",
+  "qHi": "निकट दृष्टि दोष (मायोपिया) को ठीक करने के लिए किस प्रकार के लेंस का उपयोग किया जाता है?",
+  "optsEn": [
+   "Concave lens",
+   "Convex lens",
+   "Bifocal lens",
+   "Cylindrical lens"
+  ],
+  "optsHi": [
+   "अवतल लेंस",
+   "उत्तल लेंस",
+   "द्वifocal लेंस",
+   "बेलनाकार लेंस"
+  ],
+  "correct": 0,
+  "explainEn": "A concave lens of suitable power is used to diverge the incoming light rays so that the image is formed on the retina.",
+  "sourceHint": "NCERT Class 10 Science Chapter 11 Human Eye and Colorful World",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:57:37Z"
  }
 ]

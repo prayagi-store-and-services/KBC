@@ -13942,5 +13942,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-22T04:50:51Z"
+ },
+ {
+  "id": "q_ffcccad4c9027eb0",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which historical monument is known as the symbol of love and built by Emperor Shah Jahan?",
+  "qHi": "किस ऐतिहासिक स्मारक को प्रेम का प्रतीक माना जाता है और इसे सम्राट शाहजहाँ ने बनवाया था?",
+  "optsEn": [
+   "Qutub Minar",
+   "Red Fort",
+   "Taj Mahal",
+   "Hawa Mahal"
+  ],
+  "optsHi": [
+   "कुतुब मीनार",
+   "लाल किला",
+   "ताज महल",
+   "हवा महल"
+  ],
+  "correct": 2,
+  "explainEn": "The Taj Mahal in Agra was commissioned by Mughal Emperor Shah Jahan as a mausoleum for his wife Mumtaz Mahal.",
+  "sourceHint": "NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:54:59Z"
+ },
+ {
+  "id": "q_43a3d8a471439c52",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the minimum age requirement for a person to be elected as a member of the Lok Sabha in India?",
+  "qHi": "भारत में लोकसभा के सदस्य के रूप में चुने जाने के लिए व्यक्ति की न्यूनतम आयु सीमा क्या है?",
+  "optsEn": [
+   "21 years",
+   "25 years",
+   "30 years",
+   "35 years"
+  ],
+  "optsHi": [
+   "21 वर्ष",
+   "25 वर्ष",
+   "30 वर्ष",
+   "35 वर्ष"
+  ],
+  "correct": 1,
+  "explainEn": "According to Article 84 of the Constitution, the minimum age for Lok Sabha is 25 years.",
+  "sourceHint": "Constitution of India, Article 84",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:54:59Z"
+ },
+ {
+  "id": "q_0ea5701b511bfc82",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas makes up the largest share of Earth's atmosphere by volume?",
+  "qHi": "आयतन के हिसाब से पृथ्वी के वायुमंडल में किस गैस की हिस्सेदारी सबसे अधिक है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "आर्गन"
+  ],
+  "correct": 2,
+  "explainEn": "Nitrogen constitutes about 78 percent of Earth's atmosphere by volume.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:54:59Z"
+ },
+ {
+  "id": "q_6145642b8745e6dc",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which amendment of the Indian Constitution lowered the voting age from 21 years to 18 years?",
+  "qHi": "भारतीय संविधान के किस संशोधन द्वारा मतदान की आयु 21 वर्ष से घटाकर 18 वर्ष कर दी गई थी?",
+  "optsEn": [
+   "42nd Amendment",
+   "44th Amendment",
+   "61st Amendment",
+   "73rd Amendment"
+  ],
+  "optsHi": [
+   "42वां संशोधन",
+   "44वां संशोधन",
+   "61वां संशोधन",
+   "73वां संशोधन"
+  ],
+  "correct": 2,
+  "explainEn": "The 61st Constitutional Amendment Act, 1988, lowered the voting age of elections to the Lok Sabha and Legislative Assemblies from 21 to 18 years.",
+  "sourceHint": "Indian Polity by M. Laxmikanth",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:56:51Z"
+ },
+ {
+  "id": "q_a9c2f04a24379270",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which state is the Loktak Lake, famous for its floating phumdis, situated?",
+  "qHi": "अपने तैरते हुए फुमदी के लिए प्रसिद्ध लोकतक झील किस राज्य में स्थित है?",
+  "optsEn": [
+   "Assam",
+   "Manipur",
+   "Meghalaya",
+   "Sikkim"
+  ],
+  "optsHi": [
+   "असम",
+   "मणिपुर",
+   "मेघालय",
+   "सिक्किम"
+  ],
+  "correct": 1,
+  "explainEn": "Loktak Lake is the largest freshwater lake in Northeast India, located in Manipur, and is famous for the phumdis (floating heterogeneous mass of vegetation) floating over it.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:56:51Z"
+ },
+ {
+  "id": "q_ccb8e44ead0fc73d",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which metal is commonly known as quicksilver due to its liquid state at room temperature?",
+  "qHi": "किस धातु को कमरे के तापमान पर उसकी तरल अवस्था के कारण सामान्यतः क्विकसिलवर कहा जाता है?",
+  "optsEn": [
+   "Gallium",
+   "Mercury",
+   "Bromine",
+   "Cadmium"
+  ],
+  "optsHi": [
+   "गैलियम",
+   "पारा (मर्करी)",
+   "ब्रोमीन",
+   "कैडमियम"
+  ],
+  "correct": 1,
+  "explainEn": "Mercury is a chemical element with the symbol Hg and atomic number 80. It is heavily known as quicksilver and is liquid at standard temperature and pressure.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:56:51Z"
  }
 ]

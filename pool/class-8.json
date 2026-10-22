@@ -14642,5 +14642,341 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-22T04:51:11Z"
+ },
+ {
+  "id": "q_cb66acea8b774ef8",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the standard unit of force in the SI system?",
+  "qHi": "SI प्रणाली में बल की मानक इकाई क्या है?",
+  "optsEn": [
+   "Joule",
+   "Pascal",
+   "Newton",
+   "Watt"
+  ],
+  "optsHi": [
+   "जूल",
+   "पास्कल",
+   "न्यूटन",
+   "वाट"
+  ],
+  "correct": 2,
+  "explainEn": "The SI unit of force is the newton, named after Sir Isaac Newton.",
+  "sourceHint": "NCERT Class 8 Science Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:54:41Z"
+ },
+ {
+  "id": "q_7fab8d50ac79fed7",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which crop is known as 'Golden Fibre' in agriculture?",
+  "qHi": "कृषि में किस फसल को 'सुनहरा रेशा' कहा जाता है?",
+  "optsEn": [
+   "Cotton",
+   "Jute",
+   "Silk",
+   "Wool"
+  ],
+  "optsHi": [
+   "कपास",
+   "जूट",
+   "रेशम",
+   "ऊन"
+  ],
+  "correct": 1,
+  "explainEn": "Jute is commonly referred to as the golden fibre due to its color and high cash value.",
+  "sourceHint": "NCERT Class 8 Geography Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:54:41Z"
+ },
+ {
+  "id": "q_d3362de750bddac7",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which planet in our solar system has a prominent system of rings made of ice and dust?",
+  "qHi": "हमारे सौर मंडल के किस ग्रह पर बर्फ और धूल से बने छल्लों की एक प्रमुख प्रणाली है?",
+  "optsEn": [
+   "Mars",
+   "Venus",
+   "Saturn",
+   "Mercury"
+  ],
+  "optsHi": [
+   "मंगल",
+   "शुक्र",
+   "शनि",
+   "बुध"
+  ],
+  "correct": 2,
+  "explainEn": "Saturn is well-known for its extensive and bright ring system composed mostly of ice particles and rocky debris.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:56:16Z"
+ },
+ {
+  "id": "q_693b433016954eb5",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of farming involves growing crops and rearing animals on the same agricultural land?",
+  "qHi": "किस प्रकार की खेती में एक ही कृषि भूमि पर फसल उगाना और पशुपालन करना शामिल है?",
+  "optsEn": [
+   "Shifting cultivation",
+   "Mixed farming",
+   "Commercial grain farming",
+   "Nomadic herding"
+  ],
+  "optsHi": [
+   "स्थानांतरित कृषि",
+   "मिश्रित कृषि",
+   "वाणिज्यिक अनाज खेती",
+   "घुमंतू पशुचारण"
+  ],
+  "correct": 1,
+  "explainEn": "In mixed farming, the land is used for growing crops as well as rearing livestock simultaneously.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:56:16Z"
+ },
+ {
+  "id": "q_a1e891b266c695e1",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which textile region in Britain during the Industrial Revolution was famously known as 'Cottonopolis'?",
+  "qHi": "औद्योगिक क्रांति के दौरान ब्रिटेन का कौन सा कपड़ा क्षेत्र 'कटनोपोलिस' के नाम से प्रसिद्ध था?",
+  "optsEn": [
+   "London",
+   "Manchester",
+   "Sheffield",
+   "Glasgow"
+  ],
+  "optsHi": [
+   "लंदन",
+   "मैंचेस्टर",
+   "शेफ़ील्ड",
+   "ग्लासगो"
+  ],
+  "correct": 1,
+  "explainEn": "Manchester was the world's first industrialised city and a global center of the cotton textile trade, earning the nickname Cottonopolis.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:56:16Z"
+ },
+ {
+  "id": "q_d76ff8d16a6e5666",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which planet in our solar system has a rotational period that is longer than its orbital period around the Sun?",
+  "qHi": "हमारे सौरमंडल में किस ग्रह का घूर्णन काल सूर्य के चारों ओर उसके परिक्रमण काल से अधिक है?",
+  "optsEn": [
+   "Venus",
+   "Mars",
+   "Jupiter",
+   "Saturn"
+  ],
+  "optsHi": [
+   "शुक्र",
+   "मंगल",
+   "बृहस्पति",
+   "शनि"
+  ],
+  "correct": 0,
+  "explainEn": "Venus takes about 243 Earth days to rotate on its axis, while it takes about 225 Earth days to complete one orbit around the Sun.",
+  "sourceHint": "NCERT Class 8 Science Chapter 17",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:57:11Z"
+ },
+ {
+  "id": "q_85be2256c69e24dc",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During which phase of the Indian freedom struggle was the Vernacular Press Act enacted?",
+  "qHi": "भारतीय स्वतंत्रता संग्राम के किस चरण के दौरान वर्नाकुलर प्रेस अधिनियम (Vernacular Press Act) पारित किया गया था?",
+  "optsEn": [
+   "Revolt of 1857",
+   "Partition of Bengal",
+   "Second Anglo-Maratha War",
+   "The British Crown administration period"
+  ],
+  "optsHi": [
+   "1857 का विद्रोह",
+   "बंगाल का विभाजन",
+   "द्वितीय आंग्ल-मराठा युद्ध",
+   "ब्रिटिश क्राउन प्रशासन काल"
+  ],
+  "correct": 3,
+  "explainEn": "The Vernacular Press Act was enacted in 1878 under the Viceroyalty of Lord Lytton, which falls under the British Crown administration period.",
+  "sourceHint": "NCERT Class 8 History Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:57:11Z"
+ },
+ {
+  "id": "q_346d52c2a39ae06e",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which soil type, formed from the weathering of lava rocks, is predominantly found in the northwestern part of the Deccan plateau?",
+  "qHi": "लावा चट्टानों के अपक्षय से बनी कौन सी मिट्टी दक्कन के पठार के उत्तर-पश्चिम भाग में प्रमुख रूप से पाई जाती है?",
+  "optsEn": [
+   "Laterite soil",
+   "Alluvial soil",
+   "Black soil",
+   "Red soil"
+  ],
+  "optsHi": [
+   "लैटेराइट मिट्टी",
+   "जलोढ़ मिट्टी",
+   "काली मिट्टी",
+   "लाल मिट्टी"
+  ],
+  "correct": 2,
+  "explainEn": "Black soil, also known as regur soil, is formed from the weathering of basaltic lava rocks and covers the northwestern Deccan plateau.",
+  "sourceHint": "NCERT Class 8 Geography Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:57:11Z"
+ },
+ {
+  "id": "q_44c9bb87cf804313",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary cellular organelle responsible for the conversion of biochemical energy from nutrients into ATP in eukaryotic cells?",
+  "qHi": "यूकेरियोटिक कोशिकाओं में पोषक तत्वों से जैव रासायनिक ऊर्जा को एटीपी (ATP) में बदलने के लिए मुख्य रूप से कौन सा कोशिका अंगक जिम्मेदार है?",
+  "optsEn": [
+   "Ribosome",
+   "Golgi apparatus",
+   "Mitochondria",
+   "Endoplasmic reticulum"
+  ],
+  "optsHi": [
+   "राइबोसोम",
+   "गाल्जी बॉडी",
+   "माइटोकॉन्ड्रिया",
+   "एंडोप्लाज्मिक रेटिकुलम"
+  ],
+  "correct": 2,
+  "explainEn": "Mitochondria are known as the powerhouses of the cell because they generate most of the chemical energy needed to power biochemical reactions.",
+  "sourceHint": "NCERT Class 8 Science Chapter 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:57:11Z"
+ },
+ {
+  "id": "q_f73c55c0112bf33d",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional water harvesting structure is primarily associated with the arid region of Rajasthan?",
+  "qHi": "कौन सी पारंपरिक जल संचयन संरचना मुख्य रूप से राजस्थान के शुष्क क्षेत्र से जुड़ी हुई है?",
+  "optsEn": [
+   "Zing",
+   "Johad",
+   "Kulam",
+   "Eri"
+  ],
+  "optsHi": [
+   "जिंग",
+   "जोहड़",
+   "कुलम",
+   "एरी"
+  ],
+  "correct": 1,
+  "explainEn": "Johads are traditional earthen check dams built in Rajasthan to collect and harvest rainwater, helping to recharge groundwater.",
+  "sourceHint": "NCERT Class 8 Geography Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:57:11Z"
+ },
+ {
+  "id": "q_c6233c84f1750e1a",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the process of electroplating an object with copper, what is typically used as the electrolyte solution?",
+  "qHi": "तांबे के साथ किसी वस्तु के विद्युत लेपन (इलेक्ट्रोप्लेटिंग) की प्रक्रिया में, आमतौर पर इलेक्ट्रोलाइट घोल के रूप में किसका उपयोग किया जाता है?",
+  "optsEn": [
+   "Copper sulphate solution",
+   "Sodium chloride solution",
+   "Dilute hydrochloric acid",
+   "Zinc sulphate solution"
+  ],
+  "optsHi": [
+   "कॉपर सल्फेट विलयन",
+   "सोडियम क्लोराइड विलयन",
+   "तनु हाइड्रोक्लोरिक एसिड",
+   "जिंक सल्फेट विलयन"
+  ],
+  "correct": 0,
+  "explainEn": "When electric current is passed through the copper sulphate solution, copper ions dissociate and get deposited on the object being electroplated.",
+  "sourceHint": "NCERT Class 8 Science Chapter 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:57:11Z"
+ },
+ {
+  "id": "q_6a5e1ace3bdfaf80",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which tribal leader led the famous Ulgulan (Great Tumult) uprising against the British and landlords in the Chotanagpur region?",
+  "qHi": "छोटा नागपुर क्षेत्र में अंग्रेजों और जमींदारों के खिलाफ प्रसिद्ध उलगुलान (महान हलचल) विद्रोह का नेतृत्व किस आदिवासी नेता ने किया था?",
+  "optsEn": [
+   "Birsa Munda",
+   "Sidhu Murmu",
+   "Alluri Sitarama Raju",
+   "Tantia Bhil"
+  ],
+  "optsHi": [
+   "बिरसा मुंडा",
+   "सिद्धू मुर्मू",
+   "अल्लूरी सीताराम राजू",
+   "तांत्या भील"
+  ],
+  "correct": 0,
+  "explainEn": "Birsa Munda led the Ulgulan movement in the late 19th century against British land policies and the exploitation by dikus (outsiders) in the Chotanagpur region.",
+  "sourceHint": "NCERT Class 8 History Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:57:11Z"
  }
 ]

@@ -13690,5 +13690,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-22T04:51:01Z"
+ },
+ {
+  "id": "q_25bd8cd9a5748a4a",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who designed the current national flag of India, featuring the Ashoka Chakra in the center?",
+  "qHi": "केंद्र में अशोक चक्र वाले भारत के वर्तमान राष्ट्रीय ध्वज को किसने डिज़ाइन किया था?",
+  "optsEn": [
+   "Pingali Venkayya",
+   "Bankim Chandra Chatterjee",
+   "Rabindranath Tagore",
+   "Subhas Chandra Bose"
+  ],
+  "optsHi": [
+   "पिंगल वेंकैया",
+   "बंकिम चंद्र चटर्जी",
+   "रवींद्रनाथ टैगोर",
+   "सुभाष चंद्र बोस"
+  ],
+  "correct": 0,
+  "explainEn": "Pingali Venkayya is credited with designing the flag on which the current Indian national flag is based.",
+  "sourceHint": "NCERT textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:57:01Z"
+ },
+ {
+  "id": "q_8473650e68ac35e1",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which classical dance form originates from the state of Kerala and is known for elaborate makeup and costumes?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप केरल राज्य से उत्पन्न हुआ है और विस्तृत मेकअप और वेशभूषा के लिए जाना जाता है?",
+  "optsEn": [
+   "Kathakali",
+   "Bharatanatyam",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "कथकली",
+   "भरतनाट्यम",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 0,
+  "explainEn": "Kathakali is a classical Indian dance-drama known for its attractive make-up of characters, elaborate costumes, and face masks.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:57:01Z"
+ },
+ {
+  "id": "q_789f859083829865",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary law-making body at the national level in the Republic of India?",
+  "qHi": "भारतीय गणराज्य में राष्ट्रीय स्तर पर प्राथमिक कानून बनाने वाली संस्था कौन सी है?",
+  "optsEn": [
+   "Parliament",
+   "Supreme Court",
+   "NITI Aayog",
+   "Union Cabinet"
+  ],
+  "optsHi": [
+   "संसद",
+   "उच्चतम न्यायालय",
+   "नीति आयोग",
+   "केंद्रीय मंत्रिमंडल"
+  ],
+  "correct": 0,
+  "explainEn": "The Parliament of India is the supreme legislative body of the Republic of India.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:57:01Z"
+ },
+ {
+  "id": "q_4a988079bbd005da",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the standard chemical formula for table salt?",
+  "qHi": "साधारण नमक का मानक रासायनिक सूत्र क्या है?",
+  "optsEn": [
+   "NaCl",
+   "H2O",
+   "CO2",
+   "NaOH"
+  ],
+  "optsHi": [
+   "NaCl",
+   "H2O",
+   "CO2",
+   "NaOH"
+  ],
+  "correct": 0,
+  "explainEn": "Sodium chloride, commonly known as salt, has the chemical formula NaCl.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:57:01Z"
  }
 ]

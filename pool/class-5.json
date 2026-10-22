@@ -19066,5 +19066,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-22T04:51:06Z"
+ },
+ {
+  "id": "q_f20de9912387c4f1",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of animal is a frog?",
+  "qHi": "मेंढक किस प्रकार का जानवर है?",
+  "optsEn": [
+   "Mammal",
+   "Bird",
+   "Amphibian",
+   "Reptile"
+  ],
+  "optsHi": [
+   "स्तनधारी",
+   "पक्षी",
+   "उभयचर",
+   "सरीसृप"
+  ],
+  "correct": 2,
+  "explainEn": "Frogs are amphibians because they can live both in water and on land.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:56:12Z"
+ },
+ {
+  "id": "q_bedae98ae59a66c7",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the main function of white blood cells in the human body?",
+  "qHi": "मानव शरीर में श्वेत रक्त कोशिकाओं का मुख्य कार्य क्या है?",
+  "optsEn": [
+   "To carry oxygen",
+   "To fight against germs and diseases",
+   "To digest food",
+   "To pump blood"
+  ],
+  "optsHi": [
+   "ऑक्सीजन ले जाना",
+   "कीटाणुओं और बीमारियों से लड़ना",
+   "भोजन पचाना",
+   "रक्त पंप करना"
+  ],
+  "correct": 1,
+  "explainEn": "White blood cells are part of the immune system and help the body fight infections and diseases.",
+  "sourceHint": "NCERT Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:57:05Z"
+ },
+ {
+  "id": "q_85c83540bc56350a",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which sense organ helps snakes perceive vibrations in the ground?",
+  "qHi": "कौन सा अंग साँपों को जमीन पर होने वाले कंपनों को महसूस करने में मदद करता है?",
+  "optsEn": [
+   "Eyes",
+   "Skin",
+   "Ears",
+   "Nose"
+  ],
+  "optsHi": [
+   "आँखें",
+   "त्वचा",
+   "कान",
+   "नाक"
+  ],
+  "correct": 1,
+  "explainEn": "Snakes do not have external ears, so they feel vibrations in the ground through their skin and bones.",
+  "sourceHint": "NCERT Class 5 EVS Chapter A Snake Charmer's Story",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:57:05Z"
  }
 ]

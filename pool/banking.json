@@ -21782,5 +21782,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-22T04:50:56Z"
+ },
+ {
+  "id": "q_cdb71de8558ce0c6",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a cashless retail payment system operated by NPCI in India?",
+  "qHi": "निम्नलिखित में से कौन सी भारत में NPCI द्वारा संचालित कैशलेस खुदरा भुगतान प्रणाली है?",
+  "optsEn": [
+   "Unified Payments Interface",
+   "Real Time Gross Settlement",
+   "National Electronic Funds Transfer",
+   "Central Bank Digital Currency"
+  ],
+  "optsHi": [
+   "यूनिफाइड पेमेंट इंटरफेस",
+   "रियल टाइम ग्रॉस सेटलमेंट",
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "सेंट्रल बैंक डिजिटल करेंसी"
+  ],
+  "correct": 0,
+  "explainEn": "Unified Payments Interface (UPI) is an instant real-time payment system developed by the National Payments Corporation of India (NPCI).",
+  "sourceHint": "NPCI Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:55:04Z"
+ },
+ {
+  "id": "q_ced4a69a8b08dc56",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of account typically offers higher interest rates and is meant for individuals to park their savings?",
+  "qHi": "किस प्रकार के खाते में आम तौर पर अधिक ब्याज दर मिलती है और यह व्यक्तियों के लिए अपनी बचत जमा करने के लिए होता है?",
+  "optsEn": [
+   "Savings Account",
+   "Current Account",
+   "Overdraft Account",
+   "Interbank Account"
+  ],
+  "optsHi": [
+   "बचत खाता",
+   "चालू खाता",
+   "ओवरड्राफ्ट खाता",
+   "इंटरबैंक खाता"
+  ],
+  "correct": 0,
+  "explainEn": "A savings account is designed for individuals to deposit their liquid savings while earning a modest interest, unlike current accounts which generally offer no interest.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:55:04Z"
+ },
+ {
+  "id": "q_33e3b6c6b260ab22",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is an example of a direct tax in India?",
+  "qHi": "निम्नलिखित में से कौन सा भारत में प्रत्यक्ष कर का एक उदाहरण है?",
+  "optsEn": [
+   "Goods and Services Tax",
+   "Customs Duty",
+   "Income Tax",
+   "Excise Duty"
+  ],
+  "optsHi": [
+   "वस्तु and सेवा कर",
+   "सीमा शुल्क",
+   "आयकर",
+   "उत्पाद शुल्क"
+  ],
+  "correct": 2,
+  "explainEn": "Income tax is a direct tax because the burden of paying it falls directly on the person or entity upon whom it is levied.",
+  "sourceHint": "Central Board of Direct Taxes (CBDT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:56:56Z"
+ },
+ {
+  "id": "q_0694e7550c3fc688",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of the Monetary Policy Committee (MPC) in India?",
+  "qHi": "भारत में मौद्रिक नीति समिति (MPC) का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To fix corporate tax rates",
+   "To maintain price stability while keeping in mind growth",
+   "To manage foreign exchange reserves of commercial banks",
+   "To audit government expenditure"
+  ],
+  "optsHi": [
+   "कॉर्पोरेट कर की दरें तय करना",
+   "विकास को ध्यान में रखते हुए मूल्य स्थिरता बनाए रखना",
+   "वाणिज्यिक बैंकों के विदेशी मुद्रा भंडार का प्रबंधन करना",
+   "सरकारी खर्च का लेखा-परीक्षण करना"
+  ],
+  "correct": 1,
+  "explainEn": "The primary objective of the MPC is price stability while keeping in mind the objective of growth, as mandated by the RBI Act, 1934.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:56:56Z"
+ },
+ {
+  "id": "q_58333676bf1f989b",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian organization operates the Unified Payments Interface (UPI)?",
+  "qHi": "कौन सा भारतीय संगठन एकीकृत भुगतान इंटरफेस (UPI) संचालित करता है?",
+  "optsEn": [
+   "National Payments Corporation of India",
+   "Small Industries Development Bank of India",
+   "Export-Import Bank of India",
+   "National Housing Bank"
+  ],
+  "optsHi": [
+   "भारतीय राष्ट्रीय भुगतान निगम",
+   "भारतीय लघु उद्योग विकास बैंक",
+   "भारतीय निर्यात-आयात बैंक",
+   "राष्ट्रीय आवास बैंक"
+  ],
+  "correct": 0,
+  "explainEn": "NPCI is an umbrella organization for operating retail payments and settlement systems in India, including UPI and IMPS.",
+  "sourceHint": "NPCI Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:56:56Z"
+ },
+ {
+  "id": "q_8f6824b3a2fb14a4",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What term is used to describe the rate at which the Reserve Bank of India lends short-term money to commercial banks?",
+  "qHi": "भारतीय रिजर्व बैंक वाणिज्यिक बैंकों को अल्पकालिक धन जिस दर पर उधार देता है, उसे वर्णित करने के लिए किस शब्द का उपयोग किया जाता है?",
+  "optsEn": [
+   "Bank Rate",
+   "Repo Rate",
+   "Reverse Repo Rate",
+   "Statutory Liquidity Ratio"
+  ],
+  "optsHi": [
+   "बैंक दर",
+   "रेपो रेट",
+   "रिवर्स रेपो रेट",
+   "वैधानिक तरलता अनुपात"
+  ],
+  "correct": 1,
+  "explainEn": "Repo rate is the interest rate at which the central bank lends money to commercial banks in the event of any shortfall of funds.",
+  "sourceHint": "RBI Monetary Policy Department",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:56:56Z"
+ },
+ {
+  "id": "q_5a0dfd5961f6cea0",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under which schedule of the Indian Constitution are the powers, authority, and responsibilities of Municipalities listed?",
+  "qHi": "भारतीय संविधान की किस अनुसूची के अंतर्गत नगर पालिकाओं की शक्तियों, अधिकार और उत्तरदायित्वों को सूचीबद्ध किया गया है?",
+  "optsEn": [
+   "Eighth Schedule",
+   "Ninth Schedule",
+   "Eleventh Schedule",
+   "Twelfth Schedule"
+  ],
+  "optsHi": [
+   "आठवीं अनुसूची",
+   "नौवीं अनुसूची",
+   "ग्यारहवीं अनुसूची",
+   "बारहवीं अनुसूची"
+  ],
+  "correct": 3,
+  "explainEn": "The Twelfth Schedule, added by the 74th Constitutional Amendment Act, contains the powers and responsibilities of Municipalities.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-22T11:56:56Z"
  }
 ]
