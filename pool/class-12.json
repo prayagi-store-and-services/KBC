@@ -21222,5 +21222,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-22T21:39:04Z"
+ },
+ {
+  "id": "q_c7fdd32e438b1882",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the famous historical text 'Ain-i-Akbari'?",
+  "qHi": "प्रसिद्ध ऐतिहासिक ग्रंथ 'आईने अकबरी' के लेखक कौन थे?",
+  "optsEn": [
+   "Abul Fazl",
+   "Badauni",
+   "Faizi",
+   "Abdu'l-Qadir"
+  ],
+  "optsHi": [
+   "अुल फज़ल",
+   "बदायूँनी",
+   "फैजी",
+   "अब्दुल कादिर"
+  ],
+  "correct": 0,
+  "explainEn": "Ain-i-Akbari is the 16th-century detailed document recording the administration of the Mughal Empire under Emperor Akbar, written by his court historian Abul Fazl.",
+  "sourceHint": "NCERT Class 12 History, Theme 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:51:52Z"
+ },
+ {
+  "id": "q_45cd52716b549d3c",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which transition metal complex exhibits optical isomerism among the following?",
+  "qHi": "निम्नलिखित में से कौन सा संक्रमण धातु संकुल ऑप्टिकल समवयवता (isomerism) प्रदर्शित करता है?",
+  "optsEn": [
+   "[Co(en)3]3+",
+   "[Co(NH3)6]3+",
+   "[CoCl(NH3)5]2+",
+   "[PtCl4]2-"
+  ],
+  "optsHi": [
+   "[Co(en)3]3+",
+   "[Co(NH3)6]3+",
+   "[CoCl(NH3)5]2+",
+   "[PtCl4]2-"
+  ],
+  "correct": 0,
+  "explainEn": "The complex [Co(en)3]3+ contains a didentate ligand ('en') and lacks a plane of symmetry, making it optically active.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:33Z"
+ },
+ {
+  "id": "q_5ec8d2c4fd189681",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which economic sector does forestry primarily fall under according to standard classifications?",
+  "qHi": "मानक वर्गीकरण के अनुसार वानिकी मुख्य रूप से किस आर्थिक क्षेत्र के अंतर्गत आती है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Quaternary sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "तृतीयक क्षेत्र",
+   "चतुर्थक क्षेत्र"
+  ],
+  "correct": 0,
+  "explainEn": "Primary sector activities include agriculture, forestry, fishing, and mining, which involve extracting natural resources.",
+  "sourceHint": "NCERT Class 12 Geography, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:33Z"
+ },
+ {
+  "id": "q_cec20bb33888c0b7",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which enzyme is primarily responsible for atmospheric nitrogen fixation in nitrogen-fixing bacteria?",
+  "qHi": "नाइट्रोजन स्थिरीकरण करने वाले बैक्टीरिया में वायुमंडलीय नाइट्रोजन स्थिरीकरण के लिए मुख्य रूप से कौन सा एंजाइम जिम्मेदार है?",
+  "optsEn": [
+   "RNA polymerase",
+   "Nitrogenase",
+   "DNA ligase",
+   "Hexokinase"
+  ],
+  "optsHi": [
+   "आरएनए पोलीमरेज़",
+   "नाइट्रोजनेज",
+   "डीएनए लाइगेज़",
+   "हेक्सोकाइनेज"
+  ],
+  "correct": 1,
+  "explainEn": "The enzyme nitrogenase catalyzes the conversion of atmospheric nitrogen to ammonia in biological nitrogen fixation.",
+  "sourceHint": "NCERT Class 11 Biology, Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:33Z"
+ },
+ {
+  "id": "q_f75c500905464536",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of chemical reaction is the conversion of an alkyl halide to an alcohol using aqueous sodium hydroxide?",
+  "qHi": "जलीय सोडियम हाइड्रॉक्साइड का उपयोग करके एल्काइल हैलाइड को अल्कोहल में बदलना किस प्रकार की रासायनिक प्रतिक्रिया है?",
+  "optsEn": [
+   "Electrophilic addition",
+   "Nucleophilic substitution",
+   "Free radical substitution",
+   "Electrophilic elimination"
+  ],
+  "optsHi": [
+   "इलेक्ट्रॉफिलिक योग",
+   "न्यूक्लियोफिलिक प्रतिस्थापन",
+   "मुक्त मूलक प्रतिस्थापन",
+   "इलेक्ट्रॉफिलिक विलोपन"
+  ],
+  "correct": 1,
+  "explainEn": "The hydroxide ion acts as a nucleophile and substitutes the halide ion in the alkyl halide, making it a nucleophilic substitution reaction.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:33Z"
+ },
+ {
+  "id": "q_95481d9cd90e10b8",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which greenhouse gas has the highest relative contribution to global warming among anthropogenic emissions?",
+  "qHi": "मानवजनित उत्सर्जन में वैश्विक वार्मिंग में किस ग्रीनहाउस गैस का सापेक्ष योगदान सबसे अधिक है?",
+  "optsEn": [
+   "Methane",
+   "Nitrous oxide",
+   "Carbon dioxide",
+   "CFCs"
+  ],
+  "optsHi": [
+   "मीथेन",
+   "नाइट्रस ऑक्साइड",
+   "कार्बन डाइऑक्साइड",
+   "सीएफसी"
+  ],
+  "correct": 2,
+  "explainEn": "Carbon dioxide accounts for the largest share of anthropogenic greenhouse gas emissions contributing to global warming.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 16",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:33Z"
  }
 ]

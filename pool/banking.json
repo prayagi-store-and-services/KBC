@@ -22230,5 +22230,425 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-22T21:38:41Z"
+ },
+ {
+  "id": "q_745fbe6489ab5605",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which instrument is used by the Reserve Bank of India to absorb liquidity from the banking system by selling government securities?",
+  "qHi": "बैंकिंग प्रणाली से सरकारी प्रतिभूतियों को बेचकर तरलता को अवशोषित करने के लिए भारतीय रिजर्व बैंक द्वारा किस उपकरण का उपयोग किया जाता है?",
+  "optsEn": [
+   "Repo Rate",
+   "Reverse Repo Rate",
+   "Bank Rate",
+   "Cash Reserve Ratio"
+  ],
+  "optsHi": [
+   "रेपो रेट",
+   "रिवर्स रेपो रेट",
+   "बैंक रेट",
+   "कैश रिजर्व रेशio"
+  ],
+  "correct": 1,
+  "explainEn": "Reverse Repo Rate is the rate at which the RBI borrows money from commercial banks, thereby absorbing liquidity from the system.",
+  "sourceHint": "Reserve Bank of India official website and monetary policy framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:09Z"
+ },
+ {
+  "id": "q_1b7325b4267cb355",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the expansion of the term 'NEFT' used in electronic funds transfer in India?",
+  "qHi": "भारत में इलेक्ट्रॉनिक फंड ट्रांसफर में प्रयुक्त शब्द 'NEFT' का विस्तार क्या है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "National Equity Fund Trust",
+   "Net Electronic Finance Transaction",
+   "New Economic Funds Transfer"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "नेशनल इक्विटी फंड ट्रस्ट",
+   "नेट इलेक्ट्रॉनिक फाइनेंस ट्रांजैक्शन",
+   "न्यू इकोनॉमिक फंड्स ट्रांसफर"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, a nation-wide centralized payment system owned and operated by the RBI.",
+  "sourceHint": "Reserve Bank of India payment systems guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:09Z"
+ },
+ {
+  "id": "q_66d4318f068441e4",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which specialized financial institution in India is the apex body for financing, promoting, and developing the micro, small, and medium enterprise (MSME) sector?",
+  "qHi": "भारत में कौन सा विशिष्ट वित्तीय संस्थान सूक्ष्म, लघु और मध्यम उद्यम (MSME) क्षेत्र को वित्तपोषण, प्रोत्साहन और विकास के लिए शीर्ष निकाय है?",
+  "optsEn": [
+   "NABARD",
+   "SIDBI",
+   "EXIM Bank",
+   "NHB"
+  ],
+  "optsHi": [
+   "नाबार्ड",
+   "सिडबी",
+   "एक्जिम बैंक",
+   "एनएचबी"
+  ],
+  "correct": 1,
+  "explainEn": "Small Industries Development Bank of India (SIDBI) is the principal financial institution for the promotion, financing, and development of the MSME sector.",
+  "sourceHint": "SIDBI official profile and Ministry of MSME",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:09Z"
+ },
+ {
+  "id": "q_89d4d33042c041d2",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the Liquidity Coverage Ratio (LCR) framework under Basel III norms?",
+  "qHi": "बेसल III मानदंडों के तहत तरलता कवरेज अनुपात (LCR) ढांचे में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liability",
+   "Leverage",
+   "Liquidity",
+   "Ledger"
+  ],
+  "optsHi": [
+   "लायबिलिटी",
+   "लेভারেज",
+   "लिक्विडिटी",
+   "लेजर"
+  ],
+  "correct": 2,
+  "explainEn": "LCR stands for Liquidity Coverage Ratio, which requires banks to hold a sufficient reserve of high-quality liquid assets to survive a severe stress scenario.",
+  "sourceHint": "Basel Committee on Banking Supervision (BCBS) guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:09Z"
+ },
+ {
+  "id": "q_97ff45d688162a2b",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque becomes stale if it is not presented for payment within how many months from the date of its issue in India?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, भारत में जारी होने की तारीख से कितने महीनों के भीतर भुगतान के लिए प्रस्तुत न किए जाने पर चेक पुराना (स्टेल) हो जाता है?",
+  "optsEn": [
+   "1 month",
+   "3 months",
+   "6 months",
+   "12 months"
+  ],
+  "optsHi": [
+   "1 महीना",
+   "3 महीने",
+   "6 महीने",
+   "12 महीने"
+  ],
+  "correct": 1,
+  "explainEn": "Effective April 1, 2012, the Reserve Bank of India directed that the validity period of cheques, drafts, pay orders, and banker's cheques be reduced from 6 months to 3 months.",
+  "sourceHint": "RBI circular on validity period of cheques",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:09Z"
+ },
+ {
+  "id": "q_d67431970a9f1f1d",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India regulates the capital market and protects the interests of investors in securities?",
+  "qHi": "भारत में कौन सा संगठन पूंजी बाजार को विनियमित करता है और प्रतिभूति बाजार में निवेशकों के हितों की रक्षा करता है?",
+  "optsEn": [
+   "RBI",
+   "SEBI",
+   "IRDAI",
+   "PFRDA"
+  ],
+  "optsHi": [
+   "आरबीआई",
+   "सेबी",
+   "इरडाई",
+   "पीएफआरडीए"
+  ],
+  "correct": 1,
+  "explainEn": "The Securities and Exchange Board of India (SEBI) is the statutory regulatory body established by an Act of Parliament to regulate the securities market in India.",
+  "sourceHint": "SEBI Act, 1992",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:09Z"
+ },
+ {
+  "id": "q_c7dabb1010474f74",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which term describes a deposit account held by two or more individuals where the operating instruction specifies that any one or all of the account holders can operate it?",
+  "qHi": "उस जमा खाते को क्या कहा जाता है जिसे दो या दो से अधिक व्यक्तियों द्वारा रखा जाता है जहाँ संचालन निर्देश में यह निर्दिष्ट होता है कि खातेदार में से कोई एक या सभी इसका संचालन कर सकते हैं?",
+  "optsEn": [
+   "Sole Proprietorship Account",
+   "Joint Account with 'Either or Survivor' mandate",
+   "Dormant Account",
+   "Escrow Account"
+  ],
+  "optsHi": [
+   "सोल प्रोप्राइटरशिप खाता",
+   "'आइदर ऑर सर्वाइवर' अधिदेश के साथ संयुक्त खाता",
+   "डोर्मेंट खाता",
+   "एस्क्रो खाता"
+  ],
+  "correct": 1,
+  "explainEn": "An 'Either or Survivor' joint account allows either of the joint holders to operate the account and withdraw funds independently during their lifetime.",
+  "sourceHint": "Indian Banking Association (IBA) operational guidelines for deposit accounts",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:09Z"
+ },
+ {
+  "id": "q_c2367eb4c49591d9",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following bodies regulates the Credit Information Companies (CICs) in India under the Credit Information Companies (Regulation) Act, 2005?",
+  "qHi": "क्रेडिट इंफॉर्मेशन कंपनीज (रेगुलेशन) एक्ट, 2005 के तहत भारत में क्रेडिट इंफॉर्मेशन कंपनियों (CICs) को निम्नलिखित में से कौन सा निकाय नियंत्रित करता है?",
+  "optsEn": [
+   "Securities and Exchange Board of India",
+   "Reserve Bank of India",
+   "Insurance Regulatory and Development Authority",
+   "Small Industries Development Bank of India"
+  ],
+  "optsHi": [
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "भारतीय रिजर्व बैंक",
+   "बीमा विनियामक और विकास प्राधिकरण",
+   "भारतीय लघु उद्योग विकास बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "Credit Information Companies in India are licensed and regulated by the Reserve Bank of India under the Credit Information Companies (Regulation) Act, 2005.",
+  "sourceHint": "RBI Master Directions and CIC Act 2005",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:52Z"
+ },
+ {
+  "id": "q_27596533ae68d10d",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary purpose of the Marginal Cost of Funds based Lending Rate (MCLR) introduced by the RBI in 2016 for commercial banks?",
+  "qHi": "वाणिज्यिक बैंकों के लिए 2016 में आरबीआई द्वारा शुरू की गई फंड आधारित ऋण दर (MCLR) की सीमांत लागत का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To determine the statutory liquidity ratio for scheduled banks",
+   "To improve the transmission of policy rates to lending rates",
+   "To fix the minimum capital adequacy ratio for foreign banks",
+   "To regulate foreign institutional investments in government securities"
+  ],
+  "optsHi": [
+   "अनुसूचित बैंकों के लिए वैधानिक तरलता अनुपात निर्धारित करना",
+   "ऋण दरों पर नीतिगत दरों के संचरण में सुधार करना",
+   "विदेशी बैंकों के लिए न्यूनतम पूंजी पर्याप्तता अनुपात तय करना",
+   "सरकारी प्रतिभूतियों में विदेशी संस्थागत निवेश को विनियमित करना"
+  ],
+  "correct": 1,
+  "explainEn": "MCLR was introduced to improve the transmission of monetary policy rates to the ultimate borrowers of the banks.",
+  "sourceHint": "RBI Guidelines on MCLR",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:52Z"
+ },
+ {
+  "id": "q_c1b3d16e06023a29",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Basel III norms, what does the Tier 1 Capital primarily consist of?",
+  "qHi": "बेसल III मानदंडों के तहत, टियर 1 पूंजी में मुख्य रूप से क्या शामिल है?",
+  "optsEn": [
+   "Subordinated debt and general provisions",
+   "Common equity and disclosed reserves",
+   "Revaluation reserves and undisclosed reserves",
+   "Hybrid debt-capital instruments and term subordinated debt"
+  ],
+  "optsHi": [
+   "अधीनस्थ ऋण और सामान्य प्रावधान",
+   "सामान्य इक्विटी और प्रकट भंडार",
+   "पुनर्मूल्यांकन भंडार और गुप्त भंडार",
+   "हाइब्रिड ऋण-पूंजी साधन और सावधि अधीनस्थ ऋण"
+  ],
+  "correct": 1,
+  "explainEn": "Tier 1 capital under Basel III primarily consists of Common Equity Tier 1 (CET1) and Additional Tier 1 (AT1) capital, with CET1 comprising common shares and disclosed reserves.",
+  "sourceHint": "RBI Basel III Capital Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:52Z"
+ },
+ {
+  "id": "q_f85c13e8e0f50d3a",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific instrument is issued by an Indian company to raise capital abroad in foreign currency, and is listed and traded on an international exchange?",
+  "qHi": "विदेशी मुद्रा में विदेश में पूंजी जुटाने के लिए किसी भारतीय कंपनी द्वारा कौन सा विशिष्ट साधन जारी किया जाता है, और इसे अंतर्राष्ट्रीय एक्सचेंज पर सूचीबद्ध और कारोबार किया जाता है?",
+  "optsEn": [
+   "Participatory Note",
+   "Global Depository Receipt",
+   "Commercial Paper",
+   "Certificate of Deposit"
+  ],
+  "optsHi": [
+   "प्रतिभागी नोट",
+   "वैश्विक डिपोजिटरी रसीद",
+   "वाणिज्यिक पत्र",
+   "जमा प्रमाणपत्र"
+  ],
+  "correct": 1,
+  "explainEn": "Global Depository Receipts (GDRs) are negotiable certificates issued by a depository bank outside India representing shares of a foreign company, traded on international exchanges.",
+  "sourceHint": "RBI Foreign Exchange Management Act (FEMA) guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:52Z"
+ },
+ {
+  "id": "q_3a039599c2116277",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the maximum limit for a transaction under the Immediate Payment Service (IMPS) managed by the National Payments Corporation of India, as per general guidelines?",
+  "qHi": "सामान्य दिशानिर्देशों के अनुसार, भारतीय राष्ट्रीय भुगतान निगम द्वारा प्रबंधित तत्काल भुगतान सेवा (IMPS) के तहत एक लेनदेन की अधिकतम सीमा क्या है?",
+  "optsEn": [
+   "Rs 1 Lakh",
+   "Rs 2 Lakh",
+   "Rs 5 Lakh",
+   "No upper limit specified by NPCI"
+  ],
+  "optsHi": [
+   "₹1 लाख",
+   "₹2 लाख",
+   "₹5 लाख",
+   "एनपीसीआई द्वारा कोई ऊपरी सीमा निर्धारित नहीं है"
+  ],
+  "correct": 2,
+  "explainEn": "NPCI set the maximum per-transaction limit for IMPS channels at Rs 5 Lakh, though individual banks may have lower internal limits.",
+  "sourceHint": "NPCI Circulars on IMPS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:52Z"
+ },
+ {
+  "id": "q_ad96a1185df09fe4",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which market participant is legally permitted to issue Commercial Papers (CPs) in the Indian financial system?",
+  "qHi": "भारतीय वित्तीय प्रणाली में वाणिज्यिक पत्र (CPs) जारी करने के लिए कानूनी रूप से कौन सा बाजार भागीदार अधिकृत है?",
+  "optsEn": [
+   "Only Regional Rural Banks",
+   "All-India Financial Institutions and corporate bodies",
+   "Individual retail investors holding demat accounts",
+   "Non-banking financial companies with asset size below Rs 10 crore"
+  ],
+  "optsHi": [
+   "केवल क्षेत्रीय ग्रामीण बैंक",
+   "अखिल भारतीय वित्तीय संस्थान और कॉर्पोरेट निकाय",
+   "डीमैट खाते रखने वाले व्यक्तिगत खुदरा निवेशक",
+   "₹10 करोड़ से कम संपत्ति आकार वाली गैर-बैंकिंग वित्तीय कंपनियां"
+  ],
+  "correct": 1,
+  "explainEn": "Corporate bodies, All-India Financial Institutions (FIs), and Specified Government entities are eligible to issue Commercial Papers as per RBI guidelines.",
+  "sourceHint": "RBI Directions on Money Market Instruments",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:52Z"
+ },
+ {
+  "id": "q_4c3feca127bda6f1",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian banking, what does the term 'Prompt Corrective Action' (PCA) framework primarily trigger against?",
+  "qHi": "भारतीय बैंकिंग के संदर्भ में, 'प्रॉम्प्ट करेक्टिव एक्शन' (PCA) ढांचा मुख्य रूप से किसके खिलाफ कार्रवाई शुरू करता है?",
+  "optsEn": [
+   "Banks breaching specified thresholds for capital, asset quality, and profitability",
+   "Banks failing to meet priority sector lending targets for three consecutive years",
+   "Foreign banks exceeding their allocated branch expansion limits",
+   "Non-banking financial companies failing to maintain liquidity coverage ratio"
+  ],
+  "optsHi": [
+   "पूंजी, परिसंपत्ति की गुणवत्ता और लाभप्रदता के लिए निर्दिष्ट सीमाओं का उल्लंघन करने वाले बैंक",
+   "लगातार तीन वर्षों तक प्राथमिकता प्राप्त क्षेत्र ऋण लक्ष्यों को पूरा करने में विफल रहने वाले बैंक",
+   "अपनी आवंटित शाखा विस्तार सीमा से अधिक विदेशी बैंक",
+   "तरलता कवरेज अनुपात बनाए रखने में विफल रहने वाली गैर-बैंकिंग वित्तीय कंपनियां"
+  ],
+  "correct": 0,
+  "explainEn": "RBI uses the PCA framework to monitor financial health of banks that breach risk thresholds relating to capital, asset quality (NPA), and leverage.",
+  "sourceHint": "RBI PCA Framework Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:52Z"
+ },
+ {
+  "id": "q_4a9850addd28df2b",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following entities acts as the central counterparty for repo transactions in the corporate bond market in India?",
+  "qHi": "भारत में कॉर्पोरेट बॉन्ड बाजार में रेपो लेनदेन के लिए केंद्रीय प्रतिपक्ष के रूप में निम्नलिखित में से कौन सी संस्था कार्य करती है?",
+  "optsEn": [
+   "Clearing Corporation of India Limited",
+   "National Stock Exchange of India",
+   "Central Depository Services Limited",
+   "National Securities Clearing Corporation Limited"
+  ],
+  "optsHi": [
+   "क्लियरिंग कॉर्पोरेशन ऑफ इंडिया लिमिटेड",
+   "नेशनल स्टॉक एक्सचेंज ऑफ इंडिया",
+   "सेंट्रल डिपॉजिटरी सर्विसेज लिमिटेड",
+   "नेशनल सिक्योरिटीज क्लियरिंग कॉर्पोरेशन लिमिटेड"
+  ],
+  "correct": 0,
+  "explainEn": "Clearing Corporation of India Limited (CCIL) provides centralized clearing and settlement services for various financial markets, including repo transactions in corporate bonds.",
+  "sourceHint": "RBI and CCIL operational framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:52Z"
  }
 ]

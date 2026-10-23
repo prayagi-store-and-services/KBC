@@ -15090,5 +15090,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-22T21:38:54Z"
+ },
+ {
+  "id": "q_d8819569ced472f7",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which Mughal Emperor defeated Ibrahim Lodi in the First Battle of Panipat in 1526?",
+  "qHi": "किस मुगल सम्राट ने 1526 में पानीपत के प्रथम युद्ध में इब्राहिम लोदी को हराया था?",
+  "optsEn": [
+   "Akbar",
+   "Humayun",
+   "Babur",
+   "Aurangzeb"
+  ],
+  "optsHi": [
+   "अकबर",
+   "हुमायूं",
+   "बाबर",
+   "औरंगजेब"
+  ],
+  "correct": 2,
+  "explainEn": "Babur defeated Ibrahim Lodi in 1526, establishing the Mughal Empire in India.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:51:44Z"
+ },
+ {
+  "id": "q_cd2de365eae16a53",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which metal is stored immersed in kerosene because it reacts vigorously with moisture and oxygen?",
+  "qHi": "किस धातु को केरोसिन (मिट्टी के तेल) में डुबोकर रखा जाता है क्योंकि यह नमी और ऑक्सीजन के साथ तेजी से प्रतिक्रिया करती है?",
+  "optsEn": [
+   "Copper",
+   "Gold",
+   "Sodium",
+   "Iron"
+  ],
+  "optsHi": [
+   "तांबा",
+   "सोना",
+   "सोडियम",
+   "लोहा"
+  ],
+  "correct": 2,
+  "explainEn": "Sodium is a highly reactive alkali metal that catches fire if exposed to air and moisture, hence it is stored in kerosene.",
+  "sourceHint": "NCERT Class 8 Science Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:23Z"
+ },
+ {
+  "id": "q_72cb6ec5aa7794f3",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which battle fought in 1757 established the political power of the British East India Company in Bengal?",
+  "qHi": "1757 में लड़ी गई किस लड़ाई ने बंगाल में ब्रिटिश ईस्ट इंडिया कंपनी की राजनीतिक शक्ति की स्थापना की?",
+  "optsEn": [
+   "Battle of Buxar",
+   "Battle of Plassey",
+   "Third Battle of Panipat",
+   "Battle of Haldighati"
+  ],
+  "optsHi": [
+   "बक्सर का युद्ध",
+   "प्लासी का युद्ध",
+   "पानीपत का तीसरा युद्ध",
+   "हल्दीघाटी का युद्ध"
+  ],
+  "correct": 1,
+  "explainEn": "The Battle of Plassey in 1757 was a major victory for the British East India Company over the Nawab of Bengal.",
+  "sourceHint": "NCERT Class 8 History Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:23Z"
+ },
+ {
+  "id": "q_8509ec6167876d50",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which microscopic organisms are commonly used in the commercial production of alcohol and wine by converting sugar into alcohol?",
+  "qHi": "शर्करा को अल्कोहल में बदलकर अल्कोहल और वाइन के व्यावसायिक उत्पादन में आमतौर पर किन सूक्ष्म जीवों का उपयोग किया जाता है?",
+  "optsEn": [
+   "Lactobacillus bacteria",
+   "Yeast",
+   "Amoeba",
+   "Plasmodium"
+  ],
+  "optsHi": [
+   "लैक्टोबैसिलस बैक्टीरिया",
+   "यीस्ट (खमीर)",
+   "अमीबा",
+   "प्लास्मोडियम"
+  ],
+  "correct": 1,
+  "explainEn": "Yeast reproduces rapidly and respires anaerobically, converting sugars into alcohol and carbon dioxide through fermentation.",
+  "sourceHint": "NCERT Class 8 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:23Z"
+ },
+ {
+  "id": "q_713e4e63612b84fb",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of the Indian Parliament, what is the minimum age requirement for a person to be a member of the Lok Sabha?",
+  "qHi": "भारतीय संसद के संदर्भ में, लोकसभा का सदस्य बनने के लिए किसी व्यक्ति की न्यूनतम आयु क्या होनी चाहिए?",
+  "optsEn": [
+   "21 years",
+   "25 years",
+   "30 years",
+   "35 years"
+  ],
+  "optsHi": [
+   "21 वर्ष",
+   "25 वर्ष",
+   "30 वर्ष",
+   "35 वर्ष"
+  ],
+  "correct": 1,
+  "explainEn": "According to the Constitution of India, a candidate must be at least 25 years of age to contest elections and become a member of the Lok Sabha.",
+  "sourceHint": "Constitution of India Article 84 / NCERT Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:23Z"
  }
 ]

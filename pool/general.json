@@ -13942,5 +13942,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-22T21:38:45Z"
+ },
+ {
+  "id": "q_763c6a1146bcd247",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary ingredient used to make traditional Dhokla?",
+  "qHi": "पारंपरिक ढोकला बनाने के लिए उपयोग की जाने वाली मुख्य सामग्री क्या है?",
+  "optsEn": [
+   "Gram flour",
+   "Wheat flour",
+   "Rice flour",
+   "Maida"
+  ],
+  "optsHi": [
+   "बेसन",
+   "गेहूं का आटा",
+   "चावल का आटा",
+   "मैदा"
+  ],
+  "correct": 0,
+  "explainEn": "Dhokla is a vegetarian food item that is native to the Indian state of Gujarat, made primarily from fermented batter derived from gram flour (besan).",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:51:36Z"
+ },
+ {
+  "id": "q_4348ebdb817c5b41",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which planet in our solar system has the most moons confirmed by astronomers?",
+  "qHi": "हमारे सौरमंडल में किस ग्रह के पास खगोलविदों द्वारा सबसे अधिक चंद्रमाओं की पुष्टि की गई है?",
+  "optsEn": [
+   "Jupiter",
+   "Saturn",
+   "Uranus",
+   "Neptune"
+  ],
+  "optsHi": [
+   "बृहस्पति",
+   "शनि",
+   "अरुण",
+   "वरुण"
+  ],
+  "correct": 1,
+  "explainEn": "Saturn holds the record for the most confirmed moons in the solar system, surpassing Jupiter in recent counts.",
+  "sourceHint": "NASA Solar System Exploration",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:13Z"
+ },
+ {
+  "id": "q_ea274497dc3ec374",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary chemical compound found in natural gas?",
+  "qHi": "प्राकृतिक गैस में पाया जाने वाला प्रमुख रासायनिक यौगिक कौन सा है?",
+  "optsEn": [
+   "Propane",
+   "Butane",
+   "Methane",
+   "Ethane"
+  ],
+  "optsHi": [
+   "प्रोपेन",
+   "ब्यूटेन",
+   "मीथेन",
+   "एथेन"
+  ],
+  "correct": 2,
+  "explainEn": "Methane is the primary component of natural gas, typically making up over 70 to 90 percent of the volume.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:13Z"
+ },
+ {
+  "id": "q_ce3190a6dadaf4ce",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian classical dance form originated in the state of Kerala and is traditionally performed with elaborate facial makeup and costumes?",
+  "qHi": "कौन सा भारतीय शास्त्रीय नृत्य रूप केरल राज्य में उत्पन्न हुआ है और पारंपरिक रूप से विस्तृत फेशियल मेकअप और वेशभूषा के साथ किया जाता है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Odissi",
+   "Kuchipudi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "ओडिसी",
+   "कुचिपुड़ी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a major form of classical Indian dance native to Kerala, known for its distinctive heavy makeup and storytelling.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:13Z"
+ },
+ {
+  "id": "q_7f57c0c9976246c6",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which structural protein is the primary component of human hair, nails, and outer skin layers?",
+  "qHi": "मानव बाल, नाखून और बाहरी त्वचा की परतों का मुख्य घटक कौन सा संरचनात्मक प्रोटीन है?",
+  "optsEn": [
+   "Collagen",
+   "Keratin",
+   "Elastin",
+   "Fibrin"
+  ],
+  "optsHi": [
+   "कोलेजन",
+   "केराटिन",
+   "इलास्टिन",
+   "फाइब्रिन"
+  ],
+  "correct": 1,
+  "explainEn": "Keratin is the key structural material making up hair, horns, claws, hooves, and the outer layer of human skin.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:13Z"
+ },
+ {
+  "id": "q_99ddc4913636c5a2",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which constitutional amendment introduced Part IXB to the Constitution of India, relating to cooperative societies?",
+  "qHi": "भारत के संविधान में किस संवैधानिक संशोधन द्वारा सहकारी समितियों से संबंधित भाग IXB जोड़ा गया था?",
+  "optsEn": [
+   "86th Amendment",
+   "91st Amendment",
+   "97th Amendment",
+   "103rd Amendment"
+  ],
+  "optsHi": [
+   "86वां संशोधन",
+   "91वां संशोधन",
+   "97वां संशोधन",
+   "103वां संशोधन"
+  ],
+  "correct": 2,
+  "explainEn": "The 97th Constitutional Amendment Act of 2011 added Part IXB to the Constitution, providing constitutional status to cooperative societies.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:57Z"
+ },
+ {
+  "id": "q_665882a3f2c6a7a3",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which biogeographic zone of India is the cold desert region of Ladakh primarily situated?",
+  "qHi": "लद्दाख का ठंडा रेगिस्तान क्षेत्र मुख्य रूप से भारत के किस जैव-भौगोलिक क्षेत्र में स्थित है?",
+  "optsEn": [
+   "Trans-Himalaya",
+   "Western Himalayas",
+   "Central Himalayas",
+   "Indian Desert"
+  ],
+  "optsHi": [
+   "ट्रांस-हिमालय",
+   "पश्चिमी हिमालय",
+   "मध्य हिमालय",
+   "भारतीय रेगिस्तान"
+  ],
+  "correct": 0,
+  "explainEn": "Ladakh falls under the Trans-Himalayan biogeographic zone, characterized by high-altitude cold desert conditions.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:57Z"
+ },
+ {
+  "id": "q_31678f4ad93799a4",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form of India traditionally uses the 'Sattriya Chali' as a fundamental exercise routine?",
+  "qHi": "भारत की किस शास्त्रीय नृत्य शैली में पारंपरिक रूप से 'सत्रिया चली' का उपयोग एक मौलिक अभ्यास दिनचर्या के रूप में किया जाता है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Sattriya",
+   "Manipuri"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "सत्रिया",
+   "मणिपुरी"
+  ],
+  "correct": 2,
+  "explainEn": "Sattriya Chali forms the basic foundational exercises and movement units taught in the Sattriya dance tradition of Assam.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:57Z"
+ },
+ {
+  "id": "q_f61cbb6f77afc74d",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which planet in our solar system has the moon named Titan as its largest natural satellite?",
+  "qHi": "हमारे सौर मंडल में किस ग्रह के सबसे बड़े प्राकृतिक उपग्रह का नाम टाइटन है?",
+  "optsEn": [
+   "Jupiter",
+   "Saturn",
+   "Uranus",
+   "Neptune"
+  ],
+  "optsHi": [
+   "बृहस्पति",
+   "शनि",
+   "अरुण",
+   "वरुण"
+  ],
+  "correct": 1,
+  "explainEn": "Titan is the largest moon of Saturn and the second-largest natural satellite in the Solar System.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:57Z"
+ },
+ {
+  "id": "q_954fe89bb179a9a8",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary mineral ore from which aluminum is commercially extracted?",
+  "qHi": "वह प्राथमिक खनिज अयस्क कौन सा है जिससे व्यावसायिक रूप से एल्युमीनियम निकाला जाता है?",
+  "optsEn": [
+   "Hematite",
+   "Bauxite",
+   "Chalcopyrite",
+   "Galena"
+  ],
+  "optsHi": [
+   "हेमेटाइट",
+   "बॉक्साइट",
+   "चाल्कोपाइराइट",
+   "गैलेना"
+  ],
+  "correct": 1,
+  "explainEn": "Bauxite is the principal ore of aluminum, consisting mainly of hydrous aluminum oxides.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:57Z"
+ },
+ {
+  "id": "q_c3ff9e5dd05bffe2",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which major battle fought in 1565 resulted in the downfall of the Vijayanagara Empire?",
+  "qHi": "1565 में लड़ी गई किस प्रमुख लड़ाई के परिणामस्वरूप विजयनगर साम्राज्य का पतन हुआ?",
+  "optsEn": [
+   "Battle of Talikota",
+   "Battle of Panipat",
+   "Battle of Khanwa",
+   "Battle of Haldighati"
+  ],
+  "optsHi": [
+   "तालीकोट का युद्ध",
+   "पानीपत का युद्ध",
+   "खानवा का युद्ध",
+   "हल्दीघाटी का युद्ध"
+  ],
+  "correct": 0,
+  "explainEn": "The Battle of Talikota in 1565 was a watershed watershed battle that led to the collapse of the Vijayanagara Empire.",
+  "sourceHint": "NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:57Z"
+ },
+ {
+  "id": "q_110c094d4c0fbafd",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who discovered the subatomic particle known as the neutron in 1932?",
+  "qHi": "1932 में न्यूट्रॉन के रूप में जाने जाने वाले उप-परमाणु कण की खोज किसने की थी?",
+  "optsEn": [
+   "J.J. Thomson",
+   "Ernest Rutherford",
+   "James Chadwick",
+   "Niels Bohr"
+  ],
+  "optsHi": [
+   "जे. जे. थॉम्पसन",
+   "अर्नस्ट रदरफोर्ड",
+   "जेम्स चैविक",
+   "नील्स बोहर"
+  ],
+  "correct": 2,
+  "explainEn": "James Chadwick discovered the neutron in 1932, for which he was awarded the Nobel Prize in Physics.",
+  "sourceHint": "NCERT Physics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:57Z"
+ },
+ {
+  "id": "q_df00aa4148f8ce4c",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In economic terms, what does the abbreviation 'GNP' stand for in national income accounting?",
+  "qHi": "आर्थिक शब्दावली में, राष्ट्रीय आय लेखांकन में संक्षिप्त नाम 'GNP' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Gross National Product",
+   "Global Net Production",
+   "Gross Net Pricing",
+   "Government National Portfolio"
+  ],
+  "optsHi": [
+   "सकल राष्ट्रीय उत्पाद (Gross National Product)",
+   "ग्लोबल नेट प्रोडक्शन",
+   "ग्रॉस नेट प्राइसिंग",
+   "गवर्नमेंट नेशनल पोर्टफोलियो"
+  ],
+  "correct": 0,
+  "explainEn": "GNP stands for Gross National Product, measuring the total value of all finished goods and services produced by a country's citizens.",
+  "sourceHint": "NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:57Z"
  }
 ]

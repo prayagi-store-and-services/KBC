@@ -19346,5 +19346,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-22T21:38:50Z"
+ },
+ {
+  "id": "q_7c052a0cf0198d88",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the main gas found in the air we breathe in the largest amount?",
+  "qHi": "हमारे द्वारा साँس में ली जाने वाली हवा में सबसे अधिक मात्रा में कौन सी गैस पाई जाती है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "आर्गन"
+  ],
+  "correct": 2,
+  "explainEn": "Nitrogen makes up about 78 percent of Earth's atmosphere.",
+  "sourceHint": "NCERT Class 7 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:51:40Z"
+ },
+ {
+  "id": "q_0000c4bb76388264",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which state is famous for the classical dance form Bharatanatyam?",
+  "qHi": "भरतनाट्यम शास्त्रीय नृत्य शैली के लिए कौन सा राज्य प्रसिद्ध है?",
+  "optsEn": [
+   "Kerala",
+   "Tamil Nadu",
+   "Odisha",
+   "Assam"
+  ],
+  "optsHi": [
+   "केरल",
+   "तमिलनाडु",
+   "ओडिशा",
+   "असम"
+  ],
+  "correct": 1,
+  "explainEn": "Bharatanatyam originated in the temples of Tamil Nadu.",
+  "sourceHint": "NCERT Class 6 Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:51:40Z"
+ },
+ {
+  "id": "q_163fa2edd84ee9f1",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the main component of rain water in the water cycle?",
+  "qHi": "जल चक्र में वर्षा के जल का मुख्य घटक क्या है?",
+  "optsEn": [
+   "Salt water",
+   "Pure water",
+   "Mineral oil",
+   "Vinegar"
+  ],
+  "optsHi": [
+   "खारा पानी",
+   "शुद्ध जल",
+   "खनिज तेल",
+   "सिरका"
+  ],
+  "correct": 1,
+  "explainEn": "Rain water comes from evaporated water vapor condensing, making it relatively pure water.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:51:40Z"
+ },
+ {
+  "id": "q_f99ec9b3ac908f12",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is a non-flowering plant?",
+  "qHi": "निम्नलिखित में से कौन सा एक फूल न देने वाला पौधा है?",
+  "optsEn": [
+   "Rose",
+   "Fern",
+   "Mango tree",
+   "Neem tree"
+  ],
+  "optsHi": [
+   "गुलाब",
+   "फ़र्न (Fern)",
+   "आम का पेड़",
+   "नीम का पेड़"
+  ],
+  "correct": 1,
+  "explainEn": "Ferns reproduce via spores and do not produce flowers or seeds, unlike roses, mangoes, and neem trees.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:18Z"
+ },
+ {
+  "id": "q_241235f3a8b715b2",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these lines of latitude passes through the middle of India?",
+  "qHi": "इनमें से कौन सी अक्षांश रेखा भारत के बीच से गुजरती है?",
+  "optsEn": [
+   "Equator",
+   "Tropic of Cancer",
+   "Tropic of Capricorn",
+   "Arctic Circle"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा (इक्वेटर)",
+   "कर्क रेखा",
+   "मकर रेखा",
+   "आर्कटिक वृत्त"
+  ],
+  "correct": 1,
+  "explainEn": "The Tropic of Cancer (23.5 degrees North) passes almost through the middle of India.",
+  "sourceHint": "NCERT Class 5 Social Studies / Geography Basics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:18Z"
+ },
+ {
+  "id": "q_db810a639ef5c47a",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which part of the seed stores food for the baby plant?",
+  "qHi": "बीज का कौन सा भाग नन्हे पौधे के लिए भोजन का संचय करता है?",
+  "optsEn": [
+   "Seed coat",
+   "Cotyledon",
+   "Radicle",
+   "Stem"
+  ],
+  "optsHi": [
+   "बीज आवरण",
+   "बीजपत्र (कोटिलेडन)",
+   "मूलांकुर (रेडिकल)",
+   "तना"
+  ],
+  "correct": 1,
+  "explainEn": "Cotyledons store food to nourish the embryo until it can make its own food.",
+  "sourceHint": "NCERT Class 5 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:18Z"
+ },
+ {
+  "id": "q_37ff5953a33a8981",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which instrument is commonly used by astronomers and sky watchers to observe distant stars and planets?",
+  "qHi": "दूर के तारों और ग्रहों को देखने के लिए खगोलविदों और आकाश देखने वालों द्वारा आमतौर पर किस उपकरण का उपयोग किया जाता है?",
+  "optsEn": [
+   "Microscope",
+   "Telescope",
+   "Stethoscope",
+   "Barometer"
+  ],
+  "optsHi": [
+   "सूक्ष्मदर्शी (माइक्रोस्कोप)",
+   "दूरबीन (टेलीस्कोप)",
+   "स्टेथोस्कोप",
+   "बैरोमीटर"
+  ],
+  "correct": 1,
+  "explainEn": "A telescope is an optical instrument designed to make distant objects appear nearer, such as stars and planets.",
+  "sourceHint": "NCERT Class 5 Science Basics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:18Z"
+ },
+ {
+  "id": "q_6b7a3fd3b66ef7ce",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of soil is generally considered best for growing cotton crops?",
+  "qHi": "कपास की फसल उगाने के लिए आमतौर पर किस प्रकार की मिट्टी को सबसे अच्छा माना जाता है?",
+  "optsEn": [
+   "Black soil",
+   "Laterite soil",
+   "Desert soil",
+   "Peaty soil"
+  ],
+  "optsHi": [
+   "काली मिट्टी",
+   "लैटेराइट मिट्टी",
+   "मरुस्थलीय मिट्टी",
+   "पिट्टी मिट्टी"
+  ],
+  "correct": 0,
+  "explainEn": "Black soil, also known as regur soil, retains moisture well and is ideal for growing cotton.",
+  "sourceHint": "NCERT Class 5 Social Studies / Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:18Z"
  }
 ]

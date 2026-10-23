@@ -14446,5 +14446,341 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-22T21:39:36Z"
+ },
+ {
+  "id": "q_82815bd57d8a17f3",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which vitamin is primarily synthesized by the human body upon exposure to sunlight?",
+  "qHi": "सूर्य के प्रकाश के संपर्क में आने पर मानव शरीर द्वारा मुख्य रूप से कौन सा विटामिन संश्लेषित होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Vitamin D is produced in the skin when exposed to ultraviolet B (UVB) rays from sunlight.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:51:29Z"
+ },
+ {
+  "id": "q_57d29b3dd547f920",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the ancient Indian treatise on statecraft, Arthashastra?",
+  "qHi": "राजव्यवस्था पर प्राचीन भारतीय ग्रंथ 'अर्थशास्त्र' किसने लिखा था?",
+  "optsEn": [
+   "Kalidasa",
+   "Banabhatta",
+   "Kautilya",
+   "Valmiki"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "बाणभट्ट",
+   "कौटिल्य",
+   "वाल्मीकि"
+  ],
+  "correct": 2,
+  "explainEn": "Arthashastra was authored by Kautilya, also known as Chanakya.",
+  "sourceHint": "NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:51:29Z"
+ },
+ {
+  "id": "q_92c6cb640052e079",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "During the Gupta period, the land revenue collected from the cultivators was generally fixed at which fraction of the produce?",
+  "qHi": "गुप्त काल के दौरान, किसानों से एकत्र किया जाने वाला भू-राजस्व आमतौर पर उपज के किस भाग पर तय किया जाता था?",
+  "optsEn": [
+   "One-third",
+   "One-fourth",
+   "One-sixth",
+   "One-eighth"
+  ],
+  "optsHi": [
+   "एक-तिहाई",
+   "एक-चौथाई",
+   "एक-छठा",
+   "एक-आठवां"
+  ],
+  "correct": 2,
+  "explainEn": "In the Gupta empire, land revenue was the chief source of income for the state and was generally fixed at one-sixth (Shadbhaga) of the total produce.",
+  "sourceHint": "NCERT Class 12 History - Themes in Indian History Part I",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:03Z"
+ },
+ {
+  "id": "q_0020fce4c451bbc4",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following movements was suspended by Mahatma Gandhi in the wake of the Chauri Chaura incident?",
+  "qHi": "चौरी चौरा घटना के बाद महात्मा गांधी ने निम्नलिखित में से किस आंदोलन को स्थगित कर दिया था?",
+  "optsEn": [
+   "Rowlatt Satyagraha",
+   "Non-Cooperation Movement",
+   "Civil Disobedience Movement",
+   "Quit India Movement"
+  ],
+  "optsHi": [
+   "रॉलेट सत्याग्रह",
+   "असहयोग आंदोलन",
+   "सविनय अवज्ञा आंदोलन",
+   "भारत छोड़ो आंदोलन"
+  ],
+  "correct": 1,
+  "explainEn": "Mahatma Gandhi called off the Non-Cooperation Movement in February 1922 following the violent Chauri Chaura incident in Gorakhpur district.",
+  "sourceHint": "NCERT Class 12 History - Themes in Indian History Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:03Z"
+ },
+ {
+  "id": "q_7a10254758c40068",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which article of the Indian Constitution provides for the establishment of a Finance Commission of India?",
+  "qHi": "भारतीय संविधान का कौन सा अनुच्छेद भारत के वित्त आयोग की स्थापना का प्रावधान करता है?",
+  "optsEn": [
+   "Article 280",
+   "Article 324",
+   "Article 356",
+   "Article 360"
+  ],
+  "optsHi": [
+   "अनुच्छेद 280",
+   "अनुच्छेद 324",
+   "अनुच्छेद 356",
+   "अनुच्छेद 360"
+  ],
+  "correct": 0,
+  "explainEn": "Article 280 of the Indian Constitution provides for a Finance Commission as a quasi-judicial body to define financial relations between the Centre and the states.",
+  "sourceHint": "Constitution of India, Part XII",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:03Z"
+ },
+ {
+  "id": "q_7a89bb6323bfc25b",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin is essential for the normal blood clotting process in human beings?",
+  "qHi": "मनुष्यों में सामान्य रक्त थक्का जमने की प्रक्रिया के लिए कौन सा विटामिन आवश्यक है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B12",
+   "Vitamin C",
+   "Vitamin K"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी12",
+   "विटामिन सी",
+   "विटामिन के"
+  ],
+  "correct": 3,
+  "explainEn": "Vitamin K plays a major role in blood clotting, bone metabolism, and regulating blood calcium levels.",
+  "sourceHint": "NCERT Class 11 Biology - Human Physiology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:03Z"
+ },
+ {
+  "id": "q_62d3daacd60692d3",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The Rourkela Steel Plant was established in the Indian state of Odisha with the technical and financial collaboration of which country?",
+  "qHi": "ओडिशा राज्य में राउरकेला इस्पात संयंत्र की स्थापना किस देश के तकनीकी और वित्तीय सहयोग से की गई थी?",
+  "optsEn": [
+   "United Kingdom",
+   "West Germany",
+   "Soviet Union",
+   "United States"
+  ],
+  "optsHi": [
+   "यूनाइटेड किंगडम",
+   "पश्चिम जर्मनी",
+   "सोवियत संघ",
+   "संयुक्त राज्य अमेरिका"
+  ],
+  "correct": 1,
+  "explainEn": "Rourkela Steel Plant, set up in the public sector, was established in collaboration with West Germany during the Second Five-Year Plan.",
+  "sourceHint": "NCERT Class 10 Economics - Understanding Economic Development",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:03Z"
+ },
+ {
+  "id": "q_a3d932c54b94f59d",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the reign of which Delhi Sultanate ruler was the department of slaves known as 'Diwan-i-Bandagan' created?",
+  "qHi": "दिल्ली सल्तनत के किस शासक के शासनकाल में 'दीवान-ए-बदगान' नामक दासों के विभाग की स्थापना की गई थी?",
+  "optsEn": [
+   "Iltutmish",
+   "Balban",
+   "Alauddin Khilji",
+   "Firuz Shah Tughlaq"
+  ],
+  "optsHi": [
+   "इल्तुतमिश",
+   "बलबन",
+   "अलाउद्दीन खिलजी",
+   "फिरोज शाह तुगलक"
+  ],
+  "correct": 3,
+  "explainEn": "Firuz Shah Tughlaq established the Diwan-i-Bandagan specifically to take care of his vast collection of slaves.",
+  "sourceHint": "NCERT Class 7 History, Our Pasts II",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:46Z"
+ },
+ {
+  "id": "q_1d97854d266863b9",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under which Article of the Indian Constitution is the Parliament empowered to regulate the right of citizenship by law?",
+  "qHi": "भारतीय संविधान के किस अनुच्छेद के तहत संसद को कानून द्वारा नागरिकता के अधिकार को विनियमित करने की शक्ति दी गई है?",
+  "optsEn": [
+   "Article 8",
+   "Article 9",
+   "Article 10",
+   "Article 11"
+  ],
+  "optsHi": [
+   "अनुच्छेद 8",
+   "अनुच्छेद 9",
+   "अनुच्छेद 10",
+   "अनुच्छेद 11"
+  ],
+  "correct": 3,
+  "explainEn": "Article 11 of the Constitution explicitly grants Parliament the power to make provisions regarding the acquisition and termination of citizenship and all other matters relating to it.",
+  "sourceHint": "Constitution of India, Part II",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:46Z"
+ },
+ {
+  "id": "q_d1d887aea633b786",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian state shares the maximum length of its international border with Myanmar?",
+  "qHi": "कौन सा भारतीय राज्य म्यांमार के साथ अपनी अंतरराष्ट्रीय सीमा की सबसे अधिक लंबाई साझा करता है?",
+  "optsEn": [
+   "Arunachal Pradesh",
+   "Nagaland",
+   "Manipur",
+   "Mizoram"
+  ],
+  "optsHi": [
+   "अरुणाचल प्रदेश",
+   "नागालैंड",
+   "मणिपुर",
+   "मिजोरम"
+  ],
+  "correct": 0,
+  "explainEn": "Arunachal Pradesh shares the longest border with Myanmar among the four Indian states that border Myanmar.",
+  "sourceHint": "NCERT Class 9 Geography, Contemporary India I",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:46Z"
+ },
+ {
+  "id": "q_ce4ea18129cc44fb",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which site of the Indus Valley Civilization is characterized by the presence of a dockyard?",
+  "qHi": "सिंधु घाटी सभ्यता के किस स्थल की विशेषता गोदीबाड़ा (डॉकयार्ड) की उपस्थिति है?",
+  "optsEn": [
+   "Harappa",
+   "Mohenjo-daro",
+   "Lothal",
+   "Kalibangan"
+  ],
+  "optsHi": [
+   "हड़प्पा",
+   "मोहनजोदड़ो",
+   "लोथल",
+   "कालीबंगा"
+  ],
+  "correct": 2,
+  "explainEn": "Lothal, located in Gujarat, is famous for its massive tidal dockyard, which connected the city to an ancient course of the Sabarmati river.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part I",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:46Z"
+ },
+ {
+  "id": "q_6abec333fdca205d",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary function of the 'Coriolis force' in relation to global winds?",
+  "qHi": "वैश्विक हवाओं के संबंध में 'कोरिओलिस बल' का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "It generates wind speed by creating pressure gradients",
+   "It deflects winds to the right in the Northern hemisphere and to the left in the Southern hemisphere",
+   "It heats up the equatorial regions to cause convection",
+   "It completely halts winds at the horse latitudes"
+  ],
+  "optsHi": [
+   "यह दबाव प्रवणता बनाकर हवा की गति उत्पन्न करता है",
+   "यह उत्तरी गोलार्ध में हवाओं को दाईं ओर और दक्षिणी गोलार्ध में बाईं ओर विक्षेपित करता है",
+   "यह संवहन पैदा करने के लिए भूमध्यरेखीय क्षेत्रों को गर्म करता है",
+   "यह अश्व अक्षांशों पर हवाओं को पूरी तरह से रोक देता है"
+  ],
+  "correct": 1,
+  "explainEn": "The Coriolis force is an apparent force caused by the Earth's rotation that deflects moving objects, including winds, to the right in the Northern Hemisphere and to the left in the Southern Hemisphere.",
+  "sourceHint": "NCERT Class 11 Geography, Fundamentals of Physical Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T04:53:46Z"
  }
 ]
