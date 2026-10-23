@@ -19122,5 +19122,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-23T04:53:28Z"
+ },
+ {
+  "id": "q_02218ecf64f84c2e",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which tier of government is the third tier in India's federal structure?",
+  "qHi": "भारत के संघीय ढांचे में सरकार का तीसरा स्तर कौन सा है?",
+  "optsEn": [
+   "Central Government",
+   "State Government",
+   "Local Government",
+   "Union Territory Government"
+  ],
+  "optsHi": [
+   "केंद्र सरकार",
+   "राज्य सरकार",
+   "स्थानीय सरकार",
+   "केंद्र शासित प्रदेश सरकार"
+  ],
+  "correct": 2,
+  "explainEn": "India has a three-tier federal system consisting of the Union government, State governments, and Local government (Panchayats and Municipalities).",
+  "sourceHint": "NCERT Class 10 Civics Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:41:24Z"
+ },
+ {
+  "id": "q_4806609f7b8e4196",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which process is responsible for the green colour of leaves?",
+  "qHi": "पत्तियों के हरे रंग के लिए कौन सी प्रक्रिया जिम्मेदार है?",
+  "optsEn": [
+   "Presence of chlorophyll",
+   "Presence of stomata",
+   "Transpiration",
+   "Respiration"
+  ],
+  "optsHi": [
+   "क्लोरोफिल की उपस्थिति",
+   "रंध्र की उपस्थिति",
+   "वाष्पोत्सर्जन",
+   "श्वसन"
+  ],
+  "correct": 0,
+  "explainEn": "Leaves appear green because they contain a pigment called chlorophyll, which absorbs light for photosynthesis.",
+  "sourceHint": "NCERT Class 10 Science Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:41:24Z"
+ },
+ {
+  "id": "q_c197c3c41de4f10b",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which type of energy conversion does a thermal power plant operate?",
+  "qHi": "ताप विद्युत संयंत्र किस प्रकार के ऊर्जा रूपांतरण पर कार्य करता है?",
+  "optsEn": [
+   "Chemical energy to electrical energy",
+   "Thermal energy to electrical energy",
+   "Solar energy to electrical energy",
+   "Nuclear energy to electrical energy"
+  ],
+  "optsHi": [
+   "रासायनिक ऊर्जा से विद्युत ऊर्जा",
+   "ऊष्मीय ऊर्जा से विद्युत ऊर्जा",
+   "सौर ऊर्जा से विद्युत ऊर्जा",
+   "नाभिकीय ऊर्जा से विद्युत ऊर्जा"
+  ],
+  "correct": 1,
+  "explainEn": "Thermal power plants burn fossil fuels to heat water into steam, which runs turbines to convert thermal energy into electrical energy.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:42:32Z"
+ },
+ {
+  "id": "q_d7ce04ffc1db54cf",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the term used for power sharing between different organs of government, such as the legislature, executive, and judiciary?",
+  "qHi": "सरकार के विभिन्न अंगों, जैसे विधायिका, कार्यपालिका और न्यायपालिका के बीच सत्ता के विभाजन को क्या कहा जाता है?",
+  "optsEn": [
+   "Vertical division of power",
+   "Horizontal division of power",
+   "Community government",
+   "Federal division"
+  ],
+  "optsHi": [
+   "सत्ता का ऊर्ध्वाधर विभाजन",
+   "सत्ता का क्षैतिज विभाजन",
+   "सामुदायिक सरकार",
+   "संघीय विभाजन"
+  ],
+  "correct": 1,
+  "explainEn": "Power sharing among different organs of government like the legislature, executive, and judiciary is called horizontal distribution of power because it places organs at the same level.",
+  "sourceHint": "NCERT Class 10 Political Science, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:42:32Z"
+ },
+ {
+  "id": "q_d85888f218d5e468",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which sector is also known as the service sector in economic activities?",
+  "qHi": "आर्थिक गतिविधियों में किस क्षेत्र को सेवा क्षेत्र के रूप में भी जाना जाता है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Quaternary sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "तृतीयक क्षेत्र",
+   "चतुर्थक क्षेत्र"
+  ],
+  "correct": 2,
+  "explainEn": "The tertiary sector includes activities that help in the development of primary and secondary sectors and generates services rather than goods, hence called the service sector.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:42:32Z"
  }
 ]

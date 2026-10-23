@@ -15230,5 +15230,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-23T04:53:23Z"
+ },
+ {
+  "id": "q_a68ef40fc2b40b0e",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which microorganism is responsible for fixing nitrogen in the root nodules of leguminous plants?",
+  "qHi": "फलीदार पौधों की जड़ की गांठों में नाइट्रोजन स्थिरीकरण के लिए कौन सा सूक्ष्मजीव जिम्मेदार है?",
+  "optsEn": [
+   "Lactobacillus",
+   "Rhizobium",
+   "Yeast",
+   "Amoeba"
+  ],
+  "optsHi": [
+   "लैक्टोबैसिलस",
+   "राइज़ोबियम",
+   "यीस्ट",
+   "अमीबा"
+  ],
+  "correct": 1,
+  "explainEn": "Rhizobium bacteria live in the root nodules of leguminous plants and fix atmospheric nitrogen.",
+  "sourceHint": "NCERT Class 8 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:41:12Z"
+ },
+ {
+  "id": "q_82681ec1e2ad8218",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which layer of the Earth's atmosphere contains the ozone layer that protects us from harmful ultraviolet rays?",
+  "qHi": "पृथ्वी के वायुमंडल की किस परत में ओजोन परत पाई जाती है जो हमें हानिकारक पराबैंगनी किरणों से बचाती है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The ozone layer is located in the stratosphere, absorbing harmful UV radiation from the Sun.",
+  "sourceHint": "NCERT Geography Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:41:12Z"
  }
 ]

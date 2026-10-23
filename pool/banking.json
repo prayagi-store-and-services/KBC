@@ -22650,5 +22650,453 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-23T04:53:52Z"
+ },
+ {
+  "id": "q_2e30510c5b09c7e9",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum number of digits in an IFSC code?",
+  "qHi": "IFSC कोड में अधिकतम कितने अंक या अक्षर होते हैं?",
+  "optsEn": [
+   "11",
+   "10",
+   "9",
+   "12"
+  ],
+  "optsHi": [
+   "11",
+   "10",
+   "9",
+   "12"
+  ],
+  "correct": 0,
+  "explainEn": "An Indian Financial System Code (IFSC) is an 11-character alphanumeric code used for electronic payment applications.",
+  "sourceHint": "Reserve Bank of India payment guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:40:55Z"
+ },
+ {
+  "id": "q_e16abfd4a131e989",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India regulates the cooperative banks?",
+  "qHi": "भारत में सहकारी बैंकों को कौन सा संगठन विनियमित करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "NABARD",
+   "Securities and Exchange Board of India",
+   "State Bank of India"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "नाबार्ड",
+   "भारतीय प्रतिभूति and विनिमय बोर्ड",
+   "भारतीय स्टेट बैंक"
+  ],
+  "correct": 0,
+  "explainEn": "Reserve Bank of India regulates cooperative banks under the Banking Regulation Act, 1949.",
+  "sourceHint": "RBI official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:42:04Z"
+ },
+ {
+  "id": "q_576ba58cb8dc5d2a",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque is valid for a standard period of how many months from its date of issuance in India?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, भारत में जारी होने की तारीख से एक चेक मानक कितने महीनों की अवधि के लिए वैध होता है?",
+  "optsEn": [
+   "3 months",
+   "6 months",
+   "12 months",
+   "1 month"
+  ],
+  "optsHi": [
+   "3 महीने",
+   "6 महीने",
+   "12 महीने",
+   "1 महीना"
+  ],
+  "correct": 0,
+  "explainEn": "RBI directed that the validity period of cheques, drafts, pay orders, and banker's cheques was reduced from 6 months to 3 months.",
+  "sourceHint": "RBI Circulars",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:42:04Z"
+ },
+ {
+  "id": "q_c64f4f945b995cea",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following institutions is the primary regulator of regional rural banks in India?",
+  "qHi": "निम्नलिखित में से कौन सी संस्था भारत में क्षेत्रीय ग्रामीण बैंकों की प्राथमिक नियामक है?",
+  "optsEn": [
+   "NABARD",
+   "SIDBI",
+   "EXIM Bank",
+   "IFCI"
+  ],
+  "optsHi": [
+   "नाबार्ड",
+   "सिडबी",
+   "एक्जिम बैंक",
+   "आईएफसीआई"
+  ],
+  "correct": 0,
+  "explainEn": "NABARD is entrusted with the responsibility of regulating and supervising Regional Rural Banks in India.",
+  "sourceHint": "NABARD official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:42:04Z"
+ },
+ {
+  "id": "q_3522838ec80907c6",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum amount insured per depositor per bank by DICGC in India?",
+  "qHi": "भारत में डीआईसीजीसी (DICGC) द्वारा प्रति बैंक प्रति जमाकर्ता अधिकतम कितनी राशि बीमित है?",
+  "optsEn": [
+   "5 Lakh Rupees",
+   "1 Lakh Rupees",
+   "2 Lakh Rupees",
+   "10 Lakh Rupees"
+  ],
+  "optsHi": [
+   "5 लाख रुपये",
+   "1 लाख रुपये",
+   "2 लाख रुपये",
+   "10 लाख रुपये"
+  ],
+  "correct": 0,
+  "explainEn": "Deposit Insurance and Credit Guarantee Corporation insures bank deposits up to 5 Lakh Rupees per depositor per bank.",
+  "sourceHint": "DICGC official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:42:04Z"
+ },
+ {
+  "id": "q_1fecd45221c7f6b7",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does 'C' stand for in the financial acronym 'CASA' account?",
+  "qHi": "वित्तीय संक्षिप्त नाम 'CASA' खाते में 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Current",
+   "Capital",
+   "Credit",
+   "Collateral"
+  ],
+  "optsHi": [
+   "करेंट (Current)",
+   "कैपिटल (Capital)",
+   "क्रेडिट (Credit)",
+   "संपार्श्विक (Collateral)"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account Savings Account, which represents low-cost funds for banks.",
+  "sourceHint": "Indian Institute of Banking and Finance",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:42:04Z"
+ },
+ {
+  "id": "q_11584e773a6492d7",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which entity operates the Unified Payments Interface (UPI) network in India?",
+  "qHi": "भारत में यूनिफाइड पेमेंट्स इंटरफेस (UPI) नेटवर्क का संचालन कौन सी संस्था करती है?",
+  "optsEn": [
+   "National Payments Corporation of India",
+   "Reserve Bank of India",
+   "Telecom Regulatory Authority of India",
+   "Indian Banks Association"
+  ],
+  "optsHi": [
+   "भारतीय राष्ट्रीय भुगतान निगम",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय दूरसंचार विनियामक प्राधिकरण",
+   "भारतीय बैंक संघ"
+  ],
+  "correct": 0,
+  "explainEn": "NPCI operates retail payments and settlement systems in India, including UPI.",
+  "sourceHint": "NPCI official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:42:04Z"
+ },
+ {
+  "id": "q_a889451bfa918307",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of a 'Monetary Policy Committee' constituted by the central government?",
+  "qHi": "केंद्र सरकार द्वारा गठित 'मौद्रिक नीति समिति' का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "Inflation Targeting",
+   "Managing Fiscal Deficit",
+   "Determining Income Tax Slabs",
+   "Regulating Stock Exchanges"
+  ],
+  "optsHi": [
+   "मुद्रास्फीति लक्ष्यीकरण",
+   "राजकोषीय घाटे का प्रबंधन",
+   "आयकर स्लैब का निर्धारण",
+   "स्टॉक एक्सचेंजों का विनियमन"
+  ],
+  "correct": 0,
+  "explainEn": "The primary objective of the Monetary Policy Committee is to maintain price stability while keeping in mind the objective of growth.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:42:04Z"
+ },
+ {
+  "id": "q_9681df6c2e944276",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which section of the Banking Regulation Act, 1949 restricts a banking company from paying any dividend on its shares until all of its capitalized expenses have been completely written off?",
+  "qHi": "बैंकिंग विनियमन अधिनियम, 1949 की कौन सी धारा एक बैंकिंग कंपनी को अपने शेयरों पर किसी भी लाभांश का भुगतान करने से तब तक रोकती है जब तक कि उसके सभी पूंजीकृत खर्च पूरी तरह से बट्टे खाते में नहीं डाल दिए जाते?",
+  "optsEn": [
+   "Section 12",
+   "Section 15",
+   "Section 19",
+   "Section 24"
+  ],
+  "optsHi": [
+   "धारा 12",
+   "धारा 15",
+   "धारा 19",
+   "धारा 24"
+  ],
+  "correct": 1,
+  "explainEn": "Section 15 of the Banking Regulation Act, 1949 explicitly prohibits payment of dividends until capitalized expenses (like preliminary expenses) are completely written off.",
+  "sourceHint": "Banking Regulation Act, 1949",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:43:33Z"
+ },
+ {
+  "id": "q_469781f5b1de5aee",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Marginal Cost of Funds based Lending Rate (MCLR) system introduced by the RBI, which of the following components has the highest weight in the calculation of MCLR?",
+  "qHi": "RBI द्वारा शुरू की गई फंड-आधारित उधार दर (MCLR) प्रणाली के तहत, निम्नलिखित में से किस घटक का MCLR की गणना में सबसे अधिक भार है?",
+  "optsEn": [
+   "Negative carry on cash reserve ratio",
+   "Operating cost",
+   "Marginal cost of funds",
+   "Tenor premium"
+  ],
+  "optsHi": [
+   "नकद आरक्षित अनुपात पर नकारात्मक कैरी",
+   "परिचालन लागत",
+   "फंड की सीमांत लागत",
+   "टेनोर प्रीमियम"
+  ],
+  "correct": 2,
+  "explainEn": "The Marginal Cost of Funds accounts for 92 percent of the MCLR calculation, making it the primary and highest-weighted component.",
+  "sourceHint": "Reserve Bank of India guidelines on MCLR",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:43:33Z"
+ },
+ {
+  "id": "q_4d768b1368a448d5",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the maximum permissible limit for total promoter shareholding in the paid-up voting equity capital of a private sector bank after 15 years of operations, as per the current RBI guidelines?",
+  "qHi": "वर्तमान आरबीआई दिशानिर्देशों के अनुसार, संचालन के 15 वर्षों के बाद एक निजी क्षेत्र के बैंक की चुकता मतदान इक्विटी पूंजी में कुल प्रमोटर शेयरधारिता की अधिकतम स्वीकार्य सीमा क्या है?",
+  "optsEn": [
+   "15 percent",
+   "20 percent",
+   "26 percent",
+   "35 percent"
+  ],
+  "optsHi": [
+   "15 प्रतिशत",
+   "20 प्रतिशत",
+   "26 प्रतिशत",
+   "35 प्रतिशत"
+  ],
+  "correct": 2,
+  "explainEn": "RBI guidelines on ownership in private sector banks state that promoters' shareholding should be brought down to 26 percent of the paid-up voting equity capital of the bank within 15 years.",
+  "sourceHint": "RBI Guidelines on Licensing of Universal Banks in the Private Sector",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:43:33Z"
+ },
+ {
+  "id": "q_d51a4fae2010c30c",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific category of Non-Banking Financial Companies (NBFCs) is statutorily mandated to maintain a liquidity risk management framework, including a liquidity coverage ratio (LCR), under RBI regulations?",
+  "qHi": "RBI नियमों के तहत गैर-बैंकिंग वित्तीय कंपनियों (NBFCs) की किस विशिष्ट श्रेणी को तरलता जोखिम प्रबंधन ढांचा बनाए रखने के लिए वैधानिक रूप से अनिवार्य किया गया है?",
+  "optsEn": [
+   "NBFC-Factor",
+   "Deposit-taking NBFCs and Non-deposit taking NBFCs with asset size of Rs 5,000 crore and above",
+   "Core Investment Companies only",
+   "Housing Finance Companies with asset size below Rs 100 crore"
+  ],
+  "optsHi": [
+   "एनबीएफसी-फैक्टर",
+   "जमा स्वीकार करने वाली एनबीएफसी और 5,000 करोड़ रुपये और उससे अधिक के संपत्ति आकार वाली गैर-जमा स्वीकार करने वाली एनबीएफसी",
+   "केवल कोर इन्वेस्टमेंट कंपनियां",
+   "100 करोड़ रुपये से कम संपत्ति आकार वाली आवास वित्त कंपनियां"
+  ],
+  "correct": 1,
+  "explainEn": "RBI mandates the implementation of LCR for all deposit-taking NBFCs and non-deposit-taking NBFCs with an asset size of Rs 5,000 crore and above.",
+  "sourceHint": "RBI Master Directions - Non-Banking Financial Company - Systemically Important Non-Deposit taking Company",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:43:33Z"
+ },
+ {
+  "id": "q_11ae9a9a97dde4cf",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of international trade finance, what does the term 'Red Clause Letter of Credit' specifically permit the beneficiary to do?",
+  "qHi": "अंतर्राष्ट्रीय व्यापार वित्त के संदर्भ में, 'रेड क्लॉज़ लेटर ऑफ़ क्रेडिट' विशेष रूप से लाभार्थी को क्या करने की अनुमति देता है?",
+  "optsEn": [
+   "Draw an advance before shipment of goods against the presentation of a receipt",
+   "Transfer the credit to multiple secondary beneficiaries",
+   "Extend the validity of the credit automatically upon expiration",
+   "Receive payment only after final inspection of goods at the destination port"
+  ],
+  "optsHi": [
+   "रसीद प्रस्तुत करने के खिलाफ माल के शिपमेंट से पहले अग्रिम निकालना",
+   "क्रेडिट को कई माध्यमिक लाभार्थियों को स्थानांतरित करना",
+   "समाप्ति पर स्वचालित रूप से क्रेडिट की वैधता का विस्तार करना",
+   "गंतव्य बंदरगाह पर माल के अंतिम निरीक्षण के बाद ही भुगतान प्राप्त करना"
+  ],
+  "correct": 0,
+  "explainEn": "A Red Clause Letter of Credit contains a clause that allows the seller to draw an advance from the advising or paying bank prior to shipment and before presenting the shipping documents.",
+  "sourceHint": "Uniform Customs and Practice for Documentary Credits (UCP 600)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:43:33Z"
+ },
+ {
+  "id": "q_22c0b777eba2dfc6",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "As per the Negotiable Instruments Act, 1881, under which section is a cheque deemed to be crossed 'generally' when it bears across its face an addition of two parallel transverse lines?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के अनुसार, किस धारा के तहत एक चेक को 'सामान्य रूप से' रेखांकित माना जाता है जब उसके चेहरे पर दो समानांतर अनुप्रस्थ रेखाएं होती हैं?",
+  "optsEn": [
+   "Section 123",
+   "Section 125",
+   "Section 131",
+   "Section 138"
+  ],
+  "optsHi": [
+   "धारा 123",
+   "धारा 125",
+   "धारा 131",
+   "धारा 138"
+  ],
+  "correct": 0,
+  "explainEn": "Section 123 of the Negotiable Instruments Act defines general crossing as two parallel transverse lines, with or without words like 'and Company'.",
+  "sourceHint": "The Negotiable Instruments Act, 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:43:33Z"
+ },
+ {
+  "id": "q_114a5fca5cc6a508",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which entity holds the primary regulatory responsibility for oversight of Credit Information Companies (CICs) operating in India under the Credit Information Companies (Regulation) Act, 2005?",
+  "qHi": "क्रेडिट सूचना कंपनियां (विनियमन) अधिनियम, 2005 के तहत भारत में काम करने वाली क्रेडिट सूचना कंपनियों (CIC) की निगरानी के लिए प्राथमिक नियामक जिम्मेदारी कौन सी संस्था रखती है?",
+  "optsEn": [
+   "SEBI",
+   "IRDAI",
+   "RBI",
+   "NABARD"
+  ],
+  "optsHi": [
+   "सेबी",
+   "इरडाई",
+   "भारतीय रिजर्व बैंक",
+   "नाबार्ड"
+  ],
+  "correct": 2,
+  "explainEn": "The Reserve Bank of India regulates Credit Information Companies (CICs) under the powers conferred by the Credit Information Companies (Regulation) Act, 2005.",
+  "sourceHint": "RBI Notification and Credit Information Companies (Regulation) Act, 2005",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:43:33Z"
+ },
+ {
+  "id": "q_848cfc591de49c17",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary objective of introducing the 'Prompt Corrective Action' (PCA) framework for commercial banks by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा वाणिज्यिक बैंकों के लिए 'तत्काल सुधारात्मक कार्रवाई' (PCA) ढांचा शुरू करने का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To privatize weak public sector banks immediately",
+   "To monitor financial health indicators like capital, asset quality, and profitability and intervene early",
+   "To merge rural cooperative banks with scheduled commercial banks",
+   "To provide direct equity infusion by the central government"
+  ],
+  "optsHi": [
+   "कमजोर सार्वजनिक क्षेत्र के बैंकों का तुरंत निजीकरण करना",
+   "पूंजी, परिसंपत्ति गुणवत्ता और लाभकारिता जैसे वित्तीय स्वास्थ्य संकेतकों की निगरानी करना और जल्दी हस्तक्षेप करना",
+   "ग्रामीण सहकारी बैंकों का अनुसूचित वाणिज्यिक बैंकों के साथ विलय करना",
+   "केंद्र सरकार द्वारा प्रत्यक्ष इक्विटी निवेश प्रदान करना"
+  ],
+  "correct": 1,
+  "explainEn": "The PCA framework enables the RBI to intervene early and take supervisory actions when banks hit certain tripwires regarding capital, asset quality, and leverage.",
+  "sourceHint": "Reserve Bank of India PCA Framework Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:43:33Z"
  }
 ]

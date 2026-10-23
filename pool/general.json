@@ -14306,5 +14306,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-23T04:53:57Z"
+ },
+ {
+  "id": "q_cb939752f37d790b",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which Indian state is famous for the classical dance form Bharatanatyam?",
+  "qHi": "कौन सा भारतीय राज्य भरतनाट्यम शास्त्रीय नृत्य शैली के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Kerala",
+   "Tamil Nadu",
+   "Andhra Pradesh",
+   "Odisha"
+  ],
+  "optsHi": [
+   "केरल",
+   "तमिलनाडु",
+   "आंध्र प्रदेश",
+   "ओडिशा"
+  ],
+  "correct": 1,
+  "explainEn": "Bharatanatyam is widely recognized as the traditional classical dance originating in Tamil Nadu.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:40:59Z"
+ },
+ {
+  "id": "q_fa682dcb3cadbdfd",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas do green plants predominantly absorb from the atmosphere during photosynthesis?",
+  "qHi": "हरे पौधे प्रकाश संश्लेषण के दौरान वायुमंडल से मुख्य रूप से कौन सी गैस अवशोषित करते हैं?",
+  "optsEn": [
+   "Oxygen",
+   "Nitrogen",
+   "Carbon dioxide",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "कार्बन डाइऑक्साइड",
+   "हाइड्रोजन"
+  ],
+  "correct": 2,
+  "explainEn": "Plants absorb carbon dioxide from the air to produce food during photosynthesis.",
+  "sourceHint": "NCERT Biology Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:40:59Z"
+ },
+ {
+  "id": "q_e88e961bb8704ed6",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The classical dance form Kuchipudi originated in which Indian state?",
+  "qHi": "शास्त्रीय नृत्य शैली कुचिपुड़ी की उत्पत्ति भारत के किस राज्य में हुई थी?",
+  "optsEn": [
+   "Kerala",
+   "Odisha",
+   "Andhra Pradesh",
+   "Tamil Nadu"
+  ],
+  "optsHi": [
+   "केरल",
+   "ओडिशा",
+   "आंध्र प्रदेश",
+   "तमिलनाडु"
+  ],
+  "correct": 2,
+  "explainEn": "Kuchipudi is a major Indian classical dance that originated in the village of Kuchipudi in Andhra Pradesh.",
+  "sourceHint": "NCERT Fine Arts Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:42:08Z"
+ },
+ {
+  "id": "q_9094a94609b6bd60",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which constitutional amendment added Part IX-A to the Constitution of India, pertaining to municipalities?",
+  "qHi": "भारत के संविधान में किस संवैधानिक संशोधन द्वारा भाग IX-A जोड़ा गया, जो नगरपालिकाओं से संबंधित है?",
+  "optsEn": [
+   "Seventy-Third Amendment Act",
+   "Seventy-Fourth Amendment Act",
+   "Ninetieth Amendment Act",
+   "Ninety-First Amendment Act"
+  ],
+  "optsHi": [
+   "तिहत्तरवां संशोधन अधिनियम",
+   "चौहत्तरवां संशोधन अधिनियम",
+   "नब्बेवां संशोधन अधिनियम",
+   "इकानवेवां संशोधन अधिनियम"
+  ],
+  "correct": 1,
+  "explainEn": "The 74th Constitutional Amendment Act, 1992 added Part IX-A to the Constitution, establishing urban local bodies (municipalities).",
+  "sourceHint": "Constitution of India, Part IX-A",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:43:48Z"
+ },
+ {
+  "id": "q_0abca5fe55a5cac0",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which biogeographic zone of India is the Great Indian Bustard primarily found in the wild?",
+  "qHi": "ग्रेट इंडियन बस्टर्ड मुख्य रूप से भारत के किस जैव-भौगोलिक क्षेत्र में जंगली अवस्था में पाया जाता है?",
+  "optsEn": [
+   "Western Ghats",
+   "North-East",
+   "Semi-Arid Desert",
+   "Deccan Peninsula"
+  ],
+  "optsHi": [
+   "पश्चिमी घाट",
+   "उत्तर-पूर्व",
+   "अर्ध-शुष्क रेगिस्तान",
+   "दक्कन प्रायद्वीप"
+  ],
+  "correct": 2,
+  "explainEn": "The Great Indian Bustard inhabits dry grasslands and semi-arid scrublands, primarily in Rajasthan and parts of western India.",
+  "sourceHint": "Wildlife Institute of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:43:48Z"
+ },
+ {
+  "id": "q_f79cb45e2d2c8dfe",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who wrote the Sanskrit treatise 'Ashtadhyayi', a foundational text of grammatical analysis?",
+  "qHi": "व्याकरण विश्लेषण का एक बुनियादी ग्रंथ 'अष्टाध्यायी' नामक संस्कृत ग्रंथ किसने लिखा था?",
+  "optsEn": [
+   "Kalidasa",
+   "Panini",
+   "Patanjali",
+   "Bhartrihari"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "पाणिनी",
+   "पतंजलि",
+   "भर्तृहरि"
+  ],
+  "correct": 1,
+  "explainEn": "Panini was an ancient Sanskrit philologist and grammarian who formulated the 3,836 rules of Sanskrit morphology in the Ashtadhyayi.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:43:48Z"
+ },
+ {
+  "id": "q_36397c14197ec9f0",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which element was discovered in 1868 by Pierre Janssen and Norman Lockyer through spectroscopic analysis of sunlight during a solar eclipse?",
+  "qHi": "सूर्य ग्रहण के दौरान सूर्य के प्रकाश के स्पेक्ट्रोस्कोपिक विश्लेषण द्वारा 1868 में पियरे जानसेन और नॉर्मन लोकर द्वारा किस तत्व की खोज की गई थी?",
+  "optsEn": [
+   "Helium",
+   "Neon",
+   "Argon",
+   "Cesium"
+  ],
+  "optsHi": [
+   "हीलियम",
+   "नियन",
+   "आर्गन",
+   "सीसियम"
+  ],
+  "correct": 0,
+  "explainEn": "Helium was first detected as an unknown yellow spectral line signature in sunlight during a solar eclipse in Guntur, India, by Pierre Janssen.",
+  "sourceHint": "Royal Society records",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:43:48Z"
+ },
+ {
+  "id": "q_0f10b70e2bc24c49",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In classical Indian music, which thaat does Raag Bhairav belong to?",
+  "qHi": "शास्त्रीय भारतीय संगीत में, राग भैरव किस थाट के अंतर्गत आता है?",
+  "optsEn": [
+   "Kalyan",
+   "Khamaj",
+   "Bhairav",
+   "Bhairavi"
+  ],
+  "optsHi": [
+   "कल्याण",
+   "खमाज",
+   "भैरव",
+   "भैरवी"
+  ],
+  "correct": 2,
+  "explainEn": "Raag Bhairav is the chief raga of its own eponymous thaat, characterized by komal rishabh and komal dhaivat.",
+  "sourceHint": "Sangeet Natak Akademi",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:43:48Z"
+ },
+ {
+  "id": "q_b3ce564e7d18f976",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian state has the coastline along the Palk Bay and the Gulf of Mannar?",
+  "qHi": "किस भारतीय राज्य की तटरेखा पाक खाड़ी और मन्नार की खाड़ी के साथ लगती है?",
+  "optsEn": [
+   "Kerala",
+   "Odisha",
+   "Tamil Nadu",
+   "Andhra Pradesh"
+  ],
+  "optsHi": [
+   "केरल",
+   "ओडिशा",
+   "तमिलनाडु",
+   "आंध्र प्रदेश"
+  ],
+  "correct": 2,
+  "explainEn": "Tamil Nadu is separated from Sri Lanka by the Palk Strait and borders both the Palk Bay and the Gulf of Mannar.",
+  "sourceHint": "Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:43:48Z"
+ },
+ {
+  "id": "q_8ef2358e489242ee",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who authored the 19th-century socio-religious text 'Gulamgiri', which critiqued the caste system?",
+  "qHi": "19वीं सदी का सामाजिक-धार्मिक ग्रंथ 'गुलामगिरी' किसने लिखा था, जिसमें जाति व्यवस्था की आलोचना की गई थी?",
+  "optsEn": [
+   "Jyotirao Phule",
+   "B. R. Ambedkar",
+   "Periyar E. V. Ramasamy",
+   "Swami Vivekananda"
+  ],
+  "optsHi": [
+   "ज्योतिराव फुले",
+   "बी. आर. आंबेडकर",
+   "पेरियार ई. वी. रामास्वामी",
+   "स्वामी विवेकानंद"
+  ],
+  "correct": 0,
+  "explainEn": "Jyotirao Phule wrote Gulamgiri in 1873, dedicating it to enslaved people in America who fought against slavery, drawing parallels with the Indian caste system.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:43:48Z"
  }
 ]

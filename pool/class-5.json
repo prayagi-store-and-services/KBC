@@ -19570,5 +19570,341 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-23T04:53:18Z"
+ },
+ {
+  "id": "q_e086767c345d3ec1",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which directional line points towards the North on a standard map?",
+  "qHi": "मानक मानचित्र पर कौन सी दिशा की रेखा उत्तर की ओर इंगित करती है?",
+  "optsEn": [
+   "Top",
+   "Bottom",
+   "Left",
+   "Right"
+  ],
+  "optsHi": [
+   "ऊपर",
+   "नीचे",
+   "बाएँ",
+   "दाएँ"
+  ],
+  "correct": 0,
+  "explainEn": "Maps are normally oriented with North at the top.",
+  "sourceHint": "NCERT Class 6 Geography (Maps)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:41:03Z"
+ },
+ {
+  "id": "q_b28024db10631b7c",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these is an example of an insect?",
+  "qHi": "इनमें से कौन सा एक कीट का उदाहरण है?",
+  "optsEn": [
+   "Housefly",
+   "Frog",
+   "Snake",
+   "Sparrow"
+  ],
+  "optsHi": [
+   "घरेलू मक्खी",
+   "मेंढक",
+   "सांप",
+   "गौरैया"
+  ],
+  "correct": 0,
+  "explainEn": "A housefly is an insect, which is a type of small invertebrate animal with six legs.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:41:03Z"
+ },
+ {
+  "id": "q_cac0e43215bb510f",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of energy is obtained by trapping heat from the sun using solar panels?",
+  "qHi": "सौर पैनलों का उपयोग करके सूर्य की गर्मी को फँसाकर किस प्रकार की ऊर्जा प्राप्त की जाती है?",
+  "optsEn": [
+   "Wind energy",
+   "Solar energy",
+   "Hydro energy",
+   "Geothermal energy"
+  ],
+  "optsHi": [
+   "पवन ऊर्जा",
+   "सौर ऊर्जा",
+   "जल विद्युत ऊर्जा",
+   "भू-तापीय ऊर्जा"
+  ],
+  "correct": 1,
+  "explainEn": "Solar energy is captured directly from sunlight using solar panels to generate electricity or heat.",
+  "sourceHint": "NCERT Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:42:13Z"
+ },
+ {
+  "id": "q_657c198c7f57d9cc",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the main gas that green plants release during photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण के दौरान हरे पौधे मुख्य रूप से कौन सी गैस छोड़ते हैं?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Oxygen",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Plants take in carbon dioxide and release oxygen into the atmosphere during the process of photosynthesis.",
+  "sourceHint": "NCERT Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:42:13Z"
+ },
+ {
+  "id": "q_78f57cd2edc6c2f7",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian dance form originates from the state of Kerala and is known for elaborate face makeup?",
+  "qHi": "कौन सा पारंपरिक भारतीय नृत्य रूप केरल राज्य से उत्पन्न हुआ है और विस्तृत चेहरे के मेकअप के लिए जाना जाता है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Kuchipudi",
+   "Manipuri"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "कुचिपुड़ी",
+   "मणिपुरी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a classical dance-drama from Kerala distinguished by its colorful makeup and costumes.",
+  "sourceHint": "NCERT Art and Culture references",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:42:13Z"
+ },
+ {
+  "id": "q_02f4de8795ffdd57",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the name of the imaginary line running from the North Pole to the South Pole through the center of the Earth, on which it rotates?",
+  "qHi": "उत्तरी ध्रुव से दक्षिणी ध्रुव तक पृथ्वी के केंद्र से गुजरने वाली काल्पनिक रेखा का क्या नाम है, जिस पर वह घूमती है?",
+  "optsEn": [
+   "Orbit",
+   "Axis",
+   "Equator",
+   "Meridian"
+  ],
+  "optsHi": [
+   "कक्षा",
+   "अक्ष",
+   "भूमध्य रेखा",
+   "मध्याह्न रेखा"
+  ],
+  "correct": 1,
+  "explainEn": "The Earth rotates daily around its own imaginary line called the axis.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:42:13Z"
+ },
+ {
+  "id": "q_8e2ec20ccf50f3fe",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which layer of the atmosphere contains the ozone layer that protects us from harmful ultraviolet rays?",
+  "qHi": "वायुमंडल की किस परत में ओजोन परत होती है जो हमें हानिकारक पराबैंगनी किरणों से बचाती है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The ozone layer is found within the stratosphere layer of Earth's atmosphere.",
+  "sourceHint": "NCERT Science and Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:42:13Z"
+ },
+ {
+  "id": "q_5c263d9e335fb119",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary structural component of the cell wall in plant cells that provides rigid support and protection?",
+  "qHi": "पादप कोशिकाओं में कोशिका भित्ति का प्राथमिक संरचनात्मक घटक क्या है जो कठोर सहारा और सुरक्षा प्रदान करता है?",
+  "optsEn": [
+   "Cellulose",
+   "Chitin",
+   "Starch",
+   "Glycogen"
+  ],
+  "optsHi": [
+   "सेलूलोज़",
+   "काइटीन",
+   "स्टार्च",
+   "ग्लाइकोजन"
+  ],
+  "correct": 0,
+  "explainEn": "Plant cell walls are primarily made of cellulose, which gives them a rigid structure.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:44:06Z"
+ },
+ {
+  "id": "q_9e57e6e23b00357c",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which vitamin is synthesized in human skin when exposed to adequate ultraviolet rays from sunlight?",
+  "qHi": "सूर्य के प्रकाश की पराबैंगनी किरणों के संपर्क में आने पर मानव त्वचा में कौन सा विटामिन संश्लेषित होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Vitamin D is produced in the skin when it is exposed to sunlight.",
+  "sourceHint": "NCERT Class 6 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:44:06Z"
+ },
+ {
+  "id": "q_462135cffb7d662d",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which historical pillar, erected by Emperor Ashoka, features the national emblem of India?",
+  "qHi": "सम्राट अशोक द्वारा निर्मित किस ऐतिहासिक स्तंभ पर भारत का राष्ट्रीय प्रतीक बना हुआ है?",
+  "optsEn": [
+   "Mehrauli Pillar",
+   "Sarnath Pillar",
+   "Allahabad Pillar",
+   "Vaishali Pillar"
+  ],
+  "optsHi": [
+   "मेहरौली स्तंभ",
+   "सारनाथ स्तंभ",
+   "इलाहाबाद स्तंभ",
+   "वैशाली स्तंभ"
+  ],
+  "correct": 1,
+  "explainEn": "The State Emblem of India is an adaptation of the Lion Capital of Ashoka at Sarnath.",
+  "sourceHint": "NCERT Class 6 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:44:06Z"
+ },
+ {
+  "id": "q_22115cd24589df55",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the scientific term used for the movement of water molecules through a selectively permeable membrane from a region of higher concentration to lower concentration?",
+  "qHi": "उच्च सांद्रता वाले क्षेत्र से निम्न सांद्रता की ओर चयनात्मक पारगम्य झिल्ली के माध्यम से पानी के अणुओं की गति के लिए किस वैज्ञानिक शब्द का उपयोग किया जाता है?",
+  "optsEn": [
+   "Diffusion",
+   "Osmosis",
+   "Transpiration",
+   "Evaporation"
+  ],
+  "optsHi": [
+   "विसरण",
+   "परासरण",
+   "वाष्पोसर्जन",
+   "वाष्पीकरण"
+  ],
+  "correct": 1,
+  "explainEn": "Osmosis is the specific term for the movement of water across a semipermeable membrane.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:44:06Z"
+ },
+ {
+  "id": "q_367c6da40ca403ee",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the Indian Constitution, which body is the highest court of appeal in the country?",
+  "qHi": "भारतीय संविधान के संदर्भ में, देश में अपील की सर्वोच्च अदालत कौन सी संस्था है?",
+  "optsEn": [
+   "Supreme Court",
+   "High Court",
+   "District Court",
+   "Lok Sabha"
+  ],
+  "optsHi": [
+   "उच्चतम न्यायालय",
+   "उच्च न्यायालय",
+   "जिला अदालत",
+   "लोकसभा"
+  ],
+  "correct": 0,
+  "explainEn": "The Supreme Court of India is the highest judicial court and final court of appeal under the Constitution.",
+  "sourceHint": "NCERT Class 6 Social and Political Life",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T11:44:06Z"
  }
 ]
