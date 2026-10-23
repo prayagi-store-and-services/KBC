@@ -23098,5 +23098,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-23T11:43:33Z"
+ },
+ {
+  "id": "q_9880c44a697369bb",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which term is used to describe the rate at which the Reserve Bank of India lends money to commercial banks in the short term?",
+  "qHi": "भारतीय रिजर्व बैंक अल्प अवधि के लिए वाणिज्यिक बैंकों को जिस दर पर ऋण देता है, उसे क्या कहा जाता है?",
+  "optsEn": [
+   "Repo Rate",
+   "CRR",
+   "SLR",
+   "Bank Rate"
+  ],
+  "optsHi": [
+   "रेपो रेट",
+   "सीआरआर",
+   "एसएलआर",
+   "बैंक दर"
+  ],
+  "correct": 0,
+  "explainEn": "Repo rate is the rate at which the central bank lends short-term money to commercial banks.",
+  "sourceHint": "RBI Monetary Policy Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:25:58Z"
+ },
+ {
+  "id": "q_44a616a37b7e6d1b",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization in India issues currency notes on behalf of the Central Government?",
+  "qHi": "भारत में केंद्र सरकार की ओर से कौन सा संगठन करेंसी नोट जारी करता है?",
+  "optsEn": [
+   "State Bank of India",
+   "Ministry of Finance",
+   "Reserve Bank of India",
+   "NABARD"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "वित्त मंत्रालय",
+   "भारतीय रिजर्व बैंक",
+   "नाबार्ड"
+  ],
+  "correct": 2,
+  "explainEn": "Under the Reserve Bank of India Act, 1934, the RBI has the sole right to issue currency notes in India (except one-rupee notes).",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:25:58Z"
+ },
+ {
+  "id": "q_2a58a57a938982a1",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of IFSC in the Indian banking system?",
+  "qHi": "भारतीय बैंकिंग प्रणाली में IFSC का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Indian Financial System Code",
+   "International Fund Security Code",
+   "Indian Fund Standard Corporation",
+   "Internal Financial Settlement Check"
+  ],
+  "optsHi": [
+   "इंडियन फाइनेंशियल सिस्टम कोड",
+   "इंटरनेशनल फंड सिक्योरिटी कोड",
+   "इंडियन फंड स्टैंडर्ड कॉरपोरेशन",
+   "इंटरनल फाइनेंशियल सेटलमेंट चेक"
+  ],
+  "correct": 0,
+  "explainEn": "IFSC stands for Indian Financial System Code, an 11-character alphanumeric code used for electronic funds transfer in India.",
+  "sourceHint": "RBI Payment Systems",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:25:58Z"
+ },
+ {
+  "id": "q_a3e674da758f602a",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'C' stand for in the banking acronym 'CASA' account?",
+  "qHi": "बैंकिंग संक्षिप्त नाम 'CASA' खाते में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Capital",
+   "Current",
+   "Credit",
+   "Collateral"
+  ],
+  "optsHi": [
+   "पूंजी",
+   "चालू",
+   "क्रेडिट",
+   "संपार्श्विक"
+  ],
+  "correct": 1,
+  "explainEn": "CASA stands for Current Account Savings Account, which represents bank deposits in current and savings accounts.",
+  "sourceHint": "RBI Glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:27:16Z"
+ },
+ {
+  "id": "q_bb8cee08fb2aecaf",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institution acts as the lender of last resort to commercial banks in India?",
+  "qHi": "भारत में वाणिज्यिक बैंकों के लिए अंतिम उपाय के ऋणदाता के रूप में कौन सी संस्था कार्य करती है?",
+  "optsEn": [
+   "State Bank of India",
+   "Ministry of Finance",
+   "Reserve Bank of India",
+   "National Bank for Agriculture and Rural Development"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "वित्त मंत्रालय",
+   "भारतीय रिजर्व बैंक",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक"
+  ],
+  "correct": 2,
+  "explainEn": "The Reserve Bank of India (RBI) acts as the lender of last resort, providing emergency credit to commercial banks facing liquidity crises.",
+  "sourceHint": "RBI Functions and Operations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:27:16Z"
+ },
+ {
+  "id": "q_0bf24c11e1a04560",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which market deals with short-term funds and financial instruments with a maturity period of up to one year?",
+  "qHi": "कौन सा बाजार अल्पकालिक धन और एक वर्ष तक की परिपक्वता अवधि वाले वित्तीय साधनों से संबंधित है?",
+  "optsEn": [
+   "Capital Market",
+   "Money Market",
+   "Primary Market",
+   "Foreign Exchange Market"
+  ],
+  "optsHi": [
+   "पूंजी बाजार",
+   "मुद्रा बाजार",
+   "प्राथमिक बाजार",
+   "विदेशी मुद्रा बाजार"
+  ],
+  "correct": 1,
+  "explainEn": "The money market is a segment of the financial market where financial instruments with high liquidity and short maturities (up to one year) are traded.",
+  "sourceHint": "NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:27:16Z"
+ },
+ {
+  "id": "q_6a9f0d35379809fb",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum limit of amount per transaction under the Immediate Payment Service (IMPS)?",
+  "qHi": "तत्काल भुगतान सेवा (IMPS) के तहत प्रति लेनदेन राशि की अधिकतम सीमा क्या है?",
+  "optsEn": [
+   "Rupees 1 Lakh",
+   "Rupees 2 Lakhs",
+   "Rupees 5 Lakhs",
+   "No upper limit"
+  ],
+  "optsHi": [
+   "1 लाख रुपये",
+   "2 लाख रुपये",
+   "5 लाख रुपये",
+   "कोई ऊपरी सीमा नहीं"
+  ],
+  "correct": 2,
+  "explainEn": "The Reserve Bank of India and NPCI have set the maximum per-transaction limit for IMPS at Rupees 5 Lakhs.",
+  "sourceHint": "NPCI Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:27:16Z"
+ },
+ {
+  "id": "q_995c4077c0585012",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is a qualitative tool of monetary policy used by the Reserve Bank of India?",
+  "qHi": "निम्नलिखित में से कौन सा भारतीय रिजर्व बैंक द्वारा प्रयुक्त मौद्रिक नीति का एक गुणात्मक उपकरण है?",
+  "optsEn": [
+   "Cash Reserve Ratio",
+   "Statutory Liquidity Ratio",
+   "Repo Rate",
+   "Margin Requirements"
+  ],
+  "optsHi": [
+   "नकद आरक्षित अनुपात",
+   "वैधानिक तरलता अनुपात",
+   "रेपो रेट",
+   "मार्जिन आवश्यकताएं"
+  ],
+  "correct": 3,
+  "explainEn": "Margin requirements are a selective or qualitative credit control tool, whereas CRR, SLR, and Repo Rate are quantitative tools.",
+  "sourceHint": "RBI Monetary Policy Framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:27:16Z"
+ },
+ {
+  "id": "q_2a799cee4ce6b2bb",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does 'F' stand for in the financial term 'NEFT'?",
+  "qHi": "वित्तीय शब्द 'NEFT' में 'F' का क्या अर्थ है?",
+  "optsEn": [
+   "Funds",
+   "Finance",
+   "Facility",
+   "Foreign"
+  ],
+  "optsHi": [
+   "फंड्स",
+   "फाइनेंस",
+   "फैसिलिटी",
+   "फॉरेन"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, a nationwide centralized payment system owned and operated by RBI.",
+  "sourceHint": "RBI Payment Systems",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:27:16Z"
+ },
+ {
+  "id": "q_a0c4a8ec096b43e3",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization allots the International Securities Identification Number (ISIN) for equities and bonds in India?",
+  "qHi": "भारत में इक्विटी और बॉन्ड के लिए अंतर्राष्ट्रीय प्रतिभूति पहचान संख्या (ISIN) कौन सा संगठन आवंटित करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "National Securities Depository Limited",
+   "Securities and Exchange Board of India",
+   "Bombay Stock Exchange"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "नेशनल सिक्योरिटीज डिपॉजिटरी लिमिटेड",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "बॉम्बे स्टॉक एक्सचेंज"
+  ],
+  "correct": 1,
+  "explainEn": "NSDL acts as the National Numbering Agency in India and is responsible for issuing ISIN codes for securities.",
+  "sourceHint": "SEBI Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:27:16Z"
  }
 ]

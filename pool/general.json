@@ -14586,5 +14586,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-23T11:43:48Z"
+ },
+ {
+  "id": "q_079cd650fc1da23d",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which Indian state is the classical dance form Bharatanatyam traditionally rooted?",
+  "qHi": "शास्त्रीय नृत्य शैली भरतनाट्यम पारंपरिक रूप से किस भारतीय राज्य से संबंधित है?",
+  "optsEn": [
+   "Kerala",
+   "Tamil Nadu",
+   "Andhra Pradesh",
+   "Karnataka"
+  ],
+  "optsHi": [
+   "केरल",
+   "तमिलनाडु",
+   "आंध्र प्रदेश",
+   "कर्नाटक"
+  ],
+  "correct": 1,
+  "explainEn": "Bharatanatyam originated in the temples of Tamil Nadu.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:26:22Z"
+ },
+ {
+  "id": "q_2c34f8848504432d",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the ancient Indian epic Meghaduta?",
+  "qHi": "प्राचीन भारतीय महाकाव्य मेघदूत की रचना किसने की थी?",
+  "optsEn": [
+   "Kalidasa",
+   "Tulsidas",
+   "Valmiki",
+   "Vedavyasa"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "तुलसीदास",
+   "वाल्मीकि",
+   "वेद व्यास"
+  ],
+  "correct": 0,
+  "explainEn": "Meghaduta is a lyric poem written by Kalidasa in classical Sanskrit.",
+  "sourceHint": "Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:26:22Z"
+ },
+ {
+  "id": "q_1dc0b57bee21f855",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What was the primary objective of the Rohini satellite series launched by ISRO in the early 1980s?",
+  "qHi": "1980 के दशक की शुरुआत में इसरो द्वारा लॉन्च की गई रोहिणी उपग्रह श्रृंखला का प्राथमिक उद्देश्य क्या था?",
+  "optsEn": [
+   "Meteorological forecasting",
+   "To test the launch vehicle capability (SLV-3)",
+   "Deep space communication",
+   "Navigational mapping"
+  ],
+  "optsHi": [
+   "मौसम संबंधी पूर्वानुमान",
+   "प्रक्षेपण यान क्षमता (एसएलवी-3) का परीक्षण करना",
+   "सुदूर अंतरिक्ष संचार",
+   "नेविगेशनल मानचित्रण"
+  ],
+  "correct": 1,
+  "explainEn": "The Rohini series of satellites were primarily intended for evaluating the performance of the Satellite Launch Vehicle (SLV-3) developed by India.",
+  "sourceHint": "ISRO Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:27:21Z"
+ },
+ {
+  "id": "q_385631173750d158",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which ancient Indian treatise on statecraft and economy discusses the Mandala theory of foreign policy?",
+  "qHi": "राज्यकला और अर्थशास्त्र पर कौन सा प्राचीन भारतीय ग्रंथ विदेश नीति के मंडल सिद्धांत की चर्चा करता है?",
+  "optsEn": [
+   "Arthashastra",
+   "Manusmriti",
+   "Natyashastra",
+   "Kamasutra"
+  ],
+  "optsHi": [
+   "अर्थशास्त्र",
+   "मनुस्मृति",
+   "नाट्यशास्त्र",
+   "कामसूत्र"
+  ],
+  "correct": 0,
+  "explainEn": "Kautilya's Arthashastra outlines the Mandala theory, which elaborates on circles of states surrounding a conqueror in geopolitics and foreign policy.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:27:21Z"
+ },
+ {
+  "id": "q_63e5aa4325256890",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian scientist is credited with the discovery of the scattering of light, for which he received the Nobel Prize in Physics?",
+  "qHi": "प्रकाश के प्रकीर्णन की खोज का श्रेय किस भारतीय वैज्ञानिक को जाता है, जिसके लिए उन्हें भौतिकी में नोबेल पुरस्कार मिला?",
+  "optsEn": [
+   "Homi J. Bhabha",
+   "C. V. Raman",
+   "Satyendra Nath Bose",
+   "Meghnad Saha"
+  ],
+  "optsHi": [
+   "होमी जे. भाभा",
+   "सी. वी. रमन",
+   "सत्येन्द्र नाथ बोस",
+   "मेघनाथ साहा"
+  ],
+  "correct": 1,
+  "explainEn": "Chandrasekhara Venkata Raman discovered the Raman Effect in 1928, earning him the Nobel Prize in Physics in 1930.",
+  "sourceHint": "Nobel Foundation Archives",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:27:21Z"
+ },
+ {
+  "id": "q_0257457c27952835",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian architecture, what does the term 'Mandapa' refer to?",
+  "qHi": "भारतीय वास्तुकला के संदर्भ में, 'मंडप' शब्द का तात्पर्य क्या है?",
+  "optsEn": [
+   "The sanctum sanctorum housing the main deity",
+   "The gateway tower leading into a temple complex",
+   "A pillared outdoor hall or pavilion for public rituals",
+   "The curved or pyramidal roof over the main shrine"
+  ],
+  "optsHi": [
+   "मुख्य देवता को रखने वाला गर्भगृह",
+   "मंदिर परिसर में जाने वाला प्रवेश द्वार टॉवर",
+   "सार्वजनिक अनुष्ठानों के लिए स्तंभों वाला बाहरी हॉल या मंडप",
+   "मुख्य मंदिर के ऊपर वक्र या पिरामिडनुमा छत"
+  ],
+  "correct": 2,
+  "explainEn": "In Indian temple architecture, a mandapa is a pillared hall or pavilion for public rituals, typically connected to the main shrine.",
+  "sourceHint": "NCERT Fine Arts Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:27:21Z"
+ },
+ {
+  "id": "q_de20b7545b49518b",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which scheduled language of the Indian Constitution is written in the Ol Chiki script?",
+  "qHi": "भारतीय संविधान की कौन सी अनुसूचित भाषा ओलचिकी लिपि में लिखी जाती है?",
+  "optsEn": [
+   "Santhali",
+   "Bodo",
+   "Dogri",
+   "Maithili"
+  ],
+  "optsHi": [
+   "संथाली",
+   "बोडो",
+   "डोगरी",
+   "मैथिली"
+  ],
+  "correct": 0,
+  "explainEn": "Ol Chiki is the official script used to write Santhali, an Austroasiatic language spoken predominantly by the Santhal people, recognized under the Eighth Schedule of the Indian Constitution.",
+  "sourceHint": "Ministry of Home Affairs, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:27:21Z"
  }
 ]

@@ -21614,5 +21614,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-23T11:42:38Z"
+ },
+ {
+  "id": "q_981f27c7e2d9c0b3",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the historical epic poem 'Padmavat'?",
+  "qHi": "ऐतिहासिक महाकाव्य 'पद्मावत' की रचना किसने की थी?",
+  "optsEn": [
+   "Tulsidas",
+   "Kabir",
+   "Malik Muhammad Jayasi",
+   "Surdas"
+  ],
+  "optsHi": [
+   "तुलसीदास",
+   "कबीर",
+   "मलिक मुहम्मद जायसी",
+   "सूरदास"
+  ],
+  "correct": 2,
+  "explainEn": "Padmavat is an epic poem written in 1540 by Sufi poet Malik Muhammad Jayasi.",
+  "sourceHint": "NCERT Class 12 History, Theme 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:25:46Z"
+ },
+ {
+  "id": "q_4ad8e9364e4222ab",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which functional isomer pair is represented by the general molecular formula CnH2nO?",
+  "qHi": "सामान्य आणविक सूत्र CnH2nO द्वारा किस कार्यात्मक आइसोमर युग्म का प्रतिनिधित्व किया जाता है?",
+  "optsEn": [
+   "Alcohol and Ether",
+   "Aldehyde and Ketone",
+   "Carboxylic acid and Ester",
+   "Cyanide and Isocyanide"
+  ],
+  "optsHi": [
+   "अल्कोहल और ईथर",
+   "एल्डिहाइड और कीटोन",
+   "कार्बोक्जिलिक एसिड और एस्टर",
+   "साइनाइड और आइसोसाइनाइड"
+  ],
+  "correct": 1,
+  "explainEn": "Aldehydes and ketones are functional isomers sharing the general formula CnH2nO.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:27:01Z"
+ },
+ {
+  "id": "q_e1a0fafcefa624e6",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In macroeconomics, what does a fiscal deficit represent?",
+  "qHi": "समष्टि अर्थशास्त्र (मैक्रोइकॉनॉमिक्स) में, राजकोषीय घाटा क्या दर्शाता है?",
+  "optsEn": [
+   "Total expenditure minus total receipts excluding borrowings",
+   "Revenue expenditure minus revenue receipts",
+   "Total expenditure minus total tax revenue",
+   "Capital expenditure minus capital receipts"
+  ],
+  "optsHi": [
+   "कुल व्यय ऋण को छोड़कर कुल प्राप्तियों से कम",
+   "राजस्व व्यय राजस्व प्राप्तियों से कम",
+   "कुल व्यय कुल कर राजस्व से कम",
+   "पूंजीगत व्यय पूंजीगत प्राप्तियों से कम"
+  ],
+  "correct": 0,
+  "explainEn": "Fiscal deficit is the excess of total expenditure over total receipts excluding borrowings during a fiscal year.",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:27:01Z"
+ },
+ {
+  "id": "q_4a9a4b569b1271c1",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which microorganism is commercially used for the production of acetic acid?",
+  "qHi": "एसिटिक एसिड के उत्पादन के लिए व्यावसायिक रूप से किस सूक्ष्मजीव का उपयोग किया जाता है?",
+  "optsEn": [
+   "Lactobacillus",
+   "Acetobacter aceti",
+   "Saccharomyces cerevisiae",
+   "Aspergillus niger"
+  ],
+  "optsHi": [
+   "लैक्टोबैसिलस",
+   "एसिटोबैक्टर एसिटि",
+   "सैकरॉमाइसेज सेरेविसी",
+   "एस्परगिलस नाइगर"
+  ],
+  "correct": 1,
+  "explainEn": "Acetobacter aceti is a bacterium used in the commercial production of acetic acid (vinegar).",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:27:01Z"
+ },
+ {
+  "id": "q_df2d7108d034b2c8",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which phenomenon demonstrates the transverse wave nature of light?",
+  "qHi": "कौन सी घटना प्रकाश की अनुप्रस्थ तरंग प्रकृति को प्रदर्शित करती है?",
+  "optsEn": [
+   "Interference",
+   "Diffraction",
+   "Polarization",
+   "Photoelectric effect"
+  ],
+  "optsHi": [
+   "व्यतिकरण",
+   "विवर्तन",
+   "ध्रुवीकरण",
+   "प्रकाश विद्युत प्रभाव"
+  ],
+  "correct": 2,
+  "explainEn": "Polarization is a phenomenon exclusive to transverse waves, proving that light waves oscillate perpendicular to the direction of energy transfer.",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:27:01Z"
+ },
+ {
+  "id": "q_5f5b6b514dcef5e4",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following cell organelles is primarily involved in the synthesis of membrane lipids, a process known as lipid biogenesis?",
+  "qHi": "निम्नलिखित में से कौन सा कोशिका अंग मुख्य रूप से झिल्ली लिपिड के संश्लेषण में शामिल है, जिसे लिपिड जैवजनन के रूप में जाना जाता है?",
+  "optsEn": [
+   "Rough Endoplasmic Reticulum",
+   "Smooth Endoplasmic Reticulum",
+   "Golgi Apparatus",
+   "Lysosome"
+  ],
+  "optsHi": [
+   "रफ एंडोप्लाज्मिक रेटिकुलम",
+   "स्मूथ एंडोप्लाज्मिक रेटिकुलम",
+   "गोल्गी उपकरण",
+   "लसोसोम"
+  ],
+  "correct": 1,
+  "explainEn": "The smooth endoplasmic reticulum is the major site for synthesis of lipid molecules and steroidal hormones.",
+  "sourceHint": "NCERT Class 11 Biology, Chapter 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:28:04Z"
+ },
+ {
+  "id": "q_b1c87ce8837c6404",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In a p-n junction diode, what causes the depletion region to widen under reverse bias conditions?",
+  "qHi": "एक p-n जंक्शन डायोड में, रिवर्स बायस स्थितियों के तहत अवक्षय क्षेत्र के चौड़ा होने का क्या कारण है?",
+  "optsEn": [
+   "Diffusion of majority charge carriers across the junction",
+   "Movement of minority charge carriers driven by the external field",
+   "Drift of majority charge carriers away from the junction due to the applied voltage",
+   "Recombination of electrons and holes in the depletion layer"
+  ],
+  "optsHi": [
+   "जंक्शन के पार बहुमत आवेश वाहकों का विसरण",
+   "बाहरी क्षेत्र द्वारा संचालित अल्पसंख्यक आवेश वाहकों की गति",
+   "लागू वोल्टेज के कारण जंक्शन से दूर बहुमत आवेश वाहकों का बहाव",
+   "अवक्षय परत में इलेक्ट्रॉनों और होल्स का पुनर्संयोजन"
+  ],
+  "correct": 2,
+  "explainEn": "Under reverse bias, the applied positive potential at the n-side and negative at the p-side pulls majority carriers away from the junction, widening the depletion region.",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:28:04Z"
+ },
+ {
+  "id": "q_e9f275e4a57630b4",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Constitution of India, which article vests the residuary powers of legislation in the Parliament?",
+  "qHi": "भारत के संविधान के तहत, कौन सा अनुच्छेद संसद में कानून बनाने की अवशिष्ट शक्तियों को निहित करता है?",
+  "optsEn": [
+   "Article 245",
+   "Article 246",
+   "Article 248",
+   "Article 249"
+  ],
+  "optsHi": [
+   "अनुच्छेद 245",
+   "अनुच्छेद 246",
+   "अनुच्छेद 248",
+   "अनुच्छेद 249"
+  ],
+  "correct": 2,
+  "explainEn": "Article 248 of the Constitution of India states that Parliament has exclusive power to make any law with respect to any matter not enumerated in the Concurrent List or State List.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:28:04Z"
+ },
+ {
+  "id": "q_06343fb339857e2f",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the British colonial period in India, the 'Permanent Settlement' of land revenue was introduced in 1793 primarily in which region?",
+  "qHi": "भारत में ब्रिटिश औपनिवेशिक काल के दौरान, भूमि राजस्व का 'स्थाई बंदोबस्त' 1793 में मुख्य रूप से किस क्षेत्र में शुरू किया गया था?",
+  "optsEn": [
+   "Bengal presidency",
+   "Bombay presidency",
+   "Punjab province",
+   "Central Provinces"
+  ],
+  "optsHi": [
+   "बंगाल प्रेसीडेंसी",
+   "बॉम्बे प्रेसीडेंसी",
+   "पंजाब प्रांत",
+   "केंद्रीय प्रांत"
+  ],
+  "correct": 0,
+  "explainEn": "Lord Cornwallis introduced the Permanent Settlement in 1793 in the Bengal presidency, later extended to Bihar and Orissa.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:28:04Z"
+ },
+ {
+  "id": "q_b8b229708626c61f",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which enzyme catalyzes the conversion of glucose to glucose-6-phosphate in the first step of glycolysis?",
+  "qHi": "ग्लाकोलाइसिस के पहले चरण में ग्लूकोज को ग्लूकोज-6-फॉस्फेट में बदलने के लिए कौन सा एंजाइम उत्प्रेरित करता है?",
+  "optsEn": [
+   "Phosphofructokinase",
+   "Hexokinase",
+   "Aldolase",
+   "Pyruvate kinase"
+  ],
+  "optsHi": [
+   "फॉस्फोफ्रक्टोकिनेज",
+   "हेक्सोकाइनेज",
+   "एल्डोलॉज",
+   "पाइरूवेट किनेज"
+  ],
+  "correct": 1,
+  "explainEn": "Hexokinase catalyzes the phosphorylation of glucose to glucose-6-phosphate using ATP in the initial step of glycolysis.",
+  "sourceHint": "NCERT Class 11 Biology, Chapter 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:28:04Z"
+ },
+ {
+  "id": "q_1e4047c49e9b0f00",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In a standard FCC (face-centered cubic) unit cell, what is the total number of tetrahedral voids present?",
+  "qHi": "एक मानक एफसीसी (फेस-सेंटर क्यूबिक) यूनिट सेल में, मौजूद टेट्राहेड्रल वॉयड्स की कुल संख्या क्या है?",
+  "optsEn": [
+   "4",
+   "6",
+   "8",
+   "12"
+  ],
+  "optsHi": [
+   "4",
+   "6",
+   "8",
+   "12"
+  ],
+  "correct": 2,
+  "explainEn": "In an FCC lattice, the number of atoms is 4, and the number of tetrahedral voids is twice the number of atoms, which equals 8.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:28:04Z"
  }
 ]

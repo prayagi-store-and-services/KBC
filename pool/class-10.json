@@ -19262,5 +19262,397 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-23T11:42:32Z"
+ },
+ {
+  "id": "q_b7e94c0d8df9d9fc",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which crop is known as a staple food crop of a majority of people in India?",
+  "qHi": "भारत में अधिकांश लोगों की मुख्य खाद्य फसल के रूप में किसे जाना जाता है?",
+  "optsEn": [
+   "Wheat",
+   "Rice",
+   "Maize",
+   "Bajra"
+  ],
+  "optsHi": [
+   "गेहूं",
+   "चावल",
+   "मक्का",
+   "बाजरा"
+  ],
+  "correct": 1,
+  "explainEn": "Rice is the staple food crop for a majority of the population in India.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:25:42Z"
+ },
+ {
+  "id": "q_0b2bee5a9042ec59",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which tier of government in India is also called local self-government in rural areas?",
+  "qHi": "भारत में सरकार के किस स्तर को ग्रामीण क्षेत्रों में स्थानीय स्वशासन भी कहा जाता है?",
+  "optsEn": [
+   "Central Government",
+   "State Government",
+   "Panchayati Raj",
+   "Municipal Corporation"
+  ],
+  "optsHi": [
+   "केंद्र सरकार",
+   "राज्य सरकार",
+   "पंचायती राज",
+   "नगर निगम"
+  ],
+  "correct": 2,
+  "explainEn": "Rural local government is popularly known by the name Panchayati Raj.",
+  "sourceHint": "NCERT Class 10 Civics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:25:42Z"
+ },
+ {
+  "id": "q_f9711ce8961c9ef1",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which element is oxidized in the reaction between zinc oxide and carbon to form zinc and carbon monoxide?",
+  "qHi": "जस्ता ऑक्साइड और कार्बन के बीच अभिक्रिया से जस्ता और कार्बन मोनोऑक्साइड बनने पर किस तत्व का उपचयन (ऑक्सीकरण) होता है?",
+  "optsEn": [
+   "Zinc",
+   "Carbon",
+   "Zinc oxide",
+   "Carbon monoxide"
+  ],
+  "optsHi": [
+   "जस्ता",
+   "कार्बन",
+   "जस्ता ऑक्साइड",
+   "कार्बन मोनोऑक्साइड"
+  ],
+  "correct": 1,
+  "explainEn": "Carbon gains oxygen during the reaction, forming carbon monoxide, and is therefore oxidized.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:26:56Z"
+ },
+ {
+  "id": "q_c6e7a515dbf8728c",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which plant hormone is primarily responsible for cell division and is present in greater concentration in areas of rapid growth like fruits and seeds?",
+  "qHi": "कौन सा पादप हार्मोन मुख्य रूप से कोशिका विभाजन के लिए उत्तरदायी है और फलों तथा बीजों जैसे तीव्र वृद्धि वाले क्षेत्रों में अधिक सांद्रता में पाया जाता है?",
+  "optsEn": [
+   "Auxin",
+   "Gibberellin",
+   "Cytokinin",
+   "Abscisic acid"
+  ],
+  "optsHi": [
+   "ऑक्सिन",
+   "जिबरेलिन",
+   "साइटोकैकिनिन",
+   "एब्सिसिक अम्ल"
+  ],
+  "correct": 2,
+  "explainEn": "Cytokinins promote cell division and are naturally present in high concentrations in dividing tissues such as fruits and seeds.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:26:56Z"
+ },
+ {
+  "id": "q_aa802f7d5fc5430e",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of lens is used in a camera to form a real and inverted image on the sensor?",
+  "qHi": "सेंसर पर वास्तविक और उल्टी छवि बनाने के लिए कैमरे में किस प्रकार के लेंस का उपयोग किया जाता है?",
+  "optsEn": [
+   "Convex lens",
+   "Concave lens",
+   "Plano-concave lens",
+   "Cylindrical lens"
+  ],
+  "optsHi": [
+   "उत्तल लेंस",
+   "अवतल लेंस",
+   "समतल-अवतल लेंस",
+   "बेलनाकार लेंस"
+  ],
+  "correct": 0,
+  "explainEn": "A convex lens converges light rays to form real and inverted images on a recording surface or sensor.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:26:56Z"
+ },
+ {
+  "id": "q_d82a35a275036209",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which sector contributed the largest share to India's Gross Domestic Product (GDP) in recent decades according to national economic surveys?",
+  "qHi": "राष्ट्रीय आर्थिक सर्वेक्षणों के अनुसार हाल के दशकों में भारत के सकल घरेलू उत्पाद (GDP) में किस क्षेत्र का योगदान सबसे अधिक रहा है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Quaternary sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "तृतीयक क्षेत्र",
+   "चतुर्थक क्षेत्र"
+  ],
+  "correct": 2,
+  "explainEn": "The tertiary (service) sector has grown to account for the largest share of India's GDP.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:26:56Z"
+ },
+ {
+  "id": "q_4ed0791e65b049a9",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is categorized as a commercial crop widely grown in India?",
+  "qHi": "निम्नलिखित में से किसे भारत में व्यापक रूप से उगाई जाने वाली एक व्यावसायिक फसल के रूप में वर्गीकृत किया गया है?",
+  "optsEn": [
+   "Rice",
+   "Wheat",
+   "Cotton",
+   "Millets"
+  ],
+  "optsHi": [
+   "चावल",
+   "गेहूं",
+   "कपास",
+   "बाजरा"
+  ],
+  "correct": 2,
+  "explainEn": "Cotton is primarily grown for commercial purposes and sale in markets rather than purely for subsistence.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:26:56Z"
+ },
+ {
+  "id": "q_7942f038ab6051ca",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What term describes the system of power sharing where power is divided between a central authority and various constituent units of the country?",
+  "qHi": "सत्ता की साझेदारी की उस प्रणाली को क्या कहा जाता है जिसमें सत्ता एक केंद्रीय प्राधिकारी और देश की विभिन्न घटक इकाइयों के बीच विभाजित होती है?",
+  "optsEn": [
+   "Unitary government",
+   "Federal government",
+   "Dictatorship",
+   "Oligarchy"
+  ],
+  "optsHi": [
+   "एकात्मक सरकार",
+   "संघीय सरकार",
+   "तानाशाही",
+   "कुलीनतंत्र"
+  ],
+  "correct": 1,
+  "explainEn": "Federalism is a system of government where power is shared between a central government and state or provincial governments.",
+  "sourceHint": "NCERT Class 10 Political Science, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:26:56Z"
+ },
+ {
+  "id": "q_8281ad4d2c7de0e1",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which archaeological site in the Indus Valley Civilization is known for its systematic town planning divided into rectangular blocks with an elaborate drainage system?",
+  "qHi": "सिंधु घाटी सभ्यता का कौन सा पुरातात्विक स्थल एक विस्तृत जल निकासी प्रणाली के साथ आयताकार ब्लॉकों में विभाजित अपनी व्यवस्थित नगर योजना के लिए जाना जाता है?",
+  "optsEn": [
+   "Lothal",
+   "Kalibangan",
+   "Mohenjo-daro",
+   "Dholavira"
+  ],
+  "optsHi": [
+   "लोथल",
+   "कालीबंगा",
+   "मोहनजोदड़ो",
+   "धोलावीरा"
+  ],
+  "correct": 2,
+  "explainEn": "Mohenjo-daro is renowned for its advanced town planning, grid system streets, and covered drainage networks.",
+  "sourceHint": "NCERT Class 10 History, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:26:56Z"
+ },
+ {
+  "id": "q_be495230e0f30612",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In a Mendel's dihybrid cross between round yellow seeds and wrinkled green seeds, what is the phenotypic ratio observed in the F2 generation?",
+  "qHi": "गोल पीले बीजों और झुरريदार हरे बीजों के बीच मेंडेल के द्विसंकर क्रॉस में, F2 पीढ़ी में देखे जाने वाला लक्षणप्ररूप (फेनोटाइपिक) अनुपात क्या है?",
+  "optsEn": [
+   "3:1",
+   "9:3:3:1",
+   "1:2:1",
+   "1:1:1:1"
+  ],
+  "optsHi": [
+   "3:1",
+   "9:3:3:1",
+   "1:2:1",
+   "1:1:1:1"
+  ],
+  "correct": 1,
+  "explainEn": "The phenotypic ratio of 9:3:3:1 in the F2 generation of a dihybrid cross demonstrates that the two pairs of traits assort independently of each other.",
+  "sourceHint": "NCERT Class 10 Science Chapter 9",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:27:57Z"
+ },
+ {
+  "id": "q_651c4826c6705cea",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific tax was levied by the Church comprising one-tenth of the agricultural produce in pre-revolutionary France?",
+  "qHi": "क्रांतिपूर्व फ्रांस में चर्च द्वारा कृषि उपज का दसवां हिस्सा वसूल किया जाने वाला विशिष्ट कर कौन सा था?",
+  "optsEn": [
+   "Taille",
+   "Corvee",
+   "Tithe",
+   "Gabelle"
+  ],
+  "optsHi": [
+   "टाईल",
+   "कोर्वी",
+   "टाइथ",
+   "गैबेल"
+  ],
+  "correct": 2,
+  "explainEn": "Tithe was a tax levied by the church, comprising one-tenth of the agricultural produce, whereas Taille was a direct tax paid to the state.",
+  "sourceHint": "NCERT Class 9 History Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:27:57Z"
+ },
+ {
+  "id": "q_094ef95c4a6d76e5",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of banking arrangement involves keeping only a fraction of deposits as cash reserves by commercial banks?",
+  "qHi": "किस प्रकार की बैंकिंग व्यवस्था में वाणिज्यिक बैंकों द्वारा जमा का केवल एक अंश नकदी भंडार के रूप में रखा जाता है?",
+  "optsEn": [
+   "Full-reserve banking",
+   "Fractional-reserve banking",
+   "Central banking",
+   "Shadow banking"
+  ],
+  "optsHi": [
+   "पूर्ण-आरक्षित बैंकिंग",
+   "आंशिक-आरक्षित बैंकिंग",
+   "केंद्रीय बैंकिंग",
+   "छाया बैंकिंग"
+  ],
+  "correct": 1,
+  "explainEn": "Fractional-reserve banking is a system where banks keep only a fraction of their total deposits in reserve to meet daily withdrawals and lend out the rest to earn interest.",
+  "sourceHint": "NCERT Class 10 Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:27:57Z"
+ },
+ {
+  "id": "q_42e436960813516b",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which metal is extracted primarily from the ore cinnabar by heating it in air?",
+  "qHi": "किस धातु को मुख्य रूप से सिनेबार अयस्क को हवा में गर्म करके निकाला जाता है?",
+  "optsEn": [
+   "Mercury",
+   "Zinc",
+   "Copper",
+   "Iron"
+  ],
+  "optsHi": [
+   "पारा",
+   "जस्ता",
+   "तांबा",
+   "लोहा"
+  ],
+  "correct": 0,
+  "explainEn": "Cinnabar (HgS) is an ore of mercury. When heated in air, it is first converted into mercurial oxide, which then undergoes further thermal reduction to give mercury metal.",
+  "sourceHint": "NCERT Class 10 Science Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:27:57Z"
+ },
+ {
+  "id": "q_58ea68dca2916881",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which body of the United Nations functions with a principal judicial organ located at The Hague?",
+  "qHi": "संयुक्त राष्ट्र का कौन सा निकाय द हेग में स्थित अपने मुख्य न्यायिक अंग के रूप में कार्य करता है?",
+  "optsEn": [
+   "International Criminal Court",
+   "International Court of Justice",
+   "Permanent Court of Arbitration",
+   "Human Rights Council"
+  ],
+  "optsHi": [
+   "अंतर्राष्ट्रीय आपराधिक न्यायालय",
+   "अंतर्राष्ट्रीय न्यायालय",
+   "स्थाई मध्यस्थता न्यायालय",
+   "मानव अधिकार परिषद"
+  ],
+  "correct": 1,
+  "explainEn": "The International Court of Justice (ICJ) is the principal judicial organ of the United Nations, situated at the Peace Palace in The Hague, Netherlands.",
+  "sourceHint": "NCERT Class 9 Political Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:27:57Z"
  }
 ]

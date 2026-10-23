@@ -19906,5 +19906,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-23T11:44:06Z"
+ },
+ {
+  "id": "q_69381968eee5ad3d",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary natural source of light on Earth during the day?",
+  "qHi": "दिन के समय पृथ्वी पर प्रकाश का मुख्य प्राकृतिक स्रोत क्या है?",
+  "optsEn": [
+   "Moon",
+   "Sun",
+   "Stars",
+   "Fire"
+  ],
+  "optsHi": [
+   "चंद्रमा",
+   "सूर्य",
+   "तारे",
+   "आग"
+  ],
+  "correct": 1,
+  "explainEn": "The Sun is the primary natural source of light and heat for Earth.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:25:34Z"
+ },
+ {
+  "id": "q_b6be95dd621cee52",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the frozen form of water found high up in cold mountains called?",
+  "qHi": "ठंडे पहाड़ों में ऊंचे स्थान पर पाए जाने वाले पानी के जमे हुए रूप को क्या कहा जाता है?",
+  "optsEn": [
+   "Steam",
+   "Rain",
+   "Snow",
+   "Cloud"
+  ],
+  "optsHi": [
+   "भाप",
+   "बारिश",
+   "बर्फ",
+   "बादल"
+  ],
+  "correct": 2,
+  "explainEn": "Snow is frozen precipitation consisting of ice crystals, common in high mountains.",
+  "sourceHint": "NCERT Geography basics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:25:34Z"
+ },
+ {
+  "id": "q_d7cd327351e7070a",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian water harvesting system uses a series of step-like structures to collect rainwater?",
+  "qHi": "वर्षा के जल को एकत्र करने के लिए कौन सी पारंपरिक भारतीय जल संचयन प्रणाली सीढ़ीनुमा संरचनाओं का उपयोग करती है?",
+  "optsEn": [
+   "Baoli",
+   "Dam",
+   "Canal",
+   "Tube well"
+  ],
+  "optsHi": [
+   "बावड़ी",
+   "बांध",
+   "नहर",
+   "ट्यूबवेल"
+  ],
+  "correct": 0,
+  "explainEn": "Baolis, or stepwells, are traditional water storage systems in India featuring steps leading down to the water.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:26:47Z"
+ },
+ {
+  "id": "q_1ed94344166100d0",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which part of the Earth receives direct rays of the sun throughout the year, making it generally warm?",
+  "qHi": "पृथ्वी के किस भाग को वर्ष भर सूर्य की सीधी किरणें मिलती हैं, जिससे वह सामान्यतः गर्म रहता है?",
+  "optsEn": [
+   "North Pole",
+   "South Pole",
+   "Equator",
+   "Arctic Circle"
+  ],
+  "optsHi": [
+   "उत्तरी ध्रुव",
+   "दक्षिणी ध्रुव",
+   "भूमध्य रेखा",
+   "आर्कटिक वृत्त"
+  ],
+  "correct": 2,
+  "explainEn": "The equator receives direct sunlight throughout the year, keeping the equatorial region consistently warm.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:26:47Z"
+ },
+ {
+  "id": "q_ada7de5966a33899",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following describes the process by which liquid water changes into water vapor?",
+  "qHi": "निम्नलिखित में से कौन सी प्रक्रिया तरल पानी के जल वाष्प में बदलने को दर्शाती है?",
+  "optsEn": [
+   "Condensation",
+   "Evaporation",
+   "Precipitation",
+   "Melting"
+  ],
+  "optsHi": [
+   "संघनन",
+   "वाष्पीकरण",
+   "वर्षा",
+   "पिघलना"
+  ],
+  "correct": 1,
+  "explainEn": "Evaporation is the process where liquid water absorbs heat and turns into gas or water vapor.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:26:47Z"
+ },
+ {
+  "id": "q_c36c97905f34c6d9",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific cell organelle contains the green pigment chlorophyll necessary for photosynthesis?",
+  "qHi": "पादप कोशिका के किस विशिष्ट अंगक में हरा वर्णक क्लोरोफिल होता है जो प्रकाश संश्लेषण के लिए आवश्यक है?",
+  "optsEn": [
+   "Mitochondria",
+   "Vacuole",
+   "Chloroplast",
+   "Ribosome"
+  ],
+  "optsHi": [
+   "माइटोकॉन्ड्रिया",
+   "रिक्तिका",
+   "क्लोरोप्लास्ट",
+   "राइबोसोम"
+  ],
+  "correct": 2,
+  "explainEn": "Chloroplasts contain chlorophyll, which captures sunlight to make food in plants.",
+  "sourceHint": "NCERT Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:27:47Z"
+ },
+ {
+  "id": "q_6d74bc0546c2ee80",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary gas that makes up approximately 78 percent of Earth's atmosphere by volume?",
+  "qHi": "वह कौन सी प्राथमिक गैस है जो आयतन के अनुसार पृथ्वी के वायुमंडल का लगभग 78 प्रतिशत हिस्सा बनाती है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "आर्गन"
+  ],
+  "correct": 2,
+  "explainEn": "Nitrogen is the most abundant gas in Earth's atmosphere, making up about 78 percent.",
+  "sourceHint": "NCERT Class 7 Geography Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:27:47Z"
+ },
+ {
+  "id": "q_3d263e8b22685735",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional Indian harvest festival marks the transition of the sun into the zodiac sign of Capricorn (Makara) and is celebrated with kite flying in many regions?",
+  "qHi": "कौन सा पारंपरिक भारतीय फसल उत्सव सूर्य के मकर राशि में प्रवेश का प्रतीक है और कई क्षेत्रों में पतंगबाजी के साथ मनाया जाता है?",
+  "optsEn": [
+   "Baisakhi",
+   "Makar Sankranti",
+   "Onam",
+   "Durga Puja"
+  ],
+  "optsHi": [
+   "बैसाखी",
+   "मकर संक्रांति",
+   "ओणम",
+   "दुर्गा पूजा"
+  ],
+  "correct": 1,
+  "explainEn": "Makar Sankranti marks the sun's northward journey (Uttarayan) and entry into Makara rashi.",
+  "sourceHint": "NCERT Class 6 Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:27:47Z"
+ },
+ {
+  "id": "q_8678f4575d4e109d",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the term for animals that eat both plants and other animals as their primary food source?",
+  "qHi": "उन जंतुओं के लिए क्या शब्द है जो पौधों और अन्य जंतुओं दोनों को अपने मुख्य भोजन के रूप में खाते हैं?",
+  "optsEn": [
+   "Herbivores",
+   "Carnivores",
+   "Omnivores",
+   "Decomposers"
+  ],
+  "optsHi": [
+   "शाकाहारी",
+   "मांसाहारी",
+   "सर्वाहारी",
+   "अपघटक"
+  ],
+  "correct": 2,
+  "explainEn": "Omnivores are animals that consume both plant and animal matter.",
+  "sourceHint": "NCERT Class 6 Science Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:27:47Z"
+ },
+ {
+  "id": "q_df9b196a650803be",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which physical process involves the direct conversion of a solid substance into a gas without passing through the liquid state?",
+  "qHi": "किस भौतिक प्रक्रिया में कोई ठोस पदार्थ बिना द्रव अवस्था में बदले सीधे गैस में परिवर्तित हो जाता है?",
+  "optsEn": [
+   "Evaporation",
+   "Condensation",
+   "Sublimation",
+   "Melting"
+  ],
+  "optsHi": [
+   "वाष्पीकरण",
+   "संघनन",
+   "ऊर्ध्वपातन",
+   "गलनांक"
+  ],
+  "correct": 2,
+  "explainEn": "Sublimation is the transition of a substance directly from the solid to the gas state.",
+  "sourceHint": "NCERT Class 9 Science Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:27:47Z"
  }
 ]

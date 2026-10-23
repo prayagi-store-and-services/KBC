@@ -15286,5 +15286,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-23T11:41:12Z"
+ },
+ {
+  "id": "q_3b3b363eae66d8a8",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which battle established the political power of the British East India Company in Bengal?",
+  "qHi": "किस युद्ध ने बंगाल में ब्रिटिश ईस्ट इंडिया Company की राजनीतिक शक्ति को स्थापित किया?",
+  "optsEn": [
+   "Battle of Panipat",
+   "Battle of Plassey",
+   "Battle of Haldighati",
+   "Battle of Buxar"
+  ],
+  "optsHi": [
+   "पानीपत का युद्ध",
+   "प्लासी का युद्ध",
+   "हल्दीघाटी का युद्ध",
+   "बक्सर का युद्ध"
+  ],
+  "correct": 1,
+  "explainEn": "The Battle of Plassey in 1757 marked the beginning of British political dominance in India.",
+  "sourceHint": "NCERT Class 8 History Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:25:38Z"
+ },
+ {
+  "id": "q_3a404bda42d37816",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which body is responsible for making laws for the entire country in India?",
+  "qHi": "भारत में पूरे देश के लिए कानून बनाने के लिए कौन सी संस्था जिम्मेदार है?",
+  "optsEn": [
+   "Supreme Court",
+   "Parliament",
+   "Cabinet",
+   "Election Commission"
+  ],
+  "optsHi": [
+   "सर्वोच्च न्यायालय",
+   "संसद",
+   "मंत्रिमंडल",
+   "चुनाव आयोग"
+  ],
+  "correct": 1,
+  "explainEn": "The Parliament of India, consisting of the President, Lok Sabha, and Rajya Sabha, makes laws.",
+  "sourceHint": "NCERT Class 8 Civics Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:25:38Z"
+ },
+ {
+  "id": "q_0b56c7121490cc82",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following metals is stored in kerosene to prevent accidental fires?",
+  "qHi": "आकस्मिक आग लगने से बचाने के लिए निम्नलिखित में से किस धातु को मिट्टी के तेल (केरोसिन) में रखा जाता है?",
+  "optsEn": [
+   "Iron",
+   "Copper",
+   "Sodium",
+   "Gold"
+  ],
+  "optsHi": [
+   "लोहा",
+   "तांबा",
+   "सोडियम",
+   "सोना"
+  ],
+  "correct": 2,
+  "explainEn": "Sodium is a highly reactive metal that catches fire when it comes in contact with air and moisture, so it is stored in kerosene.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:26:51Z"
+ },
+ {
+  "id": "q_5905715d3a903afb",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of agriculture involves growing crops and rearing livestock on the same land?",
+  "qHi": "किस प्रकार की कृषि में एक ही भूमि पर फसल उगाना और पशुपालन करना दोनों शामिल हैं?",
+  "optsEn": [
+   "Shifting cultivation",
+   "Commercial grain farming",
+   "Mixed farming",
+   "Nomadic herding"
+  ],
+  "optsHi": [
+   "स्थानांतरित कृषि",
+   "वाणिज्यिक अनाज कृषि",
+   "मिश्रित कृषि",
+   "घुमंतू पशुचारण"
+  ],
+  "correct": 2,
+  "explainEn": "Mixed farming is the type of agriculture where the land is used for growing food and fodder crops as well as rearing livestock.",
+  "sourceHint": "NCERT Class 8 Geography, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:26:51Z"
+ },
+ {
+  "id": "q_9ff7522dc5cc7038",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the minimum age required for a person to contest elections for the Lok Sabha in India?",
+  "qHi": "भारत में लोकसभा चुनाव लड़ने के लिए किसी व्यक्ति की न्यूनतम आयु कितनी होनी चाहिए?",
+  "optsEn": [
+   "21 years",
+   "25 years",
+   "30 years",
+   "35 years"
+  ],
+  "optsHi": [
+   "21 वर्ष",
+   "25 वर्ष",
+   "30 वर्ष",
+   "35 वर्ष"
+  ],
+  "correct": 1,
+  "explainEn": "According to the Indian Constitution, a candidate must be at least 25 years of age to contest an election to the Lok Sabha.",
+  "sourceHint": "Constitution of India and NCERT Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:26:51Z"
+ },
+ {
+  "id": "q_9aae86a50a46e086",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following coal varieties has the highest carbon content?",
+  "qHi": "निम्नलिखित में से किस कोयले की किस्म में कार्बन की मात्रा सबसे अधिक होती है?",
+  "optsEn": [
+   "Peat",
+   "Lignite",
+   "Bituminous",
+   "Anthracite"
+  ],
+  "optsHi": [
+   "पीट",
+   "लिग्नाइट",
+   "बिटुमिनस",
+   "एंथ्रेसाइट"
+  ],
+  "correct": 3,
+  "explainEn": "Anthracite is the highest rank of coal, containing the highest carbon content and lowest moisture.",
+  "sourceHint": "NCERT Class 8 Geography, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:26:51Z"
+ },
+ {
+  "id": "q_c4ce82b01d463254",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the process of deposition of a layer of zinc on iron to prevent rusting called?",
+  "qHi": "जंग लगने से बचाने के लिए लोहे पर जस्ते (जिंक) की परत चढ़ाने की प्रक्रिया को क्या कहते हैं?",
+  "optsEn": [
+   "Galvanisation",
+   "Electroplating",
+   "Crystalisation",
+   "Oxidation"
+  ],
+  "optsHi": [
+   "यशदलेपन (गैल्वेनीकरण)",
+   "विद्युत लेपन",
+   "क्रिस्टलीकरण",
+   "ऑक्सीकरण"
+  ],
+  "correct": 0,
+  "explainEn": "Galvanisation is the method of protecting iron and steel from rusting by coating them with a thin layer of zinc.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:26:51Z"
  }
 ]

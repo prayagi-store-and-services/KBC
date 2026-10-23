@@ -14950,5 +14950,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-23T11:43:17Z"
+ },
+ {
+  "id": "q_0be860b5a1b4cc15",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which year was the Non-Cooperation Movement officially launched by Mahatma Gandhi?",
+  "qHi": "महात्मा गांधी द्वारा असहयोग आंदोलन आधिकारिक तौर पर किस वर्ष शुरू किया गया था?",
+  "optsEn": [
+   "1915",
+   "1920",
+   "1922",
+   "1930"
+  ],
+  "optsHi": [
+   "1915",
+   "1920",
+   "1922",
+   "1930"
+  ],
+  "correct": 1,
+  "explainEn": "The Non-Cooperation Movement was launched by Mahatma Gandhi in September 1920 during the Nagpur session of the Indian National Congress.",
+  "sourceHint": "NCERT Modern Indian History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-23T21:27:11Z"
  }
 ]
