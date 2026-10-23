@@ -1,5 +1,9 @@
 # Security notes - KBC
 
+# Crash report consent: destination shown before Send (v1.1.37)
+
+- The Crash report card and the preview dialog now name the destination before anything is sent: developer email prayagideepak@gmail.com through the FormSubmit service (formsubmit.co). The exact report text is still shown first, and sending still happens only when you tap Send. Text-only change; no new permission, library or server. Not a vulnerability fix.
+
 ## Battery and temperature check before a game (v1.1.35)
 
 Before a game starts the app reads the phone's own battery level and temperature (Android's standard battery broadcast) and holds the game when the phone is 42 C or hotter. The values are not stored or sent anywhere. No new permission, library or server. Not a vulnerability fix. Checking with other Netra apps is not part of this version.
