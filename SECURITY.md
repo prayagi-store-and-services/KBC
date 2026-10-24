@@ -24,6 +24,10 @@ Every spoken line (question reading, options, results, solution narration, final
 
 The anonymous daily usage counter (adds 1 to a public counter, no ID, no location, no app data) used to be on by default. It is now OFF by default: nothing is sent until the user turns it on in Settings. People who never touched the switch are therefore no longer counted. This follows the privacy-first and DPDP consent rule. No new permission, library or network address.
 
+## Website game: no repeated questions (v1.1.38)
+
+The KBC Web game (docs/play.html) used to hold back only questions it had already shown, but the question bank holds the same question asked in different words (for example 12 versions of the compass-needle question). Players saw the same idea again in every game. Now each question gets a concept id (questions with about the same content words count as one idea), a game picks at most one question per idea, and ideas already seen on this device are held back until the group is used up; then a new round starts and the screen says so. Fresh picks use the browser's secure random generator. If the browser blocks storage, the list is kept for the open page only. Played question IDs stay in this browser only (localStorage); nothing is sent anywhere. No new permission, library or server. The Android app is unchanged in this version. Age-wise and syllabus-wise question sets are not part of this change.
+
 ## Region guard (v1.1.23)
 
 The app refuses to open when the phone's SIM or network country is on a built-in block list (PK, BD, AF, CN, KP). The check runs only on the phone, uses no permission, no network call and no IP lookup, and nothing is stored or sent. With no signal, or an Indian SIM, it never blocks. It is a deterrent, not foolproof: removing the SIM or changing the language region bypasses it.
