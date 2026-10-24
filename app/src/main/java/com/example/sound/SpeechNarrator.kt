@@ -1,6 +1,9 @@
 package com.example.sound
 
 import android.content.Context
+import android.media.AudioFocusRequest
+import android.media.AudioManager
+import android.os.Build
 import android.speech.tts.TextToSpeech
 import android.util.Log
 import kotlinx.coroutines.CompletableDeferred
@@ -24,8 +27,75 @@ import java.util.concurrent.atomic.AtomicBoolean
  * 5. Wrong Answer Solution Narration runs at a calm, natural learning pace.
  */
 class SpeechNarrator(context: Context) : TextToSpeech.OnInitListener {
+    private val appContext = context.applicationContext
     private val scope = CoroutineScope(Dispatchers.Main + Job())
-    private var tts: TextToSpeech? = TextToSpeech(context.applicationContext, this)
+
+    // Ecosystem rule (19 Oct 2026): while the app speaks it holds transient audio focus, so
+    // other media pauses (not mutes) and resumes afterwards. A watchdog releases the focus
+    // even when no utterance callback ever arrives.
+    private val audioManager: AudioManager? = try {
+        appContext.getSystemService(Context.AUDIO_SERVICE) as? AudioManager
+    } catch (_: Exception) { null }
+    private val focusLock = Any()
+    private var heldFocus: Any? = null
+    private var focusWatchdog: Job? = null
+
+    private fun acquireSpeechFocus() {
+        synchronized(focusLock) {
+            if (heldFocus != null) return
+            val am = audioManager ?: return
+            val handle: Any? = try {
+                if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+                    val req = AudioFocusRequest.Builder(AudioManager.AUDIOFOCUS_GAIN_TRANSIENT).build()
+                    if (am.requestAudioFocus(req) == AudioManager.AUDIOFOCUS_REQUEST_GRANTED) req else null
+                } else {
+                    @Suppress("DEPRECATION")
+                    if (am.requestAudioFocus(null, AudioManager.STREAM_MUSIC, AudioManager.AUDIOFOCUS_GAIN_TRANSIENT) == AudioManager.AUDIOFOCUS_REQUEST_GRANTED) Any() else null
+                }
+            } catch (_: Exception) { null }
+            if (handle != null) {
+                heldFocus = handle
+                focusWatchdog?.cancel()
+                focusWatchdog = scope.launch {
+                    delay(60_000L)
+                    releaseSpeechFocus()
+                }
+            }
+        }
+    }
+
+    private fun releaseSpeechFocus() {
+        val handle: Any?
+        synchronized(focusLock) {
+            handle = heldFocus
+            heldFocus = null
+            focusWatchdog?.cancel()
+            focusWatchdog = null
+        }
+        if (handle == null) return
+        val am = audioManager ?: return
+        try {
+            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O && handle is AudioFocusRequest) {
+                am.abandonAudioFocusRequest(handle)
+            } else {
+                @Suppress("DEPRECATION")
+                am.abandonAudioFocus(null)
+            }
+        } catch (_: Exception) { }
+    }
+
+    /** Releases focus after a fire-and-forget line's estimated speaking time. */
+    private fun releaseFocusAfterEstimate(text: String) {
+        val words = text.split("\\s+".toRegex()).size
+        val est = (words * 400L + 2500L).coerceIn(4000L, 25000L)
+        scope.launch {
+            delay(est)
+            releaseSpeechFocus()
+        }
+    }
+    // A phone whose speech service is missing, updating or refusing the connection must not crash the app:
+    // without speech the game still runs (narration calls become no-ops).
+    private var tts: TextToSpeech? = try { TextToSpeech(context.applicationContext, this) } catch (_: Throwable) { null }
     @Volatile
     private var isReady = false
     private val initDeferred = CompletableDeferred<Boolean>()
@@ -119,6 +189,7 @@ class SpeechNarrator(context: Context) : TextToSpeech.OnInitListener {
                         if (activeUtteranceId == utteranceId) {
                             activeUtteranceId = null
                         }
+                        releaseSpeechFocus()
                         Log.d("SpeechNarrator", "TTS_COMPLETED: Question utterance finished via $source (utteranceId=$utteranceId)")
                         scope.launch { onComplete?.invoke() }
                     }
@@ -162,6 +233,7 @@ class SpeechNarrator(context: Context) : TextToSpeech.OnInitListener {
                     }
                 })
 
+                acquireSpeechFocus()
                 val result = tts?.speak(text, TextToSpeech.QUEUE_FLUSH, null, utteranceId)
                 if (result == TextToSpeech.ERROR) {
                     Log.e("SpeechNarrator", "TTS_FAILED: speak() returned ERROR for $utteranceId")
@@ -169,6 +241,7 @@ class SpeechNarrator(context: Context) : TextToSpeech.OnInitListener {
                 }
             } catch (e: Exception) {
                 Log.e("SpeechNarrator", "TTS_FAILED: Exception during speakQuestionBounded", e)
+                releaseSpeechFocus()
                 onComplete?.invoke()
             }
         }
@@ -180,6 +253,7 @@ class SpeechNarrator(context: Context) : TextToSpeech.OnInitListener {
         val isCompleted = AtomicBoolean(false)
         val notifyComplete = {
             if (isCompleted.compareAndSet(false, true)) {
+                releaseSpeechFocus()
                 scope.launch { onComplete?.invoke() }
             }
         }
@@ -215,6 +289,7 @@ class SpeechNarrator(context: Context) : TextToSpeech.OnInitListener {
         try {
             tts?.language = Locale.forLanguageTag("hi-IN")
             tts?.setSpeechRate(1.0f)
+            acquireSpeechFocus()
             val res = tts?.speak(hindiText, TextToSpeech.QUEUE_FLUSH, null, utteranceHi)
             if (res == TextToSpeech.ERROR) {
                 notifyComplete()
@@ -234,6 +309,8 @@ class SpeechNarrator(context: Context) : TextToSpeech.OnInitListener {
             tts?.language = locale
             tts?.setSpeechRate(1.25f)
             val utteranceId = "Tark_Opt_${System.currentTimeMillis()}"
+            acquireSpeechFocus()
+            releaseFocusAfterEstimate(text)
             tts?.speak(text, TextToSpeech.QUEUE_FLUSH, null, utteranceId)
         } catch (_: Exception) {}
     }
@@ -263,6 +340,7 @@ class SpeechNarrator(context: Context) : TextToSpeech.OnInitListener {
             val isCompleted = AtomicBoolean(false)
             val notifyComplete = {
                 if (isCompleted.compareAndSet(false, true)) {
+                    releaseSpeechFocus()
                     scope.launch { onComplete?.invoke() }
                 }
             }
@@ -275,11 +353,13 @@ class SpeechNarrator(context: Context) : TextToSpeech.OnInitListener {
                     if (id == utteranceId) notifyComplete()
                 }
             })
+            acquireSpeechFocus()
             val result = tts?.speak(announcement, TextToSpeech.QUEUE_FLUSH, null, utteranceId)
             if (result == TextToSpeech.ERROR) {
                 notifyComplete()
             }
         } catch (_: Exception) {
+            releaseSpeechFocus()
             onComplete?.invoke()
         }
     }
@@ -297,6 +377,8 @@ class SpeechNarrator(context: Context) : TextToSpeech.OnInitListener {
             tts?.setSpeechRate(0.96f)
             tts?.setPitch(1.02f)
             val utteranceId = "Tark_Solution_${System.currentTimeMillis()}"
+            acquireSpeechFocus()
+            releaseFocusAfterEstimate(text)
             tts?.speak(text, TextToSpeech.QUEUE_FLUSH, null, utteranceId)
         } catch (_: Exception) {}
     }
@@ -322,11 +404,62 @@ class SpeechNarrator(context: Context) : TextToSpeech.OnInitListener {
                 "You answered $correct questions correctly, and $incorrect incorrectly. Your total points are $pointsWon."
             }
             val utteranceId = "Final_Result_${System.currentTimeMillis()}"
+            acquireSpeechFocus()
+            releaseFocusAfterEstimate(text)
             tts?.speak(text, TextToSpeech.QUEUE_FLUSH, null, utteranceId)
         } catch (_: Exception) {}
     }
 
+    /**
+     * Clearly labelled test line through the real narration path (standing rule, 19 Oct 2026):
+     * the user can check the voice without starting a quiz. It is only a test, never a game event.
+     */
+    fun speakTest(languageMode: String = "ENGLISH", onComplete: (() -> Unit)? = null) {
+        if (!isReady || tts == null) {
+            onComplete?.invoke()
+            return
+        }
+        stop()
+        try {
+            val locale = getLocaleForMode(languageMode)
+            tts?.language = locale
+            tts?.setSpeechRate(1.0f)
+            val isEn = isEnglishMode(languageMode)
+            val text = if (isEn) {
+                "Test announcement. The TarkShastra voice is working."
+            } else {
+                "परीक्षण घोषणा। तर्कशास्त्र की आवाज़ ठीक से काम कर रही है।"
+            }
+            val utteranceId = "Tark_Test_${System.currentTimeMillis()}"
+            val isCompleted = AtomicBoolean(false)
+            val notifyComplete = {
+                if (isCompleted.compareAndSet(false, true)) {
+                    releaseSpeechFocus()
+                    scope.launch { onComplete?.invoke() }
+                }
+            }
+            tts?.setOnUtteranceProgressListener(object : android.speech.tts.UtteranceProgressListener() {
+                override fun onStart(id: String?) {}
+                override fun onDone(id: String?) {
+                    if (id == utteranceId) notifyComplete()
+                }
+                override fun onError(id: String?) {
+                    if (id == utteranceId) notifyComplete()
+                }
+            })
+            acquireSpeechFocus()
+            val result = tts?.speak(text, TextToSpeech.QUEUE_FLUSH, null, utteranceId)
+            if (result == TextToSpeech.ERROR) {
+                notifyComplete()
+            }
+        } catch (_: Exception) {
+            releaseSpeechFocus()
+            onComplete?.invoke()
+        }
+    }
+
     fun stop() {
+        releaseSpeechFocus()
         try {
             activeWatchdogJob?.cancel()
             activeWatchdogJob = null
@@ -337,6 +470,7 @@ class SpeechNarrator(context: Context) : TextToSpeech.OnInitListener {
     }
 
     fun shutdown() {
+        releaseSpeechFocus()
         try {
             activeWatchdogJob?.cancel()
             activeWatchdogJob = null

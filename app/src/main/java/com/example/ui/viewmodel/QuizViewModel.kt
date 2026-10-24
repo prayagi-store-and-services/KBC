@@ -134,6 +134,11 @@ class QuizViewModel(application: Application) : AndroidViewModel(application) {
         soundPlayer.setMuted(nextMuted)
     }
 
+    /** Clearly labelled test line through the real narration path (standing rule, 19 Oct 2026). */
+    fun testVoice() {
+        speechNarrator.speakTest(languageMode.value)
+    }
+
     val userProfile: StateFlow<UserProfile> = repository.userProfileFlow.stateIn(
         scope = viewModelScope,
         started = SharingStarted.WhileSubscribed(5000),
@@ -310,6 +315,12 @@ class QuizViewModel(application: Application) : AndroidViewModel(application) {
             try {
                 android.util.Log.d("TarkShastra", "START_GAME_REQUEST invoked")
                 val context = getApplication<Application>()
+                val health = com.example.util.PhoneHealth.read(context)
+                if (com.example.util.PhoneHealth.decide(health) == com.example.util.PhoneHealth.Verdict.HOT) {
+                    _uiState.value = QuizUiState.PermissionRequired(listOf(), "\uD83C\uDF21 " + com.example.util.PhoneHealth.hotMessage(health))
+                    isStartingGame = false
+                    return@launch
+                }
                 val isTv = com.example.util.DeviceCapabilities.isTv(context)
                 val deviceHasCamera = com.example.util.DeviceCapabilities.hasCamera(context)
                 val deviceHasMic = com.example.util.DeviceCapabilities.hasMicrophone(context)

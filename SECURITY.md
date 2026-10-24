@@ -1,6 +1,30 @@
 # Security notes - KBC
 
-## Website game: no repeated questions (v1.1.26)
+# Crash report consent: destination shown before Send (v1.1.37)
+
+- The Crash report card and the preview dialog now name the destination before anything is sent: developer email prayagideepak@gmail.com through the FormSubmit service (formsubmit.co). The exact report text is still shown first, and sending still happens only when you tap Send. Text-only change; no new permission, library or server. Not a vulnerability fix.
+
+## Battery and temperature check before a game (v1.1.35)
+
+Before a game starts the app reads the phone's own battery level and temperature (Android's standard battery broadcast) and holds the game when the phone is 42 C or hotter. The values are not stored or sent anywhere. No new permission, library or server. Not a vulnerability fix. Checking with other Netra apps is not part of this version.
+
+## Start-up crash hardening and fuller crash reports (v1.1.34)
+
+A crash report from a Pixel 6 Pro (Android 12, v1.1.32) showed the quiz screen failing to start, but the report was cut off before the real cause. Two changes: (1) the speech engine is now created safely, so a phone whose speech service is missing or refuses to connect no longer stops the app from starting (narration is simply off); (2) crash reports keep the root cause (a few frames of each wrapper exception, more frames for the root) within a larger size limit. Reports still hold only class names and code locations, never exception messages. No new permission, library or server. The exact root cause of the Pixel crash is not yet confirmed; the next report will show it.
+
+## Verified web link (v1.1.33)
+
+The app now declares a verified web link for its own page, https://prayagi-store-and-services.github.io/netra-eco/app/kbc. Android opens the link in the app only when the website's assetlinks.json confirms this app's package and signing certificate; otherwise the link stays in the browser. The link is only an entry point: no screen reads data from it, nothing is stored or sent. No new permission, library or server.
+
+## Voice holds audio focus, plus a test button (v1.1.32)
+
+Every spoken line (question reading, options, results, solution narration, final score) now holds transient audio focus while it speaks, so music or other media pauses and then resumes instead of being talked over (ecosystem rule, 19 Oct 2026). The focus is released when the line finishes, errors, or is stopped, and a watchdog releases it even if the speech engine never calls back. A new "Test voice" button on the home screen speaks one clearly labelled test line through the same narration path - it is only a test, never a game event. No new permission, library or network address; speech still runs fully on the phone.
+
+## Usage count is opt-in (v1.1.26)
+
+The anonymous daily usage counter (adds 1 to a public counter, no ID, no location, no app data) used to be on by default. It is now OFF by default: nothing is sent until the user turns it on in Settings. People who never touched the switch are therefore no longer counted. This follows the privacy-first and DPDP consent rule. No new permission, library or network address.
+
+## Website game: no repeated questions (v1.1.38)
 
 The KBC Web game (docs/play.html) used to hold back only questions it had already shown, but the question bank holds the same question asked in different words (for example 12 versions of the compass-needle question). Players saw the same idea again in every game. Now each question gets a concept id (questions with about the same content words count as one idea), a game picks at most one question per idea, and ideas already seen on this device are held back until the group is used up; then a new round starts and the screen says so. Fresh picks use the browser's secure random generator. If the browser blocks storage, the list is kept for the open page only. Played question IDs stay in this browser only (localStorage); nothing is sent anywhere. No new permission, library or server. The Android app is unchanged in this version. Age-wise and syllabus-wise question sets are not part of this change.
 
@@ -126,3 +150,12 @@ The screen shown after saving the profile said "100% offline game bank ready" an
 
 - A card near the top of the home screen shows today's festival (India calendar, bundled in the app, from timeanddate.com India 2026-2027) or "coming soon" for a festival within 3 days, with the live date and time. India's Independence Day (15 August) is shown too. It has no death anniversaries and no other country's days. After 2027 there is no data, so no banner is shown and nothing is invented. A date marked "may differ by a day" says so.
 - It works offline. No new permission, network call or library.
+
+
+2026-10-15 family attribution: 1.1.29 adds " | Netra Ecosystem" immediately after the visible version. Production header extracted for 360dp rendering; no permissions, telemetry, signing, network or data-path changes. Not a security vulnerability patch. Phone testing remains pending.
+
+2026-10-16 build-classpath security (1.1.30): the Gradle build classpath (CI and release signing) now forces org.bouncycastle:bcprov-jdk18on 1.85 and org.apache.httpcomponents:httpclient 4.5.14 instead of the 1.79 / 4.5.6 pinned by the Android build plugin. These libraries run only during the build; they are never packaged into the app. App code, permissions, network behavior and stored data are unchanged. Addresses Dependabot-flagged build-classpath CVEs (critical GHSA-9pwp-9qqc-pr26 and GHSA-574f-3g2m-x479; high GHSA-qp49-qgx5-5m26 and GHSA-p93r-85wp-75v3; medium GHSA-c3fc-8qff-9hwx and GHSA-7r82-7xv7-xcpj). Not an app behavior change; phone testing state unchanged.
+
+2026-10-18 crash-report facts (1.1.31): crash reports now stamp the app version and crash time at the moment of the crash, from the compile-time version constant (a PackageManager lookup can fail mid-crash and was the one path that could save version "unknown"; an old crash viewed after an update also no longer borrows the newer app's version label). Reports saved by older versions keep the honest "unknown (crash was saved by an older app version)" label. Reports still contain only app name, version, crash time, phone model, Android version and the sanitized trace; no new data, permission or network change.
+
+2026-10-23 crash-consent restore (1.1.36): crash reports are no longer sent automatically. A crash is still saved on the device with the same fields (app name, version, crash time, phone model, Android version, sanitized trace); the existing Crash report card shows exactly what will be sent and where before the user taps Send, and nothing leaves the phone without that explicit action. Removes the only automatic upload; no new data, permission or network change; existing saved reports untouched, nothing deleted. Restores the 7 Oct opt-in rule (server sends only after the user sees the data and agrees). CI verified; physical phone confirmation pending.

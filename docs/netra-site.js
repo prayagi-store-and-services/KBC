@@ -132,19 +132,19 @@ function whatsNew(){
 }
 
 /* ---- Live stats: visits and downloads. No personal data is collected.
-   Visits: one anonymous counter increment per browser session (abacus.jasoncameron.dev, namespace netra-pages), no cookies, no IP stored by us.
+   Visits: one anonymous counter increment per browser session (own Firestore counter, collection netra_active), no cookies, no IP stored by us.
    Downloads: read live from the GitHub Releases API (asset download_count, summed over every release; includes in-app updates). */
-var AB="https://abacus.jasoncameron.dev/";
 function statKey(){var s=window.NETRA_SITE||{};return s.appId?("visits-"+s.appId):"visits-eco"}
 function visitCount(){
- var k=statKey(),path=(sessionStorage.getItem("netra_v_"+k)?"get/":"hit/")+"netra-pages/"+k;
- return fetch(AB+path).then(function(r){return r.json()}).then(function(d){sessionStorage.setItem("netra_v_"+k,"1");return typeof d.value==="number"?d.value:null}).catch(function(){return null});
+ var k=statKey(),seen=sessionStorage.getItem("netra_v_"+k);
+ if(seen)return NetraCounter.get(k);
+ return NetraCounter.hit(k).then(function(ok){if(ok)sessionStorage.setItem("netra_v_"+k,"1");return NetraCounter.get(k)});
 }
 function stats(){
  var s=window.NETRA_SITE||{};var visits=visitCount();
  if(!s.appId)return; /* the family site draws its own stats table */
  var foot=document.querySelector("footer");if(!foot)return;
- var box=document.createElement("div");box.id="netra-stats";box.style.cssText="text-align:center;padding:10px 16px;font-size:.9rem;opacity:.9";box.textContent="Loading live stats...";
+ var box=document.createElement("section");box.id="netra-stats";box.setAttribute("aria-label","Live stats");box.style.cssText="text-align:center;padding:10px 16px;font-size:.9rem;opacity:.9";box.textContent="Loading live stats...";
  foot.parentNode.insertBefore(box,foot);
  var dl=fetch("https://api.github.com/repos/"+s.repo+"/releases?per_page=100").then(function(r){if(!r.ok)throw 0;return r.json()}).catch(function(){return null});
  Promise.all([visits,dl]).then(function(a){

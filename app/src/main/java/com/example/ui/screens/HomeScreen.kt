@@ -132,6 +132,16 @@ fun HomeScreen(
                         )
                     }
 
+                    // Test voice: speaks one clearly labelled test line through the real narration
+                    // path (standing rule, 19 Oct 2026). Only a test, never a game event.
+                    OutlinedButton(
+                        onClick = { viewModel.testVoice() },
+                        modifier = Modifier.testTag("test_voice_button"),
+                        contentPadding = androidx.compose.foundation.layout.PaddingValues(horizontal = 10.dp, vertical = 0.dp)
+                    ) {
+                        Text(if (isHi) "टेस्ट आवाज़" else "Test voice", fontSize = 11.sp, fontWeight = FontWeight.Bold, color = GoldPrimary)
+                    }
+
                     // History Button
                     IconButton(
                         onClick = { viewModel.navigateToHistory() },
@@ -484,7 +494,15 @@ fun HomeScreen(
                         fontSize = 15.sp
                     )
                 )
-            }
+                     val phoneCtx = androidx.compose.ui.platform.LocalContext.current
+            val phoneTestState = androidx.compose.runtime.remember { androidx.compose.runtime.mutableStateOf("") }
+            androidx.compose.material3.OutlinedButton(
+                onClick = { phoneTestState.value = com.example.util.PhoneHealth.testText(com.example.util.PhoneHealth.read(phoneCtx)) },
+                modifier = Modifier.fillMaxWidth().testTag("phone_check_test_button")
+            ) { Text("TEST phone check (battery and temperature)", fontSize = 12.sp) }
+            if (phoneTestState.value.isNotEmpty()) Text(phoneTestState.value, fontSize = 12.sp)
+
+   }
 
             Spacer(modifier = Modifier.height(24.dp))
         }

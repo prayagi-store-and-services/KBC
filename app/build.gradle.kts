@@ -1,5 +1,17 @@
 import com.google.gms.googleservices.GoogleServicesPlugin.MissingGoogleServicesStrategy
 
+buildscript {
+  configurations.classpath {
+    resolutionStrategy {
+      // Dependabot 2026-10-16: the Gradle plugin classpath pulls bcprov-jdk18on 1.79
+      // (via com.android.tools:sdk-common 32.1.1 from AGP) and httpclient 4.5.6 (via httpmime).
+      // Force patched versions. Build-time only: never packaged into the app.
+      force("org.bouncycastle:bcprov-jdk18on:1.85")
+      force("org.apache.httpcomponents:httpclient:4.5.14")
+    }
+  }
+}
+
 plugins {
   alias(libs.plugins.android.application)
   alias(libs.plugins.kotlin.compose)
@@ -17,8 +29,8 @@ android {
     applicationId = "com.aistudio.reasoningquiz.tark"
     minSdk = 24
     targetSdk = 36
-    versionCode = 35
-    versionName = "1.1.26"
+    versionCode = 47
+    versionName = "1.1.38"
 
     testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
   }
