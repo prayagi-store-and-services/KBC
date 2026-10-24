@@ -14950,5 +14950,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-24T04:39:56Z"
+ },
+ {
+  "id": "q_0b234f1ac72edd13",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which Indian city is the Taj Mahal located?",
+  "qHi": "ताजमहल किस भारतीय शहर में स्थित है?",
+  "optsEn": [
+   "Jaipur",
+   "Agra",
+   "Lucknow",
+   "Delhi"
+  ],
+  "optsHi": [
+   "जयपुर",
+   "आगरा",
+   "लखनऊ",
+   "दिल्ली"
+  ],
+  "correct": 1,
+  "explainEn": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T11:03:21Z"
+ },
+ {
+  "id": "q_ad0a62de79bebe3d",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian state is the largest producer of coffee as of recent agricultural data?",
+  "qHi": "हाल के कृषि आंकड़ों के अनुसार कौन सा भारतीय राज्य कॉफी का सबसे बड़ा उत्पादक है?",
+  "optsEn": [
+   "Kerala",
+   "Tamil Nadu",
+   "Karnataka",
+   "Andhra Pradesh"
+  ],
+  "optsHi": [
+   "केरल",
+   "तमिलनाडु",
+   "कर्नाटक",
+   "आंध्र प्रदेश"
+  ],
+  "correct": 2,
+  "explainEn": "Karnataka accounts for the majority of India's total coffee production.",
+  "sourceHint": "Ministry of Commerce and Industry, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T11:05:00Z"
  }
 ]

@@ -20522,5 +20522,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-24T04:40:21Z"
+ },
+ {
+  "id": "q_0b56c62c0e3892d9",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following Indian classical dance forms originated in Kerala?",
+  "qHi": "निम्नलिखित में से कौन सा भारतीय शास्त्रीय नृत्य रूप केरल में उत्पन्न हुआ था?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a major classical dance form that originated in the southern state of Kerala.",
+  "sourceHint": "NCERT Art and Culture references",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T11:05:10Z"
  }
 ]

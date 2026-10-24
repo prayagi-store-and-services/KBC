@@ -15006,5 +15006,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-24T04:39:46Z"
+ },
+ {
+  "id": "q_ab68675b0bc485a3",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which vitamin is abundant in citrus fruits like lemon and orange?",
+  "qHi": "नींबू और संतरा जैसे खट्टे फलों में कौन सा विटामिन प्रचुर मात्रा में होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 2,
+  "explainEn": "Citrus fruits are rich sources of Vitamin C, also known as ascorbic acid.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T11:03:09Z"
+ },
+ {
+  "id": "q_8e3d64ff2b7a3651",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which chemical element is commonly known as quicksilver?",
+  "qHi": "किस रासायनिक तत्व को सामान्यतः 'क्विकसिल्वर' कहा जाता है?",
+  "optsEn": [
+   "Silver",
+   "Mercury",
+   "Lead",
+   "Tin"
+  ],
+  "optsHi": [
+   "चांदी",
+   "पारा",
+   "सीसा",
+   "टिन"
+  ],
+  "correct": 1,
+  "explainEn": "Mercury is a metallic chemical element with the symbol Hg and atomic number 80, historically referred to as quicksilver.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T11:04:35Z"
+ },
+ {
+  "id": "q_1791b3db7c25a9c1",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which state is the ancient site of Lothal situated?",
+  "qHi": "प्राचीन स्थल लोथल किस राज्य में स्थित है?",
+  "optsEn": [
+   "Rajasthan",
+   "Punjab",
+   "Gujarat",
+   "Haryana"
+  ],
+  "optsHi": [
+   "राजस्थान",
+   "पंजाब",
+   "गुजरात",
+   "हरियाणा"
+  ],
+  "correct": 2,
+  "explainEn": "Lothal was one of the southernmost cities of the ancient Indus Valley Civilization, located in the Bhal region of the modern state of Gujarat.",
+  "sourceHint": "NCERT Ancient History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T11:04:35Z"
+ },
+ {
+  "id": "q_7cadfe4320741d04",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following vitamins is water-soluble?",
+  "qHi": "निम्नलिखित में से कौन सा विटामिन जल में घुलनशील है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin D",
+   "Vitamin C",
+   "Vitamin K"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन डी",
+   "विटामिन सी",
+   "विटामिन के"
+  ],
+  "correct": 2,
+  "explainEn": "Vitamins are classified as either fat-soluble (A, D, E, K) or water-soluble (C and the B-complex vitamins).",
+  "sourceHint": "NCERT Biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T11:04:35Z"
  }
 ]

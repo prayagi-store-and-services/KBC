@@ -23574,5 +23574,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-24T04:39:51Z"
+ },
+ {
+  "id": "q_997c6c17503723fd",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In the context of Indian banking, what does the letter 'N' stand for in 'NEFT'?",
+  "qHi": "भारतीय बैंकिंग के संदर्भ में, 'NEFT' में अक्षर 'N' का क्या अर्थ है?",
+  "optsEn": [
+   "National",
+   "Negotiated",
+   "Nominal",
+   "Net"
+  ],
+  "optsHi": [
+   "नेशनल (National)",
+   "नेगोशिएटेड (Negotiated)",
+   "नॉमिनल (Nominal)",
+   "नेट (Net)"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, a nationwide centralized payment system.",
+  "sourceHint": "RBI payment systems documentation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T11:03:15Z"
+ },
+ {
+  "id": "q_f10e4b6ed8714a70",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following terms refers to the rate at which the Reserve Bank of India lends short-term money to commercial banks?",
+  "qHi": "निम्नलिखित में से कौन सा शब्द उस दर को संदर्भित करता है जिस पर भारतीय रिजर्व बैंक वाणिज्यिक बैंकों को अल्पकालिक धन उधार देता है?",
+  "optsEn": [
+   "Repo Rate",
+   "Bank Rate",
+   "CRR",
+   "SLR"
+  ],
+  "optsHi": [
+   "रेपो रेट (Repo Rate)",
+   "बैंक रेट (Bank Rate)",
+   "सीआरआर (CRR)",
+   "एसएलआर (SLR)"
+  ],
+  "correct": 0,
+  "explainEn": "Repo Rate (Repurchase Rate) is the rate at which the central bank lends money to commercial banks in the event of any shortfall of funds.",
+  "sourceHint": "RBI Monetary Policy overview",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T11:03:15Z"
+ },
+ {
+  "id": "q_00773e717162b09c",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the economic term 'LAF' used by RBI?",
+  "qHi": "RBI द्वारा उपयोग किए जाने वाले आर्थिक शब्द 'LAF' में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liquidity",
+   "Liability",
+   "Leverage",
+   "Lending"
+  ],
+  "optsHi": [
+   "Liquidity",
+   "Liability",
+   "Leverage",
+   "Lending"
+  ],
+  "correct": 0,
+  "explainEn": "LAF stands for Liquidity Adjustment Facility, which is a monetary policy tool used by the Reserve Bank of India.",
+  "sourceHint": "RBI official website glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T11:04:47Z"
+ },
+ {
+  "id": "q_91a4219314e2768c",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institution introduced the Unified Payments Interface (UPI) in India?",
+  "qHi": "भारत में यूनिफाइड पेमेंट इंटरफेस (UPI) किस संस्था द्वारा शुरू किया गया था?",
+  "optsEn": [
+   "RBI",
+   "SBI",
+   "NPCI",
+   "Ministry of Finance"
+  ],
+  "optsHi": [
+   "RBI",
+   "SBI",
+   "NPCI",
+   "Ministry of Finance"
+  ],
+  "correct": 2,
+  "explainEn": "NPCI (National Payments Corporation of India) developed and operates the Unified Payments Interface.",
+  "sourceHint": "NPCI official portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T11:04:47Z"
+ },
+ {
+  "id": "q_41b808a638c232fc",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the expansion of 'CASA' in the context of commercial banking?",
+  "qHi": "वाणिज्यिक बैंकिंग के संदर्भ में 'CASA' का विस्तार क्या है?",
+  "optsEn": [
+   "Current Account Savings Account",
+   "Credit Asset Saving Association",
+   "Cash And Savings Asset",
+   "Core Accounting System Application"
+  ],
+  "optsHi": [
+   "करेंट अकाउंट सेविंग्स अकाउंट",
+   "क्रेडिट एसेट सेविंग एसोसिएशन",
+   "कैश एंड सेविंग्स एसेट",
+   "कोर अकाउंटिंग सिस्टम एप्लीकेशन"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account Savings Account, referring to bank deposits that offer low or no interest.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T11:04:47Z"
+ },
+ {
+  "id": "q_e4294eb195a9aa88",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the term 'Repo Rate' signify?",
+  "qHi": "'रेपो रेट' शब्द का क्या तात्पर्य है?",
+  "optsEn": [
+   "Rate at which banks lend to the public",
+   "Rate at which RBI borrows from commercial banks",
+   "Rate at which RBI lends short-term funds to commercial banks",
+   "Rate of interest on government bonds"
+  ],
+  "optsHi": [
+   "वह दर जिस पर बैंक जनता को ऋण देते हैं",
+   "वह दर जिस पर RBI वाणिज्यिक बैंकों से उधार लेता है",
+   "वह दर जिस पर RBI वाणिज्यिक बैंकों को अल्पकालिक ऋण देता है",
+   "सरकारी बांड पर ब्याज की दर"
+  ],
+  "correct": 2,
+  "explainEn": "Repo Rate is the rate at which the central bank of a country lends money to commercial banks in the event of any shortfall of funds.",
+  "sourceHint": "NCERT Economics textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T11:04:47Z"
  }
 ]

@@ -22398,5 +22398,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-24T04:40:39Z"
+ },
+ {
+  "id": "q_2f21ba065246bdff",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which chemical element is represented by the symbol 'Fe'?",
+  "qHi": "'Fe' प्रतीक द्वारा किस रासायनिक तत्व को दर्शाया जाता है?",
+  "optsEn": [
+   "Iron",
+   "Fluorine",
+   "Francium",
+   "Fermium"
+  ],
+  "optsHi": [
+   "लोहा (आयरन)",
+   "फ्लोरीन",
+   "फ्रांसियम",
+   "फर्मियम"
+  ],
+  "correct": 0,
+  "explainEn": "The chemical symbol 'Fe' stands for iron, derived from its Latin name ferrum.",
+  "sourceHint": "NCERT Chemistry",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T11:02:58Z"
+ },
+ {
+  "id": "q_68c3164fcb1beff5",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the powerhouse of the cell?",
+  "qHi": "कोशिका का पावरहाउस किसे कहा जाता है?",
+  "optsEn": [
+   "Ribosome",
+   "Nucleus",
+   "Mitochondria",
+   "Golgi apparatus"
+  ],
+  "optsHi": [
+   "राइबोसोम",
+   "केंद्रक",
+   "माइटोकॉन्ड्रिया",
+   "गोलगी उपकरण"
+  ],
+  "correct": 2,
+  "explainEn": "Mitochondria are known as the powerhouse of the cell because they generate most of the chemical energy.",
+  "sourceHint": "NCERT Biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T11:02:58Z"
+ },
+ {
+  "id": "q_40e4865c249deb54",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which phenomenon is responsible for the blue color of the clear sky?",
+  "qHi": "स्वच्छ आकाश के नीले रंग के लिए कौन सी घटना जिम्मेदार है?",
+  "optsEn": [
+   "Refraction",
+   "Total internal reflection",
+   "Rayleigh scattering",
+   "Interference"
+  ],
+  "optsHi": [
+   "अपवर्तन",
+   "पूर्ण आंतरिक परावर्तन",
+   "रेleigh प्रकीर्णन",
+   "व्यतिकरण"
+  ],
+  "correct": 2,
+  "explainEn": "The blue color of the sky is due to Rayleigh scattering of sunlight by molecules in the Earth's atmosphere.",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 9",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T11:04:11Z"
+ },
+ {
+  "id": "q_d75e142180a45525",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which coordination compound is commonly known as Cisplatin and used as an anti-cancer drug?",
+  "qHi": "किस उपसहसंयोजन यौगिक को आमतौर पर सिस्प्लैटिन के रूप में जाना जाता है और इसका उपयोग कैंसर रोधी दवा के रूप में किया जाता है?",
+  "optsEn": [
+   "[PtCl2(NH3)2]",
+   "[Co(NH3)6]Cl3",
+   "[Fe(CN)6]4-",
+   "[Ni(CO)4]"
+  ],
+  "optsHi": [
+   "[PtCl2(NH3)2]",
+   "[Co(NH3)6]Cl3",
+   "[Fe(CN)6]4-",
+   "[Ni(CO)4]"
+  ],
+  "correct": 0,
+  "explainEn": "Cisplatin, with the formula [PtCl2(NH3)2], is a platinum-based chemotherapy drug used to treat various cancers.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 9",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T11:04:11Z"
+ },
+ {
+  "id": "q_1a3b210d7fe06b75",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which functional group isomer of propanone is an aldehyde?",
+  "qHi": "प्रोपेनोन का कौन सा कार्यात्मक समूह समावयवी एक एल्डिहाइड है?",
+  "optsEn": [
+   "Propanal",
+   "Propan-1-ol",
+   "Propanoic acid",
+   "Methoxyethane"
+  ],
+  "optsHi": [
+   "प्रोपेनल",
+   "प्रोपेन-1-ऑल",
+   "प्रोपेनोइक एसिड",
+   "मेथॉक्सीएथेन"
+  ],
+  "correct": 0,
+  "explainEn": "Propanone (a ketone) and Propanal (an aldehyde) are functional isomers as both have the molecular formula C3H6O.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T11:04:11Z"
+ },
+ {
+  "id": "q_9e35c4750548e21b",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which article of the Indian Constitution provides for the amendment of the Constitution?",
+  "qHi": "भारतीय संविधान का कौन सा अनुच्छेद संविधान में संशोधन का प्रावधान करता है?",
+  "optsEn": [
+   "Article 356",
+   "Article 370",
+   "Article 368",
+   "Article 32"
+  ],
+  "optsHi": [
+   "अनुच्छेद 356",
+   "अनुच्छेद 370",
+   "अनुच्छेद 368",
+   "अनुच्छेद 32"
+  ],
+  "correct": 2,
+  "explainEn": "Article 368 of Part XX of the Indian Constitution deals with the powers of Parliament to amend the Constitution.",
+  "sourceHint": "Indian Constitution, Part XX",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T11:04:11Z"
+ },
+ {
+  "id": "q_fc39b126f56b2234",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What term describes a market structure characterized by a single seller and no close substitutes?",
+  "qHi": "उस बाजार संरचना को क्या कहा जाता है जिसमें एक ही विक्रेता होता है और कोई करीबी विकल्प नहीं होता है?",
+  "optsEn": [
+   "Perfect competition",
+   "Monopoly",
+   "Oligopoly",
+   "Monopolistic competition"
+  ],
+  "optsHi": [
+   "पूर्ण प्रतियोगिता",
+   "एकाधिकार (मोनोपली)",
+   "अल्पाधिकार (ऑलिगोपली)",
+   "एकाधिकारवादी प्रतियोगिता"
+  ],
+  "correct": 1,
+  "explainEn": "A monopoly is a market structure defined by a single producer or seller that controls the entire market for a good or service.",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Microeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T11:04:11Z"
+ },
+ {
+  "id": "q_cf07510018b3ecce",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which constitutional amendment introduced the provisions related to Municipalities in India, adding Part IX-A?",
+  "qHi": "किस संवैधानिक संशोधन ने भारत में नगर पालिकाओं से संबंधित प्रावधानों को पेश किया और भाग IX-A जोड़ा?",
+  "optsEn": [
+   "42nd Amendment Act",
+   "44th Amendment Act",
+   "73rd Amendment Act",
+   "74th Amendment Act"
+  ],
+  "optsHi": [
+   "42वां संशोधन अधिनियम",
+   "44वां संशोधन अधिनियम",
+   "73वां संशोधन अधिनियम",
+   "74वां संशोधन अधिनियम"
+  ],
+  "correct": 3,
+  "explainEn": "The 74th Constitutional Amendment Act, 1992, added Part IX-A relating to Municipalities to the Constitution of India.",
+  "sourceHint": "NCERT Class 12 Political Science, Indian Constitution at Work",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T11:05:45Z"
+ },
+ {
+  "id": "q_dbb3260f46b6b7af",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In microeconomics, what does an upward shift of the total cost curve while keeping output constant signify?",
+  "qHi": "व्यष्टि अर्थशास्त्र में, उत्पादन को स्थिर रखते हुए कुल लागत वक्र (total cost curve) का ऊपर की ओर खिसकना क्या दर्शाता है?",
+  "optsEn": [
+   "Increase in factor prices",
+   "Decrease in technology level",
+   "Increase in productivity",
+   "Decrease in fixed costs"
+  ],
+  "optsHi": [
+   "कारक कीमतों में वृद्धि",
+   "प्रौद्योगिकी स्तर में कमी",
+   "उत्पादकता में वृद्धि",
+   "स्थिर लागत में कमी"
+  ],
+  "correct": 0,
+  "explainEn": "An increase in the prices of factors of production increases the cost of producing any given level of output, shifting the total cost curve upward.",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Microeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T11:05:45Z"
+ },
+ {
+  "id": "q_894f24dc26c011d7",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specialized cell junction prevents the leakage of substances across a tissue in animal epithelial tissues?",
+  "qHi": "पशु उपकला ऊतकों में कौन सा विशिष्ट कोशिका जंक्शन ऊतक के पार पदार्थों के रिसाव को रोकता है?",
+  "optsEn": [
+   "Adhering junctions",
+   "Tight junctions",
+   "Gap junctions",
+   "Synapses"
+  ],
+  "optsHi": [
+   "आसंजी जंक्शन (Adhering junctions)",
+   "दृढ़ जंक्शन (Tight junctions)",
+   "अंतराली जंक्शन (Gap junctions)",
+   "सिनैप्स"
+  ],
+  "correct": 1,
+  "explainEn": "Tight junctions help to stop substances from leaking across a tissue, while adhering junctions perform cementing to keep neighbouring cells together.",
+  "sourceHint": "NCERT Class 11/12 Biology context on Animal Tissues",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T11:05:45Z"
+ },
+ {
+  "id": "q_cf2828964177817c",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In electromagnetic induction, Lenz's law is a direct consequence of the conservation of which fundamental quantity?",
+  "qHi": "विद्युत चुम्कीय प्रेरण में, लेन्ज का नियम किस मूलभूत राशि के संरक्षण का सीधा परिणाम है?",
+  "optsEn": [
+   "Electric charge",
+   "Linear momentum",
+   "Energy",
+   "Angular momentum"
+  ],
+  "optsHi": [
+   "विद्युत आवेश",
+   "रैखिक संवेग",
+   "ऊर्जा",
+   "कोणीय संवेग"
+  ],
+  "correct": 2,
+  "explainEn": "Lenz's law is in accordance with the law of conservation of energy, as mechanical work done in moving a magnet creates electrical energy.",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 6: Electromagnetic Induction",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T11:05:45Z"
+ },
+ {
+  "id": "q_44cb4f5aa42797a2",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which British official introduced the Mahalwari system of land revenue settlement in North-West Provinces of India?",
+  "qHi": "किस ब्रिटिश अधिकारी ने भारत के उत्तर-पश्चिम प्रांतों में भू-राजस्व बंदोबस्त की महालवाड़ी प्रणाली शुरू की थी?",
+  "optsEn": [
+   "Lord Cornwallis",
+   "Thomas Munro",
+   "R. M. Bird",
+   "John Shore"
+  ],
+  "optsHi": [
+   "लॉर्ड कॉर्नवालिस",
+   "थॉमस मुनरो",
+   "आर. एम. बर्ड",
+   "जॉन शोर"
+  ],
+  "correct": 2,
+  "explainEn": "Holt Mackenzie devised the Mahalwari system, but it was modified and popularized extensively in the North-West Provinces by R. M. Bird.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T11:05:45Z"
+ },
+ {
+  "id": "q_d2714e108679b55f",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary commercial method used for the refining of nickel metal?",
+  "qHi": "निकल धातु के शोधन के लिए उपयोग की जाने वाली प्राथमिक व्यावसायिक विधि कौन सी है?",
+  "optsEn": [
+   "Mond process",
+   "Van Arkel method",
+   "Zone refining",
+   "Cupellation"
+  ],
+  "optsHi": [
+   "मॉन्ड प्रक्रम (Mond process)",
+   "वान अर्केल विधि",
+   "जोन रिफाइनिंग",
+   "क्यूपिलेशन"
+  ],
+  "correct": 0,
+  "explainEn": "In the Mond process, nickel is heated with carbon monoxide to form volatile nickel tetracarbonyl, which is subsequently decomposed to yield pure nickel.",
+  "sourceHint": "NCERT Class 12 Chemistry, General Principles and Processes of Isolation of Elements",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T11:05:45Z"
  }
 ]
