@@ -15034,5 +15034,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-24T16:02:49Z"
+ },
+ {
+  "id": "q_433b55075f5ae20a",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which sport is the term 'LBW' commonly used?",
+  "qHi": "'एलबीडब्ल्यू' (LBW) शब्द का प्रयोग आमतौर पर किस खेल में किया जाता है?",
+  "optsEn": [
+   "Football",
+   "Hockey",
+   "Cricket",
+   "Tennis"
+  ],
+  "optsHi": [
+   "फुटबॉल",
+   "हॉकी",
+   "क्रिकेट",
+   "टेनिस"
+  ],
+  "correct": 2,
+  "explainEn": "LBW stands for Leg Before Wicket, a dismissal method in cricket.",
+  "sourceHint": "ICC Official Rules",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:51:53Z"
  }
 ]

@@ -24022,5 +24022,453 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-24T16:02:28Z"
+ },
+ {
+  "id": "q_913f303f1dd6a9a5",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'I' stand for in the abbreviation 'IMPS', a popular payment system in Indian banking?",
+  "qHi": "भारतीय बैंकिंग में लोकप्रिय भुगतान प्रणाली 'IMPS' संक्षिप्त नाम में अक्षर 'I' का क्या अर्थ है?",
+  "optsEn": [
+   "Immediate",
+   "Interbank",
+   "International",
+   "Indian"
+  ],
+  "optsHi": [
+   "Immediate",
+   "Interbank",
+   "International",
+   "Indian"
+  ],
+  "correct": 0,
+  "explainEn": "IMPS stands for Immediate Payment Service, an instant interbank electronic fund transfer service in India.",
+  "sourceHint": "National Payments Corporation of India (NPCI)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:51:49Z"
+ },
+ {
+  "id": "q_d8baa6d9a66cbb94",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which currency note in India features the signature of the Governor of the Reserve Bank of India?",
+  "qHi": "भारत में किस करेंसी नोट पर भारतीय रिजर्व बैंक के गवर्नर के हस्ताक्षर होते हैं?",
+  "optsEn": [
+   "One Rupee Note",
+   "Two Rupee Note",
+   "All currency notes except the One Rupee note",
+   "All currency notes including the One Rupee note"
+  ],
+  "optsHi": [
+   "एक रुपये का नोट",
+   "दो रुपये का नोट",
+   "एक रुपये के नोट को छोड़कर सभी करेंसी नोट",
+   "एक रुपये के नोट सहित सभी करेंसी नोट"
+  ],
+  "correct": 2,
+  "explainEn": "All Indian currency notes except the One Rupee note bear the signature of the RBI Governor. The One Rupee note bears the signature of the Finance Secretary.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:51:49Z"
+ },
+ {
+  "id": "q_933472221ad401b5",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In the context of banking, what does the term 'CASA' stand for?",
+  "qHi": "बैंकिंग के संदर्भ में, 'CASA' शब्द का क्या अर्थ है?",
+  "optsEn": [
+   "Current Account Savings Account",
+   "Capital Asset Savings Asset",
+   "Credit And Savings Arrangement",
+   "Cash Allocation and Savings Audit"
+  ],
+  "optsHi": [
+   "Current Account Savings Account",
+   "Capital Asset Savings Asset",
+   "Credit And Savings Arrangement",
+   "Cash Allocation and Savings Audit"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account Savings Account, representing low-cost deposits for banks.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:51:49Z"
+ },
+ {
+  "id": "q_f4bfd5c1cc995f1c",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following terms is used to describe the interest rate at which the Reserve Bank of India lends short-term money to commercial banks?",
+  "qHi": "निम्नलिखित में से किस शब्द का उपयोग उस ब्याज दर को दर्शाने के लिए किया जाता है जिस पर भारतीय रिजर्व बैंक वाणिज्यिक बैंकों को अल्पकालिक ऋण देता है?",
+  "optsEn": [
+   "Bank Rate",
+   "Repo Rate",
+   "Reverse Repo Rate",
+   "Cash Reserve Ratio"
+  ],
+  "optsHi": [
+   "बैंक दर",
+   "रेपो रेट",
+   "रिवर्स रेपो रेट",
+   "नकद आरक्षित अनुपात"
+  ],
+  "correct": 1,
+  "explainEn": "Repo rate (Repurchase Rate) is the rate at which the central bank lends short-term funds to commercial banks against securities.",
+  "sourceHint": "Reserve Bank of India monetary policy definitions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:51:49Z"
+ },
+ {
+  "id": "q_4df2f49b05c5e4e8",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which institution operates the Unified Payments Interface (UPI) platform in India?",
+  "qHi": "भारत में यूनिफाइड पेमेंट इंटरफेस (UPI) प्लेटफॉर्म का संचालन कौन सी संस्था करती है?",
+  "optsEn": [
+   "State Bank of India",
+   "National Payments Corporation of India",
+   "Securities and Exchange Board of India",
+   "Indian Banks Association"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "नेशनल पेमेंट्स कॉर्पोरेशन ऑफ इंडिया",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "इंडियन बैंक एसोसिएशन"
+  ],
+  "correct": 1,
+  "explainEn": "NPCI (National Payments Corporation of India) developed and operates the Unified Payments Interface (UPI).",
+  "sourceHint": "NPCI official portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:51:49Z"
+ },
+ {
+  "id": "q_9e38e6110017c41b",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the expanded form of 'NEFT' in the Indian banking system?",
+  "qHi": "भारतीय बैंकिंग प्रणाली में 'NEFT' का विस्तारित रूप क्या है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "National Equity Finance Transmission",
+   "Net Electronic Financial Transaction",
+   "National Economy Fund Transfer"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "नेशनल इक्विटी फाइनेंस ट्रांसमिशन",
+   "नेट इलेक्ट्रॉनिक फाइनेंशियल ट्रांजैक्शन",
+   "नेशनल इकोनॉमी फंड ट्रांसफर"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, a nation-wide centralized payment system owned and operated by RBI.",
+  "sourceHint": "Reserve Bank of India website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:52:48Z"
+ },
+ {
+  "id": "q_a6193c622c9543e5",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Basel III norms, what does 'Tier 1 Capital' primarily represent for a bank?",
+  "qHi": "बेसल III मानदंडों के तहत, बैंक के लिए 'टियर 1 पूंजी' मुख्य रूप से किसका प्रतिनिधित्व करती है?",
+  "optsEn": [
+   "Borrowed funds repayable within one year",
+   "Core equity capital and disclosed reserves",
+   "Subordinated debt with a fixed maturity",
+   "Unsecured loans from foreign institutions"
+  ],
+  "optsHi": [
+   "एक वर्ष के भीतर चुकाने योग्य उधार धन",
+   "कोर इक्विटी पूंजी और प्रकट भंडार",
+   "निश्चित परिपक्वता वाला अधीनस्थ ऋण",
+   "विदेशी संस्थानों से असुरक्षित ऋण"
+  ],
+  "correct": 1,
+  "explainEn": "Tier 1 capital consists mainly of common stock and disclosed reserves (retained earnings), serving as the core measure of a bank's financial strength.",
+  "sourceHint": "Basel Committee on Banking Supervision guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:52:48Z"
+ },
+ {
+  "id": "q_9af96b2ed8b9c0b9",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which market is primarily associated with the trading of short-term debt instruments in India?",
+  "qHi": "भारत में कौन सा बाजार मुख्य रूप से अल्पकालिक ऋण उपकरणों के कारोबार से जुड़ा है?",
+  "optsEn": [
+   "Capital market",
+   "Money market",
+   "Commodity market",
+   "Forex market"
+  ],
+  "optsHi": [
+   "पूंजी बाजार",
+   "मुद्रा बाजार (मनी मार्केट)",
+   "कमोडिटी बाजार",
+   "विदेशी मुद्रा बाजार"
+  ],
+  "correct": 1,
+  "explainEn": "The money market is a financial market for short-term borrowing and lending, typically with maturities of one year or less.",
+  "sourceHint": "RBI Financial Education handbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:52:48Z"
+ },
+ {
+  "id": "q_98ab4cf4ef9d5c8e",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the term 'Repo Rate' signify in the Indian banking sector?",
+  "qHi": "भारतीय बैंकिंग क्षेत्र में 'रेपो रेट' शब्द का क्या तात्पर्य है?",
+  "optsEn": [
+   "The rate at which commercial banks lend to the RBI",
+   "The rate at which the RBI lends short-term funds to commercial banks",
+   "The interest rate paid on savings bank accounts",
+   "The rate of interest charged on housing loans"
+  ],
+  "optsHi": [
+   "वह दर जिस पर व्यावसायिक बैंक आरबीआई को ऋण देते हैं",
+   "वह दर जिस पर आरबीआई व्यावसायिक बैंकों को अल्पकालिक धन उधार देता है",
+   "बचत बैंक खातों पर भुगतान किया जाने वाला ब्याज दर",
+   "गृह ऋण पर लिया जाने वाला ब्याज दर"
+  ],
+  "correct": 1,
+  "explainEn": "Repo rate is the interest rate at which the central bank lends money to commercial banks in the event of any shortfall of funds.",
+  "sourceHint": "Reserve Bank of India FAQs",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:52:48Z"
+ },
+ {
+  "id": "q_cf422103e81b7dd2",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which financial document details a company's assets, liabilities, and shareholders' equity at a specific point in time?",
+  "qHi": "कौन सा वित्तीय दस्तावेज एक विशिष्ट समय पर कंपनी की संपत्ति, देनदारियों और शेयरधारकों की इक्विटी का विवरण देता है?",
+  "optsEn": [
+   "Income statement",
+   "Cash flow statement",
+   "Balance sheet",
+   "Trial balance"
+  ],
+  "optsHi": [
+   "आय विवरण (इनकम स्टेटमेंट)",
+   "नकदी प्रवाह विवरण (कैश फ्लो स्टेटमेंट)",
+   "बिक्री और खरीद रजिस्टर",
+   "तुलनात्मक पत्र (बैलेंस शीट)"
+  ],
+  "correct": 2,
+  "explainEn": "A balance sheet is a financial statement that reports a company's assets, liabilities, and shareholder equity at a specific point in time.",
+  "sourceHint": "NCERT Accountancy textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:52:48Z"
+ },
+ {
+  "id": "q_20cb39dfa98cb62a",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the minimum net owned fund (NOF) requirement mandated by the Reserve Bank of India for setting up a new Non-Banking Financial Company (NBFC)?",
+  "qHi": "एक नई गैर-बैंकिंग वित्तीय कंपनी (NBFC) स्थापित करने के लिए भारतीय रिजर्व बैंक द्वारा अनिवार्य न्यूनतम शुद्ध स्वामित्व कोष (NOF) आवश्यकता क्या है?",
+  "optsEn": [
+   "Rs 2 crore",
+   "Rs 5 crore",
+   "Rs 10 crore",
+   "Rs 20 crore"
+  ],
+  "optsHi": [
+   "2 करोड़ रुपये",
+   "5 करोड़ रुपये",
+   "10 करोड़ रुपये",
+   "20 करोड़ रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "As per the revised regulatory framework by RBI, the minimum Net Owned Fund (NOF) required for specialized NBFC categories generally starts at Rs 10 crore.",
+  "sourceHint": "RBI Master Directions on NBFCs",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:53:48Z"
+ },
+ {
+  "id": "q_cd5c8c9d2bfe1b17",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Basel III norms implemented in Indian banks, what is the minimum Capital Conservation Buffer (CCB) requirement maintained as a percentage of Risk-Weighted Assets?",
+  "qHi": "भारतीय बैंकों में लागू बेसल III मानदंडों के तहत, जोखिम-भारित संपत्तियों के प्रतिशत के रूप में न्यूनतम पूंजी संरक्षण बफर (CCB) आवश्यकता क्या है?",
+  "optsEn": [
+   "1.50 percent",
+   "2.50 percent",
+   "3.00 percent",
+   "4.50 percent"
+  ],
+  "optsHi": [
+   "1.50 प्रतिशत",
+   "2.50 प्रतिशत",
+   "3.00 प्रतिशत",
+   "4.50 प्रतिशत"
+  ],
+  "correct": 1,
+  "explainEn": "The Capital Conservation Buffer under Basel III is maintained at 2.50 percent of Risk-Weighted Assets (RWA).",
+  "sourceHint": "RBI Basel III Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:53:48Z"
+ },
+ {
+  "id": "q_75d4c62f9252457a",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian financial institution was established in 1982 under an Act of Parliament to provide credit for promotion of agriculture, small-scale industries, and cottage and village industries?",
+  "qHi": "कृषि, लघु उद्योगों और कुटीर एवं ग्राम उद्योगों को बढ़ावा देने के लिए ऋण प्रदान करने हेतु संसद के एक अधिनियम के तहत 1982 में किस भारतीय वित्तीय संस्था की स्थापना की गई थी?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "IFCI"
+  ],
+  "optsHi": [
+   "सिडबी",
+   "नाबार्ड",
+   "एक्ज़िम बैंक",
+   "आईएफसीआई"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) was established in July 1982 based on the recommendations of the B. Sivaraman Committee.",
+  "sourceHint": "NABARD Act, 1981 / RBI History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:53:48Z"
+ },
+ {
+  "id": "q_fb3a83729fa3a8ea",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the Indian money market, what is the maximum maturity period for a Treasury Bill issued by the Government of India?",
+  "qHi": "भारतीय मुद्रा बाजार के संदर्भ में, भारत सरकार द्वारा जारी ट्रेजरी बिल की अधिकतम परिपक्वता अवधि क्या है?",
+  "optsEn": [
+   "91 days",
+   "182 days",
+   "364 days",
+   "730 days"
+  ],
+  "optsHi": [
+   "91 दिन",
+   "182 दिन",
+   "364 दिन",
+   "730 दिन"
+  ],
+  "correct": 2,
+  "explainEn": "Treasury bills are short-term debt instruments issued by the Government of India in three tenors: 91 days, 182 days, and 364 days.",
+  "sourceHint": "Reserve Bank of India FAQs on Government Securities",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:53:48Z"
+ },
+ {
+  "id": "q_bfe387626d8e3318",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific ratio measures the proportion of liquid assets that commercial banks must hold in the form of cash, gold, or approved securities before extending credit to customers?",
+  "qHi": "कौन सा विशिष्ट अनुपात उन तरल संपत्तियों के अनुपात को मापता है जो वाणिज्यिक बैंकों को ग्राहकों को ऋण देने से पहले नकदी, सोना या स्वीकृत प्रतिभूतियों के रूप में रखना अनिवार्य है?",
+  "optsEn": [
+   "Cash Reserve Ratio",
+   "Statutory Liquidity Ratio",
+   "Capital Adequacy Ratio",
+   "Liquidity Coverage Ratio"
+  ],
+  "optsHi": [
+   "नकद आरक्षित अनुपात",
+   "वैधानिक तरलता अनुपात",
+   "पूंजी पर्याप्तता अनुपात",
+   "तरलता कवरेज अनुपात"
+  ],
+  "correct": 1,
+  "explainEn": "Statutory Liquidity Ratio (SLR) is the reserve requirement that commercial banks must maintain in the form of liquid assets before providing credit.",
+  "sourceHint": "Banking Regulation Act, 1949 / RBI Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:53:48Z"
+ },
+ {
+  "id": "q_a08adde3cfddfd06",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the Liquidity Adjustment Facility (LAF) corridor terminology used by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा प्रयुक्त तरलता समायोजन सुविधा (LAF) कॉरिडोर शब्दावली में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liquidity",
+   "Liability",
+   "Leverage",
+   "Lending"
+  ],
+  "optsHi": [
+   "लिक्विडिटी",
+   "लायबिलिटी",
+   "लेवेज",
+   "लेंडिंग"
+  ],
+  "correct": 0,
+  "explainEn": "LAF stands for Liquidity Adjustment Facility, which is a monetary policy tool used by the RBI.",
+  "sourceHint": "RBI Monetary Policy Framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:53:48Z"
  }
 ]

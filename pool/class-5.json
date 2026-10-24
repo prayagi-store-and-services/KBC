@@ -20746,5 +20746,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-24T16:03:25Z"
+ },
+ {
+  "id": "q_ed8e2b9c0df47214",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which traditional Indian water harvesting system uses a series of stepwells or step ponds?",
+  "qHi": "पारंपरिक भारतीय जल संग्रहण प्रणाली में सीढ़ीदार कुओं या कुंडों की श्रृंखला को क्या कहा जाता है?",
+  "optsEn": [
+   "Bawlee",
+   "Dam",
+   "Canal",
+   "Tubewell"
+  ],
+  "optsHi": [
+   "बावड़ी",
+   "बांध",
+   "नहर",
+   "ट्यूबवेल"
+  ],
+  "correct": 0,
+  "explainEn": "Bawlees (or stepwells) were traditionally used in India to store rainwater and provide easy access to water.",
+  "sourceHint": "NCERT Class 5 EVS Chapter - A Shelter so High",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:51:59Z"
+ },
+ {
+  "id": "q_a3617f98e59eabc0",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which sense organ helps us to hear sounds around us?",
+  "qHi": "कौन सा ज्ञानेन्द्रिय अंग हमें हमारे चारों ओर की आवाजें सुनने में मदद करता है?",
+  "optsEn": [
+   "Skin",
+   "Eyes",
+   "Ears",
+   "Nose"
+  ],
+  "optsHi": [
+   "त्वचा",
+   "आंखें",
+   "कान",
+   "नाक"
+  ],
+  "correct": 2,
+  "explainEn": "Ears are the sensory organs responsible for hearing sounds.",
+  "sourceHint": "NCERT Class 5 EVS and Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:51:59Z"
+ },
+ {
+  "id": "q_10c7c0e02f4cf96f",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of map mainly shows country boundaries, states, and capital cities?",
+  "qHi": "किस प्रकार का नक्शा मुख्य रूप से देश की सीमाओं, राज्यों और राजधानी शहरों को दर्शाता है?",
+  "optsEn": [
+   "Physical map",
+   "Political map",
+   "Road map",
+   "Weather map"
+  ],
+  "optsHi": [
+   "भौतिक मानचित्र",
+   "राजनीतिक मानचित्र",
+   "सड़क मानचित्र",
+   "मौसम मानचित्र"
+  ],
+  "correct": 1,
+  "explainEn": "Political maps show governmental boundaries such as countries, states, and major cities.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:51:59Z"
+ },
+ {
+  "id": "q_348a2166db7a9441",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which food group provides our body with quick energy and includes foods like rice and wheat?",
+  "qHi": "कौन सा खाद्य समूह हमारे शरीर को त्वरित ऊर्जा प्रदान करता है और इसमें चावल और गेहूं जैसे खाद्य पदार्थ शामिल हैं?",
+  "optsEn": [
+   "Proteins",
+   "Vitamins",
+   "Carbohydrates",
+   "Minerals"
+  ],
+  "optsHi": [
+   "प्रोटीन",
+   "विटामिन",
+   "कार्बोहाइड्रेट",
+   "खनिज"
+  ],
+  "correct": 2,
+  "explainEn": "Carbohydrates are energy-giving foods found in items like rice, wheat, and potatoes.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:51:59Z"
+ },
+ {
+  "id": "q_d11c377e24143aac",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of map is best used to show countries, state boundaries, and capital cities?",
+  "qHi": "देशों, राज्य की सीमाओं और राजधानी शहरों को दिखाने के लिए किस प्रकार के मानचित्र का सबसे अच्छा उपयोग किया जाता है?",
+  "optsEn": [
+   "Physical map",
+   "Political map",
+   "Thematic map",
+   "Topographic map"
+  ],
+  "optsHi": [
+   "भौतिक मानचित्र",
+   "राजनीतिक मानचित्र",
+   "विषयगत मानचित्र",
+   "स्थलाकृतिक मानचित्र"
+  ],
+  "correct": 1,
+  "explainEn": "Political maps show governmental boundaries such as countries, states, and major cities.",
+  "sourceHint": "NCERT Social Science Class 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:52:56Z"
+ },
+ {
+  "id": "q_5352a2b5bf8373c4",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which gas dissolved in water is essential for aquatic animals like fish to breathe?",
+  "qHi": "मछली जैसे जलीय जीवों को सांस लेने के लिए पानी में घुली कौन सी गैस आवश्यक है?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Nitrogen",
+   "Oxygen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "ऑक्सीजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 2,
+  "explainEn": "Aquatic animals use their gills to take in the oxygen dissolved in water.",
+  "sourceHint": "NCERT Science Class 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:52:56Z"
+ },
+ {
+  "id": "q_82161f4ea71db762",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which Indian state is the famous Kaziranga National Park located?",
+  "qHi": "प्रसिद्ध काजीरंगा राष्ट्रीय उद्यान किस भारतीय राज्य में स्थित है?",
+  "optsEn": [
+   "Assam",
+   "Gujarat",
+   "Rajasthan",
+   "Uttarakhand"
+  ],
+  "optsHi": [
+   "असम",
+   "गुजरात",
+   "राजस्थान",
+   "उत्तराखंड"
+  ],
+  "correct": 0,
+  "explainEn": "Kaziranga National Park is located in the state of Assam and is famous for the great Indian one-horned rhinoceros.",
+  "sourceHint": "NCERT Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:52:56Z"
+ },
+ {
+  "id": "q_d99c01f860edc8d1",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian stepwell is also known as a baoli?",
+  "qHi": "किस पारंपरिक भारतीय सीढ़ीनुमा कुएं को बावली भी कहा जाता है?",
+  "optsEn": [
+   "Stepwell",
+   "Windmill",
+   "Reservoir",
+   "Dam"
+  ],
+  "optsHi": [
+   "स्टेपवेल",
+   "पवन चक्की",
+   "जलाशय",
+   "बांध"
+  ],
+  "correct": 0,
+  "explainEn": "Stepwells, locally called baolis, were built in ancient times to store rainwater and provide access to groundwater.",
+  "sourceHint": "NCERT Environmental Studies Class 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:52:56Z"
  }
 ]

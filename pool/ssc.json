@@ -15370,5 +15370,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-24T16:05:01Z"
+ },
+ {
+  "id": "q_115f8cb9e36a8c25",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following Fundamental Rights is guaranteed under Article 21 of the Constitution of India?",
+  "qHi": "भारत के संविधान के अनुच्छेद 21 के तहत निम्नलिखित में से कौन सा मौलिक अधिकार की गारंटी दी गई है?",
+  "optsEn": [
+   "Right to Equality",
+   "Right to Freedom of Religion",
+   "Right to Life and Personal Liberty",
+   "Cultural and Educational Rights"
+  ],
+  "optsHi": [
+   "समानता का अधिकार",
+   "धर्म की स्वतंत्रता का अधिकार",
+   "प्राण और दैहिक स्वतंत्रता का अधिकार",
+   "संस्कृति और शिक्षा संबंधी अधिकार"
+  ],
+  "correct": 2,
+  "explainEn": "Article 21 of the Indian Constitution states that no person shall be deprived of his life or personal liberty except according to procedure established by law.",
+  "sourceHint": "Constitution of India, Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:51:43Z"
+ },
+ {
+  "id": "q_fb6dcba56d9ed016",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which state in India has the coastline along the Arabian Sea?",
+  "qHi": "भारत के किस राज्य की तटरेखा अरब सागर के साथ लगती है?",
+  "optsEn": [
+   "Bihar",
+   "Madhya Pradesh",
+   "Gujarat",
+   "Jharkhand"
+  ],
+  "optsHi": [
+   "बिहार",
+   "मध्य प्रदेश",
+   "गुजरात",
+   "झारखंड"
+  ],
+  "correct": 2,
+  "explainEn": "Gujarat is located on the western coast of India and shares its coastline with the Arabian Sea.",
+  "sourceHint": "NCERT Class 9 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:51:43Z"
+ },
+ {
+  "id": "q_be11ab6c1808d6e4",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "During the Gupta Empire, what was the primary function of an officer known as 'Kumaramatyas'?",
+  "qHi": "गुप्त साम्राज्य के दौरान, 'कुमारमात्य' नामक अधिकारी का मुख्य कार्य क्या था?",
+  "optsEn": [
+   "Collection of foreign trade tariffs",
+   "Chief judicial administration in rural courts",
+   "Important administrative functionaries directly recruited by the king",
+   "Commander-in-chief of the cavalry units"
+  ],
+  "optsHi": [
+   "विदेशी व्यापार शुल्कों का संग्रह",
+   "ग्रामीण न्यायालयों में मुख्य न्यायिक प्रशासन",
+   "राजा द्वारा सीधे नियुक्त किए जाने वाले महत्वपूर्ण प्रशासनिक पदाधिकारी",
+   "घुड़सवार सेना इकाइयों के मुख्य कमांडर"
+  ],
+  "correct": 2,
+  "explainEn": "Kumaramatyas were the most important class of imperial officers in the Gupta administration, often attached to provinces or crown princes.",
+  "sourceHint": "NCERT Class 12 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:52:43Z"
+ },
+ {
+  "id": "q_5d809e1814ca62c7",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following constitutional amendments added the Fundamental Duties to the Indian Constitution?",
+  "qHi": "निम्नलिखित में से किस संविधान संशोधन ने भारतीय संविधान में मौलिक कर्तव्यों को जोड़ा?",
+  "optsEn": [
+   "42nd Amendment Act",
+   "44th Amendment Act",
+   "86th Amendment Act",
+   "73rd Amendment Act"
+  ],
+  "optsHi": [
+   "42वां संशोधन अधिनियम",
+   "44वां संशोधन अधिनियम",
+   "86वां संशोधन अधिनियम",
+   "73वां संशोधन अधिनियम"
+  ],
+  "correct": 0,
+  "explainEn": "Fundamental Duties were incorporated into Part IV-A of the Constitution by the 42nd Constitutional Amendment Act, 1976, on the recommendation of the Swaran Singh Committee.",
+  "sourceHint": "Constitution of India / NCERT",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:52:43Z"
+ },
+ {
+  "id": "q_7d2aba0b9c134701",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of coal contains the highest carbon content and burns with the least smoke?",
+  "qHi": "किस प्रकार के कोयले में कार्बन की मात्रा सबसे अधिक होती है और यह सबसे कम धुएं के साथ जलता है?",
+  "optsEn": [
+   "Lignite",
+   "Bituminous",
+   "Anthracite",
+   "Peat"
+  ],
+  "optsHi": [
+   "लिग्नाइट",
+   "बिटुमिनस",
+   "एन्थracite (एन्थracite)",
+   "पीट"
+  ],
+  "correct": 2,
+  "explainEn": "Anthracite is the highest grade of coal, containing 80 to 95 percent carbon, burning cleanly with little smoke.",
+  "sourceHint": "NCERT Class 10 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:52:43Z"
+ },
+ {
+  "id": "q_60c04cc7d29d83ba",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary function of the 'Stomata' in plant leaves?",
+  "qHi": "पौधे की पत्तियों में 'रंध्र' (स्टोमेटा) का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "Absorption of soil nutrients",
+   "Exchange of gases during photosynthesis and respiration",
+   "Storage of water reserves during drought",
+   "Providing structural rigidity to the leaf veins"
+  ],
+  "optsHi": [
+   "मिट्टी के पोषक तत्वों का अवशोषण",
+   "प्रकाश संश्लेषण और श्वसन के दौरान गैसों का आदान-प्रदान",
+   "सूखे के दौरान जल भंडार का भंडारण",
+   "पत्ती की नसों को संरचनात्मक कठोरता प्रदान करना"
+  ],
+  "correct": 1,
+  "explainEn": "Stomata are tiny pores on plant leaves that facilitate gaseous exchange (oxygen and carbon dioxide) and transpiration.",
+  "sourceHint": "NCERT Class 7 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:52:43Z"
+ },
+ {
+  "id": "q_e40a7ba04b71c2dd",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the reign of which Delhi Sultan was the 'Diwan-i-Kohi', a department dedicated to agriculture, created?",
+  "qHi": "किस दिल्ली सल्तनत के शासक के शासनकाल में कृषि को समर्पित विभाग 'दीवान-ए-कोही' बनाया गया था?",
+  "optsEn": [
+   "Alauddin Khalji",
+   "Ghiyasuddin Tughlaq",
+   "Muhammad bin Tughlaq",
+   "Firoz Shah Tughlaq"
+  ],
+  "optsHi": [
+   "अलाउद्दीन खिलजी",
+   "गियासुद्दीन तुगलक",
+   "मोहम्मद बिन तुगलक",
+   "फिरोज शाह तुगलक"
+  ],
+  "correct": 2,
+  "explainEn": "Muhammad bin Tughlaq created the Diwan-i-Kohi to improve agricultural land and provide direct state aid to farmers.",
+  "sourceHint": "NCERT Class 7 History, Our Pasts II",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:53:42Z"
+ },
+ {
+  "id": "q_2b8d75ad1e6fb8aa",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which type of wave is used by bats to navigate and locate obstacles in complete darkness?",
+  "qHi": "पूर्ण अंधकार में नेविगेट करने और बाधाओं का पता लगाने के लिए चमगादड़ किस प्रकार की तरंग का उपयोग करते हैं?",
+  "optsEn": [
+   "Infrasonic waves",
+   "Ultrasonic waves",
+   "Microwaves",
+   "Radio waves"
+  ],
+  "optsHi": [
+   "अपश्रव्य तरंगें",
+   "पराब्रव्य तरंगें",
+   "सूक्ष्म तरंगें",
+   "रेडियो तरंगें"
+  ],
+  "correct": 1,
+  "explainEn": "Bats use echolocation by emitting high-frequency ultrasonic waves to detect objects and prey.",
+  "sourceHint": "NCERT Class 9 Science, Chapter on Sound",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:53:42Z"
+ },
+ {
+  "id": "q_c30cdddd98f20fbe",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "The Tropic of Cancer passes through how many states of India?",
+  "qHi": "कर्क रेखा भारत के कितने राज्यों से होकर गुजरती है?",
+  "optsEn": [
+   "6",
+   "7",
+   "8",
+   "9"
+  ],
+  "optsHi": [
+   "6",
+   "7",
+   "8",
+   "9"
+  ],
+  "correct": 2,
+  "explainEn": "The Tropic of Cancer passes through 8 Indian states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram.",
+  "sourceHint": "NCERT Class 9 Geography, Contemporary India I",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:53:42Z"
+ },
+ {
+  "id": "q_98185711493aabc1",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which committee recommended the establishment of a three-tier Panchayati Raj system in India?",
+  "qHi": "किस समिति ने भारत में त्रिस्तरीय पंचायती राज व्यवस्था की स्थापना की सिफारिश की थी?",
+  "optsEn": [
+   "Balwant Rai Mehta Committee",
+   "Ashok Mehta Committee",
+   "Sarkaria Commission",
+   "Punchhi Commission"
+  ],
+  "optsHi": [
+   "बलवंत राय मेहता समिति",
+   "अशोक मेहता समिति",
+   "सरकारिया आयोग",
+   "पुंछी आयोग"
+  ],
+  "correct": 0,
+  "explainEn": "The Balwant Rai Mehta Committee (1957) recommended a three-tier Panchayati Raj system consisting of Gram Panchayat, Panchayat Samiti, and Zilla Parishad.",
+  "sourceHint": "Indian Polity by M. Laxmikanth, Panchayati Raj Chapter",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:53:42Z"
  }
 ]

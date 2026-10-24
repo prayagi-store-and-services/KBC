@@ -16266,5 +16266,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-24T16:03:37Z"
+ },
+ {
+  "id": "q_8fe57113cd88b9fb",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the name of the imaginary line at 0 degrees longitude?",
+  "qHi": "0 डिग्री देशांतर पर स्थित काल्पनिक रेखा का नाम क्या है?",
+  "optsEn": [
+   "Equator",
+   "Tropic of Cancer",
+   "Prime Meridian",
+   "International Date Line"
+  ],
+  "optsHi": [
+   "विषुवत वृत्त",
+   "कर्क रेखा",
+   "प्रधान मध्याह्न रेखा",
+   "अंतर्राष्ट्रीय तिथि रेखा"
+  ],
+  "correct": 2,
+  "explainEn": "The Prime Meridian is set at 0 degrees longitude and passes through Greenwich, London.",
+  "sourceHint": "NCERT Class 6 and 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:52:03Z"
+ },
+ {
+  "id": "q_b699bd897a09fec2",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which planet in our solar system is known as the Earth's twin due to its size and shape?",
+  "qHi": "हमारे सौरमंडल में किस ग्रह को उसके आकार और आकृति के कारण पृथ्वी का जुड़वां माना जाता है?",
+  "optsEn": [
+   "Mercury",
+   "Venus",
+   "Mars",
+   "Jupiter"
+  ],
+  "optsHi": [
+   "बुध",
+   "शुक्र",
+   "मंगल",
+   "बृहस्पति"
+  ],
+  "correct": 1,
+  "explainEn": "Venus is considered earth's twin because its size and shape are very much similar to that of the earth.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:52:03Z"
+ },
+ {
+  "id": "q_7a9fad1334d3022c",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the process of loosening and turning the soil called?",
+  "qHi": "मिट्टी को ढीला करने और उलटने-पलटने की प्रक्रिया को क्या कहते हैं?",
+  "optsEn": [
+   "Irrigation",
+   "Harvesting",
+   "Tilling or Ploughing",
+   "Weeding"
+  ],
+  "optsHi": [
+   "सिंचाई",
+   "कटाई",
+   "जुताई",
+   "निराई"
+  ],
+  "correct": 2,
+  "explainEn": "The process of loosening and turning of the soil is called tilling or ploughing.",
+  "sourceHint": "NCERT Class 8 Science Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:52:03Z"
+ },
+ {
+  "id": "q_429d31308999192d",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following describes a community of plants and animals interacting with their physical environment?",
+  "qHi": "निम्नलिखित में से कौन सा पौधों और जंतुओं के समुदाय का उनके भौतिक पर्यावरण के साथ परस्पर संबंध को दर्शाता है?",
+  "optsEn": [
+   "Biosphere",
+   "Ecosystem",
+   "Atmosphere",
+   "Lithosphere"
+  ],
+  "optsHi": [
+   "जीवमंडल",
+   "पारितंत्र",
+   "वायुमंडल",
+   "स्थलमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "An ecosystem is formed by the interaction of all living organisms with each other and with the physical and chemical factors of the environment.",
+  "sourceHint": "NCERT Class 7 Geography Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:52:03Z"
+ },
+ {
+  "id": "q_c3d2007e3aee6196",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following describes the process of conversion of sugar into alcohol by yeast?",
+  "qHi": "खमीर द्वारा चीनी को अल्कोहल में बदलने की प्रक्रिया को निम्नलिखित में से क्या कहा जाता है?",
+  "optsEn": [
+   "Nitrogen fixation",
+   "Fermentation",
+   "Moulding",
+   "Infection"
+  ],
+  "optsHi": [
+   "नाइट्रोजन स्थिरीकरण",
+   "किण्वन",
+   "मोल्डिंग",
+   "संक्रमण"
+  ],
+  "correct": 1,
+  "explainEn": "The process of conversion of sugar into alcohol by the action of yeast is known as fermentation, discovered by Louis Pasteur.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 2: Microorganisms: Friend and Foe",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:53:00Z"
+ },
+ {
+  "id": "q_27174ed9d3298813",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What term is used for the species of plants and animals that are found exclusively in a particular area?",
+  "qHi": "पौधे और जंतुओं की उन प्रजातियों के लिए किस शब्द का प्रयोग किया जाता है जो केवल एक विशेष क्षेत्र में ही पाए जाते हैं?",
+  "optsEn": [
+   "Endemic species",
+   "Migratory species",
+   "Extinct species",
+   "Exotic species"
+  ],
+  "optsHi": [
+   "स्थानिक प्रजाति",
+   "प्रवासी प्रजाति",
+   "विलुप्त प्रजाति",
+   "विदेशी प्रजाति"
+  ],
+  "correct": 0,
+  "explainEn": "Endemic species are plants and animals that are found exclusively in a particular geographic zone.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 7: Conservation of Plants and Animals",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:53:00Z"
+ },
+ {
+  "id": "q_605fef54b380d12e",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which imaginary line situated at 0 degrees latitude divides the Earth into the Northern Hemisphere and the Southern Hemisphere?",
+  "qHi": "0 डिग्री अक्षांश पर स्थित कौन सी काल्पनिक रेखा पृथ्वी को उत्तरी गोलार्ध और दक्षिणी गोलार्ध में विभाजित करती है?",
+  "optsEn": [
+   "Prime Meridian",
+   "Tropic of Cancer",
+   "Equator",
+   "Tropic of Capricorn"
+  ],
+  "optsHi": [
+   "प्रधान मध्याह्न रेखा",
+   "कर्क रेखा",
+   "विषुवत वृत्त",
+   "मकर रेखा"
+  ],
+  "correct": 2,
+  "explainEn": "The Equator is the 0 degrees latitude line that divides the Earth into two equal halves, the Northern and Southern Hemispheres.",
+  "sourceHint": "NCERT Class 6 and 8 Geography foundations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:53:00Z"
+ },
+ {
+  "id": "q_c91ed9980ca16f54",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of resources are those whose quantities are known and they are being used in the present time?",
+  "qHi": "किस प्रकार के संसाधनों की मात्रा ज्ञात होती है और उनका उपयोग वर्तमान समय में किया जा रहा है?",
+  "optsEn": [
+   "Potential resources",
+   "Actual resources",
+   "Biotic resources",
+   "Ubiquitous resources"
+  ],
+  "optsHi": [
+   "संभाव्य संसाधन",
+   "वास्तविक संसाधन",
+   "जैविक संसाधन",
+   "सर्वव्यापक संसाधन"
+  ],
+  "correct": 1,
+  "explainEn": "Actual resources are those whose quantity is known and they are being used in the present.",
+  "sourceHint": "NCERT Class 8 Geography, Chapter 1: Resources",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:53:00Z"
+ },
+ {
+  "id": "q_bccf7a2966a72b94",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which fundamental right guaranteed by the Indian Constitution prohibits human trafficking, forced labour, and employment of children below 14 years?",
+  "qHi": "भारतीय संविधान द्वारा प्रदत्त कौन सा मौलिक अधिकार मानव तस्करी, बलात्श्रम और 14 वर्ष से कम उम्र के बच्चों के नियोजन पर प्रतिबंध लगाता है?",
+  "optsEn": [
+   "Right to Equality",
+   "Right to Freedom",
+   "Right against Exploitation",
+   "Right to Freedom of Religion"
+  ],
+  "optsHi": [
+   "समानता का अधिकार",
+   "स्वतंत्रता का अधिकार",
+   "शोषण के खिलाफ अधिकार",
+   "धर्म की स्वतंत्रता का अधिकार"
+  ],
+  "correct": 2,
+  "explainEn": "The Right against Exploitation explicitly prohibits human trafficking, forced labour, and child labour.",
+  "sourceHint": "NCERT Class 8 Civics, Chapter 1: The Indian Constitution",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:53:00Z"
+ },
+ {
+  "id": "q_03a4f1e39a5eaa38",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the force exerted by the atmosphere per unit area known as?",
+  "qHi": "प्रति इकाई क्षेत्रफल पर वायुमंडल द्वारा लगाए जाने वाले बल को क्या कहा जाता है?",
+  "optsEn": [
+   "Atmospheric pressure",
+   "Frictional force",
+   "Magnetic force",
+   "Electrostatic force"
+  ],
+  "optsHi": [
+   "वायुमंडलीय दाब",
+   "घर्षण बल",
+   "चुंबकीय बल",
+   "स्थिरवैद्युत बल"
+  ],
+  "correct": 0,
+  "explainEn": "The pressure exerted by the weight of air on the earth's surface is known as atmospheric pressure.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 11: Force and Pressure",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T20:53:00Z"
  }
 ]
