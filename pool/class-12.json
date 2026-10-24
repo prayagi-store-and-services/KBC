@@ -22762,5 +22762,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-24T11:05:45Z"
+ },
+ {
+  "id": "q_df8ebaffd080d5a2",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas is released during the process of photosynthesis by green plants?",
+  "qHi": "हरे पौधों द्वारा प्रकाश संश्लेषण की प्रक्रिया के दौरान कौन सी गैस छोड़ी जाती है?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Nitrogen",
+   "Oxygen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "ऑक्सीजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 2,
+  "explainEn": "During photosynthesis, plants take in carbon dioxide and water, and release oxygen as a byproduct.",
+  "sourceHint": "NCERT Class 11 Biology, Chapter 13",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T15:58:36Z"
+ },
+ {
+  "id": "q_168e902c2c00bd9c",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a halophytic plant adaptation typically found in mangrove forests?",
+  "qHi": "निम्नलिखित में से कौन सा मैंग्रोव वनों में आमतौर पर पाया जाने वाला एक लवोद्भिज (हैलोफाइट) पादप अनुकूलन है?",
+  "optsEn": [
+   "Pneumatophores",
+   "Taproot system",
+   "Broad deciduous leaves",
+   "Bulbous tubers"
+  ],
+  "optsHi": [
+   "न्यूमेटोफोर्स (श्वासमूल)",
+   "मूसला जड़ प्रणाली",
+   "चौड़ी पर्णपाती पत्तियाँ",
+   "कंदयुक्त कंद"
+  ],
+  "correct": 0,
+  "explainEn": "Pneumatophores are specialized aerial roots that help plants breathe in waterlogged mangrove soils.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 13",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T15:58:36Z"
+ },
+ {
+  "id": "q_0ef92c2348a8fef1",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of chemical reaction is represented by the conversion of vegetable oil into vegetable ghee using hydrogen gas?",
+  "qHi": "हाइड्रोजन गैस का उपयोग करके वनस्पति तेल को वनस्पति घी में बदलना किस प्रकार की रासायनिक प्रतिक्रिया को दर्शाता है?",
+  "optsEn": [
+   "Oxidation",
+   "Hydrogenation",
+   "Combustion",
+   "Neutralization"
+  ],
+  "optsHi": [
+   "ऑक्सीकरण",
+   "हाइड्रोजनीकरण",
+   "दहन",
+   "उदासीनीकरण"
+  ],
+  "correct": 1,
+  "explainEn": "Hydrogenation is the addition of hydrogen to unsaturated hydrocarbons, commonly used to convert oils into fats.",
+  "sourceHint": "NCERT Class 10 Chemistry, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T15:58:36Z"
+ },
+ {
+  "id": "q_00ab9065311c5b2d",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which atmospheric layer contains the ozone layer that shields the Earth from harmful ultraviolet radiation?",
+  "qHi": "किस वायुमंडलीय परत में ओजोन परत होती है जो पृथ्वी को हानिकारक पराबैंगनी विकिरण से बचाती है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षوبमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The stratosphere contains a high concentration of ozone, known as the ozone layer, which absorbs harmful UV radiation.",
+  "sourceHint": "NCERT Class 11 Geography, Chapter 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T15:58:36Z"
+ },
+ {
+  "id": "q_b64c5e6a6fc294e2",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the famous socio-economic text 'Das Kapital'?",
+  "qHi": "प्रसिद्ध सामाजिक-आर्थिक ग्रंथ 'दास कैपिटल' किसने लिखा था?",
+  "optsEn": [
+   "Adam Smith",
+   "Karl Marx",
+   "David Ricardo",
+   "John Maynard Keynes"
+  ],
+  "optsHi": [
+   "एडम स्मिथ",
+   "कार्ल मार्क्स",
+   "डेविड रिकार्डो",
+   "जॉन मेनार्ड Кейन्स"
+  ],
+  "correct": 1,
+  "explainEn": "Karl Marx authored 'Das Kapital', published in 1867, which is a foundational text in critical economic theory and sociology.",
+  "sourceHint": "NCERT Class 12 Sociology, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T16:01:25Z"
+ },
+ {
+  "id": "q_ee95b42a41d5dece",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of crystal defect occurs when an atom or ion is missing from its normal lattice site, creating a vacancy?",
+  "qHi": "किस प्रकार का क्रिस्टल दोष तब होता है जब कोई परमाणु या आयन अपने सामान्य जालक स्थल से अनुपस्थित होता है, जिससे रिक्ति बनती है?",
+  "optsEn": [
+   "Frenkel defect",
+   "Schottky defect",
+   "Metal excess defect",
+   "Impurity defect"
+  ],
+  "optsHi": [
+   "फ्रेंकल दोष",
+   "शॉट्की दोष",
+   "धातु अधिकता दोष",
+   "अशुद्धता दोष"
+  ],
+  "correct": 1,
+  "explainEn": "Schottky defect is a vacancy defect in ionic solids where equal numbers of cations and anions are missing from their lattice sites.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T16:01:25Z"
+ },
+ {
+  "id": "q_b05e6e09de31d1fc",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following kingdoms is explicitly mentioned in the rock edicts of Emperor Ashoka as lying on the southern frontier of his empire?",
+  "qHi": "सम्राट अशोक के शिलालेखों में निम्नलिखित में से किस राज्य का उल्लेख उनके साम्राज्य की दक्षिणी सीमा पर स्थित के रूप में स्पष्ट रूप से किया गया है?",
+  "optsEn": [
+   "Kalinga",
+   "Satavahana",
+   "Chola",
+   "Vakataka"
+  ],
+  "optsHi": [
+   "कलिंग",
+   "सातवाहन",
+   "चोल",
+   "वाकाटक"
+  ],
+  "correct": 2,
+  "explainEn": "Ashoka's Major Rock Edicts II and XIII mention neighboring southern kingdoms such as the Cholas, Pandyas, Satiyaputras, and Keralaputras.",
+  "sourceHint": "NCERT Class 12 History - Themes in Indian History Part I",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T16:04:27Z"
+ },
+ {
+  "id": "q_6f64dbab7b587770",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian macroeconomics, which component constitutes the largest share of India's Gross Domestic Product (GDP)?",
+  "qHi": "भारतीय समष्टि अर्थशास्त्र के संदर्भ में, निम्नलिखित में से कौन सा घटक भारत के सकल घरेलू उत्पाद (GDP) में सबसे बड़ा हिस्सा बनाता है?",
+  "optsEn": [
+   "Private Final Consumption Expenditure",
+   "Government Final Consumption Expenditure",
+   "Gross Fixed Capital Formation",
+   "Net Exports"
+  ],
+  "optsHi": [
+   "निजी अंतिम उपभोग व्यय",
+   "सरकारी अंतिम उपभोग व्यय",
+   " सकल अचल पूंजी निर्माण",
+   "शुद्ध निर्यात"
+  ],
+  "correct": 0,
+  "explainEn": "Private Final Consumption Expenditure consistently forms the largest component of India's expenditure-based GDP.",
+  "sourceHint": "NCERT Class 12 Economics - Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T16:04:27Z"
+ },
+ {
+  "id": "q_ef1b32cb0f060382",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which enzyme is primarily responsible for the atmospheric nitrogen fixation in symbiotic nitrogen-fixing root nodules of leguminous plants?",
+  "qHi": "फलीदार पौधों की सहजीवी नाइट्रोजन-स्थिरीकरण वाली जड़ की गांठों में वायुमंडलीय नाइट्रोजन के स्थिरीकरण के लिए मुख्य रूप से कौन सा एंजाइम जिम्मेदार है?",
+  "optsEn": [
+   "Nitrate reductase",
+   "Nitrogenase",
+   "Glutamine synthetase",
+   "Transaminase"
+  ],
+  "optsHi": [
+   "नाइट्रेट रिडक्टेज",
+   "नाइट्रोजीनियस",
+   "ग्लूटामाइन सिंथेटेज",
+   "ट्रांसमिनेज"
+  ],
+  "correct": 1,
+  "explainEn": "The enzyme nitrogenase, found exclusively in prokaryotes, catalyzes the conversion of atmospheric nitrogen to ammonia.",
+  "sourceHint": "NCERT Class 12 Biology - Chapter 12: Mineral Nutrition",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T16:04:27Z"
+ },
+ {
+  "id": "q_8492d32e1023f7b6",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the colonial period in India, the Ryotwari settlement was predominantly introduced in which of the following regions?",
+  "qHi": "भारत में औपनिवेशिक काल के दौरान, रैयतवाड़ी व्यवस्था मुख्य रूप से निम्नलिखित में से किस क्षेत्र में शुरू की गई थी?",
+  "optsEn": [
+   "Bengal and Bihar",
+   "Madras and Bombay presidencies",
+   "United Provinces of Agra and Oudh",
+   "Punjab and Sindh"
+  ],
+  "optsHi": [
+   "बंगाल और बिहार",
+   "मद्रास और बम्बई प्रेसीडेंसी",
+   "आगरा और अवध के संयुक्त प्रांत",
+   "पंजाब और सिंध"
+  ],
+  "correct": 1,
+  "explainEn": "The Ryotwari system was initiated by Alexander Read and Thomas Munro, and was primarily introduced in the Madras and Bombay presidencies.",
+  "sourceHint": "NCERT Class 12 History - Themes in Indian History Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T16:04:27Z"
+ },
+ {
+  "id": "q_9e7dba5d965bdae8",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In solid-state chemistry, which type of point defect lowers the density of an ionic crystal?",
+  "qHi": "ठोस-अवस्था रसायन विज्ञान में, किस प्रकार का बिंदु दोष आयनिक क्रिस्टल के घनत्व को कम करता है?",
+  "optsEn": [
+   "Frenkel defect",
+   "Schottky defect",
+   "Interstitial defect",
+   "Metal excess defect"
+  ],
+  "optsHi": [
+   "फ्रेकेल दोष",
+   "शॉट्की दोष",
+   "अंतराकाशी दोष",
+   "धातु अधिकता दोष"
+  ],
+  "correct": 1,
+  "explainEn": "Schottky defect is a vacancy defect in ionic solids where an equal number of cations and anions are missing from their lattice sites, lowering the density.",
+  "sourceHint": "NCERT Class 12 Chemistry - Chapter 1: The Solid State",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T16:04:27Z"
+ },
+ {
+  "id": "q_df4a69edc304e940",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following constitutional amendments added Fundamental Duties to the Constitution of India?",
+  "qHi": "निम्नलिखित में से किस संविधान संशोधन ने भारत के संविधान में मौलिक कर्तव्यों को जोड़ा?",
+  "optsEn": [
+   "24th Constitutional Amendment Act",
+   "42nd Constitutional Amendment Act",
+   "44th Constitutional Amendment Act",
+   "86th Constitutional Amendment Act"
+  ],
+  "optsHi": [
+   "24वां संविधान संशोधन अधिनियम",
+   "42वां संविधान संशोधन अधिनियम",
+   "44वां संविधान संशोधन अधिनियम",
+   "86वां संविधान संशोधन अधिनियम"
+  ],
+  "correct": 1,
+  "explainEn": "The 42nd Amendment Act of 1976 added Article 51A and Part IV-A to the Constitution, introducing Fundamental Duties on the recommendation of the Swaran Singh Committee.",
+  "sourceHint": "NCERT Class 12 Political Science - Indian Politics at the Crossroads",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T16:04:27Z"
+ },
+ {
+  "id": "q_e5d7db26b2bcb43e",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary mode of transmission of digital data in optical fiber communication?",
+  "qHi": "ऑप्टिकल फाइबर संचार में डिजिटल डेटा के संचरण का प्राथमिक तरीका क्या है?",
+  "optsEn": [
+   "Total internal reflection of light waves",
+   "Refraction through a metallic core",
+   "Electromagnetic induction via copper shielding",
+   "Direct sound wave propagation"
+  ],
+  "optsHi": [
+   "प्रकाश तरंगों का पूर्ण आंतरिक परावर्तन",
+   "एक धात्विक कोर के माध्यम से अपवर्तन",
+   "तांबे की ढाल के माध्यम से विद्युत चुम्बकीय प्रेरण",
+   "प्रत्यक्ष ध्वनि तरंग प्रसार"
+  ],
+  "correct": 0,
+  "explainEn": "Optical fibers work on the phenomenon of total internal reflection, allowing light signals to travel long distances with minimal loss.",
+  "sourceHint": "NCERT Class 12 Physics - Chapter 9: Ray Optics and Optical Instruments",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T16:04:27Z"
  }
 ]

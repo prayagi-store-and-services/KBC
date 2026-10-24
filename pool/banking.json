@@ -23742,5 +23742,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-24T11:04:47Z"
+ },
+ {
+  "id": "q_57c9cb4dcea4308d",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum deposit amount per depositor protected under the Deposit Insurance and Credit Guarantee Corporation (DICGC) in India?",
+  "qHi": "भारत में जमा बीमा और ऋण गारंटी निगम (DICGC) के तहत प्रति जमाकर्ता अधिकतम कितनी जमा राशि सुरक्षित है?",
+  "optsEn": [
+   "One Lakh Rupees",
+   "Two Lakh Rupees",
+   "Five Lakh Rupees",
+   "Ten Lakh Rupees"
+  ],
+  "optsHi": [
+   "एक लाख रुपये",
+   "दो लाख रुपये",
+   "पाँच लाख रुपये",
+   "दस लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "DICGC provides deposit insurance up to a maximum of 5 lakh rupees per depositor per bank for both principal and interest.",
+  "sourceHint": "DICGC official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T15:59:51Z"
+ },
+ {
+  "id": "q_a77b8df93ef102b0",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of card is a RuPay card, introduced by the National Payments Corporation of India?",
+  "qHi": "भारतीय राष्ट्रीय भुगतान निगम द्वारा शुरू किया गया RuPay कार्ड किस प्रकार का कार्ड है?",
+  "optsEn": [
+   "Foreign Credit Card",
+   "Domestic Debit and Credit Card",
+   "Government Identity Card",
+   "Metro Travel Card"
+  ],
+  "optsHi": [
+   "विदेशी क्रेडिट कार्ड",
+   "घरेलू डेबिट और क्रेडिट कार्ड",
+   "सरकारी पहचान पत्र",
+   "मेट्रो यात्रा कार्ड"
+  ],
+  "correct": 1,
+  "explainEn": "RuPay is India's own domestic card payment network scheme conceived and launched by the National Payments Corporation of India.",
+  "sourceHint": "NPCI official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T15:59:51Z"
+ },
+ {
+  "id": "q_10e4a3edfc2f6cab",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In the context of banking, what does the letter 'A' stand for in the acronym 'CASA' account?",
+  "qHi": "बैंकिंग के संदर्भ में, 'CASA' खाते के संक्षिप्त रूप में अक्षर 'A' का क्या अर्थ है?",
+  "optsEn": [
+   "Assets",
+   "Annual",
+   "Account",
+   "Advances"
+  ],
+  "optsHi": [
+   "एसेट्स (Assets)",
+   "एनुअल (Annual)",
+   "अकाउंट (Account)",
+   "एडवांसेज (Advances)"
+  ],
+  "correct": 2,
+  "explainEn": "CASA stands for Current Account Savings Account, representing low-cost deposits for banks.",
+  "sourceHint": "Indian Institute of Banking and Finance study material",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T15:59:51Z"
+ },
+ {
+  "id": "q_92d25a1e8d3a7c98",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization regulates the mutual funds market in India?",
+  "qHi": "भारत में म्यूचुअल फंड बाजार को कौन सा संगठन विनियमित करता है?",
+  "optsEn": [
+   "IRDAI",
+   "PFRDA",
+   "SEBI",
+   "SIDBI"
+  ],
+  "optsHi": [
+   "इरडाई (IRDAI)",
+   "पीएफआरडीए (PFRDA)",
+   "सेबी (SEBI)",
+   "सिडबी (SIDBI)"
+  ],
+  "correct": 2,
+  "explainEn": "The Securities and Exchange Board of India (SEBI) is the statutory regulatory body established to protect the interests of investors in securities and to regulate the mutual funds market.",
+  "sourceHint": "SEBI official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T15:59:51Z"
+ },
+ {
+  "id": "q_dccdc8b309fdea19",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the banking acronym 'LCR' used under Basel III norms?",
+  "qHi": "बेसल III मानदंडों के तहत प्रयुक्त बैंकिंग संक्षिप्त नाम 'LCR' में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liquidity",
+   "Leverage",
+   "Liability",
+   "Ledger"
+  ],
+  "optsHi": [
+   "तरलता (Liquidity)",
+   "लिवरेज (Leverage)",
+   "दायित्व (Liability)",
+   "बहीखाता (Ledger)"
+  ],
+  "correct": 0,
+  "explainEn": "LCR stands for Liquidity Coverage Ratio, which promotes the short-term resilience of a bank's liquidity risk profile.",
+  "sourceHint": "Basel Committee on Banking Supervision and RBI",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T16:02:28Z"
+ },
+ {
+  "id": "q_273f3724e1eff88e",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India regulates the cooperative banks operating in urban and rural areas?",
+  "qHi": "भारत में शहरी और ग्रामीण क्षेत्रों में काम करने वाले सहकारी बैंकों को कौन सा संगठन विनियमित करता है?",
+  "optsEn": [
+   "Securities and Exchange Board of India",
+   "National Bank for Agriculture and Rural Development",
+   "Reserve Bank of India",
+   "Small Industries Development Bank of India"
+  ],
+  "optsHi": [
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय लघु उद्योग विकास बैंक"
+  ],
+  "correct": 2,
+  "explainEn": "Urban and cooperative banks are regulated by the Reserve Bank of India under the Banking Regulation Act, 1949.",
+  "sourceHint": "Reserve Bank of India Act and Banking Regulation Act",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T16:02:28Z"
+ },
+ {
+  "id": "q_80b948d5bdd0385e",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which financial market segment deals with short-term funds, typically instruments with a maturity period of up to one year?",
+  "qHi": "कौन सा वित्तीय बाजार खंड अल्पकालिक धन से संबंधित है, आमतौर पर एक वर्ष तक की परिपक्वता अवधि वाले उपकरण?",
+  "optsEn": [
+   "Capital Market",
+   "Money Market",
+   "Foreign Exchange Market",
+   "Derivative Market"
+  ],
+  "optsHi": [
+   "पूंजी बाजार",
+   "मुद्रा बाजार",
+   "विदेशी मुद्रा बाजार",
+   "व्युत्पन्न बाजार"
+  ],
+  "correct": 1,
+  "explainEn": "The money market is a market for short-term debt instruments with maturity periods ranging from overnight to one year.",
+  "sourceHint": "NCERT Economics and RBI financial stability reports",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T16:02:28Z"
+ },
+ {
+  "id": "q_b041b2fbb8796f45",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does 'MSME' primarily stand for in the context of priority sector lending and Indian business classification?",
+  "qHi": "प्राथमिकता प्राप्त क्षेत्र ऋण और भारतीय व्यवसाय वर्गीकरण के संदर्भ में 'MSME' का मुख्य रूप से क्या अर्थ है?",
+  "optsEn": [
+   "Micro, Small and Medium Enterprises",
+   "Macro, Secure and Modern Economy",
+   "Ministry of Small and Medium Enterprises",
+   "Monetary System and Modern Exchange"
+  ],
+  "optsHi": [
+   "सूक्ष्म, लघु और मध्यम उद्यम",
+   "मैक्रो, सुरक्षित और आधुनिक अर्थव्यवस्था",
+   "लघु और मध्यम उद्यम मंत्रालय",
+   "मौद्रिक प्रणाली और आधुनिक विनिमय"
+  ],
+  "correct": 0,
+  "explainEn": "MSME stands for Micro, Small and Medium Enterprises, classified based on investment and annual turnover criteria.",
+  "sourceHint": "Ministry of MSME and RBI Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T16:02:28Z"
+ },
+ {
+  "id": "q_3de29d83b9f8483c",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which term describes a type of loan where the borrower pledges an asset as collateral, but retains possession and use of that asset during the loan period?",
+  "qHi": "किस शब्द से ऐसे ऋण का वर्णन होता है जहाँ उधारकर्ता संपार्श्विक के रूप में संपत्ति गिरवी रखता है, लेकिन ऋण अवधि के दौरान उस संपत्ति का कब्जा और उपयोग अपने पास रखता है?",
+  "optsEn": [
+   "Hypothecation",
+   "Pledge",
+   "Mortgage",
+   "Assignment"
+  ],
+  "optsHi": [
+   "हाइपोथेकैशन (Hypothecation)",
+   "pledge (गिरवी रखना)",
+   "बंधक (Mortgage)",
+   "असाइनमेंट (Assignment)"
+  ],
+  "correct": 0,
+  "explainEn": "Hypothecation is a charge against movable property for an amount of debt where possession of the goods remains with the borrower.",
+  "sourceHint": "Indian Banking Association and Banking Law textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T16:02:28Z"
+ },
+ {
+  "id": "q_888cd2d59de8f6fa",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the full form of 'IFSC', an alphanumeric code used to identify bank branches in electronic fund transfers in India?",
+  "qHi": "भारत में इलेक्ट्रॉनिक फंड ट्रांसफर में बैंक शाखाओं की पहचान करने के लिए उपयोग किए जाने वाले अल्फान्यूमेरिक कोड 'IFSC' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Indian Financial System Code",
+   "International Fund Secure Code",
+   "Interbank Foreign Settlement Centre",
+   "Indian Fund Standard Currency"
+  ],
+  "optsHi": [
+   "इंडियन फाइनेंशियल सिस्टम कोड",
+   "इंटरनेशनल फंड सिक्योर कोड",
+   "इंटरबैंक फॉरेन सेटलमेंट सेंटर",
+   "इंडियन फंड स्टैंडर्ड करेंसी"
+  ],
+  "correct": 0,
+  "explainEn": "IFSC stands for Indian Financial System Code, which is an 11-character alphanumeric code used for NEFT, RTGS, and IMPS transactions.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T16:02:28Z"
  }
 ]

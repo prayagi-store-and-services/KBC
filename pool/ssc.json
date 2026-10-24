@@ -15118,5 +15118,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-24T11:04:35Z"
+ },
+ {
+  "id": "q_8d34dc0df28abc21",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the standard unit for measuring electric current in the International System of Units (SI)?",
+  "qHi": "अंतर्राष्ट्रीय इकाई प्रणाली (SI) में विद्युत धारा को मापने की मानक इकाई क्या है?",
+  "optsEn": [
+   "Volt",
+   "Ampere",
+   "Ohm",
+   "Watt"
+  ],
+  "optsHi": [
+   "वोल्ट",
+   "एम्पीयर",
+   "ओम",
+   "वाट"
+  ],
+  "correct": 1,
+  "explainEn": "The SI unit of electric current is the ampere, which is a base unit of the International System of Units.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T15:59:30Z"
+ },
+ {
+  "id": "q_b61fae329531f481",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who founded the Satvahana dynasty according to historical Puranic sources and inscriptions?",
+  "qHi": "ऐतिहासिक पौराणिक स्रोतों और अभिलेखों के अनुसार सातवाहन वंश की स्थापना किसने की थी?",
+  "optsEn": [
+   "Simuka",
+   "Gautamiputra Satakarni",
+   "Hall",
+   "Vasisthiputra Pulumavi"
+  ],
+  "optsHi": [
+   "सिमुक",
+   "गौतमीपुत्र सातकर्णि",
+   "हाल",
+   "वाशिष्ठिपुत्र पुलुमावि"
+  ],
+  "correct": 0,
+  "explainEn": "Simuka is regarded as the founder of the Satavahana dynasty, which ruled parts of central and southern India.",
+  "sourceHint": "NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T16:02:05Z"
+ },
+ {
+  "id": "q_033be4861870174a",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which wind system is primarily responsible for the winter rainfall in the northwestern part of India?",
+  "qHi": "भारत के उत्तर-पश्चिमी भाग में शीतकालीन वर्षा के लिए मुख्य रूप से कौन सी पवन प्रणाली उत्तरदायी है?",
+  "optsEn": [
+   "South-West Monsoon",
+   "North-East Monsoon",
+   "Western Disturbances",
+   "Retreating Monsoon"
+  ],
+  "optsHi": [
+   "दक्षिण-पश्चिम मानसून",
+   "उत्तर-पूर्व मानसून",
+   "पश्चिमी विक्षوب",
+   "लौटता हुआ मानसून"
+  ],
+  "correct": 2,
+  "explainEn": "Western Disturbances are extratropical storms originating in the Mediterranean region that bring winter rain to northwestern India.",
+  "sourceHint": "NCERT Geography Class 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T16:02:05Z"
+ },
+ {
+  "id": "q_ae88bde340f7befa",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institution acts as the regulator for the stock market in India?",
+  "qHi": "भारत में शेयर बाजार के विनियामक के रूप में कौन सी संस्था कार्य करती है?",
+  "optsEn": [
+   "RBI",
+   "SEBI",
+   "NABARD",
+   "IRDAI"
+  ],
+  "optsHi": [
+   "आरबीआई",
+   "सेबी",
+   "नाबार्ड",
+   "इrdai"
+  ],
+  "correct": 1,
+  "explainEn": "SEBI (Securities and Exchange Board of India) is the regulatory body for securities and commodity market in India.",
+  "sourceHint": "NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T16:02:05Z"
+ },
+ {
+  "id": "q_0ad09a61fadcea44",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "The atmospheric layer in which temperature increases sharply with height due to absorption of ultraviolet radiation by ozone is the:",
+  "qHi": "वह वायुमंडलीय परत जिसमें ओजोन द्वारा पराबैंगनी विकिरण के अवशोषण के कारण ऊंचाई के साथ तापमान तेजी से बढ़ता है, वह है:",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The stratosphere contains the ozone layer which absorbs UV radiation, causing the temperature to rise with increasing altitude.",
+  "sourceHint": "NCERT Class 11 Geography - Fundamentals of Physical Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T16:05:01Z"
+ },
+ {
+  "id": "q_ac3b5d6f51cd9fc7",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which session did the Indian National Congress pass the historic Poorna Swaraj resolution?",
+  "qHi": "भारतीय राष्ट्रीय कांग्रेस ने किस अधिवेशन में ऐतिहासिक पूर्ण स्वराज का प्रस्ताव पारित किया था?",
+  "optsEn": [
+   "Calcutta Session 1928",
+   "Lahore Session 1929",
+   "Karachi Session 1931",
+   "Tripuri Session 1939"
+  ],
+  "optsHi": [
+   "कलकत्ता अधिवेशन 1928",
+   "लाहौर अधिवेशन 1929",
+   "कराची अधिवेशन 1931",
+   "त्रिपुरी अधिवेशन 1939"
+  ],
+  "correct": 1,
+  "explainEn": "The Lahore session of December 1929 under the presidency of Jawaharlal Nehru passed the Poorna Swaraj resolution.",
+  "sourceHint": "NCERT Class 10 History - Nationalism in India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T16:05:01Z"
+ },
+ {
+  "id": "q_02547e4957cb2993",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which bio-geographical region in India contains the highest number of endemic plant species?",
+  "qHi": "भारत के किस जैव-भौगोलिक क्षेत्र में स्थानिक (एंडेमिक) पादप प्रजातियों की संख्या सबसे अधिक है?",
+  "optsEn": [
+   "Western Ghats",
+   "Eastern Himalayas",
+   "Andaman and Nicobar Islands",
+   "Sundarbans"
+  ],
+  "optsHi": [
+   "पश्चिमी घाट",
+   "पूर्वी हिमालय",
+   "अंडमान और निकोबार द्वीप समूह",
+   "सुंदरबन"
+  ],
+  "correct": 0,
+  "explainEn": "The Western Ghats along with Sri Lanka is recognized as a global biodiversity hotspot with an exceptionally high concentration of endemic flora and fauna.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change (MoEFCC)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T16:05:01Z"
+ },
+ {
+  "id": "q_0bf2ca33eb430c73",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "The dual government system (Dyarchy) in the provinces was introduced in India by which of the following acts?",
+  "qHi": "प्रांतों में द्वैध शासन प्रणाली (डायर्ची) भारत में निम्नलिखित में से किस अधिनियम द्वारा शुरू की गई थी?",
+  "optsEn": [
+   "Indian Councils Act 1909",
+   "Government of India Act 1919",
+   "Government of India Act 1935",
+   "Indian Independence Act 1947"
+  ],
+  "optsHi": [
+   "भारतीय परिषद अधिनियम 1909",
+   "भारत सरकार अधिनियम 1919",
+   "भारत सरकार अधिनियम 1935",
+   "भारतीय स्वतंत्रता अधिनियम 1947"
+  ],
+  "correct": 1,
+  "explainEn": "The Government of India Act 1919 (Montagu-Chelmsford Reforms) introduced dyarchy in the provinces, dividing provincial subjects into transferred and reserved.",
+  "sourceHint": "NCERT Class 8/12 History and Indian Polity",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T16:05:01Z"
+ },
+ {
+  "id": "q_9d85a0cfa7c6b7ce",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following is a Kharif crop grown extensively in the northern plains of India during the monsoon season?",
+  "qHi": "निम्नलिखित में से कौन सी एक खरीफ फसल है जो मानसून के मौसम में भारत के उत्तरी मैदानों में बड़े पैमाने पर उगाई जाती है?",
+  "optsEn": [
+   "Wheat",
+   "Gram",
+   "Maize",
+   "Barley"
+  ],
+  "optsHi": [
+   "गेहूं",
+   "चना",
+   "मक्का",
+   "जौ"
+  ],
+  "correct": 2,
+  "explainEn": "Maize is a Kharif crop that requires temperatures between 21°C to 27°C and grows well in old alluvial soil, sown with the onset of monsoon.",
+  "sourceHint": "NCERT Class 10 Geography - Agriculture",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T16:05:01Z"
  }
 ]

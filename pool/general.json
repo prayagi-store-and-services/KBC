@@ -15006,5 +15006,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-24T11:05:00Z"
+ },
+ {
+  "id": "q_7befaf5c4610856d",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which chemical element has the symbol 'Au' on the periodic table?",
+  "qHi": "आवर्त सारणी में किस रासायनिक तत्व का प्रतीक 'Au' है?",
+  "optsEn": [
+   "Silver",
+   "Gold",
+   "Argon",
+   "Aluminum"
+  ],
+  "optsHi": [
+   "चांदी",
+   "सोना",
+   "आर्गन",
+   "एल्युमीनियम"
+  ],
+  "correct": 1,
+  "explainEn": "Au is the chemical symbol for gold, derived from the Latin word 'aurum'.",
+  "sourceHint": "NCERT Chemistry Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T16:02:49Z"
  }
 ]

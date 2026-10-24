@@ -20550,5 +20550,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-24T11:05:10Z"
+ },
+ {
+  "id": "q_44002eba7a35c617",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of map shows country boundaries and capitals?",
+  "qHi": "किस प्रकार का मानचित्र देश की सीमाएं और राजधानी दिखाता है?",
+  "optsEn": [
+   "Political map",
+   "Physical map",
+   "Thematic map",
+   "Weather map"
+  ],
+  "optsHi": [
+   "राजनीतिक मानचित्र",
+   "भौतिक मानचित्र",
+   "विषयगत मानचित्र",
+   "मौसम मानचित्र"
+  ],
+  "correct": 0,
+  "explainEn": "Political maps show governmental boundaries such as countries, states, and capitals.",
+  "sourceHint": "NCERT Class 6 Social Science - The Earth Our Habitat",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T16:00:06Z"
+ },
+ {
+  "id": "q_6348f7c8cd6b9bd6",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which vitamin do we primarily get from direct sunlight?",
+  "qHi": "हमें सीधी धूप से मुख्य रूप से कौन सा विटामिन मिलता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Sunlight helps the human body produce Vitamin D.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T16:00:06Z"
+ },
+ {
+  "id": "q_eb2d3f82028049b6",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary gas used by plants to prepare their food during photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण के दौरान पौधों द्वारा अपना भोजन तैयार करने के लिए उपयोग की जाने वाली मुख्य गैस कौन सी है?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Oxygen",
+   "Nitrogen",
+   "Helium"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "हीलियम"
+  ],
+  "correct": 0,
+  "explainEn": "Plants take in carbon dioxide from the air to make food using sunlight.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T16:00:06Z"
+ },
+ {
+  "id": "q_5d67fe7403e6c32e",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organ system in the human body is responsible for pumping blood to all parts?",
+  "qHi": "मानव शरीर में कौन सा अंग तंत्र सभी भागों में रक्त पंप करने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Respiratory system",
+   "Digestive system",
+   "Circulatory system",
+   "Nervous system"
+  ],
+  "optsHi": [
+   "श्वसन तंत्र",
+   "पाचन तंत्र",
+   "परिसंचरण तंत्र",
+   "तंत्रिका तंत्र"
+  ],
+  "correct": 2,
+  "explainEn": "The circulatory system, which includes the heart and blood vessels, pumps blood throughout the body.",
+  "sourceHint": "NCERT Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T16:03:25Z"
+ },
+ {
+  "id": "q_11e61abe23e7534c",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian classical dance form originated in the state of Tamil Nadu?",
+  "qHi": "तमिलनाडु राज्य में कौन सी भारतीय शास्त्रीय नृत्य शैली उत्पन्न हुई थी?",
+  "optsEn": [
+   "Kathak",
+   "Bharatanatyam",
+   "Kathakali",
+   "Kuchipudi"
+  ],
+  "optsHi": [
+   "कथक",
+   "भरतनाट्यम",
+   "कथकली",
+   "कुचिपुड़ी"
+  ],
+  "correct": 1,
+  "explainEn": "Bharatanatyam is a traditional classical dance form that originated in Tamil Nadu.",
+  "sourceHint": "NCERT Social Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T16:03:25Z"
+ },
+ {
+  "id": "q_808b0405803d0df0",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin is primarily obtained by the human body from exposure to early morning sunlight?",
+  "qHi": "सुबह की धूप के संपर्क में आने से मानव शरीर को मुख्य रूप से कौन सा विटामिन प्राप्त होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Sunlight helps the human skin produce Vitamin D.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T16:03:25Z"
+ },
+ {
+  "id": "q_828760c502895301",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the process called by which plants make their own food using sunlight, water, and carbon dioxide?",
+  "qHi": "उस प्रक्रिया को क्या कहते हैं जिसके द्वारा पौधे सूर्य के प्रकाश, पानी और कार्बन डाइऑक्साइड का उपयोग करके अपना भोजन बनाते हैं?",
+  "optsEn": [
+   "Respiration",
+   "Photosynthesis",
+   "Transpiration",
+   "Germination"
+  ],
+  "optsHi": [
+   "श्वसन",
+   "प्रकाश संश्लेषण",
+   "वाष्पोत्सर्जन",
+   "अंकुरण"
+  ],
+  "correct": 1,
+  "explainEn": "Photosynthesis is the process by which green plants prepare food using sunlight, carbon dioxide, and water.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T16:03:25Z"
  }
 ]
