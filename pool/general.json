@@ -14782,5 +14782,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-23T21:27:21Z"
+ },
+ {
+  "id": "q_4e348e735f3c268e",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the standard currency of India?",
+  "qHi": "भारत की मानक मुद्रा क्या है?",
+  "optsEn": [
+   "Taka",
+   "Rupee",
+   "Yen",
+   "Dinar"
+  ],
+  "optsHi": [
+   "टका",
+   "रुपया",
+   "येन",
+   "दीनार"
+  ],
+  "correct": 1,
+  "explainEn": "The Indian Rupee is the official currency of the Republic of India, regulated by the Reserve Bank of India.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:38:54Z"
+ },
+ {
+  "id": "q_4a9802aea4292112",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which dance form originates from the southern state of Kerala?",
+  "qHi": "कौन सा नृत्य रूप दक्षिणी राज्य केरल से उत्पन्न हुआ है?",
+  "optsEn": [
+   "Kathak",
+   "Bharatanatyam",
+   "Kathakali",
+   "Bhangra"
+  ],
+  "optsHi": [
+   "कथक",
+   "भरतनाट्यम",
+   "कथकली",
+   "भांगड़ा"
+  ],
+  "correct": 2,
+  "explainEn": "Kathakali is a major form of classical Indian dance renowned for its elaborate makeup and storytelling, originating in Kerala.",
+  "sourceHint": "Sangeet Natak Akademi",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:38:54Z"
+ },
+ {
+  "id": "q_28074ed73f982e1c",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the ancient Indian treatise on statecraft and economic policy known as the Arthashastra?",
+  "qHi": "राजनीति और आर्थिक नीति पर प्राचीन भारतीय ग्रंथ 'अर्थशास्त्र' की रचना किसने की थी?",
+  "optsEn": [
+   "Kalidasa",
+   "Kautilya",
+   "Banabhatta",
+   "Aryabhata"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "कौटिल्य",
+   "बाणभट्ट",
+   "आर्यभट्ट"
+  ],
+  "correct": 1,
+  "explainEn": "The Arthashastra was authored by Kautilya, also known as Chanakya, during the Mauryan period.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:39:56Z"
+ },
+ {
+  "id": "q_340776dbffe27c20",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the standard SI unit of electrical resistance?",
+  "qHi": "विद्युत प्रतिरोध की मानक एसआई इकाई क्या है?",
+  "optsEn": [
+   "Volt",
+   "Ampere",
+   "Ohm",
+   "Watt"
+  ],
+  "optsHi": [
+   "वोल्ट",
+   "एम्पियर",
+   "ओम",
+   "वाट"
+  ],
+  "correct": 2,
+  "explainEn": "The ohm is the SI derived unit of electrical resistance, named after the physicist Georg Ohm.",
+  "sourceHint": "NCERT Physics Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:39:56Z"
+ },
+ {
+  "id": "q_1b2313b7cbfa3e09",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who discovered penicillin in 1928, marking a major breakthrough in modern medicine?",
+  "qHi": "1928 में पेनिसिलिन की खोज किसने की थी, जो आधुनिक चिकित्सा में एक बड़ी सफलता थी?",
+  "optsEn": [
+   "Louis Pasteur",
+   "Alexander Fleming",
+   "Robert Koch",
+   "Edward Jenner"
+  ],
+  "optsHi": [
+   "लुई पाश्चर",
+   "अलेक्जेंडर फ्लेमिंग",
+   "रॉबर्ट कोच",
+   "एडवर्ड जेनर"
+  ],
+  "correct": 1,
+  "explainEn": "Alexander Fleming discovered penicillin from the fungus Penicillium notatum in 1928.",
+  "sourceHint": "Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:39:56Z"
+ },
+ {
+  "id": "q_97187aa2a311da59",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which metal is liquid at standard room temperature and pressure?",
+  "qHi": "मानक कमरे के तापमान और दबाव पर कौन सी धातु तरल अवस्था में होती है?",
+  "optsEn": [
+   "Gallium",
+   "Mercury",
+   "Sodium",
+   "Lead"
+  ],
+  "optsHi": [
+   "गैलियम",
+   "पारा",
+   "सोडियम",
+   "सीसा"
+  ],
+  "correct": 1,
+  "explainEn": "Mercury is the only metallic element that is liquid under standard conditions for temperature and pressure.",
+  "sourceHint": "NCERT Chemistry Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:39:56Z"
  }
 ]

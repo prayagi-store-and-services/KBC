@@ -20186,5 +20186,341 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-23T21:27:47Z"
+ },
+ {
+  "id": "q_aff113f6e7d922ef",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a greenhouse gas that traps heat in the atmosphere?",
+  "qHi": "निम्नलिखित में से कौन सी एक ग्रीनहाउस गैस है जो वायुमंडल में गर्मी को रोकती है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "आर्गन"
+  ],
+  "correct": 1,
+  "explainEn": "Carbon dioxide is a greenhouse gas responsible for trapping heat in the Earth's atmosphere.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:38:26Z"
+ },
+ {
+  "id": "q_9529d5af529a8df3",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these seeds travels by sticking to the fur of animals?",
+  "qHi": "इनमें से कौन सा बीज जानवरों के बालों में चिपककर यात्रा करता है?",
+  "optsEn": [
+   "Xanthium",
+   "Coconut",
+   "Maple",
+   "Pea"
+  ],
+  "optsHi": [
+   "जैंथियम",
+   "नारियल",
+   "मेपल",
+   "मटर"
+  ],
+  "correct": 0,
+  "explainEn": "Xanthium seeds have hooks that catch on animal fur to disperse to new locations.",
+  "sourceHint": "NCERT Class 5 EVS Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:38:26Z"
+ },
+ {
+  "id": "q_6b1ec201ed6c891f",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which type of soil holds the most water because its particles are very fine?",
+  "qHi": "किस प्रकार की मिट्टी में सबसे अधिक पानी रुकता है क्योंकि इसके कण बहुत बारीक होते हैं?",
+  "optsEn": [
+   "Sandy soil",
+   "Clayey soil",
+   "Loamy soil",
+   "Rocky soil"
+  ],
+  "optsHi": [
+   "बलुई मिट्टी",
+   "चिकनी मिट्टी",
+   "दोमट मिट्टी",
+   "पथरीली मिट्टी"
+  ],
+  "correct": 1,
+  "explainEn": "Clayey soil has very fine particles tightly packed together, allowing it to hold a lot of water.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:38:26Z"
+ },
+ {
+  "id": "q_5e50061bb27ac694",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian dance form originates from the state of Kerala?",
+  "qHi": "कौन सा पारंपरिक भारतीय नृत्य रूप केरल राज्य से संबंधित है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Kuchipudi",
+   "Manipuri"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "कुचिपुड़ी",
+   "मणिपुरी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a classical dance-drama form that originated in the southern state of Kerala, known for its colorful makeup and costumes.",
+  "sourceHint": "NCERT Social Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:39:00Z"
+ },
+ {
+  "id": "q_32c902ffe8eaef7b",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organ in the human digestive system absorbs most of the water from digested food?",
+  "qHi": "मानव पाचन तंत्र का कौन सा अंग पच चुके भोजन से अधिकांश पानी को अवशोषित करता है?",
+  "optsEn": [
+   "Stomach",
+   "Small intestine",
+   "Large intestine",
+   "Liver"
+  ],
+  "optsHi": [
+   "अमाशय",
+   "छोटी आंत",
+   "बड़ी आंत",
+   "यकृत"
+  ],
+  "correct": 2,
+  "explainEn": "The large intestine absorbs water and salts from the remaining indigestible food matter before it is eliminated.",
+  "sourceHint": "NCERT Science curriculum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:39:00Z"
+ },
+ {
+  "id": "q_1f0c7c53b4cffbee",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of map primarily shows physical features such as mountains, plateaus, and plains?",
+  "qHi": "किस प्रकार का मानचित्र मुख्य रूप से पर्वत, पठार और मैदान जैसी भौतिक विशेषताओं को दर्शाता है?",
+  "optsEn": [
+   "Political map",
+   "Physical map",
+   "Thematic map",
+   "Road map"
+  ],
+  "optsHi": [
+   "राजनीतिक मानचित्र",
+   "भौतिक मानचित्र",
+   "विषयगत मानचित्र",
+   "सड़क मानचित्र"
+  ],
+  "correct": 1,
+  "explainEn": "Physical maps show natural features of the Earth like mountains, rivers, plains, and oceans.",
+  "sourceHint": "NCERT Class 6 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:39:00Z"
+ },
+ {
+  "id": "q_be753514d050eef6",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these planets is known as the Red Planet due to the presence of iron oxide on its surface?",
+  "qHi": "इनमें से किस ग्रह को उसकी सतह पर आयरन ऑक्साइड की उपस्थिति के कारण लाल ग्रह के रूप में जाना जाता है?",
+  "optsEn": [
+   "Venus",
+   "Mars",
+   "Jupiter",
+   "Saturn"
+  ],
+  "optsHi": [
+   "शुक्र",
+   "मंगल",
+   "बृहस्पति",
+   "शनि"
+  ],
+  "correct": 1,
+  "explainEn": "Mars appears reddish because of large amounts of iron oxide (rust) on its surface.",
+  "sourceHint": "NCERT Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:39:00Z"
+ },
+ {
+  "id": "q_7808bf099755d488",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which part of a flowering plant absorbs water and minerals from the soil and anchors the plant firmly in the ground?",
+  "qHi": "फूल वाले पौधे का कौन सा भाग मिट्टी से पानी और खनिज अवशोषित करता है और पौधे को जमीन में मजबूती से जकड़ कर रखता है?",
+  "optsEn": [
+   "Leaf",
+   "Stem",
+   "Root",
+   "Flower"
+  ],
+  "optsHi": [
+   "पत्ती",
+   "तना",
+   "जड़",
+   "फूल"
+  ],
+  "correct": 2,
+  "explainEn": "Roots grow underground to absorb water and minerals while providing structural support.",
+  "sourceHint": "NCERT Class 6 Science Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:40:21Z"
+ },
+ {
+  "id": "q_e1474e250053b0fc",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the process called by which green plants prepare their own food using sunlight, water, and carbon dioxide?",
+  "qHi": "उस प्रक्रिया को क्या कहते हैं जिसके द्वारा हरे पौधे सूर्य के प्रकाश, पानी और कार्बन डाइऑक्साइड का उपयोग करके अपना भोजन स्वयं बनाते हैं?",
+  "optsEn": [
+   "Respiration",
+   "Photosynthesis",
+   "Transpiration",
+   "Germination"
+  ],
+  "optsHi": [
+   "श्वसन",
+   "प्रकाश संश्लेषण",
+   "वाष्पसर्जन",
+   "अंकुरण"
+  ],
+  "correct": 1,
+  "explainEn": "Photosynthesis is the process used by plants to convert light energy into chemical energy.",
+  "sourceHint": "NCERT Class 6 Science Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:40:21Z"
+ },
+ {
+  "id": "q_0137a034f08cc1f8",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which imaginary line of latitude divides the Earth into the Northern Hemisphere and the Southern Hemisphere?",
+  "qHi": "अक्षांश की कौन सी काल्पनिक रेखा पृथ्वी को उत्तरी गोलार्ध और दक्षिणी गोलार्ध में विभाजित करती है?",
+  "optsEn": [
+   "Tropic of Cancer",
+   "Equator",
+   "Prime Meridian",
+   "Tropic of Capricorn"
+  ],
+  "optsHi": [
+   "कर्क रेखा",
+   "भूमध्य रेखा (विषुवत वृत्त)",
+   "प्रमुख याम्योत्तर (प्रधान मध्याह्न रेखा)",
+   "मकर रेखा"
+  ],
+  "correct": 1,
+  "explainEn": "The Equator is the 0-degree latitude line that divides the Earth into northern and southern halves.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:40:21Z"
+ },
+ {
+  "id": "q_ee29306c6729346c",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following physical states of matter has a definite volume but no fixed shape, taking the shape of its container?",
+  "qHi": "पदार्थ की निम्नलिखित में से किस भौतिक अवस्था का एक निश्चित आयतन होता है लेकिन कोई निश्चित आकार नहीं होता है, और यह अपने पात्र का आकार ले लेता है?",
+  "optsEn": [
+   "Solid",
+   "Liquid",
+   "Gas",
+   "Plasma"
+  ],
+  "optsHi": [
+   "ठोस",
+   "द्रव",
+   "गैस",
+   "प्लाज्मा"
+  ],
+  "correct": 1,
+  "explainEn": "Liquids flow and take the shape of containers while maintaining a constant volume.",
+  "sourceHint": "NCERT Science Curriculum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:40:21Z"
+ },
+ {
+  "id": "q_4f903e0a409f5f95",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian classical dance style originated in the state of Kerala and is known for its elaborate costumes and facial makeup?",
+  "qHi": "भारत की कौन सी शास्त्रीय नृत्य शैली केरल राज्य में उत्पन्न हुई और अपनी विस्तृत वेशभूषा तथा चेहरे की मेकअप (वेश-भूषा) के लिए जानी जाती है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a major form of classical Indian dance characterized by storytelling and vibrant makeup from Kerala.",
+  "sourceHint": "NCERT Class 6 Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:40:21Z"
  }
 ]

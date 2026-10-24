@@ -21922,5 +21922,481 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-23T21:28:04Z"
+ },
+ {
+  "id": "q_162a7de0cd377d24",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organelle is known as the powerhouse of the cell in plant and animal biology?",
+  "qHi": "किस कोशिकांग को पादप और जंतु कोशिका का ऊर्जा गृह (पावरहाउस) कहा जाता है?",
+  "optsEn": [
+   "Ribosome",
+   "Mitochondria",
+   "Golgi apparatus",
+   "Centrosome"
+  ],
+  "optsHi": [
+   "राइबोसोम",
+   "माइटोकॉन्ड्रिया",
+   "गोल्गी उपकरण",
+   "सेंट्रोसोम"
+  ],
+  "correct": 1,
+  "explainEn": "Mitochondria generate most of the chemical energy needed to power the cell's biochemical reactions, earning them the title of powerhouse of the cell.",
+  "sourceHint": "NCERT Class 11 Biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:38:38Z"
+ },
+ {
+  "id": "q_f6a13c42d371e786",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the famous ancient Indian treatise on statecraft and economics titled Arthashastra?",
+  "qHi": "राजव्यवस्था और अर्थशास्त्र पर प्रसिद्ध प्राचीन भारतीय ग्रंथ अर्थशास्त्र किसने लिखा था?",
+  "optsEn": [
+   "Kalidasa",
+   "Kautilya",
+   "Banabhatta",
+   "Aryabhata"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "कौटिल्य",
+   "बाणभट्ट",
+   "आर्यभट्ट"
+  ],
+  "correct": 1,
+  "explainEn": "Arthashastra was written by Kautilya, also known as Chanakya, during the Mauryan period.",
+  "sourceHint": "NCERT Class 12 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:38:38Z"
+ },
+ {
+  "id": "q_619c5a76771cdb88",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas is predominantly released during the process of photosynthesis by green plants?",
+  "qHi": "हरे पौधों द्वारा प्रकाश संश्लेषण की प्रक्रिया के दौरान मुख्य रूप से कौन सी गैस छोड़ी जाती है?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Nitrogen",
+   "Oxygen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "ऑक्सीजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 2,
+  "explainEn": "During photosynthesis, plants take in carbon dioxide and water, using solar energy to release oxygen as a byproduct.",
+  "sourceHint": "NCERT Class 11 Biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:38:38Z"
+ },
+ {
+  "id": "q_ddfce9596c154ec0",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the chemical formula of common table salt?",
+  "qHi": "साधारण नमक का रासायनिक सूत्र क्या है?",
+  "optsEn": [
+   "HCl",
+   "NaCl",
+   "NaOH",
+   "Na2CO3"
+  ],
+  "optsHi": [
+   "HCl",
+   "NaCl",
+   "NaOH",
+   "Na2CO3"
+  ],
+  "correct": 1,
+  "explainEn": "Common table salt is primarily sodium chloride, represented by the chemical formula NaCl.",
+  "sourceHint": "NCERT Class 10 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:38:38Z"
+ },
+ {
+  "id": "q_15af542bce09e874",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who formulated the three laws of motion in classical mechanics?",
+  "qHi": "क्लासिकी यांत्रिकी में गति के तीन नियम किसने प्रतिपादित किए थे?",
+  "optsEn": [
+   "Albert Einstein",
+   "Isaac Newton",
+   "Galileo Galilei",
+   "Johannes Kepler"
+  ],
+  "optsHi": [
+   "अल्बर्ट आइंस्टीन",
+   "आइजैक न्यूटन",
+   "गैलीलियो गैलीली",
+   "जोहान्स केप्लर"
+  ],
+  "correct": 1,
+  "explainEn": "Sir Isaac Newton published his three laws of motion in his work Principia Mathematica in 1687.",
+  "sourceHint": "NCERT Class 11 Physics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:38:38Z"
+ },
+ {
+  "id": "q_c007b35d9c9a412f",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which writ literally translates to 'we command' and is issued by a higher court to a lower court, corporation, or public authority?",
+  "qHi": "किस रिट का शाब्दिक अर्थ 'हम आदेश देते हैं' होता है और यह किसी उच्च अदालत द्वारा निचली अदालत, निगम या सार्वजनिक प्राधिकरण को जारी किया जाता है?",
+  "optsEn": [
+   "Habeas Corpus",
+   "Mandamus",
+   "Quo-Warranto",
+   "Certiorari"
+  ],
+  "optsHi": [
+   "बंदी प्रत्यक्षीकरण",
+   "परमादेश",
+   "अधिकार पृच्छा",
+   "उत्प्रेषण"
+  ],
+  "correct": 1,
+  "explainEn": "Mandamus translates to 'we command' and is used to order a public official or body to perform a duty they are legally bound to do.",
+  "sourceHint": "NCERT Class 11 Political Science, Indian Constitution at Work",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:39:36Z"
+ },
+ {
+  "id": "q_8e6c06c345dd5be3",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which type of natural selection do individuals at both extremes of a trait distribution have higher fitness than those near the average?",
+  "qHi": "प्राकृतिक चयन के किस प्रकार में, किसी लक्षण वितरण के दोनों सिरों के व्यक्तियों की फिटनेस औसत के पास के व्यक्तियों की तुलना में अधिक होती है?",
+  "optsEn": [
+   "Stabilising selection",
+   "Directional selection",
+   "Disruptive selection",
+   "Artificial selection"
+  ],
+  "optsHi": [
+   "स्थाईकारी चयन",
+   "दिशात्मक चयन",
+   "विच्छेदी चयन",
+   "कृत्रिम चयन"
+  ],
+  "correct": 2,
+  "explainEn": "Disruptive selection favors individuals at both extremes of the phenotypic range, selecting against intermediate phenotypes.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:39:36Z"
+ },
+ {
+  "id": "q_da8ed2cff126d7ae",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which chemical compound is commonly used in the silver mirroring process to coat the inner surface of glass to make mirrors?",
+  "qHi": "दर्पण बनाने के लिए कांच की आंतरिक सतह पर लेप करने हेतु सिल्वर मिररिंग प्रक्रिया में आमतौर पर किस रासायनिक यौगिक का उपयोग किया जाता है?",
+  "optsEn": [
+   "Silver nitrate",
+   "Silver chloride",
+   "Silver iodide",
+   "Silver bromide"
+  ],
+  "optsHi": [
+   "सिल्वर नाइट्रेट",
+   "सिल्वर क्लोराइड",
+   "सिल्वर आयोडाइड",
+   "सिल्वर ब्रोमाइड"
+  ],
+  "correct": 0,
+  "explainEn": "Silver nitrate is commonly used in Tollens' reagent and mirror silvering to deposit a reflective metallic silver layer.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:39:36Z"
+ },
+ {
+  "id": "q_2542cdd8532ad4dd",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which economic system is characterized by the coexistence of both private enterprises and state-owned enterprises?",
+  "qHi": "किस आर्थिक प्रणाली की विशेषता निजी उद्यमों और राज्य के स्वामित्व वाले उद्यमों दोनों का सह-अस्तित्व है?",
+  "optsEn": [
+   "Capitalist economy",
+   "Socialist economy",
+   "Mixed economy",
+   "Traditional economy"
+  ],
+  "optsHi": [
+   "पूंजीवादी अर्थव्यवस्था",
+   "समाजवादी अर्थव्यवस्था",
+   "मिश्रित अर्थव्यवस्था",
+   "पारंपरिक अर्थव्यवस्था"
+  ],
+  "correct": 2,
+  "explainEn": "A mixed economy combines elements of both capitalism (private sector) and socialism (public/state sector).",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:39:36Z"
+ },
+ {
+  "id": "q_92c198386d65cdb8",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Harappan site is well known for its unique water management system involving a series of water reservoirs and stepwells?",
+  "qHi": "कौन सा हड़प्पा स्थल पानी के जलाशयों और सीढ़ीदार कुओं से जुड़ी अपनी अनूठी जल प्रबंधन प्रणाली के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Harappa",
+   "Mohenjo-daro",
+   "Dholavira",
+   "Lothal"
+  ],
+  "optsHi": [
+   "हड़प्पा",
+   "मोहनजोदड़ो",
+   "धोलावीरा",
+   "लोथल"
+  ],
+  "correct": 2,
+  "explainEn": "Dholavira is renowned for its sophisticated water management system, including massive stone-cut reservoirs and channels.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part I",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:39:36Z"
+ },
+ {
+  "id": "q_fa2c5382ac31393e",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of macromolecule is an antibody produced by the immune system?",
+  "qHi": "प्रतिरक्षा प्रणाली द्वारा उत्पादित एंटीबॉडी किस प्रकार का मैक्रोमोलेक्यूल (वृहत अणु) है?",
+  "optsEn": [
+   "Carbohydrate",
+   "Lipid",
+   "Protein",
+   "Nucleic acid"
+  ],
+  "optsHi": [
+   "कार्बोहाइड्रेट",
+   "लिपिड",
+   "प्रोटीन",
+   "न्यूक्लिक एसिड"
+  ],
+  "correct": 2,
+  "explainEn": "Antibodies (immunoglobulins) are large, Y-shaped proteins produced mainly by plasma cells that are used by the immune system.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:39:36Z"
+ },
+ {
+  "id": "q_568abdc4a1a3353e",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the magnetic flux linkage per unit current for a given coil, which depends only on the geometry of the circuit and magnetic permeability of the medium?",
+  "qHi": "किसी दी गई कुंडली के लिए प्रति इकाई धारा पर चुंबकीय फ्लक्स लिंकेज क्या है, जो केवल सर्किट की ज्यामिति और माध्यम की चुंबकीय पारगम्यता पर निर्भर करता है?",
+  "optsEn": [
+   "Self-inductance",
+   "Mutual inductance",
+   "Magnetic susceptibility",
+   "Displacement current"
+  ],
+  "optsHi": [
+   "स्व-प्रेरण (Self-inductance)",
+   "अन्योन्य प्रेरण (Mutual inductance)",
+   "चुंबकीय संवेदनशीलता (Magnetic susceptibility)",
+   "विस्थापन धारा (Displacement current)"
+  ],
+  "correct": 0,
+  "explainEn": "Self-inductance L is defined as the magnetic flux linkage per unit current in the circuit, determined entirely by geometric factors and medium permeability.",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 6: Electromagnetic Induction",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:40:39Z"
+ },
+ {
+  "id": "q_49d92067fd1e883d",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under Article 20 of the Indian Constitution, protection against which of the following is guaranteed?",
+  "qHi": "भारतीय संविधान के अनुच्छेद 20 के तहत, निम्नलिखित में से किसके विरुद्ध संरक्षण की गारंटी दी गई है?",
+  "optsEn": [
+   "Preventive detention without trial",
+   "Ex-post facto laws, double jeopardy, and self-incrimination",
+   "Arrest without informed grounds",
+   "Discrimination in public employment"
+  ],
+  "optsHi": [
+   "मुकदमे के बिना निवारक नजरबंदी",
+   "भू-लक्षी आपराधिक कानून, दोहरे दंड और आत्म-अभिशंसन से संरक्षण",
+   "सूचित आधार के बिना गिरफ्तारी",
+   "सार्वजनिक रोजगार में भेदभाव"
+  ],
+  "correct": 1,
+  "explainEn": "Article 20 grants protection against ex-post facto laws, double jeopardy, and self-incrimination to persons accused of crimes.",
+  "sourceHint": "Constitution of India, Article 20 (NCERT Class 12 Political Science)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:40:39Z"
+ },
+ {
+  "id": "q_d13bc87d1eee95b3",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which mutual fund investment strategy involves periodic transfer of a fixed sum of money from one scheme to another within the same mutual fund house?",
+  "qHi": "किस म्यूचुअल फंड निवेश रणनीति में एक ही म्यूचुअल फंड हाउस के भीतर एक योजना से दूसरी योजना में एक निश्चित राशि का आवधिक हस्तांतरण शामिल होता है?",
+  "optsEn": [
+   "Systematic Investment Plan",
+   "Systematic Withdrawal Plan",
+   "Systematic Transfer Plan",
+   "Portfolio Rebalancing"
+  ],
+  "optsHi": [
+   "सिस्टमेटिक इन्वेस्टमेंट प्लान",
+   "सिस्टमेटिक विड्रॉल प्लान",
+   "सिस्टमेटिक ट्रांसफर प्लान",
+   "पोर्टफोलियो रीबैलेंसिंग"
+  ],
+  "correct": 2,
+  "explainEn": "Systematic Transfer Plan (STP) allows an investor to transfer a fixed amount regularly from one scheme to another.",
+  "sourceHint": "NCERT Class 12 Business Studies, Chapter 9: Financial Management",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:40:39Z"
+ },
+ {
+  "id": "q_04d58f1ebbf1f98e",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the geometrical shape and hybridization of the central atom in the xenon compound XeF4?",
+  "qHi": "क्लीनन यौगिक XeF4 में केंद्रीय परमाणु का ज्यामितीय आकार और संकरण क्या है?",
+  "optsEn": [
+   "Tetrahedral, sp3",
+   "Square planar, sp3d2",
+   "Square pyramidal, sp3d2",
+   "Octahedral, sp3d2"
+  ],
+  "optsHi": [
+   "चतुष्कोणीय, sp3",
+   "वर्ग समतलीय, sp3d2",
+   "वर्ग पिरामिडिय, sp3d2",
+   "अष्टकोणीय, sp3d2"
+  ],
+  "correct": 1,
+  "explainEn": "XeF4 has six electron pairs (4 bond pairs and 2 lone pairs) around xenon, leading to sp3d2 hybridization and a square planar geometry according to VSEPR theory.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 7: The p-Block Elements",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:40:39Z"
+ },
+ {
+  "id": "q_87a1a45ade81b673",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In macroeconomics, what does a vertical long-run aggregate supply curve imply about the economy?",
+  "qHi": "समष्टि अर्थशास्त्र (macroeconomics) में, एक ऊर्ध्वाधर दीर्घकालिक कुल आपूर्ति वक्रीय (long-run aggregate supply curve) अर्थव्यवस्था के बारे में क्या दर्शाता है?",
+  "optsEn": [
+   "Prices are completely sticky in the long run.",
+   "Output is determined by factor endowments, technology, and preferences, independent of the price level.",
+   "Aggregate demand has no effect on output even in the short run.",
+   "Unemployment is always zero at any price level."
+  ],
+  "optsHi": [
+   "दीर्घకాల में कीमतें पूरी तरह से स्थिर (sticky) होती हैं।",
+   "उत्पादन मूल्य स्तर से स्वतंत्र होकर कारक संपदा, प्रौद्योगिकी और प्राथमिकताओं द्वारा निर्धारित होता है।",
+   "अल्पकाल में भी कुल मांग का उत्पादन पर कोई प्रभाव नहीं पड़ता है।",
+   "किसी भी मूल्य स्तर पर बेरोजगारी हमेशा शून्य होती है।"
+  ],
+  "correct": 1,
+  "explainEn": "The classical vertical long-run aggregate supply curve indicates that potential output depends on real factors of production, not on the price level.",
+  "sourceHint": "NCERT Class 12 Economics (Introductory Macroeconomics), Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:40:39Z"
+ },
+ {
+  "id": "q_fae925cff93a4887",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which ecological pyramid can sometimes be inverted in terms of standing crop biomass in aquatic ecosystems?",
+  "qHi": "जलीय पारिस्थितिक तंत्र में खड़े फसल बायोमास (standing crop biomass) के संदर्भ में कौन सा पारिस्थितिक पिरामिड कभी-कभी उल्टा हो सकता है?",
+  "optsEn": [
+   "Pyramid of energy",
+   "Pyramid of biomass",
+   "Pyramid of number",
+   "Pyramid of productivity"
+  ],
+  "optsHi": [
+   "ऊर्जा का पिरामिड",
+   "बायोमास का पिरामिड",
+   "संख्या का पिरामिड",
+   "उत्पादकता का पिरामिड"
+  ],
+  "correct": 1,
+  "explainEn": "In many aquatic ecosystems, the biomass of phytoplankton (producers) is much smaller than that of zooplankton (consumers) at any given time, making the biomass pyramid inverted.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 14: Ecosystem",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:40:39Z"
  }
 ]

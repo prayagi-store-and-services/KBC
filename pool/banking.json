@@ -23378,5 +23378,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-23T21:27:16Z"
+ },
+ {
+  "id": "q_6f00b619015174ab",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'I' stand for in the abbreviation IFSC, used in electronic fund transfers in Indian banking?",
+  "qHi": "भारतीय बैंकिंग में इलेक्ट्रॉनिक फंड ट्रांसफर में प्रयुक्त होने वाले संक्षिप्त नाम IFSC में अक्षर 'I' का क्या अर्थ है?",
+  "optsEn": [
+   "Indian",
+   "International",
+   "Interbank",
+   "Institutional"
+  ],
+  "optsHi": [
+   "इंडियन (Indian)",
+   "इंटरनेशनल (International)",
+   "इंटरबैंक (Interbank)",
+   "इंस्टिट्यूशनल (Institutional)"
+  ],
+  "correct": 0,
+  "explainEn": "IFSC stands for Indian Financial System Code, which is an 11-character alphanumeric code used for NEFT, RTGS, and IMPS transactions.",
+  "sourceHint": "Reserve Bank of India (RBI) guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:38:50Z"
+ },
+ {
+  "id": "q_8ffdf675433cf0bc",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'A' stand for in the acronym 'NEFT', a prominent payment system in India?",
+  "qHi": "भारत में एक प्रमुख भुगतान प्रणाली 'NEFT' संक्षिप्त नाम में 'A' का क्या अर्थ है?",
+  "optsEn": [
+   "Assets",
+   "Automated",
+   "Accounting",
+   "Amount"
+  ],
+  "optsHi": [
+   "एसेट्स (Assets)",
+   "ऑटोमेटेड (Automated)",
+   "अकाउंटिंग (Accounting)",
+   "अमाउंट (Amount)"
+  ],
+  "correct": 1,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, operated by the Reserve Bank of India.",
+  "sourceHint": "Reserve Bank of India (RBI) website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:38:50Z"
+ },
+ {
+  "id": "q_a5e9b865d10bbaa6",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization in India issues currency notes in denominations other than one rupee?",
+  "qHi": "भारत में एक रुपये के अलावा अन्य मूल्यवर्ग के करेंसी नोट कौन जारी करता है?",
+  "optsEn": [
+   "State Bank of India",
+   "Ministry of Finance",
+   "Reserve Bank of India",
+   "National Payments Corporation of India"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "वित्त मंत्रालय",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय राष्ट्रीय भुगतान निगम"
+  ],
+  "correct": 2,
+  "explainEn": "The Reserve Bank of India has the sole right to issue currency notes of all denominations except the one-rupee note, which is issued by the Ministry of Finance.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:38:50Z"
+ },
+ {
+  "id": "q_c944184086c1a7ac",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following institutions is the primary shareholder of National Payments Corporation of India (NPCI)?",
+  "qHi": "निम्नलिखित में से कौन सी संस्था नेशनल पेमेंट्स कॉर्पोरेशन ऑफ इंडिया (NPCI) की प्राथमिक शेयरधारक है?",
+  "optsEn": [
+   "A consortium of major commercial banks regulated by RBI",
+   "Ministry of Finance, Government of India",
+   "Securities and Exchange Board of India",
+   "World Bank Group"
+  ],
+  "optsHi": [
+   "आरबीआई द्वारा विनियमित प्रमुख वाणिज्यिक बैंकों का एक संघ",
+   "वित्त मंत्रालय, भारत सरकार",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "विश्व बैंक समूह"
+  ],
+  "correct": 0,
+  "explainEn": "NPCI is an initiative of RBI and IBA under the provisions of the Payment and Settlement Systems Act, 2007, promoted by a consortium of major banks.",
+  "sourceHint": "NPCI Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:39:51Z"
+ },
+ {
+  "id": "q_6424fef76f14d708",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of banking, what does the letter 'C' stand for in the acronym 'CASA' account?",
+  "qHi": "बैंकिंग के संदर्भ में, 'CASA' खाते के संक्षिप्त नाम में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Commercial",
+   "Current",
+   "Credit",
+   "Capital"
+  ],
+  "optsHi": [
+   "कमर्शियल",
+   "करेंट",
+   "क्रेडिट",
+   "कैपिटल"
+  ],
+  "correct": 1,
+  "explainEn": "CASA stands for Current Account Savings Account. It refers to bank accounts that combine current and savings account features.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:39:51Z"
+ },
+ {
+  "id": "q_c0cbe6690aba4a31",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under which ministry does the Unique Identification Authority of India (UIDAI) operate?",
+  "qHi": "भारतीय विशिष्ट पहचान प्राधिकरण (UIDAI) किस मंत्रालय के अंतर्गत कार्य करता है?",
+  "optsEn": [
+   "Ministry of Home Affairs",
+   "Ministry of Finance",
+   "Ministry of Electronics and Information Technology",
+   "Ministry of Corporate Affairs"
+  ],
+  "optsHi": [
+   "गृह मंत्रालय",
+   "वित्त मंत्रालय",
+   "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय",
+   "कॉर्पोरेट मामलों के मंत्रालय"
+  ],
+  "correct": 2,
+  "explainEn": "UIDAI is a statutory authority established under the provisions of the Aadhaar Act, 2016, under the Ministry of Electronics and Information Technology.",
+  "sourceHint": "UIDAI Official Portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:39:51Z"
+ },
+ {
+  "id": "q_da9d4e8954ee1218",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is an example of a Money Market instrument in India?",
+  "qHi": "निम्नलिखित में से कौन सा भारत में मनी मार्केट इंस्ट्रूमेंट का एक उदाहरण है?",
+  "optsEn": [
+   "Treasury Bill",
+   "Equity Share",
+   "Long-term Government Bond",
+   "Debenture"
+  ],
+  "optsHi": [
+   "Treasury Bill (राजकोषीय बिल)",
+   "Equity Share (इक्विटी शेयर)",
+   "Long-term Government Bond (दीर्घकालिक सरकारी बॉंड)",
+   "Debenture (डिबेंचर)"
+  ],
+  "correct": 0,
+  "explainEn": "Treasury Bills are short-term debt instruments issued by the Government of India and are key money market instruments maturing in less than one year.",
+  "sourceHint": "RBI Publications on Financial Markets",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-24T04:39:51Z"
  }
 ]
