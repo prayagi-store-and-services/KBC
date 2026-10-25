@@ -17,8 +17,8 @@ class SelfUpdateChoiceDeviceTest {
         val ins=InstrumentationRegistry.getInstrumentation();val c=ins.targetContext
         val dir=File(c.cacheDir,"updates")
         val before=dir.listFiles()?.filter { it.extension=="apk" }?.map { it.name to it.length() }?.sortedBy { it.first }.orEmpty()
-        val intent=Intent(c,com.example.MainActivity::class.java).putExtra(UpdateAlert.EXTRA_AUTO_UPDATE,true).addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
-        ActivityScenario.launch<com.example.MainActivity>(intent).use {
+        val intent=Intent(c,com.example.NetraMainActivity::class.java).putExtra(UpdateAlert.EXTRA_AUTO_UPDATE,true).addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
+        ActivityScenario.launch<com.example.NetraMainActivity>(intent).use {
             var cancel:AccessibilityNodeInfo?=null
             val deadline=System.currentTimeMillis()+15000
             while(cancel==null && System.currentTimeMillis()<deadline) {
