@@ -62,6 +62,7 @@ open class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         try { Brand.applyLauncherName(this) } catch (_: Throwable) { }
         super.onCreate(savedInstanceState)
+        com.example.update.AppUpdater.retireLegacyUpdater(this)
         if (com.example.geo.GeoGuard.isBlocked(this)) {
             val pad = (24 * resources.displayMetrics.density).toInt()
             val box = android.widget.LinearLayout(this).apply {
@@ -83,7 +84,6 @@ open class MainActivity : ComponentActivity() {
         }
         com.example.festival.JayMataDi.greetIfDue(this)
         // Remove any installer file left from an in-app update (runs in the background).
-        com.example.update.AppUpdater.retireLegacyUpdater(this)
         // Anonymous daily usage count (+1 on a public counter, nothing else). The user can turn it off in Settings.
         // Automatic crash reports: a crash saved last time is sent now, in the background. No personal data.
         com.example.stats.CrashReporter.install(this)
