@@ -173,7 +173,10 @@ object AppUpdater {
     /** Rehash every cached update and validate the owning application before reuse. */
     fun savedFile(context: Context, release: AppRelease): File? {
         val file = File(File(context.cacheDir, "updates"), "$APP_LABEL-${release.tag}.apk")
-        return try { verifyArchive(context, file, release); file } catch (_: Exception) { file.delete(); null }
+        return try {
+            check(context.getSharedPreferences("verified_update_artifacts",Context.MODE_PRIVATE).contains(file.name)) { "Legacy cache requires a new download." }
+            verifyArchive(context, file, release); file
+        } catch (_: Exception) { file.delete(); null }
     }
 
     @Suppress("DEPRECATION")
