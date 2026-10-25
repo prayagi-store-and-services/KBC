@@ -66,7 +66,8 @@ fun adaptiveHeaderClock(): HeaderClock {
         fun stop() {
             if (receiverRegistered) { context.unregisterReceiver(receiver); receiverRegistered = false }
             if (Build.VERSION.SDK_INT >= 29 && thermalRegistered && thermal != null) {
-                pm.removeThermalStatusListener(thermal); thermalRegistered = false
+                try { pm.removeThermalStatusListener(thermal) } catch (_: RuntimeException) { }
+                thermalRegistered = false
             }
         }
         fun start() {
@@ -81,7 +82,9 @@ fun adaptiveHeaderClock(): HeaderClock {
             receiverRegistered = true
             readPower()
             if (Build.VERSION.SDK_INT >= 29 && thermal != null) {
-                pm.addThermalStatusListener(context.mainExecutor, thermal); thermalRegistered = true
+                thermalRegistered = OptionalPowerCallback.register(
+                    { pm.addThermalStatusListener(context.mainExecutor, thermal) },
+                    { thermalThrottling = true })
             }
         }
         val lease = LifecycleCallbackLease(lifecycle, ::start, ::stop) { visible = it }
