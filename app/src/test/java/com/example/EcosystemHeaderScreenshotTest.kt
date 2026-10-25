@@ -22,4 +22,9 @@ class EcosystemHeaderScreenshotTest {
   compose.onNodeWithText("v1.1.29 | Netra Ecosystem").assertIsDisplayed()
   compose.onRoot().captureRoboImage(filePath = "build/outputs/ecosystem-version-header.png")
  }
+ @Test fun survivalHeaderDoesNotPresentFrozenTimeAsLive() {
+  compose.setContent { MaterialTheme { Surface { NetraVersionHeader("1.1.39", java.util.Date(1792067400000L), clockPaused = true) } } }
+  compose.onNodeWithText("Clock paused (power saving)").assertIsDisplayed()
+  compose.onRoot().captureRoboImage(filePath = "build/outputs/ecosystem-survival-header.png")
+ }
 }

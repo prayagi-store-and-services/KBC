@@ -57,12 +57,12 @@ open class MainActivity : ComponentActivity() {
 
     override fun onNewIntent(intent: android.content.Intent) {
         super.onNewIntent(intent)
-        com.example.update.UpdateAlert.handle(this, intent)
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
         try { Brand.applyLauncherName(this) } catch (_: Throwable) { }
         super.onCreate(savedInstanceState)
+        com.example.update.AppUpdater.retireLegacyUpdater(this)
         if (com.example.geo.GeoGuard.isBlocked(this)) {
             val pad = (24 * resources.displayMetrics.density).toInt()
             val box = android.widget.LinearLayout(this).apply {
@@ -84,8 +84,6 @@ open class MainActivity : ComponentActivity() {
         }
         com.example.festival.JayMataDi.greetIfDue(this)
         // Remove any installer file left from an in-app update (runs in the background).
-        Thread { com.example.update.AppUpdater.cleanLeftovers(applicationContext) }.start()
-        com.example.update.UpdateAlert.start(this)
         // Anonymous daily usage count (+1 on a public counter, nothing else). The user can turn it off in Settings.
         // Automatic crash reports: a crash saved last time is sent now, in the background. No personal data.
         com.example.stats.CrashReporter.install(this)
@@ -96,17 +94,15 @@ open class MainActivity : ComponentActivity() {
         window.clearFlags(WindowManager.LayoutParams.FLAG_SECURE)
         setContent {
             TarkShastraTheme {
-                com.example.update.AppUpdatePrompt()
                 Scaffold(
                     modifier = Modifier.fillMaxSize(),
                     containerColor = NavyBackground,
             topBar = {
                 // Standard Netra header: 56 dp, only app name, version and date/time. Everything else scrolls.
                 val ctx = androidx.compose.ui.platform.LocalContext.current
-                var clockNow by androidx.compose.runtime.remember { androidx.compose.runtime.mutableStateOf(java.util.Date()) }
-                androidx.compose.runtime.LaunchedEffect(Unit) { while (true) { clockNow = java.util.Date(); kotlinx.coroutines.delay(30_000) } }
+                val headerClock = com.example.power.adaptiveHeaderClock()
                 val ownVersion = androidx.compose.runtime.remember { try { ctx.packageManager.getPackageInfo(ctx.packageName, 0).versionName } catch (e: Exception) { null } ?: "Unavailable" }
-                NetraVersionHeader(ownVersion, clockNow)
+                NetraVersionHeader(ownVersion, headerClock.now, headerClock.paused)
             },
                 ) { innerPadding ->
                     TarkAppContent(
@@ -133,7 +129,6 @@ open class MainActivity : ComponentActivity() {
 
     override fun onResume() {
         super.onResume()
-        Thread { com.example.update.AppUpdater.cleanStale(applicationContext) }.start()
         userLeftViaHome = false
     }
 }
@@ -271,7 +266,7 @@ fun EnsureGameSessionWindowFlags(isGameActive: Boolean) {
 }
 
 @androidx.compose.runtime.Composable
-fun NetraVersionHeader(ownVersion: String, clockNow: java.util.Date) {
+fun NetraVersionHeader(ownVersion: String, clockNow: java.util.Date, clockPaused: Boolean = false) {
                 androidx.compose.foundation.layout.Row(
                     modifier = Modifier.fillMaxWidth().background(NavyBackground).statusBarsPadding().height(56.dp).padding(horizontal = 16.dp),
                     verticalAlignment = androidx.compose.ui.Alignment.CenterVertically,
@@ -281,6 +276,6 @@ fun NetraVersionHeader(ownVersion: String, clockNow: java.util.Date) {
                         Text(text = Brand.name, fontSize = 20.sp, fontWeight = androidx.compose.ui.text.font.FontWeight.Bold, maxLines = 1, color = androidx.compose.ui.graphics.Color.White)
                         Text(text = "v" + ownVersion + " | Netra Ecosystem", fontSize = 12.sp, maxLines = 1, color = androidx.compose.ui.graphics.Color(0xFFB0B8C8))
                     }
-                    Text(text = java.text.SimpleDateFormat("EEE d MMM, HH:mm", java.util.Locale.getDefault()).format(clockNow), fontSize = 12.sp, maxLines = 1, color = androidx.compose.ui.graphics.Color(0xFFB0B8C8))
+                    Text(text = if (clockPaused) "Clock paused (power saving)" else java.text.SimpleDateFormat("EEE d MMM, HH:mm", java.util.Locale.getDefault()).format(clockNow), fontSize = 12.sp, maxLines = 1, color = androidx.compose.ui.graphics.Color(0xFFB0B8C8))
                 }
 }

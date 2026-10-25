@@ -46,14 +46,6 @@ internal fun runtimeStatus(context: Context, permission: String): String =
         "Unavailable"
     }
 
-internal fun installStatus(context: Context): String =
-    try { if (context.packageManager.canRequestPackageInstalls()) "Allowed" else "Not allowed" } catch (e: Exception) { "Unavailable" }
-
-internal fun openInstallSettings(context: Context) {
-    val i = Intent(Settings.ACTION_MANAGE_UNKNOWN_APP_SOURCES, Uri.parse("package:" + context.packageName)).addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
-    try { context.startActivity(i) } catch (e: Exception) { context.startActivity(appSettingsIntent(context)) }
-}
-
 internal fun notificationStatus(context: Context): String =
     if (android.os.Build.VERSION.SDK_INT >= 33) runtimeStatus(context, android.Manifest.permission.POST_NOTIFICATIONS) else "Allowed"
 
@@ -65,14 +57,8 @@ internal fun appPermissions(): List<PermItem> = listOf(
         { it.startActivity(appSettingsIntent(it)) }
     ),
     PermItem(
-        "Install apps",
-        "Used only when you tap Install on an update, so Android can install the new KBC file. Tap to open the Android page where you can allow or stop it.",
-        { installStatus(it) },
-        { openInstallSettings(it) }
-    ),
-    PermItem(
         "Internet",
-        "Used to check for updates and to send the anonymous usage count if you leave it on.",
+        "Used for game content, crash reports and the optional anonymous usage count. No app updates are downloaded here.",
         { "Always allowed (normal permission)" },
         null
     )
