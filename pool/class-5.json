@@ -20970,5 +20970,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-24T20:52:56Z"
+ },
+ {
+  "id": "q_92c2b3264785f816",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which sense organ helps us to taste different foods?",
+  "qHi": "कौन सा ज्ञानेंद्रिय अंग हमें विभिन्न प्रकार के भोजन का स्वाद चखने में मदद करता है?",
+  "optsEn": [
+   "Skin",
+   "Eye",
+   "Ear",
+   "Tongue"
+  ],
+  "optsHi": [
+   "त्वचा",
+   "आँख",
+   "कान",
+   "जीभ"
+  ],
+  "correct": 3,
+  "explainEn": "The tongue has taste buds that help us identify different tastes like sweet, salty, sour, and bitter.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:43:15Z"
+ },
+ {
+  "id": "q_a3a972a51a2af119",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these animals is an example of a mammal?",
+  "qHi": "इनमें से कौन सा जानवर स्तनधारी (मैमल) का एक उदाहरण है?",
+  "optsEn": [
+   "Crow",
+   "Frog",
+   "Cow",
+   "Snake"
+  ],
+  "optsHi": [
+   "कौवा",
+   "मेंढक",
+   "गाय",
+   "सांप"
+  ],
+  "correct": 2,
+  "explainEn": "Cows give birth to live young ones and feed them milk, making them mammals.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:43:15Z"
+ },
+ {
+  "id": "q_0d123ff929588371",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of map mainly shows physical features like mountains, plateaus, plains, and rivers?",
+  "qHi": "किस प्रकार का मानचित्र मुख्य रूप से पहाड़ों, पठारों, मैदानों और नदियों जैसी भौतिक विशेषताओं को दर्शाता है?",
+  "optsEn": [
+   "Political map",
+   "Thematic map",
+   "Physical map",
+   "Road map"
+  ],
+  "optsHi": [
+   "राजनीतिक मानचित्र",
+   "थीमैटिक मानचित्र",
+   "भौतिक मानचित्र",
+   "सड़क मानचित्र"
+  ],
+  "correct": 2,
+  "explainEn": "Physical maps show natural features of the Earth such as mountains, rivers, and plains.",
+  "sourceHint": "NCERT Class 5 Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:44:11Z"
+ },
+ {
+  "id": "q_23222fb521a2e02b",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following traditional Indian water harvesting structures was used to collect rainwater in step-wells?",
+  "qHi": "निम्नलिखित में से किस पारंपरिक भारतीय जल संचयन संरचना का उपयोग सीढ़ीदार कुओं में वर्षा जल एकत्र करने के लिए किया जाता था?",
+  "optsEn": [
+   "Baoli",
+   "Dam",
+   "Tubewell",
+   "Canal"
+  ],
+  "optsHi": [
+   "बावड़ी",
+   "बांध",
+   "न्यूबेल",
+   "नहर"
+  ],
+  "correct": 0,
+  "explainEn": "Baolis or step-wells were traditional structures used in India to store rainwater and provide access to the water level.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:44:11Z"
+ },
+ {
+  "id": "q_c7c798f7597eee36",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which crop is known as a kharif crop, typically sown in the rainy season in India?",
+  "qHi": "किस फसल को खरीफ फसल के रूप में जाना जाता है, जिसे आमतौर पर भारत में वर्षा ऋतु में बोया जाता है?",
+  "optsEn": [
+   "Wheat",
+   "Barley",
+   "Rice",
+   "Gram"
+  ],
+  "optsHi": [
+   "गेहूं",
+   "जौ",
+   "चावल",
+   "चना"
+  ],
+  "correct": 2,
+  "explainEn": "Rice is a major kharif crop that requires a large amount of water and is grown during the monsoon season.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:44:11Z"
+ },
+ {
+  "id": "q_10f4eea60c85d180",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What force pulls objects towards the center of the Earth?",
+  "qHi": "कौन सा बल वस्तुओं को पृथ्वी के केंद्र की ओर खींचता है?",
+  "optsEn": [
+   "Friction",
+   "Magnetic force",
+   "Gravity",
+   "Muscular force"
+  ],
+  "optsHi": [
+   "घर्षण",
+   "चुंबकीय बल",
+   "गुरुत्वाकर्षण",
+   "पेशीय बल"
+  ],
+  "correct": 2,
+  "explainEn": "Gravity is the force with which the Earth pulls all objects towards itself.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:44:11Z"
+ },
+ {
+  "id": "q_0a7afd7ef523b13b",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which desert in India is famous for its vast sand dunes and extreme temperatures?",
+  "qHi": "भारत का कौन सा मरुस्थल अपने विशाल रेत के टीलों और अत्यधिक तापमान के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Thar Desert",
+   "Sahara Desert",
+   "Gobi Desert",
+   "Atacama Desert"
+  ],
+  "optsHi": [
+   "थार मरुस्थल",
+   "सहारा मरुस्थल",
+   "गोबी मरुस्थल",
+   "अटाकामा मरुस्थल"
+  ],
+  "correct": 0,
+  "explainEn": "The Thar Desert, also known as the Great Indian Desert, is located in the northwestern part of India.",
+  "sourceHint": "NCERT Class 5 Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:44:11Z"
  }
 ]

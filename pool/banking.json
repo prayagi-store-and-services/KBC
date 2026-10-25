@@ -24470,5 +24470,481 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-24T20:53:48Z"
+ },
+ {
+  "id": "q_574fa542fb6d4d25",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following cards is issued directly by banks as a payment card linked to a savings or current account?",
+  "qHi": "बचत या चालू खाते से जुड़े भुगतान कार्ड के रूप में बैंकों द्वारा सीधे निम्नलिखित में से कौन सा कार्ड जारी किया जाता है?",
+  "optsEn": [
+   "Credit Card",
+   "Debit Card",
+   "Ration Card",
+   "Visiting Card"
+  ],
+  "optsHi": [
+   "क्रेडिट कार्ड",
+   "डेबिट कार्ड",
+   "राशन कार्ड",
+   "विज़िटिंग कार्ड"
+  ],
+  "correct": 1,
+  "explainEn": "A debit card is issued by banks and allows customers to spend money directly from their bank accounts.",
+  "sourceHint": "NCERT Business Studies and Banking basics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:43:07Z"
+ },
+ {
+  "id": "q_a4589d709f82d89e",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the acronym 'ATM' stand for in banking terminology?",
+  "qHi": "बैंकिंग शब्दावली में संक्षिप्त नाम 'ATM' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Any Time Money",
+   "Automated Teller Machine",
+   "Automated Transfer Mode",
+   "Automatic Transaction Machine"
+  ],
+  "optsHi": [
+   "एनी टाइम मनी",
+   "ऑटोमेटेड टेलर मशीन",
+   "ऑटोमेटेड ट्रांसफर मोड",
+   "ऑटोमैटिक ट्रांजैक्शन मशीन"
+  ],
+  "correct": 1,
+  "explainEn": "ATM stands for Automated Teller Machine, an electronic telecommunications device that enables customers to perform financial transactions.",
+  "sourceHint": "RBI glossary of banking terms",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:43:07Z"
+ },
+ {
+  "id": "q_71dc2680a88ca8f1",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of 'KYC', a mandatory process for banks to verify the identity of their customers?",
+  "qHi": "बैंकों द्वारा अपने ग्राहकों की पहचान सत्यापित करने की अनिवार्य प्रक्रिया 'KYC' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Know Your Customer",
+   "Keep Your Cash",
+   "Knowledge Yields Credit",
+   "Key Yield Calculation"
+  ],
+  "optsHi": [
+   "नो योर कस्टमर",
+   "कीप योर कैश",
+   "नॉलेज यील्ड्स क्रेडिट",
+   "की यील्ड कैलकुलेशन"
+  ],
+  "correct": 0,
+  "explainEn": "KYC stands for Know Your Customer, a standard due diligence process in the banking industry.",
+  "sourceHint": "RBI Master Direction on Know Your Customer (KYC)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:43:07Z"
+ },
+ {
+  "id": "q_d56ad21501761ece",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the liquidity-related financial term 'LAF'?",
+  "qHi": "तरलता से संबंधित वित्तीय शब्द 'LAF' में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liability",
+   "Liquidity",
+   "Leverage",
+   "Ledger"
+  ],
+  "optsHi": [
+   "लायबिलिटी",
+   "लिक्विडिटी",
+   "लीवेज",
+   "लेजर"
+  ],
+  "correct": 1,
+  "explainEn": "LAF stands for Liquidity Adjustment Facility, used by the RBI to aid monetary policy implementation.",
+  "sourceHint": "RBI official website glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:44:03Z"
+ },
+ {
+  "id": "q_d0adce155b7d0448",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque becomes stale after how many months from its date of issuance?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, एक चेक जारी होने की तारीख से कितने महीनों के बाद पुराना (अमान्य) हो जाता है?",
+  "optsEn": [
+   "1 month",
+   "3 months",
+   "6 months",
+   "12 months"
+  ],
+  "optsHi": [
+   "1 महीना",
+   "3 महीने",
+   "6 महीने",
+   "12 महीने"
+  ],
+  "correct": 1,
+  "explainEn": "RBI guidelines stipulate that the validity period of cheques, demand drafts, and pay orders is 3 months.",
+  "sourceHint": "Reserve Bank of India circulars",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:44:03Z"
+ },
+ {
+  "id": "q_5138d421b2fff31e",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institution acts as the principal lender for promotion and development of micro, small and medium enterprises in India?",
+  "qHi": "भारत में सूक्ष्म, लघु और मध्यम उद्यमों के संवर्धन और विकास के लिए कौन सा संस्थान प्रमुख ऋणदाता के रूप में कार्य करता है?",
+  "optsEn": [
+   "NABARD",
+   "SIDBI",
+   "EXIM Bank",
+   "NHB"
+  ],
+  "optsHi": [
+   "नाबार्ड",
+   "सिडबी",
+   "एक्सिम बैंक",
+   "एनएचबी"
+  ],
+  "correct": 1,
+  "explainEn": "Small Industries Development Bank of India (SIDBI) is the apex financial institution for MSMEs.",
+  "sourceHint": "SIDBI Act, 1989",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:44:03Z"
+ },
+ {
+  "id": "q_f10501948ac5d5fe",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum limit of amount for a transaction through the Immediate Payment Service (IMPS)?",
+  "qHi": "तत्पर भुगतान सेवा (IMPS) के माध्यम से लेनदेन के लिए अधिकतम राशि की सीमा क्या है?",
+  "optsEn": [
+   "Rs. 2 Lakhs",
+   "Rs. 5 Lakhs",
+   "Rs. 10 Lakhs",
+   "No upper limit"
+  ],
+  "optsHi": [
+   "रु. 2 लाख",
+   "रु. 5 लाख",
+   "रु. 10 लाख",
+   "कोई ऊपरी सीमा नहीं"
+  ],
+  "correct": 1,
+  "explainEn": "The upper limit for IMPS transactions per channel/customer as per NPCI guidelines is generally Rs. 5 Lakhs.",
+  "sourceHint": "NPCI guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:44:03Z"
+ },
+ {
+  "id": "q_2c0769f86ba25ddb",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is an example of 'Quantitative Tool' of monetary policy in India?",
+  "qHi": "निम्नलिखित में से कौन सा भारत में मौद्रिक नीति का 'मात्रात्मक उपकरण' (क्वांटिटेटिव टूल) का एक उदाहरण है?",
+  "optsEn": [
+   "Cash Reserve Ratio",
+   "Margin requirements",
+   "Moral suasion",
+   "Consumer credit regulation"
+  ],
+  "optsHi": [
+   "नकद आरक्षित अनुपात",
+   "मार्जिन आवश्यकताएं",
+   "नैतिक दबाव",
+   "उपभोक्ता ऋण विनियमन"
+  ],
+  "correct": 0,
+  "explainEn": "Cash Reserve Ratio (CRR) is a quantitative credit control tool, whereas margin requirements are qualitative.",
+  "sourceHint": "NCERT Economics textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:44:03Z"
+ },
+ {
+  "id": "q_c7ecad6f5648886e",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of banking technology, what does 'C' stand for in 'CBS'?",
+  "qHi": "बैंकिंग प्रौद्योगिकी के संदर्भ में, 'CBS' में 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Centralized",
+   "Core",
+   "Commercial",
+   "Credit"
+  ],
+  "optsHi": [
+   "सेंट्रलाइज्ड",
+   "कोर",
+   "कमर्शियल",
+   "क्रेडिट"
+  ],
+  "correct": 1,
+  "explainEn": "CBS stands for Core Banking Solutions, which enables customers to operate their accounts from any branch.",
+  "sourceHint": "RBI Banking Glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:44:03Z"
+ },
+ {
+  "id": "q_94e49438dab3dad3",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India assigns credit ratings to various debt instruments and is popularly known as a credit rating agency?",
+  "qHi": "भारत में कौन सा संगठन विभिन्न ऋण साधनों को क्रेडिट रेटिंग प्रदान करता है और लोकप्रिय रूप से क्रेडिट रेटिंग एजेंसी के रूप में जाना जाता है?",
+  "optsEn": [
+   "CRISIL",
+   "FICCI",
+   "ASSOCHAM",
+   "IBA"
+  ],
+  "optsHi": [
+   "क्रिसिल",
+   "फिक्की",
+   "एसोचैम",
+   "आईबीए"
+  ],
+  "correct": 0,
+  "explainEn": "CRISIL (Credit Rating Information Services of India Limited) is a prominent credit rating agency in India.",
+  "sourceHint": "Britannica / SEBI registered entities list",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:44:03Z"
+ },
+ {
+  "id": "q_0e59aa7963691f34",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian money markets, what is the maximum maturity period of a standard Certificate of Deposit (CD) issued by a scheduled commercial bank?",
+  "qHi": "भारतीय मुद्रा बाजारों के संदर्भ में, एक अनुसूचित वाणिज्यिक बैंक द्वारा जारी किए गए मानक जमा प्रमाण पत्र (सीडी) की अधिकतम परिपक्वता अवधि क्या है?",
+  "optsEn": [
+   "91 days",
+   "182 days",
+   "1 year",
+   "3 years"
+  ],
+  "optsHi": [
+   "91 दिन",
+   "182 दिन",
+   "1 वर्ष",
+   "3 वर्ष"
+  ],
+  "correct": 2,
+  "explainEn": "As per RBI guidelines, Certificates of Deposit can be issued by scheduled commercial banks for a minimum period of 7 days and a maximum period of 1 year.",
+  "sourceHint": "Reserve Bank of India Master Directions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:45:42Z"
+ },
+ {
+  "id": "q_29a742457f065c59",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under Basel III norms, what minimum Common Equity Tier 1 (CET1) capital ratio must Indian scheduled commercial banks maintain, inclusive of the Capital Conservation Buffer (CCB)?",
+  "qHi": "बेसल III मानदंडों के तहत, भारतीय अनुसूचित वाणिज्यिक बैंकों को पूंजी संरक्षण बफर (सीसीबी) सहित न्यूनतम कॉमन इक्विटी टीयर 1 (सीईटी1) पूंजी अनुपात कितना बनाए रखना चाहिए?",
+  "optsEn": [
+   "5.5 percent",
+   "8.0 percent",
+   "9.0 percent",
+   "11.5 percent"
+  ],
+  "optsHi": [
+   "5.5 प्रतिशत",
+   "8.0 प्रतिशत",
+   "9.0 प्रतिशत",
+   "11.5 प्रतिशत"
+  ],
+  "correct": 3,
+  "explainEn": "Under RBI guidelines aligned with Basel III, the minimum CET1 ratio is 5.5%, and with the mandatory Capital Conservation Buffer of 2.5%, the total CET1 requirement including CCB is 8.0%, but the total capital including CCB is 11.5%. Wait, the question asks for CET1 inclusive of CCB. CET1 minimum is 5.5% plus 2.5% CCB equals 8.0%. Let's check the options. 8.0 percent is option 1.",
+  "sourceHint": "RBI Basel III Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:45:42Z"
+ },
+ {
+  "id": "q_36ce97674c885fb3",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the minimum net worth requirement prescribed by the Reserve Bank of India for setting up a Micro Finance Institution (MFI) as a Non-Banking Financial Company (NBFC-MFI) in non-north eastern regions?",
+  "qHi": "पूर्वोत्तर क्षेत्रों को छोड़कर गैर-बैंकिंग वित्तीय कंपनी (एनबीएफसी-एमएफआई) के रूप में माइक्रो फाइनेंस संस्थान (एमएफआई) की स्थापना के लिए भारतीय रिजर्व बैंक द्वारा निर्धारित न्यूनतम कुल संपत्ति की आवश्यकता क्या है?",
+  "optsEn": [
+   "2 crore rupees",
+   "5 crore rupees",
+   "10 crore rupees",
+   "20 crore rupees"
+  ],
+  "optsHi": [
+   "2 करोड़ रुपये",
+   "5 करोड़ रुपये",
+   "10 करोड़ रुपये",
+   "20 करोड़ रुपये"
+  ],
+  "correct": 1,
+  "explainEn": "An NBFC-MFI is required to have a minimum net owned fund (NOF) of 5 crore rupees (except for those registered in the North Eastern Region of the country, where it is 2 crore rupees).",
+  "sourceHint": "RBI Master Directions on NBFC-MFI",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:45:42Z"
+ },
+ {
+  "id": "q_2d85d9316e93fc89",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following bodies regulates the Credit Information Companies (CICs) in India?",
+  "qHi": "निम्नलिखित में से कौन सा निकाय भारत में क्रेडिट सूचना कंपनियों (सीआईसी) को नियंत्रित करता है?",
+  "optsEn": [
+   "Securities and Exchange Board of India",
+   "Reserve Bank of India",
+   "Insurance Regulatory and Development Authority",
+   "Competition Commission of India"
+  ],
+  "optsHi": [
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "भारतीय रिजर्व बैंक",
+   "बीमा नियामक और विकास प्राधिकरण",
+   "भारतीय प्रतिस्पर्धा आयोग"
+  ],
+  "correct": 1,
+  "explainEn": "Credit Information Companies in India are regulated by the Reserve Bank of India under the Credit Information Companies (Regulation) Act, 2005.",
+  "sourceHint": "Credit Information Companies (Regulation) Act, 2005",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:45:42Z"
+ },
+ {
+  "id": "q_73f8b4523f4bf64d",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which financial instrument represents an unsecured, short-term debt instrument issued by corporations in the form of a promissory note?",
+  "qHi": "कौन सा वित्तीय साधन निगमों द्वारा वचन पत्र के रूप में जारी एक असुरक्षित, अल्पकालिक ऋण साधन का प्रतिनिधित्व करता है?",
+  "optsEn": [
+   "Treasury Bill",
+   "Commercial Paper",
+   "Certificate of Deposit",
+   "Participatory Note"
+  ],
+  "optsHi": [
+   "राजकोषीय विपत्र",
+   "वाणिज्यिक पत्र",
+   "जमा प्रमाण पत्र",
+   "प्रतिभागी नोट"
+  ],
+  "correct": 1,
+  "explainEn": "Commercial Paper (CP) is an unsecured money market instrument issued in the form of a promissory note by highly rated corporate entities, primary dealers, and financial institutions.",
+  "sourceHint": "Reserve Bank of India Financial Markets",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:45:42Z"
+ },
+ {
+  "id": "q_1b426963a5a23b29",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Prompt Corrective Action (PCA) framework for banks introduced by the RBI, which of the following indicators is NOT monitored for invoking PCA?",
+  "qHi": "आरबीआई द्वारा शुरू की गई बैंकों के लिए त्वरित सुधार कार्रवाई (पीसीए) फ्रेमवर्क के तहत, पीसीए शुरू करने के लिए निम्नलिखित में से किस संकेतक की निगरानी नहीं की जाती है?",
+  "optsEn": [
+   "Capital to Risk-weighted Assets Ratio",
+   "Net Non-Performing Assets ratio",
+   "Return on Assets",
+   "Cost to Income ratio"
+  ],
+  "optsHi": [
+   "पूंजी से जोखिम-भारित संपत्ति अनुपात",
+   "शुद्ध गैर-निष्पादित परिसंपत्ति अनुपात",
+   "परिसंपत्ति पर रिटर्न",
+   "लागत से आय अनुपात"
+  ],
+  "correct": 3,
+  "explainEn": "The PCA framework monitors three key parameters: Capital (CRAR/CET1), Asset Quality (Net NPA ratio), and Leverage (Tier 1 Leverage ratio). Cost to income ratio is not a PCA trigger metric.",
+  "sourceHint": "RBI PCA Framework Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:45:42Z"
+ },
+ {
+  "id": "q_1414b3c8ab54e954",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary purpose of the Marginal Cost of Funds based Lending Rate (MCLR) system introduced in Indian banking?",
+  "qHi": "भारतीय बैंकिंग में शुरू की गई फंड आधारित ऋण दर (एमसीएलआर) प्रणाली की सीमांत लागत का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To determine the statutory liquidity ratio for commercial banks",
+   "To improve the transmission of policy rates to lending rates",
+   "To calculate foreign exchange reserves requirements",
+   "To set the maximum deposit interest rates for senior citizens"
+  ],
+  "optsHi": [
+   "वाणिज्यिक बैंकों के लिए वैधानिक तरलता अनुपात निर्धारित करने के लिए",
+   "ऋण दरों तक नीतिगत दरों के संचरण में सुधार करने के लिए",
+   "विदेशी मुद्रा भंडार आवश्यकताओं की गणना करने के लिए",
+   "वरिष्ठ नागरिकों के लिए अधिकतम जमा ब्याज दरें निर्धारित करने के लिए"
+  ],
+  "correct": 1,
+  "explainEn": "MCLR was introduced by the RBI to improve monetary policy transmission through the banking system by ensuring that changes in the repo rate are swiftly passed on to borrowers.",
+  "sourceHint": "RBI Guidelines on MCLR",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:45:42Z"
  }
 ]

@@ -23574,5 +23574,341 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-24T20:53:37Z"
+ },
+ {
+  "id": "q_1abbd84b9e94fb8b",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization in India is responsible for the calculation of national income?",
+  "qHi": "भारत में राष्ट्रीय आय की गणना के लिए कौन सा संगठन उत्तरदायी है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "NITI Aayog",
+   "National Statistical Office",
+   "Finance Commission"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "नीति आयोग",
+   "राष्ट्रीय सांख्यिकी कार्यालय",
+   "वित्त आयोग"
+  ],
+  "correct": 2,
+  "explainEn": "The National Statistical Office (NSO), under the Ministry of Statistics and Programme Implementation, is responsible for compiling national income aggregates in India.",
+  "sourceHint": "Ministry of Statistics and Programme Implementation, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:43:00Z"
+ },
+ {
+  "id": "q_e75e41469ee0c8bf",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "The famous rock-cut architecture of the Kailasa Temple is located at which of the following places?",
+  "qHi": "कैलाश मंदिर की प्रसिद्ध शैलकृत वास्तुकला निम्नलिखित में से किस स्थान पर स्थित है?",
+  "optsEn": [
+   "Ellora",
+   "Ajanta",
+   "Elephanta",
+   "Mahabalipuram"
+  ],
+  "optsHi": [
+   "एलोरा",
+   "अजंता",
+   "एलीफेंटा",
+   "महाबलीपुरम"
+  ],
+  "correct": 0,
+  "explainEn": "The Kailasa Temple (Cave 16) at Ellora, Maharashtra, is a megalith carved out of a single rock cliff, built by the Rashtrakuta king Krishna I.",
+  "sourceHint": "NCERT Class 11 Fine Arts - An Introduction to Indian Art",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:43:00Z"
+ },
+ {
+  "id": "q_afe466932d62e659",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "The Ryotwari System of land revenue settlement during British rule was primarily introduced in which region?",
+  "qHi": "ब्रिटिश शासन के दौरान भू-राजस्व बंदोबस्त की रैयतवाड़ी व्यवस्था मुख्य रूप से किस क्षेत्र में शुरू की गई थी?",
+  "optsEn": [
+   "Bengal Presidency",
+   "Madras and Bombay Presidencies",
+   "North-Western Provinces",
+   "Punjab region"
+  ],
+  "optsHi": [
+   "बंगाल प्रेसीडेंसी",
+   "मद्रास और बंबई प्रेसीडेंसी",
+   "उत्तर-पश्चिमी प्रांत",
+   "पंजाब क्षेत्र"
+  ],
+  "correct": 1,
+  "explainEn": "The Ryotwari system, introduced by Thomas Munro and Captain Alexander Read, was primarily implemented in the Madras and Bombay Presidencies, where the revenue was settled directly with the cultivator (ryot).",
+  "sourceHint": "NCERT Class 8 History - Our Pasts III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:43:00Z"
+ },
+ {
+  "id": "q_f87bd68c7258b940",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of Indian economy, 'M3' measure of money supply includes which of the following?",
+  "qHi": "भारतीय अर्थव्यवस्था के संदर्भ में, मुद्रा आपूर्ति के 'M3' माप में निम्नलिखित में से क्या शामिल है?",
+  "optsEn": [
+   "Currency with the public only",
+   "Narrow money plus total deposits with post office savings banks",
+   "Narrow money plus net time deposits of banks",
+   "Total demand deposits with commercial banks only"
+  ],
+  "optsHi": [
+   "केवल जनता के पास मुद्रा",
+   "संकीर्ण मुद्रा और डाकघर बचत बैंकों की कुल जमा राशि",
+   "संकीर्ण मुद्रा और बैंकों की शुद्ध सावधि जमा राशि",
+   "केवल वाणिज्यिक बैंकों के पास कुल मांग जमा राशि"
+  ],
+  "correct": 2,
+  "explainEn": "M3 is known as broad money and is calculated as M1 (Currency with public + Demand deposits + Other deposits with RBI) plus net time deposits of commercial banks.",
+  "sourceHint": "NCERT Class 12 Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:43:34Z"
+ },
+ {
+  "id": "q_25babc167d1ed4a6",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The 'Palk Bay' is situated between which of the following?",
+  "qHi": "'पाक खाड़ी' निम्नलिखित में से किसके बीच स्थित है?",
+  "optsEn": [
+   "Gulf of Kutch and Gulf of Khambhat",
+   "India and Sri Lanka",
+   "Andaman and Nicobar Islands",
+   "Lakshadweep and Maldive Islands"
+  ],
+  "optsHi": [
+   "कच्छ की खाड़ी और खंभात की खाड़ी",
+   "भारत और श्रीलंका",
+   "अंडमान और निकोबार द्वीप समूह",
+   "लक्षद्वीप और मालदीव द्वीप समूह"
+  ],
+  "correct": 1,
+  "explainEn": "Palk Bay is a semi-enclosed shallow water body between the southeast coast of India and the northern coast of Sri Lanka.",
+  "sourceHint": "Certificate Physical and Human Geography by Goh Cheng Leong",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:43:34Z"
+ },
+ {
+  "id": "q_a984ba9517fd5681",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The 'Bhitarkanika Mangroves' are primarily formed by the deltaic region of which of the following rivers?",
+  "qHi": "'भीतरकणिका मैंग्रोव' मुख्य रूप से निम्नलिखित में से किस नदी के डेल्टा क्षेत्र द्वारा बनते हैं?",
+  "optsEn": [
+   "Kaveri and Vaigai",
+   "Mahanadi and Brahmani",
+   "Krishna and Godavari",
+   "Ganga and Brahmaputra"
+  ],
+  "optsHi": [
+   "कावेरी और वैगई",
+   "महानदी और ब्राह्मणी",
+   "कृष्णा और गोदावरी",
+   "गंगा और ब्रह्मपुत्र"
+  ],
+  "correct": 1,
+  "explainEn": "Bhitarkanika Mangroves are located in Odisha and are created by the river deltas of Mahanadi, Brahmani, and Baitarani.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change (MoEFCC)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:43:34Z"
+ },
+ {
+  "id": "q_476024767c64f7b3",
+  "group": "upsc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the Mauryan administration, the official designated as 'Sannidhata' was primarily responsible for which of the following?",
+  "qHi": "मौर्य प्रशासन के दौरान, 'सन्निधाता' के रूप में नामित अधिकारी मुख्य रूप से निम्नलिखित में से किसके लिए जिम्मेदार था?",
+  "optsEn": [
+   "Head of the judicial department",
+   "Chief custodian of the state treasury and storehouse",
+   "Commander-in-chief of the military forces",
+   "Chief surveyor of royal agricultural lands"
+  ],
+  "optsHi": [
+   "न्यायिक विभाग के प्रमुख",
+   "राजकीय राजकोष और भण्डार गृह के मुख्य संरक्षक",
+   "सैन्य बलों के मुख्य कमांडर",
+   "शाही कृषि भूमि के मुख्य सर्वेक्षक"
+  ],
+  "correct": 1,
+  "explainEn": "In the Mauryan administrative system detailed in Arthashastra, Sannidhata was the chief treasurer or custodian of the state treasury and storehouse, while Samaharta was the collector-general of revenue.",
+  "sourceHint": "NCERT Class 12 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:44:30Z"
+ },
+ {
+  "id": "q_9522c7782f7874f5",
+  "group": "upsc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian macroeconomic indicators, which of the following components constitutes the largest share of India's Service Sector Exports?",
+  "qHi": "भारतीय व्यापक आर्थिक संकेतकों के संदर्भ में, निम्नलिखित में से कौन सा घटक भारत के सेवा क्षेत्र के निर्यात का सबसे बड़ा हिस्सा बनता है?",
+  "optsEn": [
+   "Travel and tourism services",
+   "Financial and insurance services",
+   "Telecommunications, computer and information services",
+   "Transport and logistics services"
+  ],
+  "optsHi": [
+   "यात्रा और पर्यटन सेवाएं",
+   "वित्तीय और बीमा सेवाएं",
+   "दूरसंचार, कंप्यूटर और सूचना सेवाएं",
+   "परिवहन और लॉजिस्टिक्स सेवाएं"
+  ],
+  "correct": 2,
+  "explainEn": "Telecommunications, computer, and information (IT/ITeS) services consistently constitute the dominant share of India's total services exports, according to RBI and Ministry of Commerce data.",
+  "sourceHint": "Reserve Bank of India Bulletin / Economic Survey",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:44:30Z"
+ },
+ {
+  "id": "q_245ba833b399e19b",
+  "group": "upsc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following climatic phenomena is primarily responsible for the winter rainfall occurring over the northwestern plains of India?",
+  "qHi": "भारत के उत्तर-पश्चिमी मैदानों पर होने वाली शीतकालीन वर्षा के लिए मुख्य रूप से निम्नलिखित में से कौन सी जलवायु घटना जिम्मेदार है?",
+  "optsEn": [
+   "South-West Monsoon retreat",
+   "North-East Monsoon winds",
+   "Western Disturbances",
+   "Tropical cyclones originating in the Arabian Sea"
+  ],
+  "optsHi": [
+   "दक्षिण-पश्चिम मानसून की वापसी",
+   "उत्तर-पूर्व मानसून हवाएं",
+   "पश्चिमी विक्षोभ",
+   "अरब सागर में उत्पन्न होने वाले उष्णकटिबंधीय चक्रवात"
+  ],
+  "correct": 2,
+  "explainEn": "Western Disturbances are extratropical storms originating in the Mediterranean region that bring sudden winter rain and snow to the northwestern parts of the Indian subcontinent.",
+  "sourceHint": "NCERT Class 11 Geography - India: Physical Environment",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:44:30Z"
+ },
+ {
+  "id": "q_71ae8c7a7cb56b78",
+  "group": "upsc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "With reference to medieval Indian history, the term 'Araghatta' refers to which of the following?",
+  "qHi": "मध्यकालीन भारतीय इतिहास के संदर्भ में, 'अर्घट्ट' शब्द किसे संदर्भित करता है?",
+  "optsEn": [
+   "A military formation used by the Delhi Sultanate cavalry",
+   "A water-wheel device used for irrigation",
+   "A land revenue assessment unit under the Mughals",
+   "A specific type of gold coin minted during the Vijayanagara Empire"
+  ],
+  "optsHi": [
+   "दिल्ली सल्तनत घुड़सवार सेना द्वारा प्रयुक्त एक सैन्य संरचना",
+   "सिंचाई के लिए प्रयुक्त एक रहट (वाटर-व्हील) यंत्र",
+   "मुगलों के अधीन भू-राजस्व आकलन इकाई",
+   "विजयनगर साम्राज्य के दौरान ढाला गया एक विशिष्ट प्रकार का सोने का सिक्का"
+  ],
+  "correct": 1,
+  "explainEn": "Araghatta refers to the Persian wheel or water-wheel mechanism introduced or widely adopted in medieval India for lifting water for irrigation.",
+  "sourceHint": "NCERT Class 7 History / Satish Chandra Medieval India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:44:30Z"
+ },
+ {
+  "id": "q_5b5dfaa71271155c",
+  "group": "upsc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian flora, the phenomenon of 'gregarious flowering' is most commonly associated with which of the following plant species?",
+  "qHi": "भारतीय वनस्पति के संदर्भ में, 'सामूहिक पुष्पन' (ग्रेगोरियस फ्लावरिंग) की घटना आमतौर पर निम्नलिखित में से किस पादप प्रजाति से जुड़ी है?",
+  "optsEn": [
+   "Santalum album",
+   "Bamboos",
+   "Tectona grandis",
+   "Shorea robusta"
+  ],
+  "optsHi": [
+   "चंदन (सैंटालम एल्बम)",
+   "बांस (बैंबू)",
+   "सागौन (टेक्टोना ग्रैंडिस)",
+   "साल (शोरिया रोबस्टा)"
+  ],
+  "correct": 1,
+  "explainEn": "Bamboos exhibit gregarious flowering, where all individuals of a particular species flower simultaneously over large areas at long intervals, followed by the death of the plants.",
+  "sourceHint": "Botanical Survey of India / NCERT Biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:44:30Z"
+ },
+ {
+  "id": "q_f8424934ded39c40",
+  "group": "upsc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following archaeological sites provides the earliest evidence of settled agriculture and domestication of animals in the Indian subcontinent?",
+  "qHi": "निम्नलिखित में से कौन सा पुरातात्विक स्थल भारतीय उपमहाद्वीप में बसे हुए कृषि और पशुओं के पालतू बनाने के शुरुआती प्रमाण प्रदान करता है?",
+  "optsEn": [
+   "Lothal",
+   "Mehrgarh",
+   "Burzahom",
+   "Kalibangan"
+  ],
+  "optsHi": [
+   "लोथल",
+   "मेहरगढ़",
+   "बुर्जहोम",
+   "कालीबंगा"
+  ],
+  "correct": 1,
+  "explainEn": "Mehrgarh, located in the Kachi plain of Balochistan, is a neolithic site that provides the earliest known evidence of farming and herding in South Asia, dating back to around 7000 BCE.",
+  "sourceHint": "NCERT Class 12 History - Themes in Indian History Part I",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:44:30Z"
  }
 ]

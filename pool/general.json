@@ -15062,5 +15062,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-24T20:51:53Z"
+ },
+ {
+  "id": "q_ffba4ad7db94434a",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "On which date is Independence Day celebrated annually in India?",
+  "qHi": "भारत में प्रतिवर्ष स्वतंत्रता दिवस किस तारीख को मनाया जाता है?",
+  "optsEn": [
+   "26 January",
+   "15 August",
+   "2 October",
+   "14 November"
+  ],
+  "optsHi": [
+   "26 जनवरी",
+   "15 अगस्त",
+   "2 अक्टूबर",
+   "14 नवंबर"
+  ],
+  "correct": 1,
+  "explainEn": "India celebrates its Independence Day every year on 15 August, marking its freedom from British rule in 1947.",
+  "sourceHint": "NCERT Civics Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:43:11Z"
+ },
+ {
+  "id": "q_303ce1e96195b04e",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these is a Kharif crop in India?",
+  "qHi": "इनमें से कौन सी भारत में एक खरीफ फसल है?",
+  "optsEn": [
+   "Wheat",
+   "Barley",
+   "Rice",
+   "Gram"
+  ],
+  "optsHi": [
+   "गेहूं",
+   "जौ",
+   "चावल",
+   "चना"
+  ],
+  "correct": 2,
+  "explainEn": "Rice is a major Kharif crop, sown with the beginning of the rainy season in India.",
+  "sourceHint": "NCERT Geography Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:43:11Z"
+ },
+ {
+  "id": "q_aee91cc20fe6af57",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which mountain range is the Zojila Pass located?",
+  "qHi": "जो जिला दर्रा किस पर्वत श्रृंखला में स्थित है?",
+  "optsEn": [
+   "Pir Panjal Range",
+   "Zaskar Range",
+   "Ladakh Range",
+   "Eastern Karakoram Range"
+  ],
+  "optsHi": [
+   "पीर पंजाल श्रृंखला",
+   "जांस्कर श्रृंखला",
+   "लद्दाख श्रृंखला",
+   "पूर्वी काराकोरम श्रृंखला"
+  ],
+  "correct": 1,
+  "explainEn": "Zojila Pass connects Srinagar and Leh and cuts through the Zaskar mountain range.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:45:47Z"
+ },
+ {
+  "id": "q_41524d167ee834df",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form of India traditionally originates from the district of Palakkad in Kerala?",
+  "qHi": "भारत का कौन सा शास्त्रीय नृत्य पारंपरिक रूप से केरल के पलक्कड़ जिले से उत्पन्न हुआ है?",
+  "optsEn": [
+   "Kathakali",
+   "Mohiniyattam",
+   "Ottamthullal",
+   "Koodiyattam"
+  ],
+  "optsHi": [
+   "कथकली",
+   "मोहिनीअट्टम",
+   "ओट्टमथुलल",
+   "कूटियाट्टम"
+  ],
+  "correct": 2,
+  "explainEn": "Ottamthullal is a classical art form and dance of Kerala created by Kunchan Nambiar in the Ambalappuzha region, closely associated with Palakkad traditions.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:45:47Z"
+ },
+ {
+  "id": "q_80c0d425ad9041eb",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Indian Constitution, which article empowers the Supreme Court to issue writs for the enforcement of Fundamental Rights?",
+  "qHi": "भारतीय संविधान के किस अनुच्छेद के तहत सर्वोच्च न्यायालय को मौलिक अधिकारों के प्रवर्तन के लिए रिट जारी करने की शक्ति प्राप्त है?",
+  "optsEn": [
+   "Article 32",
+   "Article 136",
+   "Article 226",
+   "Article 142"
+  ],
+  "optsHi": [
+   "अनुच्छेद 32",
+   "अनुच्छेद 136",
+   "अनुच्छेद 226",
+   "अनुच्छेद 142"
+  ],
+  "correct": 0,
+  "explainEn": "Article 32 of the Constitution provides the right to constitutional remedies, allowing the Supreme Court to issue writs.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:45:47Z"
+ },
+ {
+  "id": "q_79fa0e55d60b07aa",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which element, discovered in 1898 by Marie and Pierre Curie, was named after the European continent?",
+  "qHi": "मैरी और पियरे क्यूरी द्वारा 1898 में खोजे गए किस तत्व का नाम यूरोपीय महाद्वीप के नाम पर रखा गया था?",
+  "optsEn": [
+   "Gallium",
+   "Europium",
+   "Germanium",
+   "Polonium"
+  ],
+  "optsHi": [
+   "गैलियम",
+   "यूरोपium",
+   "जर्मेनियम",
+   "पोलोनियम"
+  ],
+  "correct": 1,
+  "explainEn": "Europium is a chemical element with symbol Eu and atomic number 63, named after the continent of Europe.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:45:47Z"
+ },
+ {
+  "id": "q_bed8e531f1e9ce59",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In Carnatic music, how many fundamental Melakarta (parent) ragas are there in the standard classification system?",
+  "qHi": "कर्नाटक संगीत में, मानक वर्गीकरण प्रणाली के तहत कुल कितने मूल मेलकर्ता (जनक) राग हैं?",
+  "optsEn": [
+   "32",
+   "64",
+   "72",
+   "108"
+  ],
+  "optsHi": [
+   "32",
+   "64",
+   "72",
+   "108"
+  ],
+  "correct": 2,
+  "explainEn": "The system of 72 Melakarta ragas was formulated by Venkatamakhin in his Sanskrit treatise Chaturdandi Prakasika.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:45:47Z"
+ },
+ {
+  "id": "q_d2e37eef7ad53b49",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian biosphere reserve was the first to be included in the UNESCO World Network of Biosphere Reserves?",
+  "qHi": "कौन सा भारतीय बायोस्फीयर रिजर्व यूनेस्को के बायोस्फीयर रिजर्व के विश्व नेटवर्क में शामिल होने वाला पहला रिजर्व था?",
+  "optsEn": [
+   "Sundarbans Biosphere Reserve",
+   "Nilgiri Biosphere Reserve",
+   "Nanda Devi Biosphere Reserve",
+   "Gulf of Mannar Biosphere Reserve"
+  ],
+  "optsHi": [
+   "सुंदरबन बायोस्फीयर रिजर्व",
+   "नीलगिरी बायोस्फीयर रिजर्व",
+   "नंदा देवी बायोस्फीयर रिजर्व",
+   "मन्नार की खाड़ी बायोस्फीयर रिजर्व"
+  ],
+  "correct": 1,
+  "explainEn": "Nilgiri Biosphere Reserve was designated as the first biosphere reserve from India in the UNESCO MAB program in 2000.",
+  "sourceHint": "UNESCO Man and the Biosphere Programme",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T04:45:47Z"
  }
 ]
