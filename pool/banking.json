@@ -25422,5 +25422,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-25T11:34:18Z"
+ },
+ {
+  "id": "q_9b85b8b7c753442c",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'C' stand for in the term 'CASA' account frequently used in banking?",
+  "qHi": "बैंकिंग में अक्सर उपयोग होने वाले शब्द 'CASA' खाते में 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Current",
+   "Credit",
+   "Capital",
+   "Collateral"
+  ],
+  "optsHi": [
+   "करेंट",
+   "क्रेडिट",
+   "कैपिटल",
+   "कोलैटरल"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account Savings Account, referring to bank accounts that combine checking and savings features.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) study material",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T16:22:22Z"
+ },
+ {
+  "id": "q_7191622d0327fcfe",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which financial institution was established in July 1982 specifically for the promotion of agriculture and rural development in India?",
+  "qHi": "भारत में कृषि और ग्रामीण विकास को बढ़ावा देने के लिए जुलाई 1982 में विशेष रूप से किस वित्तीय संस्था की स्थापना की गई थी?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "IFCI"
+  ],
+  "optsHi": [
+   "सिडबी",
+   "नाबार्ड",
+   "एक्जिम बैंक",
+   "IFCI"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) was established on July 12, 1982, based on the recommendations of the B. Sivaraman Committee.",
+  "sourceHint": "NABARD official history and RBI archives",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T16:22:22Z"
+ },
+ {
+  "id": "q_cbfee6d61370d93d",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary objective of the Priority Sector Lending (PSL) guidelines issued by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा जारी प्राथमिकता प्राप्त क्षेत्र को ऋण (PSL) दिशानिर्देशों का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "Funding foreign direct investments",
+   "Providing credit to underserved and vulnerable sectors of the economy",
+   "Managing government budget deficits",
+   "Regulating stock market trading volumes"
+  ],
+  "optsHi": [
+   "प्रत्यक्ष विदेशी निवेश को वित्तपोषित करना",
+   "अर्थव्यवस्था के वंचित और कमजोर क्षेत्रों को ऋण प्रदान करना",
+   "सरकारी बजट घाटे का प्रबंधन करना",
+   "शेयर बाजार के व्यापार की मात्रा को विनियमित करना"
+  ],
+  "correct": 1,
+  "explainEn": "Priority Sector Lending ensures that banks provide adequate institutional credit to sectors like agriculture, micro enterprises, education, and housing.",
+  "sourceHint": "RBI Master Directions on Priority Sector Lending",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T16:22:22Z"
+ },
+ {
+  "id": "q_77adb1b7b7a18c4c",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of international trade finance, what does the term 'UCP 600' strictly refer to?",
+  "qHi": "अंतर्राष्ट्रीय व्यापार वित्त के संदर्भ में, 'UCP 600' शब्द का संबंध किससे है?",
+  "optsEn": [
+   "Uniform Customs and Practice for Documentary Credits",
+   "Unified Currency Procedures and Policies",
+   "Union Customs Protocol for Commerce",
+   "Universal Credit Policies for Corporations"
+  ],
+  "optsHi": [
+   "डॉक्यूमेंट्री क्रेडिट के लिए यूनिफॉर्म कस्टम्स एंड प्रैक्टिस",
+   "एकीकृत मुद्रा प्रक्रियाएं और नीतियां",
+   "वाणिज्य के लिए संघ सीमा शुल्क प्रोटोकॉल",
+   "निगमों के लिए सार्वभौमिक ऋण नीतियां"
+  ],
+  "correct": 0,
+  "explainEn": "UCP 600 stands for Uniform Customs and Practice for Documentary Credits, published by the International Chamber of Commerce (ICC).",
+  "sourceHint": "International Chamber of Commerce rules",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T16:24:33Z"
+ },
+ {
+  "id": "q_e0bacf27dcb0e66c",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific committee recommended the establishment of the Export-Import Bank of India (EXIM Bank)?",
+  "qHi": "किस विशिष्ट समिति ने भारतीय निर्यात-आयात बैंक (EXIM Bank) की स्थापना की सिफारिश की थी?",
+  "optsEn": [
+   "Narasimham Committee",
+   "Rangarajan Committee",
+   "Shah Committee",
+   "Ghosh Committee"
+  ],
+  "optsHi": [
+   "नरसिम्हम समिति",
+   "रंगराजन समिति",
+   "शाह समिति",
+   "घोष समिति"
+  ],
+  "correct": 2,
+  "explainEn": "The proposal to establish EXIM Bank was recommended by a committee chaired by C.N. Shah, leading to its creation under the Export-Import Bank of India Act, 1981.",
+  "sourceHint": "EXIM Bank of India official history",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T16:24:33Z"
+ },
+ {
+  "id": "q_7fbb84d5079eb36c",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the maximum permissible tenor for Commercial Papers (CPs) issued in the Indian money market as per current RBI guidelines?",
+  "qHi": "वर्तमान आरबीआई दिशानिर्देशों के अनुसार भारतीय मुद्रा बाजार में जारी वाणिज्यिक पत्रों (CPs) के लिए अधिकतम स्वीकार्य अवधि क्या है?",
+  "optsEn": [
+   "90 days",
+   "182 days",
+   "364 days",
+   "3 years"
+  ],
+  "optsHi": [
+   "90 दिन",
+   "182 दिन",
+   "364 दिन",
+   "3 वर्ष"
+  ],
+  "correct": 2,
+  "explainEn": "Commercial Papers can be issued for a tenor from a minimum of 7 days up to a maximum of one year (364 days).",
+  "sourceHint": "RBI Master Directions on Money Market Instruments",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T16:24:33Z"
+ },
+ {
+  "id": "q_797976b072a7f410",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under Basel III norms, what does the Tier 1 Capital of a bank primarily consist of?",
+  "qHi": "बेसल III मानदंडों के तहत, किसी बैंक की टियर 1 पूंजी में मुख्य रूप से क्या शामिल होता है?",
+  "optsEn": [
+   "Common Equity Tier 1 and Additional Tier 1 instruments",
+   "Subordinated debt and general provisions",
+   "Revaluation reserves and undisclosed reserves",
+   "Short-term unsecured borrowings"
+  ],
+  "optsHi": [
+   "कॉमन इक्विटी टियर 1 और अतिरिक्त टियर 1 उपकरण",
+   "अधीनस्थ ऋण और सामान्य प्रावधान",
+   "पुनर्मूल्यांकन भंडार और गुप्त भंडार",
+   "अल्पकालिक असुरक्षित उधार"
+  ],
+  "correct": 0,
+  "explainEn": "Tier 1 capital under Basel III comprises Common Equity Tier 1 (CET1) and Additional Tier 1 (AT1) capital.",
+  "sourceHint": "Basel Committee on Banking Supervision (BCBS) guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T16:24:33Z"
  }
 ]

@@ -15566,5 +15566,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-25T11:34:24Z"
+ },
+ {
+  "id": "q_cdab5ad7123b5024",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the chemical symbol for pure water?",
+  "qHi": "शुद्ध जल का रासायनिक प्रतीक क्या है?",
+  "optsEn": [
+   "CO2",
+   "H2O",
+   "NaCl",
+   "O2"
+  ],
+  "optsHi": [
+   "सीओ2",
+   "एच2ओ",
+   "एनसीएल",
+   "ओ2"
+  ],
+  "correct": 1,
+  "explainEn": "A water molecule contains two hydrogen atoms bonded to one oxygen atom.",
+  "sourceHint": "Britannica Chemistry",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T16:22:26Z"
+ },
+ {
+  "id": "q_e9eabdcba7265677",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the standard unit of frequency in the International System of Units?",
+  "qHi": "अंतर्राष्ट्रीय इकाई प्रणाली में आवृत्ति की मानक इकाई क्या है?",
+  "optsEn": [
+   "Joule",
+   "Watt",
+   "Hertz",
+   "Pascal"
+  ],
+  "optsHi": [
+   "जूल",
+   "वाट",
+   "हर्ट्ज",
+   "पास्कल"
+  ],
+  "correct": 2,
+  "explainEn": "The hertz (symbol Hz) is the derived unit of frequency in the International System of Units.",
+  "sourceHint": "NCERT Physics textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T16:23:47Z"
+ },
+ {
+  "id": "q_0ff611ceb416db24",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian mathematician is known for his monumental contributions to number theory, infinite series, and continued fractions, discovered largely without formal training?",
+  "qHi": "किस भारतीय गणितज्ञ को संख्या सिद्धांत, अनंत श्रृंखला और निरंतर भिन्नों में उनके योगदान के लिए जाना जाता है, जिन्हें उन्होंने बिना किसी औपचारिक प्रशिक्षण के खोजा था?",
+  "optsEn": [
+   "C. R. Rao",
+   "P. C. Mahalanobis",
+   "Srinivasa Ramanujan",
+   "Satyendra Nath Bose"
+  ],
+  "optsHi": [
+   "सी. आर. राव",
+   "पी. सी. महालनोबिस",
+   "श्रीनिवास रामानुजन",
+   "सत्येंद्र नाथ बोस"
+  ],
+  "correct": 2,
+  "explainEn": "Srinivasa Ramanujan was a self-taught mathematical genius who made extraordinary contributions to mathematical analysis and number theory.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T16:24:39Z"
+ },
+ {
+  "id": "q_a3ee5d9cf9549511",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary chemical compound found in the mineral corundum that gives rubies their characteristic red color?",
+  "qHi": "खनिज कोरंडम में पाया जाने वाला वह प्रमुख रासायनिक यौगिक कौन सा है जो माणिक (रूबी) को उसका विशिष्ट लाल रंग प्रदान करता है?",
+  "optsEn": [
+   "Chromium",
+   "Titanium",
+   "Iron",
+   "Copper"
+  ],
+  "optsHi": [
+   "क्रोमियम",
+   "टाइटेनियम",
+   "लोहा",
+   "तांबा"
+  ],
+  "correct": 0,
+  "explainEn": "Trace amounts of the element chromium substituting for aluminum in the corundum crystal lattice give rubies their red color.",
+  "sourceHint": "Geological Survey of India / NCERT Chemistry",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T16:24:39Z"
+ },
+ {
+  "id": "q_07234d72bf939293",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form originated in the Vaishpite monasteries of Assam in the 15th century?",
+  "qHi": "15वीं शताब्दी में असम के वैष्णव मठों में कौन सी शास्त्रीय नृत्य शैली उत्पन्न हुई थी?",
+  "optsEn": [
+   "Kathakali",
+   "Sattriya",
+   "Manipuri",
+   "Kuchipudi"
+  ],
+  "optsHi": [
+   "कथकली",
+   "सत्रिया",
+   "मणिपुरी",
+   "कुचिपुड़ी"
+  ],
+  "correct": 1,
+  "explainEn": "Sattriya is a classical dance-drama performance art with origins in the Sattra monasteries of Assam, introduced by Srimanta Sankaradeva.",
+  "sourceHint": "Sangeet Natak Akademi",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T16:24:39Z"
+ },
+ {
+  "id": "q_b3cbd3a931c16d19",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under Article 76 of the Constitution of India, who is empowered to appoint the Attorney General of India?",
+  "qHi": "भारत के संविधान के अनुच्छेद 76 के तहत, भारत के महान्यायवादी (Attorney General) को नियुक्त करने का अधिकार किसे प्राप्त है?",
+  "optsEn": [
+   "Prime Minister",
+   "Chief Justice of India",
+   "President of India",
+   "Law Minister"
+  ],
+  "optsHi": [
+   "प्रधान मंत्री",
+   "भारत के मुख्य न्यायाधीश",
+   "भारत के राष्ट्रपति",
+   "कानून मंत्री"
+  ],
+  "correct": 2,
+  "explainEn": "The President of India appoints a person who is qualified to be appointed a Judge of the Supreme Court to be the Attorney General for India.",
+  "sourceHint": "Constitution of India, Article 76",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T16:24:39Z"
+ },
+ {
+  "id": "q_a6ef845f24498780",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian physicist formulated the statistics for bosons, particles that obey Bose-Einstein statistics?",
+  "qHi": "किस भारतीय भौतिकবিদ ने बोसॉन के लिए सांख्यिकी प्रतिपादित की थी, जो कण बोस-आइंस्टीन सांख्यिकी का पालन करते हैं?",
+  "optsEn": [
+   "Homi J. Bhabha",
+   "C. V. Raman",
+   "Satyendra Nath Bose",
+   "Vikram Sarabhai"
+  ],
+  "optsHi": [
+   "होमी जे. भाभा",
+   "सी. वी. रमन",
+   "सत्येंद्र नाथ बोस",
+   "विक्रम साराभाई"
+  ],
+  "correct": 2,
+  "explainEn": "Satyendra Nath Bose formulated quantum statistics on the statistical mechanics of photons, which Albert Einstein applied to atoms, leading to the concept of bosons.",
+  "sourceHint": "Indian National Science Academy",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T16:24:39Z"
+ },
+ {
+  "id": "q_a60b6637490de5c4",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which mountain range is the Zoji La pass situated, connecting Srinagar to Leh?",
+  "qHi": "श्रीनगर को लेह से जोड़ने वाला जोजिला दर्रा किस पर्वत श्रृंखला में स्थित है?",
+  "optsEn": [
+   "Zanskar Range",
+   "Pir Panjal Range",
+   "Great Himalayas",
+   "Ladakh Range"
+  ],
+  "optsHi": [
+   "जांस्कर श्रेणी",
+   "पीर पंजाल श्रेणी",
+   "वृहत हिमालय",
+   "लद्दाख श्रेणी"
+  ],
+  "correct": 0,
+  "explainEn": "Zoji La is a high mountain pass in Ladakh, India, located on the Srinagar-Leh National Highway in the Zanskar range.",
+  "sourceHint": "Survey of India / Geological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T16:24:39Z"
  }
 ]

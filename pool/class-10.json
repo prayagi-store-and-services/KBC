@@ -21110,5 +21110,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-25T11:33:57Z"
+ },
+ {
+  "id": "q_73a2fa9d241ccff1",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which part of the human digestive system is water mostly absorbed?",
+  "qHi": "मानव पाचन तंत्र के किस भाग में पानी का अधिकांश अवशोषण होता है?",
+  "optsEn": [
+   "Stomach",
+   "Small intestine",
+   "Large intestine",
+   "Oesophagus"
+  ],
+  "optsHi": [
+   "अमाशय",
+   "छोटी आंत",
+   "बड़ी आंत",
+   "ग्रसनी"
+  ],
+  "correct": 2,
+  "explainEn": "The large intestine absorbs water and remaining mineral salts from undigested food material.",
+  "sourceHint": "NCERT Class 10 Science Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T16:22:39Z"
+ },
+ {
+  "id": "q_822b965ba0402bb9",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the S.I. unit of electric current?",
+  "qHi": "विद्युत धारा का एस.आई. मात्रक क्या है?",
+  "optsEn": [
+   "Volt",
+   "Ohm",
+   "Ampere",
+   "Watt"
+  ],
+  "optsHi": [
+   "वोल्ट",
+   "ओम",
+   "एम्पियर",
+   "वाट"
+  ],
+  "correct": 2,
+  "explainEn": "The SI unit of electric current is the ampere (A), named after André-Marie Ampère.",
+  "sourceHint": "NCERT Class 10 Science Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T16:22:39Z"
+ },
+ {
+  "id": "q_317b6e6e9d7d078e",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which part of the human digestive system is digested food absorbed into the blood?",
+  "qHi": "मानव पाचन तंत्र के किस भाग में पच हुआ भोजन रक्त में अवशोषित होता है?",
+  "optsEn": [
+   "Stomach",
+   "Large intestine",
+   "Small intestine",
+   "Oesophagus"
+  ],
+  "optsHi": [
+   "अमाशय",
+   "बड़ी आंत",
+   "छोटी आंत",
+   "ग्रसिका"
+  ],
+  "correct": 2,
+  "explainEn": "The inner surface of the small intestine has finger-like projections called villi, which absorb digested food into the blood stream.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T16:24:00Z"
+ },
+ {
+  "id": "q_e020abc7e5dd5f75",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which international body maintains the list of World Heritage Sites designated for their universal value?",
+  "qHi": "कौन सा अंतर्राष्ट्रीय निकाय सार्वभौमिक मूल्य के लिए नामित विश्व धरोहर स्थलों की सूची का रखरखाव करता है?",
+  "optsEn": [
+   "WHO",
+   "UNESCO",
+   "UNICEF",
+   "WTO"
+  ],
+  "optsHi": [
+   "डब्ल्यूएचओ",
+   "यूनेस्को",
+   "यूनिसेफ",
+   "डब्ल्यूटीओ"
+  ],
+  "correct": 1,
+  "explainEn": "UNESCO manages the World Heritage Programme, which catalogs and conserves sites of outstanding cultural or natural importance.",
+  "sourceHint": "NCERT Class 10 Social Science, Contemporary India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T16:24:00Z"
+ },
+ {
+  "id": "q_7286dc844651109d",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which physiographic division of India is the Bhangar and Khadar found?",
+  "qHi": "भारत के किस भौतिक विभाग में भांगर और खादर पाए जाते हैं?",
+  "optsEn": [
+   "The Northern Plains",
+   "The Thar Desert",
+   "The Deccan Plateau",
+   "The Coastal Plains"
+  ],
+  "optsHi": [
+   "उत्तरी मैदान",
+   "थार मरुस्थल",
+   "दक्कन का पठार",
+   "तटीय मैदान"
+  ],
+  "correct": 0,
+  "explainEn": "Bhangar (older alluvium) and Khadar (newer alluvium) are the two main types of soil formations found in the Northern Plains of India.",
+  "sourceHint": "NCERT Class 9 and 10 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T16:24:55Z"
+ },
+ {
+  "id": "q_e55e6fc8305b3b4b",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which hormone is primarily responsible for the cell division in plants and is often present in higher concentrations in areas of rapid growth like fruits and seeds?",
+  "qHi": "कौन सा हार्मोन मुख्य रूप से पौधों में कोशिका विभाजन के लिए जिम्मेदार है और अक्सर फलों और बीजों जैसे तेजी से बढ़ने वाले क्षेत्रों में उच्च सांद्रता में पाया जाता है?",
+  "optsEn": [
+   "Cytokinin",
+   "Auxin",
+   "Abscisic acid",
+   "Ethylene"
+  ],
+  "optsHi": [
+   "साइटोकिनिन",
+   "ऑक्सीन",
+   "एब्सिसिक एसिड",
+   "एथिलीन"
+  ],
+  "correct": 0,
+  "explainEn": "Cytokinins are plant hormones that promote cell division (cytokinesis) and are found in high concentrations in growing tissues such as fruits and seeds.",
+  "sourceHint": "NCERT Class 10 Science Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T16:24:55Z"
+ },
+ {
+  "id": "q_bb70abc47cb3087d",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of chemical reaction takes place when an iron nail is dipped in a copper sulphate solution?",
+  "qHi": "जब लोहे की कील को कॉपर सल्फेट के घोल में डुबोया जाता है, तो किस प्रकार की रासायनिक प्रतिक्रिया होती है?",
+  "optsEn": [
+   "Displacement reaction",
+   "Combination reaction",
+   "Double displacement reaction",
+   "Decomposition reaction"
+  ],
+  "optsHi": [
+   "विस्थापन प्रतिक्रिया",
+   "संयोजन प्रतिक्रिया",
+   "द्वि-विस्थापन प्रतिक्रिया",
+   "अपघटन प्रतिक्रिया"
+  ],
+  "correct": 0,
+  "explainEn": "Iron is more reactive than copper, so it displaces copper from the copper sulphate solution, forming iron sulphate and depositing copper on the nail, which is a displacement reaction.",
+  "sourceHint": "NCERT Class 10 Science Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T16:24:55Z"
+ },
+ {
+  "id": "q_a6b3e98783f522db",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which sector is generally considered the primary sector of the Indian economy in terms of raw material generation?",
+  "qHi": "कच्चे माल के उत्पादन के संदर्भ में भारतीय अर्थव्यवस्था का प्राथमिक क्षेत्र आमतौर पर किसे माना जाता है?",
+  "optsEn": [
+   "Agriculture and allied activities",
+   "Manufacturing and construction",
+   "Information technology and services",
+   "Banking and transport"
+  ],
+  "optsHi": [
+   "कृषि और संबद्ध गतिविधियाँ",
+   "विनिर्माण और निर्माण",
+   "सूचना प्रौद्योगिकी और सेवाएँ",
+   "बैंकिंग और परिवहन"
+  ],
+  "correct": 0,
+  "explainEn": "The primary sector includes agriculture, forestry, fishing, and mining, which directly use natural resources and provide raw materials for other sectors.",
+  "sourceHint": "NCERT Class 10 Economics Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T16:24:55Z"
+ },
+ {
+  "id": "q_b543316a5d1c1b43",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What optical phenomenon is primarily responsible for the twinkling of stars observed from the Earth?",
+  "qHi": "पृथ्वी से देखे जाने वाले तारों के टिमटिमाने के लिए मुख्य रूप से कौन सी प्रकाशिक घटना जिम्मेदार है?",
+  "optsEn": [
+   "Atmospheric refraction",
+   "Total internal reflection",
+   "Dispersion of light",
+   "Scattering of light"
+  ],
+  "optsHi": [
+   "वायुमंडलीय अपवर्तन",
+   "पूर्ण आंतरिक परावर्तन",
+   "प्रकाश का विक्षेपण",
+   "प्रकाश का प्रकीर्णन"
+  ],
+  "correct": 0,
+  "explainEn": "Starlight undergoes atmospheric refraction through varying optical densities and temperatures of Earth's atmosphere, causing the apparent position and brightness of stars to fluctuate, resulting in twinkling.",
+  "sourceHint": "NCERT Class 10 Science Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T16:24:55Z"
+ },
+ {
+  "id": "q_662f320722f2740c",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which civilization site is known for having a unique water management system consisting of a series of reservoirs and storm water drains?",
+  "qHi": "किस सभ्यता स्थल को जलाशयों और वर्षा जल नालियों की एक श्रृंखला से युक्त एक अद्वितीय जल प्रबंधन प्रणाली के लिए जाना जाता है?",
+  "optsEn": [
+   "Dholavira",
+   "Harappa",
+   "Kalibangan",
+   "Lothal"
+  ],
+  "optsHi": [
+   "धोलावीरा",
+   "हड़प्पा",
+   "कालीबंगा",
+   "लोथल"
+  ],
+  "correct": 0,
+  "explainEn": "Dholavira is renowned for its advanced Harappan water management system, featuring massive stone-cut reservoirs and elaborate channels to collect rain water.",
+  "sourceHint": "NCERT Class 6 History and archaeological studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T16:24:55Z"
+ },
+ {
+  "id": "q_f15cef52363e79ba",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which part of the human nephron does the selective reabsorption of glucose, amino acids, and major amounts of water primarily occur?",
+  "qHi": "मानव नेफ्रॉन के किस भाग में ग्लूकोज, अमीनो एसिड और पानी की अधिक मात्रा का चयनात्मक पुनravsorption (पुनःअवशोषण) मुख्य रूप से होता है?",
+  "optsEn": [
+   "Proximal Convoluted Tubule",
+   "Bowman's capsule",
+   "Distal Convoluted Tubule",
+   "Collecting duct"
+  ],
+  "optsHi": [
+   "समीपस्थ संवलित नलिका",
+   "बोमैन संपुट",
+   "दूरस्थ संवलित नलिका",
+   "संग्राहक नलिका"
+  ],
+  "correct": 0,
+  "explainEn": "The proximal convoluted tubule (PCT) of the nephron is specialized for the reabsorption of useful substances such as glucose, amino acids, and water from the filtrate back into the blood.",
+  "sourceHint": "NCERT Class 10 Science Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T16:24:55Z"
  }
 ]

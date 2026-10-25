@@ -21446,5 +21446,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-25T11:34:28Z"
+ },
+ {
+  "id": "q_5ee8a054dfae656d",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which direction does the needle of a magnetic compass usually point towards?",
+  "qHi": "चुंबकीय कम्पास की सुई आमतौर पर किस दिशा की ओर इशारा करती है?",
+  "optsEn": [
+   "East",
+   "West",
+   "North",
+   "South-East"
+  ],
+  "optsHi": [
+   "पूर्व",
+   "पश्चिम",
+   "उत्तर",
+   "दक्षिण-पूर्व"
+  ],
+  "correct": 2,
+  "explainEn": "A magnetic compass needle aligns with the Earth's magnetic field, pointing towards the North.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T16:22:31Z"
+ },
+ {
+  "id": "q_d9ef271f95092d95",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these animals is known as a desert animal and often called the ship of the desert?",
+  "qHi": "इनमें से किस जानवर को रेगिस्तानी जानवर के रूप में जाना जाता है और अक्सर रेगिस्तान का जहाज कहा जाता है?",
+  "optsEn": [
+   "Elephant",
+   "Camel",
+   "Tiger",
+   "Monkey"
+  ],
+  "optsHi": [
+   "हाथी",
+   "ऊंट",
+   "बाघ",
+   "बंदर"
+  ],
+  "correct": 1,
+  "explainEn": "Camels are well adapted to live in sandy deserts and are commonly known as the ship of the desert.",
+  "sourceHint": "NCERT Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T16:22:31Z"
+ },
+ {
+  "id": "q_82dc7558f4374604",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which planet in our solar system has the most prominent and easily visible system of rings made of ice and dust?",
+  "qHi": "हमारे सौर मंडल में किस ग्रह पर बर्फ और धूल से बने छल्लों की सबसे प्रमुख और आसानी से दिखने वाली प्रणाली है?",
+  "optsEn": [
+   "Mars",
+   "Saturn",
+   "Venus",
+   "Mercury"
+  ],
+  "optsHi": [
+   "मंगल",
+   "शनि",
+   "शुक्र",
+   "बुध"
+  ],
+  "correct": 1,
+  "explainEn": "Saturn is famous for its vast and bright ring system composed mostly of ice particles and rocky debris.",
+  "sourceHint": "NCERT Class 6 Science Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T16:24:43Z"
+ },
+ {
+  "id": "q_904e5806babec6ea",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional Indian grain is often referred to as a millet and is known for growing well in dry regions with less water?",
+  "qHi": "पारंपरिक भारतीय अनाज जिसे अक्सर बाजरा कहा जाता है और जो कम पानी वाले शुष्क क्षेत्रों में अच्छी तरह उगने के लिए जाना जाता है?",
+  "optsEn": [
+   "Wheat",
+   "Rice",
+   "Jowar",
+   "Barley"
+  ],
+  "optsHi": [
+   "गेहूं",
+   "चावल",
+   "ज्वार",
+   "जौ"
+  ],
+  "correct": 2,
+  "explainEn": "Millets like Jowar and Bajra are coarse grains that require less water and can grow in dry zones.",
+  "sourceHint": "NCERT Class 5 EVS Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T16:24:43Z"
+ },
+ {
+  "id": "q_27dce39c1bd18080",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the human digestive system, which organ is primarily responsible for absorbing most of the nutrients from digested food?",
+  "qHi": "मानव पाचन तंत्र में, पचे हुए भोजन से अधिकांश पोषक तत्वों को अवशोषित करने के लिए मुख्य रूप से कौन सा अंग जिम्मेदार है?",
+  "optsEn": [
+   "Stomach",
+   "Small intestine",
+   "Large intestine",
+   "Food pipe"
+  ],
+  "optsHi": [
+   "पेट",
+   "छोटी आंत",
+   "बड़ी आंत",
+   "ग्रासनली"
+  ],
+  "correct": 1,
+  "explainEn": "The small intestine is the longest part of the digestive tract where maximum nutrient absorption takes place.",
+  "sourceHint": "NCERT Class 7 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T16:24:43Z"
+ },
+ {
+  "id": "q_da0a01a01d8e8342",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which fundamental force pulls objects toward the center of the Earth?",
+  "qHi": "कौन सा मौलिक बल वस्तुओं को पृथ्वी के केंद्र की ओर खींचता है?",
+  "optsEn": [
+   "Magnetic force",
+   "Friction",
+   "Gravity",
+   "Muscular force"
+  ],
+  "optsHi": [
+   "चुंबकीय बल",
+   "घर्षण",
+   "गुरुत्वाकर्षण",
+   "पेशीय बल"
+  ],
+  "correct": 2,
+  "explainEn": "Gravity is the force of attraction between Earth and other objects, pulling them downward.",
+  "sourceHint": "NCERT Class 5 EVS Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T16:24:43Z"
+ },
+ {
+  "id": "q_9b26260f9a96640e",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which water body lies to the western coast of the Indian peninsula?",
+  "qHi": "भारतीय प्रायद्वीप के पश्चिमी तट पर कौन सा जल निकाय स्थित है?",
+  "optsEn": [
+   "Bay of Bengal",
+   "Arabian Sea",
+   "Indian Ocean",
+   "Red Sea"
+  ],
+  "optsHi": [
+   "बंगाल की खाड़ी",
+   "अरब सागर",
+   "हिंद महासागर",
+   "लाल सागर"
+  ],
+  "correct": 1,
+  "explainEn": "The Arabian Sea borders the western coast of India, while the Bay of Bengal is to the east.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T16:24:43Z"
  }
 ]

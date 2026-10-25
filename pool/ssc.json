@@ -15986,5 +15986,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-25T11:34:12Z"
+ },
+ {
+  "id": "q_412474a9ec075f8f",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the chemical formula for water?",
+  "qHi": "पानी का रासायनिक सूत्र क्या है?",
+  "optsEn": [
+   "CO2",
+   "H2O",
+   "NaCl",
+   "O2"
+  ],
+  "optsHi": [
+   "CO2",
+   "H2O",
+   "NaCl",
+   "O2"
+  ],
+  "correct": 1,
+  "explainEn": "A water molecule is composed of two hydrogen atoms bonded to one oxygen atom, hence H2O.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T16:23:24Z"
  }
 ]
