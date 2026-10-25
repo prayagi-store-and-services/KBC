@@ -25618,5 +25618,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-25T16:24:33Z"
+ },
+ {
+  "id": "q_36d96653cb16f52c",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization in India provides refinance support exclusively for agriculture and rural development?",
+  "qHi": "भारत में कौन सा संगठन विशेष रूप से कृषि और ग्रामीण विकास के लिए पुनर्वित्त सहायता प्रदान करता है?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "NHB"
+  ],
+  "optsHi": [
+   "सिडबी",
+   "नाबार्ड",
+   "एक्सिम बैंक",
+   "एनएचबी"
+  ],
+  "correct": 1,
+  "explainEn": "National Bank for Agriculture and Rural Development (NABARD) is an apex regulatory body for overall regulation of regional rural banks and apex cooperative banks in India.",
+  "sourceHint": "NABARD Act, 1981",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:52:28Z"
+ },
+ {
+  "id": "q_0fa3a1b3e12240f9",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of 'NEFT', a payment system used in Indian banking?",
+  "qHi": "भारतीय बैंकिंग में प्रयुक्त भुगतान प्रणाली 'NEFT' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "National Equity Finance Transfer",
+   "New Economic Fund Trust",
+   "Net Electronic Financial Transaction"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "नेशनल इक्विटी फाइनेंस ट्रांसफर",
+   "न्यू इकोनॉमिक फंड ट्रस्ट",
+   "नेट इलेक्ट्रॉनिक फाइनेंशियल ट्रांजैक्शन"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, an online system for transferring funds from one bank account to another in India.",
+  "sourceHint": "RBI payment systems guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:52:28Z"
+ },
+ {
+  "id": "q_2a054c22975490c5",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque becomes stale after how many months from the date of its issuance in India?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, भारत में जारी होने की तारीख से कितने महीनों के बाद चेक अमान्य (stale) हो जाता है?",
+  "optsEn": [
+   "1 month",
+   "3 months",
+   "6 months",
+   "12 months"
+  ],
+  "optsHi": [
+   "1 महीना",
+   "3 महीने",
+   "6 महीने",
+   "12 महीने"
+  ],
+  "correct": 1,
+  "explainEn": "As per RBI guidelines, the validity period of a cheque, demand draft, pay order, or banker's cheque was reduced from 6 months to 3 months from the date of issuance.",
+  "sourceHint": "RBI Circular regarding validity of cheques and other instruments",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:54:03Z"
+ },
+ {
+  "id": "q_2e4fc12f2d3fda11",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which body calculates and publishes the Index of Industrial Production (IIP) in India?",
+  "qHi": "भारत में औद्योगिक उत्पादन सूचकांक (आईआईपी) की गणना और प्रकाशन कौन सा निकाय करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "National Statistical Office",
+   "NITI Aayog",
+   "Ministry of Finance"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "राष्ट्रीय सांख्यिकी कार्यालय",
+   "नीति आयोग",
+   "वित्त मंत्रालय"
+  ],
+  "correct": 1,
+  "explainEn": "The Index of Industrial Production (IIP) is compiled and published monthly by the National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation.",
+  "sourceHint": "Ministry of Statistics and Programme Implementation (MoSPI) portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:54:03Z"
+ },
+ {
+  "id": "q_38895a47052160dd",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the term 'Gilt-edged market' refer to?",
+  "qHi": "'गिल्ट-एज्ड बाजार' शब्द का क्या तात्पर्य है?",
+  "optsEn": [
+   "Market for gold and precious metals",
+   "Market for government securities",
+   "Market for corporate bonds with high credit rating",
+   "Interbank call money market"
+  ],
+  "optsHi": [
+   "सोना और कीमती धातुओं का बाजार",
+   "सरकारी प्रतिभूतियों का बाजार",
+   "उच्च क्रेडिट रेटिंग वाले कॉर्पोरेट बॉन्ड का बाजार",
+   "अंतरबैंक कॉल मनी बाजार"
+  ],
+  "correct": 1,
+  "explainEn": "A gilt-edged securities market is a market where safe instruments, such as government bonds and Treasury bills issued by the government, are traded.",
+  "sourceHint": "NCERT Economics textbook and standard banking terminology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:54:03Z"
+ },
+ {
+  "id": "q_7e0e82f3dcc604ba",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institution acts as the manager of Foreign Exchange Reserves in India?",
+  "qHi": "भारत में विदेशी मुद्रा भंडार के प्रबंधक के रूप में कौन सी संस्था कार्य करती है?",
+  "optsEn": [
+   "State Bank of India",
+   "Ministry of Commerce and Industry",
+   "Reserve Bank of India",
+   "Export-Import Bank of India"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "वाणिज्य and उद्योग मंत्रालय",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय निर्यात-आयात बैंक"
+  ],
+  "correct": 2,
+  "explainEn": "Under the Reserve Bank of India Act, 1934, the RBI is entrusted with the management of India's foreign exchange reserves.",
+  "sourceHint": "RBI Act, 1934 and Reserve Bank of India Annual Report",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:54:03Z"
  }
 ]

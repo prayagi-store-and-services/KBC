@@ -17162,5 +17162,481 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-25T16:24:49Z"
+ },
+ {
+  "id": "q_491801a65f1e417a",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which microorganism causes malaria?",
+  "qHi": "मलेरिया किस सूक्ष्मजीव के कारण होता है?",
+  "optsEn": [
+   "Bacterium",
+   "Virus",
+   "Protozoan",
+   "Fungus"
+  ],
+  "optsHi": [
+   "बैक्टीरिया",
+   "वायरस",
+   "प्रोटोजोआ",
+   "कवक"
+  ],
+  "correct": 2,
+  "explainEn": "Plasmodium, which is a protozoan, causes malaria and is transmitted by the female Anopheles mosquito.",
+  "sourceHint": "NCERT Class 8 Science, Microorganisms: Friend and Foe",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:52:07Z"
+ },
+ {
+  "id": "q_3807c991f30818de",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the force exerted per unit area called?",
+  "qHi": "प्रति इकाई क्षेत्रफल पर लगने वाले बल को क्या कहते हैं?",
+  "optsEn": [
+   "Pressure",
+   "Friction",
+   "Gravity",
+   "Inertia"
+  ],
+  "optsHi": [
+   "दाब",
+   "घर्षण",
+   "गुरुत्वाकर्षण",
+   "जड़त्व"
+  ],
+  "correct": 0,
+  "explainEn": "Pressure is defined as the force acting on a unit area of a surface.",
+  "sourceHint": "NCERT Class 8 Science, Force and Pressure",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:52:07Z"
+ },
+ {
+  "id": "q_629dc4cf79d45e50",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which crop is known as golden fibre?",
+  "qHi": "किस फसल को सुनहरा रेशा (गोल्डन फाइबर) कहा जाता है?",
+  "optsEn": [
+   "Cotton",
+   "Jute",
+   "Silk",
+   "Wool"
+  ],
+  "optsHi": [
+   "कपास",
+   "जूट",
+   "रेशम",
+   "ऊन"
+  ],
+  "correct": 1,
+  "explainEn": "Jute is referred to as the golden fibre because of its golden and shiny colour.",
+  "sourceHint": "NCERT Class 8 Geography, Agriculture",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:52:07Z"
+ },
+ {
+  "id": "q_201eb89769dcdd22",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the term used for the withdrawal of laws by the Parliament?",
+  "qHi": "संसद द्वारा कानूनों को वापस लेने के लिए किस शब्द का प्रयोग किया जाता है?",
+  "optsEn": [
+   "Repeal",
+   "Enact",
+   "Amend",
+   "Assent"
+  ],
+  "optsHi": [
+   "निरस्त करना",
+   "अधिनियमित करना",
+   "संशोधन करना",
+   "स्वीकृति"
+  ],
+  "correct": 0,
+  "explainEn": "To repeal means to cancel or officially withdraw a law.",
+  "sourceHint": "NCERT Class 8 Civics, Understanding Laws",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:52:07Z"
+ },
+ {
+  "id": "q_b47b4c5263df8ddd",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which planet in our solar system has the highest number of known moons?",
+  "qHi": "हमारे सौरमंडल में किस ग्रह के सबसे अधिक ज्ञात उपग्रह हैं?",
+  "optsEn": [
+   "Venus",
+   "Saturn",
+   "Mars",
+   "Earth"
+  ],
+  "optsHi": [
+   "शुक्र",
+   "शनि",
+   "मंगल",
+   "पृथ्वी"
+  ],
+  "correct": 1,
+  "explainEn": "Saturn has the highest number of confirmed moons orbiting it in our solar system.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:53:40Z"
+ },
+ {
+  "id": "q_bc3e4270178df396",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following metals can be easily cut with a knife?",
+  "qHi": "निम्नलिखित में से किस धातु को चाकू से आसानी से काटा जा सकता है?",
+  "optsEn": [
+   "Iron",
+   "Copper",
+   "Sodium",
+   "Aluminium"
+  ],
+  "optsHi": [
+   "लोहा",
+   "तांबा",
+   "सोडियम",
+   "एल्युमीनियम"
+  ],
+  "correct": 2,
+  "explainEn": "Sodium and potassium are soft metals that can be cut easily with a knife.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:53:40Z"
+ },
+ {
+  "id": "q_138d6fdad6cdb886",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The process of conversion of sugar into alcohol by yeast is known as what?",
+  "qHi": "यीस्ट द्वारा चीनी को अल्कोहल में बदलने की प्रक्रिया को क्या कहा जाता है?",
+  "optsEn": [
+   "Nitrogen fixation",
+   "Fermentation",
+   "Photosynthesis",
+   "Distillation"
+  ],
+  "optsHi": [
+   "नाइट्रोजन स्थिरीकरण",
+   "किण्वन",
+   "प्रकाश संश्लेषण",
+   "आसवन"
+  ],
+  "correct": 1,
+  "explainEn": "Louis Pasteur discovered fermentation, which is the conversion of sugar into alcohol by yeast.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:53:40Z"
+ },
+ {
+  "id": "q_f472079b00cdd00e",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What term is used for the practice of growing two or more crops simultaneously on the same piece of land?",
+  "qHi": "एक ही भूमि के टुकड़े पर एक साथ दो या दो से अधिक फसलें उगाने की प्रथा को क्या कहा जाता है?",
+  "optsEn": [
+   "Crop rotation",
+   "Fallowing",
+   "Multiple cropping",
+   "Mixed cropping"
+  ],
+  "optsHi": [
+   "फसल चक्र",
+   "पड़ती छोड़ना",
+   "बहुविध फसल",
+   "मिश्रित फसल"
+  ],
+  "correct": 3,
+  "explainEn": "Growing two or more crops simultaneously on the same land is known as mixed cropping.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:53:40Z"
+ },
+ {
+  "id": "q_f530ff6a0a9029f7",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which instrument is used to measure the magnitude of an earthquake?",
+  "qHi": "भूकंप की तीव्रता मापने के लिए किस उपकरण का उपयोग किया जाता है?",
+  "optsEn": [
+   "Barometer",
+   "Seismograph",
+   "Thermometer",
+   "Hygrometer"
+  ],
+  "optsHi": [
+   "बैरोमीटर",
+   "भूकंपलेखी",
+   "थर्मामीटर",
+   "हाइग्रोमीटर"
+  ],
+  "correct": 1,
+  "explainEn": "An earthquake's magnitude is measured on a scale on an instrument called a seismograph.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:53:40Z"
+ },
+ {
+  "id": "q_7f1887f626e6ecec",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific layer of the Earth's atmosphere experiences a decrease in temperature with increasing altitude, contrasting with the layers immediately above and below it?",
+  "qHi": "पृथ्वी के वायुमंडल की किस विशिष्ट परत में ऊँचाई बढ़ने के साथ तापमान में कमी आती है, जो इसके ठीक ऊपर और नीचे की परतों के विपरीत है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Thermosphere",
+   "Exosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल (Troposphere)",
+   "समताप मंडल (Stratosphere)",
+   "तापमंडल (Thermosphere)",
+   "बहिमंडल (Exosphere)"
+  ],
+  "correct": 0,
+  "explainEn": "In the troposphere, temperature decreases with increasing height at the normal lapse rate. In the stratosphere and thermosphere, temperature increases with altitude.",
+  "sourceHint": "NCERT Class 7/8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:54:17Z"
+ },
+ {
+  "id": "q_be0ddef021bd3355",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the colonial period in India, the Permanent Settlement of 1793 primarily fixed the revenue demand for which category of intermediaries?",
+  "qHi": "भारत में औपनिवेशिक काल के दौरान, 1793 के स्थायी बंदोबस्त (Permanent Settlement) ने मुख्य रूप से किस वर्ग के बिचौलियों के लिए राजस्व मांग को निश्चित किया था?",
+  "optsEn": [
+   "Zamindars",
+   "Ryots",
+   "Mahaldars",
+   "Subedars"
+  ],
+  "optsHi": [
+   "जमींदार (Zamindars)",
+   "रैयत (Ryots)",
+   "महालदार (Mahaldars)",
+   "सूबेदार (Subedars)"
+  ],
+  "correct": 0,
+  "explainEn": "The Permanent Settlement was introduced by Lord Cornwallis in 1793, fixing the land revenue demand permanently on the zamindars.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:54:17Z"
+ },
+ {
+  "id": "q_c82d445c928c7038",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian parliamentary democracy, what is the minimum age requirement prescribed by the Constitution for a person to be chosen as a member of the Rajya Sabha?",
+  "qHi": "भारतीय संसदीय लोकतंत्र के संदर्भ में, किसी व्यक्ति को राज्य सभा का सदस्य चुने जाने के लिए संविधान द्वारा निर्धारित न्यूनतम आयु क्या है?",
+  "optsEn": [
+   "25 years",
+   "30 years",
+   "35 years",
+   "21 years"
+  ],
+  "optsHi": [
+   "25 वर्ष",
+   "30 वर्ष",
+   "35 वर्ष",
+   "21 वर्ष"
+  ],
+  "correct": 1,
+  "explainEn": "Article 84(b) of the Constitution of India specifies that the minimum age for membership of the Rajya Sabha is 30 years, and for the Lok Sabha, it is 25 years.",
+  "sourceHint": "Constitution of India and NCERT Class 8 Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:54:17Z"
+ },
+ {
+  "id": "q_88523e62d5e762bf",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which microorganisms are primarily responsible for converting atmospheric nitrogen into usable nitrogenous compounds in the root nodules of leguminous plants?",
+  "qHi": "फलीदार (लेग्यूमिनस) पौधों की जड़ों की गांठों में वायुमंडलीय नाइट्रोजन को उपयोगी नाइट्रोजन यौगिकों में बदलने के लिए मुख्य रूप से कौन से सूक्ष्मजीव उत्तरदायी हैं?",
+  "optsEn": [
+   "Rhizobium bacteria",
+   "Lactobacillus bacteria",
+   "Penicillium fungi",
+   "Paramecium protozoa"
+  ],
+  "optsHi": [
+   "राइजोबियम बैक्टीरिया (Rhizobium bacteria)",
+   "लैक्टोबैसिलस बैक्टीरिया (Lactobacillus bacteria)",
+   "पेनिसिलियम कवक (Penicillium fungi)",
+   "पैरामीशियम प्रोटोजोआ (Paramecium protozoa)"
+  ],
+  "correct": 0,
+  "explainEn": "Rhizobium bacteria live in the root nodules of leguminous plants and fix atmospheric nitrogen into nitrates.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:54:17Z"
+ },
+ {
+  "id": "q_30ce2ccec0618655",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In a direct current (DC) simple circuit, the direction of conventional electric current flows from which terminal to which terminal?",
+  "qHi": "एक दिष्ट धारा (DC) साधारण परिपथ में, पारंपरिक विद्युत धारा की दिशा किस टर्मिनल से किस टर्मिनल की ओर बहती है?",
+  "optsEn": [
+   "Positive to negative",
+   "Negative to positive",
+   "High resistance to low resistance",
+   "Earth to neutral"
+  ],
+  "optsHi": [
+   "धनात्मक से ऋणात्मक (Positive to negative)",
+   "ऋणात्मक से धनात्मक (Negative to positive)",
+   "उच्च प्रतिरोध से निम्न प्रतिरोध",
+   "अर्थ से न्यूट्रल"
+  ],
+  "correct": 0,
+  "explainEn": "By convention, electric current is defined as moving from the positive terminal to the negative terminal, opposite to the flow of electrons.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:54:17Z"
+ },
+ {
+  "id": "q_c7d2e32a03e6b715",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific mineral resource is predominantly mined in the Kolar and Hutti goldfields of India?",
+  "qHi": "भारत के कोलार और हट्टी स्वर्ण क्षेत्रों में मुख्य रूप से किस विशिष्ट खनिज संसाधन का खनन किया जाता है?",
+  "optsEn": [
+   "Gold",
+   "Iron ore",
+   "Manganese",
+   "Bauxite"
+  ],
+  "optsHi": [
+   "सोना (Gold)",
+   "लोह अयस्क (Iron ore)",
+   "मैंगनीज (Manganese)",
+   "बॉक्साइट (Bauxite)"
+  ],
+  "correct": 0,
+  "explainEn": "Kolar Gold Fields and Hutti are famous locations in Karnataka where gold deposits are mined.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:54:17Z"
+ },
+ {
+  "id": "q_354b703b68d47e62",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which type of synthetic fibre is known for possessing properties similar to wool and was historically called Orlon or acrylic during its widespread commercial production?",
+  "qHi": "किस प्रकार का सिंथेटिक रेशा ऊन के समान गुण रखने के लिए जाना जाता है और जिसे इसके व्यापक व्यावसायिक उत्पादन के दौरान ऐतिहासिक रूप से ऑर्डन या एक्रिलिक कहा गया था?",
+  "optsEn": [
+   "Acrylic",
+   "Nylon",
+   "Polyester",
+   "Rayon"
+  ],
+  "optsHi": [
+   "एक्रिलिक (Acrylic)",
+   "नायलॉन (Nylon)",
+   "पॉलिएस्टर (Polyester)",
+   "रेयान (Rayon)"
+  ],
+  "correct": 0,
+  "explainEn": "Acrylic is a synthetic fibre that resembles wool and is durable and relatively inexpensive.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:54:17Z"
+ },
+ {
+  "id": "q_6d294e40e200d665",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What term is used in Indian constitutional law to describe the power of the judiciary to review laws passed by the legislature and declare them unconstitutional if they violate fundamental rights?",
+  "qHi": "भारतीय संवैधानिक कानून में न्यायपालिका की उस शक्ति को क्या कहा जाता है जिसके तहत वह विधायिका द्वारा पारित कानूनों की समीक्षा कर सकती है और मौलिक अधिकारों का उल्लंघन करने पर उन्हें असंवैधानिक घोषित कर सकती है?",
+  "optsEn": [
+   "Judicial review",
+   "Judicial activism",
+   "Public interest litigation",
+   "Original jurisdiction"
+  ],
+  "optsHi": [
+   "न्यायिक समीक्षा (Judicial review)",
+   "न्यायिक सक्रियता (Judicial activism)",
+   "जनहित याचिका (Public interest litigation)",
+   "मूल क्षेत्राधिकार (Original jurisdiction)"
+  ],
+  "correct": 0,
+  "explainEn": "Judicial review refers to the power of the Supreme Court and High Courts to examine the validity of laws and executive orders.",
+  "sourceHint": "NCERT Class 8 Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:54:17Z"
  }
 ]

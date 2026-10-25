@@ -16014,5 +16014,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-25T16:23:24Z"
+ },
+ {
+  "id": "q_aa7a29d57443ab79",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "The Kaziranga National Park is famous for the conservation of which animal?",
+  "qHi": "काजीरंगा राष्ट्रीय उद्यान किस जानवर के संरक्षण के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "One-horned rhinoceros",
+   "Asian elephant",
+   "Bengal tiger",
+   "Asiatic lion"
+  ],
+  "optsHi": [
+   "एक सींग वाला गैंडा",
+   "एशियाई हाथी",
+   "बंगाल टाइगर",
+   "एशियाई शेर"
+  ],
+  "correct": 0,
+  "explainEn": "Kaziranga National Park in Assam hosts two-thirds of the world's great one-horned rhinoceroses.",
+  "sourceHint": "NCERT Class 7 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:52:23Z"
+ },
+ {
+  "id": "q_54dfa0735d15a82d",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary chemical component of natural pearls?",
+  "qHi": "प्राकृतिक मोतियों का मुख्य रासायनिक घटक क्या है?",
+  "optsEn": [
+   "Calcium carbonate",
+   "Calcium phosphate",
+   "Silicon dioxide",
+   "Sodium chloride"
+  ],
+  "optsHi": [
+   "कैल्शियम कार्बोनेट",
+   "कैल्शियम फास्फेट",
+   "सिलिकॉन डाइऑक्साइड",
+   "सोडियम क्लोराइड"
+  ],
+  "correct": 0,
+  "explainEn": "Pearls are composed primarily of calcium carbonate in the form of aragonite or calcite, deposited in concentric layers.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:53:58Z"
  }
 ]

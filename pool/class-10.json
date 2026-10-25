@@ -21418,5 +21418,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-25T16:24:55Z"
+ },
+ {
+  "id": "q_23e144855fd2cdbd",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which type of power plant is water heated using heat released during nuclear fission?",
+  "qHi": "परमाणु विखंडन के दौरान निकलने वाली ऊष्मा का उपयोग करके पानी को किस प्रकार के पावर प्लांट में गर्म किया जाता है?",
+  "optsEn": [
+   "Thermal power plant",
+   "Nuclear power plant",
+   "Hydroelectric power plant",
+   "Geothermal power plant"
+  ],
+  "optsHi": [
+   "तापीय विद्युत संयंत्र",
+   "परमाणु विद्युत संयंत्र",
+   "जलविद्युत संयंत्र",
+   "भू-ऊष्मीय ऊर्जा संयंत्र"
+  ],
+  "correct": 1,
+  "explainEn": "In a nuclear power plant, nuclear fission of elements like uranium is used to heat water and produce steam to run turbines.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:53:44Z"
+ },
+ {
+  "id": "q_0589c666687b6bcf",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India is responsible for publishing school textbooks according to the syllabus of the education boards?",
+  "qHi": "भारत में शिक्षा बोर्डों के पाठ्यक्रम के अनुसार स्कूली पाठ्यपुस्तकें प्रकाशित करने के लिए कौन सा संगठन उत्तरदायी है?",
+  "optsEn": [
+   "UPSC",
+   "NCERT",
+   "ISRO",
+   "AICTE"
+  ],
+  "optsHi": [
+   "यूपीएससी",
+   "एनसीईआरटी",
+   "इसरो",
+   "एआईसीटीई"
+  ],
+  "correct": 1,
+  "explainEn": "NCERT (National Council of Educational Research and Training) designs and publishes school textbooks in India.",
+  "sourceHint": "NCERT official mandate",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:53:44Z"
+ },
+ {
+  "id": "q_2f84e81c4352d407",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which physiological process in plants results in the release of water vapor into the atmosphere?",
+  "qHi": "पौधों में कौन सी शारीरिक प्रक्रिया वायुमंडल में जलवाष्प के विमोचन का कारण बनती है?",
+  "optsEn": [
+   "Photosynthesis",
+   "Transpiration",
+   "Respiration",
+   "Absorption"
+  ],
+  "optsHi": [
+   "प्रकाश संश्लेषण",
+   "वाष्पोत्सर्जन",
+   "श्वसन",
+   "अवशोषण"
+  ],
+  "correct": 1,
+  "explainEn": "Transpiration is the process of water movement through a plant and its evaporation from aerial parts, such as leaves.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:53:44Z"
  }
 ]

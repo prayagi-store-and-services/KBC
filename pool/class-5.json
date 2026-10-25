@@ -21642,5 +21642,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-25T16:24:43Z"
+ },
+ {
+  "id": "q_23949f3dff1248d2",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Honeybees are attracted to which part of a flowering plant?",
+  "qHi": "मधुमक्खियाँ फूल वाले पौधे के किस भाग की ओर आकर्षित होती हैं?",
+  "optsEn": [
+   "Roots",
+   "Stem",
+   "Flowers",
+   "Bark"
+  ],
+  "optsHi": [
+   "जड़ें",
+   "तना",
+   "फूल",
+   "छाल"
+  ],
+  "correct": 2,
+  "explainEn": "Honeybees visit flowers to collect nectar and pollen.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:52:03Z"
+ },
+ {
+  "id": "q_6593ac10df088a0c",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which animal is known for building complex webs to catch its prey?",
+  "qHi": "किस जानवर को अपना शिकार पकड़ने के लिए जटिल जाले बनाने के लिए जाना जाता है?",
+  "optsEn": [
+   "Spider",
+   "Butterfly",
+   "Ant",
+   "Grasshopper"
+  ],
+  "optsHi": [
+   "मकड़ी",
+   "तितली",
+   "चींटी",
+   "टिड्डी"
+  ],
+  "correct": 0,
+  "explainEn": "Spiders spin silk to create webs that act as traps for catching insects.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:52:03Z"
+ },
+ {
+  "id": "q_f01e6abf17fd7576",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these seeds is known for dispersing mainly through the help of animals?",
+  "qHi": "इनमें से कौन सा बीज मुख्य रूप से जानवरों की मदद से फैलने के लिए जाना जाता है?",
+  "optsEn": [
+   "Maple",
+   "Xanthium",
+   "Madar",
+   "Grass"
+  ],
+  "optsHi": [
+   "मेपल",
+   "गैंथियम",
+   "मदार",
+   "घास"
+  ],
+  "correct": 1,
+  "explainEn": "Xanthium seeds have hooks that catch on the fur of animals and get carried away to different places.",
+  "sourceHint": "NCERT Class 5 EVS Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:53:35Z"
+ },
+ {
+  "id": "q_8c78f17b2568a42c",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of gas do green plants absorb from the atmosphere during photosynthesis?",
+  "qHi": "हरे पौधे प्रकाश संश्लेषण के दौरान वायुमंडल से किस प्रकार की गैस सोखते हैं?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Helium"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हीलीयम"
+  ],
+  "correct": 1,
+  "explainEn": "Plants take in carbon dioxide from the air and use sunlight to make their food during photosynthesis.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:53:35Z"
+ },
+ {
+  "id": "q_99fc7173e384f67a",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which planet in our solar system has the highest number of officially confirmed natural satellites or moons as of recent astronomical data?",
+  "qHi": "हाल के खगोलीय आंकड़ों के अनुसार हमारे सौरमंडल के किस ग्रह के पास आधिकारिक तौर पर सबसे अधिक संख्या में प्राकृतिक उपग्रह या चंद्रमा हैं?",
+  "optsEn": [
+   "Jupiter",
+   "Saturn",
+   "Uranus",
+   "Neptune"
+  ],
+  "optsHi": [
+   "बृहस्पति",
+   "शनि",
+   "अरुण",
+   "वरुण"
+  ],
+  "correct": 1,
+  "explainEn": "Saturn has the highest number of confirmed moons orbiting it in our solar system, surpassing Jupiter.",
+  "sourceHint": "NCERT Class 6 Geography / NASA",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:54:12Z"
+ },
+ {
+  "id": "q_6450705202a7b77b",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which vitamin deficiency causes the disease known as scurvy, which results in bleeding gums?",
+  "qHi": "किस विटामिन की कमी से स्कर्वी नामक रोग होता है, जिसके परिणामस्वरूप मसूड़ों से खून आता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B1",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी1",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 2,
+  "explainEn": "Scurvy is caused by a deficiency of Vitamin C, commonly found in citrus fruits.",
+  "sourceHint": "NCERT Class 6 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:54:12Z"
+ },
+ {
+  "id": "q_f36db37eb430c11a",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary line of latitude of 0 degrees called, which divides the Earth into the Northern and Southern Hemispheres?",
+  "qHi": "0 डिग्री अक्षांश की मुख्य रेखा को क्या कहा जाता है, जो पृथ्वी को उत्तरी और दक्षिणी गोलार्ध में विभाजित करती है?",
+  "optsEn": [
+   "Tropic of Cancer",
+   "Equator",
+   "Prime Meridian",
+   "Arctic Circle"
+  ],
+  "optsHi": [
+   "कर्क रेखा",
+   "भूमध्य रेखा",
+   "प्रमुख मध्याह्न रेखा",
+   "आर्कटिक वृत्त"
+  ],
+  "correct": 1,
+  "explainEn": "The Equator is the 0-degree latitude line that divides the Earth into the Northern and Southern Hemispheres.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:54:12Z"
+ },
+ {
+  "id": "q_44683de1b6d67513",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organ in the human body is primarily responsible for pumping blood to all other parts of the body?",
+  "qHi": "मानव शरीर में कौन सा अंग मुख्य रूप से शरीर के सभी अन्य भागों में रक्त पंप करने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Lungs",
+   "Brain",
+   "Heart",
+   "Liver"
+  ],
+  "optsHi": [
+   "फेफड़े",
+   "मस्तिष्क",
+   "हृदय",
+   "यकृत"
+  ],
+  "correct": 2,
+  "explainEn": "The heart is a muscular organ that pumps blood through the blood vessels of the circulatory system.",
+  "sourceHint": "NCERT Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:54:12Z"
+ },
+ {
+  "id": "q_1d2e77880e3ac008",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which fundamental force pulls objects toward the center of the Earth and keeps us firmly on the ground?",
+  "qHi": "कौन सा मौलिक बल वस्तुओं को पृथ्वी के केंद्र की ओर खींचता है और हमें जमीन पर मजबूती से रखता है?",
+  "optsEn": [
+   "Magnetic force",
+   "Friction force",
+   "Gravity",
+   "Muscular force"
+  ],
+  "optsHi": [
+   "चुंबकीय बल",
+   "घर्षण बल",
+   "गुरुत्वाकर्षण बल",
+   "पेशीय बल"
+  ],
+  "correct": 2,
+  "explainEn": "Gravity is the natural phenomenon by which all things with mass or energy are brought toward one another, including toward Earth.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:54:12Z"
  }
 ]

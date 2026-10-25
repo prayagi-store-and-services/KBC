@@ -15790,5 +15790,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-25T16:24:39Z"
+ },
+ {
+  "id": "q_81d4da72661316de",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the standard unit of currency in India?",
+  "qHi": "भारत में मुद्रा की मानक इकाई क्या है?",
+  "optsEn": [
+   "Taka",
+   "Rupee",
+   "Yen",
+   "Dinar"
+  ],
+  "optsHi": [
+   "टका",
+   "रुपया",
+   "येन",
+   "दीनार"
+  ],
+  "correct": 1,
+  "explainEn": "The Indian rupee is the official currency of the Republic of India.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:52:00Z"
+ },
+ {
+  "id": "q_17f4fe968c1319c6",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the chemical formula for heavy water, commonly used as a neutron moderator in nuclear reactors?",
+  "qHi": "भारी पानी, जो आमतौर पर परमाणु रिएक्टरों में न्यूट्रॉन मॉडरेटर के रूप में उपयोग किया जाता है, का रासायनिक सूत्र क्या है?",
+  "optsEn": [
+   "H2O",
+   "D2O",
+   "T2O",
+   "HW2O"
+  ],
+  "optsHi": [
+   "H2O",
+   "D2O",
+   "T2O",
+   "HW2O"
+  ],
+  "correct": 1,
+  "explainEn": "Heavy water is deuterium oxide, represented chemically as D2O, containing heavier isotopes of hydrogen.",
+  "sourceHint": "NCERT Class 12 Chemistry Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:54:07Z"
+ },
+ {
+  "id": "q_be1ca2b04595ed21",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form originates from the state of Kerala and is known for its elaborate makeup and vibrant costumes?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप केरल राज्य से उत्पन्न हुआ है और अपनी विस्तृत वेशभूषा और जीवंत मेकअप के लिए जाना जाता है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Odissi",
+   "Kuchipudi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "ओडिसी",
+   "कुचिपुड़ी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a major form of classical Indian dance native to the Malayalam-speaking southwestern region of Kerala.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:54:07Z"
+ },
+ {
+  "id": "q_3e7fc7a075d91584",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary gas responsible for the aurora borealis phenomenon in Earth's upper atmosphere?",
+  "qHi": "पृथ्वी के ऊपरी वायुमंडल में औरोरा बोरियालिस (उत्तरी रोशनी) घटना के लिए मुख्य रूप से कौन सी गैस जिम्मेदार है?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Methane",
+   "Oxygen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "मीथेन",
+   "ऑक्सीजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 2,
+  "explainEn": "Collisions of solar wind particles with oxygen and nitrogen molecules in the thermosphere create aurora lights, with oxygen producing green and red hues.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T20:54:07Z"
  }
 ]
