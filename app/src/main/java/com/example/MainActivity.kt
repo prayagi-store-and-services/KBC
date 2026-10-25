@@ -100,10 +100,9 @@ open class MainActivity : ComponentActivity() {
             topBar = {
                 // Standard Netra header: 56 dp, only app name, version and date/time. Everything else scrolls.
                 val ctx = androidx.compose.ui.platform.LocalContext.current
-                var clockNow by androidx.compose.runtime.remember { androidx.compose.runtime.mutableStateOf(java.util.Date()) }
-                androidx.compose.runtime.LaunchedEffect(Unit) { while (true) { clockNow = java.util.Date(); kotlinx.coroutines.delay(30_000) } }
+                val headerClock = com.example.power.adaptiveHeaderClock()
                 val ownVersion = androidx.compose.runtime.remember { try { ctx.packageManager.getPackageInfo(ctx.packageName, 0).versionName } catch (e: Exception) { null } ?: "Unavailable" }
-                NetraVersionHeader(ownVersion, clockNow)
+                NetraVersionHeader(ownVersion, headerClock.now, headerClock.paused)
             },
                 ) { innerPadding ->
                     TarkAppContent(
@@ -267,7 +266,7 @@ fun EnsureGameSessionWindowFlags(isGameActive: Boolean) {
 }
 
 @androidx.compose.runtime.Composable
-fun NetraVersionHeader(ownVersion: String, clockNow: java.util.Date) {
+fun NetraVersionHeader(ownVersion: String, clockNow: java.util.Date, clockPaused: Boolean = false) {
                 androidx.compose.foundation.layout.Row(
                     modifier = Modifier.fillMaxWidth().background(NavyBackground).statusBarsPadding().height(56.dp).padding(horizontal = 16.dp),
                     verticalAlignment = androidx.compose.ui.Alignment.CenterVertically,
@@ -277,6 +276,6 @@ fun NetraVersionHeader(ownVersion: String, clockNow: java.util.Date) {
                         Text(text = Brand.name, fontSize = 20.sp, fontWeight = androidx.compose.ui.text.font.FontWeight.Bold, maxLines = 1, color = androidx.compose.ui.graphics.Color.White)
                         Text(text = "v" + ownVersion + " | Netra Ecosystem", fontSize = 12.sp, maxLines = 1, color = androidx.compose.ui.graphics.Color(0xFFB0B8C8))
                     }
-                    Text(text = java.text.SimpleDateFormat("EEE d MMM, HH:mm", java.util.Locale.getDefault()).format(clockNow), fontSize = 12.sp, maxLines = 1, color = androidx.compose.ui.graphics.Color(0xFFB0B8C8))
+                    Text(text = if (clockPaused) "Clock paused (power saving)" else java.text.SimpleDateFormat("EEE d MMM, HH:mm", java.util.Locale.getDefault()).format(clockNow), fontSize = 12.sp, maxLines = 1, color = androidx.compose.ui.graphics.Color(0xFFB0B8C8))
                 }
 }
