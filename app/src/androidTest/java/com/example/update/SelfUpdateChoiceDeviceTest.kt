@@ -17,6 +17,10 @@ class SelfUpdateChoiceDeviceTest {
         val ins=InstrumentationRegistry.getInstrumentation();val c=ins.targetContext
         val dir=File(c.cacheDir,"updates")
         val before=dir.listFiles()?.filter { it.extension=="apk" }?.map { it.name to it.length() }?.sortedBy { it.first }.orEmpty()
+        // Match production launch bootstrap before choosing the current enabled entry.
+        ins.runOnMainSync { com.example.Brand.applyLauncherName(c) }
+        assertEquals(android.content.pm.PackageManager.COMPONENT_ENABLED_STATE_ENABLED,
+            c.packageManager.getComponentEnabledSetting(android.content.ComponentName(c,com.example.NetraMainActivity::class.java)))
         val intent=Intent(c,com.example.NetraMainActivity::class.java).putExtra(UpdateAlert.EXTRA_AUTO_UPDATE,true).addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
         ActivityScenario.launch<com.example.NetraMainActivity>(intent).use {
             var cancel:AccessibilityNodeInfo?=null
