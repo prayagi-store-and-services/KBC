@@ -21054,5 +21054,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-25T04:44:19Z"
+ },
+ {
+  "id": "q_9a8e7d32212eedee",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which tier of government in India is known as the local government in rural areas?",
+  "qHi": "भारत में सरकार के किस स्तर को ग्रामीण क्षेत्रों में स्थानीय सरकार के रूप में जाना जाता है?",
+  "optsEn": [
+   "Panchayati Raj",
+   "Municipal Corporation",
+   "State Legislature",
+   "Parliament"
+  ],
+  "optsHi": [
+   "पंचायती राज",
+   "नगर निगम",
+   "राज्य विधायिका",
+   "संसद"
+  ],
+  "correct": 0,
+  "explainEn": "Panchayati Raj is the system of local self-government of villages in rural India.",
+  "sourceHint": "NCERT Class 10 Civics Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:32:22Z"
+ },
+ {
+  "id": "q_bd06810ee7359153",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which phytohormone is primarily responsible for cell elongation and phototropism in plants?",
+  "qHi": "पौधों में कोशिका दीर्घीकरण और प्रकाशानुवर्तन के लिए मुख्य रूप से कौन सा पादप हार्मोन उत्तरदायी है?",
+  "optsEn": [
+   "Auxin",
+   "Cytokinin",
+   "Gibberellin",
+   "Abscisic acid"
+  ],
+  "optsHi": [
+   "ऑक्सिन",
+   "साइटोकाइनिन",
+   "जिबरेलिन",
+   "एब्सिसिक अम्ल"
+  ],
+  "correct": 0,
+  "explainEn": "Auxin is synthesized at the shoot tip and helps the cells grow longer, promoting phototropism.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:33:57Z"
  }
 ]

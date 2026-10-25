@@ -21166,5 +21166,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-25T04:44:11Z"
+ },
+ {
+  "id": "q_e135df0d0138a7ef",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organ system helps us to breathe air?",
+  "qHi": "कौन सा अंग तंत्र हमें हवा में सांस लेने में मदद करता है?",
+  "optsEn": [
+   "Digestive system",
+   "Respiratory system",
+   "Circulatory system",
+   "Skeletal system"
+  ],
+  "optsHi": [
+   "पाचन तंत्र",
+   "श्वसन तंत्र",
+   "परिसंचरण तंत्र",
+   "कंकाल तंत्र"
+  ],
+  "correct": 1,
+  "explainEn": "The respiratory system includes the nose, windpipe, and lungs, which help in breathing.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:32:14Z"
+ },
+ {
+  "id": "q_f1a4822d0dfc67a1",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the standard unit to measure the volume of liquids?",
+  "qHi": "तरल पदार्थों के आयतन को मापने की मानक इकाई क्या है?",
+  "optsEn": [
+   "Kilogram",
+   "Litre",
+   "Metre",
+   "Second"
+  ],
+  "optsHi": [
+   "किलोग्राम",
+   "लीटर",
+   "मीटर",
+   "सेकंड"
+  ],
+  "correct": 1,
+  "explainEn": "Liquids like milk and water are measured in litres.",
+  "sourceHint": "NCERT Class 5 Mathematics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:32:14Z"
+ },
+ {
+  "id": "q_9e5579f3007cdce9",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of map mainly shows physical features like mountains, plateaus, and plains?",
+  "qHi": "किस प्रकार का मानचित्र मुख्य रूप से पहाड़ों, पठार और मैदानों जैसी भौतिक विशेषताओं को दर्शाता है?",
+  "optsEn": [
+   "Political map",
+   "Physical map",
+   "Thematic map",
+   "Road map"
+  ],
+  "optsHi": [
+   "राजनीतिक मानचित्र",
+   "भौतिक मानचित्र",
+   "विषmatic मानचित्र",
+   "सड़क मानचित्र"
+  ],
+  "correct": 1,
+  "explainEn": "Physical maps show natural features of the Earth such as mountains, plateaus, plains, rivers, and oceans.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:33:48Z"
+ },
+ {
+  "id": "q_d7f19d4f121d9ae1",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of these seeds is known to disperse primarily through the mechanism of explosion when the pod dries up?",
+  "qHi": "इनमें से कौन सा बीज फली सूखने पर फटने की प्रक्रिया द्वारा मुख्य रूप से फैलता है?",
+  "optsEn": [
+   "Mango",
+   "Pea",
+   "Coconut",
+   "Maple"
+  ],
+  "optsHi": [
+   "आम",
+   "मटर",
+   "नारियल",
+   "मेपल"
+  ],
+  "correct": 1,
+  "explainEn": "Pea pods dry and burst suddenly, scattering their seeds away from the parent plant.",
+  "sourceHint": "NCERT Class 5 Environmental Studies, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:34:28Z"
+ },
+ {
+  "id": "q_9214c19f47d743aa",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of map representation is specifically used to show physical features like mountains, plateaus, and rivers?",
+  "qHi": "पहाड़ों, पठारों और नदियों जैसी भौतिक विशेषताओं को दिखाने के लिए विशेष रूप से किस प्रकार के मानचित्र का उपयोग किया जाता है?",
+  "optsEn": [
+   "Political map",
+   "Physical map",
+   "Thematic map",
+   "Road map"
+  ],
+  "optsHi": [
+   "राजनीतिक मानचित्र",
+   "भौतिक मानचित्र",
+   "विषयगत मानचित्र",
+   "सड़क मानचित्र"
+  ],
+  "correct": 1,
+  "explainEn": "Physical maps show natural features of the earth such as mountains, plateaus, plains, rivers, oceans, etc.",
+  "sourceHint": "NCERT Class 6 Social Science (Geography)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:34:28Z"
+ },
+ {
+  "id": "q_823df7a73b5f893e",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional water harvesting system was historically used in Rajasthan to collect rainwater in underground tanks?",
+  "qHi": "राजस्थान में भूमिगत टैंकों में वर्षा जल एकत्र करने के लिए ऐतिहासिक रूप से किस पारंपरिक जल संचयन प्रणाली का उपयोग किया जाता था?",
+  "optsEn": [
+   "Baoli",
+   "Tanka",
+   "Johad",
+   "Kuls"
+  ],
+  "optsHi": [
+   "बावली",
+   "टांका",
+   "जोहड़",
+   "कुल्ह"
+  ],
+  "correct": 1,
+  "explainEn": "Tankas were traditionally built in houses in arid regions like Rajasthan to store drinking water.",
+  "sourceHint": "NCERT Class 5 Environmental Studies, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:34:28Z"
+ },
+ {
+  "id": "q_1e75767f029190bb",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary gas released by green plants during the process of photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण की प्रक्रिया के दौरान हरे पौधों द्वारा मुख्य रूप से कौन सी गैस छोड़ी जाती है?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Nitrogen",
+   "Oxygen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "ऑक्सीजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 2,
+  "explainEn": "Plants take in carbon dioxide and release oxygen during photosynthesis.",
+  "sourceHint": "NCERT Class 5 Science curriculum basics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:34:28Z"
+ },
+ {
+  "id": "q_662b1c9236fb3e79",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organ in the human digestive system is primarily responsible for the absorption of water from unabsorbed food material?",
+  "qHi": "मानव पाचन तंत्र का कौन सा अंग मुख्य रूप से बिना पचे हुए भोजन से पानी के अवशोषण के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Stomach",
+   "Small intestine",
+   "Large intestine",
+   "Liver"
+  ],
+  "optsHi": [
+   "पेट",
+   "छوٹی आंत",
+   "बड़ी आंत",
+   "यकृत"
+  ],
+  "correct": 2,
+  "explainEn": "The large intestine absorbs water and salts from the remaining indigestible food matter.",
+  "sourceHint": "NCERT Class 7 Science (Basis for upper primary general science)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:34:28Z"
+ },
+ {
+  "id": "q_c8db8f464a0ccae3",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who among the following was the first Indian woman to climb Mount Everest?",
+  "qHi": "निम्नलिखित में से कौन माउंट एवरेस्ट पर चढ़ने वाली पहली भारतीय महिला थीं?",
+  "optsEn": [
+   "Bachendri Pal",
+   "Kalpana Chawla",
+   "Sunita Williams",
+   "Santosh Yadav"
+  ],
+  "optsHi": [
+   "बचेंद्री पाल",
+   "कल्पना चावला",
+   "सुनीता विलियम्स",
+   "संतोष यादव"
+  ],
+  "correct": 0,
+  "explainEn": "Bachendri Pal reached the summit of Mount Everest in 1984, becoming the first Indian woman to achieve this feat.",
+  "sourceHint": "NCERT Class 5 Environmental Studies, Chapter 13",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:34:28Z"
+ },
+ {
+  "id": "q_7747ffb0f67abb1a",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of these food preservation methods removes moisture completely to prevent the growth of microbes?",
+  "qHi": "इनमें से कौन सी खाद्य संरक्षण विधि सूक्ष्मजीवों के विकास को रोकने के लिए नमी को पूरी तरह से हटा देती है?",
+  "optsEn": [
+   "Pickling",
+   "Drying",
+   "Freezing",
+   "Canning"
+  ],
+  "optsHi": [
+   "अचार बनाना",
+   "सुखाना",
+   "जमना",
+   "डिब्बाबंद करना"
+  ],
+  "correct": 1,
+  "explainEn": "Drying or sun-drying removes moisture from food items, which prevents bacteria and fungi from growing.",
+  "sourceHint": "NCERT Class 5 Environmental Studies, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:34:28Z"
  }
 ]

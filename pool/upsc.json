@@ -23910,5 +23910,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-25T04:44:30Z"
+ },
+ {
+  "id": "q_2c32822b7ba04faf",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "The Ajanta Caves are primarily known for art related to which religion?",
+  "qHi": "अजंता की गुफाएं मुख्य रूप से किस धर्म से संबंधित कला के लिए जानी जाती हैं?",
+  "optsEn": [
+   "Buddhism",
+   "Jainism",
+   "Hinduism",
+   "Sikhism"
+  ],
+  "optsHi": [
+   "बौद्ध धर्म",
+   "जैन धर्म",
+   "हिन्दू धर्म",
+   "सिख धर्म"
+  ],
+  "correct": 0,
+  "explainEn": "The rock-cut caves of Ajanta contain paintings and sculptures masterworks of Buddhist religious art.",
+  "sourceHint": "NCERT Class 11 Fine Arts",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:33:31Z"
+ },
+ {
+  "id": "q_6c890a27cca92d53",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which climatic region is the 'Chaparral' biome primarily found?",
+  "qHi": "चैपरल (Chaparral) बायोम मुख्य रूप से किस जलवायु क्षेत्र में पाया जाता है?",
+  "optsEn": [
+   "Mediterranean climate",
+   "Tropical rainforest climate",
+   "Tundra climate",
+   "Desert climate"
+  ],
+  "optsHi": [
+   "भूमध्यसागरीय जलवायु",
+   "उष्णकटिबंधीय वर्षावन जलवायु",
+   "टुंड्रा जलवायु",
+   "मरुस्थलीय जलवायु"
+  ],
+  "correct": 0,
+  "explainEn": "Chaparral is a shrubland plant community found primarily in the Mediterranean climate regions, characterized by hot, dry summers and mild, wet winters.",
+  "sourceHint": "Certificate Physical and Human Geography by Goh Cheng Leong",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:34:06Z"
+ },
+ {
+  "id": "q_da427234a1e358d9",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following gases is primarily responsible for the cooling of the Earth's stratosphere?",
+  "qHi": "पृथ्वी के समताप मंडल (स्ट्रैटोस्फेयर) को ठंडा करने के लिए मुख्य रूप से कौन सी गैस जिम्मेदार है?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Water vapour",
+   "Ozone",
+   "Methane"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "जल वाष्प",
+   "ओजोन",
+   "मीथेन"
+  ],
+  "correct": 2,
+  "explainEn": "Ozone absorbs ultraviolet radiation from the Sun in the stratosphere, heating it, but it also emits infrared radiation into space, leading to a net cooling effect for that layer.",
+  "sourceHint": "NCERT Class XI Geography - Fundamentals of Physical Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:34:06Z"
+ },
+ {
+  "id": "q_614181f11d65d3dc",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The 'Park Strait' separates India from which of the following countries?",
+  "qHi": "पाक जलडमरूमध्य (पार्क स्ट्रेट) भारत को निम्नलिखित में से किस देश से अलग करता है?",
+  "optsEn": [
+   "Maldives",
+   "Sri Lanka",
+   "Indonesia",
+   "Myanmar"
+  ],
+  "optsHi": [
+   "मालदीव",
+   "श्रीलंका",
+   "इंडोनेशिया",
+   "म्यांमार"
+  ],
+  "correct": 1,
+  "explainEn": "The Palk Strait is a strait between the Tamil Nadu state of India and the Mannar district of the Northern Province of the island nation of Sri Lanka.",
+  "sourceHint": "NCERT Class IX Geography - Contemporary India I",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:34:06Z"
+ },
+ {
+  "id": "q_ebfd1cd0dddc0620",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following authorities compiles and publishes the Index of Industrial Production (IIP) in India?",
+  "qHi": "भारत में औद्योगिक उत्पादन सूचकांक (IIP) का संकलन और प्रकाशन निम्नलिखित में से कौन सा प्राधिकरण करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "National Statistical Office",
+   "NITI Aayog",
+   "Ministry of Finance"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "राष्ट्रीय सांख्यिकी कार्यालय",
+   "नीति आयोग",
+   "वित्त मंत्रालय"
+  ],
+  "correct": 1,
+  "explainEn": "The Index of Industrial Production (IIP) is compiled and published monthly by the National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation.",
+  "sourceHint": "Ministry of Statistics and Programme Implementation (MOSPI) official portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:34:06Z"
  }
 ]

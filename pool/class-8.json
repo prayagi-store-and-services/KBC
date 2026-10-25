@@ -16798,5 +16798,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-25T04:44:15Z"
+ },
+ {
+  "id": "q_008ec34f7dd48305",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the unit of measurement for pressure?",
+  "qHi": "दाब (प्रेशर) को मापने की इकाई क्या है?",
+  "optsEn": [
+   "Newton",
+   "Pascal",
+   "Joule",
+   "Watt"
+  ],
+  "optsHi": [
+   "न्यूटन",
+   "पास्कल",
+   "जूल",
+   "वाट"
+  ],
+  "correct": 1,
+  "explainEn": "The SI unit of pressure is the pascal (Pa).",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:32:17Z"
+ },
+ {
+  "id": "q_b61ff4149dc0f9b0",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which layer of the Earth's atmosphere contains the ozone layer?",
+  "qHi": "पृथ्वी के वायुमंडल की किस परत में ओजोन परत पाई जाती है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The ozone layer is found in the stratosphere, absorbing harmful ultraviolet radiation from the Sun.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:32:17Z"
  }
 ]

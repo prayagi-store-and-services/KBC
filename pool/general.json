@@ -15286,5 +15286,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-25T04:45:47Z"
+ },
+ {
+  "id": "q_de7f898997da68ec",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which Indian classical dance form originated in Kerala?",
+  "qHi": "कौन सा भारतीय शास्त्रीय नृत्य रूप केरल में उत्पन्न हुआ था?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Odissi",
+   "Kuchipudi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "ओडिसी",
+   "कुचिपुड़ी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a major form of classical Indian dance that originated in the southern state of Kerala.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:32:10Z"
+ },
+ {
+  "id": "q_21bf8b757f788a8d",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which monument in India is one of the New Seven Wonders of the World?",
+  "qHi": "भारत में कौन सा स्मारक दुनिया के नए सात अजूबे में से एक है?",
+  "optsEn": [
+   "Qutub Minar",
+   "Taj Mahal",
+   "Red Fort",
+   "Hawa Mahal"
+  ],
+  "optsHi": [
+   "कुतुब मीनार",
+   "ताजमहल",
+   "लाल किला",
+   "हवा महल"
+  ],
+  "correct": 1,
+  "explainEn": "The Taj Mahal in Agra was declared a winner of the New7Wonders of the World initiative.",
+  "sourceHint": "New7Wonders Foundation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:32:10Z"
+ },
+ {
+  "id": "q_b0fd5416104421a2",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "How many fundamental rights are currently provided by the Constitution of India?",
+  "qHi": "वर्तमान में भारत के संविधान द्वारा कितने मौलिक अधिकार प्रदान किए गए हैं?",
+  "optsEn": [
+   "Five",
+   "Six",
+   "Seven",
+   "Eight"
+  ],
+  "optsHi": [
+   "पाँच",
+   "छह",
+   "सात",
+   "आठ"
+  ],
+  "correct": 1,
+  "explainEn": "The Constitution of India currently recognizes six fundamental rights for citizens.",
+  "sourceHint": "Constitution of India, Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:32:10Z"
+ },
+ {
+  "id": "q_e6c65e59a9ae0b1e",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who was the first Indian woman to climb Mount Everest?",
+  "qHi": "माउंट एवरेस्ट पर चढ़نے والی पहली भारतीय महिला कौन थीं?",
+  "optsEn": [
+   "Bachendri Pal",
+   "Santosh Yadav",
+   "Arunima Sinha",
+   "Premlata Agarwal"
+  ],
+  "optsHi": [
+   "बचेंद्री पाल",
+   "संतोष यादव",
+   "अरुणिमा सिन्हा",
+   "प्रेमलता अग्रवाल"
+  ],
+  "correct": 0,
+  "explainEn": "Bachendri Pal reached the summit of Mount Everest in 1984.",
+  "sourceHint": "NCERT Geography Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:33:44Z"
+ },
+ {
+  "id": "q_722473398b1b1374",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which city is the headquarters of the Rubber Board of India located?",
+  "qHi": "भारतीय रबर बोर्ड का मुख्यालय किस शहर में स्थित है?",
+  "optsEn": [
+   "Kochi",
+   "Kottayam",
+   "Thiruvananthapuram",
+   "Kozhikode"
+  ],
+  "optsHi": [
+   "कोच्चि",
+   "कोट्टायम",
+   "तिरुवनंतपुरम",
+   "कोझिकोड"
+  ],
+  "correct": 1,
+  "explainEn": "The Rubber Board is a statutory body constituted under the Rubber Act, 1947, with its headquarters located in Kottayam, Kerala.",
+  "sourceHint": "Ministry of Commerce and Industry, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:34:24Z"
+ },
+ {
+  "id": "q_ccc838630394b7e1",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form of India traditionally uses the 'Sattriya' music style and was anchored in the Sattras of Assam?",
+  "qHi": "भारत के किस शास्त्रीय नृत्य रूप में पारंपरिक रूप से 'सत्रिया' संगीत शैली का उपयोग किया जाता है और यह असम के सत्रों में निहित था?",
+  "optsEn": [
+   "Manipuri",
+   "Kathakali",
+   "Sattriya",
+   "Odissi"
+  ],
+  "optsHi": [
+   "मणिपुरी",
+   "कथकली",
+   "सत्रिया",
+   "ओडिसी"
+  ],
+  "correct": 2,
+  "explainEn": "Sattriya is a major Indian classical dance form introduced by the 15th-century Vaisnavite saint Srimanta Sankardeva in Assam, anchored in the monastic institutions known as Sattras.",
+  "sourceHint": "Sangeet Natak Akademi",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:34:24Z"
+ },
+ {
+  "id": "q_b236924243c4a320",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which planet in our solar system has the maximum number of officially recognized natural satellites (moons) as of recent astronomical counts?",
+  "qHi": "हाल की खगोलीय गणना के अनुसार हमारे सौर मंडल के किस ग्रह के पास आधिकारिक रूप से मान्यता प्राप्त प्राकृतिक उपग्रहों (चंद्रमाओं) की अधिकतम संख्या है?",
+  "optsEn": [
+   "Jupiter",
+   "Saturn",
+   "Uranus",
+   "Neptune"
+  ],
+  "optsHi": [
+   "बृहस्पति",
+   "शनि",
+   "यूरेनस",
+   "नेपच्यून"
+  ],
+  "correct": 1,
+  "explainEn": "Saturn holds the record for the planet with the highest number of confirmed moons in the solar system, verified by the International Astronomical Union.",
+  "sourceHint": "NASA Solar System Exploration",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:34:24Z"
+ },
+ {
+  "id": "q_da8f7ce52746c59e",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who wrote the famous historical and literary work 'Rajatarangini', which chronicles the history of kings of Kashmir?",
+  "qHi": "प्रसिद्ध ऐतिहासिक और साहित्यिक ग्रंथ 'राजतरंगिणी' किसने लिखा, जो कश्मीर के राजाओं के इतिहास का वर्णन करता है?",
+  "optsEn": [
+   "Banabhatta",
+   "Kalhana",
+   "Bilhana",
+   "Somadeva"
+  ],
+  "optsHi": [
+   "बाणभट्ट",
+   "कल्हण",
+   "बिल्हण",
+   "सोमदेव"
+  ],
+  "correct": 1,
+  "explainEn": "Rajatarangini is a metrical historical chronicle of northwestern India, particularly the kings of Kashmir, written in Sanskrit by the Kashmiri historian Kalhana in the 12th century.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:34:24Z"
+ },
+ {
+  "id": "q_aa82ff12928d9005",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian state has the coastline along the Arabian Sea known historically and geographically as the Konkan Coast?",
+  "qHi": "अरब सागर के साथ किस भारतीय राज्य की तटरेखा को ऐतिहासिक और भौगोलिक रूप से कोंकण तट के रूप में जाना जाता है?",
+  "optsEn": [
+   "Tamil Nadu",
+   "Odisha",
+   "Maharashtra",
+   "Andhra Pradesh"
+  ],
+  "optsHi": [
+   "तमिलनाडु",
+   "ओडिशा",
+   "महाराष्ट्र",
+   "आंध्र प्रदेश"
+  ],
+  "correct": 2,
+  "explainEn": "The Konkan coast is a rugged stretch of the western coastline of India, primarily spanning the coastal districts of Maharashtra and Goa, extending into Karnataka.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:34:24Z"
+ },
+ {
+  "id": "q_ad76e9dab6811181",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the chemical symbol for the metallic element tungsten?",
+  "qHi": "धातु तत्व टंगस्टन का रासायनिक प्रतीक क्या है?",
+  "optsEn": [
+   "W",
+   "Ta",
+   "Tn",
+   "Tg"
+  ],
+  "optsHi": [
+   "W",
+   "Ta",
+   "Tn",
+   "Tg"
+  ],
+  "correct": 0,
+  "explainEn": "The chemical symbol for tungsten is W, derived from its alternative German name 'wolfram'.",
+  "sourceHint": "International Union of Pure and Applied Chemistry (IUPAC)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:34:24Z"
  }
 ]

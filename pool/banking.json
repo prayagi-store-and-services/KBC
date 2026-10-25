@@ -24946,5 +24946,481 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-25T04:45:42Z"
+ },
+ {
+  "id": "q_6e3d83fca674819e",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'I' stand for in the acronym IFSC, used in electronic funds transfer?",
+  "qHi": "इलेक्ट्रॉनिक फंड ट्रांसफर में प्रयुक्त होने वाले संक्षिप्त नाम IFSC में अक्षर 'I' का क्या अर्थ है?",
+  "optsEn": [
+   "Indian",
+   "International",
+   "Interbank",
+   "Investment"
+  ],
+  "optsHi": [
+   "इंडियन",
+   "इंटरनेशनल",
+   "इंटरबैंक",
+   "इन्वेस्टमेंट"
+  ],
+  "correct": 0,
+  "explainEn": "IFSC stands for Indian Financial System Code, an 11-character alphanumeric code used for NEFT, RTGS, and IMPS transactions.",
+  "sourceHint": "RBI FAQs",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:32:06Z"
+ },
+ {
+  "id": "q_89c4c7b56d276c29",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following accounts generally does not offer any interest to the account holder?",
+  "qHi": "निम्नलिखित में से किस खाते पर आम तौर पर खाता धारक को कोई ब्याज नहीं मिलता है?",
+  "optsEn": [
+   "Current Account",
+   "Savings Account",
+   "Fixed Deposit Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "चालू खाता",
+   "बचत खाता",
+   "सावधि जमा खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 0,
+  "explainEn": "Current accounts are meant for businesses and generally do not provide interest, unlike savings or fixed deposit accounts.",
+  "sourceHint": "NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:32:06Z"
+ },
+ {
+  "id": "q_721f696caab16e35",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'Repo Rate' mean in monetary policy?",
+  "qHi": "मौद्रिक नीति में 'रेपो रेट' का क्या अर्थ है?",
+  "optsEn": [
+   "Rate at which RBI lends money to commercial banks",
+   "Rate at which commercial banks lend to the public",
+   "Rate of inflation in the country",
+   "Interest rate on long-term government bonds"
+  ],
+  "optsHi": [
+   "वह दर जिस पर आरबीआई वाणिज्यिक बैंकों को पैसा उधार देता है",
+   "वह दर जिस पर वाणिज्यिक बैंक जनता को उधार देते हैं",
+   "देश में मुद्रास्फीति की दर",
+   "दीर्घकालिक सरकारी बांड पर ब्याज दर"
+  ],
+  "correct": 0,
+  "explainEn": "Repo rate is the interest rate at which the central bank (RBI) lends money to commercial banks in the event of any shortfall of funds.",
+  "sourceHint": "RBI Monetary Policy Department",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:32:06Z"
+ },
+ {
+  "id": "q_478e9584421a77d7",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which card is issued directly by banks linked to a customer's savings or current account?",
+  "qHi": "ग्राहक के बचत या चालू खाते से जुड़े बैंकों द्वारा सीधे कौन सा कार्ड जारी किया जाता है?",
+  "optsEn": [
+   "Debit Card",
+   "Credit Card",
+   "Gift Card",
+   "Ration Card"
+  ],
+  "optsHi": [
+   "डेबिट कार्ड",
+   "क्रेडिट कार्ड",
+   "उपहार कार्ड",
+   "राशन कार्ड"
+  ],
+  "correct": 0,
+  "explainEn": "A debit card is tied directly to the user's bank account, withdrawing funds immediately upon purchase or withdrawal.",
+  "sourceHint": "NPCI Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:32:06Z"
+ },
+ {
+  "id": "q_807cd8ba467676af",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institution regulates microfinance institutions (MFIs) in India?",
+  "qHi": "भारत में सूक्ष्म वित्त संस्थानों (MFI) को कौन सी संस्था विनियमित करती है?",
+  "optsEn": [
+   "Securities and Exchange Board of India",
+   "Reserve Bank of India",
+   "Small Industries Development Bank of India",
+   "National Bank for Agriculture and Rural Development"
+  ],
+  "optsHi": [
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय लघु उद्योग विकास बैंक",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India acts as the primary regulator for all microfinance institutions operating as Non-Banking Financial Companies (NBFC-MFIs) in India.",
+  "sourceHint": "RBI Master Directions on Regulatory Framework for NBFC-MFIs",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:33:41Z"
+ },
+ {
+  "id": "q_b87560abbe08cb3b",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of Open Market Operations conducted by the central bank?",
+  "qHi": "केंद्रीय बैंक द्वारा संचालित खुले बाजार के संचालन का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "Managing government debt issuance directly",
+   "Regulating the liquidity in the economy",
+   "Determining foreign exchange reserves",
+   "Setting the statutory liquidity ratio"
+  ],
+  "optsHi": [
+   "सरकारी ऋण जारी करने का प्रत्यक्ष प्रबंधन",
+   "अर्थव्यवस्था में तरलता को विनियमित करना",
+   "विदेशी मुद्रा भंडार का निर्धारण करना",
+   "वैधानिक तरलता अनुपात तय करना"
+  ],
+  "correct": 1,
+  "explainEn": "Open Market Operations involve the buying and sale of government securities by the central bank to regulate money supply and liquidity in the economy.",
+  "sourceHint": "NCERT Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:33:41Z"
+ },
+ {
+  "id": "q_967d6dc278070643",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, a cheque that does not bear any date is referred to by what term?",
+  "qHi": "परक्राम्य लिखत अधिनियम के तहत, ऐसा चेक जिस पर कोई तारीख नहीं होती है, उसे किस नाम से जाना जाता है?",
+  "optsEn": [
+   "Stale cheque",
+   "Mutilated cheque",
+   "Inchoate instrument",
+   "Undated cheque"
+  ],
+  "optsHi": [
+   "बासी चेक",
+   "विकृत चेक",
+   "अपूर्ण लिखत",
+   "बिना तारीख का चेक"
+  ],
+  "correct": 2,
+  "explainEn": "An incomplete or blank-dated negotiable instrument is legally termed an inchoate instrument, where the holder has the authority to complete it.",
+  "sourceHint": "Negotiable Instruments Act, 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:33:41Z"
+ },
+ {
+  "id": "q_37f2290c797fbd02",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which monetary policy tool represents the rate at which the central bank lends short-term funds to commercial banks against government securities?",
+  "qHi": "कौन सा मौद्रिक नीति उपकरण उस दर का प्रतिनिधित्व करता है जिस पर केंद्रीय बैंक सरकारी प्रतिभूतियों के मुकाबले वाणिज्यिक बैंकों को अल्पकालिक ऋण देता है?",
+  "optsEn": [
+   "Bank Rate",
+   "Repo Rate",
+   "Reverse Repo Rate",
+   "Marginal Standing Facility"
+  ],
+  "optsHi": [
+   "बैंक दर",
+   "रेपो रेट",
+   "रिवर्स रेपो रेट",
+   "सीमांत स्थायी सुविधा"
+  ],
+  "correct": 1,
+  "explainEn": "Repo rate is the benchmark interest rate at which the Reserve Bank of India provides short-term liquidity to commercial banks against collateral.",
+  "sourceHint": "RBI Monetary Policy Framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:33:41Z"
+ },
+ {
+  "id": "q_c48e873cb3f9763a",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'C' stand for in the financial acronym 'CASA' ratio used by banks?",
+  "qHi": "बैंकों द्वारा प्रयुक्त वित्तीय संक्षिप्त नाम 'CASA' अनुपात में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Capital",
+   "Current",
+   "Credit",
+   "Collateral"
+  ],
+  "optsHi": [
+   "पूंजी",
+   "चालू (करेंट)",
+   "क्रेडिट",
+   "संपार्श्विक"
+  ],
+  "correct": 1,
+  "explainEn": "CASA stands for Current Account and Savings Account, representing the proportion of deposits that banks raise through these low-cost accounts.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:33:41Z"
+ },
+ {
+  "id": "q_3a80ebdea0564a34",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India assigns credit ratings to corporate borrowers and debt instruments?",
+  "qHi": "भारत में कौन सा संगठन कॉर्पोरेट उधारकर्ताओं और ऋण उपकरणों को क्रेडिट रेटिंग प्रदान करता है?",
+  "optsEn": [
+   "Insurance Regulatory and Development Authority",
+   "Credit Analysis and Research Limited",
+   "National Payments Corporation of India",
+   "Export-Import Bank of India"
+  ],
+  "optsHi": [
+   "बीमा नियामक और विकास प्राधिकरण",
+   "क्रेडिट एनालिसिस एंड रिसर्च लिमिटेड (CARE)",
+   "भारतीय राष्ट्रीय भुगतान निगम",
+   "भारतीय निर्यात-आयात बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "CARE Ratings (Credit Analysis and Research Limited) is one of the prominent credit rating agencies registered with SEBI in India.",
+  "sourceHint": "SEBI registered Credit Rating Agencies list",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:33:41Z"
+ },
+ {
+  "id": "q_f74d9fec6a3e124b",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of banking technology, what is the primary function of a Payment Gateway?",
+  "qHi": "बैंकिंग प्रौद्योगिकी के संदर्भ में, भुगतान गेटवे (Payment Gateway) का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "Printing physical currency notes securely",
+   "Authorizing online credit and debit card transactions",
+   "Storing physical gold reserves for banks",
+   "Auditing annual financial statements of institutions"
+  ],
+  "optsHi": [
+   "भौतिक मुद्रा नोटों को सुरक्षित रूप से मुद्रित करना",
+   "ऑनलाइन क्रेडिट और डेबिट कार्ड लेनदेन को अधिकृत करना",
+   "बैंकों के लिए भौतिक स्वर्ण भंडार संग्रहीत करना",
+   "संस्थानों के वार्षिक वित्तीय विवरणों का लेखा परीक्षण करना"
+  ],
+  "correct": 1,
+  "explainEn": "A payment gateway is technology that reads and transfers payment information from the customer to the acquiring bank, authorizing online transactions.",
+  "sourceHint": "RBI Guidelines on Payment Aggregators and Payment Gateways",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:33:41Z"
+ },
+ {
+  "id": "q_56cf4c1b98807999",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of risk arises from potential losses due to inadequate or failed internal processes, people, and systems?",
+  "qHi": "अपर्याप्त या विफल आंतरिक प्रक्रियाओं, लोगों और प्रणालियों के कारण होने वाले संभावित नुकसान से किस प्रकार का जोखिम उत्पन्न होता है?",
+  "optsEn": [
+   "Market risk",
+   "Operational risk",
+   "Credit risk",
+   "Liquidity risk"
+  ],
+  "optsHi": [
+   "बाजार जोखिम",
+   "परिचालन जोखिम",
+   "ऋण जोखिम",
+   "तरलता जोखिम"
+  ],
+  "correct": 1,
+  "explainEn": "Operational risk is defined as the risk of loss resulting from inadequate or failed internal processes, people and systems, or from external events.",
+  "sourceHint": "Basel III Guidelines on Risk Management",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:33:41Z"
+ },
+ {
+  "id": "q_90cd061e6fb8ff9c",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following bodies in India regulates the Credit Information Companies (CICs)?",
+  "qHi": "भारत में निम्नलिखित में से कौन सा निकाय क्रेडिट सूचना कंपनियों (CICs) को नियंत्रित करता है?",
+  "optsEn": [
+   "Securities and Exchange Board of India",
+   "Reserve Bank of India",
+   "Insurance Regulatory and Development Authority of India",
+   "Pension Fund Regulatory and Development Authority"
+  ],
+  "optsHi": [
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय बीमा विनियामक और विकास प्राधिकरण",
+   "पेंशन फंड नियामक और विकास प्राधिकरण"
+  ],
+  "correct": 1,
+  "explainEn": "Credit Information Companies (CICs) in India are regulated by the Reserve Bank of India under the Credit Information Companies (Regulation) Act, 2005.",
+  "sourceHint": "Reserve Bank of India Act and CIC Act",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:34:18Z"
+ },
+ {
+  "id": "q_685ecb4f6dafed4c",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which financial instrument is used by the Reserve Bank of India to absorb liquidity from the banking system for a duration ranging from 1 day to 14 days under the Liquidity Adjustment Facility?",
+  "qHi": "तरलता समायोजन सुविधा के तहत 1 दिन से 14 दिन तक की अवधि के लिए बैंकिंग प्रणाली से तरलता को अवशोषित करने के लिए भारतीय रिजर्व बैंक द्वारा किस वित्तीय साधन का उपयोग किया जाता है?",
+  "optsEn": [
+   "Repo",
+   "Reverse Repo",
+   "Marginal Standing Facility",
+   "Bank Rate"
+  ],
+  "optsHi": [
+   "रेपो",
+   "रिवर्स रेपो",
+   "सीमांत स्थायी सुविधा",
+   "बैंक दर"
+  ],
+  "correct": 1,
+  "explainEn": "Reverse Repo is the rate at which the RBI borrows funds from commercial banks by absorbing liquidity from the system.",
+  "sourceHint": "RBI Monetary Policy Documentation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:34:18Z"
+ },
+ {
+  "id": "q_897e55252d19ab76",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian banking, what does the term 'Prompt Corrective Action' (PCA) framework primarily aim to address?",
+  "qHi": "भारतीय बैंकिंग के संदर्भ में, 'त्वरित सुधार कार्रवाई' (PCA) फ्रेमवर्क का मुख्य उद्देश्य क्या है?",
+  "optsEn": [
+   "Non-performing assets, capital adequacy, and leverage of weak banks",
+   "Cybersecurity breaches in digital payment networks",
+   "Foreign exchange volatility and export credit refinancing",
+   "Implementation of rural banking and financial inclusion targets"
+  ],
+  "optsHi": [
+   "कमजोर बैंकों की गैर-निष्पादित संपत्तियां, पूंजी पर्याप्तता और उत्तोलन",
+   "डिजिटल भुगतान नेटवर्क में साइबर सुरक्षा उल्लंघन",
+   "विदेशी मुद्रा अस्थिरता और निर्यात ऋण पुनर्वित्त",
+   "ग्रामीण बैंकिंग और वित्तीय समावेशन लक्ष्यों का कार्यान्वयन"
+  ],
+  "correct": 0,
+  "explainEn": "The PCA framework enables the RBI to intervene early and take corrective measures against banks that are showing vulnerabilities in capital, asset quality, and profitability.",
+  "sourceHint": "RBI Supervisory Guidelines on PCA",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:34:18Z"
+ },
+ {
+  "id": "q_a27e968a88951004",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the maximum limit of transaction value permitted under the Immediate Payment Service (IMPS) managed by the National Payments Corporation of India, as per general regulatory guidelines?",
+  "qHi": "भारतीय राष्ट्रीय भुगतान निगम द्वारा प्रबंधित तत्काल भुगतान सेवा (IMPS) के तहत अनुमति दी जाने वाली लेनदेन मूल्य की अधिकतम सीमा क्या है?",
+  "optsEn": [
+   "Rupees 1 Lakh",
+   "Rupees 2 Lakhs",
+   "Rupees 5 Lakhs",
+   "No upper limit specified by RBI"
+  ],
+  "optsHi": [
+   "1 लाख रुपये",
+   "2 लाख रुपये",
+   "5 लाख रुपये",
+   "आरबीआई द्वारा कोई ऊपरी सीमा निर्दिष्ट नहीं"
+  ],
+  "correct": 2,
+  "explainEn": "The Reserve Bank of India and NPCI increased the per-transaction limit for IMPS to Rupees 5 Lakhs to facilitate higher value digital remittances.",
+  "sourceHint": "NPCI and RBI Circulars",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:34:18Z"
+ },
+ {
+  "id": "q_d22001d337578395",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which entity is responsible for the regulation and supervision of Non-Banking Financial Companies (NBFCs) in India?",
+  "qHi": "भारत में गैर-बैंकिंग वित्तीय कंपनियों (NBFCs) के विनियमन और पर्यवेक्षण के लिए कौन सी संस्था जिम्मेदार है?",
+  "optsEn": [
+   "Ministry of Corporate Affairs",
+   "Reserve Bank of India",
+   "National Bank for Agriculture and Rural Development",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "कॉर्पोरेट मामलों के मंत्रालय",
+   "भारतीय रिजर्व बैंक",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड"
+  ],
+  "correct": 1,
+  "explainEn": "Under Chapter IIIB of the Reserve Bank of India Act, 1934, the RBI is mandated to regulate and supervise NBFCs.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-25T11:34:18Z"
  }
 ]
