@@ -57,7 +57,6 @@ open class MainActivity : ComponentActivity() {
 
     override fun onNewIntent(intent: android.content.Intent) {
         super.onNewIntent(intent)
-        com.example.update.UpdateAlert.handle(this, intent)
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -84,8 +83,7 @@ open class MainActivity : ComponentActivity() {
         }
         com.example.festival.JayMataDi.greetIfDue(this)
         // Remove any installer file left from an in-app update (runs in the background).
-        Thread { com.example.update.AppUpdater.cleanLeftovers(applicationContext) }.start()
-        com.example.update.UpdateAlert.start(this)
+        com.example.update.AppUpdater.retireLegacyUpdater(this)
         // Anonymous daily usage count (+1 on a public counter, nothing else). The user can turn it off in Settings.
         // Automatic crash reports: a crash saved last time is sent now, in the background. No personal data.
         com.example.stats.CrashReporter.install(this)
@@ -96,7 +94,6 @@ open class MainActivity : ComponentActivity() {
         window.clearFlags(WindowManager.LayoutParams.FLAG_SECURE)
         setContent {
             TarkShastraTheme {
-                com.example.update.AppUpdatePrompt()
                 Scaffold(
                     modifier = Modifier.fillMaxSize(),
                     containerColor = NavyBackground,
@@ -133,7 +130,6 @@ open class MainActivity : ComponentActivity() {
 
     override fun onResume() {
         super.onResume()
-        Thread { com.example.update.AppUpdater.cleanStale(applicationContext) }.start()
         userLeftViaHome = false
     }
 }
