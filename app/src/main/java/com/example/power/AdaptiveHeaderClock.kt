@@ -52,7 +52,9 @@ fun adaptiveHeaderClock(): HeaderClock {
         fun readPower() {
             saver = pm.isPowerSaveMode
             interactive = pm.isInteractive
-            if (Build.VERSION.SDK_INT >= 29) {
+            if (thermalUnavailable) {
+                thermalThrottling = true
+            } else if (Build.VERSION.SDK_INT >= 29) {
                 try {
                     thermalThrottling = thermalUnavailable || pm.currentThermalStatus >= PowerManager.THERMAL_STATUS_MODERATE
                 } catch (error: RuntimeException) {
