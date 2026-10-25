@@ -48,11 +48,19 @@ fun adaptiveHeaderClock(): HeaderClock {
                 charging = status == BatteryManager.BATTERY_STATUS_CHARGING || status == BatteryManager.BATTERY_STATUS_FULL
             }
         }
+        var thermalUnavailable = false
         fun readPower() {
             saver = pm.isPowerSaveMode
             interactive = pm.isInteractive
-            thermalThrottling = Build.VERSION.SDK_INT >= 29 &&
-                pm.currentThermalStatus >= PowerManager.THERMAL_STATUS_MODERATE
+            if (Build.VERSION.SDK_INT >= 29) {
+                try {
+                    thermalThrottling = thermalUnavailable || pm.currentThermalStatus >= PowerManager.THERMAL_STATUS_MODERATE
+                } catch (error: RuntimeException) {
+                    thermalUnavailable = true
+                    thermalThrottling = true
+                    android.util.Log.w("NetraPower", "Thermal service unavailable; conservative header tier", error)
+                }
+            }
         }
         var receiverRegistered = false
         val receiver = object : BroadcastReceiver() {
@@ -61,7 +69,7 @@ fun adaptiveHeaderClock(): HeaderClock {
                 readPower()
             }
         }
-        val thermal = if (Build.VERSION.SDK_INT >= 29) PowerManager.OnThermalStatusChangedListener { status -> thermalThrottling = status >= PowerManager.THERMAL_STATUS_MODERATE } else null
+        val thermal = if (Build.VERSION.SDK_INT >= 29) PowerManager.OnThermalStatusChangedListener { status -> thermalThrottling = thermalUnavailable || status >= PowerManager.THERMAL_STATUS_MODERATE } else null
         var thermalRegistered = false
         fun stop() {
             if (receiverRegistered) { context.unregisterReceiver(receiver); receiverRegistered = false }
@@ -84,7 +92,11 @@ fun adaptiveHeaderClock(): HeaderClock {
             if (Build.VERSION.SDK_INT >= 29 && thermal != null) {
                 thermalRegistered = OptionalPowerCallback.register(
                     { pm.addThermalStatusListener(context.mainExecutor, thermal) },
-                    { thermalThrottling = true })
+                    {
+                        thermalUnavailable = true
+                        thermalThrottling = true
+                        android.util.Log.w("NetraPower", "Thermal callback unavailable; conservative header tier")
+                    })
             }
         }
         val lease = LifecycleCallbackLease(lifecycle, ::start, ::stop) { visible = it }
