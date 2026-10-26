@@ -21894,5 +21894,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-25T20:54:12Z"
+ },
+ {
+  "id": "q_2edebd9079ca514a",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these animals is a nocturnal animal?",
+  "qHi": "इनमें से कौन सा जानवर निशाचर (रात में जागने वाला) है?",
+  "optsEn": [
+   "Crow",
+   "Owl",
+   "Cow",
+   "Horse"
+  ],
+  "optsHi": [
+   "कौवा",
+   "उल्लू",
+   "गाय",
+   "घोड़ा"
+  ],
+  "correct": 1,
+  "explainEn": "Owls are active during the night and sleep during the day.",
+  "sourceHint": "NCERT Class 5 EVS - Super Senses",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:49:22Z"
+ },
+ {
+  "id": "q_a6aa8346808441a7",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which gas do plants release during the process of photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण की प्रक्रिया के दौरान पौधे कौन सी गैस छोड़ते हैं?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Nitrogen",
+   "Oxygen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "ऑक्सीजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 2,
+  "explainEn": "During photosynthesis, plants take in carbon dioxide and water, and release oxygen as a byproduct.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:50:58Z"
+ },
+ {
+  "id": "q_941eaaec91ede55a",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of energy does a moving bicycle possess?",
+  "qHi": "चलती हुई साइकिल में किस प्रकार की ऊर्जा होती है?",
+  "optsEn": [
+   "Potential energy",
+   "Kinetic energy",
+   "Magnetic energy",
+   "Chemical energy"
+  ],
+  "optsHi": [
+   "स्थितिज ऊर्जा",
+   "गतिज ऊर्जा",
+   "चुंबकीय ऊर्जा",
+   "रासायनिक ऊर्जा"
+  ],
+  "correct": 1,
+  "explainEn": "Energy possessed by an object due to its motion is called kinetic energy.",
+  "sourceHint": "NCERT Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:50:58Z"
+ },
+ {
+  "id": "q_f33aa164f82e73e2",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary function of stomata found on the underside of green leaves in plants?",
+  "qHi": "पौधों में हरी पत्तियों के निचले हिस्से में पाए जाने वाले रंध्र (स्टोमेटा) का मुख्य कार्य क्या है?",
+  "optsEn": [
+   "Absorbing water from the soil",
+   "Storing excess food",
+   "Exchange of gases",
+   "Anchoring the plant firmly"
+  ],
+  "optsHi": [
+   "मिट्टी से पानी सोखना",
+   "अतिरिक्त भोजन का भंडारण करना",
+   "गैसों का आदान-प्रदान",
+   "पौधे को मजबूती से थामे रखना"
+  ],
+  "correct": 2,
+  "explainEn": "Stomata are tiny pores on leaves that allow plants to take in carbon dioxide and release oxygen during photosynthesis and respiration.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:51:36Z"
+ },
+ {
+  "id": "q_d965a1e95b358174",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which part of the Indian Constitution contains the Directive Principles of State Policy, which serve as guidelines for framing laws and policies?",
+  "qHi": "भारतीय संविधान के किस भाग में राज्य के नीति निर्देशक तत्व शामिल हैं, जो कानून और नीतियां बनाने के लिए दिशानिर्देश के रूप में कार्य करते हैं?",
+  "optsEn": [
+   "Part I",
+   "Part III",
+   "Part IV",
+   "Part XX"
+  ],
+  "optsHi": [
+   "भाग I",
+   "भाग III",
+   "भाग IV",
+   "भाग XX"
+  ],
+  "correct": 2,
+  "explainEn": "Part IV (Articles 36-51) of the Indian Constitution contains the Directive Principles of State Policy.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:51:36Z"
+ },
+ {
+  "id": "q_67679c693bea3edd",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which major line of latitude passes almost through the middle of the Indian landmass, dividing it into two nearly equal tropical and subtropical climatic zones?",
+  "qHi": "अक्षांश की कौन सी प्रमुख रेखा भारतीय भूभाग के लगभग बीच से गुजरती है, इसे दो लगभग समान उष्णकटिबंधीय और उपोष्णकटिबंधीय जलवायु क्षेत्रों में विभाजित करती है?",
+  "optsEn": [
+   "Equator",
+   "Tropic of Cancer",
+   "Tropic of Capricorn",
+   "Arctic Circle"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा",
+   "कर्क रेखा",
+   "मकर रेखा",
+   "आर्कटिक वृत्त"
+  ],
+  "correct": 1,
+  "explainEn": "The Tropic of Cancer (23.30 N) passes through the middle of India, dividing the country into almost two equal halves.",
+  "sourceHint": "NCERT Class 6 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:51:36Z"
+ },
+ {
+  "id": "q_0475c58a68108d0d",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary chemical compound that makes up the hard protective outer shell of snails and oysters?",
+  "qHi": "वह प्रमुख रासायनिक यौगिक कौन सा है जो घोंघों और सीपियों के कठोर सुरक्षात्मक बाहरी आवरण को बनाता है?",
+  "optsEn": [
+   "Calcium carbonate",
+   "Sodium chloride",
+   "Silicon dioxide",
+   "Potassium nitrate"
+  ],
+  "optsHi": [
+   "कैल्शियम कार्बोनेट",
+   "सोडियम क्लोराइड",
+   "सिलिकॉन डाइऑक्साइड",
+   "पोटेशियम नाइट्रेट"
+  ],
+  "correct": 0,
+  "explainEn": "The shells of molluscs like snails and oysters are primarily composed of calcium carbonate.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:51:36Z"
+ },
+ {
+  "id": "q_c7499f3230885e23",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional Indian harvesting festival marks the transition of the sun into the zodiac sign of Capricorn (Makara) and is celebrated with kite flying in Gujarat?",
+  "qHi": "कौन सा पारंपरिक भारतीय फसल उत्सव सूर्य के मकर राशि में प्रवेश का प्रतीक है और गुजरात में पतंगबाजी के साथ मनाया जाता है?",
+  "optsEn": [
+   "Onam",
+   "Bihu",
+   "Makar Sankranti",
+   "Baisakhi"
+  ],
+  "optsHi": [
+   "ओणम",
+   "बिहू",
+   "मकर संक्रांति",
+   "बैसाखी"
+  ],
+  "correct": 2,
+  "explainEn": "Makar Sankranti marks the transition of the sun into Makara rashi and is celebrated across India, notably with kite flying in Gujarat.",
+  "sourceHint": "NCERT Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:51:36Z"
+ },
+ {
+  "id": "q_039353ae3e2dc3e6",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In a simple electric circuit, what is the specific role of the component called a switch or key?",
+  "qHi": "एक साधारण विद्युत परिपथ में, स्विच या कुंजी नामक घटक की विशिष्ट भूमिका क्या है?",
+  "optsEn": [
+   "To generate electric current",
+   "To store electrical energy",
+   "To complete or break the circuit path",
+   "To increase the voltage of the battery"
+  ],
+  "optsHi": [
+   "विद्युत धारा उत्पन्न करना",
+   "विद्युत ऊर्जा का भंडारण करना",
+   "परपथ के मार्ग को पूरा करना या तोड़ना",
+   "बैटरी का वोल्टेज बढ़ाना"
+  ],
+  "correct": 2,
+  "explainEn": "A switch is used to make or break the connection in an electric circuit, allowing or stopping the flow of electricity.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:51:36Z"
+ },
+ {
+  "id": "q_2cef3d398a04acf5",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary atmospheric gas that makes up approximately 78 percent of Earth's dry air by volume?",
+  "qHi": "वह प्रमुख वायुमंडलीय गैस कौन सी है जो आयतन के हिसाब से पृथ्वी की शुष्क हवा का लगभग 78 प्रतिशत हिस्सा बनाती है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "आर्गन"
+  ],
+  "correct": 2,
+  "explainEn": "Nitrogen is the most abundant gas in Earth's atmosphere, making up about 78 percent of dry air.",
+  "sourceHint": "NCERT Class 6 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:51:36Z"
  }
 ]

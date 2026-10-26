@@ -15902,5 +15902,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-25T20:54:07Z"
+ },
+ {
+  "id": "q_1012bdffe412305f",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which city is home to the famous historical monument Gateway of India?",
+  "qHi": "प्रसिद्ध ऐतिहासिक स्मारक गेटवे ऑफ इंडिया किस शहर में स्थित है?",
+  "optsEn": [
+   "New Delhi",
+   "Kolkata",
+   "Mumbai",
+   "Chennai"
+  ],
+  "optsHi": [
+   "नई दिल्ली",
+   "कोलकाता",
+   "मुंबई",
+   "चेन्नई"
+  ],
+  "correct": 2,
+  "explainEn": "The Gateway of India was built in Mumbai and completed in 1924.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:50:54Z"
  }
 ]

@@ -24386,5 +24386,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-25T20:54:27Z"
+ },
+ {
+  "id": "q_e859932cded10832",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the book 'Arthashastra'?",
+  "qHi": "'अर्थशास्त्र' पुस्तक के लेखक कौन हैं?",
+  "optsEn": [
+   "Kalidasa",
+   "Kautilya",
+   "Banabhatta",
+   "Somadeva"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "कौटिल्य",
+   "बाणभट्ट",
+   "सोमदेव"
+  ],
+  "correct": 1,
+  "explainEn": "Arthashastra, an ancient Indian treatise on statecraft, economic policy and military strategy, was written by Kautilya, also known as Chanakya.",
+  "sourceHint": "NCERT Class 12 History Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:49:36Z"
+ },
+ {
+  "id": "q_be26a719078e53d2",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which greenhouse gas is emitted primarily from paddy fields and livestock?",
+  "qHi": "मुख्य रूप से धान के खेतों और पशुधन से कौन सी ग्रीनहाउस गैस उत्सर्जित होती है?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Methane",
+   "Nitrous oxide",
+   "CFC"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "मीथेन",
+   "नाइट्रस ऑक्साइड",
+   "सीएफसी"
+  ],
+  "correct": 1,
+  "explainEn": "Methane is produced naturally through the anaerobic decomposition of organic matter in flooded rice paddies and as part of the digestive process in ruminant livestock.",
+  "sourceHint": "NCERT Class 12 Biology Chapter 16",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:49:36Z"
+ },
+ {
+  "id": "q_729fd3a127ff2345",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which type of unemployment is typically found in the agricultural sector of developing nations due to seasonal variations?",
+  "qHi": "मौसमी बदलाव के कारण विकासशील देशों के कृषि क्षेत्र में आमतौर पर किस प्रकार की बेरोजगारी पाई जाती है?",
+  "optsEn": [
+   "Frictional unemployment",
+   "Structural unemployment",
+   "Seasonal unemployment",
+   "Educated unemployment"
+  ],
+  "optsHi": [
+   "घर्षणात्मक बेरोजगारी",
+   "संरचनात्मक बेरोजगारी",
+   "मौसमी बेरोजगारी",
+   "शिक्षित बेरोजगारी"
+  ],
+  "correct": 2,
+  "explainEn": "Seasonal unemployment occurs when people are unemployed at particular times of the year, such as the off-season in agriculture.",
+  "sourceHint": "NCERT Class 12 Economics (Macroeconomics) Chapter on Income and Employment",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:49:36Z"
+ },
+ {
+  "id": "q_cb56b9025098bd32",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which process involves the conversion of atmospheric nitrogen gas into ammonia by living organisms?",
+  "qHi": "किस प्रक्रिया में जीवित जीवों द्वारा वायुमंडलीय नाइट्रोजन गैस का अमोनिया में रूपांतरण शामिल है?",
+  "optsEn": [
+   "Nitrification",
+   "Denitrification",
+   "Nitrogen fixation",
+   "Ammonification"
+  ],
+  "optsHi": [
+   "नाइट्रीकरण",
+   "विनाइट्रीकरण",
+   "नाइट्रोजन स्थिरीकरण",
+   "अमोनीकरण"
+  ],
+  "correct": 2,
+  "explainEn": "Biological nitrogen fixation is the process where atmospheric nitrogen is reduced to ammonia by microorganisms possessing the nitrogenase enzyme.",
+  "sourceHint": "NCERT Class 11 Biology, Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:51:13Z"
+ },
+ {
+  "id": "q_52cf51d9a8e03991",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which structural feature is characteristic of aromatic compounds according to Huckle's rule?",
+  "qHi": "ह्यूकेल के नियम के अनुसार कौन सी संरचनात्मक विशेषता ऐरोमैटिक यौगिकों की विशेषता है?",
+  "optsEn": [
+   "Presence of exactly (4n + 2) pi electrons in a conjugated planar ring",
+   "Presence of 4n pi electrons in any open-chain molecule",
+   "Absence of any cyclic structure",
+   "Presence of localized sigma bonds only"
+  ],
+  "optsHi": [
+   "एक संयुग्मित समतलीय वलय में ठीक (4n + 2) पाई इलेक्ट्रॉनों की उपस्थिति",
+   "किसी भी खुली श्रृंखला वाले अणु में 4n पाई इलेक्ट्रॉनों की उपस्थिति",
+   "किसी भी चक्रीय संरचना की अनुपस्थिति",
+   "केवल स्थानीयकृत सिग्मा बंधों की उपस्थिति"
+  ],
+  "correct": 0,
+  "explainEn": "Huckle's rule states that a cyclic, planar, conjugated system is aromatic if it contains (4n + 2) pi electrons, where n is an integer.",
+  "sourceHint": "NCERT Class 11 Chemistry, Chapter 13",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:51:13Z"
+ },
+ {
+  "id": "q_725e3b0b601b6ac1",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the molecular geometry of the xenon tetrafluoride (XeF4) molecule according to VSEPR theory?",
+  "qHi": "VSEPR सिद्धांत के अनुसार ज़ेनॉन टेट्राफ्लोराइड (XeF4) अणु की आणविक ज्यामिति क्या है?",
+  "optsEn": [
+   "Tetrahedral",
+   "Square planar",
+   "Seesaw",
+   "Octahedral"
+  ],
+  "optsHi": [
+   "चतुष्फलकीय",
+   "वर्ग समतलीय",
+   "सीसाव",
+   "अष्टफलकीय"
+  ],
+  "correct": 1,
+  "explainEn": "XeF4 has 6 electron pairs around xenon (4 bond pairs and 2 lone pairs), adopting an octahedral electronic geometry and square planar molecular geometry.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 7: The p-Block Elements",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:51:54Z"
+ },
+ {
+  "id": "q_5da3bdc491acb79f",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In an n-type semiconductor, which of the following statements is true regarding charge carriers?",
+  "qHi": "एक n-प्रकार के अर्धचालक में, आवेश वाहकों के संबंध में निम्नलिखित में से कौन सा कथन सत्य है?",
+  "optsEn": [
+   "Electrons are minority carriers and holes are majority carriers",
+   "Electrons are majority carriers and holes are minority carriers",
+   "Thermal agitation generates only holes",
+   "Doping is done with trivalent impurity atoms"
+  ],
+  "optsHi": [
+   "इलेक्ट्रॉन अल्पसंख्यक वाहक हैं और होल बहुसंख्यक वाहक हैं",
+   "इलेक्ट्रॉन बहुसंख्यक वाहक हैं और होल अल्पसंख्यक वाहक हैं",
+   "तापीय क्षोभ केवल होल उत्पन्न करता है",
+   "डोपिंग त्रिसंयोजक अशुद्धता परमाणुओं के साथ की जाती है"
+  ],
+  "correct": 1,
+  "explainEn": "An n-type semiconductor is created by doping with pentavalent impurities, making electrons the majority charge carriers and holes the minority.",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 14: Semiconductor Electronics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:51:54Z"
+ },
+ {
+  "id": "q_c9ec48af90578d43",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian Constitutional Article guarantees the right to move the Supreme Court for the enforcement of Fundamental Rights?",
+  "qHi": "भारतीय संविधान का कौन सा अनुच्छेद मौलिक अधिकारों के प्रवर्तन के लिए उच्चतम न्यायालय जाने के अधिकार की गारंटी देता है?",
+  "optsEn": [
+   "Article 19",
+   "Article 21",
+   "Article 32",
+   "Article 226"
+  ],
+  "optsHi": [
+   "अनुच्छेद 19",
+   "अनुच्छेद 21",
+   "अनुच्छेद 32",
+   "अनुच्छेद 226"
+  ],
+  "correct": 2,
+  "explainEn": "Dr. B.R. Ambedkar called Article 32 the heart and soul of the Constitution as it provides the right to constitutional remedies.",
+  "sourceHint": "NCERT Class 11/12 Political Science (Indian Constitution at Work)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:51:54Z"
+ },
+ {
+  "id": "q_c986a5b2bb85de59",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the role of the restriction endonuclease enzyme in recombinant DNA technology?",
+  "qHi": "पुनर्संयोजक डीएनए प्रौद्योगिकी में प्रतिबंध endonuclease एंजाइम की भूमिका क्या है?",
+  "optsEn": [
+   "To join two DNA fragments",
+   "To cut DNA at specific recognition sequences",
+   "To unwind the double helix",
+   "To synthesize complementary RNA primers"
+  ],
+  "optsHi": [
+   "दो डीएनए खंडों को आपस में जोड़ना",
+   "विशिष्ट पहचान अनुक्रमों पर डीएनए को काटना",
+   "डबल हेलिक्स को खोलना",
+   "पूरक आरएनए प्राइमर का संश्लेषण करना"
+  ],
+  "correct": 1,
+  "explainEn": "Restriction endonucleases function as molecular scissors, inspecting DNA sequences and cutting at specific palindrome sites.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 11: Biotechnology - Principles and Processes",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:51:54Z"
+ },
+ {
+  "id": "q_b05ec137b0b5d842",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which macroeconomics aggregate represents the total market value of all final goods and services produced within the domestic territory of a country measured at constant prices?",
+  "qHi": "कौन सा समष्टि अर्थशास्त्र कुल उत्पाद एक देश के घरेलू क्षेत्र के भीतर उत्पादित सभी अंतिम वस्तुओं और सेवाओं का कुल बाजार मूल्य स्थिर कीमतों पर मापा जाता है?",
+  "optsEn": [
+   "Nominal Gross Domestic Product",
+   "Real Gross Domestic Product",
+   "Gross National Product at market prices",
+   "Net National Product at factor cost"
+  ],
+  "optsHi": [
+   "नाममात्र सकल घरेलू उत्पाद",
+   "वास्तविक सकल घरेलू उत्पाद",
+   "बाजार कीमतों पर सकल राष्ट्रीय उत्पाद",
+   "कारक लागत पर शुद्ध राष्ट्रीय उत्पाद"
+  ],
+  "correct": 1,
+  "explainEn": "Real GDP is calculated using base year prices, thus eliminating the effect of inflation, reflecting constant prices.",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Macroeconomics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:51:54Z"
+ },
+ {
+  "id": "q_6222d34d647b99b9",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of wave optics, what is the phase difference between two interfering light waves emerging from coherent sources to produce a dark fringe?",
+  "qHi": "तरंग प्रकाशिकी के संदर्भ में, एक अंधेरी फ्रिंज का उत्पादन करने के लिए सुसंगत स्रोतों से निकलने वाली दो व्यतिकरण प्रकाश तरंगों के बीच कलांतर (phase difference) क्या है?",
+  "optsEn": [
+   "An integral multiple of 2pi",
+   "An odd integral multiple of pi",
+   "Zero always",
+   "An even multiple of pi/2"
+  ],
+  "optsHi": [
+   "2pi का एक पूर्णांक गुणज",
+   "pi का एक विषम पूर्णांक गुणज",
+   "हमेशा शून्य",
+   "pi/2 का एक सम गुणज"
+  ],
+  "correct": 1,
+  "explainEn": "Destructive interference, which yields a dark fringe, occurs when the phase difference is an odd multiple of pi (i.e., (2n+1)pi).",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 10: Wave Optics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:51:54Z"
  }
 ]

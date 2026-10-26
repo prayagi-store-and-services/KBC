@@ -16070,5 +16070,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-25T20:53:58Z"
+ },
+ {
+  "id": "q_af0febf51f4e0266",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which river forms the famous Dudhsagar Falls located on the border of Goa and Karnataka?",
+  "qHi": "गोगोवा और कर्नाटक की सीमा पर स्थित प्रसिद्ध दूधसागर जलप्रपात कौन सी नदी बनाती है?",
+  "optsEn": [
+   "Mandovi River",
+   "Narmada River",
+   "Kaveri River",
+   "Tapti River"
+  ],
+  "optsHi": [
+   "मांडोवी नदी",
+   "नर्मदा नदी",
+   "कावेरी नदी",
+   "ताप्ती नदी"
+  ],
+  "correct": 0,
+  "explainEn": "The Dudhsagar Falls is located on the Mandovi River on the Goa-Karnataka border.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:49:44Z"
+ },
+ {
+  "id": "q_95cac15276c7912f",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which dynasty constructed the famous Kailasa temple (Cave 16) at Ellora?",
+  "qHi": "एलोरा में प्रसिद्ध कैलाश मंदिर (गुफा 16) का निर्माण किस राजवंश ने करवाया था?",
+  "optsEn": [
+   "Rashtrakuta dynasty",
+   "Maurya dynasty",
+   "Gupta dynasty",
+   "Chola dynasty"
+  ],
+  "optsHi": [
+   "राष्ट्रकूट राजवंश",
+   "मौर्य राजवंश",
+   "गुप्त राजवंश",
+   "चोल राजवंश"
+  ],
+  "correct": 0,
+  "explainEn": "The monolithic Kailasa temple at Ellora was built during the reign of the Rashtrakuta king Krishna I in the 8th century.",
+  "sourceHint": "NCERT Class 11 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:51:23Z"
  }
 ]

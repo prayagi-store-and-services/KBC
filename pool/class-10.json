@@ -21502,5 +21502,425 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-25T20:53:44Z"
+ },
+ {
+  "id": "q_fc3dcd1e067def3e",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which sector does the 'NREGA 2005' guarantee employment in rural areas of India?",
+  "qHi": "भारत के ग्रामीण क्षेत्रों में 'नरेगा 2005' किस क्षेत्र में रोजगार की गारंटी देता है?",
+  "optsEn": [
+   "Industrial sector",
+   "IT sector",
+   "Manual work / Wage employment",
+   "Banking sector"
+  ],
+  "optsHi": [
+   "औद्योगिक क्षेत्र",
+   "आईटी क्षेत्र",
+   "शारीरिक कार्य / मजदूरी रोजगार",
+   "बैंकिंग क्षेत्र"
+  ],
+  "correct": 2,
+  "explainEn": "MGNREGA guarantees 100 days of wage employment in a financial year to rural households whose adult members volunteer to do unskilled manual work.",
+  "sourceHint": "NCERT Class 10 Economics Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:49:31Z"
+ },
+ {
+  "id": "q_bdb44dde14732fe4",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which element is oxidized in the reaction between zinc oxide and carbon to form zinc metal and carbon monoxide?",
+  "qHi": "जस्ता धातु और कार्बन मोनोऑक्साइड बनाने के लिए जिंक ऑक्साइड और कार्बन के बीच की प्रतिक्रिया में किस तत्व का ऑक्सीकरण होता है?",
+  "optsEn": [
+   "Zinc",
+   "Carbon",
+   "Zinc oxide",
+   "Carbon monoxide"
+  ],
+  "optsHi": [
+   "जिंक",
+   "कार्बन",
+   "जिंक ऑक्साइड",
+   "कार्बन मोनोऑक्साइड"
+  ],
+  "correct": 1,
+  "explainEn": "Carbon gains oxygen in this reaction to form carbon monoxide, so carbon is oxidized.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:51:08Z"
+ },
+ {
+  "id": "q_6c719351e4ee3f98",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the direction of the magnetic field lines inside a current-carrying solenoid?",
+  "qHi": "धारावाही परिनालिका के अंदर चुंबकीय क्षेत्र रेखाओं की दिशा क्या होती है?",
+  "optsEn": [
+   "From south pole to north pole",
+   "From north pole to south pole",
+   "Along the circular radius",
+   "Perpendicular to the axis"
+  ],
+  "optsHi": [
+   "दक्षिण ध्रुव से उत्तर ध्रुव की ओर",
+   "उत्तर ध्रुव से दक्षिण ध्रुव की ओर",
+   "वृत्ताकार त्रिज्या के अनुदिश",
+   "अक्ष के लंबवत"
+  ],
+  "correct": 0,
+  "explainEn": "Inside a solenoid, the magnetic field lines run from the south pole to the north pole, forming closed loops.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 13",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:51:08Z"
+ },
+ {
+  "id": "q_05cd0539686250c3",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following carbon compounds is a saturated hydrocarbon?",
+  "qHi": "निम्नलिखित में से कौन सा कार्बन यौगिक एक संतृप्त हाइड्रोकार्बन है?",
+  "optsEn": [
+   "Ethene",
+   "Ethyne",
+   "Propane",
+   "Benzene"
+  ],
+  "optsHi": [
+   "एथीन",
+   "एथाइन",
+   "प्रोपेन",
+   "बेंजीन"
+  ],
+  "correct": 2,
+  "explainEn": "Propane is an alkane with single bonds only, making it a saturated hydrocarbon.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:51:08Z"
+ },
+ {
+  "id": "q_8774f5abac263d71",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which sector had the largest share in India's Gross Domestic Product (GDP) according to recent economic trends documented in textbooks?",
+  "qHi": "पाठ्यपुस्तकों में दर्ज हालिया आर्थिक रुझानों के अनुसार भारत के सकल घरेलू उत्पाद (GDP) में किस क्षेत्र का सबसे बड़ा हिस्सा है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Agriculture sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "तृतीयक क्षेत्र",
+   "कृषि क्षेत्र"
+  ],
+  "correct": 2,
+  "explainEn": "The tertiary (service) sector produces the largest part of India's GDP currently.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:51:08Z"
+ },
+ {
+  "id": "q_3117dc1ad97da7c5",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which state of India was the famous 'Chipko Movement' initiated in the 1970s?",
+  "qHi": "1970 के दशक में प्रसिद्ध 'चिपको आंदोलन' भारत के किस राज्य में शुरू किया गया था?",
+  "optsEn": [
+   "Uttarakhand",
+   "Kerala",
+   "Karnataka",
+   "Assam"
+  ],
+  "optsHi": [
+   "उत्तराखंड",
+   "केरल",
+   "कर्नाटक",
+   "असम"
+  ],
+  "correct": 0,
+  "explainEn": "The Chipko Movement began in the Himalayan region of Uttarakhand to protect trees from being felled.",
+  "sourceHint": "NCERT Class 10 Science/Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:51:08Z"
+ },
+ {
+  "id": "q_988601d4fef82172",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which list of the Indian Constitution contains subjects of national importance like defence and foreign affairs?",
+  "qHi": "भारतीय संविधान की किस सूची में रक्षा और विदेश मामलों जैसे राष्ट्रीय महत्व के विषय शामिल हैं?",
+  "optsEn": [
+   "State List",
+   "Union List",
+   "Concurrent List",
+   "Residuary subjects"
+  ],
+  "optsHi": [
+   "राज्य सूची",
+   "संघ सूची",
+   "समवर्ती सूची",
+   "अवशिष्ट विषय"
+  ],
+  "correct": 1,
+  "explainEn": "The Union List includes subjects of national importance on which only the Central Government can make laws.",
+  "sourceHint": "NCERT Class 10 Civics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:51:08Z"
+ },
+ {
+  "id": "q_a5c6bb1173f403ad",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of image is always formed by a concave lens for a real object placed anywhere in front of it?",
+  "qHi": "इसके सामने कहीं भी रखी गई वास्तविक वस्तु के लिए अवतल लेंस द्वारा हमेशा किस प्रकार का प्रतिबिंब बनता है?",
+  "optsEn": [
+   "Real and inverted",
+   "Virtual and erect",
+   "Real and erect",
+   "Virtual and inverted"
+  ],
+  "optsHi": [
+   "वास्तविक और उल्टी",
+   "आभासी और सीधी",
+   "वास्तविक और सीधी",
+   "आभासी और उल्टी"
+  ],
+  "correct": 1,
+  "explainEn": "A concave lens always diverges light rays, producing a virtual, erect, and diminished image for any real object.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:51:08Z"
+ },
+ {
+  "id": "q_d5c413c738fbc0c2",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In a monohybrid cross of tall pea plants (TT) and dwarf pea plants (tt), what is the phenotypic ratio observed in the F2 generation?",
+  "qHi": "लंबे मटर के पौधों (TT) और बौने मटर के पौधों (tt) के एक संकर क्रॉस (मोनोहाइब्रिड क्रॉस) में F2 पीढ़ी में देखे जाने वाले दृश्यप्ररूप (फेनोटाइपिक) अनुपात क्या है?",
+  "optsEn": [
+   "1:2:1",
+   "3:1",
+   "9:3:3:1",
+   "2:1"
+  ],
+  "optsHi": [
+   "1:2:1",
+   "3:1",
+   "9:3:3:1",
+   "2:1"
+  ],
+  "correct": 1,
+  "explainEn": "The phenotypic ratio of the F2 generation in a standard monohybrid cross is 3 tall plants to 1 dwarf plant (3:1).",
+  "sourceHint": "NCERT Class 10 Science, Chapter 9: Heredity and Evolution",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:51:48Z"
+ },
+ {
+  "id": "q_8baf583b799c3273",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which part of the human nephron is specifically responsible for the selective reabsorption of useful materials such as glucose, amino acids, and major amounts of water?",
+  "qHi": "मानव वृक्काणु (नेफ्रॉन) का कौन सा भाग ग्लूकोज, अमीनो एसिड और पानी की बड़ी मात्रा जैसे उपयोगी पदार्थों के चयनात्मक पुन: अवशोषण के लिए विशेष रूप से जिम्मेदार है?",
+  "optsEn": [
+   "Glomerulus",
+   "Bowman's capsule",
+   "Proximal convoluted tubule",
+   "Collecting duct"
+  ],
+  "optsHi": [
+   "केशिकागुच्छ (ग्लोमेरुलस)",
+   "बाउमैन संपूट",
+   "समीपस्थ संवलित नलिका",
+   "संग्राहक नलिका"
+  ],
+  "correct": 2,
+  "explainEn": "As the filtrate flows along the proximal convoluted tubule (PCT), substances essential for the body are selectively reabsorbed back into the blood capillaries.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6: Life Processes",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:51:48Z"
+ },
+ {
+  "id": "q_7d9e11b11094593e",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "When white light passes through a prism, why does the red light bend the least among all the constituent colours of the spectrum?",
+  "qHi": "जब श्वेत प्रकाश किसी प्रिज्म से गुजरता है, तो स्पेक्ट्रम के सभी घटकों में से लाल रंग सबसे कम क्यों मुड़ता है?",
+  "optsEn": [
+   "It has the maximum speed in vacuum",
+   "It has the maximum wavelength and minimum refractive index for the glass",
+   "It is absorbed less by the glass medium",
+   "It has the minimum frequency among all colours"
+  ],
+  "optsHi": [
+   "निर्वात में इसकी चाल सबसे अधिक होती है",
+   "कांच के लिए इसकी तरंग दैर्ध्य अधिकतम और अपवर्तनांक न्यूनतम होता है",
+   "यह कांच के माध्यम द्वारा कम अवशोषित होता है",
+   "सभी रंगों में इसकी आवृत्ति न्यूनतम होती है"
+  ],
+  "correct": 1,
+  "explainEn": "Refraction depends inversely on wavelength. Red light has the longest wavelength in the visible spectrum and experiences the lowest refractive index in glass, bending the least.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 11: Human Eye and Colourful World",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:51:48Z"
+ },
+ {
+  "id": "q_b8831ac257c7c800",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Article of the Constitution of India provides the right to constitutional remedies, described by Dr. B.R. Ambedkar as the heart and soul of the Constitution?",
+  "qHi": "भारत के संविधान का कौन सा अनुच्छेद संवैधानिक उपचार का अधिकार प्रदान करता है, जिसे डॉ. बी.आर. अंबेडकर द्वारा संविधान का हृदय और आत्मा कहा गया है?",
+  "optsEn": [
+   "Article 14",
+   "Article 19",
+   "Article 21",
+   "Article 32"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14",
+   "अनुच्छेद 19",
+   "अनुच्छेद 21",
+   "अनुच्छेद 32"
+  ],
+  "correct": 3,
+  "explainEn": "Article 32 gives citizens the right to move the Supreme Court for the enforcement of Fundamental Rights, forming the procedural heart of constitutional safeguards.",
+  "sourceHint": "NCERT Class 10 Democratic Politics II, Chapter 5: Popular Struggles and Movements / Constitution text",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:51:48Z"
+ },
+ {
+  "id": "q_22d43afff1a1eb70",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which sector of the Indian economy currently produces the largest share of the Gross Domestic Product (GDP), surpassing the other two sectors?",
+  "qHi": "भारतीय अर्थव्यवस्था का कौन सा क्षेत्र वर्तमान में सकल घरेलू उत्पाद (GDP) का सबसे बड़ा हिस्सा पैदा करता है, जो अन्य दो क्षेत्रों से आगे निकल गया है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Quaternary sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "तृतीयक क्षेत्र",
+   "चतुर्धातुक क्षेत्र"
+  ],
+  "correct": 2,
+  "explainEn": "Over recent decades, the tertiary sector (service sector) has emerged as the largest producing sector in India, contributing more than half of the total GDP.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 2: Sectors of the Indian Economy",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:51:48Z"
+ },
+ {
+  "id": "q_59a7215e299ee5f5",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which major soil type found extensively in the Deccan trap region is formed from lava flows and is well-known for its high moisture retention capacity?",
+  "qHi": "दक्कन ट्रैप क्षेत्र में बड़े पैमाने पर पाई जाने वाली कौन सी प्रमुख मिट्टी लावा प्रवाह से बनती है और अपनी उच्च नमी धारण क्षमता के लिए जानी जाती है?",
+  "optsEn": [
+   "Laterite soil",
+   "Black soil",
+   "Red soil",
+   "Alluvial soil"
+  ],
+  "optsHi": [
+   "लैटेराइट मिट्टी",
+   "काली मिट्टी",
+   "लाल मिट्टी",
+   "जलोढ़ मिट्टी"
+  ],
+  "correct": 1,
+  "explainEn": "Black soil, also known as regur soil, is ideal for growing cotton and is formed from basaltic rock in the Deccan plateau region, noted for clayey texture and moisture retention.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 1: Resources and Development",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:51:48Z"
+ },
+ {
+  "id": "q_ccc7510c9ec41a2b",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What was the primary immediate objective of launching the Non-Cooperation Movement in India under Mahatma Gandhi's leadership in 1920?",
+  "qHi": "1920 में महात्मा गांधी के नेतृत्व में भारत में असहयोग आंदोलन शुरू करने का प्राथमिक तात्कालिक उद्देश्य क्या था?",
+  "optsEn": [
+   "Complete independence (Purna Swaraj)",
+   "Redressal of the Punjab wrongs, redressal of the Khilafat wrong, and attainment of Swaraj",
+   "Abolition of the salt tax across all provinces",
+   "Immediate withdrawal of British troops from India"
+  ],
+  "optsHi": [
+   "पूर्ण स्वतंत्रता (पूर्ण स्वराज)",
+   "पंजाब की ज्यादतियों का निवारण, खिलाफत के मुद्दे का समाधान, और स्वराज की प्राप्ति",
+   "सभी प्रांतों में नमक कर की समाप्ति",
+   "भारत से ब्रिटिश सैनिकों की तत्काल वापसी"
+  ],
+  "correct": 1,
+  "explainEn": "The Non-Cooperation movement resolution adopted in the Nagpur session explicitly sought remedies for the Jallianwala Bagh massacre (Punjab wrongs), the Khilafat grievance, and the attainment of Swaraj.",
+  "sourceHint": "NCERT Class 10 History, Chapter 3: Nationalism in India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T04:51:48Z"
  }
 ]
