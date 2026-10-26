@@ -21922,5 +21922,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-26T04:51:48Z"
+ },
+ {
+  "id": "q_17fc23442adaff2f",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a renewable resource?",
+  "qHi": "निम्नलिखित में से कौन सा एक नवीकरणीय संसाधन है?",
+  "optsEn": [
+   "Coal",
+   "Petroleum",
+   "Solar energy",
+   "Natural gas"
+  ],
+  "optsHi": [
+   "कोयला",
+   "पेट्रोलियम",
+   "सौर ऊर्जा",
+   "प्राकृतिक गैस"
+  ],
+  "correct": 2,
+  "explainEn": "Solar energy is inexhaustible and can be replenished naturally, making it a renewable resource.",
+  "sourceHint": "NCERT Class 10 Geography Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:41:30Z"
+ },
+ {
+  "id": "q_bf643c066b6cd267",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which level of government in India is empowered to make laws on the subjects included in the Union List?",
+  "qHi": "भारत में सरकार का कौन सा स्तर संघ सूची में शामिल विषयों पर कानून बनाने के लिए अधिकृत है?",
+  "optsEn": [
+   "Central Government",
+   "State Government",
+   "Local Municipal Corporation",
+   "Village Panchayat"
+  ],
+  "optsHi": [
+   "केंद्र सरकार",
+   "राज्य सरकार",
+   "स्थानीय नगर निगम",
+   "ग्राम पंचायत"
+  ],
+  "correct": 0,
+  "explainEn": "The Union Parliament or Central Government alone can make laws on subjects mentioned in the Union List.",
+  "sourceHint": "NCERT Class 10 Civics Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:41:30Z"
+ },
+ {
+  "id": "q_fcfb384f10e05edb",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following metals can displace copper from copper sulphate solution?",
+  "qHi": "निम्नलिखित में से कौन सी धातु कॉपर सल्फेट विलयन से कॉपर को विस्थापित कर सकती है?",
+  "optsEn": [
+   "Silver",
+   "Gold",
+   "Zinc",
+   "Mercury"
+  ],
+  "optsHi": [
+   "चांदी",
+   "सोना",
+   "जस्ता",
+   "पारा"
+  ],
+  "correct": 2,
+  "explainEn": "Zinc is more reactive than copper, placed above it in the reactivity series, and can displace copper from its salt solution.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:42:28Z"
+ },
+ {
+  "id": "q_75b11636bc5ad944",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is an example of a federal country according to the structure of government?",
+  "qHi": "सरकार की संरचना के अनुसार निम्नलिखित में से कौन सा एक संघीय देश का उदाहरण है?",
+  "optsEn": [
+   "Belgium",
+   "Saudi Arabia",
+   "China",
+   "United Kingdom"
+  ],
+  "optsHi": [
+   "बेल्जियम",
+   "सउदी अरब",
+   "चीन",
+   "यूनाइटेड किंगडम"
+  ],
+  "correct": 0,
+  "explainEn": "Belgium shifted to a federal model of government in the 1990s, dividing powers between the central government and regional governments.",
+  "sourceHint": "NCERT Class 10 Political Science, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:42:28Z"
  }
 ]

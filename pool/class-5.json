@@ -22174,5 +22174,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-26T04:51:36Z"
+ },
+ {
+  "id": "q_e2c26ce507bfe1b8",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these is a flightless bird?",
+  "qHi": "इनमें से कौन सा पक्षी उड़ नहीं सकता?",
+  "optsEn": [
+   "Crow",
+   "Pigeon",
+   "Penguin",
+   "Sparrow"
+  ],
+  "optsHi": [
+   "कौवा",
+   "कबूतर",
+   "पेंगुइन",
+   "गोरेया"
+  ],
+  "correct": 2,
+  "explainEn": "Penguins are aquatic, flightless birds found mainly in the Southern Hemisphere.",
+  "sourceHint": "NCERT Class 3-5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:41:22Z"
+ },
+ {
+  "id": "q_3932412f3a042c55",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which part of the Earth's surface is covered by water?",
+  "qHi": "पृथ्वी की सतह का कितना भाग पानी से ढका हुआ है?",
+  "optsEn": [
+   "About one-fourth",
+   "About half",
+   "About three-quarters",
+   "About one-tenth"
+  ],
+  "optsHi": [
+   "लगभग एक चौथाई",
+   "लगभग आधा",
+   "लगभग तीन-चौथाई",
+   "लगभग एक दसवां हिस्सा"
+  ],
+  "correct": 2,
+  "explainEn": "Approximately 71 percent, or about three-quarters, of the Earth's surface is covered with water.",
+  "sourceHint": "NCERT Class 5 Geography and Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:42:19Z"
+ },
+ {
+  "id": "q_69e84e631728b787",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian grain is commonly known as ragi?",
+  "qHi": "पारंपरिक भारतीय अनाज में से किसे आमतौर पर रागी के नाम से जाना जाता है?",
+  "optsEn": [
+   "Finger millet",
+   "Wheat",
+   "Maize",
+   "Rice"
+  ],
+  "optsHi": [
+   "फिंगर मिलिट (मडुआ)",
+   "गेहूं",
+   "मक्का",
+   "चावल"
+  ],
+  "correct": 0,
+  "explainEn": "Ragi is the common Indian name for finger millet, a nutritious grain grown widely in India.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:42:19Z"
  }
 ]

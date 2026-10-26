@@ -24694,5 +24694,341 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-26T04:51:54Z"
+ },
+ {
+  "id": "q_0161447e5530a4e2",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the name of India's first lunar probe launched by ISRO?",
+  "qHi": "इसरो द्वारा लॉन्च किए गए भारत के पहले चंद्र अन्वेषण मिशन का नाम क्या है?",
+  "optsEn": [
+   "Chandrayaan-1",
+   "Mangalyaan",
+   "Aryabhata",
+   "Bhaskara-I"
+  ],
+  "optsHi": [
+   "चंद्रयान-1",
+   "मंगलयान",
+   "आर्यभट्ट",
+   "भास्कर-I"
+  ],
+  "correct": 0,
+  "explainEn": "Chandrayaan-1 was India's first lunar probe, launched by the Indian Space Research Organisation in October 2008.",
+  "sourceHint": "ISRO",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:41:02Z"
+ },
+ {
+  "id": "q_c5a9687f0d58359b",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the molecular geometry of a methane molecule according to VSEPR theory?",
+  "qHi": "VSEPR सिद्धांत के अनुसार मीथेन अणु की आणविक ज्यामिति क्या है?",
+  "optsEn": [
+   "Square planar",
+   "Trigonal pyramidal",
+   "Tetrahedral",
+   "Linear"
+  ],
+  "optsHi": [
+   "वर्ग समतलीय",
+   "त्रिकोणीय पिरामिड",
+   "चतुष्फलकीय",
+   "रैखिक"
+  ],
+  "correct": 2,
+  "explainEn": "Methane (CH4) has four bond pairs around the central carbon atom with no lone pairs, resulting in a tetrahedral geometry with bond angles of 109.5 degrees.",
+  "sourceHint": "NCERT Class 11 Chemistry, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:41:55Z"
+ },
+ {
+  "id": "q_9c04bf6803b82677",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which type of market structure does a firm have zero control over the price of its product?",
+  "qHi": "किस प्रकार की बाजार संरचना में एक फर्म का अपने उत्पाद की कीमत पर शून्य नियंत्रण होता है?",
+  "optsEn": [
+   "Perfect competition",
+   "Monopoly",
+   "Monopolistic competition",
+   "Oligopoly"
+  ],
+  "optsHi": [
+   "पूर्ण प्रतियोगिता",
+   "एकाधिकार",
+   "एकाधिकारवादी प्रतियोगिता",
+   "अल्पाधिकार"
+  ],
+  "correct": 0,
+  "explainEn": "Under perfect competition, firms are price takers because there are a large number of buyers and sellers trading identical products.",
+  "sourceHint": "NCERT Class 12 Economics (Microeconomics), Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:41:55Z"
+ },
+ {
+  "id": "q_f047d8eee0d855ec",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who among the following was a prominent leader associated with the Bardoli Satyagraha of 1928?",
+  "qHi": "निम्नलिखित में से कौन 1928 के बारडोली सत्याग्रह से जुड़े एक प्रमुख नेता थे?",
+  "optsEn": [
+   "Vallabhbhai Patel",
+   "Jawaharlal Nehru",
+   "Subhas Chandra Bose",
+   "C. Rajagopalachari"
+  ],
+  "optsHi": [
+   "वल्लभभाई पटेल",
+   "जवाहरलाल नेहरू",
+   "सुभाष चंद्र बोस",
+   "सी. राजगोपालाचारी"
+  ],
+  "correct": 0,
+  "explainEn": "Vallabhbhai Patel successfully led the peasants of Bardoli in their resistance against enhanced land revenue in 1928.",
+  "sourceHint": "NCERT Class 12 History, Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:41:55Z"
+ },
+ {
+  "id": "q_38ede832b19e69e2",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which physical feature acts as a major climatic divide between the Indian subcontinent and Central Asia?",
+  "qHi": "कौन सी भौतिक विशेषता भारतीय उपमहाद्वीप और मध्य एशिया के बीच एक प्रमुख जलवायु विभाजक के रूप में कार्य करती है?",
+  "optsEn": [
+   "The Vindhya Range",
+   "The Himalayas",
+   "The Western Ghats",
+   "The Aravalli Range"
+  ],
+  "optsHi": [
+   "विंध्य श्रृंखला",
+   "हिमालय",
+   "पश्चिमी घाट",
+   "अरावली श्रृंखला"
+  ],
+  "correct": 1,
+  "explainEn": "The towering Himalayan mountain range prevents freezing winds from Central Asia from entering the Indian subcontinent, maintaining a relatively warmer climate.",
+  "sourceHint": "NCERT Class 11 Geography, India Physical Environment",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:41:55Z"
+ },
+ {
+  "id": "q_3aa530884a740d95",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In a partnership firm, if a partner guarantees a minimum profit to another partner, any deficiency in that share is generally borne by whom?",
+  "qHi": "साझेदारी फर्म में, यदि कोई साझीदार किसी अन्य साझीदार को न्यूनतम लाभ की गारंटी देता है, तो उस हिस्से में किसी भी कमी को आमतौर पर किसके द्वारा वहन किया जाता है?",
+  "optsEn": [
+   "The firm's creditors",
+   "The government",
+   "The remaining partners in their agreed ratio",
+   "The State bank"
+  ],
+  "optsHi": [
+   "फर्म के लेनदार",
+   "सरकार",
+   "शेष साझीदार उनके सहमत अनुपात में",
+   "राज्य बैंक"
+  ],
+  "correct": 2,
+  "explainEn": "When a partner is given a guarantee of minimum profit, any deficiency arising is borne by the other partners in their profit-sharing ratio or a specifically agreed ratio.",
+  "sourceHint": "NCERT Class 12 Accountancy, Partnership Accounts",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:41:55Z"
+ },
+ {
+  "id": "q_f582502d5f092124",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which enzyme is responsible for the continuous synthesis of the leading strand during DNA replication?",
+  "qHi": "डीएनए प्रतिकृति के दौरान अग्रणी स्ट्रैंड (leading strand) का निरंतर संश्लेषण कौन सा एंजाइम करता है?",
+  "optsEn": [
+   "DNA ligase",
+   "DNA polymerase III",
+   "RNA primase",
+   "DNA helicase"
+  ],
+  "optsHi": [
+   "डीएनए लाइगेज",
+   "डीएनए पॉलीमरेज़ III",
+   "आरएनए प्राइमेज",
+   "डीएनए हेलीकेज"
+  ],
+  "correct": 1,
+  "explainEn": "DNA polymerase III adds nucleotides continuously in the 5' to 3' direction on the leading strand.",
+  "sourceHint": "NCERT Biology Class 12, Chapter 6: Molecular Basis of Inheritance",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:42:34Z"
+ },
+ {
+  "id": "q_7aa4b98184639b47",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In a p-n junction diode, what causes the formation of the depletion region?",
+  "qHi": "एक p-n जंक्शन डायोड में, अवक्षय क्षेत्र (depletion region) के निर्माण का कारण क्या है?",
+  "optsEn": [
+   "Drift of electrons from p-side to n-side",
+   "Diffusion of majority charge carriers across the junction",
+   "Creation of electron-hole pairs due to thermal agitation",
+   "Application of a reverse bias voltage"
+  ],
+  "optsHi": [
+   "p-पक्ष से n-पक्ष तक इलेक्ट्रॉनों का बहाव",
+   "जंक्शन के पार बहुमत आवेश वाहकों का विसरण (diffusion)",
+   "थर्मल आंदोलन के कारण इलेक्ट्रॉन-होल युग्मों का निर्माण",
+   "रिवर्स बायस वोल्टेज का अनुप्रयोग"
+  ],
+  "correct": 1,
+  "explainEn": "Diffusion of electrons from the n-side to the p-side and holes from the p-side to the n-side creates an immobile ionized region near the junction.",
+  "sourceHint": "NCERT Physics Class 12, Chapter 14: Semiconductor Electronics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:42:34Z"
+ },
+ {
+  "id": "q_1f7c652092a517f3",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under Article 368 of the Constitution of India, which type of amendment requires ratification by the legislatures of not less than one-half of the States?",
+  "qHi": "भारत के संविधान के अनुच्छेद 368 के तहत, किस प्रकार के संशोधन के लिए कम से कम आधे राज्यों के विधानमंडलों द्वारा अनुसमर्थन की आवश्यकता होती है?",
+  "optsEn": [
+   "Creation of new States",
+   "Abolition or creation of Legislative Councils in States",
+   "Election of the President and its manner",
+   "Rules of procedure in Parliament"
+  ],
+  "optsHi": [
+   "नए राज्यों का निर्माण",
+   "राज्यों में विधान परिषदों का उत्सादन या सृजन",
+   "राष्ट्रपति का निर्वाचन और उसकी प्रक्रिया",
+   "संसद में प्रक्रिया के नियम"
+  ],
+  "correct": 2,
+  "explainEn": "Matters affecting federal provisions, such as the election of the President, require special majority in Parliament plus ratification by half of the State legislatures.",
+  "sourceHint": "Constitution of India, Article 368 / NCERT Political Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:42:34Z"
+ },
+ {
+  "id": "q_4c881c8e88e67259",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In Keynesian economics, what condition defines the equilibrium level of income in a two-sector economy?",
+  "qHi": "कीनेशियाई अर्थशास्त्र में, दो-क्षेत्रीय अर्थव्यवस्था में आय के संतुलन स्तर को कौन सी स्थिति परिभाषित करती है?",
+  "optsEn": [
+   "Aggregate Demand equals Aggregate Supply",
+   "Consumption equals Investment",
+   "Savings equals Tax revenue",
+   "Exports equal Imports"
+  ],
+  "optsHi": [
+   "समग्र मांग समग्र आपूर्ति के बराबर है",
+   "उपभोग निवेश के बराबर है",
+   "बचत कर राजस्व के बराबर है",
+   "निर्यात आयात के बराबर है"
+  ],
+  "correct": 0,
+  "explainEn": "Equilibrium in a simple two-sector macroeconomy is established where total output (Aggregate Supply) equals total spending (Aggregate Demand).",
+  "sourceHint": "NCERT Economics Class 12, Introductory Macroeconomics, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:42:34Z"
+ },
+ {
+  "id": "q_04e0108b26fe56b2",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specialized meristematic tissue is primarily responsible for secondary growth in dicotyledonous stems?",
+  "qHi": "द्विबीजपत्री तनों में द्वितीयक वृद्धि (secondary growth) के लिए मुख्य रूप से कौन सा विशिष्ट विभज्योतक ऊतक उत्तरदायी है?",
+  "optsEn": [
+   "Apical meristem",
+   "Intercalary meristem",
+   "Vascular cambium",
+   "Protoderm"
+  ],
+  "optsHi": [
+   "शीर्षस्थ विभज्योतक (Apical meristem)",
+   "अंतर्विष्ट विभज्योतक (Intercalary meristem)",
+   "संवहनी कैम्बियम (Vascular cambium)",
+   "प्रोटोडर्म"
+  ],
+  "correct": 2,
+  "explainEn": "Vascular cambium and cork cambium are lateral meristems responsible for the secondary growth, increasing girth in dicot stems.",
+  "sourceHint": "NCERT Biology Class 12 / Class 11 Botany, Anatomy of Flowering Plants",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:42:34Z"
+ },
+ {
+  "id": "q_629d209bd001658b",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the product formed when benzaldehyde reacts with concentrated sodium hydroxide?",
+  "qHi": "जब बेंजल्डिहाइड की अभिक्रिया सांद्र सोडियम हाइड्रोक्साइड के साथ कराई जाती है, तो कौन सा उत्पाद बनता है?",
+  "optsEn": [
+   "Benzyl alcohol and Sodium benzoate",
+   "Benzoic acid only",
+   "Toluene and Water",
+   "Acetophenone"
+  ],
+  "optsHi": [
+   "बेंजाइल अल्कोहल और सोडियम बेंजोएट",
+   "केवल बेंजोइक अम्ल",
+   "टॉलूईन और जल",
+   "एसिटोफिनोन"
+  ],
+  "correct": 0,
+  "explainEn": "Aldehydes without an alpha-hydrogen atom undergo Cannizzaro reaction with concentrated alkali to yield an alcohol and a salt of the carboxylic acid.",
+  "sourceHint": "NCERT Chemistry Class 12, Chapter 12: Aldehydes, Ketones and Carboxylic Acids",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:42:34Z"
  }
 ]

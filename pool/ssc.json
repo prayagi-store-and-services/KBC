@@ -16126,5 +16126,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-26T04:51:23Z"
+ },
+ {
+  "id": "q_9cbd6a0bb5507d4d",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the standard unit of measuring electrical current?",
+  "qHi": "विद्युत धारा मापने की मानक इकाई क्या है?",
+  "optsEn": [
+   "Volt",
+   "Ohm",
+   "Ampere",
+   "Watt"
+  ],
+  "optsHi": [
+   "वोट",
+   "ओम",
+   "एम्पीयर",
+   "वाट"
+  ],
+  "correct": 2,
+  "explainEn": "The ampere is the SI unit of electric current.",
+  "sourceHint": "NCERT Physics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:41:10Z"
+ },
+ {
+  "id": "q_97dbcd75cb9a6477",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which wind system is primarily responsible for the rainfall in the winter season over the northwestern part of India?",
+  "qHi": "भारत के उत्तर-पश्चिमी भाग में सर्दियों के मौसम में वर्षा के लिए मुख्य रूप से कौन सी पवन प्रणाली जिम्मेदार है?",
+  "optsEn": [
+   "South-West Monsoon",
+   "North-East Monsoon",
+   "Western Disturbances",
+   "Retreating Monsoon"
+  ],
+  "optsHi": [
+   "दक्षिण-पश्चिम मानसून",
+   "उत्तर-पूर्व मानसून",
+   "पश्चिमी विक्षोभ",
+   "लौटता हुआ मानसून"
+  ],
+  "correct": 2,
+  "explainEn": "Western Disturbances are extratropical storms originating in the Mediterranean region that bring sudden winter rain to the northwestern parts of the Indian subcontinent.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:42:06Z"
+ },
+ {
+  "id": "q_8d1daae07497edca",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The Khajuraho group of monuments, known for their Nagara-style temple architecture, was built by which dynasty?",
+  "qHi": "अपनी नागर शैली के मंदिर स्थापत्य के लिए प्रसिद्ध खजुराहो स्मारकों का समूह किस राजवंश द्वारा बनवाया गया था?",
+  "optsEn": [
+   "Chandelas",
+   "Pallavas",
+   "Cholas",
+   "Rashtrakutas"
+  ],
+  "optsHi": [
+   "चंदेल",
+   "पल्लव",
+   "चोल",
+   "राष्ट्रकूट"
+  ],
+  "correct": 0,
+  "explainEn": "The Khajuraho temples were built by the Chandela dynasty between 950 and 1050 CE in Madhya Pradesh.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:42:06Z"
+ },
+ {
+  "id": "q_d9f327daf6e5ffc8",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the reign of which Delhi Sultan was the 'Diwan-i-Kohi', a separate department for agriculture, established?",
+  "qHi": "किस दिल्ली सल्तनत के शासक के शासनकाल में कृषि के लिए एक अलग विभाग 'दीवान-ए-कोही' की स्थापना की गई थी?",
+  "optsEn": [
+   "Alauddin Khalji",
+   "Ghiyasuddin Tughlaq",
+   "Muhammad bin Tughlaq",
+   "Firoz Shah Tughlaq"
+  ],
+  "optsHi": [
+   "अलाउद्दीन खिलजी",
+   "घ्यासियों तुगलक",
+   "मुहम्मद बिन तुगलक",
+   "फिरोज शाह तुगलक"
+  ],
+  "correct": 2,
+  "explainEn": "Muhammad bin Tughlaq created the agricultural department known as Diwan-i-Kohi to bring uncultivated land under cultivation through state support.",
+  "sourceHint": "NCERT History - Medieval India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:43:06Z"
+ },
+ {
+  "id": "q_e211a32ce5746501",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Charter Act ended the commercial monopoly of the East India Company in India, except for the trade in tea and trade with China?",
+  "qHi": "किस चार्टर अधिनियम ने चाय के व्यापार और चीन के साथ व्यापार को छोड़कर, भारत में ईस्ट इंडिया कंपनी के व्यापारिक एकाधिकार को समाप्त कर दिया?",
+  "optsEn": [
+   "Regulating Act of 1773",
+   "Charter Act of 1813",
+   "Charter Act of 1833",
+   "Charter Act of 1853"
+  ],
+  "optsHi": [
+   "1773 का रेगुलेटिंग एक्ट",
+   "1813 का चार्टर अधिनियम",
+   "1833 का चार्टर अधिनियम",
+   "1853 का चार्टर अधिनियम"
+  ],
+  "correct": 1,
+  "explainEn": "The Charter Act of 1813 ended the Company's trade monopoly in India except for tea and trade with China, which were ended later in 1833.",
+  "sourceHint": "Indian Polity by M. Laxmikanth (Historical Background)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:43:06Z"
+ },
+ {
+  "id": "q_44efdaf1603ec1b6",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian state shares the maximum length of international land boundary?",
+  "qHi": "कौन सा भारतीय राज्य अधिकतम लंबाई की अंतर्राष्ट्रीय स्थलीय सीमा साझा करता है?",
+  "optsEn": [
+   "Arunachal Pradesh",
+   "Rajasthan",
+   "West Bengal",
+   "Jammu and Kashmir"
+  ],
+  "optsHi": [
+   "अरुणाचल प्रदेश",
+   "राजस्थान",
+   "पश्चिम बंगाल",
+   "जम्मू और कश्मीर"
+  ],
+  "correct": 2,
+  "explainEn": "West Bengal shares the longest international land border among Indian states, primarily with Bangladesh, followed by others.",
+  "sourceHint": "Ministry of Home Affairs, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:43:06Z"
+ },
+ {
+  "id": "q_2276099e03051414",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who founded the 'Atmiya Sabha' in Calcutta in the year 1815?",
+  "qHi": "वर्ष 1815 में कलकत्ता में 'आत्मीय सभा' की स्थापना किसने की थी?",
+  "optsEn": [
+   "Keshab Chandra Sen",
+   "Debendranath Tagore",
+   "Raja Ram Mohan Roy",
+   "Dayanand Saraswati"
+  ],
+  "optsHi": [
+   "केशव चंद्र सेन",
+   "देवेन्द्रनाथ टैगोर",
+   "राजा राम मोहन राय",
+   "दयानंद सरस्वती"
+  ],
+  "correct": 2,
+  "explainEn": "Raja Ram Mohan Roy founded Atmiya Sabha in 1815 as a philosophical discussion circle in Kolkata to campaign against social evils.",
+  "sourceHint": "Modern Indian History by Bipan Chandra",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:43:06Z"
  }
 ]

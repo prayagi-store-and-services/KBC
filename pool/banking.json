@@ -26094,5 +26094,425 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-26T04:51:28Z"
+ },
+ {
+  "id": "q_a66cb7f5ec1e4306",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'I' stand for in the abbreviation IFSC, which is used in electronic fund transfers in India?",
+  "qHi": "भारत में इलेक्ट्रॉनिक फंड ट्रांसफर में उपयोग होने वाले संक्षिप्त नाम IFSC में अक्षर 'I' का क्या अर्थ है?",
+  "optsEn": [
+   "Indian",
+   "International",
+   "Interbank",
+   "Institutional"
+  ],
+  "optsHi": [
+   "भारतीय",
+   "अंतर्राष्ट्रीय",
+   "इंटरबैंक",
+   "संस्थागत"
+  ],
+  "correct": 0,
+  "explainEn": "IFSC stands for Indian Financial System Code, an 11-character alphanumeric code used for NEFT, RTGS, and IMPS transactions.",
+  "sourceHint": "Reserve Bank of India website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:41:15Z"
+ },
+ {
+  "id": "q_8f9918d87512b103",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum deposit amount per depositor protected by DICGC in an insured bank in India?",
+  "qHi": "भारत में एक बीमित बैंक में DICGC द्वारा प्रति जमाकर्ता अधिकतम कितनी जमा राशि सुरक्षित है?",
+  "optsEn": [
+   "One lakh rupees",
+   "Two lakh rupees",
+   "Five lakh rupees",
+   "Ten lakh rupees"
+  ],
+  "optsHi": [
+   "एक लाख रुपये",
+   "दो लाख रुपये",
+   "पाँच लाख रुपये",
+   "दस लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "DICGC provides deposit insurance up to five lakh rupees per depositor per bank.",
+  "sourceHint": "Deposit Insurance and Credit Guarantee Corporation Act",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:41:15Z"
+ },
+ {
+  "id": "q_d55de420c6c14856",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which term refers to the interest rate at which the Reserve Bank of India absorbs liquidity from commercial banks?",
+  "qHi": "उस ब्याज दर को क्या कहते हैं जिस पर भारतीय रिजर्व बैंक वाणिज्यिक बैंकों से नकदी (तरलता) सोखता है?",
+  "optsEn": [
+   "Repo Rate",
+   "Reverse Repo Rate",
+   "Bank Rate",
+   "Prime Lending Rate"
+  ],
+  "optsHi": [
+   "रेपो रेट",
+   "रिवर्स रेपो रेट",
+   "बैंक रेट",
+   "प्रधान ऋण दर"
+  ],
+  "correct": 1,
+  "explainEn": "Reverse Repo Rate is the rate at which the central bank absorbs liquidity from commercial banks, while Repo Rate is the rate at which it injects liquidity.",
+  "sourceHint": "RBI Monetary Policy documents",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:41:15Z"
+ },
+ {
+  "id": "q_e5265717764d0196",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In the context of Indian banking, what does the letter 'A' stand for in CASA account?",
+  "qHi": "भारतीय बैंकिंग के संदर्भ में, CASA खाते में अक्षर 'A' का क्या अर्थ है?",
+  "optsEn": [
+   "Asset",
+   "Advance",
+   "Account",
+   "Annual"
+  ],
+  "optsHi": [
+   "एसेट",
+   "एडवांस",
+   "अकाउंट",
+   "एनुअल"
+  ],
+  "correct": 2,
+  "explainEn": "CASA stands for Current Account Savings Account, representing low-cost deposits for banks.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:41:15Z"
+ },
+ {
+  "id": "q_0fdad2424587f120",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which institution provides refinance facilities specifically for agriculture and rural development in India?",
+  "qHi": "भारत में कृषि और ग्रामीण विकास के लिए विशेष रूप से पुनर्वित्त सुविधा कौन सी संस्था प्रदान करती है?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "NHB"
+  ],
+  "optsHi": [
+   "सिडबी",
+   "नाबार्ड",
+   "एक्सिम बैंक",
+   "राष्ट्रीय आवास बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) is the apex development bank for agriculture and rural sectors in India.",
+  "sourceHint": "NABARD Act and official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:41:15Z"
+ },
+ {
+  "id": "q_32a3a0ab470b1e9e",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a specialized financial institution set up to promote, finance, and develop micro, small, and medium enterprises in India?",
+  "qHi": "निम्नलिखित में से कौन सी संस्था भारत में सूक्ष्म, लघु और मध्यम उद्यमों को बढ़ावा देने, वित्त पोषण करने और विकसित करने के लिए स्थापित एक विशेष वित्तीय संस्था है?",
+  "optsEn": [
+   "SIDBI",
+   "SEBI",
+   "IRDAI",
+   "FCI"
+  ],
+  "optsHi": [
+   "सिडबी",
+   "सेबी",
+   "इरडाई",
+   "भारतीय खाद्य निगम"
+  ],
+  "correct": 0,
+  "explainEn": "SIDBI (Small Industries Development Bank of India) is the principal financial institution for the promotion, financing, and development of MSMEs.",
+  "sourceHint": "SIDBI official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:41:15Z"
+ },
+ {
+  "id": "q_df555dafaddc9f5a",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which financial market deals with the issuance and trading of short-term debt instruments?",
+  "qHi": "कौन सा वित्तीय बाजार अल्पकालिक ऋण उपकरणों के निर्गम और व्यापार से संबंधित है?",
+  "optsEn": [
+   "Capital Market",
+   "Money Market",
+   "Foreign Exchange Market",
+   "Derivatives Market"
+  ],
+  "optsHi": [
+   "पूंजी बाजार",
+   "मुद्रा बाजार",
+   "विदेशी मुद्रा बाजार",
+   "डेरिवेटिव बाजार"
+  ],
+  "correct": 1,
+  "explainEn": "The money market is the financial market in which highly liquid and short-term debt instruments are traded.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:42:11Z"
+ },
+ {
+  "id": "q_22aca77bab643ad5",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'C' stand for in the abbreviation 'CASA' account used in banking?",
+  "qHi": "बैंकिंग में प्रयुक्त संक्षिप्त नाम 'CASA' खाते में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Credit",
+   "Current",
+   "Cash",
+   "Capital"
+  ],
+  "optsHi": [
+   "क्रेडिट",
+   "करेंट",
+   "कैश",
+   "कैपिटल"
+  ],
+  "correct": 1,
+  "explainEn": "CASA stands for Current Account Savings Account, referring to bank accounts that combine current and savings account features.",
+  "sourceHint": "Banking terminology handbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:42:11Z"
+ },
+ {
+  "id": "q_61fe3047fa6b1a83",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which statutory ratio requires commercial banks to maintain a certain percentage of their net demand and time liabilities in liquid assets?",
+  "qHi": "किस सांविधिक अनुपात के तहत वाणिज्यिक बैंकों को अपनी शुद्ध मांग and समय देयताओं का एक निश्चित प्रतिशत तरल परिसंपत्तियों में रखना आवश्यक है?",
+  "optsEn": [
+   "Cash Reserve Ratio",
+   "Statutory Liquidity Ratio",
+   "Capital Adequacy Ratio",
+   "Bank Rate"
+  ],
+  "optsHi": [
+   "नकद आरक्षित अनुपात",
+   "सांविधिक तरलता अनुपात",
+   "पूंजी पर्याप्तता अनुपात",
+   "बैंक दर"
+  ],
+  "correct": 1,
+  "explainEn": "Statutory Liquidity Ratio (SLR) is the minimum percentage of deposits that a commercial bank has to maintain in the form of gold, cash, or approved securities.",
+  "sourceHint": "Banking Regulation Act, 1949",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:42:11Z"
+ },
+ {
+  "id": "q_eebb30aff3245921",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following bodies in India is legally mandated to prescribe the liquidity coverage ratio (LCR) for scheduled commercial banks?",
+  "qHi": "भारत में निम्नलिखित में से किस निकाय को अनुसूचित वाणिज्यिक बैंकों के लिए तरलता कवरेज अनुपात (LCR) निर्धारित करने का कानूनी अधिकार प्राप्त है?",
+  "optsEn": [
+   "Securities and Exchange Board of India",
+   "Reserve Bank of India",
+   "Ministry of Finance",
+   "National Bank for Agriculture and Rural Development"
+  ],
+  "optsHi": [
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "भारतीय रिजर्व बैंक",
+   "वित्त मंत्रालय",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "Under the Banking Regulation Act, 1949 and RBI guidelines, the Reserve Bank of India regulates and prescribes liquidity standards such as the LCR for commercial banks.",
+  "sourceHint": "Reserve Bank of India Act and Master Circulars",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:43:13Z"
+ },
+ {
+  "id": "q_505eb74634d6a675",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary purpose of the 'Marginal Cost of Funds based Lending Rate' (MCLR) introduced by the RBI in 2016?",
+  "qHi": "2016 में आरबीआई द्वारा शुरू की गई 'धन की सीमांत लागत आधारित ऋण दर' (MCLR) का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To fix the statutory liquidity ratio for foreign banks",
+   "To improve the transmission of policy rates to lending rates",
+   "To determine the minimum capital adequacy ratio for NBFCs",
+   "To calculate the daily cash reserve ratio for cooperative banks"
+  ],
+  "optsHi": [
+   "विदेशी बैंकों के लिए सांविधिक तरलता अनुपात तय करना",
+   "ऋण दरों पर नीतिगत दरों के संचरण में सुधार करना",
+   "एनबीएफसी के लिए न्यूनतम पूंजी पर्याप्तता अनुपात निर्धारित करना",
+   "सहकारी बैंकों के लिए दैनिक नकद आरक्षित अनुपात की गणना करना"
+  ],
+  "correct": 1,
+  "explainEn": "MCLR was introduced to improve the monetary policy transmission through the banking system and ensure fairness in lending rates.",
+  "sourceHint": "RBI Guidelines and Financial Publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:43:13Z"
+ },
+ {
+  "id": "q_a97aa065e317d6a5",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian financial markets, what does the term 'G-Sec' primarily refer to?",
+  "qHi": "भारतीय वित्तीय बाजारों के संदर्भ में, 'जी-सेक' (G-Sec) शब्द मुख्य रूप से किसे संदर्भित करता है?",
+  "optsEn": [
+   "Gold Sovereign certificates issued by bullion banks",
+   "Tradeable instruments issued by the Central Government or State Governments",
+   "Guaranteed securities issued by public sector undertakings",
+   "Global secondary exchange bonds traded internationally"
+  ],
+  "optsHi": [
+   "बुलियन बैंकों द्वारा जारी स्वर्ण संप्रभु प्रमाण पत्र",
+   "केंद्र सरकार या राज्य सरकारों द्वारा जारी व्यापार योग्य उपकरण",
+   "सार्वजनिक क्षेत्र के उपक्रमों द्वारा जारी गारंटीकृत प्रतिभूतियां",
+   "अंतर्राष्ट्रीय स्तर पर कारोबार किए जाने वाले वैश्विक माध्यमिक विनिमय बांड"
+  ],
+  "correct": 1,
+  "explainEn": "Government Securities (G-Secs) are tradable instruments issued by the Central Government or the State Governments acknowledging their debt obligation.",
+  "sourceHint": "RBI Public Debt Office and NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:43:13Z"
+ },
+ {
+  "id": "q_157d65bfe2ff88a0",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which institutional arrangement functions as the lender of last resort for commercial banks in India?",
+  "qHi": "भारत में वाणिज्यिक बैंकों के अंतिम ऋणदाता के रूप में कौन सी संस्थागत व्यवस्था कार्य करती है?",
+  "optsEn": [
+   "State Bank of India",
+   "Reserve Bank of India",
+   "Deposit Insurance and Credit Guarantee Corporation",
+   "Indian Banks Association"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "भारतीय रिजर्व बैंक",
+   "डिपॉजिट इंश्योरेंस एंड क्रेडिट गारंटी कॉरपोरेशन",
+   "इंडियन बैंक्स एसोसिएशन"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India acts as the lender of last resort, providing emergency liquidity assistance to banks facing temporary liquidity crunches.",
+  "sourceHint": "RBI Functions and Structure, Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:43:13Z"
+ },
+ {
+  "id": "q_f9aa2bb4a9b6e521",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What does the 'CASA' ratio denote in the operational metrics of a commercial bank?",
+  "qHi": "वाणिज्यिक बैंक के परिचालन मेट्रिक्स में 'CASA' अनुपात क्या दर्शाता है?",
+  "optsEn": [
+   "Capital Adequacy to Statutory Assets ratio",
+   "Current Account and Savings Account deposit share in total deposits",
+   "Credit Allocation to Small Agriculture sector",
+   "Cost of Assets and Statutory Advances"
+  ],
+  "optsHi": [
+   "सांविधिक संपत्तियों के लिए पूंजी पर्याप्तता अनुपात",
+   "कुल जमा में चालू खाता और बचत खाता जमा का हिस्सा",
+   "छोटे कृषि क्षेत्र को ऋण आवंटन",
+   "संपत्तियों की लागत और सांविधिक अग्रिम"
+  ],
+  "correct": 1,
+  "explainEn": "CASA ratio measures the proportion of deposits a bank raises through current and savings accounts, which are low-cost funds compared to term deposits.",
+  "sourceHint": "Banking Operations and Financial Accounting Textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:43:13Z"
+ },
+ {
+  "id": "q_5dc99023d16332c1",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organization in India regulates the credit rating agencies operating within the domestic financial markets?",
+  "qHi": "भारत में कौन सा संगठन घरेलू वित्तीय बाजारों में काम करने वाली क्रेडिट रेटिंग एजेंसियों को नियंत्रित करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India",
+   "Insurance Regulatory and Development Authority",
+   "Competition Commission of India"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "बीमा विनियामक और विकास प्राधिकरण",
+   "भारतीय प्रतिस्पर्धा आयोग"
+  ],
+  "correct": 1,
+  "explainEn": "SEBI regulates credit rating agencies in India under the SEBI (Credit Rating Agencies) Regulations, 1999.",
+  "sourceHint": "SEBI Act and Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:43:13Z"
  }
 ]

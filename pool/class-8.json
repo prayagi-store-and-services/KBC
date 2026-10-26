@@ -18086,5 +18086,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-26T04:51:42Z"
+ },
+ {
+  "id": "q_f47631b50738cc75",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the name of the imaginary line running through the centre of the Earth on which it rotates?",
+  "qHi": "पृथ्वी के केंद्र से गुजरने वाली काल्पनिक रेखा जिस पर वह घूमती है, उसका नाम क्या है?",
+  "optsEn": [
+   "Axis",
+   "Orbit",
+   "Equator",
+   "Prime Meridian"
+  ],
+  "optsHi": [
+   "अक्ष",
+   "कक्षा",
+   "भूमध्य रेखा",
+   "प्रधान मध्याह्न रेखा"
+  ],
+  "correct": 0,
+  "explainEn": "The Earth rotates on its axis, which is an imaginary line passing through its centre.",
+  "sourceHint": "NCERT Class 8 Geography Chapter - Resources",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:41:26Z"
+ },
+ {
+  "id": "q_ed6dba81eeb7776e",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who was appointed as the Chairman of the Drafting Committee of the Indian Constitution?",
+  "qHi": "भारतीय संविधान की मसौदा समिति (प्रारूप समिति) के अध्यक्ष के रूप में किसे नियुक्त किया गया था?",
+  "optsEn": [
+   "Dr. Rajendra Prasad",
+   "Jawaharlal Nehru",
+   "Dr. B. R. Ambedkar",
+   "Sardar Vallabhbhai Patel"
+  ],
+  "optsHi": [
+   "डॉ. राजेंद्र प्रसाद",
+   "जवाहरलाल नेहरू",
+   "डॉ. बी. आर. अंबेडकर",
+   "सरदार वल्लभभाई पटेल"
+  ],
+  "correct": 2,
+  "explainEn": "Dr. B. R. Ambedkar served as the Chairman of the Drafting Committee for the Indian Constitution.",
+  "sourceHint": "NCERT Class 8 Civics Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:42:23Z"
+ },
+ {
+  "id": "q_419d8f4819c87545",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary gas found in the atmosphere of Earth by volume?",
+  "qHi": "आयतन के हिसाब से पृथ्वी के वायुमंडल में पाई जाने वाली मुख्य गैस कौन सी है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "आर्गन"
+  ],
+  "correct": 2,
+  "explainEn": "Nitrogen makes up about 78 percent of Earth's atmosphere by volume.",
+  "sourceHint": "NCERT Class 7 Geography Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:42:23Z"
  }
 ]

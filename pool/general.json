@@ -15930,5 +15930,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-26T04:50:54Z"
+ },
+ {
+  "id": "q_685b11cb0067c0c9",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which part of the Indian Constitution deals with Fundamental Rights?",
+  "qHi": "भारतीय संविधान का कौन सा भाग मौलिक अधिकारों से संबंधित है?",
+  "optsEn": [
+   "Part I",
+   "Part II",
+   "Part III",
+   "Part IV"
+  ],
+  "optsHi": [
+   "भाग I",
+   "भाग II",
+   "भाग III",
+   "भाग IV"
+  ],
+  "correct": 2,
+  "explainEn": "Part III of the Constitution of India, spanning articles 12 to 35, contains the Fundamental Rights.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-26T22:42:15Z"
  }
 ]
