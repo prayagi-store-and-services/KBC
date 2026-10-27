@@ -22902,5 +22902,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-27T18:07:55Z"
+ },
+ {
+  "id": "q_48aaa95e6ca3d8d0",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these Indian states is famous for the classical dance form Bharatanatyam?",
+  "qHi": "इनमें से कौन सा भारतीय राज्य भरतनाट्यम शास्त्रीय नृत्य शैली के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Tamil Nadu",
+   "Kerala",
+   "Odisha",
+   "Assam"
+  ],
+  "optsHi": [
+   "तमिलनाडु",
+   "केरल",
+   "ओडिशा",
+   "असम"
+  ],
+  "correct": 0,
+  "explainEn": "Bharatanatyam is a traditional classical dance style that originated in the state of Tamil Nadu.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:16:14Z"
+ },
+ {
+  "id": "q_ce4283e92edab9b8",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin is commonly known as the sunshine vitamin because the human body produces it when exposed to sunlight?",
+  "qHi": "किस विटामिन को आमतौर पर धूप का विटामिन कहा जाता है क्योंकि मानव शरीर सूर्य के प्रकाश के संपर्क में आने पर इसे उत्पन्न करता है?",
+  "optsEn": [
+   "Vitamin D",
+   "Vitamin C",
+   "Vitamin A",
+   "Vitamin K"
+  ],
+  "optsHi": [
+   "विटामिन डी",
+   "विटामिन सी",
+   "विटामिन ए",
+   "विटामिन के"
+  ],
+  "correct": 0,
+  "explainEn": "The skin synthesizes Vitamin D when exposed to ultraviolet B rays from sunlight.",
+  "sourceHint": "NCERT Class 5 Health and Nutrition basics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:16:14Z"
+ },
+ {
+  "id": "q_783fd891808471c4",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these animals is known to navigate during night using echolocation?",
+  "qHi": "इनमें से कौन सा जानवर रात के समय इकोलोकेशन (प्रतिध्वनि संan) का उपयोग करके रास्ता खोजने के लिए जाना जाता है?",
+  "optsEn": [
+   "Bat",
+   "Eagle",
+   "Cow",
+   "Frog"
+  ],
+  "optsHi": [
+   "चमगादड़",
+   "चील",
+   "गाय",
+   "मेंढक"
+  ],
+  "correct": 0,
+  "explainEn": "Bats emit high-pitched sounds and listen to the echoes to navigate and locate prey in the dark.",
+  "sourceHint": "NCERT Class 5 Science Chapter on Animals",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:16:14Z"
+ },
+ {
+  "id": "q_a7242322dbe7e72a",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which part of a flowering plant is primarily responsible for the production of pollen grains?",
+  "qHi": "फूल वाले पौधे का कौन सा भाग मुख्य रूप से पराग कणों के उत्पादन के लिए जिम्मेदार होता है?",
+  "optsEn": [
+   "Ovary",
+   "Sepal",
+   "Anther",
+   "Petal"
+  ],
+  "optsHi": [
+   "अंडाशय",
+   "बाह्य दल",
+   "परागकोष",
+   "पंखुड़ी"
+  ],
+  "correct": 2,
+  "explainEn": "The anther is the part of the stamen that produces and stores pollen grains.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:17:14Z"
+ },
+ {
+  "id": "q_341d7b0e20cf4cc9",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the specialized name given to lines drawn on a map that connect places having equal air pressure?",
+  "qHi": "मानचित्र पर खींची गई उन रेखाओं को क्या विशेष नाम दिया जाता है जो समान वायु दाब वाले स्थानों को जोड़ती हैं?",
+  "optsEn": [
+   "Contours",
+   "Isobars",
+   "Isotherms",
+   "Meridians"
+  ],
+  "optsHi": [
+   "समुच्चरेखाएं",
+   "समदाब रेखाएं",
+   "समताप रेखाएं",
+   "देशांतर"
+  ],
+  "correct": 1,
+  "explainEn": "Isobars are lines on a map connecting points of equal atmospheric pressure.",
+  "sourceHint": "NCERT Class 7 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:17:14Z"
+ },
+ {
+  "id": "q_5f80cdc269fd66c2",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which fundamental right enshrined in the Constitution of India guarantees equality of opportunity in matters of public employment?",
+  "qHi": "भारत के संविधान में निहित कौन सा मौलिक अधिकार सार्वजनिक रोजगार के मामलों में अवसर की समानता की गारंटी देता है?",
+  "optsEn": [
+   "Article 14",
+   "Article 16",
+   "Article 19",
+   "Article 21"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14",
+   "अनुच्छेद 16",
+   "अनुच्छेद 19",
+   "अनुच्छेद 21"
+  ],
+  "correct": 1,
+  "explainEn": "Article 16 of the Indian Constitution provides for equality of opportunity for all citizens in matters relating to employment or appointment to any office under the State.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:17:14Z"
+ },
+ {
+  "id": "q_372bc0a64372a697",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which distinct layer of the Earth is primarily composed of liquid iron and nickel, generating the Earth's magnetic field?",
+  "qHi": "पृथ्वी की कौन सी विशिष्ट परत मुख्य रूप से तरल लोहे और निकल से बनी है, जो पृथ्वी का चुंबकीय क्षेत्र उत्पन्न करती है?",
+  "optsEn": [
+   "Crust",
+   "Mantle",
+   "Outer core",
+   "Inner core"
+  ],
+  "optsHi": [
+   "भूपर्पटी",
+   "मैंटल",
+   "बाहरी क्रोड़",
+   "आंतरिक क्रोड़"
+  ],
+  "correct": 2,
+  "explainEn": "The outer core of the Earth is liquid and consists mainly of iron and nickel, whose movement creates the magnetic field.",
+  "sourceHint": "NCERT Class 7 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:17:14Z"
+ },
+ {
+  "id": "q_fe5247dd0fcfa6f5",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional Indian harvest festival is celebrated with bonfires and kite flying, typically falling in the month of January?",
+  "qHi": "कौन सा पारंपरिक भारतीय फसल उत्सव अलाव जलाकर और पतंगबाजी करके मनाया जाता है, जो आमतौर पर जनवरी के महीने में पड़ता है?",
+  "optsEn": [
+   "Onam",
+   "Pongal",
+   "Lohri",
+   "Bihu"
+  ],
+  "optsHi": [
+   "ओणम",
+   "पोंगल",
+   "लोहड़ी",
+   "बिहू"
+  ],
+  "correct": 2,
+  "explainEn": "Lohri is a popular winter folk festival in northern India, marked by bonfires and celebrations around the winter harvest.",
+  "sourceHint": "NCERT Class 6 Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:17:14Z"
+ },
+ {
+  "id": "q_66b0bc6537b5d7e4",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary scientific term for the process by which water vapor turns back into liquid water droplets in the atmosphere?",
+  "qHi": "उस प्रक्रिया के लिए मुख्य वैज्ञानिक शब्द क्या है जिसके द्वारा वायुमंडल में जल वाष्प वापस तरल पानी की बूंदों में बदल जाती है?",
+  "optsEn": [
+   "Evaporation",
+   "Condensation",
+   "Transpiration",
+   "Sublimation"
+  ],
+  "optsHi": [
+   "वाष्पीकरण",
+   "संघनन",
+   "वाष्पोत्सर्जन",
+   "ऊर्ध्वपातन"
+  ],
+  "correct": 1,
+  "explainEn": "Condensation is the process where water vapor cools and changes into liquid water, forming clouds.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:17:14Z"
+ },
+ {
+  "id": "q_5b2d53cfd4d09125",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organelle within a plant cell contains chlorophyll and is the site where photosynthesis takes place?",
+  "qHi": "पादप कोशिका के भीतर किस अंगक में क्लोरोफिल होता है और यह वह स्थान है जहाँ प्रकाश संश्लेषण होता है?",
+  "optsEn": [
+   "Mitochondria",
+   "Vacuole",
+   "Chloroplast",
+   "Ribosome"
+  ],
+  "optsHi": [
+   "माइटोकॉन्ड्रिया",
+   "रिक्तिका",
+   "हरित लवक",
+   "राइबोसोम"
+  ],
+  "correct": 2,
+  "explainEn": "Chloroplasts contain chlorophyll and are responsible for capturing light energy to make food in plants.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:17:14Z"
  }
 ]

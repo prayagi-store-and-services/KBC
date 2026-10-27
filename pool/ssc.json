@@ -16658,5 +16658,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-27T18:05:16Z"
+ },
+ {
+  "id": "q_f4a39da733c680f3",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Vijayanagar ruler is credited with founding the city of Nagalapuram in honor of his mother?",
+  "qHi": "किस विजयनगर शासक को अपनी माँ के सम्मान में नागलापुरम शहर की स्थापना का श्रेय दिया जाता है?",
+  "optsEn": [
+   "Devaraya II",
+   "Vira Narasimha",
+   "Krishnadevaraya",
+   "Achyuta Raya"
+  ],
+  "optsHi": [
+   "देवराय द्वितीय",
+   "वीर नरसिंह",
+   "कृष्णदेवराय",
+   "अच्युत राय"
+  ],
+  "correct": 2,
+  "explainEn": "Krishnadevaraya founded the suburban township of Nagalapuram in memory of his mother Nagalaidevi.",
+  "sourceHint": "NCERT Class 12 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:16:39Z"
+ },
+ {
+  "id": "q_f0bbb84ddeec1b3d",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which atmospheric layer do most weather phenomena take place?",
+  "qHi": "अधिकांश मौसमी घटनाएँ वायुमंडल की किस परत में घटित होती हैं?",
+  "optsEn": [
+   "Stratosphere",
+   "Troposphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "समताप मंडल",
+   "क्षोभ मंडल",
+   "मध्य मंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The troposphere is the lowest layer of the atmosphere where almost all weather changes and phenomena occur.",
+  "sourceHint": "NCERT Class 11 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:16:39Z"
+ },
+ {
+  "id": "q_2434f657395a1665",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the chemical name of the compound commonly known as washing soda?",
+  "qHi": "सामान्यतः धावन सोडा (वाशिंग सोडा) के रूप में जाने जाने वाले यौगिक का रासायनिक नाम क्या है?",
+  "optsEn": [
+   "Sodium bicarbonate",
+   "Sodium carbonate decahydrate",
+   "Sodium chloride",
+   "Sodium hydroxide"
+  ],
+  "optsHi": [
+   "सोडियम बाइकार्बोनेट",
+   "सोडियम कार्बोनेट डेकाहाइड्रेट",
+   "सोडियम क्लोराइड",
+   "सोडियम हाइड्रोक्साइड"
+  ],
+  "correct": 1,
+  "explainEn": "Washing soda is sodium carbonate decahydrate with the chemical formula Na2CO3.10H2O.",
+  "sourceHint": "NCERT Class 10 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:16:39Z"
  }
 ]

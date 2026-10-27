@@ -16742,5 +16742,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-27T18:07:36Z"
+ },
+ {
+  "id": "q_09a7dbc65d68d5b4",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas do green plants primarily absorb from the atmosphere for photosynthesis?",
+  "qHi": "हरे पौधे प्रकाश संश्लेषण के लिए मुख्य रूप से वायुमंडल से कौन सी गैस अवशोषित करते हैं?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Plants use carbon dioxide, water, and sunlight to produce food during photosynthesis.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:15:09Z"
+ },
+ {
+  "id": "q_26426ed7c2313fc8",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who wrote the Sanskrit treatise on statecraft, the Arthashastra?",
+  "qHi": "राज्यकला पर संस्कृत ग्रंथ 'अर्थशास्त्र' की रचना किसने की थी?",
+  "optsEn": [
+   "Kalidasa",
+   "Banabhatta",
+   "Kautilya",
+   "Patanjali"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "बाणभट्ट",
+   "कौटिल्य",
+   "पतंजलि"
+  ],
+  "correct": 2,
+  "explainEn": "The Arthashastra was authored by Kautilya, also known as Chanakya or Vishnugupta.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:16:49Z"
+ },
+ {
+  "id": "q_4eeb1f064885ce31",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form of India originated in the state of Kerala and features elaborate facial makeup and vibrant costumes?",
+  "qHi": "भारत की कौन सी शास्त्रीय नृत्य शैली केरल राज्य में उत्पन्न हुई है और इसमें विस्तृत चेहरे की मेकअप और जीवंत वेशभूषा शामिल है?",
+  "optsEn": [
+   "Bharatnatyam",
+   "Kuchipudi",
+   "Kathakali",
+   "Odissi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कुचिपुड़ी",
+   "कथकली",
+   "ओडिसी"
+  ],
+  "correct": 2,
+  "explainEn": "Kathakali is a major form of classical Indian dance known for its heavy makeup, intricate costumes, and storytelling from Hindu epics.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:16:49Z"
+ },
+ {
+  "id": "q_efe38735d7f39f0e",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organ in the human body primarily produces the protein albumin?",
+  "qHi": "मानव शरीर में कौन सा अंग मुख्य रूप से एल्बुमिन प्रोटीन का उत्पादन करता है?",
+  "optsEn": [
+   "Kidney",
+   "Liver",
+   "Pancreas",
+   "Spleen"
+  ],
+  "optsHi": [
+   "गुर्दा",
+   "यकृत",
+   "अग्न्याशय",
+   "प्लीहा"
+  ],
+  "correct": 1,
+  "explainEn": "Albumin is a protein made specifically by the liver, playing a crucial role in maintaining fluid balance in the blood.",
+  "sourceHint": "NCERT Class 11 Biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:16:49Z"
+ },
+ {
+  "id": "q_f4eeaefe37eece1a",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the chemical symbol for the metallic element gold?",
+  "qHi": "धात्विक तत्व सोने (Gold) का रासायनिक प्रतीक क्या है?",
+  "optsEn": [
+   "Ag",
+   "Au",
+   "Pb",
+   "Fe"
+  ],
+  "optsHi": [
+   "Ag",
+   "Au",
+   "Pb",
+   "Fe"
+  ],
+  "correct": 1,
+  "explainEn": "The chemical symbol for gold is Au, derived from the Latin word 'aurum', meaning shining dawn.",
+  "sourceHint": "NCERT Class 9 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:16:49Z"
  }
 ]

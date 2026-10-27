@@ -27438,5 +27438,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-27T18:05:52Z"
+ },
+ {
+  "id": "q_29506d865284ebde",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization regulates the issuance and operations of Credit Information Companies (CICs) in India?",
+  "qHi": "भारत में क्रेडिट इंफॉर्मेशन कंपनियों (CICs) के जारी करने और संचालन को कौन सा संगठन विनियमित करता है?",
+  "optsEn": [
+   "SEBI",
+   "RBI",
+   "IRDAI",
+   "NABARD"
+  ],
+  "optsHi": [
+   "SEBI",
+   "RBI",
+   "IRDAI",
+   "NABARD"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India (RBI) regulates credit information companies such as CIBIL under the Credit Information Companies (Regulation) Act, 2005.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:15:46Z"
+ },
+ {
+  "id": "q_b26ba5197087e69c",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a specialized bank in India primarily established to cater to the agricultural and rural sector?",
+  "qHi": "निम्नलिखित में से कौन सा भारत में एक विशिष्ट बैंक है जो मुख्य रूप से कृषि और ग्रामीण क्षेत्र को पूरा करने के लिए स्थापित किया गया है?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "IDBI Bank"
+  ],
+  "optsHi": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "IDBI Bank"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) is a development bank focusing on agriculture and rural development in India.",
+  "sourceHint": "NABARD Official Portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:15:46Z"
+ },
+ {
+  "id": "q_85ea05a4acb7dea5",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the term 'CASA' commonly refer to in banking terminology?",
+  "qHi": "बैंकिंग शब्दावली में 'CASA' शब्द आमतौर पर किसे संदर्भित करता है?",
+  "optsEn": [
+   "Current Account Saving Account",
+   "Credit And Saving Asset",
+   "Capital Adequacy Standard Asset",
+   "Cash Assets and Security Accounts"
+  ],
+  "optsHi": [
+   "Current Account Saving Account",
+   "Credit And Saving Asset",
+   "Capital Adequacy Standard Asset",
+   "Cash Assets and Security Accounts"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account Savings Account, which represents bank deposits in current and savings accounts.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:15:46Z"
+ },
+ {
+  "id": "q_19af8af1038410ed",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is the central banking institution of India that controls monetary policy?",
+  "qHi": "निम्नलिखित में से कौन सा भारत का केंद्रीय बैंकिंग संस्थान है जो मौद्रिक नीति को नियंत्रित करता है?",
+  "optsEn": [
+   "State Bank of India",
+   "Ministry of Finance",
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "State Bank of India",
+   "Ministry of Finance",
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India"
+  ],
+  "correct": 2,
+  "explainEn": "The Reserve Bank of India (RBI) is India's central bank and regulatory body responsible for the regulation of the Indian banking system and monetary policy.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:15:46Z"
+ },
+ {
+  "id": "q_c41355e6034192ce",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In the context of banking cards, what does the 'CVV' number on the back of a debit or credit card stand for?",
+  "qHi": "बैंकिंग कार्ड के संदर्भ में, डेबिट या क्रेडिट कार्ड के पीछे 'CVV' नंबर का क्या अर्थ है?",
+  "optsEn": [
+   "Card Verification Value",
+   "Customer Validation Voucher",
+   "Credit Verification Variable",
+   "Cash Value Voucher"
+  ],
+  "optsHi": [
+   "Card Verification Value",
+   "Customer Validation Voucher",
+   "Credit Verification Variable",
+   "Cash Value Voucher"
+  ],
+  "correct": 0,
+  "explainEn": "CVV stands for Card Verification Value, a security feature for card not present transactions.",
+  "sourceHint": "RBI Guidelines on Card Transactions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:15:46Z"
+ },
+ {
+  "id": "q_d4cd0b02f253bdf2",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'S' stand for in the acronym 'SLR', which is a mandatory liquidity requirement for commercial banks in India?",
+  "qHi": "संक्षिप्त नाम 'SLR' में 'S' का क्या अर्थ है, जो भारत में वाणिज्यिक बैंकों के लिए एक अनिवार्य तरलता आवश्यकता है?",
+  "optsEn": [
+   "Saving",
+   "Statutory",
+   "Securities",
+   "Standard"
+  ],
+  "optsHi": [
+   "Saving",
+   "Statutory",
+   "Securities",
+   "Standard"
+  ],
+  "correct": 1,
+  "explainEn": "SLR stands for Statutory Liquidity Ratio, the minimum percentage of deposits that a commercial bank has to maintain in the form of liquid cash, gold or other securities.",
+  "sourceHint": "Banking Regulation Act, 1949",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:15:46Z"
+ },
+ {
+  "id": "q_20c5204de322f36a",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a promissory note must contain an unconditional undertaking to pay a certain sum of. What does it involve?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, एक promissory note (वचन पत्र) में एक निश्चित राशि का भुगतान करने का बिना शर्त उपक्रम होना चाहिए। इसमें क्या शामिल है?",
+  "optsEn": [
+   "Money only",
+   "Goods and services",
+   "Gold or bullion",
+   "Foreign currency assets"
+  ],
+  "optsHi": [
+   "केवल धन",
+   "वस्तुएं और सेवाएं",
+   "सोना या बुलियन",
+   "विदेशी मुद्रा संपत्ति"
+  ],
+  "correct": 0,
+  "explainEn": "A promissory note is an instrument in writing containing an unconditional undertaking, signed by the maker, to pay a certain sum of money only to a certain person.",
+  "sourceHint": "Negotiable Instruments Act, 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:16:45Z"
+ },
+ {
+  "id": "q_17bdf58a0f534369",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does 'M3' broad money measure in the Indian monetary aggregates system primarily include?",
+  "qHi": "भारतीय मौद्रिक समुच्चय प्रणाली में 'M3' व्यापक धन माप में मुख्य रूप से क्या शामिल है?",
+  "optsEn": [
+   "Currency with the public plus demand deposits only",
+   "Currency with the public plus total postal deposits",
+   "M1 plus net time deposits with the banking system",
+   "Total foreign reserves held by the RBI"
+  ],
+  "optsHi": [
+   "जनता के पास मुद्रा और केवल मांग जमा",
+   "जनता के पास मुद्रा और कुल डाक जमा",
+   "M1 प्लस बैंकिंग प्रणाली के पास शुद्ध समय जमा",
+   "RBI द्वारा आयोजित कुल विदेशी भंडार"
+  ],
+  "correct": 2,
+  "explainEn": "M3 is known as broad money and is calculated as M1 (Currency with public + Demand deposits + Other deposits with RBI) plus Net time deposits with the banking system.",
+  "sourceHint": "RBI Bulletin & Monetary Policy Reports",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:16:45Z"
  }
 ]

@@ -22818,5 +22818,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-27T18:08:08Z"
+ },
+ {
+  "id": "q_147074fba2ece39e",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who elects the members of the Lok Sabha in India?",
+  "qHi": "भारत में लोकसभा के सदस्यों का चुनाव कौन करता है?",
+  "optsEn": [
+   "Prime Minister",
+   "The People of India",
+   "State Governors",
+   "Supreme Court Judges"
+  ],
+  "optsHi": [
+   "प्रधान मंत्री",
+   "भारत के लोग",
+   "राज्य के राज्यपाल",
+   "सुप्रीम कोर्ट के न्यायाधीश"
+  ],
+  "correct": 1,
+  "explainEn": "Lok Sabha members are directly elected by the eligible citizens of India through general elections.",
+  "sourceHint": "NCERT Class 10 Democratic Politics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:15:30Z"
+ },
+ {
+  "id": "q_89bcd225131e31ea",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which level of government in India possesses the power to legislate on subjects included in the Union List?",
+  "qHi": "भारत में सरकार के किस स्तर के पास संघ सूची में शामिल विषयों पर कानून बनाने की शक्ति है?",
+  "optsEn": [
+   "State Government",
+   "Union Government",
+   "Local Municipal Corporation",
+   "Village Panchayat"
+  ],
+  "optsHi": [
+   "राज्य सरकार",
+   "केंद्र सरकार",
+   "स्थानीय नगर निगम",
+   "ग्राम पंचायत"
+  ],
+  "correct": 1,
+  "explainEn": "According to the Indian Constitution, the Union Parliament alone has the power to make laws on subjects contained in the Union List.",
+  "sourceHint": "NCERT Class 10 Civics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:16:23Z"
  }
 ]

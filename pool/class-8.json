@@ -18870,5 +18870,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-27T18:08:00Z"
+ },
+ {
+  "id": "q_969578b56c499c55",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which microorganism fixes nitrogen in the root nodules of leguminous plants?",
+  "qHi": "कौन सा सूक्ष्मजीव फलीदार पौधों की जड़ की गांठों में नाइट्रोजन स्थिरीकरण करता है?",
+  "optsEn": [
+   "Rhizobium",
+   "Lactobacillus",
+   "Yeast",
+   "Amoeba"
+  ],
+  "optsHi": [
+   "राइबोज़ियम",
+   "लैक्टोबैसिलस",
+   "खमीर",
+   "अमीबा"
+  ],
+  "correct": 0,
+  "explainEn": "Rhizobium bacteria live in the root nodules of leguminous plants and fix atmospheric nitrogen.",
+  "sourceHint": "NCERT Class 8 Science Chapter - Microorganisms: Friend and Foe",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:15:16Z"
+ },
+ {
+  "id": "q_9333a601c6987a9c",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Under which British policy were kingdoms annexed if a ruler died without a natural male heir?",
+  "qHi": "किस ब्रिटिश नीति के तहत किसी शासक की प्राकृतिक पुरुष वारिस के बिना मृत्यु हो जाने पर राज्यों का विलय कर लिया जाता था?",
+  "optsEn": [
+   "Subsidiary Alliance",
+   "Doctrine of Lapse",
+   "Permanent Settlement",
+   "Rowlatt Act"
+  ],
+  "optsHi": [
+   "सहायक संधि",
+   "हप्च का सिद्धांत",
+   "स्थाई बंदोबस्त",
+   "रॉलेट एक्ट"
+  ],
+  "correct": 1,
+  "explainEn": "The Doctrine of Lapse was introduced by Lord Dalhousie to annex princely states.",
+  "sourceHint": "NCERT Class 8 History Chapter - When People Rebel",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:15:16Z"
+ },
+ {
+  "id": "q_2e3435362d4156fe",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During which phase of the Moon do spring tides occur?",
+  "qHi": "चंद्रमा की किस कला के दौरान दीर्घ ज्वार (स्प्रिंग टाइड) आते हैं?",
+  "optsEn": [
+   "New moon and Full moon",
+   "First quarter and Last quarter",
+   "Crescent moon only",
+   "Gibbous moon only"
+  ],
+  "optsHi": [
+   "अमावस्या और पूर्णिमा",
+   "प्रथम चतुर्थांश और अंतिम चतुर्थांश",
+   "केवल वर्धमान चंद्रमा",
+   "केवल कूबड़ वाला चंद्रमा"
+  ],
+  "correct": 0,
+  "explainEn": "Spring tides occur when the Sun, Earth, and Moon are aligned during new moon and full moon phases, combining their gravitational pulls.",
+  "sourceHint": "NCERT Class 7 Geography, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:17:20Z"
+ },
+ {
+  "id": "q_be39af70e7c0935f",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific plant tissue is primarily responsible for the transport of water and dissolved minerals from the roots to the leaves?",
+  "qHi": "कौन सा विशिष्ट पादप ऊतक मुख्य रूप से जड़ों से पत्तियों तक जल और घुले हुए खनिजों के परिवहन के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Phloem",
+   "Xylem",
+   "Cortex",
+   "Cambium"
+  ],
+  "optsHi": [
+   "फ्लोएम",
+   "ज़ाइलम",
+   "कॉर्टेक्स",
+   "कैम्बियम"
+  ],
+  "correct": 1,
+  "explainEn": "Xylem is the specialized vascular tissue in plants that transports water and nutrients upward from the roots.",
+  "sourceHint": "NCERT Class 7 Science, Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:17:20Z"
+ },
+ {
+  "id": "q_9d2ebd8429f63870",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following metals is stored under kerosene to prevent accidental ignition through reaction with moisture and oxygen in the air?",
+  "qHi": "निम्नलिखित में से किस धातु को हवा में नमी और ऑक्सीजन के साथ प्रतिक्रिया करके आकस्मिक आग लगने से बचाने के लिए मिट्टी के तेल के अंदर रखा जाता है?",
+  "optsEn": [
+   "Copper",
+   "Iron",
+   "Sodium",
+   "Aluminum"
+  ],
+  "optsHi": [
+   "तांबा",
+   "लोहा",
+   "सोडियम",
+   "एल्युमीनियम"
+  ],
+  "correct": 2,
+  "explainEn": "Sodium is a highly reactive metal that reacts vigorously with oxygen and moisture, so it is stored in kerosene.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:17:20Z"
+ },
+ {
+  "id": "q_8d72bec6a884fc5b",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which component of the Indian Parliament consists of members who are indirectly elected by the elected members of the State Legislative Assemblies?",
+  "qHi": "भारतीय संसद के किस अंग में ऐसे सदस्य शामिल होते हैं जो राज्य विधानसभाओं के निर्वाचित सदस्यों द्वारा अप्रत्यक्ष रूप से चुने जाते हैं?",
+  "optsEn": [
+   "Lok Sabha",
+   "Rajya Sabha",
+   "Cabinet",
+   "Supreme Court"
+  ],
+  "optsHi": [
+   "लोकसभा",
+   "राज्यसभा",
+   "मंत्रिमंडल",
+   "उच्चतम न्यायालय"
+  ],
+  "correct": 1,
+  "explainEn": "The Rajya Sabha is the Upper House of Parliament whose members are indirectly elected by the elected MLAs of states.",
+  "sourceHint": "NCERT Class 8 Civics, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:17:20Z"
+ },
+ {
+  "id": "q_924124abe5a9c6d2",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of force is friction, which always acts in the direction opposite to the relative motion of surfaces in contact?",
+  "qHi": "घर्षण किस प्रकार का बल है, जो हमेशा संपर्क में आने वाली सतहों की सापेक्ष गति की विपरीत दिशा में कार्य करता है?",
+  "optsEn": [
+   "Non-contact force",
+   "Contact force",
+   "Magnetic force",
+   "Electrostatic force"
+  ],
+  "optsHi": [
+   "असंपर्क बल",
+   "संपर्क बल",
+   "चुंबकीय बल",
+   "स्थिरवैद्युत बल"
+  ],
+  "correct": 1,
+  "explainEn": "Friction is a contact force that arises when two surfaces physically touch and move relative to each other.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:17:20Z"
+ },
+ {
+  "id": "q_c1051a70f2ba2637",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of British agrarian policies in colonial India, what does the term 'Mahal' refer to?",
+  "qHi": "औपनिवेशिक भारत में ब्रिटिश कृषि नीतियों के संदर्भ में, 'महल' शब्द किससे संबंधित है?",
+  "optsEn": [
+   "A royal palace",
+   "A revenue estate consisting of one or more villages",
+   "A central tax collection office",
+   "An individual peasant cultivator"
+  ],
+  "optsHi": [
+   "एक शाही महल",
+   "एक या अधिक गांवों से बनी राजस्व संपदा",
+   "एक केंद्रीय कर संग्रह कार्यालय",
+   "एक व्यक्तिगत किसान काश्तकार"
+  ],
+  "correct": 1,
+  "explainEn": "Under the Mahalwari settlement, the revenue was assessed on the 'Mahal', which was a village or a group of villages.",
+  "sourceHint": "NCERT Class 8 History, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:17:20Z"
+ },
+ {
+  "id": "q_f26cbed43ac4ff87",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which microorganism is commonly used in commercial bakeries to make bread rise by producing carbon dioxide during fermentation?",
+  "qHi": "किण्वन के दौरान कार्बन डाइऑक्साइड उत्पन्न करके ब्रेड को फुलाने के लिए व्यावसायिक बेकरियों में आमतौर पर किस सूक्ष्मजीव का उपयोग किया जाता है?",
+  "optsEn": [
+   "Lactobacillus",
+   "Yeast",
+   "Amoeba",
+   "Rhizobium"
+  ],
+  "optsHi": [
+   "लैक्टोबैसिलस",
+   "खमीर (यीस्ट)",
+   "अमीबा",
+   "राइजोबियम"
+  ],
+  "correct": 1,
+  "explainEn": "Yeast reproduces rapidly and respires anaerobically, producing carbon dioxide gas bubbles that trap in dough, making bread rise.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:17:20Z"
  }
 ]

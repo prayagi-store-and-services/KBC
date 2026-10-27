@@ -25534,5 +25534,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-27T18:03:44Z"
+ },
+ {
+  "id": "q_18548c679e9e9fa0",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which coordination compound is commonly used as an effective anti-cancer agent?",
+  "qHi": "किस समन्वय यौगिक (कोऑर्डिनेशन कंपाउंड) का उपयोग आमतौर पर एक प्रभावी कैंसर-रोधी एजेंट के रूप में किया जाता है?",
+  "optsEn": [
+   "Cisplatin",
+   "Sodium nitroprusside",
+   "Potassium ferrocyanide",
+   "EDTA calcium complex"
+  ],
+  "optsHi": [
+   "सिस्प्लैटिन",
+   "सोडियम नाइट्रोप्रुसाइड",
+   "पोटेशियम फेरोसाइनाइड",
+   "EDTA कैल्शियम कॉम्प्लेक्स"
+  ],
+  "correct": 0,
+  "explainEn": "Cisplatin, a coordination complex of platinum, is widely used in chemotherapy to treat various types of cancers.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 9",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:16:28Z"
+ },
+ {
+  "id": "q_613949384ad3cc63",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In economics, which curve represents the inverse relationship between the rate of inflation and the rate of unemployment?",
+  "qHi": "अर्थशास्त्र में, कौन सा वक्र मुद्रास्फीति की दर और बेरोजगारी की दर के बीच व्युत्क्रम संबंध को दर्शाता है?",
+  "optsEn": [
+   "Phillips curve",
+   "Laffer curve",
+   "Demand curve",
+   "Indifference curve"
+  ],
+  "optsHi": [
+   "फिलिप्स वक्र",
+   "लाफर वक्र",
+   "मांग वक्र",
+   "उदासीनता वक्र"
+  ],
+  "correct": 0,
+  "explainEn": "The Phillips curve illustrates an inverse relationship between inflation and unemployment in an economy.",
+  "sourceHint": "NCERT Class 12 Economics - Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:16:28Z"
+ },
+ {
+  "id": "q_4523fbade354d902",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which historical site is associated with the Indus Valley Civilization and features a famous dockyard?",
+  "qHi": "कौन सा ऐतिहासिक स्थल सिंधु घाटी सभ्यता से जुड़ा है और एक प्रसिद्ध गोदी (डॉकिंग यार्ड) की विशेषता रखता है?",
+  "optsEn": [
+   "Harappa",
+   "Mohenjo-daro",
+   "Lothal",
+   "Kalibangan"
+  ],
+  "optsHi": [
+   "हड़प्पा",
+   "मोहनजोदड़ो",
+   "लोथल",
+   "कालीबंगा"
+  ],
+  "correct": 2,
+  "explainEn": "Lothal in Gujarat is well-known for its massive tidal dockyard, indicating maritime trade during the Indus Valley Civilization.",
+  "sourceHint": "NCERT Class 12 History, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:16:28Z"
+ },
+ {
+  "id": "q_54edd4ff36bd8ba4",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which biogeochemical cycle does not have a significant gaseous phase in the atmosphere?",
+  "qHi": "किस जैव-भू-रासायनिक चक्र का वायुमंडल में कोई महत्वपूर्ण गैसीय चरण नहीं होता है?",
+  "optsEn": [
+   "Nitrogen cycle",
+   "Carbon cycle",
+   "Phosphorus cycle",
+   "Oxygen cycle"
+  ],
+  "optsHi": [
+   "नाइट्रोजन चक्र",
+   "कार्बन चक्र",
+   "फास्फोरस चक्र",
+   "ऑक्सीजन चक्र"
+  ],
+  "correct": 2,
+  "explainEn": "Unlike carbon, nitrogen, and oxygen, phosphorus has primarily a sedimentary cycle with no major gaseous reservoir in the atmosphere.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:16:28Z"
+ },
+ {
+  "id": "q_bc2f17a9b1c5bfba",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of enzyme is responsible for joining together two DNA strands by forming phosphodiester bonds?",
+  "qHi": "फॉस्फोडिएस्टर बांड बनाकर दो डीएनए स्ट्रैंड्स को आपस में जोड़ने के लिए कौन सा एंजाइम जिम्मेदार होता है?",
+  "optsEn": [
+   "DNA polymerase",
+   "Restriction endonuclease",
+   "DNA ligase",
+   "RNA polymerase"
+  ],
+  "optsHi": [
+   "डीएनए पोलीमरेज़",
+   "रेस्टीच्यूशन एंडोन्यूक्लीज",
+   "डीएनए लाइगेज",
+   "आरएनए पोलीमरेज़"
+  ],
+  "correct": 2,
+  "explainEn": "DNA ligase facilitates the joining of DNA strands together by catalyzing the formation of phosphodiester bonds.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:16:28Z"
+ },
+ {
+  "id": "q_34391ce7d1fd7d83",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of macroeconomics, which of the following transactions is explicitly included in the estimation of Gross Domestic Product (GDP) by the expenditure method?",
+  "qHi": "समष्टि अर्थशास्त्र के संदर्भ में, व्यय विधि द्वारा सकल घरेलू उत्पाद (GDP) के आकलन में निम्नलिखित में से किस लेनदेन को स्पष्ट रूप से शामिल किया जाता है?",
+  "optsEn": [
+   "Purchase of shares in the secondary stock market",
+   "Government expenditure on infrastructure development",
+   "Transfer payments made by the government",
+   "Purchase of a second-hand car"
+  ],
+  "optsHi": [
+   "माध्यमिक शेयर बाजार में शेयरों की खरीद",
+   "बुनियादी ढांचा विकास पर सरकारी व्यय",
+   "सरकार द्वारा किए गए हस्तांतरण भुगतान",
+   "पुरानी कार की खरीद"
+  ],
+  "correct": 1,
+  "explainEn": "Government expenditure on final goods and services like infrastructure is a direct component of GDP via the expenditure method.",
+  "sourceHint": "NCERT Class 12 Economics (Introductory Macroeconomics), Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:17:30Z"
+ },
+ {
+  "id": "q_de8d852a7173a8fe",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which constitutional amendment introduced the provisions relating to Panchayati Raj Institutions in India, giving them constitutional status?",
+  "qHi": "किस संविधान संशोधन ने भारत में पंचायती राज संस्थाओं से संबंधित प्रावधानों को पेश किया और उन्हें संवैधानिक दर्जा दिया?",
+  "optsEn": [
+   "42nd Amendment Act",
+   "44th Amendment Act",
+   "73rd Amendment Act",
+   "86th Amendment Act"
+  ],
+  "optsHi": [
+   "42वां संशोधन अधिनियम",
+   "44वां संशोधन अधिनियम",
+   "73वां संशोधन अधिनियम",
+   "86वां संशोधन अधिनियम"
+  ],
+  "correct": 2,
+  "explainEn": "The 73rd Constitutional Amendment Act, 1992 added Part IX to the Constitution, institutionalizing Panchayati Raj.",
+  "sourceHint": "NCERT Class 12 Political Science (Indian Politics at the Crossroads / Indian Constitution at Work)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:17:30Z"
+ },
+ {
+  "id": "q_a33a68d93436d335",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary product formed when an alkyl halide reacts with silver nitrite (AgNO2)?",
+  "qHi": "जब एक एल्काइल हैलाइड की अभिक्रिया सिल्वर नाइट्राइट (AgNO2) के साथ कराई जाती है, तो मुख्य उत्पाद क्या बनता है?",
+  "optsEn": [
+   "Nitroalkane",
+   "Alkyl nitrite",
+   "Primary amine",
+   "Alkyl cyanide"
+  ],
+  "optsHi": [
+   "नाइट्रोएल्केन",
+   "एल्काइल नाइट्राइट",
+   "प्राथमिक ऐमीन",
+   "एल्काइल साइनाइड"
+  ],
+  "correct": 0,
+  "explainEn": "AgNO2 is predominantly covalent, leading to attack mainly through nitrogen, forming nitroalkanes as the major product.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 10: Haloalkanes and Haloarenes",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:17:30Z"
+ },
+ {
+  "id": "q_2cd6c38f990073fd",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In physics, what does the displacement current arise from?",
+  "qHi": "भौतिकी में, विस्थापन धारा (displacement current) किससे उत्पन्न होती है?",
+  "optsEn": [
+   "Flow of free electrons through a conductor",
+   "Time-varying electric field",
+   "Constant magnetic flux",
+   "Thermionic emission"
+  ],
+  "optsHi": [
+   "चालक के माध्यम से मुक्त इलेक्ट्रॉनों का प्रवाह",
+   "समय के साथ परिवर्तित होने वाला विद्युत क्षेत्र",
+   "स्थिर चुंबकीय फ्लक्स",
+   "थर्मionic उत्सर्जन"
+  ],
+  "correct": 1,
+  "explainEn": "Maxwell introduced displacement current to account for continuity of current in regions like capacitor gaps where the electric field changes with time.",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 8: Electromagnetic Waves",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:17:30Z"
+ },
+ {
+  "id": "q_42f89bb0e7edc615",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which ecological pyramid is always upright in all functional ecosystems?",
+  "qHi": "सभी कार्यात्मक पारिस्थितिक तंत्रों में कौन सा पारिस्थितिक पिरामिड हमेशा सीधा होता है?",
+  "optsEn": [
+   "Pyramid of numbers",
+   "Pyramid of biomass",
+   "Pyramid of energy",
+   "Pyramid of dry weight"
+  ],
+  "optsHi": [
+   "संख्याओं का पिरामिड",
+   "बायोमास का पिरामिड",
+   "ऊर्जा का पिरामिड",
+   "शुष्क भार का पिरामिड"
+  ],
+  "correct": 2,
+  "explainEn": "According to the 10% law of energy transfer, energy diminishes at each successive trophic level, making the energy pyramid strictly upright.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 14: Ecosystem",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:17:30Z"
+ },
+ {
+  "id": "q_ba7d8efd1014b200",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In accounting for partnership firms, when a new partner is admitted, how is accumulated profit or loss distributed among existing partners?",
+  "qHi": "साझेदारी फर्मों के लेखांकन में, जब एक नए साझीदार को प्रवेश दिया जाता है, तो संचित लाभ या हानि को मौजूदा साझीदारों के बीच किस अनुपात में वितरित किया जाता है?",
+  "optsEn": [
+   "New profit-sharing ratio",
+   "Sacrificing ratio",
+   "Old profit-sharing ratio",
+   "Equally regardless of capital contribution"
+  ],
+  "optsHi": [
+   "नया लाभ-विभाजन अनुपात",
+   "त्याग अनुपात",
+   "पुराना लाभ-विभाजन अनुपात",
+   "पूंजी योगदान की परवाह किए बिना समान रूप से"
+  ],
+  "correct": 2,
+  "explainEn": "Accumulated profits and losses belong to the period prior to admission and are therefore shared among old partners in their old profit-sharing ratio.",
+  "sourceHint": "NCERT Class 12 Accountancy (Part 1), Chapter 2: Reconstitution of a Partnership Firm",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T22:17:30Z"
  }
 ]
