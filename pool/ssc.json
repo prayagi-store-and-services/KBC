@@ -16322,5 +16322,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-26T22:43:06Z"
+ },
+ {
+  "id": "q_82bd302052b29ca2",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which dynasty constructed the famous rock-cut Kailasa Temple at Ellora?",
+  "qHi": "एलोरा में प्रसिद्ध शैलकृत कैलाश मंदिर का निर्माण किस राजवंश ने करवाया था?",
+  "optsEn": [
+   "Rashtrakuta dynasty",
+   "Gupta dynasty",
+   "Mauryan dynasty",
+   "Chola dynasty"
+  ],
+  "optsHi": [
+   "राष्ट्रकूट राजवंश",
+   "गुप्त राजवंश",
+   "मौर्य राजवंश",
+   "चोल राजवंश"
+  ],
+  "correct": 0,
+  "explainEn": "The Kailasa temple at Ellora was built by the Rashtrakuta king Krishna I in the 8th century.",
+  "sourceHint": "NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:08:31Z"
+ },
+ {
+  "id": "q_2bbcd86b9d80fcec",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the Gupta Empire, the official title 'Kumaramatyas' referred to which category of functionaries?",
+  "qHi": "गुप्त साम्राज्य के दौरान, आधिकारिक उपाधि 'कुमारमात्य' किस श्रेणी के पदाधिकारियों को संदर्भित करती थी?",
+  "optsEn": [
+   "Commander-in-chief of the army",
+   "High-ranking provincial and central civil officers",
+   "Royal priests in charge of religious sacrifices",
+   "Chief treasurers of the imperial treasury"
+  ],
+  "optsHi": [
+   "सेना के कमांडर-इन-चीफ",
+   "उच्च रैंकिंग वाले प्रांतीय और केंद्रीय सिविल अधिकारी",
+   "धार्मिक यज्ञों के प्रभारी शाही पुरोहित",
+   "साम्राज्यवादी खजाने के मुख्य कोषाध्यक्ष"
+  ],
+  "correct": 1,
+  "explainEn": "Kumaramatyas were the most important class of high-ranking central and provincial officers under the Guptas, directly recruited by the king and often appointed as district administrators or ministers.",
+  "sourceHint": "NCERT Class 12 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:09:15Z"
+ },
+ {
+  "id": "q_5f9802bb9b564f7a",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian monetary policy, which institution is legally mandated to determine the inflation target under the Reserve Bank of India Act, 1934?",
+  "qHi": "भारतीय मौद्रिक नीति के संदर्भ में, भारतीय रिजर्व बैंक अधिनियम, 1934 के तहत मुद्रास्फीति लक्ष्य निर्धारित करने के लिए कानूनी रूप से कौन सी संस्था अधिकृत है?",
+  "optsEn": [
+   "Reserve Bank of India alone",
+   "Central Government in consultation with the Bank",
+   "Monetary Policy Committee independently",
+   "NITI Aayog"
+  ],
+  "optsHi": [
+   "अकेले भारतीय रिजर्व बैंक",
+   "बैंक के परामर्श से केंद्र सरकार",
+   "मौद्रिक नीति समिति स्वतंत्र रूप से",
+   "नीति आयोग"
+  ],
+  "correct": 1,
+  "explainEn": "Under Section 45ZA of the RBI Act, 1934 (amended in 2016), the Central Government, in consultation with the Reserve Bank, determines the inflation target in terms of the Consumer Price Index once every five years.",
+  "sourceHint": "RBI Act, 1934 / Ministry of Finance",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:09:15Z"
+ },
+ {
+  "id": "q_060c5e1d8dc0000f",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "The historic site of Kalibangan, known for its unique pre-Harappan and Harappan remains, is situated along the banks of which river?",
+  "qHi": "कालीबंगा का ऐतिहासिक स्थल, जो अपने अनूठे प्राग्-हड़प्पा और हड़प्पा अवशेषों के लिए जाना जाता है, किस नदी के तट पर स्थित है?",
+  "optsEn": [
+   "Ghaggar",
+   "Indus",
+   "Ravi",
+   "Sutlej"
+  ],
+  "optsHi": [
+   "घग्गर",
+   "सिंधु",
+   "रावी",
+   "सतलुज"
+  ],
+  "correct": 0,
+  "explainEn": "Kalibangan is located in Hanumangarh district, Rajasthan, on the southern banks of the Ghaggar River (identified by many scholars as the ancient Sarasvati River).",
+  "sourceHint": "NCERT Class 12 History - Themes in Indian History Part I",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:09:15Z"
+ },
+ {
+  "id": "q_72340d118e67960e",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which among the following layers of the atmosphere is characterized by a constant decrease in temperature with increasing altitude and contains almost all the weather phenomena?",
+  "qHi": "वायुमंडल की निम्नलिखित में से किस परत की विशेषता बढ़ती ऊंचाई के साथ तापमान में लगातार कमी है और इसमें लगभग सभी मौसम संबंधी घटनाएं शामिल हैं?",
+  "optsEn": [
+   "Stratosphere",
+   "Troposphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "समताप मंडल",
+   "क्षोभ मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The troposphere is the lowest layer of the atmosphere where temperature decreases with height at the normal lapse rate, and it contains virtually all weather processes.",
+  "sourceHint": "NCERT Class 11 Geography - Fundamentals of Physical Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:09:15Z"
+ },
+ {
+  "id": "q_b81aa868e9ecf39b",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which socio-religious organization founded in 1867 in western India campaigned actively against child marriage and advocated for widow remarriage and women's education?",
+  "qHi": "पश्चिमी भारत में 1867 में स्थापित किस सामाजिक-धार्मिक संगठन ने बाल विवाह के खिलाफ सक्रिय रूप से अभियान चलाया और विधवा पुनर्विवाह और महिला शिक्षा की वकालत की?",
+  "optsEn": [
+   "Brahmo Samaj",
+   "Prarthana Samaj",
+   "Arya Samaj",
+   "Satya Shodhak Samaj"
+  ],
+  "optsHi": [
+   "ब्रह्म समाज",
+   "प्रार्थना समाज",
+   "आर्य समाज",
+   "सत्यशोधक समाज"
+  ],
+  "correct": 1,
+  "explainEn": "Prarthana Samaj was founded in Bombay in 1867 by Atmaram Pandurang with the backing of Justice Mahadeo Govind Ranade and R.G. Bhandarkar to reform Hindu religious and social practices.",
+  "sourceHint": "NCERT Class 8 History / Class 12 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:09:15Z"
+ },
+ {
+  "id": "q_8f3cf9208dfe99a6",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In plant physiology, which plant hormone is primarily responsible for cell elongation, apical dominance, and phototropic movements?",
+  "qHi": "पादप शरीर विज्ञान में, कौन सा पादप हार्मोन मुख्य रूप से कोशिका दीर्घीकरण, शीर्ष प्रमुखता और प्रकाशानुवर्ती गतियों के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Cytokinin",
+   "Gibberellin",
+   "Auxin",
+   "Abscisic Acid"
+  ],
+  "optsHi": [
+   "साइटोकिनीन",
+   "जिबरेलिन",
+   "ऑक्सिन",
+   "एब्सिसिक एसिड"
+  ],
+  "correct": 2,
+  "explainEn": "Auxins are a class of plant hormones that promote cell elongation, mediate phototropism and gravitropism, and maintain apical dominance in plants.",
+  "sourceHint": "NCERT Class 11 Biology - Plant Growth and Development",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:09:15Z"
  }
 ]

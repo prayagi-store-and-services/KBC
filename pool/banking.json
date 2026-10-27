@@ -26514,5 +26514,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-26T22:43:13Z"
+ },
+ {
+  "id": "q_7e5adc12f4df8ee6",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which type of account typically offers no interest to the account holder?",
+  "qHi": "किस प्रकार के खाते पर आमतौर पर खाता धारक को कोई ब्याज नहीं मिलता है?",
+  "optsEn": [
+   "Savings Account",
+   "Current Account",
+   "Fixed Deposit Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "बचत खाता",
+   "चालू खाता",
+   "सावधि जमा खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 1,
+  "explainEn": "Current accounts are meant for businesses and generally do not provide any interest on the deposited balances.",
+  "sourceHint": "NCERT Business Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:07:36Z"
+ },
+ {
+  "id": "q_b392a8194826b23a",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a specialized bank for agriculture and rural development in India?",
+  "qHi": "निम्नलिखित में से कौन भारत में कृषि और ग्रामीण विकास के लिए एक विशेष बैंक है?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "IDBI Bank"
+  ],
+  "optsHi": [
+   "सिडबी",
+   "नाबार्ड",
+   "एक्सिम बैंक",
+   "आईडीबीआई बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) is an apex regulatory body for overall regulation of regional rural banks and apex cooperative banks in India.",
+  "sourceHint": "NABARD Act, 1981",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:07:36Z"
+ },
+ {
+  "id": "q_65215f351e253b33",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which coin or currency note denomination is issued directly by the Ministry of Finance in India?",
+  "qHi": "भारत में सीधे वित्त मंत्रालय द्वारा कौन सा सिक्का या करेंसी नोट जारी किया जाता है?",
+  "optsEn": [
+   "One Rupee Note",
+   "Ten Rupee Note",
+   "Hundred Rupee Note",
+   "Five Hundred Rupee Note"
+  ],
+  "optsHi": [
+   "एक रुपये का नोट",
+   "दस रुपये का नोट",
+   "सौ रुपये का नोट",
+   "पाँच सौ रुपये का नोट"
+  ],
+  "correct": 0,
+  "explainEn": "One rupee notes and coins are issued by the Ministry of Finance, whereas all other currency notes are issued by the Reserve Bank of India.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:07:36Z"
+ },
+ {
+  "id": "q_65ba929a00a722dc",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque is a special type of which of the following instruments?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, चेक निम्नलिखित में से किस लिखत का एक विशेष प्रकार है?",
+  "optsEn": [
+   "Promissory Note",
+   "Bill of Exchange",
+   "Letter of Credit",
+   "Certificate of Deposit"
+  ],
+  "optsHi": [
+   "वचन पत्र",
+   "विनिमय पत्र",
+   "साख पत्र",
+   "जमा प्रमाणपत्र"
+  ],
+  "correct": 1,
+  "explainEn": "Section 6 of the Negotiable Instruments Act defines a cheque as a bill of exchange drawn on a specified banker and payable on demand.",
+  "sourceHint": "Negotiable Instruments Act, 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:08:36Z"
+ },
+ {
+  "id": "q_4305985b8a0e3801",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which financial institution in India is exclusively mandated for the promotion and financing of foreign trade and exports?",
+  "qHi": "भारत में कौन सा वित्तीय संस्थान विशेष रूप से विदेशी व्यापार और निर्यात के संवर्द्धन और वित्तपोषण के लिए अधिकृत है?",
+  "optsEn": [
+   "Industrial Finance Corporation of India",
+   "Export-Import Bank of India",
+   "National Housing Bank",
+   "Small Industries Development Bank of India"
+  ],
+  "optsHi": [
+   "भारतीय औद्योगिक वित्त निगम",
+   "भारतीय निर्यात-आयात बैंक",
+   "राष्ट्रीय आवास बैंक",
+   "भारतीय लघु उद्योग विकास बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "Export-Import Bank of India (EXIM Bank) was established in 1982 for financing, facilitating, and promoting India's international trade.",
+  "sourceHint": "EXIM Bank of India Act, 1981",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:08:36Z"
+ },
+ {
+  "id": "q_01782024fcec871f",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the term 'Gilt-edged market' refer to in financial economics?",
+  "qHi": "वित्तीय अर्थशास्त्र में 'गिल्ट-एज्ड बाजार' (Gilt-edged market) शब्द का क्या अर्थ है?",
+  "optsEn": [
+   "Market for trading in gold and precious metals",
+   "Market for government securities",
+   "Market for high-risk corporate junk bonds",
+   "Market for second-hand commercial real estate"
+  ],
+  "optsHi": [
+   "सोने और कीमती धातुओं के व्यापार का बाजार",
+   "सरकारी प्रतिभूतियों का बाजार",
+   "उच्च जोखिम वाले कॉर्पोरेट जंक बांड का बाजार",
+   "पुरानी वाणिज्यिक अचल संपत्ति का बाजार"
+  ],
+  "correct": 1,
+  "explainEn": "A gilt-edged market refers to the market for government securities and treasury bonds, which are considered safe investments free of default risk.",
+  "sourceHint": "NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:08:36Z"
+ },
+ {
+  "id": "q_97acdd0c5b6eeba4",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of core banking solutions, what does the letter 'C' stand for in the acronym 'CBS'?",
+  "qHi": "कोर बैंकिंग समाधान के संदर्भ में, संक्षिप्त नाम 'CBS' में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Centralized",
+   "Core",
+   "Commercial",
+   "Credit"
+  ],
+  "optsHi": [
+   "केंद्रीकृत",
+   "कोर",
+   "वाणिज्यिक",
+   "क्रेडिट"
+  ],
+  "correct": 0,
+  "explainEn": "CBS stands for Core Banking Solutions, where 'C' denotes Centralized, allowing customers to access their accounts from any branch of the bank.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:08:36Z"
+ },
+ {
+  "id": "q_4b3dd5b3d63c732f",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the maximum permissible period for which a Ways and Means Advance (WMA) extended by the Reserve Bank of India to the Central Government can remain outstanding?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा केंद्र सरकार को दिए गए अर्थोपाय अग्रिम (WMA) की अधिकतम स्वीकार्य अवधि क्या है जिसके लिए यह बकाया रह सकता है?",
+  "optsEn": [
+   "60 days",
+   "90 days",
+   "180 days",
+   "365 days"
+  ],
+  "optsHi": [
+   "60 दिन",
+   "90 दिन",
+   "180 दिन",
+   "365 दिन"
+  ],
+  "correct": 1,
+  "explainEn": "According to the Reserve Bank of India guidelines and agreements with the government, WMA to the Central Government must be vacated within a maximum period of 90 days.",
+  "sourceHint": "RBI Annual Report and Public Debt Management Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:09:41Z"
+ },
+ {
+  "id": "q_ce1fcacac6a23e6a",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under Basel III norms, what minimum proportion of Tier 1 Capital must comprise Common Equity Tier 1 (CET1) capital for a scheduled commercial bank in India, excluding the Capital Conservation Buffer?",
+  "qHi": "बेसल III मानदंडों के तहत, पूंजी संरक्षण बफर को छोड़कर, भारत में एक अनुसूचित वाणिज्यिक बैंक के लिए टियर 1 पूंजी के न्यूनतम अनुपात में सामान्य इक्विटी टियर 1 (CET1) पूंजी का कितना हिस्सा होना चाहिए?",
+  "optsEn": [
+   "5.5 percent",
+   "6.0 percent",
+   "7.0 percent",
+   "8.0 percent"
+  ],
+  "optsHi": [
+   "5.5 प्रतिशत",
+   "6.0 प्रतिशत",
+   "7.0 प्रतिशत",
+   "8.0 प्रतिशत"
+  ],
+  "correct": 0,
+  "explainEn": "Under RBI guidelines on Basel III capital regulations, the minimum CET1 capital must be 5.5% of risk-weighted assets (RWAs), while total Tier 1 capital must be at least 7.0%.",
+  "sourceHint": "RBI Master Circular on Basel III Capital Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:09:41Z"
+ },
+ {
+  "id": "q_cc8f3865c36c10ba",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary operational objective of the Marginal Cost of Funds based Lending Rate (MCLR) system introduced by the RBI for banks?",
+  "qHi": "बैंकों के लिए आरबीआई द्वारा शुरू की गई फंड आधारित ऋण दर की सीमांत लागत (MCLR) प्रणाली का प्राथमिक परिचालन उद्देश्य क्या है?",
+  "optsEn": [
+   "To ensure transmission of policy rates to lending rates",
+   "To fix interest rates on government securities",
+   "To determine the statutory liquidity ratio for scheduled banks",
+   "To calculate the foreign exchange reserves adequacy"
+  ],
+  "optsHi": [
+   "ऋण दरों पर नीतिगत दरों के संचरण को सुनिश्चित करना",
+   "सरकारी प्रतिभूतियों पर ब्याज दरें तय करना",
+   "अनुसूचित बैंकों के लिए सांविधिक तरलता अनुपात निर्धारित करना",
+   "विदेशी मुद्रा भंडार की पर्याप्तता की गणना करना"
+  ],
+  "correct": 0,
+  "explainEn": "MCLR was introduced to improve the transmission of monetary policy rates to the lending rates of commercial banks and ensure transparency in pricing credit.",
+  "sourceHint": "RBI Guidelines on MCLR / Monetary Policy Department",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:09:41Z"
+ },
+ {
+  "id": "q_5877779477157301",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "As per the Negotiable Instruments Act, 1881, which section defines a 'Cheque' specifically as a bill of exchange drawn on a specified banker and not expressed to be payable otherwise than on demand?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के अनुसार, कौन सी धारा 'चेक' को विशेष रूप से एक निश्चित बैंकर पर लिखे गए और मांग पर भुगतान के अलावा किसी अन्य तरीके से देय नहीं होने वाले विनिमय पत्र के रूप में परिभाषित करती है?",
+  "optsEn": [
+   "Section 5",
+   "Section 6",
+   "Section 13",
+   "Section 15"
+  ],
+  "optsHi": [
+   "धारा 5",
+   "धारा 6",
+   "धारा 13",
+   "धारा 15"
+  ],
+  "correct": 1,
+  "explainEn": "Section 6 of the Negotiable Instruments Act, 1881 defines a cheque as a bill of exchange drawn on a specified banker and payable otherwise than on demand.",
+  "sourceHint": "The Negotiable Instruments Act, 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:09:41Z"
+ },
+ {
+  "id": "q_1df6876d0a491cb7",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the National Payments Corporation of India (NPCI), what does the acronym 'IMPS' stand for?",
+  "qHi": "भारतीय राष्ट्रीय भुगतान निगम (NPCI) के संदर्भ में, संक्षिप्त नाम 'IMPS' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Instant Money Payment System",
+   "Immediate Payment Service",
+   "Interbank Mobile Payment Service",
+   "Integrated Monetary Processing Standard"
+  ],
+  "optsHi": [
+   "इंस्टेंट मनी पेमेंट सिस्टम",
+   "इमीडिएट पेमेंट सर्विस",
+   "इंटरबैंक मोबाइल पेमेंट सर्विस",
+   "इंटीग्रेटेड मॉनेटरी प्रोसेसिंग स्टैंडर्ड"
+  ],
+  "correct": 1,
+  "explainEn": "IMPS stands for Immediate Payment Service, which provides robust real-time interbank electronic funds transfer service through mobile phones and other channels.",
+  "sourceHint": "NPCI Official Documentation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:09:41Z"
+ },
+ {
+  "id": "q_ee655babff3d6c8a",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which category of Non-Performing Assets (NPAs) is characterized by an asset remaining in the sub-standard category for a period exceeding 12 months?",
+  "qHi": "गैर-निष्पादित संपत्तियों (NPA) की किस श्रेणी की विशेषता यह है कि कोई संपत्ति 12 महीने से अधिक की अवधि के लिए संदिग्ध (sub-standard) श्रेणी में बनी रहती है?",
+  "optsEn": [
+   "Loss Asset",
+   "Doubtful Asset",
+   "Standard Asset",
+   "Special Mention Account"
+  ],
+  "optsHi": [
+   "हानि संपत्ति (Loss Asset)",
+   "संदिग्ध संपत्ति (Doubtful Asset)",
+   "मानक संपत्ति (Standard Asset)",
+   "विशेष उल्लेख खाता (Special Mention Account)"
+  ],
+  "correct": 1,
+  "explainEn": "An asset is classified as doubtful if it has remained in the sub-standard category for a period of 12 months under RBI prudential norms.",
+  "sourceHint": "RBI Master Circular on Income Recognition and Asset Classification (IRAC)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:09:41Z"
  }
 ]

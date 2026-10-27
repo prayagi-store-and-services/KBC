@@ -22034,5 +22034,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-26T22:42:28Z"
+ },
+ {
+  "id": "q_b004f88cf58c207b",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which level of government in India is empowered to make laws on subjects included in the Union List?",
+  "qHi": "भारत में सरकार का कौन सा स्तर संघ सूची में शामिल विषयों पर कानून बनाने के लिए अधिकृत है?",
+  "optsEn": [
+   "Local Government",
+   "State Government",
+   "Union Government",
+   "Gram Panchayat"
+  ],
+  "optsHi": [
+   "स्थानीय सरकार",
+   "राज्य सरकार",
+   "केंद्र सरकार",
+   "ग्राम पंचायत"
+  ],
+  "correct": 2,
+  "explainEn": "Only the Union Parliament can make laws on the subjects mentioned in the Union List.",
+  "sourceHint": "NCERT Class 10 Civics Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:07:55Z"
+ },
+ {
+  "id": "q_ffb34f48b547c1e0",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which component of blood helps in the transport of oxygen?",
+  "qHi": "रक्त का कौन सा घटक ऑक्सीजन के परिवहन में मदद करता है?",
+  "optsEn": [
+   "Red blood cells",
+   "White blood cells",
+   "Platelets",
+   "Plasma"
+  ],
+  "optsHi": [
+   "लाल रक्त कोशिकाएं",
+   "श्वेत रक्त कोशिकाएं",
+   "प्लेटलेट्स",
+   "प्लाज्मा"
+  ],
+  "correct": 0,
+  "explainEn": "Red blood cells contain hemoglobin, which binds with oxygen and transports it throughout the body.",
+  "sourceHint": "NCERT Class 10 Science Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:07:55Z"
+ },
+ {
+  "id": "q_06c1ac610f7211cd",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the human digestive system, where is the digested food absorbed into the blood?",
+  "qHi": "मानव पाचन तंत्र में, पच हुआ भोजन रक्त में कहाँ अवशोषित होता है?",
+  "optsEn": [
+   "Stomach",
+   "Small intestine",
+   "Large intestine",
+   "Oesophagus"
+  ],
+  "optsHi": [
+   "अमाशय",
+   "छोटी आंत",
+   "बड़ी आंत",
+   "ग्रसिका"
+  ],
+  "correct": 1,
+  "explainEn": "The inner surface of the small intestine has numerous finger-like projections called villi, which provide a large surface area for absorption of food into the blood.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:08:55Z"
+ },
+ {
+  "id": "q_c4e13e6db6bd4635",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the direction of flow of conventional current in an electric circuit?",
+  "qHi": "एक विद्युत परिपथ में पारंपरिक धारा के प्रवाह की दिशा क्या होती है?",
+  "optsEn": [
+   "From negative terminal to positive terminal",
+   "From positive terminal to negative terminal",
+   "Perpendicular to the circuit wires",
+   "Random direction"
+  ],
+  "optsHi": [
+   "ऋणात्मक टर्मिनल से धनात्मक टर्मिनल की ओर",
+   "धनात्मक टर्मिनल से ऋणात्मक टर्मिनल की ओर",
+   "परिपथ के तारों के लंबवत",
+   "यादृच्छिक दिशा"
+  ],
+  "correct": 1,
+  "explainEn": "By convention, the direction of electric current is taken as opposite to the direction of flow of electrons, meaning from the positive terminal to the negative terminal.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:08:55Z"
+ },
+ {
+  "id": "q_9d08378cf7228948",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following soil types is best suited for the growth of cotton in India?",
+  "qHi": "भारत में कपास की वृद्धि के लिए निम्नलिखित में से किस प्रकार की मिट्टी सबसे उपयुक्त है?",
+  "optsEn": [
+   "Laterite soil",
+   "Red soil",
+   "Black soil",
+   "Desert soil"
+  ],
+  "optsHi": [
+   "लैटेराइट मिट्टी",
+   "लाल मिट्टी",
+   "काली मिट्टी",
+   "मरुस्थलीय मिट्टी"
+  ],
+  "correct": 2,
+  "explainEn": "Black soil is ideal for growing cotton and is also known as black cotton soil, being rich in soil nutrients like calcium carbonate and magnesium.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:08:55Z"
+ },
+ {
+  "id": "q_0d90a68ecd3e3fec",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which state of India is the Tehri Dam project located?",
+  "qHi": "टिहरी बांध परियोजना भारत के किस राज्य में स्थित है?",
+  "optsEn": [
+   "Uttarakhand",
+   "Himachal Pradesh",
+   "Punjab",
+   "Uttar Pradesh"
+  ],
+  "optsHi": [
+   "उत्तराखंड",
+   "हिमाचल प्रदेश",
+   "पंजाब",
+   "उत्तर प्रदेश"
+  ],
+  "correct": 0,
+  "explainEn": "The Tehri Dam is built on the Bhagirathi River in the state of Uttarakhand.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:08:55Z"
+ },
+ {
+  "id": "q_2686ee635ad9439c",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which level of government in India possesses the power to legislate on subjects included in the Concurrent List?",
+  "qHi": "भारत में सरकार के किस स्तर के पास समवर्ती सूची में शामिल विषयों पर कानून बनाने की शक्ति है?",
+  "optsEn": [
+   "Only the Central Government",
+   "Only the State Governments",
+   "Both the Central and State Governments",
+   "Only the local municipal bodies"
+  ],
+  "optsHi": [
+   "केवल केंद्र सरकार",
+   "केवल राज्य सरकारें",
+   "केंद्र और राज्य दोनों सरकारें",
+   "केवल स्थानीय निकाय"
+  ],
+  "correct": 2,
+  "explainEn": "Both the Union and the State Governments can make laws on the subjects mentioned in the Concurrent List of the Indian Constitution.",
+  "sourceHint": "NCERT Class 10 Civics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:08:55Z"
+ },
+ {
+  "id": "q_dca44260185c4a29",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of MGNREGA 2005 enacted by the Parliament of India?",
+  "qHi": "भारत की संसद द्वारा अधिनियमित मनरेगा 2005 का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To provide free higher education to all citizens",
+   "To guarantee 100 days of wage employment in a year to rural households",
+   "To provide free electricity for industrial development",
+   "To construct national highways across states"
+  ],
+  "optsHi": [
+   "सभी नागरिकों को मुफ्त उच्च शिक्षा प्रदान करना",
+   "ग्रामीण परिवारों को एक वर्ष में 100 दिनों के रोजगार की गारंटी देना",
+   "औद्योगिक विकास के लिए मुफ्त बिजली प्रदान करना",
+   "राज्यों में राष्ट्रीय राजमार्गों का निर्माण करना"
+  ],
+  "correct": 1,
+  "explainEn": "Mahatma Gandhi National Rural Employment Guarantee Act 2005 guarantees 100 days of wage employment in a year to rural households needing unskilled manual work.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:08:55Z"
  }
 ]

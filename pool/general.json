@@ -15958,5 +15958,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-26T22:42:15Z"
+ },
+ {
+  "id": "q_fdef94ede4211829",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organ of the human body purifies blood through nephrons?",
+  "qHi": "मानव शरीर का कौन सा अंग नेफ्रोन के माध्यम से रक्त को शुद्ध करता है?",
+  "optsEn": [
+   "Heart",
+   "Lungs",
+   "Kidneys",
+   "Liver"
+  ],
+  "optsHi": [
+   "हृदय",
+   "फेफड़े",
+   "गुर्दे",
+   "यकृत"
+  ],
+  "correct": 2,
+  "explainEn": "Kidneys are the filtering units of the body, and each kidney contains millions of nephrons that filter blood.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:07:42Z"
+ },
+ {
+  "id": "q_b202aa14f809fada",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which chemical element was discovered by British chemist William Ramsay and Swedish chemist Per Teodor Cleve simultaneously and independently in 1895?",
+  "qHi": "1895 में ब्रिटिश रसायनज्ञ विलियम रामसे और स्वीडिश रसायनज्ञ पर टियोडोर क्लेव द्वारा स्वतंत्र रूप से किस रासायनिक तत्व की खोज की गई थी?",
+  "optsEn": [
+   "Helium",
+   "Argon",
+   "Neon",
+   "Krypton"
+  ],
+  "optsHi": [
+   "हीलीयम",
+   "आर्गन",
+   "नियॉन",
+   "क्रिप्टन"
+  ],
+  "correct": 0,
+  "explainEn": "William Ramsay isolated helium on Earth for the first time in 1895 by treating cleveite with acid, while Cleve and Abraham Langlet independently discovered it around the same time.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:09:50Z"
+ },
+ {
+  "id": "q_ecc5d6f09dfe7434",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which Indian state is the Nanda Devi Biosphere Reserve located?",
+  "qHi": "नंदा देवी बायोस्फीयर रिजर्व किस भारतीय राज्य में स्थित है?",
+  "optsEn": [
+   "Uttarakhand",
+   "Himachal Pradesh",
+   "Sikkim",
+   "Arunachal Pradesh"
+  ],
+  "optsHi": [
+   "उत्तराखंड",
+   "हिमाचल प्रदेश",
+   "सिक्किम",
+   "अरुणाचल प्रदेश"
+  ],
+  "correct": 0,
+  "explainEn": "The Nanda Devi Biosphere Reserve is situated in the northern part of Uttarakhand around the peak of Nanda Devi.",
+  "sourceHint": "UNESCO MAB Biosphere Reserves Directory",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:09:50Z"
+ },
+ {
+  "id": "q_7a4cef58aa869785",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form of India traditionally uses the 'Kathakali' style of elaborate facial makeup known as 'Chuttis'?",
+  "qHi": "भारत के किस शास्त्रीय नृत्य रूप में पारंपरिक रूप से 'चुट्टिस' के रूप में जाने जाने वाले विस्तृत चेहरे के मेकअप की 'कथकली' शैली का उपयोग किया जाता है?",
+  "optsEn": [
+   "Kathakali",
+   "Bharatanatyam",
+   "Odissi",
+   "Manipuri"
+  ],
+  "optsHi": [
+   "कथकली",
+   "भरतनाट्यम",
+   "ओडिसी",
+   "मणिपुरी"
+  ],
+  "correct": 0,
+  "explainEn": "Kathakali is renowned for its distinctive heavy facial makeup, elaborate costumes, and face masks including the paper-pudding frame called Chutti.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:09:50Z"
+ },
+ {
+  "id": "q_4dbe37b6568fa4f2",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who authored the foundational ancient Indian text on statecraft and political economy titled 'Arthashastra'?",
+  "qHi": "राजनीति और राजकोषीय अर्थशास्त्र पर आधारित प्राचीन भारतीय ग्रंथ 'अर्थशास्त्र' के रचयिता कौन थे?",
+  "optsEn": [
+   "Kautilya",
+   "Kalidasa",
+   "Banabhatta",
+   "Patanjali"
+  ],
+  "optsHi": [
+   "कौटिल्य",
+   "कालिदास",
+   "बाणभट्ट",
+   "पतंजलि"
+  ],
+  "correct": 0,
+  "explainEn": "Arthashastra was authored by Kautilya, also known as Chanakya or Vishnugupta, who was the chief advisor to Emperor Chandragupta Maurya.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:09:50Z"
+ },
+ {
+  "id": "q_92265c6f65451a03",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which fundamental right guaranteed by the Constitution of India cannot be suspended even during a National Emergency?",
+  "qHi": "भारत के संविधान द्वारा प्रदत्त कौन सा मूल अधिकार राष्ट्रीय आपातकाल के दौरान भी निलंबित नहीं किया जा सकता है?",
+  "optsEn": [
+   "Article 20 and Article 21",
+   "Article 14 and Article 19",
+   "Article 25 and Article 28",
+   "Article 32 and Article 35"
+  ],
+  "optsHi": [
+   "अनुच्छेद 20 और अनुच्छेद 21",
+   "अनुच्छेद 14 और अनुच्छेद 19",
+   "अनुच्छेद 25 और अनुच्छेद 28",
+   "अनुच्छेद 32 और अनुच्छेद 35"
+  ],
+  "correct": 0,
+  "explainEn": "By the 44th Constitutional Amendment Act, the rights guaranteed under Article 20 (protection in respect of conviction for offences) and Article 21 (protection of life and personal liberty) cannot be suspended.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:09:50Z"
+ },
+ {
+  "id": "q_5caa84261ea9d9fb",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary commercial ore of the metal aluminium?",
+  "qHi": "धातु एल्यूमीनियम का प्राथमिक व्यावसायिक अयस्क क्या है?",
+  "optsEn": [
+   "Bauxite",
+   "Hematite",
+   "Galena",
+   "Cinnabar"
+  ],
+  "optsHi": [
+   "बॉक्साइट",
+   "हेमेटाइट",
+   "गैलेना",
+   "सिन्नाबार"
+  ],
+  "correct": 0,
+  "explainEn": "Bauxite is the principal ore of aluminium, consisting mainly of hydrated aluminium oxides.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:09:50Z"
+ },
+ {
+  "id": "q_0f66abcf531cd4b3",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which mountain pass connects the Kullu Valley with Lahaul and Spiti Valleys in Himachal Pradesh?",
+  "qHi": "हिमाचल प्रदेश में कुल्लू घाटी को लाहौल और स्पीति घाटियों से कौन सा दर्रा जोड़تا है?",
+  "optsEn": [
+   "Rohtang Pass",
+   "Zoji La",
+   "Nathu La",
+   "Shipki La"
+  ],
+  "optsHi": [
+   "रोहतांग दर्रा",
+   "जोजी ला",
+   "नाथू ला",
+   "शिपकी ला"
+  ],
+  "correct": 0,
+  "explainEn": "Rohtang Pass is a high mountain pass on the eastern Pir Panjal Range of the Himalayas, connecting the Kullu Valley with the Lahaul and Spiti Valleys.",
+  "sourceHint": "Geographical Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T05:09:50Z"
  }
 ]
