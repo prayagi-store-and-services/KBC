@@ -26878,5 +26878,397 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-27T05:09:41Z"
+ },
+ {
+  "id": "q_f68fd7ac1e3e012f",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'I' stand for in the abbreviation IFSC, which is used in electronic fund transfers in Indian banking?",
+  "qHi": "भारतीय बैंकिंग में इलेक्ट्रॉनिक फंड ट्रांसफर में प्रयुक्त होने वाले संक्षिप्त नाम IFSC में अक्षर 'I' का क्या अर्थ है?",
+  "optsEn": [
+   "Indian",
+   "Interbank",
+   "International",
+   "Institutional"
+  ],
+  "optsHi": [
+   "भारतीय",
+   "इंटरबैंक",
+   "अंतर्राष्ट्रीय",
+   "संस्थागत"
+  ],
+  "correct": 0,
+  "explainEn": "IFSC stands for Indian Financial System Code, where 'I' represents Indian.",
+  "sourceHint": "RBI official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:13:42Z"
+ },
+ {
+  "id": "q_f32875cc4c6b8906",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of ATM in the context of banking services?",
+  "qHi": "बैंकिंग सेवाओं के संदर्भ में ATM का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Any Time Money",
+   "Automated Teller Machine",
+   "Automated Transfer Mechanism",
+   "Automatic Transaction Module"
+  ],
+  "optsHi": [
+   "एनी टाइम मनी",
+   "ऑटोमेटेड टेलर मशीन",
+   "ऑटोमेटेड ट्रांसफर मैकेनिज्म",
+   "ऑटोमैटिक ट्रांजैक्शन मॉड्यूल"
+  ],
+  "correct": 1,
+  "explainEn": "ATM stands for Automated Teller Machine, an electronic telecommunication device that enables customers to perform financial transactions.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) study material",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:13:42Z"
+ },
+ {
+  "id": "q_2b2972c0836daf82",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In the context of bank deposits, what does the letter 'C' stand for in 'CASA' account?",
+  "qHi": "बैंक जमा के संदर्भ में, 'CASA' खाते में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Current",
+   "Capital",
+   "Credit",
+   "Cash"
+  ],
+  "optsHi": [
+   "करेंट",
+   "कैपिटल",
+   "क्रेडिट",
+   "कैश"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account Savings Account, where 'C' stands for Current.",
+  "sourceHint": "NCERT Economics textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:13:42Z"
+ },
+ {
+  "id": "q_812875d1f4dab4d5",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a specialized financial institution in India that provides refinancing facilities for agriculture and rural development?",
+  "qHi": "निम्नलिखित में से कौन सी भारत में एक विशिष्ट वित्तीय संस्था है जो कृषि और ग्रामीण विकास के लिए पुनर्वित्त सुविधाएं प्रदान करती है?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "NHB"
+  ],
+  "optsHi": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "NHB"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) is an apex development bank in India focusing on agriculture and rural sectors.",
+  "sourceHint": "NABARD official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:13:42Z"
+ },
+ {
+  "id": "q_b74c30c51e300da2",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which financial instrument is issued by a bank acknowledging the receipt of money for a fixed period at a specified rate of interest?",
+  "qHi": "एक निश्चित अवधि के लिए एक विशिष्ट ब्याज दर पर धन की प्राप्ति को स्वीकार करते हुए बैंक द्वारा कौन सा वित्तीय साधन जारी किया जाता है?",
+  "optsEn": [
+   "Fixed Deposit Receipt",
+   "Promissory Note",
+   "Treasury Bill",
+   "Letter of Credit"
+  ],
+  "optsHi": [
+   "सावधि जमा रसीद",
+   "वचन पत्र",
+   "राजकोषीय विपत्र",
+   "साख पत्र"
+  ],
+  "correct": 0,
+  "explainEn": "A Fixed Deposit (FD) receipt is issued by a bank as an acknowledgment of a term deposit made by a customer.",
+  "sourceHint": "NCERT Commerce textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:13:42Z"
+ },
+ {
+  "id": "q_6fa23706a135522f",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the financial term 'LAF' used by central banks?",
+  "qHi": "केंद्रीय बैंकों द्वारा उपयोग किए जाने वाले वित्तीय शब्द 'LAF' में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liquidity",
+   "Liability",
+   "Leverage",
+   "Ledger"
+  ],
+  "optsHi": [
+   "लिक्विडिटी (तरलता)",
+   "लायबिलिटी (देयता)",
+   "लीवेज (उत्प्रेरक)",
+   "बहीखाता"
+  ],
+  "correct": 0,
+  "explainEn": "LAF stands for Liquidity Adjustment Facility, which is a monetary policy tool used by the Reserve Bank of India to aid banks in adjusting their daily liquidity mismatches.",
+  "sourceHint": "RBI Glossary of Banking Terms",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:15:55Z"
+ },
+ {
+  "id": "q_8b73410f89847572",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following terms refers to a market for short-term funds, generally for a period up to one year?",
+  "qHi": "निम्नलिखित में से कौन सा शब्द अल्पकालिक निधियों के बाजार को संदर्भित करता है, जो आमतौर पर एक वर्ष तक की अवधि के लिए होता है?",
+  "optsEn": [
+   "Money market",
+   "Capital market",
+   "Foreign exchange market",
+   "Derivatives market"
+  ],
+  "optsHi": [
+   "मुद्रा बाजार",
+   "पूंजी बाजार",
+   "विदेशी मुद्रा बाजार",
+   "व्युत्पन्न बाजार"
+  ],
+  "correct": 0,
+  "explainEn": "The money market is a financial market for short-term borrowing and lending, dealing in assets with maturities of one year or less.",
+  "sourceHint": "NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:15:55Z"
+ },
+ {
+  "id": "q_c3bb4bd560854bf1",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which instrument is issued as a promissory note and is a transferable money market instrument of short-term nature issued by scheduled commercial banks?",
+  "qHi": "कौन सा साधन वचन पत्र के रूप में जारी किया जाता है और अनुसूचित वाणिज्यिक बैंकों द्वारा जारी अल्पकालिक प्रकृति का एक हस्तांतरणीय मुद्रा बाजार साधन है?",
+  "optsEn": [
+   "Certificate of Deposit",
+   "Treasury Bill",
+   "Commercial Paper",
+   "Equity Share"
+  ],
+  "optsHi": [
+   "प्रमाण पत्र जमा (Certificate of Deposit)",
+   "राजकोषीय विपत्र (Treasury Bill)",
+   "वाणिज्यिक पत्र (Commercial Paper)",
+   "इक्विटी शेयर"
+  ],
+  "correct": 0,
+  "explainEn": "A Certificate of Deposit (CD) is a negotiable money market instrument and is issued in demat form or as a usance promissory note against funds deposited at a bank.",
+  "sourceHint": "RBI Master Directions on Money Market Instruments",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:15:55Z"
+ },
+ {
+  "id": "q_86747b5ffa23ff14",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Priority Sector Lending (PSL) guidelines in India, what is the primary objective?",
+  "qHi": "भारत में प्राथमिकता प्राप्त क्षेत्र को ऋण (PSL) दिशानिर्देशों के तहत, प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To ensure adequate credit flow to vulnerable and weaker sectors of the economy",
+   "To maximize profit margins for foreign banks",
+   "To finance exclusively large multinational corporations",
+   "To regulate foreign direct investment inflows"
+  ],
+  "optsHi": [
+   "अर्थव्यवस्था के कमजोर और कमजोर क्षेत्रों में पर्याप्त ऋण प्रवाह सुनिश्चित करना",
+   "विदेशी बैंकों के लिए लाभ मार्जिन को अधिकतम करना",
+   "विशेष रूप से बड़े बहुराष्ट्रीय निगमों को वित्त पोषित करना",
+   "प्रत्यक्ष विदेशी निवेश प्रवाह को विनियमित करना"
+  ],
+  "correct": 0,
+  "explainEn": "Priority Sector Lending mandates banks to lend a specified portion of their bank net bank credit to sectors like agriculture, micro, small and medium enterprises, and weaker sections.",
+  "sourceHint": "RBI Guidelines on Priority Sector Lending",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:15:55Z"
+ },
+ {
+  "id": "q_4f94affc8417a0d6",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the 'C' stand for in the CAMELS rating framework used for evaluating the safety and soundness of banks?",
+  "qHi": "बैंकों की सुरक्षा और सुदृढ़ता का मूल्यांकन करने के लिए उपयोग किए जाने वाले CAMELS रेटिंग ढांचे में 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Capital adequacy",
+   "Credit risk",
+   "Current ratio",
+   "Collateral"
+  ],
+  "optsHi": [
+   "पूंजी पर्याप्तता",
+   "ऋण जोखिम",
+   "चालू अनुपात",
+   "संपार्श्विक (कोलेटरल)"
+  ],
+  "correct": 0,
+  "explainEn": "CAMELS stands for Capital adequacy, Asset quality, Management capability, Earnings, Liquidity, and Sensitivity. It is a supervisory rating system.",
+  "sourceHint": "RBI Banking Supervision Manual",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:15:55Z"
+ },
+ {
+  "id": "q_e70ad5ccf03049bb",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institution in India acts as the principal financial institution for the promotion, financing, and development of micro, small, and medium enterprises (MSMEs)?",
+  "qHi": "भारत में सूक्ष्म, लघु और मध्यम उद्यमों (MSMEs) के संवर्धन, वित्तपोषण और विकास के लिए प्रमुख वित्तीय संस्थान के रूप में कौन सा संस्थान कार्य करता है?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "NHB"
+  ],
+  "optsHi": [
+   "सिडबी (SIDBI)",
+   "नाबार्ड",
+   "एक्जिम बैंक",
+   "राष्ट्रीय आवास बैंक"
+  ],
+  "correct": 0,
+  "explainEn": "Small Industries Development Bank of India (SIDBI) is the apex regulatory body and financial institution for the promotion and financing of MSMEs in India.",
+  "sourceHint": "SIDBI Act and Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:15:55Z"
+ },
+ {
+  "id": "q_4591e24a69375554",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Basel III norms implemented in India, what is the minimum Capital Conservation Buffer (CCB) requirement that banks must maintain in the form of Common Equity Tier 1 capital?",
+  "qHi": "भारत में लागू बेसल III मानदंडों के तहत, न्यूनतम पूंजी संरक्षण बफर (CCB) आवश्यकता क्या है जिसे बैंकों को कॉमन इक्विटी टियर 1 पूंजी के रूप में बनाए रखना चाहिए?",
+  "optsEn": [
+   "1.00 percent",
+   "1.875 percent",
+   "2.50 percent",
+   "3.00 percent"
+  ],
+  "optsHi": [
+   "1.00 प्रतिशत",
+   "1.875 प्रतिशत",
+   "2.50 प्रतिशत",
+   "3.00 प्रतिशत"
+  ],
+  "correct": 2,
+  "explainEn": "RBI guidelines on Basel III capital regulations require banks to maintain a Capital Conservation Buffer (CCB) of 2.50% in the form of Common Equity Tier 1 capital.",
+  "sourceHint": "RBI Master Circular - Basel III Capital Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:18:08Z"
+ },
+ {
+  "id": "q_535695138128d5f0",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of government securities in India, what does the term 'WHEN-ISSUED' trading refer to?",
+  "qHi": "भारत में सरकारी प्रतिभूतियों के संदर्भ में, 'WHEN-ISSUED' (जब-जारी किया गया) ट्रेडिंग से क्या तात्पर्य है?",
+  "optsEn": [
+   "Trading of securities before they are officially issued in the primary market",
+   "Trading of matured securities just before redemption",
+   "Trading of securities exclusively between the RBI and primary dealers",
+   "Trading of defaulted government bonds during restructuring"
+  ],
+  "optsHi": [
+   "प्राथमिक बाजार में आधिकारिक रूप से जारी होने से पहले प्रतिभूतियों का व्यापार",
+   "मोचन से ठीक पहले परिपक्व प्रतिभूतियों का व्यापार",
+   "विशेष रूप से आरबीआई और प्राथमिक डीलरों के बीच प्रतिभूतियों का व्यापार",
+   "पुनर्गठन के दौरान डिफॉल्ट सरकारी बॉन्ड का व्यापार"
+  ],
+  "correct": 0,
+  "explainEn": "When-issued (WI) trading refers to a security that has been authorized for issuance but not yet actually issued. It allows trading in the interim period between the announcement and the actual issuance.",
+  "sourceHint": "RBI Guidelines on When Issued Transactions in Central Government Securities",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:18:08Z"
+ },
+ {
+  "id": "q_c88060757a156b9c",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organization in India functions as the central node for operating the Bharat Bill Payment System (BBPS)?",
+  "qHi": "भारत में कौन सा संगठन भारत बिल भुगतान प्रणाली (BBPS) के संचालन के लिए केंद्रीय नोड के रूप में कार्य करता है?",
+  "optsEn": [
+   "National Payments Corporation of India",
+   "Reserve Bank Innovation Hub",
+   "Small Industries Development Bank of India",
+   "Clearing Corporation of India Limited"
+  ],
+  "optsHi": [
+   "भारतीय राष्ट्रीय भुगतान निगम",
+   "भारतीय रिजर्व बैंक इनोवेशन हब",
+   "भारतीय लघु उद्योग विकास बैंक",
+   "क्लियरिंग कॉरपोरेशन ऑफ़ इंडिया लिमिटेड"
+  ],
+  "correct": 0,
+  "explainEn": "NPCI (National Payments Corporation of India) acts as the Centralized Bharat Bill Payment Central Unit (BBPCU) which is the apex body coordinating the BBPS ecosystem.",
+  "sourceHint": "NPCI Official Documentation on BBPS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:18:08Z"
  }
 ]

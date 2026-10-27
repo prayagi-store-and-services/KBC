@@ -16182,5 +16182,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-27T05:09:50Z"
+ },
+ {
+  "id": "q_3f6cc54a16b70861",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which element is represented by the chemical symbol 'Fe'?",
+  "qHi": "रासायनिक प्रतीक 'Fe' किस तत्व को दर्शाता है?",
+  "optsEn": [
+   "Iron",
+   "Fluorine",
+   "Francium",
+   "Fermium"
+  ],
+  "optsHi": [
+   "लोहा (आयरन)",
+   "फ्लोरीन",
+   "फ्रांसियम",
+   "फर्मियम"
+  ],
+  "correct": 0,
+  "explainEn": "The chemical symbol 'Fe' is derived from 'ferrum', the Latin word for iron.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:14:17Z"
+ },
+ {
+  "id": "q_1761c2dcac173e3b",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the standard full form of ATM in banking?",
+  "qHi": "बैंकिंग में ATM का मानक पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Automated Transfer Machine",
+   "Automated Teller Machine",
+   "Automatic Transaction Money",
+   "Any Time Money"
+  ],
+  "optsHi": [
+   "ऑटोमेटेड ट्रांसफर मशीन",
+   "ऑटोमेटेड टेलर मशीन",
+   "ऑटोमैटिक ट्रांजेक्शन मनी",
+   "एनी टाइम मनी"
+  ],
+  "correct": 1,
+  "explainEn": "An Automated Teller Machine is an electronic telecommunication device that enables customers of financial institutions to perform financial transactions.",
+  "sourceHint": "Reserve Bank of India Glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:14:17Z"
+ },
+ {
+  "id": "q_2c7fa54ed497c2e4",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which city is known as the Silicon Valley of India due to its role as the nation's leading information technology hub?",
+  "qHi": "देश के प्रमुख सूचना प्रौद्योगिकी केंद्र के रूप में अपनी भूमिका के कारण किस शहर को भारत की सिलिकॉन वैली कहा जाता है?",
+  "optsEn": [
+   "Hyderabad",
+   "Pune",
+   "Bengaluru",
+   "Chennai"
+  ],
+  "optsHi": [
+   "हैदराबाद",
+   "पुणे",
+   "बेंगलुरु",
+   "चेन्नई"
+  ],
+  "correct": 2,
+  "explainEn": "Bengaluru is widely regarded as the Silicon Valley of India because of its IT sector concentration.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:16:13Z"
+ },
+ {
+  "id": "q_682757e6c1564b0c",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which biogeographic zone of India is the Great Indian Bustard primarily found in its natural habitat?",
+  "qHi": "ग्रेट इंडियन बस्टर्ड अपने प्राकृतिक आवास में भारत के किस जैव-भौगोलिक क्षेत्र में मुख्य रूप से पाया जाता है?",
+  "optsEn": [
+   "Western Ghats",
+   "Semi-Arid Desert",
+   "North-East Himalayas",
+   "Gangetic Plains"
+  ],
+  "optsHi": [
+   "पश्चिमी घाट",
+   "अर्ध-शुष्क मरुस्थल",
+   "उत्तर-पूर्व हिमालय",
+   "गंगा का मैदान"
+  ],
+  "correct": 1,
+  "explainEn": "The Great Indian Bustard is native to the semi-arid grasslands and deserts of western India, particularly Rajasthan and Gujarat.",
+  "sourceHint": "Wildlife Institute of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:18:19Z"
+ },
+ {
+  "id": "q_0aa76171566e05c5",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form of India traditionally uses the 'Sattriya' repertoire originating from monastery-like institutions called Sattras?",
+  "qHi": "भारत की किस शास्त्रीय नृत्य शैली में पारंपरिक रूप से 'सत्रिया' शैली का उपयोग किया जाता है जो सत्र नामक मठ जैसी संस्थाओं से उत्पन्न हुई है?",
+  "optsEn": [
+   "Kathakali",
+   "Odissi",
+   "Sattriya",
+   "Manipuri"
+  ],
+  "optsHi": [
+   "कथकली",
+   "ओडिसी",
+   "सत्रिया",
+   "मणिपुरी"
+  ],
+  "correct": 2,
+  "explainEn": "Sattriya is a classical dance form of Assam that was introduced by the 15th-century Vaishnavite saint Srimanta Sankardeva and practiced in Sattras.",
+  "sourceHint": "Sangeet Natak Akademi",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:18:19Z"
+ },
+ {
+  "id": "q_a8d9e9504c11b662",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical text on Indian architecture and sculpture details the rules for iconography and temple construction in the Nagara and Dravida styles?",
+  "qHi": "भारतीय वास्तुकला और मूर्तिकला पर कौन सा शास्त्रीय ग्रंथ नागर और द्रविड़ शैलियों में मूर्ति कला और मंदिर निर्माण के नियमों का विस्तार से वर्णन करता है?",
+  "optsEn": [
+   "Natya Shastra",
+   "Manasara",
+   "Arthashastra",
+   "Ashtadhyayi"
+  ],
+  "optsHi": [
+   "नाट्य शास्त्र",
+   "मानसार",
+   "अर्थशास्त्र",
+   "अष्टाध्यायी"
+  ],
+  "correct": 1,
+  "explainEn": "Manasara is a prominent ancient treatise on architecture and sculpture that extensively discusses Vastu Shastra and temple typologies.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:18:19Z"
+ },
+ {
+  "id": "q_b0a3b92438cb5e6e",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which chemical compound is the primary constituent of natural pearls and mother-of-pearl?",
+  "qHi": "प्राकृतिक मोतियों और मदर-ऑफ़-पर्ल का मुख्य घटक कौन सा रासायनिक यौगिक है?",
+  "optsEn": [
+   "Calcium phosphate",
+   "Calcium carbonate",
+   "Silicon dioxide",
+   "Magnesium sulfate"
+  ],
+  "optsHi": [
+   "कैल्शियम फॉस्फेट",
+   "कैल्शियम कार्बोनेट",
+   "सिलिकॉन डाइऑक्साइड",
+   "मैग्नीशियम सल्फेट"
+  ],
+  "correct": 1,
+  "explainEn": "Natural pearls are composed primarily of calcium carbonate in the form of aragonite or calcite, secreted by mollusks.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:18:19Z"
+ },
+ {
+  "id": "q_28ecbd652d55231f",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian state is drained by the river Barak, which flows into Bangladesh and joins the Surma-Meghna river system?",
+  "qHi": "बराॅक नदी किस भारतीय राज्य से होकर बहती है, जो बाद में बांग्लादेश में प्रवेश करती है और सुरमा-मेघना नदी प्रणाली में मिल जाती है?",
+  "optsEn": [
+   "Sikkim",
+   "Assam",
+   "Arunachal Pradesh",
+   "Tripura"
+  ],
+  "optsHi": [
+   "सिक्किम",
+   "असम",
+   "अरुणाचल प्रदेश",
+   "त्रिपुरा"
+  ],
+  "correct": 1,
+  "explainEn": "The Barak River flows through the southern part of Assam (Barak Valley) before entering Bangladesh.",
+  "sourceHint": "Central Water Commission of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:18:19Z"
+ },
+ {
+  "id": "q_e3f5a711664e6e4d",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In Indian classical music, which thaat does not belong to the ten foundational parent scales classified by V.N. Bhatkhande?",
+  "qHi": "भारतीय शास्त्रीय संगीत में, कौन सा थाट वी.एन. भातखंडे द्वारा वर्गीकृत दस आधारभूत थाटों में शामिल नहीं है?",
+  "optsEn": [
+   "Kafi",
+   "Bhairavi",
+   "Rageshwari",
+   "Asavari"
+  ],
+  "optsHi": [
+   "काफी",
+   "भैरवी",
+   "रागेश्वरी",
+   "आसावरी"
+  ],
+  "correct": 2,
+  "explainEn": "Rageshwari is a raga, not a thaat. Bhatkhande's ten thaats are Kalyan, Bilawal, Khamaj, Kafi, Asavari, Bhairav, Bhairavi, Todi, Poorvi, and Marwa.",
+  "sourceHint": "Sangeet Natak Akademi",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:18:19Z"
  }
 ]

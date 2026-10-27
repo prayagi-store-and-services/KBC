@@ -25198,5 +25198,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-27T05:09:01Z"
+ },
+ {
+  "id": "q_baa0e7828b6c755c",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the historical play 'Arthashastra'?",
+  "qHi": "ऐतिहासिक ग्रंथ 'अर्थशास्त्र' के रचयिता कौन हैं?",
+  "optsEn": [
+   "Kalidasa",
+   "Chanakya",
+   "Banabhatta",
+   "Valmiki"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "चाणक्य",
+   "बाणभट्ट",
+   "वाल्मीकि"
+  ],
+  "correct": 1,
+  "explainEn": "Arthashastra is an ancient Indian treatise on statecraft, economic policy, and military strategy written by Kautilya, also known as Chanakya.",
+  "sourceHint": "NCERT Class 12 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:15:30Z"
+ },
+ {
+  "id": "q_24d9927fb33ffcec",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas is predominantly released during photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण के दौरान मुख्य रूप से कौन सी गैस निकलती है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 0,
+  "explainEn": "During photosynthesis, plants take in carbon dioxide and water, and release oxygen as a byproduct.",
+  "sourceHint": "NCERT Class 11 Biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:15:30Z"
+ },
+ {
+  "id": "q_78a2a2bdbfe3db7d",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which sector is typically the largest contributor to India's Gross Domestic Product in terms of share value?",
+  "qHi": "मूल्य हिस्सेदारी के संदर्भ में कौन सा क्षेत्र आमतौर पर भारत के सकल घरेलू उत्पाद में सबसे बड़ा योगदानकर्ता है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Quaternary sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "तृतीयक क्षेत्र",
+   "चतुर्थक क्षेत्र"
+  ],
+  "correct": 2,
+  "explainEn": "The tertiary sector (services sector) accounts for the largest share of India's GDP.",
+  "sourceHint": "NCERT Class 12 Economics / Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:17:21Z"
+ },
+ {
+  "id": "q_0f21e333b416e537",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What was the primary method used by the Harappan civilization for urban water management in Dholavira?",
+  "qHi": "धोलावीरा में शहरी जल प्रबंधन के लिए हड़प्पा सभ्यता द्वारा उपयोग की जाने वाली प्राथमिक विधि क्या थी?",
+  "optsEn": [
+   "Stepwells and massive stone reservoirs",
+   "Deep tube wells",
+   "Canal networks from perennial rivers",
+   "Desalination plants"
+  ],
+  "optsHi": [
+   "बावड़ी और विशाल पत्थर के जलाशय",
+   "गहरे नलकूप",
+   "सदाबहार नदियों से नहर नेटवर्क",
+   "डिसैलिनेशन संयंत्र"
+  ],
+  "correct": 0,
+  "explainEn": "Dholavira is renowned for its sophisticated water management system involving cascading stone-cut reservoirs and channels.",
+  "sourceHint": "NCERT Class 12 History, Theme 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:17:21Z"
+ },
+ {
+  "id": "q_4f865e62e46e9186",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In English romantic poetry, which work co-authored by William Wordsworth and Samuel Taylor Coleridge marked a major turning point?",
+  "qHi": "अंग्रेजी रोमांटिक कविता में, विलियम वर्ड्सवर्थ और सैमुअल टेलर कोलरिज द्वारा सह-लेखन किस कृति ने एक बड़ा मोड़ चिह्नित किया?",
+  "optsEn": [
+   "Lyrical Ballads",
+   "Paradise Lost",
+   "The Prelude",
+   "Kubla Khan"
+  ],
+  "optsHi": [
+   "लिरिकल बैलेट्स",
+   "पैराडाइज लॉस्ट",
+   "द प्रील्यूड",
+   "कुबला खान"
+  ],
+  "correct": 0,
+  "explainEn": "Lyrical Ballads, published in 1798 by Wordsworth and Coleridge, is widely considered the starting point of the English Romantic literary movement.",
+  "sourceHint": "NCERT Class 12 English Literature",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:17:21Z"
+ },
+ {
+  "id": "q_4a9e3a93129e3722",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which sociological term describes a system of social stratification based on achieved status rather than ascribed status?",
+  "qHi": "कौन सी समाजशास्त्रीय शब्दावली आरोपित स्थिति के बजाय प्राप्त स्थिति पर आधारित सामाजिक स्तरीकरण की प्रणाली का वर्णन करती है?",
+  "optsEn": [
+   "Caste system",
+   "Class system",
+   "Feudal system",
+   "Estate system"
+  ],
+  "optsHi": [
+   "जाति व्यवस्था",
+   "वर्ग व्यवस्था",
+   "सामंती व्यवस्था",
+   "एस्टेट व्यवस्था"
+  ],
+  "correct": 1,
+  "explainEn": "A class system of stratification is fundamentally based on achieved economic status and individual mobility rather than inherited caste.",
+  "sourceHint": "NCERT Class 12 Sociology, Indian Society",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:17:21Z"
  }
 ]

@@ -18394,5 +18394,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-27T05:08:49Z"
+ },
+ {
+  "id": "q_459f7caae86d7210",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who led the Santhal rebellion against the British?",
+  "qHi": "अंग्रेजों के खिलाफ संथाल विद्रोह का नेतृत्व किसने किया था?",
+  "optsEn": [
+   "Birsa Munda",
+   "Sidhu and Kanhu",
+   "Tantia Tope",
+   "Mangal Pandey"
+  ],
+  "optsHi": [
+   "बिरसा मुंडा",
+   "सिद्धू और कान्हू",
+   "तांत्या टोपे",
+   "मंगल पांडे"
+  ],
+  "correct": 1,
+  "explainEn": "Sidhu and Kanhu Murmu led the Santhal rebellion in 1855-1856.",
+  "sourceHint": "NCERT Class 8 History, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:15:02Z"
+ },
+ {
+  "id": "q_06c5dc1092a9ac23",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the name of the process in which a tadpole transforms into an adult frog?",
+  "qHi": "उस प्रक्रिया का नाम क्या है जिसमें टेडपोल एक वयस्क मेंढक में परिवर्तित होता है?",
+  "optsEn": [
+   "Budding",
+   "Metamorphosis",
+   "Binary fission",
+   "Fertilization"
+  ],
+  "optsHi": [
+   "मुकुलन",
+   "कायांतरण (मेटामॉरफोसिस)",
+   "द्विभाजन",
+   "निषेचन"
+  ],
+  "correct": 1,
+  "explainEn": "The transformation of the larva into an adult through drastic changes is called metamorphosis.",
+  "sourceHint": "NCERT Class 8 Science, Reproduction in Animals",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:16:40Z"
+ },
+ {
+  "id": "q_2d456bacff34122b",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "During the British colonial rule in India, what was the Permanent Settlement introduced in 1793 primarily related to?",
+  "qHi": "भारत में ब्रिटिश औपनिवेशिक शासन के दौरान, 1793 में शुरू किया गया स्थायी बंदोबस्त मुख्य रूप से किससे संबंधित था?",
+  "optsEn": [
+   "Collection of land revenue",
+   "Establishment of railways",
+   "Recruitment in the army",
+   "Abolition of sati"
+  ],
+  "optsHi": [
+   "भू-राजस्व की वसूली",
+   "रेलवे की स्थापना",
+   "सेना में भर्ती",
+   "सती प्रथा का अंत"
+  ],
+  "correct": 0,
+  "explainEn": "Under the Permanent Settlement of 1793, the amount of revenue to be paid by the landlords (zamindars) was fixed permanently.",
+  "sourceHint": "NCERT Class 8 History, Ruling the Countryside",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:16:40Z"
+ },
+ {
+  "id": "q_2ce56b850c50b69e",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the British colonial rule in India, the Permanent Settlement was introduced in 1793 primarily to ensure a regular flow of revenue. Who was the Governor-General of Bengal at that time?",
+  "qHi": "भारत में ब्रिटिश औपनिवेशिक शासन के दौरान, मुख्य रूप से राजस्व का नियमित प्रवाह सुनिश्चित करने के लिए 1793 में स्थायी बंदोबस्त (परमानेंट सेटलमेंट) शुरू किया गया था। उस समय बंगाल के गवर्नर-जनरल कौन थे?",
+  "optsEn": [
+   "Lord Cornwallis",
+   "Warren Hastings",
+   "Lord Dalhousie",
+   "Lord Wellesley"
+  ],
+  "optsHi": [
+   "लॉर्ड कॉर्नवॉलिस",
+   "वारेन हेस्टिंग्स",
+   "लॉर्ड डलहौजी",
+   "लॉर्ड वेलेजली"
+  ],
+  "correct": 0,
+  "explainEn": "Lord Cornwallis introduced the Permanent Settlement in Bengal in 1793.",
+  "sourceHint": "NCERT Class 8 History Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:18:48Z"
+ },
+ {
+  "id": "q_7eb666b9edfacb81",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which part of the Indian Constitution contains the fundamental rights that protect citizens against the state as well as against other individuals?",
+  "qHi": "भारतीय संविधान के किस भाग में मौलिक अधिकार शामिल हैं जो नागरिकों को राज्य के साथ-साथ अन्य व्यक्तियों के खिलाफ भी सुरक्षा प्रदान करते हैं?",
+  "optsEn": [
+   "Part III",
+   "Part IV",
+   "Part I",
+   "Part II"
+  ],
+  "optsHi": [
+   "भाग III",
+   "भाग IV",
+   "भाग I",
+   "भाग II"
+  ],
+  "correct": 0,
+  "explainEn": "Part III of the Indian Constitution, from Article 12 to 35, contains the Fundamental Rights.",
+  "sourceHint": "NCERT Class 8 Civics Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:18:48Z"
+ },
+ {
+  "id": "q_77585b10b2c69d70",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In agricultural geography, shifting cultivation is known by different names across the world. What is it called in Northeast India?",
+  "qHi": "कृषि भूगोल में, स्थानांतरण कृषि (शिफ्टिंग कल्टीवेशन) को दुनिया भर में अलग-अलग नामों से जाना जाता है। इसे पूर्वोत्तर भारत में क्या कहा जाता है?",
+  "optsEn": [
+   "Jhum",
+   "Milpa",
+   "Loadong",
+   "Roca"
+  ],
+  "optsHi": [
+   "झूम",
+   "मिलपा",
+   "लोडोंग",
+   "रोका"
+  ],
+  "correct": 0,
+  "explainEn": "Shifting cultivation is known as Jhum cultivation in the forested tracts of Northeast India.",
+  "sourceHint": "NCERT Class 8 Geography Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:18:48Z"
+ },
+ {
+  "id": "q_da031a8d047aecbd",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which cell organelle is responsible for generating most of the chemical energy needed to power the biochemical reactions of the cell, often called the powerhouse of the cell?",
+  "qHi": "कोशिका के जैव रासायनिक प्रतिक्रियाओं को शक्ति देने के लिए आवश्यक अधिकांश रासायनिक ऊर्जा उत्पन्न करने के लिए कौन सा कोशिका अंग जिम्मेदार है, जिसे अक्सर कोशिका का पावरहाउस कहा जाता है?",
+  "optsEn": [
+   "Mitochondria",
+   "Ribosome",
+   "Chloroplast",
+   "Golgi apparatus"
+  ],
+  "optsHi": [
+   "माइटोकॉन्ड्रिया",
+   "राइबोसोम",
+   "क्लोरोप्लास्ट",
+   "गोल्गी उपकरण"
+  ],
+  "correct": 0,
+  "explainEn": "Mitochondria generate adenosine triphosphate (ATP), the cell's energy currency.",
+  "sourceHint": "NCERT Class 8 Science Chapter 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:18:48Z"
+ },
+ {
+  "id": "q_ee358fe1d9802bf7",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In physics, when the area over which a force acts is decreased while keeping the force constant, what happens to the pressure exerted?",
+  "qHi": "भौतिकी में, जब बल को स्थिर रखते हुए उस क्षेत्रफल को कम किया जाता है जिस पर बल कार्य करता है, तो लगाए जाने والے दाब पर क्या प्रभाव पड़ता है?",
+  "optsEn": [
+   "It increases",
+   "It decreases",
+   "It remains unchanged",
+   "It becomes zero"
+  ],
+  "optsHi": [
+   "यह बढ़ता है",
+   "यह घटता है",
+   "यह अपरिवर्तित रहता है",
+   "यह शून्य हो जाता है"
+  ],
+  "correct": 0,
+  "explainEn": "Pressure is inversely proportional to area (Pressure = Force / Area). Decreasing the area increases the pressure.",
+  "sourceHint": "NCERT Class 8 Science Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:18:48Z"
+ },
+ {
+  "id": "q_3df858ceb4285c9b",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the Indian freedom struggle, the Chauri Chaura incident took place in 1922, leading to the suspension of which major nationwide movement by Mahatma Gandhi?",
+  "qHi": "भारतीय स्वतंत्रता संग्राम के दौरान 1922 में चौरी चौरा की घटना घटी, जिसके कारण महात्मा गांधी ने किस प्रमुख राष्ट्रव्यापी आंदोलन को स्थगित कर दिया था?",
+  "optsEn": [
+   "Non-Cooperation Movement",
+   "Civil Disobedience Movement",
+   "Quit India Movement",
+   "Rowlatt Satyagraha"
+  ],
+  "optsHi": [
+   "असहयोग आंदोलन",
+   "सविनय अवज्ञा आंदोलन",
+   "भारत छोड़ो आंदोलन",
+   "रॉलेट सत्याग्रह"
+  ],
+  "correct": 0,
+  "explainEn": "Mahatma Gandhi called off the Non-Cooperation Movement following the violence at Chauri Chaura in February 1922.",
+  "sourceHint": "NCERT Class 8 History Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:18:48Z"
+ },
+ {
+  "id": "q_edf50a87e1f35947",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following non-metals is essential for the disinfection of water supplies and is widely used in water treatment plants?",
+  "qHi": "निम्नलिखित में से कौन सी अधातु जल आपूर्ति के कीटाणुशोधन के लिए आवश्यक है और जल उपचार संयंत्रों में बड़े पैमाने पर उपयोग की जाती है?",
+  "optsEn": [
+   "Chlorine",
+   "Nitrogen",
+   "Phosphorus",
+   "Silicon"
+  ],
+  "optsHi": [
+   "क्लोरिन",
+   "नाइट्रोजन",
+   "फास्फोरस",
+   "सिलिकॉन"
+  ],
+  "correct": 0,
+  "explainEn": "Chlorine is a non-metal widely used as a disinfectant in water purification processes.",
+  "sourceHint": "NCERT Class 8 Science Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:18:48Z"
  }
 ]

@@ -16518,5 +16518,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-27T05:09:15Z"
+ },
+ {
+  "id": "q_4517c9b817f4420d",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which biosphere reserve is located in the state of Meghalaya?",
+  "qHi": "कौन सा बायोस्फीयर रिजर्व मेघालय राज्य में स्थित है?",
+  "optsEn": [
+   "Nokrek",
+   "Manas",
+   "Similipal",
+   "Achanakmar"
+  ],
+  "optsHi": [
+   "नोकरेक",
+   "मानस",
+   "सिमिलिपाल",
+   "अचानकमार"
+  ],
+  "correct": 0,
+  "explainEn": "Nokrek Biosphere Reserve is located in the West Garo Hills district of Meghalaya.",
+  "sourceHint": "NCERT Geography / Ministry of Environment, Forest and Climate Change",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:17:55Z"
  }
 ]

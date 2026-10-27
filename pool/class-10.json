@@ -22258,5 +22258,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-27T05:08:55Z"
+ },
+ {
+  "id": "q_d81ce4c2137be9b6",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organ of the human body filters nitrogenous waste such as urea from the blood?",
+  "qHi": "मानव शरीर का कौन सा अंग रक्त से यूरिया जैसे नाइट्रोजनयुक्त अपशिष्ट को फ़िल्टर करता है?",
+  "optsEn": [
+   "Heart",
+   "Kidney",
+   "Lungs",
+   "Liver"
+  ],
+  "optsHi": [
+   "हृदय",
+   "गुर्दा",
+   "फेफड़े",
+   "यकृत"
+  ],
+  "correct": 1,
+  "explainEn": "Kidneys are the primary excretory organs in humans that filter waste products from the blood to form urine.",
+  "sourceHint": "NCERT Class 10 Science Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:15:18Z"
+ },
+ {
+  "id": "q_75fcc321f6773a45",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which sector does the manufacture of steel and sugar fall?",
+  "qHi": "स्टील और चीनी का निर्माण किस क्षेत्रक के अंतर्गत आता है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Quaternary sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्रक",
+   "द्वितीयक क्षेत्रक",
+   "तृतीयक क्षेत्रक",
+   "चतुर्थक क्षेत्रक"
+  ],
+  "correct": 1,
+  "explainEn": "Manufacturing industries that transform raw materials into finished goods belong to the secondary sector.",
+  "sourceHint": "NCERT Economics Class 10 Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:16:57Z"
+ },
+ {
+  "id": "q_82d01ff753de8d09",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which element has the lowest atomic number among the noble gases?",
+  "qHi": "अक्रिय गैसों में सबसे कम परमाणु क्रमांक किस तत्व का होता है?",
+  "optsEn": [
+   "Helium",
+   "Neon",
+   "Argon",
+   "Krypton"
+  ],
+  "optsHi": [
+   "हीलीयम",
+   "नियॉन",
+   "आर्गन",
+   "क्रिप्टन"
+  ],
+  "correct": 0,
+  "explainEn": "Helium is the first noble gas in the periodic table with an atomic number of 2.",
+  "sourceHint": "NCERT Science Class 10 Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:16:57Z"
+ },
+ {
+  "id": "q_69f6cff8265db270",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which ancient trade route connected Asia with Europe and North Africa, facilitating the exchange of goods and culture?",
+  "qHi": "कौन सा प्राचीन व्यापार मार्ग एशिया को यूरोप और उत्तरी अफ्रीका से जोड़ता था, जो वस्तुओं और संस्कृति के आदान-प्रदान को सुगम बनाता था?",
+  "optsEn": [
+   "Grand Trunk Road",
+   "Silk Route",
+   "Amber Road",
+   "Spice Route"
+  ],
+  "optsHi": [
+   "ग्रैंड ट्रंक रोड",
+   "सिल्क रूट",
+   "एम्बर रोड",
+   "मसाला मार्ग"
+  ],
+  "correct": 1,
+  "explainEn": "The Silk Routes are a good example of vibrant pre-modern trade and cultural links between distant parts of the world.",
+  "sourceHint": "NCERT History Class 10 Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T12:16:57Z"
  }
 ]
