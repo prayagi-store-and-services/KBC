@@ -94,6 +94,7 @@ open class MainActivity : ComponentActivity() {
         window.clearFlags(WindowManager.LayoutParams.FLAG_SECURE)
         setContent {
             TarkShastraTheme {
+                com.example.update.AppUpdatePrompt()
                 Scaffold(
                     modifier = Modifier.fillMaxSize(),
                     containerColor = NavyBackground,
