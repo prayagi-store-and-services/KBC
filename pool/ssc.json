@@ -16546,5 +16546,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-27T12:17:55Z"
+ },
+ {
+  "id": "q_a05c60c54d435a03",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which battle, fought in 1757, marked the beginning of British political supremacy in India?",
+  "qHi": "1757 में लड़ी गई किस लड़ाई ने भारत में ब्रिटिश राजनीतिक वर्चस्व की शुरुआत को चिह्नित किया?",
+  "optsEn": [
+   "Battle of Panipat",
+   "Battle of Buxar",
+   "Battle of Plassey",
+   "Battle of Haldighati"
+  ],
+  "optsHi": [
+   "पानीपत का युद्ध",
+   "बक्सर का युद्ध",
+   "प्लासी का युद्ध",
+   "हल्दीघाटी का युद्ध"
+  ],
+  "correct": 2,
+  "explainEn": "The Battle of Plassey in 1757 established British East India Company rule in Bengal.",
+  "sourceHint": "NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T18:02:47Z"
+ },
+ {
+  "id": "q_b768cd02ecdc24bb",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "During the reign of which Gupta ruler was the Chinese pilgrim Faxian (Fa-Hien) visiting India?",
+  "qHi": "किस गुप्त शासक के शासनकाल के दौरान चीनी यात्री फाह्यान ने भारत का दौरा किया था?",
+  "optsEn": [
+   "Chandragupta I",
+   "Samudragupta",
+   "Chandragupta II",
+   "Skandagupta"
+  ],
+  "optsHi": [
+   "चंद्रगुप्त प्रथम",
+   "समुद्रगुप्त",
+   "चंद्रगुप्त द्वितीय",
+   "स्कंदगुप्त"
+  ],
+  "correct": 2,
+  "explainEn": "Faxian visited India during the reign of Chandragupta II, also known as Vikramaditya, in the early 5th century CE.",
+  "sourceHint": "NCERT Class 12 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T18:05:16Z"
+ },
+ {
+  "id": "q_a38f6feda0d09cd6",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary function of ribosomes within a living cell?",
+  "qHi": "एक जीवित कोशिका के भीतर राइबोसोम का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "Protein synthesis",
+   "Lipid metabolism",
+   "ATP generation",
+   "DNA replication"
+  ],
+  "optsHi": [
+   "प्रोटीन संश्लेषण",
+   "लिपिड चयापचय",
+   "एटीपी उत्पादन",
+   "डीएनए प्रतिकृति"
+  ],
+  "correct": 0,
+  "explainEn": "Ribosomes are cellular structures responsible for translating messenger RNA into proteins, earning them the title of the protein factories of the cell.",
+  "sourceHint": "NCERT Class 9 Biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T18:05:16Z"
+ },
+ {
+  "id": "q_479c329753400132",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who founded the Satyashodhak Samaj in 1873 to work for the upliftment of the oppressed classes?",
+  "qHi": "पीड़ित वर्गों के उत्थान के लिए 1873 में सत्यशोधक समाज की स्थापना किसने की थी?",
+  "optsEn": [
+   "Jyotirao Phule",
+   "B.R. Ambedkar",
+   "Gopal Ganesh Agarkar",
+   "M.G. Ranade"
+  ],
+  "optsHi": [
+   "ज्योतिराव फुले",
+   "बी.आर. आंबेडकर",
+   "गोपाल गणेश आगरकर",
+   "एम.जी. रानाडे"
+  ],
+  "correct": 0,
+  "explainEn": "Jyotirao Phule founded the Satyashodhak Samaj (Society of Seekers of Truth) on September 24, 1873, in Maharashtra.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T18:05:16Z"
  }
 ]

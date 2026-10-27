@@ -25366,5 +25366,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-27T12:17:21Z"
+ },
+ {
+  "id": "q_5e8fead6014865fe",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In a p-n junction diode, what happens to the depletion region under forward bias condition?",
+  "qHi": "एक p-n संधि डायोड में, अग्र अभिनति (forward bias) स्थिति में अवक्षय क्षेत्र (depletion region) का क्या होता है?",
+  "optsEn": [
+   "It widens",
+   "It remains unchanged",
+   "It narrows",
+   "It disappears completely at room temperature"
+  ],
+  "optsHi": [
+   "यह चौड़ा हो जाता है",
+   "यह अपरिवर्तित रहता है",
+   "यह संकीर्ण हो जाता है",
+   "यह कमरे के तापमान पर पूरी तरह से गायब हो जाता है"
+  ],
+  "correct": 2,
+  "explainEn": "Under forward bias, the applied voltage opposes the potential barrier, reducing the width of the depletion region.",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T18:03:44Z"
+ },
+ {
+  "id": "q_b2ef0abba73a9196",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which transition metal compound is commonly used as a catalyst in the industrial preparation of polyethylene (Ziegler-Natta catalyst)?",
+  "qHi": "पॉलीथीन के औद्योगिक निर्माण (ज़ीग्लर-नाटा उत्प्रेरक) में आमतौर पर किस संक्रमण धातु यौगिक का उपयोग उत्प्रेरक के रूप में किया जाता है?",
+  "optsEn": [
+   "Titanium tetrachloride",
+   "Nickel tetracarbonyl",
+   "Iron(III) oxide",
+   "Manganese dioxide"
+  ],
+  "optsHi": [
+   "टाइटेनियम टेट्राक्लोराइड",
+   "निकल टेट्राकार्बोनिल",
+   "आयरन (III) ऑक्साइड",
+   "मैंगनीज डाइऑक्साइड"
+  ],
+  "correct": 0,
+  "explainEn": "The Ziegler-Natta catalyst typically consists of titanium tetrachloride and triethylaluminium.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T18:03:44Z"
+ },
+ {
+  "id": "q_b2c66cd547220120",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Article of the Indian Constitution provides for the right to constitutional remedies?",
+  "qHi": "भारतीय संविधान का कौन सा अनुच्छेद संवैधानिक उपचारों का अधिकार प्रदान करता है?",
+  "optsEn": [
+   "Article 14",
+   "Article 19",
+   "Article 21",
+   "Article 32"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14",
+   "अनुच्छेद 19",
+   "अनुच्छेद 21",
+   "अनुच्छेद 32"
+  ],
+  "correct": 3,
+  "explainEn": "Article 32 gives the right to move the Supreme Court for the enforcement of Fundamental Rights.",
+  "sourceHint": "Constitution of India / NCERT Class 11 Political Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T18:03:44Z"
+ },
+ {
+  "id": "q_38ceefac895a1b3d",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In microeconomics, when total utility reaches its maximum point, what is the value of marginal utility?",
+  "qHi": "व्यष्टि अर्थशास्त्र में, जब कुल उपयोगिता अपने अधिकतम बिंदु पर पहुँच जाती है, तब सीमांत उपयोगिता का मान क्या होता है?",
+  "optsEn": [
+   "Zero",
+   "Maximum",
+   "Negative",
+   "Equal to average utility"
+  ],
+  "optsHi": [
+   "शून्य",
+   "अधिकतम",
+   "ऋणात्मक",
+   "औसत उपयोगिता के बराबर"
+  ],
+  "correct": 0,
+  "explainEn": "When total utility is at its maximum, marginal utility drops to zero before becoming negative.",
+  "sourceHint": "NCERT Class 12 Economics (Microeconomics), Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T18:03:44Z"
+ },
+ {
+  "id": "q_19d2253e4e245a86",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which ecosystem type has the lowest mean net primary productivity per unit area globally?",
+  "qHi": "वैश्विक स्तर पर प्रति इकाई क्षेत्र में किस पारिस्थितिकी तंत्र प्रकार की शुद्ध प्राथमिक उत्पादकता सबसे कम होती है?",
+  "optsEn": [
+   "Tropical rainforest",
+   "Temperate deciduous forest",
+   "Open ocean",
+   "Estuary"
+  ],
+  "optsHi": [
+   "उष्णकटिबंधीय वर्षा वन",
+   "शीतशीतोष्ण पर्णपाती वन",
+   "खुला महासागर",
+   "एश्चुअरी"
+  ],
+  "correct": 2,
+  "explainEn": "Open oceans cover a vast area but have low nutrient concentration, resulting in low net primary productivity per unit area.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T18:03:44Z"
+ },
+ {
+  "id": "q_da308402a76023e1",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In accounting, what does the term 'Capital Reserve' refer to?",
+  "qHi": "लेखांकन में, 'पूंजीगत संचय' (Capital Reserve) शब्द से क्या तात्पर्य है?",
+  "optsEn": [
+   "Profits earned from normal operating activities",
+   "Reserves created out of capital profits which are not free for distribution as dividend",
+   "Cash kept aside for paying short-term liabilities",
+   "Funds collected exclusively from equity shareholders"
+  ],
+  "optsHi": [
+   "सामान्य संचालन गतिविधियों से अर्जित लाभ",
+   "पूंजीगत लाभों से बनाए गए संचय जो लाभांश के रूप में वितरण के लिए स्वतंत्र नहीं हैं",
+   "अल्पकालिक देनदारियों के भुगतान के लिए अलग रखा गया नकदी",
+   "विशेष रूप से इक्विटी शेयरधारकों से एकत्र किए गए फंड"
+  ],
+  "correct": 1,
+  "explainEn": "Capital reserves are created out of capital profits (such as profit on sale of fixed assets) and are not generally available for distribution as dividends.",
+  "sourceHint": "NCERT Class 12 Accountancy, Part II",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T18:03:44Z"
  }
 ]

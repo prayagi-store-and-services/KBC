@@ -22370,5 +22370,453 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-27T12:16:57Z"
+ },
+ {
+  "id": "q_b54b482d5ccedf29",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which energy conversion takes place inside an electric motor?",
+  "qHi": "विद्युत मोटर के अंदर किस प्रकार का ऊर्जा रूपांतरण होता है?",
+  "optsEn": [
+   "Electrical energy to mechanical energy",
+   "Mechanical energy to electrical energy",
+   "Chemical energy to electrical energy",
+   "Heat energy to light energy"
+  ],
+  "optsHi": [
+   "विद्युत ऊर्जा से यांत्रिक ऊर्जा",
+   "यांत्रिक ऊर्जा से विद्युत ऊर्जा",
+   "रासायनिक ऊर्जा से विद्युत ऊर्जा",
+   "ऊष्मा ऊर्जा से प्रकाश ऊर्जा"
+  ],
+  "correct": 0,
+  "explainEn": "An electric motor is a rotating device that converts electrical energy to mechanical energy.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 13: Magnetic Effects of Electric Current",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T18:02:34Z"
+ },
+ {
+  "id": "q_48d7d06678f64847",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the minimum age required to contest elections for the Lok Sabha in India?",
+  "qHi": "भारत में लोकसभा चुनाव लड़ने के लिए आवश्यक न्यूनतम आयु क्या है?",
+  "optsEn": [
+   "18 years",
+   "21 years",
+   "25 years",
+   "35 years"
+  ],
+  "optsHi": [
+   "18 वर्ष",
+   "21 वर्ष",
+   "25 वर्ष",
+   "35 वर्ष"
+  ],
+  "correct": 2,
+  "explainEn": "According to the Constitution of India, a person must be at least 25 years old to become a member of the Lok Sabha.",
+  "sourceHint": "Constitution of India, Article 84",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T18:02:34Z"
+ },
+ {
+  "id": "q_14ac7221d3450548",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the function of the hormone insulin in the human body?",
+  "qHi": "मानव शरीर में इंसुलिन हार्मोन का क्या कार्य है?",
+  "optsEn": [
+   "To regulate blood sugar levels",
+   "To control heart rate",
+   "To aid in digestion of proteins",
+   "To stimulate growth in bones"
+  ],
+  "optsHi": [
+   "रक्त शर्करा के स्तर को नियंत्रित करना",
+   "हृदय गति को नियंत्रित करना",
+   "प्रोटीन के पाचन में सहायता करना",
+   "हड्डियों में वृद्धि को उत्तेजित करना"
+  ],
+  "correct": 0,
+  "explainEn": "Insulin is secreted by the pancreas and helps lower blood glucose levels.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T18:03:36Z"
+ },
+ {
+  "id": "q_569c18e9833f6cb1",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the resistance of a conductor related to its cross-sectional area?",
+  "qHi": "किसी चालक का प्रतिरोध उसके अनुप्रस्थ काट के क्षेत्रफल से किस प्रकार संबंधित है?",
+  "optsEn": [
+   "Directly proportional to the area",
+   "Inversely proportional to the area",
+   "Independent of the area",
+   "Proportional to the square of the area"
+  ],
+  "optsHi": [
+   "क्षेत्रफल के सीधे समानुपाती होता है",
+   "क्षेत्रफल के व्युत्क्रमानुपाती होता है",
+   "क्षेत्रफल से स्वतंत्र होता है",
+   "क्षेत्रफल के वर्ग के समानुपाती होता है"
+  ],
+  "correct": 1,
+  "explainEn": "Resistance is inversely proportional to the cross-sectional area of the conductor (R = rho * l / A).",
+  "sourceHint": "NCERT Class 10 Science, Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T18:03:36Z"
+ },
+ {
+  "id": "q_599a20e8c9c95337",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which type of forest are teak and sal prominent tree species found in India?",
+  "qHi": "भारत में सागौन और साल किस प्रकार के वनों में पाए जाने वाले प्रमुख वृक्ष हैं?",
+  "optsEn": [
+   "Tropical evergreen forests",
+   "Tropical deciduous forests",
+   "Thorn forests",
+   "Mangrove forests"
+  ],
+  "optsHi": [
+   "उष्णकटिबंधीय सदाबहार वन",
+   "उष्णकटिबंधीय पर्णपाती वन",
+   "कंटीले वन",
+   "मैंग्रोव वन"
+  ],
+  "correct": 1,
+  "explainEn": "Teak and sal are the most important species of tropical deciduous forests in India.",
+  "sourceHint": "NCERT Class 9/10 Geography context",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T18:03:36Z"
+ },
+ {
+  "id": "q_f4c7b12b11bd2549",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organ of government in India is responsible for the implementation of laws and policies?",
+  "qHi": "भारत सरकार का कौन सा अंग कानूनों और नीतियों के क्रियान्वयन के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Legislature",
+   "Executive",
+   "Judiciary",
+   "Election Commission"
+  ],
+  "optsHi": [
+   "विधायिका",
+   "कार्यपालिका",
+   "न्यायपालिका",
+   "निर्वाचन आयोग"
+  ],
+  "correct": 1,
+  "explainEn": "The Executive branch is responsible for implementing laws and running the administration.",
+  "sourceHint": "NCERT Class 9/10 Democratic Politics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T18:03:36Z"
+ },
+ {
+  "id": "q_c67aeea7a0212acb",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the term used to describe the total value of all final goods and services produced within a country during a particular year?",
+  "qHi": "किसी विशेष वर्ष के दौरान देश के भीतर उत्पादित सभी अंतिम वस्तुओं और सेवाओं के कुल मूल्य को क्या कहा जाता है?",
+  "optsEn": [
+   "Gross Domestic Product",
+   "Gross National Product",
+   "Net National Product",
+   "Per Capita Income"
+  ],
+  "optsHi": [
+   "सकल घरेलू उत्पाद",
+   "सकल राष्ट्रीय उत्पाद",
+   "शुद्ध राष्ट्रीय उत्पाद",
+   "प्रति व्यक्ति आय"
+  ],
+  "correct": 0,
+  "explainEn": "GDP measures the monetary value of all finished goods and services made within a country during a specific period.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T18:03:36Z"
+ },
+ {
+  "id": "q_2ac70c52c4db2eb1",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which energy source is harnessed from hot spots beneath the Earth's crust?",
+  "qHi": "पृथ्वी की पलटी या पर्पटी के नीचे स्थित गर्म स्थलों (हॉट स्पॉट) से कौन सी ऊर्जा प्राप्त की जाती है?",
+  "optsEn": [
+   "Solar energy",
+   "Geothermal energy",
+   "Biomass energy",
+   "Nuclear energy"
+  ],
+  "optsHi": [
+   "सौर ऊर्जा",
+   "भू-ऊष्मीय ऊर्जा",
+   "बायोमास ऊर्जा",
+   "परमाणु ऊर्जा"
+  ],
+  "correct": 1,
+  "explainEn": "Geothermal energy uses thermal energy stored deep inside the earth where underground water turns into steam.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T18:03:36Z"
+ },
+ {
+  "id": "q_25209e335a526d35",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which element forms the basis of all organic compounds due to its unique ability to form long chains and covalent bonds, a property known as catenation?",
+  "qHi": "कौन सा तत्व लंबी श्रृंखलाएं और सहसंयोजक बंध बनाने की अपनी अनूठी क्षमता के कारण सभी कार्बनिक यौगिकों का आधार बनता है, जिसे श्रृंखलन (कैटिनेशन) कहा जाता है?",
+  "optsEn": [
+   "Silicon",
+   "Carbon",
+   "Nitrogen",
+   "Phosphorus"
+  ],
+  "optsHi": [
+   "सिलिकॉन",
+   "कार्बन",
+   "नाइट्रोजन",
+   "फास्फोरस"
+  ],
+  "correct": 1,
+  "explainEn": "Carbon shows maximum catenation among group 14 elements due to its small size and strong C-C bonds.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T18:08:08Z"
+ },
+ {
+  "id": "q_fa24d489cf35e89a",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the human nephron, where does the selective reabsorption of useful substances such as glucose, amino acids, salts, and a major amount of water primarily take place?",
+  "qHi": "मानव वृक्काणु (नेफ्रॉन) में, ग्लूकोज, अमीनो एसिड, लवण और पानी की एक बड़ी मात्रा जैसे उपयोगी पदार्थों का चयनात्मक पुनravsorption मुख्य रूप से कहाँ होता है?",
+  "optsEn": [
+   "Bowman's capsule",
+   "Glomerulus",
+   "Proximal convoluted tubule",
+   "Collecting duct"
+  ],
+  "optsHi": [
+   "बाउमैन संपूट",
+   "ग्लोमेरुलस",
+   "समीपस्थ संवलित नलिका",
+   "संग्राहक नलिका"
+  ],
+  "correct": 2,
+  "explainEn": "The proximal convoluted tubule (PCT) is specialized for the reabsorption of essential nutrients and water from the filtrate.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T18:08:08Z"
+ },
+ {
+  "id": "q_9ced11c35a49c596",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific type of mirror always forms a virtual, erect, and diminished image of an object placed at any position in front of it?",
+  "qHi": "किस विशिष्ट प्रकार का दर्पण इसके सामने किसी भी स्थिति में रखी वस्तु का हमेशा आभासी, सीधा और छोटा प्रतिबिंब बनाता है?",
+  "optsEn": [
+   "Concave mirror",
+   "Convex mirror",
+   "Plane mirror",
+   "Parabolic mirror"
+  ],
+  "optsHi": [
+   "अवतल दर्पण",
+   "उत्तल दर्पण",
+   "समतल दर्पण",
+   "परवलयिक दर्पण"
+  ],
+  "correct": 1,
+  "explainEn": "A convex mirror diverges light rays and always produces a virtual, erect, and diminished image irrespective of the object's distance.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T18:08:08Z"
+ },
+ {
+  "id": "q_01240ad2af3f3f0d",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the process of extraction of metals, which chemical method is specifically used for the concentration of sulphide ores like zinc blende?",
+  "qHi": "धातुओं के निष्कर्षण की प्रक्रिया के दौरान, जिंक ब्लेंड जैसे सल्फाइड अयस्कों के सांद्रण के लिए विशेष रूप से किस रासायनिक विधि का उपयोग किया जाता है?",
+  "optsEn": [
+   "Hydraulic washing",
+   "Froth floatation process",
+   "Magnetic separation",
+   "Calcination"
+  ],
+  "optsHi": [
+   "हाइड्रोलिक धुलाई",
+   "फेन प्लवन विधि",
+   "चुंबकीय पृथक्करण",
+   "निस्तापन"
+  ],
+  "correct": 1,
+  "explainEn": "Froth floatation is used to concentrate sulphide ores by preferentially wetting the ore with pine oil and impurities with water.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T18:08:08Z"
+ },
+ {
+  "id": "q_b9b573c2f24afd79",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which amendment to the Constitution of India formally added the provisions relating to Panchayati Raj Institutions, giving them constitutional status?",
+  "qHi": "भारत के संविधान के किस संशोधन ने पंचायती राज संस्थाओं से संबंधित प्रावधानों को औपचारिक रूप से जोड़ा और उन्हें संवैधानिक दर्जा दिया?",
+  "optsEn": [
+   "42nd Amendment Act",
+   "44th Amendment Act",
+   "73rd Amendment Act",
+   "86th Amendment Act"
+  ],
+  "optsHi": [
+   "42वां संशोधन अधिनियम",
+   "44वां संशोधन अधिनियम",
+   "73वां संशोधन अधिनियम",
+   "86वां संशोधन अधिनियम"
+  ],
+  "correct": 2,
+  "explainEn": "The 73rd Constitutional Amendment Act, 1992 added Part IX to the Constitution, providing constitutional status to Panchayats.",
+  "sourceHint": "NCERT Class 10 Political Science, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T18:08:08Z"
+ },
+ {
+  "id": "q_ecde605fcf7b4255",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which climatic region of India is laterite soil most commonly developed due to intense leaching caused by heavy rainfall and high temperature?",
+  "qHi": "भारी वर्षा और उच्च तापमान के कारण होने वाले तीव्र निक्षालन (लीचिंग) के कारण भारत के किस जलवायु क्षेत्र में लैटेराइट मिट्टी सबसे अधिक विकसित होती है?",
+  "optsEn": [
+   "Arid desert region",
+   "Heavy rainfall tropical region",
+   "Cold mountain region",
+   "Semi-arid alluvial plains"
+  ],
+  "optsHi": [
+   "शुष्क रेगिस्तानी क्षेत्र",
+   "भारी वर्षा वाला उष्णकटिबंधीय क्षेत्र",
+   "ठंडा पर्वतीय क्षेत्र",
+   "अर्ध-शुष्क जलोढ़ मैदान"
+  ],
+  "correct": 1,
+  "explainEn": "Laterite soils develop in areas with high temperatures and heavy rainfall, which causes intense leaching of silica.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T18:08:08Z"
+ },
+ {
+  "id": "q_f0bebd55b272eead",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "According to economic development theory, which sector of the Indian economy is characterized by primary activities being replaced by secondary and tertiary activities over time?",
+  "qHi": "आर्थिक विकास के सिद्धांत के अनुसार, भारतीय अर्थव्यवस्था के किस क्षेत्र की विशेषता समय के साथ प्राथमिक गतिविधियों का द्वितीयक और तृतीयक गतिविधियों द्वारा प्रतिस्थापित होना है?",
+  "optsEn": [
+   "Agricultural sector stagnation",
+   "Structural transformation",
+   "Primary sector expansion",
+   "Informal sector dominance"
+  ],
+  "optsHi": [
+   "कृषि क्षेत्र का ठहराव",
+   "संरचनात्मक परिवर्तन",
+   "प्राथमिक क्षेत्र का विस्तार",
+   "अनौपचारिक क्षेत्र का वर्चस्व"
+  ],
+  "correct": 1,
+  "explainEn": "Structural transformation refers to the shift in the contribution of various sectors from primary to secondary and tertiary as an economy develops.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T18:08:08Z"
+ },
+ {
+  "id": "q_c7e6c5663c518626",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary evolutionary significance of sexual reproduction over asexual reproduction in multicellular organisms?",
+  "qHi": "बहुकोशिकीय जीवों में अलैंगिक जनन की तुलना में लैंगिक जनन का मुख्य विकासीय महत्व क्या है?",
+  "optsEn": [
+   "It produces exact genetic clones",
+   "It requires only a single parent",
+   "It introduces genetic variations",
+   "It occurs at a much faster rate"
+  ],
+  "optsHi": [
+   "यह सटीक आनुवंशिक क्लोन उत्पन्न करता है",
+   "इसके लिए केवल एक जनक की आवश्यकता होती है",
+   "यह आनुवंशिक विविधताएं उत्पन्न करता है",
+   "यह बहुत तेज दर से होता है"
+  ],
+  "correct": 2,
+  "explainEn": "Sexual reproduction involves the fusion of gametes, which introduces genetic variations essential for evolution and adaptation.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T18:08:08Z"
  }
 ]

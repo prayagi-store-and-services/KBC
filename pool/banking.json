@@ -27270,5 +27270,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-27T12:18:08Z"
+ },
+ {
+  "id": "q_609deb68eeb5545d",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which financial instrument is issued by the Reserve Bank of India on behalf of the Central Government?",
+  "qHi": "केंद्र सरकार की ओर से भारतीय रिजर्व बैंक द्वारा कौन सा वित्तीय साधन जारी किया जाता है?",
+  "optsEn": [
+   "Treasury Bills",
+   "Commercial Paper",
+   "Certificate of Deposit",
+   "Promissory Note"
+  ],
+  "optsHi": [
+   "Treasury Bills",
+   "Commercial Paper",
+   "Certificate of Deposit",
+   "Promissory Note"
+  ],
+  "correct": 0,
+  "explainEn": "Treasury Bills are short-term debt instruments issued by the RBI on behalf of the Central Government.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T18:02:52Z"
+ },
+ {
+  "id": "q_746be79f0baee997",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the term 'CRR' stand for in banking terminology?",
+  "qHi": "बैंकिंग शब्दावली में 'CRR' शब्द का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Cash Reserve Ratio",
+   "Credit Risk Rate",
+   "Central Reserve Rate",
+   "Current Ratio Return"
+  ],
+  "optsHi": [
+   "कैश रिजर्व रेशो",
+   "क्रेडिट रिस्क रेट",
+   "सेंट्रल रिजर्व रेट",
+   "करेंट रेशो रिटर्न"
+  ],
+  "correct": 0,
+  "explainEn": "CRRs stand for Cash Reserve Ratio, which is the minimum amount of cash that commercial banks must hold as reserves with the central bank.",
+  "sourceHint": "RBI Glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T18:02:52Z"
+ },
+ {
+  "id": "q_dbd8313eb9e7c871",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization insures bank deposits up to a certain limit in India?",
+  "qHi": "भारत में कौन सा संगठन एक निश्चित सीमा तक बैंक जमा का बीमा करता है?",
+  "optsEn": [
+   "DICGC",
+   "NABARD",
+   "SIDBI",
+   "SEBI"
+  ],
+  "optsHi": [
+   "DICGC",
+   "NABARD",
+   "SIDBI",
+   "SEBI"
+  ],
+  "correct": 0,
+  "explainEn": "Deposit Insurance and Credit Guarantee Corporation (DICGC), a subsidiary of RBI, insures all bank deposits in India up to a specified limit.",
+  "sourceHint": "DICGC Act",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T18:02:52Z"
+ },
+ {
+  "id": "q_336290a2d6b2b11f",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India assigns the 'LEI' (Legal Entity Identifier) code to corporate borrowers?",
+  "qHi": "भारत में कौन सा संगठन कॉर्पोरेट उधारकर्ताओं को 'LEI' (लीगल एंटिटी आइडेंटिफायर) कोड प्रदान करता है?",
+  "optsEn": [
+   "Information Utility (National E-Governance Services Limited)",
+   "Legal Entity Identifier India Limited",
+   "Credit Information Bureau India Limited",
+   "National Payments Corporation of India"
+  ],
+  "optsHi": [
+   "इन्फॉर्मेशन यूटिलिटी (NESL)",
+   "लीगल एंटिटी आइडेंटिफायर इंडिया लिमिटेड",
+   "सिबिल (CIBIL)",
+   "भारतीय राष्ट्रीय भुगतान निगम"
+  ],
+  "correct": 1,
+  "explainEn": "LEIIL is a subsidiary of the Clearing Corporation of India Ltd (CCIL) and acts as a local operating unit for issuing LEI.",
+  "sourceHint": "RBI Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T18:05:52Z"
+ },
+ {
+  "id": "q_79072ce7af765bae",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of priority sector lending (PSL) in India, what is the overall PSL target for domestic commercial banks?",
+  "qHi": "भारत में प्राथमिकता प्राप्त क्षेत्र को ऋण (PSL) के संदर्भ में, घरेलू वाणिज्यिक बैंकों के लिए समग्र PSL लक्ष्य कितना है?",
+  "optsEn": [
+   "32 percent of ANBC",
+   "40 percent of ANBC",
+   "50 percent of ANBC",
+   "75 percent of ANBC"
+  ],
+  "optsHi": [
+   "ANBC का 32 प्रतिशत",
+   "ANBC का 40 प्रतिशत",
+   "ANBC का 50 प्रतिशत",
+   "ANBC का 75 प्रतिशत"
+  ],
+  "correct": 1,
+  "explainEn": "Domestic commercial banks and foreign banks with 20 branches and above must achieve a PSL target of 40 percent of ANBC.",
+  "sourceHint": "RBI Master Directions on PSL",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T18:05:52Z"
+ },
+ {
+  "id": "q_f96c3ceb8700ae45",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the term 'Negotiated Dealing System-Order Matching' (NDS-OM) relate to in financial markets?",
+  "qHi": "वित्तीय बाजारों में 'Negotiated Dealing System-Order Matching' (NDS-OM) शब्द किससे संबंधित है?",
+  "optsEn": [
+   "Trading in government securities",
+   "Clearing of retail cheque payments",
+   "Foreign exchange spot trading",
+   "Settlement of mutual fund units"
+  ],
+  "optsHi": [
+   "सरकारी प्रतिभूतियों में व्यापार",
+   "खुदरा चेक भुगतानों का समाशोधन",
+   "विदेशी मुद्रा हाजिर व्यापार",
+   "म्यूचुअल फंड इकाइयों का निपटान"
+  ],
+  "correct": 0,
+  "explainEn": "NDS-OM is an electronic, screen-based anonymous order matching system operated by the RBI for secondary market trading in government securities.",
+  "sourceHint": "RBI Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-27T18:05:52Z"
  }
 ]
