@@ -941,6 +941,8 @@ fun ProfileScreen(
             com.example.stats.UsageCountCard()
             Spacer(modifier = Modifier.height(16.dp))
             com.example.update.UpdateCheckCard()
+            Spacer(modifier = Modifier.height(12.dp))
+            com.example.community.CommunityCard()
             Spacer(modifier = Modifier.height(16.dp))
             com.example.stats.CrashReportCard()
             Spacer(modifier = Modifier.height(16.dp))
