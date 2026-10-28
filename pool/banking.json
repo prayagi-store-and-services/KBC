@@ -28110,5 +28110,397 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-28T13:01:33Z"
+ },
+ {
+  "id": "q_e091f3c27f93f6cc",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'F' stand for in 'NEFT', a popular electronic funds transfer system in India?",
+  "qHi": "भारत में एक लोकप्रिय इलेक्ट्रॉनिक फंड ट्रांसफर प्रणाली 'NEFT' में अक्षर 'F' का क्या अर्थ है?",
+  "optsEn": [
+   "Finance",
+   "Funds",
+   "Facility",
+   "Foreign"
+  ],
+  "optsHi": [
+   "Finance",
+   "Funds",
+   "Facility",
+   "Foreign"
+  ],
+  "correct": 1,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer.",
+  "sourceHint": "RBI official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T22:36:40Z"
+ },
+ {
+  "id": "q_914be3d256f49efb",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which entity manages the Unified Payments Interface (UPI) ecosystem in India?",
+  "qHi": "भारत में यूनिफाइड पेमेंट्स इंटरफेस (UPI) पारिस्थितिकी तंत्र का प्रबंधन कौन सा निकाय करता है?",
+  "optsEn": [
+   "State Bank of India",
+   "National Payments Corporation of India",
+   "Securities and Exchange Board of India",
+   "Ministry of Communications"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "नेशनल पेमेंट्स कॉर्पोरेशन ऑफ इंडिया",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "संचार मंत्रालय"
+  ],
+  "correct": 1,
+  "explainEn": "NPCI (National Payments Corporation of India) developed and manages UPI.",
+  "sourceHint": "NPCI portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T22:36:40Z"
+ },
+ {
+  "id": "q_ad8c7307e180fc12",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the financial term 'LAF' as used by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा उपयोग किए जाने वाले वित्तीय शब्द 'LAF' में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liquidity",
+   "Liability",
+   "Leverage",
+   "Ledger"
+  ],
+  "optsHi": [
+   "तरलता (Liquidity)",
+   "दायित्व (Liability)",
+   "उत्तोलन (Leverage)",
+   "खाता बही (Ledger)"
+  ],
+  "correct": 0,
+  "explainEn": "LAF stands for Liquidity Adjustment Facility, which is a monetary policy tool used by the RBI to aid banks in adjusting their daily liquidity mismatches.",
+  "sourceHint": "RBI Official Website Glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T22:38:15Z"
+ },
+ {
+  "id": "q_6ce244b9bc216107",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of the Indian banking system, what is the full form of NEFT?",
+  "qHi": "भारतीय बैंकिंग प्रणाली के संदर्भ में, NEFT का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "New Economic Financial Transaction",
+   "National Equity and Finance Term",
+   "Net Electronic Foreign Trade"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "न्यू इकोनॉमिक फाइनेंशियल ट्रांजैक्शन",
+   "नेशनल इक्विटी एंड फाइनेंस टर्म",
+   "नेट इलेक्ट्रॉनिक फॉरेन ट्रेड"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, an Indian centralized payment system owned and operated by the Reserve Bank of India.",
+  "sourceHint": "RBI Payment Systems",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T22:38:15Z"
+ },
+ {
+  "id": "q_012adc4cea1198fe",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which market deals with short-term funds and financial instruments with maturities of up to one year?",
+  "qHi": "कौन सा बाजार अल्पकालिक धन और एक वर्ष तक की परिपक्वता वाले वित्तीय साधनों से संबंधित है?",
+  "optsEn": [
+   "Capital Market",
+   "Money Market",
+   "Foreign Exchange Market",
+   "Commodity Market"
+  ],
+  "optsHi": [
+   "पूंजी बाजार",
+   "मुद्रा बाजार",
+   "विदेशी मुद्रा बाजार",
+   "कमोडिटी बाजार"
+  ],
+  "correct": 1,
+  "explainEn": "The money market is a segment of the financial market where financial instruments with high liquidity and short maturities (up to one year) are traded.",
+  "sourceHint": "NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T22:38:15Z"
+ },
+ {
+  "id": "q_cf6cfeb7418f9431",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization calculates and releases the Index of Industrial Production (IIP) in India?",
+  "qHi": "भारत में औद्योगिक उत्पादन सूचकांक (IIP) की गणना और प्रकाशन कौन सा संगठन करता है?",
+  "optsEn": [
+   "National Statistical Office",
+   "NITI Aayog",
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "राष्ट्रीय सांख्यिकी कार्यालय (NSO)",
+   "नीति आयोग",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड"
+  ],
+  "correct": 0,
+  "explainEn": "The Index of Industrial Production (IIP) is compiled and published monthly by the National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation.",
+  "sourceHint": "Ministry of Statistics and Programme Implementation, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T22:38:15Z"
+ },
+ {
+  "id": "q_965b4e21aeb20bb3",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the term 'Gilt-edged securities' refer to?",
+  "qHi": "गिल्ट-एज्ड सिक्योरिटीज (Gilt-edged securities) शब्द का तात्पर्य किससे है?",
+  "optsEn": [
+   "Shares issued by private startup companies",
+   "Government securities considered safe from default",
+   "Bonds issued by foreign multinational corporations",
+   "Debentures backed by physical real estate"
+  ],
+  "optsHi": [
+   "निजी स्टार्टअप कंपनियों द्वारा जारी शेयर",
+   "सरकारी प्रतिभूतियाँ जिन्हें डिफॉल्ट से सुरक्षित माना जाता है",
+   "विदेशी बहुराष्ट्रीय निगमों द्वारा जारी बॉन्ड",
+   "भौतिक अचल संपत्ति द्वारा समर्थित डिबेंचर"
+  ],
+  "correct": 1,
+  "explainEn": "Gilt-edged securities are high-grade investment bonds issued by governments, which carry virtually zero default risk and are considered extremely safe.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T22:38:15Z"
+ },
+ {
+  "id": "q_76bd1efd9e100e14",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the minimum net worth requirement for a standalone Primary Dealer (PD) authorized by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा अधिकृत स्टैंडअलोन प्राइमरी डीलर (पीडी) के लिए न्यूनतम कुल मूल्य (नेट वर्थ) की आवश्यकता क्या है?",
+  "optsEn": [
+   "Rs. 50 crore",
+   "Rs. 100 crore",
+   "Rs. 150 crore",
+   "Rs. 250 crore"
+  ],
+  "optsHi": [
+   "रु. 50 करोड़",
+   "रु. 100 करोड़",
+   "रु. 150 करोड़",
+   "रु. 250 करोड़"
+  ],
+  "correct": 2,
+  "explainEn": "RBI guidelines mandate a minimum net worth of Rs. 150 crore for standalone Primary Dealers.",
+  "sourceHint": "RBI Master Directions on Primary Dealers",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T22:38:57Z"
+ },
+ {
+  "id": "q_13a189d182f5e882",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Basel III framework, what is the minimum Capital Conservation Buffer (CCB) requirement as a percentage of Risk-Weighted Assets (RWAs) when fully phased in?",
+  "qHi": "बेसल III ढांचे के तहत, पूरी तरह से लागू होने पर जोखिम-भारित संपत्तियों (RWA) के प्रतिशत के रूप में न्यूनतम पूंजी संरक्षण बफर (CCB) की आवश्यकता क्या है?",
+  "optsEn": [
+   "1.25 percent",
+   "2.00 percent",
+   "2.50 percent",
+   "3.00 percent"
+  ],
+  "optsHi": [
+   "1.25 प्रतिशत",
+   "2.00 प्रतिशत",
+   "2.50 प्रतिशत",
+   "3.00 प्रतिशत"
+  ],
+  "correct": 2,
+  "explainEn": "The Basel III norms stipulate a Capital Conservation Buffer of 2.50 percent of RWAs.",
+  "sourceHint": "RBI Basel III Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T22:38:57Z"
+ },
+ {
+  "id": "q_9eca1e07c6b17d2f",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following financial instruments is categorized under Tier 2 capital for banks under RBI's capital adequacy guidelines?",
+  "qHi": "RBI के पूंजी पर्याप्तता दिशानिर्देशों के तहत निम्नलिखित में से कौन सा वित्तीय साधन बैंकों के लिए टियर 2 पूंजी के अंतर्गत वर्गीकृत किया जाता है?",
+  "optsEn": [
+   "Common Equity Tier 1 capital",
+   "Perpetual Non-Cumulative Preference Shares",
+   "General provisions and loss reserves",
+   "Share premium resulting from issue of equity shares"
+  ],
+  "optsHi": [
+   "सामान्य इक्विटी टियर 1 पूंजी",
+   " perpetual गैर-संचयी वरीयता शेयर",
+   "सामान्य प्रावधान और हानि भंडार",
+   "इक्विटी शेयरों के निर्गम से उत्पन्न शेयर प्रीमियम"
+  ],
+  "correct": 2,
+  "explainEn": "General provisions and loss reserves up to a specified limit qualify as Tier 2 capital under RBI guidelines.",
+  "sourceHint": "RBI Master Circular on Basel III Capital Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T22:38:57Z"
+ },
+ {
+  "id": "q_e7fb47bbac9fa787",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the Indian money market, what is the maximum maturity period allowed for Commercial Papers (CPs)?",
+  "qHi": "भारतीय मुद्रा बाजार के संदर्भ में, कमर्शियल पेपर (CP) के लिए अनुमति प्राप्त अधिकतम परिपक्वता अवधि क्या है?",
+  "optsEn": [
+   "90 days",
+   "180 days",
+   "364 days",
+   "3 years"
+  ],
+  "optsHi": [
+   "90 दिन",
+   "180 दिन",
+   "364 दिन",
+   "3 वर्ष"
+  ],
+  "correct": 2,
+  "explainEn": "Commercial Papers can be issued for maturities between a minimum of 7 days and a maximum of up to one year (364 days).",
+  "sourceHint": "RBI Guidelines on Commercial Paper",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T22:38:57Z"
+ },
+ {
+  "id": "q_4d8438d81ae71851",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which institutional entity acts as the central counterparty for repo transactions in the corporate bond market regulated by RBI?",
+  "qHi": "RBI द्वारा विनियमित कॉर्पोरेट बॉंड बाजार में रेपो लेनदेन के लिए कौन सी संस्था केंद्रीय प्रतिपक्ष (central counterparty) के रूप में कार्य करती है?",
+  "optsEn": [
+   "Clearing Corporation of India Limited",
+   "National Securities Depository Limited",
+   "National Stock Exchange",
+   "Central Depository Services Limited"
+  ],
+  "optsHi": [
+   "क्लियरिंग कॉर्पोरेशन ऑफ इंडिया लिमिटेड",
+   "नेशनल सिक्योरिटीज डिपॉजिटरी लिमिटेड",
+   "नेशनल स्टॉक एक्सचेंज",
+   "सेंट्रल डिपॉजिटरी सर्विसेज लिमिटेड"
+  ],
+  "correct": 0,
+  "explainEn": "Clearing Corporation of India Limited (CCIL) acts as the central counterparty for clearing and settlement of corporate bond repo transactions.",
+  "sourceHint": "RBI Corporate Bond Repo Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T22:38:57Z"
+ },
+ {
+  "id": "q_3a73ea58e714c2bc",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the maximum limit for a single retail investor to apply for non-competitive bidding in Government Securities auctions through the RBI Retail Direct portal?",
+  "qHi": "RBI रिटेल डायरेक्ट पोर्टल के माध्यम से सरकारी प्रतिभूतियों की नीलामी में गैर-प्रतिस्पर्धी बोली के लिए एकल खुदरा निवेशक की अधिकतम सीमा क्या है?",
+  "optsEn": [
+   "Rs. 2 crore per security per auction",
+   "Rs. 5 crore per security per auction",
+   "Rs. 10 crore per security per auction",
+   "No upper limit for retail investors"
+  ],
+  "optsHi": [
+   "प्रति नीलामी प्रति प्रतिभूति रु. 2 करोड़",
+   "प्रति नीलामी प्रति प्रतिभूति रु. 5 करोड़",
+   "प्रति नीलामी प्रति प्रतिभूति रु. 10 करोड़",
+   "खुदरा निवेशकों के लिए कोई ऊपरी सीमा नहीं"
+  ],
+  "correct": 0,
+  "explainEn": "The non-competitive bidding scheme allows individual retail investors to invest up to Rs. 2 crore per security per auction.",
+  "sourceHint": "RBI Retail Direct Scheme Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T22:38:57Z"
+ },
+ {
+  "id": "q_2991c9d46e324876",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Prompt Corrective Action (PCA) framework for Scheduled Commercial Banks, which of the following triggers mandates mandatory restrictions on dividend distribution?",
+  "qHi": "अनुसूचित वाणिज्यिक बैंकों के लिए त्वरित सुधार कार्रवाई (PCA) ढांचे के तहत, निम्नलिखित में से कौन सा ट्रिगर लाभांश वितरण पर अनिवार्य प्रतिबंध लगाता है?",
+  "optsEn": [
+   "Threshold 1",
+   "Threshold 2",
+   "Threshold 3",
+   "None of the thresholds"
+  ],
+  "optsHi": [
+   "थ्रेसहोल्ड 1",
+   "थ्रेसहोल्ड 2",
+   "थ्रेसहोल्ड 3",
+   "इनमें से कोई भी थ्रेसहोल्ड नहीं"
+  ],
+  "correct": 0,
+  "explainEn": "Restriction on dividend distribution is triggered right at Threshold 1 of the PCA framework for banks.",
+  "sourceHint": "RBI PCA Framework for Commercial Banks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T22:38:57Z"
  }
 ]

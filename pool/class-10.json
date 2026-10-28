@@ -23462,5 +23462,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-28T12:59:48Z"
+ },
+ {
+  "id": "q_e628019758175304",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas is trapped when metal reacts with a dilute acid, usually producing a pop sound on testing?",
+  "qHi": "जब धातु किसी तनु अम्ल के साथ अभिक्रिया करती है, तो कौन सी गैस निकलती है, जो आमतौर पर परीक्षण करने पर पॉप ध्वनि उत्पन्न करती है?",
+  "optsEn": [
+   "Oxygen",
+   "Nitrogen",
+   "Hydrogen",
+   "Carbon dioxide"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "हाइड्रोजन",
+   "कार्बन डाइऑक्साइड"
+  ],
+  "correct": 2,
+  "explainEn": "Hydrogen gas is evolved when dilute acids react with active metals, which burns with a pop sound.",
+  "sourceHint": "NCERT Class 10 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T22:36:55Z"
+ },
+ {
+  "id": "q_a207ef4624817cc7",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which mirror is commonly used as a rear-view mirror in vehicles because it gives an erect and diminished image with a wider field of view?",
+  "qHi": "वाहनों में पीछे देखने के दर्पण के रूप में आमतौर पर किस दर्पण का उपयोग किया जाता है क्योंकि यह एक सीधा और छोटा प्रतिबिंब तथा दृष्टि क्षेत्र अधिक देता है?",
+  "optsEn": [
+   "Concave mirror",
+   "Convex mirror",
+   "Plane mirror",
+   "Inverted mirror"
+  ],
+  "optsHi": [
+   "अवतल दर्पण",
+   "उत्तल दर्पण",
+   "समतल दर्पण",
+   "उल्टा दर्पण"
+  ],
+  "correct": 1,
+  "explainEn": "Convex mirrors are used as rear-view mirrors as they provide a wider field of view.",
+  "sourceHint": "NCERT Class 10 Science Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T22:36:55Z"
+ },
+ {
+  "id": "q_d76a43c4c081a9dd",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which carbon compound is the main constituent of wine and beer?",
+  "qHi": "कौन सा कार्बन यौगिक वाइन और बीयर का मुख्य घटक है?",
+  "optsEn": [
+   "Methanol",
+   "Ethanol",
+   "Acetic acid",
+   "Acetone"
+  ],
+  "optsHi": [
+   "मेथेनॉल",
+   "एथेनॉल",
+   "एसिटिक अम्ल",
+   "एसिटोन"
+  ],
+  "correct": 1,
+  "explainEn": "Ethanol is the active ingredient and main constituent of alcoholic beverages like wine and beer.",
+  "sourceHint": "NCERT Class 10 Science Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T22:36:55Z"
+ },
+ {
+  "id": "q_1dff434e4d227e23",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In human beings, the transport of oxygen is primarily carried out by which pigment?",
+  "qHi": "मनुष्यों में ऑक्सीजन का परिवहन मुख्य रूप से किस वर्णक द्वारा किया जाता है?",
+  "optsEn": [
+   "Hemoglobin",
+   "Chlorophyll",
+   "Insulin",
+   "Melanin"
+  ],
+  "optsHi": [
+   "हीमोग्लोबिन",
+   "क्लोरोफिल",
+   "इंसुलिन",
+   "मेलानिन"
+  ],
+  "correct": 0,
+  "explainEn": "Hemoglobin is the respiratory pigment in red blood cells that has a high affinity for oxygen and transports it from the lungs to the tissues.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T22:38:32Z"
+ },
+ {
+  "id": "q_24e359561df6be06",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which phenomenon is responsible for the twinkling of stars?",
+  "qHi": "तारों के टिमटिमाते नजर आने के लिए कौन सी परिघटना उत्तरदायी है?",
+  "optsEn": [
+   "Reflection of light",
+   "Atmospheric refraction of light",
+   "Dispersion of light",
+   "Total internal reflection"
+  ],
+  "optsHi": [
+   "प्रकाश का परावर्तन",
+   "प्रकाश का वायुमंडलीय अपवर्तन",
+   "प्रकाश का विक्षेपण",
+   "पूर्ण आंतरिक परावर्तन"
+  ],
+  "correct": 1,
+  "explainEn": "The twinkling of stars is due to atmospheric refraction of starlight by the changing refractive indices of the layers of the Earth's atmosphere.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T22:38:32Z"
  }
 ]

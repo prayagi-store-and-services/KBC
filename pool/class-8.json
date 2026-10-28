@@ -19486,5 +19486,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-28T12:59:42Z"
+ },
+ {
+  "id": "q_ad6f2f7c200ff34c",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which Mughal Emperor is associated with the construction of the Taj Mahal?",
+  "qHi": "ताजमहल के निर्माण से किस मुगल सम्राट का संबंध है?",
+  "optsEn": [
+   "Akbar",
+   "Jahangir",
+   "Shah Jahan",
+   "Aurangzeb"
+  ],
+  "optsHi": [
+   "अकबर",
+   "जहाँगीर",
+   "शाहजहाँ",
+   "औरंगजेब"
+  ],
+  "correct": 2,
+  "explainEn": "Shah Jahan built the Taj Mahal in Agra in memory of his wife Mumtaz Mahal.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T22:36:51Z"
+ },
+ {
+  "id": "q_fd8d6071bfe4b481",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What force pulls objects towards the centre of the Earth?",
+  "qHi": "कौन सा बल वस्तुओं को पृथ्वी के केंद्र की ओर खींचता है?",
+  "optsEn": [
+   "Friction",
+   "Magnetic force",
+   "Electrostatic force",
+   "Gravitational force"
+  ],
+  "optsHi": [
+   "घर्षण बल",
+   "चुंबकीय बल",
+   "स्थिरवैद्युत बल",
+   "गुरुत्वाकर्षण बल"
+  ],
+  "correct": 3,
+  "explainEn": "Gravity is the force of attraction between objects, pulling them towards the Earth.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T22:36:51Z"
+ },
+ {
+  "id": "q_94f514949190565f",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which microorganisms are used in the commercial production of alcohol and wine?",
+  "qHi": "अल्कोहल और वाइन के व्यावसायिक उत्पादन में किन सूक्ष्मजीवों का उपयोग किया जाता है?",
+  "optsEn": [
+   "Lactobacillus",
+   "Yeast",
+   "Penicillin",
+   "Ameba"
+  ],
+  "optsHi": [
+   "लैक्टोबैसिलस",
+   "यीस्ट",
+   "पेनिसिलिन",
+   "अमीबा"
+  ],
+  "correct": 1,
+  "explainEn": "Yeast is used for commercial production of alcohol and wine by growing on natural sugars present in grains.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T22:38:28Z"
+ },
+ {
+  "id": "q_befa9759432bc50d",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which synthetic fibre is prepared using coal, water and air?",
+  "qHi": "कोयले, पानी और हवा का उपयोग करके कौन सा संश्लेषित रेशे तैयार किया जाता है?",
+  "optsEn": [
+   "Rayon",
+   "Nylon",
+   "Polリエステル",
+   "Acrylic"
+  ],
+  "optsHi": [
+   "रेयान",
+   "नायलॉन",
+   "पॉलिएस्टर",
+   "एक्रीलिक"
+  ],
+  "correct": 1,
+  "explainEn": "Nylon was the first fully synthetic fibre, made entirely from coal, water, and air without using any natural plant or animal raw material.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T22:38:28Z"
+ },
+ {
+  "id": "q_a8b5c4347739a077",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the minimum age fixed by law for a girl to marry in India?",
+  "qHi": "भारत में लड़की के विवाह के लिए कानून द्वारा निर्धारित न्यूनतम आयु क्या है?",
+  "optsEn": [
+   "16 years",
+   "18 years",
+   "21 years",
+   "25 years"
+  ],
+  "optsHi": [
+   "16 वर्ष",
+   "18 वर्ष",
+   "21 वर्ष",
+   "25 वर्ष"
+  ],
+  "correct": 1,
+  "explainEn": "The legal minimum age of marriage for girls in India is 18 years.",
+  "sourceHint": "NCERT Class 8 Civics, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T22:38:28Z"
+ },
+ {
+  "id": "q_96900b279b127074",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which metal is stored in kerosene to prevent it from reacting with moisture and air?",
+  "qHi": "किस धातु को नमी और हवा के साथ प्रतिक्रिया करने से रोकने के लिए मिट्टी के तेल में रखा जाता है?",
+  "optsEn": [
+   "Iron",
+   "Copper",
+   "Sodium",
+   "Gold"
+  ],
+  "optsHi": [
+   "लोहा",
+   "तांबा",
+   "सोडियम",
+   "सोना"
+  ],
+  "correct": 2,
+  "explainEn": "Sodium is a very reactive metal that catches fire if it comes in contact with air and water, so it is stored in kerosene.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T22:38:28Z"
+ },
+ {
+  "id": "q_0a0a737cafc9f5b1",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following describes the clearing of forests over a large area for various uses?",
+  "qHi": "विभिन्न उपयोगों के लिए बड़े क्षेत्र में जंगलों को साफ करने की प्रक्रिया को क्या कहा जाता है?",
+  "optsEn": [
+   "Reforestation",
+   "Deforestation",
+   "Afforestation",
+   "Desertification"
+  ],
+  "optsHi": [
+   "पुनर्वनीकरण",
+   "वनों की कटाई (डिफॉरेस्टेशन)",
+   "वनीकरण",
+   "मरुस्थलीकरण"
+  ],
+  "correct": 1,
+  "explainEn": "Deforestation means clearing of forest land and using that land for other purposes.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T22:38:28Z"
  }
 ]

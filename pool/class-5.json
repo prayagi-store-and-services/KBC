@@ -23546,5 +23546,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-28T12:57:52Z"
+ },
+ {
+  "id": "q_d6cb7a74d90da08b",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these animals is primarily active at night?",
+  "qHi": "इनमें से कौन सा जानवर मुख्य रूप से रात में सक्रिय होता है?",
+  "optsEn": [
+   "Owl",
+   "Crow",
+   "Cow",
+   "Elephant"
+  ],
+  "optsHi": [
+   "उल्लू",
+   "कौवा",
+   "गाय",
+   "हाथी"
+  ],
+  "correct": 0,
+  "explainEn": "Owls are nocturnal birds, meaning they hunt and are active during the night.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T22:36:47Z"
+ },
+ {
+  "id": "q_7c6df7af93731a60",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian stepwell structure was primarily used for harvesting rainwater?",
+  "qHi": "वर्षा के जल का संचयन करने के लिए पारंपरिक रूप से किस भारतीय संरचना (बावली) का उपयोग किया जाता था?",
+  "optsEn": [
+   "Baoli",
+   "Igloo",
+   "Tent",
+   "Skyscraper"
+  ],
+  "optsHi": [
+   "बावली (Baoli)",
+   "इग्लू",
+   "तंबू",
+   "गरम पानी का कुंड"
+  ],
+  "correct": 0,
+  "explainEn": "Baolis or stepwells were traditional water harvesting structures in India used to store rain water.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T22:38:23Z"
+ },
+ {
+  "id": "q_9ae3ccde2bd516a6",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of map shows boundaries between different countries and states?",
+  "qHi": "किस प्रकार का मानचित्र विभिन्न देशों और राज्यों के बीच की सीमाओं को दर्शाता है?",
+  "optsEn": [
+   "Physical map",
+   "Political map",
+   "Thematic map",
+   "Road map"
+  ],
+  "optsHi": [
+   "भौतिक मानचित्र",
+   "राजनीतिक मानचित्र",
+   "विषयगत मानचित्र",
+   "सड़क मानचित्र"
+  ],
+  "correct": 1,
+  "explainEn": "Political maps show governmental boundaries of countries, states, and major cities.",
+  "sourceHint": "NCERT Class 5 Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T22:38:23Z"
+ },
+ {
+  "id": "q_5a4f854547d00137",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following materials is completely biodegradable?",
+  "qHi": "निम्नलिखित में से कौन सी सामग्री पूरी तरह से जैव-घटनीय (biodegradable) है?",
+  "optsEn": [
+   "Plastic bottle",
+   "Banana peel",
+   "Glass jar",
+   "Aluminum can"
+  ],
+  "optsHi": [
+   "प्लास्टिक की बोतल",
+   "केले का छिलका",
+   "कांच का जार",
+   "एल्युमिनियम का डिब्बा"
+  ],
+  "correct": 1,
+  "explainEn": "Banana peels decompose naturally by the action of micro-organisms, making them biodegradable.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T22:38:23Z"
+ },
+ {
+  "id": "q_0112cee045cd9651",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which direction does the magnetic needle of a freely suspended compass always point?",
+  "qHi": "स्वतंत्र रूप से लटकी हुई कम्पास की चुंबकीय सुई हमेशा किस दिशा की ओर इशारा करती है?",
+  "optsEn": [
+   "East and West",
+   "North and South",
+   "Up and Down",
+   "North and East"
+  ],
+  "optsHi": [
+   "पूर्व और पश्चिम",
+   "उत्तर और दक्षिण",
+   "ऊपर और नीचे",
+   "उत्तर और पूर्व"
+  ],
+  "correct": 1,
+  "explainEn": "A magnetic compass needle aligns itself with the Earth's magnetic field, pointing towards the North and South poles.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T22:38:23Z"
  }
 ]

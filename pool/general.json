@@ -16966,5 +16966,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-28T12:59:32Z"
+ },
+ {
+  "id": "q_8c51bf9cf0257daa",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which National Park in India is famous for being the last refuge of the endangered Asiatic lion?",
+  "qHi": "भारत का कौन सा राष्ट्रीय उद्यान संकटग्रस्त एशियाई शेर का अंतिम आश्रय स्थल होने के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Jim Corbett National Park",
+   "Kaziranga National Park",
+   "Gir National Park",
+   "Sundarbans National Park"
+  ],
+  "optsHi": [
+   "जिम कॉर्बेट राष्ट्रीय उद्यान",
+   "काजीरंगा राष्ट्रीय उद्यान",
+   "गीर राष्ट्रीय उद्यान",
+   "सुंदरबन राष्ट्रीय उद्यान"
+  ],
+  "correct": 2,
+  "explainEn": "Gir National Park and Wildlife Sanctuary in Gujarat is the only place in the wild where the Asiatic lion is found.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T22:38:20Z"
  }
 ]
