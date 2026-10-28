@@ -25842,5 +25842,397 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-27T22:17:30Z"
+ },
+ {
+  "id": "q_f11204b2af26e522",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the famous book 'Arthashastra' in ancient Indian history?",
+  "qHi": "प्राचीन भारतीय इतिहास में प्रसिद्ध पुस्तक 'अर्थशास्त्र' किसने लिखी थी?",
+  "optsEn": [
+   "Kalidasa",
+   "Kautilya",
+   "Banabhatta",
+   "Aryabhata"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "कौटिल्य",
+   "बाणभट्ट",
+   "आर्यभट्ट"
+  ],
+  "correct": 1,
+  "explainEn": "Arthashastra was authored by Kautilya (also known as Chanakya), who was the chief minister and mentor of Emperor Chandragupta Maurya.",
+  "sourceHint": "NCERT Class 12 History, Theme 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:44:40Z"
+ },
+ {
+  "id": "q_4b7026498116fd00",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the molecular geometry of a water molecule according to the VSEPR theory?",
+  "qHi": "VSEPR सिद्धांत के अनुसार जल के अणु की आणविक ज्यामिति क्या है?",
+  "optsEn": [
+   "Linear",
+   "Trigonal planar",
+   "Bent",
+   "Tetrahedral"
+  ],
+  "optsHi": [
+   "रेखीय",
+   "त्रिकोणीय समतलीय",
+   "झुका हुआ",
+   "चतुष्फलकीय"
+  ],
+  "correct": 2,
+  "explainEn": "Water has two bonding pairs and two lone pairs on the central oxygen atom, resulting in a bent or V-shaped molecular geometry.",
+  "sourceHint": "NCERT Class 11 Chemistry, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:45:36Z"
+ },
+ {
+  "id": "q_97db70b0b52aa221",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of friction self-adjusts up to a maximum limit before motion begins?",
+  "qHi": "गति शुरू होने से पहले किस प्रकार का घर्षण अधिकतम सीमा तक स्वतः समायोजित होता है?",
+  "optsEn": [
+   "Static friction",
+   "Kinetic friction",
+   "Rolling friction",
+   "Fluid friction"
+  ],
+  "optsHi": [
+   "स्थैतिक घर्षण",
+   "गतिज घर्षण",
+   "लोटनिक घर्षण",
+   "द्रवीय घर्षण"
+  ],
+  "correct": 0,
+  "explainEn": "Static friction is a self-adjusting force that increases as the applied force increases, up to the maximum limit of static friction.",
+  "sourceHint": "NCERT Class 11 Physics, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:45:36Z"
+ },
+ {
+  "id": "q_1bb3b753f24d5068",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which botanical phenomenon involves the development of fruit without fertilization?",
+  "qHi": "किस वनस्पति घटना में बिना निषेचन के फल का विकास शामिल है?",
+  "optsEn": [
+   "Apomixis",
+   "Syngamy",
+   "Parthenocarpy",
+   "Polyembryony"
+  ],
+  "optsHi": [
+   "अपबीजता (एपोमिक्सिस)",
+   "संयुग्मन (सिंकेमी)",
+   "अनिषेकफलक (पार्थेनोकार्पी)",
+   "बहुभ्रूणता"
+  ],
+  "correct": 2,
+  "explainEn": "Parthenocarpy is the development of fruit without prior fertilization, resulting in seedless fruits.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:45:36Z"
+ },
+ {
+  "id": "q_aeccc3ff6f57daef",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary product formed when an aldehyde reacts with Tollens' reagent?",
+  "qHi": "जब एक एल्डिहाइड टॉलेंस अभिकर्मक के साथ प्रतिक्रिया करता है तो बनने वाला प्राथमिक उत्पाद क्या है?",
+  "optsEn": [
+   "Silver mirror",
+   "Copper oxide precipitate",
+   "Alkyl halide",
+   "Carboxylic acid salt"
+  ],
+  "optsHi": [
+   "सिल्वर मिरर (रजत दर्पण)",
+   "कॉपर ऑक्साइड अवक्षेप",
+   "ऐल्किल हैलाइड",
+   "कार्बोक्सिलिक अम्ल लवण"
+  ],
+  "correct": 3,
+  "explainEn": "Tollens' reagent oxidizes aldehydes to the corresponding carboxylate anion (carboxylic acid salt) while reducing silver ions to metallic silver.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:45:36Z"
+ },
+ {
+  "id": "q_d8f82a9e6ca4de67",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which British Viceroy introduced the policy of Doctrine of Lapse in India?",
+  "qHi": "किस ब्रिटिश वाइसराय या गवर्नर-जनरल ने भारत में व्यपगत का सिद्धांत (डॉक्ट्रीन ऑफ लैप्स) शुरू किया था?",
+  "optsEn": [
+   "Lord Dalhousie",
+   "Lord Wellesley",
+   "Lord Curzon",
+   "Lord William Bentinck"
+  ],
+  "optsHi": [
+   "लॉर्ड डलहौजी",
+   "लॉर्ड वेलेजली",
+   "लॉर्ड कर्ज़न",
+   "लॉर्ड विलियम बेंटिक"
+  ],
+  "correct": 0,
+  "explainEn": "Lord Dalhousie applied the Doctrine of Lapse extensively as Governor-General of India to annex dependent states lacking a natural male heir.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:45:36Z"
+ },
+ {
+  "id": "q_f99867ea934da878",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following kingdoms emerged in the Deccan and was founded by Harihara and Bukka in 1336?",
+  "qHi": "दक्कन में निम्नलिखित में से किस राज्य का उदय हुआ था जिसकी स्थापना 1336 में हरिहर और बुक्का ने की थी?",
+  "optsEn": [
+   "Bahmani Sultanate",
+   "Vijayanagara Empire",
+   "Hoysala Empire",
+   "Yadava Dynasty"
+  ],
+  "optsHi": [
+   "बहमनी सल्तनत",
+   "विजयनगर साम्राज्य",
+   "होयसाल साम्राज्य",
+   "यादव वंश"
+  ],
+  "correct": 1,
+  "explainEn": "Harihara and Bukka founded the Vijayanagara Empire in 1336 in the Tungabhadra region.",
+  "sourceHint": "NCERT Class 12 History - Themes in Indian History Part II",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:46:38Z"
+ },
+ {
+  "id": "q_3f2e4836fe6dbe9c",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the Indian Constitution, which Article guarantees the right to constitutional remedies by moving the Supreme Court?",
+  "qHi": "भारतीय संविधान के संदर्भ में, कौन सा अनुच्छेद सर्वोच्च न्यायालय में जाकर संवैधानिक उपचार का अधिकार प्रदान करता है?",
+  "optsEn": [
+   "Article 19",
+   "Article 21",
+   "Article 32",
+   "Article 226"
+  ],
+  "optsHi": [
+   "अनुच्छेद 19",
+   "अनुच्छेद 21",
+   "अनुच्छेद 32",
+   "अनुच्छेद 226"
+  ],
+  "correct": 2,
+  "explainEn": "Dr. B.R. Ambedkar called Article 32 the heart and soul of the Indian Constitution.",
+  "sourceHint": "Constitution of India, NCERT Class 11/12 Political Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:46:38Z"
+ },
+ {
+  "id": "q_0f8047a8cc296ca0",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which enzyme is primarily responsible for the synthesis of complementary RNA strands during transcription in prokaryotes?",
+  "qHi": "प्रोकेरियोट्स में अनुलेखन (transcription) के दौरान पूरक आरएनए स्ट्रैंड्स के संश्लेषण के लिए मुख्य रूप से कौन सा एंजाइम जिम्मेदार है?",
+  "optsEn": [
+   "DNA polymerase III",
+   "RNA polymerase",
+   "Reverse transcriptase",
+   "DNA ligase"
+  ],
+  "optsHi": [
+   "डीएनए पोलीमरेज़ III",
+   "आरएनए पोलीमरेज़",
+   "रिवर्स ट्रांसक्रिप्टेस",
+   "डीएनए लाइगेज़"
+  ],
+  "correct": 1,
+  "explainEn": "RNA polymerase catalyzes the transcription of DNA into RNA in prokaryotes.",
+  "sourceHint": "NCERT Class 12 Biology - Chapter 6: Molecular Basis of Inheritance",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:46:38Z"
+ },
+ {
+  "id": "q_6f323ed30a7c64ea",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the molecular geometry and hybridization of the central atom in the [CoF6]3- coordination entity according to Valence Bond Theory?",
+  "qHi": "संयोजकता बंध सिद्धांत के अनुसार [CoF6]3- उपसहसंयोजन इकाई में केंद्रीय परमाणु की आणविक ज्यामिति और संकरण क्या है?",
+  "optsEn": [
+   "Tetrahedral, sp3",
+   "Square planar, dsp2",
+   "Octahedral, sp3d2",
+   "Octahedral, d2sp3"
+  ],
+  "optsHi": [
+   "चतुष्कोणीय, sp3",
+   "वर्ग समतलीय, dsp2",
+   "अष्टकोणीय, sp3d2",
+   "अष्टकोणीय, d2sp3"
+  ],
+  "correct": 2,
+  "explainEn": "Fluoride is a weak field ligand, leading to outer orbital sp3d2 hybridization and high spin octahedral geometry for Co(III).",
+  "sourceHint": "NCERT Class 12 Chemistry Part I - Coordination Compounds",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:46:38Z"
+ },
+ {
+  "id": "q_30a8fcf1f3330ff1",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In macroeconomics, what does the term 'Fiscal Deficit' precisely represent?",
+  "qHi": "समष्टि अर्थशास्त्र में, 'राजकोषीय घाटा' पद सटीक रूप से क्या दर्शाता है?",
+  "optsEn": [
+   "Total expenditure minus total receipts excluding borrowings",
+   "Revenue expenditure minus revenue receipts",
+   "Capital expenditure minus capital receipts",
+   "Total expenditure minus tax revenue only"
+  ],
+  "optsHi": [
+   "कुल व्यय और उधार को छोड़कर कुल प्राप्तियों के बीच का अंतर",
+   "राजस्व व्यय और राजस्व प्राप्तियों के बीच का अंतर",
+   "पूंजीगत व्यय और पूंजीगत प्राप्तियों के बीच का अंतर",
+   "केवल कुल व्यय और कर राजस्व के बीच का अंतर"
+  ],
+  "correct": 0,
+  "explainEn": "Fiscal deficit is the excess of total expenditure over total receipts excluding borrowings.",
+  "sourceHint": "NCERT Class 12 Economics - Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:46:38Z"
+ },
+ {
+  "id": "q_5372be1b4e6679d0",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Harappan site is characterized by a massive brick structure identified as a dockyard?",
+  "qHi": "कौन सा हड़प्पा स्थल एक विशाल ईंट संरचना द्वारा विशेषता रखता है जिसे गोदीबाड़ा (dockyard) के रूप में पहचाना गया है?",
+  "optsEn": [
+   "Harappa",
+   "Mohenjo-daro",
+   "Lothal",
+   "Kalibangan"
+  ],
+  "optsHi": [
+   "हड़प्पा",
+   "मोहनजोदड़ो",
+   "लोथल",
+   "कालीबंगा"
+  ],
+  "correct": 2,
+  "explainEn": "Lothal in Gujarat is famous for its tidal dockyard associated with maritime trade.",
+  "sourceHint": "NCERT Class 12 History - Themes in Indian History Part I",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:46:38Z"
+ },
+ {
+  "id": "q_e838292a433c4c59",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In a p-n junction diode, what creates the depletion region near the junction?",
+  "qHi": "एक पी-एन जंक्शन डायोड में, जंक्शन के पास रिक्तिकरण क्षेत्र (depletion region) का निर्माण किसके कारण होता है?",
+  "optsEn": [
+   "Drift of minority charge carriers",
+   "Diffusion of majority charge carriers and subsequent recombination",
+   "External voltage applied across the terminals",
+   "Ionization of covalent bonds due to high temperature"
+  ],
+  "optsHi": [
+   "अल्पसंख्यक आवेश वाहकों का अपवाह (drift)",
+   "बहुसंख्यक आवेश वाहकों का विसरण (diffusion) और उसके बाद पुनर्संयोजन",
+   "टर्मिनलों पर लगाया गया बाहरी वोल्टेज",
+   "उच्च तापमान के कारण सहसंयोजक बंधों का आयनीकरण"
+  ],
+  "correct": 1,
+  "explainEn": "Diffusion of electrons from n-region to p-region and holes from p-region to n-region causes recombination, leaving immobile ions that form the depletion region.",
+  "sourceHint": "NCERT Class 12 Physics Part II - Semiconductor Electronics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:46:38Z"
+ },
+ {
+  "id": "q_3cc8f720e1f881ea",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the Indian national movement, the 'Cabinet Mission' arrived in India in which year?",
+  "qHi": "भारतीय राष्ट्रीय आंदोलन के दौरान, 'कैबिनेट मिशन' किस वर्ष भारत आया था?",
+  "optsEn": [
+   "1942",
+   "1945",
+   "1946",
+   "1947"
+  ],
+  "optsHi": [
+   "1942",
+   "1945",
+   "1946",
+   "1947"
+  ],
+  "correct": 2,
+  "explainEn": "The Cabinet Mission headed by Pethick-Lawrence, Stafford Cripps, and A.V. Alexander arrived in India in March 1946.",
+  "sourceHint": "NCERT Class 12 History - Themes in Indian History Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:46:38Z"
  }
 ]

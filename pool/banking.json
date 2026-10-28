@@ -27662,5 +27662,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-27T22:16:45Z"
+ },
+ {
+  "id": "q_c0f589a6bc14722d",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization insures bank deposits in India up to a prescribed limit per depositor?",
+  "qHi": "कौन सा संगठन प्रति जमाकर्ता निर्धारित सीमा तक भारत में बैंक जमा का बीमा करता है?",
+  "optsEn": [
+   "DICGC",
+   "NABARD",
+   "SIDBI",
+   "SEBI"
+  ],
+  "optsHi": [
+   "DICGC",
+   "नाबार्ड",
+   "सिडबी",
+   "सेबी"
+  ],
+  "correct": 0,
+  "explainEn": "Deposit Insurance and Credit Guarantee Corporation (DICGC), a wholly-owned subsidiary of RBI, insures all bank deposits.",
+  "sourceHint": "DICGC and RBI official portals",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:44:53Z"
+ },
+ {
+  "id": "q_0de4e6fb95f0d0b4",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which instrument is issued by a bank acknowledging the receipt of money for a fixed period at a specified interest rate?",
+  "qHi": "निश्चित अवधि के लिए एक विशिष्ट ब्याज दर पर धन की प्राप्ति को स्वीकार करते हुए बैंक द्वारा कौन सा साधन जारी किया जाता है?",
+  "optsEn": [
+   "Treasury Bill",
+   "Fixed Deposit Receipt",
+   "Commercial Paper",
+   "Promissory Note"
+  ],
+  "optsHi": [
+   "राजकोषीय बिल",
+   "सावधि जमा रसीद",
+   "वाणिज्यिक पत्र",
+   "प्रोमिissory नोट"
+  ],
+  "correct": 1,
+  "explainEn": "A Fixed Deposit Receipt (FDR) is issued by a bank as an acknowledgment of a term deposit.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:45:51Z"
+ },
+ {
+  "id": "q_4e18377a81ceb09c",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which financial market is primarily meant for short-term funds and instruments with a maturity of up to one year?",
+  "qHi": "कौन सा वित्तीय बाजार मुख्य रूप से अल्पकालिक फंड और एक वर्ष तक की परिपक्वता वाले उपकरणों के लिए है?",
+  "optsEn": [
+   "Capital Market",
+   "Money Market",
+   "Foreign Exchange Market",
+   "Derivatives Market"
+  ],
+  "optsHi": [
+   "पूंजी बाजार",
+   "मुद्रा बाजार",
+   "विदेशी मुद्रा बाजार",
+   "डेरिवेटिव बाजार"
+  ],
+  "correct": 1,
+  "explainEn": "The money market is a wholesale financial market for short-term debt instruments up to one year.",
+  "sourceHint": "NCERT Economics and Indian Financial System textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:45:51Z"
+ },
+ {
+  "id": "q_f21c4db2e0965860",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does 'S' stand for in the financial acronym 'NEFT'?",
+  "qHi": "वित्तीय संक्षिप्त नाम 'NEFT' में 'S' का क्या अर्थ है?",
+  "optsEn": [
+   "Settlement",
+   "System",
+   "Securities",
+   "Scheduled"
+  ],
+  "optsHi": [
+   "निपटान (Settlement)",
+   "प्रणाली (System)",
+   "प्रतिभूतियां (Securities)",
+   "अनुसूचित (Scheduled)"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer.",
+  "sourceHint": "RBI Payment Systems documentation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:45:51Z"
+ },
+ {
+  "id": "q_57e513cbc6b69a7b",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is considered a non-performing asset (NPA) if interest or principal instalment remains overdue for a period of more than how many days in respect of a term loan?",
+  "qHi": "मी ऋण के संबंध में ब्याज या मूलधन की किस्त कितने दिनों से अधिक समय तक बकाया रहने पर निम्नलिखित में से किसे गैर-निष्पादित परिसंपत्ति (NPA) माना जाता है?",
+  "optsEn": [
+   "30 days",
+   "60 days",
+   "90 days",
+   "180 days"
+  ],
+  "optsHi": [
+   "30 दिन",
+   "60 दिन",
+   "90 दिन",
+   "180 दिन"
+  ],
+  "correct": 2,
+  "explainEn": "An asset becomes non-performing when it ceases to generate income for the bank for a period of more than 90 days.",
+  "sourceHint": "RBI Prudential Norms on Income Recognition and Asset Classification (IRAC)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:45:51Z"
  }
 ]

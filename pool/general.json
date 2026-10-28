@@ -16882,5 +16882,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-27T22:16:49Z"
+ },
+ {
+  "id": "q_bc7c09a8b199fb7f",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which classical dance form originated in the state of Kerala and is known for elaborate makeup and face masks?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप केरल राज्य में उत्पन्न हुआ और विस्तृत मेकअप और चेहरे के मुखौटों के लिए जाना जाता है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Odissi",
+   "Kuchipudi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "ओडिसी",
+   "कुचिपुड़ी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a major form of classical Indian dance distinguished by its colorful make-up and costumes.",
+  "sourceHint": "Sangeet Natak Akademi",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:45:55Z"
+ },
+ {
+  "id": "q_90f9a7df3f77aa20",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which city serves as the joint capital for the states of Punjab and Haryana?",
+  "qHi": "कौन सा शहर पंजाब और हरियाणा राज्यों की संयुक्त राजधानी के रूप में कार्य करता है?",
+  "optsEn": [
+   "Ludhiana",
+   "Amritsar",
+   "Chandigarh",
+   "Gurugram"
+  ],
+  "optsHi": [
+   "लुधियाना",
+   "अमृतसर",
+   "चंडीगढ़",
+   "गुरुग्राम"
+  ],
+  "correct": 2,
+  "explainEn": "Chandigarh was designed by the French architect Le Corbusier and serves as the capital of both Punjab and Haryana.",
+  "sourceHint": "Constitution of India and State Reorganisation Act",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:45:55Z"
  }
 ]

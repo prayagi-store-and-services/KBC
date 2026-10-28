@@ -16742,5 +16742,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-27T22:16:39Z"
+ },
+ {
+  "id": "q_3ccab969bab29599",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which instrument is commonly used to measure atmospheric pressure?",
+  "qHi": "वायुमंडलीय दबाव को मापने के लिए आमतौर पर किस उपकरण का उपयोग किया जाता है?",
+  "optsEn": [
+   "Thermometer",
+   "Barometer",
+   "Hygrometer",
+   "Anemometer"
+  ],
+  "optsHi": [
+   "थर्मोमीटर",
+   "बैरोमीटर",
+   "हाइग्रोमीटर",
+   "एनीमोमीटर"
+  ],
+  "correct": 1,
+  "explainEn": "A barometer is a scientific instrument used to measure air pressure in a certain environment.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:44:48Z"
+ },
+ {
+  "id": "q_669d83620fa15f09",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Mughal Emperor had the mausoleum known as Bibi Ka Maqbara built in Aurangabad?",
+  "qHi": "किस मुगल सम्राट ने औरंगाबाद में बीबी का मकबरा बनवाया था?",
+  "optsEn": [
+   "Akbar",
+   "Jahangir",
+   "Shah Jahan",
+   "Aurangzeb"
+  ],
+  "optsHi": [
+   "अकबर",
+   "जहाँगीर",
+   "शाहजहाँ",
+   "औरंगजेब"
+  ],
+  "correct": 3,
+  "explainEn": "Bibi Ka Maqbara was built by Azam Shah, son of the Mughal Emperor Aurangzeb, in memory of his mother Dilras Banu Begum.",
+  "sourceHint": "NCERT History Class 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:45:46Z"
+ },
+ {
+  "id": "q_1cf2b06d5030ba56",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which river originates from the Mahabaleshwar in the Western Ghats?",
+  "qHi": "पश्चिमी घाट में महाबलेश्वर से कौन सी नदी निकलती है?",
+  "optsEn": [
+   "Godavari",
+   "Krishna",
+   "Mahanadi",
+   "Narmada"
+  ],
+  "optsHi": [
+   "गोदावरी",
+   "कृष्णा",
+   "महानदी",
+   "नर्मदा"
+  ],
+  "correct": 1,
+  "explainEn": "The Krishna River originates from Mahabaleshwar in the state of Maharashtra and flows into the Bay of Bengal.",
+  "sourceHint": "NCERT Geography Class 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:45:46Z"
+ },
+ {
+  "id": "q_6698be063d27a62b",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary mineral ore from which aluminum is extracted?",
+  "qHi": "वह प्राथमिक खनिज अयस्क कौन सा है जिससे एल्युमिनियम निकाला जाता है?",
+  "optsEn": [
+   "Hematite",
+   "Bauxite",
+   "Galena",
+   "Magnetite"
+  ],
+  "optsHi": [
+   "हेमेटाइट",
+   "बॉक्साइट",
+   "गैलेना",
+   "मैग्नेटाइट"
+  ],
+  "correct": 1,
+  "explainEn": "Bauxite is the principal ore of aluminum, containing hydrated aluminum oxides.",
+  "sourceHint": "NCERT Science Class 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:45:46Z"
  }
 ]

@@ -23182,5 +23182,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-27T22:17:14Z"
+ },
+ {
+  "id": "q_c41ccb5abb4eed0b",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these lines of latitude passes almost halfway through India?",
+  "qHi": "अक्षांश रेखाओं में से कौन सी भारत के लगभग बीच से गुजरती है?",
+  "optsEn": [
+   "Equator",
+   "Tropic of Cancer",
+   "Tropic of Capricorn",
+   "Arctic Circle"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा",
+   "कर्क रेखा",
+   "मकर रेखा",
+   "आर्कटिक वृत्त"
+  ],
+  "correct": 1,
+  "explainEn": "The Tropic of Cancer (23 degrees 30 minutes North) passes through the middle of India.",
+  "sourceHint": "NCERT Class 5 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:44:26Z"
+ },
+ {
+  "id": "q_23526b6ee3dada9d",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the standard unit used to measure the volume of liquids like milk and water?",
+  "qHi": "दूध और पानी जैसे तरल पदार्थों की मात्रा मापने के लिए उपयोग की जाने वाली मानक इकाई क्या है?",
+  "optsEn": [
+   "Kilogram",
+   "Metre",
+   "Litre",
+   "Second"
+  ],
+  "optsHi": [
+   "किलोग्राम",
+   "मीटर",
+   "लीटर",
+   "सेकंड"
+  ],
+  "correct": 2,
+  "explainEn": "Litre is the standard metric unit for measuring liquid volume.",
+  "sourceHint": "NCERT Class 5 Mathematics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:44:26Z"
+ },
+ {
+  "id": "q_08d2aee03c835658",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which national symbol of India was adopted from the Lion Capital at Sarnath?",
+  "qHi": "भारत का कौन सा राष्ट्रीय प्रतीक सारनाथ स्थित सिंह स्तंभ से लिया गया है?",
+  "optsEn": [
+   "National Flag",
+   "National Emblem",
+   "National Anthem",
+   "National Song"
+  ],
+  "optsHi": [
+   "राष्ट्रीय ध्वज",
+   "राष्ट्रीय प्रतीक",
+   "राष्ट्रगान",
+   "राष्ट्रीय गीत"
+  ],
+  "correct": 1,
+  "explainEn": "The State Emblem of India is an adaptation of the Lion Capital of Ashoka at Sarnath.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:44:26Z"
+ },
+ {
+  "id": "q_96097feadec5964d",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Seed dispersal in the 'Madar' (Aak) plant takes place through which of the following agents?",
+  "qHi": "'मदार' (आक) के पौधे में बीजों का प्रकीर्णन निम्नलिखित में से किस माध्यम से होता है?",
+  "optsEn": [
+   "Water",
+   "Wind",
+   "Explosion",
+   "Animals"
+  ],
+  "optsHi": [
+   "जल",
+   "वायु",
+   "विस्फोट",
+   "जंतु"
+  ],
+  "correct": 1,
+  "explainEn": "Madar seeds have hair-like structures which help them float in the air and get dispersed by the wind.",
+  "sourceHint": "NCERT Class 5 EVS Chapter 2 (A Snake Charmer's Story / Seeds and Seeds)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:45:01Z"
+ },
+ {
+  "id": "q_18873f8244ebb906",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the process of changing water vapor back into water droplets called?",
+  "qHi": "जल वाष्प का वापस पानी की बूंदों में बदलने की प्रक्रिया को क्या कहा जाता है?",
+  "optsEn": [
+   "Evaporation",
+   "Condensation",
+   "Melting",
+   "Sublimation"
+  ],
+  "optsHi": [
+   "वाष्पीकरण",
+   "संघनन",
+   "गलनांक",
+   "ऊर्ध्वपातन"
+  ],
+  "correct": 1,
+  "explainEn": "Condensation is the process where water vapor cools down and turns back into liquid water droplets.",
+  "sourceHint": "NCERT Class 5 EVS Chapter 6 (A Shelter so High!)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:45:01Z"
+ },
+ {
+  "id": "q_6dc3311c26f7cc0f",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following Indian classical dance forms originated in the state of Kerala?",
+  "qHi": "निम्नलिखित में से कौन सा भारतीय शास्त्रीय नृत्य रूप केरल राज्य में उत्पन्न हुआ था?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a major form of classical Indian dance that originated in Kerala, known for its elaborate costumes and makeup.",
+  "sourceHint": "NCERT Class 5 Social Studies / Art and Culture curriculum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:45:01Z"
+ },
+ {
+  "id": "q_ced2901ae729b020",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the main function of white blood cells in human blood?",
+  "qHi": "मानव रक्त में श्वेत रक्त कोशिकाओं (WBC) का मुख्य कार्य क्या है?",
+  "optsEn": [
+   "Carrying oxygen",
+   "Helping in blood clotting",
+   "Fighting against germs and diseases",
+   "Transporting digested food"
+  ],
+  "optsHi": [
+   "ऑक्सीजन ले जाना",
+   "रक्त का थक्का जमाने में मदद करना",
+   "कीटाणुओं और बीमारियों से लड़ना",
+   "पचे हुए भोजन का परिवहन करना"
+  ],
+  "correct": 2,
+  "explainEn": "White blood cells are part of the immune system and help the body fight infections and diseases.",
+  "sourceHint": "NCERT Science curriculum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:45:01Z"
+ },
+ {
+  "id": "q_7e40a3bb1aa5eefc",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which historical monument, built by Emperor Shah Jahan in Agra, is made of white marble and recognized as a UNESCO World Heritage Site?",
+  "qHi": "आगरा में सम्राट शाहजहाँ द्वारा निर्मित कौन सा ऐतिहासिक स्मारक, सफेद संगमरमर से बना है और इसे यूनेस्को की विश्व धरोहर स्थल के रूप में मान्यता प्राप्त है?",
+  "optsEn": [
+   "Red Fort",
+   "Qutub Minar",
+   "Taj Mahal",
+   "Humaun's Tomb"
+  ],
+  "optsHi": [
+   "लाल किला",
+   "कुतुब मीनार",
+   "ताजमहल",
+   "हुमायूँ का मकबरा"
+  ],
+  "correct": 2,
+  "explainEn": "The Taj Mahal was commissioned by Shah Jahan in Agra and is made entirely of white marble.",
+  "sourceHint": "NCERT Class 7 History Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:46:00Z"
+ },
+ {
+  "id": "q_50dfded3423f29f0",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian classical dance form originated in the state of Kerala and is known for elaborate makeup and facial masks?",
+  "qHi": "कौन सी भारतीय शास्त्रीय नृत्य शैली केरल राज्य में उत्पन्न हुई है और विस्तृत मेकअप और चेहरे के मुखौटों के लिए जानी जाती है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a traditional classical dance-drama originating from Kerala, famous for its colorful makeup and costumes.",
+  "sourceHint": "NCERT Class 6 Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:46:00Z"
+ },
+ {
+  "id": "q_5b1a13f032a6a93d",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of plant reproduction, what is the powdery substance produced by the anther of a flower called?",
+  "qHi": "पौधों के प्रजनन के संदर्भ में, फूल के परागकोश द्वारा उत्पादित चूर्ण पदार्थ को क्या कहा जाता है?",
+  "optsEn": [
+   "Pollen",
+   "Nectar",
+   "Ovule",
+   "Sepal"
+  ],
+  "optsHi": [
+   "पराग",
+   "मकरंद",
+   "बीजांड",
+   "बाह्य दल"
+  ],
+  "correct": 0,
+  "explainEn": "Pollen grains are produced by the anther, which is the male reproductive part of a flower.",
+  "sourceHint": "NCERT Class 6 Science Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:46:00Z"
+ },
+ {
+  "id": "q_1377962f06ebc584",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which fundamental right enshrined in the Indian Constitution guarantees equality of all persons before the law?",
+  "qHi": "भारतीय संविधान में निहित कौन सा मौलिक अधिकार कानून के समक्ष सभी व्यक्तियों की समानता की गारंटी देता है?",
+  "optsEn": [
+   "Right to Freedom",
+   "Right to Equality",
+   "Right to Education",
+   "Right against Exploitation"
+  ],
+  "optsHi": [
+   "स्वतंत्रता का अधिकार",
+   "समानता का अधिकार",
+   "शिक्षा का अधिकार",
+   "शोषण के विरुद्ध अधिकार"
+  ],
+  "correct": 1,
+  "explainEn": "The Right to Equality ensures that all citizens are treated equally before the law regardless of caste, religion, or gender.",
+  "sourceHint": "NCERT Class 7 Social and Political Life",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:46:00Z"
  }
 ]

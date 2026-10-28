@@ -22874,5 +22874,397 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-27T22:16:23Z"
+ },
+ {
+  "id": "q_2fa7ac17d0ed57fc",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organ of the human body filters the blood to form urine?",
+  "qHi": "मानव शरीर का कौन सा अंग रक्त को छानकर मूत्र बनाता है?",
+  "optsEn": [
+   "Heart",
+   "Lungs",
+   "Kidney",
+   "Liver"
+  ],
+  "optsHi": [
+   "हृदय",
+   "फेफड़े",
+   "वृक्क (किडनी)",
+   "यकृत (लीवर)"
+  ],
+  "correct": 2,
+  "explainEn": "Kidneys filter waste products from the blood to form urine.",
+  "sourceHint": "NCERT Class 10 Science Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:44:34Z"
+ },
+ {
+  "id": "q_1b17f32b962320e2",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Power-sharing is good because it helps to reduce the possibility of conflict between:",
+  "qHi": "सत्ता की साझेदारी अच्छी है क्योंकि यह किसके बीच टकराव की संभावना को कम करने में मदद करती है?",
+  "optsEn": [
+   "Social groups",
+   "Political parties only",
+   "Foreign nations",
+   "Private companies"
+  ],
+  "optsHi": [
+   "सामाजिक समूहों",
+   "केवल राजनीतिक दलों",
+   "विदेशी राष्ट्रों",
+   "निजी कंपनियों"
+  ],
+  "correct": 0,
+  "explainEn": "Power-sharing ensures social harmony by reducing conflict between different social groups.",
+  "sourceHint": "NCERT Class 10 Political Science Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:44:34Z"
+ },
+ {
+  "id": "q_ea760903c80d24fb",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which element is oxidized in the reaction between lead(II) oxide and carbon to form lead and carbon dioxide?",
+  "qHi": "सीसा (II) ऑक्साइड और कार्बन की अभिक्रिया से सीसा और कार्बन डाइऑक्साइड बनने पर किस तत्व का उपचयन (ऑक्सीकरण) होता है?",
+  "optsEn": [
+   "Lead",
+   "Carbon",
+   "Lead oxide",
+   "Carbon dioxide"
+  ],
+  "optsHi": [
+   "सीसा (लेड)",
+   "कार्बन",
+   "लेड ऑक्साइड",
+   "कार्बन डाइऑक्साइड"
+  ],
+  "correct": 1,
+  "explainEn": "Carbon gains oxygen during the reaction and gets oxidized to carbon dioxide.",
+  "sourceHint": "NCERT Class 10 Science Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:45:31Z"
+ },
+ {
+  "id": "q_031fa7d964201758",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following metals does not displace hydrogen from dilute hydrochloric acid?",
+  "qHi": "निम्नलिखित में से कौन सी धातु तनु हाइड्रोक्लोरिक अम्ल से हाइड्रोजन को विस्थापित नहीं करती है?",
+  "optsEn": [
+   "Zinc",
+   "Magnesium",
+   "Copper",
+   "Iron"
+  ],
+  "optsHi": [
+   "जिंक",
+   "मैग्नीशियम",
+   "कॉपर",
+   "आयरन"
+  ],
+  "correct": 2,
+  "explainEn": "Copper is placed below hydrogen in the reactivity series and cannot displace hydrogen from dilute acids.",
+  "sourceHint": "NCERT Class 10 Science Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:45:31Z"
+ },
+ {
+  "id": "q_02fbe8c4150af27a",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which plant hormone is primarily responsible for the wilting and falling of leaves?",
+  "qHi": "पत्तियों के मुरझाने और गिरने के लिए मुख्य रूप से कौन सा पादप हार्मोन उत्तरदायी है?",
+  "optsEn": [
+   "Auxin",
+   "Gibberellin",
+   "Cytokinin",
+   "Abscisic acid"
+  ],
+  "optsHi": [
+   "ऑक्सिन",
+   "जिबरेलिन",
+   "साइटोकाइनिन",
+   "एब्सिसिक अम्ल"
+  ],
+  "correct": 3,
+  "explainEn": "Abscisic acid (ABA) is a plant hormone that inhibits growth and promotes the abscission of leaves.",
+  "sourceHint": "NCERT Class 10 Science Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:45:31Z"
+ },
+ {
+  "id": "q_ca9cae73acc551ad",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What happens to the image distance in the human eye when we increase the distance of an object from the eye?",
+  "qHi": "जब हम मानव नेत्र से वस्तु की दूरी बढ़ाते हैं, तो नेत्र में प्रतिबिंब दूरी का क्या होता है?",
+  "optsEn": [
+   "It increases",
+   "It decreases",
+   "It remains the same",
+   "It becomes zero"
+  ],
+  "optsHi": [
+   "यह बढ़ जाती है",
+   "यह घट जाती है",
+   "यह समान रहती है",
+   "यह शून्य हो जाती है"
+  ],
+  "correct": 2,
+  "explainEn": "The distance between the eye lens and the retina remains constant, so the image distance does not change; accommodation adjusts the focal length instead.",
+  "sourceHint": "NCERT Class 10 Science Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:45:31Z"
+ },
+ {
+  "id": "q_58225afacbacab95",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which device is used to reverse the direction of current in the coil of a direct current electric motor after every half rotation?",
+  "qHi": "दिष्ट धारा (DC) मोटर में हर आधे घूर्णन के बाद कुंडली में धारा की दिशा को उलटने के लिए किस उपकरण का उपयोग किया जाता है?",
+  "optsEn": [
+   "Galvanometer",
+   "Commutator",
+   "Transformer",
+   "Rheostat"
+  ],
+  "optsHi": [
+   "गैल्वेनोमीटर",
+   "दिक्परिवर्तक (कम्यूटेटर)",
+   "ट्रांसफॉर्मर",
+   "रियोस्टेट"
+  ],
+  "correct": 1,
+  "explainEn": "A split-ring commutator acts as a reversing switch in a DC motor, reversing the current direction every half rotation.",
+  "sourceHint": "NCERT Class 10 Science Chapter 13",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:45:31Z"
+ },
+ {
+  "id": "q_bb60ec43e3e893e3",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which type of forest ecosystem is the Sal tree predominantly found in India?",
+  "qHi": "भारत में साल का वृक्ष मुख्य रूप से किस प्रकार के वन पारिस्थितिकी तंत्र में पाया जाता है?",
+  "optsEn": [
+   "Tropical evergreen forest",
+   "Tropical deciduous forest",
+   "Mangrove forest",
+   "Alpine tundra"
+  ],
+  "optsHi": [
+   "उष्णकटिबंधीय सदाबहार वन",
+   "उष्णकटिबंधीय पर्णपाती वन",
+   "मैंग्रोव वन",
+   "अल्पीय टुंड्रा"
+  ],
+  "correct": 1,
+  "explainEn": "Sal (Shorea robusta) is a characteristic tree species of tropical moist and dry deciduous forests in India.",
+  "sourceHint": "NCERT Class 10 Geography Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:45:31Z"
+ },
+ {
+  "id": "q_6b7dc4909f5f2cfa",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which subject is included in the Concurrent List of the Indian Constitution?",
+  "qHi": "भारतीय संविधान की समवर्ती सूची में कौन सा विषय शामिल है?",
+  "optsEn": [
+   "Police",
+   "Agriculture",
+   "Education",
+   "Banking"
+  ],
+  "optsHi": [
+   "पुलिस",
+   "कृषि",
+   "शिक्षा",
+   "बैंकिंग"
+  ],
+  "correct": 2,
+  "explainEn": "Education was transferred to the Concurrent List through the 42nd Constitutional Amendment Act.",
+  "sourceHint": "NCERT Class 10 Civics Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:45:31Z"
+ },
+ {
+  "id": "q_164ac568c7c5a96c",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following carbon compounds undergoes addition reactions?",
+  "qHi": "निम्नलिखित में से कौन सा कार्बन यौगिक योगात्मक अभिक्रिया से गुजरता है?",
+  "optsEn": [
+   "Methane",
+   "Ethane",
+   "Ethene",
+   "Propane"
+  ],
+  "optsHi": [
+   "मीथेन",
+   "इथेन",
+   "एथीन",
+   "प्रोपेन"
+  ],
+  "correct": 2,
+  "explainEn": "Unsaturated hydrocarbons like alkenes (ethene) and alkynes undergo addition reactions in the presence of catalysts.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 4: Carbon and its Compounds",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:46:32Z"
+ },
+ {
+  "id": "q_4644040262f0a634",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following treaty or arrangement led to the formation of a customs union of German states initiated by Prussia in 1834?",
+  "qHi": "1834 में प्रशा द्वारा शुरू किए गए जर्मन राज्यों के सीमा शुल्क संघ के गठन से निम्नलिखित में से कौन सी संधि या व्यवस्था जुड़ी थी?",
+  "optsEn": [
+   "Zollverein",
+   "Treaty of Vienna",
+   "Concordat of Bologna",
+   "Frankfurt Parliament"
+  ],
+  "optsHi": [
+   "ज़ोलवेरिन (Zollverein)",
+   "वियना की संधि",
+   "बोलोना का कॉनकोर्डेट",
+   "फ्रैंकफर्ट संसद"
+  ],
+  "correct": 0,
+  "explainEn": "In 1834, a customs union or zollverein was formed at the initiative of Prussia, which abolished tariff barriers and unified German economic interests.",
+  "sourceHint": "NCERT Class 10 History, Chapter 1: The Rise of Nationalism in Europe",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:46:32Z"
+ },
+ {
+  "id": "q_35f2d793e05345b5",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "According to the Indian Constitution, the residuary subjects (matters not mentioned in the Union, State, or Concurrent lists) fall under the jurisdiction of which body?",
+  "qHi": "भारतीय संविधान के अनुसार, अवशिष्ट विषय (संघ, राज्य या समवर्ती सूची में उल्लेखित नहीं विषय) किस निकाय के अधिकार क्षेत्र में आते हैं?",
+  "optsEn": [
+   "State Legislatures",
+   "Union Parliament",
+   "Supreme Court of India",
+   "NITI Aayog"
+  ],
+  "optsHi": [
+   "राज्य विधायिका",
+   "केंद्रीय संसद",
+   "भारत का उच्चतम न्यायालय",
+   "नीति आयोग"
+  ],
+  "correct": 1,
+  "explainEn": "Article 248 of the Indian Constitution grants the Union Parliament exclusive power to make laws with respect to any matter not enumerated in the Concurrent List or State List.",
+  "sourceHint": "NCERT Class 10 Political Science (Civics), Chapter 2: Federalism",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:46:32Z"
+ },
+ {
+  "id": "q_5287eb81aeee74cd",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which type of soil develops on crystalline igneous rocks in areas of low rainfall in the eastern and southern parts of the Deccan Plateau?",
+  "qHi": "दक्कन के पठार के पूर्वी और दक्षिणी हिस्सों में कम वर्षा वाले क्षेत्रों में क्रिस्टलीय आग्नेय चट्टानों पर किस प्रकार की मिट्टी विकसित होती है?",
+  "optsEn": [
+   "Alluvial soil",
+   "Laterite soil",
+   "Red soil",
+   "Black soil"
+  ],
+  "optsHi": [
+   "जलोढ़ मिट्टी",
+   "लैटेराइट मिट्टी",
+   "लाल मिट्टी",
+   "काली मिट्टी"
+  ],
+  "correct": 2,
+  "explainEn": "Red soil develops on crystalline igneous rocks in areas of low rainfall in the eastern and southern parts of the Deccan plateau.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 1: Resources and Development",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:46:32Z"
+ },
+ {
+  "id": "q_ee0ba2da964376e2",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary objective of Self-Help Groups (SHGs) regarding rural households?",
+  "qHi": "ग्रामीण परिवारों के संबंध में स्वयं सहायता समूहों (SHG) का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To provide political representation",
+   "To organise rural strikes",
+   "To organize rural poor, particularly women, to pool savings and obtain loans",
+   "To replace commercial banks entirely"
+  ],
+  "optsHi": [
+   "राजनीतिक प्रतिनिधित्व प्रदान करना",
+   "ग्रामीण हड़तालों का आयोजन करना",
+   "बचत जुटाने और ऋण प्राप्त करने के लिए ग्रामीण गरीबों, विशेषकर महिलाओं को संगठित करना",
+   "वाणिज्यिक बैंकों को पूरी तरह से बदलना"
+  ],
+  "correct": 2,
+  "explainEn": "SHGs are meant to help rural poor, especially women, pool their savings and access micro-credit to overcome the problem of lack of collateral.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 3: Money and Credit",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T05:46:32Z"
  }
 ]
