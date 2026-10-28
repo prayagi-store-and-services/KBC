@@ -1,3 +1,6 @@
+## 1.1.40 metadata-only notices
+Daily battery/network-constrained WorkManager checks share a persisted attempt gate with foreground checks. Notification permission and blocked channels are respected; notices are version-deduplicated. Update taps resolve at tap time, falling back to the exact Eco website page if compatible Eco cannot open. No APK handling or install permission. No new library, telemetry or server. This is not a vulnerability patch or proof of physical-device battery performance. Release requires final-head CI, independent review and native UI inspection.
+
 # Security notes - KBC
 
 # Crash report consent: destination shown before Send (v1.1.37)

@@ -56,6 +56,7 @@ jobs:
           name: build-diagnostics
           path: |
             app/build/test-results/testDebugUnitTest/*.xml
+            app/build/outputs/metadata-update-notice.png
             app/build/ci-diagnostics/android-build.log
             app/build/outputs/ecosystem-version-header*.png
           if-no-files-found: warn
