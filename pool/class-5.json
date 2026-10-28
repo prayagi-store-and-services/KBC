@@ -23490,5 +23490,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-28T05:46:00Z"
+ },
+ {
+  "id": "q_4f97a4f2cb5d879b",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary function of the roots of a plant?",
+  "qHi": "पौधे की जड़ों का मुख्य कार्य क्या है?",
+  "optsEn": [
+   "To absorb water and minerals from the soil",
+   "To make food through photosynthesis",
+   "To produce colourful flowers",
+   "To release pollen grains"
+  ],
+  "optsHi": [
+   "मिट्टी से पानी और खनिज अवशोषित करना",
+   "प्रकाश संश्लेषण के माध्यम سے भोजन बनाना",
+   "रंगीन फूल पैदा करना",
+   "परागण छोड़ना"
+  ],
+  "correct": 0,
+  "explainEn": "Roots anchor the plant in the soil and absorb water and essential nutrients.",
+  "sourceHint": "NCERT Class 5 Science curriculum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T12:57:52Z"
+ },
+ {
+  "id": "q_ccbb09c1d5db230a",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which major line of latitude passes through the middle of India?",
+  "qHi": "कौन सी प्रमुख अक्षांश रेखा भारत के बीच से गुजरती है?",
+  "optsEn": [
+   "Equator",
+   "Tropic of Cancer",
+   "Tropic of Capricorn",
+   "Arctic Circle"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा",
+   "कर्क रेखा",
+   "मकर रेखा",
+   "आर्कटिक वृत्त"
+  ],
+  "correct": 1,
+  "explainEn": "The Tropic of Cancer (23.5° N) passes almost midway through the country.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T12:57:52Z"
  }
 ]

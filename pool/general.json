@@ -16938,5 +16938,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-28T05:45:55Z"
+ },
+ {
+  "id": "q_ed060dbafae87d88",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian state has the coastline with the Arabian Sea to its west?",
+  "qHi": "किस भारतीय राज्य के पश्चिम में अरब सागर के साथ तटरेखा है?",
+  "optsEn": [
+   "Andhra Pradesh",
+   "West Bengal",
+   "Gujarat",
+   "Odisha"
+  ],
+  "optsHi": [
+   "आंध्र प्रदेश",
+   "पश्चिम बंगाल",
+   "गुजरात",
+   "ओडिशा"
+  ],
+  "correct": 2,
+  "explainEn": "Gujarat is located on the western coast of India, bordering the Arabian Sea.",
+  "sourceHint": "NCERT Geography Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T12:59:32Z"
  }
 ]

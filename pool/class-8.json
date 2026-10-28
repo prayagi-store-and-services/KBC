@@ -19374,5 +19374,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-28T05:46:26Z"
+ },
+ {
+  "id": "q_38fd07d3836e36b1",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who drafted the Constitution of India as the Chairman of the Drafting Committee?",
+  "qHi": "प्रारूप समिति के अध्यक्ष के रूप में भारत के संविधान का प्रारूप किसने तैयार किया था?",
+  "optsEn": [
+   "Mahatma Gandhi",
+   "Dr. B. R. Ambedkar",
+   "Jawaharlal Nehru",
+   "Sardar Vallabhbhai Patel"
+  ],
+  "optsHi": [
+   "महात्मा गांधी",
+   "डॉ. बी. आर. अंबेडकर",
+   "जवाहरलाल नेहरू",
+   "सरदार वल्लभभाई पटेल"
+  ],
+  "correct": 1,
+  "explainEn": "Dr. B. R. Ambedkar served as the Chairman of the Drafting Committee of the Constituent Assembly.",
+  "sourceHint": "NCERT Class 8 Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T12:58:01Z"
+ },
+ {
+  "id": "q_2caa214e4758a30a",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which microorganism converts atmospheric nitrogen into nitrogenous compounds in the soil?",
+  "qHi": "कौन सा सूक्ष्मजीव वायुमंडलीय नाइट्रोजन को मिट्टी में नाइट्रोजन यौगिकों में परिवर्तित करता है?",
+  "optsEn": [
+   "Lactobacillus",
+   "Rhizobium",
+   "Yeast",
+   "Penicillium"
+  ],
+  "optsHi": [
+   "लैक्टोबैसिलस",
+   "राइजोबियम",
+   "यीस्ट",
+   "पेनिसिलियम"
+  ],
+  "correct": 1,
+  "explainEn": "Rhizobium bacteria live in the root nodules of leguminous plants and fix atmospheric nitrogen.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T12:59:42Z"
+ },
+ {
+  "id": "q_4fb2070eea5de176",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who led the anti-colonial tribal revolt in Chhotanagpur region known as the Ulgulan?",
+  "qHi": "छोटानागपुर क्षेत्र में उल्गुआन के रूप में जाने जाने वाले औपनिवेशिक विरोधी आदिवासी विद्रोह का नेतृत्व किसने किया था?",
+  "optsEn": [
+   "Birsa Munda",
+   "Tantia Tope",
+   "Kunwar Singh",
+   "Sidhu Murmu"
+  ],
+  "optsHi": [
+   "बिरसा मुंडा",
+   "तांत्या टोपे",
+   "कुंवर सिंह",
+   "सिद्धू मुर्मू"
+  ],
+  "correct": 0,
+  "explainEn": "Birsa Munda led the Munda movement in the Chhotanagpur region, referred to as Ulgulan.",
+  "sourceHint": "NCERT Class 8 History, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T12:59:42Z"
+ },
+ {
+  "id": "q_db270169691b232f",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of resources are those whose quantities are known and they are being used in the present time?",
+  "qHi": "किस प्रकार के संसाधन वे संसाधन हैं जिनकी मात्रा ज्ञात है और वर्तमान समय में उनका उपयोग किया जा रहा है?",
+  "optsEn": [
+   "Potential resources",
+   "Actual resources",
+   "Biotic resources",
+   "Ubiquitous resources"
+  ],
+  "optsHi": [
+   "संभाव्य संसाधन",
+   "वास्तविक संसाधन",
+   "जैविक संसाधन",
+   "सर्वव्यापक संसाधन"
+  ],
+  "correct": 1,
+  "explainEn": "Actual resources are those whose quantity is known and which are being used currently.",
+  "sourceHint": "NCERT Class 8 Geography, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T12:59:42Z"
  }
 ]

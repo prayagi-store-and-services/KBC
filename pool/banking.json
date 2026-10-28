@@ -27802,5 +27802,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-28T05:45:51Z"
+ },
+ {
+  "id": "q_5e7f81401262f316",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum deposit amount per depositor protected by the Deposit Insurance and Credit Guarantee Corporation (DICGC) in India?",
+  "qHi": "भारत में निक्षेप बीमा और प्रत्यय गारंटी निगम (DICGC) द्वारा प्रत्येक जमाकर्ता के लिए अधिकतम कितनी बीमा राशि सुरक्षित की जाती है?",
+  "optsEn": [
+   "One Lakh Rupees",
+   "Two Lakh Rupees",
+   "Five Lakh Rupees",
+   "Ten Lakh Rupees"
+  ],
+  "optsHi": [
+   "एक लाख रुपये",
+   "दो लाख रुपये",
+   "पाँच लाख रुपये",
+   "दस लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "DICGC provides deposit insurance up to 5 lakh rupees per depositor per bank.",
+  "sourceHint": "Deposit Insurance and Credit Guarantee Corporation Act, 1961",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T12:57:34Z"
+ },
+ {
+  "id": "q_8775260497f8c4c9",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of 'CRR' in monetary policy terms?",
+  "qHi": "मौद्रिक नीति के संदर्भ में 'CRR' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Cash Reserve Ratio",
+   "Credit Risk Reserve",
+   "Central Revenue Rate",
+   "Currency Ratio Return"
+  ],
+  "optsHi": [
+   "कैश रिजर्व रेशो",
+   "क्रेडिट रिस्क रिजर्व",
+   "सेंट्रल रेवेन्यू रेट",
+   "करेंसी रेशो रिटर्न"
+  ],
+  "correct": 0,
+  "explainEn": "Cash Reserve Ratio is the minimum percentage of a bank's total deposits that it must maintain as reserves with the RBI.",
+  "sourceHint": "Reserve Bank of India monetary policy definitions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T12:57:34Z"
+ },
+ {
+  "id": "q_17148a89be54965d",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque becomes stale after the expiry of how many months from its date of issue?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, जारी होने की तारीख से कितने महीने बीत जाने के बाद चेक पुराना (अमान्य) हो जाता है?",
+  "optsEn": [
+   "1 month",
+   "3 months",
+   "6 months",
+   "12 months"
+  ],
+  "optsHi": [
+   "1 महीना",
+   "3 महीने",
+   "6 महीने",
+   "12 महीने"
+  ],
+  "correct": 1,
+  "explainEn": "RBI guidelines specify that a cheque is valid for 3 months from the date of its issuance, after which it becomes a stale cheque.",
+  "sourceHint": "RBI Notifications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T12:59:19Z"
+ },
+ {
+  "id": "q_881b59b3ae1676f5",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum deposit insurance coverage provided by DICGC to an individual bank depositor?",
+  "qHi": "DICGC द्वारा व्यक्तिगत बैंक जमाकर्ता को अधिकतम कितनी जमा बीमा कवरेज प्रदान की जाती है?",
+  "optsEn": [
+   "Rs. 1 Lakh",
+   "Rs. 2 Lakh",
+   "Rs. 5 Lakh",
+   "Rs. 10 Lakh"
+  ],
+  "optsHi": [
+   "1 लाख रुपये",
+   "2 लाख रुपये",
+   "5 लाख रुपये",
+   "10 लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "Deposit Insurance and Credit Guarantee Corporation (DICGC) insures each depositor up to Rs. 5 Lakh for both principal and interest amount held in the same right and same capacity.",
+  "sourceHint": "DICGC Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T12:59:19Z"
+ },
+ {
+  "id": "q_eef322b84ea79475",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following terms refers to the rate at which commercial banks borrow short-term funds from the central bank by pledging eligible government securities?",
+  "qHi": "निम्नलिखित में से कौन सा शब्द उस दर को संदर्भित करता है जिस पर व्यावसायिक बैंक पात्र सरकारी प्रतिभूतियों को गिरवी रखकर केंद्रीय बैंक से अल्पकालिक धन उधार लेते हैं?",
+  "optsEn": [
+   "Repo Rate",
+   "Reverse Repo Rate",
+   "Bank Rate",
+   "Cash Reserve Ratio"
+  ],
+  "optsHi": [
+   "रेपो दर",
+   "रिवर्स रेपो दर",
+   "बैंक दर",
+   "नकद आरक्षित अनुपात"
+  ],
+  "correct": 0,
+  "explainEn": "Repo rate (Repurchase rate) is the interest rate at which the central bank lends money to commercial banks in the event of any shortfall of funds.",
+  "sourceHint": "RBI Monetary Policy Report",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T12:59:19Z"
+ },
+ {
+  "id": "q_7acc3a3cfc2bf489",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of priority sector lending in India, what does the letter 'S' stand for in the acronym SMF?",
+  "qHi": "भारत में प्राथमिकता प्राप्त क्षेत्र को ऋण देने के संदर्भ में, संक्षिप्त नाम SMF में अक्षर 'S' का क्या अर्थ है?",
+  "optsEn": [
+   "Small",
+   "Strategic",
+   "Seasonal",
+   "Standard"
+  ],
+  "optsHi": [
+   "लघु (Small)",
+   "रणनीतिक (Strategic)",
+   "मौसमी (Seasonal)",
+   "मानक (Standard)"
+  ],
+  "correct": 0,
+  "explainEn": "SMF stands for Small and Marginal Farmers, who are a designated sub-target category within Priority Sector Lending.",
+  "sourceHint": "RBI Priority Sector Lending Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T12:59:19Z"
+ },
+ {
+  "id": "q_0e479718d3fca83d",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under Basel III norms, what is the minimum Capital Conservation Buffer (CCB) requirement that Indian scheduled commercial banks are required to maintain as a percentage of Risk-Weighted Assets (RWAs)?",
+  "qHi": "बेसल III मानदंडों के तहत, भारतीय अनुसूचित वाणिज्यिक बैंकों को जोखिम-भारित संपत्तियों (RWAs) के प्रतिशत के रूप में न्यूनतम पूंजी संरक्षण बफर (CCB) आवश्यकता कितनी बनाए रखनी होती है?",
+  "optsEn": [
+   "1.0 percent",
+   "2.5 percent",
+   "4.0 percent",
+   "8.0 percent"
+  ],
+  "optsHi": [
+   "1.0 प्रतिशत",
+   "2.5 प्रतिशत",
+   "4.0 प्रतिशत",
+   "8.0 प्रतिशत"
+  ],
+  "correct": 1,
+  "explainEn": "As per RBI guidelines aligned with Basel III standards, banks must maintain a Capital Conservation Buffer of 2.5 percent in the form of Common Equity Tier 1 capital.",
+  "sourceHint": "RBI Guidelines on Basel III Capital Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T13:01:33Z"
+ },
+ {
+  "id": "q_bc502e013e9a2a9b",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary purpose of the Marginal Cost of Funds based Lending Rate (MCLR) system introduced by the RBI in India?",
+  "qHi": "भारत में आरबीआई द्वारा शुरू की गई फंड आधारित ऋण दर (MCLR) प्रणाली की सीमांत लागत का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To fix the Cash Reserve Ratio for cooperative banks",
+   "To improve the transmission of policy rates to lending rates",
+   "To determine the daily exchange rate of the Rupee",
+   "To regulate foreign institutional investments"
+  ],
+  "optsHi": [
+   "सहकारी बैंकों के लिए नकद आरक्षित अनुपात तय करना",
+   "ऋण दरों पर नीतिगत दरों के संचरण में सुधार करना",
+   "रुपए की दैनिक विनिमय दर निर्धारित करना",
+   "विदेशी संस्थागत निवेश को विनियमित करना"
+  ],
+  "correct": 1,
+  "explainEn": "MCLR was introduced to improve the transmission of monetary policy rates to the actual lending rates offered by banks to borrowers.",
+  "sourceHint": "RBI Circular on MCLR",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T13:01:33Z"
+ },
+ {
+  "id": "q_40f13deb5904a483",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organization in India operates the Bharat Bill Payment System (BBPS), a unified bill payment platform?",
+  "qHi": "भारत में कौन सा संगठन भारत बिल पेमेंट सिस्टम (BBPS), एक एकीकृत बिल भुगतान मंच का संचालन करता है?",
+  "optsEn": [
+   "National Payments Corporation of India",
+   "Small Industries Development Bank of India",
+   "Indian Banks' Association",
+   "Export-Import Bank of India"
+  ],
+  "optsHi": [
+   "भारतीय राष्ट्रीय भुगतान निगम",
+   "भारतीय लघु उद्योग विकास बैंक",
+   "भारतीय बैंक संघ",
+   "भारतीय निर्यात-आयात बैंक"
+  ],
+  "correct": 0,
+  "explainEn": "The Bharat Bill Payment System (BBPS) is conceptualized by RBI and operated by the National Payments Corporation of India (NPCI).",
+  "sourceHint": "NPCI Official Portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T13:01:33Z"
+ },
+ {
+  "id": "q_95fd0c84032cbfdb",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Prompt Corrective Action (PCA) framework of the RBI, a bank can be restricted from which of the following activities if it breaches specific risk thresholds?",
+  "qHi": "RBI के त्वरित सुधार कार्रवाई (PCA) फ्रेमवर्क के तहत, यदि कोई बैंक विशिष्ट जोखिम मानदंडों का उल्लंघन करता है, तो उसे निम्नलिखित में से किस गतिविधि से प्रतिबंधित किया जा सकता है?",
+  "optsEn": [
+   "Issuing debit cards",
+   "Expanding branch network",
+   "Accepting savings deposits from individuals",
+   "Trading in government securities"
+  ],
+  "optsHi": [
+   "डेबिट कार्ड जारी करना",
+   "शाखा नेटवर्क का विस्तार करना",
+   "व्यक्तियों से बचत जमा स्वीकार करना",
+   "सरकारी प्रतिभूतियों में व्यापार करना"
+  ],
+  "correct": 1,
+  "explainEn": "Under PCA, restrictions are typically imposed on dividend distribution, promoter remitting, branch expansion, and venturing into new lines of business.",
+  "sourceHint": "RBI PCA Framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T13:01:33Z"
+ },
+ {
+  "id": "q_46ba16967249174e",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which financial institution in India is statutorily mandated to promote integrated rural development and secure rural prosperity through credit and other interventions?",
+  "qHi": "भारत में किस वित्तीय संस्थान को ऋण और अन्य हस्तक्षेपों के माध्यम से एकीकृत ग्रामीण विकास को बढ़ावा देने और ग्रामीण समृद्धि सुनिश्चित करने का वैधानिक आदेश प्राप्त है?",
+  "optsEn": [
+   "NABARD",
+   "SIDBI",
+   "EXIM Bank",
+   "NHB"
+  ],
+  "optsHi": [
+   "नाबार्ड",
+   "सिडबी",
+   "एक्जिम बैंक",
+   "राष्ट्रीय आवास बैंक"
+  ],
+  "correct": 0,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) was established under an Act of Parliament in 1982 to promote sustainable agriculture and rural development.",
+  "sourceHint": "NABARD Act 1981",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T13:01:33Z"
  }
 ]

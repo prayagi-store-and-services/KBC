@@ -16854,5 +16854,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-28T05:45:46Z"
+ },
+ {
+  "id": "q_37bbfa1e87d8d1f3",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which dynasty constructed the famous Ellora Caves in Maharashtra?",
+  "qHi": "महाराष्ट्र में प्रसिद्ध एलोरा गुफाओं का निर्माण किस राजवंश ने करवाया था?",
+  "optsEn": [
+   "Maurya dynasty",
+   "Gupta dynasty",
+   "Rashtrakuta dynasty",
+   "Chola dynasty"
+  ],
+  "optsHi": [
+   "मौर्य वंश",
+   "गुप्त वंश",
+   "राष्ट्रकूट वंश",
+   "चोल वंश"
+  ],
+  "correct": 2,
+  "explainEn": "The Ellora Caves were built during the rule of the Rashtrakuta dynasty, with Cave 16 (Kailash Temple) being a prominent example.",
+  "sourceHint": "NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T12:59:08Z"
+ },
+ {
+  "id": "q_09f47b265c8a61cb",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary ore of aluminum?",
+  "qHi": "एल्युमिनियम का मुख्य अयस्क कौन सा है?",
+  "optsEn": [
+   "Hematite",
+   "Bauxite",
+   "Galena",
+   "Cinnabar"
+  ],
+  "optsHi": [
+   "हेमेटाइट",
+   "बauxite (बॉקסाइट)",
+   "गैलेना",
+   "सिන්නाबार"
+  ],
+  "correct": 1,
+  "explainEn": "Bauxite is the primary ore of aluminum, consisting mainly of hydrated aluminum oxides.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T12:59:08Z"
+ },
+ {
+  "id": "q_4c83a3fe3ac1b2cf",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The famous battle of Plassey was fought in which year?",
+  "qHi": "प्रसिद्ध प्लासी का युद्ध किस वर्ष लड़ा गया था?",
+  "optsEn": [
+   "1526",
+   "1757",
+   "1764",
+   "1857"
+  ],
+  "optsHi": [
+   "1526",
+   "1757",
+   "1764",
+   "1857"
+  ],
+  "correct": 1,
+  "explainEn": "The Battle of Plassey was fought on 23 June 1757, establishing British East India Company rule in Bengal.",
+  "sourceHint": "NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T12:59:08Z"
+ },
+ {
+  "id": "q_bcfcdaf8a7df61e1",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which Vedic text is the term 'Varna' referred to for the first time?",
+  "qHi": "किस वैदिक ग्रंथ में 'वर्ण' शब्द का उल्लेख सबसे पहले मिलता है?",
+  "optsEn": [
+   "Rigveda",
+   "Samaveda",
+   "Yajurveda",
+   "Atharvaveda"
+  ],
+  "optsHi": [
+   "ऋग्वेद",
+   "सामवेद",
+   "यजुर्वेद",
+   "अथर्ववेद"
+  ],
+  "correct": 0,
+  "explainEn": "The term 'Varna' appears for the first time in the Purusha Sukta of the 10th Mandala of the Rigveda.",
+  "sourceHint": "NCERT Class 11 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T13:01:13Z"
+ },
+ {
+  "id": "q_044895d3ffd2eb34",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which biogeographic zone in India contains the highest percentage of endemic species of flowering plants?",
+  "qHi": "भारत के किस जैव-भौगोलिक क्षेत्र में पुष्पीय पौधों की स्थानिक प्रजातियों का प्रतिशत सबसे अधिक है?",
+  "optsEn": [
+   "Western Ghats",
+   "Himalayas",
+   "North-East",
+   "Andaman and Nicobar Islands"
+  ],
+  "optsHi": [
+   "पश्चिमी घाट",
+   "हिमालय",
+   "उत्तर-पूर्व",
+   "अंडमान और निकोबार द्वीप समूह"
+  ],
+  "correct": 0,
+  "explainEn": "The Western Ghats are globally recognized as a biodiversity hotspot with exceptionally high endemism, particularly in flowering plants.",
+  "sourceHint": "NCERT Class 12 Biology - Biodiversity and Conservation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T13:01:13Z"
+ },
+ {
+  "id": "q_5898449e4b3e06b5",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary objective of the 'Wassenaar Arrangement', of which India is a member?",
+  "qHi": "वासनेय व्यवस्था (Wassenaar Arrangement), जिसका भारत एक सदस्य है, का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "Export controls for conventional arms and dual-use goods",
+   "Prevention of proliferation of chemical weapons",
+   "Regulation of international trade tariffs",
+   "Management of global financial stability"
+  ],
+  "optsHi": [
+   "पारंपरिक हथियारों और दोहरे उपयोग वाली वस्तुओं के लिए निर्यात नियंत्रण",
+   "रासायनिक हथियारों के प्रसार की रोकथाम",
+   "अंतर्राष्ट्रीय व्यापार शुल्कों का विनियमन",
+   "वैश्विक वित्तीय स्थिरता का प्रबंधन"
+  ],
+  "correct": 0,
+  "explainEn": "The Wassenaar Arrangement is a multilateral export control regime aimed at contributing to regional and international security by promoting transparency in conventional arms and dual-use goods.",
+  "sourceHint": "PIB / Ministry of External Affairs",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T13:01:13Z"
+ },
+ {
+  "id": "q_04c7ef3234524f3f",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which committee recommended the establishment of a Central Vigilance Commission in India?",
+  "qHi": "भारत में केंद्रीय सतर्कता आयोग (CVC) की स्थापना की सिफारिश किस समिति ने की थी?",
+  "optsEn": [
+   "Santhanam Committee",
+   "Sarkaria Commission",
+   "Balwant Rai Mehta Committee",
+   "Punchhi Commission"
+  ],
+  "optsHi": [
+   "संथानम समिति",
+   "सरकारिया आयोग",
+   "बलवंत राय मेहता समिति",
+   "पुंछी आयोग"
+  ],
+  "correct": 0,
+  "explainEn": "The Committee on Prevention of Corruption, chaired by K. Santhanam, recommended the setting up of the Central Vigilance Commission.",
+  "sourceHint": "Indian Polity by M. Laxmikanth / CVC Official Portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T13:01:13Z"
+ },
+ {
+  "id": "q_76ce64966f491bf8",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following soils is best suited for the cultivation of cotton due to its high moisture-retention capacity?",
+  "qHi": "निम्नलिखित में से कौन सी मिट्टी अपनी उच्च नमी धारण क्षमता के कारण कपास की खेती के लिए सबसे उपयुक्त है?",
+  "optsEn": [
+   "Black soil",
+   "Laterite soil",
+   "Red soil",
+   "Alluvial soil"
+  ],
+  "optsHi": [
+   "काली मिट्टी",
+   "लैटेराइट मिट्टी",
+   "लाल मिट्टी",
+   "जलोढ़ मिट्टी"
+  ],
+  "correct": 0,
+  "explainEn": "Black soils, also known as Regur soils, are rich in clay and possess high moisture retention capacity, making them ideal for cotton cultivation.",
+  "sourceHint": "NCERT Class 10 Geography - Contemporary India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-28T13:01:13Z"
  }
 ]
