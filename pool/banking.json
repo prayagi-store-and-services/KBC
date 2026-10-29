@@ -29342,5 +29342,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-29T13:10:47Z"
+ },
+ {
+  "id": "q_a4c3fff1e8226f14",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum deposit amount per depositor insured by DICGC in an Indian commercial bank?",
+  "qHi": "भारतीय वाणिज्यिक बैंक में DICGC द्वारा बीमाकृत प्रति जमाकर्ता अधिकतम जमा राशि क्या है?",
+  "optsEn": [
+   "One Lakh Rupees",
+   "Two Lakh Rupees",
+   "Five Lakh Rupees",
+   "Ten Lakh Rupees"
+  ],
+  "optsHi": [
+   "एक लाख रुपये",
+   "दो लाख रुपये",
+   "पाँच लाख रुपये",
+   "दस लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "Deposit Insurance and Credit Guarantee Corporation (DICGC) insures bank deposits up to Rs. 5,00,000 per depositor.",
+  "sourceHint": "DICGC website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:46:13Z"
+ },
+ {
+  "id": "q_83361682442ed604",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'R' stand for in the financial term 'NEFT'?",
+  "qHi": "वित्तीय शब्द 'NEFT' में अक्षर 'R' का क्या अर्थ है?",
+  "optsEn": [
+   "Remittance",
+   "Rate",
+   "Reserve",
+   "Retail"
+  ],
+  "optsHi": [
+   "Remittance",
+   "Rate",
+   "Reserve",
+   "Retail"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer.",
+  "sourceHint": "RBI guidelines on NEFT",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:46:13Z"
+ },
+ {
+  "id": "q_9ec8c975071e0126",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of the acronym 'ATM' as used in banking?",
+  "qHi": "बैंकिंग में प्रयुक्त संक्षिप्त नाम 'ATM' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Automated Teller Machine",
+   "Any Time Money",
+   "Automated Transfer Mode",
+   "Authorized Transaction Machine"
+  ],
+  "optsHi": [
+   "Automated Teller Machine",
+   "Any Time Money",
+   "Automated Transfer Mode",
+   "Authorized Transaction Machine"
+  ],
+  "correct": 0,
+  "explainEn": "ATM stands for Automated Teller Machine, an electronic telecommunication device for financial transactions.",
+  "sourceHint": "Indian Banking textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:46:13Z"
+ },
+ {
+  "id": "q_8f561c54404e2de5",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which monetary policy tool refers to the rate at which the Reserve Bank of India lends short-term money to commercial banks?",
+  "qHi": "किस मौद्रिक नीति उपकरण का तात्पर्य उस दर से है जिस पर भारतीय रिजर्व बैंक वाणिज्यिक बैंकों को अल्पकालिक ऋण देता है?",
+  "optsEn": [
+   "Bank Rate",
+   "Repo Rate",
+   "Reverse Repo Rate",
+   "Cash Reserve Ratio"
+  ],
+  "optsHi": [
+   "Bank Rate",
+   "Repo Rate",
+   "Reverse Repo Rate",
+   "Cash Reserve Ratio"
+  ],
+  "correct": 1,
+  "explainEn": "Repo rate is the interest rate at which the central bank lends money to commercial banks in the event of any shortfall of funds.",
+  "sourceHint": "RBI monetary policy glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:46:13Z"
+ },
+ {
+  "id": "q_406251852a125820",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque loses its validity after how many months from the date of issue?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, जारी होने की तारीख से कितने महीनों के बाद चेक अपनी वैधता खो देता है?",
+  "optsEn": [
+   "1 month",
+   "3 months",
+   "6 months",
+   "12 months"
+  ],
+  "optsHi": [
+   "1 महीना",
+   "3 महीने",
+   "6 महीने",
+   "12 महीने"
+  ],
+  "correct": 1,
+  "explainEn": "Reserve Bank of India directed that the validity period of cheque leaves was reduced from 6 months to 3 months from the date of issuance.",
+  "sourceHint": "Reserve Bank of India Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:47:32Z"
+ },
+ {
+  "id": "q_8ce1f73c2081ddbd",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following institutions is the apex organization for financing the micro, small and medium enterprises (MSME) sector in India?",
+  "qHi": "निम्नलिखित में से कौन सी संस्था भारत में सूक्ष्म, लघु और मध्यम उद्यम (MSME) क्षेत्र को वित्तपोषित करने के लिए शीर्ष संगठन है?",
+  "optsEn": [
+   "NABARD",
+   "SIDBI",
+   "EXIM Bank",
+   "IFCI"
+  ],
+  "optsHi": [
+   "नाबार्ड",
+   "सिडबी",
+   "एक्सिम बैंक",
+   "आईएफसीआई"
+  ],
+  "correct": 1,
+  "explainEn": "SIDBI (Small Industries Development Bank of India) acts as the principal financial institution for the promotion, financing and development of the MSME sector.",
+  "sourceHint": "SIDBI Act / Government of India Portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:47:32Z"
+ },
+ {
+  "id": "q_93207f4a1856c6f9",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the term 'Repo Rate' signify in banking terminology?",
+  "qHi": "बैंकिंग शब्दावली में 'रेपो रेट' शब्द का क्या तात्पर्य है?",
+  "optsEn": [
+   "Rate at which commercial banks lend to the central bank",
+   "Rate at which the central bank lends short-term funds to commercial banks",
+   "Interest rate offered on long-term government bonds",
+   "Interest rate charged on retail housing loans"
+  ],
+  "optsHi": [
+   "वह दर जिस पर वाणिज्यिक बैंक केंद्रीय बैंक को ऋण देते हैं",
+   "वह दर जिस पर केंद्रीय बैंक वाणिज्यिक बैंकों को अल्पकालिक ऋण देता है",
+   "दीर्घकालिक सरकारी बॉंड पर दी जाने वाली ब्याज दर",
+   "खुदरा आवास ऋण पर ली जाने वाली ब्याज दर"
+  ],
+  "correct": 1,
+  "explainEn": "Repo rate is the rate at which the central bank of a country (RBI in India) lends money to commercial banks in the event of any shortfall of funds.",
+  "sourceHint": "RBI Glossary of Banking Terms",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:47:32Z"
+ },
+ {
+  "id": "q_99d80fc580339b19",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is considered the safest instrument among the money market instruments in India?",
+  "qHi": "भारत में मुद्रा बाजार के साधनों में से किसे सबसे सुरक्षित साधन माना जाता है?",
+  "optsEn": [
+   "Commercial Paper",
+   "Certificate of Deposit",
+   "Treasury Bill",
+   "Corporate Bond"
+  ],
+  "optsHi": [
+   "वाणिज्यिक पत्र",
+   "जमा प्रमाणपत्र",
+   "राजकोषीय विपत्र",
+   "कॉर्पोरेट बॉन्ड"
+  ],
+  "correct": 2,
+  "explainEn": "Treasury Bills (T-Bills) are short-term debt instruments issued by the Government of India, making them virtually risk-free with sovereign backing.",
+  "sourceHint": "Reserve Bank of India FAQ on Money Market",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:47:32Z"
  }
 ]

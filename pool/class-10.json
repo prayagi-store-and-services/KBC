@@ -24022,5 +24022,341 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-29T13:08:24Z"
+ },
+ {
+  "id": "q_6acad48ce3743352",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which type of power plant is water heated using nuclear fission?",
+  "qHi": "किस प्रकार के विद्युत संयंत्र में परमाणु विखंडन का उपयोग करके पानी को गर्म किया जाता है?",
+  "optsEn": [
+   "Thermal power plant",
+   "Nuclear power plant",
+   "Hydroelectric power plant",
+   "Solar power plant"
+  ],
+  "optsHi": [
+   "तापीय विद्युत संयंत्र",
+   "परमाणु विद्युत संयंत्र",
+   "जलविद्युत संयंत्र",
+   "सौर ऊर्जा संयंत्र"
+  ],
+  "correct": 1,
+  "explainEn": "Nuclear power plants use nuclear fission reactions to generate heat, which produces steam to turn turbines.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:45:56Z"
+ },
+ {
+  "id": "q_7a3169bd0673e201",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary function of white blood cells in humans?",
+  "qHi": "मनुष्यों में श्वेत रक्त कोशिकाओं का मुख्य कार्य क्या है?",
+  "optsEn": [
+   "Transporting oxygen",
+   "Fighting infections",
+   "Clotting blood",
+   "Digesting food"
+  ],
+  "optsHi": [
+   "ऑक्सीजन का परिवहन करना",
+   "संक्रमण से लड़ना",
+   "रक्त का थक्का जमाना",
+   "भोजन पचाना"
+  ],
+  "correct": 1,
+  "explainEn": "White blood cells are part of the immune system and help the body fight infections and other diseases.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:45:56Z"
+ },
+ {
+  "id": "q_221dfc4a8272b361",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the pH value of a neutral solution at room temperature?",
+  "qHi": "कमरे के तापमान पर एक उदासीन विलयन का पीएच मान क्या होता है?",
+  "optsEn": [
+   "0",
+   "7",
+   "10",
+   "14"
+  ],
+  "optsHi": [
+   "0",
+   "7",
+   "10",
+   "14"
+  ],
+  "correct": 1,
+  "explainEn": "A pH of 7 represents a neutral solution, neither acidic nor basic, at standard conditions.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:45:56Z"
+ },
+ {
+  "id": "q_8fa0486d504b4e1b",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which plant hormone is primarily responsible for the cell elongation that occurs in response to light?",
+  "qHi": "प्रकाश की ओर मुड़ने के लिए पादप की कोशिकाओं की लंबाई बढ़ाने के लिए मुख्य रूप से कौन सा हार्मोन उत्तरदायी है?",
+  "optsEn": [
+   "Auxin",
+   "Gibberellin",
+   "Cytokinin",
+   "Abscisic acid"
+  ],
+  "optsHi": [
+   "ऑक्सिन",
+   "जिबरलिन",
+   "साइटोकाइनिन",
+   "एब्सिसिक अम्ल"
+  ],
+  "correct": 0,
+  "explainEn": "Auxin promotes cell elongation and accumulates on the shaded side of the plant, causing phototropism.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:47:11Z"
+ },
+ {
+  "id": "q_c35d30e9d7912cc3",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which tier of Indian federalism does the subject of 'Agriculture' primarily belong?",
+  "qHi": "भारतीय संघवाद में 'कृषि' विषय मुख्य रूप से किस सूची के अंतर्गत आता है?",
+  "optsEn": [
+   "Union List",
+   "State List",
+   "Concurrent List",
+   "Residuary subjects"
+  ],
+  "optsHi": [
+   "संघ सूची",
+   "राज्य सूची",
+   "समवर्ती सूची",
+   "अवशिष्ट विषय"
+  ],
+  "correct": 1,
+  "explainEn": "Agriculture is listed in List II (State List) of the Seventh Schedule of the Indian Constitution.",
+  "sourceHint": "NCERT Class 10 Democratic Politics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:47:11Z"
+ },
+ {
+  "id": "q_9a4d0e0eb9e25b60",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which crop is classified as a rabi crop in India?",
+  "qHi": "भारत में निम्नलिखित में से कौन सी फसल रबी की फसल के रूप में उगाई जाती है?",
+  "optsEn": [
+   "Paddy",
+   "Maize",
+   "Wheat",
+   "Cotton"
+  ],
+  "optsHi": [
+   "धान",
+   "मक्का",
+   "गेहूं",
+   "कपास"
+  ],
+  "correct": 2,
+  "explainEn": "Wheat is sown in winter and harvested in summer, making it a typical rabi crop.",
+  "sourceHint": "NCERT Class 10 Contemporary India, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:47:11Z"
+ },
+ {
+  "id": "q_a94231af7e1e68d0",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary motive of production for companies operating in the private sector?",
+  "qHi": "निजी क्षेत्र में संचालित कंपनियों का उत्पादन का मुख्य उद्देश्य क्या होता है?",
+  "optsEn": [
+   "Social welfare",
+   "Profit maximization",
+   "Employment generation",
+   "Public distribution"
+  ],
+  "optsHi": [
+   "सामाजिक कल्याण",
+   "लाभ अधिकतम करना",
+   "रोजगार सृजन",
+   "सार्वजनिक वितरण"
+  ],
+  "correct": 1,
+  "explainEn": "Private sector enterprises are primarily driven by the motive of earning profits.",
+  "sourceHint": "NCERT Class 10 Understanding Economic Development, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:47:11Z"
+ },
+ {
+  "id": "q_7ff374a2eece7cee",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "According to Mendel's dihybrid cross, what is the phenotypic ratio obtained in the F2 generation for round yellow, round green, wrinkled yellow, and wrinkled green seeds respectively?",
+  "qHi": "मेंडल के द्विसंकरण क्रॉस के अनुसार, F2 पीढ़ी में गोल पीले, गोल हरे, झुर्रीदार पीले और झुर्रीदार हरे बीजों का दृश्यरूपी (फेनोटाइपिक) अनुपात क्या प्राप्त होता है?",
+  "optsEn": [
+   "9 : 3 : 3 : 1",
+   "1 : 2 : 1 : 2",
+   "3 : 1 : 3 : 1",
+   "1 : 1 : 1 : 1"
+  ],
+  "optsHi": [
+   "9 : 3 : 3 : 1",
+   "1 : 2 : 1 : 2",
+   "3 : 1 : 3 : 1",
+   "1 : 1 : 1 : 1"
+  ],
+  "correct": 0,
+  "explainEn": "In a classic dihybrid cross involving two traits, the phenotypic ratio in the F2 generation is consistently 9:3:3:1.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 9: Heredity and Evolution",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:48:11Z"
+ },
+ {
+  "id": "q_e839cfbce5c8bcf3",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the magnetic field lines pattern inside a long straight current-carrying solenoid?",
+  "qHi": "एक लंबी सीधी धारावाही परिनालिका के भीतर चुम्बकीय क्षेत्र रेखाओं का पैटर्न क्या होता है?",
+  "optsEn": [
+   "Circular and concentric",
+   "Intersecting at right angles",
+   "Uniform and parallel straight lines",
+   "Radial diverging from the center"
+  ],
+  "optsHi": [
+   "वृत्ताकार और समकेंद्रीय",
+   "समकोण पर प्रतिच्छेद करती हुई",
+   "समान और समानांतर सीधी रेखाएं",
+   "केंद्र से बाहर की ओर त्रिज्यीय"
+  ],
+  "correct": 2,
+  "explainEn": "Inside a current-carrying solenoid, the magnetic field lines are parallel straight lines, indicating that the magnetic field is uniform at all points inside.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 13: Magnetic Effects of Electric Current",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:48:11Z"
+ },
+ {
+  "id": "q_71c99c29037b1a93",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which region of India is the 'Khadin' system of water harvesting traditionally practiced?",
+  "qHi": "भारत के किस क्षेत्र में जल संचयन की 'खादीन' प्रणाली पारंपरिक रूप से अपनाई जाती है?",
+  "optsEn": [
+   "Ladakh",
+   "Jaisalmer in Rajasthan",
+   "Western Ghats",
+   "Bundelkhand in Uttar Pradesh"
+  ],
+  "optsHi": [
+   "लद्दाख",
+   "राजस्थान में जैसलमेर",
+   "पश्चिमी घाट",
+   "उत्तर प्रदेश में बुंदेलखंड"
+  ],
+  "correct": 1,
+  "explainEn": "Khadin is a traditional water harvesting system designed to harvest surface runoff water in the arid desert environment of Jaisalmer, Rajasthan.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 3: Water Resources",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:48:11Z"
+ },
+ {
+  "id": "q_21e75b2a62992986",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following minerals is primarily mined in the Balaghat mines of Madhya Pradesh?",
+  "qHi": "मध्य प्रदेश की बालाघाट खानों में मुख्य रूप से कौन सा खनिज निकाला जाता है?",
+  "optsEn": [
+   "Mica",
+   "Copper",
+   "Bauxite",
+   "Iron ore"
+  ],
+  "optsHi": [
+   "अभ्रक",
+   "तांबा",
+   "बॉक्साइट",
+   "लोह अयस्क"
+  ],
+  "correct": 1,
+  "explainEn": "Balaghat in Madhya Pradesh produces a major share of India's copper production.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 5: Minerals and Energy Resources",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:48:11Z"
+ },
+ {
+  "id": "q_a29fb3db1858cb68",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of oxide is formed when non-metals react with oxygen?",
+  "qHi": "अधातुओं के ऑक्सीजन के साथ अभिक्रिया करने पर किस प्रकार का ऑक्साइड बनता है?",
+  "optsEn": [
+   "Basic oxide",
+   "Acidic or neutral oxide",
+   "Amphoteric oxide",
+   "Metallic peroxide"
+  ],
+  "optsHi": [
+   "क्षारीय ऑक्साइड",
+   "अम्लीय या उदासीन ऑक्साइड",
+   "उभयधर्मी ऑक्साइड",
+   "धात्विक पेरोक्साइड"
+  ],
+  "correct": 1,
+  "explainEn": "Non-metals react with oxygen to form oxides that are generally acidic or neutral in nature.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 3: Metals and Non-metals",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:48:11Z"
  }
 ]

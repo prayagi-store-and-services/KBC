@@ -17722,5 +17722,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-29T13:10:04Z"
+ },
+ {
+  "id": "q_d2147412e40d53e9",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which vitamin is synthesized in the human body by exposure to sunlight?",
+  "qHi": "सूरज की रोशनी के संपर्क में आने से मानव शरीर में कौन सा विटामिन बनता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Vitamin D is produced in the skin when exposed to ultraviolet B (UVB) rays from sunlight.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:46:09Z"
+ },
+ {
+  "id": "q_687efbe318091663",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary commercial crop grown in the black soil region of India?",
+  "qHi": "भारत के काली मिट्टी वाले क्षेत्र में उगाई जाने वाली प्रमुख व्यावसायिक फसल कौन सी है?",
+  "optsEn": [
+   "Tea",
+   "Cotton",
+   "Jute",
+   "Coffee"
+  ],
+  "optsHi": [
+   "चाय",
+   "कपास",
+   "जूट",
+   "कॉफ़ी"
+  ],
+  "correct": 1,
+  "explainEn": "Black soil, also known as Regur soil, is ideal for growing cotton due to its high moisture retention capacity.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:47:27Z"
+ },
+ {
+  "id": "q_5b92109cf861d7cf",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization is responsible for calculating the Gross Domestic Product (GDP) in India?",
+  "qHi": "भारत में सकल घरेलू उत्पाद (GDP) की गणना के लिए कौन सा संगठन जिम्मेदार है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "NITI Aayog",
+   "National Statistical Office",
+   "Ministry of Finance"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "नीति आयोग",
+   "राष्ट्रीय सांख्यिकी कार्यालय",
+   "वित्त मंत्रालय"
+  ],
+  "correct": 2,
+  "explainEn": "The National Statistical Office (NSO), under the Ministry of Statistics and Programme Implementation, is responsible for macroeconomic data collection and GDP calculation.",
+  "sourceHint": "Ministry of Statistics and Programme Implementation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:47:27Z"
+ },
+ {
+  "id": "q_41a406f75ff2f054",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which element has the highest electrical conductivity among all known metals?",
+  "qHi": "सभी ज्ञात धातुओं में से किस तत्व की विद्युत चालकता सबसे अधिक होती है?",
+  "optsEn": [
+   "Copper",
+   "Silver",
+   "Gold",
+   "Aluminum"
+  ],
+  "optsHi": [
+   "तांबा",
+   "चांदी",
+   "सोना",
+   "एल्युमीनियम"
+  ],
+  "correct": 1,
+  "explainEn": "Silver has the highest electrical conductivity and thermal conductivity of any known metal.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:47:27Z"
+ },
+ {
+  "id": "q_0e1c6000b078fedd",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "At which session of the Indian National Congress was the historic 'Purna Swaraj' resolution adopted?",
+  "qHi": "भारतीय राष्ट्रीय कांग्रेस के किस अधिवेशन में ऐतिहासिक 'पूर्ण स्वराज' प्रस्ताव पारित किया गया था?",
+  "optsEn": [
+   "Calcutta Session of 1928",
+   "Lahore Session of 1929",
+   "Karachi Session of 1931",
+   "Tripuri Session of 1939"
+  ],
+  "optsHi": [
+   "कलकत्ता अधिवेशन 1928",
+   "लाहौर अधिवेशन 1929",
+   "कराची अधिवेशन 1931",
+   "त्रिपुरी अधिवेशन 1939"
+  ],
+  "correct": 1,
+  "explainEn": "The Purna Swaraj declaration was promulgated at the Lahore session of the INC held in December 1929, presided over by Jawaharlal Nehru.",
+  "sourceHint": "NCERT Modern Indian History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:47:27Z"
  }
 ]

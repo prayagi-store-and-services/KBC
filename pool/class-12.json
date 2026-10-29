@@ -27550,5 +27550,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-29T13:09:06Z"
+ },
+ {
+  "id": "q_fda0f48e17b62743",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who is the Supreme Commander of the Indian Armed Forces?",
+  "qHi": "भारतीय सशस्त्र बलों के सर्वोच्च कमांडर कौन हैं?",
+  "optsEn": [
+   "Prime Minister of India",
+   "President of India",
+   "Chief of Defence Staff",
+   "Defence Minister of India"
+  ],
+  "optsHi": [
+   "भारत के प्रधानमंत्री",
+   "भारत के राष्ट्रपति",
+   "चीफ ऑफ डिफेंस स्टाफ",
+   "भारत के रक्षा मंत्री"
+  ],
+  "correct": 1,
+  "explainEn": "According to Article 53 of the Constitution of India, the supreme command of the defence forces of the Union is vested in the President.",
+  "sourceHint": "Constitution of India, Article 53",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:46:00Z"
+ },
+ {
+  "id": "q_65ba3ace885149fe",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of economy does India have?",
+  "qHi": "भारत की अर्थव्यवस्था किस प्रकार की है?",
+  "optsEn": [
+   "Capitalist economy",
+   "Socialist economy",
+   "Mixed economy",
+   "Traditional economy"
+  ],
+  "optsHi": [
+   "पूंजीवादी अर्थव्यवस्था",
+   "समाजवादी अर्थव्यवस्था",
+   "मिश्रित अर्थव्यवस्था",
+   "पारंपरिक अर्थव्यवस्था"
+  ],
+  "correct": 2,
+  "explainEn": "India has a mixed economy where both the private sector and public sector coexist and operate.",
+  "sourceHint": "NCERT Class 12 Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:46:00Z"
+ },
+ {
+  "id": "q_1e1cf796bdb165f6",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the historical play 'Tughlaq'?",
+  "qHi": "ऐतिहासिक नाटक 'तुगलक' के लेखक कौन हैं?",
+  "optsEn": [
+   "Girish Karnad",
+   "Rabindranath Tagore",
+   "R. K. Narayan",
+   "Mahasweta Devi"
+  ],
+  "optsHi": [
+   "गिरीश कर्नाड",
+   "रविंद्रनाथ टैगोर",
+   "आर. के. नारायण",
+   "महाश्वेता देवी"
+  ],
+  "correct": 0,
+  "explainEn": "'Tughlaq' is a notable 13-scene play written in Kannada by Girish Karnad and later translated into English.",
+  "sourceHint": "NCERT Class 12 English Literature",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:46:00Z"
+ },
+ {
+  "id": "q_ac1be063420fe433",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In a chemical reaction, what does the presence of a catalyst alter to increase the rate of the reaction?",
+  "qHi": "एक रासायनिक प्रतिक्रिया में, उत्प्रेरक की उपस्थिति प्रतिक्रिया दर को बढ़ाने के लिए किसे बदलती है?",
+  "optsEn": [
+   "Activation energy",
+   "Enthalpy change",
+   "Gibbs free energy of products",
+   "Initial concentration of reactants"
+  ],
+  "optsHi": [
+   "सक्रियण ऊर्जा",
+   "एन्थैल्पी परिवर्तन",
+   "उत्पादों की गिब्स मुक्त ऊर्जा",
+   "अभिकारकों की प्रारंभिक सांद्रता"
+  ],
+  "correct": 0,
+  "explainEn": "A catalyst increases the reaction rate by providing an alternative reaction pathway with a lower activation energy.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chemical Kinetics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:47:17Z"
+ },
+ {
+  "id": "q_e6d7ab3d3be6168e",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which fundamental right in the Indian Constitution prohibits employment of children below the age of fourteen years in any factory or mine?",
+  "qHi": "भारतीय संविधान में कौन सा मौलिक अधिकार चौदह वर्ष से कम आयु के बच्चों को किसी कारखाने या खान में काम पर रखने पर प्रतिबंध लगाता है?",
+  "optsEn": [
+   "Right against Exploitation",
+   "Right to Equality",
+   "Right to Freedom",
+   "Cultural and Educational Rights"
+  ],
+  "optsHi": [
+   "शोषण के विरुद्ध अधिकार",
+   "समानता का अधिकार",
+   "स्वतंत्रता का अधिकार",
+   "संस्कृति और शिक्षा संबंधी अधिकार"
+  ],
+  "correct": 0,
+  "explainEn": "Article 24 under the Right against Exploitation prohibits the employment of children below fourteen years of age in hazardous industries.",
+  "sourceHint": "Constitution of India, Article 24",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:47:17Z"
+ },
+ {
+  "id": "q_01e41c0864d371db",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the phenomenon of bending of light around the corners of an obstacle or aperture called?",
+  "qHi": "किसी अवरोध या द्वारक के कोनों पर प्रकाश के मुड़ने की परिघटना क्या कहलाती है?",
+  "optsEn": [
+   "Diffraction",
+   "Interference",
+   "Refraction",
+   "Polarization"
+  ],
+  "optsHi": [
+   "विवर्तन",
+   "व्यतिकरण",
+   "अपवर्तन",
+   "ध्रुवण"
+  ],
+  "correct": 0,
+  "explainEn": "Diffraction is the bending of waves around the corners of an obstacle or aperture into the region of geometrical shadow.",
+  "sourceHint": "NCERT Class 12 Physics, Wave Optics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:47:17Z"
+ },
+ {
+  "id": "q_8f286b7616cfe453",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which macroeconomics term refers to the total value of final goods and services produced within the domestic territory of a country in a year?",
+  "qHi": "कौन सी समष्टि अर्थशास्त्र की शब्दावली एक वर्ष में देश के घरेलू क्षेत्र के भीतर उत्पादित अंतिम वस्तुओं और सेवाओं के कुल मूल्य को संदर्भित करती है?",
+  "optsEn": [
+   "Gross Domestic Product",
+   "Gross National Product",
+   "Net National Product at factor cost",
+   "National Income"
+  ],
+  "optsHi": [
+   " सकल घरेलू उत्पाद",
+   "सकल राष्ट्रीय उत्पाद",
+   "कारक लागत पर शुद्ध राष्ट्रीय उत्पाद",
+   "राष्ट्रीय आय"
+  ],
+  "correct": 0,
+  "explainEn": "Gross Domestic Product (GDP) is the monetary value of all finished goods and services made within a country during a specific period.",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:47:17Z"
+ },
+ {
+  "id": "q_4e78211b210a30b7",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which biogeochemical cycle does not have a gaseous phase in the atmosphere?",
+  "qHi": "किस जैव-भू-रासायनिक चक्र का वायुमंडल में गैसीय चरण नहीं होता है?",
+  "optsEn": [
+   "Phosphorus cycle",
+   "Nitrogen cycle",
+   "Carbon cycle",
+   "Water cycle"
+  ],
+  "optsHi": [
+   "फास्फोरस चक्र",
+   "नाइट्रोजन चक्र",
+   "कार्बन चक्र",
+   "जल चक्र"
+  ],
+  "correct": 0,
+  "explainEn": "The phosphorus cycle is a sedimentary cycle and does not include a significant gaseous phase in the atmosphere.",
+  "sourceHint": "NCERT Class 12 Biology, Ecosystem",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:47:17Z"
+ },
+ {
+  "id": "q_66a081aecf176ce4",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which administrative system introduced during the British colonial rule in India involved revenue settlement directly with the cultivators?",
+  "qHi": "भारत में ब्रिटिश औपनिवेशिक शासन के दौरान शुरू की गई किस प्रशासनिक प्रणाली में सीधे किसानों के साथ भू-राजस्व बंदोबस्त किया गया था?",
+  "optsEn": [
+   "Ryotwari System",
+   "Zamindari System",
+   "Mahalwari System",
+   "Subsidiary Alliance"
+  ],
+  "optsHi": [
+   "रैयतवाड़ी व्यवस्था",
+   "ज़मींदारी व्यवस्था",
+   "महालवाड़ी व्यवस्था",
+   "सहायक संधि"
+  ],
+  "correct": 0,
+  "explainEn": "The Ryotwari system, established in parts of southern and western India, involved direct tax collection from the cultivators (ryots).",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:47:17Z"
+ },
+ {
+  "id": "q_7c3e5342905b1485",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In human genetics, what is the chromosomal complement of an individual affected by Turner syndrome?",
+  "qHi": "मानव आनुवंशिकी में, टर्नर सिंड्रोम से पीड़ित व्यक्ति का गुणसूत्र पूरक क्या होता है?",
+  "optsEn": [
+   "45 with XO",
+   "47 with XXY",
+   "47 with trisomy 21",
+   "46 with XY"
+  ],
+  "optsHi": [
+   "XO के साथ 45",
+   "XXY के साथ 47",
+   "ट्राइसॉमी 21 के साथ 47",
+   "XY के साथ 46"
+  ],
+  "correct": 0,
+  "explainEn": "Turner syndrome is caused by the absence of one of the X chromosomes, resulting in a karyotype of 45 with XO.",
+  "sourceHint": "NCERT Class 12 Biology, Principles of Inheritance and Variation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:47:17Z"
  }
 ]

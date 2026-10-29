@@ -17442,5 +17442,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-29T13:11:24Z"
+ },
+ {
+  "id": "q_b8fa51b68bf3689a",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these classical dance forms originated in Kerala?",
+  "qHi": "इनमें से कौन सा शास्त्रीय नृत्य रूप केरल में उत्पन्न हुआ था?",
+  "optsEn": [
+   "Kathakali",
+   "Bharatanatyam",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "कथकली",
+   "भरतनाट्यम",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 0,
+  "explainEn": "Kathakali is a major form of classical Indian dance that started in Kerala.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:45:44Z"
+ },
+ {
+  "id": "q_54649f19d0348e48",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who wrote the 17th-century text 'Akbar Nama', specifically the third volume known as the 'Ain-i-Akbari'?",
+  "qHi": "17वीं शताब्दी के ग्रंथ 'अकबरनामा', जिसके तीसरे भाग को 'आइन-ए-अकबरी' कहा जाता है, के लेखक कौन हैं?",
+  "optsEn": [
+   "Abul Fazl",
+   "Faizi",
+   "Badauni",
+   "Abdul Hamid Lahori"
+  ],
+  "optsHi": [
+   "अुल फजल",
+   "फैजी",
+   "बदायूंनी",
+   "अब्दुल हामिद लाहौरी"
+  ],
+  "correct": 0,
+  "explainEn": "Abul Fazl was the grand vizier of the Mughal emperor Akbar and the author of the Akbar Nama.",
+  "sourceHint": "Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:47:56Z"
+ },
+ {
+  "id": "q_9c85d1250c4d8743",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which national highway is historically known as the Grand Trunk Road and stretches from Amritsar to Kolkata?",
+  "qHi": "किस राष्ट्रीय राजमार्ग को ऐतिहासिक रूप से ग्रांड ट्रंक रोड के रूप में जाना जाता है जो अमृतसर से कोलकाता तक फैला है?",
+  "optsEn": [
+   "National Highway 44",
+   "National Highway 19",
+   "National Highway 27",
+   "National Highway 48"
+  ],
+  "optsHi": [
+   "राष्ट्रीय राजमार्ग 44",
+   "राष्ट्रीय राजमार्ग 19",
+   "राष्ट्रीय राजमार्ग 27",
+   "राष्ट्रीय राजमार्ग 48"
+  ],
+  "correct": 1,
+  "explainEn": "National Highway 19 (formerly NH 2) forms a major part of the historic Grand Trunk Road between Delhi and Kolkata.",
+  "sourceHint": "Ministry of Road Transport and Highways",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:47:56Z"
+ },
+ {
+  "id": "q_eb5b65fae775de45",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which planet in our solar system has the maximum number of officially confirmed natural satellites (moons)?",
+  "qHi": "हमारे सौर मंडल में किस ग्रह के पास आधिकारिक तौर पर पुष्ट प्राकृतिक उपग्रहों (चंद्रमाओं) की सबसे अधिक संख्या है?",
+  "optsEn": [
+   "Jupiter",
+   "Saturn",
+   "Uranus",
+   "Neptune"
+  ],
+  "optsHi": [
+   "बृहस्पति",
+   "शनि",
+   "यूरेनस",
+   "नेपच्यून"
+  ],
+  "correct": 1,
+  "explainEn": "Saturn holds the record for having the largest number of confirmed moons in the solar system.",
+  "sourceHint": "NASA Solar System Exploration",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:47:56Z"
  }
 ]

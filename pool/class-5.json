@@ -24078,5 +24078,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-29T13:11:41Z"
+ },
+ {
+  "id": "q_096eb0bd9cd9e0c0",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these animals is a nocturnal bird that can rotate its head to a large extent?",
+  "qHi": "इनमें से कौन सा जानवर एक निशाचर पक्षी है जो अपनी गर्दन काफी हद तक घुमा सकता है?",
+  "optsEn": [
+   "Crow",
+   "Owl",
+   "Pigeon",
+   "Sparrow"
+  ],
+  "optsHi": [
+   "कौवा",
+   "उल्लू",
+   "कबूतर",
+   "गौरैया"
+  ],
+  "correct": 1,
+  "explainEn": "An owl is a bird that is active at night and can rotate its head around significantly.",
+  "sourceHint": "NCERT Class 5 Environmental Studies (Looking Around)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:45:48Z"
+ },
+ {
+  "id": "q_71f5e935691cdcbc",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What do plants need from the air to make their own food?",
+  "qHi": "पौधों को अपना भोजन बनाने के लिए हवा से किसकी आवश्यकता होती है?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Oxygen",
+   "Nitrogen",
+   "Helium"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "हीलियम"
+  ],
+  "correct": 0,
+  "explainEn": "Plants use carbon dioxide from the air along with sunlight and water for photosynthesis.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:45:48Z"
+ },
+ {
+  "id": "q_6c9f5a28e9fcdc81",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which part of the pitcher plant is modified into a pitcher-like shape to trap insects?",
+  "qHi": "कीटों को फंसाने के लिए पिचर पौधे (घटपर्णी) का कौन सा भाग घड़े के आकार में बदल जाता है?",
+  "optsEn": [
+   "Leaf",
+   "Root",
+   "Stem",
+   "Flower"
+  ],
+  "optsHi": [
+   "पत्ती",
+   "जड़",
+   "तना",
+   "फूल"
+  ],
+  "correct": 0,
+  "explainEn": "The leaf of the pitcher plant is modified into a pitcher shape with a lid to catch insects.",
+  "sourceHint": "NCERT Class 5 Environmental Studies (EVS), Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:47:02Z"
+ },
+ {
+  "id": "q_c78f17d64da5a283",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following blood groups is known as the universal donor?",
+  "qHi": "निम्नलिखित में से किस रक्त समूह को सार्वत्रिक दाता (यूनिवर्सल डोनर) कहा जाता है?",
+  "optsEn": [
+   "O negative",
+   "A positive",
+   "B positive",
+   "AB positive"
+  ],
+  "optsHi": [
+   "ओ नेगेटिव",
+   "ए पॉजिटिव",
+   "बी पॉजिटिव",
+   "एबी पॉजिटिव"
+  ],
+  "correct": 0,
+  "explainEn": "People with O negative blood type can donate red blood cells to anybody without causing a transfusion reaction.",
+  "sourceHint": "NCERT Class 5 Science / General Biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:47:02Z"
+ },
+ {
+  "id": "q_2b916d4c74e0f64e",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of map representation uses contour lines to show the elevation of land above sea level?",
+  "qHi": "समुद्र तल से ऊपर भूमि की ऊंचाई दिखाने के लिए कौन सा मानचित्र प्रतिनिधित्व समोच्च रेखाओं का उपयोग करता है?",
+  "optsEn": [
+   "Topographic map",
+   "Political map",
+   "Road map",
+   "Weather map"
+  ],
+  "optsHi": [
+   "स्थलाकृतिक मानचित्र",
+   "राजनीतिक मानचित्र",
+   "सड़क मानचित्र",
+   "मौसम मानचित्र"
+  ],
+  "correct": 0,
+  "explainEn": "Topographic maps use contour lines to represent elevations and landforms.",
+  "sourceHint": "NCERT Class 5 / Basic Geography Standards",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:47:02Z"
+ },
+ {
+  "id": "q_ae5e219c2524c10c",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian craft involves block-printing using natural vegetable dyes on fabrics?",
+  "qHi": "कपड़ों पर प्राकृतिक वनस्पति रंगों का उपयोग करके ब्लॉक-प्रिंटिंग से जुड़ी पारंपरिक भारतीय कला कौन सी है?",
+  "optsEn": [
+   "Kalamkari",
+   "Madhubani",
+   "Warli",
+   "Tanjore"
+  ],
+  "optsHi": [
+   "कलमकारी",
+   "मधुबनी",
+   "वारली",
+   "तंजावुर"
+  ],
+  "correct": 0,
+  "explainEn": "Kalamkari is a type of hand-painted or block-printed textile produced in India using natural dyes.",
+  "sourceHint": "NCERT Class 5 Art and Craft Heritage",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:47:02Z"
+ },
+ {
+  "id": "q_2831c2efb3bc0844",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which imaginary line passes almost through the middle of India, dividing it into two equal halves?",
+  "qHi": "कौन सी काल्पनिक रेखा भारत के लगभग बीच से गुजरती है और इसे दो बराबर भागों में बांटती है?",
+  "optsEn": [
+   "Equator",
+   "Tropic of Cancer",
+   "Tropic of Capricorn",
+   "Prime Meridian"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा",
+   "कर्क रेखा",
+   "मकर रेखा",
+   "प्रधान मध्याह्न रेखा"
+  ],
+  "correct": 1,
+  "explainEn": "The Tropic of Cancer (23°30' N) passes through the middle of India.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:48:00Z"
+ },
+ {
+  "id": "q_df90a758007b00cf",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following historical monuments was built by Shah Jahan in Agra?",
+  "qHi": "निम्नलिखित में से कौन सा ऐतिहासिक स्मारक आगरा में शाहजहाँ द्वारा बनवाया गया था?",
+  "optsEn": [
+   "Qutub Minar",
+   "Taj Mahal",
+   "Red Fort in Delhi",
+   "Humaun's Tomb"
+  ],
+  "optsHi": [
+   "कुतुब मीनार",
+   "ताजमहल",
+   "दिल्ली का लाल किला",
+   "हुमायूं का मकबरा"
+  ],
+  "correct": 1,
+  "explainEn": "Shah Jahan built the Taj Mahal in Agra on the banks of the Yamuna river.",
+  "sourceHint": "NCERT Class 7 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:48:00Z"
+ },
+ {
+  "id": "q_389dd76b40586f2f",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which layer of the Earth is made up of molten rocks and is located just below the crust?",
+  "qHi": "पृथ्वी की कौन सी परत पिघली हुई चट्टानों से बनी है और पर्पटी (crust) के ठीक नीचे स्थित है?",
+  "optsEn": [
+   "Core",
+   "Mantle",
+   "Atmosphere",
+   "Exosphere"
+  ],
+  "optsHi": [
+   "क्रोड (Core)",
+   "मैंटल (Mantle)",
+   "वायुमंडल",
+   "बहिर्मंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The mantle lies directly beneath the Earth's crust and consists of hot, dense, semi-solid rock.",
+  "sourceHint": "NCERT Class 7 Geography Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:48:00Z"
+ },
+ {
+  "id": "q_f2dfafca6ee62bfe",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of these vitamins is produced in the human body with the help of sunlight?",
+  "qHi": "इनमें से कौन सा विटामिन सूर्य के प्रकाश की सहायता से मानव शरीर में बनता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Vitamin D is synthesized in the skin when exposed to ultraviolet rays from sunlight.",
+  "sourceHint": "NCERT Science Curriculum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T22:48:00Z"
  }
 ]
