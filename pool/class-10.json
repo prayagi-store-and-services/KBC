@@ -23798,5 +23798,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-29T05:51:08Z"
+ },
+ {
+  "id": "q_7f40302e14c6e360",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which crop is known as a staple food crop of a majority of the people in India?",
+  "qHi": "भारत के अधिकांश लोगों की मुख्य खाद्य फसल के रूप में किस फसल को जाना जाता है?",
+  "optsEn": [
+   "Wheat",
+   "Rice",
+   "Maize",
+   "Millets"
+  ],
+  "optsHi": [
+   "गेहूं",
+   "चावल",
+   "मक्का",
+   "बाजरा"
+  ],
+  "correct": 1,
+  "explainEn": "Rice is the staple food crop for a majority of the population in India.",
+  "sourceHint": "NCERT Class 10 Social Science (Geography), Chapter 4: Agriculture",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:05:16Z"
+ },
+ {
+  "id": "q_6c48b829f4737b09",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of government is based on political equality?",
+  "qHi": "किस प्रकार की सरकार राजनीतिक समानता पर आधारित होती है?",
+  "optsEn": [
+   "Monarchy",
+   "Dictatorship",
+   "Democracy",
+   "Oligarchy"
+  ],
+  "optsHi": [
+   "राजशाही",
+   "तानाशाही",
+   "लोकतंत्र",
+   "अल्पतंत्र"
+  ],
+  "correct": 2,
+  "explainEn": "Democracy is based on the principle of political equality, giving every citizen one vote with equal value.",
+  "sourceHint": "NCERT Class 10 Social Science (Democratic Politics II), Chapter 7: Outcomes of Democracy",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:05:16Z"
+ },
+ {
+  "id": "q_24a7404b5e7d7e76",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which plant hormone is primarily responsible for cell division and is found in greater concentrations in areas of rapid growth like fruits and seeds?",
+  "qHi": "कौन सा पादप हार्मोन मुख्य रूप से कोशिका विभाजन के लिए उत्तरदायी है और फलों तथा बीजों जैसी तेजी से बढ़ने वाली जगहों में अधिक सांद्रता में पाया जाता है?",
+  "optsEn": [
+   "Auxin",
+   "Gibberellin",
+   "Cytokinin",
+   "Abscisic acid"
+  ],
+  "optsHi": [
+   "ऑक्साइन",
+   "जिबरेलिन",
+   "साइटोकाइनिन",
+   "एब्सिसिक अम्ल"
+  ],
+  "correct": 2,
+  "explainEn": "Cytokinins promote cell division (cytokinesis) and are present in high concentrations in areas of rapid cell division.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:08:24Z"
+ },
+ {
+  "id": "q_a6711f095d6f28c2",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the commercial unit of electrical energy, commonly known as a 'unit' of electricity?",
+  "qHi": "विद्युत ऊर्जा की व्यावसायिक इकाई क्या है, जिसे सामान्यतः बिजली की 'यूपिट' कहा जाता है?",
+  "optsEn": [
+   "Kilowatt",
+   "Kilowatt-hour",
+   "Watt-second",
+   "Joule per second"
+  ],
+  "optsHi": [
+   "किलोवाट",
+   "किलोवाट-घंटा",
+   "वाट-सेकंड",
+   "जूल प्रति सेकंड"
+  ],
+  "correct": 1,
+  "explainEn": "One kilowatt-hour (kWh) is equal to one unit of electrical energy consumed over one hour at a rate of one kilowatt.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:08:24Z"
+ },
+ {
+  "id": "q_2744c13833b54e31",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which metal can displace copper from a copper sulfate solution?",
+  "qHi": "कौन सी धातु कॉपर सल्फेट के विलयन से कॉपर को विस्थापित कर सकती है?",
+  "optsEn": [
+   "Silver",
+   "Gold",
+   "Zinc",
+   "Mercury"
+  ],
+  "optsHi": [
+   "चांदी",
+   "सोना",
+   "जस्ता",
+   "पारा"
+  ],
+  "correct": 2,
+  "explainEn": "Zinc is more reactive than copper in the reactivity series, allowing it to displace copper from copper sulfate solution.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:08:24Z"
+ },
+ {
+  "id": "q_c4e0571c3b481c8d",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which part of the human digestive system is water primarily absorbed from unabsorbed food material?",
+  "qHi": "मानव पाचन तंत्र के किस भाग में मुख्य रूप से अपचनीय भोजन सामग्री से पानी अवशोषित किया जाता है?",
+  "optsEn": [
+   "Stomach",
+   "Small intestine",
+   "Large intestine",
+   "Oesophagus"
+  ],
+  "optsHi": [
+   "अमाशय",
+   "छोटी आंत",
+   "बड़ी आंत",
+   "ग्रासनली"
+  ],
+  "correct": 2,
+  "explainEn": "The wall of the large intestine absorbs water from the remaining unabsorbed food material before excretion.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:08:24Z"
+ },
+ {
+  "id": "q_7b4ffa2e9d59d45f",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of reaction is the formation of slaked lime by the reaction of calcium oxide with water?",
+  "qHi": "कैल्शियम ऑक्साइड की पानी के साथ अभिक्रिया द्वारा बुझे हुए चूने का निर्माण किस प्रकार की अभिक्रिया है?",
+  "optsEn": [
+   "Decomposition reaction",
+   "Endothermic reaction",
+   "Combination reaction",
+   "Displacement reaction"
+  ],
+  "optsHi": [
+   "वियोजन अभिक्रिया",
+   "ऊष्माशोषी अभिक्रिया",
+   "संयोजन अभिक्रिया",
+   "विस्थापन अभिक्रिया"
+  ],
+  "correct": 2,
+  "explainEn": "Calcium oxide reacts vigorously with water to produce slaked lime with the release of heat, representing a combination reaction.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:08:24Z"
+ },
+ {
+  "id": "q_bbf23f847225cbe4",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary organic component present in biogas, often making up around 75% of it?",
+  "qHi": "बायोगैस में मौजूद मुख्य कार्बनिक घटक कौन सा है, जो अक्सर इसका लगभग 75% हिस्सा बनाता है?",
+  "optsEn": [
+   "Methane",
+   "Ethane",
+   "Propane",
+   "Butane"
+  ],
+  "optsHi": [
+   "मीथेन",
+   "एथेन",
+   "प्रोपेन",
+   "ब्यूटेन"
+  ],
+  "correct": 0,
+  "explainEn": "Biogas is a mixture of methane, carbon dioxide, hydrogen, and hydrogen sulfide, with methane being the major constituent up to 75%.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:08:24Z"
  }
 ]

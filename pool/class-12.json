@@ -27270,5 +27270,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-29T05:52:13Z"
+ },
+ {
+  "id": "q_96ec2d97d66c750d",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which chemical reaction is heat released to the surroundings?",
+  "qHi": "किस रासायनिक प्रतिक्रिया में आसपास के वातावरण में ऊष्मा निकलती है?",
+  "optsEn": [
+   "Endothermic reaction",
+   "Exothermic reaction",
+   "Photochemical reaction",
+   "Electrolytic reaction"
+  ],
+  "optsHi": [
+   "ऊष्माशोषी प्रतिक्रिया",
+   "ऊष्माक्षेपी प्रतिक्रिया",
+   "प्रकाश रासायनिक प्रतिक्रिया",
+   "विद्युत अपघटन प्रतिक्रिया"
+  ],
+  "correct": 1,
+  "explainEn": "An exothermic reaction releases energy in the form of heat or light to its surroundings.",
+  "sourceHint": "NCERT Class 10/12 Chemistry",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:05:47Z"
+ },
+ {
+  "id": "q_200dc02293684173",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of market structure has a single seller dominating the entire market?",
+  "qHi": "किस प्रकार की बाजार संरचना में पूरे बाजार पर एक ही विक्रेता का प्रभुत्व होता है?",
+  "optsEn": [
+   "Perfect competition",
+   "Monopoly",
+   "Oligopoly",
+   "Monopolistic competition"
+  ],
+  "optsHi": [
+   "पूर्ण प्रतियोगिता",
+   "एकाधिकार",
+   "अल्पाधिकार",
+   "एकाधिकारात्मक प्रतियोगिता"
+  ],
+  "correct": 1,
+  "explainEn": "A monopoly is characterized by a market with a single seller providing a good or service with no close substitutes.",
+  "sourceHint": "NCERT Class 12 Economics - Introductory Microeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:05:47Z"
+ },
+ {
+  "id": "q_a2edbab42c382277",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary gas responsible for the greenhouse effect on Earth?",
+  "qHi": "पृथ्वी पर ग्रीनहाउस प्रभाव के लिए उत्तरदायी मुख्य गैस कौन सी है?",
+  "optsEn": [
+   "Oxygen",
+   "Nitrogen",
+   "Carbon dioxide",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "कार्बन डाइऑक्साइड",
+   "हाइड्रोजन"
+  ],
+  "correct": 2,
+  "explainEn": "Carbon dioxide, along with other gases like water vapor and methane, traps heat in the atmosphere, causing the greenhouse effect.",
+  "sourceHint": "NCERT Class 12 Geography - Fundamentals of Human Geography / Environment",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:05:47Z"
+ },
+ {
+  "id": "q_478d081e270015a8",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following elements is a transition metal with atomic number 26?",
+  "qHi": "निम्नलिखित में से कौन सा तत्व परमाणु क्रमांक 26 वाली एक संक्रमण धातु है?",
+  "optsEn": [
+   "Chromium",
+   "Manganese",
+   "Iron",
+   "Nickel"
+  ],
+  "optsHi": [
+   "क्रोमियम",
+   "मैंगनीज",
+   "लोहा (आयरन)",
+   "निकेल"
+  ],
+  "correct": 2,
+  "explainEn": "Iron has the atomic symbol Fe and an atomic number of 26, placing it in the first series of transition metals.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:09:06Z"
+ },
+ {
+  "id": "q_26657daa0d4c2ce8",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the order of the reaction if the rate of the reaction is independent of the concentration of reactants?",
+  "qHi": "यदि अभिक्रिया की दर अभिकारकों की सांद्रता से स्वतंत्र हो, तो अभिक्रिया की कोटि क्या है?",
+  "optsEn": [
+   "Zero order",
+   "First order",
+   "Second order",
+   "Fractional order"
+  ],
+  "optsHi": [
+   "शून्य कोटि",
+   "प्रथम कोटि",
+   "द्वितीय कोटि",
+   "भिन्नात्मक कोटि"
+  ],
+  "correct": 0,
+  "explainEn": "A zero-order reaction has a rate that is independent of the concentrations of the reactants.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:09:06Z"
+ },
+ {
+  "id": "q_85e6144bf5b761c6",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Article of the Indian Constitution provides for the right to equality before law?",
+  "qHi": "भारतीय संविधान का कौन सा अनुच्छेद कानून के समक्ष समानता के अधिकार का प्रावधान करता है?",
+  "optsEn": [
+   "Article 12",
+   "Article 14",
+   "Article 19",
+   "Article 21"
+  ],
+  "optsHi": [
+   "अनुच्छेद 12",
+   "अनुच्छेद 14",
+   "अनुच्छेद 19",
+   "अनुच्छेद 21"
+  ],
+  "correct": 1,
+  "explainEn": "Article 14 of the Indian Constitution states that the State shall not deny to any person equality before the law or the equal protection of the laws.",
+  "sourceHint": "Constitution of India / NCERT Class 11 Political Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:09:06Z"
+ },
+ {
+  "id": "q_5c318597bcad6554",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In macroeconomics, what does the term 'Fiscal Deficit' primarily represent?",
+  "qHi": "समष्टि अर्थशास्त्र में, 'राजकोषीय घाटा' शब्द मुख्य रूप से किसे दर्शाता है?",
+  "optsEn": [
+   "Total expenditure minus total receipts excluding borrowings",
+   "Revenue expenditure minus revenue receipts",
+   "Capital expenditure minus capital receipts",
+   "Total expenditure minus total revenue"
+  ],
+  "optsHi": [
+   "कुल व्यय ऋण को छोड़कर कुल प्राप्तियों से अधिक",
+   "राजस्व व्यय माइनस राजस्व प्राप्तियाँ",
+   "पूंजीगत व्यय माइनस पूंजीगत प्राप्तियाँ",
+   "कुल व्यय माइनस कुल राजस्व"
+  ],
+  "correct": 0,
+  "explainEn": "Fiscal deficit is the difference between the government's total expenditure and its total receipts excluding borrowings.",
+  "sourceHint": "NCERT Class 12 Macroeconomics, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:09:06Z"
+ },
+ {
+  "id": "q_a3b93188436763d3",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which phase of mitosis involves the separation of sister chromatids and their movement toward opposite poles?",
+  "qHi": "समसूत्री विभाजन (माइटोसिस) के किस चरण में सिस्टर क्रोमैटिड्स अलग होते हैं और विपरीत ध्रुवों की ओर गति करते हैं?",
+  "optsEn": [
+   "Prophase",
+   "Metaphase",
+   "Anaphase",
+   "Telophase"
+  ],
+  "optsHi": [
+   "प्रोफेज़",
+   "मेटाफेज़",
+   "एनाफेज़",
+   "टेलोफेज़"
+  ],
+  "correct": 2,
+  "explainEn": "During anaphase, each centromere splits, allowing sister chromatids to separate and move toward opposite poles.",
+  "sourceHint": "NCERT Class 11 Biology, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:09:06Z"
+ },
+ {
+  "id": "q_70a9b1a6c6f3b00c",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of crystalline solid is quartz (silicon dioxide)?",
+  "qHi": "क्वाटर्स (सिलिकॉन डाइऑक्साइड) किस प्रकार का क्रिस्टलीय ठोस है?",
+  "optsEn": [
+   "Ionic solid",
+   "Metallic solid",
+   "Covalent network solid",
+   "Molecular solid"
+  ],
+  "optsHi": [
+   "आयनिक ठोस",
+   "धात्विक ठोस",
+   "सहसंयोजक नेटवर्क ठोस",
+   "आणविक ठोस"
+  ],
+  "correct": 2,
+  "explainEn": "Quartz is a covalent or network solid where constituent atoms are held together by a continuous network of covalent bonds.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:09:06Z"
+ },
+ {
+  "id": "q_aebccb773c022969",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which gland in the human body is known to secrete melatonin, regulating the circadian rhythm?",
+  "qHi": "मानव शरीर की कौन सी ग्रंथि मेलाटोनिन स्रावित करती है जो सर्कैडियन लय को नियंत्रित करती है?",
+  "optsEn": [
+   "Pineal gland",
+   "Pituitary gland",
+   "Thyroid gland",
+   "Adrenal gland"
+  ],
+  "optsHi": [
+   "पीनियल ग्रंथि",
+   "पीयूष ग्रंथि",
+   "थायरॉयड ग्रंथि",
+   "अधिবৃক্ক (एड्रिनल) ग्रंथि"
+  ],
+  "correct": 0,
+  "explainEn": "The pineal gland is located on the dorsal side of forebrain and secretes melatonin, which plays a central role in regulating the 24-hour diurnal rhythm.",
+  "sourceHint": "NCERT Class 11 Biology, Chapter 22",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:09:06Z"
  }
 ]

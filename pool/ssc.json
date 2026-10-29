@@ -17582,5 +17582,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-29T05:52:26Z"
+ },
+ {
+  "id": "q_c66ef63aedf3cfb6",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the standard unit of measuring frequency?",
+  "qHi": "आवर्ती मापने की मानक इकाई क्या है?",
+  "optsEn": [
+   "Hertz",
+   "Joule",
+   "Watt",
+   "Pascal"
+  ],
+  "optsHi": [
+   "हर्ट्ज",
+   "जूल",
+   "वाट",
+   "पास्कल"
+  ],
+  "correct": 0,
+  "explainEn": "The SI unit of frequency is the hertz, defined as one cycle per second.",
+  "sourceHint": "NCERT Physics Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:06:26Z"
+ },
+ {
+  "id": "q_7a5a61345d14259e",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which plateau is known as the mineral heartland of India?",
+  "qHi": "किस पठार को भारत का खनिज हृदय स्थल कहा जाता है?",
+  "optsEn": [
+   "Malwa Plateau",
+   "Chota Nagpur Plateau",
+   "Deccan Plateau",
+   "Meghalaya Plateau"
+  ],
+  "optsHi": [
+   "मालवा का पठार",
+   "छोटा नागपुर का पठार",
+   "दक्कन का पठार",
+   "मेघालय का पठार"
+  ],
+  "correct": 1,
+  "explainEn": "The Chota Nagpur Plateau is rich in vast reserves of coal, iron ore, mica, and other minerals, earning it the title of the mineral heartland of India.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:10:04Z"
+ },
+ {
+  "id": "q_0b75730af3c4472b",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Amendment of the Constitution added the Fundamental Duties to the Indian Constitution?",
+  "qHi": "संविधान के किस संशोधन द्वारा भारतीय संविधान में मौलिक कर्तव्यों को जोड़ा गया था?",
+  "optsEn": [
+   "42nd Amendment",
+   "44th Amendment",
+   "52nd Amendment",
+   "86th Amendment"
+  ],
+  "optsHi": [
+   "42वां संशोधन",
+   "44वां संशोधन",
+   "52वां संशोधन",
+   "86वां संशोधन"
+  ],
+  "correct": 0,
+  "explainEn": "The 42nd Constitutional Amendment Act of 1976 added Article 51A, incorporating Fundamental Duties into the Constitution based on the Swaran Singh Committee recommendations.",
+  "sourceHint": "Indian Polity by M. Laxmikanth",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:10:04Z"
+ },
+ {
+  "id": "q_bc7175ff90e76339",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Gupta ruler is depicted playing the Veena on his gold coins?",
+  "qHi": "किस गुप्त शासक को उसके सोने के सिक्कों पर वीणा बजाते हुए दर्शाया गया है?",
+  "optsEn": [
+   "Chandragupta I",
+   "Samudragupta",
+   "Chandragupta II",
+   "Skandagupta"
+  ],
+  "optsHi": [
+   "चंद्रगुप्त प्रथम",
+   "समुद्रगुप्त",
+   "चंद्रगुप्त द्वितीय",
+   "स्कंदगुप्त"
+  ],
+  "correct": 1,
+  "explainEn": "Samudragupta's patronage of arts is evident from his gold coins that depict him playing the Veena (lyre).",
+  "sourceHint": "NCERT Ancient Indian History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:10:04Z"
+ },
+ {
+  "id": "q_69cdbe9ca46247f4",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary function of heavy water in a nuclear reactor?",
+  "qHi": "परमाणु रिएक्टर में भारी पानी का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "To accelerate the neutrons",
+   "To slow down the speed of neutrons",
+   "To absorb all radiation",
+   "To act as nuclear fuel"
+  ],
+  "optsHi": [
+   "न्यूट्रॉन को त्वरित करना",
+   "न्यूट्रॉन की गति को धीमा करना",
+   "सभी विकिरणों को अवशोषित करना",
+   "परमाणु ईंधन के रूप में कार्य करना"
+  ],
+  "correct": 1,
+  "explainEn": "Heavy water (deuterium oxide) is used in nuclear reactors as a moderator to slow down fast neutrons, increasing the probability of fission.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:10:04Z"
  }
 ]

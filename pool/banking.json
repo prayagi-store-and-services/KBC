@@ -28978,5 +28978,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-29T05:52:32Z"
+ },
+ {
+  "id": "q_f286d18a31ded4e9",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In the context of bank deposits, what does 'FD' stand for?",
+  "qHi": "बैंक जमा के संदर्भ में 'FD' का क्या अर्थ है?",
+  "optsEn": [
+   "Fixed Deposit",
+   "Financial Draft",
+   "Fund Dividend",
+   "Flexible Deposit"
+  ],
+  "optsHi": [
+   "फिक्स्ड डिपॉजिट (Fixed Deposit)",
+   "फाइनेंशियल ड्राफ्ट (Financial Draft)",
+   "फंड लाभांश (Fund Dividend)",
+   "फ्लेक्सिबल डिपॉजिट (Flexible Deposit)"
+  ],
+  "correct": 0,
+  "explainEn": "FD stands for Fixed Deposit, a financial instrument provided by banks which provides investors a higher rate of interest than a regular savings account.",
+  "sourceHint": "NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:03:50Z"
+ },
+ {
+  "id": "q_cf452bed7cf6c2f2",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which coin or currency note is issued by the Ministry of Finance in India?",
+  "qHi": "भारत में वित्त मंत्रालय द्वारा कौन सा सिक्का या करेंसी नोट जारी किया जाता है?",
+  "optsEn": [
+   "One Rupee Note",
+   "One Hundred Rupee Note",
+   "Five Hundred Rupee Note",
+   "Two Thousand Rupee Note"
+  ],
+  "optsHi": [
+   "एक रुपये का नोट",
+   "एक सौ रुपये का नोट",
+   "पाँच सौ रुपये का नोट",
+   "दो हजार रुपये का नोट"
+  ],
+  "correct": 0,
+  "explainEn": "One rupee notes and all coins are issued by the Ministry of Finance, Government of India, while all other currency notes are issued by the RBI.",
+  "sourceHint": "Reserve Bank of India Act, Section 22",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:03:50Z"
+ },
+ {
+  "id": "q_2295c28308596168",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque becomes a 'stale cheque' after the expiry of how many months from the date of its issuance, as per current Reserve Bank of India guidelines?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, भारतीय रिजर्व बैंक के वर्तमान दिशानिर्देशों के अनुसार, जारी करने की तारीख से कितने महीने बीत जाने के बाद एक चेक 'बासी चेक' (stale cheque) बन जाता है?",
+  "optsEn": [
+   "One month",
+   "Three months",
+   "Six months",
+   "Twelve months"
+  ],
+  "optsHi": [
+   "एक महीना",
+   "तीन महीने",
+   "छह महीने",
+   "बारह महीने"
+  ],
+  "correct": 1,
+  "explainEn": "RBI directed that the validity period of cheques, demand drafts, pay orders, and banker's cheques was reduced from six months to three months from the date of issuance.",
+  "sourceHint": "RBI Circular / Master Directions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:06:45Z"
+ },
+ {
+  "id": "q_881754503984e79c",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following entities is the primary regulator of microfinance institutions (MFIs) organized as Non-Banking Financial Companies (NBFCs) in India?",
+  "qHi": "भारत में गैर-बैंकिंग वित्तीय कंपनियों (NBFCs) के रूप में संगठित सूक्ष्म वित्त संस्थानों (MFIs) का प्राथमिक नियामक निम्नलिखित में से कौन सा है?",
+  "optsEn": [
+   "Securities and Exchange Board of India",
+   "National Bank for Agriculture and Rural Development",
+   "Reserve Bank of India",
+   "Small Industries Development Bank of India"
+  ],
+  "optsHi": [
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय लघु उद्योग विकास बैंक"
+  ],
+  "correct": 2,
+  "explainEn": "NBFC-MFIs are registered with and regulated by the Reserve Bank of India under the provisions of the Reserve Bank of India Act, 1934.",
+  "sourceHint": "RBI Master Directions on Regulatory Framework for NBFC-MFIs",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:06:45Z"
+ },
+ {
+  "id": "q_25180defb80f266a",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'M' stand for in the context of the 'MSF' rate announced by the Reserve Bank of India in its monetary policy?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा अपनी मौद्रिक नीति में घोषित 'MSF' दर के संदर्भ में अक्षर 'M' का क्या अर्थ है?",
+  "optsEn": [
+   "Marginal",
+   "Monetary",
+   "Market",
+   "Minimum"
+  ],
+  "optsHi": [
+   "मार्जिनल",
+   "मॉनेटरी",
+   "मार्केट",
+   "मिनिमम"
+  ],
+  "correct": 0,
+  "explainEn": "MSF stands for Marginal Standing Facility, a window for scheduled commercial banks to borrow overnight funds from the RBI against approved government securities.",
+  "sourceHint": "RBI Monetary Policy Glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:06:45Z"
+ },
+ {
+  "id": "q_679c094d0c6b4dab",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India regulates and supervises regional rural banks (RRBs) alongside the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक के अलावा भारत में क्षेत्रीय ग्रामीण बैंकों (RRBs) को कौन सा संगठन विनियमित और पर्यवेक्षण करता है?",
+  "optsEn": [
+   "State Bank of India",
+   "National Bank for Agriculture and Rural Development",
+   "Exim Bank of India",
+   "Industrial Finance Corporation of India"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक",
+   "भारतीय एक्ज़िम बैंक",
+   "भारतीय औद्योगिक वित्त निगम"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD is mandated to inspect Regional Rural Banks (RRBs) and Cooperative Banks under the provisions of the Banking Regulation Act, 1949.",
+  "sourceHint": "NABARD Act, 1981",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:06:45Z"
+ },
+ {
+  "id": "q_3dbd6c410166c55f",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the term 'CASA ratio' commonly used by commercial banks represent?",
+  "qHi": "वाणिज्यिक बैंकों द्वारा आमतौर पर इस्तेमाल किया जाने वाला शब्द 'CASA अनुपात' क्या दर्शाता है?",
+  "optsEn": [
+   "Ratio of credit advances to statutory advances",
+   "Ratio of current account and savings account deposits to total deposits",
+   "Ratio of capital assets to structured assets",
+   "Ratio of cash reserves to agricultural advances"
+  ],
+  "optsHi": [
+   "वैधानिक अग्रिमों के लिए क्रेडिट अग्रिमों का अनुपात",
+   "कुल जमा में चालू खाते और बचत खाते की जमा राशि का अनुपात",
+   "संरचित परिसंपत्तियों के लिए पूंजी परिसंपत्तियों का अनुपात",
+   "कृषि अग्रिमों के लिए नकद भंडार का अनुपात"
+  ],
+  "correct": 1,
+  "explainEn": "The CASA ratio measures how much of a bank's total deposits come from current and savings accounts, which are typically low-cost sources of funds for the bank.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) Study Material",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:06:45Z"
+ },
+ {
+  "id": "q_b554c3f1423370a5",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of international trade finance, which UCP publication governs Documentary Credits and is widely used by banks worldwide?",
+  "qHi": "अंतर्राष्ट्रीय व्यापार वित्त के संदर्भ में, कौन सा UCP प्रकाशन दस्तावेजी साख (Documentary Credits) को नियंत्रित करता है और दुनिया भर के बैंकों द्वारा व्यापक रूप से उपयोग किया जाता है?",
+  "optsEn": [
+   "UCP 500",
+   "UCP 600",
+   "UCP 700",
+   "UCP 400"
+  ],
+  "optsHi": [
+   "UCP 500",
+   "UCP 600",
+   "UCP 700",
+   "UCP 400"
+  ],
+  "correct": 1,
+  "explainEn": "Uniform Customs and Practice for Documentary Credits (UCP 600) is the current set of rules issued by the International Chamber of Commerce (ICC) governing letters of credit.",
+  "sourceHint": "International Chamber of Commerce (ICC) Publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:10:47Z"
+ },
+ {
+  "id": "q_ee9c345cc7728baf",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, which section defines a 'Holder in Due Course'?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, कौन सी धारा 'धारक सम्यक् अनुक्रम में' (Holder in Due Course) को परिभाषित करती है?",
+  "optsEn": [
+   "Section 8",
+   "Section 9",
+   "Section 13",
+   "Section 15"
+  ],
+  "optsHi": [
+   "धारा 8",
+   "धारा 9",
+   "धारा 13",
+   "धारा 15"
+  ],
+  "correct": 1,
+  "explainEn": "Section 9 of the Negotiable Instruments Act, 1881 defines 'Holder in Due Course' as any person who for consideration became the possessor of a negotiable instrument before its maturity.",
+  "sourceHint": "Negotiable Instruments Act, 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:10:47Z"
+ },
+ {
+  "id": "q_aad538cec1152a9e",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which committee recommended the introduction of the Marginal Cost of Funds based Lending Rate (MCLR) system for commercial banks in India, replacing the earlier base rate system?",
+  "qHi": "किस समिति ने भारत में वाणिज्यिक बैंकों के लिए आधार दर प्रणाली को प्रतिस्थापित करते हुए निधि आधारित ऋण दर (MCLR) प्रणाली की शुरुआत की सिफारिश की थी?",
+  "optsEn": [
+   "Narasimham Committee",
+   "Urjit Patel Committee",
+   "J. C. Kala Committee",
+   "Internal Working Group of RBI"
+  ],
+  "optsHi": [
+   "नरसिम्हम् समिति",
+   "उर्जित पटेल समिति",
+   "जे. सी. काला समिति",
+   "भारतीय रिजर्व बैंक का आंतरिक कार्य समूह"
+  ],
+  "correct": 3,
+  "explainEn": "An Internal Working Group of the RBI recommended the MCLR framework to improve the transmission of policy rates, which came into effect in April 2016.",
+  "sourceHint": "RBI Working Paper / Press Releases",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:10:47Z"
+ },
+ {
+  "id": "q_a31e9db5c28abc2d",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the maximum tenure allowed for fixed deposits under the Capital Gains Accounts Scheme, 1988, for accounts maintained under section 54 of the Income Tax Act?",
+  "qHi": "आयकर अधिनियम की धारा 54 के तहत रखे गए खातों के लिए पूंजीगत लाभ खाता योजना, 1988 के तहत सावधि जमा के लिए अधिकतम कितनी अवधि की अनुमति है?",
+  "optsEn": [
+   "1 year",
+   "3 years",
+   "5 years",
+   "7 years"
+  ],
+  "optsHi": [
+   "1 वर्ष",
+   "3 वर्ष",
+   "5 वर्ष",
+   "7 वर्ष"
+  ],
+  "correct": 1,
+  "explainEn": "Under the Capital Gains Accounts Scheme, deposit type A is savings and type B is term deposit with a maximum period of 3 years corresponding to the timeline for utilizing capital gains.",
+  "sourceHint": "Income Tax Department / Capital Gains Accounts Scheme, 1988",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:10:47Z"
+ },
+ {
+  "id": "q_864ff40f989d018e",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the CAMELS supervisory rating model used by central banks, what does the letter 'S' stand for?",
+  "qHi": "केंद्रीय बैंकों द्वारा उपयोग किए जाने वाले CAMELS पर्यवेक्षी रेटिंग मॉडल में, अक्षर 'S' का क्या अर्थ है?",
+  "optsEn": [
+   "Solvency",
+   "Sensitivity to Market Risk",
+   "Systemic Liquidity",
+   "Securitization"
+  ],
+  "optsHi": [
+   "शोधन क्षमता (Solvency)",
+   "बाजार जोखिम के प्रति संवेदनशीलता (Sensitivity to Market Risk)",
+   "प्रणालीगत तरलता (Systemic Liquidity)",
+   "प्रतिभूतीकरण (Securitization)"
+  ],
+  "correct": 1,
+  "explainEn": "In CAMELS rating, S stands for Sensitivity to market risk (evaluating how sensitive a bank is to changes in interest rates, foreign exchange rates, commodity prices, or equity prices).",
+  "sourceHint": "RBI Supervisory Framework / BIS Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:10:47Z"
+ },
+ {
+  "id": "q_ab4ca8a7b72d6c52",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which institution acts as the primary clearing house for government securities and derivatives transactions in the Indian financial market, acting as a central counterparty?",
+  "qHi": "भारतीय वित्तीय बाजार में सरकारी प्रतिभूतियों और डेरिवेटिव लेनदेन के लिए प्राथमिक निकासी गृह (clearing house) के रूप में कौन सी संस्था कार्य करती है, जो केंद्रीय प्रतिपक्ष के रूप में कार्य करती है?",
+  "optsEn": [
+   "National Payments Corporation of India",
+   "Clearing Corporation of India Limited",
+   "Securities and Exchange Board of India",
+   "National Stock Exchange"
+  ],
+  "optsHi": [
+   "भारतीय राष्ट्रीय भुगतान निगम",
+   "क्लियरिंग कॉर्पोरेशन ऑफ इंडिया लिमिटेड",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "राष्ट्रीय स्टॉक एक्सचेंज"
+  ],
+  "correct": 1,
+  "explainEn": "Clearing Corporation of India Limited (CCIL) was set up in 2001 to provide guaranteed clearing and settlement functions for transactions in money, government securities, and foreign exchange markets.",
+  "sourceHint": "RBI Financial Stability Report / CCIL Official Portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:10:47Z"
  }
 ]

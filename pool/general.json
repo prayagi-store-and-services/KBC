@@ -17134,5 +17134,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-29T05:52:36Z"
+ },
+ {
+  "id": "q_317242fe295e6742",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who is known as the Father of the Nation in India?",
+  "qHi": "भारत में राष्ट्रपिता के रूप में किसे जाना जाता है?",
+  "optsEn": [
+   "Subhash Chandra Bose",
+   "Mahatma Gandhi",
+   "Jawaharlal Nehru",
+   "Sardar Vallabhbhai Patel"
+  ],
+  "optsHi": [
+   "सुभाष चंद्र बोस",
+   "महात्मा गांधी",
+   "जवाहरलाल नेहरू",
+   "सरदार वल्लभभाई पटेल"
+  ],
+  "correct": 1,
+  "explainEn": "Mahatma Gandhi is universally recognized as the Father of the Nation in India.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:04:05Z"
+ },
+ {
+  "id": "q_4107aae681bc276e",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which planet in our solar system has the highest number of recognized moons as of recent astronomical counts?",
+  "qHi": "हमारे सौरमंडल में किस ग्रह के सबसे अधिक मान्यता प्राप्त चंद्रमा हैं?",
+  "optsEn": [
+   "Jupiter",
+   "Saturn",
+   "Uranus",
+   "Neptune"
+  ],
+  "optsHi": [
+   "बृहस्पति",
+   "शनि",
+   "यूरेनस",
+   "नेपच्यून"
+  ],
+  "correct": 1,
+  "explainEn": "Saturn holds the record for the most confirmed moons in the solar system.",
+  "sourceHint": "NASA Planetary Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:07:02Z"
+ },
+ {
+  "id": "q_2b35a3c295c713e7",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin is synthesized in the human body by exposure to ultraviolet sunlight?",
+  "qHi": "पराबैंगनी सूर्य के प्रकाश के संपर्क में आने से मानव शरीर में कौन सा विटामिन संश्लेषित होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin C",
+   "Vitamin D",
+   "Vitamin K"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन सी",
+   "विटामिन डी",
+   "विटामिन के"
+  ],
+  "correct": 2,
+  "explainEn": "Vitamin D is produced in the skin when exposed to sunlight.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:07:02Z"
+ },
+ {
+  "id": "q_c59a08c6471d6892",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian institutional body conducts general elections to the Lok Sabha?",
+  "qHi": "लोकसभा के लिए आम चुनाव कौन सा भारतीय संस्थागत निकाय आयोजित करता है?",
+  "optsEn": [
+   "Election Commission of India",
+   "Supreme Court of India",
+   "Union Public Service Commission",
+   "NITI Aayog"
+  ],
+  "optsHi": [
+   "भारत का निर्वाचन आयोग",
+   "भारत का उच्चतम न्यायालय",
+   "संघ लोक सेवा आयोग",
+   "नीति आयोग"
+  ],
+  "correct": 0,
+  "explainEn": "The Election Commission of India is constitutionally empowered to conduct Lok Sabha elections.",
+  "sourceHint": "Constitution of India, Article 324",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:07:02Z"
+ },
+ {
+  "id": "q_a2464a577143465f",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which Indian classical dance form is the 'Tarana' item traditionally performed as the concluding fast-tempo segment?",
+  "qHi": "किस भारतीय शास्त्रीय नृत्य शैली में 'तराना' आइटम पारंपरिक रूप से समापन तेज गति वाले खंड के रूप में किया जाता है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathak",
+   "Odissi",
+   "Kuchipudi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथक",
+   "ओडिसी",
+   "कुचिपुड़ी"
+  ],
+  "correct": 1,
+  "explainEn": "In Kathak performances, the Tarana is often presented towards the end as a fast-paced, rhythmically intricate piece.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:11:24Z"
+ },
+ {
+  "id": "q_ea444060377ec284",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which planet in our solar system has the highest density?",
+  "qHi": "हमारे सौर मंडल में किस ग्रह का घनत्व सबसे अधिक है?",
+  "optsEn": [
+   "Jupiter",
+   "Saturn",
+   "Earth",
+   "Neptune"
+  ],
+  "optsHi": [
+   "बृहस्पति",
+   "शनि",
+   "पृथ्वी",
+   "वरुण"
+  ],
+  "correct": 2,
+  "explainEn": "Earth is the densest planet in the Solar System due to its metallic core and rocky mantle.",
+  "sourceHint": "NCERT Geography Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:11:24Z"
+ },
+ {
+  "id": "q_22e26be66023ecda",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Harappan site is famous for its unique water management system involving a series of massive reservoirs and stone-cut channels?",
+  "qHi": "कौन सा हड़प्पा स्थल विशाल जलाशयों और पत्थर से बनी नहरों की श्रृंखला से जुड़ी अपनी अनूठी जल प्रबंधन प्रणाली के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Harappa",
+   "Mohenjo-daro",
+   "Dholavira",
+   "Lothal"
+  ],
+  "optsHi": [
+   "हड़प्पा",
+   "मोहनजोदड़ो",
+   "धोलावीरा",
+   "लोथल"
+  ],
+  "correct": 2,
+  "explainEn": "Dholavira features an advanced water harvesting and management system with extensive rock-cut reservoirs.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:11:24Z"
+ },
+ {
+  "id": "q_99ca3f2ec09a2155",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which biochemical pathway takes place in the mitochondrial matrix of eukaryotic cells?",
+  "qHi": "यूकेरियोटिक कोशिकाओं के माइटोकॉन्ड्रियल मैट्रिक्स में कौन सा जैव रासायनिक मार्ग होता है?",
+  "optsEn": [
+   "Glycolysis",
+   "Citric acid cycle",
+   "Calvin cycle",
+   "Light reaction"
+  ],
+  "optsHi": [
+   "ग्लाइकोलाइसिस",
+   "साइट्रिक एसिड चक्र",
+   "केल्विन चक्र",
+   "प्रकाश प्रतिक्रिया"
+  ],
+  "correct": 1,
+  "explainEn": "The citric acid cycle (Krebs cycle) occurs inside the mitochondrial matrix in eukaryotes.",
+  "sourceHint": "NCERT Biology Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:11:24Z"
+ },
+ {
+  "id": "q_cf46de61e8fa8f7d",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian state has the statutory authority to notify a Scheduled Area under the Fifth Schedule of the Constitution?",
+  "qHi": "संविधान की पाँचवीं अनुसूची के तहत किसी अनुसूचित क्षेत्र को अधिसूचित करने का वैधानिक अधिकार किस भारतीय प्राधिकारी के पास है?",
+  "optsEn": [
+   "Parliament of India",
+   "Supreme Court of India",
+   "President of India",
+   "Governor of the State"
+  ],
+  "optsHi": [
+   "भारत की संसद",
+   "भारत का उच्चतम न्यायालय",
+   "भारत के राष्ट्रपति",
+   "राज्य के राज्यपाल"
+  ],
+  "correct": 2,
+  "explainEn": "Under the Fifth Schedule, the President of India has the power to declare any area to be a Scheduled Area.",
+  "sourceHint": "Ministry of Tribal Affairs, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:11:24Z"
+ },
+ {
+  "id": "q_9c66194c70c04d71",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who wrote the Sanskrit philosophical text 'Bhashya' on the Brahma Sutras, establishing the Advaita Vedanta school?",
+  "qHi": "ब्रह्म सूत्र पर संस्कृत दार्शनिक ग्रंथ 'भाष्य' किसने लिखा, जिसने अद्वैत वेदांत दर्शन की स्थापना की?",
+  "optsEn": [
+   "Ramanujacharya",
+   "Madhvacharya",
+   "Adi Shankara",
+   "Basaveshwara"
+  ],
+  "optsHi": [
+   "रामानुजचार्य",
+   "मध्वाचार्य",
+   "आदि शंकर",
+   "बसवेश्वर"
+  ],
+  "correct": 2,
+  "explainEn": "Adi Shankara wrote the foundational Brahmasutra Bhashya, which is the cornerstone of Advaita Vedanta.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:11:24Z"
+ },
+ {
+  "id": "q_4a7e1acda7b356aa",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which element has the highest melting point among all chemical elements at standard atmospheric pressure?",
+  "qHi": "मानक वायुमंडलीय दाब पर सभी रासायनिक तत्वों में से किसका गलनांक सबसे अधिक है?",
+  "optsEn": [
+   "Iron",
+   "Tungsten",
+   "Platinum",
+   "Titanium"
+  ],
+  "optsHi": [
+   "लोहा",
+   "टंगस्टन",
+   "प्लैटिनम",
+   "टाइटेनियम"
+  ],
+  "correct": 1,
+  "explainEn": "Tungsten has the highest melting point of any element, melting at 3,422 degrees Celsius.",
+  "sourceHint": "NCERT Chemistry Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:11:24Z"
  }
 ]

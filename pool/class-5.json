@@ -23798,5 +23798,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-29T05:50:51Z"
+ },
+ {
+  "id": "q_290cf99e061aac17",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which season do we generally experience the festival of Bihu in Assam?",
+  "qHi": "असम में हम आमतौर पर किस ऋतु में बिहू का त्यौहार मनाते हैं?",
+  "optsEn": [
+   "Harvest season",
+   "Monsoon season",
+   "Extreme summer",
+   "Freezing winter"
+  ],
+  "optsHi": [
+   "कटाई का मौसम",
+   "मानसून का मौसम",
+   "अत्यधिक गर्मी",
+   "कड़ाके की ठंड"
+  ],
+  "correct": 0,
+  "explainEn": "Bihu is a set of three important cultural festivals of Assam associated with farming and harvest.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:04:21Z"
+ },
+ {
+  "id": "q_50e7516e05a3e828",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the imaginary line at 0 degrees latitude that divides the Earth into the Northern and Southern Hemispheres called?",
+  "qHi": "0 ડિഗ്രી 0 डिग्री अक्षांश पर स्थित उस काल्पनिक रेखा को क्या कहते हैं जो पृथ्वी को उत्तरी और दक्षिणी गोलार्ध में विभाजित करती है?",
+  "optsEn": [
+   "Equator",
+   "Prime Meridian",
+   "Tropic of Cancer",
+   "Arctic Circle"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा",
+   "प्रधान मध्याह्न रेखा",
+   "कर्क रेखा",
+   "आर्कटिक वृत्त"
+  ],
+  "correct": 0,
+  "explainEn": "The Equator is the 0-degree latitude line that divides the Earth into the Northern and Southern hemispheres.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:07:18Z"
+ },
+ {
+  "id": "q_8e598f8c0112551b",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which part of a plant typically grows underground and absorbs water and minerals from the soil?",
+  "qHi": "पौधे का कौन सा भाग आमतौर पर जमीन के नीचे उगता है और मिट्टी से पानी और खनिजों को अवशोषित करता है?",
+  "optsEn": [
+   "Stem",
+   "Leaf",
+   "Root",
+   "Flower"
+  ],
+  "optsHi": [
+   "तना",
+   "पत्ती",
+   "जड़",
+   "फूल"
+  ],
+  "correct": 2,
+  "explainEn": "Roots grow underground to anchor the plant and absorb water and nutrients from the soil.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:07:18Z"
+ },
+ {
+  "id": "q_0f93fccf156e5b4c",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the Indian currency system, who issues paper currency notes?",
+  "qHi": "भारतीय मुद्रा प्रणाली में, कागजी करेंसी नोट कौन जारी करता है?",
+  "optsEn": [
+   "State Bank of India",
+   "Reserve Bank of India",
+   "Ministry of Defence",
+   "Supreme Court of India"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "भारतीय रिजर्व बैंक",
+   "रक्षा मंत्रालय",
+   "भारत का उच्चतम न्यायालय"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India (RBI) is the central bank authorized to issue currency notes in India.",
+  "sourceHint": "Reserve Bank of India official guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:07:18Z"
+ },
+ {
+  "id": "q_b09696700fd38730",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which animal is known as the 'Ship of the Desert' due to its ability to walk easily on sand?",
+  "qHi": "किस जानवर को रेत पर आसानी से चलने की क्षमता के कारण 'रेगिस्तान का जहाज' कहा जाता है?",
+  "optsEn": [
+   "Elephant",
+   "Camel",
+   "Horse",
+   "Tiger"
+  ],
+  "optsHi": [
+   "हाथी",
+   "ऊंट",
+   "घोड़ा",
+   "बाघ"
+  ],
+  "correct": 1,
+  "explainEn": "Camels have padded feet that help them walk on sand without sinking, earning them the title 'Ship of the Desert'.",
+  "sourceHint": "NCERT EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:07:18Z"
+ },
+ {
+  "id": "q_200045ffd4bf5b54",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of these seeds is known to disperse primarily by exploding or bursting open when ripe?",
+  "qHi": "इनमें से कौन सा बीज पकने पर मुख्य रूप से फटकर बिखरने के लिए जाना जाता है?",
+  "optsEn": [
+   "Mango",
+   "Peas",
+   "Coconut",
+   "Maple"
+  ],
+  "optsHi": [
+   "आम",
+   "मटर",
+   "नारियल",
+   "मैपल्"
+  ],
+  "correct": 1,
+  "explainEn": "Pea pods dry up and burst with a jerk, scattering their seeds away from the parent plant.",
+  "sourceHint": "NCERT Class 5 Environmental Studies (EVS), Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:11:41Z"
+ },
+ {
+  "id": "q_c87cf4f385d798c6",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional Indian stepwell architecture is primarily designed for storing water and has steps on all sides?",
+  "qHi": "कौन सी पारंपरिक भारतीय वास्तुकला मुख्य रूप से पानी के भंडारण के लिए डिज़ाइन की गई है और इसके चारों ओर सीढ़ियाँ हैं?",
+  "optsEn": [
+   "Baoli",
+   "Stupa",
+   "Gopuram",
+   "Mandapam"
+  ],
+  "optsHi": [
+   "बावड़ी",
+   "स्तूप",
+   "गोपुरम",
+   "मंडपम"
+  ],
+  "correct": 0,
+  "explainEn": "Baolis or stepwells are traditional wells where water is reached by descending a set of steps.",
+  "sourceHint": "NCERT Class 5 EVS, Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:11:41Z"
+ },
+ {
+  "id": "q_139b5f061546f8c1",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of soil is predominantly formed from the weathering of lava rocks and is best suited for growing cotton?",
+  "qHi": "लावा चट्टानों के अपक्षय से मुख्य रूप से किस प्रकार की मिट्टी बनती है और यह कपास उगाने के लिए सबसे उपयुक्त है?",
+  "optsEn": [
+   "Alluvial soil",
+   "Black soil",
+   "Laterite soil",
+   "Desert soil"
+  ],
+  "optsHi": [
+   "जलोढ़ मिट्टी",
+   "काली मिट्टी",
+   "लैटेराइट मिट्टी",
+   "मरुस्थलीय मिट्टी"
+  ],
+  "correct": 1,
+  "explainEn": "Black soil, also known as regur soil, is formed from volcanic lava and retains moisture well, making it ideal for cotton.",
+  "sourceHint": "NCERT Class 5 Geography / EVS context",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:11:41Z"
+ },
+ {
+  "id": "q_50d9761239106c9d",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following describes the process by which plants release excess water vapor into the air through tiny pores in their leaves?",
+  "qHi": "निम्नलिखित में से कौन उस प्रक्रिया का वर्णन करता है जिसके द्वारा पौधे अपनी पत्तियों के छोटे छिद्रों के माध्यम से अतिरिक्त जल वाष्प को हवा में छोड़ते हैं?",
+  "optsEn": [
+   "Photosynthesis",
+   "Transpiration",
+   "Respiration",
+   "Germination"
+  ],
+  "optsHi": [
+   "प्रकाश संश्लेषण",
+   "वाष्पोत्सर्जन",
+   "श्वसन",
+   "अंकुरण"
+  ],
+  "correct": 1,
+  "explainEn": "Transpiration is the evaporation of water from plant leaves through stomata.",
+  "sourceHint": "NCERT Science curriculum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:11:41Z"
+ },
+ {
+  "id": "q_bcd917a5eaf06781",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian currency, who holds the authority to issue currency notes in denominations of one rupee?",
+  "qHi": "भारतीय मुद्रा के संदर्भ में, एक रुपये के मूल्यवर्ग के करेंसी नोट जारी करने का अधिकार किसके पास है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Ministry of Finance",
+   "State Bank of India",
+   "NITI Aayog"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "वित्त मंत्रालय",
+   "भारतीय स्टेट बैंक",
+   "नीति आयोग"
+  ],
+  "correct": 1,
+  "explainEn": "One-rupee notes and coins are issued by the Ministry of Finance, Government of India, while other higher denomination notes are issued by RBI.",
+  "sourceHint": "Reserve Bank of India (RBI) guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:11:41Z"
  }
 ]

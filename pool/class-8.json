@@ -19878,5 +19878,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-29T05:51:03Z"
+ },
+ {
+  "id": "q_0e36d41c014ee75e",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "The Kaziranga National Park, known for the one-horned rhinoceros, is located in which Indian state?",
+  "qHi": "एक सींग वाले गैंडे के लिए प्रसिद्ध काजीरंगा राष्ट्रीय उद्यान किस भारतीय राज्य में स्थित है?",
+  "optsEn": [
+   "Gujarat",
+   "Assam",
+   "Madhya Pradesh",
+   "Rajasthan"
+  ],
+  "optsHi": [
+   "गुजरात",
+   "असम",
+   "मध्य प्रदेश",
+   "राजस्थान"
+  ],
+  "correct": 1,
+  "explainEn": "Kaziranga National Park is situated in the state of Assam and hosts two-thirds of the world's great Indian one-horned rhinoceroses.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:04:42Z"
+ },
+ {
+  "id": "q_9a0c0809f8b74b15",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "During which historical movement did Mahatma Gandhi give the slogan 'Do or Die'?",
+  "qHi": "महात्मा गांधी ने किस ऐतिहासिक आंदोलन के दौरान 'करो या मरो' का नारा दिया था?",
+  "optsEn": [
+   "Non-Cooperation Movement",
+   "Civil Disobedience Movement",
+   "Quit India Movement",
+   "Khilafat Movement"
+  ],
+  "optsHi": [
+   "असहयोग आंदोलन",
+   "सविनय अवज्ञा आंदोलन",
+   "भारत छोड़ो आंदोलन",
+   "खिलाफत आंदोलन"
+  ],
+  "correct": 2,
+  "explainEn": "Mahatma Gandhi gave the 'Do or Die' call during the Quit India Movement in August 1942.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:04:42Z"
+ },
+ {
+  "id": "q_7fe273a74db9b75e",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of crop is wheat, which is sown in the winter season in India?",
+  "qHi": "गेहूं किस प्रकार की फसल है, जिसे भारत में शीत ऋतु में बोया जाता है?",
+  "optsEn": [
+   "Kharif crop",
+   "Rabi crop",
+   "Zaid crop",
+   "Fiber crop"
+  ],
+  "optsHi": [
+   "खरीफ फसल",
+   "रबी फसल",
+   "जायद फसल",
+   "रेशेदार फसल"
+  ],
+  "correct": 1,
+  "explainEn": "Rabi crops are winter-season crops sown from October to December, and wheat is a major rabi crop.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:04:42Z"
+ },
+ {
+  "id": "q_98196b33826c2a18",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which process involves the conversion of sugar into alcohol by yeast?",
+  "qHi": "किस प्रक्रिया में खमीर (यीस्ट) द्वारा चीनी को अल्कोहल में परिवर्तित किया जाता है?",
+  "optsEn": [
+   "Fermentation",
+   "Nitrogen fixation",
+   "Photosynthesis",
+   "Transpiration"
+  ],
+  "optsHi": [
+   "किण्वन",
+   "नाइट्रोजन स्थिरीकरण",
+   "प्रकाश संश्लेषण",
+   "वाष्पोत्सर्जन"
+  ],
+  "correct": 0,
+  "explainEn": "Fermentation is the metabolic process in which yeast converts sugars into alcohol and carbon dioxide.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:07:51Z"
+ },
+ {
+  "id": "q_99d83167034f6da5",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What SI unit is used for measuring pressure?",
+  "qHi": "दाब (Pressure) को मापने के लिए किस एसआई (SI) इकाई का उपयोग किया जाता है?",
+  "optsEn": [
+   "Newton",
+   "Pascal",
+   "Joule",
+   "Watt"
+  ],
+  "optsHi": [
+   "न्यूटन",
+   "पास्कल",
+   "जूल",
+   "वाट"
+  ],
+  "correct": 1,
+  "explainEn": "The SI unit of pressure is the Pascal, named after the scientist Blaise Pascal.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T13:07:51Z"
  }
 ]
