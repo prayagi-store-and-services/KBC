@@ -28502,5 +28502,481 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-28T22:38:57Z"
+ },
+ {
+  "id": "q_036a40073f75528f",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'I' stand for in the abbreviation 'IMPS', a popular banking payment system in India?",
+  "qHi": "भारत में एक लोकप्रिय बैंकिंग भुगतान प्रणाली 'IMPS' संक्षेप में 'I' अक्षर का क्या अर्थ है?",
+  "optsEn": [
+   "Immediate",
+   "Interbank",
+   "Indian",
+   "Internal"
+  ],
+  "optsHi": [
+   "Immediate",
+   "Interbank",
+   "Indian",
+   "Internal"
+  ],
+  "correct": 0,
+  "explainEn": "IMPS stands for Immediate Payment Service, operated by the National Payments Corporation of India.",
+  "sourceHint": "NPCI official portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:49:46Z"
+ },
+ {
+  "id": "q_f3b7e69e79a20776",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization acts as the central banking institution in India?",
+  "qHi": "भारत में कौन सा संगठन केंद्रीय बैंकिंग संस्थान के रूप में कार्य करता है?",
+  "optsEn": [
+   "State Bank of India",
+   "Reserve Bank of India",
+   "Ministry of Finance",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "भारतीय रिजर्व बैंक",
+   "वित्त मंत्रालय",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India (RBI) is India's central bank, established in 1935 under the RBI Act, 1934.",
+  "sourceHint": "RBI official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:49:46Z"
+ },
+ {
+  "id": "q_edcff106fc9dde21",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which institution regulates the capital market in India?",
+  "qHi": "भारत में पूंजी बाजार को कौन सी संस्था नियंत्रित करती है?",
+  "optsEn": [
+   "RBI",
+   "NABARD",
+   "SIDBI",
+   "SEBI"
+  ],
+  "optsHi": [
+   "RBI",
+   "NABARD",
+   "SIDBI",
+   "SEBI"
+  ],
+  "correct": 3,
+  "explainEn": "SEBI (Securities and Exchange Board of India) is the regulatory body for securities and capital market in India.",
+  "sourceHint": "SEBI official portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:49:46Z"
+ },
+ {
+  "id": "q_b84c93413eca4f9b",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum limit of characters in an IFSC (Indian Financial System Code)?",
+  "qHi": "IFSC (भारतीय वित्तीय प्रणाली कोड) में वर्णों की अधिकतम सीमा क्या है?",
+  "optsEn": [
+   "10",
+   "11",
+   "12",
+   "9"
+  ],
+  "optsHi": [
+   "10",
+   "11",
+   "12",
+   "9"
+  ],
+  "correct": 1,
+  "explainEn": "An IFSC is an 11-character alpha-numeric code used for electronic funds transfer in India.",
+  "sourceHint": "RBI official guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:49:46Z"
+ },
+ {
+  "id": "q_218b37d8dfd3b28e",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which financial institution is specifically responsible for the promotion of agriculture and rural development in India?",
+  "qHi": "भारत में कृषि और ग्रामीण विकास के संवर्धन के लिए विशेष रूप से कौन सा वित्तीय संस्थान उत्तरदायी है?",
+  "optsEn": [
+   "NABARD",
+   "EXIM Bank",
+   "SIDBI",
+   "IFCI"
+  ],
+  "optsHi": [
+   "नाबार्ड",
+   "एक्सिम बैंक",
+   "सिडबी",
+   "आईएफसीआई"
+  ],
+  "correct": 0,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) is an apex regulatory body for overall regulation of regional rural banks and apex cooperative banks in India.",
+  "sourceHint": "NABARD official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:49:46Z"
+ },
+ {
+  "id": "q_b420a0a3b1e0290f",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of account does not earn any interest for the account holder?",
+  "qHi": "किस प्रकार के खाते पर खाता धारक को कोई ब्याज नहीं मिलता है?",
+  "optsEn": [
+   "Savings Account",
+   "Fixed Deposit Account",
+   "Current Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "बचत खाता",
+   "सावधि जमा खाता",
+   "चालू खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 2,
+  "explainEn": "Current accounts are meant for businesses and generally do not offer any interest on deposits.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:49:46Z"
+ },
+ {
+  "id": "q_1c7fdcaf03ff51ee",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'M' stand for in the financial term 'MSF' used by the RBI?",
+  "qHi": "आरबीआई द्वारा उपयोग किए जाने वाले वित्तीय शब्द 'MSF' में अक्षर 'M' का क्या अर्थ है?",
+  "optsEn": [
+   "Monetary",
+   "Marginal",
+   "Market",
+   "Minimum"
+  ],
+  "optsHi": [
+   "मौद्रिक (Monetary)",
+   "सीमांत (Marginal)",
+   "बाजार (Market)",
+   "न्यूनतम (Minimum)"
+  ],
+  "correct": 1,
+  "explainEn": "MSF stands for Marginal Standing Facility, which is a window for scheduled commercial banks to borrow overnight from the RBI in emergency situations.",
+  "sourceHint": "RBI official website glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:50:42Z"
+ },
+ {
+  "id": "q_4803682b7db7d2cf",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is the apex institution for agricultural credit and rural development in India?",
+  "qHi": "भारत में कृषि ऋण और ग्रामीण विकास के लिए निम्नलिखित में से कौन सी शीर्ष संस्था है?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "NHB"
+  ],
+  "optsHi": [
+   "सिडबी (SIDBI)",
+   "नाबार्ड (NABARD)",
+   "एक्जिम बैंक (EXIM Bank)",
+   "राष्ट्रीय आवास बैंक (NHB)"
+  ],
+  "correct": 1,
+  "explainEn": "National Bank for Agriculture and Rural Development (NABARD) was established in 1982 on the recommendation of the B. Sivaraman Committee to provide credit for the promotion of agriculture and rural development.",
+  "sourceHint": "NABARD Act, 1981",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:50:42Z"
+ },
+ {
+  "id": "q_1bd14e86c57ac150",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does 'C' stand for in the digital financial identifier term 'IFSC'?",
+  "qHi": "डिजिटल वित्तीय पहचानकर्ता शब्द 'IFSC' में 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Credit",
+   "Currency",
+   "Code",
+   "Central"
+  ],
+  "optsHi": [
+   "क्रेडिट (Credit)",
+   "करेंसी (Currency)",
+   "कोड (Code)",
+   "सेंट्रल (Central)"
+  ],
+  "correct": 2,
+  "explainEn": "IFSC stands for Indian Financial System Code, which is an 11-character alphanumeric code used for online fund transfers like NEFT and RTGS.",
+  "sourceHint": "RBI payment systems documentation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:50:42Z"
+ },
+ {
+  "id": "q_7cf0e6e4888d2125",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which financial institution regulates housing finance companies in India as of recent regulatory updates?",
+  "qHi": "हालिया विनियामक संशोधनों के अनुसार भारत में आवास वित्त कंपनियों (Housing Finance Companies) को कौन सा वित्तीय संस्थान विनियमित करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "National Housing Bank",
+   "Securities and Exchange Board of India",
+   "Ministry of Finance"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "राष्ट्रीय आवास बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "वित्त मंत्रालय"
+  ],
+  "correct": 0,
+  "explainEn": "Regulation and supervision of Housing Finance Companies (HFCs) was transferred from the National Housing Bank (NHB) to the Reserve Bank of India (RBI) under the Finance Act 2019.",
+  "sourceHint": "RBI Notifications / Finance Act 2019",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:50:42Z"
+ },
+ {
+  "id": "q_c641b0b9b2088eb8",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which section of the Banking Regulation Act, 1949 restricts the payment of dividend by a banking company until all its capitalized expenses have been completely written off?",
+  "qHi": "बैंकिंग विनियमन अधिनियम, 1949 की कौन सी धारा एक बैंकिंग कंपनी द्वारा लाभांश के भुगतान को तब तक प्रतिबंधित करती है जब तक कि उसके सभी पूंजीकृत खर्च पूरी तरह से बट्टे खाते में नहीं डाल दिए जाते?",
+  "optsEn": [
+   "Section 12",
+   "Section 15",
+   "Section 17",
+   "Section 21"
+  ],
+  "optsHi": [
+   "धारा 12",
+   "धारा 15",
+   "धारा 17",
+   "धारा 21"
+  ],
+  "correct": 1,
+  "explainEn": "Section 15 of the Banking Regulation Act, 1949 prohibits payment of dividend until capitalized expenses are completely written off.",
+  "sourceHint": "Banking Regulation Act, 1949",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:52:32Z"
+ },
+ {
+  "id": "q_fc399b3cf8cdaef3",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the minimum net worth requirement stipulated by the Reserve Bank of India for setting up a Bharat Bill Payment Operating Unit (BBPOU)?",
+  "qHi": "भारत बिल भुगतान संचालन इकाई (BBPOU) स्थापित करने के लिए भारतीय रिजर्व बैंक द्वारा निर्धारित न्यूनतम कुल संपत्ति (net worth) की आवश्यकता क्या है?",
+  "optsEn": [
+   "Rs 25 crore",
+   "Rs 50 crore",
+   "Rs 100 crore",
+   "Rs 200 crore"
+  ],
+  "optsHi": [
+   "25 करोड़ रुपये",
+   "50 करोड़ रुपये",
+   "100 करोड़ रुपये",
+   "200 करोड़ रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "As per RBI guidelines on Bharat Bill Payment System (BBPS), non-bank BBPOUs must maintain a minimum net worth of Rs 100 crore.",
+  "sourceHint": "RBI Master Directions on BBPS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:52:32Z"
+ },
+ {
+  "id": "q_a6668569157c7479",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Basel III framework, what constitutes Tier 1 Capital primarily for a commercial bank?",
+  "qHi": "बेसल III ढांचे के तहत, किसी वाणिज्यिक बैंक के लिए मुख्य रूप से टियर 1 पूंजी का गठन क्या करता है?",
+  "optsEn": [
+   "Common Equity Tier 1 and Additional Tier 1 capital",
+   "Subordinated debt and general provisions",
+   "Revaluation reserves and undisclosed reserves",
+   "Tier 3 capital and short-term subordinated loans"
+  ],
+  "optsHi": [
+   "सामान्य इक्विटी टियर 1 और अतिरिक्त टियर 1 पूंजी",
+   "अधीनस्थ ऋण और सामान्य प्रावधान",
+   "पुनर्मूल्यांकन भंडार और गुप्त भंडार",
+   "टियर 3 पूंजी और अल्पकालिक अधीनस्थ ऋण"
+  ],
+  "correct": 0,
+  "explainEn": "Tier 1 Capital under Basel III consists of Common Equity Tier 1 (CET1) and Additional Tier 1 (AT1) capital.",
+  "sourceHint": "RBI Basel III Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:52:32Z"
+ },
+ {
+  "id": "q_e4e60b1f3c1add04",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which institutional mechanism in India acts as the central counterparty for clearing and settling repo transactions in corporate bonds?",
+  "qHi": "भारत में कौन सा संस्थागत तंत्र कॉर्पोरेट बांड में रेपो लेनदेन के लिए समाशोधन (clearing) और निपटान (settlement) हेतु केंद्रीय प्रतिपक्ष (central counterparty) के रूप में कार्य करता है?",
+  "optsEn": [
+   "Clearing Corporation of India Limited",
+   "National Stock Exchange of India",
+   "National Securities Depository Limited",
+   "Central Depository Services Limited"
+  ],
+  "optsHi": [
+   "क्लियरिंग कॉरपोरेशन ऑफ इंडिया लिमिटेड",
+   "नेशनल स्टॉक एक्सचेंज ऑफ इंडिया",
+   "नेशनल सिक्योरिटीज डिपॉजिटरी लिमिटेड",
+   "सेंट्रल डिपॉजिटरी सर्विसेज लिमिटेड"
+  ],
+  "correct": 0,
+  "explainEn": "Clearing Corporation of India Limited (CCIL) provides centralized clearing and settlement services for money market, g-sec, and corporate bond repo markets.",
+  "sourceHint": "RBI / CCIL official guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:52:32Z"
+ },
+ {
+  "id": "q_a4e2e4dc3785991e",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of priority sector lending in India, what is the target percentage of Adjusted Net Bank Credit (ANBC) prescribed for domestic scheduled commercial banks regarding lending to small and marginal farmers?",
+  "qHi": "भारत में प्राथमिकता प्राप्त क्षेत्र को ऋण (Priority Sector Lending) के संदर्भ में, छोटे और सीमांत किसानों को ऋण देने के संबंध में घरेलू अनुसूचित वाणिज्यिक बैंकों के लिए निर्धारित समायोजित शुद्ध बैंक ऋण (ANBC) का लक्ष्य प्रतिशत क्या है?",
+  "optsEn": [
+   "7.5 percent",
+   "10.0 percent",
+   "12.0 percent",
+   "15.0 percent"
+  ],
+  "optsHi": [
+   "7.5 प्रतिशत",
+   "10.0 प्रतिशत",
+   "12.0 प्रतिशत",
+   "15.0 प्रतिशत"
+  ],
+  "correct": 0,
+  "explainEn": "RBI guidelines mandate a sub-target of 7.5% of ANBC for lending to small and marginal farmers under Priority Sector Lending.",
+  "sourceHint": "RBI Master Directions - Priority Sector Lending",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:52:32Z"
+ },
+ {
+  "id": "q_9d6f5cac56c31716",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following financial instruments is categorized as a Negotiable Instrument under Section 13 of the Negotiable Instruments Act, 1881?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 की धारा 13 के तहत निम्नलिखित में से कौन सा वित्तीय साधन परक्राम्य लिखत (Negotiable Instrument) के रूप में वर्गीकृत है?",
+  "optsEn": [
+   "Share certificate",
+   "Letter of credit",
+   "Hundi",
+   "Bill of lading"
+  ],
+  "optsHi": [
+   "शेयर प्रमाण पत्र",
+   "साख पत्र (लेटर ऑफ क्रेडिट)",
+   "हुंडी",
+   "लदान बिल (बिल ऑफ लाडिंग)"
+  ],
+  "correct": 2,
+  "explainEn": "Section 13 of the Negotiable Instruments Act recognizes promissory notes, bills of exchange, cheques, and historically includes instruments like hundis.",
+  "sourceHint": "Negotiable Instruments Act, 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:52:32Z"
+ },
+ {
+  "id": "q_25e75860d63dc321",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Prompt Corrective Action (PCA) framework for commercial banks, breaching which specific parameter triggers mandatory restrictions on capital and dividend distribution?",
+  "qHi": "वाणिज्यिक बैंकों के लिए त्वरित सुधार कार्रवाई (PCA) ढांचे के तहत, किस विशिष्ट मापदंड के उल्लंघन से पूंजी और लाभांश वितरण पर अनिवार्य प्रतिबंध शुरू होते हैं?",
+  "optsEn": [
+   "Leverage ratio",
+   "Common Equity Tier 1 (CET1) ratio",
+   "Credit-Deposit ratio",
+   "CASA ratio"
+  ],
+  "optsHi": [
+   "लिवरेज अनुपात",
+   "सामान्य इक्विटी टियर 1 (CET1) अनुपात",
+   "क्रेडिट-डिपॉजिट अनुपात",
+   "कासा (CASA) अनुपात"
+  ],
+  "correct": 1,
+  "explainEn": "Breach of thresholds in Risk-Weighted Assets (CRAR), Common Equity Tier 1 (CET1) ratio, or Leverage ratio triggers PCA restrictions, with CET1 being a core risk metric.",
+  "sourceHint": "RBI PCA Framework for Scheduled Commercial Banks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:52:32Z"
  }
 ]

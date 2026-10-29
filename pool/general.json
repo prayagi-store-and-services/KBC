@@ -16994,5 +16994,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-28T22:38:20Z"
+ },
+ {
+  "id": "q_119d05c56a381d08",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "How many bones are there in an adult human skeleton approximately?",
+  "qHi": "एक वयस्क मानव कंकाल में लगभग कितनी हड्डियाँ होती हैं?",
+  "optsEn": [
+   "106",
+   "206",
+   "306",
+   "406"
+  ],
+  "optsHi": [
+   "106",
+   "206",
+   "306",
+   "406"
+  ],
+  "correct": 1,
+  "explainEn": "An adult human body typically has 206 bones.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:49:49Z"
+ },
+ {
+  "id": "q_bfb5cbcc5c9ac25f",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the financial capital of India?",
+  "qHi": "भारत की वित्तीय राजधानी क्या है?",
+  "optsEn": [
+   "New Delhi",
+   "Mumbai",
+   "Bengaluru",
+   "Kolkata"
+  ],
+  "optsHi": [
+   "नई दिल्ली",
+   "मुंबई",
+   "बेंगलुरु",
+   "कोलकाता"
+  ],
+  "correct": 1,
+  "explainEn": "Mumbai is widely recognized as the financial and commercial capital of India, housing major financial institutions.",
+  "sourceHint": "Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:50:46Z"
+ },
+ {
+  "id": "q_e077d60328f8286b",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form originated in the state of Kerala and is traditionally performed by male actors?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप केरल राज्य में उत्पन्न हुआ और पारंपरिक रूप से पुरुष कलाकारों द्वारा किया जाता है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a major form of classical Indian dance that originated in Kerala, renowned for its elaborate make-up, distinctive costumes, and facial masks worn by male actor-dancers.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:52:36Z"
+ },
+ {
+  "id": "q_15157fe77dec3997",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which plateau lies between the Satpura and Vindhya mountain ranges in India?",
+  "qHi": "भारत में सतपुड़ा और विंध्य पर्वत श्रृंखलाओं के बीच कौन सा पठार स्थित है?",
+  "optsEn": [
+   "Chota Nagpur Plateau",
+   "Malwa Plateau",
+   "Deccan Plateau",
+   "Shillong Plateau"
+  ],
+  "optsHi": [
+   "छोटा नागपुर पठार",
+   "मालवा पठार",
+   "दक्कन का पठार",
+   "शिलांग पठार"
+  ],
+  "correct": 1,
+  "explainEn": "The Malwa Plateau is bounded by the Central Highlands to the north, the Vindhya Range to the south, and the Satpura range further south along with the Gujarat plains.",
+  "sourceHint": "NCERT Geography textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:52:36Z"
+ },
+ {
+  "id": "q_97bee90bdda1b928",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In cricket terminology, how many players are there on the field for a single fielding team at any given time?",
+  "qHi": "क्रिकेट शब्दावली में, किसी भी समय एक फील्डिंग टीम के लिए मैदान पर कुल कितने खिलाड़ी होते हैं?",
+  "optsEn": [
+   "9",
+   "10",
+   "11",
+   "12"
+  ],
+  "optsHi": [
+   "9",
+   "10",
+   "11",
+   "12"
+  ],
+  "correct": 2,
+  "explainEn": "A cricket team consists of 11 players on the field at a time during a match according to the standard Laws of Cricket.",
+  "sourceHint": "MCC Laws of Cricket",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:52:36Z"
  }
 ]

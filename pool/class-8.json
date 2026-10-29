@@ -19682,5 +19682,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-28T22:38:28Z"
+ },
+ {
+  "id": "q_a44f1f9584880f8d",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the topmost layer of the Earth called?",
+  "qHi": "पृथ्वी की सबसे ऊपरी परत को क्या कहा जाता है?",
+  "optsEn": [
+   "Crust",
+   "Mantle",
+   "Core",
+   "Magma"
+  ],
+  "optsHi": [
+   "पर्पटी (क्रस्ट)",
+   "मैंटल",
+   "कोर (क्रोड)",
+   "मैग्मा"
+  ],
+  "correct": 0,
+  "explainEn": "The crust is the outermost solid layer of the Earth.",
+  "sourceHint": "NCERT Class 8 Geography, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:49:57Z"
+ },
+ {
+  "id": "q_3dc427d634112176",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the process of shedding of skin by a caterpillar called during its life cycle?",
+  "qHi": "कैटरपिलर द्वारा अपने जीवन चक्र के दौरान त्वचा छोड़ने की प्रक्रिया को क्या कहा जाता है?",
+  "optsEn": [
+   "Metamorphosis",
+   "Molting",
+   "Photosynthesis",
+   "Pollination"
+  ],
+  "optsHi": [
+   "कायांतरण",
+   "मोल्टिंग (निर्झरण)",
+   "प्रकाश संश्लेषण",
+   "परागण"
+  ],
+  "correct": 1,
+  "explainEn": "Molting is the casting off of old skin as the insect grows.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 9",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:49:57Z"
+ },
+ {
+  "id": "q_731f7245951afc57",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which part of a cell contains organelles called chromosomes?",
+  "qHi": "कोशिका के किस भाग में क्रोमोसोम नामक अंगक होते हैं?",
+  "optsEn": [
+   "Cell membrane",
+   "Cytoplasm",
+   "Nucleus",
+   "Vacuole"
+  ],
+  "optsHi": [
+   "कोशिका झिल्ली",
+   "कोशिकाद्रव्य",
+   "केंद्रक",
+   "रिक्तिका"
+  ],
+  "correct": 2,
+  "explainEn": "The nucleus houses thread-like structures called chromosomes, which carry genes.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:51:03Z"
+ },
+ {
+  "id": "q_83439b481de6a891",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who was appointed as the Commander-in-Chief of the Mughal forces against Rana Pratap in the Battle of Haldighati?",
+  "qHi": "हल्दीघाटी के युद्ध में राणा प्रताप के विरुद्ध मुगल सेना का सेनापति किसे नियुक्त किया गया था?",
+  "optsEn": [
+   "Raja Man Singh",
+   "Birbal",
+   "Tansen",
+   "Todar Mal"
+  ],
+  "optsHi": [
+   "राजा मानसिंह",
+   "बीरबल",
+   "तानसेन",
+   "टोडरमल"
+  ],
+  "correct": 0,
+  "explainEn": "Emperor Akbar sent an army led by Raja Man Singh to fight Rana Pratap in 1576.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:51:03Z"
+ },
+ {
+  "id": "q_9eb037bb241d6120",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The Permanent Settlement system in India was introduced by whom in 1793?",
+  "qHi": "भारत में 1793 में स्थायी बंदोबस्त प्रणाली किसके द्वारा शुरू की गई थी?",
+  "optsEn": [
+   "Lord Cornwallis",
+   "Lord Dalhousie",
+   "Warren Hastings",
+   "Lord Wellesley"
+  ],
+  "optsHi": [
+   "लॉर्ड कॉर्नवॉलिस",
+   "लॉर्ड डलहौजी",
+   "वारेन हेस्टिंग्स",
+   "लॉर्ड वेलेजली"
+  ],
+  "correct": 0,
+  "explainEn": "Lord Cornwallis introduced the Permanent Settlement in Bengal in 1793 to fix the land revenue.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:51:03Z"
+ },
+ {
+  "id": "q_11fd4330e4c37c07",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which imaginary line at 0 degrees longitude is used to calculate Greenwich Mean Time?",
+  "qHi": "ग्रीनविच माध्य समय की गणना के लिए 0 डिग्री देशांतर पर कौन सी काल्पनिक रेखा का उपयोग किया जाता है?",
+  "optsEn": [
+   "Equator",
+   "Prime Meridian",
+   "Tropic of Cancer",
+   "International Date Line"
+  ],
+  "optsHi": [
+   "विषुवत वृत्त",
+   "प्रमुख याम्योत्तर",
+   "कर्क रेखा",
+   "अंतर्राष्ट्रीय तिथि रेखा"
+  ],
+  "correct": 1,
+  "explainEn": "The Prime Meridian passes through Greenwich, London, and serves as 0 degrees longitude.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:51:03Z"
+ },
+ {
+  "id": "q_7222c2318f6bfb9a",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which term describes the practice of growing two or more crops simultaneously on the same piece of land?",
+  "qHi": "एक ही भूमि के टुकड़े पर एक साथ दो या दो से अधिक फसलें उगाने की प्रथा को क्या कहते हैं?",
+  "optsEn": [
+   "Fallow cropping",
+   "Multiple cropping",
+   "Crop rotation",
+   "Shifting cultivation"
+  ],
+  "optsHi": [
+   "पड़ती खेती",
+   "बहुविध फसल प्रणाली",
+   "फसल चक्र",
+   "स्थानांतरित कृषि"
+  ],
+  "correct": 1,
+  "explainEn": "Growing multiple crops simultaneously on the same land is known as multiple cropping.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:51:03Z"
  }
 ]

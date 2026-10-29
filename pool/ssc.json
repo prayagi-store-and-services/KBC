@@ -17358,5 +17358,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-28T22:38:51Z"
+ },
+ {
+  "id": "q_97a66146ae44e3d3",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which year was the Battle of Plassey fought?",
+  "qHi": "प्लासी का युद्ध किस वर्ष लड़ा गया था?",
+  "optsEn": [
+   "1757",
+   "1764",
+   "1857",
+   "1761"
+  ],
+  "optsHi": [
+   "1757",
+   "1764",
+   "1857",
+   "1761"
+  ],
+  "correct": 0,
+  "explainEn": "The Battle of Plassey was fought on 23 June 1757, establishing British East India Company rule in Bengal.",
+  "sourceHint": "NCERT History Class 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:49:41Z"
+ },
+ {
+  "id": "q_caf4b51af98e87ec",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary ore of aluminium?",
+  "qHi": "एल्युमिनियम का मुख्य अयस्क कौन सा है?",
+  "optsEn": [
+   "Hematite",
+   "Bauxite",
+   "Magnetite",
+   "Calamine"
+  ],
+  "optsHi": [
+   "हेमेटाइट",
+   "बॉक्साइट",
+   "मैग्नेटाइट",
+   "कैलामाइन"
+  ],
+  "correct": 1,
+  "explainEn": "Bauxite is the principal ore of aluminium, consisting mainly of hydrated aluminium oxides.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:50:37Z"
+ },
+ {
+  "id": "q_e1e889e9bb88cd38",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which hill range separates the Narmada and Tapti river valleys?",
+  "qHi": "कौन सी पहाड़ी श्रृंखला नर्मदा और ताप्ती नदी घाटियों को अलग करती है?",
+  "optsEn": [
+   "Vindhya Range",
+   "Satpura Range",
+   "Aravalli Range",
+   "Ajanta Range"
+  ],
+  "optsHi": [
+   "विंध्य श्रृंखला",
+   "सतपुड़ा श्रृंखला",
+   "अरावली श्रृंखला",
+   "अजंता श्रृंखला"
+  ],
+  "correct": 1,
+  "explainEn": "The Satpura Range lies between the Narmada river valley to the north and the Tapti river valley to the south.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:50:37Z"
+ },
+ {
+  "id": "q_10804c96250098c3",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the ancient Indian treatise on statecraft and economy, 'Arthashastra'?",
+  "qHi": "प्राचीन भारतीय ग्रंथ 'अर्थशास्त्र' (राजनीति और अर्थव्यवस्था पर) किसने लिखा था?",
+  "optsEn": [
+   "Kalidasa",
+   "Banabhatta",
+   "Kautilya",
+   "Patanjali"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "बाणभट्ट",
+   "कौटिल्य",
+   "पतंजलि"
+  ],
+  "correct": 2,
+  "explainEn": "Arthashastra was authored by Kautilya (also known as Chanakya or Vishnugupta), who was the chief minister of Chandragupta Maurya.",
+  "sourceHint": "NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:50:37Z"
+ },
+ {
+  "id": "q_69bd08c3f308d174",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which physiological process is primarily responsible for the ascent of sap in tall trees against gravity?",
+  "qHi": "लंबे पेड़ों में गुरुत्वाकर्षण के विरुद्ध रस (sap) के ऊपर चढ़ने के लिए मुख्य रूप से कौन सी शारीरिक प्रक्रिया उत्तरदायी है?",
+  "optsEn": [
+   "Root pressure and transpiration pull",
+   "Active transport by xylem parenchyma",
+   "Capillary action alone",
+   "Osmosis through phloem sieve tubes"
+  ],
+  "optsHi": [
+   "मूल दाब और वाष्पोत्सर्जन खिंचाव",
+   "जाइलम पैरेन्काइमा द्वारा सक्रिय परिवहन",
+   "केवल केशिका क्रिया",
+   "फ्लोएम चालनी नलिकाओं के माध्यम से परासरण"
+  ],
+  "correct": 0,
+  "explainEn": "The cohesion-tension-transpiration pull model, combined with root pressure, explains the ascent of sap in tall trees.",
+  "sourceHint": "NCERT Class 11 Biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:52:26Z"
+ },
+ {
+  "id": "q_c2033b1d8114dc1e",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian state has the maximum length of National Highways according to the Ministry of Road Transport and Highways data?",
+  "qHi": "सड़क परिवहन और राजमार्ग मंत्रालय के आंकड़ों के अनुसार किस भारतीय राज्य में राष्ट्रीय राजमार्गों की लंबाई सबसे अधिक है?",
+  "optsEn": [
+   "Maharashtra",
+   "Uttar Pradesh",
+   "Rajasthan",
+   "Madhya Pradesh"
+  ],
+  "optsHi": [
+   "महाराष्ट्र",
+   "उत्तर प्रदेश",
+   "राजस्थान",
+   "मध्य प्रदेश"
+  ],
+  "correct": 0,
+  "explainEn": "Maharashtra holds the position for having the maximum length of National Highways among all Indian states as per official transport statistics.",
+  "sourceHint": "Ministry of Road Transport and Highways Annual Report",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:52:26Z"
+ },
+ {
+  "id": "q_832655b816f5ef45",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary mineral composition of the Earth's mantle layer?",
+  "qHi": "पृथ्वी की मेंटल परत की प्राथमिक खनिज संरचना क्या है?",
+  "optsEn": [
+   "Magnesium and Iron silicates",
+   "Silicon and Aluminum",
+   "Nickel and Iron",
+   "Calcium and Sodium carbonates"
+  ],
+  "optsHi": [
+   "मैग्नीशियम और आयरन सिलिकेट",
+   "सिलिकॉन और एल्युमिनियम",
+   "निकल और आयरन",
+   "कैल्शियम और सोडियम कार्बोनेट"
+  ],
+  "correct": 0,
+  "explainEn": "The Earth's mantle is predominantly composed of silicate rocks rich in magnesium and iron, often referred to as peridotite.",
+  "sourceHint": "NCERT Class 11 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:52:26Z"
+ },
+ {
+  "id": "q_4af11e2021dd6c80",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following archaeological sites provides evidence of a unique stadium structure within the Indus Valley Civilization?",
+  "qHi": "निम्नलिखित में से कौन सा पुरातात्विक स्थल सिंधु घाटी सभ्यता के भीतर एक अद्वितीय स्टेडियम संरचना का प्रमाण देता है?",
+  "optsEn": [
+   "Dholavira",
+   "Lothal",
+   "Kalibangan",
+   "Harappa"
+  ],
+  "optsHi": [
+   "धोलावीरा",
+   "लोथल",
+   "कालीबंगान",
+   "हड़प्पा"
+  ],
+  "correct": 0,
+  "explainEn": "Dholavira features a large stadia-like ground, unique among Indus Valley sites.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:52:26Z"
  }
 ]

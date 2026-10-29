@@ -23686,5 +23686,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-28T22:38:23Z"
+ },
+ {
+  "id": "q_17b04557d8db96b5",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organ pumps blood through our body?",
+  "qHi": "कौन सा अंग हमारे शरीर में रक्त पंप करता है?",
+  "optsEn": [
+   "Lungs",
+   "Heart",
+   "Stomach",
+   "Kidney"
+  ],
+  "optsHi": [
+   "फेफड़े",
+   "दिल",
+   "पेट",
+   "गुर्दा"
+  ],
+  "correct": 1,
+  "explainEn": "The heart is the muscular organ that pumps blood to all parts of the body.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:49:53Z"
+ },
+ {
+  "id": "q_7930a647acd1cc6c",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which planet is known as the Blue Planet because of water on its surface?",
+  "qHi": "किस ग्रह को उसकी सतह पर पानी के कारण नीला ग्रह कहा जाता है?",
+  "optsEn": [
+   "Mars",
+   "Venus",
+   "Earth",
+   "Mercury"
+  ],
+  "optsHi": [
+   "मंगल",
+   "शुक्र",
+   "पृथ्वी",
+   "बुध"
+  ],
+  "correct": 2,
+  "explainEn": "Earth has vast oceans of water, making it appear blue from space.",
+  "sourceHint": "NCERT Class 5 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:49:53Z"
+ },
+ {
+  "id": "q_da64fec19808ab8a",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these animals is a nocturnal creature?",
+  "qHi": "इनमें से कौन सा जानवर निशाचर (रात में जागने वाला) जीव है?",
+  "optsEn": [
+   "Owl",
+   "Cow",
+   "Crow",
+   "Elephant"
+  ],
+  "optsHi": [
+   "उल्लू",
+   "गाय",
+   "कौवा",
+   "हाथी"
+  ],
+  "correct": 0,
+  "explainEn": "Owls are active during the night and rest during the day.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:49:53Z"
+ },
+ {
+  "id": "q_59327a6291e8799d",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of force pulls objects towards the center of the Earth?",
+  "qHi": "किस प्रकार का बल वस्तुओं को पृथ्वी के केंद्र की ओर खींचता है?",
+  "optsEn": [
+   "Frictional force",
+   "Magnetic force",
+   "Gravitational force",
+   "Muscular force"
+  ],
+  "optsHi": [
+   "घर्षण बल",
+   "चुंबकीय बल",
+   "गुरुत्वाकर्षण बल",
+   "पेशीय बल"
+  ],
+  "correct": 2,
+  "explainEn": "Gravity is the force by which a planet or other body draws objects toward its center.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-29T05:50:51Z"
  }
 ]
