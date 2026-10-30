@@ -29566,5 +29566,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-29T22:47:32Z"
+ },
+ {
+  "id": "q_ebcc78775b5635d8",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is NOT a money market instrument in India?",
+  "qHi": "निम्नलिखित में से कौन सा भारत में मुद्रा बाजार का साधन नहीं है?",
+  "optsEn": [
+   "Equity Share",
+   "Treasury Bill",
+   "Commercial Paper",
+   "Certificate of Deposit"
+  ],
+  "optsHi": [
+   "इक्विटी शेयर",
+   "राजकोषीय बिल (Treasury Bill)",
+   "कमर्शियल पेपर",
+   "प्रमाण पत्र जमा (Certificate of Deposit)"
+  ],
+  "correct": 0,
+  "explainEn": "Equity shares are capital market instruments representing ownership in a company, whereas T-bills, commercial papers, and certificates of deposit are money market instruments.",
+  "sourceHint": "Reserve Bank of India financial markets primer",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T05:51:17Z"
+ },
+ {
+  "id": "q_1ffe0721d21b1d68",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following institutions is the apex organization for financing and regulating agricultural and rural development in India?",
+  "qHi": "भारत में कृषि और ग्रामीण विकास के वित्तपोषण और विनियमन के लिए निम्नलिखित में से कौन सी शीर्ष संस्था है?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "NHB"
+  ],
+  "optsHi": [
+   "सिडबी",
+   "नाबार्ड",
+   "एक्सिम बैंक",
+   "राष्ट्रीय आवास बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) was established on July 12, 1982, to implement the National Bank for Agriculture and Rural Development Act, 1981, focusing on agriculture and rural development.",
+  "sourceHint": "NABARD Act, 1981",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T05:52:17Z"
+ },
+ {
+  "id": "q_c4f0365c0c0c9670",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of financial market is primarily meant for short-term debt instruments with maturity of up to one year?",
+  "qHi": "किस प्रकार का वित्तीय बाजार मुख्य रूप से एक वर्ष तक की परिपक्वता वाले अल्पकालिक ऋण उपकरणों के लिए होता है?",
+  "optsEn": [
+   "Capital Market",
+   "Money Market",
+   "Primary Market",
+   "Derivatives Market"
+  ],
+  "optsHi": [
+   "पूंजी बाजार",
+   "मुद्रा बाजार",
+   "प्राथमिक बाजार",
+   "व्युत्पन्न बाजार"
+  ],
+  "correct": 1,
+  "explainEn": "The money market is a segment of the financial market where financial instruments with high liquidity and short maturities (up to one year) are traded.",
+  "sourceHint": "NCERT Economics textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T05:52:17Z"
+ },
+ {
+  "id": "q_e98da5fd910b95a8",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the term 'CASA' stand for in the context of commercial banking operations in India?",
+  "qHi": "भारत में वाणिज्यिक बैंकिंग संचालन के संदर्भ में 'CASA' शब्द का क्या अर्थ है?",
+  "optsEn": [
+   "Current Account Savings Account",
+   "Capital Adequacy and Statutory Assets",
+   "Core Accounting and Saving Application",
+   "Credit Allocation and Savings Adjustment"
+  ],
+  "optsHi": [
+   "करंट अकाउंट सेविंग्स अकाउंट",
+   "कैपिटल एडिक्वेसी एंड स्टेटटरी एसेट्स",
+   "कोर अकाउंटिंग एंड सेविंग एप्लीकेशन",
+   "क्रेडिट एलोकेशन एंड सेविंग्स एडजस्टमेंट"
+  ],
+  "correct": 0,
+  "explainEn": "CASA ratio refers to the ratio of deposits in current and savings accounts to the total deposits of a bank. It is a major source of low-cost funds for banks.",
+  "sourceHint": "Banking and Financial Terms Glossary, RBI",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T05:52:17Z"
  }
 ]

@@ -17862,5 +17862,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-29T22:47:27Z"
+ },
+ {
+  "id": "q_cfa2a073d1808d66",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas constitutes the maximum percentage of Earth's atmosphere?",
+  "qHi": "कौन सी गैस पृथ्वी के वायुमंडल का अधिकतम प्रतिशत बनाती है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon Dioxide",
+   "Nitrogen",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "आर्गन"
+  ],
+  "correct": 2,
+  "explainEn": "Nitrogen makes up about 78 percent of Earth's atmosphere by volume.",
+  "sourceHint": "NCERT Class 7 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T05:51:12Z"
  }
 ]

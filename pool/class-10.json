@@ -24358,5 +24358,425 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-29T22:48:11Z"
+ },
+ {
+  "id": "q_29d443402d54736c",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of chemical reaction takes place when natural gas burns?",
+  "qHi": "प्राकृतिक गैस के जलने पर किस प्रकार की रासायनिक प्रतिक्रिया होती है?",
+  "optsEn": [
+   "Endothermic reaction",
+   "Exothermic reaction",
+   "Displacement reaction",
+   "Precipitation reaction"
+  ],
+  "optsHi": [
+   "ऊष्माशोषी अभिक्रिया",
+   "ऊक्षेपी अभिक्रिया",
+   "विस्थापन अभिक्रिया",
+   "अवक्षेपण अभिक्रिया"
+  ],
+  "correct": 1,
+  "explainEn": "Burning of natural gas releases heat, making it an exothermic reaction.",
+  "sourceHint": "NCERT Class 10 Science Chapter 1 Chemical Reactions and Equations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T05:50:59Z"
+ },
+ {
+  "id": "q_8d760b885962324d",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "The phenomenon of splitting of white light into its component colors is called:",
+  "qHi": "श्वेत प्रकाश के उसके घटक रंगों में विभाजित होने की परिघटना क्या कहलाती है?",
+  "optsEn": [
+   "Reflection",
+   "Refraction",
+   "Dispersion",
+   "Scattering"
+  ],
+  "optsHi": [
+   "परावर्तन",
+   "अपवर्तन",
+   "विक्षेपण",
+   "प्रकीर्णन"
+  ],
+  "correct": 2,
+  "explainEn": "Dispersion is the splitting of white light into its seven constituent colors when passing through a prism.",
+  "sourceHint": "NCERT Class 10 Science Chapter 11 Human Eye and Colorful World",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T05:50:59Z"
+ },
+ {
+  "id": "q_bcfc816be81e76fd",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the direction of conventional current in an electric circuit?",
+  "qHi": "एक विद्युत परिपथ में पारंपरिक धारा की दिशा क्या होती है?",
+  "optsEn": [
+   "From negative terminal to positive terminal",
+   "From positive terminal to negative terminal",
+   "Perpendicular to the wire",
+   "Random direction"
+  ],
+  "optsHi": [
+   "ऋणात्मक टर्मिनल से धनात्मक टर्मिनल की ओर",
+   "धनात्मक टर्मिनल से ऋणात्मक टर्मिनल की ओर",
+   "तार के लंबवत",
+   "यादृच्छिक दिशा"
+  ],
+  "correct": 1,
+  "explainEn": "Conventionally, the direction of electric current is taken as opposite to the direction of flow of electrons, which is from positive to negative terminal.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T05:51:55Z"
+ },
+ {
+  "id": "q_ba80f02dd7b93cd9",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of forest is found in regions receiving annual rainfall between 70 cm and 200 cm in India?",
+  "qHi": "भारत में 70 सेमी से 200 सेमी के बीच वार्षिक वर्षा प्राप्त करने वाले क्षेत्रों में किस प्रकार के वन पाए जाते हैं?",
+  "optsEn": [
+   "Tropical Evergreen Forests",
+   "Tropical Deciduous Forests",
+   "Thorny Bushes",
+   "Mangrove Forests"
+  ],
+  "optsHi": [
+   "उष्णकटिबंधीय सदाबहार वन",
+   "उष्णकटिबंधीय पर्णपाती वन",
+   "कंटीली झाड़ियाँ",
+   "मैंग्रोव वन"
+  ],
+  "correct": 1,
+  "explainEn": "Tropical deciduous forests are the most widespread forests in India, spread over regions receiving rainfall between 200 cm and 70 cm.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T05:51:55Z"
+ },
+ {
+  "id": "q_6adb2bd195788264",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which power-sharing arrangement was adopted by Belgium to avoid civic strife between its linguistic communities?",
+  "qHi": "बेल्जियम द्वारा अपने भाषाई समुदायों के बीच नागरिक संघर्ष से बचने के लिए किस सत्ता की साझेदारी व्यवस्था को अपनाया गया था?",
+  "optsEn": [
+   "Unitary government",
+   "Absolute monarchy",
+   "Community government",
+   "Military dictatorship"
+  ],
+  "optsHi": [
+   "एकात्मक सरकार",
+   "निरंकुश राजशाही",
+   "सामुदायिक सरकार",
+   "सैन्य तानाशाही"
+  ],
+  "correct": 2,
+  "explainEn": "Belgium adopted a unique system where a third kind of government, called the community government, is elected by people belonging to one language community.",
+  "sourceHint": "NCERT Class 10 Civics, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T05:51:55Z"
+ },
+ {
+  "id": "q_ab62f649e5c2b831",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)?",
+  "qHi": "महात्मा गांधी राष्ट्रीय ग्रामीण रोजगार गारंटी अधिनियम (मनरेगा) का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To provide guaranteed 100 days of employment in a year",
+   "To provide free higher education",
+   "To offer free international travel",
+   "To subsidize heavy industries"
+  ],
+  "optsHi": [
+   "वर्ष में 100 दिनों के रोजगार की गारंटी देना",
+   "मुफ्त उच्च शिक्षा प्रदान करना",
+   "मुफ्त अंतरराष्ट्रीय यात्रा की पेशकश करना",
+   "भारी उद्योगों को सब्सिडी देना"
+  ],
+  "correct": 0,
+  "explainEn": "MGNREGA 2005 guarantees 100 days of wage employment in a year to every rural household whose adult members volunteer to do unskilled manual work.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T05:51:55Z"
+ },
+ {
+  "id": "q_b7e3ec1e9fadabd8",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which crop is known as a staple food crop in India's northern and north-western parts, requiring a moderate temperature and rainfall during growing season?",
+  "qHi": "भारत के उत्तरी और उत्तर-पश्चिमी भागों में किस फसल को मुख्य खाद्य फसल के रूप में जाना जाता है, जिसे बढ़ने के मौसम के दौरान मध्यम तापमान और वर्षा की आवश्यकता होती है?",
+  "optsEn": [
+   "Rice",
+   "Wheat",
+   "Tea",
+   "Coffee"
+  ],
+  "optsHi": [
+   "चावल",
+   "गेहूँ",
+   "चाय",
+   "कॉफ़ी"
+  ],
+  "correct": 1,
+  "explainEn": "Wheat is the second most important cereal crop in India, mainly food crop in north and north-western part, requiring 50-75 cm annual rainfall.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T05:51:55Z"
+ },
+ {
+  "id": "q_a85f9f8ab93ec6fa",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What chemical process is used during the extraction of metals from their sulphide ores by heating them strongly in the presence of excess air?",
+  "qHi": "सल्फाइड अयस्कों से धातुओं के निष्कर्षण के दौरान अतिरिक्त हवा की उपस्थिति में उन्हें तीव्रता से गर्म करके किस रासायनिक प्रक्रिया का उपयोग किया जाता है?",
+  "optsEn": [
+   "Calcination",
+   "Roasting",
+   "Reduction",
+   "Refining"
+  ],
+  "optsHi": [
+   "निस्तापन",
+   "भर्जन",
+   "अपचयन",
+   "परिष्करण"
+  ],
+  "correct": 1,
+  "explainEn": "Roasting is the process in which a sulphide ore is strongly heated in the presence of excess air to convert it into metal oxide.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T05:51:55Z"
+ },
+ {
+  "id": "q_ff3035b3506bd45e",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which sector is also known as the service sector and includes activities like transport, banking, and trade?",
+  "qHi": "किस क्षेत्र को सेवा क्षेत्र के रूप में भी जाना जाता है और इसमें परिवहन, बैंकिंग और व्यापार जैसी गतिविधियाँ शामिल हैं?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Quaternary sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "तृतीयक क्षेत्र",
+   "चतुर्थक क्षेत्र"
+  ],
+  "correct": 2,
+  "explainEn": "The tertiary sector includes activities that help in the development of primary and secondary sectors, supporting production through services like transport and banking.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T05:51:55Z"
+ },
+ {
+  "id": "q_abdc6042affbc307",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During which phase of the Indian National Movement was the Home Rule Movement launched?",
+  "qHi": "भारतीय राष्ट्रीय आंदोलन के किस चरण के दौरान होम रूल आंदोलन शुरू किया गया था?",
+  "optsEn": [
+   "First World War",
+   "Second World War",
+   "Non-Cooperation Movement",
+   "Civil Disobedience Movement"
+  ],
+  "optsHi": [
+   "प्रथम विश्व युद्ध",
+   "द्वितीय विश्व युद्ध",
+   "असहयोग आंदोलन",
+   "सविनय अवज्ञा आंदोलन"
+  ],
+  "correct": 0,
+  "explainEn": "The Home Rule Leagues were launched by Bal Gangadhar Tilak and Annie Besant in 1916 during the First World War.",
+  "sourceHint": "NCERT Class 10 History - Nationalism in India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T05:53:00Z"
+ },
+ {
+  "id": "q_5c5e76c2ada11fcc",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which soil type is formed by the weathering of basaltic lava rocks and is well-known for moisture retention?",
+  "qHi": "बेसाल्टिक लावा चट्टानों के अपक्षय से कौन सी मिट्टी बनती है और जो नमी बनाए रखने के लिए जानी जाती है?",
+  "optsEn": [
+   "Black soil",
+   "Laterite soil",
+   "Red soil",
+   "Alluvial soil"
+  ],
+  "optsHi": [
+   "काली मिट्टी",
+   "लैटेराइट मिट्टी",
+   "लाल मिट्टी",
+   "जलोढ़ मिट्टी"
+  ],
+  "correct": 0,
+  "explainEn": "Black soil, also known as regur soil, is formed from volcanic basaltic rocks and is ideal for growing cotton due to its high moisture retention capacity.",
+  "sourceHint": "NCERT Class 10 Geography - Resources and Development",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T05:53:00Z"
+ },
+ {
+  "id": "q_f5ce0cb465bd5632",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the banking sector in India, what does the statutory liquidity ratio (SLR) refer to?",
+  "qHi": "भारत में बैंकिंग क्षेत्र के संदर्भ में, सांविधिक तरलता अनुपात (SLR) से क्या तात्पर्य है?",
+  "optsEn": [
+   "Liquid assets that commercial banks must maintain with themselves before credit creation",
+   "Cash reserve that banks must keep with the Reserve Bank of India",
+   "Interest rate charged by the central bank on commercial bank loans",
+   "Minimum capital adequacy ratio mandated for international banks"
+  ],
+  "optsHi": [
+   "तरल परिसंपत्तियां जिन्हें वाणिज्यिक बैंकों को ऋण सृजन से पहले अपने पास रखना आवश्यक है",
+   "नकद आरक्षित अनुपात जो बैंकों को भारतीय रिजर्व बैंक के पास रखना होता है",
+   "वाणिज्यिक बैंकों के ऋणों पर केंद्रीय बैंक द्वारा लिया जाने वाला ब्याज दर",
+   "अंतर्राष्ट्रीय बैंकों के लिए अनिवार्य न्यूनतम पूंजी पर्याप्तता अनुपात"
+  ],
+  "correct": 0,
+  "explainEn": "SLR is the minimum percentage of deposits that a commercial bank must maintain in the form of liquid cash, gold, or approved securities before providing credit.",
+  "sourceHint": "NCERT Class 10 Economics - Money and Credit",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T05:53:00Z"
+ },
+ {
+  "id": "q_69082b4981f9a536",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which power-sharing arrangement was adopted by Belgium to accommodate its linguistic diversity?",
+  "qHi": "बेल्जियम द्वारा अपनी भाषाई विविधता को समायोजित करने के लिए कौन सी सत्ता की साझेदारी व्यवस्था अपनाई गई थी?",
+  "optsEn": [
+   "Equal representation of Dutch and French-speaking ministers in the central government",
+   "Unitary government with absolute dominance of the majority linguistic group",
+   "Complete division of the country into two independent sovereign states",
+   "Rule by a single community based on proportional demographic representation"
+  ],
+  "optsHi": [
+   "केंद्रीय सरकार में डच और फ्रेंच भाषी मंत्रियों का समान प्रतिनिधित्व",
+   "बहुसंख्यक भाषाई समूह के पूर्ण वर्चस्व वाली एकात्मक सरकार",
+   "देश का दो स्वतंत्र संप्रभु राज्यों में पूर्ण विभाजन",
+   "आनुपातिक जनसांख्यिकीय प्रतिनिधित्व के आधार पर एक ही समुदाय का शासन"
+  ],
+  "correct": 0,
+  "explainEn": "Belgium's constitution prescribed that the number of Dutch and French-speaking ministers shall be equal in the central government to prevent domination by one linguistic group.",
+  "sourceHint": "NCERT Class 10 Democratic Politics - Power Sharing",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T05:53:00Z"
+ },
+ {
+  "id": "q_1464f3f25fab85a3",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which type of energy resource is geothermal energy classified as?",
+  "qHi": "भू-तापीय ऊर्जा को किस प्रकार के ऊर्जा संसाधन के रूप में वर्गीकृत किया गया है?",
+  "optsEn": [
+   "Non-conventional and renewable",
+   "Conventional and non-renewable",
+   "Fossil fuel based",
+   "Exhaustible metallic resource"
+  ],
+  "optsHi": [
+   "गैर-पारंपरिक और नवीकरणीय",
+   "पारंपरिक और अनवीकरणीय",
+   "जीवाश्म ईंधन आधारित",
+   "समाप्य धातु संसाधन"
+  ],
+  "correct": 0,
+  "explainEn": "Geothermal energy harnesses heat from the interior of the Earth and is classified as a non-conventional, renewable source of energy.",
+  "sourceHint": "NCERT Class 10 Geography - Minerals and Energy Resources",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T05:53:00Z"
+ },
+ {
+  "id": "q_45df5793c17942cd",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the carbon cycle and global climate discussions, which sector is primarily associated with greenhouse gas emissions from fossil fuel combustion?",
+  "qHi": "कार्बन चक्र और वैश्विक जलवायु चर्चाओं के संदर्भ में, कौन सा क्षेत्र मुख्य रूप से जीवाश्म ईंधन दहन से होने वाले ग्रीनहाउस गैस उत्सर्जन से जुड़ा है?",
+  "optsEn": [
+   "Energy and electricity generation",
+   "Primary artisanal forestry",
+   "Traditional organic agriculture",
+   "Wilderness biodiversity conservation"
+  ],
+  "optsHi": [
+   "ऊर्जा और बिजली उत्पादन",
+   "प्राथमिक हस्तशिल्प वानिकी",
+   "पारंपरिक जैविक कृषि",
+   "जंगल जैव विविधता संरक्षण"
+  ],
+  "correct": 0,
+  "explainEn": "Energy production and electricity generation involving fossil fuel combustion are the largest contributors to anthropogenic greenhouse gas emissions.",
+  "sourceHint": "NCERT Class 10 Geography / General Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T05:53:00Z"
  }
 ]

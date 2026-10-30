@@ -28110,5 +28110,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-29T22:47:22Z"
+ },
+ {
+  "id": "q_8daa84bb8e4a0c12",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Where is the headquarters of the Geological Survey of India located?",
+  "qHi": "भारतीय भूवैज्ञानिक सर्वेक्षण का मुख्यालय कहाँ स्थित है?",
+  "optsEn": [
+   "Kolkata",
+   "New Delhi",
+   "Bengaluru",
+   "Hyderabad"
+  ],
+  "optsHi": [
+   "कोलकाता",
+   "नई दिल्ली",
+   "बेंगलुरु",
+   "हैदराबाद"
+  ],
+  "correct": 0,
+  "explainEn": "The headquarters of the Geological Survey of India is located in Kolkata, West Bengal.",
+  "sourceHint": "Ministry of Mines, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T05:51:08Z"
+ },
+ {
+  "id": "q_59d9ab4f1057e9bf",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which wind system brings rainfall to the Malabar Coast of India during summer?",
+  "qHi": "ग्रीष्म ऋतु में कौन सी पवन प्रणाली भारत के मालाबार तट पर वर्षा लाती है?",
+  "optsEn": [
+   "North-East Monsoon",
+   "South-West Monsoon",
+   "Western Disturbances",
+   "Retreating Monsoon"
+  ],
+  "optsHi": [
+   "उत्तर-पूर्वी मानसून",
+   "दक्षिण-पश्चिमी मानसून",
+   "पश्चिमी विक्षोभ",
+   "लौटता हुआ मानसून"
+  ],
+  "correct": 1,
+  "explainEn": "The South-West Monsoon brings the primary rainy season to the Malabar Coast and most of India.",
+  "sourceHint": "NCERT Class 11 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T05:51:08Z"
+ },
+ {
+  "id": "q_52cdb337c2abf444",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "The Ajanta Caves are primarily known for art belonging to which religion?",
+  "qHi": "अजंता की गुफाएं मुख्य रूप से किस धर्म से संबंधित कला के लिए जानी जाती हैं?",
+  "optsEn": [
+   "Buddhism",
+   "Jainism",
+   "Hinduism",
+   "Sikhism"
+  ],
+  "optsHi": [
+   "बौद्ध धर्म",
+   "जैन धर्म",
+   "हिंदू धर्म",
+   "सिख धर्म"
+  ],
+  "correct": 0,
+  "explainEn": "The Ajanta Caves contain rock-cut monuments and paintings that are predominantly Buddhist masterpieces.",
+  "sourceHint": "NCERT Class 11 Fine Arts",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T05:51:08Z"
+ },
+ {
+  "id": "q_65ba464c10af832c",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The term 'Rustom-2', often seen in news regarding Indian defense, refers to which of the following?",
+  "qHi": "भारतीय रक्षा के संदर्भ में चर्चा में रहने वाला शब्द 'रुस्तम-2' किससे संबंधित है?",
+  "optsEn": [
+   "An indigenous stealth submarine",
+   "A medium-altitude long-endurance unmanned aerial vehicle",
+   "A supersonic cruise missile system",
+   "An upgraded main battle tank"
+  ],
+  "optsHi": [
+   "एक स्वदेशी स्टील्थ पनडुब्बी",
+   "एक मध्यम-ऊंचाई वाला लंबी सहनशक्ति वाला मानव रहित हवाई वाहन",
+   "एक सुपरसोニック क्रूज मिसाइल प्रणाली",
+   "एक उन्नत मुख्य युद्धक टैंक"
+  ],
+  "correct": 1,
+  "explainEn": "Rustom-2 is a Medium Altitude Long Endurance (MALE) unmanned aerial vehicle (UAV) developed by the Aeronautical Development Establishment of DRDO.",
+  "sourceHint": "DRDO official website and PIB releases",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T05:52:06Z"
+ },
+ {
+  "id": "q_ad3e5d938f179cf1",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of Indian economic history, the 'Zabt' system introduced during the Mughal period was primarily associated with what?",
+  "qHi": "भारतीय आर्थिक इतिहास के संदर्भ में, मुगल काल के दौरान शुरू की गई 'जब्त' प्रणाली मुख्य रूप से किससे संबंधित थी?",
+  "optsEn": [
+   "Revenue assessment and collection",
+   "Military recruitment and ranking",
+   "Judicial administration in rural areas",
+   "Coinage and minting standards"
+  ],
+  "optsHi": [
+   "राजस्व आकलन और संग्रह",
+   "सैन्य भर्ती और रैंकिंग",
+   "ग्रामीण क्षेत्रों में न्यायिक प्रशासन",
+   "सिक्के और टकसाल के मानक"
+  ],
+  "correct": 0,
+  "explainEn": "The Zabt system was a land revenue system introduced under Akbar, where cash revenue rates were fixed on the basis of crop yields and historical prices.",
+  "sourceHint": "NCERT Class 12 History - Themes in Indian History Part II",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T05:52:06Z"
+ },
+ {
+  "id": "q_eb154ad33d42a3fd",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Indian Constitution, the power to extend the jurisdiction of a High Court to a Union Territory is vested in whom?",
+  "qHi": "भारतीय संविधान के तहत, किसी उच्च न्यायालय के क्षेत्राधिकार को केंद्र शासित प्रदेश तक बढ़ाने की शक्ति किसमें निहित है?",
+  "optsEn": [
+   "The President of India",
+   "The Parliament of India",
+   "The Governor of the concerned state",
+   "The Supreme Court of India"
+  ],
+  "optsHi": [
+   "भारत के राष्ट्रपति",
+   "भारत की संसद",
+   "संबंधित राज्य के राज्यपाल",
+   "भारत का सर्वोच्च न्यायालय"
+  ],
+  "correct": 1,
+  "explainEn": "According to Article 230 of the Constitution of India, Parliament may by law extend the jurisdiction of a High Court to, or exclude the jurisdiction of a High Court from, any Union territory.",
+  "sourceHint": "Constitution of India, Article 230",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T05:52:06Z"
+ },
+ {
+  "id": "q_65882aac00483575",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following archaeological sites is famous for its sophisticated water management system involving a series of water reservoirs and rock-cut channels?",
+  "qHi": "निम्नलिखित में से कौन सा पुरातात्विक स्थल जलाशयों और चट्टानों को काटकर बनाई गई नहरों की श्रृंखला से जुड़ी अपनी उन्नत जल प्रबंधन प्रणाली के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Lothal",
+   "Kalibangan",
+   "Dholavira",
+   "Ropar"
+  ],
+  "optsHi": [
+   "लोथल",
+   "कालीबंगा",
+   "धोलावीरा",
+   "रोपड़"
+  ],
+  "correct": 2,
+  "explainEn": "Dholavira is renowned for its unique water management system, which includes massive stone-cut reservoirs, channels, and check dams designed to harvest rainwater.",
+  "sourceHint": "NCERT Class 12 History - Themes in Indian History Part I",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T05:52:06Z"
+ },
+ {
+  "id": "q_a0eb1115c86c3726",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In monetary economics, 'Open Market Operations' refer to which of the following activities?",
+  "qHi": "मौद्रिक अर्थशास्त्र में, 'खुले बाजार की संचालन क्रियाएं' (Open Market Operations) निम्नलिखित में से किस गतिविधि को संदर्भित करती हैं?",
+  "optsEn": [
+   "Buying and selling of government securities by the central bank",
+   "Fixing the minimum reserve ratio for commercial banks",
+   "Providing direct loans to retail agricultural borrowers",
+   "Issuing licenses for foreign exchange transactions"
+  ],
+  "optsHi": [
+   "केंद्रीय बैंक द्वारा सरकारी प्रतिभूतियों की खरीद और बिक्री",
+   "वाणिज्यिक बैंकों के लिए न्यूनतम आरक्षित अनुपात तय करना",
+   "खुदरा कृषि उधारकर्ताओं को प्रत्यक्ष ऋण प्रदान करना",
+   "विदेशी मुद्रा लेनदेन के लिए लाइसेंस जारी करना"
+  ],
+  "correct": 0,
+  "explainEn": "Open Market Operations (OMO) is a monetary policy tool involving the buying and selling of government securities in the open market by the central bank to influence money supply.",
+  "sourceHint": "NCERT Class 12 Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T05:52:06Z"
  }
 ]
