@@ -20914,5 +20914,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-30T12:58:43Z"
+ },
+ {
+  "id": "q_81412b5023d0095a",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which micro-organism is used in the production of alcohol and bread?",
+  "qHi": "शराब और ब्रेड के उत्पादन में किस सूक्ष्म जीव का उपयोग किया जाता है?",
+  "optsEn": [
+   "Lactobacillus",
+   "Yeast",
+   "Amoeba",
+   "Plasmodium"
+  ],
+  "optsHi": [
+   "लैक्टोबैसिलस",
+   "यीस्ट",
+   "अमीबा",
+   "प्लास्मोडियम"
+  ],
+  "correct": 1,
+  "explainEn": "Yeast reproduces rapidly and respires anaerobically, producing carbon dioxide which helps bread rise and alcohol to form.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T22:22:05Z"
+ },
+ {
+  "id": "q_1dda53308f22dca6",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Synthetic fibre also known as artificial silk is:",
+  "qHi": "कृत्रिम रेशम के रूप में जाने जाने वाला सिंथेटिक फाइबर कौन सा है?",
+  "optsEn": [
+   "Nylon",
+   "Rayon",
+   "Polyester",
+   "Acrylic"
+  ],
+  "optsHi": [
+   "ना नायलॉन",
+   "रेयान",
+   "पॉलिएस्टर",
+   "एक्रीलिक"
+  ],
+  "correct": 1,
+  "explainEn": "Rayon is obtained from wood pulp and has properties similar to that of silk, hence called artificial silk.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T22:22:05Z"
  }
 ]

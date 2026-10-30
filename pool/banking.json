@@ -30042,5 +30042,397 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-30T12:59:37Z"
+ },
+ {
+  "id": "q_6cdc4b1f098477ac",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which institution in India acts as the apex institution for agricultural and rural development financing?",
+  "qHi": "भारत में कौन सी संस्था कृषि और ग्रामीण विकास वित्तपोषण के लिए शीर्ष संस्था के रूप में कार्य करती है?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "NHB"
+  ],
+  "optsHi": [
+   "सिडबी",
+   "नाबार्ड",
+   "एक्सिम बैंक",
+   "एनएचबी"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) is the apex regulatory body for overall policy and operations in the rural credit sector.",
+  "sourceHint": "NABARD Act, 1981",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T22:21:53Z"
+ },
+ {
+  "id": "q_578154af2c0b8f56",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the minimum paid-up capital requirement for setting up a Small Finance Bank in India as per current guidelines?",
+  "qHi": "वर्तमान दिशानिर्देशों के अनुसार भारत में एक लघु वित्त बैंक (स्मॉल फाइनेंस बैंक) स्थापित करने के लिए न्यूनतम चुकता पूंजी की आवश्यकता क्या है?",
+  "optsEn": [
+   "Rupees 100 Crores",
+   "Rupees 200 Crores",
+   "Rupees 500 Crores",
+   "Rupees 1000 Crores"
+  ],
+  "optsHi": [
+   "100 करोड़ रुपये",
+   "200 करोड़ रुपये",
+   "500 करोड़ रुपये",
+   "1000 करोड़ रुपये"
+  ],
+  "correct": 1,
+  "explainEn": "As per RBI licensing guidelines for Small Finance Banks, the minimum paid-up voting equity capital is Rs. 200 crores.",
+  "sourceHint": "Reserve Bank of India licensing guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T22:21:53Z"
+ },
+ {
+  "id": "q_8cf25f0435b8445b",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In the context of banking cards, what does the abbreviation 'ATM' stand for?",
+  "qHi": "बैंकिंग कार्ड के संदर्भ में, संक्षिप्त नाम 'ATM' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Automated Transaction Machine",
+   "Any Time Money",
+   "Automated Teller Machine",
+   "Automatic Transfer Module"
+  ],
+  "optsHi": [
+   "ऑटोमेटेड ट्रांजेक्शन मशीन",
+   "एनी टाइम मनी",
+   "ऑटोमेटेड टेलर मशीन",
+   "ऑटोमैटिक ट्रांसफर मॉड्यूल"
+  ],
+  "correct": 2,
+  "explainEn": "ATM stands for Automated Teller Machine, an electronic telecommunication device that enables customers to perform financial transactions.",
+  "sourceHint": "Standard banking dictionary and encyclopedia",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T22:21:53Z"
+ },
+ {
+  "id": "q_78ded9f7569be223",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following entities regulates Mutual Funds in India?",
+  "qHi": "भारत में म्यूचुअल फंड को निम्नलिखित में से कौन सी संस्था विनियमित करती है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India",
+   "Insurance Regulatory and Development Authority of India",
+   "Pension Fund Regulatory and Development Authority"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "भारतीय बीमा विनियामक और विकास प्राधिकरण",
+   "पेंशन फंड विनियामक और विकास प्राधिकरण"
+  ],
+  "correct": 1,
+  "explainEn": "SEBI regulates mutual funds in India under the SEBI (Mutual Funds) Regulations, 1996 to protect the interests of investors in securities.",
+  "sourceHint": "SEBI Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T22:23:30Z"
+ },
+ {
+  "id": "q_9d11cb55da4417c9",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of 'Priority Sector Lending' mandated by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा अनिवार्य 'प्राथमिकता प्राप्त क्षेत्र को ऋण' (प्रायोरिटी सेक्टर लेंडिंग) का मुख्य उद्देश्य क्या है?",
+  "optsEn": [
+   "To provide financial assistance exclusively to foreign institutional investors",
+   "To ensure adequate flow of credit to vulnerable sectors of the economy like agriculture and micro enterprises",
+   "To fund large-scale infrastructure projects undertaken by central public sector enterprises",
+   "To provide high-interest commercial loans to multinational corporations"
+  ],
+  "optsHi": [
+   "विशेष रूप से विदेशी संस्थागत निवेशकों को वित्तीय सहायता प्रदान करना",
+   "कृषि और सूक्ष्म उद्यमों जैसे अर्थव्यवस्था के कमजोर क्षेत्रों को ऋण का पर्याप्त प्रवाह सुनिश्चित करना",
+   "केंद्रीय सार्वजनिक क्षेत्र के उद्यमों द्वारा शुरू की गई बड़े पैमाने की बुनियादी ढांचा परियोजनाओं को वित्त पोषित करना",
+   "बहुराष्ट्रीय निगमों को उच्च ब्याज वाले वाणिज्यिक ऋण प्रदान करना"
+  ],
+  "correct": 1,
+  "explainEn": "Priority Sector Lending (PSL) is an important role given by the RBI to the banks for providing a specified portion of the bank lending to sectors like agriculture, micro, small and medium enterprises, weaker sections, etc.",
+  "sourceHint": "RBI Master Directions on Priority Sector Lending",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T22:23:30Z"
+ },
+ {
+  "id": "q_70a856835e64432a",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which financial document issued by a bank serves as an undertaking of payment to a seller on behalf of a buyer, provided that specified shipping documents are presented?",
+  "qHi": "एक बैंक द्वारा जारी किया गया कौन सा वित्तीय दस्तावेज खरीदार की ओर से विक्रेता को भुगतान के आश्वासन के रूप में कार्य करता है, बशर्ते कि निर्दिष्ट शिपिंग दस्तावेज प्रस्तुत किए जाएं?",
+  "optsEn": [
+   "Letter of Credit",
+   "Certificate of Deposit",
+   "Commercial Paper",
+   "Promissory Note"
+  ],
+  "optsHi": [
+   "साख पत्र (लेटर ऑफ क्रेडिट)",
+   "जमा प्रमाणपत्र",
+   "वाणिज्यिक पत्र",
+   "वचन पत्र"
+  ],
+  "correct": 0,
+  "explainEn": "A Letter of Credit is a guarantee from a bank that a buyer's payment to a seller will be received on time and for the correct amount.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) Study Material",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T22:23:30Z"
+ },
+ {
+  "id": "q_b8a6cdef6b8e820c",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the 'C' stand for in the financial term 'CASA' account used in banking?",
+  "qHi": "बैंकिंग में प्रयुक्त वित्तीय शब्द 'कासा' (CASA) खाते में 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Capital",
+   "Current",
+   "Credit",
+   "Collateral"
+  ],
+  "optsHi": [
+   "पूंजी (कैपिटल)",
+   "चालू (करेंट)",
+   "क्रेडिट",
+   "संपार्श्विक (कोल laterales)"
+  ],
+  "correct": 1,
+  "explainEn": "CASA stands for Current Account Savings Account. It refers to a bank account that combines current and savings account features.",
+  "sourceHint": "Banking Terminology - NCERT Commerce Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T22:23:30Z"
+ },
+ {
+  "id": "q_decf2f73cceb5def",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a check that bears across its face two parallel transverse lines is known as what?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, एक चेक जिसके मुख पर दो समानांतर तिरछी रेखाएं खींची जाती हैं, उसे क्या कहा जाता है?",
+  "optsEn": [
+   "Bearer check",
+   "Crossed check",
+   "Mutilated check",
+   "Stale check"
+  ],
+  "optsHi": [
+   "धारक चेक",
+   "रेखांकित चेक (क्रॉस्ड चेक)",
+   "विकृत चेक",
+   "बासी चेक"
+  ],
+  "correct": 1,
+  "explainEn": "A crossed check directs the drawee bank to pay the specified sum only to a banker, making it safer than an open check because it cannot be encashed across the counter.",
+  "sourceHint": "The Negotiable Instruments Act, 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T22:23:30Z"
+ },
+ {
+  "id": "q_bf959e043bdd1ef8",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum limit of deposit insurance provided by the Deposit Insurance and Credit Guarantee Corporation (DICGC) per depositor per bank in India?",
+  "qHi": "भारत में प्रति बैंक प्रति जमाकर्ता जमा बीमा और क्रेडिट गारंटी निगम (DICGC) द्वारा प्रदान किए जाने वाले जमा बीमा की अधिकतम सीमा क्या है?",
+  "optsEn": [
+   "One lakh rupees",
+   "Two lakh rupees",
+   "Five lakh rupees",
+   "Ten lakh rupees"
+  ],
+  "optsHi": [
+   "एक लाख रुपये",
+   "दो लाख रुपये",
+   "पांच लाख रुपये",
+   "दस लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "DICGC insures all bank deposits, such as savings, fixed, current, and recurring deposits up to a limit of Rs. 5,00,000 per depositor per bank.",
+  "sourceHint": "DICGC Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T22:23:30Z"
+ },
+ {
+  "id": "q_af13e96ee635dbaa",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under Basel III norms, what minimum Common Equity Tier 1 (CET1) capital ratio must Indian scheduled commercial banks maintain, excluding the Capital Conservation Buffer?",
+  "qHi": "बेसल III मानदंडों के तहत, पूंजी संरक्षण बफर को छोड़कर, भारतीय अनुसूचित वाणिज्यिक बैंकों को न्यूनतम सामान्य इक्विटी टियर 1 (CET1) पूंजी अनुपात कितना बनाए रखना चाहिए?",
+  "optsEn": [
+   "4.5%",
+   "5.5%",
+   "8.0%",
+   "9.0%"
+  ],
+  "optsHi": [
+   "4.5%",
+   "5.5%",
+   "8.0%",
+   "9.0%"
+  ],
+  "correct": 0,
+  "explainEn": "RBI guidelines mandate a minimum CET1 capital ratio of 5.5% (4.5% base + 1.0% CCB) or specifically 4.5% strictly as the core CET1 ratio before the Capital Conservation Buffer.",
+  "sourceHint": "RBI Master Circular on Basel III Capital Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T22:24:13Z"
+ },
+ {
+  "id": "q_dd495d1dfde940ac",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the maximum permissible limit for aggregate foreign portfolio investment (FPI) in an Indian corporate borrower without specific board and shareholder approvals, up to the sectoral cap?",
+  "qHi": "क्षेत्रीय सीमा तक, विशिष्ट बोर्ड और शेयरधारक अनुमोदन के बिना एक भारतीय कॉर्पोरेट ऋणदाता में कुल विदेशी पोर्टफोलियो निवेश (FPI) के लिए अधिकतम स्वीकार्य सीमा क्या है?",
+  "optsEn": [
+   "Up to the sectoral cap applicable to the sector",
+   "24 percent of paid-up capital",
+   "49 percent of paid-up capital",
+   "74 percent of paid-up capital"
+  ],
+  "optsHi": [
+   "क्षेत्र पर लागू क्षेत्रीय सीमा तक",
+   "चुकता पूंजी का 24 प्रतिशत",
+   "चुकता पूंजी का 49 प्रतिशत",
+   "चुकता पूंजी का 74 प्रतिशत"
+  ],
+  "correct": 0,
+  "explainEn": "FPIs can invest up to the sectoral cap in an Indian company, provided the company does not pass a special resolution to limit it to a lower threshold.",
+  "sourceHint": "FEMA Regulations / RBI Foreign Investment Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T22:24:13Z"
+ },
+ {
+  "id": "q_af0dce96c9833929",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the National Payments Corporation of India (NPCI), what does the letter 'I' stand for in the acronym IMPS?",
+  "qHi": "भारतीय राष्ट्रीय भुगतान निगम (NPCI) के संदर्भ में, IMPS संक्षिप्त नाम में अक्षर 'I' का क्या अर्थ है?",
+  "optsEn": [
+   "Immediate",
+   "Interbank",
+   "Interoperable",
+   "Integrated"
+  ],
+  "optsHi": [
+   "इमीडिएट (Immediate)",
+   "इंटरबैंक (Interbank)",
+   "इंटरऑपरेबल (Interoperable)",
+   "इंटीग्रेटेड (Integrated)"
+  ],
+  "correct": 0,
+  "explainEn": "IMPS stands for Immediate Payment Service. (Note: Option adjusted for standard IBPS testing format)",
+  "sourceHint": "NPCI official documentation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T22:24:13Z"
+ },
+ {
+  "id": "q_7e87412a235c9088",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which entity acts as the central counterparty for all repo transactions conducted on the Corporate Bond Repo platform in India?",
+  "qHi": "भारत में कॉर्पोरेट बॉन्ड रेपो प्लेटफॉर्म पर किए जाने वाले सभी रेपो लेनदेन के लिए केंद्रीय प्रतिपक्ष के रूप में कौन सी संस्था कार्य करती है?",
+  "optsEn": [
+   "Clearing Corporation of India Limited (CCIL)",
+   "National Securities Depository Limited (NSDL)",
+   "Reserve Bank of India (RBI)",
+   "Multi Commodity Exchange (MCX)"
+  ],
+  "optsHi": [
+   "क्लियरिंग कॉरपोरेशन ऑफ इंडिया लिमिटेड (CCIL)",
+   "नेशनल सिक्योरिटीज डिपॉजिटरी लिमिटेड (NSDL)",
+   "भारतीय रिजर्व बैंक (RBI)",
+   "मल्टी कमोडिटी एक्सचेंज (MCX)"
+  ],
+  "correct": 0,
+  "explainEn": "CCIL acts as the central counterparty and provides guaranteed clearing and settlement for trades in the Corporate Bond Repo market.",
+  "sourceHint": "CCIL Official Website and RBI Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T22:24:13Z"
+ },
+ {
+  "id": "q_c57b7f814292dc8f",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Prompt Corrective Action (PCA) framework for Scheduled Commercial Banks, what triggers the mandatory restriction on the expansion of a bank's credit portfolio?",
+  "qHi": "अनुसूचित वाणिज्यिक बैंकों के लिए त्वरित सुधारात्मक कार्रवाई (PCA) ढांचे के तहत, बैंक के ऋण पोर्टफोलियो के विस्तार पर अनिवार्य प्रतिबंध किस कारण से लगाया जाता है?",
+  "optsEn": [
+   "Breach of Risk Threshold 1",
+   "Breach of Risk Threshold 2 or Threshold 3",
+   "Only upon net non-performing asset ratio exceeding 15%",
+   "Immediate effect upon registration with RBI"
+  ],
+  "optsHi": [
+   "जोखिम सीमा 1 का उल्लंघन",
+   "जोखिम सीमा 2 या सीमा 3 का उल्लंघन",
+   "केवल शुद्ध गैर-निष्पादित परिसंपत्ति अनुपात 15% से अधिक होने पर",
+   "RBI के साथ पंजीकरण पर तत्काल प्रभाव"
+  ],
+  "correct": 1,
+  "explainEn": "Threshold 2 and Threshold 3 breaches under the PCA framework trigger mandatory restrictions on credit portfolio expansion and branch expansion.",
+  "sourceHint": "RBI Revised PCA Framework for Scheduled Commercial Banks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T22:24:13Z"
  }
 ]

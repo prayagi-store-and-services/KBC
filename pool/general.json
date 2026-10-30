@@ -17750,5 +17750,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-30T12:58:34Z"
+ },
+ {
+  "id": "q_90b29f926e0991b0",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which spice is famously produced in large quantities in the Union Territory of Jammu and Kashmir?",
+  "qHi": "केंद्र शासित प्रदेश जम्मू और कश्मीर में कौन सा मसाला भारी मात्रा में उत्पादित किया जाता है?",
+  "optsEn": [
+   "Cardamom",
+   "Black Pepper",
+   "Saffron",
+   "Clove"
+  ],
+  "optsHi": [
+   "इलायची",
+   "काली मिर्च",
+   "केसर",
+   "लौंग"
+  ],
+  "correct": 2,
+  "explainEn": "Kashmir is renowned for producing high-quality saffron, which has also received a Geographical Indication tag.",
+  "sourceHint": "PIB India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T22:21:57Z"
+ },
+ {
+  "id": "q_4d6f7f9847f17325",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian national park is famous as the last refuge of the endangered One-horned Rhinoceros?",
+  "qHi": "कौन सा भारतीय राष्ट्रीय उद्यान लुप्तप्राय एक सींग वाले गैंडे के अंतिम आश्रय के रूप में प्रसिद्ध है?",
+  "optsEn": [
+   "Jim Corbett National Park",
+   "Kaziranga National Park",
+   "Sundarbans National Park",
+   "Gir National Park"
+  ],
+  "optsHi": [
+   "जिम कॉर्बेट राष्ट्रीय उद्यान",
+   "काजीरंगा राष्ट्रीय उद्यान",
+   "सुंदरबन राष्ट्रीय उद्यान",
+   "गिर राष्ट्रीय उद्यान"
+  ],
+  "correct": 1,
+  "explainEn": "Kaziranga National Park in Assam hosts two-thirds of the world's great one-horned rhinoceroses.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T22:23:34Z"
+ },
+ {
+  "id": "q_1283e87afc96f83a",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which Indian state is the ancient site of Dholavira, known for its advanced water management system, located?",
+  "qHi": "अपनी उन्नत जल प्रबंधन प्रणाली के लिए प्रसिद्ध प्राचीन स्थल धोलावीरा भारत के किस राज्य में स्थित है?",
+  "optsEn": [
+   "Rajasthan",
+   "Gujarat",
+   "Haryana",
+   "Punjab"
+  ],
+  "optsHi": [
+   "राजस्थान",
+   "गुजरात",
+   "हरियाणा",
+   "पंजाब"
+  ],
+  "correct": 1,
+  "explainEn": "Dholavira is an archaeological site belonging to the Indus Valley Civilization located in Kachchh district, Gujarat.",
+  "sourceHint": "ASI / NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T22:24:19Z"
+ },
+ {
+  "id": "q_cb4e6249bead17b7",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which element, vital for nuclear power generation, is found in large reserves in the monazite sands of coastal India?",
+  "qHi": "परमाणु ऊर्जा उत्पादन के लिए महत्वपूर्ण कौन सा तत्व, तटीय भारत की मोनजाइट रेत में प्रचुर मात्रा में पाया जाता है?",
+  "optsEn": [
+   "Uranium",
+   "Thorium",
+   "Lithium",
+   "Zirconium"
+  ],
+  "optsHi": [
+   "यूरेनियम",
+   "थोरियम",
+   "लिथियम",
+   "जिरकोनियम"
+  ],
+  "correct": 1,
+  "explainEn": "India has substantial reserves of thorium, primarily found in the monazite sands along the coastal regions of Kerala and Tamil Nadu.",
+  "sourceHint": "Department of Atomic Energy, India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T22:24:19Z"
+ },
+ {
+  "id": "q_8544f62ffaa7fc77",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who authored the Sanskrit play 'Malavikagnimitra', which depicts the love story of Agnimitra, a king of the Shunga dynasty?",
+  "qHi": "संस्कृत नाटक 'मालविकाग्निमित्रम्', जिसमें शुंग वंश के राजा अग्निमित्र की प्रेम कथा का वर्णन है, के रचयिता कौन हैं?",
+  "optsEn": [
+   "Bhasa",
+   "Kalidasa",
+   "Shudraka",
+   "Bhavabhuti"
+  ],
+  "optsHi": [
+   "भास",
+   "कालिदास",
+   "शूद्रक",
+   "भवभूति"
+  ],
+  "correct": 1,
+  "explainEn": "Malavikagnimitra is a well-known Sanskrit play written by the classical poet Kalidasa.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T22:24:19Z"
+ },
+ {
+  "id": "q_f7ab15618e631344",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Biosphere Reserve in India is primarily famous as the natural habitat of the endangered Lion-tailed Macaque?",
+  "qHi": "भारत का कौन सा बायोस्फीयर रिजर्व मुख्य रूप से लुप्तप्राय शेर जैसी पूंछ वाले मकाक (लायन-टेल्ड मकाक) के प्राकृतिक आवास के रूप में प्रसिद्ध है?",
+  "optsEn": [
+   "Nilgiri Biosphere Reserve",
+   "Nokrek Biosphere Reserve",
+   "Simlipal Biosphere Reserve",
+   "Pachmarhi Biosphere Reserve"
+  ],
+  "optsHi": [
+   "नीलगिरी बायोस्फीयर रिजर्व",
+   "नोकरेक बायोस्फीयर रिजर्व",
+   "सिमलीपाल बायोस्फीयर रिजर्व",
+   "पचमढ़ी बायोस्फीयर रिजर्व"
+  ],
+  "correct": 0,
+  "explainEn": "The Nilgiri Biosphere Reserve encompasses habitats crucial for the conservation of the endemic Lion-tailed Macaque in the Western Ghats.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T22:24:19Z"
+ },
+ {
+  "id": "q_b29cdb16346011a0",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Constitution of India, which body determines the principles governing grants-in-aid of the revenues of the states out of the Consolidated Fund of India?",
+  "qHi": "भारत के संविधान के तहत, भारत की संचित निधि से राज्यों के राजस्व में सहायता अनुदान को नियंत्रित करने वाले सिद्धांतों का निर्धारण कौन सा निकाय करता है?",
+  "optsEn": [
+   "NITI Aayog",
+   "Finance Commission",
+   "Goods and Services Tax Council",
+   "Inter-State Council"
+  ],
+  "optsHi": [
+   "नीति आयोग",
+   "वित्त आयोग",
+   "वस्तु एवं सेवा कर परिषद",
+   "अंतर-राज्य परिषद"
+  ],
+  "correct": 1,
+  "explainEn": "Article 280 of the Constitution provides for the establishment of a Finance Commission to recommend the distribution of tax proceeds and grants-in-aid.",
+  "sourceHint": "Article 280, Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T22:24:19Z"
+ },
+ {
+  "id": "q_c14657f57bc1e5c6",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian classical dance form traditionally begins with an invocatory item called 'Alarippu', meaning blooming of a bud?",
+  "qHi": "भारत की किस शास्त्रीय नृत्य शैली की शुरुआत पारंपरिक रूप से 'अलारिप्पु' नामक एक आह्वान गीत से होती है, जिसका अर्थ कली का खिलना है?",
+  "optsEn": [
+   "Kathak",
+   "Kathakali",
+   "Bharatanatyam",
+   "Odissi"
+  ],
+  "optsHi": [
+   "कथक",
+   "कथकली",
+   "भरतनाट्यम",
+   "ओडिसी"
+  ],
+  "correct": 2,
+  "explainEn": "In Bharatanatyam, the recital traditionally opens with Alarippu, which is a pure dance item designed to loosen the dancer's limbs.",
+  "sourceHint": "Sangeet Natak Akademi",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T22:24:19Z"
+ },
+ {
+  "id": "q_41578c177e166ea0",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who among the following was the founder of the Satavahana dynasty according to Puranic and epigraphic sources?",
+  "qHi": "पौराणिक और पुरालेखीय स्रोतों के अनुसार निम्नलिखित में से कौन सातवाहन वंश का संस्थापक था?",
+  "optsEn": [
+   "Simuka",
+   "Gautamiputra Satakarni",
+   "Hala",
+   "Vasishthiputra Pulumavi"
+  ],
+  "optsHi": [
+   "सिमुक",
+   "गौतमीपुत्र सातकर्णि",
+   "हाल",
+   "वासिष्ठिपुत्र पुळमावि"
+  ],
+  "correct": 0,
+  "explainEn": "Simuka is mentioned in the Puranas and inscriptions as the founder of the Satavahana dynasty.",
+  "sourceHint": "NCERT Ancient Indian History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T22:24:19Z"
  }
 ]

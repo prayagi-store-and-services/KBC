@@ -25002,5 +25002,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-30T12:58:49Z"
+ },
+ {
+  "id": "q_273771383bd82904",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the power of a lens having a focal length of +1 metre?",
+  "qHi": "+1 मीटर फोकस दूरी वाले लेंस की क्षमता क्या होगी?",
+  "optsEn": [
+   "1 Diopter",
+   "2 Diopter",
+   "0.5 Diopter",
+   "10 Diopter"
+  ],
+  "optsHi": [
+   "1 डायोप्टर",
+   "2 डायोप्टर",
+   "0.5 डायोप्टर",
+   "10 डायोप्टर"
+  ],
+  "correct": 0,
+  "explainEn": "Power of a lens P = 1 / f (in metres). For f = +1m, P = 1/1 = +1 D.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T22:23:10Z"
+ },
+ {
+  "id": "q_9874af4ab57f2a79",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which plant hormone is primarily responsible for cell elongation and phototropism?",
+  "qHi": "कौन सा पादप हार्मोन मुख्य रूप से कोशिका दीर्घीकरण और प्रकाशानुवर्तन के लिए उत्तरदायी है?",
+  "optsEn": [
+   "Cytokinin",
+   "Gibberellin",
+   "Auxin",
+   "Abscisic acid"
+  ],
+  "optsHi": [
+   "साइटोकाइनिन",
+   "जिबरेलिन",
+   "ऑक्सिन",
+   "एब्सिसिक अम्ल"
+  ],
+  "correct": 2,
+  "explainEn": "Auxin helps the cells grow longer and accumulates on the side away from light, causing the plant to bend towards light.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T22:23:49Z"
+ },
+ {
+  "id": "q_b0d876a18367b075",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which Indian state is the Manas Wildlife Sanctuary located?",
+  "qHi": "मानस वन्यजीव अभयारण्य किस भारतीय राज्य में स्थित है?",
+  "optsEn": [
+   "Uttarakhand",
+   "Assam",
+   "Kerala",
+   "Gujarat"
+  ],
+  "optsHi": [
+   "उत्तराखंड",
+   "असम",
+   "केरल",
+   "गुजरात"
+  ],
+  "correct": 1,
+  "explainEn": "Manas Wildlife Sanctuary is located in the state of Assam and is a UNESCO World Heritage Site.",
+  "sourceHint": "NCERT Class 10 Social Science (Geography)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T22:23:49Z"
+ },
+ {
+  "id": "q_3304f47ed0b85180",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What form of power sharing is represented by the division of power between the central government and state governments in India?",
+  "qHi": "भारत में केंद्र सरकार और राज्य सरकारों के बीच सत्ता का विभाजन सत्ता की साझेदारी के किस रूप को दर्शाता है?",
+  "optsEn": [
+   "Horizontal distribution",
+   "Vertical distribution",
+   "Community government",
+   "Coalition government"
+  ],
+  "optsHi": [
+   "क्षैतिज वितरण",
+   "ऊर्ध्वाधर वितरण",
+   "सामुदायिक सरकार",
+   "गठबंधन सरकार"
+  ],
+  "correct": 1,
+  "explainEn": "Power shared among governments at different levels (such as union, state, and local) is called vertical division of power.",
+  "sourceHint": "NCERT Class 10 Civics, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T22:23:49Z"
  }
 ]

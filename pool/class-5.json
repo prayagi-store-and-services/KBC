@@ -24778,5 +24778,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-30T12:58:39Z"
+ },
+ {
+  "id": "q_478168f637ae10e1",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which gas makes up the largest share of the Earth's atmosphere by volume?",
+  "qHi": "आयतन के अनुसार पृथ्वी के वायुमंडल में किस गैस की हिस्सेदारी सबसे अधिक है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "आर्गन"
+  ],
+  "correct": 2,
+  "explainEn": "Nitrogen makes up about 78 percent of the Earth's atmosphere.",
+  "sourceHint": "NCERT Class 7 Geography Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T22:23:41Z"
+ },
+ {
+  "id": "q_afb5b9aa71e17d95",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organ in the human digestive system is responsible for absorbing most of the water from digested food waste?",
+  "qHi": "मानव पाचन तंत्र का कौन सा अंग पच चुके भोजन के अपशिष्ट से अधिकांश पानी को अवशोषित करने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Stomach",
+   "Small intestine",
+   "Large intestine",
+   "Liver"
+  ],
+  "optsHi": [
+   "पेट",
+   "छोटा आंत",
+   "बड़ी आंत",
+   "यकृत"
+  ],
+  "correct": 2,
+  "explainEn": "The large intestine absorbs water and some salts from the undigested food material.",
+  "sourceHint": "NCERT Class 7 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T22:23:41Z"
+ },
+ {
+  "id": "q_f7ca6060fccf8c22",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional harvesting festival is primarily celebrated in the state of Assam?",
+  "qHi": "मुख्य रूप से असम राज्य में कौन सा पारंपरिक फसल कटाई का त्योहार मनाया जाता है?",
+  "optsEn": [
+   "Pongal",
+   "Bihu",
+   "Onam",
+   "Baisakhi"
+  ],
+  "optsHi": [
+   "पोंगल",
+   "बिहू",
+   "ओणम",
+   "बैसाखी"
+  ],
+  "correct": 1,
+  "explainEn": "Bihu is a set of three cultural festivals of Assam namely Rongali Bihu, Kongali Bihu, and Bhogali Bihu.",
+  "sourceHint": "NCERT Class 6 Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T22:23:41Z"
+ },
+ {
+  "id": "q_f5196bcafc0c42ea",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of energy is stored in a stretched rubber band?",
+  "qHi": "एक खींचे हुए रबर बैंड में किस प्रकार की ऊर्जा संग्रहित होती है?",
+  "optsEn": [
+   "Kinetic energy",
+   "Potential energy",
+   "Magnetic energy",
+   "Electrical energy"
+  ],
+  "optsHi": [
+   "गतिज ऊर्जा",
+   "स्थितिज ऊर्जा",
+   "चुंबकीय ऊर्जा",
+   "विद्युत ऊर्जा"
+  ],
+  "correct": 1,
+  "explainEn": "Potential energy is stored due to the change in shape of an elastic object like a stretched rubber band.",
+  "sourceHint": "NCERT Science Curriculum Basics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T22:23:41Z"
  }
 ]
