@@ -20774,5 +20774,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-30T05:52:33Z"
+ },
+ {
+  "id": "q_46178d415091be1f",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the name of the imaginary line running through the centre of the Earth that divides it into two equal halves?",
+  "qHi": "पृथ्वी के केंद्र से गुजरने वाली उस काल्पनिक रेखा का क्या नाम है जो इसे दो बराबर भागों में बांटती है?",
+  "optsEn": [
+   "Tropic of Cancer",
+   "Equator",
+   "Prime Meridian",
+   "Tropic of Capricorn"
+  ],
+  "optsHi": [
+   "कर्क रेखा",
+   "भूमध्य रेखा",
+   "प्रमुख मध्याह्न रेखा",
+   "मकर रेखा"
+  ],
+  "correct": 1,
+  "explainEn": "The Equator is the 0 degree latitude line that divides the Earth into the Northern and Southern Hemispheres.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:57:42Z"
+ },
+ {
+  "id": "q_1dd5f21dddfecb89",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the unit of pressure in the International System of Units (SI)?",
+  "qHi": "अंतरराष्ट्रीय इकाई प्रणाली (SI) में दाब की इकाई क्या है?",
+  "optsEn": [
+   "Newton",
+   "Pascal",
+   "Joule",
+   "Watt"
+  ],
+  "optsHi": [
+   "न्यूटन",
+   "पास्कल",
+   "जूल",
+   "वाट"
+  ],
+  "correct": 1,
+  "explainEn": "The SI unit of pressure is Pascal, named after the scientist Blaise Pascal.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:57:42Z"
+ },
+ {
+  "id": "q_4d1989370ea8d9fb",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who was chosen as the President of the Constituent Assembly of India formed to draft the Constitution?",
+  "qHi": "संविधान का मसौदा तैयार करने के लिए गठित भारत की संविधान सभा के अध्यक्ष के रूप में किसे चुना गया था?",
+  "optsEn": [
+   "Dr. Rajendra Prasad",
+   "Dr. B. R. Ambedkar",
+   "Jawaharlal Nehru",
+   "Sardar Vallabhbhai Patel"
+  ],
+  "optsHi": [
+   "डॉ. राजेंद्र प्रसाद",
+   "डॉ. बी. आर. अम्बेडकर",
+   "जवाहरलाल नेहरू",
+   "सरदार वल्लभभाई पटेल"
+  ],
+  "correct": 0,
+  "explainEn": "Dr. Rajendra Prasad was elected as the permanent President of the Constituent Assembly in December 1946.",
+  "sourceHint": "NCERT Class 8 Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:58:43Z"
+ },
+ {
+  "id": "q_f0c95a85190bcdd5",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of reproduction involves only a single parent to produce a new organism?",
+  "qHi": "किस प्रकार के प्रजनन में एक नए जीव को उत्पन्न करने के लिए केवल एक ही जनक शामिल होता है?",
+  "optsEn": [
+   "Sexual reproduction",
+   "Asexual reproduction",
+   "Cross-fertilization",
+   "Pollination"
+  ],
+  "optsHi": [
+   "लैंगिक प्रजनन",
+   "अलैंगिक प्रजनन",
+   "पर-निषेचन",
+   "परागण"
+  ],
+  "correct": 1,
+  "explainEn": "Asexual reproduction is the mode of reproduction in which new individuals are produced from a single parent.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:58:43Z"
+ },
+ {
+  "id": "q_48839794245a5aee",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is an example of a non-renewable source of energy?",
+  "qHi": "निम्नलिखित में से कौन सा ऊर्जा के गैर-नवीकरणीय स्रोत का एक उदाहरण है?",
+  "optsEn": [
+   "Solar energy",
+   "Wind energy",
+   "Coal",
+   "Hydropower"
+  ],
+  "optsHi": [
+   "सौर ऊर्जा",
+   "पवन ऊर्जा",
+   "कोयला",
+   "जलविद्युत"
+  ],
+  "correct": 2,
+  "explainEn": "Coal is formed over millions of years and gets exhausted with use, making it a non-renewable resource.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:58:43Z"
  }
 ]

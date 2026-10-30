@@ -24666,5 +24666,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-30T05:52:27Z"
+ },
+ {
+  "id": "q_ae7843c50c156d4a",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of resource is coal, which takes millions of years to form and cannot be easily replaced?",
+  "qHi": "कोयला किस प्रकार का संसाधन है, जिसके बनने में लाखों वर्ष लगते हैं और जिसे आसानी से प्रतिस्थापित नहीं किया जा सकता है?",
+  "optsEn": [
+   "Renewable resource",
+   "Non-renewable resource",
+   "Inexhaustible resource",
+   "Biotic resource"
+  ],
+  "optsHi": [
+   "नवीकरणीय संसाधन",
+   "अनवीकरणीय संसाधन",
+   "अक्षय संसाधन",
+   "जैविक संसाधन"
+  ],
+  "correct": 1,
+  "explainEn": "Coal is a non-renewable fossil fuel because its reserves are limited and take geological ages to form.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:57:38Z"
+ },
+ {
+  "id": "q_86430652be884c7a",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin is richly found in citrus fruits like lemons and oranges?",
+  "qHi": "नींबू और संतरे जैसे खट्टे फलों में कौन सा विटामिन प्रचुर मात्रा में पाया जाता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 2,
+  "explainEn": "Citrus fruits are well-known excellent sources of Vitamin C.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:58:39Z"
+ },
+ {
+  "id": "q_90d03d48b4cd5422",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian stepwell is built primarily to store rainwater and help people during droughts?",
+  "qHi": "वर्षा के पानी को संग्रहित करने और सूखे के दौरान लोगों की मदद करने के लिए मुख्य रूप से कौन सी पारंपरिक भारतीय बावड़ी बनाई जाती है?",
+  "optsEn": [
+   "Baoli",
+   "Dam",
+   "Canal",
+   "Reservoir"
+  ],
+  "optsHi": [
+   "बावली",
+   "बांध",
+   "नहर",
+   "जलाशय"
+  ],
+  "correct": 0,
+  "explainEn": "Baolis or stepwells were traditionally constructed in India to harvest rainwater and provide water during dry spells.",
+  "sourceHint": "NCERT Class 5 EVS Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:58:39Z"
+ },
+ {
+  "id": "q_4d51a7d87e5c48a1",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the process called when plants prepare their own food using sunlight, water, and carbon dioxide?",
+  "qHi": "पौधों द्वारा सूर्य के प्रकाश, पानी और कार्बन डाइऑक्साइड का उपयोग करके अपना भोजन तैयार करने की प्रक्रिया क्या कहलाती है?",
+  "optsEn": [
+   "Respiration",
+   "Transpiration",
+   "Photosynthesis",
+   "Germination"
+  ],
+  "optsHi": [
+   "श्वसन",
+   "वाष्पोत्सर्जन",
+   "प्रकाश संश्लेषण",
+   "अंकुरण"
+  ],
+  "correct": 2,
+  "explainEn": "Photosynthesis is the process by which green plants make their food using sunlight as energy.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:58:39Z"
  }
 ]

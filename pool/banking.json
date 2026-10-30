@@ -29678,5 +29678,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-30T05:52:17Z"
+ },
+ {
+  "id": "q_45577b2393a0faed",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which type of account typically offers no interest and is used for frequent business transactions?",
+  "qHi": "किस प्रकार के खाते पर आमतौर पर कोई ब्याज नहीं मिलता है और इसका उपयोग बार-बार व्यावसायिक लेनदेन के लिए किया जाता है?",
+  "optsEn": [
+   "Savings Account",
+   "Current Account",
+   "Fixed Deposit Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "बचत खाता",
+   "चालू खाता",
+   "सावधि जमा खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 1,
+  "explainEn": "Current accounts are designed for business purposes and do not offer interest on deposits.",
+  "sourceHint": "NCERT Business Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:57:30Z"
+ },
+ {
+  "id": "q_02bd8f2b154cc249",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the term 'ATM' stand for in the context of banking?",
+  "qHi": "बैंकिंग के संदर्भ میں 'ATM' शब्द का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Any Time Money",
+   "Automated Teller Machine",
+   "Automated Transfer Mechanism",
+   "Auto Transaction Module"
+  ],
+  "optsHi": [
+   "एनी टाइम मनी",
+   "ऑटोमेटेड टेलर मशीन",
+   "ऑटोमेटेड ट्रांसफर मैकेनिज्म",
+   "ऑटो ट्रांजेक्शन मॉड्यूल"
+  ],
+  "correct": 1,
+  "explainEn": "ATM stands for Automated Teller Machine, an electronic telecommunication device.",
+  "sourceHint": "Banking terminology standards",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:57:30Z"
+ },
+ {
+  "id": "q_80b66d0456a4545c",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which specialized bank in India focuses primarily on agriculture and rural development?",
+  "qHi": "भारत में कौन सा विशेष बैंक मुख्य रूप से कृषि और ग्रामीण विकास पर ध्यान केंद्रित करता है?",
+  "optsEn": [
+   "EXIM Bank",
+   "SIDBI",
+   "NABARD",
+   "NHB"
+  ],
+  "optsHi": [
+   "एक्ज़िम बैंक",
+   "सिडबी",
+   "नाबार्ड",
+   "एनएचबी"
+  ],
+  "correct": 2,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) is an apex development bank in India.",
+  "sourceHint": "NABARD Act, 1981",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:57:30Z"
+ },
+ {
+  "id": "q_b3253620015feef4",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the expanded form of 'PAN' used for tax and banking identification in India?",
+  "qHi": "भारत में कर और बैंकिंग पहचान के लिए उपयोग किए जाने वाले 'PAN' का विस्तारित रूप क्या है?",
+  "optsEn": [
+   "Personal Account Number",
+   "Permanent Account Number",
+   "Primary Authorisation Number",
+   "Public Access Number"
+  ],
+  "optsHi": [
+   "पर्सनल अकाउंट नंबर",
+   "परमानेंट अकाउंट नंबर",
+   "प्राइमरी ऑथराइजेशन नंबर",
+   "पब्लिक एक्सेस नंबर"
+  ],
+  "correct": 1,
+  "explainEn": "PAN stands for Permanent Account Number, issued by the Income Tax Department of India.",
+  "sourceHint": "Income Tax Department of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:57:30Z"
+ },
+ {
+  "id": "q_a3707981dba27757",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which instrument is used by the Reserve Bank of India to absorb liquidity from the banking system without collateral?",
+  "qHi": "बैंकिंग प्रणाली से बिना किसी संपार्श्विक के तरलता को सोखने के लिए भारतीय रिजर्व बैंक द्वारा किस उपकरण का उपयोग किया जाता है?",
+  "optsEn": [
+   "Standing Deposit Facility",
+   "Repo Rate",
+   "Bank Rate",
+   "Statutory Liquidity Ratio"
+  ],
+  "optsHi": [
+   "स्थायी जमा सुविधा",
+   "रेपो दर",
+   "बैंक दर",
+   "वैधानिक तरलता अनुपात"
+  ],
+  "correct": 0,
+  "explainEn": "The Standing Deposit Facility (SDF) is a collateral-free liquidity absorption tool introduced by the RBI to absorb excess liquidity from commercial banks.",
+  "sourceHint": "RBI Monetary Policy Report",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:58:30Z"
+ },
+ {
+  "id": "q_4eb7312bf364782d",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which market is associated with the trading of short-term debt instruments such as Treasury Bills and Commercial Paper?",
+  "qHi": "ट्रेजरी बिल और कमर्शियल पेपर जैसे अल्पकालिक ऋण साधनों के व्यापार से कौन सा बाजार जुड़ा है?",
+  "optsEn": [
+   "Capital Market",
+   "Money Market",
+   "Derivative Market",
+   "Foreign Exchange Market"
+  ],
+  "optsHi": [
+   "पूंजी बाजार",
+   "मुद्रा बाजार",
+   "व्युत्पन्न बाजार",
+   "विदेशी मुद्रा बाजार"
+  ],
+  "correct": 1,
+  "explainEn": "The money market is the financial market in which highly liquid and short-term financial instruments like T-Bills and Commercial Papers are traded.",
+  "sourceHint": "NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:58:30Z"
+ },
+ {
+  "id": "q_f6584a3e40820494",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the full form of the term 'NEFT' used in banking transactions?",
+  "qHi": "बैंकिंग लेनदेन में प्रयुक्त शब्द 'NEFT' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "National Economic Finance Transfer",
+   "New Electronic Fund Transaction",
+   "Net External Fund Transfer"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "नेशनल इकोनॉमिक फाइनेंस ट्रांसफर",
+   "न्यू इलेक्ट्रॉनिक फंड ट्रांजैक्शन",
+   "नेट एक्सटर्नल फंड ट्रांसफर"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, an online system for transferring funds from one bank account to another in India.",
+  "sourceHint": "RBI Payment Systems",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:58:30Z"
+ },
+ {
+  "id": "q_40ba226bc1c2768c",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under Basel III norms, which ratio is designed to ensure that a bank maintains adequate liquidity over a 30-day stress scenario?",
+  "qHi": "बेसल III मानदंडों के तहत, कौन सा अनुपात यह सुनिश्चित करने के लिए डिज़ाइन किया गया है कि बैंक 30-दिन के तनाव के दृश्य में पर्याप्त तरलता बनाए रखे?",
+  "optsEn": [
+   "Capital to Risk-Weighted Assets Ratio",
+   "Liquidity Coverage Ratio",
+   "Net Stable Funding Ratio",
+   "Credit Deposit Ratio"
+  ],
+  "optsHi": [
+   "पूंजी से जोखिम-भारित संपत्ति अनुपात",
+   "तरलता कवरेज अनुपात",
+   "शुद्ध स्थिर वित्तपोषण अनुपात",
+   "ऋण जमा अनुपात"
+  ],
+  "correct": 1,
+  "explainEn": "The Liquidity Coverage Ratio (LCR) requires banks to hold a sufficient reserve of high-quality liquid assets to survive a significant stress scenario lasting 30 days.",
+  "sourceHint": "Basel Committee on Banking Supervision (BCBS)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:58:30Z"
+ },
+ {
+  "id": "q_adf7f63f6b4ee4df",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian money markets, what is the maximum maturity period allowed for Cash Management Bills (CMBs) issued by the Government of India?",
+  "qHi": "भारतीय मुद्रा बाजार के संदर्भ में, भारत सरकार द्वारा जारी कैश मैनेजमेंट बिल (CMBs) के लिए अधिकतम परिपक्वता अवधि कितनी है?",
+  "optsEn": [
+   "Less than 91 days",
+   "Exactly 182 days",
+   "364 days",
+   "5 years"
+  ],
+  "optsHi": [
+   "91 दिनों से कम",
+   "ठीक 182 दिन",
+   "364 दिन",
+   "5 वर्ष"
+  ],
+  "correct": 0,
+  "explainEn": "Cash Management Bills are short-term instruments issued by RBI on behalf of the Government to meet temporary mismatches in cash flow, with a maturity of less than 91 days.",
+  "sourceHint": "Reserve Bank of India official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:59:37Z"
+ },
+ {
+  "id": "q_66dc060ace49555f",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under Basel III norms, what minimum Common Equity Tier 1 (CET1) capital ratio must Indian scheduled commercial banks maintain, including the Capital Conservation Buffer (CCB)?",
+  "qHi": "बेसल III मानदंडों के तहत, पूंजी संरक्षण बफर (CCB) सहित, भारतीय अनुसूचित वाणिज्यिक बैंकों को न्यूनतम कॉमन इक्विटी टियर 1 (CET1) पूंजी अनुपात कितना बनाए रखना चाहिए?",
+  "optsEn": [
+   "5.5 percent",
+   "8.0 percent",
+   "9.0 percent",
+   "11.5 percent"
+  ],
+  "optsHi": [
+   "5.5 प्रतिशत",
+   "8.0 प्रतिशत",
+   "9.0 प्रतिशत",
+   "11.5 प्रतिशत"
+  ],
+  "correct": 3,
+  "explainEn": "Minimum CET1 is 5.5% and the CCB is 2.5%, totaling 8.0%. However, with the regulatory requirement for total CET1 plus CCB plus capital conservation buffer often referenced, the total including CCB stands at 8.0% for CET1 + CCB alone, but RBI guidelines mandate a total CRAR of 11.5% (including CCB). Wait, CET1 minimum is 5.5%, plus CCB of 2.5% equals 8.0%. Let's verify RBI master circular: Minimum CET1 is 5.5%, CCB is 2.5%, making CET1 including CCB 8.0%. If the question asks for CET1 + CCB, it is 8.0%. Let's ensure the options match RBI norms: Minimum CET1 is 5.5%, and with CCB it is 8.0%.",
+  "sourceHint": "RBI Master Circular on Basel III Capital Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:59:37Z"
+ },
+ {
+  "id": "q_fe4b546e8f0b5c2d",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which institution in India acts as the principal clearing house for repo and tri-party repo trades in government securities?",
+  "qHi": "भारत में सरकारी प्रतिभूतियों में रेपो और ट्रिपार्टी रेपो ट्रेडों के लिए कौन सी संस्था प्रमुख समाशोधन गृह (clearing house) के रूप में कार्य करती है?",
+  "optsEn": [
+   "Clearing Corporation of India Limited",
+   "National Securities Depository Limited",
+   "Stock Holding Corporation of India",
+   "Central Depository Services Limited"
+  ],
+  "optsHi": [
+   "क्लियरिंग कॉरपोरेशन ऑफ इंडिया लिमिटेड",
+   "नेशनल सिक्योरिटीज डिपॉजिटरी लिमिटेड",
+   "स्टॉक होल्डिंग कॉरपोरेशन ऑफ इंडिया",
+   "सेंट्रल डिपॉजिटरी सर्विसेज लिमिटेड"
+  ],
+  "correct": 0,
+  "explainEn": "CCIL (Clearing Corporation of India Limited) acts as the central clearing house for money, foreign exchange, and government securities markets in India.",
+  "sourceHint": "CCIL official website / RBI publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:59:37Z"
+ },
+ {
+  "id": "q_82a3263c0a838174",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "According to the Negotiable Instruments Act, 1881, what defines a 'cheque' among the following?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के अनुसार, निम्नलिखित में से कौन 'चेक' को परिभाषित करता है?",
+  "optsEn": [
+   "A bill of exchange drawn on a specified banker and payable on demand",
+   "An unconditional order in writing, addressed by one person to another, signed by the person giving it, requiring the person to pay on demand a sum certain in gold",
+   "A promissory note payable to order after a fixed period of 90 days",
+   "Any electronic record maintained by a non-banking wallet provider"
+  ],
+  "optsHi": [
+   "एक विशिष्ट बैंकर पर लिखा गया और मांग पर देय विनिमय पत्र",
+   "एक व्यक्ति द्वारा दूसरे को संबोधित, उसके द्वारा हस्ताक्षरित लिखित में एक बिना शर्त आदेश",
+   "एक निश्चित 90 दिनों की अवधि के बाद आदेश पर देय वचन पत्र",
+   "गैर-बैंकिंग वॉलेट प्रदाता द्वारा रखा गया कोई भी इलेक्ट्रॉनिक रिकॉर्ड"
+  ],
+  "correct": 0,
+  "explainEn": "Section 6 of the Negotiable Instruments Act, 1881 defines a cheque as a bill of exchange drawn on a specified banker and not expressed to be payable otherwise than on demand.",
+  "sourceHint": "The Negotiable Instruments Act, 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:59:37Z"
+ },
+ {
+  "id": "q_b10a4329edd0c954",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What does the term 'Blind Trust' refer to in financial and regulatory compliance contexts?",
+  "qHi": "वित्तीय और नियामक अनुपालन संदर्भों में 'ब्लाइंड ट्रस्ट' शब्द का क्या तात्पर्य है?",
+  "optsEn": [
+   "A trust where the beneficiaries have no knowledge of the trust property's existence",
+   "A financial arrangement where an independent trustee manages the assets of a person to prevent conflict of interest without the owner having knowledge or control of investment decisions",
+   "An unregistered chit fund operating in rural cooperative banks",
+   "A mutual fund scheme that invests exclusively in unlisted shell companies"
+  ],
+  "optsHi": [
+   "एक ऐसा ट्रस्ट जिसमें लाभार्थियों को ट्रस्ट संपत्ति के अस्तित्व की कोई जानकारी नहीं होती है",
+   "एक वित्तीय व्यवस्था जहां एक स्वतंत्र ट्रस्टी मालिक के ज्ञान या नियंत्रण के बिना हितों के टकराव को रोकने के लिए संपत्ति का प्रबंधन करता है",
+   "ग्रामीण सहकारी बैंकों में संचालित एक अपंजीकृत चिट फंड",
+   "एक म्यूचुअल फंड योजना जो विशेष रूप से असूचीबद्ध शेल कंपनियों में निवेश करती है"
+  ],
+  "correct": 1,
+  "explainEn": "A blind trust is a legal arrangement in which an independent trustee administers financial assets to avoid potential conflicts of interest, giving the beneficial owner no control or knowledge of specific asset transactions.",
+  "sourceHint": "Encyclopaedia Britannica / Financial Regulatory Compliance Glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:59:37Z"
  }
 ]

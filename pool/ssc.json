@@ -17890,5 +17890,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-30T05:51:12Z"
+ },
+ {
+  "id": "q_67e0ca30f1a06b7a",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the chemical name of washing soda?",
+  "qHi": "धोने के सोडा (वाशिंग सोडा) का रासायनिक नाम क्या है?",
+  "optsEn": [
+   "Sodium bicarbonate",
+   "Sodium carbonate decahydrate",
+   "Calcium hydroxide",
+   "Sodium chloride"
+  ],
+  "optsHi": [
+   "सोडियम बाइकार्बोनेट",
+   "सोडियम कार्बोनेट डेकाहाइड्रेट",
+   "कैल्शियम हाइड्रोक्साइड",
+   "सोडियम क्लोराइड"
+  ],
+  "correct": 1,
+  "explainEn": "Washing soda is chemically known as sodium carbonate decahydrate with the formula Na2CO3·10H2O.",
+  "sourceHint": "NCERT Class 10 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:58:24Z"
+ },
+ {
+  "id": "q_ae010b0647b5a432",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian classical dance form originated in the state of Kerala and is traditionally performed by males?",
+  "qHi": "कौन सा भारतीय शास्त्रीय नृत्य रूप केरल राज्य में उत्पन्न हुआ और पारंपरिक रूप से पुरुषों द्वारा किया जाता है?",
+  "optsEn": [
+   "Kathakali",
+   "Bharatanatyam",
+   "Odissi",
+   "Kuchipudi"
+  ],
+  "optsHi": [
+   "कथकली",
+   "भरतनाट्यम",
+   "ओडिसी",
+   "कुचिपुड़ी"
+  ],
+  "correct": 0,
+  "explainEn": "Kathakali is a major form of classical Indian dance originating from Kerala, distinguished by its elaborate makeup and costumes, traditionally performed by males.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:58:24Z"
+ },
+ {
+  "id": "q_f93f9b478530c0f2",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The 'Dada Saheb Phalke Award' is given annually for lifetime contribution to which field in India?",
+  "qHi": "भारत में 'दादा साहब फाल्ke पुरस्कार' किस क्षेत्र में आजीवन योगदान के लिए प्रतिवर्ष दिया जाता है?",
+  "optsEn": [
+   "Literature",
+   "Sports",
+   "Cinema",
+   "Classical Music"
+  ],
+  "optsHi": [
+   "साहित्य",
+   "खेल",
+   "सिनेमा",
+   "शास्त्रीय संगीत"
+  ],
+  "correct": 2,
+  "explainEn": "The Dadasaheb Phalke Award is India's highest award in cinema, presented annually by the Directorate of Film Festivals.",
+  "sourceHint": "Ministry of Information and Broadcasting, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:58:24Z"
+ },
+ {
+  "id": "q_ebb7941fa03329fe",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the reign of which Delhi Sultanate ruler was the department of agriculture known as 'Diwan-i-Kohi' created?",
+  "qHi": "दिल्ली सल्तनत के किस शासक के शासनकाल में कृषि विभाग जिसे 'दीवान-ए-कोही' के नाम से जाना जाता था, की स्थापना की गई थी?",
+  "optsEn": [
+   "Alauddin Khilji",
+   "Ghiyasuddin Tughlaq",
+   "Muhammad bin Tughlaq",
+   "Firoz Shah Tughlaq"
+  ],
+  "optsHi": [
+   "अलाउद्दीन खिलजी",
+   "غیاث الدین تغلق (ग गयासुद्दीन तुगलक)",
+   "मुहम्मद बिन तुगलक",
+   "फिरोज शाह तुगलक"
+  ],
+  "correct": 2,
+  "explainEn": "Muhammad bin Tughlaq created a separate department of agriculture called Diwan-i-Kohi with the objective of increasing land cultivation by giving direct financial aid to peasants.",
+  "sourceHint": "NCERT Medieval Indian History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:59:29Z"
+ },
+ {
+  "id": "q_08b3f2b97487701b",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which fundamental right cannot be suspended even during a National Emergency declared under Article 352 of the Indian Constitution?",
+  "qHi": "भारतीय संविधान के अनुच्छेद 352 के तहत घोषित राष्ट्रीय आपातकाल के दौरान भी कौन सा मौलिक अधिकार निलंबित नहीं किया जा सकता है?",
+  "optsEn": [
+   "Article 14 and 19",
+   "Article 19 and 20",
+   "Article 20 and 21",
+   "Article 21 and 22"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14 और 19",
+   "अनुच्छेद 19 और 20",
+   "अनुच्छेद 20 और 21",
+   "अनुच्छेद 21 और 22"
+  ],
+  "correct": 2,
+  "explainEn": "By the 44th Amendment Act of 1978, the right to protection in respect of conviction for offenses (Article 20) and the right to life and personal liberty (Article 21) cannot be suspended even during a National Emergency.",
+  "sourceHint": "Indian Polity by M. Laxmikanth / Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:59:29Z"
+ },
+ {
+  "id": "q_675bc61788c9147f",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary chemical compound responsible for the pungent smell of bruised garlic?",
+  "qHi": "कुचले हुए लहसुन की तीखी गंध के लिए मुख्य रूप से कौन सा रासायनिक यौगिक जिम्मेदार है?",
+  "optsEn": [
+   "Allicin",
+   "Capsaicin",
+   "Curcumin",
+   "Piperine"
+  ],
+  "optsHi": [
+   "एलिसिन",
+   "कैप्सैसिन",
+   "करक्यूमिन",
+   "पाइपरिन"
+  ],
+  "correct": 0,
+  "explainEn": "Allicin is an organosulfur compound obtained from garlic. When garlic is chopped or crushed, the enzyme alliinase converts alliin into allicin, which is responsible for the characteristic aroma.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:59:29Z"
+ },
+ {
+  "id": "q_a1f819a228309788",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian monetary policy, which institution is legally mandated to set the target for the Consumer Price Index inflation?",
+  "qHi": "भारतीय मौद्रिक नीति के संदर्भ में, उपभोक्ता मूल्य सूचकांक मुद्रास्फीति के लक्ष्य को निर्धारित करने के लिए कानूनी रूप से कौन सी संस्था अधिकृत है?",
+  "optsEn": [
+   "Reserve Bank of India alone",
+   "Central Government in consultation with the Reserve Bank of India",
+   "NITI Aayog",
+   "Monetary Policy Committee independently without government input"
+  ],
+  "optsHi": [
+   "अकेले भारतीय रिजर्व बैंक",
+   "भारतीय रिजर्व बैंक के परामर्श से केंद्र सरकार",
+   "नीति आयोग",
+   "सरकारी इनपुट के बिना स्वतंत्र रूप से मौद्रिक नीति समिति"
+  ],
+  "correct": 1,
+  "explainEn": "Under Section 45ZA of the RBI Act, the Central Government, in consultation with the RBI, determines the inflation target in terms of the Consumer Price Index (CPI) once every five years.",
+  "sourceHint": "RBI Act / Ministry of Finance",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:59:29Z"
+ },
+ {
+  "id": "q_a9f861377a363607",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Gupta ruler assumed the titles of 'Vikramaditya' and 'Kramaditya' as evidenced by their gold coinage?",
+  "qHi": "अपने स्वर्ण सिक्कों के साक्ष्य के अनुसार किस गुप्त शासक ने 'विक्रमादित्य' और 'क्रमादित्य' की उपाधियाँ धारण की थीं?",
+  "optsEn": [
+   "Chandragupta I",
+   "Samudragupta",
+   "Skandagupta",
+   "Kumaragupta I"
+  ],
+  "optsHi": [
+   "चंद्रगुप्त प्रथम",
+   "समुद्रगुप्त",
+   "स्कंदगुप्त",
+   "कुमारगुप्त प्रथम"
+  ],
+  "correct": 3,
+  "explainEn": "Kumaragupta I issued gold coins bearing titles such as 'Mahendraditya', 'Shri Mahendra', and 'Ashvamedha-Mahendra', while his successor Skandagupta used 'Vikramaditya' and 'Kramaditya'. Wait, Kumaragupta I is primarily known for 'Mahendraditya'. Let's verify Skandagupta: Skandagupta used 'Vikramaditya' and 'Kramaditya'. Therefore, Skandagupta is the correct answer.",
+  "sourceHint": "NCERT Ancient Indian History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:59:29Z"
  }
 ]

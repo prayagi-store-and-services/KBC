@@ -17666,5 +17666,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-30T05:52:22Z"
+ },
+ {
+  "id": "q_f6ddcd9178beb9d9",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "How many players are on the field for a single team in a standard match of field hockey?",
+  "qHi": "फील्ड हॉकी के एक मानक मैच में मैदान पर एक टीम के कितने खिलाड़ी होते हैं?",
+  "optsEn": [
+   "9",
+   "10",
+   "11",
+   "12"
+  ],
+  "optsHi": [
+   "9",
+   "10",
+   "11",
+   "12"
+  ],
+  "correct": 2,
+  "explainEn": "A standard field hockey team consists of 11 players on the pitch during a match.",
+  "sourceHint": "International Hockey Federation rules",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:57:34Z"
+ },
+ {
+  "id": "q_2e3b8d72eb1a736b",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the classic jungle adventure novel 'The Jungle Book'?",
+  "qHi": "क्लासिक जंगल एडवेंचर उपन्यास 'द जंगल बुक' किसने लिखा था?",
+  "optsEn": [
+   "Rudyard Kipling",
+   "Mark Twain",
+   "Charles Dickens",
+   "Robert Louis Stevenson"
+  ],
+  "optsHi": [
+   "रूडyard किपलिंग",
+   "मार्क ट्वेन",
+   "चार्ल्स डिकेंस",
+   "रॉबर्ट लुई स्टीवंसन"
+  ],
+  "correct": 0,
+  "explainEn": "Rudyard Kipling, an English author born in India, wrote 'The Jungle Book', published in 1894.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:57:34Z"
+ },
+ {
+  "id": "q_e3f860b76d9ee125",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which classical dance form originated in the state of Kerala and is known for elaborate facial makeup?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप केरल राज्य में उत्पन्न हुआ और विस्तृत चेहरे की मेकअप के लिए जाना जाता है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a major form of classical Indian dance originating from Kerala, distinguished by its colorful makeup.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:58:34Z"
  }
 ]

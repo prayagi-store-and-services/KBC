@@ -28250,5 +28250,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-30T05:53:06Z"
+ },
+ {
+  "id": "q_fadfdf221cde9120",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which fundamental right guarantees the right to move the Supreme Court for the enforcement of fundamental rights?",
+  "qHi": "कौन सा मौलिक अधिकार मौलिक अधिकारों के प्रवर्तन के लिए उच्चतम न्यायालय जाने की गारंटी देता है?",
+  "optsEn": [
+   "Right to Equality",
+   "Right to Freedom of Religion",
+   "Right to Constitutional Remedies",
+   "Cultural and Educational Rights"
+  ],
+  "optsHi": [
+   "समानता का अधिकार",
+   "धर्म की स्वतंत्रता का अधिकार",
+   "संवैधानिक उपचारों کا अधिकार",
+   "संस्कृति और शिक्षा संबंधी अधिकार"
+  ],
+  "correct": 2,
+  "explainEn": "Article 32 provides the right to constitutional remedies, allowing citizens to approach the Supreme Court.",
+  "sourceHint": "Constitution of India, Article 32",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:58:13Z"
+ },
+ {
+  "id": "q_3dce3282cbe65989",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which greenhouse gas is emitted primarily by the digestive systems of ruminant livestock?",
+  "qHi": "जुगाली करने वाले पशुओं के पाचन तंत्र द्वारा मुख्य रूप से कौन सी ग्रीनहाउस गैस उत्सर्जित होती है?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Nitrous oxide",
+   "Methane",
+   "Chlorofluorocarbon"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रस ऑक्साइड",
+   "मीथेन",
+   "क्लोरोफ्लोरोकार्बन"
+  ],
+  "correct": 2,
+  "explainEn": "Enteric fermentation in ruminants produces significant amounts of methane gas.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 15 (Ecology)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:58:13Z"
+ },
+ {
+  "id": "q_a1c43ad0ce8dee81",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which tax was subsumed into the Goods and Services Tax (GST) in India for inter-state trade of goods?",
+  "qHi": "भारत में वस्तुओं के अंतर-राज्यीय व्यापार के लिए वस्तु एवं सेवा कर (GST) में कौन सा कर समाहित किया गया था?",
+  "optsEn": [
+   "Corporate tax",
+   "Central Sales Tax",
+   "Property tax",
+   "Agricultural income tax"
+  ],
+  "optsHi": [
+   "कॉर्पोरेट कर",
+   "केंद्रीय बिक्री कर",
+   "संपत्ति कर",
+   "कृषि आय कर"
+  ],
+  "correct": 1,
+  "explainEn": "The Central Sales Tax (CST) levied on inter-state sale of goods was subsumed under GST.",
+  "sourceHint": "CBIC / Ministry of Finance India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:58:13Z"
+ },
+ {
+  "id": "q_6e32beffddd63048",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of the Indian National Movement, the Lucknow Pact of 1916 refers to an agreement between the Indian National Congress and which other body?",
+  "qHi": "भारतीय राष्ट्रीय आंदोलन के संदर्भ में, 1916 के लखनऊ समझौते का संबंध भारतीय राष्ट्रीय कांग्रेस और किस अन्य निकाय के बीच समझौते से है?",
+  "optsEn": [
+   "All India Muslim League",
+   "Hindu Mahasabha",
+   "Justice Party",
+   "Communist Party of India"
+  ],
+  "optsHi": [
+   "अखिल भारतीय मुस्लिम लीग",
+   "हिन्दू महासभا",
+   "जस्टिस पार्टी",
+   "भारतीय कम्युनिस्ट पार्टी"
+  ],
+  "correct": 0,
+  "explainEn": "The Lucknow Pact was an agreement reached between the Indian National Congress and the Muslim League in December 1916.",
+  "sourceHint": "NCERT Class 12 History, Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:58:13Z"
+ },
+ {
+  "id": "q_f48093006a759cc0",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the coordination number of cobalt in the complex [Co(en)3]Cl3?",
+  "qHi": "संकुल [Co(en)3]Cl3 में कोबाल्ट की समन्वय संख्या क्या है?",
+  "optsEn": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ],
+  "optsHi": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ],
+  "correct": 3,
+  "explainEn": "The ligand 'en' (ethylenediamine) is bidentate. Since there are three 'en' molecules attached to the cobalt ion, they form 6 coordinate bonds, giving a coordination number of 6.",
+  "sourceHint": "NCERT Class 12 Chemistry Part 1, Chapter 5: Coordination Compounds",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:59:16Z"
+ },
+ {
+  "id": "q_c164758a1a220f32",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which electric field vector relationship correctly describes an electromagnetic wave propagating along the positive z-axis?",
+  "qHi": "धनात्मक z-अक्ष के अनुदिश संचरण करने वाली विद्युत चुम्बकीय तरंग के लिए कौन सा विद्युत क्षेत्र सदिश संबंध सही है?",
+  "optsEn": [
+   "E is along x-axis, B is along y-axis",
+   "E is along z-axis, B is along x-axis",
+   "E is along y-axis, B is along z-axis",
+   "E is along z-axis, B is along y-axis"
+  ],
+  "optsHi": [
+   "E, x-अक्ष के अनुदिश है, B, y-अक्ष के अनुदिश है",
+   "E, z-अक्ष के अनुदिश है, B, x-अक्ष के अनुदिश है",
+   "E, y-अक्ष के अनुदिश है, B, z-अक्ष के अनुदिश है",
+   "E, z-अक्ष के अनुदिश है, B, y-अक्ष के अनुदिश है"
+  ],
+  "correct": 0,
+  "explainEn": "In an electromagnetic wave propagating in the z-direction, the oscillating electric and magnetic fields are mutually perpendicular and lie in the xy-plane.",
+  "sourceHint": "NCERT Class 12 Physics Part 2, Chapter 8: Electromagnetic Waves",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:59:16Z"
+ },
+ {
+  "id": "q_a5813b4ab41344e7",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which constitutional amendment introduced the anti-defection provisions into the Tenth Schedule of the Constitution of India?",
+  "qHi": "भारतीय संविधान की दसवीं अनुसूची में दलबदल विरोधी प्रावधान किस संविधान संशोधन द्वारा जोड़े गए थे?",
+  "optsEn": [
+   "42nd Amendment Act",
+   "44th Amendment Act",
+   "52nd Amendment Act",
+   "61st Amendment Act"
+  ],
+  "optsHi": [
+   "42वां संशोधन अधिनियम",
+   "44वां संशोधन अधिनियम",
+   "52वां संशोधन अधिनियम",
+   "61वां संशोधन अधिनियम"
+  ],
+  "correct": 2,
+  "explainEn": "The 52nd Constitutional Amendment Act of 1985 added the Tenth Schedule, popularly known as the anti-defection law.",
+  "sourceHint": "NCERT Class 12 Political Science, Indian Constitution at Work",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:59:16Z"
+ },
+ {
+  "id": "q_091b45aa39d254fe",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In macroeconomics, what does an upward shift of the aggregate demand function, while keeping aggregate supply constant, generally imply for equilibrium income and price level in the short run?",
+  "qHi": "समष्टि अर्थशास्त्र में, अल्पकाल में कुल पूर्ति को स्थिर रखते हुए कुल मांग फलन के ऊपर की ओर खिसकने का संतुलन आय और मूल्य स्तर पर क्या प्रभाव पड़ता है?",
+  "optsEn": [
+   "Both equilibrium income and price level increase",
+   "Equilibrium income increases while price level decreases",
+   "Equilibrium income decreases while price level increases",
+   "Both equilibrium income and price level decrease"
+  ],
+  "optsHi": [
+   "संतुलन आय और मूल्य स्तर दोनों बढ़ते हैं",
+   "संतुलन आय बढ़ती है जबकि मूल्य स्तर घटता है",
+   "संतुलन आय घटती है जबकि मूल्य स्तर बढ़ता है",
+   "संतुलन आय और मूल्य स्तर दोनों घटते हैं"
+  ],
+  "correct": 0,
+  "explainEn": "An increase in aggregate demand shifts the AD curve upward, leading to a higher equilibrium output (income) and a higher price level in the short run.",
+  "sourceHint": "NCERT Class 12 Introductory Macroeconomics, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:59:16Z"
+ },
+ {
+  "id": "q_80b2b6baecc8ac9c",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which structural feature is shared by both sucrose and lactose?",
+  "qHi": "सुक्रोज और लैक्टोज दोनों में कौन सी संरचनात्मक विशेषता समान है?",
+  "optsEn": [
+   "Both are reducing sugars",
+   "Both contain a beta-1,4-glycosidic linkage",
+   "Both are disaccharides composed of two hexose units",
+   "Both yield D-galactose upon complete hydrolysis"
+  ],
+  "optsHi": [
+   "दोनों अपचायक शर्करा हैं",
+   "दोनों में बीटा-1,4-ग्लाइकोसिडिक लिंकेज होता है",
+   "दोनों दो हेक्सोज इकाइयों से बने डाइसैकराइड हैं",
+   "पूर्ण जल-अपघटन पर दोनों डी-गैलेक्टोज देते हैं"
+  ],
+  "correct": 2,
+  "explainEn": "Both sucrose and lactose are disaccharides formed by the condensation of two monosaccharide units (hexoses: glucose/fructose for sucrose, glucose/galactose for lactose).",
+  "sourceHint": "NCERT Class 12 Chemistry Part 2, Chapter 14: Biomolecules",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:59:16Z"
+ },
+ {
+  "id": "q_318170ba85ec45b3",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the British colonial period in India, the permanent settlement system was primarily introduced in which region?",
+  "qHi": "भारत में ब्रिटिश औपनिवेशिक काल के दौरान, स्थायी बंदोबस्त व्यवस्था मुख्य रूप से किस क्षेत्र में शुरू की गई थी?",
+  "optsEn": [
+   "Bengal presidency",
+   "Bombay presidency",
+   "Punjab region",
+   "Central Provinces"
+  ],
+  "optsHi": [
+   "बंगाल प्रेसीडेंसी",
+   "बॉम्बे प्रेसीडेंसी",
+   "पंजाब क्षेत्र",
+   "मध्य प्रांत"
+  ],
+  "correct": 0,
+  "explainEn": "The Permanent Settlement ( जमींदारी व्यवस्था ) was introduced by Lord Cornwallis in 1793 primarily in Bengal, Bihar, and Orissa.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part III, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:59:16Z"
+ },
+ {
+  "id": "q_aa1ebf7b52a829fd",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which type of speciation occurs when a population is divided by a geographical barrier, leading to reproductive isolation?",
+  "qHi": "जब किसी आबादी को भौगोलिक बाधा द्वारा विभाजित किया जाता है, जिससे जननीय अलगाव होता है, तो किस प्रकार की प्रजाति-उद्भवन (स्पेसिफिकेशन) होती है?",
+  "optsEn": [
+   "Sympatric speciation",
+   "Allopatric speciation",
+   "Parapatric speciation",
+   "Stasipatric speciation"
+  ],
+  "optsHi": [
+   "सिम्पैट्रिक प्रजाति-उद्भवन",
+   "एलोपैट्रिक प्रजाति-उद्भवन",
+   "पैरापैट्रिक प्रजाति-उद्भवन",
+   "स्टासिपैट्रिक प्रजाति-उद्भवन"
+  ],
+  "correct": 1,
+  "explainEn": "Allopatric speciation occurs when biological populations of the same species become isolated from each other to an extent that prevents or interferes with genetic interchange, typically due to geographical barriers.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 7: Evolution",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-30T12:59:16Z"
  }
 ]
