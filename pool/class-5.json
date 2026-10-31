@@ -25870,5 +25870,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-31T12:34:53Z"
+ },
+ {
+  "id": "q_99643ef8433c33ff",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas do plants release during photosynthesis?",
+  "qHi": "पौधे प्रकाश संश्लेषण के दौरान कौन सी गैस छोड़ते हैं?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Oxygen",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "During photosynthesis, plants take in carbon dioxide and release oxygen into the air.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T21:36:06Z"
+ },
+ {
+  "id": "q_3f7905de344aeb4a",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which invisible gas makes up the largest percentage of Earth's atmosphere?",
+  "qHi": "कौन सी अदृश्य गैस पृथ्वी के वायुमंडल का सबसे बड़ा प्रतिशत बनाती है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "आर्गन"
+  ],
+  "correct": 2,
+  "explainEn": "Nitrogen makes up about 78 percent of Earth's atmosphere, making it the most abundant gas.",
+  "sourceHint": "NCERT Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T21:37:22Z"
+ },
+ {
+  "id": "q_1525437607ec7449",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of map primarily shows physical features such as mountains, rivers, and plains?",
+  "qHi": "किस प्रकार का मानचित्र मुख्य रूप से पर्वत, नदियाँ और मैदान जैसी भौतिक विशेषताओं को दर्शाता है?",
+  "optsEn": [
+   "Political map",
+   "Physical map",
+   "Thematic map",
+   "Road map"
+  ],
+  "optsHi": [
+   "राजनीतिक मानचित्र",
+   "भौतिक मानचित्र",
+   "विषयगत मानचित्र",
+   "सड़क मानचित्र"
+  ],
+  "correct": 1,
+  "explainEn": "Physical maps show natural features of the Earth like mountains, plateaus, plains, rivers, and oceans.",
+  "sourceHint": "NCERT Class 6 Geography (Maps chapter)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T21:37:22Z"
+ },
+ {
+  "id": "q_8cd5a73c6e1daa90",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian grain is widely known as a coarse grain or millet, rich in nutrients?",
+  "qHi": "पारंपरिक भारतीय अनाज में से किसे पोषक तत्वों से भरपूर एक मोटे अनाज या बाजरा के रूप में जाना जाता है?",
+  "optsEn": [
+   "Rice",
+   "Wheat",
+   "Bajra",
+   "Maida"
+  ],
+  "optsHi": [
+   "चावल",
+   "गेहूँ",
+   "बाजरा",
+   "मैदा"
+  ],
+  "correct": 2,
+  "explainEn": "Bajra (pearl millet) is a well-known nutrient-rich millet grown widely in drier parts of India.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T21:37:22Z"
+ },
+ {
+  "id": "q_1b1c30f69d5f365b",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian currency, which institution has the sole authority to issue banknotes?",
+  "qHi": "भारतीय मुद्रा के संदर्भ में, किस संस्थान के पास बैंकनोट जारी करने का एकमात्र अधिकार है?",
+  "optsEn": [
+   "State Bank of India",
+   "Ministry of Finance",
+   "Reserve Bank of India",
+   "NITI Aayog"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "वित्त मंत्रालय",
+   "भारतीय रिजर्व बैंक",
+   "नीति आयोग"
+  ],
+  "correct": 2,
+  "explainEn": "The Reserve Bank of India (RBI) is the central bank of the country and holds the sole right to issue currency notes except one-rupee notes.",
+  "sourceHint": "RBI official mandate / NCERT Economics references",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T21:38:22Z"
+ },
+ {
+  "id": "q_3d3cb06119c718a6",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific atmospheric layer is closest to the Earth's surface and contains about 75 percent of the atmosphere's gases?",
+  "qHi": "कौन सी विशिष्ट वायुमंडलीय परत पृथ्वी की सतह के सबसे करीब है और इसमें वायुमंडल की लगभग 75 प्रतिशत गैसें शामिल हैं?",
+  "optsEn": [
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere",
+   "Troposphere"
+  ],
+  "optsHi": [
+   "समताप मंडल",
+   "मध्यमंडल",
+   "बाह्य वायुमंडल",
+   "क्षोभमंडल"
+  ],
+  "correct": 3,
+  "explainEn": "The troposphere is the lowest layer of Earth's atmosphere and contains the vast majority of weather and atmospheric mass.",
+  "sourceHint": "NCERT Class 7 Geography Chapter - Air",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T21:38:22Z"
+ },
+ {
+  "id": "q_7251256762cef690",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary gas absorbed by green plants during the process of photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण की प्रक्रिया के दौरान हरे पौधों द्वारा मुख्य रूप से कौन सी गैस अवशोषित की जाती है?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Oxygen",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 0,
+  "explainEn": "Green plants absorb carbon dioxide from the air and use sunlight to make their food during photosynthesis.",
+  "sourceHint": "NCERT Class 6 Science Chapter - Components of Food and Plants",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T21:38:22Z"
+ },
+ {
+  "id": "q_f81675de31da48f3",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which vitamin is primarily synthesized in the human body when the skin is exposed to direct sunlight?",
+  "qHi": "जब त्वचा सीधी धूप के संपर्क में आती है तो मानव शरीर में मुख्य रूप से कौन सा विटामिन संश्लेषित होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Vitamin D is produced in the skin when exposed to ultraviolet B (UVB) rays from the sun.",
+  "sourceHint": "NCERT Class 6 Science Chapter - Components of Food",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T21:38:22Z"
+ },
+ {
+  "id": "q_d2461ae45aa7520d",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the term used to describe the large underground reservoirs of fresh water found in permeable rock and soil layers?",
+  "qHi": "पारगम्य चट्टान और मिट्टी की परतों में पाए जाने वाले ताजे पानी के बड़े भूमिगत जलाशयों का वर्णन करने के लिए किस शब्द کا उपयोग किया जाता है?",
+  "optsEn": [
+   "Glacier",
+   "Aquifer",
+   "Estuary",
+   "Tributary"
+  ],
+  "optsHi": [
+   "हिमनद",
+   "जलभृत (एक्विफर)",
+   "मुहाना",
+   "सहायक नदी"
+  ],
+  "correct": 1,
+  "explainEn": "An aquifer is an underground layer of water-bearing permeable rock or unconsolidated materials from which groundwater can be extracted.",
+  "sourceHint": "NCERT Class 7 Geography Chapter - Water",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T21:38:22Z"
  }
 ]

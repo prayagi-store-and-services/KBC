@@ -21196,34 +21196,6 @@
   "createdAt": "2026-10-31T12:32:37Z"
  },
  {
-  "id": "q_e5ef77f5e8372f38",
-  "group": "class-8",
-  "band": "medium",
-  "tierFrom": 6,
-  "tierTo": 11,
-  "special": null,
-  "qEn": "Which fundamental right guarantees the protection of life and personal liberty in India?",
-  "qHi": "भारत में कौन सा मौलिक अधिकार जीवन और व्यक्तिगत स्वतंत्रता की सुरक्षा की गारंटी देता है?",
-  "optsEn": [
-   "समानता का अधिकार",
-   "स्वतंत्रता का अधिकार",
-   "संवैधानिक उपचार का अधिकार",
-   "शोषण के खिलाफ अधिकार"
-  ],
-  "optsHi": [
-   "समानता का अधिकार",
-   "स्वतंत्रता का अधिकार",
-   "संवैधानिक उपचार का अधिकार",
-   "शोषण के खिलाफ अधिकार"
-  ],
-  "correct": 1,
-  "explainEn": "Article 21 of the Constitution of India guarantees the protection of life and personal liberty under the Right to Freedom.",
-  "sourceHint": "Constitution of India",
-  "verifiedBy": "AI second pass agreed (high confidence)",
-  "model": "gemini-3.5-flash-lite",
-  "createdAt": "2026-10-31T12:34:14Z"
- },
- {
   "id": "q_acd1eacecd53fd05",
   "group": "class-8",
   "band": "hard",
@@ -21418,5 +21390,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-31T12:35:00Z"
+ },
+ {
+  "id": "q_b62b629aac79445d",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the term used for the underground water stored between layers of hard rock below the water table?",
+  "qHi": "जल स्तर के नीचे कठोर चट्टानों की परतों के बीच संचित भूमिगत जल के लिए किस शब्द का प्रयोग किया जाता है?",
+  "optsEn": [
+   "Aquifer",
+   "Glacier",
+   "Reservoir",
+   "Estuary"
+  ],
+  "optsHi": [
+   "जलभृत",
+   "हिमनद",
+   "जलाशय",
+   "नदीमुख"
+  ],
+  "correct": 0,
+  "explainEn": "An aquifer is an underground layer of water-bearing permeable rock or materials.",
+  "sourceHint": "NCERT Class 7-8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T21:36:10Z"
+ },
+ {
+  "id": "q_8d9de4dbc219d636",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which type of combustion does a material suddenly burst into flames without the application of any apparent cause?",
+  "qHi": "किस प्रकार के दहन में कोई पदार्थ बिना किसी स्पष्ट कारण के अचानक लपटों के साथ जल उठता है?",
+  "optsEn": [
+   "Rapid combustion",
+   "Spontaneous combustion",
+   "Explosion",
+   "Slow combustion"
+  ],
+  "optsHi": [
+   "तीव्र दहन",
+   "स्वतः दहन",
+   "विस्फोट",
+   "मंद दहन"
+  ],
+  "correct": 1,
+  "explainEn": "Spontaneous combustion is the type of combustion in which a material bursts into flames suddenly without application of heat.",
+  "sourceHint": "NCERT Class 8 Science Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T21:37:27Z"
+ },
+ {
+  "id": "q_3ae243084ee3eb3b",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following metals is stored in kerosene because it catches fire on contact with air and moisture?",
+  "qHi": "निम्नलिखित में से किस धातु को मिट्टी के तेल (केरोसिन) में रखा जाता है क्योंकि यह वायु और नमी के संपर्क में आने पर आग पकड़ लेती है?",
+  "optsEn": [
+   "Copper",
+   "Iron",
+   "Sodium",
+   "Aluminium"
+  ],
+  "optsHi": [
+   "तांबा",
+   "लोहा",
+   "सोडियम",
+   "एल्युमीनियम"
+  ],
+  "correct": 2,
+  "explainEn": "Sodium is a very reactive metal that reacts vigorously with oxygen and moisture, so it is stored in kerosene.",
+  "sourceHint": "NCERT Class 8 Science Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T21:37:27Z"
  }
 ]

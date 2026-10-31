@@ -31386,5 +31386,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-31T12:34:44Z"
+ },
+ {
+  "id": "q_f3061a4bd48eff0d",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which document is issued by a bank acknowledging the deposit of money for a fixed period at a specified interest rate?",
+  "qHi": "एक निश्चित अवधि के लिए निर्दिष्ट ब्याज दर पर धन जमा करने की पावती के रूप में बैंक द्वारा कौन सा दस्तावेज़ जारी किया जाता है?",
+  "optsEn": [
+   "Fixed Deposit Receipt",
+   "Demand Draft",
+   "Letter of Credit",
+   "Cheque Book"
+  ],
+  "optsHi": [
+   "सावधि जमा रसीद",
+   "डिमांड ड्राफ्ट",
+   "साख पत्र",
+   "चेक बुक"
+  ],
+  "correct": 0,
+  "explainEn": "A Fixed Deposit Receipt (FDR) is issued by a bank as proof of a term deposit.",
+  "sourceHint": "NCERT Business Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T21:37:13Z"
+ },
+ {
+  "id": "q_90bed6909f9f4139",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institution regulates cooperative banks in India along with the Reserve Bank of India?",
+  "qHi": "भारत में सहकारी बैंकों को भारतीय रिजर्व बैंक के साथ कौन सा संस्थान विनियमित करता है?",
+  "optsEn": [
+   "National Bank for Agriculture and Rural Development",
+   "Securities and Exchange Board of India",
+   "Small Industries Development Bank of India",
+   "Insurance Regulatory and Development Authority"
+  ],
+  "optsHi": [
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "भारतीय लघु उद्योग विकास बैंक",
+   "बीमा विनियामक और विकास प्राधिकरण"
+  ],
+  "correct": 0,
+  "explainEn": "NABARD was established by an Act of Parliament in 1982 to regulate and supervise regional rural banks and apex cooperative banks in India.",
+  "sourceHint": "RBI website and NABARD Act",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T21:37:52Z"
+ },
+ {
+  "id": "q_969652fcbac91724",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque becomes stale after the expiration of how many months from its date of issuance?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, जारी होने की तारीख से कितने महीनों की समाप्ति के बाद चेक पुराना (stale) हो जाता है?",
+  "optsEn": [
+   "3 months",
+   "6 months",
+   "12 months",
+   "1 month"
+  ],
+  "optsHi": [
+   "3 महीने",
+   "6 महीने",
+   "12 महीने",
+   "1 महीना"
+  ],
+  "correct": 0,
+  "explainEn": "The Reserve Bank of India directed that the validity period of cheques, demand drafts, and pay orders be reduced from 6 months to 3 months.",
+  "sourceHint": "RBI Circulars on Banking Operations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T21:37:52Z"
+ },
+ {
+  "id": "q_5d322f4af3a079f1",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following entities is responsible for assigning credit ratings to corporate borrowers and debt instruments in India?",
+  "qHi": "निम्नलिखित में से कौन सी संस्था भारत में कॉर्पोरेट उधारकर्ताओं और ऋण साधनों को क्रेडिट रेटिंग प्रदान करने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "CRISIL",
+   "TRAI",
+   "IRDAI",
+   "FSSAI"
+  ],
+  "optsHi": [
+   "क्रिसिल (CRISIL)",
+   "ट्राई (TRAI)",
+   "इरडाई (IRDAI)",
+   "एफएसएसएआई (FSSAI)"
+  ],
+  "correct": 0,
+  "explainEn": "CRISIL (Credit Rating Information Services of India Limited) is a global analytical company providing ratings, research, and risk and policy advisory services.",
+  "sourceHint": "SEBI Guidelines on Credit Rating Agencies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T21:37:52Z"
+ },
+ {
+  "id": "q_338ae0baca60ba7c",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization operates the Unified Payments Interface (UPI) platform in India?",
+  "qHi": "भारत में यूनिफाइड पेमेंट्स इंटरफेस (UPI) प्लेटफॉर्म का संचालन कौन सा संगठन करता है?",
+  "optsEn": [
+   "National Payments Corporation of India",
+   "Reserve Bank of India",
+   " भारतीय स्टेट बैंक",
+   "Indian Banks' Association"
+  ],
+  "optsHi": [
+   "भारतीय राष्ट्रीय भुगतान निगम",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय स्टेट बैंक",
+   "इंडियन बैंक्स एसोसिएशन"
+  ],
+  "correct": 0,
+  "explainEn": "NPCI (National Payments Corporation of India) is an umbrella organization for operating retail payments and settlement systems in India, including UPI.",
+  "sourceHint": "NPCI Official Portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T21:37:52Z"
+ },
+ {
+  "id": "q_70aa205e1ceb622e",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the acronym 'RTGS' stand for in the Indian banking system?",
+  "qHi": "भारतीय बैंकिंग प्रणाली में 'RTGS' शब्द का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Real Time Gross Settlement",
+   "Rapid Transfer Global System",
+   "Reserve Transfer Guaranteed Settlement",
+   "Regular Transaction Gross System"
+  ],
+  "optsHi": [
+   "रियल टाइम ग्रॉस सेटलमेंट",
+   "रैपिड ट्रांसफर ग्लोबल सिस्टम",
+   "रिजर्व ट्रांसफर गारंटीड सेटलमेंट",
+   "रेगुलर ट्रांजैक्शन ग्रॉस सिस्टम"
+  ],
+  "correct": 0,
+  "explainEn": "RTGS stands for Real Time Gross Settlement, which is a funds transfer mechanism where transfer of money takes place from one bank to another on a 'real-time' and 'gross' basis.",
+  "sourceHint": "RBI Payment Systems Overview",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T21:37:52Z"
  }
 ]

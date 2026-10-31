@@ -29734,5 +29734,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-31T12:34:31Z"
+ },
+ {
+  "id": "q_d0324b7519526a35",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which layer of the atmosphere is largely free from clouds and associated weather phenomena, making it ideal for flying aeroplanes?",
+  "qHi": "वायुमंडल की कौन सी परत बादलों और संबंधित मौसमी घटनाओं से मुक्त होती है, जिससे यह हवाई जहाज उड़ाने के लिए आदर्श बनती है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The stratosphere contains the ozone layer and is largely free from clouds and weather disturbances, providing optimum conditions for commercial jet flight.",
+  "sourceHint": "NCERT Class 7 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T21:36:23Z"
+ },
+ {
+  "id": "q_7fa3075759653f35",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "The famous rock-cut caves of Ajanta are located in which present-day state of India?",
+  "qHi": "अजंता की प्रसिद्ध गुफाएं भारत के किस वर्तमान राज्य में स्थित हैं?",
+  "optsEn": [
+   "Madhya Pradesh",
+   "Maharashtra",
+   "Karnataka",
+   "Odisha"
+  ],
+  "optsHi": [
+   "मध्य प्रदेश",
+   "महाराष्ट्र",
+   "कर्नाटक",
+   "ओडिशा"
+  ],
+  "correct": 1,
+  "explainEn": "The Ajanta Caves are roughly 30 rock-cut Buddhist cave monuments dating from the 2nd century BCE to about 480 CE in Aurangabad district (now Chhatrapati Sambhajinagar) of Maharashtra.",
+  "sourceHint": "NCERT Class 11 Fine Arts",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T21:36:23Z"
+ },
+ {
+  "id": "q_fd1dbf8327325e71",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following components is primarily responsible for holding instructions needed during the startup of a computer?",
+  "qHi": "कंप्यूटर को शुरू करते समय आवश्यक निर्देशों को संजोए रखने के लिए मुख्य रूप से कौन सा घटक जिम्मेदार होता है?",
+  "optsEn": [
+   "RAM",
+   "ROM",
+   "Hard Disk",
+   "Cache"
+  ],
+  "optsHi": [
+   "रैम (RAM)",
+   "रोम (ROM)",
+   "हार्ड डिस्क",
+   "कैश"
+  ],
+  "correct": 1,
+  "explainEn": "ROM (Read-Only Memory) is non-volatile memory that stores permanent instructions like the BIOS needed to boot up the computer.",
+  "sourceHint": "NCERT Class 11 Computer Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T21:36:23Z"
+ },
+ {
+  "id": "q_d460caeff936a144",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The term 'Rabi' in the context of Indian agriculture refers to crops that are sown and harvested during which period?",
+  "qHi": "भारतीय कृषि के संदर्भ में 'रबी' शब्द उन फसलों को संदर्भित करता है जिन्हें किस अवधि के दौरान बोया और काटा जाता है?",
+  "optsEn": [
+   "Sown in monsoon and harvested in winter",
+   "Sown in winter and harvested in spring",
+   "Sown in summer and harvested in monsoon",
+   "Sown in spring and harvested in summer"
+  ],
+  "optsHi": [
+   "मानसून में बोई जाती हैं और सर्दियों में काटी जाती हैं",
+   "सर्दियों में बोई जाती हैं और वसंत में काटी जाती हैं",
+   "गर्मी में बोई जाती हैं और मानसून में काटी जाती हैं",
+   "वसंत में बोई जाती हैं और गर्मी में काटी जाती हैं"
+  ],
+  "correct": 1,
+  "explainEn": "Rabi crops are sown in winter from October to December and harvested in spring from April to June. Examples include wheat, barley, and gram.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 4 - Agriculture",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T21:37:43Z"
+ },
+ {
+  "id": "q_4b2bd60b6987fdb3",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following atmospheric layers is characterized by the presence of ozone molecules that absorb harmful ultraviolet radiation?",
+  "qHi": "निम्नलिखित में से किस वायुमंडलीय परत की विशेषता ओजोन अणुओं की उपस्थिति है जो हानिकारक पराबैंगनी विकिरण को अवशोषित करती है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The stratosphere contains the ozone layer, which absorbs ultraviolet radiation from the Sun, protecting life on Earth.",
+  "sourceHint": "NCERT Class 11 Geography, Fundamentals of Physical Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T21:37:43Z"
+ },
+ {
+  "id": "q_e0ad775bb1850820",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The 'Kaleshwaram Lift Irrigation Project', designed to harvest water from the Godavari River, is primarily located in which Indian state?",
+  "qHi": "गोदावरी नदी से पानी का उपयोग करने के लिए डिज़ाइन की गई 'कालेश्वरम लिफ्ट सिंचाई परियोजना' मुख्य रूप से किस भारतीय राज्य में स्थित है?",
+  "optsEn": [
+   "Karnataka",
+   "Telangana",
+   "Andhra Pradesh",
+   "Maharashtra"
+  ],
+  "optsHi": [
+   "कर्नाटक",
+   "तेलंगाना",
+   "आंध्र प्रदेश",
+   "महाराष्ट्र"
+  ],
+  "correct": 1,
+  "explainEn": "The Kaleshwaram Lift Irrigation Project is a multi-purpose irrigation project on the Godavari River in the state of Telangana.",
+  "sourceHint": "PIB Press Release / Ministry of Jal Shakti",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T21:37:43Z"
+ },
+ {
+  "id": "q_753ec26b9c0300c4",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following classical dance forms of India originated as a solo performance by temple dancers known as 'devadasis'?",
+  "qHi": "भारत के निम्नलिखित में से किस शास्त्रीय नृत्य रूप की उत्पत्ति 'देवदासी' के रूप में जानी जाने वाली मंदिर नर्तकियों द्वारा एकल प्रदर्शन के रूप में हुई थी?",
+  "optsEn": [
+   "Kathakali",
+   "Bharatanatyam",
+   "Kathak",
+   "Manipuri"
+  ],
+  "optsHi": [
+   "कथकली",
+   "भरतनाट्यम",
+   "कथक",
+   "मणिपुरी"
+  ],
+  "correct": 1,
+  "explainEn": "Bharatanatyam is a major Indian classical dance form that originated in Tamil Nadu and was traditionally performed by devadasis in Hindu temples.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT) India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T21:37:43Z"
+ },
+ {
+  "id": "q_b756c5b6db2ee7b1",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In economics, the term 'Narrow Money' (M1) in India primarily includes which of the following components?",
+  "qHi": "अर्थशास्त्र में, भारत में 'संकुचित मुद्रा' (M1) शब्द में मुख्य रूप से निम्नलिखित में से कौन सा घटक शामिल है?",
+  "optsEn": [
+   "Currency with the public, demand deposits with banks, and 'other' deposits with RBI",
+   "Currency with the public and total time deposits with commercial banks",
+   "Demand deposits with banks and total post office savings deposits",
+   "Currency with the public and total savings bank deposits"
+  ],
+  "optsHi": [
+   "जनता के पास मुद्रा, बैंकों के पास मांग जमा, और आरबीआई के पास 'अन्य' जमा",
+   "जनता के पास मुद्रा और वाणिज्यिक बैंकों के पास कुल सावधि जमा",
+   "बैंकों के पास मांग जमा और कुल डाकघर बचत जमा",
+   "जनता के पास मुद्रा और कुल बचत बैंक जमा"
+  ],
+  "correct": 0,
+  "explainEn": "Narrow money (M1) is defined by the Reserve Bank of India as Currency with the public (CC) + Demand deposits with the banking system (DD) + Other deposits with the RBI (OD).",
+  "sourceHint": "RBI Glossary and NCERT Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T21:37:43Z"
  }
 ]
