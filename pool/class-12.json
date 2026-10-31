@@ -28978,5 +28978,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-30T22:23:55Z"
+ },
+ {
+  "id": "q_82026f82d73f5a37",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which chemical process is primarily responsible for the rusting of iron?",
+  "qHi": "लोहे में जंग लगने के लिए मुख्य रूप से कौन सी रासायनिक प्रक्रिया जिम्मेदार है?",
+  "optsEn": [
+   "Reduction",
+   "Oxidation",
+   "Neutralization",
+   "Sublimation"
+  ],
+  "optsHi": [
+   "अपचयन",
+   "ऑक्सीकरण",
+   "उदासीनीकरण",
+   "ऊर्ध्वपातन"
+  ],
+  "correct": 1,
+  "explainEn": "Rusting of iron is an electrochemical process that involves the oxidation of iron in the presence of oxygen and moisture.",
+  "sourceHint": "NCERT Class 12 Chemistry Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:43:53Z"
+ },
+ {
+  "id": "q_99fe635a2f326e78",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary cellular site for ATP synthesis during cellular respiration in eukaryotes?",
+  "qHi": "यूकेरियोट्स में कोशिकी श्वसन के दौरान एटीपी संश्लेषण का प्राथमिक कोशिकीय स्थल कौन सा है?",
+  "optsEn": [
+   "Ribosome",
+   "Golgi apparatus",
+   "Mitochondria",
+   "Endoplasmic reticulum"
+  ],
+  "optsHi": [
+   "राइबोसोम",
+   "गोल्गी उपकरण",
+   "माइटोकॉन्ड्रिया",
+   "एंडोप्लाज्मिक रेटिकुलम"
+  ],
+  "correct": 2,
+  "explainEn": "Mitochondria contain the machinery for oxidative phosphorylation and are known as the powerhouse of the cell.",
+  "sourceHint": "NCERT Class 11/12 Biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:43:53Z"
+ },
+ {
+  "id": "q_664113a6247f13a0",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which constitutional article abolishes untouchability in India?",
+  "qHi": "भारत में कौन सा संवैधानिक अनुच्छेद अस्पृश्यता का अंत करता है?",
+  "optsEn": [
+   "Article 14",
+   "Article 17",
+   "Article 21",
+   "Article 32"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14",
+   "अनुच्छेद 17",
+   "अनुच्छेद 21",
+   "अनुच्छेद 32"
+  ],
+  "correct": 1,
+  "explainEn": "Article 17 of the Constitution of India abolishes 'untouchability' and makes its practice in any form a punishable offense.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:43:53Z"
+ },
+ {
+  "id": "q_44a270a79b9dde4d",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of economic system is characterized by the central planning authority taking major economic decisions?",
+  "qHi": "किस प्रकार की आर्थिक प्रणाली की विशेषता केंद्रीय नियोजन प्राधिकरण द्वारा प्रमुख आर्थिक निर्णय लेना है?",
+  "optsEn": [
+   "Capitalist economy",
+   "Market economy",
+   "Command economy",
+   "Mixed economy"
+  ],
+  "optsHi": [
+   "पूंजीवादी अर्थव्यवस्था",
+   "बाजार अर्थव्यवस्था",
+   "कमांड अर्थव्यवस्था",
+   "मिश्रित अर्थव्यवस्था"
+  ],
+  "correct": 2,
+  "explainEn": "In a centrally planned or command economy, all important decisions regarding production and distribution are made by the government.",
+  "sourceHint": "NCERT Class 12 Economics Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:43:53Z"
+ },
+ {
+  "id": "q_e9a214a862dc5a71",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In computer networking, what does the acronym TCP stand for?",
+  "qHi": "कंप्यूटर नेटवर्किंग में, संक्षिप्त नाम TCP का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Transmission Control Protocol",
+   "Transfer Connection Program",
+   "Telecommunication Core Protocol",
+   "Transmission Code Processing"
+  ],
+  "optsHi": [
+   "ट्रांसमिशन कंट्रोल प्रोटोकॉल",
+   "ट्रांसफर कनेक्शन प्रोग्राम",
+   "टेलीकम्युनिकेशन कोर प्रोटोकॉल",
+   "ट्रांसमिशन कोड प्रोसेसिंग"
+  ],
+  "correct": 0,
+  "explainEn": "TCP stands for Transmission Control Protocol, a core protocol of the Internet Protocol Suite.",
+  "sourceHint": "NCERT Class 12 Computer Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:43:53Z"
+ },
+ {
+  "id": "q_a0eeb584b72f2788",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which plant hormone is primarily responsible for cell elongation and phototropic curvature in stems?",
+  "qHi": "तनों में कोशिका लम्बाई और फोटोट्रोपिक वक्रता के लिए मुख्य रूप से कौन सा पादप हार्मोन जिम्मेदार है?",
+  "optsEn": [
+   "Ethylene",
+   "Abscisic acid",
+   "Auxin",
+   "Cytokinin"
+  ],
+  "optsHi": [
+   "एथिलीन",
+   "एब्सिसिक एसिड",
+   "ऑक्साइन",
+   "साइटोकाइनिन"
+  ],
+  "correct": 2,
+  "explainEn": "Auxins are plant hormones that promote cell elongation, apical dominance, and root formation.",
+  "sourceHint": "NCERT Class 11 Biology Chapter 15",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:43:53Z"
+ },
+ {
+  "id": "q_c381c133ccac2b03",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which biogeochemical cycle does not have a gaseous phase in the atmosphere under normal conditions?",
+  "qHi": "सामान्य परिस्थितियों में किस जैव-भू-रासायनिक चक्र का वायुमंडल में गैसीय चरण नहीं होता है?",
+  "optsEn": [
+   "Phosphorus cycle",
+   "Nitrogen cycle",
+   "Carbon cycle",
+   "Oxygen cycle"
+  ],
+  "optsHi": [
+   "फास्फोरस चक्र",
+   "नाइट्रोजन चक्र",
+   "कार्बन चक्र",
+   "ऑक्सीजन चक्र"
+  ],
+  "correct": 0,
+  "explainEn": "The phosphorus cycle is a sedimentary cycle and lacks a significant gaseous phase in the atmosphere.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:45:06Z"
+ },
+ {
+  "id": "q_74b68392590377ee",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In object-oriented programming, what feature allows a new class to inherit properties and methods from an existing class?",
+  "qHi": "ऑब्जेक्ट-ओरिएंटेड प्रोग्रामिंग में, कौन सी विशेषता एक नई कक्षा (क्लास) को मौजूदा कक्षा से गुण और तरीके (प्रॉपर्टीज और मेथड्स) प्राप्त करने की अनुमति देती है?",
+  "optsEn": [
+   "Inheritance",
+   "Encapsulation",
+   "Polymorphism",
+   "Abstraction"
+  ],
+  "optsHi": [
+   "इनहेरिटेंस (उत्तराधिकार)",
+   "एन्कैप्सुलेशन",
+   "पॉलीमॉर्फिज्म",
+   "एब्स्ट्रक्शन"
+  ],
+  "correct": 0,
+  "explainEn": "Inheritance is the mechanism in object-oriented programming where a class can inherit attributes and methods from another class.",
+  "sourceHint": "NCERT Class 12 Computer Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:45:06Z"
  }
 ]

@@ -30434,5 +30434,397 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-30T22:24:13Z"
+ },
+ {
+  "id": "q_3b6cf64796141802",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which institution acts as the regulator of the insurance sector in India?",
+  "qHi": "भारत में बीमा क्षेत्र के नियामक के रूप में कौन सी संस्था कार्य करती है?",
+  "optsEn": [
+   "SEBI",
+   "IRDAI",
+   "NABARD",
+   "SIDBI"
+  ],
+  "optsHi": [
+   "सेबी",
+   "इरडाई",
+   "नाबार्ड",
+   "सिडबी"
+  ],
+  "correct": 1,
+  "explainEn": "The Insurance Regulatory and Development Authority of India (IRDAI) is the statutory body tasked with regulating and promoting the insurance sector in India.",
+  "sourceHint": "IRDA Act, 1999",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:43:32Z"
+ },
+ {
+  "id": "q_a1c9a869d6e6fba3",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the term used for the interest rate at which the Reserve Bank of India lends short-term funds to commercial banks?",
+  "qHi": "उस ब्याज दर को क्या कहा जाता है जिस पर भारतीय रिजर्व बैंक वाणिज्यिक बैंकों को अल्पकालिक धन उधार देता है?",
+  "optsEn": [
+   "Repo Rate",
+   "Reverse Repo Rate",
+   "CRR",
+   "SLR"
+  ],
+  "optsHi": [
+   "रेपो रेट",
+   "रिवर्स रेपो रेट",
+   "सीआरआर",
+   "एसएलआर"
+  ],
+  "correct": 0,
+  "explainEn": "Repo rate is the rate at which the central bank lends money to commercial banks in the event of any shortfall of funds.",
+  "sourceHint": "Reserve Bank of India glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:43:32Z"
+ },
+ {
+  "id": "q_ffcfb9d87a5557dd",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institution regulates the microfinance sector in India along with regulating Regional Rural Banks and cooperative banks?",
+  "qHi": "क्षेत्रीय ग्रामीण बैंकों और सहकारी बैंकों को विनियमित करने के साथ-साथ भारत में सूक्ष्म वित्त क्षेत्र को कौन सी संस्था विनियमित करती है?",
+  "optsEn": [
+   "Securities and Exchange Board of India",
+   "National Bank for Agriculture and Rural Development",
+   "Small Industries Development Bank of India",
+   "Insurance Regulatory and Development Authority"
+  ],
+  "optsHi": [
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक",
+   "भारतीय लघु उद्योग विकास बैंक",
+   "बीमा विनियामक और विकास प्राधिकरण"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD is an apex regulatory body for overall regulation of regional rural banks and apex cooperative banks in India, and plays a key role in microfinance regulation and development.",
+  "sourceHint": "NABARD Official Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:44:29Z"
+ },
+ {
+  "id": "q_00e7674f34583670",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque becomes stale and invalid for payment after the expiration of how many months from the date of its issuance?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, जारी होने की तारीख से कितने महीनों की समाप्ति के बाद एक चेक पुराना और भुगतान के लिए अमान्य हो जाता है?",
+  "optsEn": [
+   "One month",
+   "Three months",
+   "Six months",
+   "Twelve months"
+  ],
+  "optsHi": [
+   "एक महीना",
+   "तीन महीने",
+   "छह महीने",
+   "बारह महीने"
+  ],
+  "correct": 1,
+  "explainEn": "RBI directed that the validity period of cheques, demand drafts, pay orders, and banker's cheques was reduced from six months to three months from the date of issuance.",
+  "sourceHint": "Reserve Bank of India Master Circulars",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:44:29Z"
+ },
+ {
+  "id": "q_12a46a97f440e5a5",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of the Prompt Corrective Action (PCA) framework administered by the Reserve Bank of India for commercial banks?",
+  "qHi": "वाणिज्यिक बैंकों के लिए भारतीय रिजर्व बैंक द्वारा प्रशासित त्वरित सुधारात्मक कार्रवाई (पीसीए) ढांचे का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To penalize banks for offering high interest rates on retail deposits",
+   "To intervene early and take supervisory actions when a bank becomes vulnerable due to poor asset quality or capital",
+   "To facilitate voluntary mergers of foreign banks operating in India",
+   "To set the maximum limit for unsecured personal loans"
+  ],
+  "optsHi": [
+   "खुदरा जमा पर उच्च ब्याज दरें देने वाले बैंकों को दंडित करना",
+   "कमजोर परिसंपत्ति गुणवत्ता या पूंजी के कारण बैंक के कमजोर होने पर शुरुआती हस्तक्षेप करना और पर्यवेक्षी कार्रवाई करना",
+   "भारत में काम कर रहे विदेशी बैंकों के स्वैच्छिक विलय को सुविधाजनक बनाना",
+   "सुरक्षित व्यक्तिगत ऋणों के लिए अधिकतम सीमा निर्धारित करना"
+  ],
+  "correct": 1,
+  "explainEn": "The PCA framework enables the RBI to monitor key parameters such as capital, asset quality, and profitability of banks, and intervene early to restore financial health.",
+  "sourceHint": "RBI Supervisory Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:44:29Z"
+ },
+ {
+  "id": "q_0e738dcf6fc6bb65",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of Indian banking, what does the letter 'C' stand for in the abbreviation 'CASA' account?",
+  "qHi": "भारतीय बैंकिंग के संदर्भ में, 'CASA' खाते के संक्षिप्त रूप में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Current",
+   "Collateral",
+   "Credit",
+   "Commercial"
+  ],
+  "optsHi": [
+   "करेंट (चालू)",
+   "संपार्श्विक",
+   "क्रेडिट",
+   "वाणिज्यिक"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account Savings Account. It refers to bank accounts that combine Current and Savings account features, providing low-cost deposits to banks.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) Study Material",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:44:29Z"
+ },
+ {
+  "id": "q_77188346da39eb08",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following entities is responsible for operating the Unified Payments Interface (UPI) system in India?",
+  "qHi": "भारत में यूनिफाइड पेमेंट इंटरफेस (UPI) प्रणाली को संचालित करने के लिए निम्नलिखित में से कौन सी इकाई जिम्मेदार है?",
+  "optsEn": [
+   "State Bank of India",
+   "National Payments Corporation of India",
+   "Telecom Regulatory Authority of India",
+   "Ministry of Finance"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "भारतीय राष्ट्रीय भुगतान निगम",
+   "भारतीय दूरसञ्चार विनियामक प्राधिकरण",
+   "वित्त मंत्रालय"
+  ],
+  "correct": 1,
+  "explainEn": "NPCI (National Payments Corporation of India) is an umbrella organization for operating retail payments and settlement systems in India, including UPI, IMPS, and RuPay.",
+  "sourceHint": "NPCI Official Portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:44:29Z"
+ },
+ {
+  "id": "q_76eb31ad46c1d04d",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of risk refers to the potential loss arising from a bank's inability to meet its obligations as they come due without incurring unacceptable losses?",
+  "qHi": "किस प्रकार का जोखिम उस संभावित नुकसान को संदर्भित करता है जो बिना अस्वीकार्य नुकसान उठाए देय होने पर अपने दायित्वों को पूरा करने में बैंक की असमर्थता से उत्पन्न होता है?",
+  "optsEn": [
+   "Credit risk",
+   "Liquidity risk",
+   "Operational risk",
+   "Market risk"
+  ],
+  "optsHi": [
+   "क्रेडिट जोखिम",
+   "तरलता जोखिम",
+   "परिचालन जोखिम",
+   "बाजार जोखिम"
+  ],
+  "correct": 1,
+  "explainEn": "Liquidity risk is the risk that a bank may not have sufficient liquid assets to meet its financial obligations when they fall due, such as deposit withdrawals or loan disbursements.",
+  "sourceHint": "Basel Committee on Banking Supervision (BCBS)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:44:29Z"
+ },
+ {
+  "id": "q_5ce40e0b3512a39b",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following financial instruments represents an unsecured, short-term debt instrument issued by corporations in the Indian money market?",
+  "qHi": "भारतीय मुद्रा बाजार में निगमों द्वारा जारी किया गया निम्नलिखित में से कौन सा वित्तीय साधन एक असुरक्षित, अल्पकालिक ऋण साधन का प्रतिनिधित्व करता है?",
+  "optsEn": [
+   "Certificate of Deposit",
+   "Commercial Paper",
+   "Treasury Bill",
+   "Dated Government Security"
+  ],
+  "optsHi": [
+   "प्रमाण पत्र जमा (सर्टिफिकेट ऑफ डिपॉजिट)",
+   "वाणिज्यिक पत्र (कमर्शियल पेपर)",
+   "राजकोषीय बिल (ट्रेजरी बिल)",
+   "दिनांकित सरकारी प्रतिभूति"
+  ],
+  "correct": 1,
+  "explainEn": "Commercial Paper is an unsecured short-term promissory note issued by highly rated corporates to raise short-term debt.",
+  "sourceHint": "RBI Guidelines on Money Market Instruments",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:45:23Z"
+ },
+ {
+  "id": "q_811ccd4f7bc90b76",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary objective of undertaking 'Prompt Corrective Action' (PCA) framework by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा 'त्वरित सुधारात्मक कार्रवाई' (PCA) फ्रेमवर्क शुरू करने का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To regulate foreign exchange reserves",
+   "To monitor and intervene in financially weak banks early",
+   "To manage rural credit expansion",
+   "To control consumer inflation directly"
+  ],
+  "optsHi": [
+   "विदेशी मुद्रा भंडार को विनियमित करना",
+   "वित्तीय रूप से कमजोर बैंकों की शुरुआती निगरानी करना और हस्तक्षेप करना",
+   "ग्रामीण ऋण विस्तार का प्रबंधन करना",
+   "उपभोक्ता मुद्रास्फीति को सीधे नियंत्रित करना"
+  ],
+  "correct": 1,
+  "explainEn": "The PCA framework enables the RBI to intervene early and take supervisory actions on banks that breach certain regulatory thresholds on capital, asset quality, and profitability.",
+  "sourceHint": "RBI Master Direction on Prompt Corrective Action Framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:45:23Z"
+ },
+ {
+  "id": "q_a006598f852dd1fb",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which institution in India acts as the principal regulator for Microfinance Institutions (MFIs) organized as Non-Banking Financial Companies (NBFC-MFIs)?",
+  "qHi": "भारत में गैर-बैंकिंग वित्तीय कंपनियों (NBFC-MFIs) के रूप में संगठित सूक्ष्म वित्त संस्थानों (MFIs) के लिए प्रमुख नियामक के रूप में कौन सी संस्था कार्य करती है?",
+  "optsEn": [
+   "Small Industries Development Bank of India",
+   "National Bank for Agriculture and Rural Development",
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "भारतीय लघु उद्योग विकास बैंक",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड"
+  ],
+  "correct": 2,
+  "explainEn": "The Reserve Bank of India regulates all NBFCs, including NBFC-MFIs, under the provisions of the RBI Act, 1934.",
+  "sourceHint": "RBI Master Directions on Regulatory Framework for NBFC-MFIs",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:45:23Z"
+ },
+ {
+  "id": "q_f422f84e562ce877",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following entities is legally mandated to operate the Central Depository Services (India) Limited (CDSL)?",
+  "qHi": "निम्नलिखित में से कौन सी संस्था सेंट्रल डिपॉजिटरी सर्विसेज (इंडिया) लिमिटेड (CDSL) का संचालन करने के लिए कानूनी रूप से अधिकृत है?",
+  "optsEn": [
+   "National Stock Exchange",
+   "Bombay Stock Exchange",
+   "Reserve Bank of India",
+   "State Bank of India"
+  ],
+  "optsHi": [
+   "नेशनल स्टॉक एक्सचेंज",
+   "बॉम्बे स्टॉक एक्सचेंज",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय स्टेट बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "CDSL was promoted by BSE Limited in association with leading banks such as State Bank of India and Bank of India.",
+  "sourceHint": "SEBI and BSE Corporate Disclosures",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:45:23Z"
+ },
+ {
+  "id": "q_66ea8c933c18e171",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What does the 'S' stand for in the financial acronym 'LEI', which is used globally for unique identification of legal entities in financial transactions?",
+  "qHi": "वित्तीय लेनदेन में कानूनी संस्थाओं की अनूठी पहचान के लिए विश्व स्तर पर उपयोग किए जाने वाले वित्तीय संक्षिप्त नाम 'LEI' में 'S' का क्या अर्थ है?",
+  "optsEn": [
+   "System",
+   "Security",
+   "Standard",
+   "Service"
+  ],
+  "optsHi": [
+   "सिस्टम",
+   "सिक्योरिटी",
+   "स्टैंडर्ड",
+   "सर्विस"
+  ],
+  "correct": 2,
+  "explainEn": "LEI stands for Legal Entity Identifier, established by the Financial Stability Board to uniquely identify legal entities participating in financial transactions.",
+  "sourceHint": "Global Legal Entity Identifier Foundation (GLEIF)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:45:23Z"
+ },
+ {
+  "id": "q_aec7b02f80365e88",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque that is not crossed is commonly referred to in banking terminology as which of the following?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, एक चेक जिस पर क्रॉसिंग नहीं की गई है, उसे बैंकिंग शब्दावली में आमतौर पर निम्नलिखित में से क्या कहा जाता है?",
+  "optsEn": [
+   "Bearer Cheque",
+   "Open Cheque",
+   "Stale Cheque",
+   "Mutilated Cheque"
+  ],
+  "optsHi": [
+   "बियरर चेक",
+   "ओपन चेक",
+   "स्टेल चेक",
+   "म्यूटिलेटेड चेक"
+  ],
+  "correct": 1,
+  "explainEn": "An uncrossed cheque is known as an open cheque, which can be encashed directly over the counter at the drawee bank.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) Legal and Regulatory Aspects of Banking",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:45:23Z"
  }
 ]

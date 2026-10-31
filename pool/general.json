@@ -18002,5 +18002,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-30T22:24:19Z"
+ },
+ {
+  "id": "q_9769042d1c978f40",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which classical dance form originates from the southern state of Kerala and is known for elaborate colorful makeup and costumes?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप दक्षिणी राज्य केरल से उत्पन्न हुआ है और विस्तृत रंगीन मेकअप और वेशभूषा के लिए जाना जाता है?",
+  "optsEn": [
+   "Kathakali",
+   "Bharatanatyam",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "कथकली",
+   "भरतनाट्यम",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 0,
+  "explainEn": "Kathakali is a major form of classical Indian dance distinguished by its colorful make-up, distinctive face masks, and exuberant costumes.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:44:47Z"
+ },
+ {
+  "id": "q_434fb6cd7a470b16",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which Indian state is the Loktak Lake, famous for its floating phumdis, primarily situated?",
+  "qHi": "तुलनात्मक रूप से तैरती फुमदियों के लिए प्रसिद्ध लोकटक झील मुख्य रूप से किस भारतीय राज्य में स्थित है?",
+  "optsEn": [
+   "Assam",
+   "Manipur",
+   "Meghalaya",
+   "Tripura"
+  ],
+  "optsHi": [
+   "असम",
+   "मणिपुर",
+   "मेघालय",
+   "त्रिपुरा"
+  ],
+  "correct": 1,
+  "explainEn": "Loktak Lake is located in Moirang, Manipur, and is renowned for the unique floating biomass known as phumdis.",
+  "sourceHint": "NCERT Geography Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:45:28Z"
+ },
+ {
+  "id": "q_4c592481ea1ef264",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form of India traditionally traces its origins to the Ekaharya Lasya Anga style described in the Natya Shastra?",
+  "qHi": "भारत का कौन सा शास्त्रीय नृत्य पारंपरिक रूप से नाट्यशास्त्र में वर्णित एकाहार्य लास्य अंग शैली से अपनी उत्पत्ति मानता है?",
+  "optsEn": [
+   "Kathakali",
+   "Bharatanatyam",
+   "Odissi",
+   "Kathak"
+  ],
+  "optsHi": [
+   "कथकली",
+   "भरतनाट्यम",
+   "ओडिसी",
+   "कथक"
+  ],
+  "correct": 1,
+  "explainEn": "Bharatanatyam incorporates the Ekaharya format where one dancer takes on multiple roles in a single performance, rooted in the Natya Shastra.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:45:28Z"
+ },
+ {
+  "id": "q_34906128d7ea39ae",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What was the primary chemical compound manufactured at the prohibited manufacturing site during the historic Dandi March by Mahatma Gandhi?",
+  "qHi": "महात्मा गांधी द्वारा ऐतिहासिक दांडी मार्च के दौरान प्रतिबंधित निर्माण स्थल पर मुख्य रूप से किस रासायनिक यौगिक का निर्माण किया गया था?",
+  "optsEn": [
+   "Sodium carbonate",
+   "Sodium chloride",
+   "Sodium hydroxide",
+   "Sodium bicarbonate"
+  ],
+  "optsHi": [
+   "सोडियम कार्बोनेट",
+   "सोडियम क्लोराइड",
+   "सोडियम हाइड्रोक्साइड",
+   "सोडियम बाइकार्बोनेट"
+  ],
+  "correct": 1,
+  "explainEn": "The Salt March was a campaign against the British salt monopoly, defying the tax on sodium chloride (table salt).",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:45:28Z"
+ },
+ {
+  "id": "q_faf87e9b7fe17990",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian mathematician's birth anniversary is celebrated annually as National Mathematics Day?",
+  "qHi": "किस भारतीय गणितज्ञ की जयंती को प्रतिवर्ष राष्ट्रीय गणित दिवस के रूप में मनाया जाता है?",
+  "optsEn": [
+   "C. R. Rao",
+   "P. C. Mahalanobis",
+   "Srinivasa Ramanujan",
+   "Satyendra Nath Bose"
+  ],
+  "optsHi": [
+   "सी. आर. राव",
+   "पी. सी. महालनोबिस",
+   "श्रीनिवास रामानुजन",
+   "सत्येंद्र नाथ बोस"
+  ],
+  "correct": 2,
+  "explainEn": "National Mathematics Day is celebrated on December 22, the birth anniversary of Srinivasa Ramanujan.",
+  "sourceHint": "Government of India Notification",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:45:28Z"
+ },
+ {
+  "id": "q_4b3df3a77ecfad20",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which archaeological site associated with the Indus Valley Civilization is famous for its unique tidal dockyard?",
+  "qHi": "सिंधु घाटी सभ्यता से जुड़ा कौन सा पुरातात्विक स्थल अपने अनूठे ज्वारीय गोदीबाड़ा (डॉकयार्ड) के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Harappa",
+   "Mohenjo-daro",
+   "Lothal",
+   "Kalibangan"
+  ],
+  "optsHi": [
+   "हड़प्पा",
+   "मोहनजोदड़ो",
+   "लोथल",
+   "कालीबंगा"
+  ],
+  "correct": 2,
+  "explainEn": "Lothal in Gujarat features a massive engineered basin that archaeologists identify as a tidal dockyard for maritime trade.",
+  "sourceHint": "ASI and NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:45:28Z"
+ },
+ {
+  "id": "q_7ac57c2076a8da16",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian monetary policy, what does the abbreviation 'MSF' stand for?",
+  "qHi": "भारतीय मौद्रिक नीति के संदर्भ में, संक्षिप्त नाम 'एमएसएफ' (MSF) का क्या अर्थ है?",
+  "optsEn": [
+   "Marginal Standing Facility",
+   "Monetary Stabilization Fund",
+   "Minimum Statutory Foundation",
+   "Market Security Framework"
+  ],
+  "optsHi": [
+   "मार्जिनल स्टैंडिंग फैसिलिटी",
+   "मॉनेटरी स्टेबिलाइजेशन फंड",
+   "मिनिमम स्टैच्युटरी फाउंडेशन",
+   "मार्केट सिक्योरिटी फ्रेमवर्क"
+  ],
+  "correct": 0,
+  "explainEn": "MSF (Marginal Standing Facility) is a window for scheduled commercial banks to borrow overnight from the RBI against approved government securities.",
+  "sourceHint": "Reserve Bank of India (RBI) Publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:45:28Z"
  }
 ]

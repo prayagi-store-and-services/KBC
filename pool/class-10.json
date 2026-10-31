@@ -25114,5 +25114,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-30T22:23:49Z"
+ },
+ {
+  "id": "q_3cd1ad07d5c8ee9d",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which part of the human digestive system is the digestion of food completely finished?",
+  "qHi": "मानव पाचन तंत्र के किस भाग में भोजन का पाचन पूरी तरह समाप्त हो जाता है?",
+  "optsEn": [
+   "Stomach",
+   "Large intestine",
+   "Small intestine",
+   "Esophagus"
+  ],
+  "optsHi": [
+   "अमाशय",
+   "बड़ी आंत",
+   "छोटी आंत",
+   "ग्रसिका"
+  ],
+  "correct": 2,
+  "explainEn": "The small intestine is the site of complete digestion of carbohydrates, proteins, and fats.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:45:00Z"
+ },
+ {
+  "id": "q_dc0f818588eb5690",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the phenomenon of splitting of white light into its component colors called?",
+  "qHi": "श्वेत प्रकाश का उसके घटक रंगों में विभाजित होने की परिघटना को क्या कहते हैं?",
+  "optsEn": [
+   "Reflection",
+   "Refraction",
+   "Dispersion",
+   "Scattering"
+  ],
+  "optsHi": [
+   "परावर्तन",
+   "अपवर्तन",
+   "विक्षेपण",
+   "प्रकीर्णन"
+  ],
+  "correct": 2,
+  "explainEn": "Dispersion is the splitting of a white light ray into its constituent spectrum of colors when passing through a prism.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:45:00Z"
  }
 ]

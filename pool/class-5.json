@@ -24890,5 +24890,649 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-30T22:23:41Z"
+ },
+ {
+  "id": "q_a2179ce4229f0342",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "Whose birth anniversary is celebrated as National Unity Day in India?",
+  "qHi": "भारत में किसके जन्मदिवस को राष्ट्रीय एकता दिवस के रूप में मनाया जाता है?",
+  "optsEn": [
+   "Mahatma Gandhi",
+   "Sardar Vallabhbhai Patel",
+   "Subhash Chandra Bose",
+   "Jawaharlal Nehru"
+  ],
+  "optsHi": [
+   "महात्मा गांधी",
+   "सर्दार् वल्लभभाई पटेल",
+   "सुभाष चंद्र बोस",
+   "जवाहरलाल नेहरू"
+  ],
+  "correct": 1,
+  "explainEn": "National Unity Day is celebrated on the birth anniversary of Sardar Vallabhbhai Patel.",
+  "sourceHint": "NCERT textbooks and PIB",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:43:40Z"
+ },
+ {
+  "id": "q_4a7c904b5ced7445",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "On which date is National Unity Day observed every year in India?",
+  "qHi": "भारत में हर साल राष्ट्रीय एकता दिवस किस तारीख को मनाया जाता है?",
+  "optsEn": [
+   "2 October",
+   "14 November",
+   "31 October",
+   "26 January"
+  ],
+  "optsHi": [
+   "2 अक्टूबर",
+   "14 नवंबर",
+   "31 अक्टूबर",
+   "26 जनवरी"
+  ],
+  "correct": 2,
+  "explainEn": "National Unity Day, or Rashtriya Ekta Diwas, is observed annually on 31 October.",
+  "sourceHint": "Government of India calendar and PIB",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:43:40Z"
+ },
+ {
+  "id": "q_708237099210be91",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "What popular title was given to Sardar Vallabhbhai Patel for his role in uniting India?",
+  "qHi": "भारत को एकजुट करने में उनकी भूमिका के लिए सरदार वल्लभभाई पटेल को कौन सी लोकप्रिय उपाधि दी गई थी?",
+  "optsEn": [
+   "Iron Man of India",
+   "Father of the Nation",
+   "Missile Man of India",
+   "Tiger of India"
+  ],
+  "optsHi": [
+   "भारत का लौह पुरुष",
+   "राष्ट्रपिता",
+   "भारत के मिसाइल मैन",
+   "भारत का बाघ"
+  ],
+  "correct": 0,
+  "explainEn": "Sardar Vallabhbhai Patel is famously known as the Iron Man of India because of his firm resolve in uniting the country.",
+  "sourceHint": "NCERT Class 6 History / Civics references",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:43:40Z"
+ },
+ {
+  "id": "q_9a259c8556396f7a",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "Which important position did Sardar Vallabhbhai Patel hold in the first Cabinet of independent India?",
+  "qHi": "स्वतंत्र भारत के पहले मंत्रिमंडल में सरदार वल्लभभाई पटेल के पास कौन सा महत्वपूर्ण पद था?",
+  "optsEn": [
+   "Prime Minister",
+   "President",
+   "Home Minister",
+   "Defence Minister"
+  ],
+  "optsHi": [
+   "प्रधान मंत्री",
+   "राष्ट्रपति",
+   "गृह मंत्री",
+   "रक्षा मंत्री"
+  ],
+  "correct": 2,
+  "explainEn": "Sardar Vallabhbhai Patel served as the first Home Minister of independent India.",
+  "sourceHint": "NCERT political science textbooks and Parliament archives",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:43:40Z"
+ },
+ {
+  "id": "q_e1af65e307978bbb",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "In which Indian state was Sardar Vallabhbhai Patel born?",
+  "qHi": "सरदार वल्लभभाई पटेल का जन्म किस भारतीय राज्य में हुआ था?",
+  "optsEn": [
+   "Punjab",
+   "Gujarat",
+   "Maharashtra",
+   "Uttar Pradesh"
+  ],
+  "optsHi": [
+   "पंजाब",
+   "गुजरात",
+   "महाराष्ट्र",
+   "उत्तर प्रदेश"
+  ],
+  "correct": 1,
+  "explainEn": "Sardar Vallabhbhai Patel was born in Nadiad, Gujarat.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:43:40Z"
+ },
+ {
+  "id": "q_4fee1ea57bd2a5cc",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "What is the name of the giant monument dedicated to Sardar Vallabhbhai Patel located in Gujarat?",
+  "qHi": "गुजरात में स्थित सरदार वल्लभभाई पटेल को समर्पित विशाल स्मारक का क्या नाम है?",
+  "optsEn": [
+   "Statue of Unity",
+   "Statue of Liberty",
+   "Statue of Equality",
+   "Statue of Peace"
+  ],
+  "optsHi": [
+   "स्टैच्यू ऑफ यूनिटी (एकता की प्रतिमा)",
+   "स्टैच्यू ऑफ लिबर्टी",
+   "स्टैच्यू ऑफ इक्वलिटी",
+   "स्टैच्यू ऑफ पीस"
+  ],
+  "correct": 0,
+  "explainEn": "The Statue of Unity is a colossal monument dedicated to Sardar Vallabhbhai Patel in Gujarat.",
+  "sourceHint": "PIB and Statue of Unity official portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:43:40Z"
+ },
+ {
+  "id": "q_c56257c326be798b",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "Near which famous river dam is the Statue of Unity built?",
+  "qHi": "स्टैच्यू ऑफ यूनिटी किस प्रसिद्ध नदी बांध के पास बनाई गई है?",
+  "optsEn": [
+   "Bhakra Dam on Sutlej River",
+   "Sardar Sarovar Dam on Narmada River",
+   "Hirakud Dam on Mahanadi River",
+   "Tehri Dam on Bhagirathi River"
+  ],
+  "optsHi": [
+   "सतलुज नदी पर भाखड़ा बांध",
+   "नर्मदा नदी पर सरदार सरोवर बांध",
+   "महानदी पर हीराकुंड बांध",
+   "भागीरथी नदी पर टिहरी बांध"
+  ],
+  "correct": 1,
+  "explainEn": "The Statue of Unity stands facing the Sardar Sarovar Dam on the Narmada River in Gujarat.",
+  "sourceHint": "Geography of India and government tourism portals",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:43:40Z"
+ },
+ {
+  "id": "q_358b69acfddb4fa8",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "What is the main purpose of celebrating National Unity Day in India?",
+  "qHi": "भारत में राष्ट्रीय एकता दिवस मनाने का मुख्य उद्देश्य क्या है?",
+  "optsEn": [
+   "To promote sports competitions across schools",
+   "To foster and reinforce dedication to preserve the unity and integrity of the nation",
+   "To celebrate the harvesting season of crops",
+   "To inaugurate new science laboratories"
+  ],
+  "optsHi": [
+   "पूरे स्कूलों में खेल प्रतियोगताओं को बढ़ावा देना",
+   "राष्ट्र की एकता और अखंडता को बनाए रखने के लिए समर्पण को बढ़ावा देना और मजबूत करना",
+   "फसलों की कटाई का मौसम मनाना",
+   "नई विज्ञान प्रयोगशालाओं का उद्घाटन करना"
+  ],
+  "correct": 1,
+  "explainEn": "National Unity Day provides an opportunity to re-affirm the inherent strength and resilience of our nation to withstand threats to its unity and integrity.",
+  "sourceHint": "Ministry of Home Affairs, Government of India guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:43:40Z"
+ },
+ {
+  "id": "q_670ff308ac72fee1",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "Which leader's birth anniversary is celebrated as National Unity Day in India?",
+  "qHi": "भारत में किस नेता की जयंती को राष्ट्रीय एकता दिवस के रूप में मनाया जाता है?",
+  "optsEn": [
+   "Mahatma Gandhi",
+   "Sardar Vallabhbhai Patel",
+   "Subhas Chandra Bose",
+   "Jawaharlal Nehru"
+  ],
+  "optsHi": [
+   "महात्मा गांधी",
+   "सर्दार् वल्लभभाई पटेल",
+   "सुभाष चंद्र बोस",
+   "जवाहरलाल नेहरू"
+  ],
+  "correct": 1,
+  "explainEn": "National Unity Day is celebrated on the birth anniversary of Sardar Vallabhbhai Patel to honour his efforts in uniting India.",
+  "sourceHint": "NCERT Civics textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:44:52Z"
+ },
+ {
+  "id": "q_c6fe31b148928221",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "On which date is National Unity Day (Rashtriya Ekta Diwas) observed every year in India?",
+  "qHi": "भारत में हर साल राष्ट्रीय एकता दिवस किस तारीख को मनाया जाता है?",
+  "optsEn": [
+   "15 August",
+   "2 October",
+   "31 October",
+   "14 November"
+  ],
+  "optsHi": [
+   "15 अगस्त",
+   "2 अक्टूबर",
+   "31 अक्टूबर",
+   "14 नवंबर"
+  ],
+  "correct": 2,
+  "explainEn": "Rashtriya Ekta Diwas is observed annually on October 31, marking the birth anniversary of Sardar Vallabhbhai Patel.",
+  "sourceHint": "PIB Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:44:52Z"
+ },
+ {
+  "id": "q_6452a8efa70b74e9",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "In which year was National Unity Day first introduced and observed in India?",
+  "qHi": "भारत में राष्ट्रीय एकता दिवस पहली बार किस वर्ष शुरू और मनाया गया था?",
+  "optsEn": [
+   "2012",
+   "2014",
+   "2016",
+   "2018"
+  ],
+  "optsHi": [
+   "2012",
+   "2014",
+   "2016",
+   "2018"
+  ],
+  "correct": 1,
+  "explainEn": "The Government of India introduced National Unity Day in the year 2014.",
+  "sourceHint": "PIB Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:44:52Z"
+ },
+ {
+  "id": "q_68d2bf073d65d20d",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "Which popular title is commonly given to Sardar Vallabhbhai Patel for his role in uniting the country?",
+  "qHi": "देश को एकजुट करने में उनकी भूमिका के लिए सरदार वल्लभभाई पटेल को आमतौर पर कौन सी लोकप्रिय उपाधि दी जाती है?",
+  "optsEn": [
+   "Iron Man of India",
+   "Father of the Nation",
+   "Nightingale of India",
+   "Missile Man of India"
+  ],
+  "optsHi": [
+   "भारत का लौह पुरुष",
+   "राष्ट्रपिता",
+   "भारत की कोकिला",
+   "भारत के मिसाइल मैन"
+  ],
+  "correct": 0,
+  "explainEn": "Sardar Vallabhbhai Patel is famously known as the Iron Man of India because of his firm resolve in integrating the nation.",
+  "sourceHint": "NCERT History textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:44:52Z"
+ },
+ {
+  "id": "q_c16c5fd7c6fb042e",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "In which Indian state is the grand 'Statue of Unity' dedicated to Sardar Vallabhbhai Patel located?",
+  "qHi": "सरदार वल्लभभाई पटेल को समर्पित भव्य 'स्टैचू ऑफ़ यूनिटी' किस भारतीय राज्य में स्थित है?",
+  "optsEn": [
+   "Maharashtra",
+   "Punjab",
+   "Gujarat",
+   "Rajasthan"
+  ],
+  "optsHi": [
+   "महाराष्ट्र",
+   "पंजाब",
+   "गुजरात",
+   "राजस्थान"
+  ],
+  "correct": 2,
+  "explainEn": "The Statue of Unity is located in the state of Gujarat, near the Narmada Dam.",
+  "sourceHint": "Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:44:52Z"
+ },
+ {
+  "id": "q_6351ac7ff1f4bf3d",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "Near which major river in Gujarat is the Statue of Unity built?",
+  "qHi": "गुजरात में स्टैचू ऑफ़ यूनिटी किस प्रमुख नदी के पास बनाई गई है?",
+  "optsEn": [
+   "Ganga",
+   "Yamuna",
+   "Narmada",
+   "Brahmaputra"
+  ],
+  "optsHi": [
+   "गंगा",
+   "यमुना",
+   "नर्मदा",
+   "ब्रह्मपुत्र"
+  ],
+  "correct": 2,
+  "explainEn": "The Statue of Unity is situated on the Sadhu Bet island facing the Narmada Dam in Gujarat.",
+  "sourceHint": "Government tourism portal of Gujarat",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:44:52Z"
+ },
+ {
+  "id": "q_b599a94942c26951",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "What is the name of the special pledge often taken by citizens across India on National Unity Day?",
+  "qHi": "राष्ट्रीय एकता दिवस पर पूरे भारत के नागरिकों द्वारा अक्सर ली जाने वाली विशेष प्रतिज्ञा का क्या नाम है?",
+  "optsEn": [
+   "Rashtriya Shapath",
+   "Ekta Diwas Pledge",
+   "Unity Oath of India",
+   "Ahimsa Pledge"
+  ],
+  "optsHi": [
+   "राष्ट्रीय शपथ",
+   "एकता दिवस प्रतिज्ञा",
+   "भारत की एकता की शपथ",
+   "अहिंसा प्रतिज्ञा"
+  ],
+  "correct": 1,
+  "explainEn": "Citizens across schools, offices, and institutions take the Ekta Diwas Pledge to preserve the unity and security of the nation.",
+  "sourceHint": "Ministry of Home Affairs, India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:44:52Z"
+ },
+ {
+  "id": "q_ccd4eb5ab7a6c69c",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "What major nationwide event is frequently organized on National Unity Day to promote fitness and unity?",
+  "qHi": "फिटनेस और एकता को बढ़ावा देने के लिए राष्ट्रीय एकता दिवस पर अक्सर कौन सा प्रमुख राष्ट्रव्यापी कार्यक्रम आयोजित किया जाता है?",
+  "optsEn": [
+   "Run for Unity",
+   "Unity March",
+   "Freedom Walk",
+   "Ekta Cycle Rally"
+  ],
+  "optsHi": [
+   "रन फॉर यूनिटी",
+   "एकता मार्च",
+   "फ्रीडम वॉक",
+   "एकता साइकिल रैली"
+  ],
+  "correct": 0,
+  "explainEn": "A mass running event called 'Run for Unity' is held across various cities and towns on National Unity Day.",
+  "sourceHint": "PIB Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:44:52Z"
+ },
+ {
+  "id": "q_336251364c75dc53",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "Sardar Vallabhbhai Patel famously earned which title for successfully integrating hundreds of princely states into the Indian Union?",
+  "qHi": "सैकड़ों रियासतूओं को भारतीय संघ में सफलतापूर्वक मिलाने के लिए सरदार वल्लभभाई पटेल को कौन सी प्रसिद्ध उपाधि मिली थी?",
+  "optsEn": [
+   "Iron Man of India",
+   "Father of the Nation",
+   "Tiger of Mysore",
+   "Lion of Punjab"
+  ],
+  "optsHi": [
+   "भारत के लौह पुरुष",
+   "राष्ट्रपिता",
+   "मैसूर का बाघ",
+   "पंजाब का शेर"
+  ],
+  "correct": 0,
+  "explainEn": "Sardar Patel is known as the Iron Man of India due to his resolute determination in unifying the country.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:45:33Z"
+ },
+ {
+  "id": "q_8387c79b2f6de809",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "On which date is National Unity Day celebrated every year in India?",
+  "qHi": "भारत में हर साल राष्ट्रीय एकता दिवस किस तारीख को मनाया जाता है?",
+  "optsEn": [
+   "15 August",
+   "2 October",
+   "31 October",
+   "26 November"
+  ],
+  "optsHi": [
+   "15 अगस्त",
+   "2 अक्टूबर",
+   "31 अक्टूबर",
+   "26 नवंबर"
+  ],
+  "correct": 2,
+  "explainEn": "National Unity Day is observed annually on October 31, commemorating the birth anniversary of Sardar Vallabhbhai Patel.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:45:33Z"
+ },
+ {
+  "id": "q_aa59158a0a8f83cd",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "The Statue of Unity, dedicated to Sardar Patel, is located in which Indian state?",
+  "qHi": "सरदार पटेल को समर्पित 'स्टैचू ऑफ यूनिटी' किस भारतीय राज्य में स्थित है?",
+  "optsEn": [
+   "Maharashtra",
+   "Gujarat",
+   "Rajasthan",
+   "Uttar Pradesh"
+  ],
+  "optsHi": [
+   "महाराष्ट्र",
+   "गुजरात",
+   "राजस्थान",
+   "उत्तर प्रदेश"
+  ],
+  "correct": 1,
+  "explainEn": "The Statue of Unity is built on the Narmada River in the state of Gujarat.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:45:33Z"
+ },
+ {
+  "id": "q_6716f71a5171c03a",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "Which specific historical movement in 1928, led by Sardar Patel, earned the women of Gujarat's Bardoli region to bestow upon him the title 'Sardar'?",
+  "qHi": "1928 के किस ऐतिहासिक आंदोलन का नेतृत्व करने के बाद गुजरात की बारडोली क्षेत्र की महिलाओं ने उन्हें 'सरदार' की उपाधि दी थी?",
+  "optsEn": [
+   "Dandi March",
+   "Bardoli Satyagraha",
+   "Kheda Satyagraha",
+   "Champaran Satyagraha"
+  ],
+  "optsHi": [
+   "दांडी मार्च",
+   "बारडोली सत्याग्रह",
+   "खेड़ा सत्याग्रह",
+   "चंपारण सत्याग्रह"
+  ],
+  "correct": 1,
+  "explainEn": "Sardar Patel successfully led the Bardoli Satyagraha in 1928, after which the local women called him 'Sardar'.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:45:33Z"
+ },
+ {
+  "id": "q_a756dfb604d613b2",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "Near which major dam in Gujarat is the Statue of Unity situated?",
+  "qHi": "गुजरात में स्टैचू ऑफ यूनिटी किस बड़े बांध के पास स्थित है?",
+  "optsEn": [
+   "Bhakra Nangal Dam",
+   "Hirakud Dam",
+   "Sardar Sarovar Dam",
+   "Tehri Dam"
+  ],
+  "optsHi": [
+   "भाखड़ा नांगल बांध",
+   "हीराकुंड बांध",
+   "सरदार सरोवर बांध",
+   "टिहरी बांध"
+  ],
+  "correct": 2,
+  "explainEn": "The Statue of Unity stands facing the Sardar Sarovar Dam on the Narmada River.",
+  "sourceHint": "Official Statue of Unity Portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:45:33Z"
+ },
+ {
+  "id": "q_10fd39679547c98a",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "What is the primary objective of observing National Unity Day in educational institutions across India?",
+  "qHi": "भारत भर के शैक्षणिक संस्थानों में राष्ट्रीय एकता दिवस मनाने का मुख्य उद्देश्य क्या है?",
+  "optsEn": [
+   "To promote annual sports competitions",
+   "To foster and reinforce dedication to preserve the unity and integrity of the nation",
+   "To celebrate the harvesting season",
+   "To encourage space research awareness"
+  ],
+  "optsHi": [
+   "वार्षिक खेल प्रतियोगिताओं को बढ़ावा देना",
+   "राष्ट्र की एकता और अखंडता को बनाए रखने के प्रति समर्पण को मजबूत करना",
+   "कटाई के मौसम का जश्न मनाना",
+   "अंतरिक्ष अनुसंधान के बारे में जागरूकता प्रोत्साहित करना"
+  ],
+  "correct": 1,
+  "explainEn": "National Unity Day provides an opportunity to re-affirm the inherent strength and resilience of our nation to withstand threats to its unity and integrity.",
+  "sourceHint": "Ministry of Education, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:45:33Z"
+ },
+ {
+  "id": "q_e776a763422ac8cb",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "Which river flows immediately past the site where the Statue of Unity is erected?",
+  "qHi": "स्टैचू ऑफ यूनिटी के ठीक पास से कौन सी नदी बहती है?",
+  "optsEn": [
+   "Ganga",
+   "Yamuna",
+   "Narmada",
+   "Godavari"
+  ],
+  "optsHi": [
+   "गंगा",
+   "यमुना",
+   "नर्मदा",
+   "गोदावरी"
+  ],
+  "correct": 2,
+  "explainEn": "The Statue of Unity is built on Sadhu Bet island in the Narmada River.",
+  "sourceHint": "Central Water Commission, India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T05:45:33Z"
  }
 ]
