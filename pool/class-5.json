@@ -25534,5 +25534,341 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-31T05:45:33Z"
+ },
+ {
+  "id": "q_1eac9e1780441916",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these major lines of latitude passes nearly through the middle of India?",
+  "qHi": "अक्षांश की इनमें से कौन सी मुख्य रेखा भारत के लगभग बीच से गुजरती है?",
+  "optsEn": [
+   "Equator",
+   "Tropic of Cancer",
+   "Tropic of Capricorn",
+   "Arctic Circle"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा",
+   "कर्क रेखा",
+   "मकर रेखा",
+   "आर्कटिक वृत्त"
+  ],
+  "correct": 1,
+  "explainEn": "The Tropic of Cancer (23.5 degrees North) passes through the middle of India.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:34:10Z"
+ },
+ {
+  "id": "q_0a707ab97a489557",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of map is most suitable for showing the physical features like mountains and plateaus?",
+  "qHi": "पहाड़ों और पठारों जैसी भौतिक विशेषताओं को दिखाने के लिए किस प्रकार का मानचित्र सबसे उपयुक्त है?",
+  "optsEn": [
+   "Political map",
+   "Thematic map",
+   "Physical map",
+   "Road map"
+  ],
+  "optsHi": [
+   "राजनीतिक मानचित्र",
+   "विषयगत मानचित्र",
+   "भौतिक मानचित्र",
+   "सड़क मानचित्र"
+  ],
+  "correct": 2,
+  "explainEn": "Physical maps show natural features of the Earth such as mountains, plateaus, plains, rivers, and oceans.",
+  "sourceHint": "NCERT Class 5 Geography basics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:34:10Z"
+ },
+ {
+  "id": "q_a58ef67fd7d6bd57",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Evaporation of water from the leaves of plants into the air is known by which term?",
+  "qHi": "पौधों की पत्तियों से पानी का हवा में वाष्पीकरण किस नाम से जाना जाता है?",
+  "optsEn": [
+   "Transpiration",
+   "Condensation",
+   "Precipitation",
+   "Sedimentation"
+  ],
+  "optsHi": [
+   "वाष्पोत्सर्जन",
+   "संघनन",
+   "वर्षा",
+   "अवसादन"
+  ],
+  "correct": 0,
+  "explainEn": "Transpiration is the process where plants absorb water through roots and release water vapor through pores in leaves.",
+  "sourceHint": "NCERT Science curriculum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:34:10Z"
+ },
+ {
+  "id": "q_0a81671141dba7b6",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which historical monument in Agra was built by Emperor Shah Jahan in memory of his wife?",
+  "qHi": "आगरा में स्थित कौन सा ऐतिहासिक स्मारक सम्राट शाहजहाँ द्वारा अपनी पत्नी की याद में बनवाया गया था?",
+  "optsEn": [
+   "Red Fort",
+   "Taj Mahal",
+   "Qutub Minar",
+   "Humaun Tomb"
+  ],
+  "optsHi": [
+   "लाल किला",
+   "ताजमहल",
+   "कुतुब मीनार",
+   "हुमायूँ का मकबरा"
+  ],
+  "correct": 1,
+  "explainEn": "The Taj Mahal in Agra was commissioned by the Mughal emperor Shah Jahan for his wife Mumtaz Mahal.",
+  "sourceHint": "NCERT Class 5 History and Heritage",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:34:10Z"
+ },
+ {
+  "id": "q_4b2b8ebea2d52076",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary natural source of energy that drives the water cycle on Earth?",
+  "qHi": "पृथ्वी पर जल चक्र को संचालित करने वाली ऊर्जा का प्राथमिक प्राकृतिक स्रोत क्या है?",
+  "optsEn": [
+   "Geothermal heat",
+   "Wind energy",
+   "The Sun",
+   "Ocean tides"
+  ],
+  "optsHi": [
+   "भू-उष्मीय ऊर्जा",
+   "पवन ऊर्जा",
+   "सूर्य",
+   "समुद्री ज्वार"
+  ],
+  "correct": 2,
+  "explainEn": "Heat from the Sun provides the energy required for water to evaporate from oceans, lakes, and land.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:34:10Z"
+ },
+ {
+  "id": "q_7becf4deb758fc4c",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following imaginary lines passes through India, dividing the country into almost two equal parts?",
+  "qHi": "निम्नलिखित में से कौन सी काल्पनिक रेखा भारत से होकर गुजरती है, जो देश को लगभग दो बराबर भागों में बांटती है?",
+  "optsEn": [
+   "Equator",
+   "Tropic of Cancer",
+   "Tropic of Capricorn",
+   "Prime Meridian"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा",
+   "कर्क रेखा",
+   "मकर रेखा",
+   "प्रधान मध्याह्न रेखा"
+  ],
+  "correct": 1,
+  "explainEn": "The Tropic of Cancer (23°30' N) passes almost halfway through the country.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:34:53Z"
+ },
+ {
+  "id": "q_b8683b9058fbbcac",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which part of a plant takes in carbon dioxide from the air for photosynthesis?",
+  "qHi": "पौधे का कौन सा भाग प्रकाश संश्लेषण के लिए हवा से कार्बन डाइऑक्साइड लेता है?",
+  "optsEn": [
+   "Roots",
+   "Stomata",
+   "Xylem",
+   "Petals"
+  ],
+  "optsHi": [
+   "जड़ें",
+   "रंध्र (स्टोमेटा)",
+   " जाइलम",
+   "पंखुड़ियों"
+  ],
+  "correct": 1,
+  "explainEn": "Stomata are tiny pores on the underside of leaves that gaseous exchange happens through.",
+  "sourceHint": "NCERT Class 7 Science Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:34:53Z"
+ },
+ {
+  "id": "q_8b0a0c19a4ac3fe1",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary natural habitat of the Asiatic Lion in India?",
+  "qHi": "भारत में एशियाई शेर का प्रमुख प्राकृतिक आवास कौन सा है?",
+  "optsEn": [
+   "Gir National Park",
+   "Kaziranga National Park",
+   "Jim Corbett National Park",
+   "Sundarbans National Park"
+  ],
+  "optsHi": [
+   "गीर राष्ट्रीय उद्यान",
+   "काजीरंगा राष्ट्रीय उद्यान",
+   "जिम कार्बेट राष्ट्रीय उद्यान",
+   "सुंदरबन राष्ट्रीय उद्यान"
+  ],
+  "correct": 0,
+  "explainEn": "Gir National Park in Gujarat is the only natural habitat of the Asiatic Lion.",
+  "sourceHint": "NCERT Class 6 Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:34:53Z"
+ },
+ {
+  "id": "q_be73e44c08456c45",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which instrument is traditionally used in a science laboratory to measure temperature in degrees Celsius?",
+  "qHi": "विज्ञान प्रयोगशाला में पारंपरिक रूप से तापमान को डिग्री सेल्सियस में मापने के लिए किस उपकरण का उपयोग किया जाता है?",
+  "optsEn": [
+   "Barometer",
+   "Anemometer",
+   "Laboratory Thermometer",
+   "Rain Gauge"
+  ],
+  "optsHi": [
+   "बैरोमीटर",
+   "एनीमोमीटर",
+   "प्रयोगशाला थर्मामीटर",
+   "वर्षा मापक"
+  ],
+  "correct": 2,
+  "explainEn": "A laboratory thermometer is designed specifically for measuring temperatures in science experiments.",
+  "sourceHint": "NCERT Class 7 Science Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:34:53Z"
+ },
+ {
+  "id": "q_09f6f3c6764739fe",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional Indian stepwell acts as an underground water storage and conservation system?",
+  "qHi": "कौन सी पारंपरिक भारतीय बावड़ी (स्टेपवेल) भूमिगत जल भंडारण और संरक्षण प्रणाली के रूप में कार्य करती है?",
+  "optsEn": [
+   "Baoli",
+   "Canal",
+   "Dam",
+   "Reservoir"
+  ],
+  "optsHi": [
+   "बावली",
+   "नहर",
+   "बांध",
+   "जलाशय"
+  ],
+  "correct": 0,
+  "explainEn": "Baolis or stepwells were traditionally built in arid regions of India for storing rainwater.",
+  "sourceHint": "NCERT Class 5 Environmental Studies Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:34:53Z"
+ },
+ {
+  "id": "q_0ef5aaa595dff7e2",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which component of food provides maximum energy to our body compared to other nutrients in equal amounts?",
+  "qHi": "भोजन का कौन सा घटक समान मात्रा में अन्य पोषक तत्वों की तुलना में हमारे शरीर को अधिकतम ऊर्जा प्रदान करता है?",
+  "optsEn": [
+   "Proteins",
+   "Vitamins",
+   "Fats",
+   "Minerals"
+  ],
+  "optsHi": [
+   "प्रोटीन",
+   "विटामिन",
+   "वसा",
+   "खनिज"
+  ],
+  "correct": 2,
+  "explainEn": "Fats give much more energy to the body as compared to carbohydrates for the same amount.",
+  "sourceHint": "NCERT Class 6 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:34:53Z"
+ },
+ {
+  "id": "q_34a84d409222491c",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which ancient Indian astronomer and mathematician wrote a famous book calculating the approximate value of pi and studying planetary motions?",
+  "qHi": "किस प्राचीन भारतीय खगोलविद और गणितज्ञ ने पाई के अनुमानित मान की गणना करते हुए और ग्रहों की गति का अध्ययन करते हुए एक प्रसिद्ध पुस्तक लिखी?",
+  "optsEn": [
+   "Aryabhata",
+   "Birbal Sahni",
+   "Srinivasa Ramanujan",
+   "C. V. Raman"
+  ],
+  "optsHi": [
+   "आर्यभट्ट",
+   "बीरबल साहनी",
+   "श्रीनिवास रामानुजन",
+   "सी वी रमन"
+  ],
+  "correct": 0,
+  "explainEn": "Aryabhata wrote the Aryabhatiya, making major contributions to astronomy and mathematics.",
+  "sourceHint": "NCERT Class 6 History Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:34:53Z"
  }
 ]

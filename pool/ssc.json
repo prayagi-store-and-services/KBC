@@ -18506,5 +18506,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-31T05:45:17Z"
+ },
+ {
+  "id": "q_58977dc63954b134",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which hill range acts as a watershed between the Narmada and Tapti rivers?",
+  "qHi": "कौन सी पहाड़ी श्रृंखला नर्मदा और ताप्ती नदियों के बीच जल विभाधक का कार्य करती है?",
+  "optsEn": [
+   "Vindhya Range",
+   "Satpura Range",
+   "Aravalli Range",
+   "Ajanta Range"
+  ],
+  "optsHi": [
+   "विंध्य श्रृंखला",
+   "सतपुड़ा श्रृंखला",
+   "अरावली श्रृंखला",
+   "अजंता श्रृंखला"
+  ],
+  "correct": 1,
+  "explainEn": "The Satpura Range lies between the Narmada valley in the north and the Tapti valley in the south, serving as a major watershed.",
+  "sourceHint": "NCERT Class 9 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:34:37Z"
+ },
+ {
+  "id": "q_79d01e901d175dcf",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following rock systems in India is the primary source of metallic minerals like iron ore and manganese?",
+  "qHi": "भारत में निम्नलिखित में से कौन सी चट्टान प्रणाली लौह अयस्क और मैंगनीज जैसे धातु खनिजों का प्राथमिक स्रोत है?",
+  "optsEn": [
+   "Dharwar system",
+   "Cuddapah system",
+   "Vindhyan system",
+   "Gondwana system"
+  ],
+  "optsHi": [
+   "धारवाड़ प्रणाली",
+   "कडप्पा प्रणाली",
+   "विंध्यन प्रणाली",
+   "गोंडवाना प्रणाली"
+  ],
+  "correct": 0,
+  "explainEn": "The Dharwar rock system is economically the most important rock system in India because it possesses valuable metallic minerals like iron ore, manganese, copper, and gold.",
+  "sourceHint": "NCERT Geography Compendium",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:34:37Z"
  }
 ]

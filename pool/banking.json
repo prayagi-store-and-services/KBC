@@ -30826,5 +30826,565 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-31T05:45:23Z"
+ },
+ {
+  "id": "q_a233484883669d0d",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "In which year was National Unity Day officially introduced by the Government of India?",
+  "qHi": "भारत सरकार द्वारा राष्ट्रीय एकता दिवस आधिकारिक तौर पर किस वर्ष शुरू किया गया था?",
+  "optsEn": [
+   "2012",
+   "2014",
+   "2016",
+   "2018"
+  ],
+  "optsHi": [
+   "2012",
+   "2014",
+   "2016",
+   "2018"
+  ],
+  "correct": 1,
+  "explainEn": "The Government of India introduced National Unity Day in 2014 to commemorate the birth anniversary of Sardar Vallabhbhai Patel.",
+  "sourceHint": "PIB Press Release",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:32:25Z"
+ },
+ {
+  "id": "q_b779c82365adfa47",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "What is the date of observance for National Unity Day in India?",
+  "qHi": "भारत में राष्ट्रीय एकता दिवस किस तिथि को मनाया जाता है?",
+  "optsEn": [
+   "October 31",
+   "November 14",
+   "January 26",
+   "October 2"
+  ],
+  "optsHi": [
+   "31 अक्टूबर",
+   "14 नवंबर",
+   "26 जनवरी",
+   "2 अक्टूबर"
+  ],
+  "correct": 0,
+  "explainEn": "National Unity Day is observed annually on October 31 across India.",
+  "sourceHint": "NCERT Civics Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:32:25Z"
+ },
+ {
+  "id": "q_1d5983a153923bc3",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "What is the popular title given to Sardar Vallabhbhai Patel for his role in uniting the country?",
+  "qHi": "देश को एकजुट करने में उनकी भूमिका के लिए सरदार वल्लभभाई पटेल को दी गई लोकप्रिय उपाधि क्या है?",
+  "optsEn": [
+   "Iron Man of India",
+   "Father of the Nation",
+   "Lokmanya",
+   "Punjab Kesari"
+  ],
+  "optsHi": [
+   "भारत के लौह पुरुष",
+   "राष्ट्रपिता",
+   "लोकमान्य",
+   "पंजाब केसरी"
+  ],
+  "correct": 0,
+  "explainEn": "Sardar Vallabhbhai Patel is famously known as the Iron Man of India because of his resolute leadership in integrating the princely states.",
+  "sourceHint": "Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:32:25Z"
+ },
+ {
+  "id": "q_514b616306f65659",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "Which portfolio did Sardar Vallabhbhai Patel hold in the first Cabinet of independent India?",
+  "qHi": "स्वतंत्र भारत के पहले मंत्रिमंडल में सरदार वल्लभभाई पटेल के पास कौन सा विभाग था?",
+  "optsEn": [
+   "Ministry of Finance",
+   "Ministry of Home Affairs",
+   "Ministry of External Affairs",
+   "Ministry of Defense"
+  ],
+  "optsHi": [
+   "वित्त मंत्रालय",
+   "गृह मंत्रालय",
+   "विदेशी मामला मंत्रालय",
+   "रक्षा मंत्रालय"
+  ],
+  "correct": 1,
+  "explainEn": "Sardar Vallabhbhai Patel served as the first Deputy Prime Minister and Minister of Home Affairs of independent India.",
+  "sourceHint": "Cabinet Secretariat India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:32:25Z"
+ },
+ {
+  "id": "q_2c9fd71b98916ca4",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "The Statue of Unity, dedicated to Sardar Vallabhbhai Patel, is located in which state?",
+  "qHi": "सरदार वल्लभभाई पटेल को समर्पित 'स्टैचू ऑफ यूनिटी' किस राज्य में स्थित है?",
+  "optsEn": [
+   "Maharashtra",
+   "Gujarat",
+   "Rajasthan",
+   "Madhya Pradesh"
+  ],
+  "optsHi": [
+   "महाराष्ट्र",
+   "गुजरात",
+   "राजस्थान",
+   "मध्य प्रदेश"
+  ],
+  "correct": 1,
+  "explainEn": "The Statue of Unity is built on the Narmada River in the state of Gujarat.",
+  "sourceHint": "PIB Press Release",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:32:25Z"
+ },
+ {
+  "id": "q_fa498c3ecb848b88",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "On National Unity Day, which special pledge is traditionally administered to citizens?",
+  "qHi": "राष्ट्रीय एकता दिवस पर पारंपरिक रूप से नागरिकों को कौन सी विशेष शपथ दिलाई जाती है?",
+  "optsEn": [
+   "Pledge of Allegiance",
+   "Rashtriya Ekta Diwas Pledge",
+   "Swachh Bharat Pledge",
+   "Green Earth Pledge"
+  ],
+  "optsHi": [
+   "निष्ठा की शपथ",
+   "राष्ट्रीय एकता दिवस की शपथ",
+   "स्वच्छ भारत शपथ",
+   "हरित पृथ्वी शपथ"
+  ],
+  "correct": 1,
+  "explainEn": "Citizens across India take the Rashtriya Ekta Diwas pledge on National Unity Day to preserve the unity and security of the nation.",
+  "sourceHint": "Ministry of Home Affairs India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:32:25Z"
+ },
+ {
+  "id": "q_ef7897db0c24a7da",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "Which prominent movement is associated with Sardar Vallabhbhai Patel, where he earned the title 'Sardar'?",
+  "qHi": "सरदार वल्लभभाई पटेल किस प्रमुख आंदोलन से जुड़े थे, जहाँ उन्हें 'सरदार' की उपाधि मिली थी?",
+  "optsEn": [
+   "Bardoli Satyagraha",
+   "Champaran Satyagraha",
+   "Salt March",
+   "Quit India Movement"
+  ],
+  "optsHi": [
+   "बारडोली सत्याग्रह",
+   "चंपारण सत्याग्रह",
+   "नमक सत्याग्रह",
+   "भारत छोड़ो आंदोलन"
+  ],
+  "correct": 0,
+  "explainEn": "Sardar Vallabhbhai Patel successfully led the Bardoli Satyagraha in 1928, after which the women of Bardoli bestowed upon him the title 'Sardar'.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:32:25Z"
+ },
+ {
+  "id": "q_69078e46230c1e03",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "Whose birth anniversary is commemorated annually as National Unity Day in India?",
+  "qHi": "भारत में प्रतिवर्ष किसकी जयंती को राष्ट्रीय एकता दिवस के रूप में मनाया जाता है?",
+  "optsEn": [
+   "Subhas Chandra Bose",
+   "Mahatma Gandhi",
+   "Sardar Vallabhbhai Patel",
+   "B. R. Ambedkar"
+  ],
+  "optsHi": [
+   "सुभाष चंद्र बोस",
+   "महात्मा गांधी",
+   "सरदार वल्लभभाई पटेल",
+   "बी. आर. आंबेडकर"
+  ],
+  "correct": 2,
+  "explainEn": "National Unity Day marks the birth anniversary of Sardar Vallabhbhai Patel, who played a monumental role in the integration of India.",
+  "sourceHint": "NCERT History Textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:34:00Z"
+ },
+ {
+  "id": "q_1f624f5e106e8d80",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "Which historical role is Sardar Vallabhbhai Patel primarily remembered for on National Unity Day?",
+  "qHi": "राष्ट्रीय एकता दिवस पर सरदार वल्लभभाई पटेल को मुख्य रूप से किस ऐतिहासिक भूमिका के लिए याद किया जाता है?",
+  "optsEn": [
+   "Drafting the Constitution",
+   "Integration of princely states",
+   "Establishing the Reserve Bank of India",
+   "Leading the Dandi March"
+  ],
+  "optsHi": [
+   "संविधान का मसौदा तैयार करना",
+   "रियासत का एकीकरण",
+   "भारतीय रिजर्व बैंक की स्थापना",
+   "दांडी मार्च का नेतृत्व करना"
+  ],
+  "correct": 1,
+  "explainEn": "Sardar Patel is revered for successfully integrating over 500 princely states into the Union of India.",
+  "sourceHint": "NCERT Political Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:34:00Z"
+ },
+ {
+  "id": "q_60e87690027240fd",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "What is the name of the mega statue dedicated to Sardar Patel, often associated with National Unity Day events?",
+  "qHi": "सरदार पटेल को समर्पित उस विशाल प्रतिमा का नाम क्या है, जो अक्सर राष्ट्रीय एकता दिवस के कार्यक्रमों से जुड़ी होती है?",
+  "optsEn": [
+   "Statue of Equality",
+   "Statue of Unity",
+   "Statue of Belief",
+   "Statue of Peace"
+  ],
+  "optsHi": [
+   "स्टैचू ऑफ़ इक्विलिटी",
+   "स्टैचू ऑफ़ यूनिटी",
+   "स्टैचू ऑफ़ बिलीफ",
+   "स्टैचू ऑफ़ पीस"
+  ],
+  "correct": 1,
+  "explainEn": "The Statue of Unity, located in Gujarat, is dedicated to Sardar Vallabhbhai Patel and is the focal point of Unity Day celebrations.",
+  "sourceHint": "Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:34:00Z"
+ },
+ {
+  "id": "q_a7fb0a8479762da2",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "In which Indian state is the Statue of Unity situated?",
+  "qHi": "स्टैचू ऑफ़ यूनिटी किस भारतीय राज्य में स्थित है?",
+  "optsEn": [
+   "Maharashtra",
+   "Rajasthan",
+   "Gujarat",
+   "Madhya Pradesh"
+  ],
+  "optsHi": [
+   "महाराष्ट्र",
+   "राजस्थान",
+   "गुजरात",
+   "मध्य प्रदेश"
+  ],
+  "correct": 2,
+  "explainEn": "The Statue of Unity is built on the Sadhu Bet island facing the Narmada Dam in Gujarat.",
+  "sourceHint": "Government of Gujarat portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:34:00Z"
+ },
+ {
+  "id": "q_c22fb862e70eea38",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "Along the banks of which river is the Statue of Unity located?",
+  "qHi": "स्टैचू ऑफ़ यूनिटी किस नदी के तट पर स्थित है?",
+  "optsEn": [
+   "Tapi",
+   "Narmada",
+   "Sabarmati",
+   "Mahi"
+  ],
+  "optsHi": [
+   "तापी",
+   "नर्मदा",
+   "साबरमती",
+   "माही"
+  ],
+  "correct": 1,
+  "explainEn": "The monument is situated on the river island of Sadhu Bet, facing the Narmada Dam in Gujarat.",
+  "sourceHint": "PIB",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:34:00Z"
+ },
+ {
+  "id": "q_1ad5ce8d8fbbca73",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "Which traditional mass event is widely organized across India on National Unity Day to promote physical fitness and solidarity?",
+  "qHi": "शारीरिक फिटनेस और एकजुटता को बढ़ावा देने के लिए राष्ट्रीय एकता दिवस पर पूरे भारत में कौन सा पारंपरिक सामूहिक आयोजन व्यापक रूप से आयोजित किया जाता है?",
+  "optsEn": [
+   "Unity Run (Run for Unity)",
+   "Marathon of Peace",
+   "National Cyclothon",
+   "Swachh Bharat Walk"
+  ],
+  "optsHi": [
+   "यूनिटी रन (रन फॉर यूनिटी)",
+   "शांति मैराथन",
+   "राष्ट्रीय साइक्लोथॉन",
+   "स्वच्छ भारत वॉक"
+  ],
+  "correct": 0,
+  "explainEn": "The 'Run for Unity' is a nationwide event held annually on National Unity Day to foster public participation and promote unity.",
+  "sourceHint": "PIB campaigns",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:34:00Z"
+ },
+ {
+  "id": "q_725e0209520b5257",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "Sardar Vallabhbhai Patel served as the first holder of which crucial cabinet portfolio in independent India immediately following the interim government?",
+  "qHi": "स्वतंत्र भारत में अंतरिम सरकार के तुरंत बाद सरदार वल्लभभाई पटेल ने किस महत्वपूर्ण मंत्रिमंडल पद के पहले धारक के रूप में कार्य किया?",
+  "optsEn": [
+   "Minister of External Affairs",
+   "Minister of Finance",
+   "Minister of Home Affairs",
+   "Minister of Defense"
+  ],
+  "optsHi": [
+   "विदेश मंत्री",
+   "वित्त मंत्री",
+   "गृह मंत्री",
+   "रक्षा मंत्री"
+  ],
+  "correct": 2,
+  "explainEn": "Sardar Vallabhbhai Patel was the first Minister of Home Affairs of independent India, along with being the Deputy Prime Minister.",
+  "sourceHint": "Cabinet Secretariat Records / NCERT",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:34:44Z"
+ },
+ {
+  "id": "q_3df28fb44d14e175",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "Which specific historical pact or instrument signed by princely states was primarily steered by Sardar Vallabhbhai Patel and V.P. Menon to integrate them into the Dominion of India?",
+  "qHi": "रियासतों को भारत डोमिनियन में एकीकृत करने के लिए सरदार वल्लभभाई पटेल और वी.पी. मेनन द्वारा मुख्य रूप से किस ऐतिहासिक समझौते या दस्तावेज का संचालन किया गया था?",
+  "optsEn": [
+   "Instrument of Accession",
+   "Treaty of Subsidiary Alliance",
+   "Covenant of Paramountcy",
+   "Standstill Agreement of Integration"
+  ],
+  "optsHi": [
+   "इंस्ट्रूमेंट ऑफ एक्सेशन (विलय पत्र)",
+   "सहायक संधि",
+   "सर्वोच्चता अनुबंध",
+   "एकीकरण का यथास्थिति समझौता"
+  ],
+  "correct": 0,
+  "explainEn": "The Instrument of Accession was the legal document executed by rulers of princely states to accede their territories to the Dominion of India.",
+  "sourceHint": "Indian Polity by M. Laxmikanth / National Archives",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:34:44Z"
+ },
+ {
+  "id": "q_b97f9f673a1b884c",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "The Statue of Unity, dedicated to Sardar Vallabhbhai Patel, is situated on which river island facing the Sardar Sarovar Dam?",
+  "qHi": "सरदार वल्लभभाई पटेल को समर्पित स्टैचू ऑफ यूनिटी, सरदार सरोवर बांध के सामने किस नदी द्वीप पर स्थित है?",
+  "optsEn": [
+   "Majuli Island",
+   "Sadhu Bet Island",
+   "Bhavani Island",
+   "Priyadarshini Island"
+  ],
+  "optsHi": [
+   "माजुली द्वीप",
+   "साधु बेट द्वीप",
+   "भवानी द्वीप",
+   "प्रियदर्शिनी द्वीप"
+  ],
+  "correct": 1,
+  "explainEn": "The Statue of Unity is built on Sadhu Bet island, located on the Narmada River in Gujarat.",
+  "sourceHint": "Official Statue of Unity Project Documentation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:34:44Z"
+ },
+ {
+  "id": "q_9750596666a25d00",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "At which historic session of the Indian National Congress did Sardar Vallabhbhai Patel serve as the President?",
+  "qHi": "भारतीय राष्ट्रीय कांग्रेस के किस ऐतिहासिक अधिवेशन में सरदार वल्लभभाई पटेल ने अध्यक्ष के रूप में कार्य किया?",
+  "optsEn": [
+   "Karachi Session of 1931",
+   "Lahore Session of 1929",
+   "Tripuri Session of 1939",
+   "Haripura Session of 1938"
+  ],
+  "optsHi": [
+   "1931 का कराची अधिवेशन",
+   "1929 का लाहौर अधिवेशन",
+   "1939 का त्रिपुरी अधिवेशन",
+   "1938 का हरिपुरा अधिवेशन"
+  ],
+  "correct": 0,
+  "explainEn": "Sardar Vallabhbhai Patel presided over the Karachi Session of the Indian National Congress in 1931, which notably endorsed the Gandhi-Irwin Pact and passed resolutions on Fundamental Rights.",
+  "sourceHint": "Indian National Congress Historical Archives / NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:34:44Z"
+ },
+ {
+  "id": "q_5aa238c479b16f37",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "Which peasant satyagraha led by Vallabhbhai Patel earned him the title 'Sardar' from the women of that region?",
+  "qHi": "वल्लभभाई पटेल के नेतृत्व में किस किसान सत्याग्रह ने उन्हें उस क्षेत्र की महिलाओं से 'सरदार' की उपाधि दिलाई?",
+  "optsEn": [
+   "Champaran Satyagraha",
+   "Kheda Satyagraha",
+   "Bardoli Satyagraha",
+   "Borsad Satyagraha"
+  ],
+  "optsHi": [
+   "चंपारण सत्याग्रह",
+   "खेड़ा सत्याग्रह",
+   "बारडोली सत्याग्रह",
+   "बोर्सड सत्याग्रह"
+  ],
+  "correct": 2,
+  "explainEn": "The successful 1928 Bardoli Satyagraha led to the women of Bardoli bestowing the title 'Sardar' upon Vallabhbhai Patel.",
+  "sourceHint": "NCERT Modern Indian History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:34:44Z"
+ },
+ {
+  "id": "q_f46d50cc99166c5d",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "What was the codename of the military operation executed by the Indian government in September 1948 to integrate the princely state of Hyderabad, overseen by Home Minister Sardar Patel?",
+  "qHi": "गृह मंत्री सरदार पटेल की देखरेख में हैदराबाद की रियासत को एकीकृत करने के लिए सितंबर 1948 में भारत सरकार द्वारा निष्पादित सैन्य अभियान का कूट नाम क्या था?",
+  "optsEn": [
+   "Operation Polo",
+   "Operation Vijay",
+   "Operation Cactus",
+   "Operation Meghdoot"
+  ],
+  "optsHi": [
+   "ऑपरेशन पोलो",
+   "ऑपरेशन विजय",
+   "ऑपरेशन कैक्टस",
+   "ऑपरेशन मेघदूत"
+  ],
+  "correct": 0,
+  "explainEn": "Operation Polo was the police-cum-military action in September 1948 that resulted in the integration of the princely state of Hyderabad into the Indian Union.",
+  "sourceHint": "Ministry of Defence Historical Division",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:34:44Z"
+ },
+ {
+  "id": "q_1e8a08041c66b410",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
+  "qEn": "Who was the civil servant and key secretary of the States Department who worked alongside Sardar Vallabhbhai Patel in the integration and accession of Indian princely states?",
+  "qHi": "भारतीय रियासतकों के एकीकरण और विलय में सरदार वल्लभभाई पटेल के साथ काम करने वाले सिविल सेवक और रियासत विभाग के प्रमुख सचिव कौन थे?",
+  "optsEn": [
+   "H.M. Patel",
+   "V.P. Menon",
+   "K.P.S. Menon",
+   "B.N. Rau"
+  ],
+  "optsHi": [
+   "एच.एम. पटेल",
+   "वी.पी. मेनन",
+   "के.पी.एस. मेनन",
+   "बी.एन. राऊ"
+  ],
+  "correct": 1,
+  "explainEn": "V.P. Menon served as the Secretary to the Ministry of States, playing a pivotal administrative role alongside Sardar Patel in integrating princely states.",
+  "sourceHint": "The Story of the Integration of the Indian States by V.P. Menon",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:34:44Z"
  }
 ]

@@ -18198,5 +18198,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-31T05:45:28Z"
+ },
+ {
+  "id": "q_63230886c621530d",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "How many players make up a standard playing team in a field hockey match?",
+  "qHi": "फील्ड हॉकी मैच में एक मानक टीम में कितने खिलाड़ी होते हैं?",
+  "optsEn": [
+   "9",
+   "10",
+   "11",
+   "12"
+  ],
+  "optsHi": [
+   "9",
+   "10",
+   "11",
+   "12"
+  ],
+  "correct": 2,
+  "explainEn": "Each team plays with eleven players on the field during a standard field hockey match.",
+  "sourceHint": "International Hockey Federation rules",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:32:29Z"
+ },
+ {
+  "id": "q_abc6218c2e528ae3",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which chemical element has the atomic number 79?",
+  "qHi": "किस रासायनिक तत्व का परमाणु क्रमांक 79 है?",
+  "optsEn": [
+   "Silver",
+   "Gold",
+   "Platinum",
+   "Copper"
+  ],
+  "optsHi": [
+   "चांदी",
+   "सोना",
+   "प्लैटिनम",
+   "तांबा"
+  ],
+  "correct": 1,
+  "explainEn": "Gold is a chemical element with the symbol Au and atomic number 79.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:34:05Z"
+ },
+ {
+  "id": "q_e31b0fd8df5a696d",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which Indian state is Kaziranga National Park primarily located?",
+  "qHi": "काजीरंगा राष्ट्रीय उद्यान मुख्य रूप से किस भारतीय राज्य में स्थित है?",
+  "optsEn": [
+   "Uttarakhand",
+   "Assam",
+   "Madhya Pradesh",
+   "Gujarat"
+  ],
+  "optsHi": [
+   "उत्तराखंड",
+   "असम",
+   "मध्य प्रदेश",
+   "गुजरात"
+  ],
+  "correct": 1,
+  "explainEn": "Kaziranga National Park is located in the state of Assam and is famous for hosting two-thirds of the world's great Indian one-horned rhinoceroses.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:34:05Z"
+ },
+ {
+  "id": "q_1465d894de9e1181",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin is synthesized in the human skin when exposed to sunlight?",
+  "qHi": "सूर्य के प्रकाश के संपर्क में आने पर मानव त्वचा में कौन सा विटामिन बनता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B12",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी12",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Vitamin D is produced in human skin through the action of ultraviolet B (UVB) rays from sunlight.",
+  "sourceHint": "NCERT Biology Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:34:05Z"
+ },
+ {
+  "id": "q_36caca55fcaf6a5a",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which classical dance form originated in the state of Kerala and is known for elaborate makeup and facial masks?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप केरल राज्य में उत्पन्न हुआ है और विस्तृत मेकअप तथा मुखौटों के लिए जाना जाता है?",
+  "optsEn": [
+   "Kathakali",
+   "Bharatanatyam",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "कथकली",
+   "भरतनाट्यम",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 0,
+  "explainEn": "Kathakali is a major form of classical Indian dance from Kerala, distinguished by its colorful make-up, distinctive costumes, and face masks.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:34:05Z"
+ },
+ {
+  "id": "q_1e04c251d8474951",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian mathematician's birth anniversary is celebrated as National Mathematics Day?",
+  "qHi": "किस भारतीय गणितज्ञ की जयंती को राष्ट्रीय गणित दिवस के रूप में मनाया जाता है?",
+  "optsEn": [
+   "C. V. Raman",
+   "Srinivasa Ramanujan",
+   "Homi J. Bhabha",
+   "Vikram Sarabhai"
+  ],
+  "optsHi": [
+   "सी. वी. रमन",
+   "श्रीनिवास रामानुजन",
+   "होमी जे. भाभा",
+   "विक्रम साराभाई"
+  ],
+  "correct": 1,
+  "explainEn": "National Mathematics Day is celebrated on December 22 every year to mark the birth anniversary of the mathematical genius Srinivasa Ramanujan.",
+  "sourceHint": "PIB Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:34:05Z"
+ },
+ {
+  "id": "q_4ee9e09dc0b27137",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who was the first woman judge to be appointed to the Supreme Court of India?",
+  "qHi": "भारत के सर्वोच्च न्यायालय में नियुक्त होने वाली पहली महिला न्यायाधीश कौन थीं?",
+  "optsEn": [
+   "Fathima Beevi",
+   "Leela Seth",
+   "Ruma Pal",
+   "Indu Malhotra"
+  ],
+  "optsHi": [
+   "फातिमा बीवी",
+   "लीला सेठ",
+   "रुमा पाल",
+   "इंदु मल्होत्रा"
+  ],
+  "correct": 0,
+  "explainEn": "Justice M. Fathima Beevi was appointed to the Supreme Court of India in 1989, making her the first woman judge.",
+  "sourceHint": "Supreme Court of India Official Records",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:34:48Z"
+ },
+ {
+  "id": "q_9a436436d7878fc1",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which planet in our solar system has the maximum number of officially recognized moons?",
+  "qHi": "हमारे सौर मंडल के किस ग्रह के पास आधिकारिक तौर पर मान्यता प्राप्त चंद्रमाओं की संख्या सबसे अधिक है?",
+  "optsEn": [
+   "Saturn",
+   "Jupiter",
+   "Uranus",
+   "Neptune"
+  ],
+  "optsHi": [
+   "शनि",
+   "बृहस्पति",
+   "यूरेनस",
+   "नेपच्यून"
+  ],
+  "correct": 0,
+  "explainEn": "Saturn holds the record for having the largest number of confirmed moons in the solar system.",
+  "sourceHint": "NASA Solar System Exploration",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-10-31T12:34:48Z"
  }
 ]
