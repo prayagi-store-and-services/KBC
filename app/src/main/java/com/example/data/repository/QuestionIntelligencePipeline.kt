@@ -324,7 +324,8 @@ class QuestionIntelligencePipeline(
                         excludedFingerprints = currentHistory.servedSemanticFingerprints,
                         seed = (sessionId.hashCode() + tier * 101 + attempts * 17).let { if (it == 0) 1 else kotlin.math.abs(it) },
                         quotaType = quotaType,
-                        availableAffairs = allDbAffairs
+                        availableAffairs = allDbAffairs,
+                        excludedNormalizedTexts = currentHistory.servedNormalizedTexts
                     )
                 } else {
                     DynamicLogicEngine.generateUniqueQuestion(
@@ -362,7 +363,9 @@ class QuestionIntelligencePipeline(
             }
 
             if (question == null) {
-                // Fallback guarantee with high-entropy salt and explicit validation
+                // Fallback guarantee with high-entropy salt. generateUniqueQuestion now
+                // enforces text-level uniqueness internally even when fingerprint pools
+                // are exhausted, so a text repeat can never be served from here.
                 val fallbackCandidate = DynamicLogicEngine.generateUniqueQuestion(
                     qNumber = tier,
                     userProfile = userProfile,

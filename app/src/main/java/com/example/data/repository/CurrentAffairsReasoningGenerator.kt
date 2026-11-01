@@ -197,7 +197,8 @@ object CurrentAffairsReasoningGenerator {
         excludedFingerprints: Set<String> = emptySet(),
         seed: Int = Random.nextInt(1, 999999),
         quotaType: String = "CA",
-        availableAffairs: List<CurrentAffairItem> = emptyList()
+        availableAffairs: List<CurrentAffairItem> = emptyList(),
+        excludedNormalizedTexts: Set<String> = emptySet()
     ): QuestionItem {
         val rand = Random(seed)
         val isStudent = userProfile.isJuniorPlayer()
@@ -254,18 +255,42 @@ object CurrentAffairsReasoningGenerator {
                     buildAdultCurrentAffairQuestion(qNumber, event, userProfile, candidateRand)
                 }
                 val fp = q.semanticFingerprint.trim().lowercase()
-                if (!excludedFingerprints.contains(fp)) {
+                if (!excludedFingerprints.contains(fp) && !isServedText(q, excludedNormalizedTexts)) {
                     return q
                 }
             }
         }
 
-        val chosenEvent = candidates.firstOrNull() ?: canonicalEvents.first()
-        return if (isStudent) {
-            buildJuniorCurrentAffairQuestion(qNumber, chosenEvent, userProfile, rand)
-        } else {
-            buildAdultCurrentAffairQuestion(qNumber, chosenEvent, userProfile, rand)
+        // Fingerprint pool exhausted: the no-repeated-questions promise is
+        // text-level, so keep drawing fresh parameter variations (numbers and
+        // names change the wording) until the text is new.
+        var lastResort: QuestionItem? = null
+        for (retry in 0..120) {
+            val event = candidates.getOrNull(retry % candidates.size) ?: canonicalEvents.first()
+            val retryRand = Random(seed + 9001 + retry * 31337 + event.eventId.hashCode())
+            val q = if (isStudent) {
+                buildJuniorCurrentAffairQuestion(qNumber, event, userProfile, retryRand)
+            } else {
+                buildAdultCurrentAffairQuestion(qNumber, event, userProfile, retryRand)
+            }
+            if (lastResort == null) lastResort = q
+            if (!isServedText(q, excludedNormalizedTexts)) {
+                if (retry > 0) {
+                    android.util.Log.w("TarkShastra", "CA tier $qNumber fingerprint pool exhausted; serving text-fresh variant after $retry retries")
+                }
+                return q
+            }
         }
+        android.util.Log.e("TarkShastra", "CA tier $qNumber text pool exhausted; serving least-bad variant")
+        return lastResort!!
+    }
+
+    private fun isServedText(q: QuestionItem, servedNormalizedTexts: Set<String>): Boolean {
+        if (servedNormalizedTexts.isEmpty()) return false
+        val normEn = MultiLayerQuestionValidator.normalizeText(q.questionEnglish)
+        val normHi = MultiLayerQuestionValidator.normalizeText(q.questionHindi)
+        return (normEn.isNotBlank() && servedNormalizedTexts.contains(normEn)) ||
+            (normHi.isNotBlank() && servedNormalizedTexts.contains(normHi))
     }
 
     // =========================================================================

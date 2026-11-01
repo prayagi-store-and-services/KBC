@@ -387,9 +387,25 @@ object DynamicLogicEngine {
             }
         }
 
-        // Truly exhausted (every variation already served): last resort.
-        val fallbackGen = pool.first()
-        return fallbackGen.generate(qNumber, meta, Random(salt + 999), userProfile)
+        // Truly fingerprint-exhausted (every variation already served): the
+        // no-repeated-questions promise is text-level, so keep drawing fresh
+        // parameter variations until the wording is new. Numeric and name
+        // parameters change the text, so this succeeds in practice; the bound
+        // only guards a mathematically tiny pool.
+        var lastResort: QuestionItem? = null
+        for (retry in 0..400) {
+            val gen = pool[retry % pool.size]
+            val candidate = gen.generate(qNumber, meta, Random(salt + 999 + retry * 31337), userProfile)
+            if (lastResort == null) lastResort = candidate
+            if (!MultiLayerQuestionValidator.isTextRepeat(candidate, history, currentSessionQuestions)) {
+                if (retry > 0) {
+                    android.util.Log.w("TarkShastra", "Tier $qNumber fingerprint pool exhausted; serving text-fresh variant after $retry retries")
+                }
+                return candidate
+            }
+        }
+        android.util.Log.e("TarkShastra", "Tier $qNumber text pool mathematically exhausted; serving least-bad variant")
+        return lastResort!!
     }
 
     // =========================================================================
