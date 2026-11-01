@@ -26206,5 +26206,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-01T06:08:49Z"
+ },
+ {
+  "id": "q_5ca35f5a060a932a",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which vitamin is commonly obtained by our body from direct exposure to sunlight?",
+  "qHi": "हमारे शरीर को सीधे धूप के संपर्क में आने से आमतौर पर कौन सा विटामिन मिलता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Sunlight helps the human body produce Vitamin D.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T13:27:07Z"
+ },
+ {
+  "id": "q_21f678fbbffa2834",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these animals is known to build complex structures called hives?",
+  "qHi": "इनमें से किस जानवर को छत्ते नामक जटिल संरचनाएं बनाने के लिए जाना जाता है?",
+  "optsEn": [
+   "Honeybees",
+   "Earthworms",
+   "Frogs",
+   "Elephants"
+  ],
+  "optsHi": [
+   "मधुमक्खियां",
+   "केंचुए",
+   "मेंढक",
+   "हाथी"
+  ],
+  "correct": 0,
+  "explainEn": "Honeybees live in colonies and construct beehives to store honey and raise their young.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T13:27:07Z"
+ },
+ {
+  "id": "q_9ce75e4a2b85014b",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which crop is sown during the rainy season in India, typically around June or July?",
+  "qHi": "भारत में आमतौर पर जून या जुलाई के आसपास, वर्षा ऋतु के दौरान कौन सी फसल बोई जाती है?",
+  "optsEn": [
+   "Kharif crop",
+   "Rabi crop",
+   "Zaid crop",
+   "Winter crop"
+  ],
+  "optsHi": [
+   "खरीफ फसल",
+   "रबी फसल",
+   "जायद फसल",
+   "सर्दियों की फसल"
+  ],
+  "correct": 0,
+  "explainEn": "Kharif crops are sown at the beginning of the monsoon season in India.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T13:27:07Z"
+ },
+ {
+  "id": "q_3d0d10a422dbc881",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which internal organ in the human body is primarily responsible for pumping blood?",
+  "qHi": "मानव शरीर में कौन सा आंतरिक अंग मुख्य रूप से रक्त पंप करने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Lungs",
+   "Stomach",
+   "Heart",
+   "Kidney"
+  ],
+  "optsHi": [
+   "फेफड़े",
+   "पेट",
+   "दिल",
+   "गुर्दे"
+  ],
+  "correct": 2,
+  "explainEn": "The heart is the muscular organ that pumps blood throughout the human body.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T13:27:07Z"
+ },
+ {
+  "id": "q_72a9c0a51da2052d",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the process of shedding old skin by animals like snakes called?",
+  "qHi": "सांप जैसे जानवरों द्वारा पुरानी त्वचा छोड़ने की प्रक्रिया को क्या कहा जाता है?",
+  "optsEn": [
+   "Molting",
+   "Hibernation",
+   "Migration",
+   "Germination"
+  ],
+  "optsHi": [
+   "कांच उतरना (मोल्टिंग)",
+   "शीतनिद्रा",
+   "प्रवास",
+   "अंकुरण"
+  ],
+  "correct": 0,
+  "explainEn": "Molting is the biological process of shedding skin or outer covering in certain animals.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T13:27:07Z"
+ },
+ {
+  "id": "q_258c54dac68a2aeb",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary gas released by plants during photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण के दौरान पौधों द्वारा छोड़ी जाने वाली मुख्य गैस कौन सी है?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Nitrogen",
+   "Oxygen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "ऑक्सीजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 2,
+  "explainEn": "During photosynthesis, plants take in carbon dioxide and water to produce food, releasing oxygen as a byproduct.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T13:28:10Z"
+ },
+ {
+  "id": "q_f8c8c33e4d58e4cd",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of map would you look at to find the boundaries and capitals of different states in India?",
+  "qHi": "भारत के विभिन्न राज्यों की सीमाओं और राजधानियों को खोजने के लिए आप किस प्रकार के मानचित्र को देखेंगे?",
+  "optsEn": [
+   "Physical map",
+   "Political map",
+   "Thematic map",
+   "Weather map"
+  ],
+  "optsHi": [
+   "भौतिक मानचित्र",
+   "राजनीतिक मानचित्र",
+   "थीमैटिक मानचित्र",
+   "मौसम मानचित्र"
+  ],
+  "correct": 1,
+  "explainEn": "Political maps show governmental boundaries of countries, states, and the location of major cities and capitals.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T13:28:10Z"
+ },
+ {
+  "id": "q_400531d712f60cea",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following food preservation methods involves removing all the water content from food items?",
+  "qHi": "निम्नलिखित में से किस खाद्य संरक्षण पद्धति में खाद्य पदार्थों से सारा पानी निकालना शामिल है?",
+  "optsEn": [
+   "Pickling",
+   "Freezing",
+   "Drying",
+   "Canning"
+  ],
+  "optsHi": [
+   "अचार बनाना",
+   "जमना",
+   "सुखाना",
+   "डिब्बाबंद करना"
+  ],
+  "correct": 2,
+  "explainEn": "Drying or dehydration removes moisture, preventing bacteria and fungi from growing and spoiling the food.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T13:28:10Z"
  }
 ]

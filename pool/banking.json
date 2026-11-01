@@ -31806,5 +31806,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-01T06:08:41Z"
+ },
+ {
+  "id": "q_004ea1e2ff7a4a06",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following terms is related to the field of banking and finance?",
+  "qHi": "निम्नलिखित में से कौन सा शब्द बैंकिंग और वित्त के क्षेत्र से संबंधित है?",
+  "optsEn": [
+   "Photosynthesis",
+   "Repo Rate",
+   "Habeas Corpus",
+   "Troposphere"
+  ],
+  "optsHi": [
+   "प्रकाश संश्लेषण",
+   "रेपो रेट",
+   "बंदी प्रत्यक्षीकरण",
+   "क्षوبमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "Repo Rate is the rate at which the central bank of a country lends money to commercial banks in the event of any shortfall of funds.",
+  "sourceHint": "NCERT Economics and RBI Monetary Policy",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T13:26:58Z"
+ },
+ {
+  "id": "q_eba6c0d2c6b3d9fe",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of card is a RuPay card issued in India?",
+  "qHi": "भारत में जारी किया जाने वाला RuPay कार्ड किस प्रकार का कार्ड है?",
+  "optsEn": [
+   "Domestic payment network card",
+   "Passport identification card",
+   "Voter registration card",
+   "Railway concession card"
+  ],
+  "optsHi": [
+   "घरेलू भुगतान नेटवर्क कार्ड",
+   "पासपोर्ट पहचान पत्र",
+   "मतदाता पंजीकरण कार्ड",
+   "रेलवे रियायत कार्ड"
+  ],
+  "correct": 0,
+  "explainEn": "RuPay is an Indian domestic card scheme conceived and launched by the National Payments Corporation of India (NPCI).",
+  "sourceHint": "NPCI Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T13:26:58Z"
+ },
+ {
+  "id": "q_ff44c48cbaa6ca45",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization acts as the regulator of the capital markets in India?",
+  "qHi": "कौन सा संगठन भारत में पूंजी बाजारों के नियामक के रूप में कार्य करता है?",
+  "optsEn": [
+   "SEBI",
+   "NABARD",
+   "IRDAI",
+   "SIDBI"
+  ],
+  "optsHi": [
+   "सेबी",
+   "नाबार्ड",
+   "इरडाई",
+   "सिडबी"
+  ],
+  "correct": 0,
+  "explainEn": "The Securities and Exchange Board of India (SEBI) is the regulatory body for securities and capital market in India.",
+  "sourceHint": "SEBI Act, 1992",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T13:26:58Z"
+ },
+ {
+  "id": "q_92251a49ce8bb2ea",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum limit of deposit insured by DICGC per depositor per bank?",
+  "qHi": "DICGC द्वारा प्रति जमाकर्ता प्रति बैंक बीमाकृत जमा की अधिकतम सीमा क्या है?",
+  "optsEn": [
+   "Five lakh rupees",
+   "One lakh rupees",
+   "Ten lakh rupees",
+   "Two lakh rupees"
+  ],
+  "optsHi": [
+   "पाँच लाख रुपये",
+   "एक लाख रुपये",
+   "दस लाख रुपये",
+   "दो लाख रुपये"
+  ],
+  "correct": 0,
+  "explainEn": "Deposit Insurance and Credit Guarantee Corporation (DICGC) insures each depositor in a bank up to a maximum of Rs. 5,00000 for both principal and interest amount.",
+  "sourceHint": "DICGC official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T13:28:01Z"
+ },
+ {
+  "id": "q_a67faacbf8550a52",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which monetary policy tool refers to the rate at which the Reserve Bank of India lends short-term funds to commercial banks?",
+  "qHi": "कौन सा मौद्रिक नीति उपकरण उस दर को संदर्भित करता है जिस पर भारतीय रिजर्व बैंक वाणिज्यिक बैंकों को अल्पकालिक ऋण देता है?",
+  "optsEn": [
+   "Repo Rate",
+   "Reverse Repo Rate",
+   "Bank Rate",
+   "Cash Reserve Ratio"
+  ],
+  "optsHi": [
+   "रेपो रेट",
+   "रिवर्स रेपो रेट",
+   "बैंक रेट",
+   "कैश रिजर्व रेशो"
+  ],
+  "correct": 0,
+  "explainEn": "Repo rate is the rate at which the central bank of a country lends money to commercial banks in the event of any shortfall of funds.",
+  "sourceHint": "Reserve Bank of India Monetary Policy Report",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T13:28:01Z"
+ },
+ {
+  "id": "q_b5a43f47543f4d71",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does 'M' stand for in the term 'MSME' as commonly used in Indian banking and economy?",
+  "qHi": "भारतीय बैंकिंग और अर्थव्यवस्था में सामान्यतः प्रयुक्त होने वाले शब्द 'MSME' में 'M' का क्या अर्थ है?",
+  "optsEn": [
+   "Micro",
+   "Medium",
+   "Monetary",
+   "Market"
+  ],
+  "optsHi": [
+   "सूक्ष्म (माइक्रो)",
+   "मध्यम",
+   "मौद्रिक",
+   "बाजार"
+  ],
+  "correct": 0,
+  "explainEn": "MSME stands for Micro, Small and Medium Enterprises, classified based on investment and turnover criteria.",
+  "sourceHint": "Ministry of Micro, Small and Medium Enterprises, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T13:28:01Z"
+ },
+ {
+  "id": "q_2b35ab82b63cbb6a",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the full form of NEFT in the context of Indian payment systems?",
+  "qHi": "भारतीय भुगतान प्रणालियों के संदर्भ में NEFT का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "National Equity Funding Trust",
+   "Net Electronic Finance Transaction",
+   "New Economic Funds Transfer"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "नेशनल इक्विटी फंडिंग ट्रस्ट",
+   "नेट इलेक्ट्रॉनिक फाइनेंस ट्रांजैक्शन",
+   "न्यू इकोनॉमिक फंड्स ट्रांसफर"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, an Indian centralized payment system owned and operated by the Reserve Bank of India.",
+  "sourceHint": "Reserve Bank of India payment systems overview",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T13:28:01Z"
+ },
+ {
+  "id": "q_c9433cd1679ffc34",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which entity sets the standardized format for IFSC (Indian Financial System Code)?",
+  "qHi": "IFSC (इंडियन फाइनेंशियल सिस्टम कोड) के लिए मानकीकृत प्रारूप कौन सा निकाय निर्धारित करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Indian Banks' Association",
+   "National Payments Corporation of India",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "इंडियन बैंक्स एसोसिएशन",
+   "नेशनल पेमेंट्स कॉर्पोरेशन ऑफ इंडिया",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड"
+  ],
+  "correct": 0,
+  "explainEn": "IFSC is an 11-character alphanumeric code assigned by the Reserve Bank of India to identify uniquely the bank-branches participating in the NEFT system.",
+  "sourceHint": "Reserve Bank of India guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T13:28:01Z"
  }
 ]

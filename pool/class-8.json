@@ -21670,5 +21670,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-01T06:08:07Z"
+ },
+ {
+  "id": "q_a1d7c6e2aacab9dc",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who was chosen as the chairman of the Drafting Committee of the Indian Constituent Assembly?",
+  "qHi": "भारतीय संविधान सभा की प्रारूप समिति के अध्यक्ष के रूप में किसे चुना गया था?",
+  "optsEn": [
+   "Dr. B. R. Ambedkar",
+   "Dr. Rajendra Prasad",
+   "Jawaharlal Nehru",
+   "Sardar Vallabhbhai Patel"
+  ],
+  "optsHi": [
+   "डॉ. बी. आर. अंबेडकर",
+   "डॉ. राजेंद्र प्रसाद",
+   "जवाहरलाल नेहरू",
+   "सरदार वल्लभभाई पटेल"
+  ],
+  "correct": 0,
+  "explainEn": "Dr. B. R. Ambedkar was the chairman of the Drafting Committee, which was tasked with preparing a draft of the new Constitution.",
+  "sourceHint": "NCERT Class 8 Civics (Social and Political Life)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T13:28:15Z"
+ },
+ {
+  "id": "q_c00e3ac362cf40da",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which battle, fought in 1757, marked the beginning of the establishment of political power by the British East India Company in India?",
+  "qHi": "1757 में लड़ी गई किस लड़ाई ने भारत में ब्रिटिश ईस्ट इंडिया कंपनी द्वारा राजनीतिक सत्ता की स्थापना की शुरुआत को चिह्नित किया?",
+  "optsEn": [
+   "Battle of Buxar",
+   "Battle of Plassey",
+   "Third Battle of Panipat",
+   "Battle of Haldighati"
+  ],
+  "optsHi": [
+   "बक्सर का युद्ध",
+   "प्लासी का युद्ध",
+   "पानीपत का तीसरा युद्ध",
+   "हल्दीघाटी का युद्ध"
+  ],
+  "correct": 1,
+  "explainEn": "The Battle of Plassey in 1757 is widely regarded as the starting point of British political dominance in India.",
+  "sourceHint": "NCERT Class 8 History (Our Pasts - III)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T13:28:15Z"
+ },
+ {
+  "id": "q_918a9de108da28d6",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the term used for the process of clearing forests and using that land for other purposes such as agriculture or housing?",
+  "qHi": "वनों को साफ करने और उस भूमि का कृषि या आवास जैसे अन्य उद्देश्यों के लिए उपयोग करने की प्रक्रिया के लिए किस शब्द का उपयोग किया जाता है?",
+  "optsEn": [
+   "Reforestation",
+   "Deforestation",
+   "Desertification",
+   "Conservation"
+  ],
+  "optsHi": [
+   "पुनर्वनरोपण",
+   "वनों की कटाई",
+   "मरुस्थलीकरण",
+   "संरक्षण"
+  ],
+  "correct": 1,
+  "explainEn": "Deforestation means clearing of forests over a large area for various non-forest uses.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T13:28:15Z"
+ },
+ {
+  "id": "q_4265f1808adaf399",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which part of a plant cell is responsible for giving it a rigid shape and protection outside the cell membrane?",
+  "qHi": "पादप कोशिका का कौन सा भाग उसे कोशिका झिल्ली के बाहर एक कठोर आकार और सुरक्षा प्रदान करने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Cell wall",
+   "Nucleus",
+   "Vacuole",
+   "Cytoplasm"
+  ],
+  "optsHi": [
+   "कोशिका भित्ति",
+   "केंद्रक",
+   "रिक्तिका",
+   "कोशिका द्रव्य"
+  ],
+  "correct": 0,
+  "explainEn": "Plant cells have an outer covering called the cell wall, in addition to the cell membrane, which provides shape and rigidity.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T13:28:15Z"
  }
 ]

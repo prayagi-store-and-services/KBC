@@ -18646,5 +18646,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-01T06:08:35Z"
+ },
+ {
+  "id": "q_e39a0e470c747b7c",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which battle marked the formal establishment of the Mughal Empire in India?",
+  "qHi": "किस युद्ध ने भारत में मुगल साम्राज्य की औपचारिक स्थापना को चिह्नित किया?",
+  "optsEn": [
+   "First Battle of Panipat",
+   "Battle of Plassey",
+   "Battle of Buxar",
+   "Battle of Haldighati"
+  ],
+  "optsHi": [
+   "पानीपत का प्रथम युद्ध",
+   "प्लासी का युद्ध",
+   "बक्सर का युद्ध",
+   "हल्दीघाटी का युद्ध"
+  ],
+  "correct": 0,
+  "explainEn": "Babur defeated Ibrahim Lodi in the First Battle of Panipat in 1526, establishing the Mughal Empire.",
+  "sourceHint": "NCERT History Class 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T13:26:53Z"
+ },
+ {
+  "id": "q_5a63155c4af01ce9",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary function of the Reserve Bank of India acting as a 'Lender of Last Resort'?",
+  "qHi": "भारतीय रिजर्व बैंक के 'अंतिम ऋणदाता' (Lender of Last Resort) के रूप में कार्य करने का मुख्य उद्देश्य क्या है?",
+  "optsEn": [
+   "Providing loans to the agricultural sector directly",
+   "Providing emergency financial assistance to commercial banks facing liquidity crises",
+   "Regulating foreign exchange reserves",
+   "Issuing currency notes to the public"
+  ],
+  "optsHi": [
+   "कृषि क्षेत्र को सीधे ऋण प्रदान करना",
+   "तरलता संकट का सामना कर रहे वाणिज्यिक बैंकों को आपातकालीन वित्तीय सहायता प्रदान करना",
+   "विदेशी मुद्रा भंडार को विनियमित करना",
+   "जनता को करेंसी नोट जारी करना"
+  ],
+  "correct": 1,
+  "explainEn": "As the lender of last resort, RBI provides emergency credit to commercial banks that are solvent but facing short-term liquidity stress.",
+  "sourceHint": "NCERT Class 12 Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T13:27:52Z"
+ },
+ {
+  "id": "q_035ee73aa302e9f1",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under which Mughal emperor did the painting of the Jahangiri Nama reach its peak of naturalistic representation?",
+  "qHi": "किस मुगल सम्राट के शासनकाल में जहांगीर नामा की चित्रकला प्राकृतिक चित्रण के अपने शिखर पर पहुँची?",
+  "optsEn": [
+   "Akbar",
+   "Jahangir",
+   "Shah Jahan",
+   "Aurangzeb"
+  ],
+  "optsHi": [
+   "अकबर",
+   "जहांगीर",
+   "शाहजहाँ",
+   "औरंगजेब"
+  ],
+  "correct": 1,
+  "explainEn": "Mughal painting reached its zenith in terms of portraiture, flora, and fauna depiction during the reign of Emperor Jahangir.",
+  "sourceHint": "NCERT Class 12 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T13:27:52Z"
+ },
+ {
+  "id": "q_187c36a6f76d7562",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of ancient Indian history, the term 'Udranga' refers to what type of tax?",
+  "qHi": "प्राचीन भारतीय इतिहास के संदर्भ में, 'उद्रंग' शब्द किस प्रकार के कर को संदर्भित करता है?",
+  "optsEn": [
+   "Water tax levied on irrigation",
+   "Principal land tax",
+   "Toll tax collected on trade routes",
+   "Professional tax on artisans"
+  ],
+  "optsHi": [
+   "सिंचाई पर लगाया जाने वाला जल कर",
+   "मुख्य भू-राजकर",
+   "व्यापार मार्गों पर एकत्र किया जाने वाला टोल कर",
+   "कारीगरों पर व्यावसायिक कर"
+  ],
+  "correct": 1,
+  "explainEn": "In the Gupta and post-Gupta periods, Udranga was a major land tax, often distinguished from Uparakara (an extra tax).",
+  "sourceHint": "NCERT Class 12 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T13:29:01Z"
+ },
+ {
+  "id": "q_be064f1dcd458073",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "The 'Bhagavati Sutra', an important canonical text that mentions the sixteen Mahajanapadas, belongs to which religious tradition?",
+  "qHi": "सोलह महाजनपदों का उल्लेख करने वाला एक महत्वपूर्ण प्रामाणिक ग्रंथ 'भगवती सूत्र' किस धार्मिक परंपरा से संबंधित है?",
+  "optsEn": [
+   "Buddhism",
+   "Jainism",
+   "Ajivika",
+   "Vedic Hinduism"
+  ],
+  "optsHi": [
+   "बौद्ध धर्म",
+   "जैन धर्म",
+   "आजीविका",
+   "वैदिक हिंदू धर्म"
+  ],
+  "correct": 1,
+  "explainEn": "The Bhagavati Sutra is a Jain Agama text that provides detailed accounts of the Mahajanapadas and the life of Mahavira.",
+  "sourceHint": "Ancient India by R.S. Sharma (NCERT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T13:29:01Z"
+ },
+ {
+  "id": "q_08ed96358448a7bb",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific microorganism is primarily responsible for the nitrogen fixation process in the root nodules of leguminous plants?",
+  "qHi": "फलीदार पौधों (लेग्यूमिनस) की जड़ों की गांठों में नाइट्रोजन स्थिरीकरण प्रक्रिया के लिए मुख्य रूप से कौन सा विशिष्ट सूक्ष्म जीव जिम्मेदार है?",
+  "optsEn": [
+   "Rhizobium",
+   "Azotobacter",
+   "Clostridium",
+   "Nitrosomonas"
+  ],
+  "optsHi": [
+   "राइजोबियम",
+   "एजोटोबैक्टर",
+   "क्लोस्ट्रिडियम",
+   "नाइट्रोसोमोनास"
+  ],
+  "correct": 0,
+  "explainEn": "Rhizobium bacteria form a symbiotic relationship with leguminous plants, living in their root nodules and fixing atmospheric nitrogen into ammonia.",
+  "sourceHint": "NCERT Class 8 and 11 Biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T13:29:01Z"
+ },
+ {
+  "id": "q_6f289e6be6c09ffa",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "The 'Purbin' style, a major sub-genre of Indian classical music associated with the rendering of Thumri, originated primarily in which cultural region?",
+  "qHi": "ठुमरी की प्रस्तुति से जुड़ी भारतीय शास्त्रीय संगीत की एक प्रमुख उप-शैली 'पूर्बी' शैली, मुख्य रूप से किस सांस्कृतिक क्षेत्र में उत्पन्न हुई थी?",
+  "optsEn": [
+   "Punjab",
+   "Gwalior",
+   "Lucknow and Varanasi",
+   "Indore"
+  ],
+  "optsHi": [
+   "पंजाब",
+   "ग्वालियर",
+   "लखनऊ और वाराणसी",
+   "इंदौर"
+  ],
+  "correct": 2,
+  "explainEn": "The Purbin ang (style) of Thumri developed primarily in the Awadh region, specifically around Lucknow and Varanasi, focusing on the lyrics and emotional expression.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT) India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T13:29:01Z"
+ },
+ {
+  "id": "q_06c35ec6ab9e15b2",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In economic terms, what does the term 'Narrow Money' (M1) in India comprise?",
+  "qHi": "आर्थिक शब्दों में, भारत में 'संकुचित मुद्रा' (M1) शब्द में क्या शामिल है?",
+  "optsEn": [
+   "Currency with the public plus demand deposits with banks",
+   "Currency with the public plus total time deposits with banks",
+   "Demand deposits plus all post office savings bank deposits",
+   "Total currency in circulation plus RBI reserves"
+  ],
+  "optsHi": [
+   "जनता के पास मुद्रा और बैंकों के पास मांग जमा",
+   "जनता के पास मुद्रा और बैंकों के पास कुल सावधि जमा",
+   "मांग जमा और सभी डाकघर बचत बैंक जमा",
+   "संचलन में कुल मुद्रा और आरबीआई भंडार"
+  ],
+  "correct": 0,
+  "explainEn": "According to the Reserve Bank of India (RBI) definitions, M1 (Narrow Money) includes currency with the public and demand deposits with the banking system (Current accounts and Savings accounts).",
+  "sourceHint": "RBI Publications and NCERT Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T13:29:01Z"
  }
 ]
