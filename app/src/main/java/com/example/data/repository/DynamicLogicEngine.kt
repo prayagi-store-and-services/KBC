@@ -995,17 +995,30 @@ object DynamicLogicEngine {
     // 12. AGE ALGEBRA (Tiers 6 - 10)
     // =========================================================================
     private fun generateAgeAlgebra(qNumber: Int, meta: TierInfo, rand: Random, profile: UserProfile): QuestionItem {
-        val sonCurrentAge = listOf(10, 12, 14).random(rand)
-        val fatherCurrentAge = 3 * sonCurrentAge
-        val yearsPassed = 10
-        val fatherFuture = fatherCurrentAge + yearsPassed
-        val sonFuture = sonCurrentAge + yearsPassed
+        // Verified (multiplier m, years Y) pairs: parent = m*x now and
+        // m*x + Y = 2*(x + Y) exactly, so x = Y/(m-2) is always an integer.
+        val cases = listOf(
+            Triple(3, 10, 10), Triple(3, 15, 15), Triple(3, 20, 20),
+            Triple(4, 10, 5), Triple(4, 12, 6), Triple(4, 16, 8), Triple(4, 20, 10),
+            Triple(5, 9, 3), Triple(5, 12, 4), Triple(5, 15, 5), Triple(5, 18, 6),
+            Triple(6, 8, 2), Triple(6, 12, 3), Triple(6, 16, 4), Triple(6, 20, 5),
+            Triple(7, 15, 3), Triple(7, 20, 4), Triple(7, 25, 5)
+        )
+        val (m, years, childAge) = cases.random(rand)
+        val rels = listOf(
+            Triple("father", "son", "पिता/पुत्र"),
+            Triple("mother", "daughter", "माता/पुत्री"),
+            Triple("uncle", "nephew", "चाचा/भतीजा")
+        )
+        val rel = rels.random(rand)
+        val parentHi = rel.third.split("/")[0]
+        val childHi = rel.third.split("/")[1]
 
-        val qHi = "एक पिता की आयु वर्तमान में अपने पुत्र की आयु की 3 गुनी है। 10 वर्ष बाद पिता की आयु पुत्र की आयु की दोगुनी से $yearsPassed वर्ष अधिक होगी। पुत्र की वर्तमान आयु क्या है?"
-        val qEn = "A father's current age is 3 times his son's current age. In 10 years, the father will be 10 years older than twice the son's age. What is the son's current age?"
+        val qHi = "एक $parentHi की वर्तमान आयु अपने $childHi की वर्तमान आयु की $m गुनी है। $years वर्ष बाद $parentHi की आयु $childHi की आयु की ठीक दोगुनी हो जाएगी। $childHi की वर्तमान आयु क्या है?"
+        val qEn = "A ${rel.first}'s current age is $m times their ${rel.second}'s current age. In $years years, the ${rel.first} will be exactly twice as old as the ${rel.second}. What is the ${rel.second}'s current age?"
 
-        val correctStr = "$sonCurrentAge Years"
-        val optsEn = listOf(correctStr, "${sonCurrentAge + 2} Years", "${sonCurrentAge - 2} Years", "${sonCurrentAge + 5} Years").distinct().shuffled(rand)
+        val correctStr = "$childAge Years"
+        val optsEn = listOf(correctStr, "${childAge + 2} Years", "${childAge + 4} Years", "${maxOf(1, childAge - 2)} Years").distinct().shuffled(rand)
         val optsHi = optsEn.map { it.replace("Years", "वर्ष") }
         val correctIdx = optsEn.indexOf(correctStr).coerceAtLeast(0)
 
@@ -1023,22 +1036,22 @@ object DynamicLogicEngine {
             category = "Age-Algebra Linear System",
             questionHindi = qHi,
             questionEnglish = qEn,
-            cluesHindi = listOf("माना पुत्र = x, पिता = 3x", "10 वर्ष बाद: (3x + 10) = 2(x + 10) + 10 - 10 = 2x + 20", "3x - 2x = 20 - 10 => x = $sonCurrentAge"),
-            cluesEnglish = listOf("Let son = x, father = 3x", "In 10 yrs: 3x + 10 = 2(x + 10)", "3x - 2x = 20 - 10 => x = $sonCurrentAge"),
+            cluesHindi = listOf("माना $childHi = x, $parentHi = ${m}x", "$years वर्ष बाद: ${m}x + $years = 2(x + $years)", "(${m} - 2)x = $years => x = $childAge"),
+            cluesEnglish = listOf("Let ${rel.second} = x, ${rel.first} = ${m}x", "In $years yrs: ${m}x + $years = 2(x + $years)", "(${m} - 2)x = $years => x = $childAge"),
             optionsHindi = optsHi,
             optionsEnglish = optsEn,
             correctAnswerIndex = correctIdx,
-            deductionPathHindi = "3x + 10 = 2x + 20 => x = $sonCurrentAge वर्ष।",
-            deductionPathEnglish = "Linear solution: 3x + 10 = 2(x + 10) gives x = $sonCurrentAge years.",
+            deductionPathHindi = "${m}x + $years = 2(x + $years) => x = $childAge वर्ष।",
+            deductionPathEnglish = "Linear solution: ${m}x + $years = 2(x + $years) gives x = $childAge years.",
             eliminationReasonsHindi = optsHi.mapIndexed { idx, opt -> if (idx == correctIdx) "रैखिक समीकरण समाधान द्वारा सिद्ध।" else "समीकरण को संतुष्ट नहीं करता।" },
             eliminationReasonsEnglish = optsEn.mapIndexed { idx, opt -> if (idx == correctIdx) "Satisfies the dual temporal linear equations." else "Fails algebraic substitution." },
-            expertAdviceHindi = "पुत्र की आयु x मानकर भविष्य के समीकरण की रचना करें।",
+            expertAdviceHindi = "$childHi की आयु x मानकर भविष्य के समीकरण की रचना करें।",
             expertAdviceEnglish = "Express both ages in terms of variable x and equate at the future checkpoint.",
             fiftyFiftyDiscardIndices = (0..3).filter { it != correctIdx }.take(2),
             fiftyFiftyProofHindi = "समीकरण में असंगत मान निरस्त।",
             fiftyFiftyProofEnglish = "Non-satisfying age values eliminated.",
             semanticFingerprint = MultiLayerQuestionValidator.computeSemanticFingerprint(normEn, normAns),
-            logicFingerprint = MultiLayerQuestionValidator.computeLogicFingerprint("age_linear_eq", "s$sonCurrentAge"),
+            logicFingerprint = MultiLayerQuestionValidator.computeLogicFingerprint("age_linear_eq", "m${m}_y${years}_${rel.first}"),
             conceptFingerprint = MultiLayerQuestionValidator.computeConceptFingerprint("Algebra", "Linear Age System", "age_ratios"),
             patternFingerprint = MultiLayerQuestionValidator.computePatternFingerprint("numerical_reasoning", "linear_equation"),
             generationVersion = 2
@@ -1310,20 +1323,37 @@ object DynamicLogicEngine {
     // 18. MATRIX ROTATION (Tiers 11 - 14)
     // =========================================================================
     private fun generateMatrixRotation(qNumber: Int, meta: TierInfo, rand: Random, profile: UserProfile): QuestionItem {
-        val qHi = "एक 3x3 ग्रिड में यदि किसी आकृति को घड़ी की सुई की दिशा (Clockwise) में 90° घुमाया जाता है, तो शीर्ष-बाएँ (Top-Left) कोने का तत्व नए ग्रिड में किस स्थान पर स्थानांतरित होगा?"
-        val qEn = "In a 3x3 grid, if an image or matrix is rotated 90° clockwise, to which coordinate does the element initially at the TOP-LEFT corner move?"
+        // 3x3 rotation is fully deterministic: 3 rotations x 4 queried corners
+        // x 4 marked tokens give 48 distinct texts with exact answers.
+        val cornersEn = listOf("Top-Left", "Top-Right", "Bottom-Right", "Bottom-Left")
+        val cornersHi = mapOf(
+            "Top-Left" to "शीर्ष-बाएँ",
+            "Top-Right" to "शीर्ष-दाएँ",
+            "Bottom-Right" to "निचले-दाएँ",
+            "Bottom-Left" to "निचले-बाएँ"
+        )
+        // (r,c) -> after rotation, indexed by cornersEn order
+        val rotCw = listOf("Top-Right", "Bottom-Right", "Bottom-Left", "Top-Left")
+        val rotCcw = listOf("Bottom-Left", "Top-Left", "Top-Right", "Bottom-Right")
+        val rot180 = listOf("Bottom-Right", "Bottom-Left", "Top-Left", "Top-Right")
+        val rotations = listOf(
+            Triple("90° clockwise", "घड़ी की सुई की दिशा (Clockwise) में 90°", rotCw),
+            Triple("90° counter-clockwise", "घड़ी की सुई की विपरीत दिशा (Counter-Clockwise) में 90°", rotCcw),
+            Triple("180°", "180°", rot180)
+        )
+        val rotation = rotations.random(rand)
+        val cornerIdx = rand.nextInt(4)
+        val fromCorner = cornersEn[cornerIdx]
+        val toCorner = rotation.third[cornerIdx]
+        val token = listOf("star", "diamond", "circle", "triangle").random(rand)
+        val tokenHi = mapOf("star" to "तारा", "diamond" to "हीरा", "circle" to "वृत्त", "triangle" to "त्रिभुज")[token]!!
 
-        val correctStr = "Top-Right (शीर्ष-दाएँ)"
-        val correctStrEn = "Top-Right"
-        val optsEn = listOf(correctStrEn, "Bottom-Right", "Bottom-Left", "Center").shuffled(rand)
-        val optsHi = optsEn.map {
-            when (it) {
-                "Top-Right" -> "Top-Right (शीर्ष-दाएँ)"
-                "Bottom-Right" -> "Bottom-Right (निचले-दाएँ)"
-                "Bottom-Left" -> "Bottom-Left (निचले-बाएँ)"
-                else -> "Center (मध्य)"
-            }
-        }
+        val qHi = "एक 3x3 ग्रिड में $tokenHi चिह्न ${cornersHi[fromCorner]} ($fromCorner) कोने पर अंकित है। यदि पूरे ग्रिड को ${rotation.second} घुमाया जाता है, तो यह चिह्न नए ग्रिड में किस स्थान पर स्थानांतरित होगा?"
+        val qEn = "In a 3x3 grid, a $token symbol is marked at the ${fromCorner.uppercase()} corner. If the entire grid is rotated ${rotation.first}, to which corner does the symbol move?"
+
+        val correctStrEn = toCorner
+        val optsEn = cornersEn.shuffled(rand)
+        val optsHi = optsEn.map { "$it (${cornersHi[it]})" }
         val correctIdx = optsEn.indexOf(correctStrEn).coerceAtLeast(0)
 
         val normEn = MultiLayerQuestionValidator.normalizeText(qEn)
@@ -1340,23 +1370,23 @@ object DynamicLogicEngine {
             category = "3x3 Matrix Grid Transformation",
             questionHindi = qHi,
             questionEnglish = qEn,
-            cluesHindi = listOf("मैट्रिक्स घूर्णन नियम: (पंक्ति r, स्तंभ c) -> (स्तंभ c, N - 1 - r)", "प्रारंभिक स्थान: (0, 0) शीर्ष-बाएँ", "90° दक्षिणावर्त घूर्णन के बाद: (0, 2) शीर्ष-दाएँ"),
-            cluesEnglish = listOf("Matrix rotation mapping: (r, c) -> (c, N - 1 - r)", "Initial coordinate: (0, 0) top-left", "After 90° CW: coordinate becomes (0, 2) top-right"),
+            cluesHindi = listOf("घूर्णन नियम प्रत्येक कोने को एक निश्चित नए कोने पर ले जाता है", "प्रारंभिक स्थान: $fromCorner", "${rotation.first} घूर्णन के बाद: $toCorner"),
+            cluesEnglish = listOf("Each rotation maps every corner to a fixed new corner", "Initial position: $fromCorner", "After ${rotation.first}: position becomes $toCorner"),
             optionsHindi = optsHi,
             optionsEnglish = optsEn,
             correctAnswerIndex = correctIdx,
-            deductionPathHindi = "(0,0) -> (0,2) जो कि शीर्ष-दायाँ कोना है।",
-            deductionPathEnglish = "Transformation maps (0,0) to (0,2), which is the Top-Right corner.",
-            eliminationReasonsHindi = optsHi.mapIndexed { idx, opt -> if (idx == correctIdx) "90° घूर्णन ज्यामिति द्वारा सिद्ध।" else "180° या 270° का स्थान।" },
-            eliminationReasonsEnglish = optsEn.mapIndexed { idx, opt -> if (idx == correctIdx) "Direct result of 90° clockwise matrix rotation." else "Corresponds to 180° or 270° orientation." },
-            expertAdviceHindi = "घड़ी की सुइयों की तरह कोने को 90 डिग्री घुमाएं।",
-            expertAdviceEnglish = "Trace the corner element through a 90-degree clockwise sweep.",
+            deductionPathHindi = "$fromCorner -> $toCorner (${rotation.first} घूर्णन)।",
+            deductionPathEnglish = "The ${rotation.first} transformation maps $fromCorner to $toCorner.",
+            eliminationReasonsHindi = optsHi.mapIndexed { idx, opt -> if (idx == correctIdx) "${rotation.first} घूर्णन ज्यामिति द्वारा सिद्ध।" else "भिन्न घूर्णन या दिशा का स्थान।" },
+            eliminationReasonsEnglish = optsEn.mapIndexed { idx, opt -> if (idx == correctIdx) "Direct result of the ${rotation.first} rotation." else "Corresponds to a different rotation or direction." },
+            expertAdviceHindi = "कोने को घूर्णन दिशा में मानसिक रूप से घुमाएं।",
+            expertAdviceEnglish = "Mentally trace the corner through the rotation sweep.",
             fiftyFiftyDiscardIndices = (0..3).filter { it != correctIdx }.take(2),
-            fiftyFiftyProofHindi = "विपरीत कोनों के विकल्प निरस्त।",
-            fiftyFiftyProofEnglish = "Opposite coordinate positions eliminated.",
+            fiftyFiftyProofHindi = "भिन्न घूर्णन के स्थान निरस्त।",
+            fiftyFiftyProofEnglish = "Positions of other rotations eliminated.",
             semanticFingerprint = MultiLayerQuestionValidator.computeSemanticFingerprint(normEn, normAns),
-            logicFingerprint = MultiLayerQuestionValidator.computeLogicFingerprint("matrix_rotate90", "top_left"),
-            conceptFingerprint = MultiLayerQuestionValidator.computeConceptFingerprint("Linear Algebra", "Matrix Rotation 90", "coordinate_transform"),
+            logicFingerprint = MultiLayerQuestionValidator.computeLogicFingerprint("matrix_rotate", "${rotation.first}_${fromCorner}_${token}"),
+            conceptFingerprint = MultiLayerQuestionValidator.computeConceptFingerprint("Linear Algebra", "Matrix Rotation", "coordinate_transform"),
             patternFingerprint = MultiLayerQuestionValidator.computePatternFingerprint("spatial_reasoning", "matrix_rotation"),
             generationVersion = 2
         )
@@ -1366,11 +1396,24 @@ object DynamicLogicEngine {
     // 19. CRYPTARITHM (Tiers 12 - 15)
     // =========================================================================
     private fun generateCryptarithm(qNumber: Int, meta: TierInfo, rand: Random, profile: UserProfile): QuestionItem {
-        val qHi = "अंकगणितीय कूट पहेली में यदि: AB + BA = 132 है, जहां A और B दो अलग-अलग गैर-शून्य अंक (1-9) हैं तथा A > B है, तो अंक A का निश्चित मान क्या होगा?"
-        val qEn = "In the alphametic cryptarithm: AB + BA = 132, where A and B represent distinct non-zero digits (1-9) and A > B, what is the definite value of digit A?"
+        // LL' + L'L = 11 * (L + L'). For digit sum k in 3..17 a distinct
+        // non-zero digit pair always exists, so "value of L + L'" is definite.
+        // 15 sums x 12 letter pairs = 180 unique texts.
+        val k = (3..17).random(rand)
+        val sum = 11 * k
+        val letterPairs = listOf(
+            "A" to "B", "X" to "Y", "M" to "N", "P" to "Q",
+            "R" to "S", "C" to "D", "E" to "F", "G" to "H",
+            "J" to "K", "T" to "U", "V" to "W", "L" to "Z"
+        )
+        val (l1, l2) = letterPairs.random(rand)
 
-        val correctStr = "7"
-        val optsEn = listOf("7", "8", "9", "6").shuffled(rand)
+        val qHi = "अंकगणितीय कूट पहेली में यदि: $l1$l2 + $l2$l1 = $sum है, जहां $l1 और $l2 दो अलग-अलग गैर-शून्य अंक (1-9) हैं, तो $l1 + $l2 का निश्चित मान क्या होगा?"
+        val qEn = "In the alphametic cryptarithm: $l1$l2 + $l2$l1 = $sum, where $l1 and $l2 represent distinct non-zero digits (1-9), what is the definite value of $l1 + $l2?"
+
+        val correctStr = "$k"
+        val distractors = listOf(k + 1, k - 1, k + 2, k - 2).filter { it in 2..18 && it != k }.distinct().take(3)
+        val optsEn = (listOf(correctStr) + distractors.map { "$it" }).shuffled(rand)
         val optsHi = optsEn
         val correctIdx = optsEn.indexOf(correctStr).coerceAtLeast(0)
 
@@ -1388,22 +1431,22 @@ object DynamicLogicEngine {
             category = "Alphametic Cryptarithm",
             questionHindi = qHi,
             questionEnglish = qEn,
-            cluesHindi = listOf("AB = 10A + B और BA = 10B + A", "AB + BA = 11(A + B) = 132", "A + B = 132 ÷ 11 = 12", "यदि A > B और A + B = 12, तो संभावित जोड़ियां: (9,3), (8,4), (7,5)।"),
-            cluesEnglish = listOf("AB = 10A + B; BA = 10B + A", "Sum = 11(A + B) = 132 => A + B = 12", "Since A > B, potential pairs are (9,3), (8,4), (7,5)."),
+            cluesHindi = listOf("$l1$l2 = 10$l1 + $l2 और $l2$l1 = 10$l2 + $l1", "$l1$l2 + $l2$l1 = 11($l1 + $l2) = $sum", "$l1 + $l2 = $sum ÷ 11 = $k"),
+            cluesEnglish = listOf("$l1$l2 = 10$l1 + $l2; $l2$l1 = 10$l2 + $l1", "Sum = 11($l1 + $l2) = $sum", "$l1 + $l2 = $sum ÷ 11 = $k"),
             optionsHindi = optsHi,
             optionsEnglish = optsEn,
             correctAnswerIndex = correctIdx,
-            deductionPathHindi = "11(A + B) = 132 => A + B = 12। न्यूनतम अंतर वाली वैध जोड़ी (7, 5) में A = 7।",
-            deductionPathEnglish = "11(A+B) = 132 yields A+B = 12. In the canonical balanced pair (7,5), A = 7.",
-            eliminationReasonsHindi = optsHi.mapIndexed { idx, opt -> if (idx == correctIdx) "अंकगणितीय आधार 10 और बीजगणितीय योग द्वारा सिद्ध।" else "योग 12 को संतुष्ट नहीं करता।" },
-            eliminationReasonsEnglish = optsEn.mapIndexed { idx, opt -> if (idx == correctIdx) "Derived via 11(A+B) = 132." else "Violates A+B = 12 decomposition." },
-            expertAdviceHindi = "दहाई और इकाई के स्थानीय मानों (10A + B) का विस्तार करें।",
-            expertAdviceEnglish = "Expand positional place values into 10A + B.",
+            deductionPathHindi = "11($l1 + $l2) = $sum => $l1 + $l2 = $k।",
+            deductionPathEnglish = "11($l1+$l2) = $sum yields $l1 + $l2 = $k.",
+            eliminationReasonsHindi = optsEn.mapIndexed { idx, opt -> if (idx == correctIdx) "आधार 10 विस्तार द्वारा सिद्ध।" else "योग $sum को संतुष्ट नहीं करता।" },
+            eliminationReasonsEnglish = optsEn.mapIndexed { idx, opt -> if (idx == correctIdx) "Derived via 11($l1+$l2) = $sum." else "Violates the base-10 decomposition." },
+            expertAdviceHindi = "दहाई और इकाई के स्थानीय मानों (10$l1 + $l2) का विस्तार करें।",
+            expertAdviceEnglish = "Expand positional place values into 10$l1 + $l2.",
             fiftyFiftyDiscardIndices = (0..3).filter { it != correctIdx }.take(2),
             fiftyFiftyProofHindi = "असंगत अंकों के विकल्प हटा दिए गए।",
             fiftyFiftyProofEnglish = "Invalid digit options eliminated.",
             semanticFingerprint = MultiLayerQuestionValidator.computeSemanticFingerprint(normEn, normAns),
-            logicFingerprint = MultiLayerQuestionValidator.computeLogicFingerprint("cryptarithm_ab_ba", "132"),
+            logicFingerprint = MultiLayerQuestionValidator.computeLogicFingerprint("cryptarithm_ab_ba", "sum${k}_${l1}${l2}"),
             conceptFingerprint = MultiLayerQuestionValidator.computeConceptFingerprint("Number Theory", "Positional Base 10 Cryptarithm", "alphametic"),
             patternFingerprint = MultiLayerQuestionValidator.computePatternFingerprint("numerical_reasoning", "positional_expansion"),
             generationVersion = 2
@@ -1414,23 +1457,61 @@ object DynamicLogicEngine {
     // 20. FORENSIC TIMELINE (Tiers 12 - 15)
     // =========================================================================
     private fun generateForensicTimeline(qNumber: Int, meta: TierInfo, rand: Random, profile: UserProfile): QuestionItem {
-        val qHi = "एक अपराध दोपहर 2:30 बजे शहर में हुआ। चार संदिग्धों के गवाही बयान निम्नलिखित हैं:\n1. सुमित: 'मैं 2:15 से 2:45 तक 100 किमी दूर दूसरे शहर के हवाई अड्डे पर सीसीटीवी में था।'\n2. अमन: 'मैं दोपहर 2:20 से 2:35 बजे तक अपराध स्थल से 1 किमी दूर बैंक में था।'\n3. राहुल: 'मैं 1:00 बजे से 4:00 बजे तक बिना किसी साक्षी के घर पर सो रहा था।'\nकिस संदिग्ध का बहाना (Alibi) भौतिक एवं भौगोलिक रूप से सबसे अभेद्य (unbreakable) है?"
-        val qEn = "A crime occurs at 2:30 PM in the city center. Four suspects present the following alibis:\n1. Sumit: 'I was on CCTV at an airport 100 km away from 2:15 PM to 2:45 PM.'\n2. Aman: 'I was in a bank 1 km from the crime scene from 2:20 PM to 2:35 PM.'\n3. Rahul: 'I was sleeping at home with no witnesses from 1:00 PM to 4:00 PM.'\nWhich suspect's alibi is physically and geographically the most indisputable?"
+        // The correct alibi is always the far-away timestamped CCTV sighting
+        // whose window covers the crime time; the others fail on proximity or
+        // lack of witnesses. Names, times, distances and places all vary.
+        fun fmt(h24: Int, min: Int): String {
+            val ampm = if (h24 < 12) "AM" else "PM"
+            val h = if (h24 % 12 == 0) 12 else h24 % 12
+            return String.format("%d:%02d %s", h, min, ampm)
+        }
+        fun fmtHi(h24: Int, min: Int): String {
+            val ampm = if (h24 < 12) "सुबह" else if (h24 < 17) "दोपहर" else "शाम"
+            val h = if (h24 % 12 == 0) 12 else h24 % 12
+            return "$ampm $h:" + String.format("%02d", min)
+        }
+        val names = listOf("Sumit" to "सुमित", "Aman" to "अमन", "Rahul" to "राहुल", "Vikram" to "विक्रम", "Neha" to "नेहा", "Priya" to "प्रिया", "Arjun" to "अर्जुन", "Kabir" to "कबीर", "Rohan" to "रोहन", "Meera" to "मीरा", "Imran" to "इमरान", "Farhan" to "फरहान").shuffled(rand)
+        val n1 = names[0]; val n2 = names[1]; val n3 = names[2]
+        val crimeH = (13..22).random(rand)
+        val crimeM = listOf(0, 15, 30, 45).random(rand)
+        val dist = listOf(80, 100, 120, 150, 200).random(rand)
+        val margin1 = listOf(10, 15, 20, 30).random(rand)
+        val margin2 = listOf(10, 15, 20, 30).random(rand)
+        val cctvStart = crimeH * 60 + crimeM - margin1
+        val cctvEnd = crimeH * 60 + crimeM + margin2
+        val nearDist = listOf(1, 2, 3).random(rand)
+        // Near suspect's window deliberately does NOT cover the crime minute.
+        val nearStart = crimeH * 60 + crimeM + 5
+        val nearEnd = nearStart + 15
+        val place = listOf("airport" to "हवाई अड्डे", "railway station" to "रेलवे स्टेशन", "metro station" to "मेट्रो स्टेशन").random(rand)
 
-        val correctStr = "Sumit (सुमित - 100 किमी दूर सीसीटीवी पुष्टि)"
-        val correctStrEn = "Sumit - Timestamped CCTV 100 km away"
+        val qEn = "A crime occurs at ${fmt(crimeH, crimeM)} in the city center. Three suspects present the following alibis:
+1. ${n1.first}: 'I was on CCTV at ${if (place.first == "airport") "an" else "a"} ${place.first} $dist km away from ${fmt(cctvStart / 60, cctvStart % 60)} to ${fmt(cctvEnd / 60, cctvEnd % 60)}.'
+2. ${n2.first}: 'I was in a bank $nearDist km from the crime scene from ${fmt(nearStart / 60, nearStart % 60)} to ${fmt(nearEnd / 60, nearEnd % 60)}.'
+3. ${n3.first}: 'I was sleeping at home with no witnesses.'
+Which suspect's alibi is physically and geographically the most indisputable?"
+        val qHi = "एक अपराध ${fmtHi(crimeH, crimeM)} बजे शहर के केंद्र में हुआ। तीन संदिग्धों के बयान निम्नलिखित हैं:
+1. ${n1.second}: 'मैं ${fmtHi(cctvStart / 60, cctvStart % 60)} से ${fmtHi(cctvEnd / 60, cctvEnd % 60)} तक $dist किमी दूर ${place.second} पर सीसीटीवी में दिखा/दिखी।'
+2. ${n2.second}: 'मैं ${fmtHi(nearStart / 60, nearStart % 60)} से ${fmtHi(nearEnd / 60, nearEnd % 60)} तक अपराध स्थल से $nearDist किमी दूर बैंक में था/थी।'
+3. ${n3.second}: 'मैं बिना किसी गवाह के घर पर सो रहा/रही था/थी।'
+किस संदिग्ध का बहाना (Alibi) भौतिक एवं भौगोलिक रूप से सबसे अभेद्य (unbreakable) है?"
+
+        val correctStrEn = "${n1.first} - Timestamped CCTV $dist km away covering the crime time"
+        val correctStr = "${n1.second} - अपराध के समय $dist किमी दूर सीसीटीवी पुष्टि"
         val optsEn = listOf(
             correctStrEn,
-            "Aman - Bank 1 km away",
-            "Rahul - Unwitnessed sleep",
+            "${n2.first} - Bank $nearDist km away",
+            "${n3.first} - Unwitnessed sleep at home",
             "None of them have a valid alibi"
         ).shuffled(rand)
-        val optsHi = listOf(
-            correctStr,
-            "अमन - 1 किमी दूर बैंक",
-            "राहुल - अकेले घर में सोना",
-            "किसी का भी बहाना वैध नहीं है"
-        )
+        val optsHi = optsEn.map {
+            when (it) {
+                correctStrEn -> correctStr
+                "${n2.first} - Bank $nearDist km away" -> "${n2.second} - $nearDist किमी दूर बैंक"
+                "${n3.first} - Unwitnessed sleep at home" -> "${n3.second} - घर पर बिना गवाह नींद"
+                else -> "किसी का भी वैध बहाना नहीं है"
+            }
+        }
         val correctIdx = optsEn.indexOf(correctStrEn).coerceAtLeast(0)
 
         val normEn = MultiLayerQuestionValidator.normalizeText(qEn)
@@ -1444,25 +1525,25 @@ object DynamicLogicEngine {
             points = meta.points,
             isCheckpoint = meta.isCheckpoint,
             checkpointTitle = meta.checkpointTitle,
-            category = "Forensic Chronology & Alibi Invalidation",
+            category = "Forensic Timeline Analysis",
             questionHindi = qHi,
             questionEnglish = qEn,
-            cluesHindi = listOf("15 मिनट में 100 किमी की दूरी तय करना भौतिक रूप से असंभव है (गति > 400 किमी/घंटा)।", "सीसीटीवी एक वस्तुनिष्ठ, स्वतंत्र तकनीकी साक्ष्य है।"),
-            cluesEnglish = listOf("Traveling 100 km in 15 minutes is physically impossible (velocity > 400 km/h).", "Timestamped CCTV provides objective third-party verification."),
+            cluesHindi = listOf("${n1.second} अपराध के ठीक समय $dist किमी दूर सीसीटीवी पर था/थी", "${n2.second} का बैंक का समय-सीमा अपराध के क्षण को ढकती नहीं है", "${n3.second} का कोई स्वतंत्र गवाह नहीं है"),
+            cluesEnglish = listOf("${n1.first} was on CCTV $dist km away exactly at the crime time", "${n2.first}'s bank window does not cover the crime minute", "${n3.first} has no independent witness"),
             optionsHindi = optsHi,
             optionsEnglish = optsEn,
             correctAnswerIndex = correctIdx,
-            deductionPathHindi = "15 मिनट में 100 किमी की यात्रा भौतिक असंभवता है, और सीसीटीवी साक्ष्य निष्पक्ष पुष्टि करता है।",
-            deductionPathEnglish = "Physical impossibility of transit (100 km in 15 min) combined with timestamped CCTV makes Sumit's alibi unbreakable.",
-            eliminationReasonsHindi = optsHi.mapIndexed { idx, opt -> if (idx == correctIdx) "भौतिक गति असंभवता व निष्पक्ष सीसीटीवी द्वारा सिद्ध।" else "समीपता या साक्षी की कमी के कारण कमजोर।" },
-            eliminationReasonsEnglish = optsEn.mapIndexed { idx, opt -> if (idx == correctIdx) "Indisputable due to physical speed limits and video telemetry." else "Vulnerable to proximity or lack of independent corroboration." },
+            deductionPathHindi = "अपराध के क्षण $dist किमी की दूरी तय करना भौतिक रूप से असंभव है, और सीसीटीवी निष्पक्ष पुष्टि करता है।",
+            deductionPathEnglish = "Covering $dist km at the crime minute is physically impossible, and timestamped CCTV independently confirms ${n1.first}'s location.",
+            eliminationReasonsHindi = optsHi.mapIndexed { idx, opt -> if (idx == correctIdx) "भौतिक गति असंभवता व निष्पक्ष सीसीटीवी द्वारा सिद्ध।" else "समीपता, समय-अंतर या साक्षी की कमी के कारण कमजोर।" },
+            eliminationReasonsEnglish = optsEn.mapIndexed { idx, opt -> if (idx == correctIdx) "Indisputable due to physical speed limits and video telemetry." else "Vulnerable to proximity, time gaps, or lack of corroboration." },
             expertAdviceHindi = "दूरी और समय के संबंध में भौतिक गति की सीमा का विश्लेषण करें।",
-            expertAdviceEnglish = "Calculate the required velocity to traverse the distance in the elapsed window.",
+            expertAdviceEnglish = "Check whether each alibi's time window covers the crime minute and whether travel was physically possible.",
             fiftyFiftyDiscardIndices = (0..3).filter { it != correctIdx }.take(2),
             fiftyFiftyProofHindi = "कमजोर और अपुष्ट बहाने हटा दिए गए।",
             fiftyFiftyProofEnglish = "Unverified alibis discarded.",
             semanticFingerprint = MultiLayerQuestionValidator.computeSemanticFingerprint(normEn, normAns),
-            logicFingerprint = MultiLayerQuestionValidator.computeLogicFingerprint("forensic_alibi", "cctv_100km"),
+            logicFingerprint = MultiLayerQuestionValidator.computeLogicFingerprint("forensic_alibi", "${n1.first}_${crimeH}_${crimeM}_${dist}"),
             conceptFingerprint = MultiLayerQuestionValidator.computeConceptFingerprint("Forensic Logic", "Alibi Invalidation", "timeline_analysis"),
             patternFingerprint = MultiLayerQuestionValidator.computePatternFingerprint("scenario_reasoning", "forensic_contradiction"),
             generationVersion = 2
@@ -1527,29 +1608,66 @@ object DynamicLogicEngine {
     // 22. KNIGHTS & KNAVES (Tiers 15 - 17)
     // =========================================================================
     private fun generateKnightsKnaves(qNumber: Int, meta: TierInfo, rand: Random, profile: UserProfile): QuestionItem {
-        val qHi = "तर्क द्वीप पर दो निवासी A और B हैं। नाइट (Knight) सदैव सत्य बोलते हैं और नेव (Knave) सदैव झूठ बोलते हैं। A कहता है: 'हम दोनों झूठे (Knaves) हैं।' A और B की वास्तविक पहचान क्या है?"
-        val qEn = "On the Island of Logic, Knights always tell the truth and Knaves always lie. Resident A states: 'Both of us are Knaves.' What are the true identities of A and B?"
+        // Three verified schemas; letter pairs vary the text. Solutions:
+        // S1 "Both of us are Knaves" -> speaker Knave, other Knight.
+        // S2 A: "B is a Knight"; B: "A and I are opposite types" -> both Knaves.
+        // S3 "At least one of us is a Knave" -> speaker Knight, other Knave.
+        val letterPairs = listOf("A" to "B", "X" to "Y", "P" to "Q", "M" to "N", "R" to "S", "K" to "L")
+        val (l1, l2) = letterPairs.random(rand)
+        val schema = rand.nextInt(3)
 
-        val correctStr = "A is Knave, B is Knight (A झूठा है और B सच्चा है)"
-        val correctStrEn = "A is a Knave, B is a Knight"
-        val optsEn = listOf(
-            correctStrEn,
-            "Both are Knights",
-            "Both are Knaves",
-            "A is a Knight, B is a Knave"
-        ).shuffled(rand)
-        val optsHi = optsEn.map {
-            when (it) {
-                correctStrEn -> correctStr
-                "Both are Knights" -> "दोनों सच्चे (Knights) हैं"
-                "Both are Knaves" -> "दोनों झूठे (Knaves) हैं"
-                else -> "A सच्चा है और B झूठा है"
+        val statementEn: String
+        val statementHi: String
+        val answerEn: String
+        val answerHi: String
+        val logicTag: String
+        when (schema) {
+            0 -> {
+                statementEn = "$l1 states: 'Both of us are Knaves.'"
+                statementHi = "$l1 कहता/कहती है: 'हम दोनों झूठे (Knaves) हैं।'"
+                answerEn = "$l1 is a Knave, $l2 is a Knight"
+                answerHi = "$l1 झूठा (Knave) है, $l2 सच्चा (Knight) है"
+                logicTag = "both_knaves_claim"
+            }
+            1 -> {
+                statementEn = "$l1 states: '$l2 is a Knight.' $l2 states: '$l1 and I are of opposite types.'"
+                statementHi = "$l1 कहता/कहती है: '$l2 सच्चा (Knight) है।' $l2 कहता/कहती है: '$l1 और मैं विपरीत प्रकार के हैं।'"
+                answerEn = "Both are Knaves"
+                answerHi = "दोनों झूठे (Knaves) हैं"
+                logicTag = "opposite_types_claim"
+            }
+            else -> {
+                statementEn = "$l1 states: 'At least one of us is a Knave.'"
+                statementHi = "$l1 कहता/कहती है: 'हम में से कम से कम एक झूठा (Knave) है।'"
+                answerEn = "$l1 is a Knight, $l2 is a Knave"
+                answerHi = "$l1 सच्चा (Knight) है, $l2 झूठा (Knave) है"
+                logicTag = "at_least_one_knave"
             }
         }
-        val correctIdx = optsEn.indexOf(correctStrEn).coerceAtLeast(0)
+
+        val qEn = "On the Island of Logic, Knights always tell the truth and Knaves always lie. $statementEn What are the true identities of $l1 and $l2?"
+        val qHi = "तर्क द्वीप पर नाइट (Knight) सदैव सत्य बोलते हैं और नेव (Knave) सदैव झूठ बोलते हैं। $statementHi $l1 और $l2 की वास्तविक पहचान क्या है?"
+
+        val optsEn = listOf(
+            answerEn,
+            "Both are Knights",
+            "Both are Knaves",
+            "$l1 is a Knave, $l2 is a Knight",
+            "$l1 is a Knight, $l2 is a Knave"
+        ).distinct().shuffled(rand).take(4).let { if (answerEn in it) it else (it.drop(1) + answerEn).shuffled(rand) }
+        val optsHi = optsEn.map {
+            when (it) {
+                answerEn -> answerHi
+                "Both are Knights" -> "दोनों सच्चे (Knights) हैं"
+                "Both are Knaves" -> "दोनों झूठे (Knaves) हैं"
+                "$l1 is a Knave, $l2 is a Knight" -> "$l1 झूठा (Knave) है, $l2 सच्चा (Knight) है"
+                else -> "$l1 सच्चा (Knight) है, $l2 झूठा (Knave) है"
+            }
+        }
+        val correctIdx = optsEn.indexOf(answerEn).coerceAtLeast(0)
 
         val normEn = MultiLayerQuestionValidator.normalizeText(qEn)
-        val normAns = MultiLayerQuestionValidator.normalizeText(correctStrEn)
+        val normAns = MultiLayerQuestionValidator.normalizeText(answerEn)
 
         return QuestionItem(
             id = UUID.randomUUID().toString(),
@@ -1559,27 +1677,27 @@ object DynamicLogicEngine {
             points = meta.points,
             isCheckpoint = meta.isCheckpoint,
             checkpointTitle = meta.checkpointTitle,
-            category = "Knights & Knaves (Smullyan Island)",
+            category = "Knights and Knaves Logic",
             questionHindi = qHi,
             questionEnglish = qEn,
-            cluesHindi = listOf("यदि A सच्चा (Knight) होता, तो उसका कथन 'हम दोनों झूठे हैं' सत्य होना चाहिए, जो विरोधाभास है।", "अतः A निश्चित रूप से झूठा (Knave) है।", "A का कथन झूठा होने के लिए 'हम दोनों झूठे हैं' का असत्य होना आवश्यक है, अतः B सच्चा (Knight) होना चाहिए।"),
-            cluesEnglish = listOf("If A were a Knight, his claim 'both are knaves' would be true, creating an impossible paradox.", "Therefore A is definitely a Knave.", "For A's statement to be false, they cannot both be Knaves, so B must be a Knight."),
+            cluesHindi = listOf("यदि कथन सत्य है तो वक्ता Knight है, अन्यथा Knave", "प्रत्येक पहचान-युग्म के लिए कथन की सत्यता जांचें", "केवल एक युग्म संगत है: $answerHi"),
+            cluesEnglish = listOf("If the statement is true, the speaker is a Knight; otherwise a Knave", "Test the statement's truth value for each identity pair", "Only one pair is consistent: $answerEn"),
             optionsHindi = optsHi,
             optionsEnglish = optsEn,
             correctAnswerIndex = correctIdx,
-            deductionPathHindi = "A सच्चा नहीं हो सकता (विरोधाभास)। अतः A झूठा है। उसके कथन को असत्य करने के लिए B का सच्चा होना अनिवार्य है।",
-            deductionPathEnglish = "A cannot be a Knight (paradox). Thus A is a Knave. For his statement to be false, B must be a Knight.",
-            eliminationReasonsHindi = optsHi.mapIndexed { idx, opt -> if (idx == correctIdx) "तार्किक विरोधाभास समाधान द्वारा सिद्ध।" else "तार्किक विरोधाभास उत्पन्न करता है।" },
-            eliminationReasonsEnglish = optsEn.mapIndexed { idx, opt -> if (idx == correctIdx) "Unassailable paradox resolution." else "Generates formal contradiction." },
-            expertAdviceHindi = "परीक्षण करें कि क्या कोई सच्चा व्यक्ति स्वयं को झूठा कह सकता है?",
-            expertAdviceEnglish = "Test whether a truth-teller can ever declare themselves a liar.",
+            deductionPathHindi = "प्रतिज्ञान-विरोध (self-reference) विश्लेषण से $answerHi।",
+            deductionPathEnglish = "Self-reference consistency analysis gives: $answerEn.",
+            eliminationReasonsHindi = optsHi.mapIndexed { idx, opt -> if (idx == correctIdx) "कथन के साथ तार्किक रूप से संगत।" else "कथन के साथ विरोधाभास उत्पन्न करता है।" },
+            eliminationReasonsEnglish = optsEn.mapIndexed { idx, opt -> if (idx == correctIdx) "Logically consistent with the statement." else "Creates a contradiction with the statement." },
+            expertAdviceHindi = "वक्ता को Knight मानें, फिर Knave मानें - जो स्थिति विरोधाभास न दे वही उत्तर है।",
+            expertAdviceEnglish = "Assume the speaker is a Knight, then a Knave; the assignment without contradiction is the answer.",
             fiftyFiftyDiscardIndices = (0..3).filter { it != correctIdx }.take(2),
-            fiftyFiftyProofHindi = "विरोधाभासी विकल्प निरस्त।",
-            fiftyFiftyProofEnglish = "Self-contradictory identities eliminated.",
+            fiftyFiftyProofHindi = "विरोधाभासी पहचान युग्म निरस्त।",
+            fiftyFiftyProofEnglish = "Contradictory identity pairs eliminated.",
             semanticFingerprint = MultiLayerQuestionValidator.computeSemanticFingerprint(normEn, normAns),
-            logicFingerprint = MultiLayerQuestionValidator.computeLogicFingerprint("knights_both_knaves", "smullyan_classic"),
-            conceptFingerprint = MultiLayerQuestionValidator.computeConceptFingerprint("Formal Logic", "Knights and Knaves Paradox", "liar_paradox"),
-            patternFingerprint = MultiLayerQuestionValidator.computePatternFingerprint("deduction", "truth_liar_grid"),
+            logicFingerprint = MultiLayerQuestionValidator.computeLogicFingerprint("knights_knaves", "${logicTag}_${l1}${l2}"),
+            conceptFingerprint = MultiLayerQuestionValidator.computeConceptFingerprint("Formal Logic", "Truth-Teller Liar Paradox", "self_reference"),
+            patternFingerprint = MultiLayerQuestionValidator.computePatternFingerprint("deductive_logic", "knights_knaves"),
             generationVersion = 2
         )
     }
@@ -1588,23 +1706,39 @@ object DynamicLogicEngine {
     // 23. MASTER SYLLOGISM (Tiers 16 - 17)
     // =========================================================================
     private fun generateMasterSyllogism(qNumber: Int, meta: TierInfo, rand: Random, profile: UserProfile): QuestionItem {
-        val qHi = "कथन:\n1. सभी वैज्ञानिक तार्किक हैं।\n2. कोई भी अंधविश्वासी तार्किक नहीं है।\n3. कुछ शिक्षक वैज्ञानिक हैं।\nनिश्चित रूप से वैध तार्किक निष्कर्ष क्या है?"
-        val qEn = "Premises:\n1. All scientists are logical.\n2. No superstitious person is logical.\n3. Some teachers are scientists.\nWhat conclusion is mathematically and deductively CERTAIN?"
+        // Verified chain: Some W are X; all X are Y => those W are Y;
+        // no Z is Y => those W are not Z. Conclusion: "Some W are not Z".
+        val xs = listOf("scientists" to "वैज्ञानिक", "doctors" to "डॉक्टर", "engineers" to "इंजीनियर", "artists" to "कलाकार", "bankers" to "बैंकर")
+        val ys = listOf("logical" to "तार्किक", "disciplined" to "अनुशासित", "methodical" to "व्यवस्थित", "punctual" to "समयनिष्ठ")
+        val zs = listOf("superstitious person" to "अंधविश्वासी", "careless person" to "लापरवाह व्यक्ति", "dishonest person" to "बेईमान व्यक्ति", "lazy person" to "आलसी व्यक्ति")
+        val ws = listOf("teachers" to "शिक्षक", "students" to "छात्र", "pilots" to "पायलट", "writers" to "लेखक", "farmers" to "किसान")
+        val x = xs.random(rand); val y = ys.random(rand); val z = zs.random(rand); val w = ws.random(rand)
 
-        val correctStrHi = "कुछ शिक्षक अंधविश्वासी नहीं हैं (Some teachers are not superstitious)"
-        val correctStrEn = "Some teachers are not superstitious"
+        val qEn = "Premises:
+1. All ${x.first} are ${y.first}.
+2. No ${z.first} is ${y.first}.
+3. Some ${w.first} are ${x.first}.
+What conclusion is deductively CERTAIN?"
+        val qHi = "कथन:
+1. सभी ${x.second} ${y.second} हैं।
+2. कोई भी ${z.second} ${y.second} नहीं है।
+3. कुछ ${w.second} ${x.second} हैं।
+निश्चित रूप से वैध तार्किक निष्कर्ष क्या है?"
+
+        val correctStrEn = "Some ${w.first} are not ${z.first}s"
+        val correctStrHi = "कुछ ${w.second} ${z.second} नहीं हैं"
         val optsEn = listOf(
             correctStrEn,
-            "All teachers are scientists",
-            "Some superstitious people are scientists",
-            "No teacher is logical"
+            "All ${w.first} are ${x.first}",
+            "Some ${z.first}s are ${x.first}",
+            "No ${w.first.dropLast(1)} is ${y.first}"
         ).shuffled(rand)
         val optsHi = optsEn.map {
             when (it) {
                 correctStrEn -> correctStrHi
-                "All teachers are scientists" -> "सभी शिक्षक वैज्ञानिक हैं"
-                "Some superstitious people are scientists" -> "कुछ अंधविश्वासी वैज्ञानिक हैं"
-                else -> "कोई शिक्षक तार्किक नहीं है"
+                "All ${w.first} are ${x.first}" -> "सभी ${w.second} ${x.second} हैं"
+                "Some ${z.first}s are ${x.first}" -> "कुछ ${z.second} ${x.second} हैं"
+                else -> "कोई भी ${w.second} ${y.second} नहीं है"
             }
         }
         val correctIdx = optsEn.indexOf(correctStrEn).coerceAtLeast(0)
@@ -1620,27 +1754,27 @@ object DynamicLogicEngine {
             points = meta.points,
             isCheckpoint = meta.isCheckpoint,
             checkpointTitle = meta.checkpointTitle,
-            category = "Grand Syllogistic Deduction (महा-तर्क)",
+            category = "Aristotelian Syllogism",
             questionHindi = qHi,
             questionEnglish = qEn,
-            cluesHindi = listOf("जो शिक्षक वैज्ञानिक हैं (कथन 3), वे तार्किक भी हैं (कथन 1)।", "जो तार्किक हैं, वे कभी अंधविश्वासी नहीं हो सकते (कथन 2)।", "अतः वे शिक्षक जो वैज्ञानिक हैं, वे निश्चित रूप से अंधविश्वासी नहीं हो सकते।"),
-            cluesEnglish = listOf("The teachers who are scientists (Premise 3) are logical (Premise 1).", "Anyone who is logical cannot be superstitious (Premise 2).", "Therefore, teachers who are scientists are definitely NOT superstitious."),
+            cluesHindi = listOf("कुछ ${w.second} ${x.second} हैं और सभी ${x.second} ${y.second} हैं, अतः वे ${w.second} ${y.second} हैं", "कोई ${z.second} ${y.second} नहीं है", "अतः वे ${w.second} ${z.second} नहीं हो सकते"),
+            cluesEnglish = listOf("Some ${w.first} are ${x.first} and all ${x.first} are ${y.first}, so those ${w.first} are ${y.first}", "No ${z.first} is ${y.first}", "Therefore those ${w.first} cannot be ${z.first}s"),
             optionsHindi = optsHi,
             optionsEnglish = optsEn,
             correctAnswerIndex = correctIdx,
-            deductionPathHindi = "शिक्षक ∩ वैज्ञानिक ⊆ तार्किक ⊆ (अंधविश्वासी)ᶜ। अतः कुछ शिक्षक निश्चित रूप से अंधविश्वासी नहीं हैं।",
-            deductionPathEnglish = "Teachers ∩ Scientists ⊆ Logical ⊆ Superstitiousᶜ. Hence, some teachers are guaranteed not superstitious.",
-            eliminationReasonsHindi = optsHi.mapIndexed { idx, opt -> if (idx == correctIdx) "अचूक न्यायशास्त्र निष्कर्ष।" else "कथनों द्वारा समर्थित नहीं।" },
-            eliminationReasonsEnglish = optsEn.mapIndexed { idx, opt -> if (idx == correctIdx) "Unassailable categorical syllogism." else "Unsupported by premises." },
-            expertAdviceHindi = "वेन आरेख में तीनों समुच्चयों का प्रतिच्छेदन बनाएं।",
-            expertAdviceEnglish = "Draw the Venn intersection of all three sets.",
+            deductionPathHindi = "कुछ ${w.second} -> ${x.second} -> ${y.second} -> ${z.second} नहीं।",
+            deductionPathEnglish = "Chain: some ${w.first} -> ${x.first} -> ${y.first} -> not ${z.first}.",
+            eliminationReasonsHindi = optsHi.mapIndexed { idx, opt -> if (idx == correctIdx) "आवश्यक परिणाम (necessary consequence)।" else "परिसर (conversion) दोष या अनुमान मात्र।" },
+            eliminationReasonsEnglish = optsEn.mapIndexed { idx, opt -> if (idx == correctIdx) "Necessary consequence of the premise chain." else "Illicit conversion or merely possible, not certain." },
+            expertAdviceHindi = "वेन आरेख बनाएं: ${w.second} और ${x.second} का प्रतिच्छेदन ${y.second} के भीतर, ${z.second} के बाहर।",
+            expertAdviceEnglish = "Draw a Venn diagram: the ${w.first}-${x.first} overlap lies inside ${y.first} and outside ${z.first}.",
             fiftyFiftyDiscardIndices = (0..3).filter { it != correctIdx }.take(2),
-            fiftyFiftyProofHindi = "असमर्थित विकल्प निरस्त।",
-            fiftyFiftyProofEnglish = "Unsubstantiated claims eliminated.",
+            fiftyFiftyProofHindi = "अनुमान-मात्र विकल्प निरस्त।",
+            fiftyFiftyProofEnglish = "Merely-possible options eliminated.",
             semanticFingerprint = MultiLayerQuestionValidator.computeSemanticFingerprint(normEn, normAns),
-            logicFingerprint = MultiLayerQuestionValidator.computeLogicFingerprint("syllogism_grand_master", "pred_logic_teachers"),
-            conceptFingerprint = MultiLayerQuestionValidator.computeConceptFingerprint("Predicate Logic", "Categorical Syllogism", "contrapositive_chain"),
-            patternFingerprint = MultiLayerQuestionValidator.computePatternFingerprint("deduction", "formal_syllogism"),
+            logicFingerprint = MultiLayerQuestionValidator.computeLogicFingerprint("syllogism_chain", "${x.first}_${y.first}_${z.first}_${w.first}"),
+            conceptFingerprint = MultiLayerQuestionValidator.computeConceptFingerprint("Formal Logic", "Categorical Syllogism", "barbara_celarent"),
+            patternFingerprint = MultiLayerQuestionValidator.computePatternFingerprint("deductive_logic", "syllogism"),
             generationVersion = 2
         )
     }
@@ -1649,23 +1783,35 @@ object DynamicLogicEngine {
     // 24. GAME THEORY MINIMAX (Tiers 16 - 17, Adult Focus)
     // =========================================================================
     private fun generateGameTheoryMinimax(qNumber: Int, meta: TierInfo, rand: Random, profile: UserProfile): QuestionItem {
-        val qHi = "एक द्विपक्षीय शून्य-योग खेल (Zero-Sum Game) में, खिलाड़ी A के पास दो रणनीतियाँ X और Y हैं। रणनीति X में न्यूनतम प्रतिफल (worst-case payoff) +4 है और रणनीति Y में न्यूनतम प्रतिफल +2 है। वॉन न्यूमैन के मिनिमैक्स (Minimax) प्रमेय के अनुसार, जोखिम-रहित सुरक्षित इष्टतम रणनीति क्या होगी?"
-        val qEn = "In a two-player zero-sum game, Player A has two strategies: X and Y. Strategy X guarantees a minimum worst-case payoff of +4, while Strategy Y guarantees a minimum worst-case payoff of +2. Under Von Neumann's Minimax theorem, which is the risk-dominant optimal strategy?"
+        // Pure maximin: pick the strategy with the larger worst-case floor.
+        // Payoffs and strategy names vary; the higher floor is always correct.
+        val a = (3..9).random(rand)
+        val b = (1 until a).random(rand)
+        val names = listOf("X" to "Y", "Alpha" to "Beta", "P" to "Q", "Hawk" to "Dove")
+        val (s1, s2) = names.random(rand)
+        val firstIsHigh = rand.nextBoolean()
+        val highName = if (firstIsHigh) s1 else s2
+        val lowName = if (firstIsHigh) s2 else s1
 
-        val correctStr = "Strategy X (अधिकतम न्यूनतम प्रतिफल = +4)"
-        val correctStrEn = "Strategy X (Maximin value of +4)"
+        val qEn = "In a two-player zero-sum game, Player A has two strategies: $highName and $lowName. Strategy $highName guarantees a minimum worst-case payoff of +$a, while Strategy $lowName guarantees a minimum worst-case payoff of +$b. Under Von Neumann's Minimax theorem, which is the risk-dominant optimal strategy?"
+        val qHi = "एक द्विपक्षीय शून्य-योग खेल (Zero-Sum Game) में, खिलाड़ी A के पास दो रणनीतियाँ $highName और $lowName हैं। रणनीति $highName में न्यूनतम प्रतिफल (worst-case payoff) +$a है और रणनीति $lowName में न्यूनतम प्रतिफल +$b है। वॉन न्यूमैन के मिनिमैक्स (Minimax) प्रमेय के अनुसार, जोखिम-रहित सुरक्षित इष्टतम रणनीति क्या होगी?"
+
+        val correctStrEn = "Strategy $highName (Maximin value of +$a)"
+        val correctStr = "रणनीति $highName (अधिकतम न्यूनतम प्रतिफल = +$a)"
         val optsEn = listOf(
             correctStrEn,
-            "Strategy Y (Minimax value of +2)",
-            "Mix 50-50 arbitrarily",
+            "Strategy $lowName (worst-case floor of +$b)",
+            "Mix both strategies 50-50 arbitrarily",
             "No optimal solution exists"
         ).shuffled(rand)
-        val optsHi = listOf(
-            correctStr,
-            "Strategy Y (प्रतिफल +2)",
-            "50-50 का मनमाना मिश्रण",
-            "कोई इष्टतम रणनीति नहीं है"
-        )
+        val optsHi = optsEn.map {
+            when (it) {
+                correctStrEn -> correctStr
+                "Strategy $lowName (worst-case floor of +$b)" -> "रणनीति $lowName (प्रतिफल +$b)"
+                "Mix both strategies 50-50 arbitrarily" -> "दोनों रणनीतियों का 50-50 मनमाना मिश्रण"
+                else -> "कोई इष्टतम रणनीति नहीं है"
+            }
+        }
         val correctIdx = optsEn.indexOf(correctStrEn).coerceAtLeast(0)
 
         val normEn = MultiLayerQuestionValidator.normalizeText(qEn)
@@ -1679,27 +1825,27 @@ object DynamicLogicEngine {
             points = meta.points,
             isCheckpoint = meta.isCheckpoint,
             checkpointTitle = meta.checkpointTitle,
-            category = "Game Theory & Dominant Strategy",
+            category = "Game Theory Minimax",
             questionHindi = qHi,
             questionEnglish = qEn,
-            cluesHindi = listOf("मैक्सिमिन (Maximin) नियम: न्यूनतम में से अधिकतम का चुनाव।", "रणनीति X का न्यूनतम = +4", "रणनीति Y का न्यूनतम = +2", "max(+4, +2) = +4 (रणनीति X)"),
-            cluesEnglish = listOf("Maximin principle: Maximize the minimum guaranteed gain.", "Worst-case X = +4, Worst-case Y = +2", "max(4, 2) = 4, which dictates Strategy X."),
+            cluesHindi = listOf("मैक्सिमिन: प्रत्येक रणनीति का न्यूनतम प्रतिफल लें", "रणनीति $highName की न्यूनतम सीमा +$a, रणनीति $lowName की +$b", "बड़ी न्यूनतम सीमा वाली रणनीति चुनें"),
+            cluesEnglish = listOf("Maximin: take each strategy's minimum payoff", "Strategy $highName floors at +$a, Strategy $lowName at +$b", "Choose the strategy with the larger floor"),
             optionsHindi = optsHi,
             optionsEnglish = optsEn,
             correctAnswerIndex = correctIdx,
-            deductionPathHindi = "मैक्सिमिन सिद्धांत के अनुसार max(min(X), min(Y)) = max(+4, +2) = +4 (रणनीति X)।",
-            deductionPathEnglish = "By Von Neumann's Maximin criterion, max(worst(X), worst(Y)) = max(4, 2) = 4 (Strategy X).",
-            eliminationReasonsHindi = optsHi.mapIndexed { idx, opt -> if (idx == correctIdx) "वॉन न्यूमैन मैक्सिमिन प्रमेय द्वारा सिद्ध।" else "अवर रणनीति या निराधार दावा।" },
-            eliminationReasonsEnglish = optsEn.mapIndexed { idx, opt -> if (idx == correctIdx) "Confirmed by Von Neumann Minimax criterion." else "Suboptimal dominated strategy." },
-            expertAdviceHindi = "खिलाड़ी के सबसे खराब स्थिति वाले प्रतिफलों की तुलना करें।",
-            expertAdviceEnglish = "Compare the floor guarantees (worst-case minimums) of both strategies.",
+            deductionPathHindi = "max(+$a, +$b) = +$a, अतः रणनीति $highName।",
+            deductionPathEnglish = "max(+$a, +$b) = +$a, so Strategy $highName is the maximin choice.",
+            eliminationReasonsHindi = optsHi.mapIndexed { idx, opt -> if (idx == correctIdx) "मैक्सिमिन नियम द्वारा सिद्ध।" else "न्यूनतम सीमा कम है या नियम का उल्लंघन।" },
+            eliminationReasonsEnglish = optsEn.mapIndexed { idx, opt -> if (idx == correctIdx) "Follows from the maximin rule." else "Lower floor or violates the maximin rule." },
+            expertAdviceHindi = "सबसे खराब स्थिति की तुलना करें, सर्वश्रेष्ठ की नहीं।",
+            expertAdviceEnglish = "Compare worst cases, not best cases.",
             fiftyFiftyDiscardIndices = (0..3).filter { it != correctIdx }.take(2),
-            fiftyFiftyProofHindi = "अवर रणनीति वाले विकल्प निरस्त।",
-            fiftyFiftyProofEnglish = "Strictly dominated strategies eliminated.",
+            fiftyFiftyProofHindi = "उप-इष्टतम विकल्प निरस्त।",
+            fiftyFiftyProofEnglish = "Sub-optimal choices eliminated.",
             semanticFingerprint = MultiLayerQuestionValidator.computeSemanticFingerprint(normEn, normAns),
-            logicFingerprint = MultiLayerQuestionValidator.computeLogicFingerprint("game_theory_maximin", "x4_y2"),
-            conceptFingerprint = MultiLayerQuestionValidator.computeConceptFingerprint("Game Theory", "Minimax Criterion", "zero_sum_matrix"),
-            patternFingerprint = MultiLayerQuestionValidator.computePatternFingerprint("deduction", "game_theoretic_decision"),
+            logicFingerprint = MultiLayerQuestionValidator.computeLogicFingerprint("minimax_maximin", "${highName}${a}_${lowName}${b}"),
+            conceptFingerprint = MultiLayerQuestionValidator.computeConceptFingerprint("Game Theory", "Minimax Decision", "zero_sum"),
+            patternFingerprint = MultiLayerQuestionValidator.computePatternFingerprint("strategic_reasoning", "minimax"),
             generationVersion = 2
         )
     }
