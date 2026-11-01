@@ -26122,5 +26122,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-31T21:38:22Z"
+ },
+ {
+  "id": "q_2baec1a405b610da",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which national festival of India is celebrated on the 2nd of October?",
+  "qHi": "भारत का कौन सा राष्ट्रीय त्योहार 2 अक्टूबर को मनाया जाता है?",
+  "optsEn": [
+   "Republic Day",
+   "Independence Day",
+   "Gandhi Jayanti",
+   "Children's Day"
+  ],
+  "optsHi": [
+   "गणतंत्र दिवस",
+   "स्वतंत्रता दिवस",
+   "गांधी जयंती",
+   "बाल दिवस"
+  ],
+  "correct": 2,
+  "explainEn": "Gandhi Jayanti marks the birth anniversary of Mahatma Gandhi and is a national holiday.",
+  "sourceHint": "NCERT Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:07:42Z"
+ },
+ {
+  "id": "q_3c2a0c5a3d986f9d",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of plant is a mango tree usually classified as?",
+  "qHi": "आम के पेड़ को आमतौर पर किस प्रकार के पौधे के रूप में वर्गीकृत किया जाता है?",
+  "optsEn": [
+   "Herb",
+   "Shrub",
+   "Tree",
+   "Climber"
+  ],
+  "optsHi": [
+   "शाक",
+   "झाड़ी",
+   "पेड़",
+   "आरोही"
+  ],
+  "correct": 2,
+  "explainEn": "Mango plants grow very large with a hard, woody trunk, making them trees.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:08:49Z"
+ },
+ {
+  "id": "q_b05e889353e81550",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which direction does the magnetic needle in a compass normally point towards?",
+  "qHi": "कम्पास में चुंबकीय सुई सामान्यतः किस दिशा की ओर इशारा करती है?",
+  "optsEn": [
+   "East and West",
+   "North and South",
+   "Up and Down",
+   "Sky and Ground"
+  ],
+  "optsHi": [
+   "पूर्व और पश्चिम",
+   "उत्तर और दक्षिण",
+   "ऊपर और नीचे",
+   "आकाश और जमीन"
+  ],
+  "correct": 1,
+  "explainEn": "A magnetic compass aligns with Earth's magnetic field pointing North-South.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:08:49Z"
  }
 ]

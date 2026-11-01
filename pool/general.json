@@ -19010,5 +19010,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-31T21:38:17Z"
+ },
+ {
+  "id": "q_27f1ec596363c627",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which city is home to the famous historical monument Charminar?",
+  "qHi": "प्रसिद्ध ऐतिहासिक स्मारक चारमीनार किस शहर में स्थित है?",
+  "optsEn": [
+   "Agra",
+   "Hyderabad",
+   "Jaipur",
+   "Delhi"
+  ],
+  "optsHi": [
+   "आगरा",
+   "हैदराबाद",
+   "जयपुर",
+   "दिल्ली"
+  ],
+  "correct": 1,
+  "explainEn": "Charminar is a mosque and monument located in Hyderabad, Telangana.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:07:38Z"
+ },
+ {
+  "id": "q_87f39a8c40d507b0",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which Indian classical dance form do artists traditionally wear elaborate face paint and green make-up to portray characters?",
+  "qHi": "किस भारतीय शास्त्रीय नृत्य शैली में कलाकार पात्रों का चित्रण करने के लिए पारंपरिक रूप से विस्तृत चेहरे के रंग और हरे मेकअप का उपयोग करते हैं?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Odissi",
+   "Kuchipudi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "ओडिसी",
+   "कुचिपुड़ी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali, originating from Kerala, is known for its heavy vibrant make-up and elaborate costumes.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:07:38Z"
+ },
+ {
+  "id": "q_c8bb67e18dd5384d",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which classical dance form originates from the southern state of Kerala and is known for its elaborate makeup and costumes?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप दक्षिणी राज्य केरल से उत्पन्न हुआ है और अपनी विस्तृत वेशभूषा और मेकअप के लिए जाना जाता है?",
+  "optsEn": [
+   "Kathakali",
+   "Bharatanatyam",
+   "Odissi",
+   "Kuchipudi"
+  ],
+  "optsHi": [
+   "कथकली",
+   "भरतनाट्यम",
+   "ओडिसी",
+   "कुचिपुड़ी"
+  ],
+  "correct": 0,
+  "explainEn": "Kathakali is a traditional dance-drama of Kerala distinguished by its vibrant facial makeup.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:08:45Z"
+ },
+ {
+  "id": "q_df2a64a226c61ffd",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the name of India's national aquatic animal, found primarily in the Ganga and Brahmaputra river systems?",
+  "qHi": "भारत के राष्ट्रीय जलीय जीव का क्या नाम है, जो मुख्य रूप से गंगा और ब्रह्मपुत्र नदी प्रणालियों में पाया जाता है?",
+  "optsEn": [
+   "Blue Whale",
+   "Ganges River Dolphin",
+   "Saltwater Crocodile",
+   "Indian Ocean Dolphin"
+  ],
+  "optsHi": [
+   "ब्लू व्हेल",
+   "गंगा नदी डॉल्फिन",
+   "खारे पानी का मगरमच्छ",
+   "हिंद महासागर डॉल्फिन"
+  ],
+  "correct": 1,
+  "explainEn": "The Ganges River Dolphin was declared the National Aquatic Animal of India in 2009.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change, PIB",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:08:45Z"
  }
 ]

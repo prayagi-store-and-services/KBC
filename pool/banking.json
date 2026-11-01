@@ -31500,34 +31500,6 @@
   "createdAt": "2026-10-31T21:37:52Z"
  },
  {
-  "id": "q_338ae0baca60ba7c",
-  "group": "banking",
-  "band": "medium",
-  "tierFrom": 6,
-  "tierTo": 11,
-  "special": null,
-  "qEn": "Which organization operates the Unified Payments Interface (UPI) platform in India?",
-  "qHi": "भारत में यूनिफाइड पेमेंट्स इंटरफेस (UPI) प्लेटफॉर्म का संचालन कौन सा संगठन करता है?",
-  "optsEn": [
-   "National Payments Corporation of India",
-   "Reserve Bank of India",
-   " भारतीय स्टेट बैंक",
-   "Indian Banks' Association"
-  ],
-  "optsHi": [
-   "भारतीय राष्ट्रीय भुगतान निगम",
-   "भारतीय रिजर्व बैंक",
-   "भारतीय स्टेट बैंक",
-   "इंडियन बैंक्स एसोसिएशन"
-  ],
-  "correct": 0,
-  "explainEn": "NPCI (National Payments Corporation of India) is an umbrella organization for operating retail payments and settlement systems in India, including UPI.",
-  "sourceHint": "NPCI Official Portal",
-  "verifiedBy": "AI second pass agreed (high confidence)",
-  "model": "gemini-3.5-flash-lite",
-  "createdAt": "2026-10-31T21:37:52Z"
- },
- {
   "id": "q_70aa205e1ceb622e",
   "group": "banking",
   "band": "medium",
@@ -31554,5 +31526,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-31T21:37:52Z"
+ },
+ {
+  "id": "q_e76853474b3477a1",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization introduced the Unified Payments Interface (UPI) in India?",
+  "qHi": "भारत में यूनिफाइड पेमेंट्स इंटरफेस (UPI) की शुरुआत किस संगठन ने की थी?",
+  "optsEn": [
+   "NPCI",
+   "RBI",
+   "SBI",
+   "SEBI"
+  ],
+  "optsHi": [
+   "एनपीसीआई (NPCI)",
+   "भारतीय रिजर्व बैंक (RBI)",
+   "भारतीय स्टेट बैंक (SBI)",
+   "सेबी (SEBI)"
+  ],
+  "correct": 0,
+  "explainEn": "UPI was developed and launched by the National Payments Corporation of India (NPCI).",
+  "sourceHint": "NPCI portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:07:34Z"
+ },
+ {
+  "id": "q_a392f4f68329a2fa",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of account is generally opened by business entities for frequent and high-volume transactions?",
+  "qHi": "व्यापारिक संस्थाओं द्वारा बार-बार और बड़े पैमाने पर लेनदेन के लिए आमतौर पर किस प्रकार का खाता खोला जाता है?",
+  "optsEn": [
+   "Savings Account",
+   "Fixed Deposit Account",
+   "Current Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "बचत खाता",
+   "सावधि जमा खाता",
+   "चालू खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 2,
+  "explainEn": "Current accounts are designed for businesses to facilitate frequent, high-volume transactions without any limits on the number of transactions per day.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) study material",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:07:34Z"
+ },
+ {
+  "id": "q_adc461354dee2daf",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which term is used to describe a loan where the borrower pledges physical assets as security to the lender?",
+  "qHi": "उस ऋण को वर्णित करने के लिए किस शब्द का उपयोग किया जाता है जहाँ उधारकर्ता ऋणदाता के पास सुरक्षा के रूप में भौतिक संपत्ति गिरवी रखता है?",
+  "optsEn": [
+   "Unsecured Loan",
+   "Secured Loan",
+   "Peer Loan",
+   "Open Loan"
+  ],
+  "optsHi": [
+   "असुरक्षित ऋण",
+   "सुरक्षित ऋण",
+   "पीयर ऋण",
+   "ओपन ऋण"
+  ],
+  "correct": 1,
+  "explainEn": "A secured loan is backed by collateral (physical assets), reducing the risk for the lender.",
+  "sourceHint": "NCERT Economics textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:07:34Z"
+ },
+ {
+  "id": "q_dd1ee7ead719aa0a",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'SLR' stand for in Indian banking regulations?",
+  "qHi": "भारतीय बैंकिंग नियमों में 'SLR' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Statutory Liquidity Ratio",
+   "Standard Lending Rate",
+   "State Liquid Reserve",
+   "Scheduled Loan Return"
+  ],
+  "optsHi": [
+   "वैधानिक तरलता अनुपात (Statutory Liquidity Ratio)",
+   "मानक ऋण दर (Standard Lending Rate)",
+   "राज्य तरल आरक्षित (State Liquid Reserve)",
+   "अनुसूचित ऋण रिटर्न (Scheduled Loan Return)"
+  ],
+  "correct": 0,
+  "explainEn": "SLR stands for Statutory Liquidity Ratio, which commercial banks must maintain in the form of specified liquid assets before lending to customers.",
+  "sourceHint": "RBI monetary policy definitions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:07:34Z"
+ },
+ {
+  "id": "q_438648eb18809d2c",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India regulates and supervises Housing Finance Companies (HFCs)?",
+  "qHi": "भारत में कौन सा संगठन आवास वित्त कंपनियों (HFCs) को विनियमित और पर्यवेक्षित करता है?",
+  "optsEn": [
+   "National Housing Bank",
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India",
+   "NABARD"
+  ],
+  "optsHi": [
+   "राष्ट्रीय आवास बैंक",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति and विनिमय बोर्ड",
+   "नाबार्ड"
+  ],
+  "correct": 1,
+  "explainEn": "Regulation and supervision of Housing Finance Companies (HFCs) was transferred from the National Housing Bank to the Reserve Bank of India under the Finance Act 2019.",
+  "sourceHint": "Reserve Bank of India Act / RBI Notifications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:08:41Z"
+ },
+ {
+  "id": "q_75007f15b242d630",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'P' stand for in the acronym 'PCA' framework used by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा उपयोग किए जाने वाले 'PCA' फ्रेमवर्क में अक्षर 'P' का क्या अर्थ है?",
+  "optsEn": [
+   "Prompt",
+   "Prudential",
+   "Primary",
+   "Public"
+  ],
+  "optsHi": [
+   "प्रॉम्प्ट",
+   "प्रूडेंशियल",
+   "प्राइमरी",
+   "पब्लिक"
+  ],
+  "correct": 0,
+  "explainEn": "PCA stands for Prompt Corrective Action, a framework under which banks with weak financial metrics are monitored by the RBI.",
+  "sourceHint": "RBI Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:08:41Z"
+ },
+ {
+  "id": "q_e965a12b0fdc7330",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of digital payments in India, what does the term 'UPI' stand for?",
+  "qHi": "भारत में डिजिटल भुगतान के संदर्भ में, 'UPI' शब्द का क्या अर्थ है?",
+  "optsEn": [
+   "Universal Payment Interface",
+   "Unified Payment Identifier",
+   "Unified Payments Interface",
+   "Unique Payment Intermediary"
+  ],
+  "optsHi": [
+   "यूनिवर्सल पेमेंट इंटरफेस",
+   "यूनिफाइड पेमेंट आइडेंटिफायर",
+   "यूनिफाइड पेमेंट्स इंटरफेस",
+   "यूनिक पेमेंट इंटरमीडियरी"
+  ],
+  "correct": 2,
+  "explainEn": "UPI stands for Unified Payments Interface, an instant real-time payment system developed by National Payments Corporation of India.",
+  "sourceHint": "NPCI Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:08:41Z"
+ },
+ {
+  "id": "q_ac28f3d8b6657327",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which entity holds the responsibility of printing and issuing currency notes of denomination one rupee in India?",
+  "qHi": "भारत में एक रुपये के मूल्यवर्ग के करेंसी नोट छापने और जारी करने की जिम्मेदारी किस संस्था के पास है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "State Bank of India",
+   "Ministry of Finance",
+   "NITI Aayog"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय स्टेट बैंक",
+   "वित्त मंत्रालय",
+   "नीति आयोग"
+  ],
+  "correct": 2,
+  "explainEn": "One rupee notes and coins are issued by the Ministry of Finance, while other currency notes are issued by the Reserve Bank of India.",
+  "sourceHint": "Reserve Bank of India Act / Ministry of Finance",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:08:41Z"
+ },
+ {
+  "id": "q_08c8c5991a3f97a7",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the term 'CASA' ratio represent for a commercial bank?",
+  "qHi": "वाणिज्यिक बैंक के लिए 'CASA' अनुपात किस बात का प्रतिनिधित्व करता है?",
+  "optsEn": [
+   "Current Account and Savings Account deposits as a percentage of total deposits",
+   "Capital Adequacy and Statutory Assets",
+   "Credit Advances and Savings Assets",
+   "Cost of Assets and Savings Allocation"
+  ],
+  "optsHi": [
+   "कुल जमा के प्रतिशत के रूप में चालू खाता और बचत खाता जमा",
+   "पूंजी पर्याप्तता और वैधानिक संपत्ति",
+   "क्रेडिट अग्रिम और बचत संपत्ति",
+   "संपत्ति की लागत और बचत आवंटन"
+  ],
+  "correct": 0,
+  "explainEn": "The CASA ratio measures the proportion of deposits that a bank raises through Current and Savings Accounts, which are generally low-cost funds.",
+  "sourceHint": "Banking Fundamentals / RBI Financial Stability Report",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:08:41Z"
+ },
+ {
+  "id": "q_49d778ba6b86dd3b",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institution acts as the regulator for mutual funds in India?",
+  "qHi": "भारत में म्यूचुअल फंड के लिए नियामक के रूप में कौन सी संस्था कार्य करती है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India",
+   "Insurance Regulatory and Development Authority",
+   "Pension Fund Regulatory and Development Authority"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "बीमा नियामक और विकास प्राधिकरण",
+   "पेंशन फंड नियामक और विकास प्राधिकरण"
+  ],
+  "correct": 1,
+  "explainEn": "SEBI regulates mutual funds in India under the SEBI (Mutual Funds) Regulations, 1996, to protect investor interests.",
+  "sourceHint": "SEBI Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:08:41Z"
  }
 ]

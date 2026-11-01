@@ -25954,5 +25954,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-31T21:38:33Z"
+ },
+ {
+  "id": "q_6b7f16797026e14c",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of mirror is generally used as a rear-view mirror in vehicles?",
+  "qHi": "वाहनों में पीछे देखने के लिए आमतौर पर किस प्रकार के दर्पण का उपयोग किया जाता है?",
+  "optsEn": [
+   "Concave mirror",
+   "Convex mirror",
+   "Plane mirror",
+   "Inverted mirror"
+  ],
+  "optsHi": [
+   "अवतल दर्पण",
+   "उत्तल दर्पण",
+   "समतल दर्पण",
+   "उल्टा दर्पण"
+  ],
+  "correct": 1,
+  "explainEn": "Convex mirrors are used as rear-view mirrors because they give an erect, diminished image and have a wider field of view.",
+  "sourceHint": "NCERT Class 10 Science Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:07:10Z"
+ },
+ {
+  "id": "q_3d7ee64f637d7f9d",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the currency of Bangladesh?",
+  "qHi": "बांग्लादेश की मुद्रा क्या है?",
+  "optsEn": [
+   "Rupee",
+   "Taka",
+   "Yen",
+   "Dinar"
+  ],
+  "optsHi": [
+   "रुपया",
+   "टका",
+   "येन",
+   "दीनार"
+  ],
+  "correct": 1,
+  "explainEn": "The Taka is the currency of the People's Republic of Bangladesh.",
+  "sourceHint": "NCERT Class 10 Economics Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:07:10Z"
+ },
+ {
+  "id": "q_ed9a446f15361aef",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of reaction is the formation of calcium oxide and carbon dioxide from calcium carbonate upon heating?",
+  "qHi": "कैल्शियम कार्बोनेट को गर्म करने पर कैल्शियम ऑक्साइड और कार्बन डाइऑक्साइड का बनना किस प्रकार की अभिक्रिया है?",
+  "optsEn": [
+   "Combination reaction",
+   "Decomposition reaction",
+   "Displacement reaction",
+   "Double displacement reaction"
+  ],
+  "optsHi": [
+   "संयोजन अभिक्रिया",
+   "वियोजन अभिक्रिया",
+   "विस्थापन अभिक्रिया",
+   "द्वि-विस्थापन अभिक्रिया"
+  ],
+  "correct": 1,
+  "explainEn": "A decomposition reaction is a reaction in which a single reactant breaks down into two or more simpler products upon heating.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:08:12Z"
+ },
+ {
+  "id": "q_5bfb35608d118d25",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which chemical compound is the primary constituent of white cast iron before graphitization?",
+  "qHi": "ग्रेफाइटीकरण से पहले सफेद ढलवां लोहे का प्राथमिक घटक कौन सा रासायनिक यौगिक है?",
+  "optsEn": [
+   "Iron carbide",
+   "Sodium carbonate",
+   "Calcium sulphate",
+   "Copper oxide"
+  ],
+  "optsHi": [
+   "आयरन कार्बाइड",
+   "सोडियम कार्बोनेट",
+   "कैल्शियम सल्फेट",
+   "कॉपर ऑक्साइड"
+  ],
+  "correct": 0,
+  "explainEn": "In white cast iron, carbon is present in the combined form as iron carbide (cementite, Fe3C), making the metal hard and brittle.",
+  "sourceHint": "NCERT Class 10 Science Chapter 3 Metals and Non-metals",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:09:19Z"
+ },
+ {
+  "id": "q_9bdf88d81956cd3b",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the specific resistance of a conductor dependent upon?",
+  "qHi": "किसी चालक का विशिष्ट प्रतिरोध किस पर निर्भर करता है?",
+  "optsEn": [
+   "Nature of the material",
+   "Length of the conductor",
+   "Cross-sectional area",
+   "Applied potential difference"
+  ],
+  "optsHi": [
+   "सामग्री की प्रकृति",
+   "चालक की लंबाई",
+   "अनुप्रस्थ काट का क्षेत्रफल",
+   "प्रयुक्त विभवांतर"
+  ],
+  "correct": 0,
+  "explainEn": "Resistivity or specific resistance is a characteristic property of a material and depends only on the nature of the material and temperature, independent of its dimensions.",
+  "sourceHint": "NCERT Class 10 Science Chapter 12 Electricity",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:09:19Z"
+ },
+ {
+  "id": "q_d01b91ff5ac6ed1c",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During which phase of meiosis does crossing over between non-sister chromatids occur?",
+  "qHi": "अर्धसूत्रीविभाजन के किस चरण के दौरान गैर-बहन क्रोमैटिड्स के बीच क्रॉसिंग ओवर होती है?",
+  "optsEn": [
+   "Pachytene",
+   "Diplotene",
+   "Zygotene",
+   "Leptotene"
+  ],
+  "optsHi": [
+   "पैकीटीन",
+   "डिप्लोटीन",
+   "जाइगोटीन",
+   "लेप्टोटीन"
+  ],
+  "correct": 0,
+  "explainEn": "Crossing over, the exchange of genetic material between non-sister chromatids of homologous chromosomes, takes place during the pachytene stage of prophase I of meiosis.",
+  "sourceHint": "NCERT Class 11 Biology Chapter 10 Cell Cycle and Cell Division",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:09:19Z"
+ },
+ {
+  "id": "q_4c82faddf0707153",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which plant hormone promotes apical dominance by inhibiting the growth of lateral buds?",
+  "qHi": "कौन सा पादप हार्मोन पार्श्व कलिकाओं की वृद्धि को रोककर शीर्ष प्रमुखता (एपिगल डोमिनेंस) को बढ़ावा देता है?",
+  "optsEn": [
+   "Auxin",
+   "Cytokinin",
+   "Gibberellin",
+   "Abscisic acid"
+  ],
+  "optsHi": [
+   "ऑक्सिन",
+   "साइटोकैविनाइन",
+   "जिबरेलिन",
+   "एब्सिसिक एसिड"
+  ],
+  "correct": 0,
+  "explainEn": "Auxins, specifically indole-3-acetic acid (IAA), are synthesized at the shoot apex and inhibit the growth of lateral buds, causing apical dominance.",
+  "sourceHint": "NCERT Class 11 Biology Chapter 15 Plant Growth and Development",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:09:19Z"
+ },
+ {
+  "id": "q_5bd6101d5305b76d",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Harappan site is uniquely characterized by a lower town that was also fortified?",
+  "qHi": "किस हड़प्पा स्थल की विशेषता यह है कि इसका निचला शहर भी किलेबंद था?",
+  "optsEn": [
+   "Kalibangan",
+   "Mohenjo-daro",
+   "Harappa",
+   "Chanhu-daro"
+  ],
+  "optsHi": [
+   "कालीबंगा",
+   "मोहनजोदड़ो",
+   "हड़प्पा",
+   "चन्हूदड़ो"
+  ],
+  "correct": 0,
+  "explainEn": "At Kalibangan, both the citadel and the lower town were separately fortified, which is an exception compared to several other Harappan sites where only the citadel was walled.",
+  "sourceHint": "NCERT Class 12 History Theme 1 Bricks, Beads and Bones",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:09:19Z"
+ },
+ {
+  "id": "q_d1a500c177ce3bb8",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which type of chemical reaction is represented by the precipitation of barium sulphate when barium chloride reacts with sodium sulphate?",
+  "qHi": "बेरियम क्लोराइड की सोडियम सल्फेट के साथ प्रतिक्रिया पर बेरियम सल्फेट के अवक्षेपण को किस प्रकार की रासायनिक अभिक्रिया दर्शाती है?",
+  "optsEn": [
+   "Double displacement reaction",
+   "Combination reaction",
+   "Decomposition reaction",
+   "Displacement reaction"
+  ],
+  "optsHi": [
+   "द्विविस्थापन अभिक्रिया",
+   "संयोजन अभिक्रिया",
+   "वियोजन अभिक्रिया",
+   "विस्थापन अभिक्रिया"
+  ],
+  "correct": 0,
+  "explainEn": "The reaction involves an exchange of ions between the two reactants, resulting in the formation of an insoluble white precipitate of barium sulphate, characteristic of a double displacement reaction.",
+  "sourceHint": "NCERT Class 10 Science Chapter 1 Chemical Reactions and Equations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:09:19Z"
  }
 ]

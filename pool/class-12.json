@@ -29512,34 +29512,6 @@
   "createdAt": "2026-10-31T21:36:18Z"
  },
  {
-  "id": "q_196df90ebf3fe25f",
-  "group": "class-12",
-  "band": "easy",
-  "tierFrom": 1,
-  "tierTo": 5,
-  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
-  "qEn": "On which date is National Unity Day observed every year?",
-  "qHi": "प्रत्येक वर्ष राष्ट्रीय एकता दिवस किस तिथि को मनाया जाता है?",
-  "optsEn": [
-   "2 अक्टूबर",
-   "31 अक्टूबर",
-   "14 नवंबर",
-   "26 जनवरी"
-  ],
-  "optsHi": [
-   "2 अक्टूबर",
-   "31 अक्टूबर",
-   "14 नवंबर",
-   "26 जनवरी"
-  ],
-  "correct": 1,
-  "explainEn": "National Unity Day is observed annually on October 31 across India.",
-  "sourceHint": "NCERT History Textbook",
-  "verifiedBy": "AI second pass agreed (high confidence)",
-  "model": "gemini-3.5-flash-lite",
-  "createdAt": "2026-10-31T21:36:18Z"
- },
- {
   "id": "q_5e6f939d39b77cf0",
   "group": "class-12",
   "band": "easy",
@@ -29650,34 +29622,6 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-31T21:36:18Z"
- },
- {
-  "id": "q_7cea6a498f49e452",
-  "group": "class-12",
-  "band": "medium",
-  "tierFrom": 6,
-  "tierTo": 11,
-  "special": "National Unity Day (Sardar Vallabhbhai Patel)",
-  "qEn": "Which specific date is observed annually as National Unity Day in India?",
-  "qHi": "भारत में प्रतिवर्ष राष्ट्रीय एकता दिवस के रूप में किस विशिष्ट तिथि को मनाया जाता है?",
-  "optsEn": [
-   "2 अक्टूबर",
-   "31 अक्टूबर",
-   "14 नवंबर",
-   "25 दिसंबर"
-  ],
-  "optsHi": [
-   "2 अक्टूबर",
-   "31 अक्टूबर",
-   "14 नवंबर",
-   "25 दिसंबर"
-  ],
-  "correct": 1,
-  "explainEn": "October 31 marks the birth anniversary of Sardar Vallabhbhai Patel and is observed as National Unity Day.",
-  "sourceHint": "NCERT History Textbook",
-  "verifiedBy": "AI second pass agreed (high confidence)",
-  "model": "gemini-3.5-flash-lite",
-  "createdAt": "2026-10-31T21:37:37Z"
  },
  {
   "id": "q_61d87cd1d3117d15",
@@ -30014,5 +29958,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-31T21:38:38Z"
+ },
+ {
+  "id": "q_657d1bfa24770672",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which dynasty built the Brihadisvara Temple at Thanjavur?",
+  "qHi": "तंजौर में बृहदेश्वर मंदिर का निर्माण किस राजवंश ने करवाया था?",
+  "optsEn": [
+   "Chola dynasty",
+   "Maurya dynasty",
+   "Gupta dynasty",
+   "Mughal dynasty"
+  ],
+  "optsHi": [
+   "चोल राजवंश",
+   "मौर्य राजवंश",
+   "गुप्त राजवंश",
+   "मुगल राजवंश"
+  ],
+  "correct": 0,
+  "explainEn": "The Brihadisvara Temple was built by Raja Raja Chola I during the Chola dynasty.",
+  "sourceHint": "NCERT Class 12 History, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:07:20Z"
+ },
+ {
+  "id": "q_bbf803098b3c97eb",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian state was the first to formally adopt Panchayati Raj institutions in 1959?",
+  "qHi": "1959 में पंचायती राज संस्थाओं को औपचारिक रूप से अपनाने वाला पहला भारतीय राज्य कौन सा था?",
+  "optsEn": [
+   "Andhra Pradesh",
+   "Rajasthan",
+   "Gujarat",
+   "Uttar Pradesh"
+  ],
+  "optsHi": [
+   "आंध्र प्रदेश",
+   "राजस्थान",
+   "गुजरात",
+   "उत्तर प्रदेश"
+  ],
+  "correct": 1,
+  "explainEn": "Rajasthan was the first state to establish Panchayati Raj, inaugurated in Nagaur district on October 2, 1959.",
+  "sourceHint": "NCERT Class 11 Political Science, Indian Constitution at Work",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:08:17Z"
+ },
+ {
+  "id": "q_b96b7de82ebf0e5b",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the coordination number of the central metal ion in [Co(NH3)6]3+?",
+  "qHi": "[Co(NH3)6]3+ में केंद्रीय धातु आयन की उपसहसंयोजन संख्या (कोऑर्डिनेशन नंबर) क्या है?",
+  "optsEn": [
+   "3",
+   "4",
+   "6",
+   "12"
+  ],
+  "optsHi": [
+   "3",
+   "4",
+   "6",
+   "12"
+  ],
+  "correct": 2,
+  "explainEn": "Cobalt is bonded to six monodentate ammonia ligands, making the coordination number equal to six.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:08:17Z"
+ },
+ {
+  "id": "q_fffb54979df850f1",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which atmospheric layer contains the ozone layer that shields life from ultraviolet radiation?",
+  "qHi": "किस वायुमंडलीय परत में ओजोन परत पाई जाती है जो जीवन को पराबैंगनी विकिरण से बचाती है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The bulk of atmospheric ozone is concentrated in the stratosphere, specifically between 15 and 50 km above Earth's surface.",
+  "sourceHint": "NCERT Class 11 Geography, Fundamentals of Physical Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:08:17Z"
+ },
+ {
+  "id": "q_3a6b8e6f45e05412",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "During the colonial period in India, the Permanent Settlement was introduced in 1793 by which Governor-General?",
+  "qHi": "भारत में औपनिवेशिक काल के दौरान, 1793 में स्थायी बंदोबस्त (Permanent Settlement) किस गवर्नर-जनरल द्वारा शुरू किया गया था?",
+  "optsEn": [
+   "Lord Cornwallis",
+   "Warren Hastings",
+   "Lord Dalhousie",
+   "Lord Wellesley"
+  ],
+  "optsHi": [
+   "लॉर्ड कॉर्नवालिस",
+   "वारेन हेस्टिंग्स",
+   "लॉर्ड डलहौजी",
+   "लॉर्ड वेलेजली"
+  ],
+  "correct": 0,
+  "explainEn": "Lord Cornwallis introduced the Permanent Settlement in Bengal, Bihar, and Orissa in 1793.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:08:17Z"
+ },
+ {
+  "id": "q_f8ce214979a6dc7a",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the net primary productivity (NPP) related to in an ecosystem?",
+  "qHi": "पारिस्थितिकी तंत्र में नेट प्राथमिक उत्पादकता (NPP) किससे संबंधित है?",
+  "optsEn": [
+   "Total organic matter produced through photosynthesis",
+   "Biomass available to consumers after plant respiration",
+   "Energy lost as heat during cellular respiration only",
+   "Total solar radiation received by the producers"
+  ],
+  "optsHi": [
+   "प्रकाश संश्लेषण के माध्यम से उत्पादित कुल कार्बनिक पदार्थ",
+   "पादप श्वसन के बाद उपभोक्ताओं के लिए उपलब्ध बायोमास",
+   "केवल कोशकीय श्वसन के दौरान ऊष्मा के रूप में नष्ट ऊर्जा",
+   "उत्पादकों द्वारा प्राप्त कुल सौर विकिरण"
+  ],
+  "correct": 1,
+  "explainEn": "Net Primary Productivity (NPP) is gross primary productivity minus respiration losses, representing the biomass available for consumption.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:08:17Z"
+ },
+ {
+  "id": "q_f386988b44025857",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which macroeconomic policy tool is directly controlled by the Reserve Bank of India to regulate money supply?",
+  "qHi": "धन की आपूर्ति को नियंत्रित करने के लिए भारतीय रिजर्व बैंक द्वारा किस व्यापक आर्थिक नीति उपकरण को सीधे नियंत्रित किया जाता है?",
+  "optsEn": [
+   "Fiscal deficit targets",
+   "Corporate tax rates",
+   "Repo rate",
+   "Minimum support price"
+  ],
+  "optsHi": [
+   "राजकोषीय घाटे के लक्ष्य",
+   "कॉर्पोरेट कर की दरें",
+   "रेपो रेट",
+   "न्यूनतम समर्थन मूल्य"
+  ],
+  "correct": 2,
+  "explainEn": "Repo rate is a key monetary policy instrument managed by the RBI to control liquidity and money supply in the economy.",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:08:17Z"
+ },
+ {
+  "id": "q_570c5ce3157aa99f",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Indian Constitution, which article empowers the Parliament to legislate on any matter in the State List in the national interest if a resolution is passed by the Rajya Sabha?",
+  "qHi": "भारतीय संविधान के तहत, कौन सा अनुच्छेद राज्यसभा द्वारा प्रस्ताव पारित किए जाने पर संसद को राष्ट्रीय हित में राज्य सूची के किसी भी मामले पर कानून बनाने का अधिकार देता है?",
+  "optsEn": [
+   "Article 249",
+   "Article 352",
+   "Article 356",
+   "Article 268"
+  ],
+  "optsHi": [
+   "अनुच्छेद 249",
+   "अनुच्छेद 352",
+   "अनुच्छेद 356",
+   "अनुच्छेद 268"
+  ],
+  "correct": 0,
+  "explainEn": "Article 249 empowers Parliament to legislate with respect to a matter in the State List in the national interest if the Rajya Sabha passes a resolution supported by not less than two-thirds of the members present and voting.",
+  "sourceHint": "NCERT Class 12 Political Science, Indian Constitution at Work",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:09:26Z"
+ },
+ {
+  "id": "q_8412638703a66f92",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In microeconomics, what condition defines producer equilibrium for a competitive firm using the total revenue and total cost approach?",
+  "qHi": "व्यष्टि अर्थशास्त्र में, कुल राजस्व और कुल लागत दृष्टिकोण का उपयोग करते हुए एक प्रतिस्पर्धी फर्म के लिए उत्पादक संतुलन को कौन सी शर्त परिभाषित करती है?",
+  "optsEn": [
+   "Marginal Revenue equals Marginal Cost",
+   "Difference between Total Revenue and Total Cost is maximum",
+   "Total Revenue equals Total Cost",
+   "Average Revenue equals Average Cost"
+  ],
+  "optsHi": [
+   "सीमांत राजस्व सीमांत लागत के बराबर है",
+   "कुल राजस्व और कुल लागत के बीच का अंतर अधिकतम है",
+   "कुल राजस्व कुल लागत के बराबर है",
+   "औसत राजस्व औसत लागत के बराबर है"
+  ],
+  "correct": 1,
+  "explainEn": "Producer equilibrium is achieved where the positive difference between total revenue and total cost (total profit) is at its maximum, along with marginal conditions.",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Microeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:09:26Z"
+ },
+ {
+  "id": "q_9a5bdc2c5b613ebe",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which colonial administrative arrangement was introduced by Lord Cornwallis in 1793?",
+  "qHi": "लॉर्ड कॉर्नवालिस द्वारा 1793 में कौन सी औपनिवेशिक प्रशासनिक व्यवस्था शुरू की गई थी?",
+  "optsEn": [
+   "Permanent Settlement",
+   "Ryotwari System",
+   "Mahalwari System",
+   "Subsidiary Alliance"
+  ],
+  "optsHi": [
+   "स्थाई बंदोबस्त",
+   "रैयतवाड़ी व्यवस्था",
+   "महालवाड़ी व्यवस्था",
+   "सहायक संधि"
+  ],
+  "correct": 0,
+  "explainEn": "The Permanent Settlement (Zamindari system) was introduced in Bengal and Bihar by Lord Cornwallis in 1793.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:09:26Z"
+ },
+ {
+  "id": "q_613b3c1edc923f53",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which type of natural selection operates when environmental conditions change in a particular direction, shifting the mean value of a trait?",
+  "qHi": "जब पर्यावरणीय परिस्थितियाँ किसी विशेष दिशा में बदलती हैं और किसी लक्षण के औसत मूल्य को स्थानांतरित करती हैं, तो किस प्रकार का प्राकृतिक चयन काम करता है?",
+  "optsEn": [
+   "Stabilising selection",
+   "Directional selection",
+   "Disruptive selection",
+   "Balanced selection"
+  ],
+  "optsHi": [
+   "स्थिरीकरण चयन",
+   "दिशात्मक चयन",
+   "विघटनकारी चयन",
+   "संतुलित चयन"
+  ],
+  "correct": 1,
+  "explainEn": "Directional selection favors individuals at one extreme of a phenotypic distribution, causing the trait mean to shift over time in that direction.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 7: Evolution",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:09:26Z"
+ },
+ {
+  "id": "q_d77303dbbcb50f5c",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary organic product formed when aniline reacts with bromine water at room temperature?",
+  "qHi": "कमरे के तापमान पर जब एनिलाइन (aniline) की प्रतिक्रिया ब्रोमीन जल के साथ होती है, तो बनने वाला मुख्य कार्बनिक उत्पाद क्या है?",
+  "optsEn": [
+   "2-bromoaniline",
+   "4-bromoaniline",
+   "2,4,6-tribromoaniline",
+   "3-bromoaniline"
+  ],
+  "optsHi": [
+   "2-ब्रोमोएनालाइन",
+   "4-ब्रोमोएनालाइन",
+   "2,4,6-ट्राइब्रोमोएनालाइन",
+   "3-ब्रोमोएनालाइन"
+  ],
+  "correct": 2,
+  "explainEn": "The -NH2 group in aniline is strongly activating, leading to rapid bromination at all available ortho and para positions, yielding 2,4,6-tribromoaniline as a white precipitate.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 13: Amines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:09:26Z"
+ },
+ {
+  "id": "q_4c7ba9c68f9ade37",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the process of double fertilization in angiosperms, what is the ploidy level of the primary endosperm nucleus (PEN)?",
+  "qHi": "आवृतबीजियों (angiosperms) में दोहरा निषेचन (double fertilization) प्रक्रिया के दौरान, प्राथमिक भ्रूणपोष केंद्रक (PEN) की गुणसूत्रता (ploidy) क्या होती है?",
+  "optsEn": [
+   "Haploid (n)",
+   "Diploid (2n)",
+   "Triploid (3n)",
+   "Tetraploid (4n)"
+  ],
+  "optsHi": [
+   "अगुणित (n)",
+   "द्विगुणित (2n)",
+   "त्रिगुणित (3n)",
+   "चतुर्गुणी (4n)"
+  ],
+  "correct": 2,
+  "explainEn": "Primary endosperm nucleus is formed by triple fusion involving one male gamete (n) and two polar nuclei (2n each, or two haploid nuclei fusing beforehand), resulting in a triploid (3n) structure.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 2: Sexual Reproduction in Flowering Plants",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:09:26Z"
  }
 ]

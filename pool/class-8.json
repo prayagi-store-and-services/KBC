@@ -21474,5 +21474,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-10-31T21:37:27Z"
+ },
+ {
+  "id": "q_f78412c7684542a4",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the name of the cell organelle known as the powerhouse of the cell?",
+  "qHi": "कोशिका के पावरहाउस के रूप में जाने जाने वाले कोशिकांग का नाम क्या है?",
+  "optsEn": [
+   "Nucleus",
+   "Chloroplast",
+   "Mitochondria",
+   "Vacuole"
+  ],
+  "optsHi": [
+   "केंद्रक",
+   "क्लोरोप्लास्ट",
+   "माइटोकॉन्ड्रिया",
+   "रिक्तिका"
+  ],
+  "correct": 2,
+  "explainEn": "Mitochondria release energy for cellular activities, earning them the title of the powerhouse of the cell.",
+  "sourceHint": "NCERT Class 8 Science Chapter 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:07:06Z"
+ },
+ {
+  "id": "q_a481f9185e59fbfa",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which metal is stored in kerosene to prevent accidental fires because it reacts very vigorously with air and moisture?",
+  "qHi": "किस धातु को हवा और नमी के साथ अत्यधिक तीव्रता से प्रतिक्रिया करने के कारण आकस्मिक आग से बचाने के लिए मिट्टी के तेल में रखा जाता है?",
+  "optsEn": [
+   "Iron",
+   "Copper",
+   "Sodium",
+   "Aluminum"
+  ],
+  "optsHi": [
+   "लोहा",
+   "ताँबा",
+   "सोडियम",
+   "एल्युमिनियम"
+  ],
+  "correct": 2,
+  "explainEn": "Sodium is a very reactive metal that catches fire if kept in contact with air and moisture, so it is stored in kerosene.",
+  "sourceHint": "NCERT Class 8 Science Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:07:06Z"
+ },
+ {
+  "id": "q_5e5a44eded8359d9",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary law of the land that contains the fundamental rules for the governance of a country?",
+  "qHi": "देश के शासन के लिए मौलिक नियम रखने वाला देश का सर्वोच्च कानून कौन सा है?",
+  "optsEn": [
+   "Constitution",
+   "Penal Code",
+   "Tax Act",
+   "Budget Policy"
+  ],
+  "optsHi": [
+   "संविधान",
+   "दंड संहिता",
+   "कर अधिनियम",
+   "बजट नीति"
+  ],
+  "correct": 0,
+  "explainEn": "A constitution is a foundational document that lays down basic rules and principles for a nation.",
+  "sourceHint": "NCERT Class 8 Civics Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:07:06Z"
+ },
+ {
+  "id": "q_ff8fce40e3d6c991",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which process involves the conversion of sugar into alcohol by microorganisms like yeast?",
+  "qHi": "यीस्ट जैसे सूक्ष्मजीवों द्वारा चीनी को अल्कोहल में बदलने की प्रक्रिया क्या कहलाती है?",
+  "optsEn": [
+   "Fermentation",
+   "Nitrogen fixation",
+   "Photosynthesis",
+   "Transpiration"
+  ],
+  "optsHi": [
+   "किण्वन",
+   "नाइट्रोजन स्थिरीकरण",
+   "प्रकाश संश्लेषण",
+   "वाष्पोत्सर्जन"
+  ],
+  "correct": 0,
+  "explainEn": "Fermentation is the process of conversion of sugar into alcohol by yeast.",
+  "sourceHint": "NCERT Class 8 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:07:06Z"
+ },
+ {
+  "id": "q_8b6f3d5305da90ea",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the name of the process by which a tadpole develops into an adult frog?",
+  "qHi": "उस प्रक्रिया का नाम क्या है जिसके द्वारा टेडपोल एक वयस्क मेंढक में विकसित होता है?",
+  "optsEn": [
+   "Metamorphosis",
+   "Budding",
+   "Binary fission",
+   "Fertilization"
+  ],
+  "optsHi": [
+   "कायांतरण (मेटामॉर्फोसिस)",
+   "मुकुलन",
+   "द्विखंडन",
+   "निषेचन"
+  ],
+  "correct": 0,
+  "explainEn": "The transformation of the larva into an adult through drastic changes is called metamorphosis.",
+  "sourceHint": "NCERT Class 8 Science Chapter 9",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:08:07Z"
+ },
+ {
+  "id": "q_d80145d00f5d9e6a",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which soil layer is rich in humus and minerals, making it ideal for plant growth?",
+  "qHi": "कौन सी मिट्टी की परत ह्यूमस और खनिजों से भरपूर होती है, जो इसे पौधों की वृद्धि के लिए आदर्श बनाती है?",
+  "optsEn": [
+   "Subsoil",
+   "Weathered rock",
+   "Topsoil",
+   "Bedrock"
+  ],
+  "optsHi": [
+   "अवरोही मिट्टी (सबसॉइल)",
+   "अपक्षयित चट्टान",
+   "शीर्ष मृदा (टॉपसॉइल)",
+   "आधार चट्टान (बेडरॉक)"
+  ],
+  "correct": 2,
+  "explainEn": "Topsoil is the uppermost layer, which is dark and rich in humus and minerals.",
+  "sourceHint": "NCERT Class 7 and 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:08:07Z"
+ },
+ {
+  "id": "q_90ec25222b8625a2",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary gas present in the atmosphere by volume?",
+  "qHi": "आयतन के अनुसार वायुमंडल में मौजूद मुख्य गैस कौन सी है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "आर्गन"
+  ],
+  "correct": 2,
+  "explainEn": "Nitrogen makes up about 78 percent of the Earth's atmosphere by volume.",
+  "sourceHint": "NCERT Class 7 Geography Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T06:08:07Z"
  }
 ]
