@@ -69,6 +69,9 @@ import com.example.ui.theme.SuccessGreen
 import com.example.ui.theme.TextMuted
 import com.example.ui.theme.TextPrimary
 import com.example.ui.theme.TextSecondary
+import com.example.ui.utils.adaptiveContentWidth
+import com.example.ui.utils.adaptiveFontScaleFor
+import androidx.compose.ui.platform.LocalConfiguration
 import com.example.ui.viewmodel.QuizViewModel
 
 @Composable
@@ -81,6 +84,7 @@ fun HomeScreen(
     val isSoundMuted by viewModel.isSoundMuted.collectAsState()
     val mode = language.uppercase()
     val isHi = mode == "HINDI" || mode == "HI"
+    val fontScale = adaptiveFontScaleFor(LocalConfiguration.current.screenWidthDp)
 
     Surface(
         modifier = modifier
@@ -91,6 +95,7 @@ fun HomeScreen(
         Column(
             modifier = Modifier
                 .fillMaxSize()
+                .adaptiveContentWidth()
                 .padding(16.dp)
                 .verticalScroll(rememberScrollState()),
             horizontalAlignment = Alignment.CenterHorizontally
@@ -199,7 +204,8 @@ fun HomeScreen(
                 style = MaterialTheme.typography.headlineLarge.copy(
                     fontWeight = FontWeight.Black,
                     color = GoldGlow,
-                    letterSpacing = 2.sp
+                    letterSpacing = 2.sp,
+                    fontSize = MaterialTheme.typography.headlineLarge.fontSize * fontScale
                 )
             )
 
@@ -207,7 +213,8 @@ fun HomeScreen(
                 text = if (isHi) "AI Reasoning Hot Seat • Guessing Is Not An Option" else "AI Reasoning Hot Seat • Guessing Is Not An Option",
                 style = MaterialTheme.typography.bodyMedium.copy(
                     color = TextSecondary,
-                    textAlign = TextAlign.Center
+                    textAlign = TextAlign.Center,
+                    fontSize = MaterialTheme.typography.bodyMedium.fontSize * fontScale
                 ),
                 modifier = Modifier.padding(horizontal = 24.dp)
             )
@@ -360,7 +367,7 @@ fun HomeScreen(
                                 )
                             )
                             Text(
-                                text = if (isHi) "🔥 स्ट्रीक: 3 दिन सक्रिय • आज का तर्क परखें" else "🔥 Streak: 3 Days Active • Test Logic Today",
+                                text = if (isHi) "हर खेल में नए प्रश्न • आज का तर्क परखें" else "Fresh questions every game • Test your logic today",
                                 fontSize = 11.sp,
                                 color = SuccessGreen
                             )
@@ -491,7 +498,7 @@ fun HomeScreen(
                     style = MaterialTheme.typography.titleMedium.copy(
                         color = NavyDeepest,
                         fontWeight = FontWeight.Black,
-                        fontSize = 15.sp
+                        fontSize = 15.sp * fontScale
                     )
                 )
                      val phoneCtx = androidx.compose.ui.platform.LocalContext.current

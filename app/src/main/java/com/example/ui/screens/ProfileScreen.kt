@@ -88,6 +88,9 @@ import androidx.activity.compose.rememberLauncherForActivityResult
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.core.content.ContextCompat
 import androidx.compose.ui.platform.LocalContext
+import com.example.ui.utils.adaptiveContentWidth
+import com.example.ui.utils.adaptiveFontScaleFor
+import androidx.compose.ui.platform.LocalConfiguration
 
 @OptIn(ExperimentalMaterial3Api::class, ExperimentalLayoutApi::class)
 @Composable
@@ -233,6 +236,7 @@ fun ProfileScreen(
         }
     }
 
+    val fontScale = adaptiveFontScaleFor(LocalConfiguration.current.screenWidthDp)
     Surface(
         modifier = modifier
             .fillMaxSize()
@@ -242,6 +246,7 @@ fun ProfileScreen(
         Column(
             modifier = Modifier
                 .fillMaxSize()
+                .adaptiveContentWidth()
                 .padding(16.dp)
                 .verticalScroll(rememberScrollState())
         ) {
@@ -270,7 +275,8 @@ fun ProfileScreen(
                         text = "तर्क प्रोफ़ाइल अनुकूलन / User Profile",
                         style = MaterialTheme.typography.titleMedium.copy(
                             color = GoldGlow,
-                            fontWeight = FontWeight.Bold
+                            fontWeight = FontWeight.Bold,
+                            fontSize = MaterialTheme.typography.titleMedium.fontSize * fontScale
                         )
                     )
                     Text(

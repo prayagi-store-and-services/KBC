@@ -53,6 +53,7 @@ import com.example.ui.theme.NavyDeepest
 import com.example.ui.theme.PurpleAccent
 import com.example.ui.theme.SuccessGreen
 import com.example.ui.theme.TextPrimary
+import com.example.ui.utils.adaptiveContentWidth
 import com.example.ui.theme.TextSecondary
 
 @Composable
@@ -74,6 +75,7 @@ fun LoadingScreen(modifier: Modifier = Modifier) {
         Column(
             modifier = Modifier
                 .fillMaxSize()
+                .adaptiveContentWidth()
                 .padding(24.dp),
             horizontalAlignment = Alignment.CenterHorizontally,
             verticalArrangement = Arrangement.Center

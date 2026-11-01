@@ -48,6 +48,7 @@ import com.example.ui.theme.NavyCard
 import com.example.ui.theme.NavyDeepest
 import com.example.ui.theme.SuccessGreen
 import com.example.ui.theme.TextPrimary
+import com.example.ui.utils.adaptiveContentWidth
 import com.example.ui.theme.TextSecondary
 
 @Composable
@@ -80,6 +81,7 @@ fun ProfileInstallingScreen(
             Card(
                 modifier = Modifier
                     .fillMaxWidth()
+                    .adaptiveContentWidth()
                     .border(1.dp, NavyBorder, RoundedCornerShape(20.dp)),
                 colors = CardDefaults.cardColors(containerColor = NavyCard),
                 shape = RoundedCornerShape(20.dp),
