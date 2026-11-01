@@ -1,3 +1,6 @@
+## 1.1.42 interface layout (phone/tablet adaptive sizing)
+Layout-only change: content is capped and centred on wide screens (compact/medium/expanded classes) and selected headings scale up for smart-class distance viewing; phones are unchanged. One user-visible text correction: a hardcoded "3 days active" streak line was untrue (no streak is tracked) and was replaced with a true statement. No new permission, library, network call, storage, server, exported component or logging. Not a vulnerability patch. Release requires final-head CI, independent review and native UI inspection.
+
 ## 1.1.41 question uniqueness and permission removal
 Question generation now enforces text-level uniqueness across games: every fallback path keeps drawing fresh parameter variations until the wording has never been served, and seven previously fixed-text generators are parameterized with mathematically verified answers. Game start no longer checks Camera or Microphone permission; the app never had any code that records or captures media, and the manifest never declared those permissions. No new permission, library, telemetry or server. This is not a vulnerability patch. Release requires final-head CI, independent review and native UI inspection.
 
