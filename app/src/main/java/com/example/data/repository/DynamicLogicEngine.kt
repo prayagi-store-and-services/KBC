@@ -1485,16 +1485,8 @@ object DynamicLogicEngine {
         val nearEnd = nearStart + 15
         val place = listOf("airport" to "हवाई अड्डे", "railway station" to "रेलवे स्टेशन", "metro station" to "मेट्रो स्टेशन").random(rand)
 
-        val qEn = "A crime occurs at ${fmt(crimeH, crimeM)} in the city center. Three suspects present the following alibis:
-1. ${n1.first}: 'I was on CCTV at ${if (place.first == "airport") "an" else "a"} ${place.first} $dist km away from ${fmt(cctvStart / 60, cctvStart % 60)} to ${fmt(cctvEnd / 60, cctvEnd % 60)}.'
-2. ${n2.first}: 'I was in a bank $nearDist km from the crime scene from ${fmt(nearStart / 60, nearStart % 60)} to ${fmt(nearEnd / 60, nearEnd % 60)}.'
-3. ${n3.first}: 'I was sleeping at home with no witnesses.'
-Which suspect's alibi is physically and geographically the most indisputable?"
-        val qHi = "एक अपराध ${fmtHi(crimeH, crimeM)} बजे शहर के केंद्र में हुआ। तीन संदिग्धों के बयान निम्नलिखित हैं:
-1. ${n1.second}: 'मैं ${fmtHi(cctvStart / 60, cctvStart % 60)} से ${fmtHi(cctvEnd / 60, cctvEnd % 60)} तक $dist किमी दूर ${place.second} पर सीसीटीवी में दिखा/दिखी।'
-2. ${n2.second}: 'मैं ${fmtHi(nearStart / 60, nearStart % 60)} से ${fmtHi(nearEnd / 60, nearEnd % 60)} तक अपराध स्थल से $nearDist किमी दूर बैंक में था/थी।'
-3. ${n3.second}: 'मैं बिना किसी गवाह के घर पर सो रहा/रही था/थी।'
-किस संदिग्ध का बहाना (Alibi) भौतिक एवं भौगोलिक रूप से सबसे अभेद्य (unbreakable) है?"
+        val qEn = "A crime occurs at ${fmt(crimeH, crimeM)} in the city center. Three suspects present the following alibis:\n1. ${n1.first}: 'I was on CCTV at ${if (place.first == "airport") "an" else "a"} ${place.first} $dist km away from ${fmt(cctvStart / 60, cctvStart % 60)} to ${fmt(cctvEnd / 60, cctvEnd % 60)}.'\n2. ${n2.first}: 'I was in a bank $nearDist km from the crime scene from ${fmt(nearStart / 60, nearStart % 60)} to ${fmt(nearEnd / 60, nearEnd % 60)}.'\n3. ${n3.first}: 'I was sleeping at home with no witnesses.'\nWhich suspect's alibi is physically and geographically the most indisputable?"
+        val qHi = "एक अपराध ${fmtHi(crimeH, crimeM)} बजे शहर के केंद्र में हुआ। तीन संदिग्धों के बयान निम्नलिखित हैं:\n1. ${n1.second}: 'मैं ${fmtHi(cctvStart / 60, cctvStart % 60)} से ${fmtHi(cctvEnd / 60, cctvEnd % 60)} तक $dist किमी दूर ${place.second} पर सीसीटीवी में दिखा/दिखी।'\n2. ${n2.second}: 'मैं ${fmtHi(nearStart / 60, nearStart % 60)} से ${fmtHi(nearEnd / 60, nearEnd % 60)} तक अपराध स्थल से $nearDist किमी दूर बैंक में था/थी।'\n3. ${n3.second}: 'मैं बिना किसी गवाह के घर पर सो रहा/रही था/थी।'\nकिस संदिग्ध का बहाना (Alibi) भौतिक एवं भौगोलिक रूप से सबसे अभेद्य (unbreakable) है?"
 
         val correctStrEn = "${n1.first} - Timestamped CCTV $dist km away covering the crime time"
         val correctStr = "${n1.second} - अपराध के समय $dist किमी दूर सीसीटीवी पुष्टि"
@@ -1714,16 +1706,8 @@ Which suspect's alibi is physically and geographically the most indisputable?"
         val ws = listOf("teachers" to "शिक्षक", "students" to "छात्र", "pilots" to "पायलट", "writers" to "लेखक", "farmers" to "किसान")
         val x = xs.random(rand); val y = ys.random(rand); val z = zs.random(rand); val w = ws.random(rand)
 
-        val qEn = "Premises:
-1. All ${x.first} are ${y.first}.
-2. No ${z.first} is ${y.first}.
-3. Some ${w.first} are ${x.first}.
-What conclusion is deductively CERTAIN?"
-        val qHi = "कथन:
-1. सभी ${x.second} ${y.second} हैं।
-2. कोई भी ${z.second} ${y.second} नहीं है।
-3. कुछ ${w.second} ${x.second} हैं।
-निश्चित रूप से वैध तार्किक निष्कर्ष क्या है?"
+        val qEn = "Premises:\n1. All ${x.first} are ${y.first}.\n2. No ${z.first} is ${y.first}.\n3. Some ${w.first} are ${x.first}.\nWhat conclusion is deductively CERTAIN?"
+        val qHi = "कथन:\n1. सभी ${x.second} ${y.second} हैं।\n2. कोई भी ${z.second} ${y.second} नहीं है।\n3. कुछ ${w.second} ${x.second} हैं।\nनिश्चित रूप से वैध तार्किक निष्कर्ष क्या है?"
 
         val correctStrEn = "Some ${w.first} are not ${z.first}s"
         val correctStrHi = "कुछ ${w.second} ${z.second} नहीं हैं"
