@@ -74,6 +74,27 @@ object MultiLayerQuestionValidator {
     )
 
     /**
+     * The player-facing "no repeated questions" promise is text-level: the user must
+     * never be shown the same question text again, in any game, even when every
+     * fingerprint pool for a tier is exhausted. Template/logic reuse with fresh
+     * wording is acceptable; identical wording is not.
+     */
+    fun isTextRepeat(
+        candidate: QuestionItem,
+        history: HistoricalRegistry,
+        currentSessionQuestions: Collection<QuestionItem>
+    ): Boolean {
+        val normEn = normalizeText(candidate.questionEnglish)
+        val normHi = normalizeText(candidate.questionHindi)
+        if (normEn.isNotBlank() && history.servedNormalizedTexts.contains(normEn)) return true
+        if (normHi.isNotBlank() && history.servedNormalizedTexts.contains(normHi)) return true
+        return currentSessionQuestions.any {
+            (normEn.isNotBlank() && normEn == normalizeText(it.questionEnglish)) ||
+            (normHi.isNotBlank() && normHi == normalizeText(it.questionHindi))
+        }
+    }
+
+    /**
      * Checks if a candidate question satisfies all multi-layer uniqueness constraints:
      * - No exact or normalized text match in history or current session.
      * - No semantic fingerprint match (identical question meaning + answer).

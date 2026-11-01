@@ -321,12 +321,11 @@ class QuizViewModel(application: Application) : AndroidViewModel(application) {
                     isStartingGame = false
                     return@launch
                 }
+                // KBC never uses the camera or microphone (nothing in the app
+                // records or captures media), so game start must not demand
+                // those permissions. Owner decision 1 Nov: remove the unused
+                // Camera/Mic requirement instead of adding camera features.
                 val isTv = com.example.util.DeviceCapabilities.isTv(context)
-                val deviceHasCamera = com.example.util.DeviceCapabilities.hasCamera(context)
-                val deviceHasMic = com.example.util.DeviceCapabilities.hasMicrophone(context)
-
-                val hasCamera = if (isTv && !deviceHasCamera) true else androidx.core.content.ContextCompat.checkSelfPermission(context, android.Manifest.permission.CAMERA) == android.content.pm.PackageManager.PERMISSION_GRANTED
-                val hasMic = if (isTv && !deviceHasMic) true else androidx.core.content.ContextCompat.checkSelfPermission(context, android.Manifest.permission.RECORD_AUDIO) == android.content.pm.PackageManager.PERMISSION_GRANTED
                 val hasNotification = if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.TIRAMISU) {
                     androidx.core.content.ContextCompat.checkSelfPermission(context, android.Manifest.permission.POST_NOTIFICATIONS) == android.content.pm.PackageManager.PERMISSION_GRANTED
                 } else {
@@ -334,8 +333,6 @@ class QuizViewModel(application: Application) : AndroidViewModel(application) {
                 }
 
                 val missing = mutableListOf<String>()
-                if (!hasCamera && !(isTv && !deviceHasCamera)) missing.add("Camera")
-                if (!hasMic && !(isTv && !deviceHasMic)) missing.add("Microphone")
                 if (!hasNotification && !isTv) missing.add("Notifications")
 
                 android.util.Log.d("TarkShastra", "PROFILE_VALIDATED for game start")

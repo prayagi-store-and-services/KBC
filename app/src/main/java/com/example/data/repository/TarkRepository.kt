@@ -216,7 +216,8 @@ class TarkRepository(
                 qNumber = qNumber,
                 userProfile = userProfile,
                 servedFingerprints = servedSemanticFingerprints,
-                flippedQuestionIds = flippedQuestionIds
+                flippedQuestionIds = flippedQuestionIds,
+                servedNormalizedTexts = servedNormalizedTexts
             )
         }
 
@@ -238,13 +239,15 @@ class TarkRepository(
         qNumber: Int,
         userProfile: UserProfile,
         servedFingerprints: Set<String>,
-        flippedQuestionIds: Set<String>
+        flippedQuestionIds: Set<String>,
+        servedNormalizedTexts: Set<String> = emptySet()
     ): QuestionItem {
         // Instant verified canonical Current Affairs reasoning generator (< 2ms)
         val finalQuestion = CurrentAffairsReasoningGenerator.generateReasoningQuestion(
             qNumber = qNumber,
             userProfile = userProfile,
-            excludedFingerprints = servedFingerprints
+            excludedFingerprints = servedFingerprints,
+            excludedNormalizedTexts = servedNormalizedTexts
         )
 
         registerQuestionInDb(finalQuestion, userProfile.id, userProfile.languageMode)
