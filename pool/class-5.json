@@ -26430,5 +26430,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-01T13:28:10Z"
+ },
+ {
+  "id": "q_b55bdf491ece9843",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which direction does the needle of a magnetic compass always point?",
+  "qHi": "चुंबकीय compass की सुई हमेशा किस दिशा की ओर इशारा करती है?",
+  "optsEn": [
+   "East-West",
+   "North-South",
+   "Up-Down",
+   "Left-Right"
+  ],
+  "optsHi": [
+   "पूर्व-पश्चिम",
+   "उत्तर-दक्षिण",
+   "ऊपर-नीचे",
+   "बाएँ-दाएँ"
+  ],
+  "correct": 1,
+  "explainEn": "A magnetic compass aligns with Earth's magnetic field, pointing towards the North and South poles.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T22:10:37Z"
+ },
+ {
+  "id": "q_9c76ee69af9ed5b7",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary natural source of light for Earth?",
+  "qHi": "पृथ्वी के लिए प्रकाश का प्राथमिक प्राकृतिक स्रोत क्या है?",
+  "optsEn": [
+   "The Moon",
+   "The Sun",
+   "Stars",
+   "Fire"
+  ],
+  "optsHi": [
+   "चंद्रमा",
+   "सूर्य",
+   "तारे",
+   "आग"
+  ],
+  "correct": 1,
+  "explainEn": "The Sun is the closest star to Earth and provides natural light and heat.",
+  "sourceHint": "NCERT Class 3-5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T22:10:37Z"
+ },
+ {
+  "id": "q_17d14ec1e58f48ff",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which is the National Anthem of India?",
+  "qHi": "भारत का राष्ट्रगान कौन सा है?",
+  "optsEn": [
+   "Vande Mataram",
+   "Jana Gana Mana",
+   "Sare Jahan Se Achha",
+   "Maa Tujhe Salaam"
+  ],
+  "optsHi": [
+   "वंदे मातरम",
+   "जन गण मन",
+   "सारे जहाँ से अच्छा",
+   "माँ तुझे सलाम"
+  ],
+  "correct": 1,
+  "explainEn": "Jana Gana Mana, written by Rabindranath Tagore, is the National Anthem of India.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T22:10:37Z"
+ },
+ {
+  "id": "q_22de3def3add008b",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which traditional Indian harvesting festival are bonfires lit and revellers dance around the fire?",
+  "qHi": "किस पारंपरिक भारतीय फसल कटाई के त्योहार में अलाव जलाया जाता है और लोग आग के चारों ओर नाचते हैं?",
+  "optsEn": [
+   "Lohri",
+   "Onam",
+   "Pongal",
+   "Bihu"
+  ],
+  "optsHi": [
+   "लोहड़ी",
+   "ओणम",
+   "पोंगल",
+   "बिहू"
+  ],
+  "correct": 0,
+  "explainEn": "Lohri is a popular winter harvest festival associated with bonfires, particularly in northern India.",
+  "sourceHint": "NCERT Class 5 Culture and Festivals",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T22:15:50Z"
+ },
+ {
+  "id": "q_e22e48c967e69a7b",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following describes the process of water changing into water vapour due to heat?",
+  "qHi": "निम्नलिखित में से कौन सा प्रक्रिया गर्मी के कारण पानी के जल वाष्प में बदलने को दर्शाती है?",
+  "optsEn": [
+   "Evaporation",
+   "Condensation",
+   "Precipitation",
+   "Filtration"
+  ],
+  "optsHi": [
+   "वाष्पीकरण",
+   "संघनन",
+   "वर्षण",
+   "निस्यंदन"
+  ],
+  "correct": 0,
+  "explainEn": "Evaporation is the process by which liquid water turns into gas or water vapour when heated.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T22:15:50Z"
+ },
+ {
+  "id": "q_fda6cad8b7eb0a12",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which animal is well known for migrating thousands of kilometres across continents, such as the monarch butterfly?",
+  "qHi": "कौन सा जीव महाद्वीपों के पार हजारों किलोमीटर की यात्रा करने के लिए जाना जाता है, जैसे कि मोनार्क तितली?",
+  "optsEn": [
+   "Butterfly",
+   "Earthworm",
+   "Housefly",
+   "Snail"
+  ],
+  "optsHi": [
+   "तितली",
+   "केंचुआ",
+   "घरेलू मक्खी",
+   "घोंघा"
+  ],
+  "correct": 0,
+  "explainEn": "Certain insects like the monarch butterfly undertake long-distance migrations to find suitable breeding or wintering habitats.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T22:15:50Z"
  }
 ]

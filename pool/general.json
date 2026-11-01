@@ -19178,5 +19178,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-01T13:27:02Z"
+ },
+ {
+  "id": "q_effa7ac33070d375",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the chemical formula for common table salt?",
+  "qHi": "साधारण खाने वाले नमक का रासायनिक सूत्र क्या है?",
+  "optsEn": [
+   "H2O",
+   "CO2",
+   "NaCl",
+   "NaOH"
+  ],
+  "optsHi": [
+   "H2O",
+   "CO2",
+   "NaCl",
+   "NaOH"
+  ],
+  "correct": 2,
+  "explainEn": "Sodium chloride, with the chemical formula NaCl, is the salt principally responsible for the salinity of seawater and common table salt.",
+  "sourceHint": "NCERT Chemistry",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T22:15:45Z"
  }
 ]

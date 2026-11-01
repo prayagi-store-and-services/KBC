@@ -32030,5 +32030,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-01T13:28:01Z"
+ },
+ {
+  "id": "q_ca2c9202aade507e",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'M' stand for in the financial term 'MSME'?",
+  "qHi": "वित्तीय शब्द 'MSME' में अक्षर 'M' का क्या अर्थ है?",
+  "optsEn": [
+   "Macro",
+   "Micro",
+   "Monetary",
+   "Mutual"
+  ],
+  "optsHi": [
+   "Macro",
+   "Micro",
+   "Monetary",
+   "Mutual"
+  ],
+  "correct": 1,
+  "explainEn": "MSME stands for Micro, Small and Medium Enterprises.",
+  "sourceHint": "Ministry of Micro, Small and Medium Enterprises, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T22:08:41Z"
+ },
+ {
+  "id": "q_5c2feab0b7a9902c",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following rates is the interest rate at which the Reserve Bank of India absorbs liquidity from commercial banks?",
+  "qHi": "निम्नलिखित में से कौन सी दर वह ब्याज दर है जिस पर भारतीय रिजर्व बैंक वाणिज्यिक बैंकों से तरलता को अवशोषित करता है?",
+  "optsEn": [
+   "Repo Rate",
+   "Bank Rate",
+   "Reverse Repo Rate",
+   "Marginal Standing Facility Rate"
+  ],
+  "optsHi": [
+   "रेपो दर",
+   "बैंक दर",
+   "रिवर्स रेपो दर",
+   "सीमांत स्थायी सुविधा दर"
+  ],
+  "correct": 2,
+  "explainEn": "Reverse Repo Rate is the rate at which RBI borrows money from commercial banks or absorbs liquidity from them.",
+  "sourceHint": "RBI monetary policy definitions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T22:15:41Z"
+ },
+ {
+  "id": "q_7ea284fd97faa016",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum deposit insurance coverage provided by the Deposit Insurance and Credit Guarantee Corporation (DICGC) per depositor per bank?",
+  "qHi": "डिपॉजिट इंश्योरेंस एंड क्रेडिट गारंटी कॉरपोरेशन (DICGC) द्वारा प्रति जमाकर्ता प्रति बैंक अधिकतम कितनी जमा बीमा कवरेज प्रदान की जाती है?",
+  "optsEn": [
+   "Rupees 1 Lakh",
+   "Rupees 2 Lakh",
+   "Rupees 5 Lakh",
+   "Rupees 10 Lakh"
+  ],
+  "optsHi": [
+   "1 लाख रुपये",
+   "2 लाख रुपये",
+   "5 लाख रुपये",
+   "10 लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "DICGC insures all bank deposits up to a maximum of Rupees 5 Lakh per depositor per bank.",
+  "sourceHint": "DICGC Act / RBI official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T22:15:41Z"
+ },
+ {
+  "id": "q_2c29d7b65acd7787",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institution operates the Unified Payments Interface (UPI) network in India?",
+  "qHi": "भारत में यूनिफाइड पेमेंट इंटरफेस (UPI) नेटवर्क का संचालन कौन सा संस्थान करता है?",
+  "optsEn": [
+   "National Payments Corporation of India",
+   "Reserve Bank of India",
+   "Indian Banks' Association",
+   "State Bank of India"
+  ],
+  "optsHi": [
+   "भारतीय राष्ट्रीय भुगतान निगम",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय बैंक संघ",
+   "भारतीय स्टेट बैंक"
+  ],
+  "correct": 0,
+  "explainEn": "NPCI (National Payments Corporation of India) is an umbrella organization for operating retail payments and settlement systems in India, including UPI.",
+  "sourceHint": "NPCI official documentation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T22:15:41Z"
+ },
+ {
+  "id": "q_4550debb47de5ce7",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the term 'CASA' primarily refer to in the context of commercial banking?",
+  "qHi": "वाणिज्यिक बैंकिंग के संदर्भ में 'CASA' शब्द का मुख्य रूप से क्या अर्थ है?",
+  "optsEn": [
+   "Current Account Savings Account",
+   "Credit Asset Security Agreement",
+   "Centralized Automated Savings Application",
+   "Commercial Asset Structure Arrangement"
+  ],
+  "optsHi": [
+   "करेंट अकाउंट सेविंग्स अकाउंट",
+   "क्रेडिट एसेट सिक्योरिटी एग्रीमेंट",
+   "सेंट्रलाइज्ड ऑटोमेटेड सेविंग्स एप्लीकेशन",
+   "कमर्शियल एसेट स्ट्रक्चर अरेंजमेंट"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account Savings Account, representing low-cost deposits for commercial banks.",
+  "sourceHint": "Banking terminology and RBI glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T22:15:41Z"
+ },
+ {
+  "id": "q_cef311de4b25b6d1",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the full form of 'RTGS' in the Indian banking payment systems?",
+  "qHi": "भारतीय बैंकिंग भुगतान प्रणालियों में 'RTGS' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Real Time Gross Settlement",
+   "Regular Transaction Growth Service",
+   "Rapid Transfer Guarantee System",
+   "Reserve Transfer Gross Standard"
+  ],
+  "optsHi": [
+   "रियल टाइम ग्रॉस सेटलमेंट",
+   "रेगुलर ट्रांजैक्शन ग्रोथ सर्विस",
+   "रैपिड ट्रांसफर गारंटी सिस्टम",
+   "रिजर्व ट्रांसफर ग्रॉस स्टैंडर्ड"
+  ],
+  "correct": 0,
+  "explainEn": "RTGS stands for Real Time Gross Settlement, which means continuous and real-time settlement of fund transfers individually on a transaction-by-transaction basis.",
+  "sourceHint": "RBI payment systems overview",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T22:15:41Z"
+ },
+ {
+  "id": "q_9df691a5dee97977",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following monetary policy tools is defined as a statutory reserve requirement that forces scheduled commercial banks to maintain a specified percentage of their net demand and time liabilities in the form of liquid assets with themselves?",
+  "qHi": "निम्नलिखित में से कौन सा मौद्रिक नीति उपकरण एक वैधानिक आरक्षित आवश्यकता के रूप में परिभाषित है जो अनुसूचित वाणिज्यिक बैंकों को अपनी शुद्ध मांग और समय देनदारियों का एक निर्दिष्ट प्रतिशत अपने पास तरल संपत्तियों के रूप में बनाए रखने के लिए बाध्य करता है?",
+  "optsEn": [
+   "Cash Reserve Ratio",
+   "Statutory Liquidity Ratio",
+   "Repo Rate",
+   "Marginal Standing Facility"
+  ],
+  "optsHi": [
+   "नकद आरक्षित अनुपात",
+   "वैधानिक तरलता अनुपात",
+   "रेपो दर",
+   "सीमांत स्थायी सुविधा"
+  ],
+  "correct": 1,
+  "explainEn": "Statutory Liquidity Ratio (SLR) requires banks to maintain a certain percentage of NDTL in liquid assets such as cash, gold, or approved securities with themselves.",
+  "sourceHint": "RBI Publications and Banking Regulation Act",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T22:16:24Z"
+ },
+ {
+  "id": "q_08a6a5bbc9845f00",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Basel III norms, what minimum total capital-to-risk weighted assets ratio (CRAR) must Indian scheduled commercial banks maintain, inclusive of the Capital Conservation Buffer?",
+  "qHi": "बेसल III मानदंडों के तहत, भारतीय अनुसूचित वाणिज्यिक बैंकों को पूंजी संरक्षण बफर सहित न्यूनतम कुल पूंजी-से-जोखिम भारित संपत्ति अनुपात (CRAR) कितना बनाए रखना चाहिए?",
+  "optsEn": [
+   "9.0%",
+   "10.5%",
+   "11.5%",
+   "12.0%"
+  ],
+  "optsHi": [
+   "9.0%",
+   "10.5%",
+   "11.5%",
+   "12.0%"
+  ],
+  "correct": 2,
+  "explainEn": "As per RBI guidelines aligned with Basel III, the total CRAR requirement is 9% plus a Capital Conservation Buffer of 2.5%, totaling 11.5%.",
+  "sourceHint": "RBI Master Circular on Basel III Capital Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T22:16:24Z"
+ },
+ {
+  "id": "q_e727681bd527f564",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which institutional mechanism in India operates as the apex organization for handling complaints relating to deficiency in banking services rendered by covered entities?",
+  "qHi": "भारत में कवर की गई संस्थाओं द्वारा प्रदान की जाने वाली बैंकिंग सेवाओं में कमी से संबंधित शिकायतों को निपटाने के लिए शीर्ष संगठन के रूप में कौन सा संस्थागत तंत्र कार्य करता है?",
+  "optsEn": [
+   "Banking Ombudsman Scheme",
+   "National Consumer Disputes Redressal Commission",
+   "Competition Commission of India",
+   "Insolvency and Bankruptcy Board"
+  ],
+  "optsHi": [
+   "बैंकिंग लोकपाल योजना",
+   "राष्ट्रीय उपभोक्ता विवाद निवारण आयोग",
+   "भारतीय प्रतिस्पर्धा आयोग",
+   "दिवाला और शोधन अक्षमता बोर्ड"
+  ],
+  "correct": 0,
+  "explainEn": "The Reserve Bank - Integrated Ombudsman Scheme provides a cost-free grievance redressal mechanism for customers against deficiencies in banking services.",
+  "sourceHint": "RBI Ombudsman Scheme Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T22:16:24Z"
+ },
+ {
+  "id": "q_11672d8a9804d2bd",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of priority sector lending (PSL) guidelines for scheduled commercial banks in India, what is the overall PSL target mandated for domestic commercial banks as a percentage of Adjusted Net Bank Credit?",
+  "qHi": "भारत में अनुसूचित वाणिज्यिक बैंकों के लिए प्राथमिकता प्राप्त क्षेत्र ऋण (PSL) दिशानिर्देशों के संदर्भ में, समायोजित शुद्ध बैंक ऋण के प्रतिशत के रूप में घरेलू वाणिज्यिक बैंकों के लिए निर्धारित समग्र PSL लक्ष्य क्या है?",
+  "optsEn": [
+   "32 percent",
+   "40 percent",
+   "45 percent",
+   "50 percent"
+  ],
+  "optsHi": [
+   "32 प्रतिशत",
+   "40 प्रतिशत",
+   "45 प्रतिशत",
+   "50 प्रतिशत"
+  ],
+  "correct": 1,
+  "explainEn": "Domestic commercial banks are mandated to allocate 40 percent of their ANBC or Credit Equivalent Amount of Off-Balance Sheet Exposure, whichever is higher, to the priority sector.",
+  "sourceHint": "RBI Master Directions on Priority Sector Lending",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T22:16:24Z"
+ },
+ {
+  "id": "q_00d017163964d81e",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which financial market instrument is characterized as a short-term unsecured promissory note issued by corporations and financial institutions to meet their working capital requirements?",
+  "qHi": "किस वित्तीय बाजार साधन को कॉरपोरेट्स और वित्तीय संस्थानों द्वारा उनकी कार्यशील पूंजी की आवश्यकता को पूरा करने के लिए जारी किए गए अल्पकालिक असुरक्षित प्रॉमिसरी नोट के रूप में चित्रित किया गया है?",
+  "optsEn": [
+   "Certificate of Deposit",
+   "Commercial Paper",
+   "Treasury Bill",
+   "Dated Government Security"
+  ],
+  "optsHi": [
+   "डिमांड ड्राफ्ट",
+   "कमर्शियल पेपर",
+   "ट्रेजरी बिल",
+   "दिनांकित सरकारी प्रतिभूति"
+  ],
+  "correct": 1,
+  "explainEn": "Commercial Paper is a money market instrument issued in the form of an unsecured promissory note with a fixed maturity period.",
+  "sourceHint": "Reserve Bank of India Financial Markets Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T22:16:24Z"
+ },
+ {
+  "id": "q_eabec345b58d3052",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What term is used in the Indian banking system to describe a loan account that has remained non-performing for a period exceeding three years from the date it was classified as doubtful?",
+  "qHi": "भारतीय बैंकिंग प्रणाली में उस ऋण खाते का वर्णन करने के लिए किस शब्द का उपयोग किया जाता है जो संदिग्ध के रूप में वर्गीकृत होने की तारीख से तीन साल से अधिक की अवधि के लिए गैर-निष्पादित रहा है?",
+  "optsEn": [
+   "Sub-standard asset",
+   "Loss asset",
+   "Special mention account",
+   "Write-off asset"
+  ],
+  "optsHi": [
+   "अवर मानक परिसंपत्ति",
+   "हानि परिसंपत्ति",
+   "विशेष उल्लेख खाता",
+   "बट्टे खाते में डाली गई परिसंपत्ति"
+  ],
+  "correct": 1,
+  "explainEn": "Assets where loss has been identified by the bank or internal/external auditors or central bank inspectors, but the amount has not been fully written off, are classified as loss assets if they remain doubtful for more than three years.",
+  "sourceHint": "RBI Master Circular on Income Recognition and Asset Classification",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T22:16:24Z"
+ },
+ {
+  "id": "q_b87567b8cf70c352",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organization in India functions as the central counterparty for clearing and settling trades in government securities, money market instruments, and foreign exchange markets?",
+  "qHi": "भारत में कौन सा संगठन सरकारी प्रतिभूतियों, मुद्रा बाजार के साधनों और विदेशी मुद्रा बाजारों में ट्रेडों के निकासी और निपटान के लिए केंद्रीय प्रतिपक्ष के रूप में कार्य करता है?",
+  "optsEn": [
+   "National Payments Corporation of India",
+   "Clearing Corporation of India Limited",
+   "Securities and Exchange Board of India",
+   "Stock Holding Corporation of India"
+  ],
+  "optsHi": [
+   "भारतीय राष्ट्रीय भुगतान निगम",
+   "क्लियरिंग कॉरपोरेशन ऑफ़ इंडिया लिमिटेड",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "स्टॉक होल्डिंग कॉरपोरेशन ऑफ़ इंडिया"
+  ],
+  "correct": 1,
+  "explainEn": "Clearing Corporation of India Limited (CCIL) provides guaranteed clearing and settlement functions for transactions in money, debt, and foreign exchange markets.",
+  "sourceHint": "RBI Financial Stability Reports and CCIL Overview",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-01T22:16:24Z"
  }
 ]
