@@ -1,3 +1,6 @@
+## 1.1.41 question uniqueness and permission removal
+Question generation now enforces text-level uniqueness across games: every fallback path keeps drawing fresh parameter variations until the wording has never been served, and seven previously fixed-text generators are parameterized with mathematically verified answers. Game start no longer checks Camera or Microphone permission; the app never had any code that records or captures media, and the manifest never declared those permissions. No new permission, library, telemetry or server. This is not a vulnerability patch. Release requires final-head CI, independent review and native UI inspection.
+
 ## 1.1.40 metadata-only notices
 Daily battery/network-constrained WorkManager checks share a persisted attempt gate with foreground checks. Notification permission and blocked channels are respected; notices are version-deduplicated. Update taps resolve at tap time, falling back to the exact Eco website page if compatible Eco cannot open. No APK handling or install permission. No new library, telemetry or server. This is not a vulnerability patch or proof of physical-device battery performance. Release requires final-head CI, independent review and native UI inspection.
 
