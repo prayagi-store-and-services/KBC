@@ -58,6 +58,9 @@ import com.example.ui.theme.NavyDeepest
 import com.example.ui.theme.SuccessGreen
 import com.example.ui.theme.TextPrimary
 import com.example.ui.theme.TextSecondary
+import com.example.ui.utils.adaptiveContentWidth
+import com.example.ui.utils.adaptiveFontScaleFor
+import androidx.compose.ui.platform.LocalConfiguration
 import com.example.ui.viewmodel.QuizViewModel
 
 @Composable
@@ -88,6 +91,7 @@ fun SummaryScreen(
             "📚 Game Mode: ${result.gameMode} (${result.examContext})\n" +
             "Reason. Solve. Win."
 
+    val fontScale = adaptiveFontScaleFor(LocalConfiguration.current.screenWidthDp)
     Surface(
         modifier = modifier
             .fillMaxSize()
@@ -97,6 +101,7 @@ fun SummaryScreen(
         Column(
             modifier = Modifier
                 .fillMaxSize()
+                .adaptiveContentWidth()
                 .padding(16.dp)
                 .verticalScroll(rememberScrollState()),
             horizontalAlignment = Alignment.CenterHorizontally
@@ -151,7 +156,8 @@ fun SummaryScreen(
                 text = if (isGrandWin) "महा-तर्क विजयी! (Grand Champion)" else "खेल समाप्त (Game Summary)",
                 style = MaterialTheme.typography.headlineSmall.copy(
                     color = GoldGlow,
-                    fontWeight = FontWeight.Black
+                    fontWeight = FontWeight.Black,
+                    fontSize = MaterialTheme.typography.headlineSmall.fontSize * fontScale
                 )
             )
 
@@ -232,7 +238,8 @@ fun SummaryScreen(
                         style = MaterialTheme.typography.headlineMedium.copy(
                             color = GoldGlow,
                             fontWeight = FontWeight.Black,
-                            letterSpacing = 1.sp
+                            letterSpacing = 1.sp,
+                            fontSize = MaterialTheme.typography.headlineMedium.fontSize * fontScale
                         )
                     )
 

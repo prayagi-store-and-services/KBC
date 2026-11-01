@@ -57,6 +57,7 @@ import com.example.ui.theme.NavyCard
 import com.example.ui.theme.NavyDeepest
 import com.example.ui.theme.SuccessGreen
 import com.example.ui.theme.TextPrimary
+import com.example.ui.utils.adaptiveContentWidth
 import com.example.ui.theme.TextSecondary
 import com.example.ui.theme.WarningOrange
 
@@ -90,6 +91,7 @@ fun QuestionBankPreparationScreen(
             Card(
                 modifier = Modifier
                     .fillMaxWidth()
+                    .adaptiveContentWidth()
                     .border(1.dp, NavyBorder, RoundedCornerShape(24.dp)),
                 colors = CardDefaults.cardColors(containerColor = NavyCard),
                 shape = RoundedCornerShape(24.dp),

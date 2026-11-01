@@ -30,6 +30,9 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.ui.theme.*
+import com.example.ui.utils.adaptiveContentWidth
+import com.example.ui.utils.adaptiveFontScaleFor
+import androidx.compose.ui.platform.LocalConfiguration
 import kotlinx.coroutines.delay
 
 data class ItQaItem(
@@ -187,6 +190,7 @@ fun ItProfessionalSectionScreen(
         }
     }
 
+    val fontScale = adaptiveFontScaleFor(LocalConfiguration.current.screenWidthDp)
     Surface(
         modifier = Modifier
             .fillMaxSize()
@@ -196,6 +200,7 @@ fun ItProfessionalSectionScreen(
         Column(
             modifier = Modifier
                 .fillMaxSize()
+                .adaptiveContentWidth()
                 .padding(16.dp)
         ) {
             // Header Row
@@ -221,7 +226,8 @@ fun ItProfessionalSectionScreen(
                             text = "IT Professionals & AI Hub",
                             style = MaterialTheme.typography.titleMedium.copy(
                                 color = GoldPrimary,
-                                fontWeight = FontWeight.Bold
+                                fontWeight = FontWeight.Bold,
+                                fontSize = MaterialTheme.typography.titleMedium.fontSize * fontScale
                             )
                         )
                         Text(

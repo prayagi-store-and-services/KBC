@@ -24,6 +24,9 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.data.db.GameHistoryEntity
 import com.example.ui.theme.*
+import com.example.ui.utils.adaptiveContentWidth
+import com.example.ui.utils.adaptiveFontScaleFor
+import androidx.compose.ui.platform.LocalConfiguration
 import com.example.ui.viewmodel.QuizViewModel
 import java.text.SimpleDateFormat
 import java.util.*
@@ -56,6 +59,7 @@ fun HistoryScreen(
     val totalCorrect = filteredList.sumOf { it.correctAnswersCount.toLong() }
     val peakPrize = filteredList.maxOfOrNull { it.finalPrize } ?: 0L
 
+    val fontScale = adaptiveFontScaleFor(LocalConfiguration.current.screenWidthDp)
     Surface(
         modifier = modifier
             .fillMaxSize()
@@ -65,6 +69,7 @@ fun HistoryScreen(
         Column(
             modifier = Modifier
                 .fillMaxSize()
+                .adaptiveContentWidth()
                 .padding(16.dp)
         ) {
             // Header
@@ -89,7 +94,8 @@ fun HistoryScreen(
                     text = "तर्क इतिहास / Match History",
                     style = MaterialTheme.typography.titleMedium.copy(
                         color = GoldGlow,
-                        fontWeight = FontWeight.Bold
+                        fontWeight = FontWeight.Bold,
+                        fontSize = MaterialTheme.typography.titleMedium.fontSize * fontScale
                     )
                 )
             }
