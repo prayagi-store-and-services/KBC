@@ -26794,5 +26794,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-01T22:16:00Z"
+ },
+ {
+  "id": "q_98cb95e636b74c01",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which sector does manufacturing activity primarily belong?",
+  "qHi": "विनिर्माण गतिविधि मुख्य रूप से किस क्षेत्रक से संबंधित है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Quaternary sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्रक",
+   "द्वितीयक क्षेत्रक",
+   "तृतीयक क्षेत्रक",
+   "चतुर्थक क्षेत्रक"
+  ],
+  "correct": 1,
+  "explainEn": "Manufacturing involves transforming raw materials into finished goods, which defines the secondary sector.",
+  "sourceHint": "NCERT Class 10 Economics Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:06:37Z"
+ },
+ {
+  "id": "q_74d64149a05e8b51",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of forest is predominantly found in regions with high rainfall and heavy leaf shedding in dry seasons?",
+  "qHi": "उच्च वर्षा और शुष्क मौसम में भारी पत्तियों के झड़ने वाले क्षेत्रों में मुख्यतः किस प्रकार के वन पाए जाते हैं?",
+  "optsEn": [
+   "Tropical deciduous forests",
+   "Mangrove forests",
+   "Thorny bushes",
+   "Alpine forests"
+  ],
+  "optsHi": [
+   "उष्णकटिबंधीय पर्णपाती वन",
+   "मैंग्रोव वन",
+   "कंटीली झाड़ियाँ",
+   "अल्पीय वन"
+  ],
+  "correct": 0,
+  "explainEn": "Tropical deciduous forests are the monsoon forests found in regions with seasonal rainfall where trees shed leaves.",
+  "sourceHint": "NCERT Class 10 Geography Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:06:37Z"
+ },
+ {
+  "id": "q_1ced6595b3ec8efc",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the process of loss of water in the form of vapor from aerial parts of plants called?",
+  "qHi": "पौधों के वावीय भागों से वाष्प के रूप में पानी के नुकसान की प्रक्रिया को क्या कहते हैं?",
+  "optsEn": [
+   "Photosynthesis",
+   "Transpiration",
+   "Respiration",
+   "Germination"
+  ],
+  "optsHi": [
+   "प्रकाश संश्लेषण",
+   "वाष्पोत्सर्जन",
+   "श्वसन",
+   "अंकुरण"
+  ],
+  "correct": 1,
+  "explainEn": "Transpiration is the biological process where water is lost as water vapor from the aerial parts of plants, mostly through stomata.",
+  "sourceHint": "NCERT Class 10 Science Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:06:37Z"
+ },
+ {
+  "id": "q_86b24555d15b834e",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which metal exists as a liquid at room temperature?",
+  "qHi": "कौन सी धातु कमरे के तापमान पर द्रव अवस्था में पाई जाती है?",
+  "optsEn": [
+   "Sodium",
+   "Mercury",
+   "Iron",
+   "Copper"
+  ],
+  "optsHi": [
+   "सोडियम",
+   "पारा",
+   "लोहा",
+   "तांबा"
+  ],
+  "correct": 1,
+  "explainEn": "Mercury is the only common metal that is liquid at standard room temperature and pressure.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:08:48Z"
+ },
+ {
+  "id": "q_4c2b0be1c9cee3ec",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of chemical reaction is represented by the burning of natural gas (methane)?",
+  "qHi": "प्राकृतिक गैस (मीथेन) का जलना किस प्रकार की रासायनिक अभिक्रिया का उदाहरण है?",
+  "optsEn": [
+   "Endothermic reaction",
+   "Exothermic reaction",
+   "Displacement reaction",
+   "Precipitation reaction"
+  ],
+  "optsHi": [
+   "ऊष्माशोषी अभिक्रिया",
+   "ऊष्माक्षेपी अभिक्रिया",
+   "विस्थापन अभिक्रिया",
+   "क्षेपण अभिक्रिया"
+  ],
+  "correct": 1,
+  "explainEn": "Combustion reactions, such as the burning of methane, release heat energy and are therefore exothermic.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:08:48Z"
  }
 ]

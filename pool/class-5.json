@@ -26598,5 +26598,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-01T22:15:50Z"
+ },
+ {
+  "id": "q_bc4eb921332d7647",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary gas used by green plants to make their food?",
+  "qHi": "हरे पौधों द्वारा अपना भोजन बनाने के लिए मुख्य रूप से किस गैस का उपयोग किया जाता है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Plants absorb carbon dioxide from the air during photosynthesis to prepare food.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:06:28Z"
+ },
+ {
+  "id": "q_42efa49bf8e799a4",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which direction does the magnetic needle of a compass usually point towards?",
+  "qHi": "कम्पास की चुंबकीय सुई आमतौर पर किस दिशा की ओर इशारा करती है?",
+  "optsEn": [
+   "East and West",
+   "North and South",
+   "Up and Down",
+   "Left and Right"
+  ],
+  "optsHi": [
+   "पूर्व और पश्चिम",
+   "उत्तर और दक्षिण",
+   "ऊपर और नीचे",
+   "बाएं और दाएं"
+  ],
+  "correct": 1,
+  "explainEn": "A magnetic compass aligns with Earth's magnetic field, pointing towards the North and South poles.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:06:28Z"
+ },
+ {
+  "id": "q_4ccd57b88d5fcfeb",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of map shows boundaries between different states and countries?",
+  "qHi": "किस प्रकार का मानचित्र विभिन्न राज्यों और देशों के बीच की सीमाएं दिखाता है?",
+  "optsEn": [
+   "Physical map",
+   "Political map",
+   "Thematic map",
+   "Weather map"
+  ],
+  "optsHi": [
+   "भौतिक मानचित्र",
+   "राजनीतिक मानचित्र",
+   "विषयगत मानचित्र",
+   "मौसम मानचित्र"
+  ],
+  "correct": 1,
+  "explainEn": "Political maps highlight government boundaries, countries, and states.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:06:28Z"
+ },
+ {
+  "id": "q_4d2cb5eee1e96af9",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian state is famous for the classical dance form Kathakali?",
+  "qHi": "कथकली शास्त्रीय नृत्य शैली के लिए कौन सा भारतीय राज्य प्रसिद्ध है?",
+  "optsEn": [
+   "Kerala",
+   "Tamil Nadu",
+   "Andhra Pradesh",
+   "Odisha"
+  ],
+  "optsHi": [
+   "केरल",
+   "तमिलनाडु",
+   "आंध्र प्रदेश",
+   "ओडिशा"
+  ],
+  "correct": 0,
+  "explainEn": "Kathakali is a traditional classical dance-drama originating from the state of Kerala.",
+  "sourceHint": "NCERT Class 5 Art and Culture",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:08:31Z"
+ },
+ {
+  "id": "q_d1814bca51bb9b91",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary function of stomata located on the underside of plant leaves?",
+  "qHi": "पौधे की पत्तियों के निचले भाग में स्थित रंध्रों (स्टोमेटा) का मुख्य कार्य क्या है?",
+  "optsEn": [
+   "Absorbing water from the soil",
+   "Storing food for the plant",
+   "Exchanging gases like carbon dioxide and oxygen",
+   "Providing green color to the leaves"
+  ],
+  "optsHi": [
+   "मिट्टी से पानी सोखना",
+   "पौधे के लिए भोजन संग्रहित करना",
+   "कार्बन डाइऑक्साइड और ऑक्सीजन जैसी गैसों का आदान-प्रदान करना",
+   "पत्तियों को हरा रंग देना"
+  ],
+  "correct": 2,
+  "explainEn": "Stomata are tiny pores on leaves that allow plants to take in carbon dioxide and release oxygen during photosynthesis and respiration.",
+  "sourceHint": "NCERT Class 5 Science Curriculum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:09:29Z"
+ },
+ {
+  "id": "q_2de886f719e2c8d2",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the Indian parliamentary system, what is the minimum age required for a person to be eligible to become a member of the Lok Sabha?",
+  "qHi": "भारतीय संसदीय प्रणाली के संदर्भ में, किसी व्यक्ति के लोकसभा का सदस्य बनने के लिए न्यूनतम आयु कितनी होनी चाहिए?",
+  "optsEn": [
+   "18 years",
+   "21 years",
+   "25 years",
+   "35 years"
+  ],
+  "optsHi": [
+   "18 वर्ष",
+   "21 वर्ष",
+   "25 वर्ष",
+   "35 वर्ष"
+  ],
+  "correct": 2,
+  "explainEn": "According to Article 84 of the Constitution of India, the minimum age for contesting and becoming a member of the Lok Sabha is 25 years.",
+  "sourceHint": "Constitution of India Article 84",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:09:29Z"
+ },
+ {
+  "id": "q_90da61eb40931030",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which historical monument in India was built entirely out of red sandstone and white marble by Mughal Emperor Shah Jahan as his capital's fortress?",
+  "qHi": "भारत में कौन सा ऐतिहासिक स्मारक मुगल सम्राट शाहजहाँ द्वारा अपनी राजधानी के किले के रूप में पूरी तरह से लाल बलुआ पत्थर और सफेद संगमरमर से बनवाया गया था?",
+  "optsEn": [
+   "Red Fort",
+   "Qutub Minar",
+   "Hawa Mahal",
+   "Mysore Palace"
+  ],
+  "optsHi": [
+   "लाल किला",
+   "कुतुब मीनार",
+   "हवा महल",
+   "मैसूर पैलेस"
+  ],
+  "correct": 0,
+  "explainEn": "The Red Fort (Lal Qila) in Delhi was constructed by Shah Jahan as the palace fort of his capital Shahjahanabad.",
+  "sourceHint": "NCERT Class 7 History Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:09:29Z"
+ },
+ {
+  "id": "q_76a4860e64d9c792",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which vitamin is primarily synthesized in human skin when exposed to sunlight?",
+  "qHi": "सूर्य के प्रकाश के संपर्क में आने पर मानव त्वचा में मुख्य रूप से कौन सा विटामिन संश्लेषित होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin C",
+   "Vitamin D",
+   "Vitamin K"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन सी",
+   "विटामिन डी",
+   "विटामिन के"
+  ],
+  "correct": 2,
+  "explainEn": "Vitamin D is produced in the skin when it is exposed to ultraviolet B (UVB) rays from the sun.",
+  "sourceHint": "NCERT Class 6 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:09:29Z"
  }
 ]

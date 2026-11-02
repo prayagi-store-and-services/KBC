@@ -32394,5 +32394,397 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-01T22:16:24Z"
+ },
+ {
+  "id": "q_a2e1826e63c092cc",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which term is used to describe a general and progressive increase in prices throughout the economy?",
+  "qHi": "अर्थव्यवस्था में कीमतों में सामान्य और लगातार वृद्धि को दर्शाने के लिए किस शब्द का उपयोग किया जाता है?",
+  "optsEn": [
+   "Deflation",
+   "Inflation",
+   "Recession",
+   "Depreciation"
+  ],
+  "optsHi": [
+   "अपस्फीति",
+   "मुद्रास्फीति",
+   "मंदी",
+   "मूल्यह्रास"
+  ],
+  "correct": 1,
+  "explainEn": "Inflation refers to the general increase in prices and fall in the purchasing value of money over time.",
+  "sourceHint": "NCERT Economics textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:06:20Z"
+ },
+ {
+  "id": "q_3042652f6546ccb9",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following entities regulates the mutual funds market in India?",
+  "qHi": "निम्नलिखित में से कौन सी संस्था भारत में म्यूचुअल फंड बाजार को नियंत्रित करती है?",
+  "optsEn": [
+   "SEBI",
+   "IRDAI",
+   "NABARD",
+   "SIDBI"
+  ],
+  "optsHi": [
+   "सेबी",
+   "इrdai",
+   "नाबार्ड",
+   "सिडबी"
+  ],
+  "correct": 0,
+  "explainEn": "The Securities and Exchange Board of India (SEBI) is the regulator for the securities market and mutual funds in India.",
+  "sourceHint": "SEBI Act, 1992",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:06:20Z"
+ },
+ {
+  "id": "q_7f0457cb59d29f76",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of account typically offers no interest and is meant for frequent business transactions?",
+  "qHi": "किस प्रकार के खाते पर आमतौर पर कोई ब्याज नहीं मिलता है और यह बार-बार होने वाले व्यावसायिक लेनदेन के लिए होता है?",
+  "optsEn": [
+   "Savings Account",
+   "Current Account",
+   "Fixed Deposit Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "बचत खाता",
+   "चालू खाता",
+   "सावधि जमा खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 1,
+  "explainEn": "A Current Account is designed for businesses and offers high liquidity with no limits on the number of transactions, usually yielding zero interest.",
+  "sourceHint": "NCERT Business Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:06:20Z"
+ },
+ {
+  "id": "q_7fd21cd1199b2f89",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following institutions regulates microfinance institutions (MFIs) in India that are registered as Non-Banking Financial Companies (NBFCs)?",
+  "qHi": "निम्नलिखित में से कौन सी संस्था भारत में गैर-बैंकिंग वित्तीय कंपनियों (NBFC) के रूप में पंजीकृत सूक्ष्म वित्त संस्थानों (MFI) को विनियमित करती है?",
+  "optsEn": [
+   "Securities and Exchange Board of India",
+   "Reserve Bank of India",
+   "National Bank for Agriculture and Rural Development",
+   "Small Industries Development Bank of India"
+  ],
+  "optsHi": [
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "भारतीय रिजर्व बैंक",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक",
+   "भारतीय लघु उद्योग विकास बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India regulates all NBFC-MFIs operating in India as per the RBI Act and relevant master directions.",
+  "sourceHint": "RBI Master Directions on Regulatory Framework for NBFC-MFIs",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:08:08Z"
+ },
+ {
+  "id": "q_4143b3f09b772a1a",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'C' stand for in the financial term 'CASA' ratio used by commercial banks?",
+  "qHi": "वाणिज्यिक बैंकों द्वारा उपयोग किए जाने वाले वित्तीय शब्द 'CASA' अनुपात में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Current",
+   "Credit",
+   "Capital",
+   "Collateral"
+  ],
+  "optsHi": [
+   "करंट (Current)",
+   "क्रेडिट (Credit)",
+   "कैपिटल (Capital)",
+   "कॉलेटरल (Collateral)"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account Savings Account, representing the proportion of deposits in current and savings accounts relative to total deposits.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) study material",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:08:08Z"
+ },
+ {
+  "id": "q_bea59f53fbab7489",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, what is the validity period for the presentation of a cheque in a bank from the date of its issuance?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, जारी होने की तारीख से बैंक में चेक प्रस्तुत करने की वैधता अवधि क्या है?",
+  "optsEn": [
+   "1 month",
+   "3 months",
+   "6 months",
+   "12 months"
+  ],
+  "optsHi": [
+   "1 महीना",
+   "3 महीने",
+   "6 महीने",
+   "12 महीने"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India directed that the validity period of cheques, drafts, pay orders, and banker's cheques was reduced from 6 months to 3 months from the date of issue.",
+  "sourceHint": "RBI Circular RBI/2011-12/251",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:08:08Z"
+ },
+ {
+  "id": "q_2b88ff132a16b4bd",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which market is primarily associated with the trading of short-term debt instruments such as Treasury Bills and Commercial Paper?",
+  "qHi": "कौन सा बाजार मुख्य रूप से ट्रेजरी बिल और कमर्शियल पेपर जैसे अल्पकालिक ऋण साधनों के कारोबार से जुड़ा है?",
+  "optsEn": [
+   "Capital Market",
+   "Money Market",
+   "Foreign Exchange Market",
+   "Commodity Market"
+  ],
+  "optsHi": [
+   "पूंजी बाजार",
+   "मुद्रा बाजार",
+   "विदेशी मुद्रा बाजार",
+   "कमोडिटी बाजार"
+  ],
+  "correct": 1,
+  "explainEn": "The money market is a financial market for short-term debt instruments with original maturities of one year or less.",
+  "sourceHint": "NCERT Class 12 Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:08:08Z"
+ },
+ {
+  "id": "q_9fb0096d0b970a72",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India acts as the apex regulatory body for the overall regulation and licensing of cooperative banks?",
+  "qHi": "भारत में कौन सा संगठन सहकारी बैंकों के समग्र विनियमन और लाइसेंसिंग के लिए शीर्ष नियामक निकाय के रूप में कार्य करता है?",
+  "optsEn": [
+   "Registrar of Cooperative Societies",
+   "Reserve Bank of India",
+   "NABARD",
+   "Ministry of Finance"
+  ],
+  "optsHi": [
+   "सहकारी समितियों के रजिस्ट्रार",
+   "भारतीय रिजर्व बैंक",
+   "नाबार्ड",
+   "वित्त मंत्रालय"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India regulates and licenses urban and state cooperative banks under the Banking Regulation Act, 1949.",
+  "sourceHint": "Banking Regulation Act, 1949 (As applicable to Cooperative Societies)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:08:08Z"
+ },
+ {
+  "id": "q_e36076bae91727c8",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of foreign exchange markets, what does a 'broken-date forward contract' refer to?",
+  "qHi": "विदेशी मुद्रा बाजारों के संदर्भ में, 'ब्रोकन-डेट फॉरवर्ड कॉन्ट्रैक्ट' (broken-date forward contract) से क्या तात्पर्य है?",
+  "optsEn": [
+   "A contract where the settlement date falls on a weekend or public holiday",
+   "A contract for a non-standard delivery date that does not fall neatly on standard monthly maturity dates",
+   "A derivative contract that has defaulted due to counterparty insolvency",
+   "A forward contract whose exchange rate was fixed using a broken cross-currency rate"
+  ],
+  "optsHi": [
+   "एक अनुबंध जिसमें निपटान तिथि सप्ताहांत या सार्वजनिक अवकाश पर पड़ती है",
+   "एक गैर-मानक वितरण तिथि के लिए एक अनुबंध जो मानक मासिक परिपक्वता तिथियों पर ठीक से नहीं पड़ता है",
+   "प्रतिपक्ष दिवालियापन के कारण डिफॉल्ट हुआ व्युत्पन्न अनुबंध",
+   "एक फॉरवर्ड अनुबंध जिसकी विनिमय दर टूटी हुई क्रॉस-मुद्रा दर का उपयोग करके तय की गई थी"
+  ],
+  "correct": 1,
+  "explainEn": "A broken-date forward (or odd-date forward) is a foreign exchange forward contract for delivery on a date other than standard exact monthly intervals.",
+  "sourceHint": "RBI Handbook of Instructions on Foreign Exchange Transactions / BIS Glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:09:18Z"
+ },
+ {
+  "id": "q_858b2a061cbf771e",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which institutional body in India acts as the principal issuing and managing agent for the Sovereign Gold Bond (SGB) scheme on behalf of the Government of India?",
+  "qHi": "भारत में कौन सा संस्थागत निकाय भारत सरकार की ओर से सॉवरेन गोल्ड बॉंड (SGB) योजना के लिए प्रमुख जारी करने और प्रबंधित करने वाले एजेंट के रूप में कार्य करता है?",
+  "optsEn": [
+   "Securities and Exchange Board of India",
+   "Reserve Bank of India",
+   "National Bank for Agriculture and Rural Development",
+   "Stock Holding Corporation of India"
+  ],
+  "optsHi": [
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "भारतीय रिजर्व बैंक",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक",
+   "स्टॉक होल्डिंग कॉर्पोरेशन ऑफ इंडिया"
+  ],
+  "correct": 1,
+  "explainEn": "The Sovereign Gold Bonds are issued by the Reserve Bank on behalf of the Government of India.",
+  "sourceHint": "RBI Frequently Asked Questions on Sovereign Gold Bond Scheme",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:09:18Z"
+ },
+ {
+  "id": "q_8be0ab3da245415c",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Basel III guidelines implemented in India, what minimum Capital Conservation Buffer (CCB) must banks maintain in the form of Common Equity Tier 1 capital?",
+  "qHi": "भारत में लागू बेसल III दिशानिर्देशों के तहत, बैंकों को कॉमन इक्विटी टियर 1 पूंजी के रूप में न्यूनतम पूंजी संरक्षण बफर (CCB) कितना बनाए रखना चाहिए?",
+  "optsEn": [
+   "1.50 percent",
+   "2.50 percent",
+   "3.00 percent",
+   "4.50 percent"
+  ],
+  "optsHi": [
+   "1.50 प्रतिशत",
+   "2.50 प्रतिशत",
+   "3.00 प्रतिशत",
+   "4.50 प्रतिशत"
+  ],
+  "correct": 1,
+  "explainEn": "Under Basel III norms, banks are required to maintain a Capital Conservation Buffer of 2.50% in the form of CET1 capital.",
+  "sourceHint": "RBI Master Circular - Basel III Capital Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:09:18Z"
+ },
+ {
+  "id": "q_9b1705b5c1750820",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What does the 'Liquidity Coverage Ratio' (LCR) under Basel III standards specifically seek to ensure?",
+  "qHi": "बेसल III मानकों के तहत 'लंबे समय तक चलने वाले तरलता कवरेज अनुपात' (LCR) का विशेष रूप से क्या सुनिश्चित करने का लक्ष्य है?",
+  "optsEn": [
+   "That a bank maintains an adequate profile of unencumbered high-quality liquid assets to survive a 30-day acute stress scenario",
+   "That a bank funds its long-term assets with a minimum stable funding structure over a one-year horizon",
+   "That total non-performing assets do not exceed a predefined percentage of gross advances",
+   "That foreign currency liabilities are fully hedged against exchange rate volatility"
+  ],
+  "optsHi": [
+   "कि बैंक 30 दिनों के तीव्र तनाव परिदृश्य से बचने के लिए बिना किसी बाधा के उच्च गुणवत्ता वाली तरल संपत्ति का पर्याप्त रूप बनाए रखता है",
+   "कि बैंक एक वर्ष की समय क्षितिज पर न्यूनतम स्थिर वित्त पोषण संरचना के साथ अपनी दीर्घकालिक संपत्तियों को वित्त पोषित करता है",
+   "कि कुल गैर-निष्पादित संपत्तियां सकल अग्रिमों के पूर्व निर्धारित प्रतिशत से अधिक न हों",
+   "कि विदेशी मुद्रा देनदारियों को विनिमय दर अस्थिरता के खिलाफ पूरी तरह से हेज किया जाता है"
+  ],
+  "correct": 0,
+  "explainEn": "LCR promotes the short-term resilience of a bank's liquidity risk profile by ensuring it has sufficient HQLAs to meet 30 days of liquidity stress.",
+  "sourceHint": "Basel Committee on Banking Supervision - LCR standard / RBI guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:09:18Z"
+ },
+ {
+  "id": "q_2a5a59523b0b71f1",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian money markets, what is the maximum permissible tenor for a Certificate of Deposit (CD) issued by a scheduled commercial bank?",
+  "qHi": "भारतीय मुद्रा बाजारों के संदर्भ में, एक अनुसूचित वाणिज्यिक बैंक द्वारा जारी किए गए डिपाजिट प्रमाण पत्र (CD) के लिए अधिकतम स्वीकार्य अवधि (tenor) क्या है?",
+  "optsEn": [
+   "91 days",
+   "182 days",
+   "1 year",
+   "3 years"
+  ],
+  "optsHi": [
+   "91 दिन",
+   "182 दिन",
+   "1 वर्ष",
+   "3 वर्ष"
+  ],
+  "correct": 3,
+  "explainEn": "Certificates of Deposit can be issued by scheduled commercial banks for a tenor ranging from 7 days to one year, and by All India Financial Institutions for a tenor from 1 year to 3 years.",
+  "sourceHint": "RBI Master Directions - Instructions on issuance of Non-Convertible Debentures, CDs, etc.",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:09:18Z"
+ },
+ {
+  "id": "q_5b299d1e98afe363",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following entities is legally empowered to operate the Bharat Bill Payment System (BBPS) as the central unit in India?",
+  "qHi": "भारत में केंद्रीय इकाई के रूप में भारत बिल भुगतान प्रणाली (BBPS) को संचालित करने के लिए निम्नलिखित में से कौन सी संस्था कानूनी रूप से अधिकृत है?",
+  "optsEn": [
+   "National Payments Corporation of India",
+   "Reserve Bank of India Services",
+   "Clearing Corporation of India Limited",
+   "Electronic Clearing Service of India"
+  ],
+  "optsHi": [
+   "नेशनल पेमेंट्स कॉर्पोरेशन ऑफ इंडिया",
+   "भारतीय रिजर्व बैंक सेवा",
+   "क्लियरिंग कॉर्पोरेशन ऑफ इंडिया लिमिटेड",
+   "इलेक्ट्रॉनिक क्लियरिंग सर्विस ऑफ इंडिया"
+  ],
+  "correct": 0,
+  "explainEn": "NPCI functions as the Central Operating Unit (COU) for the Bharat Bill Payment System (BBPS) in India.",
+  "sourceHint": "NPCI official guidelines / RBI Payment Systems Overview",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:09:18Z"
  }
 ]

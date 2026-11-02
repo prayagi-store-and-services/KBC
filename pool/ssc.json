@@ -19066,5 +19066,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-01T22:16:17Z"
+ },
+ {
+  "id": "q_b04b0be638b32fd0",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which historical monument is located in Agra?",
+  "qHi": "कौन सा ऐतिहासिक स्मारक आगरा में स्थित है?",
+  "optsEn": [
+   "Taj Mahal",
+   "Hawa Mahal",
+   "Charminar",
+   "Gateway of India"
+  ],
+  "optsHi": [
+   "ताज महल",
+   "हवा महल",
+   "चारमीनार",
+   "गेटवे ऑफ इंडिया"
+  ],
+  "correct": 0,
+  "explainEn": "The Taj Mahal is a mausoleum located on the right bank of the Yamuna river in Agra.",
+  "sourceHint": "NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:06:15Z"
+ },
+ {
+  "id": "q_2eca7956d69a3e83",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the upper house of the Parliament of India called?",
+  "qHi": "भारत की संसद के उच्च सदन को क्या कहा जाता है?",
+  "optsEn": [
+   "Lok Sabha",
+   "Rajya Sabha",
+   "Vidhan Sabha",
+   "Gram Sabha"
+  ],
+  "optsHi": [
+   "लोकसभा",
+   "राज्यसभा",
+   "विधानसभा",
+   "ग्राम सभा"
+  ],
+  "correct": 1,
+  "explainEn": "Rajya Sabha is the upper house of the bicameral Parliament of India.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:06:15Z"
+ },
+ {
+  "id": "q_a74cbe70477983ab",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which plateau lies between the Aravali range and the Vindhya range?",
+  "qHi": "अरावली श्रेणी और विंध्य श्रेणी के बीच कौन सा पठार स्थित है?",
+  "optsEn": [
+   "Chota Nagpur Plateau",
+   "Malwa Plateau",
+   "Deccan Plateau",
+   "Meghalaya Plateau"
+  ],
+  "optsHi": [
+   "छोटा नागपुर पठार",
+   "मालवा पठार",
+   "दक्कन का पठार",
+   "मेघालय पठार"
+  ],
+  "correct": 1,
+  "explainEn": "The Malwa plateau is bounded by the Central Highlands in the west, with the Aravali range in the west-northwest and the Vindhya range in the south.",
+  "sourceHint": "NCERT Class 9 Geography, Contemporary India I",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:09:10Z"
+ },
+ {
+  "id": "q_0dde326a129d1fd8",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under which Article of the Indian Constitution can the Parliament legislate on a subject in the State List in the national interest?",
+  "qHi": "भारतीय संविधान के किस अनुच्छेद के तहत संसद राष्ट्रीय हित में राज्य सूची के किसी विषय पर कानून बना सकती है?",
+  "optsEn": [
+   "Article 249",
+   "Article 256",
+   "Article 263",
+   "Article 356"
+  ],
+  "optsHi": [
+   "अनुच्छेद 249",
+   "अनुच्छेद 256",
+   "अनुच्छेद 263",
+   "अनुच्छेद 356"
+  ],
+  "correct": 0,
+  "explainEn": "Article 249 empowers the Parliament to legislate with respect to a matter enumerated in the State List if the Rajya Sabha has passed a resolution supported by not less than two-thirds of the members present and voting.",
+  "sourceHint": "Constitution of India, Part XI",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:09:10Z"
+ },
+ {
+  "id": "q_d52e3aeb1aea4c6d",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which site of the Indus Valley Civilization is famous for its sophisticated water management system involving a series of reservoirs and storm water drains?",
+  "qHi": "सिंधु घाटी सभ्यता का कौन सा स्थल जलाशयों और वर्षा जल नालियों की श्रृंखला से जुड़ी अपनी परिष्कृत जल प्रबंधन प्रणाली के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Harappa",
+   "Mohenjo-daro",
+   "Dholavira",
+   "Kalibangan"
+  ],
+  "optsHi": [
+   "हड़प्पा",
+   "मोहनजोदड़ो",
+   "धौलाविरा",
+   "कालीबंगा"
+  ],
+  "correct": 2,
+  "explainEn": "Dholavira, located in Gujarat, is renowned for its unique water management system, featuring massive stone-cut reservoirs and elaborate channel networks.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part I",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:09:10Z"
+ },
+ {
+  "id": "q_88337f89ab2e4388",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which oceanic trench is formed by the subduction of the Indo-Australian plate under the Eurasian plate?",
+  "qHi": "यूरेशियन प्लेट के नीचे इंडो-ऑस्ट्रेलियन प्लेट के सबडक्शन से कौन सी महासागरीय खड्ड बनती है?",
+  "optsEn": [
+   "Mariana Trench",
+   "Sunda Trench",
+   "Puerto Rico Trench",
+   "Tonga Trench"
+  ],
+  "optsHi": [
+   "मेरियाना ट्रेंच",
+   "सुंडा ट्रेंच",
+   "प्यूर्टो रिको ट्रेंच",
+   "टोंगा ट्रेंच"
+  ],
+  "correct": 1,
+  "explainEn": "The Sunda Trench, also known as the Java Trench, is located in the Indian Ocean and is formed by the subduction of the Indo-Australian plate beneath the Eurasian plate.",
+  "sourceHint": "NCERT Class 11 Geography, Fundamentals of Physical Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:09:10Z"
+ },
+ {
+  "id": "q_b8fb588e886a98a0",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who among the following revolutionaries was the founder of the Hindustan Socialist Republican Association (HSRA) in 1928?",
+  "qHi": "निम्नलिखित में से कौन सा क्रांतिकारी 1928 में हिंदुस्तान सोशलिसटिक रिपब्लिकन एसोसिएशन (HSRA) का संस्थापक था?",
+  "optsEn": [
+   "Rash Behari Bose",
+   "Chandrashekhar Azad",
+   "Sachindra Nath Sanyal",
+   "Bhagat Singh"
+  ],
+  "optsHi": [
+   "राश बिहारी बोस",
+   "चंद्रशेखर आजाद",
+   "सचिंद्र नाथ سन्याल",
+   "भगत सिंह"
+  ],
+  "correct": 1,
+  "explainEn": "Hindustan Republican Association was renamed Hindustan Socialist Republican Association (HSRA) in September 1928 at Feroz Shah Kotla in Delhi, under the leadership of Chandrashekhar Azad.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:09:10Z"
  }
 ]

@@ -19206,5 +19206,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-01T22:15:45Z"
+ },
+ {
+  "id": "q_913a065d367b8b47",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which traditional Indian dance form originates from the state of Kerala and is known for elaborate makeup and costumes?",
+  "qHi": "कौन सा पारंपरिक भारतीय नृत्य रूप केरल राज्य से उत्पन्न हुआ है और विस्तृत मेकअप और वेशभूषा के लिए जाना जाता है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Odissi",
+   "Kuchipudi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "ओडिसी",
+   "कुचिपुड़ी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a major form of classical Indian dance renowned for its heavy make-up and storytelling.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:06:24Z"
+ },
+ {
+  "id": "q_8a42644d6a4f43af",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which Indian festival is primarily known as the festival of lights?",
+  "qHi": "किस भारतीय त्यौहार को मुख्य रूप से रोशनी के त्यौहार के रूप में जाना जाता है?",
+  "optsEn": [
+   "Holi",
+   "Diwali",
+   "Eid",
+   "Pongal"
+  ],
+  "optsHi": [
+   "होली",
+   "दिवाली",
+   "ईद",
+   "पोंगल"
+  ],
+  "correct": 1,
+  "explainEn": "Diwali is celebrated by lighting oil lamps, candles, and bursting fireworks.",
+  "sourceHint": "NCERT Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:06:24Z"
+ },
+ {
+  "id": "q_47c10f8de6067564",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the famous novel 'Godan', which depicts the socio-economic deprivation of rural India?",
+  "qHi": "प्रसिद्ध उपन्यास 'गोदान' किसने लिखा है, जिसमें ग्रामीण भारत की सामाजिक-आर्थिक वंचना का चित्रण किया गया है?",
+  "optsEn": [
+   "Munshi Premchand",
+   "Rabindranath Tagore",
+   "Bankim Chandra Chattopadhyay",
+   "R. K. Narayan"
+  ],
+  "optsHi": [
+   "मुंशी प्रेमचंद",
+   "रविंद्रनाथ टैगोर",
+   "बंकिम चंद्र चट्टोपाध्याय",
+   "आर. के. नारायण"
+  ],
+  "correct": 0,
+  "explainEn": "Godan is a Hindi novel by Munshi Premchand, widely regarded as one of the greatest Hindi novels of modern Indian literature.",
+  "sourceHint": "NCERT Hindi Textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:08:22Z"
+ },
+ {
+  "id": "q_55473b948df86e42",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which Indian state is the Kaziranga National Park located, known for its population of the great Indian one-horned rhinoceros?",
+  "qHi": "काजीरंगा राष्ट्रीय उद्यान, जो एक सींग वाले गैंडे की आबादी के लिए जाना जाता है, किस भारतीय राज्य में स्थित है?",
+  "optsEn": [
+   "West Bengal",
+   "Assam",
+   "Uttarakhand",
+   "Madhya Pradesh"
+  ],
+  "optsHi": [
+   "पश्चिम बंगाल",
+   "असम",
+   "उत्तराखंड",
+   "मध्य प्रदेश"
+  ],
+  "correct": 1,
+  "explainEn": "Kaziranga National Park is a UNESCO World Heritage Site located in the Golaghat and Nagaon districts of Assam.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:08:22Z"
+ },
+ {
+  "id": "q_cc8cc868a4062e84",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who wrote the Sanskrit treatise 'Ashtadhyayi', a foundational text of Sanskrit grammar?",
+  "qHi": "संस्कृत व्याकरण के मूल ग्रंथ 'अष्टाध्यायी' की रचना किसने की थी?",
+  "optsEn": [
+   "Kalidasa",
+   "Panini",
+   "Patanjali",
+   "Aryabhata"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "पाणिनि",
+   "पतंजलि",
+   "आर्यभट्ट"
+  ],
+  "correct": 1,
+  "explainEn": "Panini was a Sanskrit philologist, gramramian, and revered scholar who authored the Ashtadhyayi.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:09:23Z"
+ },
+ {
+  "id": "q_dc6ddeb6fd52d8c9",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which planet in our solar system has the most natural satellites as of recent astronomical discoveries?",
+  "qHi": "हालिया खगोलीय खोजों के अनुसार हमारे सौरमंडल में किस ग्रह के पास सबसे अधिक प्राकृतिक उपग्रह हैं?",
+  "optsEn": [
+   "Jupiter",
+   "Saturn",
+   "Uranus",
+   "Neptune"
+  ],
+  "optsHi": [
+   "बृहस्पति",
+   "शनि",
+   "अरुण",
+   "वरुण"
+  ],
+  "correct": 1,
+  "explainEn": "Saturn holds the record for having the largest number of verified natural satellites in the solar system.",
+  "sourceHint": "NASA Planetary Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:09:23Z"
+ },
+ {
+  "id": "q_7030c73c93e89cd0",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In physics, what is the SI unit of luminous flux?",
+  "qHi": "भौतिकी में, चमकदार प्रवाह (luminous flux) की एसआई इकाई क्या है?",
+  "optsEn": [
+   "Lux",
+   "Lumen",
+   "Candela",
+   "Watt"
+  ],
+  "optsHi": [
+   "लक्स",
+   "लumen (ल्यूमेन)",
+   "कैंडेला",
+   "वाट"
+  ],
+  "correct": 1,
+  "explainEn": "The lumen is the SI derived unit of luminous flux, a measure of the total quantity of visible light emitted by a source.",
+  "sourceHint": "International Bureau of Weights and Measures (BIPM)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T06:09:23Z"
  }
 ]
