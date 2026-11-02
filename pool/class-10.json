@@ -26934,5 +26934,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-02T06:08:48Z"
+ },
+ {
+  "id": "q_b08886bb95585026",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the pH range of a neutral solution at 298 Kelvin according to the standard pH scale?",
+  "qHi": "मानक पीएच पैमाने के अनुसार 298 केल्विन पर एक उदासीन विलयन का पीएच मान कितना होता है?",
+  "optsEn": [
+   "Less than 7",
+   "Exactly 7",
+   "Greater than 7",
+   "Between 8 and 14"
+  ],
+  "optsHi": [
+   "7 से कम",
+   "ठीक 7",
+   "7 से अधिक",
+   "8 और 14 के बीच"
+  ],
+  "correct": 1,
+  "explainEn": "On the pH scale, a value of 7 represents a neutral solution, values less than 7 are acidic, and values greater than 7 are basic.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:57:06Z"
+ },
+ {
+  "id": "q_d168f669d9ac0b67",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following hormones is responsible for the regulation of metabolism for body growth in humans?",
+  "qHi": "मनुष्यों में शरीर की वृद्धि के लिए चयापचय (मेटाबॉलिज्म) के विनियमन के लिए निम्नलिखित में से कौन सा हार्मोन उत्तरदायी है?",
+  "optsEn": [
+   "Insulin",
+   "Thyroxin",
+   "Adrenaline",
+   "Testosterone"
+  ],
+  "optsHi": [
+   "इंसुलिन",
+   "थायराक्सिन",
+   "एड्रेनालाईन",
+   "टेस्टोस्टेरोन"
+  ],
+  "correct": 1,
+  "explainEn": "Thyroxin produced by the thyroid gland regulates carbohydrate, fat, and protein metabolism in the body to provide the best balance for growth.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:57:06Z"
+ },
+ {
+  "id": "q_d113611fc0579c1c",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which crop is classified as a rabi crop in the Indian agricultural cropping seasons?",
+  "qHi": "भारतीय कृषि फसल ऋतुओं में किस फसल को रबी फसल के रूप में वर्गीकृत किया गया है?",
+  "optsEn": [
+   "Rice",
+   "Wheat",
+   "Maize",
+   "Cotton"
+  ],
+  "optsHi": [
+   "चावल",
+   "गेहूं",
+   "मक्का",
+   "कपास"
+  ],
+  "correct": 1,
+  "explainEn": "Rabi crops are sown in winter from October to December and harvested in summer from April to June. Wheat is a major rabi crop.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:57:06Z"
+ },
+ {
+  "id": "q_6d6cfb6d2e45fa81",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which mineral resource is primarily mined in the Kudremukh deposits located in Karnataka?",
+  "qHi": "कर्नाटक में स्थित कुद्रेमुख खदानों में मुख्य रूप से किस खनिज संसाधन का खनन किया जाता है?",
+  "optsEn": [
+   "Iron ore",
+   "Manganese",
+   "Bauxite",
+   "Mica"
+  ],
+  "optsHi": [
+   "लोह अयस्क",
+   "मैंगनीज",
+   "बॉक्साइट",
+   "अभ्रक"
+  ],
+  "correct": 0,
+  "explainEn": "Kudremukh in Karnataka is known for high-grade iron ore deposits, exported as slurry through a pipeline to Mangaluru port.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:57:06Z"
+ },
+ {
+  "id": "q_98359d7d86172505",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What term is used to describe the removal of restrictions or barriers set by the government on international trade?",
+  "qHi": "अंतरराष्ट्रीय व्यापार पर सरकार द्वारा लगाए गए प्रतिबंधों या बाधाओं को हटाने के लिए किस शब्द का उपयोग किया जाता है?",
+  "optsEn": [
+   "Privatisation",
+   "Globalisation",
+   "Liberalisation",
+   "Nationalisation"
+  ],
+  "optsHi": [
+   "निजीकरण",
+   "वैश्वीकरण",
+   "उदारीकरण",
+   "राष्ट्रीयकरण"
+  ],
+  "correct": 2,
+  "explainEn": "Liberalisation refers to the removal of trade barriers or restrictions set by the government, facilitating easier trade with other countries.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:57:06Z"
  }
 ]

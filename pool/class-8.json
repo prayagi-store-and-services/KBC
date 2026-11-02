@@ -21978,5 +21978,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-02T06:06:32Z"
+ },
+ {
+  "id": "q_64c3fd4261f3f121",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which layer of the Earth's atmosphere protects us from harmful ultraviolet rays of the Sun?",
+  "qHi": "पृथ्वी के वायुमंडल की कौन सी परत हमें सूर्य की हानिकारक पराबैंगनी किरणों से बचाती है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere (Ozone layer)",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल (ओजोन परत)",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The ozone layer located in the stratosphere absorbs harmful ultraviolet radiation from the Sun.",
+  "sourceHint": "NCERT Class 8 Science Chapter 18",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:56:01Z"
+ },
+ {
+  "id": "q_96fb77862feec6ef",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which imaginary line at 0 degrees longitude passes through Greenwich near London and serves as the reference for Universal Time?",
+  "qHi": "0 डिग्री देशांतर पर कौन सी काल्पनिक रेखा लंदन के पास ग्रीनविच से गुजरती है और सार्वभौमिक समय के संदर्भ के रूप में कार्य करती है?",
+  "optsEn": [
+   "Equator",
+   "Tropic of Cancer",
+   "Prime Meridian",
+   "International Date Line"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा",
+   "कर्क रेखा",
+   "प्रधान मध्याह्न रेखा",
+   "अंतर्राष्ट्रीय तिथि रेखा"
+  ],
+  "correct": 2,
+  "explainEn": "The Prime Meridian is set at 0 degrees longitude and passes through the Royal Observatory in Greenwich, London.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:57:00Z"
+ },
+ {
+  "id": "q_ec7122fc848de276",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which type of resource classification are petroleum and natural gas categorized?",
+  "qHi": "पेट्रोलियम और प्राकृतिक गैस को संसाधनों के किस प्रकार के वर्गीकरण में रखा गया है?",
+  "optsEn": [
+   "Renewable resources",
+   "Non-renewable resources",
+   "Biotic resources",
+   "Ubiquitous resources"
+  ],
+  "optsHi": [
+   "नवीकरणीय संसाधन",
+   "अनवीकरणीय संसाधन",
+   "जैविक संसाधन",
+   "सर्वव्यापक संसाधन"
+  ],
+  "correct": 1,
+  "explainEn": "Petroleum and natural gas take millions of years to form and get exhausted with use, making them non-renewable resources.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:57:00Z"
+ },
+ {
+  "id": "q_2cdbf24d681cf813",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who among the following is known as the principal architect of the Indian Constitution?",
+  "qHi": "निम्नलिखित में से किसे भारतीय संविधान के मुख्य वास्तुकार के रूप में जाना जाता है?",
+  "optsEn": [
+   "Mahatma Gandhi",
+   "Dr. B. R. Ambedkar",
+   "Sardar Vallabhbhai Patel",
+   "Jawaharlal Nehru"
+  ],
+  "optsHi": [
+   "महात्मा गांधी",
+   "डॉ. बी. आर. अम्बेडकर",
+   "सरदार वल्लभभाई पटेल",
+   "जवाहरलाल नेहरू"
+  ],
+  "correct": 1,
+  "explainEn": "Dr. B. R. Ambedkar served as the Chairman of the Drafting Committee and is widely regarded as the principal architect of the Indian Constitution.",
+  "sourceHint": "NCERT Class 8 Civics / Indian Polity",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:57:00Z"
+ },
+ {
+  "id": "q_d32df6b5d7708577",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which tiny organism reproduces primarily through the process of budding?",
+  "qHi": "कौन सा सूक्ष्म जीव मुख्य रूप से मुकुलन (बडिंग) की प्रक्रिया के माध्यम से प्रजनन करता है?",
+  "optsEn": [
+   "Amoeba",
+   "Yeast",
+   "Paramecium",
+   "Plasmodium"
+  ],
+  "optsHi": [
+   "अमीबा",
+   "यीस्ट",
+   "पैरामीशियम",
+   "प्लास्मोडियम"
+  ],
+  "correct": 1,
+  "explainEn": "Yeast is a single-celled fungus that commonly reproduces asexually by forming a bud.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:57:00Z"
+ },
+ {
+  "id": "q_56080edefb79d735",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the term used for the practice of growing only a single crop on a very large scale over a vast area?",
+  "qHi": "एक बहुत बड़े क्षेत्र में बहुत बड़े पैमाने पर केवल एक ही फसल उगाने की प्रथा के लिए किस शब्द का उपयोग किया जाता है?",
+  "optsEn": [
+   "Mixed farming",
+   "Shifting cultivation",
+   "Plantation agriculture",
+   "Subsistence farming"
+  ],
+  "optsHi": [
+   "मिश्रित खेती",
+   "स्थानांतरित कृषि",
+   "रोपण कृषि",
+   "निर्वाह कृषि"
+  ],
+  "correct": 2,
+  "explainEn": "Plantation agriculture is a type of commercial farming where a single crop of tea, coffee, sugarcane, etc., is grown on a large estate.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:57:00Z"
+ },
+ {
+  "id": "q_f44d1ef99c723c43",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following describes the specific function of the vascular tissue known as phloem in plants?",
+  "qHi": "पौधों में फ्लोएम नामक संवहन ऊतक का विशिष्ट कार्य निम्नलिखित में से कौन सा है?",
+  "optsEn": [
+   "Transport of water from roots to leaves",
+   "Transport of food from leaves to other plant parts",
+   "Providing mechanical strength to the stem",
+   "Absorption of minerals from the soil"
+  ],
+  "optsHi": [
+   "जड़ों से पत्तियों तक पानी का परिवहन",
+   "पत्तियों से पौधे के अन्य भागों तक भोजन का परिवहन",
+   "तने को यांत्रिक शक्ति प्रदान करना",
+   "मिट्टी से खनिजों का अवशोषण"
+  ],
+  "correct": 1,
+  "explainEn": "Phloem is the vascular tissue responsible for transporting synthesized food and organic nutrients from the leaves to other parts of the plant.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:58:07Z"
+ },
+ {
+  "id": "q_e6ec84d47f7e0d06",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following layers of the Earth's atmosphere is characterized by containing the ozone layer that absorbs harmful ultraviolet radiation?",
+  "qHi": "पृथ्वी के वायुमंडल की निम्नलिखित में से किस परत की विशेषता यह है कि इसमें ओजोन परत होती है जो हानिकारक पराबैंगनी विकिरण को अवशोषित करती है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The stratosphere contains the ozone layer, which absorbs ultraviolet radiation from the Sun and protects life on Earth.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:58:07Z"
+ },
+ {
+  "id": "q_2f417c765c4e4976",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the term used in physics for the force exerted per unit area on an object's surface?",
+  "qHi": "भौतिकी में किसी वस्तु की सतह पर प्रति इकाई क्षेत्रफल पर लगने वाले बल के लिए किस शब्द का प्रयोग किया जाता है?",
+  "optsEn": [
+   "Friction",
+   "Pressure",
+   "Gravity",
+   "Inertia"
+  ],
+  "optsHi": [
+   "घर्षण",
+   "दाब",
+   "गुरुत्वाकर्षण",
+   "जड़त्व"
+  ],
+  "correct": 1,
+  "explainEn": "Pressure is defined mathematically as the force acting perpendicularly on a surface per unit area.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:58:07Z"
+ },
+ {
+  "id": "q_8b9cabda5582d03f",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following metals is stored immersed in kerosene because it reacts vigorously with oxygen and moisture at room temperature?",
+  "qHi": "निम्नलिखित में से किस धातु को केरोसिन में डुबोकर रखा जाता है क्योंकि यह कमरे के तापमान पर ऑक्सीजन और नमी के साथ अत्यधिक प्रतिक्रिया करती है?",
+  "optsEn": [
+   "Copper",
+   "Gold",
+   "Sodium",
+   "Silver"
+  ],
+  "optsHi": [
+   "तांबा",
+   "सोना",
+   "सोडियम",
+   "चांदी"
+  ],
+  "correct": 2,
+  "explainEn": "Sodium is an extremely reactive alkali metal that catches fire if exposed to air or moisture, so it is stored in kerosene.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:58:07Z"
+ },
+ {
+  "id": "q_b616a70ba80e67e1",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Constitution of India, who possesses the ultimate authority of judicial review to interpret the Constitution and invalidate unconstitutional laws?",
+  "qHi": "भारत के संविधान के तहत, संविधान की व्याख्या करने और असंवैधानिक कानूनों को अमान्य करने की न्यायिक समीक्षा की अंतिम शक्ति किसके पास है?",
+  "optsEn": [
+   "The Parliament",
+   "The Supreme Court",
+   "The Prime Minister",
+   "The Law Commission"
+  ],
+  "optsHi": [
+   "संसद",
+   "उच्चतम न्यायालय",
+   "प्रधान मंत्री",
+   "विधि आयोग"
+  ],
+  "correct": 1,
+  "explainEn": "The Supreme Court of India acts as the ultimate guardian and interpreter of the Constitution through its power of judicial review.",
+  "sourceHint": "NCERT Class 8 Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:58:07Z"
+ },
+ {
+  "id": "q_1eebcd1b89145e09",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which type of coal has the highest carbon content and is considered the highest quality of coal?",
+  "qHi": "किस प्रकार के कोयले में कार्बन की मात्रा सबसे अधिक होती है और इसे सबसे उच्च गुणवत्ता वाला कोयला माना जाता है?",
+  "optsEn": [
+   "Peat",
+   "Lignite",
+   "Bituminous",
+   "Anthracite"
+  ],
+  "optsHi": [
+   "पीट",
+   "लिग्नाइट",
+   "बिटुमिनस",
+   "एंथ्रासाइट"
+  ],
+  "correct": 3,
+  "explainEn": "Anthracite is the highest rank of coal, containing between 86% and 97% carbon, and burns cleanly with little smoke.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:58:07Z"
+ },
+ {
+  "id": "q_715bae464dd3020d",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional Indian irrigation method involves lifting water from wells using a system of pulleys and animal power?",
+  "qHi": "पारंपरिक भारतीय सिंचाई पद्धति में से किसमें घिरनी (पुली) प्रणाली और पशु शक्ति का उपयोग करके कुओं से पानी निकाला जाता है?",
+  "optsEn": [
+   "Drip system",
+   "Rahat",
+   "Sprinkler system",
+   "Chain pump"
+  ],
+  "optsHi": [
+   "ड्रिप प्रणाली",
+   "रहट",
+   "छिड़काव प्रणाली",
+   "चेन पंप"
+  ],
+  "correct": 1,
+  "explainEn": "Rahat is a traditional method of irrigation where cattle are used to operate a wheel mechanism to lift water from wells.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:58:07Z"
  }
 ]

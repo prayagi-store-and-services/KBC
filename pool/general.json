@@ -19402,5 +19402,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-02T06:09:23Z"
+ },
+ {
+  "id": "q_3872dd99a60864e1",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which monument is famously known as a symbol of love and located in Agra?",
+  "qHi": "किस स्मारक को प्रेम के प्रतीक के रूप में जाना जाता है और जो आगरा में स्थित है?",
+  "optsEn": [
+   "Red Fort",
+   "Qutub Minar",
+   "Taj Mahal",
+   "Hawa Mahal"
+  ],
+  "optsHi": [
+   "लाल किला",
+   "कुतुब मीनार",
+   "ताजमहल",
+   "हवा महल"
+  ],
+  "correct": 2,
+  "explainEn": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:55:52Z"
+ },
+ {
+  "id": "q_d30a2b149411b6de",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these is a classical music instrument commonly associated with Pandit Ravi Shankar?",
+  "qHi": "इनमें से कौन सा शास्त्रीय संगीत वाद्ययंत्र आमतौर पर पंडित रविशंकर से जुड़ा है?",
+  "optsEn": [
+   "Sitar",
+   "Flute",
+   "Tabla",
+   "Sarangi"
+  ],
+  "optsHi": [
+   "सितार",
+   "बांसुरी",
+   "tabla",
+   "सारंगी"
+  ],
+  "correct": 0,
+  "explainEn": "Pandit Ravi Shankar was an Indian musician and composer who made the North Indian classical instrument sitar prominent all over the world.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:55:52Z"
+ },
+ {
+  "id": "q_90c707474cde9140",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form of India traditionally uses a heavy brass plate for balancing and footwork during part of the performance?",
+  "qHi": "भारत की किस शास्त्रीय नृत्य शैली में पारंपरिक रूप से प्रदर्शन के दौरान संतुलन और पाद-संचालन के लिए भारी पीतल की थाली का उपयोग किया जाता है?",
+  "optsEn": [
+   "Kuchipudi",
+   "Bharatanatyam",
+   "Kathakali",
+   "Manipuri"
+  ],
+  "optsHi": [
+   "कुचिपुड़ी",
+   "भरतनाट्यम",
+   "कथकली",
+   "मणिपुरी"
+  ],
+  "correct": 0,
+  "explainEn": "Tarangam is a unique item in Kuchipudi where the dancer balances on the edges of a brass plate while executing rhythmic patterns.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:57:56Z"
+ },
+ {
+  "id": "q_460cfac289f34d5b",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who authored the 19th-century socio-religious text 'Gulamgiri', which challenged the caste system in western India?",
+  "qHi": "19वीं सदी के सामाजिक-धार्मिक ग्रंथ 'गुलामगिरी' के लेखक कौन थे, जिसने पश्चिमी भारत में जाति व्यवस्था को चुनौती दी थी?",
+  "optsEn": [
+   "Jyotirao Phule",
+   "B. R. Ambedkar",
+   "Mahadev Govind Ranade",
+   "Gopal Ganesh Agarkar"
+  ],
+  "optsHi": [
+   "ज्योतिराव फुले",
+   "बी. आर. आंबेडकर",
+   "महादेव गोविंद रानाडे",
+   "गोपाल गणेश आगरकर"
+  ],
+  "correct": 0,
+  "explainEn": "Jyotirao Phule published 'Gulamgiri' in 1873, dedicating it to enslaved people in America to draw parallels with caste oppression in India.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:57:56Z"
+ },
+ {
+  "id": "q_db9eaa5fe843f90c",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which chemical element derives its atomic symbol 'W' from its German name wolfram?",
+  "qHi": "किस रासायनिक तत्व का परमाणु प्रतीक 'W' उसके जर्मन नाम 'वोल्फ्राम' से लिया गया है?",
+  "optsEn": [
+   "Tungsten",
+   "Sodium",
+   "Potassium",
+   "Iron"
+  ],
+  "optsHi": [
+   "टंगस्टन",
+   "सोडियम",
+   "पोटेशियम",
+   "लोहा"
+  ],
+  "correct": 0,
+  "explainEn": "Tungsten has the chemical symbol W, which comes from wolframite, the mineral from which it was historically isolated.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:57:56Z"
+ },
+ {
+  "id": "q_99d858ac763b3494",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of cloud prefix is used to describe rain-bearing clouds that are dark, grey, and featureless?",
+  "qHi": "काले, भूरे और बिना किसी स्पष्ट आकार वाले वर्षा-युक्त बादलों का वर्णन करने के लिए किस बादलों के उपसर्ग का उपयोग किया जाता है?",
+  "optsEn": [
+   "Nimbostratus",
+   "Cirrocumulus",
+   "Altocumulus",
+   "Stratocumulus"
+  ],
+  "optsHi": [
+   "निम्बोस्ट्रेटस (वर्षापटल)",
+   "सिरोक्यूमुलस (पक्षाभ-कपास)",
+   "ऑल्टोक्यूमुलस (मध्य-कपास)",
+   "स्ट्रेटोक्यूमुलस (स्तन-कपास)"
+  ],
+  "correct": 0,
+  "explainEn": "The prefix 'nimbo-' or suffix '-nimbus' is used for clouds that produce continuous precipitation, such as nimbostratus.",
+  "sourceHint": "NCERT Geography Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:57:56Z"
+ },
+ {
+  "id": "q_81b7f211ab89b3aa",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian mathematician's work on partition numbers and modular forms was famously highlighted by G. H. Hardy?",
+  "qHi": "विभाजन संख्याओं (पार्टीशन नंबर) और मॉड्यूलर रूपों पर किस भारतीय गणितज्ञ के कार्य को जी. एच. हार्डी द्वारा विशेष रूप से रेखांकित किया गया था?",
+  "optsEn": [
+   "Srinivasa Ramanujan",
+   "P. C. Mahalanobis",
+   "C. R. Rao",
+   "S. Chandrasekhar"
+  ],
+  "optsHi": [
+   "श्रीनिवास रामानुजन",
+   "पी. सी. महालनोबिस",
+   "सी. आर. राव",
+   "एस. चंद्रशेखर"
+  ],
+  "correct": 0,
+  "explainEn": "Srinivasa Ramanujan collaborated with G. H. Hardy on highly influential papers regarding the partition function in number theory.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:57:56Z"
+ },
+ {
+  "id": "q_c3ec71a07badea73",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In Indian classical music, which thaat classification system contains all shuddha (natural) notes except for a komal (flat) Nishad?",
+  "qHi": "भारतीय शास्त्रीय संगीत में, किस थाट वर्गीकरण प्रणाली में कोमल निषाद को छोड़कर सभी शुद्ध स्वर होते हैं?",
+  "optsEn": [
+   "Khamaj",
+   "Kalyan",
+   "Bhairav",
+   "Asavari"
+  ],
+  "optsHi": [
+   "खमाज",
+   "कल्याण",
+   "भैरव",
+   "आसावरी"
+  ],
+  "correct": 0,
+  "explainEn": "Khamaj thaat uses all shuddha swaras with the exception of a flattened seventh (komal Ni), serving as the parent scale for ragas like Khamaj and Desh.",
+  "sourceHint": "NCERT Fine Arts Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:57:56Z"
  }
 ]

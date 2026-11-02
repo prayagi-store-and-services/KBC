@@ -32786,5 +32786,341 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-02T06:09:18Z"
+ },
+ {
+  "id": "q_472d41cfe58a54b0",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following terms is associated with the stock market in India?",
+  "qHi": "निम्नलिखित में से कौन सा शब्द भारत में शेयर बाजार से जुड़ा है?",
+  "optsEn": [
+   "REPO Rate",
+   "CRR",
+   "Sensex",
+   "NEFT"
+  ],
+  "optsHi": [
+   "रेपो रेट",
+   "सीआरआर",
+   "सेंसेक्स",
+   "एनईएफटी"
+  ],
+  "correct": 2,
+  "explainEn": "Sensex is the benchmark index of the Bombay Stock Exchange (BSE), representing the top 30 well-established companies on the exchange.",
+  "sourceHint": "Bombay Stock Exchange (BSE)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:55:48Z"
+ },
+ {
+  "id": "q_037b168c1f083928",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following institutions is the primary regulator of Regional Rural Banks (RRBs) in India?",
+  "qHi": "निम्नलिखित में से कौन सी संस्था भारत में क्षेत्रीय ग्रामीण बैंकों (RRB) की प्राथमिक नियामक है?",
+  "optsEn": [
+   "Securities and Exchange Board of India",
+   "Reserve Bank of India",
+   "Small Industries Development Bank of India",
+   "State Bank of India"
+  ],
+  "optsHi": [
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय लघु उद्योग विकास बैंक",
+   "भारतीय स्टेट बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "While NABARD supervises RRBs, the Reserve Bank of India (RBI) is the primary regulator responsible for licensing and regulatory policies.",
+  "sourceHint": "RBI and NABARD guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:56:26Z"
+ },
+ {
+  "id": "q_ee3e82f3ef19047c",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of the 'Prompt Corrective Action' (PCA) framework introduced by the RBI for commercial banks?",
+  "qHi": "वाणिज्यिक बैंकों के लिए आरबीआई द्वारा शुरू किए गए 'प्रॉम्प्ट करेक्टिव एक्शन' (PCA) फ्रेमवर्क का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To monitor and intervene early in banks showing signs of financial weakness",
+   "To facilitate rapid overseas expansion of public sector banks",
+   "To manage government borrowing programs efficiently",
+   "To regulate digital payment gateway charges"
+  ],
+  "optsHi": [
+   "वित्तीय कमजोरी के लक्षण दिखाने वाले बैंकों की निगरानी करना और उनमें जल्दी हस्तक्षेप करना",
+   "सार्वजनिक क्षेत्र के बैंकों के तेजी से विदेशी विस्तार को सुगम बनाना",
+   "सरकारी उधार कार्यक्रमों का कुशलतापूर्वक प्रबंधन करना",
+   "डिजिटल भुगतान गेटवे शुल्क को विनियमित करना"
+  ],
+  "correct": 0,
+  "explainEn": "The PCA framework enables the RBI to intervene early and take corrective measures when a bank's financial health deteriorates below regulatory thresholds.",
+  "sourceHint": "RBI notifications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:56:26Z"
+ },
+ {
+  "id": "q_4e1fe2f535257498",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following entities is responsible for issuing the 1-rupee currency note in India?",
+  "qHi": "भारत में 1 रुपये का करेंसी नोट जारी करने के लिए निम्नलिखित में से कौन सा प्राधिकारी जिम्मेदार है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "State Bank of India",
+   "Ministry of Finance, Government of India",
+   "Controller of Aid Accounts and Audit"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय स्टेट बैंक",
+   "वित्त मंत्रालय, भारत सरकार",
+   "सहायता लेखा और लेखा परीक्षा नियंत्रक"
+  ],
+  "correct": 2,
+  "explainEn": "Under the Reserve Bank of India Act, one-rupee notes are issued by the Ministry of Finance and bear the signature of the Finance Secretary.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:56:26Z"
+ },
+ {
+  "id": "q_b556057351b838cd",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does 'CASA' stand for in the context of banking deposits?",
+  "qHi": "बैंकिंग जमा के संदर्भ में 'CASA' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Current Account Savings Account",
+   "Credit Asset Security Association",
+   "Centralized Automated Settlement Application",
+   "Capital Adequacy and Standard Assets"
+  ],
+  "optsHi": [
+   "करंट अकाउंट सेविंग्स अकाउंट",
+   "क्रेडिट एसेट सिक्योरिटी एसोसिएशन",
+   "सेंट्रलाइज्ड ऑटोमेटेड सेटलमेंट एप्लीकेशन",
+   "कैपिटल एडिक्वेंसी एंड स्टैंडर्ड एसेट्स"
+  ],
+  "correct": 0,
+  "explainEn": "CASA ratio represents the proportion of deposits a bank raises through Current Accounts and Savings Accounts, which typically offer lower interest rates.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) manuals",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:56:26Z"
+ },
+ {
+  "id": "q_e16d1ca20a18ab19",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the term used for a loan in which the borrower has defaulted on repayments for a period exceeding 90 days?",
+  "qHi": "उस ऋण के लिए किस शब्द का प्रयोग किया जाता है जिसमें उधारकर्ता ने 90 दिनों से अधिक की अवधि के लिए पुनर्भ भुगतान में चूक की है?",
+  "optsEn": [
+   "Standard Asset",
+   "Non-Performing Asset",
+   "Substandard Venture",
+   "Liquid Liability"
+  ],
+  "optsHi": [
+   "मानक परिसंपत्ति",
+   "गैर-निष्पादित परिसंपत्ति (NPA)",
+   "अवर मानक उद्यम",
+   "तरल देयता"
+  ],
+  "correct": 1,
+  "explainEn": "According to RBI guidelines, an asset ceases to generate income for a bank and is classified as a Non-Performing Asset (NPA) if interest or principal remains overdue for more than 90 days.",
+  "sourceHint": "RBI Master Circular on Prudential Norms on Income Recognition",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:56:26Z"
+ },
+ {
+  "id": "q_c6a3f66ec6baee58",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the minimum net worth requirement stipulated by the Reserve Bank of India for setting up a Micro Finance Institution (MFI) as a Non-Banking Financial Company (NBFC-MFI) in non-northeastern and non-hill regions?",
+  "qHi": "उत्तर-पूर्वी और पहाड़ी क्षेत्रों को छोड़कर अन्य क्षेत्रों में गैर-बैंकिंग वित्तीय कंपनी (NBFC-MFI) के रूप में माइक्रो फाइनेंस संस्थान (MFI) स्थापित करने के लिए भारतीय रिजर्व बैंक द्वारा निर्धारित न्यूनतम कुल संपत्ति (net worth) की आवश्यकता क्या है?",
+  "optsEn": [
+   "Rupees 2 crore",
+   "Rupees 5 crore",
+   "Rupees 10 crore",
+   "Rupees 20 crore"
+  ],
+  "optsHi": [
+   "2 करोड़ रुपये",
+   "5 करोड़ रुपये",
+   "10 करोड़ रुपये",
+   "20 करोड़ रुपये"
+  ],
+  "correct": 1,
+  "explainEn": "RBI regulations mandate a minimum net worth of Rupees 5 crore for NBFC-MFIs operating in regions other than the Northeast and hill regions, where it is Rupees 2 crore.",
+  "sourceHint": "RBI Master Directions on NBFC-MFI",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:57:50Z"
+ },
+ {
+  "id": "q_79f3387611967cdd",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of international trade finance, which UCP publication governs Documentary Credits and is universally used by banks worldwide?",
+  "qHi": "अंतर्राष्ट्रीय व्यापार वित्त के संदर्भ में, कौन सा UCP प्रकाशन दस्तावेजी साख (Documentary Credits) को नियंत्रित करता है और दुनिया भर के बैंकों द्वारा सार्वभौमिक रूप से उपयोग किया जाता है?",
+  "optsEn": [
+   "UCP 500",
+   "UCP 600",
+   "UCP 700",
+   "ISP 98"
+  ],
+  "optsHi": [
+   "UCP 500",
+   "UCP 600",
+   "UCP 700",
+   "ISP 98"
+  ],
+  "correct": 1,
+  "explainEn": "Uniform Customs and Practice for Documentary Credits (UCP 600), published by the International Chamber of Commerce (ICC), is the current set of rules universally used for letters of credit.",
+  "sourceHint": "International Chamber of Commerce (ICC) Publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:57:50Z"
+ },
+ {
+  "id": "q_c4002f06869f20f2",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque is defined in which specific section?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, चेक को किस विशिष्ट धारा में परिभाषित किया गया है?",
+  "optsEn": [
+   "Section 5",
+   "Section 6",
+   "Section 13",
+   "Section 25"
+  ],
+  "optsHi": [
+   "धारा 5",
+   "धारा 6",
+   "धारा 13",
+   "धारा 25"
+  ],
+  "correct": 1,
+  "explainEn": "Section 6 of the Negotiable Instruments Act, 1881 defines a 'cheque' as a bill of exchange drawn on a specified banker and not expressed to be payable otherwise than on demand.",
+  "sourceHint": "Negotiable Instruments Act, 1881 - Bare Act",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:57:50Z"
+ },
+ {
+  "id": "q_33558fe4b96cb330",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following bodies in India functions as the regulator for credit rating agencies operating within the domestic financial markets?",
+  "qHi": "भारत में निम्नलिखित में से कौन सा निकाय घरेलू वित्तीय बाजारों में काम करने वाली क्रेडिट रेटिंग एजेंसियों के लिए नियामक के रूप में कार्य करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India",
+   "Insurance Regulatory and Development Authority",
+   "Ministry of Corporate Affairs"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "बीमा नियामक और विकास प्राधिकरण",
+   "कॉर्पोरेट मामलों के मंत्रालय"
+  ],
+  "correct": 1,
+  "explainEn": "Credit Rating Agencies (CRAs) in India are registered and regulated by the Securities and Exchange Board of India (SEBI) under SEBI (Credit Rating Agencies) Regulations, 1999.",
+  "sourceHint": "SEBI Act, 1992 and SEBI CRA Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:57:50Z"
+ },
+ {
+  "id": "q_5255ff5151485bf7",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What does the 'Liquidity Coverage Ratio' (LCR) under Basel III standards require banks to maintain?",
+  "qHi": "बेसल III मानकों के तहत 'लिवरिटी कवरेज रेश्यो' (LCR) बैंकों को क्या बनाए रखने की मांग करता है?",
+  "optsEn": [
+   "High-quality liquid assets to cover total net cash outflows over a 30-day stress period",
+   "Tier 1 capital equal to 10.5 percent of risk-weighted assets",
+   "Minimum reserve deposits held directly with the central bank",
+   "Liquid assets sufficient to cover foreign exchange liabilities only"
+  ],
+  "optsHi": [
+   "30-दिवसीय तनाव अवधि में कुल शुद्ध नकद बहिर्वाह को कवर करने के लिए उच्च गुणवत्ता वाली तरल संपत्ति",
+   "जोखिम-भारित परिसंपत्तियों का 10.5 प्रतिशत के बराबर टियर 1 पूंजी",
+   "केंद्रीय बैंक के पास सीधे रखे गए न्यूनतम आरक्षित जमा",
+   "केवल विदेशी मुद्रा देनदारियों को कवर करने के लिए पर्याप्त तरल संपत्ति"
+  ],
+  "correct": 0,
+  "explainEn": "The LCR requires banks to hold a sufficient reserve of high-quality liquid assets (HQLAs) to survive a significant acute stress scenario lasting 30 days.",
+  "sourceHint": "Basel III: The Liquidity Coverage Ratio and liquidity risk monitoring tools (BIS)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:57:50Z"
+ },
+ {
+  "id": "q_de8d1fe34b5c9a01",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Indian Stamp Act, 1899, who is primarily liable to pay the stamp duty on a bill of exchange payable otherwise than on demand, in the absence of an agreement to the contrary?",
+  "qHi": "भारतीय स्टांप अधिनियम, 1899 के तहत, मांग के अलावा अन्य देय विनिमय बिल पर स्टांप शुल्क का भुगतान करने के लिए मुख्य रूप से कौन उत्तरदायी है, बशर्ते इसके विपरीत कोई समझौता न हो?",
+  "optsEn": [
+   "The drawee",
+   "The drawer",
+   "The collecting banker",
+   "The paying banker"
+  ],
+  "optsHi": [
+   "ड्राई (जिस पर लिखा गया है)",
+   "ड्रावर (जो लिखता है)",
+   "संग्रह करने वाला बैंक",
+   "भुगतान करने वाला बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "Section 29(a) of the Indian Stamp Act, 1899 states that in the absence of an agreement to the contrary, the stamp duty on a bill of exchange is payable by the drawer.",
+  "sourceHint": "Indian Stamp Act, 1899 - Bare Act",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:57:50Z"
  }
 ]

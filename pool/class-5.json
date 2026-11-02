@@ -26822,5 +26822,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-02T06:09:29Z"
+ },
+ {
+  "id": "q_bf9e590b6ba2d353",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which continent is known as the frozen continent?",
+  "qHi": "किस महाद्वीप को जमे हुए महाद्वीप के रूप में जाना जाता है?",
+  "optsEn": [
+   "Africa",
+   "Antarctica",
+   "Asia",
+   "Australia"
+  ],
+  "optsHi": [
+   "अफ्रीका",
+   "अंटार्कटिका",
+   "एशिया",
+   "ऑस्ट्रेलिया"
+  ],
+  "correct": 1,
+  "explainEn": "Antarctica is covered in ice and is known as the frozen continent.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:55:56Z"
+ },
+ {
+  "id": "q_25c05667a3c2b71a",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the main direction shown at the top of a standard map?",
+  "qHi": "मानक मानचित्र के सबसे ऊपर कौन सी मुख्य दिशा दर्शाई जाती है?",
+  "optsEn": [
+   "North",
+   "South",
+   "East",
+   "West"
+  ],
+  "optsHi": [
+   "उत्तर",
+   "दक्षिण",
+   "पूर्व",
+   "पश्चिम"
+  ],
+  "correct": 0,
+  "explainEn": "Maps are universally oriented with North at the top.",
+  "sourceHint": "NCERT Class 6 Geography / Basic Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:56:54Z"
+ },
+ {
+  "id": "q_0845ba5aebbcfed6",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which planet in our solar system has the maximum number of officially confirmed natural satellites or moons as of recent astronomical data?",
+  "qHi": "हाल के खगोलीय डेटा के अनुसार हमारे सौरमंडल के किस ग्रह के पास आधिकारिक तौर पर सबसे अधिक प्राकृतिक उपग्रह या चंद्रमा हैं?",
+  "optsEn": [
+   "Jupiter",
+   "Saturn",
+   "Uranus",
+   "Neptune"
+  ],
+  "optsHi": [
+   "बृहस्पति",
+   "शनि",
+   "यूरेनस",
+   "नेपच्यून"
+  ],
+  "correct": 1,
+  "explainEn": "Saturn currently holds the record for the highest number of confirmed moons in the solar system.",
+  "sourceHint": "NCERT Class 6 Geography / NASA planetary facts",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:58:01Z"
+ },
+ {
+  "id": "q_914f07a88bc68fcc",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which part of a plant does photosynthesis primarily take place due to the presence of chlorophyll?",
+  "qHi": "क्लोरोफिल की उपस्थिति के कारण प्रकाश संश्लेषण मुख्य रूप से पौधे के किस भाग में होता है?",
+  "optsEn": [
+   "Roots",
+   "Flowers",
+   "Leaves",
+   "Stems"
+  ],
+  "optsHi": [
+   "जड़ें",
+   "फूल",
+   "पत्तियां",
+   "तने"
+  ],
+  "correct": 2,
+  "explainEn": "Leaves contain chloroplasts with chlorophyll, making them the primary site for photosynthesis.",
+  "sourceHint": "NCERT Class 6 Science Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:58:01Z"
+ },
+ {
+  "id": "q_0734cab0a30b751a",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian state is famously known as the Spice Garden of India due to its large-scale spice cultivation?",
+  "qHi": "अपने बड़े पैमाने पर मसालों की खेती के कारण किस भारतीय राज्य को भारत का मसाला उद्यान कहा जाता है?",
+  "optsEn": [
+   "Kerala",
+   "Punjab",
+   "Rajasthan",
+   "Assam"
+  ],
+  "optsHi": [
+   "केरल",
+   "पंजाब",
+   "राजस्थान",
+   "असम"
+  ],
+  "correct": 0,
+  "explainEn": "Kerala is widely known as the Spice Garden of India.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:58:01Z"
+ },
+ {
+  "id": "q_4619a53420e97b36",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which layer of the Earth lies directly beneath the crust?",
+  "qHi": "पृथ्वी की कौन सी परत भूपर्पटी (क्रस्ट) के ठीक नीचे स्थित है?",
+  "optsEn": [
+   "Inner core",
+   "Outer core",
+   "Mantle",
+   "Atmosphere"
+  ],
+  "optsHi": [
+   "आंतरिक कोर",
+   "बाहरी कोर",
+   "मेंटल",
+   "वायुमंडल"
+  ],
+  "correct": 2,
+  "explainEn": "The mantle is the thick middle layer of the Earth located right below the crust.",
+  "sourceHint": "NCERT Class 7 Geography Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-02T15:58:01Z"
  }
 ]
