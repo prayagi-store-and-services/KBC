@@ -27466,5 +27466,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-03T01:01:55Z"
+ },
+ {
+  "id": "q_d1ac5869a9b54735",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which part of the plant conducts water?",
+  "qHi": "पौधे का कौन सा भाग पानी का संवहन करता है?",
+  "optsEn": [
+   "Phloem",
+   "Xylem",
+   "Cortex",
+   "Pith"
+  ],
+  "optsHi": [
+   "फ्लोएम",
+   " जाइलम",
+   "कॉर्टेक्स",
+   "पिथ"
+  ],
+  "correct": 1,
+  "explainEn": "Xylem tissue in plants is responsible for transporting water and dissolved minerals from the roots.",
+  "sourceHint": "NCERT Class 10 Science Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:25:05Z"
+ },
+ {
+  "id": "q_933c88134abddfd4",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of resources are coal and petroleum classified as?",
+  "qHi": "कोयला और पेट्रोलियम को किस प्रकार के संसाधनों के रूप में वर्गीकृत किया गया है?",
+  "optsEn": [
+   "Renewable resources",
+   "Non-renewable resources",
+   "Biotic resources",
+   "Potential resources"
+  ],
+  "optsHi": [
+   "नवीकरणीय संसाधन",
+   "अनवीकरणीय संसाधन",
+   "जैविक संसाधन",
+   "संभाव्य संसाधन"
+  ],
+  "correct": 1,
+  "explainEn": "Coal and petroleum take millions of years to form and are exhaustible, so they are non-renewable.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:26:04Z"
+ },
+ {
+  "id": "q_bb74400ea8d393b0",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which crop is known as a staple food crop of India, growing in the plains of north and north-eastern India?",
+  "qHi": "कौन सी फसल भारत की मुख्य खाद्य फसल के रूप में जानी जाती है, जो उत्तर और उत्तर-पूर्वी भारत के मैदानों में उगाई जाती है?",
+  "optsEn": [
+   "Wheat",
+   "Rice",
+   "Maize",
+   "Millets"
+  ],
+  "optsHi": [
+   "गेहूँ",
+   "चावल",
+   "मक्का",
+   "बाजरा"
+  ],
+  "correct": 1,
+  "explainEn": "Rice is the staple food crop of a majority of people in India and requires high humidity and rainfall.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:26:04Z"
+ },
+ {
+  "id": "q_ab238c15243af070",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which level of government in India has the power to legislate on subjects included in the Concurrent List?",
+  "qHi": "भारत में सरकार के किस स्तर के पास समवर्ती सूची में शामिल विषयों पर कानून बनाने की शक्ति है?",
+  "optsEn": [
+   "Union government only",
+   "State governments only",
+   "Both Union and State governments",
+   "Local government bodies only"
+  ],
+  "optsHi": [
+   "केवल केंद्र सरकार",
+   "केवल राज्य सरकारें",
+   "केंद्र और राज्य दोनों सरकारें",
+   "केवल स्थानीय निकाय"
+  ],
+  "correct": 2,
+  "explainEn": "Both the Union Parliament and State Legislatures can make laws on subjects mentioned in the Concurrent List.",
+  "sourceHint": "NCERT Class 10 Political Science, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:26:04Z"
  }
 ]

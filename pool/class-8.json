@@ -22594,5 +22594,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-03T01:01:27Z"
+ },
+ {
+  "id": "q_4438c38998413570",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under which article of the Indian Constitution is the Right to Education guaranteed?",
+  "qHi": "भारतीय संविधान के किस अनुच्छेद के तहत शिक्षा का अधिकार गारंटीकृत है?",
+  "optsEn": [
+   "Article 14",
+   "Article 19",
+   "Article 21A",
+   "Article 32"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14",
+   "अनुच्छेद 19",
+   "अनुच्छेद 21क",
+   "अनुच्छेद 32"
+  ],
+  "correct": 2,
+  "explainEn": "Article 21A provides free and compulsory education to all children aged 6 to 14 years.",
+  "sourceHint": "NCERT Class 8 Civics, Understanding Our Criminal Justice System / Constitution",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:26:00Z"
+ },
+ {
+  "id": "q_25b512fdc318639a",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary natural source of coal?",
+  "qHi": "कोयले का प्राथमिक प्राकृतिक स्रोत क्या है?",
+  "optsEn": [
+   "Dead marine animals",
+   "Remains of prehistoric plants buried deep inside the earth",
+   "Volcanic ash",
+   "Compressed atmospheric gases"
+  ],
+  "optsHi": [
+   "मृत समुद्री जीव",
+   "पृथ्वी के अंदर दबे प्रागैतिहासिक पौधों के अवशेष",
+   "ज्वालामुखी की राख",
+   "संपीड़ित वायुमंडलीय गैसें"
+  ],
+  "correct": 1,
+  "explainEn": "Coal was formed from the remains of dead vegetation buried millions of years ago under high pressure and temperature.",
+  "sourceHint": "NCERT Class 8 Science, Coal and Petroleum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:26:00Z"
  }
 ]

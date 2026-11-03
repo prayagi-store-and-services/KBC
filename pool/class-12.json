@@ -31666,5 +31666,481 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-03T01:02:03Z"
+ },
+ {
+  "id": "q_c793208a4a48f32e",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following units is used to measure electric current?",
+  "qHi": "विद्युत धारा को मापने के लिए निम्नलिखित में से किस इकाई का उपयोग किया जाता है?",
+  "optsEn": [
+   "Volt",
+   "Ohm",
+   "Ampere",
+   "Watt"
+  ],
+  "optsHi": [
+   "वोल्ट",
+   "ओम",
+   "एम्पीयर",
+   "वाट"
+  ],
+  "correct": 2,
+  "explainEn": "Ampere is the SI unit of electric current.",
+  "sourceHint": "NCERT Physics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:24:38Z"
+ },
+ {
+  "id": "q_7d0a641ded05fd56",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of economy does India have according to economic classification?",
+  "qHi": "आर्थिक वर्गीकरण के अनुसार भारत की अर्थव्यवस्था किस प्रकार की है?",
+  "optsEn": [
+   "Capitalist economy",
+   "Socialist economy",
+   "Mixed economy",
+   "Communist economy"
+  ],
+  "optsHi": [
+   "पूंजीवादी अर्थव्यवस्था",
+   "समाजवादी अर्थव्यवस्था",
+   "मिश्रित अर्थव्यवस्था",
+   "साम्यवादी अर्थव्यवस्था"
+  ],
+  "correct": 2,
+  "explainEn": "India features a mixed economy where both the private sector and public sector exist.",
+  "sourceHint": "NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:24:38Z"
+ },
+ {
+  "id": "q_da95389eee072d73",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the famous novel 'Pinjar'?",
+  "qHi": "प्रसिद्ध उपन्यास 'पिंजर' किसने लिखा है?",
+  "optsEn": [
+   "Amrita Pritam",
+   "Rabindranath Tagore",
+   "Khushwant Singh",
+   "Premchand"
+  ],
+  "optsHi": [
+   "अमृता प्रीतम",
+   "रवींद्रनाथ टैगोर",
+   "खुशवंत सिंह",
+   "प्रेमचंद"
+  ],
+  "correct": 0,
+  "explainEn": "Pinjar is a Punjabi novel written by the prominent poet and novelist Amrita Pritam.",
+  "sourceHint": "NCERT English/Hindi Literature",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:24:38Z"
+ },
+ {
+  "id": "q_41d99680f8b72b31",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of chemical bond links the monomers of nucleic acids together to form a polynucleotide chain?",
+  "qHi": "न्यूक्लिक एसिड के मोनोमर किस प्रकार के रासायनिक बंधन द्वारा जुड़कर एक पॉलीन्यूक्लियोटाइड श्रृंखला बनाते हैं?",
+  "optsEn": [
+   "Peptide bond",
+   "Glycosidic bond",
+   "Phosphodiester bond",
+   "Hydrogen bond"
+  ],
+  "optsHi": [
+   "पेप्टाइड बंध",
+   "ग्लाइकोसिडिक बंध",
+   "फॉस्फोडाइस्टर बंध",
+   "हाइड्रोजन बंध"
+  ],
+  "correct": 2,
+  "explainEn": "Adjacent nucleotides in a nucleic acid strand are joined by a phosphodiester linkage between the 3' carbon of one sugar and the 5' carbon of the next.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:25:10Z"
+ },
+ {
+  "id": "q_e9d6f27ec062f180",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which fundamental economic activity is classified under secondary activities?",
+  "qHi": "कौन सी मौलिक आर्थिक गतिविधि द्वितीयक गतिविधियों के अंतर्गत वर्गीकृत की जाती है?",
+  "optsEn": [
+   "Mining of iron ore",
+   "Manufacturing of steel",
+   "Extraction of crude oil",
+   "Provision of transport services"
+  ],
+  "optsHi": [
+   "लह अयस्क का खनन",
+   "स्टील का विनिर्माण",
+   "कच्चे तेल का निष्कर्षण",
+   "परिवहन सेवाओं का प्रावधान"
+  ],
+  "correct": 1,
+  "explainEn": "Secondary activities involve the processing of raw materials into finished or semi-finished goods, such as manufacturing steel from iron ore.",
+  "sourceHint": "NCERT Class 12 Geography (Fundamentals of Human Geography), Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:25:10Z"
+ },
+ {
+  "id": "q_8fb19063454e9cf7",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of Indian planning, the Mahalanobis model, adopted from the Second Five Year Plan onwards, placed primary emphasis on the development of which sector?",
+  "qHi": "भारतीय नियोजन के संदर्भ में, दूसरी पंचवर्षीय योजना से अपनाए गए महालनोबिस मॉडल ने किस क्षेत्र के विकास पर प्राथमिक जोर दिया था?",
+  "optsEn": [
+   "Agriculture and irrigation",
+   "Heavy and capital goods industries",
+   "Small-scale cottage industries",
+   "Service and IT sector"
+  ],
+  "optsHi": [
+   "कृषि और सिंचाई",
+   "भारी और पूंजीगत वस्तु उद्योग",
+   "लघु कुटीर उद्योग",
+   "सेवा और आईटी क्षेत्र"
+  ],
+  "correct": 1,
+  "explainEn": "The Second Five Year Plan, based on the Mahalanobis strategy, focused heavily on the rapid industrialization through the promotion of heavy industries.",
+  "sourceHint": "NCERT Class 12 Economics (Indian Economic Development), Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:25:10Z"
+ },
+ {
+  "id": "q_13a88af8ee648815",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which constitutional amendment introduced the provisions related to Panchayati Raj Institutions in India, giving them constitutional status?",
+  "qHi": "किस संविधान संशोधन ने भारत में पंचायती राज संस्थाओं से संबंधित प्रावधानों को पेश किया, जिससे उन्हें संवैधानिक दर्जा मिला?",
+  "optsEn": [
+   "42nd Amendment Act",
+   "44th Amendment Act",
+   "73rd Amendment Act",
+   "86th Amendment Act"
+  ],
+  "optsHi": [
+   "42वां संशोधन अधिनियम",
+   "44वां संशोधन अधिनियम",
+   "73वां संशोधन अधिनियम",
+   "86वां संशोधन अधिनियम"
+  ],
+  "correct": 2,
+  "explainEn": "The 73rd Constitutional Amendment Act of 1992 added Part IX to the Constitution of India, institutionalizing Panchayati Raj.",
+  "sourceHint": "NCERT Class 12 Political Science (Indian Politics at the Crossroads / Indian Constitution at Work)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:25:10Z"
+ },
+ {
+  "id": "q_e25ff1579a931e67",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary product formed at the cathode during the electrolysis of molten sodium chloride?",
+  "qHi": "पिघले हुए सोडियम क्लोराइड के विद्युत अपघटन के दौरान कैथोड पर बनने वाला प्राथमिक उत्पाद क्या है?",
+  "optsEn": [
+   "Chlorine gas",
+   "Hydrogen gas",
+   "Sodium metal",
+   "Oxygen gas"
+  ],
+  "optsHi": [
+   "क्लोरीन गैस",
+   "हाइड्रोजन गैस",
+   "सोडियम धातु",
+   "ऑक्सीजन गैस"
+  ],
+  "correct": 2,
+  "explainEn": "During the electrolysis of molten NaCl, sodium ions migrate to the cathode and gain electrons to form liquid sodium metal.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 2 (Electrochemistry)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:25:10Z"
+ },
+ {
+  "id": "q_7cdbb4558c5e0a24",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which coordination compound is commonly used as an anti-cancer medication?",
+  "qHi": "किस उपसहसंयोजन यौगिक का उपयोग आमतौर पर कैंसर रोधी दवा के रूप में किया जाता है?",
+  "optsEn": [
+   "Cisplatin",
+   "Sodium EDTA",
+   "Potassium ferrocyanide",
+   "Tetraamminecopper(II) sulfate"
+  ],
+  "optsHi": [
+   "सिस्प्लैटिन",
+   "सोडियम EDTA",
+   "पोटेशियम फेरोसाइनाइड",
+   "टेट्राएम्मीनकॉपर(II) सल्फेट"
+  ],
+  "correct": 0,
+  "explainEn": "Cisplatin, a platinum-based coordination complex, is widely used in chemotherapy to treat various types of cancers.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 5 (Coordination Compounds)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:25:10Z"
+ },
+ {
+  "id": "q_ef977a48c10d8710",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which agency is primarily responsible for the execution and coordination of space launch vehicles and satellite programs in India?",
+  "qHi": "भारत में अंतरिक्ष प्रक्षेपण वाहनों और उपग्रह कार्यक्रमों के निष्पादन और समन्वय के लिए कौन सी एजेंसी मुख्य रूप से जिम्मेदार है?",
+  "optsEn": [
+   "DRDO",
+   "ISRO",
+   "DAE",
+   "BARC"
+  ],
+  "optsHi": [
+   "डीआरडीओ",
+   "इसरो",
+   "डीएई",
+   "बार्क"
+  ],
+  "correct": 1,
+  "explainEn": "The Indian Space Research Organisation (ISRO) is the national space agency of India tasked with space research and satellite deployment.",
+  "sourceHint": "NCERT Class 12 Geography / General Science and Technology awareness",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:25:10Z"
+ },
+ {
+  "id": "q_a06ddc53fbb5ddc2",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the molecular geometry and hybridization of the central atom in the [CoF6]3- complex ion according to Valence Bond Theory?",
+  "qHi": "वैलेंस बॉन्ड थ्योरी के अनुसार [CoF6]3- कॉम्प्लेक्स आयन में केंद्रीय परमाणु की आणविक ज्यामिति और संकरण क्या है?",
+  "optsEn": [
+   "Square planar, dsp2",
+   "Tetrahedral, sp3",
+   "Octahedral, sp3d2",
+   "Octahedral, d2sp3"
+  ],
+  "optsHi": [
+   "वर्ग समतलीय, dsp2",
+   "चतुष्कोणीय, sp3",
+   "अष्टकोणीय, sp3d2",
+   "अष्टकोणीय, d2sp3"
+  ],
+  "correct": 2,
+  "explainEn": "Fluoride is a weak field ligand, leading to the formation of an outer orbital octahedral complex with sp3d2 hybridization and 4 unpaired electrons.",
+  "sourceHint": "NCERT Chemistry Class 12, Part 1, Chapter 5: Coordination Compounds",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:26:10Z"
+ },
+ {
+  "id": "q_d1a471741ec628ba",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Article of the Indian Constitution empowers Parliament to legislate on any subject enumerated in the State List if the Rajya Sabha passes a resolution by a two-thirds majority declaring it to be of national importance?",
+  "qHi": "भारतीय संविधान का कौन सा अनुच्छेद संसद को राज्य सूची में सूचीबद्ध किसी भी विषय पर कानून बनाने का अधिकार देता है यदि राज्य सभा दो-तिहाई बहुमत से यह प्रस्ताव पारित करे कि यह राष्ट्रीय महत्व का है?",
+  "optsEn": [
+   "Article 249",
+   "Article 352",
+   "Article 356",
+   "Article 268"
+  ],
+  "optsHi": [
+   "अनुच्छेद 249",
+   "अनुच्छेद 352",
+   "अनुच्छेद 356",
+   "अनुच्छेद 268"
+  ],
+  "correct": 0,
+  "explainEn": "Article 249 empowers Parliament to legislate on State List subjects in the national interest if Rajya Sabha passes the requisite resolution.",
+  "sourceHint": "NCERT Political Science Class 12, Indian Constitution at Work",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:26:10Z"
+ },
+ {
+  "id": "q_fc215ee48a7b2d74",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In macroeconomics, what does the term 'narrow money' (M1) in India primarily comprise?",
+  "qHi": "समष्टि अर्थशास्त्र में, भारत में 'संकुचित मुद्रा' (M1) शब्द में मुख्य रूप से क्या शामिल है?",
+  "optsEn": [
+   "Currency with the public plus demand deposits with banks",
+   "Currency with the public plus total deposits with the Reserve Bank of India",
+   "Demand deposits plus time deposits with commercial banks",
+   "Total post office savings bank deposits plus currency with the public"
+  ],
+  "optsHi": [
+   "जनता के पास मुद्रा और बैंकों के पास मांग जमा",
+   "जनता के पास मुद्रा और भारतीय रिजर्व बैंक के पास कुल जमा",
+   "वाणिज्यिक बैंकों के पास मांग जमा और सावधि जमा",
+   "कुल डाकघर बचत बैंक जमा और जनता के पास मुद्रा"
+  ],
+  "correct": 0,
+  "explainEn": "M1 money supply standard definition by RBI includes currency with the public and demand deposits with commercial banks.",
+  "sourceHint": "NCERT Economics Class 12, Introductory Macroeconomics, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:26:10Z"
+ },
+ {
+  "id": "q_6466705275b9b3fd",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which phenomenon describes the bending of light around the corners of an obstacle or aperture whose size is comparable to the wavelength of light?",
+  "qHi": "उस घटना को क्या कहते हैं जिसमें प्रकाश किसी ऐसी बाधा या छिद्र के किनारों पर मुड़ जाता है जिसका आकार प्रकाश की तरंग दैर्ध्य के तुलनीय हो?",
+  "optsEn": [
+   "Interference",
+   "Polarization",
+   "Diffraction",
+   "Total internal reflection"
+  ],
+  "optsHi": [
+   "व्यतिकरण",
+   "ध्रुवीकरण",
+   "विवर्तन",
+   "पूर्ण आंतरिक परावर्तन"
+  ],
+  "correct": 2,
+  "explainEn": "Diffraction is the bending of waves around obstacles and apertures comparable in size to their wavelength.",
+  "sourceHint": "NCERT Physics Class 12, Part 2, Chapter 10: Wave Optics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:26:10Z"
+ },
+ {
+  "id": "q_fba7c92dbdb6aa77",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which type of natural selection operates when environmental conditions favor individuals possessing extreme values of a trait over intermediate phenotypic values?",
+  "qHi": "किस प्रकार का प्राकृतिक चयन तब कार्य करता है जब पर्यावरणीय परिस्थितियाँ मध्यवर्ती फेनोटाइपिक मूल्यों के बजाय किसी लक्षण के अत्यधिक मूल्यों वाले व्यक्तियों का पक्ष लेती हैं?",
+  "optsEn": [
+   "Stabilizing selection",
+   "Directional selection",
+   "Disruptive selection",
+   "Balancing selection"
+  ],
+  "optsHi": [
+   "स्थिरीकरण चयन",
+   "दिशात्मक चयन",
+   "विघटनकारी चयन",
+   "संतुलन चयन"
+  ],
+  "correct": 2,
+  "explainEn": "Disruptive selection favors individuals at both extremes of the phenotypic range, eliminating intermediate types.",
+  "sourceHint": "NCERT Biology Class 12, Chapter 7: Evolution",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:26:10Z"
+ },
+ {
+  "id": "q_82c2d303025fc1ec",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary product formed when an alkyl halide is treated with silver cyanide (AgCN)?",
+  "qHi": "जब किसी एल्किल हैलाइड को सिल्वर साइनाइड (AgCN) के साथ उपचारित किया जाता है, तो मुख्य उत्पाद क्या बनता है?",
+  "optsEn": [
+   "Alkyl cyanide",
+   "Alkyl isocyanide",
+   "Nitroalkane",
+   "Alkane"
+  ],
+  "optsHi": [
+   "एल्किल साइनाइड",
+   "एल्किल आइसोसाइनाइड",
+   "नाइट्रोएल्केन",
+   "एल्केन"
+  ],
+  "correct": 1,
+  "explainEn": "AgCN is predominantly covalent, leaving the nitrogen atom free to donate electrons, yielding alkyl isocyanides as the major product.",
+  "sourceHint": "NCERT Chemistry Class 12, Part 2, Chapter 10: Haloalkanes and Haloarenes",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:26:10Z"
+ },
+ {
+  "id": "q_339f3afbc81bd7e7",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which demographic transition stage is characterized by high birth rates followed by a rapid decline in death rates, resulting in a population explosion?",
+  "qHi": "जनसांख्यिकी संक्रमण के किस चरण की विशेषता उच्च जन्म दर और उसके बाद मृत्यु दर में तीव्र गिरावट है, जिसके परिणामस्वरूप जनसंख्या विस्फोट होता है?",
+  "optsEn": [
+   "Stage I",
+   "Stage II",
+   "Stage III",
+   "Stage IV"
+  ],
+  "optsHi": [
+   "चरण I",
+   "चरण II",
+   "चरण III",
+   "चरण IV"
+  ],
+  "correct": 1,
+  "explainEn": "Stage II of the demographic transition theory features high fertility and falling mortality, leading to rapid net population growth.",
+  "sourceHint": "NCERT Geography Class 12, Fundamentals of Human Geography, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:26:10Z"
  }
 ]

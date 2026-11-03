@@ -19682,5 +19682,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-03T01:01:13Z"
+ },
+ {
+  "id": "q_f7646a731346a0ed",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which fundamental right in the Indian Constitution guarantees protection against arrest and detention in certain cases?",
+  "qHi": "भारतीय संविधान में कौन सा मौलिक अधिकार कुछ मामलों में गिरफ्तारी और निरोध के खिलाफ सुरक्षा की गारंटी देता है?",
+  "optsEn": [
+   "Right to Equality",
+   "Right to Freedom",
+   "Right to Education",
+   "Right to Constitutional Remedies"
+  ],
+  "optsHi": [
+   "समानता का अधिकार",
+   "स्वतंत्रता का अधिकार",
+   "शिक्षा का अधिकार",
+   "संवैधानिक उपचारों का अधिकार"
+  ],
+  "correct": 1,
+  "explainEn": "Articles 20 and 22 under the Right to Freedom protect individuals regarding arrest and detention.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:25:51Z"
+ },
+ {
+  "id": "q_d42d9dd9cc4f639d",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which classical dance form originated in the state of Kerala and is known for elaborate make-up and costumes?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप केरल राज्य में उत्पन्न हुआ और विस्तृत मेक-अप और वेशभूषा के लिए जाना जाता है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathak",
+   "Kathakali",
+   "Odissi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथक",
+   "कथकली",
+   "ओडिसी"
+  ],
+  "correct": 2,
+  "explainEn": "Kathakali is a major form of classical Indian dance distinguished by its colorful make-up and face masks.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:25:51Z"
+ },
+ {
+  "id": "q_ea198129d0934ef1",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization launched India's first lunar probe, Chandrayaan-1, in 2008?",
+  "qHi": "किस संगठन ने 2008 में भारत के पहले चंद्र जांच अभियान, चंद्रयान-1 को लॉन्च किया था?",
+  "optsEn": [
+   "DRDO",
+   "ISRO",
+   "HAL",
+   "BARC"
+  ],
+  "optsHi": [
+   "डीआरडीओ",
+   "इसरो",
+   "एचएएल",
+   "भाभा परमाणु अनुसंधान केंद्र"
+  ],
+  "correct": 1,
+  "explainEn": "Chandrayaan-1 was successfully launched by the Indian Space Research Organisation (ISRO).",
+  "sourceHint": "ISRO Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:25:51Z"
+ },
+ {
+  "id": "q_a93838c4eac1aa0f",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which state is the ancient port city of Lothal situated?",
+  "qHi": "प्राचीन पतन शहर लोथल किस राज्य में स्थित है?",
+  "optsEn": [
+   "Maharashtra",
+   "Gujarat",
+   "Odisha",
+   "Rajasthan"
+  ],
+  "optsHi": [
+   "महाराष्ट्र",
+   "गुजरात",
+   "ओडिशा",
+   "राजस्थान"
+  ],
+  "correct": 1,
+  "explainEn": "Lothal is one of the southernmost sites of the Indus Valley civilization, located in the Bhal region of Gujarat.",
+  "sourceHint": "NCERT Class 12 History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:26:53Z"
+ },
+ {
+  "id": "q_efef989d59a7589a",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian mathematician is known for formulating the infinite series for pi that was later named after him?",
+  "qHi": "पाई (pi) के अनंत श्रृंखला (infinite series) को प्रतिपादित करने के लिए किस भारतीय गणितज्ञ को जाना जाता है, जिसका नाम बाद में उनके नाम पर रखा गया?",
+  "optsEn": [
+   "Aryabhata",
+   "Bhaskara II",
+   "Madhava of Sangamagrama",
+   "Brahmagupta"
+  ],
+  "optsHi": [
+   "आर्यभट्ट",
+   "भास्कराचार्य द्वितीय",
+   "संगमग्राम के माधव",
+   "ब्रह्मगुप्त"
+  ],
+  "correct": 2,
+  "explainEn": "Madhava of Sangamagrama founded the Kerala school of astronomy and mathematics and discovered the Madhava-Leibniz series for pi.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:26:53Z"
+ },
+ {
+  "id": "q_d9f29bfc229ff989",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form of India traditionally originates from the northeastern state of Manipur?",
+  "qHi": "भारत की कौन सी शास्त्रीय नृत्य शैली पारंपरिक रूप से पूर्वोत्तर राज्य मणिपुर से उत्पन्न हुई है?",
+  "optsEn": [
+   "Sattriya",
+   "Manipuri",
+   "Odissi",
+   "Kathakali"
+  ],
+  "optsHi": [
+   "सत्रिया",
+   "मणिपुरी",
+   "ओडिसी",
+   "कथकली"
+  ],
+  "correct": 1,
+  "explainEn": "Manipuri dance, also known as Jagoi, is one of the major classical dance forms of India, originating from Manipur.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:26:53Z"
+ },
+ {
+  "id": "q_3f4a40d1182423de",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Indian Constitution, who holds the authority to promulgate ordinances when Parliament is not in session?",
+  "qHi": "भारतीय संविधान के तहत, जब संसद सत्र में न हो, तो अध्यादेश प्रख्यापित करने का अधिकार किसके पास है?",
+  "optsEn": [
+   "Prime Minister",
+   "President",
+   "Chief Justice of India",
+   "Speaker of Lok Sabha"
+  ],
+  "optsHi": [
+   "प्रधान मंत्री",
+   "राष्ट्रपति",
+   "भारत के मुख्य न्यायाधीश",
+   "लोकसभा अध्यक्ष"
+  ],
+  "correct": 1,
+  "explainEn": "Article 123 of the Constitution empowers the President to promulgate ordinances during the recess of Parliament.",
+  "sourceHint": "Constitution of India, Article 123",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:26:53Z"
+ },
+ {
+  "id": "q_fa83123cd726859a",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which national park in India is globally famous as the natural habitat of the endangered Sangai deer?",
+  "qHi": "भारत का कौन सा राष्ट्रीय उद्यान लुप्तप्राय संगाई हिरण के प्राकृतिक आवास के रूप में विश्व प्रसिद्ध है?",
+  "optsEn": [
+   "Kaziranga National Park",
+   "Keibul Lamjao National Park",
+   "Jim Corbett National Park",
+   "Gir National Park"
+  ],
+  "optsHi": [
+   "काजीरंगा राष्ट्रीय उद्यान",
+   "केibul लामजाओ राष्ट्रीय उद्यान",
+   "जिम कॉर्बेट राष्ट्रीय उद्यान",
+   "गिर राष्ट्रीय उद्यान"
+  ],
+  "correct": 1,
+  "explainEn": "Keibul Lamjao National Park, situated on Loktak Lake in Manipur, is the only floating national park in the world and the last natural refuge of the Sangai deer.",
+  "sourceHint": "Wildlife Institute of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:26:53Z"
+ },
+ {
+  "id": "q_e8c9de6ac74a202f",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian physicist shared the 1930 Nobel Prize in Physics for his work on the scattering of light?",
+  "qHi": "प्रकाश के प्रकीर्णन पर अपने कार्य के लिए किस भारतीय भौतिक विज्ञानी ने 1930 का भौतिकी का नोबेल पुरस्कार साझा किया था?",
+  "optsEn": [
+   "Homi J. Bhabha",
+   "Satyendra Nath Bose",
+   "C. V. Raman",
+   "Meghnad Saha"
+  ],
+  "optsHi": [
+   "होमी जे. भाभा",
+   "सत्येंद्र नाथ बोस",
+   "सी. वी. रमन",
+   "मेघनाद साहा"
+  ],
+  "correct": 2,
+  "explainEn": "Sir C. V. Raman was awarded the Nobel Prize in Physics in 1930 for his discovery regarding the scattering of light and the effect named after him (Raman Effect).",
+  "sourceHint": "Nobel Prize Foundation archives",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:26:53Z"
  }
 ]

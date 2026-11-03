@@ -27354,5 +27354,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-03T01:01:21Z"
+ },
+ {
+  "id": "q_47eba749635c7ed2",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary natural source of light for the Earth during the day?",
+  "qHi": "दिन के समय पृथ्वी के लिए प्रकाश का प्राथमिक प्राकृतिक स्रोत क्या है?",
+  "optsEn": [
+   "Moon",
+   "Sun",
+   "Stars",
+   "Fire"
+  ],
+  "optsHi": [
+   "चांद",
+   "सूरज",
+   "तारे",
+   "आग"
+  ],
+  "correct": 1,
+  "explainEn": "The Sun is the main natural source of light and heat for our planet Earth.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:24:57Z"
+ },
+ {
+  "id": "q_732480f9bd114e32",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of water is found in the oceans and seas of the world?",
+  "qHi": "दुनिया के महासागरों और समुद्रों में किस प्रकार का पानी पाया जाता है?",
+  "optsEn": [
+   "Freshwater",
+   "Saltwater",
+   "Rainwater",
+   "Frozen water"
+  ],
+  "optsHi": [
+   "मीठा पानी",
+   "खारा पानी",
+   "बारिश का पानी",
+   "जम हुआ पानी"
+  ],
+  "correct": 1,
+  "explainEn": "Ocean and sea water contains high amounts of dissolved salts, making it saltwater.",
+  "sourceHint": "NCERT Class 5 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:24:57Z"
+ },
+ {
+  "id": "q_10c03d92e0c27fd8",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which state of India is well known for the Kaziranga National Park, home to the one-horned rhinoceros?",
+  "qHi": "भारत का कौन सा राज्य काजीरंगा राष्ट्रीय उद्यान के लिए प्रसिद्ध है, जो एक सींग वाले गैंडे का घर है?",
+  "optsEn": [
+   "Rajasthan",
+   "Assam",
+   "Kerala",
+   "Gujarat"
+  ],
+  "optsHi": [
+   "राजस्थान",
+   "असम",
+   "केरल",
+   "गुजरात"
+  ],
+  "correct": 1,
+  "explainEn": "Kaziranga National Park is located in the state of Assam and is famous for the great Indian one-horned rhinoceros.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:25:55Z"
+ },
+ {
+  "id": "q_ab3dac3bc107df31",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following describes the Earth's movement around the Sun?",
+  "qHi": "निम्नलिखित में से कौन सा सूर्य के चारों ओर पृथ्वी की गति का वर्णन करता है?",
+  "optsEn": [
+   "Rotation",
+   "Revolution",
+   "Precession",
+   "Vibration"
+  ],
+  "optsHi": [
+   "घूर्णन",
+   "परिक्रमण",
+   "अक्षीय विचलन",
+   "कंपन"
+  ],
+  "correct": 1,
+  "explainEn": "Revolution is the movement of the Earth in its orbit around the Sun, which takes one year.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:25:55Z"
  }
 ]

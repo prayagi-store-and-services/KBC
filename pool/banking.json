@@ -33458,5 +33458,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-03T01:01:09Z"
+ },
+ {
+  "id": "q_488e552a3f578878",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'C' stand for in the financial term 'CASA' ratio?",
+  "qHi": "वित्तीय शब्द 'CASA' अनुपात में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Capital",
+   "Current",
+   "Credit",
+   "Collateral"
+  ],
+  "optsHi": [
+   "पूंजी",
+   "चालू (करेंट)",
+   "क्रेडिट",
+   "संपार्श्विक"
+  ],
+  "correct": 1,
+  "explainEn": "CASA stands for Current Account Savings Account, representing the proportion of deposits a bank raises through current and savings accounts.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:25:46Z"
+ },
+ {
+  "id": "q_06a01c13bb0b2529",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque becomes stale after the expiration of how many months from its date of issue?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, एक चेक जारी होने की तारीख से कितने महीनों की समाप्ति के बाद पुराना (स्टेल) हो जाता है?",
+  "optsEn": [
+   "1 month",
+   "3 months",
+   "6 months",
+   "12 months"
+  ],
+  "optsHi": [
+   "1 महीना",
+   "3 महीने",
+   "6 महीने",
+   "12 महीने"
+  ],
+  "correct": 1,
+  "explainEn": "Reserve Bank of India directives mandate that commercial banks in India treat cheques as invalid after 3 months from the date of issue.",
+  "sourceHint": "Reserve Bank of India guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:25:46Z"
+ },
+ {
+  "id": "q_fc1b2e86a636f273",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India assigns credit ratings to manufacturing and service sector companies, commonly known as credit rating agencies?",
+  "qHi": "भारत में कौन सा संगठन विनिर्माण और सेवा क्षेत्र की कंपनियों को क्रेडिट रेटिंग प्रदान करता है, जिसे आमतौर पर क्रेडिट रेटिंग एजेंसियां ​​कहा जाता है?",
+  "optsEn": [
+   "SIDBI",
+   "CRISIL",
+   "IRDAI",
+   "TRAI"
+  ],
+  "optsHi": [
+   "सिडबी",
+   "क्रिसिल",
+   "इrdai",
+   "ट्राई"
+  ],
+  "correct": 1,
+  "explainEn": "CRISIL (Credit Rating Information Services of India Limited) is a leading credit rating agency in India.",
+  "sourceHint": "SEBI registered credit rating agencies directory",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:25:46Z"
+ },
+ {
+  "id": "q_5cd8537ca57f35f3",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which money market instrument is unsecured and issued as a promissory note by corporates to meet short-term debt obligations?",
+  "qHi": "अल्पकालिक ऋण दायित्वों को पूरा करने के लिए कौन सा मनी मार्केट साधन असुरक्षित है और कॉरपोरेट्स द्वारा वचन पत्र के रूप में जारी किया जाता है?",
+  "optsEn": [
+   "Treasury Bill",
+   "Commercial Paper",
+   "Certificate of Deposit",
+   "Cash Management Bill"
+  ],
+  "optsHi": [
+   "राजकोषीय बिल (Treasury Bill)",
+   "कमर्शियल पेपर",
+   "जमा प्रमाणपत्र",
+   "नकद प्रबंधन बिल"
+  ],
+  "correct": 1,
+  "explainEn": "Commercial Paper (CP) is an unsecured money market instrument issued in the form of a promissory note introduced in India in 1990.",
+  "sourceHint": "RBI Master Directions on Money Market Instruments",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:25:46Z"
+ },
+ {
+  "id": "q_33025fd26b5be4f4",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the term 'Repo Rate' signify in the monetary policy of the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक की मौद्रिक नीति में 'रेपो रेट' शब्द का क्या तात्पर्य है?",
+  "optsEn": [
+   "Rate at which RBI borrows from commercial banks",
+   "Rate at which commercial banks lend to the public",
+   "Rate at which RBI lends short-term funds to commercial banks",
+   "Rate of interest on long-term government bonds"
+  ],
+  "optsHi": [
+   "वह दर जिस पर आरबीआई वाणिज्यिक बैंकों से उधार लेता है",
+   "वह दर जिस पर वाणिज्यिक बैंक जनता को ऋण देते हैं",
+   "वह दर जिस पर आरबीआई वाणिज्यिक बैंकों को अल्पकालिक ऋण देता है",
+   "दीर्घकालिक सरकारी बांड पर ब्याज दर"
+  ],
+  "correct": 2,
+  "explainEn": "Repo rate (Repurchase Rate) is the rate at which the central bank lends money to commercial banks in the event of any shortfall of funds.",
+  "sourceHint": "Reserve Bank of India Monetary Policy framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:25:46Z"
+ },
+ {
+  "id": "q_51166437386f5d32",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is NOT a function of a central bank?",
+  "qHi": "निम्नलिखित में से कौन सा केंद्रीय बैंक का कार्य नहीं है?",
+  "optsEn": [
+   "Banker to the Government",
+   "Issuing currency notes",
+   "Accepting deposits from the general public",
+   "Custodian of foreign exchange reserves"
+  ],
+  "optsHi": [
+   "सरकार का बैंक",
+   "मुद्रा नोट जारी करना",
+   "आम जनता से जमा स्वीकार करना",
+   "विदेशी मुद्रा भंडार का संरक्षक"
+  ],
+  "correct": 2,
+  "explainEn": "Central banks do not deal directly with the general public for accepting deposits or granting loans; this is the function of commercial banks.",
+  "sourceHint": "NCERT Economics textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:25:46Z"
+ },
+ {
+  "id": "q_669f120d67447bda",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the minimum net worth requirement for setting up a Bharat Bill Payment Operating Unit (BBPOU) under the Reserve Bank of India guidelines?",
+  "qHi": "भारतीय रिजर्व बैंक के दिशानिर्देशों के तहत भारत बिल भुगतान संचालन इकाई (BBPOU) स्थापित करने के लिए न्यूनतम शुद्ध मूल्य की आवश्यकता क्या है?",
+  "optsEn": [
+   "Rs. 25 crore",
+   "Rs. 50 crore",
+   "Rs. 100 crore",
+   "Rs. 200 crore"
+  ],
+  "optsHi": [
+   "25 करोड़ रुपये",
+   "50 करोड़ रुपये",
+   "100 करोड़ रुपये",
+   "200 करोड़ रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "RBI guidelines stipulate a minimum net worth of Rs. 100 crore for operating as a Bharat Bill Payment Operating Unit.",
+  "sourceHint": "RBI Master Directions on Payment Systems",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:26:47Z"
+ },
+ {
+  "id": "q_86ce7385a630e0ef",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, which section deals with 'Cheque Crossing'?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, कौन सी धारा 'चेक क्रॉसिंग' से संबंधित है?",
+  "optsEn": [
+   "Section 6",
+   "Section 31",
+   "Section 123",
+   "Section 138"
+  ],
+  "optsHi": [
+   "धारा 6",
+   "धारा 31",
+   "धारा 123",
+   "धारा 138"
+  ],
+  "correct": 2,
+  "explainEn": "Section 123 of the Negotiable Instruments Act, 1881 defines crossing of cheques generally.",
+  "sourceHint": "Negotiable Instruments Act, 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:26:47Z"
+ },
+ {
+  "id": "q_975487aeb4463861",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Priority Sector Lending (PSL) in India, what is the target percentage of Adjusted Net Bank Credit (ANBC) prescribed for Domestic Commercial Banks for lending to Small and Marginal Farmers?",
+  "qHi": "भारत में प्राथमिकता प्राप्त क्षेत्र को ऋण (PSL) के संदर्भ में, छोटे और सीमांत किसानों को ऋण देने के लिए घरेलू वाणिज्यिक बैंकों के लिए समायोजित शुद्ध बैंक ऋण (ANBC) का निर्धारित लक्ष्य प्रतिशत क्या है?",
+  "optsEn": [
+   "7.5 percent",
+   "10 percent",
+   "12 percent",
+   "15 percent"
+  ],
+  "optsHi": [
+   "7.5 प्रतिशत",
+   "10 प्रतिशत",
+   "12 प्रतिशत",
+   "15 प्रतिशत"
+  ],
+  "correct": 0,
+  "explainEn": "RBI mandates a sub-target of 7.5 percent of ANBC for lending to Small and Marginal Farmers under PSL.",
+  "sourceHint": "RBI Master Directions - Priority Sector Lending",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:26:47Z"
+ },
+ {
+  "id": "q_97b97768f3c287c6",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific instrument was introduced by the Reserve Bank of India to manage day-to-day liquidity mismatch under the Liquidity Adjustment Facility (LAF)?",
+  "qHi": "तरलता समायोजन सुविधा (LAF) के तहत दिन-प्रतिदिन के तरलता असंतुलन को प्रबंधित करने के लिए भारतीय रिजर्व बैंक द्वारा कौन सा विशिष्ट उपकरण पेश किया गया था?",
+  "optsEn": [
+   "Cash Reserve Ratio",
+   "Marginal Standing Facility",
+   "Repo Rate",
+   "Statutory Liquidity Ratio"
+  ],
+  "optsHi": [
+   "नकद आरक्षित अनुपात",
+   "सीमांत स्थायी सुविधा",
+   "रेपो दर",
+   "वैधानिक तरलता अनुपात"
+  ],
+  "correct": 2,
+  "explainEn": "Repo rate is the primary instrument used under the LAF window to absorb or inject liquidity on a daily basis.",
+  "sourceHint": "RBI Publications on Monetary Policy Framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:26:47Z"
+ },
+ {
+  "id": "q_fc92c0612f2be5f9",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "As per Basel III norms, what is the minimum Capital Conservation Buffer (CCB) requirement that banks must maintain above the minimum capital adequacy ratios?",
+  "qHi": "बेसल III मानदंडों के अनुसार, न्यूनतम पूंजी पर्याप्तता अनुपातों से ऊपर बैंकों को न्यूनतम पूंजी संरक्षण बफर (CCB) आवश्यकता कितनी रखनी चाहिए?",
+  "optsEn": [
+   "1.0 percent",
+   "2.5 percent",
+   "3.5 percent",
+   "4.0 percent"
+  ],
+  "optsHi": [
+   "1.0 प्रतिशत",
+   "2.5 प्रतिशत",
+   "3.5 प्रतिशत",
+   "4.0 प्रतिशत"
+  ],
+  "correct": 1,
+  "explainEn": "Basel III framework mandates banks to maintain a Capital Conservation Buffer of 2.5 percent of risk-weighted assets.",
+  "sourceHint": "Basel Committee on Banking Supervision (BCBS)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:26:47Z"
+ },
+ {
+  "id": "q_1e3c9a09034c7378",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which institutional body in India acts as the apex regulatory authority for microfinance institutions that are structured as Non-Banking Financial Companies (NBFC-MFI)?",
+  "qHi": "भारत में कौन सा संस्थागत निकाय गैर-बैंकिंग वित्तीय कंपनियों (NBFC-MFI) के रूप में संरचित सूक्ष्म वित्त संस्थानों के लिए शीर्ष नियामक प्राधिकरण के रूप में कार्य करता है?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "Reserve Bank of India",
+   "Ministry of Finance"
+  ],
+  "optsHi": [
+   "सिडबी",
+   "नाबार्ड",
+   "भारतीय रिजर्व बैंक",
+   "वित्त मंत्रालय"
+  ],
+  "correct": 2,
+  "explainEn": "The Reserve Bank of India regulates all NBFCs, including NBFC-MFIs, under the provisions of the RBI Act, 1934.",
+  "sourceHint": "RBI Master Directions on Regulatory Framework for NBFC-MFIs",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:26:47Z"
+ },
+ {
+  "id": "q_560fa9412a09a7a5",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the maximum tenor permitted for Commercial Papers (CPs) issued in the Indian money market under current RBI guidelines?",
+  "qHi": "वर्तमान आरबीआई दिशानिर्देशों के तहत भारतीय मुद्रा बाजार में जारी वाणिज्यिक पत्रों (CPs) के लिए अधिकतम स्वीकार्य अवधि क्या है?",
+  "optsEn": [
+   "90 days",
+   "180 days",
+   "364 days",
+   "3 years"
+  ],
+  "optsHi": [
+   "90 दिन",
+   "180 दिन",
+   "364 दिन",
+   "3 वर्ष"
+  ],
+  "correct": 2,
+  "explainEn": "Commercial Papers can be issued for maturities between a minimum of 7 days and a maximum of up to one year (364 days).",
+  "sourceHint": "RBI Guidelines on Commercial Paper",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T23:26:47Z"
  }
 ]
