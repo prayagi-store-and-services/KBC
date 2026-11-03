@@ -1,3 +1,8 @@
+## 1.1.43 - Cleaner update notices
+
+- Update checks now happen at most every 6 hours instead of once a day, so new versions are noticed sooner.
+- Settings no longer shows the long static update explainer; the update card appears only when a newer version is verified.
+
 ## 1.1.42
 - Tablet and smart-class layout. On wide screens the app no longer stretches edge to edge: every screen stays centred in a comfortable reading column, and main headings and buttons are larger for distance viewing. Phone layouts are unchanged.
 - Truth fix: the home screen showed a made-up "3 days active" streak. No streak is tracked anywhere, so the line now truthfully says every game brings fresh questions.

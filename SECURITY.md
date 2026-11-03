@@ -1,3 +1,7 @@
+## v1.1.43 - update notice cadence
+
+Presentation/cadence change only. Update checks remain metadata-only (one small GitHub releases read; artifact fields are never read, nothing downloads). Cadence rises to at most every 6 hours with the same backoff; the settings card hides update status unless a newer version verifies. No new permission, dependency, endpoint or stored data. MainActivity and UI files are untouched (owned by the parallel KBC workstream).
+
 ## 1.1.42 interface layout (phone/tablet adaptive sizing)
 Layout-only change: content is capped and centred on wide screens (compact/medium/expanded classes) and selected headings scale up for smart-class distance viewing; phones are unchanged. One user-visible text correction: a hardcoded "3 days active" streak line was untrue (no streak is tracked) and was replaced with a true statement. No new permission, library, network call, storage, server, exported component or logging. Not a vulnerability patch. Release requires final-head CI, independent review and native UI inspection.
 
