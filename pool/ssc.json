@@ -19402,5 +19402,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-02T15:57:23Z"
+ },
+ {
+  "id": "q_a2b34357d1c40003",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which among the following is the chief ore of Aluminium?",
+  "qHi": "निम्नलिखित में से कौन एल्यूमीनियम का मुख्य अयस्क है?",
+  "optsEn": [
+   "Haematite",
+   "Bauxite",
+   "Calamine",
+   "Galena"
+  ],
+  "optsHi": [
+   "हेमेटाइट",
+   "बक्साइट",
+   "कैलामाइन",
+   "गेलेना"
+  ],
+  "correct": 1,
+  "explainEn": "Bauxite is the primary ore of aluminium, consisting mainly of hydrated aluminium oxides.",
+  "sourceHint": "NCERT Class 10 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T01:01:01Z"
  }
 ]

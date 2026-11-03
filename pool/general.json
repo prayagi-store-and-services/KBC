@@ -19626,5 +19626,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-02T15:57:56Z"
+ },
+ {
+  "id": "q_04d698691114cd4a",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the base currency of Japan?",
+  "qHi": "जापान की मूल मुद्रा क्या है?",
+  "optsEn": [
+   "Yen",
+   "Yuan",
+   "Won",
+   "Ringgit"
+  ],
+  "optsHi": [
+   "येन",
+   "युआन",
+   "वोन",
+   "रिंगित"
+  ],
+  "correct": 0,
+  "explainEn": "The yen is the official currency of Japan and is one of the most traded currencies in the world.",
+  "sourceHint": "International Monetary Fund",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T00:59:24Z"
+ },
+ {
+  "id": "q_cfa224177fcb7c4a",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum strength of the Lok Sabha as envisaged by the Constitution of India?",
+  "qHi": "भारत के संविधान द्वारा परिकल्पित लोकसभा की अधिकतम सदस्य संख्या क्या है?",
+  "optsEn": [
+   "545",
+   "550",
+   "552",
+   "560"
+  ],
+  "optsHi": [
+   "545",
+   "550",
+   "552",
+   "560"
+  ],
+  "correct": 2,
+  "explainEn": "Article 81 of the Constitution provides for a maximum strength of 552 members for the Lok Sabha.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T01:01:13Z"
  }
 ]

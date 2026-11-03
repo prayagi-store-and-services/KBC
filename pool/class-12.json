@@ -31442,5 +31442,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-02T15:57:11Z"
+ },
+ {
+  "id": "q_380138dd7c2bc749",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which type of chemical reaction is the overall entropy change of the universe always positive for a spontaneous process?",
+  "qHi": "किस प्रकार की रासायनिक प्रतिक्रिया में एक सहज प्रक्रिया के लिए ब्रह्मांड का कुल एन्ट्रापी परिवर्तन हमेशा सकारात्मक होता है?",
+  "optsEn": [
+   "Only exothermic reactions",
+   "Only endothermic reactions",
+   "All spontaneous processes",
+   "Only reversible processes at equilibrium"
+  ],
+  "optsHi": [
+   "केवल ऊष्माक्षेपी प्रतिक्रियाएं",
+   "केवल ऊष्माशोषी प्रतिक्रियाएं",
+   "सभी सहज प्रक्रियाएं",
+   "संतुलन पर केवल प्रतिवर्ती प्रक्रियाएं"
+  ],
+  "correct": 2,
+  "explainEn": "According to the Second Law of Thermodynamics, the total entropy of an isolated system or the universe increases for all spontaneous processes.",
+  "sourceHint": "NCERT Class 11 Chemistry, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T01:00:49Z"
+ },
+ {
+  "id": "q_3d5310946d17d62c",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which tropical deciduous tree species is predominant in the moist deciduous forests of India receiving rainfall between 100 cm and 200 cm?",
+  "qHi": "100 सेमी और 200 सेमी के बीच वर्षा प्राप्त करने वाले भारत के नम पर्णपाती वनों में कौन सी उष्णकटिबंधीय पर्णपाती वृक्ष प्रजाति प्रमुख है?",
+  "optsEn": [
+   "Teak",
+   "Sandalwood",
+   "Palm",
+   "Kikar"
+  ],
+  "optsHi": [
+   "सागवान",
+   "चंदन",
+   "ताड़",
+   "कीकर"
+  ],
+  "correct": 0,
+  "explainEn": "Teak is the most dominant species of the moist deciduous forests found in regions with 100 to 200 cm of rainfall in India.",
+  "sourceHint": "NCERT Class 11 Geography, India: Physical Environment",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T01:00:49Z"
+ },
+ {
+  "id": "q_3dd2d4331da34622",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the Panchayat elections in India, who decides whether a person is disqualified under any law made by the appropriate legislature?",
+  "qHi": "भारत में पंचायत चुनावों के दौरान, यह कौन तय करता है कि कोई व्यक्ति उपयुक्त विधानमंडल द्वारा बनाए गए किसी कानून के तहत अयोग्य है या नहीं?",
+  "optsEn": [
+   "The Governor of the State",
+   "The Election Commission of India",
+   "An authority prescribed by the Legislature of the State",
+   "The State Election Commissioner"
+  ],
+  "optsHi": [
+   "राज्य का राज्यपाल",
+   "भारत का चुनाव आयोग",
+   "राज्य के विधानमंडल द्वारा निर्धारित प्राधिकारी",
+   "राज्य चुनाव आयुक्त"
+  ],
+  "correct": 2,
+  "explainEn": "According to Article 243F of the Constitution of India, questions regarding disqualification of members of Panchayats are determined by such authority as the State Legislature may provide by law.",
+  "sourceHint": "Constitution of India, Article 243F",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T01:02:03Z"
+ },
+ {
+  "id": "q_8912fce08d13d0c3",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which macroeconomic identity correctly represents the relationship between national savings (S), investment (I), government budget balance (T - G), and net exports (X - M) in an open economy?",
+  "qHi": "एक खुली अर्थव्यवस्था में राष्ट्रीय बचत (S), निवेश (I), सरकारी बजट संतुलन (T - G), और शुद्ध निर्यात (X - M) के बीच के संबंध को कौन सी समष्टि आर्थिक पहचान सही ढंग से दर्शाती है?",
+  "optsEn": [
+   "S = I + (G - T) + (M - X)",
+   "S + (T - G) = I + (X - M)",
+   "S + (G - T) = I + (X - M)",
+   "S = I + (T - G) + (X - M)"
+  ],
+  "optsHi": [
+   "S = I + (G - T) + (M - X)",
+   "S + (T - G) = I + (X - M)",
+   "S + (G - T) = I + (X - M)",
+   "S = I + (T - G) + (X - M)"
+  ],
+  "correct": 1,
+  "explainEn": "In an open economy, total saving (private saving S plus government saving T - G) must equal total investment plus net exports: S + (T - G) = I + (X - M).",
+  "sourceHint": "NCERT Class 12 Macroeconomics, Chapter 5: Open Economy Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T01:02:03Z"
+ },
+ {
+  "id": "q_6658dd70130d98e3",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary coordination entity formed during the coordination of transition metal complexes that prevents optical isomerism in octahedral complexes of the type [M(AA)2X2] if the bidentate ligands are arranged in a specific geometry?",
+  "qHi": "संक्रमण धातु परिसरों के समन्वय के दौरान बनने वाली प्राथमिक समन्वय इकाई क्या है जो विशिष्ट ज्यामिति में व्यवस्थित होने पर [M(AA)2X2] प्रकार के अष्टफलकीय परिसरों में ऑप्टिकल समरूपता को रोकती है?",
+  "optsEn": [
+   "Trans isomer",
+   "Facial isomer",
+   "Meridional isomer",
+   "Cis isomer"
+  ],
+  "optsHi": [
+   "ट्रांस आइसोमर",
+   "फेशियल आइसोमर",
+   "मेरिडियनल आइसोमर",
+   "सिस आइसोमर"
+  ],
+  "correct": 0,
+  "explainEn": "The trans-isomer of [M(AA)2X2] has a plane of symmetry, making it optically inactive (achiral), whereas the cis-isomer lacks a plane of symmetry and is optically active.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 5: Coordination Compounds",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T01:02:03Z"
+ },
+ {
+  "id": "q_8245d57fd1bd1169",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of international trade theory, which concept explains international specialization and trade based on differences in national factor endowments?",
+  "qHi": "अंतर्राष्ट्रीय व्यापार सिद्धांत के संदर्भ में, कौन सी अवधारणा राष्ट्रीय कारक संपन्नता में अंतर के आधार पर अंतर्राष्ट्रीय विशेषज्ञता और व्यापार की व्याख्या करती है?",
+  "optsEn": [
+   "Heckscher-Ohlin theorem",
+   "Absolute advantage theory",
+   "Comparative cost advantage theory",
+   "Prebisch-Singer hypothesis"
+  ],
+  "optsHi": [
+   "हेक्सर-ओहलीन प्रमेय",
+   "पूर्ण लाभ सिद्धांत",
+   "तुलनात्मक लागत लाभ सिद्धांत",
+   "प्रेबिस्च-सिंगर परिकल्पना"
+  ],
+  "correct": 0,
+  "explainEn": "The Heckscher-Ohlin model attributes international trade patterns to differences in factor endowments (such as labor and capital abundance) across countries.",
+  "sourceHint": "NCERT Class 12 Economics / Introductory Micro-Macro texts",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T01:02:03Z"
+ },
+ {
+  "id": "q_16055b8193e26a32",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which literary work, composed in Tamil during the Sangam period, is classified as one of the Eight Anthologies (Ettuttokai) and is primarily focused on 'akam' (interior/love) poetry composed by various poets?",
+  "qHi": "संगम काल के दौरान तमिल में रचित कौन सी साहित्यिक कृति, आठ नृविज्ञान (एट्टुत्तोकाई) में से एक के रूप में वर्गीकृत है और मुख्य रूप से विभिन्न कवियों द्वारा रचित 'अकम' (आंतरिक/प्रेम) कविता पर केंद्रित है?",
+  "optsEn": [
+   "Purananuru",
+   "Kuruntokai",
+   "Silappatikaram",
+   "Tirukkural"
+  ],
+  "optsHi": [
+   "पुरनानूरु",
+   "कुरूंदोकाई",
+   "सिलप्पतिकारम",
+   "तिरुक्कुरल"
+  ],
+  "correct": 1,
+  "explainEn": "Kuruntokai is an anthology of akam poetry consisting of short love poems, included in the Ettuttokai collection of Sangam literature.",
+  "sourceHint": "NCERT Class 12 History, Chapter 2: Kings, Farmers and Towns",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T01:02:03Z"
+ },
+ {
+  "id": "q_fe87fef6bf3973ab",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which taxonomic category represents the highest rank in the standard hierarchical classification of organisms among the options listed below?",
+  "qHi": "नीचे सूचीबद्ध विकल्पों में से जीवों के मानक पदानुक्रमित वर्गीकरण में कौन सी वर्गीकरण श्रेणी उच्चतम रैंक का प्रतिनिधित्व करती है?",
+  "optsEn": [
+   "Family",
+   "Order",
+   "Class",
+   "Genus"
+  ],
+  "optsHi": [
+   "कुल (Family)",
+   "गण (Order)",
+   "वर्ग (Class)",
+   "वंश (Genus)"
+  ],
+  "correct": 2,
+  "explainEn": "In the hierarchy of biological classification (Kingdom, Phylum/Division, Class, Order, Family, Genus, Species), Class is higher than Order, Family, and Genus.",
+  "sourceHint": "NCERT Class 11/12 Biology, Chapter 1: The Living World",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T01:02:03Z"
  }
 ]

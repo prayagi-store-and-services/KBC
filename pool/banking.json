@@ -33122,5 +33122,341 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-02T15:57:50Z"
+ },
+ {
+  "id": "q_0236cc3e64e38760",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'N' stand for in the term 'NEFT', a payment system used by banks in India?",
+  "qHi": "भारत में बैंकों द्वारा उपयोग की जाने वाली भुगतान प्रणाली 'NEFT' में 'N' अक्षर का क्या अर्थ है?",
+  "optsEn": [
+   "National",
+   "Nominal",
+   "Net",
+   "Negotiable"
+  ],
+  "optsHi": [
+   "National",
+   "Nominal",
+   "Net",
+   "Negotiable"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, operated by the Reserve Bank of India.",
+  "sourceHint": "Reserve Bank of India official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T00:59:20Z"
+ },
+ {
+  "id": "q_d4423490ee150c42",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of 'ATM' as a banking machine?",
+  "qHi": "बैंकिंग मशीन के रूप में 'ATM' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Automated Transfer Machine",
+   "Any Time Money",
+   "Automated Teller Machine",
+   "Automated Transaction Method"
+  ],
+  "optsHi": [
+   "ऑटोमेटेड ट्रांसफर मशीन",
+   "एनी टाइम मनी",
+   "ऑटोमेटेड टेलर मशीन",
+   "ऑटोमेटेड ट्रांजैक्शन मेथड"
+  ],
+  "correct": 2,
+  "explainEn": "ATM stands for Automated Teller Machine, which allows customers to perform financial transactions without human cashiers.",
+  "sourceHint": "Banking terminology standards",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T00:59:20Z"
+ },
+ {
+  "id": "q_68e84b51c2fd1e1c",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following cards is issued primarily by the National Payments Corporation of India (NPCI)?",
+  "qHi": "निम्नलिखित में से कौन सा कार्ड मुख्य रूप से भारतीय राष्ट्रीय भुगतान निगम (NPCI) द्वारा जारी किया जाता है?",
+  "optsEn": [
+   "Visa",
+   "Mastercard",
+   "RuPay",
+   "American Express"
+  ],
+  "optsHi": [
+   "वीज़ा",
+   "मास्टरकार्ड",
+   "रुपे",
+   "अमेरिकन एक्सप्रेस"
+  ],
+  "correct": 2,
+  "explainEn": "RuPay is an Indian domestic card scheme conceived and launched by the National Payments Corporation of India.",
+  "sourceHint": "National Payments Corporation of India (NPCI) portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T00:59:20Z"
+ },
+ {
+  "id": "q_14602cc4e60dbac7",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of account typically offers higher interest rates and is meant for individuals saving money over time?",
+  "qHi": "किस प्रकार के खाते में आम तौर पर अधिक ब्याज दर मिलती है और यह व्यक्तियों द्वारा समय के साथ पैसे बचाने के लिए होता है?",
+  "optsEn": [
+   "Current Account",
+   "Savings Account",
+   "Overdraft Account",
+   "Nostro Account"
+  ],
+  "optsHi": [
+   "चालू खाता",
+   "बचत खाता",
+   "ओवरड्राफ्ट खाता",
+   "नॉस्ट्रो खाता"
+  ],
+  "correct": 1,
+  "explainEn": "A savings account is a retail bank account that pays interest and is designed for personal savings.",
+  "sourceHint": "NCERT Economics textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T00:59:20Z"
+ },
+ {
+  "id": "q_a888c45e8f7d6d6e",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which term describes a loan given by a bank without any collateral or security?",
+  "qHi": "उस ऋण को क्या कहते हैं जो बैंक द्वारा बिना किसी गिरवी या सुरक्षा के दिया जाता है?",
+  "optsEn": [
+   "Secured Loan",
+   "Mortgage Loan",
+   "Unsecured Loan",
+   "Hypothecated Loan"
+  ],
+  "optsHi": [
+   "सुरक्षित ऋण",
+   "बंधक ऋण",
+   "असुरक्षित ऋण",
+   "Hypothecated ऋण"
+  ],
+  "correct": 2,
+  "explainEn": "An unsecured loan is a monetary loan that is not backed by underlying collateral assets.",
+  "sourceHint": "Banking glossary and terminology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T00:59:20Z"
+ },
+ {
+  "id": "q_15a022705ac79236",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which instrument is used by the Reserve Bank of India to absorb liquidity from the banking system by selling government securities without transferring the ownership of the securities permanently?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा बैंकिंग प्रणाली से तरलता को अवशोषित करने के लिए किस उपकरण का उपयोग किया जाता है, जिसमें प्रतिभूतियों के स्वामित्व को स्थायी रूप से स्थानांतरित किए बिना सरकारी प्रतिभूतियों को बेचा जाता है?",
+  "optsEn": [
+   "Bank Rate",
+   "Cash Reserve Ratio",
+   "Market Stabilisation Scheme",
+   "Repo Rate"
+  ],
+  "optsHi": [
+   "बैंक दर",
+   "नकद आरक्षित अनुपात",
+   "बाजार स्थिरीकरण योजना",
+   "रेपो दर"
+  ],
+  "correct": 2,
+  "explainEn": "The Market Stabilisation Scheme (MSS) is used by the RBI to withdraw excess liquidity by issuing government-like securities through auctions.",
+  "sourceHint": "RBI Official Website and Monetary Policy Framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T01:01:09Z"
+ },
+ {
+  "id": "q_0408744c46539292",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India regulates and develops the micro, small and medium enterprises sector through various refinance and promotional schemes?",
+  "qHi": "भारत में कौन सा संगठन विभिन्न पुनर्वित्त और संवर्धन योजनाओं के माध्यम से सूक्ष्म, लघु और मध्यम उद्यम क्षेत्र को विनियमित और विकसित करता है?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "NHB"
+  ],
+  "optsHi": [
+   "सिडबी",
+   "नाबार्ड",
+   "एक्सिम बैंक",
+   "एनएचबी"
+  ],
+  "correct": 0,
+  "explainEn": "Small Industries Development Bank of India (SIDBI) is the principal financial institution for the promotion, financing, and development of the MSME sector.",
+  "sourceHint": "SIDBI Annual Report and RBI Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T01:01:09Z"
+ },
+ {
+  "id": "q_f0718d49571ad6fd",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque becomes stale after the expiration of how many months from the date of its issuance as per current RBI guidelines?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, आरबीआई के वर्तमान दिशानिर्देशों के अनुसार जारी करने की तारीख से कितने महीने की समाप्ति के बाद एक चेक पुराना (बासी) हो जाता है?",
+  "optsEn": [
+   "1 month",
+   "3 months",
+   "6 months",
+   "12 months"
+  ],
+  "optsHi": [
+   "1 महीना",
+   "3 महीने",
+   "6 महीने",
+   "12 महीने"
+  ],
+  "correct": 1,
+  "explainEn": "RBI directed that the validity period of cheques, demand drafts, and pay orders be reduced from 6 months to 3 months from the date of issue.",
+  "sourceHint": "RBI Circular on Validity of Cheques",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T01:01:09Z"
+ },
+ {
+  "id": "q_fc6251c4d3b6e435",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following terms refers to the rate at which commercial banks borrow overnight funds from the Reserve Bank of India under the Liquidity Adjustment Facility by pledging eligible government securities?",
+  "qHi": "निम्नलिखित में से कौन सा शब्द उस दर को संदर्भित करता है जिस पर वाणिज्यिक बैंक पात्र सरकारी प्रतिभूतियों को गिरवी रखकर तरलता समायोजन सुविधा के तहत भारतीय रिजर्व बैंक से रातोंरात धन उधार लेते हैं?",
+  "optsEn": [
+   "Reverse Repo Rate",
+   "Repo Rate",
+   "Bank Rate",
+   "Statutory Liquidity Ratio"
+  ],
+  "optsHi": [
+   "रिवर्स रेपो रेट",
+   "रेपो रेट",
+   "बैंक रेट",
+   "सांविधिक तरलता अनुपात"
+  ],
+  "correct": 1,
+  "explainEn": "Repo rate is the interest rate at which the RBI lends money to commercial banks against government securities.",
+  "sourceHint": "RBI Monetary Policy Report",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T01:01:09Z"
+ },
+ {
+  "id": "q_c5370012dac0f6f7",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum deposit amount insured by the Deposit Insurance and Credit Guarantee Corporation (DICGC) for each depositor in a scheduled commercial bank in India?",
+  "qHi": "भारत में एक अनुसूचित वाणिज्यिक बैंक में प्रत्येक जमाकर्ता के लिए निक्षेप बीमा और प्रत्यय गारंटी निगम (DICGC) द्वारा बीमित अधिकतम जमा राशि क्या है?",
+  "optsEn": [
+   "One Lakh Rupees",
+   "Two Lakh Rupees",
+   "Five Lakh Rupees",
+   "Ten Lakh Rupees"
+  ],
+  "optsHi": [
+   "एक लाख रुपये",
+   "दो लाख रुपये",
+   "पाँच लाख रुपये",
+   "दस लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "DICGC insures all bank deposits up to a maximum of Rs. 5,00,000 per depositor per bank.",
+  "sourceHint": "DICGC Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T01:01:09Z"
+ },
+ {
+  "id": "q_eb4dea751bfc481d",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which regulatory body in India is mandated to regulate the insurance sector and protect the interests of policyholders?",
+  "qHi": "भारत में किस नियामक निकाय को बीमा क्षेत्र को विनियमित करने और पॉलिसीधारकों के हितों की रक्षा करने का आदेश दिया गया है?",
+  "optsEn": [
+   "SEBI",
+   "IRDAI",
+   "PFRDA",
+   "TRAI"
+  ],
+  "optsHi": [
+   "सेबी",
+   "इरडाई",
+   "पीएफआरडीए",
+   "ट्रాయ్"
+  ],
+  "correct": 1,
+  "explainEn": "The Insurance Regulatory and Development Authority of India (IRDAI) is the statutory body tasked with regulating and promoting the insurance industry in India.",
+  "sourceHint": "IRDAI Act, 1999",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T01:01:09Z"
+ },
+ {
+  "id": "q_07d7420817ffefe6",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the context of the liquidity coverage ratio (LCR) framework under Basel III norms?",
+  "qHi": "बेसल III मानदंडों के तहत तरलता कवरेज अनुपात (LCR) फ्रेमवर्क के संदर्भ में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liability",
+   "Liquidity",
+   "Leverage",
+   "Ledger"
+  ],
+  "optsHi": [
+   "दायित्व",
+   "तरलता",
+   "उत्पीडन",
+   "खाता बही"
+  ],
+  "correct": 1,
+  "explainEn": "LCR stands for Liquidity Coverage Ratio, which ensures that financial institutions have an adequate stock of unencumbered high-quality liquid assets.",
+  "sourceHint": "Basel Committee on Banking Supervision Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-03T01:01:09Z"
  }
 ]
