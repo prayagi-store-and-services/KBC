@@ -20046,5 +20046,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-04T06:26:56Z"
+ },
+ {
+  "id": "q_399ff579b6a7e08e",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which state is the classical dance form Bharatanatyam traditionally rooted?",
+  "qHi": "शास्त्रीय नृत्य शैली भरतनाट्यम पारंपरिक रूप से किस राज्य से जुड़ी है?",
+  "optsEn": [
+   "Tamil Nadu",
+   "Kerala",
+   "Punjab",
+   "Assam"
+  ],
+  "optsHi": [
+   "तमिलनाडु",
+   "केरल",
+   "पंजाब",
+   "असम"
+  ],
+  "correct": 0,
+  "explainEn": "Bharatanatyam is an indigenous classical dance form originating in Tamil Nadu.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T19:46:30Z"
+ },
+ {
+  "id": "q_e045cbe707b91798",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The Ajanta Caves, known for ancient rock-cut Buddhist monuments, are located in which state?",
+  "qHi": "प्राचीन शैल-कृत बौद्ध स्मारकों के लिए प्रसिद्ध अजंता गुफाएँ किस राज्य में स्थित हैं?",
+  "optsEn": [
+   "Madhya Pradesh",
+   "Maharashtra",
+   "Bihar",
+   "Odisha"
+  ],
+  "optsHi": [
+   "मध्य प्रदेश",
+   "महाराष्ट्र",
+   "बिहार",
+   "ओडिशा"
+  ],
+  "correct": 1,
+  "explainEn": "The Ajanta Caves are roughly 30 rock-cut Buddhist cave monuments dating from the 2nd century BCE to about 480 CE in Aurangabad district (now Chhatrapati Sambhajinagar) of Maharashtra.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T19:47:43Z"
+ },
+ {
+  "id": "q_405ee2368a8537f4",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form of India traditionally uses 'Kavach' and 'Thaat' in its repertoire and originated in Uttar Pradesh?",
+  "qHi": "भारत के किस शास्त्रीय नृत्य रूप में पारंपरिक रूप से अपनी प्रस्तुति में 'कवच' और 'थाट' का उपयोग किया जाता है और जिसकी उत्पत्ति उत्तर प्रदेश में हुई थी?",
+  "optsEn": [
+   "Kathak",
+   "Kathakali",
+   "Bharatanatyam",
+   "Kuchipudi"
+  ],
+  "optsHi": [
+   "कथक",
+   "कथकली",
+   "भरतनाट्यम",
+   "कुचिपुड़ी"
+  ],
+  "correct": 0,
+  "explainEn": "Kathak, the classical dance of North India (Uttar Pradesh), features elements like Thaat (stylized pose) and Kavach (poetic composition woven into rhythm) in its classical performance.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T19:48:32Z"
+ },
+ {
+  "id": "q_8730d43cfae976ba",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian satellite launch vehicle successfully placed India's first interplanetary mission, Mangalyaan, into the Mars Orbiter Mission trajectory in 2013?",
+  "qHi": "किस भारतीय उपग्रह प्रक्षेपण यान ने 2013 में भारत के पहले अंतरग्रहीय मिशन, मंगलयान को मंगल कक्षीय मिशन प्रक्षेपवक्र में सफलतापूर्वक स्थापित किया था?",
+  "optsEn": [
+   "PSLV-C25",
+   "GSLV-F04",
+   "SLV-3",
+   "LVM3-M1"
+  ],
+  "optsHi": [
+   "PSLV-C25",
+   "GSLV-F04",
+   "SLV-3",
+   "LVM3-M1"
+  ],
+  "correct": 0,
+  "explainEn": "PSLV-C25 launched the Mars Orbiter Mission (Mangalyaan) on November 5, 2013, making ISRO the first Asian nation to reach Martian orbit.",
+  "sourceHint": "ISRO official archives",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T19:48:32Z"
+ },
+ {
+  "id": "q_b0a43b5c4562f4c8",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "According to the Köppen climate classification, which climatic type is predominantly found in the western part of Rajasthan?",
+  "qHi": "कोपेन जलवायु वर्गीकरण के अनुसार, राजस्थान के पश्चिमी भाग में मुख्य रूप से किस प्रकार की जलवायु पाई जाती है?",
+  "optsEn": [
+   "Am",
+   "BWhW",
+   "Aw",
+   "Cwg"
+  ],
+  "optsHi": [
+   "Am",
+   "BWhW",
+   "Aw",
+   "Cwg"
+  ],
+  "correct": 1,
+  "explainEn": "BWhW designates arid desert climate with deficient rainfall and high evaporation, which describes western Rajasthan according to Köppen's classification.",
+  "sourceHint": "NCERT Geography Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T19:48:32Z"
+ },
+ {
+  "id": "q_3bc22834fde4afea",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian state is the sole producer of the rare mineral Vanadium, as per recent mineral inventories by the Geological Survey of India?",
+  "qHi": "भारतीय भूवैज्ञानिक सर्वेक्षण की हालिया खनिज सूची के अनुसार, दुर्लभ खनिज वैनेडियम का एकमात्र उत्पादक भारतीय राज्य कौन सा है?",
+  "optsEn": [
+   "Karnataka",
+   "Odisha",
+   "Jharkhand",
+   "Rajasthan"
+  ],
+  "optsHi": [
+   "कर्नाटक",
+   "ओडिशा",
+   "झारखंड",
+   "राजस्थान"
+  ],
+  "correct": 1,
+  "explainEn": "Odisha holds the vast majority of India's vanadium deposits, primarily located in Mayurbhanj and other districts, making it a key producer.",
+  "sourceHint": "Geological Survey of India (GSI)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T19:48:32Z"
+ },
+ {
+  "id": "q_2e4f79e61d04f112",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Mughal Emperor abolished the pilgrimage tax on Hindus in the year 1563?",
+  "qHi": "किस मुगल सम्राट ने वर्ष 1563 में हिंदुओं पर लगने वाले तीर्थ कर को समाप्त कर दिया था?",
+  "optsEn": [
+   "Babur",
+   "Akbar",
+   "Jahangir",
+   "Shah Jahan"
+  ],
+  "optsHi": [
+   "बाबर",
+   "अकबर",
+   "जहाँगीर",
+   "शाहजहाँ"
+  ],
+  "correct": 1,
+  "explainEn": "Akbar demonstrated a policy of religious tolerance early in his reign by abolishing the pilgrimage tax in 1563 and jizya in 1564.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T19:48:32Z"
+ },
+ {
+  "id": "q_c62ccb3a3251a99f",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary chemical compound responsible for the pungent aroma of raw garlic?",
+  "qHi": "कच्चे लहसुन की तीखी गंध के लिए मुख्य रूप से कौन सा रासायनिक यौगिक उत्तरदायी होता है?",
+  "optsEn": [
+   "Allicin",
+   "Capsaicin",
+   "Curcumin",
+   "Piperine"
+  ],
+  "optsHi": [
+   "एलिसिन",
+   "कैप्सैसिन",
+   "कुरकुमीन",
+   "पाइपरिन"
+  ],
+  "correct": 0,
+  "explainEn": "Allicin is formed when garlic is crushed or chopped, as the enzyme alliinase converts alliin into allicin, giving garlic its characteristic pungent smell.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T19:48:32Z"
  }
 ]

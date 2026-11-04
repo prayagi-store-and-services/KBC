@@ -34074,5 +34074,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-04T06:26:47Z"
+ },
+ {
+  "id": "q_6f3081c0a19da32b",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following institutions regulates the mutual fund industry in India?",
+  "qHi": "निम्नलिखित में से कौन सी संस्था भारत में म्यूचुअल फंड उद्योग को नियंत्रित करती है?",
+  "optsEn": [
+   "RBI",
+   "SEBI",
+   "NABARD",
+   "IRDAI"
+  ],
+  "optsHi": [
+   "RBI",
+   "SEBI",
+   "NABARD",
+   "IRDAI"
+  ],
+  "correct": 1,
+  "explainEn": "SEBI (Securities and Exchange Board of India) is the regulatory body for securities and mutual fund markets in India.",
+  "sourceHint": "SEBI Act, 1992",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T19:47:08Z"
+ },
+ {
+  "id": "q_669e90a87a5f4a91",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary function of NABARD in the Indian financial architecture?",
+  "qHi": "भारतीय वित्तीय ढांचे में NABARD का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "Regulating stock exchanges",
+   "Providing credit for agriculture and rural development",
+   "Issuing currency notes in India",
+   "Managing foreign exchange reserves"
+  ],
+  "optsHi": [
+   "स्टॉक एक्सचेंजों को विनियमित करना",
+   "कृषि और ग्रामीण विकास के लिए ऋण प्रदान करना",
+   "भारत में करेंसी नोट जारी करना",
+   "विदेशी मुद्रा भंडार का प्रबंधन करना"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD stands for National Bank for Agriculture and Rural Development, focusing on rural credit and development.",
+  "sourceHint": "NABARD Act, 1981",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T19:47:08Z"
+ },
+ {
+  "id": "q_c97107a1a7a8c0fb",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "How many digits are present in a standard Permanent Account Number (PAN) issued in India?",
+  "qHi": "भारत में जारी किए गए मानक स्थायी खाता संख्या (PAN) में कितने अंक या अक्षर होते हैं?",
+  "optsEn": [
+   "8 digits",
+   "10 digits",
+   "12 digits",
+   "16 digits"
+  ],
+  "optsHi": [
+   "8 अंक",
+   "10 अंक",
+   "12 अंक",
+   "16 अंक"
+  ],
+  "correct": 1,
+  "explainEn": "PAN is a ten-digit alphanumeric number issued by the Income Tax Department of India.",
+  "sourceHint": "Income Tax Department, India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T19:47:08Z"
+ },
+ {
+  "id": "q_fcd78c10c19aefa6",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which public sector institution acts as the central bank of India?",
+  "qHi": "कौन सी सार्वजनिक क्षेत्र की संस्था भारत के केंद्रीय बैंक के रूप में कार्य करती है?",
+  "optsEn": [
+   "State Bank of India",
+   "Reserve Bank of India",
+   "Life Insurance Corporation",
+   "Industrial Development Bank of India"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय जीवन बीमा निगम",
+   "भारतीय औद्योगिक विकास बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India (RBI) is India's central banking institution, which controls the monetary policy of the Indian rupee.",
+  "sourceHint": "RBI Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T19:47:08Z"
+ },
+ {
+  "id": "q_48f856928a2a74d8",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the Liquidity Coverage Ratio (LCR), a standard under Basel III norms?",
+  "qHi": "बेसल III मानदंडों के तहत एक मानक, लिक्विडिटी कवरेज रेश्यो (LCR) में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liability",
+   "Leverage",
+   "Liquidity",
+   "Loan"
+  ],
+  "optsHi": [
+   "दायित्व",
+   "उत्प्रेक",
+   "तरलता",
+   "ऋण"
+  ],
+  "correct": 2,
+  "explainEn": "LCR stands for Liquidity Coverage Ratio, which is a Basel III metric designed to ensure that banks have an adequate stock of unencumbered high-quality liquid assets.",
+  "sourceHint": "Basel Committee on Banking Supervision guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T19:48:27Z"
+ },
+ {
+  "id": "q_3bb804797d3e919f",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following institutions is the primary issuer of Sovereign Gold Bonds (SGBs) on behalf of the Government of India?",
+  "qHi": "निम्नलिखित में से कौन सी संस्था भारत सरकार की ओर से सॉवरेन गोल्ड बॉन्ड (SGBs) की प्राथमिक जारीकर्ता है?",
+  "optsEn": [
+   "State Bank of India",
+   "Reserve Bank of India",
+   "Security Printing and Minting Corporation of India",
+   "Bombay Stock Exchange"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "भारतीय रिजर्व बैंक",
+   "सिक्योरिटी प्रिंटिंग एंड मिंटिंग कॉर्पोरेशन ऑफ इंडिया",
+   "बॉम्बे स्टॉक एक्सचेंज"
+  ],
+  "correct": 1,
+  "explainEn": "Sovereign Gold Bonds are issued by the Reserve Bank on behalf of the Government of India.",
+  "sourceHint": "RBI FAQs on Sovereign Gold Bond Scheme",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T19:48:27Z"
+ },
+ {
+  "id": "q_8e6e9daf15cb2ef3",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Priority Sector Lending (PSL) guidelines in India, what is the overall target for domestic commercial banks as a percentage of Adjusted Net Bank Credit (ANBC)?",
+  "qHi": "भारत में प्राथमिकता प्राप्त क्षेत्र को ऋण (PSL) दिशा-निर्देशों के तहत, घरेलू वाणिज्यिक बैंकों के लिए समायोजित शुद्ध बैंक ऋण (ANBC) के प्रतिशत के रूप में समग्र लक्ष्य क्या है?",
+  "optsEn": [
+   "32 percent",
+   "40 percent",
+   "75 percent",
+   "18 percent"
+  ],
+  "optsHi": [
+   "32 प्रतिशत",
+   "40 प्रतिशत",
+   "75 प्रतिशत",
+   "18 प्रतिशत"
+  ],
+  "correct": 1,
+  "explainEn": "Domestic commercial banks and foreign banks with 20 branches and above must achieve a total Priority Sector Lending target of 40 percent of ANBC.",
+  "sourceHint": "Reserve Bank of India Master Directions on PSL",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T19:48:27Z"
+ },
+ {
+  "id": "q_8d01f92e8619cd0a",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of the Prompt Corrective Action (PCA) framework introduced by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा शुरू किए गए त्वरित सुधार कार्रवाई (PCA) ढांचे का मुख्य उद्देश्य क्या है?",
+  "optsEn": [
+   "To monitor and resolve weak banks based on financial parameters",
+   "To promote digital payments in rural areas",
+   "To fix foreign exchange rates",
+   "To regulate microfinance institutions only"
+  ],
+  "optsHi": [
+   "वित्तीय मापदंडों के आधार पर कमजोर बैंकों की निगरानी और समाधान करना",
+   "ग्रामीण क्षेत्रों में डिजिटल भुगतान को बढ़ावा देना",
+   "विदेशी विनिमय दरों को तय करना",
+   "केवल सूक्ष्म वित्त संस्थानों को विनियमित करना"
+  ],
+  "correct": 0,
+  "explainEn": "The PCA framework allows the RBI to intervene and take supervisory action on banks that breach certain thresholds for capital, asset quality, and profitability.",
+  "sourceHint": "RBI Supervisory Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T19:48:27Z"
+ },
+ {
+  "id": "q_42e447ca12470b2d",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following financial instruments is generally considered a money market instrument in India?",
+  "qHi": "निम्नलिखित में से कौन सा वित्तीय साधन आमतौर पर भारत में मुद्रा बाजार साधन माना जाता है?",
+  "optsEn": [
+   "Treasury Bills",
+   "Dated Government Securities",
+   "Equity Shares",
+   "Corporate Bonds maturing in 10 years"
+  ],
+  "optsHi": [
+   "राजकोषीय बिल (Treasury Bills)",
+   "दिनांकित सरकारी प्रतिभूतियां",
+   "इक्विटी शेयर",
+   "10 वर्ष में परिपक्व होने वाले कॉर्पोरेट बॉन्ड"
+  ],
+  "correct": 0,
+  "explainEn": "Treasury bills are short-term money market instruments issued by the Government of India with maturities of less than one year.",
+  "sourceHint": "Reserve Bank of India Financial Markets data",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T19:48:27Z"
  }
 ]
