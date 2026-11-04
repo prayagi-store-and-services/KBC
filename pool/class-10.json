@@ -27578,5 +27578,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-03T23:26:04Z"
+ },
+ {
+  "id": "q_a60efcb69c748abc",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary source of energy for the process of photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण की प्रक्रिया के लिए ऊर्जा का मुख्य स्रोत क्या है?",
+  "optsEn": [
+   "Wind energy",
+   "Solar energy",
+   "Geothermal energy",
+   "Nuclear energy"
+  ],
+  "optsHi": [
+   "पवन ऊर्जा",
+   "सौर ऊर्जा",
+   "भू-ऊष्मीय ऊर्जा",
+   "परमाणु ऊर्जा"
+  ],
+  "correct": 1,
+  "explainEn": "Plants use sunlight as the primary energy source to synthesize food during photosynthesis.",
+  "sourceHint": "NCERT Class 10 Science Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T06:24:46Z"
+ },
+ {
+  "id": "q_033f5f42930eb54e",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which level of government in India can make laws on subjects included in the Concurrent List?",
+  "qHi": "भारत में सरकार का कौन सा स्तर समवर्ती सूची में शामिल विषयों पर कानून बना सकता है?",
+  "optsEn": [
+   "Only State Government",
+   "Only Central Government",
+   "Both Central and State Governments",
+   "Only Local Government"
+  ],
+  "optsHi": [
+   "केवल राज्य सरकार",
+   "केवल केंद्र सरकार",
+   "केंद्र और राज्य दोनों सरकारें",
+   "केवल स्थानीय सरकार"
+  ],
+  "correct": 2,
+  "explainEn": "Both the Union and State governments can make laws on the subjects mentioned in the Concurrent List.",
+  "sourceHint": "NCERT Class 10 Civics Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T06:24:46Z"
+ },
+ {
+  "id": "q_24b710fdf842de3f",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the human eye's ability to focus on objects at different distances by adjusting the focal length of the eye lens called?",
+  "qHi": "नेत्र लेंस की फोकल दूरी को समायोजित करके विभिन्न दूरियों पर स्थित वस्तुओं पर ध्यान केंद्रित करने की मानव आँख की क्षमता को क्या कहते हैं?",
+  "optsEn": [
+   "Refraction",
+   "Dispersion",
+   "Power of accommodation",
+   "Persistence of vision"
+  ],
+  "optsHi": [
+   "अपवर्तन",
+   "वर्ण विक्षेपण",
+   "समंजन क्षमता",
+   "दृष्टि का स्थायित्व"
+  ],
+  "correct": 2,
+  "explainEn": "The ability of the eye lens to adjust its focal length is called accommodation.",
+  "sourceHint": "NCERT Class 10 Science Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T06:24:46Z"
  }
 ]

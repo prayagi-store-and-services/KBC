@@ -22650,5 +22650,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-03T23:26:00Z"
+ },
+ {
+  "id": "q_7b7c507111b7822d",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the process of electroplating an iron spoon with silver, what material is typically used as the anode?",
+  "qHi": "एक लोहे की चम्मच पर चांदी का विद्युत लेपन (इलेक्ट्रोप्लेटिंग) करने की प्रक्रिया में, सामान्यतः एनोड के रूप में किस सामग्री का उपयोग किया जाता है?",
+  "optsEn": [
+   "Iron spoon",
+   "Carbon rod",
+   "Silver plate",
+   "Copper wire"
+  ],
+  "optsHi": [
+   "लोहे की चम्मच",
+   "कार्बन छड़",
+   "चांदी की प्लेट",
+   "तांबे का तार"
+  ],
+  "correct": 2,
+  "explainEn": "During electroplating, the metal to be deposited (silver) is made the anode so that its ions can replenish the electrolyte solution and coat the cathode (the iron spoon).",
+  "sourceHint": "NCERT Class 8 Science Chapter 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T06:27:07Z"
+ },
+ {
+  "id": "q_aa4b1182f3c6e2fe",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following describes the reproduction method seen in Hydra where a new organism develops as an outgrowth from the parent body?",
+  "qHi": "हाइड्रा में प्रजनन की उस विधि का वर्णन निम्नलिखित में से कौन सा करता है जिसमें एक नया जीव जनक शरीर के उभार के रूप में विकसित होता है?",
+  "optsEn": [
+   "Binary fission",
+   "Budding",
+   "Spore formation",
+   "Fragmentation"
+  ],
+  "optsHi": [
+   "द्वि-खंडन",
+   "मुकुलन",
+   "बीजाणु निर्माण",
+   "खंडन"
+  ],
+  "correct": 1,
+  "explainEn": "Hydra uses buds for reproduction, which are developed as outgrowths from the parent body through repeated cell division at one specific site.",
+  "sourceHint": "NCERT Class 8 Science Chapter 9",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T06:27:07Z"
+ },
+ {
+  "id": "q_240a9f41af905e52",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which micro-organism is primarily responsible for the conversion of milk into curd by setting up lactose fermentation?",
+  "qHi": "लैक्टोज किण्वन के माध्यम से दूध को दही में बदलने के लिए मुख्य रूप से कौन सा सूक्ष्म जीव उत्तरदायी है?",
+  "optsEn": [
+   "Rhizobium",
+   "Lactobacillus",
+   "Penicillium",
+   "Amoeba"
+  ],
+  "optsHi": [
+   "राइजोबियम",
+   "लैक्टोबैसिलस",
+   "पेनिसिलियम",
+   "अमीबा"
+  ],
+  "correct": 1,
+  "explainEn": "Lactobacillus is the bacterium that multiplies in milk and converts it into curd by producing lactic acid.",
+  "sourceHint": "NCERT Class 8 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T06:27:07Z"
+ },
+ {
+  "id": "q_23130013ffba3f6c",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which part of a plant cell is selectively permeable and regulates the movement of substances in and out of the cell?",
+  "qHi": "पादप कोशिका का कौन सा भाग चयनात्मक पारगम्य (सिलेक्टिवली पर्मीएबल) होता है और कोशिका के अंदर तथा बाहर पदार्थों की गति को नियंत्रित करता है?",
+  "optsEn": [
+   "Cell wall",
+   "Cell membrane",
+   "Vacuole",
+   "Chloroplast"
+  ],
+  "optsHi": [
+   "कोशिका भित्ति",
+   "कोशिका झिल्ली",
+   "रिक्तिका",
+   "हरित लवक"
+  ],
+  "correct": 1,
+  "explainEn": "The cell membrane (plasma membrane) gives shape to the cell and is selectively permeable, controlling the entry and exit of specific materials.",
+  "sourceHint": "NCERT Class 8 Science Chapter 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T06:27:07Z"
+ },
+ {
+  "id": "q_f5350a9c3f15b78c",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What term is used to describe the species of plants and animals that are found exclusively in a particular area and are not naturally found anywhere else?",
+  "qHi": "पौधों और जानवरों उन प्रजातियों का वर्णन करने के लिए किस शब्द का उपयोग किया जाता है जो विशेष रूप से किसी क्षेत्र विशेष में पाई जाती हैं और प्राकृतिक रूप से कहीं और नहीं मिलती हैं?",
+  "optsEn": [
+   "Migratory species",
+   "Endemic species",
+   "Extinct species",
+   "Exotic species"
+  ],
+  "optsHi": [
+   "प्रवासी प्रजातियां",
+   "स्थानिक प्रजातियां",
+   "विलुप्त प्रजातियां",
+   "विदेशी प्रजातियां"
+  ],
+  "correct": 1,
+  "explainEn": "Endemic species are plants and animals that are found exclusively in a particular area, such as the Sal and Wild mango of the Pachmarhi Biosphere Reserve.",
+  "sourceHint": "NCERT Class 8 Science Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T06:27:07Z"
+ },
+ {
+  "id": "q_9236d39aba97b68f",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following coal varieties has the highest carbon content and is considered the highest quality of coal?",
+  "qHi": "निम्नलिखित में से किस कोयले की किस्म में कार्बन की मात्रा सबसे अधिक होती है और इसे सबसे उच्च गुणवत्ता वाला कोयला माना जाता है?",
+  "optsEn": [
+   "Peat",
+   "Lignite",
+   "Bituminous",
+   "Anthracite"
+  ],
+  "optsHi": [
+   "पीट",
+   "लिग्नाइट",
+   "बिटुमिनस",
+   "एंथ्रासाइट"
+  ],
+  "correct": 3,
+  "explainEn": "Anthracite is a hard, compact variety of coal that has the highest carbon content, lowest impurities, and the highest heating value among coals.",
+  "sourceHint": "NCERT Class 8 Science Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T06:27:07Z"
  }
 ]

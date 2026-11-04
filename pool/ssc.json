@@ -19570,5 +19570,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-03T23:26:42Z"
+ },
+ {
+  "id": "q_1cf5cd542ba34a22",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which river flows through the city of Srinagar?",
+  "qHi": "श्रीनगर शहर किस नदी के किनारे बसा है?",
+  "optsEn": [
+   "Yamuna",
+   "Ganga",
+   "Jhelum",
+   "Brahmaputra"
+  ],
+  "optsHi": [
+   "यमुना",
+   "गंगा",
+   "झेलम",
+   "ब्रह्मपुत्र"
+  ],
+  "correct": 2,
+  "explainEn": "The city of Srinagar is situated on the banks of the Jhelum River.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T06:24:25Z"
+ },
+ {
+  "id": "q_581cb28fc9a3df89",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who founded the Maurya Empire by defeating Dhanananda of the Nanda dynasty?",
+  "qHi": "नंद वंश के धनानंद को पराजित करके मौर्य साम्राज्य की स्थापना किसने की थी?",
+  "optsEn": [
+   "Bindusara",
+   "Chandragupta Maurya",
+   "Ashoka",
+   "Samudragupta"
+  ],
+  "optsHi": [
+   "बिन्दुसार",
+   "चन्द्रगुप्त मौर्य",
+   "अशोक",
+   "समुद्रगुप्त"
+  ],
+  "correct": 1,
+  "explainEn": "Chandragupta Maurya founded the Maurya Empire with the guidance of Chanakya after overthrowing the Nanda dynasty.",
+  "sourceHint": "NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T06:25:00Z"
+ },
+ {
+  "id": "q_af39617d54df04d0",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organism is primarily responsible for biological nitrogen fixation in symbiosis with the water fern Azolla?",
+  "qHi": "जल फर्न एजोला के साथ सहजीवन में जैविक नाइट्रोजन स्थिरीकरण के लिए मुख्य रूप से कौन सा जीव जिम्मेदार है?",
+  "optsEn": [
+   "Rhizobium meliloti",
+   "Azotobacter chroococcum",
+   "Anabaena azollae",
+   "Nostoc punctiforme"
+  ],
+  "optsHi": [
+   "राइबोजियम मेलिलोटी",
+   "एजोटोबैक्टर क्रोकोकम",
+   "एनाबेना एजोलाई",
+   "नोस्टॉक पंक्टिफॉर्म"
+  ],
+  "correct": 2,
+  "explainEn": "Anabaena azollae is a cyanobacterium that lives in symbiotic association with the cavities of the leaves of the aquatic fern Azolla, fixing atmospheric nitrogen.",
+  "sourceHint": "NCERT Class 12 Biology - Microbes in Human Welfare",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T06:26:41Z"
+ },
+ {
+  "id": "q_614bafaff0ee407a",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of ancient Indian architecture, what does the term 'Mandapa' signify?",
+  "qHi": "प्राचीन भारतीय वास्तुकला के संदर्भ में, 'मंडप' शब्द का क्या अर्थ है?",
+  "optsEn": [
+   "The gateway of a temple",
+   "The pillarless sanctum sanctorum",
+   "The pillared hall in front of the sanctum",
+   "The curved roof of a Nagara style temple"
+  ],
+  "optsHi": [
+   "मंदिर का प्रवेश द्वार",
+   "स्तंभहीन गर्भगृह",
+   "गर्भगृह के सामने का स्तंभयुक्त हॉल",
+   "नगर शैली के मंदिर की वक्र छत"
+  ],
+  "correct": 2,
+  "explainEn": "In Hindu temple architecture, a Mandapa is a pillared hall or pavilion for public ceremonies and rituals, situated immediately before the garbha griha (sanctum sanctorum).",
+  "sourceHint": "NCERT Class 11 Fine Arts - An Introduction to Indian Art",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T06:26:41Z"
+ },
+ {
+  "id": "q_10078235dceca8b4",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Indian Constitution, the power to abolish or create a Legislative Council in a state is vested in which body?",
+  "qHi": "भारतीय संविधान के तहत, किसी राज्य में विधान परिषद को समाप्त करने या सृजित करने की शक्ति किस निकाय में निहित है?",
+  "optsEn": [
+   "Parliament of India",
+   "State Legislative Assembly alone",
+   "President of India on Governor's advice",
+   "Supreme Court of India"
+  ],
+  "optsHi": [
+   "भारत की संसद",
+   "अकेले राज्य विधानसभा",
+   "राज्यपाल की सलाह पर भारत के राष्ट्रपति",
+   "भारत का उच्चतम न्यायालय"
+  ],
+  "correct": 0,
+  "explainEn": "According to Article 169 of the Constitution, Parliament may by law create or abolish a Legislative Council if the State Legislative Assembly passes a resolution to that effect by a special majority.",
+  "sourceHint": "Article 169, Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T06:26:41Z"
+ },
+ {
+  "id": "q_5dbdc1d6b7191840",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which tropical cyclone scale is used exclusively to measure wind speed intensity in the North Indian Ocean basin by the India Meteorological Department?",
+  "qHi": "भारतीय मौसम विज्ञान विभाग द्वारा उत्तर हिंद महासागर बेसिन में हवा की गति की तीव्रता को मापने के लिए विशेष रूप से किस उष्णकटिबंधीय चक्रवात पैमाने का उपयोग किया जाता है?",
+  "optsEn": [
+   "Saffir-Simpson Scale",
+   "Beaufort Scale",
+   "IMD Intensity Scale based on Maximum Sustained Surface Winds",
+   "Fujita Scale"
+  ],
+  "optsHi": [
+   "सैफिर-सिम्पसंस पैमाना",
+   "ब्यूफोर्ट पैमाना",
+   "अधिकतम निरंतर सतही हवाओं पर आधारित आईएमडी तीव्रता पैमाना",
+   "फुजीता पैमाना"
+  ],
+  "correct": 2,
+  "explainEn": "IMD classifies tropical cyclones in the North Indian Ocean based on Maximum Sustained Surface Wind (MPSW) speed, using specific categories ranging from Depression to Super Cyclonic Storm.",
+  "sourceHint": "India Meteorological Department (IMD) Cyclone Warning Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T06:26:41Z"
  }
 ]

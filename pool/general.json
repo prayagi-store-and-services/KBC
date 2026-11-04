@@ -19934,5 +19934,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-03T23:26:53Z"
+ },
+ {
+  "id": "q_a02ab21ba51779cc",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the ancient Indian treatise on statecraft and economic policy titled Arthashastra?",
+  "qHi": "अर्थशास्त्र नामक राजनीति और आर्थिक नीति पर प्राचीन भारतीय ग्रंथ किसने लिखा था?",
+  "optsEn": [
+   "Kalidasa",
+   "Chanakya",
+   "Valmiki",
+   "Tulsidas"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "चाणक्य",
+   "वाल्मीकि",
+   "तुलसीदास"
+  ],
+  "correct": 1,
+  "explainEn": "Arthashastra was authored by Chanakya, also known as Kautilya or Vishnugupta.",
+  "sourceHint": "NCERT History Textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T06:26:09Z"
+ },
+ {
+  "id": "q_b5ebc945f7b8edff",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following classical dance forms originated in the state of Kerala?",
+  "qHi": "निम्नलिखित में से कौन सा शास्त्रीय नृत्य रूप केरल राज्य में उत्पन्न हुआ था?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a major form of classical Indian dance originating from Kerala.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T06:26:09Z"
+ },
+ {
+  "id": "q_33531c5e69453f18",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which gas constitutes the maximum percentage of Earth's atmosphere by volume?",
+  "qHi": "आयतन के हिसाब से पृथ्वी के वायुमंडल में किस गैस का प्रतिशत सबसे अधिक है?",
+  "optsEn": [
+   "Oxygen",
+   "Nitrogen",
+   "Carbon dioxide",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "कार्बन डाइऑक्साइड",
+   "आर्गन"
+  ],
+  "correct": 1,
+  "explainEn": "Nitrogen makes up about 78 percent of Earth's atmosphere by volume.",
+  "sourceHint": "NCERT Geography Textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T06:26:09Z"
+ },
+ {
+  "id": "q_dfd742b2dd436535",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which planet is known as the Earth's twin due to its similar size and mass?",
+  "qHi": "किस ग्रह को उसके समान आकार और द्रव्यमान के कारण पृथ्वी की जुड़वां बहन कहा जाता है?",
+  "optsEn": [
+   "Mars",
+   "Venus",
+   "Mercury",
+   "Jupiter"
+  ],
+  "optsHi": [
+   "मंगल",
+   "शुक्र",
+   "बुध",
+   "बृहस्पति"
+  ],
+  "correct": 1,
+  "explainEn": "Venus is often called Earth's twin because of its similar size, mass, density, composition, and gravity.",
+  "sourceHint": "NCERT Geography Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T06:26:56Z"
  }
 ]

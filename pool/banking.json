@@ -33822,5 +33822,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-03T23:26:47Z"
+ },
+ {
+  "id": "q_ba16232ba96edfcf",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'P' stand for in the financial term PAN, used for tax purposes in India?",
+  "qHi": "भारत में कर उद्देश्यों के लिए उपयोग किए जाने वाले वित्तीय शब्द PAN में अक्षर 'P' का क्या अर्थ है?",
+  "optsEn": [
+   "Primary",
+   "Personal",
+   "Permanent",
+   "Public"
+  ],
+  "optsHi": [
+   "प्राथमिक",
+   "व्यक्तिगत",
+   "स्थाई",
+   "सार्वजनिक"
+  ],
+  "correct": 2,
+  "explainEn": "PAN stands for Permanent Account Number, which is a ten-digit alphanumeric number issued by the Income Tax Department.",
+  "sourceHint": "Income Tax Department of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T06:24:30Z"
+ },
+ {
+  "id": "q_4650f8e3cb29dd44",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a type of account typically opened by business entities for frequent transactions?",
+  "qHi": "निम्नलिखित में से किस प्रकार का खाता आमतौर पर व्यावसायिक संस्थाओं द्वारा लगातार लेनदेन के लिए खोला जाता है?",
+  "optsEn": [
+   "Savings Account",
+   "Current Account",
+   "Fixed Deposit Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "बचत खाता",
+   "चालू खाता",
+   "सावधि जमा खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 1,
+  "explainEn": "A current account is designed for businesses and firms to allow high volumes of daily transactions without any limit on the number of transactions.",
+  "sourceHint": "NCERT Business Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T06:24:30Z"
+ },
+ {
+  "id": "q_bac98fff7f5d5f3d",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the alphabet 'I' stand for in the acronym IFSC, used in electronic fund transfers in India?",
+  "qHi": "भारत में इलेक्ट्रॉनिक फंड ट्रांसफर में प्रयुक्त होने वाले संक्षिप्त नाम IFSC में अक्षर 'I' का क्या अर्थ है?",
+  "optsEn": [
+   "International",
+   "Interbank",
+   "Indian",
+   "Investment"
+  ],
+  "optsHi": [
+   "अंतर्राष्ट्रीय",
+   "इंटरबैंक",
+   "भारतीय",
+   "निवेश"
+  ],
+  "correct": 2,
+  "explainEn": "IFSC stands for Indian Financial System Code, an 11-character alphanumeric code used for NEFT, RTGS, and IMPS transactions.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T06:24:30Z"
+ },
+ {
+  "id": "q_7efe65d9c133f9e9",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which market in the financial system deals with the raising of short-term funds?",
+  "qHi": "वित्तीय प्रणाली में कौन सा बाजार अल्पकालिक धन जुटाने का काम करता है?",
+  "optsEn": [
+   "Capital market",
+   "Money market",
+   "Foreign exchange market",
+   "Derivatives market"
+  ],
+  "optsHi": [
+   "पूंजी बाजार",
+   "मुद्रा बाजार",
+   "विदेशी मुद्रा बाजार",
+   "डेरिवेटिव बाजार"
+  ],
+  "correct": 1,
+  "explainEn": "The money market is a financial market for short-term borrowing and lending, typically up to one year.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) Manual",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T06:26:05Z"
+ },
+ {
+  "id": "q_2c873933688eab47",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian banking, what does the 'Liquidity Adjustment Facility' (LAF) corridor primarily target?",
+  "qHi": "भारतीय बैंकिंग के संदर्भ में, 'तरलता समायोजन सुविधा' (LAF) कॉरिडोर मुख्य रूप से किसे लक्षित करता है?",
+  "optsEn": [
+   "Call Money Rate",
+   "Policy Repo Rate",
+   "Bank Rate",
+   "Weighted Average Lending Rate"
+  ],
+  "optsHi": [
+   "कॉल मनी रेट",
+   "पॉलिसी रेपो रेट",
+   "बैंक रेट",
+   "भारित औसत ऋण दर"
+  ],
+  "correct": 1,
+  "explainEn": "The LAF operating framework aims to anchor the weighted average call money rate around the policy repo rate.",
+  "sourceHint": "RBI Monetary Policy Report",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T06:26:47Z"
+ },
+ {
+  "id": "q_4396a466bd375917",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the maximum permissible amount under a single Unified Payments Interface (UPI) transaction for retail direct scheme and investment in government securities?",
+  "qHi": "रिटेल डायरेक्ट योजना और सरकारी प्रतिभूतियों में निवेश के लिए एकल यूनिफाइड पेमेंट्स इंटरफेस (UPI) लेनदेन के तहत अधिकतम स्वीकार्य राशि क्या है?",
+  "optsEn": [
+   "Rs 1 Lakh",
+   "Rs 2 Lakh",
+   "Rs 5 Lakh",
+   "Rs 10 Lakh"
+  ],
+  "optsHi": [
+   "1 लाख रुपये",
+   "2 लाख रुपये",
+   "5 लाख रुपये",
+   "10 लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "NPCI circulars permit a higher UPI transaction limit of up to Rs 5 Lakhs for specific categories like retail direct schemes for G-secs and IPO applications.",
+  "sourceHint": "NPCI Circulars",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T06:26:47Z"
+ },
+ {
+  "id": "q_9d0b8a2c5ea2b30f",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which institutional body in India is legally empowered to issue Sovereign Gold Bonds (SGB) on behalf of the Government of India?",
+  "qHi": "भारत में कौन सी संस्था भारत सरकार की ओर से सॉवरेन गोल्ड बॉन्ड (SGB) जारी करने के लिए कानूनी रूप से अधिकृत है?",
+  "optsEn": [
+   "Securities and Exchange Board of India",
+   "Reserve Bank of India",
+   "Security Printing and Minting Corporation of India",
+   "NITI Aayog"
+  ],
+  "optsHi": [
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "भारतीय रिजर्व बैंक",
+   "सिक्योरिटी प्रिंटिंग एंड मिंटिंग कॉर्पोरेशन ऑफ इंडिया",
+   "नीति आयोग"
+  ],
+  "correct": 1,
+  "explainEn": "Sovereign Gold Bonds are issued by the Reserve Bank on behalf of the Government of India under the Government Securities Act.",
+  "sourceHint": "RBI FAQ on Sovereign Gold Bonds",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T06:26:47Z"
+ },
+ {
+  "id": "q_e882c2656e7d5502",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary objective of introducing the Prompt Corrective Action (PCA) framework for banks by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा बैंकों के लिए त्वरित सुधारात्मक कार्रवाई (PCA) ढांचा शुरू करने का मुख्य उद्देश्य क्या है?",
+  "optsEn": [
+   "To nationalize weak private sector banks",
+   "To monitor financial health and intervene early in financially stressed institutions",
+   "To set the retail lending interest rates for commercial banks",
+   "To manage foreign exchange reserves of the country"
+  ],
+  "optsHi": [
+   "कमजोर निजी क्षेत्र के बैंकों का राष्ट्रीयकरण करना",
+   "वित्तीय स्वास्थ्य की निगरानी करना और वित्तीय रूप से तनावग्रस्त संस्थानों में समय पर हस्तक्षेप करना",
+   "वाणिज्यिक बैंकों के लिए खुदरा ऋण ब्याज दरों निर्धारित करना",
+   "देश के विदेशी मुद्रा भंडार का प्रबंधन करना"
+  ],
+  "correct": 1,
+  "explainEn": "The PCA framework enables supervisory intervention by RBI at an early stage when banks breach specified thresholds of capital, asset quality, and profitability.",
+  "sourceHint": "RBI PCA Framework Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T06:26:47Z"
+ },
+ {
+  "id": "q_3b75fccf8fa75891",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What does the term 'Marginal Cost of Funds based Lending Rate' (MCLR) take into account that the earlier Base Rate system did not explicitly use?",
+  "qHi": "फंड आधारित ऋण दर की सीमांत लागत (MCLR) में किस कारक को शामिल किया जाता है जिसे पहले की बेस रेट प्रणाली स्पष्ट रूप से उपयोग नहीं करती थी?",
+  "optsEn": [
+   "Operating expenses of the bank",
+   "Marginal cost of borrowings",
+   "Statutory Liquidity Ratio requirement",
+   "Profit margin of the bank"
+  ],
+  "optsHi": [
+   "बैंक के परिचालन खर्च",
+   "उधार की सीमांत लागत",
+   "वैधानिक तरलता अनुपात की आवश्यकता",
+   "बैंक का लाभ मार्जिन"
+  ],
+  "correct": 1,
+  "explainEn": "MCLR is calculated based on the marginal cost of borrowings, particularly the interest rate given for new deposits, improving transmission of monetary policy.",
+  "sourceHint": "RBI Guidelines on MCLR",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T06:26:47Z"
  }
 ]

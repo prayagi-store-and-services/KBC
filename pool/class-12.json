@@ -32142,5 +32142,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-03T23:26:10Z"
+ },
+ {
+  "id": "q_505194069dc1042f",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the equilibrium constant expression for the reaction involving concentrations?",
+  "qHi": "सांद्रता से संबंधित अभिक्रिया के लिए साम्य स्थिरांक व्यंजक क्या है?",
+  "optsEn": [
+   "Ratio of product concentrations to reactant concentrations raised to their stoichiometric coefficients",
+   "Sum of reactant and product concentrations",
+   "Difference between product and reactant concentrations",
+   "Product of reactant concentrations divided by product concentrations"
+  ],
+  "optsHi": [
+   "उत्पादों की सांद्रता और अभिकारकों की सांद्रता का उनके स्टोइकोमेट्रिक गुणांकों की घात के साथ अनुपात",
+   "अभिकारक और उत्पाद सांद्रता का योग",
+   "उत्पाद और अभिकारक सांद्रता के बीच का अंतर",
+   "उत्पाद सांद्रता से विभाजित अभिकारक सांद्रता का गुणनफल"
+  ],
+  "correct": 0,
+  "explainEn": "The equilibrium constant Kc is the ratio of the molar concentrations of products to reactants, each raised to the power of their stoichiometric coefficients.",
+  "sourceHint": "NCERT Class 11 Chemistry Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T06:24:50Z"
+ },
+ {
+  "id": "q_8380a2c6a33a4d09",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which plant material is commonly used in Mendelian genetics experiments?",
+  "qHi": "मेंडेलियन आनुवंशिकी प्रयोगों में आमतौर पर किस पौधे की सामग्री का उपयोग किया गया था?",
+  "optsEn": [
+   "Garden pea",
+   "Sunflower",
+   "Hibiscus",
+   "Tomato"
+  ],
+  "optsHi": [
+   "उद्यान मटर",
+   "सूरजमुखी",
+   "गुड़हल",
+   "टमाटर"
+  ],
+  "correct": 0,
+  "explainEn": "Gregor Mendel conducted his hybridisation experiments on the garden pea (Pisum sativum).",
+  "sourceHint": "NCERT Class 12 Biology Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T06:24:50Z"
+ },
+ {
+  "id": "q_ea8f942ed9629941",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which molecular force is primarily responsible for holding the two strands of a DNA double helix together?",
+  "qHi": "डीएनए डबल हेलिक्स के दो स्ट्रैंड को एकसाथ रखने के लिए मुख्य रूप से कौन सा आणविक बल जिम्मेदार है?",
+  "optsEn": [
+   "Covalent bonds",
+   "Hydrogen bonds",
+   "Ionic bonds",
+   "Peptide bonds"
+  ],
+  "optsHi": [
+   "सहसंयोजक बंधन",
+   "हाइड्रोजन बंधन",
+   "आयनिक बंधन",
+   "पेप्टाइड बंधन"
+  ],
+  "correct": 1,
+  "explainEn": "The nitrogenous bases of the two antiparallel polynucleotide strands of DNA are bonded together by hydrogen bonds.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T06:26:28Z"
+ },
+ {
+  "id": "q_e1beb29eea8b4e7b",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who among the following was a prominent leader of the salt satyagraha in the Tamil Nadu region during the Indian national movement?",
+  "qHi": "भारतीय राष्ट्रीय आंदोलन के दौरान तमिलनाडु क्षेत्र में नमक सत्याग्रह के एक प्रमुख नेता निम्नलिखित में से कौन थे?",
+  "optsEn": [
+   "C. Rajagopalachari",
+   "K. Kelappan",
+   "Sarojini Naidu",
+   "T. Prakasam"
+  ],
+  "optsHi": [
+   "सी. राजगोपालाचारी",
+   "के. केलप्पन",
+   "सरोजिनी नायडू",
+   "टी. प्रकाशम"
+  ],
+  "correct": 0,
+  "explainEn": "C. Rajagopalachari led the salt march from Trichinopoly to Vedaranyam on the Coromandel coast in Tamil Nadu.",
+  "sourceHint": "NCERT Class 12 History (Themes in Indian History Part III), Chapter 13",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T06:26:28Z"
+ },
+ {
+  "id": "q_c8b1c800bb88cf5d",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which transition metal compound is commonly used as a primary standard in volumetric analysis for redox titrations involving potassium permanganate?",
+  "qHi": "पोटेशियम परमैंगनेट से जुड़ी रेडॉक्स अनुमापन के लिए आयतनमितीय विश्लेषण में प्राथमिक मानक के रूप में आमतौर पर किस संक्रमण धातु यौगिक का उपयोग किया जाता है?",
+  "optsEn": [
+   "Sodium chloride",
+   "Oxalic acid",
+   "Copper sulphate",
+   "Zinc sulphate"
+  ],
+  "optsHi": [
+   "सोडियम क्लोराइड",
+   "ऑक्जेलिक एसिड",
+   "कॉपर सल्फेट",
+   "जिंक सल्फेट"
+  ],
+  "correct": 1,
+  "explainEn": "Hydrated oxalic acid is commonly used as a primary standard for standardizing potassium permanganate solutions in redox titrations.",
+  "sourceHint": "NCERT Class 12 Chemistry Laboratory Manual",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T06:26:28Z"
+ },
+ {
+  "id": "q_dcd06394620a8de7",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of symmetry is characteristically exhibited by adult Echinoderms like starfish?",
+  "qHi": "स्टारफिश जैसे वयस्क इकाइनोडर्म्स द्वारा आमतौर पर किस प्रकार की समरूपता प्रदर्शित की जाती है?",
+  "optsEn": [
+   "Bilateral symmetry",
+   "Radial symmetry",
+   "Asymmetry",
+   "Spherical symmetry"
+  ],
+  "optsHi": [
+   "द्विपक्षीय समरूपता",
+   "अरीय समरूपता",
+   "असमरूपता",
+   "गोलाकार समरूपता"
+  ],
+  "correct": 1,
+  "explainEn": "Adult echinoderms possess radial symmetry, although their larvae are bilaterally symmetrical.",
+  "sourceHint": "NCERT Class 11 Biology, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T06:26:28Z"
+ },
+ {
+  "id": "q_9d0bd3ad37b2cad5",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institutional organ of the United Nations is officially responsible for maintaining international peace and security?",
+  "qHi": "संयुक्त राष्ट्र का कौन सा संस्थागत अंग अंतरराष्ट्रीय शांति और सुरक्षा बनाए रखने के लिए आधिकारिक तौर पर जिम्मेदार है?",
+  "optsEn": [
+   "General Assembly",
+   "Security Council",
+   "Secretariat",
+   "International Court of Justice"
+  ],
+  "optsHi": [
+   "महासभा",
+   "सुरक्षा परिषद",
+   "सचिवालय",
+   "अंतरराष्ट्रीय न्यायालय"
+  ],
+  "correct": 1,
+  "explainEn": "Under the UN Charter, the Security Council has primary responsibility for the maintenance of international peace and security.",
+  "sourceHint": "NCERT Class 12 Political Science (Contemporary World Politics), Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-04T06:26:28Z"
  }
 ]
