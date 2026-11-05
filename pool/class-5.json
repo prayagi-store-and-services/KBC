@@ -28110,5 +28110,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-04T19:48:37Z"
+ },
+ {
+  "id": "q_6cc0d6663dc484cb",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who is the constitutional head of the Government of India?",
+  "qHi": "भारत सरकार के संवैधानिक प्रमुख कौन हैं?",
+  "optsEn": [
+   "Prime Minister",
+   "President",
+   "Chief Justice",
+   "Speaker of Lok Sabha"
+  ],
+  "optsHi": [
+   "प्रधानमंत्री",
+   "राष्ट्रपति",
+   "मुख्य न्यायाधीश",
+   "लोकसभा अध्यक्ष"
+  ],
+  "correct": 1,
+  "explainEn": "The President of India is the formal head of the executive and the constitutional head of the country.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-05T06:52:42Z"
+ },
+ {
+  "id": "q_83b27aaa632e652f",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which state in India is famous for the Kaziranga National Park, known for one-horned rhinoceroses?",
+  "qHi": "भारत का कौन सा राज्य एक सींग वाले गैंडों के लिए प्रसिद्ध काजीरंगा राष्ट्रीय उद्यान के लिए जाना जाता है?",
+  "optsEn": [
+   "Rajasthan",
+   "Kerala",
+   "Assam",
+   "Gujarat"
+  ],
+  "optsHi": [
+   "राजस्थान",
+   "केरल",
+   "असम",
+   "गुजरात"
+  ],
+  "correct": 2,
+  "explainEn": "Kaziranga National Park is located in the state of Assam.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-05T06:52:42Z"
+ },
+ {
+  "id": "q_7276ff55a275fb1d",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of resource is solar energy?",
+  "qHi": "सौर ऊर्जा किस प्रकार का संसाधन है?",
+  "optsEn": [
+   "Renewable resource",
+   "Non-renewable resource",
+   "Exhaustible resource",
+   "Man-made resource"
+  ],
+  "optsHi": [
+   "नवीकरणीय संसाधन",
+   "अनवीकरणीय संसाधन",
+   "समाप्त होने योग्य संसाधन",
+   "मानવ निर्मित संसाधन"
+  ],
+  "correct": 0,
+  "explainEn": "Solar energy is inexhaustible on a human timescale, making it a renewable resource.",
+  "sourceHint": "NCERT Class 5 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-05T06:52:42Z"
+ },
+ {
+  "id": "q_50183a9bf77055e8",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which line of latitude passes roughly through the middle of India?",
+  "qHi": "अक्षांश की कौन सी रेखा लगभग भारत के बीच से गुजरती है?",
+  "optsEn": [
+   "Equator",
+   "Tropic of Cancer",
+   "Tropic of Capricorn",
+   "Arctic Circle"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा (विषुवत वृत्त)",
+   "कर्क रेखा",
+   "मकर रेखा",
+   "आर्कटिक वृत्त"
+  ],
+  "correct": 1,
+  "explainEn": "The Tropic of Cancer (23.30° N) passes through the middle of India, dividing the country into two parts.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-05T06:55:35Z"
  }
 ]

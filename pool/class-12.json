@@ -32590,5 +32590,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-04T19:48:11Z"
+ },
+ {
+  "id": "q_a9b6aeafaf54c631",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does DNA stand for?",
+  "qHi": "DNA का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Deoxyribonucleic acid",
+   "Dinitrogen nucleic acid",
+   "Deoxyribose nitrogenous acid",
+   "Diyield ribonucleic acid"
+  ],
+  "optsHi": [
+   "डिऑक्सीराइबोक्लिक एसिड",
+   "डाइनाइट्रोजन न्यूक्लिक एसिड",
+   "डिऑक्सीराइबोज नाइट्रोजनीय अम्ल",
+   "डायोल्ड राइबोन्यूक्लिक एसिड"
+  ],
+  "correct": 0,
+  "explainEn": "DNA stands for Deoxyribonucleic acid, which is the molecule that carries genetic instructions for the development and functioning of living organisms.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-05T06:50:13Z"
+ },
+ {
+  "id": "q_d0fd2f447802ed72",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "During which phase of meiosis does the phenomenon of crossing over between non-sister chromatids of homologous chromosomes occur?",
+  "qHi": "अर्धसूत्रीविभाजन (मीयोसिस) के किस चरण के दौरान समझात गुणसूत्रों के गैर-बहन क्रोमैटिड्स के बीच क्रॉसिंग ओवर की घटना होती है?",
+  "optsEn": [
+   "Leptotene",
+   "Pachytene",
+   "Diakinesis",
+   "Zygotene"
+  ],
+  "optsHi": [
+   "लैप्टोटीन",
+   "पैकाइटीन",
+   "डयाकाइनेसिस",
+   "जाइगोटीन"
+  ],
+  "correct": 1,
+  "explainEn": "Crossing over, leading to recombination of genetic material, takes place during the pachytene stage of prophase I in meiosis.",
+  "sourceHint": "NCERT Class 11 Biology, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-05T06:53:43Z"
+ },
+ {
+  "id": "q_abf4af123e0a74d3",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian state shares its international boundary with three nations: Myanmar, China, and Bhutan?",
+  "qHi": "कौन सा भारतीय राज्य अपनी अंतरराष्ट्रीय सीमा तीन देशों - म्यांमार, चीन और भूटान - के साथ साझा करता है?",
+  "optsEn": [
+   "Arunachal Pradesh",
+   "Sikkim",
+   "Manipur",
+   "Nagaland"
+  ],
+  "optsHi": [
+   "अरुणाचल प्रदेश",
+   "सिक्किम",
+   "मणिपुर",
+   "नागालैंड"
+  ],
+  "correct": 0,
+  "explainEn": "Arunachal Pradesh is situated in the northeastern tip of India and shares borders with Bhutan to the west, China to the north, and Myanmar to the east.",
+  "sourceHint": "NCERT Class 11 Geography, India: Physical Environment",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-05T06:53:43Z"
+ },
+ {
+  "id": "q_fe44395a6f6736d4",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which fundamental right in the Constitution of India guarantees the protection of life and personal liberty?",
+  "qHi": "भारत के संविधान में कौन सा मौलिक अधिकार जीवन और व्यक्तिगत स्वतंत्रता की सुरक्षा की गारंटी देता है?",
+  "optsEn": [
+   "Article 14",
+   "Article 19",
+   "Article 21",
+   "Article 32"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14",
+   "अनुच्छेद 19",
+   "अनुच्छेद 21",
+   "अनुच्छेद 32"
+  ],
+  "correct": 2,
+  "explainEn": "Article 21 states that no person shall be deprived of his life or personal liberty except according to procedure established by law.",
+  "sourceHint": "Constitution of India, Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-05T06:53:43Z"
+ },
+ {
+  "id": "q_ff36e55419c48e8b",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of crystalline solid is graphite, which conducts electricity due to the presence of free electrons?",
+  "qHi": "ग्रेफाइट किस प्रकार का क्रिस्टलीय ठोस है, जो मुक्त इलेक्ट्रॉनों की उपस्थिति के कारण बिजली का संचालन करता है?",
+  "optsEn": [
+   "Ionic solid",
+   "Metallic solid",
+   "Covalent network solid",
+   "Molecular solid"
+  ],
+  "optsHi": [
+   "आयनिक ठोस",
+   "धात्विक ठोस",
+   "सहसंयोजक नेटवर्क ठोस",
+   "आणविक ठोस"
+  ],
+  "correct": 2,
+  "explainEn": "Graphite is a covalent (network) solid where carbon atoms are arranged in layers, with delocalized electrons allowing electrical conductivity.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-05T06:53:43Z"
+ },
+ {
+  "id": "q_dc48a9bcd0fe2718",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian constitutional law, which article empowers the Supreme Court to issue writs for the enforcement of Fundamental Rights?",
+  "qHi": "भारतीय संविधान के संदर्भ में, कौन सा अनुच्छेद सर्वोच्च न्यायालय को मौलिक अधिकारों के प्रवर्तन के लिए रिट जारी करने की शक्ति देता है?",
+  "optsEn": [
+   "Article 14",
+   "Article 19",
+   "Article 32",
+   "Article 226"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14",
+   "अनुच्छेद 19",
+   "अनुच्छेद 32",
+   "अनुच्छेद 226"
+  ],
+  "correct": 2,
+  "explainEn": "Article 32 provides the right to constitutional remedies and empowers the Supreme Court to issue writs.",
+  "sourceHint": "NCERT Class 12 Political Science - Indian Constitution at Work",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-05T06:55:53Z"
+ },
+ {
+  "id": "q_9e929ed6340e8fb5",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary mechanism of gene transfer commonly used to introduce recombinant DNA into plant cells in genetic engineering?",
+  "qHi": "आनुवंशिक इंजीनियरिंग में पादप कोशिकाओं में पुनर्संयोज्य डीएनए को प्रवेश कराने के लिए सामान्यतः प्रयुक्त जीन स्थानांतरण की प्राथमिक क्रियाविधि क्या है?",
+  "optsEn": [
+   "Agrobacterium tumefaciens",
+   "Escherichia coli plasmid",
+   "Bacteriophage lambda",
+   "Retroviral vector"
+  ],
+  "optsHi": [
+   "एग्रोबैक्टीरियम ट्यूमेफेशिएन्स",
+   "एस्चेरिचिया कोलाई प्लास्मिड",
+   "बैक्टीरियोफेज लैम्ब्डा",
+   "रेट्रोवायरल वेक्टर"
+  ],
+  "correct": 0,
+  "explainEn": "Agrobacterium tumefaciens is a natural genetic engineer used extensively to deliver foreign genes into plant cells.",
+  "sourceHint": "NCERT Class 12 Biology - Biotechnology: Principles and Processes",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-05T06:55:53Z"
+ },
+ {
+  "id": "q_440037b9ea33fe2c",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which macroeconomic identity represents the gross national product at factor cost minus depreciation?",
+  "qHi": "कौन सी समष्टि अर्थशास्त्रीय पहचान साधन लागत पर सकल राष्ट्रीय उत्पाद में से मूल्यह्रास को घटाकर दर्शाती है?",
+  "optsEn": [
+   "Gross Domestic Product at market price",
+   "Net National Product at factor cost",
+   "Net Domestic Product at market price",
+   "Gross National Product at market price"
+  ],
+  "optsHi": [
+   "बाजार कीमत पर सकल घरेलू उत्पाद",
+   "साधन लागत पर शुद्ध राष्ट्रीय उत्पाद",
+   "बाजार कीमत पर शुद्ध घरेलू उत्पाद",
+   "बाजार कीमत पर सकल राष्ट्रीय उत्पाद"
+  ],
+  "correct": 1,
+  "explainEn": "Net National Product at factor cost is also known as National Income, obtained by subtracting depreciation from Gross National Product at factor cost.",
+  "sourceHint": "NCERT Class 12 Economics - Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-05T06:55:53Z"
+ },
+ {
+  "id": "q_76708bd4f0ed1c83",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which chemical compound is released in the atmosphere as a major byproduct of respiration in aerobic organisms?",
+  "qHi": "वायवीय जीवों में श्वसन के प्रमुख उपोत्पाद के रूप में वायुमंडल में कौन सा रासायनिक यौगिक मुक्त होता है?",
+  "optsEn": [
+   "Carbon monoxide",
+   "Carbon dioxide",
+   "Nitrogen gas",
+   "Methane"
+  ],
+  "optsHi": [
+   "कार्बन मोनोऑक्साइड",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन गैस",
+   "मीथेन"
+  ],
+  "correct": 1,
+  "explainEn": "Cellular respiration in aerobic organisms produces carbon dioxide as a metabolic waste gas.",
+  "sourceHint": "NCERT Class 11-12 Biology foundational concepts",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-05T06:55:53Z"
+ },
+ {
+  "id": "q_70462a308af03e00",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the coordination compound [Co(NH3)6]Cl3, what is the primary valence (oxidation state) of the cobalt atom?",
+  "qHi": "उपसहसंयोजन यौगिक [Co(NH3)6]Cl3 में कोबाल्ट परमाणु की प्राथमिक संयोजकता (ऑक्सीकरण अवस्था) क्या है?",
+  "optsEn": [
+   "+2",
+   "+3",
+   "+6",
+   "0"
+  ],
+  "optsHi": [
+   "+2",
+   "+3",
+   "+6",
+   "0"
+  ],
+  "correct": 1,
+  "explainEn": "Each NH3 ligand is neutral and three chloride ions outside the sphere give a charge of -3, making the cobalt oxidation state +3.",
+  "sourceHint": "NCERT Class 12 Chemistry - Coordination Compounds",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-05T06:55:53Z"
+ },
+ {
+  "id": "q_0e86bceab0fe5943",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following sociological concepts refers to the systematic study of human population size, composition, and distribution?",
+  "qHi": "निम्नलिखित में से कौन सी समाजशास्त्रीय अवधारणा मानव जनसंख्या के आकार, संरचना और वितरण के व्यवस्थित अध्ययन को संदर्भित करती है?",
+  "optsEn": [
+   "Demography",
+   "Stratification",
+   "Socialization",
+   "Ethnography"
+  ],
+  "optsHi": [
+   "जनसांख्यिकी",
+   "स्तरीकरण",
+   "समाजीकरण",
+   "एथनोग्राफी"
+  ],
+  "correct": 0,
+  "explainEn": "Demography is the scientific and statistical study of populations, especially human populations.",
+  "sourceHint": "NCERT Class 12 Sociology - Indian Society",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-05T06:55:53Z"
  }
 ]

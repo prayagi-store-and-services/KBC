@@ -19794,5 +19794,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-04T19:48:21Z"
+ },
+ {
+  "id": "q_04331725be88af1a",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The 'Daspalla' rebellion is associated with which current state of India?",
+  "qHi": "'दस्पाल्ला' विद्रोह भारत के किस वर्तमान राज्य से संबंधित है?",
+  "optsEn": [
+   "Odisha",
+   "Kerala",
+   "Punjab",
+   "Assam"
+  ],
+  "optsHi": [
+   "ओडिशा",
+   "केरल",
+   "पंजाब",
+   "असम"
+  ],
+  "correct": 0,
+  "explainEn": "Daspalla was a princely state located in present-day Odisha, which witnessed popular uprisings against the ruler's policies.",
+  "sourceHint": "NCERT History Class 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-05T06:54:17Z"
+ },
+ {
+  "id": "q_3f8b9550029152f7",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who among the following founded the Atmiya Sabha in 1815?",
+  "qHi": "निम्नलिखित में से किसने 1815 में आत्मीय सभा की स्थापना की थी?",
+  "optsEn": [
+   "Raja Ram Mohan Roy",
+   "Dayanand Saraswati",
+   "Swami Vivekananda",
+   "Atmaram Pandurang"
+  ],
+  "optsHi": [
+   "राजा राम मोहन राय",
+   "दयानंद सरस्वती",
+   "स्वामी विवेकानंद",
+   "आत्माराम पांडुरंग"
+  ],
+  "correct": 0,
+  "explainEn": "Raja Ram Mohan Roy founded Atmiya Sabha in 1815 as a philosophical discussion circle in Calcutta.",
+  "sourceHint": "NCERT History Class 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-05T06:54:17Z"
+ },
+ {
+  "id": "q_8c3d14344e094fd4",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which metal is predominantly used in galvanization of iron to prevent rusting?",
+  "qHi": "लोहे को जंग लगने से बचाने के लिए गैल्वनीकरण में मुख्य रूप से किस धातु का उपयोग किया जाता है?",
+  "optsEn": [
+   "Copper",
+   "Zinc",
+   "Aluminium",
+   "Tin"
+  ],
+  "optsHi": [
+   "तांबा",
+   "जस्ता",
+   "एल्युमीनियम",
+   "टिन"
+  ],
+  "correct": 1,
+  "explainEn": "Galvanization is the process of applying a protective zinc coating to steel or iron to prevent rusting.",
+  "sourceHint": "NCERT Science Class 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-05T06:54:17Z"
  }
 ]

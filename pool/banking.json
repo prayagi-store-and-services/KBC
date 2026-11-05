@@ -34326,5 +34326,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-04T19:48:27Z"
+ },
+ {
+  "id": "q_955512e30782bc6a",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which type of bank account generally does not earn any interest for the account holder?",
+  "qHi": "किस प्रकार के बैंक खाते पर आमतौर पर खाताधारक को कोई ब्याज नहीं मिलता है?",
+  "optsEn": [
+   "Savings Account",
+   "Fixed Deposit Account",
+   "Current Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "बचत खाता",
+   "सावधि जमा खाता",
+   "चालू खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 2,
+  "explainEn": "Current accounts are meant for businesses and commercial transactions, and they typically do not offer any interest on the deposited balance.",
+  "sourceHint": "NCERT Economics textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-05T06:52:34Z"
+ },
+ {
+  "id": "q_a9e03a5f106f4e75",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'C' stand for in the context of the KYC norm in banking?",
+  "qHi": "बैंकिंग में KYC मानदंड के संदर्भ में 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Customer",
+   "Credit",
+   "Currency",
+   "Capital"
+  ],
+  "optsHi": [
+   "कस्टमर",
+   "क्रेडिट",
+   "करेंसी",
+   "कैपिटल"
+  ],
+  "correct": 0,
+  "explainEn": "KYC stands for Know Your Customer, which is a mandatory process for verifying the identity of clients.",
+  "sourceHint": "RBI Master Directions on KYC",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-05T06:52:34Z"
+ },
+ {
+  "id": "q_37c1be3221503362",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which monetary policy tool refers to the minimum percentage of total deposits that commercial banks must keep with the Reserve Bank of India in the form of liquid cash?",
+  "qHi": "कौन सा मौद्रिक नीति उपकरण कुल जमा राशि के उस न्यूनतम प्रतिशत को संदर्भित करता है जिसे वाणिज्यिक बैंकों को भारतीय रिजर्व बैंक के पास तरल नकदी के रूप में रखना होता है?",
+  "optsEn": [
+   "Statutory Liquidity Ratio",
+   "Cash Reserve Ratio",
+   "Bank Rate",
+   "Repo Rate"
+  ],
+  "optsHi": [
+   "वैधानिक तरलता अनुपात",
+   "नकद आरक्षित अनुपात",
+   "बैंक दर",
+   "रेपो दर"
+  ],
+  "correct": 1,
+  "explainEn": "Cash Reserve Ratio (CRR) is the specified minimum fraction of the total deposits of customers, which commercial banks have to hold as reserves either in cash or with the central bank.",
+  "sourceHint": "RBI Official Website and NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-05T06:54:23Z"
+ },
+ {
+  "id": "q_d6140818057818e6",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the abbreviation 'MSF', a liquidity window managed by the Reserve Bank of India?",
+  "qHi": "'MSF' संक्षिप्ताक्षर में अक्षर 'L' का क्या अर्थ है, जो भारतीय रिजर्व बैंक द्वारा प्रबंधित एक तरलता खिड़की है?",
+  "optsEn": [
+   "Liquidity",
+   "Lending",
+   "Limit",
+   "Liability"
+  ],
+  "optsHi": [
+   "लिक्विडिटी (Liquidity)",
+   "लेंडिंग (Lending)",
+   "लिमिट (Limit)",
+   "लायबिलिटी (Liability)"
+  ],
+  "correct": 0,
+  "explainEn": "MSF stands Marginal Standing Facility, under which scheduled commercial banks can borrow overnight funds from RBI against approved government securities.",
+  "sourceHint": "Reserve Bank of India Glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-05T06:54:23Z"
+ },
+ {
+  "id": "q_4b2eac2dd9795044",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following organizations acts as the regulator for regional rural banks in India?",
+  "qHi": "निम्नलिखित में से कौन सा संगठन भारत में क्षेत्रीय ग्रामीण बैंकों के लिए नियामक के रूप में कार्य करता है?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "SEBI",
+   "EXIM Bank"
+  ],
+  "optsHi": [
+   "सिडबी",
+   "नाबार्ड",
+   "सेबी",
+   "एक्जिम बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) regulates and supervises Regional Rural Banks (RRBs) and Cooperative Banks in India.",
+  "sourceHint": "NABARD Act and RBI Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-05T06:54:23Z"
+ },
+ {
+  "id": "q_97af89a1b2f39230",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of Indian banking, what is the maximum number of digits present in a standard IFSC (Indian Financial System Code)?",
+  "qHi": "भारतीय बैंकिंग के संदर्भ में, एक मानक IFSC (भारतीय वित्तीय प्रणाली कोड) में अधिकतम अंकों या वर्णों की संख्या कितनी होती है?",
+  "optsEn": [
+   "9",
+   "10",
+   "11",
+   "12"
+  ],
+  "optsHi": [
+   "9",
+   "10",
+   "11",
+   "12"
+  ],
+  "correct": 2,
+  "explainEn": "IFSC is an 11-character alphanumeric code that uniquely identifies a bank branch participating in electronic funds transfer systems.",
+  "sourceHint": "RBI Payment Systems",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-05T06:54:23Z"
+ },
+ {
+  "id": "q_a308aa2b1d291afd",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following funds transfer systems operates on a 24x7x365 basis in India for retail and corporate customers?",
+  "qHi": "निम्नलिखित में से कौन सी फंड ट्रांसफर प्रणाली भारत में खुदरा और कॉर्पोरेट ग्राहकों के लिए 24x7x365 आधार पर संचालित होती है?",
+  "optsEn": [
+   "NEFT",
+   "RTGS",
+   "IMPS",
+   "Both NEFT and RTGS"
+  ],
+  "optsHi": [
+   "नेफ्ट (NEFT)",
+   "आरटीजीएस (RTGS)",
+   "आईएमपीएस (IMPS)",
+   "नेफ्ट और आरटीजीएस दोनों"
+  ],
+  "correct": 3,
+  "explainEn": "Both National Electronic Funds Transfer (NEFT) and Real Time Gross Settlement (RTGS) are available 24x7x365 as per RBI guidelines.",
+  "sourceHint": "RBI Notifications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-05T06:54:23Z"
+ },
+ {
+  "id": "q_f78a3b88c3d52735",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of introducing Priority Sector Lending (PSL) guidelines by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा प्राथमिकता प्राप्त क्षेत्र ऋण (PSL) दिशानिर्देश शुरू करने का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To maximize profits for foreign banks",
+   "To ensure adequate credit flow to vulnerable and weaker sections of the economy",
+   "To regulate interest rates on corporate bonds",
+   "To manage foreign exchange reserves"
+  ],
+  "optsHi": [
+   "विदेशी बैंकों के लिए लाभ को अधिकतम करना",
+   "अर्थव्यवस्था के कमजोर और वंचित वर्गों को पर्याप्त ऋण प्रवाह सुनिश्चित करना",
+   "कॉर्पोरेट बांड पर ब्याज दरों को विनियमित करना",
+   "विदेशी मुद्रा भंडार का प्रबंधन करना"
+  ],
+  "correct": 1,
+  "explainEn": "Priority Sector Lending aims to provide adequate institutional credit to sectors of the economy that may not get timely and adequate credit without special impetus, such as agriculture and MSMEs.",
+  "sourceHint": "RBI Master Directions on PSL",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-05T06:54:23Z"
+ },
+ {
+  "id": "q_35a529aa1b059220",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institution allots the Legal Entity Identifier (LEI) number for financial transactions in India?",
+  "qHi": "भारत में वित्तीय लेनदेन के लिए लीगल एंटिटी आइडेंटिफायर (LEI) नंबर कौन सी संस्था आवंटित करती है?",
+  "optsEn": [
+   "Legal Entity Identifier India Limited",
+   "Securities and Exchange Board of India",
+   "Insurance Regulatory and Development Authority",
+   "National Payments Corporation of India"
+  ],
+  "optsHi": [
+   "लीगल एंटिटी आइडेंटिफायर इंडिया लिमिटेड",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "बीमा विनियामक और विकास प्राधिकरण",
+   "भारतीय राष्ट्रीय भुगतान निगम"
+  ],
+  "correct": 0,
+  "explainEn": "Legal Entity Identifier India Limited (LEIL), a subsidiary of CCIL, acts as the local operating unit for issuing LEI codes in India under RBI guidelines.",
+  "sourceHint": "RBI Guidelines on LEI",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-05T06:54:23Z"
+ },
+ {
+  "id": "q_1cdcdb0d141ce5d0",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque that is not crossed is generally known by which of the following terms?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, एक चेक जिस पर क्रॉसिंग नहीं की गई है, उसे आमतौर पर निम्नलिखित में से किस नाम से जाना जाता है?",
+  "optsEn": [
+   "Bearer cheque",
+   "Open cheque",
+   "Stale cheque",
+   "Mutilated cheque"
+  ],
+  "optsHi": [
+   "बेयरर चेक (Bearer cheque)",
+   "ओपन चेक (Open cheque)",
+   "स्टेल चेक (Stale cheque)",
+   "कटा-फटा चेक (Mutilated cheque)"
+  ],
+  "correct": 1,
+  "explainEn": "An uncrossed cheque is commonly referred to as an open cheque, which can be encashed across the counter of the bank by the holder.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-05T06:54:23Z"
  }
 ]
