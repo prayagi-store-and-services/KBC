@@ -23658,5 +23658,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-06T06:50:23Z"
+ },
+ {
+  "id": "q_167345a59161194a",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which term refers to the clearing of forests and using the land for other purposes?",
+  "qHi": "वनों को साफ करने और उस भूमि का अन्य उद्देश्यों के लिए उपयोग करने को क्या कहा जाता है?",
+  "optsEn": [
+   "Afforestation",
+   "Deforestation",
+   "Desertification",
+   "Reforestation"
+  ],
+  "optsHi": [
+   "वनीकरण",
+   "वनामूलन (डिफॉरेस्टेशन)",
+   "मरुस्थलीकरण",
+   "पुनर्वनीकरण"
+  ],
+  "correct": 1,
+  "explainEn": "Deforestation is the permanent destruction of forests in order to make the land available for other uses.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:26:29Z"
+ },
+ {
+  "id": "q_8d3fe208bea0f648",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of resource is petroleum, which cannot be replaced easily once depleted?",
+  "qHi": "पेट्रोलियम किस प्रकार का संसाधन है, जिसे एक बार समाप्त होने के बाद आसानी से प्रतिस्थापित नहीं किया जा सकता?",
+  "optsEn": [
+   "Biotic resource",
+   "Renewable resource",
+   "Non-renewable resource",
+   "Ubiquitous resource"
+  ],
+  "optsHi": [
+   "जैविक संसाधन",
+   "नवीकरणीय संसाधन",
+   "अनवीकरणीय संसाधन (Non-renewable)",
+   "सर्वव्यापक संसाधन"
+  ],
+  "correct": 2,
+  "explainEn": "Petroleum is a fossil fuel and a non-renewable resource because it takes millions of years to form.",
+  "sourceHint": "NCERT Class 8 Geography Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:26:29Z"
+ },
+ {
+  "id": "q_4f1e2df35fabd4b8",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which planet in our solar system has the most extreme daily temperature variation between day and night?",
+  "qHi": "हमारे सौर मंडल में किस ग्रह पर दिन और रात के बीच सबसे अधिक दैनिक तापमान भिन्नता होती है?",
+  "optsEn": [
+   "Mercury",
+   "Venus",
+   "Mars",
+   "Jupiter"
+  ],
+  "optsHi": [
+   "बुध",
+   "शुक्र",
+   "मंगल",
+   "बृहस्पति"
+  ],
+  "correct": 0,
+  "explainEn": "Mercury is closest to the Sun and lacks a substantial atmosphere to trap heat, leading to extreme temperatures.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:27:37Z"
+ },
+ {
+  "id": "q_70edabe2151157f1",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following synthetic fibres is known as artificial silk because it resembles silk in appearance and texture?",
+  "qHi": "निम्नलिखित में से किस सिंथेटिक फाइबर को कृत्रिम रेशम कहा जाता है क्योंकि यह दिखने और बनावट में रेशम जैसा होता है?",
+  "optsEn": [
+   "Nylon",
+   "Rayon",
+   "Polyester",
+   "Acrylic"
+  ],
+  "optsHi": [
+   "नायलॉन",
+   "रेयान",
+   "पॉलिएस्टर",
+   "ऐक्रेलिक"
+  ],
+  "correct": 1,
+  "explainEn": "Rayon is obtained from wood pulp and is chemically treated to resemble silk, hence called artificial silk.",
+  "sourceHint": "NCERT Class 8 Science Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:27:37Z"
+ },
+ {
+  "id": "q_8fa62579de186838",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the Indian Parliament, which body holds the power to introduce a Money Bill?",
+  "qHi": "भारतीय संसद में, धन विधेयक पेश करने की शक्ति किसके पास है?",
+  "optsEn": [
+   "Lok Sabha only",
+   "Rajya Sabha only",
+   "Either Lok Sabha or Rajya Sabha",
+   "President of India directly"
+  ],
+  "optsHi": [
+   "केवल लोकसभा",
+   "केवल राज्यसभा",
+   "या तो लोकसभा या राज्यसभा",
+   "भारत के राष्ट्रपति सीधे"
+  ],
+  "correct": 0,
+  "explainEn": "A Money Bill can only be introduced in the Lok Sabha on the recommendation of the President.",
+  "sourceHint": "NCERT Class 8 Civics / Indian Constitution Article 110",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:27:37Z"
+ },
+ {
+  "id": "q_791b1731635732d2",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which administrative division was established by the British in India primarily for collecting land revenue?",
+  "qHi": "ब्रिटिश भारत में मुख्य रूप से भू-राजस्व एकत्र करने के लिए कौन सी प्रशासनिक व्यवस्था स्थापित की गई थी?",
+  "optsEn": [
+   "Zamindari system",
+   "Panchayati Raj",
+   "Mansabdari system",
+   "Jagirdari system"
+  ],
+  "optsHi": [
+   "ज़मींदारी व्यवस्था",
+   "पंचायती राज",
+   "मनसबदारी व्यवस्था",
+   "जागीरदारी व्यवस्था"
+  ],
+  "correct": 0,
+  "explainEn": "The British introduced systems like Permanent Settlement, Ryotwari, and Mahalwari (Zamindari being part of revenue collection) to maximize land revenue.",
+  "sourceHint": "NCERT Class 8 History Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:27:37Z"
+ },
+ {
+  "id": "q_ca9bcfa576881c1a",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the term used to describe the practice of growing only two crops in rotation on the same agricultural land?",
+  "qHi": "एक ही कृषि भूमि पर रोटेशन में केवल दो फसलें उगाने की प्रथा का वर्णन करने के लिए किस शब्द का उपयोग किया जाता है?",
+  "optsEn": [
+   "Mono-cropping",
+   "Two-crop rotation",
+   "Shifting cultivation",
+   "Mixed farming"
+  ],
+  "optsHi": [
+   "मोनो-क्रॉपिंग",
+   "द्वि-फसल चक्र",
+   "स्थानांतरित कृषि",
+   "मिश्रित खेती"
+  ],
+  "correct": 1,
+  "explainEn": "Growing two crops in alternation on the same land is known as a two-field crop rotation system.",
+  "sourceHint": "NCERT Class 8 Geography Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:27:37Z"
  }
 ]

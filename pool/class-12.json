@@ -33094,5 +33094,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-06T06:50:33Z"
+ },
+ {
+  "id": "q_4dd33f2c3e17c43a",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of chemical reaction is the digestion of food in the body?",
+  "qHi": "शरीर में भोजन का पाचन किस प्रकार की रासायनिक अभिक्रिया है?",
+  "optsEn": [
+   "Decomposition reaction",
+   "Combination reaction",
+   "Displacement reaction",
+   "Neutralisation reaction"
+  ],
+  "optsHi": [
+   "अपघटन अभिक्रिया",
+   "संयोजन अभिक्रिया",
+   "विस्थापन अभिक्रिया",
+   "उदासीनीकरण अभिक्रिया"
+  ],
+  "correct": 0,
+  "explainEn": "Digestion is a decomposition reaction where complex food molecules are broken down into simpler substances.",
+  "sourceHint": "NCERT Class 10 Science Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:25:42Z"
+ },
+ {
+  "id": "q_eef238d7c604509a",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which economic sector does forestry primarily belong?",
+  "qHi": "वानिकी मुख्य रूप से किस आर्थिक क्षेत्र के अंतर्गत आती है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Quaternary sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "तृतीयक क्षेत्र",
+   "चतुर्धातुक क्षेत्र"
+  ],
+  "correct": 0,
+  "explainEn": "Forestry, along with agriculture, fishing, and mining, belongs to the primary sector of the economy as it involves extracting natural resources.",
+  "sourceHint": "NCERT Class 12 Geography Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:25:42Z"
+ },
+ {
+  "id": "q_2646e6f70d8429e2",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following elements is a lanthanoid?",
+  "qHi": "निम्नलिखित में से कौन सा तत्व लैंथेनाइड है?",
+  "optsEn": [
+   "Uranium",
+   "Cerium",
+   "Thorium",
+   "Actinium"
+  ],
+  "optsHi": [
+   "यूरेनियम",
+   "सीरियम",
+   "थोरियम",
+   "एक्टिनियम"
+  ],
+  "correct": 1,
+  "explainEn": "Cerium (atomic number 58) is a member of the lanthanoid series (4f-block).",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:26:37Z"
+ },
+ {
+  "id": "q_7e88852bfc4f6a9a",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of macromolecule is cellulose, the primary structural component of plant cell walls?",
+  "qHi": "पादप कोशिका भित्ति का प्राथमिक संरचनात्मक घटक सेलुलोज, किस प्रकार का वृहद अणु है?",
+  "optsEn": [
+   "Protein",
+   "Lipid",
+   "Polysaccharide",
+   "Nucleic acid"
+  ],
+  "optsHi": [
+   "प्रोटीन",
+   "लिपिड",
+   "पॉलिसैक्राइड",
+   "न्यूक्लिक एसिड"
+  ],
+  "correct": 2,
+  "explainEn": "Cellulose is a complex carbohydrate (polysaccharide) consisting of a linear chain of beta-linked D-glucose units.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:26:37Z"
+ },
+ {
+  "id": "q_673c52257c2370b3",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the Indian Parliament, what is the mandatory minimum interval between two consecutive sessions?",
+  "qHi": "भारतीय संसद के संदर्भ में, दो क्रमिक सत्रों के बीच अनिवार्य न्यूनतम अंतराल कितना होता है?",
+  "optsEn": [
+   "Three months",
+   "Four months",
+   "Six months",
+   "Twelve months"
+  ],
+  "optsHi": [
+   "तीन महीने",
+   "चार महीने",
+   "छह महीने",
+   "बारह महीने"
+  ],
+  "correct": 2,
+  "explainEn": "According to Article 85(1) of the Constitution of India, six months shall not intervene between its last sitting in one session and the date appointed for its first sitting in the next session.",
+  "sourceHint": "Constitution of India, Article 85",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:27:48Z"
+ },
+ {
+  "id": "q_01d135f8e3271f27",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the British colonial period in India, the 'Drain of Wealth' theory was prominently propounded by which nationalist leader?",
+  "qHi": "भारत में ब्रिटिश औपनिवेशिक काल के दौरान, 'धन की निकासी' (Drain of Wealth) सिद्धांत प्रमुखता से किस राष्ट्रवादी नेता द्वारा प्रतिपादित किया गया था?",
+  "optsEn": [
+   "Dadabhai Naoroji",
+   "Mahatma Gandhi",
+   "Gopal Krishna Gokhale",
+   "Bal Gangadhar Tilak"
+  ],
+  "optsHi": [
+   "दादाभाई नौरोजी",
+   "महात्मा गांधी",
+   "गोपाल कृष्ण गोखले",
+   "बाल गंगाधर तिलक"
+  ],
+  "correct": 0,
+  "explainEn": "Dadabhai Naoroji propounded the Drain of Wealth theory in his book 'Poverty and Un-British Rule in India', detailing how wealth was being siphoned off to Britain.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:27:48Z"
+ },
+ {
+  "id": "q_1a2a95e773289d75",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which ecosystem type has the highest mean net primary productivity (g/m²/year) on a global scale according to standard ecological data?",
+  "qHi": "मानक पारिस्थितिक डेटा के अनुसार वैश्विक स्तर पर किस पारिस्थितिकी तंत्र प्रकार की शुद्ध प्राथमिक उत्पादकता (g/m²/year) सबसे अधिक है?",
+  "optsEn": [
+   "Temperate forest",
+   "Tropical rain forest",
+   "Tundra",
+   "Open ocean"
+  ],
+  "optsHi": [
+   "शीतोष्ण वन",
+   "उष्णकटिबंधीय वर्षा वन",
+   "टुंड्रा",
+   "खुला महासागर"
+  ],
+  "correct": 1,
+  "explainEn": "Tropical rain forests have the highest rate of net primary productivity per unit area among terrestrial ecosystems due to abundant sunlight and moisture.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 14: Ecosystem",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:27:48Z"
  }
 ]

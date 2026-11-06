@@ -20102,5 +20102,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-06T06:50:43Z"
+ },
+ {
+  "id": "q_ef780ef6f01282ee",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which Mughal Emperor constructed the Buland Darwaza at Fatehpur Sikri?",
+  "qHi": "किस मुगल सम्राट ने फतेहपुर सीकरी में बुलंद दरवाजा बनवाया था?",
+  "optsEn": [
+   "Akbar",
+   "Humayun",
+   "Shah Jahan",
+   "Aurangzeb"
+  ],
+  "optsHi": [
+   "अकबर",
+   "हुमायूं",
+   "शाहजहाँ",
+   "औरंगजेब"
+  ],
+  "correct": 0,
+  "explainEn": "Akbar built the Buland Darwaza in 1601 AD at Fatehpur Sikri to commemorate his victory over Gujarat.",
+  "sourceHint": "NCERT History Class 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:25:51Z"
+ },
+ {
+  "id": "q_84f322e352db0577",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary function of the ozone layer present in the stratosphere?",
+  "qHi": "समताप मंडल में मौजूद ओजोन परत का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "Absorbing harmful ultraviolet radiation from the Sun",
+   "Generating oxygen for respiration in the lower atmosphere",
+   "Regulating the global carbon dioxide cycle",
+   "Increasing the surface temperature of the Earth"
+  ],
+  "optsHi": [
+   "सूर्य से आने वाली हानिकारक पराबैंगनी विकिरण को अवशोषित करना",
+   "निचले वायुमंडल में श्वसन के लिए ऑक्सीजन उत्पन्न करना",
+   "वैश्विक कार्बन डाइऑक्साइड चक्र को विनियमित करना",
+   "पृथ्वी की सतह के तापमान को बढ़ाना"
+  ],
+  "correct": 0,
+  "explainEn": "The ozone layer in the stratosphere absorbs most of the Sun's ultraviolet (UV) radiation, protecting life on Earth from harmful effects such as skin cancer.",
+  "sourceHint": "NCERT Geography / Environmental Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:27:16Z"
+ },
+ {
+  "id": "q_6015cc079b9b9c5b",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which plateaus lies between the Aravali and the Vindhya ranges?",
+  "qHi": "अरावली और विंध्य श्रेणियों के बीच कौन सा पठार स्थित है?",
+  "optsEn": [
+   "Chota Nagpur Plateau",
+   "Malwa Plateau",
+   "Deccan Plateau",
+   "Meghalaya Plateau"
+  ],
+  "optsHi": [
+   "छोटा नागपुर पठार",
+   "मालवा पठार",
+   "दक्कन का पठार",
+   "मेघालय पठार"
+  ],
+  "correct": 1,
+  "explainEn": "The Malwa Plateau is bounded by the Aravali Range in the west, the Vindhya Range in the south, and the Bundelkhand plateau in the east.",
+  "sourceHint": "NCERT Geography - Contemporary India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:27:16Z"
+ },
+ {
+  "id": "q_aab0e91b4175655c",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Constitution of India, the power to commute a death sentence rests with whom?",
+  "qHi": "भारत के संविधान के तहत, मृत्युदंड को बदलने की शक्ति किसके पास है?",
+  "optsEn": [
+   "Prime Minister of India",
+   "Chief Justice of India",
+   "President of India",
+   "Union Home Minister"
+  ],
+  "optsHi": [
+   "भारत के प्रधानमंत्री",
+   "भारत के मुख्य न्यायाधीश",
+   "भारत के राष्ट्रपति",
+   "केंद्रीय गृह मंत्री"
+  ],
+  "correct": 2,
+  "explainEn": "Under Article 72 of the Constitution of India, the President has the power to grant pardons, reprieves, respites or remissions of punishment or to commute death sentences.",
+  "sourceHint": "Constitution of India Article 72",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:27:16Z"
+ },
+ {
+  "id": "q_5c9bbe9b800c1013",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Vijayanagar ruler wrote the famous Telugu work 'Amuktamalyada'?",
+  "qHi": "किस विजयनगर शासक ने प्रसिद्ध तेलुगु ग्रंथ 'अमुक्तामाल्यद' की रचना की थी?",
+  "optsEn": [
+   "Harihara I",
+   "Bukka Raya I",
+   "Devaraya II",
+   "Krishnadevaraya"
+  ],
+  "optsHi": [
+   "हरिहर प्रथम",
+   "बुक्का राय प्रथम",
+   "देवराय द्वितीय",
+   "कृष्णदेव राय"
+  ],
+  "correct": 3,
+  "explainEn": "Krishnadevaraya, the famous emperor of the Tuluva dynasty of the Vijayanagar Empire, authored the Telugu literary work 'Amuktamalyada'.",
+  "sourceHint": "NCERT History - Themes in Indian History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:27:16Z"
+ },
+ {
+  "id": "q_d09c36b1bfa4dd2f",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following taxes is levied and collected by the Union, but assigned to the States under the Indian Constitution?",
+  "qHi": "भारतीय संविधान के तहत निम्नलिखित में से कौन सा कर केंद्र द्वारा लगाया और एकत्र किया जाता है, लेकिन राज्यों को सौंपा जाता है?",
+  "optsEn": [
+   "Corporation tax",
+   "Customs duty",
+   "Taxes on consignment of goods",
+   "Estate duty"
+  ],
+  "optsHi": [
+   "निगम कर",
+   "सीमा शुल्क",
+   "माल के प्रेषण पर कर",
+   "संपदा शुल्क"
+  ],
+  "correct": 2,
+  "explainEn": "Taxes levied and collected by the Union but assigned to the states include taxes on the consignment of goods (Article 269), among others.",
+  "sourceHint": "Indian Polity by M. Laxmikanth - Centre-State Relations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:27:16Z"
  }
 ]

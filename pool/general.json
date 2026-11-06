@@ -20578,5 +20578,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-06T06:51:22Z"
+ },
+ {
+  "id": "q_6089f5ca14ff22d4",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which year did India adopt its current national flag design?",
+  "qHi": "भारत ने अपने वर्तमान राष्ट्रीय ध्वज के डिज़ाइन को किस वर्ष अपनाया था?",
+  "optsEn": [
+   "1947",
+   "1950",
+   "1949",
+   "1948"
+  ],
+  "optsHi": [
+   "1947",
+   "1950",
+   "1949",
+   "1948"
+  ],
+  "correct": 0,
+  "explainEn": "The current national flag of India was adopted in its present form during a meeting of the Constituent Assembly on 22 July 1947.",
+  "sourceHint": "PIB Archives",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:26:00Z"
+ },
+ {
+  "id": "q_90dc1176ee6203bb",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form of India traditionally features the use of wooden masks by performers?",
+  "qHi": "भारत के किस शास्त्रीय नृत्य रूप में पारंपरिक रूप से कलाकारों द्वारा लकड़ी के मुखौटों का उपयोग किया जाता है?",
+  "optsEn": [
+   "Kathakali",
+   "Kuchipudi",
+   "Sattriya",
+   "Chhau"
+  ],
+  "optsHi": [
+   "कथकली",
+   "कुचिपुड़ी",
+   "सत्त्रिया",
+   "छऊ"
+  ],
+  "correct": 0,
+  "explainEn": "Kathakali artists often wear elaborate heavy makeup and wooden masks, particularly for characters representing demons, gods, and mythological beasts.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:27:28Z"
+ },
+ {
+  "id": "q_73aceb051a55aaf0",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who wrote the famous Sanskrit treatise on statecraft and economic policy titled 'Arthashastra'?",
+  "qHi": "'अर्थशास्त्र' नामक राजनीति और आर्थिक नीति पर प्रसिद्ध संस्कृत ग्रंथ किसने लिखा था?",
+  "optsEn": [
+   "Kalidasa",
+   "Kautilya",
+   "Banabhatta",
+   "Vishakadatta"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "कौटिल्य",
+   "बाणभट्ट",
+   "विशाखदत्त"
+  ],
+  "correct": 1,
+  "explainEn": "Arthashastra was authored by Kautilya, also known as Chanakya or Vishnugupta, who was the chief minister and mentor of Emperor Chandragupta Maurya.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:27:28Z"
+ },
+ {
+  "id": "q_a5d2c85d06639f2a",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In financial terminology in India, what does the acronym 'NEFT' stand for?",
+  "qHi": "भारत में वित्तीय शब्दावली में, संक्षिप्त नाम 'NEFT' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "New Economic Financial Transaction",
+   "National Economy Funding Trust",
+   "Network for Electronic Fund Trade"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "न्यू इकोनॉमिक फाइनेंशियल ट्रांजैक्शन",
+   "नेशनल इकोनॉमी फंडिंग ट्रस्ट",
+   "नेटवर्क फॉर इलेक्ट्रॉनिक फंड ट्रेड"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, an online system maintained by the Reserve Bank of India for transferring funds between banks.",
+  "sourceHint": "Reserve Bank of India (RBI)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:27:28Z"
  }
 ]

@@ -35082,5 +35082,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-06T06:51:16Z"
+ },
+ {
+  "id": "q_7ca5ce3bdf253d71",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which institution regulates all commercial banks operating within India?",
+  "qHi": "भारत में काम करने वाले सभी व्यावसायिक बैंकों को कौन सी संस्था नियंत्रित करती है?",
+  "optsEn": [
+   "State Bank of India",
+   "Reserve Bank of India",
+   "Ministry of Finance",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "भारतीय रिजर्व बैंक",
+   "वित्त मंत्रालय",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India (RBI) is India's central banking institution and regulates the entire banking sector.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:25:56Z"
+ },
+ {
+  "id": "q_f9646a9112663074",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum deposit amount per depositor insured by DICGC in a scheduled commercial bank in India?",
+  "qHi": "भारत में किसी अनुसूचित व्यावसायिक बैंक में DICGC द्वारा प्रति जमाकर्ता अधिकतम कितनी जमा राशि बीमित होती है?",
+  "optsEn": [
+   "One lakh rupees",
+   "Two lakh rupees",
+   "Five lakh rupees",
+   "Ten lakh rupees"
+  ],
+  "optsHi": [
+   "एक लाख रुपये",
+   "दो लाख रुपये",
+   "पाँच लाख रुपये",
+   "दस लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "Deposit Insurance and Credit Guarantee Corporation (DICGC) insures bank deposits up to Rs 5,00,000 per depositor per bank.",
+  "sourceHint": "DICGC official guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:25:56Z"
+ },
+ {
+  "id": "q_215f22e7f31d2785",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'NEFT' stand for in the context of electronic fund transfers in India?",
+  "qHi": "भारत में इलेक्ट्रॉनिक फंड ट्रांसफर के संदर्भ में 'NEFT' का क्या अर्थ है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "New Electronic Financial Transfer",
+   "National Economy Fund Transaction",
+   "Net Electronic Fund Terminal"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "न्यू इलेक्ट्रॉनिक फाइनेंशियल ट्रांसफर",
+   "नेशनल इकोनॉमी फंड ट्रांजैक्शन",
+   "नेट इलेक्ट्रॉनिक फंड टर्मिनल"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, a nation-wide centralized payment system.",
+  "sourceHint": "RBI official portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:25:56Z"
+ },
+ {
+  "id": "q_a4ebc4645900313f",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In the context of banking, what does the letter 'C' stand for in 'CASA' deposit?",
+  "qHi": "बैंकिंग के संदर्भ में, 'CASA' जमा में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Credit",
+   "Current",
+   "Capital",
+   "Core"
+  ],
+  "optsHi": [
+   "क्रेडिट",
+   "करेंट",
+   "कैपिटल",
+   "कोर"
+  ],
+  "correct": 1,
+  "explainEn": "CASA stands for Current Account Savings Account, which represents low-cost deposits for banks.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) study material",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:25:56Z"
+ },
+ {
+  "id": "q_0e644fc81bc217e4",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization issues currency notes of denomination one rupee in India?",
+  "qHi": "भारत में एक रुपये के मूल्यवर्ग के करेंसी नोट कौन सा संगठन जारी करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "State Bank of India",
+   "Ministry of Finance",
+   "NITI Aayog"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय स्टेट बैंक",
+   "वित्त मंत्रालय",
+   "नीति आयोग"
+  ],
+  "correct": 2,
+  "explainEn": "One rupee notes and coins are issued by the Ministry of Finance, Government of India, while other currency notes are issued by the RBI.",
+  "sourceHint": "Reserve Bank of India Act / Ministry of Finance",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:25:56Z"
+ },
+ {
+  "id": "q_21a1a0e16a54c980",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of 'ATM' as used in banking and financial transactions?",
+  "qHi": "बैंकिंग और वित्तीय लेनदेन में प्रयुक्त 'ATM' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Automated Teller Machine",
+   "Any Time Money",
+   "Automated Transfer Mechanism",
+   "Account Teller Machine"
+  ],
+  "optsHi": [
+   "ऑटोमेटेड टेलर मशीन",
+   "एनी टाइम मनी",
+   "ऑटोमेटेड ट्रांसफर मैकेनिज्म",
+   "अकाउंट टेलर मशीन"
+  ],
+  "correct": 0,
+  "explainEn": "ATM stands for Automated Teller Machine, an electronic telecommunication device that enables customers to perform financial transactions.",
+  "sourceHint": "Banking terminology standards",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:25:56Z"
+ },
+ {
+  "id": "q_85e685d5fb696935",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the expansion of the term 'CASA' widely used in the Indian banking sector?",
+  "qHi": "भारतीय बैंकिंग क्षेत्र में व्यापक रूप से प्रयुक्त होने वाले शब्द 'CASA' का विस्तार क्या है?",
+  "optsEn": [
+   "Current Account Savings Account",
+   "Capital Asset and Statutory Asset",
+   "Credit Allocation and Savings Administration",
+   "Core Accounting and Settlement Arrangement"
+  ],
+  "optsHi": [
+   "करंट अकाउंट सेविंग्स अकाउंट",
+   "कैपिटल एसेट एंड स्टेटटोरी एसेट",
+   "क्रेडिट एलोकेशन एंड सेविंग्स एडमिनिस्ट्रेशन",
+   "कोर अकाउंटिंग एंड सेटलमेंट अरेंजमेंट"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account Savings Account, representing the low-cost deposits mobilized by commercial banks.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) study material",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:27:23Z"
+ },
+ {
+  "id": "q_ec0e7bd23aa755f8",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under which section of the Negotiable Instruments Act, 1881 is a 'Cheque' specifically defined?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 (Negotiable Instruments Act, 1881) की किस धारा के अंतर्गत 'चेक' को विशेष रूप से परिभाषित किया गया है?",
+  "optsEn": [
+   "Section 5",
+   "Section 6",
+   "Section 13",
+   "Section 25"
+  ],
+  "optsHi": [
+   "धारा 5",
+   "धारा 6",
+   "धारा 13",
+   "धारा 25"
+  ],
+  "correct": 1,
+  "explainEn": "Section 6 of the Negotiable Instruments Act, 1881 defines a cheque as a bill of exchange drawn on a specified banker and not expressed to be payable otherwise than on demand.",
+  "sourceHint": "Negotiable Instruments Act, 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:27:23Z"
+ },
+ {
+  "id": "q_5f2d0f744b1121ea",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following money market instruments is issued as a promissory note and is unsecured?",
+  "qHi": "निम्नलिखित में से कौन सा मुद्रा बाजार साधन एक वचन पत्र (Promissory Note) के रूप में जारी किया जाता है और असुरक्षित होता है?",
+  "optsEn": [
+   "Treasury Bill",
+   "Certificate of Deposit",
+   "Commercial Paper",
+   "Cash Management Bill"
+  ],
+  "optsHi": [
+   "राजकोषीय विपత్ర (Treasury Bill)",
+   "साझा जमा प्रमाण पत्र (Certificate of Deposit)",
+   "वाणिज्यिक पत्र (Commercial Paper)",
+   "नकद प्रबंधन बिल (Cash Management Bill)"
+  ],
+  "correct": 2,
+  "explainEn": "Commercial Paper (CP) is an unsecured money market instrument issued in the form of a promissory note by highly rated corporate bodies.",
+  "sourceHint": "Reserve Bank of India Master Directions on Money Market Instruments",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:27:23Z"
+ },
+ {
+  "id": "q_d399606f28f238fd",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the liquidity management metric 'LAF' used by the RBI?",
+  "qHi": "RBI द्वारा प्रयुक्त तरलता प्रबंधन मीट्रिक 'LAF' में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liability",
+   "Liquidity",
+   "Leverage",
+   "Ledger"
+  ],
+  "optsHi": [
+   "दायित्व (Liability)",
+   "तरलता (Liquidity)",
+   "उत्तोलन (Leverage)",
+   "बहीखाता (Ledger)"
+  ],
+  "correct": 1,
+  "explainEn": "LAF stands for Liquidity Adjustment Facility, which is used by the RBI to aid in monetary policy implementation.",
+  "sourceHint": "RBI Glossary of Banking Terms",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:27:23Z"
+ },
+ {
+  "id": "q_c5c00f173d35bbc3",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India operates the National Automated Clearing House (NACH) system?",
+  "qHi": "भारत में कौन सा संगठन नेशनल ऑटोमेटेड क्लियरिंग हाउस (NACH) प्रणाली का संचालन करता है?",
+  "optsEn": [
+   "National Payments Corporation of India",
+   "Reserve Bank of India",
+   "Indian Banks' Association",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "भारतीय राष्ट्रीय भुगतान निगम",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय बैंक संघ",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड"
+  ],
+  "correct": 0,
+  "explainEn": "The National Payments Corporation of India (NPCI) operates the NACH system to facilitate interbank high-volume electronic transactions.",
+  "sourceHint": "NPCI official portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:27:23Z"
+ },
+ {
+  "id": "q_2506308b85d7f201",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum limit of investment for a micro enterprise under the revised MSME classification in India?",
+  "qHi": "भारत में संशोधित MSME वर्गीकरण के तहत सूक्ष्म उद्यम (Micro Enterprise) के लिए निवेश की अधिकतम सीमा क्या है?",
+  "optsEn": [
+   "Up to 25 lakh rupees",
+   "Up to 50 lakh rupees",
+   "Up to 1 crore rupees",
+   "Up to 5 crore rupees"
+  ],
+  "optsHi": [
+   "25 लाख रुपये तक",
+   "50 लाख रुपये तक",
+   "1 करोड़ रुपये तक",
+   "5 करोड़ रुपये तक"
+  ],
+  "correct": 2,
+  "explainEn": "Under the revised MSME definition, a micro enterprise is one where the investment in plant and machinery or equipment does not exceed 1 crore rupees.",
+  "sourceHint": "Ministry of Micro, Small and Medium Enterprises, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:27:23Z"
+ },
+ {
+  "id": "q_0a1ac559e4a686dc",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following terms refers to the rate at which the Reserve Bank of India is ready to buy or rediscount bills of exchange or other commercial papers from commercial banks?",
+  "qHi": "निम्नलिखित में से कौन सा शब्द उस दर को संदर्भित करता है जिस पर भारतीय रिजर्व बैंक वाणिज्यिक बैंकों से विनिमय बिलों या अन्य वाणिज्यिक पत्रों को खरीदने या पुनर्भुगतान करने के लिए तैयार रहता है?",
+  "optsEn": [
+   "Repo Rate",
+   "Reverse Repo Rate",
+   "Bank Rate",
+   "Statutory Liquidity Ratio"
+  ],
+  "optsHi": [
+   "रेपो रेट",
+   "रिवर्स रेपो रेट",
+   "बैंक रेट",
+   "वैधानिक तरलता अनुपात"
+  ],
+  "correct": 2,
+  "explainEn": "Bank Rate is the standard rate at which the RBI is prepared to buy or rediscount bills of exchange or other commercial papers eligible for purchase under the RBI Act, 1934.",
+  "sourceHint": "Reserve Bank of India Monetary Policy Framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T19:27:23Z"
  }
 ]
