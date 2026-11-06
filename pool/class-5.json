@@ -28222,5 +28222,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-05T06:55:35Z"
+ },
+ {
+  "id": "q_2aa9e319aaaf2a8f",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which direction does the compass needle always point towards?",
+  "qHi": "कम्पास की सुई हमेशा किस दिशा की ओर इशारा करती है?",
+  "optsEn": [
+   "East",
+   "West",
+   "North",
+   "South-East"
+  ],
+  "optsHi": [
+   "पूर्व",
+   "पश्चिम",
+   "उत्तर",
+   "दक्षिण-पूर्व"
+  ],
+  "correct": 2,
+  "explainEn": "A magnetic compass needle aligns with Earth's magnetic field and always points towards the magnetic North.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T06:49:01Z"
+ },
+ {
+  "id": "q_c9d6df45853837a9",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a Kharif crop grown in the rainy season in India?",
+  "qHi": "निम्नलिखित में से कौन सी भारत में वर्षा ऋतु में उगाई जाने वाली खरीफ फसल है?",
+  "optsEn": [
+   "Wheat",
+   "Barley",
+   "Rice",
+   "Gram"
+  ],
+  "optsHi": [
+   "गेहूं",
+   "जौ",
+   "चावल",
+   "चना"
+  ],
+  "correct": 2,
+  "explainEn": "Rice is a major Kharif crop that requires a lot of water and is grown during the monsoon season.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T06:49:01Z"
+ },
+ {
+  "id": "q_59717ed310eb02f9",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which directional lines on a map run from west to east?",
+  "qHi": "मानचित्र पर कौन सी दिशा रेखाएँ पश्चिम سے पूर्व की ओर चलती हैं?",
+  "optsEn": [
+   "Longitudes",
+   "Latitudes",
+   "Meridians",
+   "Standard meridians"
+  ],
+  "optsHi": [
+   "देशांतर",
+   "अक्षांश",
+   "याम्योत्तर",
+   "मानक देशांतर"
+  ],
+  "correct": 1,
+  "explainEn": "Latitudes are imaginary parallel lines that run horizontally from west to east around the Earth.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T06:49:57Z"
+ },
+ {
+  "id": "q_c4498a88f1179b4b",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which state in India is well known for the classical dance form Bharatanatyam?",
+  "qHi": "भारत का कौन सा राज्य भरतनाट्यम शास्त्रीय नृत्य शैली के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Kerala",
+   "Tamil Nadu",
+   "Andhra Pradesh",
+   "Odisha"
+  ],
+  "optsHi": [
+   "केरल",
+   "तमिलनाडु",
+   "आंध्र प्रदेश",
+   "ओडिशा"
+  ],
+  "correct": 1,
+  "explainEn": "Bharatanatyam is a major classical dance form that originated in Tamil Nadu.",
+  "sourceHint": "NCERT Class 5 Art and Culture references",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T06:49:57Z"
+ },
+ {
+  "id": "q_f5f9c240f75a9adf",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific part of a plant takes in water and mineral salts from the soil?",
+  "qHi": "पौधे का कौन सा विशेष भाग मिट्टी से पानी और खनिज लवण अवशोषित करता है?",
+  "optsEn": [
+   "Leaf",
+   "Stem",
+   "Root",
+   "Flower"
+  ],
+  "optsHi": [
+   "पत्ती",
+   "तना",
+   "जड़",
+   "फूल"
+  ],
+  "correct": 2,
+  "explainEn": "Roots absorb water and minerals from the soil and help anchor the plant.",
+  "sourceHint": "NCERT Class 6 Science Chapter 7 (Getting to Know Plants)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T06:51:26Z"
+ },
+ {
+  "id": "q_af196c83b192b28b",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of motion is exhibited by the blades of a ceiling fan in working condition?",
+  "qHi": "चालू अवस्था में छत के पंखे की पत्तियों द्वारा किस प्रकार की गति प्रदर्शित की जाती है?",
+  "optsEn": [
+   "Rectilinear motion",
+   "Circular motion",
+   "Periodic motion",
+   "Random motion"
+  ],
+  "optsHi": [
+   "रेखीय गति",
+   "वृत्ताकार गति",
+   "आवर्ती गति",
+   "अनियमित गति"
+  ],
+  "correct": 1,
+  "explainEn": "The blades of a ceiling fan move in a circular path around a fixed axis, which is circular motion.",
+  "sourceHint": "NCERT Class 6 Science Chapter 10 (Motion and Measurement of Distances)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T06:51:26Z"
+ },
+ {
+  "id": "q_180e971f97d568e8",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which imaginary line passing through the center of the Earth divides it into the Northern Hemisphere and the Southern Hemisphere?",
+  "qHi": "पृथ्वी के केंद्र से गुजरने वाली कौन सी काल्पनिक रेखा इसे उत्तरी गोलार्ध और दक्षिणी गोलार्ध में विभाजित करती है?",
+  "optsEn": [
+   "Equator",
+   "Prime Meridian",
+   "Tropic of Cancer",
+   "Tropic of Capricorn"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा (विषुवत वृत्त)",
+   "प्रधान मध्याह्न रेखा",
+   "कर्क रेखा",
+   "मकर रेखा"
+  ],
+  "correct": 0,
+  "explainEn": "The Equator is the 0-degree latitude line that divides the Earth into Northern and Southern hemispheres.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 2 (Globe: Latitudes and Longitudes)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T06:51:26Z"
+ },
+ {
+  "id": "q_21464d606abf94df",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the process called when water changes from its liquid state to its gaseous state due to heat?",
+  "qHi": "गर्मी के कारण पानी के अपनी तरल अवस्था से गैसीय अवस्था में बदलने की प्रक्रिया को क्या कहते हैं?",
+  "optsEn": [
+   "Condensation",
+   "Evaporation",
+   "Precipitation",
+   "Melting"
+  ],
+  "optsHi": [
+   "संघनन",
+   "वाष्पीकरण",
+   "वर्षा",
+   "पिघलना"
+  ],
+  "correct": 1,
+  "explainEn": "Evaporation is the process by which water changes from liquid to gas or vapor.",
+  "sourceHint": "NCERT Class 6 Science Chapter 14 (Water)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T06:51:26Z"
  }
 ]

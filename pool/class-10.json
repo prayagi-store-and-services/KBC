@@ -28306,5 +28306,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-05T06:55:47Z"
+ },
+ {
+  "id": "q_5630ed54c01637f1",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In a horizontal overhead power line, in which direction does the magnetic field lines run directly below the wire when current flows from east to west?",
+  "qHi": "क्षैतिज शिरसूपरि विद्युत लाइन में, जब धारा पूर्व से पश्चिम की ओर बहती है, तो तार के ठीक नीचे चुंबकीय क्षेत्र रेखाएं किस दिशा में चलती हैं?",
+  "optsEn": [
+   "North to South",
+   "South to North",
+   "Upwards",
+   "Downwards"
+  ],
+  "optsHi": [
+   "उत्तर से दक्षिण",
+   "दक्षिण से उत्तर",
+   "ऊपर की ओर",
+   "नीचे की ओर"
+  ],
+  "correct": 0,
+  "explainEn": "Using the Right-Hand Thumb Rule, when current flows from East to West, the magnetic field below the wire points from North to South.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 13",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T06:50:27Z"
  }
 ]

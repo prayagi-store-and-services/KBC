@@ -34606,5 +34606,481 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-05T06:54:23Z"
+ },
+ {
+  "id": "q_e92a3fbb856f1200",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization regulates the capital markets and stock exchanges in India?",
+  "qHi": "कौन सा संगठन भारत में पूंजी बाजार और स्टॉक एक्सचेंजों को नियंत्रित करता है?",
+  "optsEn": [
+   "Securities and Exchange Board of India",
+   "Reserve Bank of India",
+   "Insurance Regulatory and Development Authority",
+   "National Bank for Agriculture and Rural Development"
+  ],
+  "optsHi": [
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "भारतीय रिजर्व बैंक",
+   "बीमा विनियामक और विकास प्राधिकरण",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक"
+  ],
+  "correct": 0,
+  "explainEn": "SEBI is the regulatory body for securities and commodity market in India under the ownership of the Ministry of Finance.",
+  "sourceHint": "SEBI Act, 1992",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T06:48:32Z"
+ },
+ {
+  "id": "q_26f5eab20bc38992",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'A' stand for in the financial term ATM?",
+  "qHi": "वित्तीय शब्द ATM में 'A' का क्या अर्थ है?",
+  "optsEn": [
+   "Automated",
+   "Automatic",
+   "Authorized",
+   "Accounting"
+  ],
+  "optsHi": [
+   "ऑटोमेटेड",
+   "ऑटोमेटिक",
+   "ऑथराइज्ड",
+   "अकाउंटिंग"
+  ],
+  "correct": 0,
+  "explainEn": "ATM stands for Automated Teller Machine, an electronic telecommunication device that enables customers to perform financial transactions.",
+  "sourceHint": "Banking Terminology Dictionary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T06:48:32Z"
+ },
+ {
+  "id": "q_7312ff273c881002",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a development bank established to promote agriculture and rural development in India?",
+  "qHi": "भारत में कृषि और ग्रामीण विकास को बढ़ावा دینے کے लिए स्थापित विकास बैंक निम्नलिखित में से कौन सा है?",
+  "optsEn": [
+   "NABARD",
+   "SIDBI",
+   "EXIM Bank",
+   "NHB"
+  ],
+  "optsHi": [
+   "नाबार्ड",
+   "सिडबी",
+   "एक्जिम बैंक",
+   "एनएचबी"
+  ],
+  "correct": 0,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) is an apex regulatory body for overall regulation of regional rural banks and apex cooperative banks in India.",
+  "sourceHint": "NABARD Act, 1981",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T06:48:32Z"
+ },
+ {
+  "id": "q_991ff342a99c1eaa",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of the term 'repo rate' in banking?",
+  "qHi": "बैंकिंग में 'repo rate' शब्द का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Repurchase Rate",
+   "Reserve Position Rate",
+   "Rate of Economic Policy",
+   "Real Portfolio Rate"
+  ],
+  "optsHi": [
+   "रीपर्चेस रेट",
+   "रिजर्व पोजीशन रेट",
+   "रेट ऑफ इकोनॉमिक पॉलिसी",
+   "रियल पोर्टफोलियो रेट"
+  ],
+  "correct": 0,
+  "explainEn": "Repo rate stands for Repurchase rate, which is the rate at which the central bank of a country lends money to commercial banks in the event of any shortfall of funds.",
+  "sourceHint": "Reserve Bank of India Glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T06:48:32Z"
+ },
+ {
+  "id": "q_215fc9a975dba9cf",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum deposit amount per depositor insured by the Deposit Insurance and Credit Guarantee Corporation (DICGC) in India?",
+  "qHi": "भारत में निक्षेप बीमा और प्रत्यय गारंटी निगम (DICGC) द्वारा प्रति जमाकर्ता अधिकतम कितनी बीमा राशि की गारंटी दी जाती है?",
+  "optsEn": [
+   "One Lakh Rupees",
+   "Two Lakh Rupees",
+   "Five Lakh Rupees",
+   "Ten Lakh Rupees"
+  ],
+  "optsHi": [
+   "एक लाख रुपये",
+   "दो लाख रुपये",
+   "पाँच लाख रुपये",
+   "दस लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "DICGC insures all bank deposits, such as savings, fixed, current, and recurring deposits up to a limit of Rupees five lakh per depositor per bank.",
+  "sourceHint": "DICGC Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T06:49:49Z"
+ },
+ {
+  "id": "q_b4c71347061e89bd",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of the Indian banking system, what does the letter 'C' stand for in the acronym 'CASA' deposits?",
+  "qHi": "भारतीय बैंकिंग प्रणाली के संदर्भ में, 'CASA' जमा के संक्षिप्त रूप में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Current",
+   "Cash",
+   "Credit",
+   "Collateral"
+  ],
+  "optsHi": [
+   "करेंट (चालू)",
+   "कैश (नकद)",
+   "क्रेडिट (ऋण)",
+   "कोललेटरल (संपार्श्विक)"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account Savings Account. It represents the bank deposits in current and savings accounts, which typically offer lower interest rates to banks.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) Study Material",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T06:49:49Z"
+ },
+ {
+  "id": "q_c1e2bc4cd1a17af3",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which international organization publishes the 'Global Financial Stability Report'?",
+  "qHi": "कौन सा अंतर्राष्ट्रीय संगठन 'ग्लोबल फाइनेंशियल स्टेबिलिटी रिपोर्ट' प्रकाशित करता है?",
+  "optsEn": [
+   "World Bank",
+   "International Monetary Fund",
+   "Bank for International Settlements",
+   "Asian Development Bank"
+  ],
+  "optsHi": [
+   "विश्व बैंक",
+   "अंतर्राष्ट्रीय मुद्रा कोष",
+   "अंतर्राष्ट्रीय निपटान बैंक",
+   "एशियाई विकास बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "The Global Financial Stability Report is a biannual publication by the International Monetary Fund (IMF) that assesses global financial markets and systemic risks.",
+  "sourceHint": "IMF Official Publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T06:49:49Z"
+ },
+ {
+  "id": "q_682730096e92650f",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which category of non-performing assets has been defined as an asset that has remained in the substandard category for a period of more than 12 months in Indian banking norms?",
+  "qHi": "भारतीय बैंकिंग मानदंडों के तहत गैर-निष्पादित परिसंपत्ति की किस श्रेणी को ऐसी संपत्ति के रूप में परिभाषित किया गया है जो 12 महीने से अधिक की अवधि के लिए उप-मानक श्रेणी में बनी रही है?",
+  "optsEn": [
+   "Standard Asset",
+   "Doubtful Asset",
+   "Loss Asset",
+   "Special Mention Account"
+  ],
+  "optsHi": [
+   "मानक परिसंपत्ति",
+   "संदिग्ध परिसंपत्ति",
+   "हानि परिसंपत्ति",
+   "विशेष उल्लेख खाता"
+  ],
+  "correct": 1,
+  "explainEn": "An asset is classified as doubtful if it has remained in the substandard category for a period of 12 months as per RBI prudential norms.",
+  "sourceHint": "RBI Master Circular on Prudential Norms on Income Recognition",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T06:49:49Z"
+ },
+ {
+  "id": "q_bae39420f8d67aec",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the full form of the abbreviation 'NEFT' used in electronic funds transfer in India?",
+  "qHi": "भारत में इलेक्ट्रॉनिक फंड ट्रांसफर में प्रयुक्त संक्षिप्त नाम 'NEFT' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "National Electronic Fund Transfer",
+   "National Economic Financial Transaction",
+   "New Electronic Finance Transfer",
+   "National Exchange Fund Transaction"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड ट्रांसफर",
+   "नेशनल इकोनॉमिक फाइनेंशियल ट्रांजेक्शन",
+   "न्यू इलेक्ट्रॉनिक फाइनेंस ट्रांसफर",
+   "नेशनल एक्सचेंज फंड ट्रांजेक्शन"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, which is a nation-wide centralized payment system owned and operated by the Reserve Bank of India.",
+  "sourceHint": "RBI Payment Systems Documentation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T06:49:49Z"
+ },
+ {
+  "id": "q_8bd2fc3f8827c9fe",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of inflation is characterized by a general increase in prices due to an increase in the cost of wages and raw materials?",
+  "qHi": "मजदूरी और कच्चे माल की लागत में वृद्धि के कारण कीमतों में सामान्य वृद्धि किस प्रकार की मुद्रास्फीति की विशेषता है?",
+  "optsEn": [
+   "Demand-pull inflation",
+   "Cost-push inflation",
+   "Built-in inflation",
+   "Core inflation"
+  ],
+  "optsHi": [
+   "मांग-जनित मुद्रास्फीति",
+   "लागत-प्रेरित मुद्रास्फीति",
+   "निहित मुद्रास्फीति",
+   "कोर मुद्रास्फीति"
+  ],
+  "correct": 1,
+  "explainEn": "Cost-push inflation occurs when overall prices increase (inflation) due to increases in the cost of wages and raw materials.",
+  "sourceHint": "NCERT Economics Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T06:49:49Z"
+ },
+ {
+  "id": "q_1490e4bdae1cb3c2",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the provisions of the Negotiable Instruments Act, 1881, a cheque that is not crossed and is payable across the counter of the bank is known by which term?",
+  "qHi": "परिक्रामी लिखत अधिनियम, 1881 के प्रावधानों के तहत, एक चेक जो रेखांकित (crossed) नहीं है और बैंक के काउंटर पर भुगतान योग्य है, उसे किस नाम से जाना जाता है?",
+  "optsEn": [
+   "Bearer cheque",
+   "Order cheque",
+   "Stale cheque",
+   "Post-dated cheque"
+  ],
+  "optsHi": [
+   "बियरर चेक (वाहक चेक)",
+   "ऑर्डर चेक (आदेश चेक)",
+   "स्टेल चेक (बासी चेक)",
+   "पोस्ट-डेटेड चेक (दिनांकित बाद का चेक)"
+  ],
+  "correct": 0,
+  "explainEn": "A bearer cheque is payable to the person who bears or holds the negotiable instrument and does not require cross lines to be paid over the counter.",
+  "sourceHint": "Negotiable Instruments Act, 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T06:49:49Z"
+ },
+ {
+  "id": "q_0f47482f7eadc5f9",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Prompt Corrective Action (PCA) framework for banks, which of the following parameters is generally not used by the Reserve Bank of India to monitor a bank's financial health?",
+  "qHi": "बैंकों के लिए त्वरित सुधारात्मक कार्रवाई (PCA) फ्रेमवर्क के तहत, भारतीय रिजर्व बैंक द्वारा बैंक के वित्तीय स्वास्थ्य की निगरानी के लिए आमतौर पर निम्नलिखित में से किस पैरामीटर का उपयोग नहीं किया जाता है?",
+  "optsEn": [
+   "Capital to Risk-weighted Assets Ratio",
+   "Net Non-Performing Assets",
+   "Return on Assets",
+   "Cost-to-Income Ratio"
+  ],
+  "optsHi": [
+   "पूंजी से जोखिम-भारित संपत्ति अनुपात",
+   "शुद्ध गैर-निष्पादित परिसंपत्तियां",
+   "संपत्ति पर रिटर्न",
+   "लागत-से-आय अनुपात"
+  ],
+  "correct": 3,
+  "explainEn": "The PCA framework evaluates CRAR, Net NPAs, Leverage Ratio, and Return on Assets (RoA). Cost-to-income ratio is not a core metric for PCA triggers.",
+  "sourceHint": "RBI PCA Framework Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T06:51:16Z"
+ },
+ {
+  "id": "q_2c49248246d2ff5b",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the minimum promoter shareholding requirement for the first five years for newly licensed universal banks in India as per current RBI licensing guidelines?",
+  "qHi": "वर्तमान आरबीआई लाइसेंसिंग दिशानिर्देशों के अनुसार भारत में नए लाइसेंस प्राप्त यूनिवर्सल बैंकों के लिए पहले पांच वर्षों के लिए न्यूनतम प्रमोटर शेयरधारिता आवश्यकता क्या है?",
+  "optsEn": [
+   "15 percent",
+   "26 percent",
+   "40 percent",
+   "50 percent"
+  ],
+  "optsHi": [
+   "15 प्रतिशत",
+   "26 प्रतिशत",
+   "40 प्रतिशत",
+   "50 प्रतिशत"
+  ],
+  "correct": 2,
+  "explainEn": "RBI guidelines for 'on-tap' licensing of universal banks specify that the initial promoter shareholding must be at least 40 percent of the paid-up voting equity capital, locked in for the first five years.",
+  "sourceHint": "RBI Guidelines on On-tap Licensing of Universal Banks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T06:51:16Z"
+ },
+ {
+  "id": "q_90d3faa7ac451989",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organization in India operates the Bharat Bill Payment System (BBPS)?",
+  "qHi": "भारत में भारत बिल भुगतान प्रणाली (BBPS) का संचालन कौन सा संगठन करता है?",
+  "optsEn": [
+   "National Payments Corporation of India",
+   "Reserve Bank of India",
+   "Telecom Regulatory Authority of India",
+   "Small Industries Development Bank of India"
+  ],
+  "optsHi": [
+   "भारतीय राष्ट्रीय भुगतान निगम",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय दूरसञ्चार विनियामक प्राधिकरण",
+   "भारतीय लघु उद्योग विकास बैंक"
+  ],
+  "correct": 0,
+  "explainEn": "BBPS is an interoperable bill payment system in India conceptualized by RBI and operated by the National Payments Corporation of India (NPCI).",
+  "sourceHint": "NPCI Official Portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T06:51:16Z"
+ },
+ {
+  "id": "q_cb3e3b9f7a82a5cb",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of international trade finance, what does the term UCP 600 refer to?",
+  "qHi": "अंतर्राष्ट्रीय व्यापार वित्त के संदर्भ में, UCP 600 शब्द का क्या तात्पर्य है?",
+  "optsEn": [
+   "Uniform Customs and Practice for Documentary Credits",
+   "Universal Currency Pricing standards",
+   "Underwriting Capital Provisions framework",
+   "United Commercial Procedures for letters of credit"
+  ],
+  "optsHi": [
+   "डॉक्यूमेंट्री क्रेडिट के लिए यूनिफॉर्म कस्टम्स एंड प्रैक्टिस",
+   "यूनिवर्सल करेंसी प्राइसिंग मानक",
+   "अंडरराइटिंग कैपिटल प्रोविजंस फ्रेमवर्क",
+   "साख पत्रों के लिए यूनाइटेड कमर्शियल प्रक्रियाएं"
+  ],
+  "correct": 0,
+  "explainEn": "UCP 600 stands for Uniform Customs and Practice for Documentary Credits, published by the International Chamber of Commerce (ICC), which governs letters of credit worldwide.",
+  "sourceHint": "International Chamber of Commerce ICC Publication",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T06:51:16Z"
+ },
+ {
+  "id": "q_44a81f45d0d453ad",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific category of Non-Banking Financial Companies (NBFCs) is mandated to maintain a Liquidity Coverage Ratio (LCR)?",
+  "qHi": "गैर-बैंकिंग वित्तीय कंपनियों (NBFCs) की किस विशिष्ट श्रेणी को तरलता कवरेज अनुपात (LCR) बनाए रखना अनिवार्य है?",
+  "optsEn": [
+   "All deposit-taking NBFCs irrespective of size",
+   "All non-deposit-taking NBFCs with asset size below 1000 crore rupees",
+   "All deposit-taking NBFCs and non-deposit-taking NBFCs with asset size of 5000 crore rupees and above",
+   "Only government-owned NBFCs"
+  ],
+  "optsHi": [
+   "आकार की परवाह किए बिना सभी जमा स्वीकार करने वाली NBFCs",
+   "1000 करोड़ रुपये से कम संपत्ति आकार वाली सभी गैर-जमा स्वीकार करने वाली NBFCs",
+   "5000 करोड़ रुपये और उससे अधिक संपत्ति आकार वाली सभी जमा स्वीकार करने वाली और गैर-जमा स्वीकार करने वाली NBFCs",
+   "केवल सरकारी स्वामित्व वाली NBFCs"
+  ],
+  "correct": 2,
+  "explainEn": "RBI introduced the LCR framework for all deposit-taking NBFCs and non-deposit-taking NBFCs with asset size of 5000 crore rupees and above.",
+  "sourceHint": "RBI Scale Based Regulation for NBFCs",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T06:51:16Z"
+ },
+ {
+  "id": "q_239f9ecc7e5e8bfc",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary purpose of the Marginal Cost of Funds based Lending Rate (MCLR) system introduced for banks in India?",
+  "qHi": "भारत में बैंकों के लिए शुरू की गई फंड आधारित ऋण दर (MCLR) प्रणाली की मार्जिनल कॉस्ट का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To ensure banks maintain adequate cash reserve ratios",
+   "To improve transparency in the methodology followed by banks for determining interest rates on advances",
+   "To regulate foreign institutional investments in retail banking",
+   "To fix the maximum deposit rates across cooperative banks"
+  ],
+  "optsHi": [
+   "यह सुनिश्चित करना कि बैंक पर्याप्त नकद आरक्षित अनुपात बनाए रखें",
+   "अग्रिमों पर ब्याज दरें निर्धारित करने के लिए बैंकों द्वारा अपनाई जाने वाली पद्धति में पारदर्शित बढ़ाना",
+   "खुदरा बैंकिंग में विदेशी संस्थागत निवेश को विनियमित करना",
+   "सहकारी बैंकों में अधिकतम जमा दरों को तय करना"
+  ],
+  "correct": 1,
+  "explainEn": "MCLR was introduced to improve the transmission of policy rates to lending rates and ensure transparency in interest rate determination.",
+  "sourceHint": "RBI Guidelines on MCLR",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T06:51:16Z"
  }
 ]

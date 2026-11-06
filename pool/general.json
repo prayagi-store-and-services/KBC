@@ -20354,5 +20354,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-05T06:54:28Z"
+ },
+ {
+  "id": "q_1cfdc3c488226938",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "On which date is Independence Day celebrated in India?",
+  "qHi": "भारत में स्वतंत्रता दिवस किस तारीख को मनाया जाता है?",
+  "optsEn": [
+   "26 January",
+   "15 August",
+   "2 October",
+   "14 November"
+  ],
+  "optsHi": [
+   "26 जनवरी",
+   "15 अगस्त",
+   "2 अक्टूबर",
+   "14 नवंबर"
+  ],
+  "correct": 1,
+  "explainEn": "India celebrates its Independence Day annually on 15 August to commemorate its independence from British rule in 1947.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T06:48:57Z"
+ },
+ {
+  "id": "q_f4fe5e5ad14ff8db",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which biogeographic zone of India is the Loktak Lake, famous for its floating phumdis, primarily situated?",
+  "qHi": "भारत के किस जैव-भौगोलिक क्षेत्र में लोकटक झील, जो अपने तैरते हुए फुमदी के लिए प्रसिद्ध है, मुख्य रूप से स्थित है?",
+  "optsEn": [
+   "Western Ghats",
+   "North-East India",
+   "Deccan Peninsula",
+   "Gangetic Plain"
+  ],
+  "optsHi": [
+   "पश्चिमी घाट",
+   "उत्तर-पूर्व भारत",
+   "दक्कन प्रायद्वीप",
+   "गंगा का मैदान"
+  ],
+  "correct": 1,
+  "explainEn": "Loktak Lake is located in Manipur, which falls under the North-East biogeographic zone of India.",
+  "sourceHint": "NCERT Geography / Wildlife Institute of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T06:51:22Z"
+ },
+ {
+  "id": "q_ae10ee697baae418",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form of India traditionally uses the 'Sattriya' repertoire originating from the monastic institutions known as Sattras?",
+  "qHi": "भारत की किस शास्त्रीय नृत्य शैली में पारंपरिक रूप से 'सत्रिया' प्रदर्शनों का उपयोग किया जाता है जो सत्र नामक मठवासी संस्थानों से उत्पन्न हुए हैं?",
+  "optsEn": [
+   "Odissi",
+   "Kathakali",
+   "Sattriya",
+   "Manipuri"
+  ],
+  "optsHi": [
+   "ओडिसी",
+   "कथकली",
+   "सत्रिया",
+   "मणिपुरी"
+  ],
+  "correct": 2,
+  "explainEn": "Sattriya is a classical dance form of Assam that was introduced by the 15th-century Vaishnavite saint Srimanta Sankaradeva and practiced in Sattras.",
+  "sourceHint": "Sangeet Natak Akademi / NCERT",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T06:51:22Z"
+ },
+ {
+  "id": "q_9eb5ab8290cb5e09",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian mathematician and astronomer formulated the method to solve indeterminate equations of the type ax - by = c, known as 'Kuttaka'?",
+  "qHi": "किस भारतीय गणितज्ञ और खगोलविद ने ax - by = c प्रकार के अनिर्धारित समीकरणों को हल करने की विधि तैयार की, जिसे 'कुट्टक' के रूप में जाना जाता है?",
+  "optsEn": [
+   "Aryabhata",
+   "Bhaskara I",
+   "Brahmagupta",
+   "Varahamihira"
+  ],
+  "optsHi": [
+   "आर्यभट्ट",
+   "भास्कर प्रथम",
+   "ब्रह्मगुप्त",
+   "वाराहामिहिर"
+  ],
+  "correct": 0,
+  "explainEn": "Aryabhata developed the 'Kuttaka' (pulverizer) method in his treatise Aryabhatiya to solve linear indeterminate equations.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T06:51:22Z"
+ },
+ {
+  "id": "q_75ba2b85c3a8f62c",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "As per the Geological Survey of India, which state holds the country's largest resource share of gold ore reserves?",
+  "qHi": "भारतीय भूवैज्ञानिक सर्वेक्षण के अनुसार, किस राज्य के पास देश का सबसे बड़ा स्वर्ण अयस्क भंडार का संसाधन हिस्सा है?",
+  "optsEn": [
+   "Karnataka",
+   "Bihar",
+   "Jharkhand",
+   "Andhra Pradesh"
+  ],
+  "optsHi": [
+   "कर्नाटक",
+   "बिहार",
+   "झारखंड",
+   "आंध्र प्रदेश"
+  ],
+  "correct": 1,
+  "explainEn": "According to National Mineral Inventory data, Bihar holds the maximum share of total in-situ gold ore reserves in India, largely due to the Jamui deposit.",
+  "sourceHint": "Ministry of Mines / Geological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T06:51:22Z"
+ },
+ {
+  "id": "q_5c6d3643088c2482",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific plant part is the source of the spice saffron (kesar), which is geographically indicated in the Pampore region of Jammu and Kashmir?",
+  "qHi": "कौन सा विशिष्ट पौधा भाग मसाले केसर का स्रोत है, जिसे जम्मू और कश्मीर के पम्पोर क्षेत्र में भौगोलिक संकेत (जीआई) प्राप्त है?",
+  "optsEn": [
+   "Dried flower buds",
+   "Stigmas and styles",
+   "Inner bark",
+   "Unripe seed pods"
+  ],
+  "optsHi": [
+   "सूखे फूल की कलियाँ",
+   "कलंक और वर्तिका (स्टigma और style)",
+   "आंतरिक छाल",
+   "कच्चे बीज फली"
+  ],
+  "correct": 1,
+  "explainEn": "Saffron is harvested from the dried stigmas and styles of the flower of Crocus sativus.",
+  "sourceHint": "NCERT Science / Geographical Indication Registry",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T06:51:22Z"
+ },
+ {
+  "id": "q_346f2008ef143318",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which institutional body in India is officially mandated with calculating the Gross Domestic Product (GDP) data at the national level?",
+  "qHi": "भारत में किस संस्थागत निकाय को आधिकारिक तौर पर राष्ट्रीय स्तर पर सकल घरेलू उत्पाद (GDP) डेटा की गणना करने का अधिकार सौंपा गया है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "NITI Aayog",
+   "National Statistical Office",
+   "Finance Commission"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "नीति आयोग",
+   "राष्ट्रीय सांख्यिकी कार्यालय",
+   "वित्त आयोग"
+  ],
+  "correct": 2,
+  "explainEn": "The National Statistical Office (NSO), under the Ministry of Statistics and Programme Implementation, is responsible for compiling and releasing GDP data in India.",
+  "sourceHint": "Ministry of Statistics and Programme Implementation (MoSPI)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T06:51:22Z"
+ },
+ {
+  "id": "q_7b907d03c8c53764",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian architecture, what is the term used for the ambulatory passageway built around the sanctum sanctorum (garbhagriha) for ritual circumambulation?",
+  "qHi": "भारतीय वास्तुकला के संदर्भ में, अनुष्ठानिक परिक्रमा के लिए गर्भगृह के चारों ओर निर्मित प्रदक्षिणा पथ को क्या कहा जाता है?",
+  "optsEn": [
+   "Mandapa",
+   "Amalaka",
+   "Pradakshina patha",
+   "Vimana"
+  ],
+  "optsHi": [
+   "मंडप",
+   "आमलक",
+   "प्रदक्षिणा पथ",
+   "विमान"
+  ],
+  "correct": 2,
+  "explainEn": "Pradakshina patha is the circumambulatory path around the sanctum sanctorum in Hindu temple architecture.",
+  "sourceHint": "NCERT Fine Arts Class 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-06T06:51:22Z"
  }
 ]
