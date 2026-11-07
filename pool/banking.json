@@ -35642,5 +35642,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-07T06:02:00Z"
+ },
+ {
+  "id": "q_8b3ab8226e50a8a1",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which institution acts as the lender of last resort for commercial banks in India?",
+  "qHi": "भारत में वाणिज्यिक बैंकों के लिए अंतिम ऋणदाता के रूप में कौन सी संस्था कार्य करती है?",
+  "optsEn": [
+   "State Bank of India",
+   "Reserve Bank of India",
+   "Ministry of Finance",
+   "SIDBI"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "भारतीय रिजर्व बैंक",
+   "वित्त मंत्रालय",
+   "सिडबी"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India (RBI) acts as the lender of last resort to commercial banks during financial emergencies.",
+  "sourceHint": "RBI publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T13:03:48Z"
+ },
+ {
+  "id": "q_80ff537d39d6edce",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a specialized bank focused on agricultural and rural development in India?",
+  "qHi": "निम्नलिखित में से कौन सा बैंक भारत में कृषि और ग्रामीण विकास पर केंद्रित एक विशिष्ट बैंक है?",
+  "optsEn": [
+   "EXIM Bank",
+   "NABARD",
+   "SIDBI",
+   "NHB"
+  ],
+  "optsHi": [
+   "एजिम बैंक",
+   "नाबार्ड",
+   "सिडबी",
+   "एनएचबी"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) is the apex development bank focusing on agriculture and rural sectors.",
+  "sourceHint": "NABARD official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T13:03:48Z"
+ },
+ {
+  "id": "q_ddb78560d3fa4089",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of banking, what is the full form of 'NEFT'?",
+  "qHi": "बैंकिंग के संदर्भ में, 'NEFT' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "Net Equity and Fund Transfer",
+   "National Economic Financial Transaction",
+   "New Electronic Foreign Transfer"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "नेट इक्विटी एंड फंड ट्रांसफर",
+   "नेशनल इकोनॉमिक फाइनेंशियल ट्रांजैक्शन",
+   "न्यू इलेक्ट्रॉनिक फॉरेन ट्रांसफर"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, an online system for transferring funds from one bank account to another.",
+  "sourceHint": "RBI Payment Systems",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T13:06:16Z"
+ },
+ {
+  "id": "q_7b7d166bf5069a2a",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is considered the apex institution for agricultural credit in India?",
+  "qHi": "निम्नलिखित में से किसे भारत में कृषि ऋण के लिए शीर्ष संस्था माना जाता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "State Bank of India",
+   "National Bank for Agriculture and Rural Development",
+   "Ministry of Agriculture and Farmers Welfare"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय स्टेट बैंक",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक",
+   "कृषि और किसान कल्याण मंत्रालय"
+  ],
+  "correct": 2,
+  "explainEn": "NABARD is established as an apex development bank in India, having jurisdiction over agricultural credit and rural development.",
+  "sourceHint": "NABARD Act 1981",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T13:06:16Z"
+ },
+ {
+  "id": "q_73b046c255dfb433",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does 'CASA' ratio represent for a commercial bank?",
+  "qHi": "एक वाणिज्यिक बैंक के लिए 'CASA' अनुपात क्या दर्शाता है?",
+  "optsEn": [
+   "Current Account and Savings Account deposit proportion of total deposits",
+   "Credit and Savings Allocation ratio",
+   "Capital Adequacy and Statutory Asset ratio",
+   "Central Assets and Statutory Advances ratio"
+  ],
+  "optsHi": [
+   "कुल जमा राशि में चालू खाता और बचत खाता जमा का अनुपात",
+   "क्रेडिट और बचत आवंटन अनुपात",
+   "पूंजी पर्याप्तता और वैधानिक संपत्ति अनुपात",
+   "केंद्रीय संपत्ति और वैधानिक अग्रिम अनुपात"
+  ],
+  "correct": 0,
+  "explainEn": "CASA ratio measures the proportion of a bank's total deposits that come from Current Accounts and Savings Accounts, which are low-cost funds.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T13:06:16Z"
+ },
+ {
+  "id": "q_385854c6286b5c75",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Basel III norms, what does 'Tier 1 Capital' primarily consist of?",
+  "qHi": "बेसल III मानदंडों के तहत, 'टियर 1 कैपिटल' में मुख्य रूप से क्या शामिल होता है?",
+  "optsEn": [
+   "Subordinated debt and undisclosed reserves",
+   "Equity capital and disclosed reserves",
+   "Short-term unsecured loans",
+   "General provisions for standard assets"
+  ],
+  "optsHi": [
+   "अधीनस्थ ऋण और गुप्त भंडार",
+   "इक्विटी पूंजी और प्रकट भंडार",
+   "अल्पकालिक असुरक्षित ऋण",
+   "मानक परिसंपत्तियों के लिए सामान्य प्रावधान"
+  ],
+  "correct": 1,
+  "explainEn": "Tier 1 capital is the core measure of a bank's financial strength from a regulator's point of view, consisting mainly of common equity and disclosed reserves.",
+  "sourceHint": "Basel Committee on Banking Supervision (BCBS)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T13:06:16Z"
+ },
+ {
+  "id": "q_d022c36c2f8059f0",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which financial instrument is used by the RBI to absorb liquidity from the banking system on an overnight basis?",
+  "qHi": "बैंकिंग प्रणाली से रातों-रात तरलता (liquidity) सोखने के लिए आरबीआई द्वारा किस वित्तीय साधन का उपयोग किया जाता है?",
+  "optsEn": [
+   "Marginal Standing Facility",
+   "Reverse Repo Rate",
+   "Bank Rate",
+   "Cash Reserve Ratio"
+  ],
+  "optsHi": [
+   "सीमांत स्थायी सुविधा",
+   "रिवर्स रेपो रेट",
+   "बैंक दर",
+   "नकद आरक्षित अनुपात"
+  ],
+  "correct": 1,
+  "explainEn": "Reverse repo rate is the rate at which the RBI borrows money from commercial banks, thereby absorbing liquidity from the system.",
+  "sourceHint": "RBI Monetary Policy Framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T13:06:16Z"
  }
 ]

@@ -28950,5 +28950,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-07T06:02:09Z"
+ },
+ {
+  "id": "q_fa1c7fa05f6b386d",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which directional point is at the very top of a standard map?",
+  "qHi": "मानक मानचित्र में सबसे ऊपर कौन सी दिशा होती है?",
+  "optsEn": [
+   "South",
+   "East",
+   "North",
+   "West"
+  ],
+  "optsHi": [
+   "दक्षिण",
+   "पूर्व",
+   "उत्तर",
+   "पश्चिम"
+  ],
+  "correct": 2,
+  "explainEn": "Maps are normally oriented with North pointing towards the top.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T13:03:56Z"
+ },
+ {
+  "id": "q_ac602598f49ce5e9",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of animal is a whale?",
+  "qHi": "व्हेل किस प्रकार का जानवर है?",
+  "optsEn": [
+   "Fish",
+   "Amphibian",
+   "Mammal",
+   "Reptile"
+  ],
+  "optsHi": [
+   "मछली",
+   "उभयचर",
+   "स्तनधारी",
+   "सरीसृप"
+  ],
+  "correct": 2,
+  "explainEn": "Whales are aquatic mammals that breathe air through lungs and give birth to live young ones.",
+  "sourceHint": "NCERT Class 5 Science curriculum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T13:06:27Z"
+ },
+ {
+  "id": "q_3b131d44d6f4097a",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian grain is commonly known as finger millet?",
+  "qHi": "किस पारंपरिक भारतीय अनाज को आमतौर पर रागी या फिंगर मिलिट के नाम से जाना जाता है?",
+  "optsEn": [
+   "Jowar",
+   "Bajra",
+   "Ragi",
+   "Maize"
+  ],
+  "optsHi": [
+   "ज्वार",
+   "बाजरा",
+   "रागी",
+   "मक्का"
+  ],
+  "correct": 2,
+  "explainEn": "Finger millet is widely known as ragi in India and is a nutritious cereal grain.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T13:06:27Z"
+ },
+ {
+  "id": "q_824f525335508fe0",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which instrument is commonly used to measure temperature?",
+  "qHi": "तापमान मापने के लिए आमतौर पर किस उपकरण का उपयोग किया जाता है?",
+  "optsEn": [
+   "Barometer",
+   "Thermometer",
+   "Anemometer",
+   "Rain gauge"
+  ],
+  "optsHi": [
+   "बैरोमीटर",
+   "थर्मामीटर",
+   "एनीमोमीटर",
+   "वर्षा मापी"
+  ],
+  "correct": 1,
+  "explainEn": "A thermometer is a device used for measuring temperature accurately.",
+  "sourceHint": "NCERT Science basics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T13:06:27Z"
  }
 ]

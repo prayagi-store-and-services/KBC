@@ -20718,5 +20718,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-07T05:59:52Z"
+ },
+ {
+  "id": "q_a5f2fb128bc78c7c",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The classical dance form Kathakali originated in which Indian state?",
+  "qHi": "शास्त्रीय नृत्य शैली कथकली की उत्पत्ति किस भारतीय राज्य में हुई थी?",
+  "optsEn": [
+   "Tamil Nadu",
+   "Kerala",
+   "Andhra Pradesh",
+   "Karnataka"
+  ],
+  "optsHi": [
+   "तमिलनाडु",
+   "केरल",
+   "आंध्र प्रदेश",
+   "कर्नाटक"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a traditional classical dance-drama form that originated in the southwestern state of Kerala.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T13:06:21Z"
+ },
+ {
+  "id": "q_b245903dc20afa0d",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following elements is the primary component of natural gas?",
+  "qHi": "निम्नलिखित में से कौन सा तत्व प्राकृतिक गैस का प्राथमिक घटक है?",
+  "optsEn": [
+   "Propane",
+   "Butane",
+   "Methane",
+   "Ethane"
+  ],
+  "optsHi": [
+   "प्रोपेन",
+   "ब्यूटेन",
+   "मीथेन",
+   "एथेन"
+  ],
+  "correct": 2,
+  "explainEn": "Natural gas is a naturally occurring hydrocarbon gas mixture consisting primarily of methane.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T13:06:21Z"
+ },
+ {
+  "id": "q_3bd33c75e23fe63f",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The Ajanta Caves, known for their rock-cut Buddhist monuments, are located in which state?",
+  "qHi": "रॉक-कट बौद्ध स्मारकों के लिए प्रसिद्ध अजंता की गुफाएं किस राज्य में स्थित हैं?",
+  "optsEn": [
+   "Madhya Pradesh",
+   "Maharashtra",
+   "Bihar",
+   "Karnataka"
+  ],
+  "optsHi": [
+   "मध्य प्रदेश",
+   "महाराष्ट्र",
+   "बिहार",
+   "कर्नाटक"
+  ],
+  "correct": 1,
+  "explainEn": "The Ajanta Caves are approximately 30 rock-cut Buddhist cave monuments dating from the 2nd century BCE to about 480 CE in Aurangabad district of Maharashtra.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T13:06:21Z"
  }
 ]

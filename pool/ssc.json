@@ -20382,5 +20382,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-07T06:01:29Z"
+ },
+ {
+  "id": "q_6616a76fe9bd727e",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the standard unit of measuring force in the International System of Units (SI)?",
+  "qHi": "अंतर्राष्ट्रीय इकाई प्रणाली (SI) में बल मापने की मानक इकाई क्या है?",
+  "optsEn": [
+   "Joule",
+   "Watt",
+   "Newton",
+   "Pascal"
+  ],
+  "optsHi": [
+   "जूल",
+   "वाट",
+   "न्यूटन",
+   "पास्कल"
+  ],
+  "correct": 2,
+  "explainEn": "The SI unit of force is the Newton, named after Sir Isaac Newton.",
+  "sourceHint": "NCERT Class 9 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T13:03:40Z"
+ },
+ {
+  "id": "q_49e07c93df4ae73e",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which article of the Indian Constitution provides the procedure for its amendment?",
+  "qHi": "भारतीय संविधान का कौन सा अनुच्छेद इसके संशोधन की प्रक्रिया प्रदान کرتا है?",
+  "optsEn": [
+   "Article 356",
+   "Article 368",
+   "Article 370",
+   "Article 352"
+  ],
+  "optsHi": [
+   "अनुच्छेद 356",
+   "अनुच्छेद 368",
+   "अनुच्छेद 370",
+   "अनुच्छेद 352"
+  ],
+  "correct": 1,
+  "explainEn": "Article 368 in Part XX of the Constitution deals with the powers of Parliament to amend the Constitution and its procedure.",
+  "sourceHint": "Indian Constitution - Part XX",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T13:06:10Z"
+ },
+ {
+  "id": "q_d9785ea42470b2d9",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which gas is primarily responsible for global warming?",
+  "qHi": "ग्लोबल वार्मिंग के लिए मुख्य रूप से कौन सी गैस जिम्मेदार है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Carbon dioxide is the primary greenhouse gas contributing significantly to global warming and climate change.",
+  "sourceHint": "NCERT Environment",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T13:06:10Z"
+ },
+ {
+  "id": "q_c1a26e5fe030ae12",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which year was the battle of Buxar fought, firmly establishing the British East India Company's political control over Bengal?",
+  "qHi": "बक्सर का युद्ध किस वर्ष लड़ा गया था, जिसने बंगाल पर ब्रिटिश ईस्ट इंडिया कंपनी के राजनीतिक नियंत्रण को दृढ़ता से स्थापित किया?",
+  "optsEn": [
+   "1757",
+   "1761",
+   "1764",
+   "1803"
+  ],
+  "optsHi": [
+   "1757",
+   "1761",
+   "1764",
+   "1803"
+  ],
+  "correct": 2,
+  "explainEn": "The Battle of Buxar was fought on October 22, 1764, between the forces of the British led by Hector Munro and the combined army of Mir Kasim, Shuja-ud-Daula, and Shah Alam II.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T13:07:35Z"
+ },
+ {
+  "id": "q_31a4d22ad222b2b6",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which among the following soil types covers the largest area in India?",
+  "qHi": "निम्नलिखित में से कौन सा मिट्टी का प्रकार भारत में सबसे बड़े क्षेत्र को कवर करता है?",
+  "optsEn": [
+   "Laterite soil",
+   "Red soil",
+   "Black soil",
+   "Alluvial soil"
+  ],
+  "optsHi": [
+   "लैटेराइट मिट्टी",
+   "लाल मिट्टी",
+   "काली मिट्टी",
+   "जलोढ़ मिट्टी"
+  ],
+  "correct": 3,
+  "explainEn": "Alluvial soil is the most widespread soil in India, covering about 43 percent of the country's total land area, mainly deposited by river systems.",
+  "sourceHint": "NCERT Class 10 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T13:07:35Z"
+ },
+ {
+  "id": "q_676146d1ad4d8b70",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which schedule of the Indian Constitution contains provisions regarding the disqualification of members on the grounds of defection?",
+  "qHi": "भारतीय संविधान की किस अनुसूची में दल-बदल के आधार पर सदस्यों की अयोग्यता से संबंधित प्रावधान हैं?",
+  "optsEn": [
+   "Seventh Schedule",
+   "Eighth Schedule",
+   "Ninth Schedule",
+   "Tenth Schedule"
+  ],
+  "optsHi": [
+   "सातवीं अनुसूची",
+   "आठवीं अनुसूची",
+   "नौवीं अनुसूची",
+   "दसवीं अनुसूची"
+  ],
+  "correct": 3,
+  "explainEn": "The Tenth Schedule, added by the 52nd Constitutional Amendment Act of 1985, contains the anti-defection law provisions.",
+  "sourceHint": "Indian Polity by M. Laxmikanth",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T13:07:35Z"
  }
 ]

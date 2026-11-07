@@ -24190,5 +24190,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-07T06:02:15Z"
+ },
+ {
+  "id": "q_e5ef77f5e8372f38",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which fundamental right guarantees the protection of life and personal liberty in India?",
+  "qHi": "भारत में कौन सा मौलिक अधिकार जीवन और व्यक्तिगत स्वतंत्रता की सुरक्षा की गारंटी देता है?",
+  "optsEn": [
+   "Right to Equality",
+   "Right to Freedom",
+   "Right against Exploitation",
+   "Right to Constitutional Remedies"
+  ],
+  "optsHi": [
+   "समानता का अधिकार",
+   "स्वतंत्रता का अधिकार",
+   "शोषण के खिलाफ अधिकार",
+   "संवैधानिक उपचार का अधिकार"
+  ],
+  "correct": 1,
+  "explainEn": "Article 21 under the Right to Freedom guarantees protection of life and personal liberty.",
+  "sourceHint": "NCERT Class 8 Civics Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T13:04:23Z"
+ },
+ {
+  "id": "q_85264bf569f52fd1",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of forest remains green throughout the year because the trees do not shed all their leaves at the same time?",
+  "qHi": "किस प्रकार के वन वर्ष भर हरे-भरे रहते हैं क्योंकि यहाँ के पेड़ अपनी सारी पत्तियाँ एक साथ नहीं गिराते हैं?",
+  "optsEn": [
+   "Tropical deciduous forests",
+   "Tropical evergreen forests",
+   "Thorny bushes",
+   "Tundra vegetation"
+  ],
+  "optsHi": [
+   "उष्णकटिबंधीय पर्णपाती वन",
+   "उष्णकटिबंधीय सदाबहार वन",
+   "कंटीली झाड़ियाँ",
+   "टुंड्रा वनस्पति"
+  ],
+  "correct": 1,
+  "explainEn": "Tropical evergreen forests do not shed their leaves simultaneously in any particular season, thus remaining green year-round.",
+  "sourceHint": "NCERT Class 8 Geography Chapter - Natural Vegetation and Wildlife",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T13:06:41Z"
+ },
+ {
+  "id": "q_880be62ac116dfe6",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the term used for the process by which green plants make their own food using sunlight, water, and carbon dioxide?",
+  "qHi": "उस प्रक्रिया को क्या कहते हैं जिसके द्वारा हरे पौधे सूर्य के प्रकाश, जल और कार्बन डाइऑक्साइड का उपयोग करके अपना भोजन बनाते हैं?",
+  "optsEn": [
+   "Transpiration",
+   "Respiration",
+   "Photosynthesis",
+   "Fermentation"
+  ],
+  "optsHi": [
+   "वाष्पोत्सर्जन",
+   "श्वसन",
+   "प्रकाश संश्लेषण",
+   "किण्वन"
+  ],
+  "correct": 2,
+  "explainEn": "Photosynthesis is the biochemical process by which plants convert light energy into chemical energy.",
+  "sourceHint": "NCERT Class 8 Science Chapter - Crop Production and Management",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T13:06:41Z"
+ },
+ {
+  "id": "q_bc3cc529e214e808",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organelle inside a plant cell contains chlorophyll and is responsible for carrying out photosynthesis?",
+  "qHi": "पादप कोशिका के किस अंगक में क्लोरोफिल होता है और जो प्रकाश संश्लेषण के लिए उत्तरदायी है?",
+  "optsEn": [
+   "Mitochondria",
+   "Chloroplast",
+   "Ribosome",
+   "Nucleus"
+  ],
+  "optsHi": [
+   "माइटोकॉन्ड्रिया",
+   "हरित लवक",
+   "राइबोसोम",
+   "केंद्रक"
+  ],
+  "correct": 1,
+  "explainEn": "Chloroplasts are plant cell organelles that contain chlorophyll and capture light energy for photosynthesis.",
+  "sourceHint": "NCERT Class 8 Science Chapter - Cell Structure and Functions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T13:06:41Z"
+ },
+ {
+  "id": "q_5698754d76f2d6d3",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "According to the Constitution of India, the judiciary is kept separate from the executive branch. What is this principle known as?",
+  "qHi": "भारत के संविधान के अनुसार, न्यायपालिका को कार्यपालिका से अलग रखा गया है। इस सिद्धांत को क्या कहा जाता है?",
+  "optsEn": [
+   "Separation of powers",
+   "Universal adult suffrage",
+   "Centralisation",
+   "Bicameralism"
+  ],
+  "optsHi": [
+   "शक्तियों का पृथक्करण",
+   "सार्वभौमिक वयस्क मताधिकार",
+   "केन्द्रीकरण",
+   "द्विसदनीयता"
+  ],
+  "correct": 0,
+  "explainEn": "Separation of powers ensures that the legislature, executive, and judiciary function independently without interference from one another.",
+  "sourceHint": "NCERT Class 8 Civics Chapter - Understanding Our Criminal Justice System / Judiciary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T13:06:41Z"
+ },
+ {
+  "id": "q_44092ae4264bef23",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following describes the absolute pressure exerted by the weight of air on the Earth's surface?",
+  "qHi": "निम्नलिखित में से कौन पृथ्वी की सतह पर हवा के वजन द्वारा लगाए जाने वाले दबाव का वर्णन करता है?",
+  "optsEn": [
+   "Water pressure",
+   "Atmospheric pressure",
+   "Magnetic pressure",
+   "Gravitational pull"
+  ],
+  "optsHi": [
+   "जल दाब",
+   "वायुमंडलीय दबाव",
+   "चुंबकीय दबाव",
+   "गुरुत्वाकर्षण खिंचाव"
+  ],
+  "correct": 1,
+  "explainEn": "Atmospheric pressure is defined as the force per unit area exerted against a surface by the weight of the air above that surface.",
+  "sourceHint": "NCERT Class 8 Geography Chapter - Air",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T13:06:41Z"
  }
 ]
