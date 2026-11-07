@@ -33262,5 +33262,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-06T19:27:10Z"
+ },
+ {
+  "id": "q_4e36b86635742220",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which planet in our solar system has the maximum number of natural satellites (moons) as confirmed by recent astronomical discoveries?",
+  "qHi": "हाल की खगोलीय खोजों के अनुसार हमारे सौर मंडल के किस ग्रह के पास प्राकृतिक उपग्रहों (चंद्रमाओं) की संख्या सबसे अधिक है?",
+  "optsEn": [
+   "Jupiter",
+   "Saturn",
+   "Uranus",
+   "Neptune"
+  ],
+  "optsHi": [
+   "बृहस्पति",
+   "शनि",
+   "यूरेनस",
+   "नेपच्यून"
+  ],
+  "correct": 1,
+  "explainEn": "Saturn has the highest confirmed number of natural satellites in the solar system, surpassing Jupiter.",
+  "sourceHint": "NCERT Class 6 Geography / NASA Planetary Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T05:59:40Z"
+ },
+ {
+  "id": "q_72d87f4b10066c77",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following archaeological sites is famous for its dockyard, indicating maritime trade during the Indus Valley Civilization?",
+  "qHi": "सिंधु घाटी सभ्यता के दौरान समुद्री व्यापार को दर्शाने वाला गोदीवाड़ा (डॉकयार्ड) निम्नलिखित में से किस पुरातात्विक स्थल पर पाया गया है?",
+  "optsEn": [
+   "Harappa",
+   "Mohenjo-daro",
+   "Lothal",
+   "Kalibangan"
+  ],
+  "optsHi": [
+   "हड़प्पा",
+   "मोहनजोदड़ो",
+   "लोथल",
+   "कालीबंगा"
+  ],
+  "correct": 2,
+  "explainEn": "Lothal, situated in Gujarat, features a massive tidal dockyard which suggests it was a major trading port during the Indus Valley Civilization.",
+  "sourceHint": "NCERT Class 12 History (Themes in Indian History Part I)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T05:59:40Z"
+ },
+ {
+  "id": "q_565d5f9e702fea2b",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In the Indian Parliament, a 'Joint Sitting' of both Houses is summoned by whom?",
+  "qHi": "भारतीय संसद में दोनों सदनों की 'संयुक्त बैठक' किसके द्वारा आहूत की जाती है?",
+  "optsEn": [
+   "Prime Minister",
+   "Speaker of Lok Sabha",
+   "President of India",
+   "Chairman of Rajya Sabha"
+  ],
+  "optsHi": [
+   "प्रधान मंत्री",
+   "लोकसभा अध्यक्ष",
+   "भारत के राष्ट्रपति",
+   "राज्यसभा के सभापति"
+  ],
+  "correct": 2,
+  "explainEn": "Under Article 108 of the Constitution, the President of India summons both Houses to a joint sitting for the purpose of deliberating and voting on a bill.",
+  "sourceHint": "Indian Polity by M. Laxmikanth / Constitution Article 108",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T05:59:40Z"
+ },
+ {
+  "id": "q_81e23f45cb89f386",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following vitamins is water-soluble and must be regularly supplied through diet?",
+  "qHi": "निम्नलिखित में से कौन सा विटामिन पानी में घुलनशील है और आहार के माध्यम से नियमित रूप से लिया जाना चाहिए?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin C",
+   "Vitamin D",
+   "Vitamin K"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन सी",
+   "विटामिन डी",
+   "विटामिन के"
+  ],
+  "correct": 1,
+  "explainEn": "Vitamin C and the B-complex vitamins are water-soluble, meaning the body does not store them and they must be replenished daily.",
+  "sourceHint": "NCERT Class 6 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T05:59:40Z"
+ },
+ {
+  "id": "q_e3639f989e0a1c86",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The Panchayati Raj System in India was formally introduced for the first time in 1959 in which of the following states?",
+  "qHi": "भारत में पंचायती राज व्यवस्था औपचारिक रूप से पहली बार 1959 में निम्नलिखित में से किस राज्य में शुरू की गई थी?",
+  "optsEn": [
+   "Andhra Pradesh",
+   "Rajasthan",
+   "Gujarat",
+   "Uttar Pradesh"
+  ],
+  "optsHi": [
+   "आंध्र प्रदेश",
+   "राजस्थान",
+   "गुजरात",
+   "उत्तर प्रदेश"
+  ],
+  "correct": 1,
+  "explainEn": "The Panchayati Raj system was first inaugurated by the Prime Minister on October 2, 1959, in the Nagaur district of Rajasthan.",
+  "sourceHint": "NCERT Class 11 Indian Constitution at Work",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T06:01:21Z"
+ },
+ {
+  "id": "q_9f00e91a4dea3a01",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of Indian monetary policy, the term 'repo rate' refers to the rate at which which of the following happens?",
+  "qHi": "भारतीय मौद्रिक नीति के संदर्भ में, 'रेपो रेट' शब्द उस दर को संदर्भित करता है जिस पर निम्नलिखित में से क्या होता है?",
+  "optsEn": [
+   "RBI lends short-term funds to commercial banks",
+   "Commercial banks lend long-term funds to RBI",
+   "RBI borrows funds from foreign central banks",
+   "Commercial banks lend money to the general public"
+  ],
+  "optsHi": [
+   "आरबीआई वाणिज्यिक बैंकों को अल्पकालिक ऋण देता है",
+   "वाणिज्यिक बैंक आरबीआई को दीर्घकालिक ऋण देते हैं",
+   "आरबीआई विदेशी केंद्रीय बैंकों से धन उधार लेता है",
+   "वाणिज्यिक बैंक आम जनता को पैसा उधार देते हैं"
+  ],
+  "correct": 0,
+  "explainEn": "Repo rate is the rate at which the central bank of a country (RBI) lends money to commercial banks in the event of any shortfall of funds.",
+  "sourceHint": "NCERT Class 12 Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T06:01:21Z"
+ },
+ {
+  "id": "q_458b14ebc091ba4c",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following biosphere reserves was the first to be established in India by UNESCO under the Man and the Biosphere program?",
+  "qHi": "निम्नलिखित में से कौन सा बायोस्फीयर रिजर्व यूनेस्को के मैन एंड द बायोस्फीयर कार्यक्रम के तहत भारत में स्थापित होने वाला पहला बायोस्फीयर रिजर्व था?",
+  "optsEn": [
+   "Sundarbans Biosphere Reserve",
+   "Nanda Devi Biosphere Reserve",
+   "Nilgiri Biosphere Reserve",
+   "Gulf of Mannar Biosphere Reserve"
+  ],
+  "optsHi": [
+   "सुंदरबन बायोस्फीयर रिजर्व",
+   "नंदा देवी बायोस्फीयर रिजर्व",
+   "नीलगिरी बायोस्फीयर रिजर्व",
+   "मन्नार की खाड़ी बायोस्फीयर रिजर्व"
+  ],
+  "correct": 2,
+  "explainEn": "Nilgiri Biosphere Reserve was the first biosphere reserve in India, established in 1986, and was also the first to be included in the UNESCO World Network of Biosphere Reserves.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T06:01:21Z"
+ },
+ {
+  "id": "q_9446f506d720b815",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The term 'Operation Flood', often seen in news related to economic development, is associated with which sector?",
+  "qHi": "आर्थिक विकास से संबंधित समाचारों में अक्सर देखा जाने वाला शब्द 'ऑपरेशन फ्लड' किस क्षेत्र से जुड़ा है?",
+  "optsEn": [
+   "Milk and dairy production",
+   "Flood control management",
+   "Marine fisheries enhancement",
+   "Groundwater recharge initiatives"
+  ],
+  "optsHi": [
+   "दूध और डेयरी उत्पादन",
+   "बाढ़ नियंत्रण प्रबंधन",
+   "समुद्री मत्स्य पालन संवर्धन",
+   "भूजल पुनर्भरण पहल"
+  ],
+  "correct": 0,
+  "explainEn": "Operation Flood, launched in 1970, was a dairy development program by the National Dairy Development Board (NDDB) that made India the largest producer of milk and milk products.",
+  "sourceHint": "NCERT Class 12 Indian Economic Development",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T06:01:21Z"
+ },
+ {
+  "id": "q_10a87fb492aa531c",
+  "group": "upsc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The Directive Principles of State Policy (DPSP) enshrined in Part IV of the Indian Constitution were borrowed from the constitution of which country?",
+  "qHi": "भारतीय संविधान के भाग IV में निहित राज्य के नीति निर्देशक तत्व (DPSP) किस देश के संविधान से लिए गए थे?",
+  "optsEn": [
+   "Ireland",
+   "Australia",
+   "Canada",
+   "Weimar Republic of Germany"
+  ],
+  "optsHi": [
+   "आयरलैंड",
+   "ऑस्ट्रेलिया",
+   "कनाडा",
+   "जर्मनी का वीमर गणराज्य"
+  ],
+  "correct": 0,
+  "explainEn": "The Directive Principles of State Policy in the Indian Constitution were borrowed from Ireland, which had copied it from the Spanish Constitution.",
+  "sourceHint": "Indian Polity by M. Laxmikanth, Chapter on Making of the Constitution",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T06:01:21Z"
  }
 ]

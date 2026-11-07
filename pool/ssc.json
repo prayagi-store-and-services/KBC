@@ -20270,5 +20270,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-06T19:27:16Z"
+ },
+ {
+  "id": "q_0b3295f2a467494d",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which Mughal emperor shifted the Mughal capital from Agra to Delhi by founding Shahjahanabad?",
+  "qHi": "किस मुगल सम्राट ने शाहजहानाबाद की स्थापना करके मुगल राजधानी को आगरा से दिल्ली स्थानांतरित किया था?",
+  "optsEn": [
+   "Akbar",
+   "Jahangir",
+   "Shah Jahan",
+   "Aurangzeb"
+  ],
+  "optsHi": [
+   "अकबर",
+   "जहाँगीर",
+   "शाहजहाँ",
+   "औरंगजेब"
+  ],
+  "correct": 2,
+  "explainEn": "Shah Jahan shifted his capital from Agra to Delhi in 1648 by building the walled city of Shahjahanabad.",
+  "sourceHint": "NCERT Class 7 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T05:59:44Z"
+ },
+ {
+  "id": "q_32c2967510da7523",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary chemical compound found in limestone?",
+  "qHi": "चूना पत्थर (लाइमस्टोन) में पाया जाने वाला प्रमुख रासायनिक यौगिक कौन सा है?",
+  "optsEn": [
+   "Calcium sulfate",
+   "Calcium carbonate",
+   "Magnesium oxide",
+   "Sodium chloride"
+  ],
+  "optsHi": [
+   "कैल्शियम सल्फेट",
+   "कैल्शियम कार्बोनेट",
+   "मैग्नीशियम ऑक्साइड",
+   "सोडियम क्लोराइड"
+  ],
+  "correct": 1,
+  "explainEn": "Limestone is a sedimentary rock composed largely of the minerals calcite and aragonite, which are different crystal forms of calcium carbonate (CaCO3).",
+  "sourceHint": "NCERT Class 10 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T06:01:29Z"
+ },
+ {
+  "id": "q_bcb616f0289f2eb1",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The headquarters of the International Court of Justice (ICJ) is located in which city?",
+  "qHi": "अंतर्राष्ट्रीय न्यायालय (ICJ) का मुख्यालय किस शहर में स्थित है?",
+  "optsEn": [
+   "Geneva",
+   "New York",
+   "The Hague",
+   "Vienna"
+  ],
+  "optsHi": [
+   "जिनेवा",
+   "न्यूयार्क",
+   "हेग",
+   "विएना"
+  ],
+  "correct": 2,
+  "explainEn": "The International Court of Justice, the principal judicial organ of the United Nations, is located at the Peace Palace in The Hague, Netherlands.",
+  "sourceHint": "United Nations Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T06:01:29Z"
+ },
+ {
+  "id": "q_2b8ce4c6536cef55",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin helps in the clotting of human blood?",
+  "qHi": "कौन सा विटामिन मानव रक्त के थक्के जमने में मदद करता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B12",
+   "Vitamin C",
+   "Vitamin K"
+  ],
+  "optsHi": [
+   "विटामिन A",
+   "विटामिन B12",
+   "विटामिन C",
+   "विटामिन K"
+  ],
+  "correct": 3,
+  "explainEn": "Vitamin K is a group of structurally similar, fat-soluble vitamins that the human body needs for posttranslational modification of proteins required for blood coagulation.",
+  "sourceHint": "NCERT Class 11 Biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T06:01:29Z"
  }
 ]

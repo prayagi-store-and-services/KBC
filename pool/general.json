@@ -20690,5 +20690,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-06T19:27:28Z"
+ },
+ {
+  "id": "q_9abc24ed304bdeea",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the famous national anthem of India, 'Jana Gana Mana'?",
+  "qHi": "भारत का प्रसिद्ध राष्ट्रगान 'जन गण मन' किसने लिखा था?",
+  "optsEn": [
+   "Bankim Chandra Chattopadhyay",
+   "Rabindranath Tagore",
+   "Mahatma Gandhi",
+   "Subhash Chandra Bose"
+  ],
+  "optsHi": [
+   "बंकिम चंद्र चट्टोपाध्याय",
+   "रविंद्रनाथ टैगोर",
+   "महात्मा गांधी",
+   "सुभाष चंद्र बोस"
+  ],
+  "correct": 1,
+  "explainEn": "Rabindranath Tagore originally composed the song in Bengali, which was later adopted as India's national anthem.",
+  "sourceHint": "Constitution of India Constituent Assembly Debates",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T05:59:52Z"
  }
 ]

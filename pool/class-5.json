@@ -28614,5 +28614,341 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-06T19:27:32Z"
+ },
+ {
+  "id": "q_dd9890f3938ce1a7",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas do plants take in from the atmosphere to perform photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण करने के लिए पौधे वायुमंडल से कौन सी गैस लेते हैं?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Helium"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हीलिम"
+  ],
+  "correct": 1,
+  "explainEn": "Plants absorb carbon dioxide from the air to make their food during photosynthesis.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T05:59:25Z"
+ },
+ {
+  "id": "q_43fb0556e6ce41df",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the national heritage animal of India?",
+  "qHi": "भारत का राष्ट्रीय विरासत पशु कौन सा है?",
+  "optsEn": [
+   "Tiger",
+   "Elephant",
+   "Lion",
+   "Horse"
+  ],
+  "optsHi": [
+   "बाघ",
+   "हाथी",
+   "शेर",
+   "घोड़ा"
+  ],
+  "correct": 1,
+  "explainEn": "The Indian elephant was declared the National Heritage Animal of India in 2010.",
+  "sourceHint": "Ministry of Environment and Forests, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T05:59:25Z"
+ },
+ {
+  "id": "q_5852fb1ebc1c748d",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "How many states are there in India as per official political divisions?",
+  "qHi": "आधिकारिक राजनीतिक विभाजनों के अनुसार भारत में कितने राज्य हैं?",
+  "optsEn": [
+   "27",
+   "28",
+   "29",
+   "30"
+  ],
+  "optsHi": [
+   "27",
+   "28",
+   "29",
+   "30"
+  ],
+  "correct": 1,
+  "explainEn": "India is a union of states and union territories, comprising 28 states.",
+  "sourceHint": "Ministry of Home Affairs, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T05:59:25Z"
+ },
+ {
+  "id": "q_467f6d52d237239f",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the name of the imaginary line that divides the Earth into the Northern Hemisphere and the Southern Hemisphere?",
+  "qHi": "उस काल्पनिक रेखा का नाम क्या है जो पृथ्वी को उत्तरी गोलार्ध और दक्षिणी गोलार्ध में विभाजित करती है?",
+  "optsEn": [
+   "Equator",
+   "Prime Meridian",
+   "Tropic of Cancer",
+   "Arctic Circle"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा (विषुवत वृत्त)",
+   "प्रधान मध्याह्न रेखा",
+   "कर्क रेखा",
+   "आर्कटिक वृत्त"
+  ],
+  "correct": 0,
+  "explainEn": "The Equator is the 0-degree latitude line that divides the globe into northern and southern halves.",
+  "sourceHint": "NCERT Class 5 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T05:59:56Z"
+ },
+ {
+  "id": "q_ba6189ab02e23424",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin is commonly known to be obtained naturally from sunlight exposure on the skin?",
+  "qHi": "त्वचा पर धूप पड़ने से स्वाभाविक रूप से प्राप्त होने वाला विटामिन कौन सा माना जाता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "The human body produces Vitamin D when the skin is exposed to sunlight.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T05:59:56Z"
+ },
+ {
+  "id": "q_5b436a90989ef160",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which historical monument in Agra was built by Emperor Shah Jahan in memory of his wife Mumtaz Mahal?",
+  "qHi": "आगरा में स्थित किस ऐतिहासिक स्मारक का निर्माण सम्राट शाहजहाँ ने अपनी पत्नी मुमताज महल की याद में करवाया था?",
+  "optsEn": [
+   "Red Fort",
+   "Taj Mahal",
+   "Qutb Minar",
+   "Humayun Tomb"
+  ],
+  "optsHi": [
+   "लाल किला",
+   "ताजमहल",
+   "कुतुब मीनार",
+   "हुमायूं का मकबरा"
+  ],
+  "correct": 1,
+  "explainEn": "The Taj Mahal in Agra is a famous white marble mausoleum built by Shah Jahan.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T05:59:56Z"
+ },
+ {
+  "id": "q_38448bca455a2707",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of food preservation, what does drying grains in the sun help to remove?",
+  "qHi": "खाद्य संरक्षण के संदर्भ में, धूप में अनाज सुखाने से क्या हटाने में मदद मिलती है?",
+  "optsEn": [
+   "Moisture",
+   "Minerals",
+   "Proteins",
+   "Vitamins"
+  ],
+  "optsHi": [
+   "नमी",
+   "खनिज",
+   "प्रोटीन",
+   "विटामिन"
+  ],
+  "correct": 0,
+  "explainEn": "Removing moisture through drying prevents insects, fungi, and bacteria from spoiling stored food grains.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T05:59:56Z"
+ },
+ {
+  "id": "q_a0a01906c88d003c",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which physical process causes wet clothes to dry when they are hung out in the sun?",
+  "qHi": "धूप में लटकाए जाने पर गीले कपड़ों के सूखने का कारण कौन सी भौतिक प्रक्रिया है?",
+  "optsEn": [
+   "Condensation",
+   "Evaporation",
+   "Sublimation",
+   "Precipitation"
+  ],
+  "optsHi": [
+   "संघनन",
+   "वाष्पीकरण",
+   "ऊर्ध्वपातन",
+   "वर्षा"
+  ],
+  "correct": 1,
+  "explainEn": "Evaporation is the process where liquid water turns into water vapor due to heat from the sun.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T06:02:09Z"
+ },
+ {
+  "id": "q_7a4a24076380f07e",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which vitamin is primarily synthesized in human skin when it is exposed to ultraviolet sunlight?",
+  "qHi": "मानव त्वचा में पराबैंगनी धूप के संपर्क में आने पर मुख्य रूप से कौन सा विटामिन बनता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Vitamin D is produced in the skin upon exposure to sunlight, specifically ultraviolet B rays.",
+  "sourceHint": "NCERT Class 6 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T06:02:09Z"
+ },
+ {
+  "id": "q_55f1f5255257135c",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which historical monument in India was built by Emperor Shah Jahan as a mausoleum for his wife Mumtaz Mahal?",
+  "qHi": "भारत में किस ऐतिहासिक स्मारक का निर्माण सम्राट शाहजहाँ ने अपनी पत्नी मुमताज महल के मकबरे के रूप में करवाया था?",
+  "optsEn": [
+   "Qutub Minar",
+   "Taj Mahal",
+   "Red Fort",
+   "Humaun's Tomb"
+  ],
+  "optsHi": [
+   "कुतुब मीनार",
+   "ताजमहल",
+   "लाल किला",
+   "हुमायूं का मकबरा"
+  ],
+  "correct": 1,
+  "explainEn": "The Taj Mahal in Agra was commissioned by Shah Jahan in 1631 to house the tomb of his favorite wife.",
+  "sourceHint": "NCERT Class 7 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T06:02:09Z"
+ },
+ {
+  "id": "q_0e64bdc8b93e690d",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian classical dance form originates from the state of Kerala and is known for elaborate face makeup and colorful costumes?",
+  "qHi": "भारत की कौन सी शास्त्रीय नृत्य शैली केरल राज्य से उत्पन्न हुई है और विस्तृत चेहरे के मेकअप और रंगीन वेशभूषा के लिए जानी जाती है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Kuchipudi",
+   "Manipuri"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "कुचिपुड़ी",
+   "मणिपुरी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a major form of classical Indian dance originating from Kerala, famous for its vibrant storytelling and makeup.",
+  "sourceHint": "NCERT Class 6 Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T06:02:09Z"
+ },
+ {
+  "id": "q_76d553b1e1886575",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of simple machine is an axe blade, which uses an inclined plane moving against an object to cut or split it?",
+  "qHi": "कुल्हाड़ी का ब्लेड किस प्रकार की सरल मशीन है, जो किसी वस्तु को काटने या विभाजित करने के लिए उसके खिलाफ चलने वाले झुके हुए तल का उपयोग करती है?",
+  "optsEn": [
+   "Lever",
+   "Pulley",
+   "Wedge",
+   "Wheel and axle"
+  ],
+  "optsHi": [
+   "उत्पलावक",
+   "घिरनी",
+   "पच्चर",
+   "पहिया और धुरी"
+  ],
+  "correct": 2,
+  "explainEn": "A wedge is a simple machine consisting of two inclined planes placed back to back, used for splitting things like an axe.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T06:02:09Z"
  }
 ]

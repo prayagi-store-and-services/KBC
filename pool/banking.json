@@ -35446,5 +35446,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-06T19:27:23Z"
+ },
+ {
+  "id": "q_a089699e7e3fba5e",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following terms is used to describe a general and ongoing rise in the level of prices in an economy?",
+  "qHi": "निम्नलिखित में से किस शब्द का उपयोग अर्थव्यवस्था में कीमतों के स्तर में सामान्य और निरंतर वृद्धि को वर्णन करने के लिए किया जाता है?",
+  "optsEn": [
+   "Deflation",
+   "Inflation",
+   "Recession",
+   "Depreciation"
+  ],
+  "optsHi": [
+   "अपस्फीति",
+   "मुद्रास्फीति",
+   "मंदी",
+   "मूल्यह्रास"
+  ],
+  "correct": 1,
+  "explainEn": "Inflation refers to the general increase in prices and fall in the purchasing value of money over time.",
+  "sourceHint": "NCERT Economics textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T05:59:48Z"
+ },
+ {
+  "id": "q_bb5baa956bb8cc89",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the term 'Repo Rate' mean?",
+  "qHi": "शब्द 'रेपो रेट' का क्या अर्थ है?",
+  "optsEn": [
+   "Rate at which banks lend to the RBI",
+   "Rate at which the RBI lends short-term money to commercial banks",
+   "Rate of interest on savings bank accounts",
+   "Rate charged on corporate bonds"
+  ],
+  "optsHi": [
+   "वह दर जिस पर बैंक आरबीआई को ऋण देते हैं",
+   "वह दर जिस पर आरबीआई वाणिज्यिक बैंकों को अल्पकालिक ऋण देता है",
+   "बचत बैंक खातों पर ब्याज दर",
+   "कॉर्पोरेट बॉंड पर ली जाने वाली दर"
+  ],
+  "correct": 1,
+  "explainEn": "Repo rate is the rate at which the central bank of a country lends money to commercial banks in the event of any shortfall of funds.",
+  "sourceHint": "Reserve Bank of India Monetary Policy",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T05:59:48Z"
+ },
+ {
+  "id": "q_65ca6abf9e424ef5",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which institution issues currency notes in India?",
+  "qHi": "भारत में करेंसी नोट कौन सा संस्थान जारी करता है?",
+  "optsEn": [
+   "Ministry of Finance",
+   "State Bank of India",
+   "Reserve Bank of India",
+   "NITI Aayog"
+  ],
+  "optsHi": [
+   "वित्त मंत्रालय",
+   "भारतीय स्टेट बैंक",
+   "भारतीय रिजर्व बैंक",
+   "नीति आयोग"
+  ],
+  "correct": 2,
+  "explainEn": "Under Section 22 of the RBI Act, the Reserve Bank of India has the sole right to issue bank notes in India.",
+  "sourceHint": "RBI Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T05:59:48Z"
+ },
+ {
+  "id": "q_dc90339a71a9cf5c",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum limit of deposit insured by DICGC per depositor per bank in India?",
+  "qHi": "भारत में डीआईसीजीसी (DICGC) द्वारा प्रति जमाकर्ता प्रति बैंक बीमाकृत जमा की अधिकतम सीमा क्या है?",
+  "optsEn": [
+   "One lakh rupees",
+   "Two lakh rupees",
+   "Five lakh rupees",
+   "Ten lakh rupees"
+  ],
+  "optsHi": [
+   "एक लाख रुपये",
+   "दो लाख रुपये",
+   "पाँच लाख रुपये",
+   "दस लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "Each depositor in a bank is insured up to a maximum of 5 lakh rupees for both principal and interest amount held by her in the same right and capacity.",
+  "sourceHint": "Deposit Insurance and Credit Guarantee Corporation (DICGC)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T06:02:00Z"
+ },
+ {
+  "id": "q_25e372375ac04e7f",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institutional organization acts as the lender of last resort for commercial banks in India?",
+  "qHi": "भारत में कौन सा संस्थागत संगठन वाणिज्यिक बैंकों के लिए अंतिम ऋणदाता (lender of last resort) के रूप में कार्य करता है?",
+  "optsEn": [
+   "State Bank of India",
+   "Reserve Bank of India",
+   "NABARD",
+   "Industrial Finance Corporation of India"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "भारतीय रिजर्व बैंक",
+   "नाबार्ड",
+   "भारतीय औद्योगिक वित्त निगम"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India acts as the lender of last resort by providing emergency credit to banks facing liquidity pressures.",
+  "sourceHint": "Reserve Bank of India functions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T06:02:00Z"
+ },
+ {
+  "id": "q_67cfe31a5135c6bf",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'C' stand for in the financial acronym 'CASA' ratio?",
+  "qHi": "वित्तीय संक्षिप्त नाम 'CASA' अनुपात में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Capital",
+   "Current",
+   "Cash",
+   "Collateral"
+  ],
+  "optsHi": [
+   "पूंजी (Capital)",
+   "चालू खाता (Current)",
+   "नकद (Cash)",
+   "संपार्श्विक (Collateral)"
+  ],
+  "correct": 1,
+  "explainEn": "CASA stands for Current Account Savings Account, measuring the proportion of deposits a bank raises through current and savings accounts.",
+  "sourceHint": "Banking terminology standards",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T06:02:00Z"
+ },
+ {
+  "id": "q_9c4345e68d1651b2",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of Priority Sector Lending (PSL) guidelines issued by the RBI?",
+  "qHi": "RBI द्वारा जारी प्राथमिकता प्राप्त क्षेत्र को ऋण (PSL) दिशा-निर्देशों का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To maximize profit margins for foreign banks",
+   "To ensure adequate institutional credit to vulnerable sectors of the economy",
+   "To finance exclusively large-scale heavy industries",
+   "To regulate foreign exchange reserves"
+  ],
+  "optsHi": [
+   "विदेशी बैंकों के लाभ मार्जिन को अधिकतम करना",
+   "अर्थव्यवस्था के कमजोर क्षेत्रों को पर्याप्त संस्थागत ऋण सुनिश्चित करना",
+   "विशेष रूप से बड़े पैमाने पर भारी उद्योगों को वित्तपोषित करना",
+   "विदेशी मुद्रा भंडार को विनियमित करना"
+  ],
+  "correct": 1,
+  "explainEn": "Priority Sector Lending mandates banks to lend a specified portion of their bank net credit to sectors like agriculture, MSMEs, and weaker sections.",
+  "sourceHint": "RBI Master Directions on PSL",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T06:02:00Z"
  }
 ]
