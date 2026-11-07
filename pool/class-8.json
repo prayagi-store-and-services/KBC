@@ -24358,5 +24358,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-07T13:06:41Z"
+ },
+ {
+  "id": "q_6285401a60cc6f7b",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who led the revolt of 1857 in the city of Kanpur?",
+  "qHi": "कानपुर शहर में 1857 के विद्रोह का नेतृत्व किसने किया था?",
+  "optsEn": [
+   "Rani Lakshmibai",
+   "Nana Saheb",
+   "Begum Hazrat Mahal",
+   "Kunwar Singh"
+  ],
+  "optsHi": [
+   "रानी लक्ष्मीबाई",
+   "नाना साहब",
+   "बेगम हजरत महल",
+   "कुंवर सिंह"
+  ],
+  "correct": 1,
+  "explainEn": "Nana Saheb gathered armed forces and expelled the British garrison from Kanpur during the 1857 revolt.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T21:52:54Z"
+ },
+ {
+  "id": "q_e8bd7e1447f243e4",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of force is friction, which always opposes the relative motion between two surfaces in contact?",
+  "qHi": "घर्षण किस प्रकार का बल है, जो हमेशा संपर्क में दो सतहों के बीच की गति का विरोध करता है?",
+  "optsEn": [
+   "Magnetic force",
+   "Electrostatic force",
+   "Contact force",
+   "Gravitational force"
+  ],
+  "optsHi": [
+   "चुंबकीय बल",
+   "स्थिरवैद्युत बल",
+   "संपर्क बल",
+   "गुरुत्वाकर्षण बल"
+  ],
+  "correct": 2,
+  "explainEn": "Friction acts when two surfaces are in physical contact with each other, making it a contact force.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T21:54:33Z"
+ },
+ {
+  "id": "q_aa8a41ddba5706a6",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which British policy introduced in India by Lord Dalhousie allowed the annexation of states whose rulers died without a natural male heir?",
+  "qHi": "लॉर्ड डलहौजी द्वारा भारत में शुरू की गई किस ब्रिटिश नीति के तहत उन राज्यों का विलय कर लिया गया जिनके शासकों की मृत्यु प्राकृतिक पुरुष उत्तराधिकारी के बिना हो गई थी?",
+  "optsEn": [
+   "Subsidiary Alliance",
+   "Doctrine of Lapse",
+   "Permanent Settlement",
+   "Rowlatt Act"
+  ],
+  "optsHi": [
+   "सहायक संधि",
+   "व्यपगत का सिद्धांत (डॉक्ट्रीन ऑफ लैप्स)",
+   "स्थाई बंदोबस्त",
+   "रॉलेट एक्ट"
+  ],
+  "correct": 1,
+  "explainEn": "The Doctrine of Lapse was an annexation policy devised by Lord Dalhousie, stating that any princely state under the direct influence of the British East India Company would automatically be annexed if the ruler was 'manifestly incompetent or died without a male heir'.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T21:54:33Z"
+ },
+ {
+  "id": "q_22738dbeef7975e2",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which layer of the Earth's atmosphere contains the ozone layer that protects living beings from harmful ultraviolet rays?",
+  "qHi": "पृथ्वी के वायुमंडल की किस परत में ओजोन परत होती है जो जीवित प्राणियों को हानिकारक पराबैंगनी किरणों से बचाती है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The stratosphere contains a high concentration of ozone, which absorbs most of the Sun's ultraviolet radiation.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T21:54:33Z"
  }
 ]

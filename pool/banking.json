@@ -35838,5 +35838,397 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-07T13:06:16Z"
+ },
+ {
+  "id": "q_ff20a5ceb7a388e6",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which type of bank account typically does not offer any rate of interest to the account holder?",
+  "qHi": "किस प्रकार का बैंक खाता आमतौर पर खाता धारक को कोई ब्याज दर प्रदान नहीं करता है?",
+  "optsEn": [
+   "Savings Account",
+   "Current Account",
+   "Fixed Deposit Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "बचत खाता",
+   "चालू खाता",
+   "सावधि जमा खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 1,
+  "explainEn": "Current accounts are meant for business purposes and generally do not provide any interest on the deposits.",
+  "sourceHint": "NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T21:52:43Z"
+ },
+ {
+  "id": "q_751404e9ca61df8a",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum number of digits present in an Indian Permanent Account Number (PAN)?",
+  "qHi": "भारतीय स्थायी खाता संख्या (PAN) में अधिकतम कितने अंक या वर्ण होते हैं?",
+  "optsEn": [
+   "8",
+   "10",
+   "12",
+   "16"
+  ],
+  "optsHi": [
+   "8",
+   "10",
+   "12",
+   "16"
+  ],
+  "correct": 1,
+  "explainEn": "A PAN is a 10-character alphanumeric identifier issued in the form of a laminated card by the Income Tax Department.",
+  "sourceHint": "Income Tax Department of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T21:52:43Z"
+ },
+ {
+  "id": "q_fb765e25602442fe",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In the context of bank checks, what does the abbreviation 'MICR' stand for?",
+  "qHi": "बैंक चेक के संदर्भ में, संक्षिप्त नाम 'MICR' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Magnetic Ink Character Recognition",
+   "Money Interchange Code Reader",
+   "Magnetic Information Central Register",
+   "Main International Clearance Route"
+  ],
+  "optsHi": [
+   "मैग्नेटिक इंक करैक्टर रिकग्निशन",
+   "मनी इंटरचेंज कोड रीडर",
+   "मैग्नेटिक इंफॉर्मेशन सेंट्रल रजिस्टर",
+   "मेन इंटरनेशनल क्लीयरेंस रूट"
+  ],
+  "correct": 0,
+  "explainEn": "MICR technology is used by banks to clear and process cheques and other documents by reading magnetic ink characters.",
+  "sourceHint": "RBI Banking Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T21:52:43Z"
+ },
+ {
+  "id": "q_3da617f070d0a42a",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which coin denomination is the highest currently minted and issued by the Government of India?",
+  "qHi": "वर्तमान में भारत सरकार द्वारा मुद्रित और जारी किया जाने वाला सबसे बड़ा सिक्का मूल्यवर्ग कौन सा है?",
+  "optsEn": [
+   "10 Rupees",
+   "20 Rupees",
+   "50 Rupees",
+   "100 Rupees"
+  ],
+  "optsHi": [
+   "10 रुपये",
+   "20 रुपये",
+   "50 रुपये",
+   "100 रुपये"
+  ],
+  "correct": 1,
+  "explainEn": "The 20-rupee coin is currently the highest denomination coin regularly minted and circulated by the Government of India.",
+  "sourceHint": "Ministry of Finance, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T21:52:43Z"
+ },
+ {
+  "id": "q_014d0cbba70a441a",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of 'NABARD', a specialized bank in India?",
+  "qHi": "भारत में एक विशिष्ट बैंक 'NABARD' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "National Bank for Agriculture and Rural Development",
+   "National Association for Banking and Rural Development",
+   "New Agriculture and Business Rural Development Bank",
+   "National Authority for Bank Audit and Research Development"
+  ],
+  "optsHi": [
+   "नेशनल बैंक फॉर एग्रीकल्चर एंड रूरल डेवलपमेंट",
+   "नेशनल एसोसिएशन फॉर बैंकिंग एंड रूरल डेवलपमेंट",
+   "न्यू एग्रीकल्चर एंड बिजनेस रूरल डेवलपमेंट बैंक",
+   "नेशनल अथॉरिटी फॉर बैंक ऑडिट एंड रिसर्च डेवलपमेंट"
+  ],
+  "correct": 0,
+  "explainEn": "NABARD stands for National Bank for Agriculture and Rural Development, established in 1982 to promote sustainable agriculture and rural prosperity.",
+  "sourceHint": "NABARD Act, 1981",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T21:52:43Z"
+ },
+ {
+  "id": "q_6ab2e3ee8265c35b",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is an asset-backed security created by pooling loans and selling them to investors, commonly managed by banks?",
+  "qHi": "निम्नलिखित में से कौन सी संपत्ति-समर्थित प्रतिभूति है जो ऋणों को समेकित करके और उन्हें निवेशकों को बेचकर बनाई जाती है, जिसे आमतौर पर बैंकों द्वारा प्रबंधित किया जाता है?",
+  "optsEn": [
+   "Treasury Bill",
+   "Certificate of Deposit",
+   "Securitized Paper",
+   "Commercial Paper"
+  ],
+  "optsHi": [
+   "राजकोषीय बिल (Treasury Bill)",
+   "जमा प्रमाणपत्र (Certificate of Deposit)",
+   "प्रतिभूतिकृत पत्र (Securitized Paper)",
+   "वाणिज्यिक पत्र (Commercial Paper)"
+  ],
+  "correct": 2,
+  "explainEn": "Securitization involves pooling various types of contractual debt and selling their related cash flows to third party investors as securities.",
+  "sourceHint": "RBI Publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T21:53:20Z"
+ },
+ {
+  "id": "q_4beae9ac0f8f7b58",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India acts as the central nodal agency for providing refinance support to Regional Rural Banks (RRBs)?",
+  "qHi": "भारत में कौन सा संगठन क्षेत्रीय ग्रामीण बैंकों (RRBs) को पुनर्वित्त सहायता प्रदान करने के लिए केंद्रीय नोडल एजेंसी के रूप में कार्य करता है?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "IFCI"
+  ],
+  "optsHi": [
+   "सिडबी (SIDBI)",
+   "नाबार्ड (NABARD)",
+   "एक्ज़िम बैंक (EXIM Bank)",
+   "आईएफसीआई (IFCI)"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD was established in 1982 to provide and regulate credit and other facilities for the promotion and development of agriculture, small-scale industries, and RRBs.",
+  "sourceHint": "NABARD Act 1981",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T21:53:20Z"
+ },
+ {
+  "id": "q_0d40ed80c9c86a1f",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does 'Tier-2 Capital' represent in the context of Basel III capital norms for banks?",
+  "qHi": "बैंकों के लिए बेसल III पूंजी मानदंडों के संदर्भ में 'टियर-2 पूंजी' क्या दर्शाती है?",
+  "optsEn": [
+   "Core capital that absorbs losses on a going-concern basis",
+   "Supplementary capital that provides a lesser degree of protection against unexpected losses",
+   "Government equity owned by the central exchequer",
+   "Unsecured retail deposits held for less than one year"
+  ],
+  "optsHi": [
+   "कोर पूंजी जो गोइंग-कंसर्न आधार पर नुकसान को अवशोषित करती है",
+   "पूरक पूंजी जो अप्रत्याशित नुकसान के खिलाफ कम डिग्री की सुरक्षा प्रदान करती है",
+   "केंद्रीय राजकोष के स्वामित्व वाली सरकारी इक्विटी",
+   "एक वर्ष से कम समय के लिए रखे गए असुरक्षित खुदरा जमा"
+  ],
+  "correct": 1,
+  "explainEn": "Tier-2 capital is supplementary capital that absorbs losses in the event of a bank's winding-up, providing a lower degree of protection than Tier-1 capital.",
+  "sourceHint": "Basel Committee on Banking Supervision (BCBS)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T21:53:20Z"
+ },
+ {
+  "id": "q_bac24e083451e07c",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Prompt Corrective Action (PCA) framework for commercial banks, which of the following is classified as a mandatory threshold parameter rather than a discretionary one?",
+  "qHi": "वाणिज्यिक बैंकों के लिए त्वरित सुधारात्मक कार्रवाई (PCA) ढांचे के तहत, निम्नलिखित में से किसे विवेकपूर्ण के बजाय एक अनिवार्य सीमा पैरामीटर के रूप में वर्गीकृत किया गया है?",
+  "optsEn": [
+   "Return on Assets",
+   "Tier 1 Leverage Ratio",
+   "Common Equity Tier 1 (CET1) Ratio",
+   "Non-Performing Asset (NPA) Net Ratio"
+  ],
+  "optsHi": [
+   "परिसंपत्ति पर रिटर्न",
+   "टियर 1 उत्तोलन अनुपात",
+   "कॉमन इक्विटी टियर 1 (CET1) अनुपात",
+   "गैर-निष्पादित परिसंपत्ति (NPA) शुद्ध अनुपात"
+  ],
+  "correct": 2,
+  "explainEn": "Under RBI's PCA framework, the indicators tracked are Capital (specifically CRAR / CET1), Asset Quality (Net NPA), and Leverage (Tier 1 Leverage Ratio), with CET1 being a primary mandatory parameter for triggering supervisory actions.",
+  "sourceHint": "Reserve Bank of India Master Directions on PCA Framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T21:55:03Z"
+ },
+ {
+  "id": "q_9769b19f94ffd742",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the minimum maturity period prescribed for External Commercial Borrowings (ECBs) under the automatic route for manufacturing sector companies raising up to USD 50 million equivalent?",
+  "qHi": "विनिर्माण क्षेत्र की कंपनियों द्वारा स्वचालित मार्ग के तहत 50 मिलियन अमरीकी डॉलर के समतुल्य तक जुटाए जाने वाले बाहरी वाणिज्यिक उधार (ECB) के लिए निर्धारित न्यूनतम परिपक्वता अवधि क्या है?",
+  "optsEn": [
+   "1 year",
+   "3 years",
+   "5 years",
+   "7 years"
+  ],
+  "optsHi": [
+   "1 वर्ष",
+   "3 वर्ष",
+   "5 वर्ष",
+   "7 वर्ष"
+  ],
+  "correct": 1,
+  "explainEn": "As per the RBI and FEMA guidelines on External Commercial Borrowings (ECBs), the minimum average maturity period (MAMP) is normally 3 years for borrowings up to USD 50 million for manufacturing companies.",
+  "sourceHint": "RBI Master Directions on External Commercial Borrowings, Trade Credits and Structured Obligations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T21:55:03Z"
+ },
+ {
+  "id": "q_aa410e1ba6b65817",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific instrument was introduced by the Reserve Bank of India to absorb durable liquidity from the banking system under the Liquidity Management Framework?",
+  "qHi": "तरलता प्रबंधन ढांचे के तहत बैंकिंग प्रणाली से टिकाऊ तरलता को अवशोषित करने के लिए भारतीय रिजर्व बैंक द्वारा कौन सा विशिष्ट उपकरण पेश किया गया था?",
+  "optsEn": [
+   "Standing Deposit Facility",
+   "Term Repo Auction",
+   "Marginal Standing Facility",
+   "Open Market Operations"
+  ],
+  "optsHi": [
+   "स्थायी जमा सुविधा",
+   "अवधि रेपो नीलामी",
+   "सीमांत स्थायी सुविधा",
+   "खुले बाजार की संचालन"
+  ],
+  "correct": 0,
+  "explainEn": "The Standing Deposit Facility (SDF) is a collateral-free liquidity absorption facility introduced by the RBI to absorb durable liquidity from the banking system.",
+  "sourceHint": "RBI Report on Currency and Finance / Monetary Policy Framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T21:55:03Z"
+ },
+ {
+  "id": "q_b45b544f30814276",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of priority sector lending (PSL) guidelines in India, what is the target percentage for lending to 'Small and Marginal Farmers' for domestic commercial banks?",
+  "qHi": "भारत में प्राथमिकता प्राप्त क्षेत्र को ऋण (PSL) दिशानिर्देशों के संदर्भ में, घरेलू वाणिज्यिक बैंकों के लिए 'छोटे और सीमांत किसानों' को ऋण देने का लक्ष्य प्रतिशत क्या है?",
+  "optsEn": [
+   "7.5 percent",
+   "10.0 percent",
+   "12.0 percent",
+   "18.0 percent"
+  ],
+  "optsHi": [
+   "7.5 प्रतिशत",
+   "10.0 प्रतिशत",
+   "12.0 प्रतिशत",
+   "18.0 प्रतिशत"
+  ],
+  "correct": 0,
+  "explainEn": "RBI guidelines stipulate a sub-target of 7.5% of Adjusted Net Bank Credit (ANBC) for Small and Marginal Farmers under the Priority Sector Lending norms.",
+  "sourceHint": "RBI Master Directions - Priority Sector Lending Targets and Classification",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T21:55:03Z"
+ },
+ {
+  "id": "q_fb1e14cde7dabcc0",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Basel III capital buffer is designed to protect the banking sector from systemic risk by requiring higher capital requirements during periods of excessive credit growth?",
+  "qHi": "कौन सा बेसल III पूंजी बफर अत्यधिक ऋण वृद्धि की अवधि के दौरान उच्च पूंजी आवश्यकताओं की आवश्यकता करके बैंकिंग प्रणाली को व्यवस्थित जोखिम से बचाने के लिए डिज़ाइन किया गया है?",
+  "optsEn": [
+   "Capital Conservation Buffer",
+   "Countercyclical Capital Buffer",
+   "Systemic Risk Buffer",
+   "Liquidity Coverage Ratio Buffer"
+  ],
+  "optsHi": [
+   "पूंजी संरक्षण बफर",
+   "काउंटरसाइक्लिकल कैपिटल बफर",
+   "व्यवस्थित जोखिम बफर",
+   "तरलता कवरेज अनुपात बफर"
+  ],
+  "correct": 1,
+  "explainEn": "The Countercyclical Capital Buffer (CCyB) aims to ensure that banking system capital requirements take account of the macro-financial environment in which banks operate, building up capital during credit booms.",
+  "sourceHint": "Basel Committee on Banking Supervision (BCBS) Framework / RBI Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T21:55:03Z"
+ },
+ {
+  "id": "q_d2507732629559ce",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the maximum permissible limit for an individual transaction using the Immediate Payment Service (IMPS) when routed through internet banking or mobile applications, as per general NPCI regulations?",
+  "qHi": "एनपीसीआई के सामान्य नियमों के अनुसार, इंटरनेट बैंकिंग या मोबाइल एप्लिकेशन के माध्यम से रूट किए जाने पर तत्काल भुगतान सेवा (IMPS) का उपयोग करके व्यक्तिगत लेनदेन के लिए अधिकतम स्वीकार्य सीमा क्या है?",
+  "optsEn": [
+   "Rupees 2 Lakhs",
+   "Rupees 5 Lakhs",
+   "Rupees 10 Lakhs",
+   "Rupees 50 Lakhs"
+  ],
+  "optsHi": [
+   "2 लाख रुपये",
+   "5 लाख रुपये",
+   "10 लाख रुपये",
+   "50 लाख रुपये"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India and NPCI increased the per-transaction limit for IMPS to Rupees 5 Lakhs for channels like internet banking and mobile banking apps.",
+  "sourceHint": "National Payments Corporation of India (NPCI) Circulars / RBI Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T21:55:03Z"
  }
 ]

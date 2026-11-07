@@ -29062,5 +29062,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-07T13:06:27Z"
+ },
+ {
+  "id": "q_fb1b733cba172bea",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of map focuses on specific details such as state boundaries, capitals, and major cities?",
+  "qHi": "किस प्रकार का मानचित्र राज्य की सीमाओं, राजधानियों और प्रमुख शहरों जैसे विशिष्ट विवरणों पर ध्यान केंद्रित करता है?",
+  "optsEn": [
+   "Physical map",
+   "Political map",
+   "Thematic map",
+   "Climatic map"
+  ],
+  "optsHi": [
+   "भौतिक मानचित्र",
+   "राजनीतिक मानचित्र",
+   "थीम आधारित मानचित्र",
+   "जलवायु मानचित्र"
+  ],
+  "correct": 1,
+  "explainEn": "Political maps show governmental boundaries of countries, states, and the location of major cities.",
+  "sourceHint": "NCERT Class 5 Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T21:54:28Z"
+ },
+ {
+  "id": "q_298c1dbfed4e1040",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the name of India's first lunar probe mission launched by ISRO in the year 2008?",
+  "qHi": "वर्ष 2008 में इसरो द्वारा लॉन्च किए गए भारत के पहले चंद्र अन्वेषण मिशन का नाम क्या है?",
+  "optsEn": [
+   "Chandrayaan-1",
+   "Mangalyaan",
+   "Aryabhata",
+   "Gaganyaan"
+  ],
+  "optsHi": [
+   "चंद्रयान-1",
+   "मंगलयान",
+   "आर्यभट्ट",
+   "गगनयान"
+  ],
+  "correct": 0,
+  "explainEn": "Chandrayaan-1 was India's first lunar exploration mission, successfully launched by ISRO in October 2008.",
+  "sourceHint": "ISRO official records",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T21:54:28Z"
  }
 ]

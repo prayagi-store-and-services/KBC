@@ -20802,5 +20802,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-07T13:06:21Z"
+ },
+ {
+  "id": "q_e3c8a975370bdc69",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which month does India celebrate Independence Day?",
+  "qHi": "भारत किस महीने में स्वतंत्रता दिवस मनाता है?",
+  "optsEn": [
+   "January",
+   "August",
+   "October",
+   "November"
+  ],
+  "optsHi": [
+   "जनवरी",
+   "अगस्त",
+   "अक्टूबर",
+   "नवंबर"
+  ],
+  "correct": 1,
+  "explainEn": "India celebrates its Independence Day annually on the 15th of August.",
+  "sourceHint": "Government of India official portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T21:52:47Z"
+ },
+ {
+  "id": "q_bb8b403158565b14",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which element is chemical symbol 'Na' derived from?",
+  "qHi": "रासायनिक प्रतीक 'Na' किस तत्व से लिया गया है?",
+  "optsEn": [
+   "Nitrogen",
+   "Neon",
+   "Sodium",
+   "Nickel"
+  ],
+  "optsHi": [
+   "नाइट्रोजन",
+   "नियन",
+   "सोडियम",
+   "निकल"
+  ],
+  "correct": 2,
+  "explainEn": "The symbol 'Na' comes from natrium, the Neo-Latin word for sodium.",
+  "sourceHint": "Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T21:54:24Z"
  }
 ]

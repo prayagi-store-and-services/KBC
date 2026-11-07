@@ -20550,5 +20550,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-07T13:07:35Z"
+ },
+ {
+  "id": "q_5c44f1bb42546a22",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which state is the Ajanta Caves complex located?",
+  "qHi": "अजंता गुफा परिसर किस राज्य में स्थित है?",
+  "optsEn": [
+   "Madhya Pradesh",
+   "Maharashtra",
+   "Karnataka",
+   "Odisha"
+  ],
+  "optsHi": [
+   "मध्य प्रदेश",
+   "महाराष्ट्र",
+   "कर्नाटक",
+   "ओडिशा"
+  ],
+  "correct": 1,
+  "explainEn": "The Ajanta Caves are approximately 30 rock-cut Buddhist cave monuments located in Aurangabad district, Maharashtra.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T21:52:39Z"
+ },
+ {
+  "id": "q_7cf6197404cc8841",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The 73rd Constitutional Amendment Act relates to which of the following?",
+  "qHi": "73वां संविधान संशोधन अधिनियम निम्नलिखित में से किससे संबंधित है?",
+  "optsEn": [
+   "Municipalities",
+   "Panchayati Raj",
+   "Goods and Services Tax",
+   "Right to Education"
+  ],
+  "optsHi": [
+   "नगरपालिकाएं",
+   "पंचायती राज",
+   "वस्तु एवं सेवा कर",
+   "शिक्षा का अधिकार"
+  ],
+  "correct": 1,
+  "explainEn": "The 73rd Constitutional Amendment Act, 1992 provides constitutional status to the Panchayati Raj institutions in India by adding Part IX.",
+  "sourceHint": "Indian Polity by M. Laxmikanth, Chapter on Panchayati Raj",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T21:53:15Z"
+ },
+ {
+  "id": "q_2afbde0b2529c107",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian monetary policy, which organization regulates the Clearing Corporation of India Limited (CCIL)?",
+  "qHi": "भारतीय मौद्रिक नीति के संदर्भ में, कौन सा संगठन क्लीयरिंग कॉर्पोरेशन ऑफ इंडिया लिमिटेड (CCIL) को विनियमित करता है?",
+  "optsEn": [
+   "Securities and Exchange Board of India",
+   "Reserve Bank of India",
+   "National Bank for Agriculture and Rural Development",
+   "Ministry of Finance"
+  ],
+  "optsHi": [
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "भारतीय रिजर्व बैंक",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक",
+   "वित्त मंत्रालय"
+  ],
+  "correct": 1,
+  "explainEn": "CCIL was set up in 2001 to provide clearing and settlement services for transactions in money, debt, and foreign exchange markets, and it is regulated by the Reserve Bank of India.",
+  "sourceHint": "RBI Official Website / Indian Economy by Ramesh Singh",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T21:54:56Z"
+ },
+ {
+  "id": "q_a068d8a284016da6",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "The treaty of Purandhar was signed in the year 1665 between the Mughal Empire, represented by Jai Singh I, and which prominent Maratha leader?",
+  "qHi": "पुरंदर की संधि वर्ष 1665 में जय सिंह प्रथम द्वारा प्रतिनिधित्व मुगल साम्राज्य और किस प्रमुख मराठा नेता के बीच हस्ताक्षर की गई थी?",
+  "optsEn": [
+   "Chhatrapati Shivaji Maharaj",
+   "Sambhaji Maharaj",
+   "Rajaram Chhatrapati",
+   "Tanaji Malusare"
+  ],
+  "optsHi": [
+   "छत्रपति शिवाजी महाराज",
+   "संभाजी महाराज",
+   "राजाराम छत्रपति",
+   "तानाजी मालुसरे"
+  ],
+  "correct": 0,
+  "explainEn": "The Treaty of Purandar was signed on June 11, 1665, by Jai Singh I (commander of the Mughal Empire) and Chhatrapati Shivaji Maharaj after the siege of Purandar fort.",
+  "sourceHint": "NCERT Class 7 History / Medieval India by Satish Chandra",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T21:54:56Z"
+ },
+ {
+  "id": "q_f9b8b2215c468f25",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which bio-geographical zone in India covers the largest geographic area according to the Wildlife Institute of India classification?",
+  "qHi": "भारतीय वन्यजीव संस्थान के वर्गीकरण के अनुसार भारत में कौन सा जैव-भौगोलिक क्षेत्र सबसे बड़े भौगोलिक क्षेत्र को कवर करता है?",
+  "optsEn": [
+   "The Western Ghats",
+   "The Deccan Peninsula",
+   "The Gangetic Plain",
+   "The Indian Desert"
+  ],
+  "optsHi": [
+   "पश्चिमी घाट",
+   "दक्कन प्रायद्वीप",
+   "गंगा का मैदान",
+   "भारतीय मरुस्थल"
+  ],
+  "correct": 1,
+  "explainEn": "The Deccan Peninsula is the largest bio-geographical zone in India, covering about 43 percent of the total landmass, encompassing parts of Maharashtra, Karnataka, Andhra Pradesh, and Tamil Nadu.",
+  "sourceHint": "Environment by Shankar IAS Academy / WII Classification",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T21:54:56Z"
+ },
+ {
+  "id": "q_d0b3cdb15573dfbf",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "The term 'Operation Polo' is historically associated with the integration of which princely state into the Indian Union?",
+  "qHi": "शब्द 'ऑपरेशन पोलो' ऐतिहासिक रूप से किस रियासत के भारतीय संघ में एकीकरण से जुड़ा है?",
+  "optsEn": [
+   "Junagadh",
+   "Hyderabad",
+   "Kashmir",
+   "Travancore"
+  ],
+  "optsHi": [
+   "जूनागढ़",
+   "हैदराबाद",
+   "कश्मीर",
+   "त्रावणकोर"
+  ],
+  "correct": 1,
+  "explainEn": "Operation Polo was the code name for the police action in September 1948 by the Government of India against the princely state of Hyderabad, resulting in its annexation.",
+  "sourceHint": "NCERT Class 12 Political Science / Indian History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-07T21:54:56Z"
  }
 ]
