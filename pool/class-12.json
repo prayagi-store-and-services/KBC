@@ -34326,5 +34326,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-08T13:28:30Z"
+ },
+ {
+  "id": "q_d56b2a775f5b8950",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the historical novel 'Padmavat'?",
+  "qHi": "ऐतिहासिक उपन्यास 'पद्मावत' किसने लिखा था?",
+  "optsEn": [
+   "Amir Khusrau",
+   "Malik Muhammad Jayasi",
+   "Kabir",
+   "Tulsidas"
+  ],
+  "optsHi": [
+   "अमीर खुसरो",
+   "मलिक मुहम्मद जायसी",
+   "कबीर",
+   "तुलसीदास"
+  ],
+  "correct": 1,
+  "explainEn": "Padmavat is an epic poem written in 1540 by Sufi poet Malik Muhammad Jayasi in the Awadhi language.",
+  "sourceHint": "NCERT Class 12 History, Theme 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T22:07:28Z"
+ },
+ {
+  "id": "q_688a7ee9babf7644",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary commercial product derived from the distillation of crude petroleum through fractional distillation at the lowest temperature range?",
+  "qHi": "सबसे कम तापमान सीमा पर आंशिक आसवन के माध्यम से कच्चे पेट्रोलियम के आसवन से प्राप्त होने वाला मुख्य व्यावसायिक उत्पाद क्या है?",
+  "optsEn": [
+   "Diesel",
+   "Lubricating oil",
+   "Petroleum gas",
+   "Kerosene"
+  ],
+  "optsHi": [
+   "डीजल",
+   "चिकनाई वाला तेल",
+   "पेट्रोलियम गैस",
+   "केरोसीन"
+  ],
+  "correct": 2,
+  "explainEn": "Petroleum gas is obtained at the top of the fractionating column at temperatures below 40 degrees Celsius during fractional distillation.",
+  "sourceHint": "NCERT Class 11 Chemistry, Chapter 13",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T22:08:53Z"
+ },
+ {
+  "id": "q_166f70901e0ebe3f",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "During which phase of the Indian national movement was the Non-Cooperation Movement officially launched?",
+  "qHi": "भारतीय राष्ट्रीय आंदोलन के किस चरण के दौरान असहयोग आंदोलन आधिकारिक तौर पर शुरू किया गया था?",
+  "optsEn": [
+   "Moderate phase",
+   "Gandhian era",
+   "Swadeshi movement phase",
+   "Quit India phase"
+  ],
+  "optsHi": [
+   "उदारवादी चरण",
+   "गांधीवादी युग",
+   "स्वदेशी आंदोलन चरण",
+   "भारत छोड़ो चरण"
+  ],
+  "correct": 1,
+  "explainEn": "The Non-Cooperation Movement was launched by Mahatma Gandhi in 1920, marking the beginning of the Gandhian era of mass mobilization.",
+  "sourceHint": "NCERT Class 12 History, Theme 13",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T22:08:53Z"
+ },
+ {
+  "id": "q_27ee1caafc6873c9",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of chemical reaction is represented by the conversion of an alkyl halide to an alcohol using aqueous sodium hydroxide?",
+  "qHi": "जलीय सोडियम हाइड्रॉक्साइड का उपयोग करके एल्किल हैलाइड के अल्कोहल में रूपांतरण द्वारा किस प्रकार की रासायनिक प्रतिक्रिया का प्रतिनिधित्व किया जाता है?",
+  "optsEn": [
+   "Electrophilic addition",
+   "Nucleophilic substitution",
+   "Free radical halogenation",
+   "Elimination reaction"
+  ],
+  "optsHi": [
+   "इलेक्ट्रोफिलिक योगात्मक",
+   "नाभिकरागी प्रतिस्थापन",
+   "मुक्त मूलक हैलोजनीकरण",
+   "विलोपन प्रतिक्रिया"
+  ],
+  "correct": 1,
+  "explainEn": "The hydroxide ion acts as a nucleophile and substitutes the halide ion in an alkyl halide, forming an alcohol via nucleophilic substitution.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T22:08:53Z"
+ },
+ {
+  "id": "q_7a8df03dcba55f14",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which macroeconomic policy tool is directly managed by the Reserve Bank of India to regulate money supply through the buying and selling of government securities?",
+  "qHi": "सरकारी प्रतिभूतियों की खरीद और बिक्री के माध्यम से धन की आपूर्ति को विनियमित करने के लिए भारतीय रिजर्व बैंक द्वारा सीधे तौर पर किस व्यापक आर्थिक नीति उपकरण का प्रबंधन किया जाता है?",
+  "optsEn": [
+   "Fiscal deficit",
+   "Open market operations",
+   "Public debt management",
+   "GST rates"
+  ],
+  "optsHi": [
+   "राजकोषीय घाटा",
+   "खुले बाजार की गतिविधियाँ",
+   "सार्वजनिक ऋण प्रबंधन",
+   "जीएसटी दरें"
+  ],
+  "correct": 1,
+  "explainEn": "Open Market Operations involve the central bank buying and selling government securities to adjust the liquidity and money supply in the economy.",
+  "sourceHint": "NCERT Class 12 Economics (Macroeconomics), Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T22:08:53Z"
+ },
+ {
+  "id": "q_395e6955275548ca",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In human genetics, what term describes an individual having an abnormal number of chromosomes due to the gain or loss of a single chromosome?",
+  "qHi": "मानव आनुवंशिकी में, एक ही गुणसूत्र के लाभ या हानि के कारण गुणसूत्रों की असामान्य संख्या वाले व्यक्ति का वर्णन करने के लिए किस शब्द का उपयोग किया जाता है?",
+  "optsEn": [
+   "Euploidy",
+   "Aneuploidy",
+   "Polyploidy",
+   "Autosomal linkage"
+  ],
+  "optsHi": [
+   "यूप्लोइडी",
+   "एन्यूप्लोइडी",
+   "पॉलीप्लोइडी",
+   "ऑटोसॉमल लिंकेज"
+  ],
+  "correct": 1,
+  "explainEn": "Aneuploidy is the condition of having an abnormal chromosome number, such as in Down syndrome where there is an extra copy of chromosome 21.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T22:08:53Z"
  }
 ]

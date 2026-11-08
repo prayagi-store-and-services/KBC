@@ -37154,5 +37154,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-08T13:28:48Z"
+ },
+ {
+  "id": "q_63e57c193b23aa65",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which type of account generally offers no interest to the account holder?",
+  "qHi": "किस प्रकार का खाता आमतौर पर खाता धारक को कोई ब्याज नहीं देता है?",
+  "optsEn": [
+   "Savings Account",
+   "Current Account",
+   "Fixed Deposit Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "बचत खाता",
+   "चालू खाता",
+   "सावधि जमा खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 1,
+  "explainEn": "Current accounts are meant for business purposes and typically do not offer any interest on the deposits.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T22:08:01Z"
+ },
+ {
+  "id": "q_6f575752ca498c8e",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which term describes the rate at which the Reserve Bank of India lends short-term money to commercial banks?",
+  "qHi": "उस दर को क्या कहते हैं जिस पर भारतीय रिजर्व बैंक वाणिज्यिक बैंकों को अल्पकालिक धन उधार देता है?",
+  "optsEn": [
+   "Repo Rate",
+   "Bank Rate",
+   "Cash Reserve Ratio",
+   "Statutory Liquidity Ratio"
+  ],
+  "optsHi": [
+   "रेपो रेट",
+   "बैंक रेट",
+   "कैश रिजर्व रेश्यो",
+   "वैधानिक तरलता अनुपात"
+  ],
+  "correct": 0,
+  "explainEn": "Repo rate is the rate at which the central bank of a country (RBI) lends money to commercial banks in the event of any shortfall of funds.",
+  "sourceHint": "RBI Monetary Policy Report",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T22:08:01Z"
+ },
+ {
+  "id": "q_d3826050ed33c4bd",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the minimum number of members required to form a cooperative society in India under standard cooperative acts?",
+  "qHi": "मानक सहकारी अधिनियमों के तहत भारत में एक सहकारी समिति बनाने के लिए आवश्यक सदस्यों की न्यूनतम संख्या कितनी है?",
+  "optsEn": [
+   "5 members",
+   "7 members",
+   "10 members",
+   "20 members"
+  ],
+  "optsHi": [
+   "5 सदस्य",
+   "7 सदस्य",
+   "10 सदस्य",
+   "20 सदस्य"
+  ],
+  "correct": 2,
+  "explainEn": "Under the Multi-State Cooperative Societies Act and most state Acts, a minimum of 10 individuals are required to form a cooperative society.",
+  "sourceHint": "Ministry of Cooperation, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T22:08:01Z"
+ },
+ {
+  "id": "q_cc45d6140b9e20dd",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the liquidity management framework term 'LAF' used in banking?",
+  "qHi": "बैंकिंग में प्रयुक्त तरलता प्रबंधन फ्रेमवर्क शब्द 'LAF' में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liquidity",
+   "Liability",
+   "Leverage",
+   "Ledger"
+  ],
+  "optsHi": [
+   "लिक्विडिटी (Liquidity)",
+   "लायबिलिटी (Liability)",
+   "लीवरेज (Leverage)",
+   "लेजर (Ledger)"
+  ],
+  "correct": 0,
+  "explainEn": "LAF stands for Liquidity Adjustment Facility, which is a monetary policy tool used by the RBI.",
+  "sourceHint": "RBI official glossary of banking terms",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T22:09:09Z"
+ },
+ {
+  "id": "q_8d5a7eff0eb74330",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque is a bill of exchange drawn on a specified:",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, चेक एक विनिमय पत्र है जो एक निश्चित पर लिखा जाता है:",
+  "optsEn": [
+   "Banker",
+   "Merchant",
+   "Government Treasury",
+   "Post Office"
+  ],
+  "optsHi": [
+   "बैंकर",
+   "व्यापारी",
+   "सरकारी खजाना",
+   "डाकघर"
+  ],
+  "correct": 0,
+  "explainEn": "Section 6 of the Negotiable Instruments Act defines a cheque as a bill of exchange drawn on a specified banker and not expressed to be payable otherwise than on demand.",
+  "sourceHint": "Negotiable Instruments Act, 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T22:09:09Z"
+ },
+ {
+  "id": "q_24e61e6dc363075e",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum deposit insurance coverage limit provided by DICGC per depositor per bank in India?",
+  "qHi": "भारत में DICGC द्वारा प्रति जमाकर्ता प्रति बैंक प्रदान की जाने वाली अधिकतम जमा बीमा कवरेज सीमा क्या है?",
+  "optsEn": [
+   "Five lakh rupees",
+   "One lakh rupees",
+   "Ten lakh rupees",
+   "Two lakh rupees"
+  ],
+  "optsHi": [
+   "पाँच लाख रुपये",
+   "एक लाख रुपये",
+   "दस लाख रुपये",
+   "दो लाख रुपये"
+  ],
+  "correct": 0,
+  "explainEn": "Deposit Insurance and Credit Guarantee Corporation (DICGC) provides insurance coverage up to Rs 5,00,000 per depositor per bank.",
+  "sourceHint": "DICGC official guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T22:09:09Z"
+ },
+ {
+  "id": "q_fe24d1d12be19328",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is considered primary capital for commercial banks under Basel norms?",
+  "qHi": "बेसल मानदंडों के तहत वाणिज्यिक बैंकों के लिए निम्नलिखित में से किसे प्राथमिक पूंजी माना जाता है?",
+  "optsEn": [
+   "Tier 1 Capital",
+   "Tier 2 Capital",
+   "Subordinated Debt",
+   "General Provisions"
+  ],
+  "optsHi": [
+   "टियर 1 पूंजी",
+   "टियर 2 पूंजी",
+   "अधीनस्थ ऋण",
+   "सामान्य प्रावधान"
+  ],
+  "correct": 0,
+  "explainEn": "Tier 1 capital is the core measure of a bank's financial strength from a regulator's point of view, consisting mainly of common stock and disclosed reserves.",
+  "sourceHint": "Basel Committee on Banking Supervision guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T22:09:09Z"
+ },
+ {
+  "id": "q_d7fd323f9a37788c",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does 'M' stand for in the financial sector acronym 'MSME'?",
+  "qHi": "वित्तीय क्षेत्र के संक्षिप्त नाम 'MSME' में 'M' का क्या अर्थ है?",
+  "optsEn": [
+   "Micro",
+   "Monetary",
+   "Mercantile",
+   "Municipal"
+  ],
+  "optsHi": [
+   "माइक्रो (Micro)",
+   "मॉनेटरी (Monetary)",
+   "मर्केंटाइल (Mercantile)",
+   "म्युनिसिपल (Municipal)"
+  ],
+  "correct": 0,
+  "explainEn": "MSME stands for Micro, Small and Medium Enterprises.",
+  "sourceHint": "Ministry of Micro, Small and Medium Enterprises, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T22:09:09Z"
+ },
+ {
+  "id": "q_1318f098ead803a4",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of Open Market Operations conducted by a central bank?",
+  "qHi": "केंद्रीय बैंक द्वारा संचालित खुले बाजार की संचालन (Open Market Operations) का मुख्य उद्देश्य क्या है?",
+  "optsEn": [
+   "Regulating money supply in the economy",
+   "Providing direct loans to retail customers",
+   "Fixing gold export quotas",
+   "Issuing currency notes"
+  ],
+  "optsHi": [
+   "अर्थव्यवस्था में मुद्रा आपूर्ति को नियंत्रित करना",
+   "खुदरा ग्राहकों को प्रत्यक्ष ऋण प्रदान करना",
+   "सोने के निर्यात कोटा तय करना",
+   "करेंसी नोट जारी करना"
+  ],
+  "correct": 0,
+  "explainEn": "Open Market Operations (OMO) involve the buying and selling of government securities in the open market by the central bank to regulate the money supply in the economy.",
+  "sourceHint": "RBI Monetary Policy framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T22:09:09Z"
  }
 ]

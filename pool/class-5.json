@@ -29678,5 +29678,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-08T13:28:57Z"
+ },
+ {
+  "id": "q_f7a2b0f9b93bc544",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these is a national symbol of India?",
+  "qHi": "इनमें से कौन सा भारत का राष्ट्रीय प्रतीक है?",
+  "optsEn": [
+   "Lotus",
+   "Rose",
+   "Sunflower",
+   "Jasmine"
+  ],
+  "optsHi": [
+   "कमल",
+   "गुलाब",
+   "सूरजमुखी",
+   "चमेली"
+  ],
+  "correct": 0,
+  "explainEn": "The lotus is the national flower of India.",
+  "sourceHint": "NCERT Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T22:07:15Z"
+ },
+ {
+  "id": "q_33e35f06c295f949",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these birds is well known for building a hanging nest using plant fibers and twigs?",
+  "qHi": "इनमें से कौन सा पक्षी पौधे के रेशों और टहनियों का उपयोग करके लटकता हुआ घोंसला बनाने के लिए जाना जाता है?",
+  "optsEn": [
+   "Crow",
+   "Pigeon",
+   "Weaver bird",
+   "Vulture"
+  ],
+  "optsHi": [
+   "कौवा",
+   "कबूतर",
+   "बया पक्षी",
+   "गिद्ध"
+  ],
+  "correct": 2,
+  "explainEn": "The weaver bird expertly weaves plant materials to create a suspended, pouch-like nest.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T22:08:15Z"
+ },
+ {
+  "id": "q_7a7c666d4de22859",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary line of latitude that divides the Earth into the Northern and Southern Hemispheres?",
+  "qHi": "अक्षांश की वह मुख्य रेखा कौन सी है जो पृथ्वी को उत्तरी और दक्षिणी गोलार्ध में विभाजित करती है?",
+  "optsEn": [
+   "Tropic of Cancer",
+   "Equator",
+   "Prime Meridian",
+   "Tropic of Capricorn"
+  ],
+  "optsHi": [
+   "कर्क रेखा",
+   "भूमध्य रेखा",
+   "प्रधान मध्याह्न रेखा",
+   "मकर रेखा"
+  ],
+  "correct": 1,
+  "explainEn": "The Equator is located at zero degrees latitude and splits the Earth into Northern and Southern hemispheres.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T22:08:15Z"
+ },
+ {
+  "id": "q_18867a4eca06a2ff",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which historical monument in India was built using white marble by Emperor Shah Jahan?",
+  "qHi": "भारत में सम्राट शाहजहाँ द्वारा सफेद संगमरमर का उपयोग करके कौन सा ऐतिहासिक स्मारक बनवाया गया था?",
+  "optsEn": [
+   "Red Fort",
+   "Qutub Minar",
+   "Taj Mahal",
+   "Hawa Mahal"
+  ],
+  "optsHi": [
+   "लाल किला",
+   "कुतुब मीनार",
+   "ताजमहल",
+   "हवा महल"
+  ],
+  "correct": 2,
+  "explainEn": "The Taj Mahal in Agra was commissioned by Shah Jahan as a mausoleum made of white marble.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T22:08:15Z"
+ },
+ {
+  "id": "q_b9ef1ac617c00183",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What happens to the volume of water when it freezes into ice?",
+  "qHi": "जब पानी बर्फ में बदलता है, तो उसके आयतन (वॉल्यूम) का क्या होता है?",
+  "optsEn": [
+   "It increases",
+   "It decreases",
+   "It remains exactly the same",
+   "It first decreases then disappears"
+  ],
+  "optsHi": [
+   "यह बढ़ जाता है",
+   "यह कम हो जाता है",
+   "यह बिल्कुल समान रहता है",
+   "यह पहले घटता है फिर गायब हो जाता है"
+  ],
+  "correct": 0,
+  "explainEn": "Water expands when it freezes, meaning ice takes up more volume than liquid water.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T22:08:15Z"
+ },
+ {
+  "id": "q_20ce31d86a8ee316",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of map is specially designed to show physical features like mountains, plateaus, and rivers?",
+  "qHi": "पर्वतों, पठारों और नदियों जैसी भौतिक विशेषताओं को दिखाने के लिए विशेष रूप से किस प्रकार के मानचित्र को डिज़ाइन किया गया है?",
+  "optsEn": [
+   "Political map",
+   "Physical map",
+   "Road map",
+   "Thematic map"
+  ],
+  "optsHi": [
+   "राजनीतिक मानचित्र",
+   "भौतिक मानचित्र",
+   "सड़क मानचित्र",
+   "विषयगत मानचित्र"
+  ],
+  "correct": 1,
+  "explainEn": "Physical maps display natural landscape features of the Earth such as mountains, rivers, and plains.",
+  "sourceHint": "NCERT Class 5 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T22:08:15Z"
+ },
+ {
+  "id": "q_ad6ff9f90c252078",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which part of a plant primarily takes in carbon dioxide from the air for photosynthesis?",
+  "qHi": "पौधे का कौन सा भाग प्रकाश संश्लेषण के लिए मुख्य रूप से हवा से कार्बन डाइऑक्साइड ग्रहण करता है?",
+  "optsEn": [
+   "Roots",
+   "Stem",
+   "Stomata",
+   "Flowers"
+  ],
+  "optsHi": [
+   "जड़ें",
+   "ततना",
+   "रंध्र",
+   "फूल"
+  ],
+  "correct": 2,
+  "explainEn": "Stomata are tiny pores present mainly on the underside of leaves that allow gas exchange.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T22:09:19Z"
+ },
+ {
+  "id": "q_3c4fbb8954dad213",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian state is famous for the classical dance form known as Kathakali?",
+  "qHi": "कथकली नामक शास्त्रीय नृत्य के लिए भारत का कौन सा राज्य प्रसिद्ध है?",
+  "optsEn": [
+   "Kerala",
+   "Tamil Nadu",
+   "Andhra Pradesh",
+   "Odisha"
+  ],
+  "optsHi": [
+   "केरल",
+   "तमिलनाडु",
+   "आंध्र प्रदेश",
+   "ओडिशा"
+  ],
+  "correct": 0,
+  "explainEn": "Kathakali is a major classical Indian dance form that originated in the southern state of Kerala.",
+  "sourceHint": "NCERT Curriculum / Cultural Heritage",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T22:09:19Z"
+ },
+ {
+  "id": "q_17e3ccff7ec9a1ea",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which instrument is specifically used to measure the intensity of earthquakes?",
+  "qHi": "भूकंप की तीव्रता मापने के लिए विशेष रूप से किस उपकरण का उपयोग किया जाता है?",
+  "optsEn": [
+   "Barometer",
+   "Anemometer",
+   "Seismograph",
+   "Thermometer"
+  ],
+  "optsHi": [
+   "बैरोमीटर",
+   "एनीमोमीटर",
+   "भूकंपलेखी",
+   "थर्मोमीटर"
+  ],
+  "correct": 2,
+  "explainEn": "A seismograph is an instrument used to detect and record earthquakes.",
+  "sourceHint": "NCERT Class 7 Geography Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T22:09:19Z"
  }
 ]

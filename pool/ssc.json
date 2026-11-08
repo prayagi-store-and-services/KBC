@@ -21054,5 +21054,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-08T13:28:41Z"
+ },
+ {
+  "id": "q_0e46afe10c0ea299",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which historical monument was built by Emperor Shah Jahan in Agra as a mausoleum for his wife Mumtaz Mahal?",
+  "qHi": "सम्राट शाहजहाँ द्वारा अपनी पत्नी मुमताज महल के मकबरे के रूप में आगरा में कौन सा ऐतिहासिक स्मारक बनवाया गया था?",
+  "optsEn": [
+   "Qutub Minar",
+   "Red Fort",
+   "Taj Mahal",
+   "Humayun's Tomb"
+  ],
+  "optsHi": [
+   "कुतुब मीनार",
+   "लाल किला",
+   "ताज महल",
+   "हुमायूं का मकबरा"
+  ],
+  "correct": 2,
+  "explainEn": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, built by Shah Jahan.",
+  "sourceHint": "NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T22:07:56Z"
+ },
+ {
+  "id": "q_bc62d1355fef475b",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which wind system is primarily responsible for bringing rainfall to the Malabar coast of India during summer?",
+  "qHi": "ग्रीष्म ऋतु में भारत के मालाबार तट पर वर्षा लाने के लिए मुख्य रूप से कौन सी पवन प्रणाली उत्तरदायी है?",
+  "optsEn": [
+   "North-East Monsoon",
+   "South-West Monsoon",
+   "Western Disturbances",
+   "retreating monsoons"
+  ],
+  "optsHi": [
+   "उत्तर-पूर्वी मानसून",
+   "दक्षिण-पश्चिमी मानसून",
+   "पश्चिमी विक्षوب",
+   "निवर्तमान मानसून"
+  ],
+  "correct": 1,
+  "explainEn": "The South-West Monsoon winds strike the western coast of India, including the Malabar coast, bringing heavy rainfall during the summer months.",
+  "sourceHint": "NCERT Class 11 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T22:09:04Z"
+ },
+ {
+  "id": "q_85417639cd6f5fb6",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organism is commonly used as a bio-fertilizer in paddy (rice) fields due to its nitrogen-fixing ability?",
+  "qHi": "धान के खेतों में नाइट्रोजन स्थिरीकरण की क्षमता के कारण जैव-उर्वरक के रूप में आमतौर पर किस जीव का उपयोग किया जाता है?",
+  "optsEn": [
+   "Rhizobium",
+   "Azotobacter",
+   "Anabaena",
+   "Lactobacillus"
+  ],
+  "optsHi": [
+   "राइज़ोबियम",
+   "एज़ोटोबैक्टर",
+   "एनाबीना",
+   "लैक्टोबैसिलस"
+  ],
+  "correct": 2,
+  "explainEn": "Anabaena, often found in association with the water fern Azolla, fixes atmospheric nitrogen and is widely used as a bio-fertilizer in rice cultivation.",
+  "sourceHint": "NCERT Class 12 Biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T22:09:04Z"
+ },
+ {
+  "id": "q_43a84bfd4445a2e2",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who founded the Servants of India Society in 1905?",
+  "qHi": "1905 में 'सर्वेंट्स ऑफ़ इंडिया सोसाइटी' की स्थापना किसने की थी?",
+  "optsEn": [
+   "Mahatma Gandhi",
+   "Gopal Krishna Gokhale",
+   "Bal Gangadhar Tilak",
+   "Dadabhai Naoroji"
+  ],
+  "optsHi": [
+   "महात्मा गांधी",
+   "गोपाल कृष्ण गोखले",
+   "बाल गंगाधर तिलक",
+   "दादाभाई नौरोजी"
+  ],
+  "correct": 1,
+  "explainEn": "Gopal Krishna Gokhale founded the Servants of India Society in Pune in 1905 to unite and train Indians of different ethnicities and religions in welfare work.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T22:09:04Z"
  }
 ]

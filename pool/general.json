@@ -21250,5 +21250,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-08T13:28:53Z"
+ },
+ {
+  "id": "q_834b65d14c04322e",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which state is the ancient monument of Taj Mahal located?",
+  "qHi": "ताजमहल का प्राचीन स्मारक किस राज्य में स्थित है?",
+  "optsEn": [
+   "Madhya Pradesh",
+   "Uttar Pradesh",
+   "Rajasthan",
+   "Maharashtra"
+  ],
+  "optsHi": [
+   "मध्य प्रदेश",
+   "उत्तर प्रदेश",
+   "राजस्थान",
+   "महाराष्ट्र"
+  ],
+  "correct": 1,
+  "explainEn": "The Taj Mahal is an ivory-white marble mausoleum located on the right bank of the Yamuna river in Agra, Uttar Pradesh.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T22:07:12Z"
+ },
+ {
+  "id": "q_8f0d1f2d1321363a",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which monument in India was built by Shah Jahan as a mausoleum for his wife Mumtaz Mahal?",
+  "qHi": "भारत में किस स्मारक का निर्माण शाहजहाँ ने अपनी पत्नी मुमताज महल के मकबरे के रूप में करवाया था?",
+  "optsEn": [
+   "Red Fort",
+   "Qutub Minar",
+   "Taj Mahal",
+   "Humayun Tomb"
+  ],
+  "optsHi": [
+   "लाल किला",
+   "कुतुब मीनार",
+   "ताजमहल",
+   "हुमायूँ का मकबरा"
+  ],
+  "correct": 2,
+  "explainEn": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, commissioned by Shah Jahan.",
+  "sourceHint": "ASI India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T22:08:10Z"
+ },
+ {
+  "id": "q_e840dfbce80f3df0",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which gas makes up the majority of Earth atmosphere?",
+  "qHi": "पृथ्वी के वायुमंडल में अधिकांश भाग कौन सी गैस का है?",
+  "optsEn": [
+   "Oxygen",
+   "Nitrogen",
+   "Carbon dioxide",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "कार्बन डाइऑक्साइड",
+   "आर्गन"
+  ],
+  "correct": 1,
+  "explainEn": "Nitrogen makes up about 78 percent of Earth atmosphere by volume.",
+  "sourceHint": "Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T22:08:10Z"
+ },
+ {
+  "id": "q_b05dbc91ee6470ce",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which plateau lies between the Satpura and Vindhya ranges in central India?",
+  "qHi": "मध्य भारत में सतपुड़ा और विंध्य श्रेणियों के बीच कौन सा पठार स्थित है?",
+  "optsEn": [
+   "Chota Nagpur Plateau",
+   "Malwa Plateau",
+   "Deccan Plateau",
+   "Bastar Plateau"
+  ],
+  "optsHi": [
+   "छोटा नागपुर पठार",
+   "मालवा पठार",
+   "दक्कन का पठार",
+   "बस्तर पठार"
+  ],
+  "correct": 1,
+  "explainEn": "The Malwa Plateau is bounded by the Vindhyan Range in the south, the Aravalli Range in the west, and the Madhya Bharat plateau to the north.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T22:09:14Z"
+ },
+ {
+  "id": "q_5b789cdb6d09ca3f",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the game of chess, which piece moves exclusively in an L-shape?",
+  "qHi": "शतरंज के खेल में, कौन सा मोहरा विशेष रूप से एल-आकार (L-shape) में चलता है?",
+  "optsEn": [
+   "Bishop",
+   "Knight",
+   "Rook",
+   "Queen"
+  ],
+  "optsHi": [
+   "ऊंट (Bishop)",
+   "घोड़ा (Knight)",
+   "हाथी (Rook)",
+   "वजीर (Queen)"
+  ],
+  "correct": 1,
+  "explainEn": "The knight moves in an L-shape: two squares in one cardinal direction and then one square perpendicular to that, and is the only piece that can jump over other pieces.",
+  "sourceHint": "FIDE Laws of Chess",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T22:09:14Z"
+ },
+ {
+  "id": "q_e6dec73b883c91da",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which vitamin is primarily synthesized in the human skin upon exposure to ultraviolet-B rays from sunlight?",
+  "qHi": "सूरज की रोशनी से पराबैंगनी-बी (UV-B) किरणों के संपर्क में आने पर मानव त्वचा में मुख्य रूप से कौन सा विटामिन संश्लेषित होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B12",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी12",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Vitamin D is often called the sunshine vitamin because it is synthesized in the skin when cholesterol reacts with ultraviolet-B radiation from the sun.",
+  "sourceHint": "NCERT Biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T22:09:14Z"
  }
 ]
