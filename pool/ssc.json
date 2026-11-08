@@ -20886,5 +20886,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-08T06:04:54Z"
+ },
+ {
+  "id": "q_e374b4191655c9d5",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "The classical dance form named Kathakali originates from which Indian state?",
+  "qHi": "कथकली नामक शास्त्रीय नृत्य रूप किस भारतीय राज्य से संबंधित है?",
+  "optsEn": [
+   "Kerala",
+   "Tamil Nadu",
+   "Andhra Pradesh",
+   "Odisha"
+  ],
+  "optsHi": [
+   "केरल",
+   "तमिलनाडु",
+   "आंध्र प्रदेश",
+   "ओडिशा"
+  ],
+  "correct": 0,
+  "explainEn": "Kathakali is a major form of classical Indian dance that originated in Kerala.",
+  "sourceHint": "Ministry of Culture India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:27:39Z"
+ },
+ {
+  "id": "q_cbd33c60e6f9b714",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which soil type, formed by the weathering of basaltic lava rocks, is predominantly found in the Deccan Trap region of India?",
+  "qHi": "बेसाल्टिक लावा चट्टानों के अपक्षय से बनने वाली कौन सी मिट्टी भारत के दक्कन ट्रैप क्षेत्र में प्रमुख रूप से पाई जाती है?",
+  "optsEn": [
+   "Laterite soil",
+   "Red soil",
+   "Alluvial soil",
+   "Black soil"
+  ],
+  "optsHi": [
+   "लैटेराइट मिट्टी",
+   "लाल मिट्टी",
+   "जलोढ़ मिट्टी",
+   "काली मिट्टी"
+  ],
+  "correct": 3,
+  "explainEn": "Black soil, also known as Regur soil, is formed from the weathering of basaltic lava rocks in the Deccan plateau and is ideal for growing cotton.",
+  "sourceHint": "NCERT Class 10 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:28:41Z"
+ },
+ {
+  "id": "q_8c20c25d1805a1f4",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which atmospheric layer is characterized by the presence of the ozone layer that absorbs harmful ultraviolet radiation?",
+  "qHi": "किस वायुमंडलीय परत की विशेषता ओजोन परत की उपस्थिति है जो हानिकारक पराबैंगनी विकिरण को अवशोषित करती है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The stratosphere contains the ozone layer, which absorbs harmful ultraviolet (UV) radiation coming from the Sun.",
+  "sourceHint": "NCERT Class 7 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:28:41Z"
+ },
+ {
+  "id": "q_2fd1f7d6b303e364",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The joint sitting of both Houses of Parliament in India is summoned by whom?",
+  "qHi": "भारत में संसद के दोनों सदनों की संयुक्त बैठक किसके द्वारा आहूत की जाती है?",
+  "optsEn": [
+   "Prime Minister",
+   "Speaker of Lok Sabha",
+   "President",
+   "Chairman of Rajya Sabha"
+  ],
+  "optsHi": [
+   "प्रधान मंत्री",
+   "लोकसभा अध्यक्ष",
+   "राष्ट्रपति",
+   "राज्यसभा के सभापति"
+  ],
+  "correct": 2,
+  "explainEn": "Under Article 108 of the Constitution, the President of India summons both Houses to a joint sitting in certain cases of deadlock, while it is presided over by the Speaker of the Lok Sabha.",
+  "sourceHint": "Constitution of India, Article 108",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:28:41Z"
+ },
+ {
+  "id": "q_09e9e3f49d2b437e",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following vitamins is water-soluble and cannot be stored in the human body in significant amounts?",
+  "qHi": "निम्नलिखित में से कौन सा विटामिन पानी में घुलनशील है और मानव शरीर में पर्याप्त मात्रा में संग्रहित नहीं किया जा सकता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin C",
+   "Vitamin D",
+   "Vitamin K"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन सी",
+   "विटामिन डी",
+   "विटामिन के"
+  ],
+  "correct": 1,
+  "explainEn": "Vitamin C and the B-complex vitamins are water-soluble and must be regularly supplied through diet, unlike fat-soluble vitamins (A, D, E, K).",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:28:41Z"
+ },
+ {
+  "id": "q_f2ca735ebd04b40f",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The famous rock-cut Rathas (temples) of Mahabalipuram were built during the reign of which dynasty?",
+  "qHi": "महाबलीपुरम के प्रसिद्ध चट्टानों को काटकर बनाए गए रथ (मंदिर) किस राजवंश के शासनकाल के दौरान बनाए गए थे?",
+  "optsEn": [
+   "Chola dynasty",
+   "Pallava dynasty",
+   "Chalukya dynasty",
+   "Rashtrakuta dynasty"
+  ],
+  "optsHi": [
+   "चोल वंश",
+   "पल्लव वंश",
+   "चालुक्य वंश",
+   "राष्ट्रकूट वंश"
+  ],
+  "correct": 1,
+  "explainEn": "The monolithic rock-cut rathas at Mahabalipuram were constructed during the Pallava dynasty under the patronage of King Mahendravarman I and Narasimhavarman I.",
+  "sourceHint": "NCERT Class 12 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:28:41Z"
  }
 ]

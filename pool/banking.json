@@ -36706,5 +36706,453 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-08T06:05:00Z"
+ },
+ {
+  "id": "q_f9fe1f94e7d03a9f",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization regulates the issuance and operations of Credit Cards and Debit Cards in India?",
+  "qHi": "भारत में क्रेडिट कार्ड और डेबिट कार्ड के जारी होने और संचालन को कौन सा संगठन विनियमित करता है?",
+  "optsEn": [
+   "Securities and Exchange Board of India",
+   "Reserve Bank of India",
+   "Insurance Regulatory and Development Authority",
+   "Ministry of Finance"
+  ],
+  "optsHi": [
+   "Securities and Exchange Board of India",
+   "Reserve Bank of India",
+   "Insurance Regulatory and Development Authority",
+   "Ministry of Finance"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India (RBI) is the central banking institution that regulates all payment systems and card operations in India.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:26:49Z"
+ },
+ {
+  "id": "q_fbb67e2b7e6c52f8",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following institutions is known as the lender of last resort in India?",
+  "qHi": "निम्नलिखित में से किस संस्था को भारत में अंतिम ऋणदाता के रूप में जाना जाता है?",
+  "optsEn": [
+   "State Bank of India",
+   "Reserve Bank of India",
+   "NABARD",
+   "IFCI"
+  ],
+  "optsHi": [
+   "State Bank of India",
+   "Reserve Bank of India",
+   "NABARD",
+   "IFCI"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India acts as the lender of last resort to commercial banks experiencing financial distress.",
+  "sourceHint": "NCERT Economics textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:26:49Z"
+ },
+ {
+  "id": "q_1288eaa474d75056",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum character length of an IFSC (Indian Financial System Code) code?",
+  "qHi": "IFSC (इंडियन फाइनेंशियल सिस्टम कोड) कोड की अधिकतम वर्ण लंबाई (character length) क्या है?",
+  "optsEn": [
+   "9 digits",
+   "10 characters",
+   "11 characters",
+   "12 digits"
+  ],
+  "optsHi": [
+   "9 digits",
+   "10 characters",
+   "11 characters",
+   "12 digits"
+  ],
+  "correct": 2,
+  "explainEn": "An IFSC is an 11-character alphanumeric code that uniquely identifies a bank branch participating in NEFT.",
+  "sourceHint": "RBI guidelines on IFSC",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:26:49Z"
+ },
+ {
+  "id": "q_9630f02754ddd1ee",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which specialized financial institution in India is primarily mandated for agriculture and rural development?",
+  "qHi": "भारत में कौन सा विशिष्ट वित्तीय संस्थान मुख्य रूप से कृषि और ग्रामीण विकास के लिए अधिकृत है?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "NHB"
+  ],
+  "optsHi": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "NHB"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) was established in 1982 for agriculture and rural development financing.",
+  "sourceHint": "NABARD Act, 1981",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:26:49Z"
+ },
+ {
+  "id": "q_ad6659e23220e9c2",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under Basel III norms, what does the term 'Tier 1 Capital' primarily represent for a bank?",
+  "qHi": "बेसल III मानदंडों के तहत, 'टियर 1 पूंजी' शब्द मुख्य रूप से किसी बैंक के लिए किसका प्रतिनिधित्व करता है?",
+  "optsEn": [
+   "Subordinated debt with a fixed maturity",
+   "Core capital including common equity and disclosed reserves",
+   "Unsecured term loans from central banks",
+   "Total assets minus non-performing assets"
+  ],
+  "optsHi": [
+   "एक निश्चित परिपक्वता के साथ अधीनस्थ ऋण",
+   "सामान्य इक्विटी और disclosed संचित भंडार सहित कोर पूंजी",
+   "केंद्रीय बैंकों से असुरक्षित अवधि ऋण",
+   "कुल संपत्ति माइनस गैर-निष्पादित संपत्ति"
+  ],
+  "correct": 1,
+  "explainEn": "Tier 1 capital is the core measure of a bank's financial strength from a regulatory perspective, consisting mainly of common stock and disclosed reserves.",
+  "sourceHint": "Basel Committee on Banking Supervision",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:28:06Z"
+ },
+ {
+  "id": "q_7c001d7f1adff37d",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India acts as the central nodal agency for implementing the Pradhan Mantri Jan Dhan Yojana (PMJDY)?",
+  "qHi": "भारत में कौन सा संगठन प्रधानमंत्री जन धन योजना (PMJDY) को लागू करने के लिए केंद्रीय नोडल एजेंसी के रूप में कार्य करता है?",
+  "optsEn": [
+   "National Bank for Agriculture and Rural Development",
+   "Department of Financial Services, Ministry of Finance",
+   "Reserve Bank of India",
+   "State Bank of India"
+  ],
+  "optsHi": [
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक",
+   "वित्तीय सेवा विभाग, वित्त मंत्रालय",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय स्टेट बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "PMJDY is a national mission for financial inclusion implemented by the Department of Financial Services, Ministry of Finance.",
+  "sourceHint": "Ministry of Finance official portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:28:06Z"
+ },
+ {
+  "id": "q_8b8ed30435df03ce",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following negotiable instruments is defined under Section 13 of the Negotiable Instruments Act, 1881?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 की धारा 13 के तहत निम्नलिखित में से किस परक्राम्य लिखत को परिभाषित किया गया है?",
+  "optsEn": [
+   "Promissory note, bill of exchange, and cheque",
+   "Letter of credit only",
+   "Bank guarantee only",
+   "Treasury bill and commercial paper only"
+  ],
+  "optsHi": [
+   "प्रोमिजरी नोट, विनिमय पत्र और चेक",
+   "केवल साख पत्र",
+   "केवल बैंक गारंटी",
+   "केवल ट्रेजरी बिल और कमर्शियल पेपर"
+  ],
+  "correct": 0,
+  "explainEn": "Section 13 of the Negotiable Instruments Act defines a negotiable instrument as a promissory note, bill of exchange, or cheque payable either to order or to bearer.",
+  "sourceHint": "Negotiable Instruments Act, 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:28:06Z"
+ },
+ {
+  "id": "q_066ced229b62bfc9",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of international trade and banking, what does SWIFT stand for?",
+  "qHi": "अंतरराष्ट्रीय व्यापार और बैंकिंग के संदर्भ में, SWIFT का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Society for Worldwide Interbank Financial Telecommunication",
+   "System for Worldwide International Finance Transfer",
+   "Secured Wire and Internet Financial Transactions",
+   "Standard Worldwide Interbank Foreign Trade"
+  ],
+  "optsHi": [
+   "सोसाइटी फॉर वर्ल्डवाइड इंटरबैंक फाइनेंशियल टेलीकम्युनिकेशन",
+   "सिस्टम फॉर वर्ल्डवाइड इंटरनेशनल फाइनेंस ट्रांसफर",
+   "सिक्योर्ड वायर एंड इंटरनेट फाइनेंशियल ट्रांजैक्शंस",
+   "स्टैंडर्ड वर्ल्डवाइड इंटरबैंक फॉरेन ट्रेड"
+  ],
+  "correct": 0,
+  "explainEn": "SWIFT provides a secure network that enables financial institutions worldwide to send and receive information about financial transactions.",
+  "sourceHint": "SWIFT official background",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:28:06Z"
+ },
+ {
+  "id": "q_8a4c4049061a997c",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following monetary policy tools is defined as a statutory reserve requirement that mandates scheduled commercial banks to maintain a specified percentage of their net demand and time liabilities in the form of liquid assets with themselves?",
+  "qHi": "निम्नलिखित में से कौन सा मौद्रिक नीति उपकरण एक वैधानिक आरक्षित आवश्यकता के रूप में परिभाषित है जो अनुसूचित वाणिज्यिक बैंकों को अपनी शुद्ध मांग और समय देनदारियों का एक निर्दिष्ट प्रतिशत अपने पास तरल संपत्तियों के रूप में बनाए रखने के लिए अनिवार्य करता है?",
+  "optsEn": [
+   "Cash Reserve Ratio",
+   "Statutory Liquidity Ratio",
+   "Repo Rate",
+   "Marginal Standing Facility"
+  ],
+  "optsHi": [
+   "नकद आरक्षित अनुपात",
+   "वैधानिक तरलता अनुपात",
+   "रेपो दर",
+   "सीमांत स्थायी सुविधा"
+  ],
+  "correct": 1,
+  "explainEn": "Statutory Liquidity Ratio (SLR) requires banks to maintain a certain percentage of NDTL in liquid assets like cash, gold, or approved securities with themselves.",
+  "sourceHint": "RBI Publications and Functions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:28:48Z"
+ },
+ {
+  "id": "q_5a674a1292fc07a8",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian banking, what does the 'C' stand for in the acronym 'CASA' deposits?",
+  "qHi": "भारतीय बैंकिंग के संदर्भ में, 'CASA' जमा संक्षिप्त नाम में 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Current",
+   "Capital",
+   "Collateral",
+   "Core"
+  ],
+  "optsHi": [
+   "करेंट (चालू)",
+   "पूंजी",
+   "समपार्श्व (संपार्श्विक)",
+   "कोर"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account Savings Account, representing the bank's low-cost deposit mobilization.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) Study Material",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:28:48Z"
+ },
+ {
+  "id": "q_6f7339388cd7d1ef",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "As per the provisions of the Negotiable Instruments Act, 1881, a cheque that does not bear any date on it at the time of presentation is legally categorized as which type of instrument?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के प्रावधानों के अनुसार, प्रस्तुतीकरण के समय जिस चेक पर कोई तारीख नहीं होती है, उसे कानूनी रूप से किस प्रकार के लिखत के रूप में वर्गीकृत किया जाता है?",
+  "optsEn": [
+   "Stale cheque",
+   "Mutilated cheque",
+   "Inchoate instrument",
+   "Ambiguous instrument"
+  ],
+  "optsHi": [
+   "स्टेल चेक (बासी चेक)",
+   "विकृत चेक",
+   "अधूरा लिखत",
+   "संदिग्ध लिखत"
+  ],
+  "correct": 2,
+  "explainEn": "An inchoate instrument under Section 20 of the Negotiable Instruments Act is one that is incomplete in certain respects, such as lacking a date.",
+  "sourceHint": "Negotiable Instruments Act, 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:28:48Z"
+ },
+ {
+  "id": "q_62dab7c548866bc9",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which institutional entity in India acts as the primary regulator for microfinance institutions (MFIs) that are structured as Non-Banking Financial Companies (NBFCs)?",
+  "qHi": "भारत में कौन सी संस्थागत इकाई गैर-बैंकिंग वित्तीय कंपनियों (एनबीएफसी) के रूप में संरचित सूक्ष्म वित्त संस्थानों (एमएफआई) के लिए प्राथमिक नियामक के रूप में कार्य करती है?",
+  "optsEn": [
+   "Small Industries Development Bank of India",
+   "Reserve Bank of India",
+   "National Bank for Agriculture and Rural Development",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "भारतीय लघु उद्योग विकास बैंक",
+   "भारतीय रिजर्व बैंक",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक",
+   "भारतीय प्रतिभूति and विनिमय बोर्ड"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India regulates all NBFCs, including NBFC-MFIs, under the Reserve Bank of India Act, 1934.",
+  "sourceHint": "RBI Master Directions on NBFC-MFI",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:28:48Z"
+ },
+ {
+  "id": "q_3ad683a46c2c3f89",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Basel III norms, which category of capital is considered the highest quality of Tier 1 capital, comprising mostly of common stock and retained earnings?",
+  "qHi": "बेसल III मानदंडों के तहत, पूंजी की किस श्रेणी को टियर 1 पूंजी की उच्चतम गुणवत्ता माना जाता है, जिसमें मुख्य रूप से सामान्य स्टॉक और प्रतिधारित आय शामिल होती है?",
+  "optsEn": [
+   "Additional Tier 1 Capital",
+   "Common Equity Tier 1 Capital",
+   "Tier 2 Capital",
+   "Supplementary Capital"
+  ],
+  "optsHi": [
+   "अतिरिक्त टियर 1 पूंजी",
+   "सामान्य इक्विटी टियर 1 पूंजी",
+   "टियर 2 पूंजी",
+   "पूरक पूंजी"
+  ],
+  "correct": 1,
+  "explainEn": "Common Equity Tier 1 (CET1) capital is the core component of Tier 1 capital providing the highest loss-absorption capacity.",
+  "sourceHint": "Basel Committee on Banking Supervision (BCBS) guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:28:48Z"
+ },
+ {
+  "id": "q_fdf4591f7636d79c",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the maximum permissible limit of liability for a customer in case of a third-party fraud where the fault lies neither with the bank nor with the customer, and the customer notifies the bank within 4 to 7 working days, as per RBI guidelines on electronic banking transactions?",
+  "qHi": "इलेक्ट्रॉनिक बैंकिंग लेनदेन पर आरबीआई के दिशानिर्देशों के अनुसार, तीसरे पक्ष की धोखाधड़ी के मामले में जहां न तो बैंक की गलती है और न ही ग्राहक की, और ग्राहक 4 से 7 कार्यদিवसों के भीतर बैंक को सूचित करता है, ग्राहक के लिए दायित्व की अधिकतम स्वीकार्य सीमा क्या है?",
+  "optsEn": [
+   "Zero liability",
+   "Up to Rupees 5,000",
+   "Up to Rupees 10,000",
+   "Up to Rupees 25,000"
+  ],
+  "optsHi": [
+   "शून्य दायित्व",
+   "5,000 रुपये तक",
+   "10,000 रुपये तक",
+   "25,000 रुपये तक"
+  ],
+  "correct": 3,
+  "explainEn": "According to RBI guidelines on customer liability in unauthorized electronic banking transactions, the liability for a basic savings account for a 4-7 day reporting window in third-party breaches is capped at Rs 25,000.",
+  "sourceHint": "RBI Circular on Customer Protection",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:28:48Z"
+ },
+ {
+  "id": "q_14b4ea151328a636",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific financial market instrument represents short-term unsecured debt issued by corporations to meet their immediate working capital requirements?",
+  "qHi": "कौन सा विशिष्ट वित्तीय बाजार उपकरण निगमों द्वारा उनकी तत्काल कार्यशील पूंजी आवश्यकताओं को पूरा करने के लिए जारी किए गए अल्पकालिक असुरक्षित ऋण का प्रतिनिधित्व करता है?",
+  "optsEn": [
+   "Certificate of Deposit",
+   "Commercial Paper",
+   "Treasury Bill",
+   "Dated Government Security"
+  ],
+  "optsHi": [
+   "जमा प्रमाणपत्र",
+   "वाणिज्यिक पत्र",
+   "राजकोषीय विपत्र",
+   "दिनांकित सरकारी प्रतिभूति"
+  ],
+  "correct": 1,
+  "explainEn": "Commercial Paper (CP) is an unsecured money market instrument issued in the form of a promissory note by highly rated corporate entities.",
+  "sourceHint": "RBI Guidelines on Money Market Instruments",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:28:48Z"
+ },
+ {
+  "id": "q_eec9a27535ee85f5",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specialized financial institution in India is statutorily mandated to provide refinance facilities exclusively for the promotion, financing, and development of agriculture, small-scale industries, cottage and village industries, and other allied rural sectors?",
+  "qHi": "भारत में किस विशेष वित्तीय संस्था को कृषि, लघु उद्योग, कुटीर एवं ग्राम उद्योग और अन्य संबद्ध ग्रामीण क्षेत्रों के संवर्धन, वित्तपोषण और विकास के लिए विशेष रूप से पुनर्वित्त सुविधाएं प्रदान करने का वैधानिक आदेश प्राप्त है?",
+  "optsEn": [
+   "Export-Import Bank of India",
+   "National Bank for Agriculture and Rural Development",
+   "Small Industries Development Bank of India",
+   "Industrial Finance Corporation of India"
+  ],
+  "optsHi": [
+   "भारतीय निर्यात-आयात बैंक",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक",
+   "भारतीय लघु उद्योग विकास बैंक",
+   "भारतीय औद्योगिक वित्त निगम"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD was established under the NABARD Act 1981 to provide and regulate credit and other facilities for the promotion and development of agriculture and rural sectors.",
+  "sourceHint": "NABARD Act, 1981",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:28:48Z"
  }
 ]

@@ -24610,5 +24610,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-08T06:04:33Z"
+ },
+ {
+  "id": "q_be84c2d583060bca",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the book 'An Autobiography', which was partly written in prison?",
+  "qHi": "'एन ऑटोबायोग्राफी' पुस्तक किसने लिखी, जिसे आंशिक रूप से जेल में लिखा गया था?",
+  "optsEn": [
+   "Mahatma Gandhi",
+   "Jawaharlal Nehru",
+   "Rabindranath Tagore",
+   "Subhas Chandra Bose"
+  ],
+  "optsHi": [
+   "महात्मा गांधी",
+   "जवाहरलाल नेहरू",
+   "रवींद्रनाथ टैगोर",
+   "सुभाष चंद्र बोस"
+  ],
+  "correct": 1,
+  "explainEn": "Jawaharlal Nehru wrote his autobiography during his imprisonment between 1934 and 1935.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:27:02Z"
+ },
+ {
+  "id": "q_192c0abf20189c29",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following resources is an example of a non-renewable resource?",
+  "qHi": "निम्नलिखित में से कौन सा संसाधन अनवीकरणीय संसाधन का एक उदाहरण है?",
+  "optsEn": [
+   "Solar energy",
+   "Wind energy",
+   "Coal",
+   "Water"
+  ],
+  "optsHi": [
+   "सौर ऊर्जा",
+   "पवन ऊर्जा",
+   "कोयला",
+   "पानी"
+  ],
+  "correct": 2,
+  "explainEn": "Coal takes millions of years to form and gets exhausted with use, making it non-renewable.",
+  "sourceHint": "NCERT Class 8 Geography Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:27:02Z"
+ },
+ {
+  "id": "q_794a0231b2b223cc",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which metal is stored immersed in kerosene because it reacts very vigorously with air and water?",
+  "qHi": "किस धातु को मिट्टी के तेल में डुबोकर रखा जाता है क्योंकि यह हवा और पानी के साथ बहुत तेजी से प्रतिक्रिया करती है?",
+  "optsEn": [
+   "Copper",
+   "Aluminum",
+   "Sodium",
+   "Gold"
+  ],
+  "optsHi": [
+   "ताँबा",
+   "एल्युमीनियम",
+   "सोडियम",
+   "सोना"
+  ],
+  "correct": 2,
+  "explainEn": "Sodium is a very reactive metal that catches fire if kept in contact with air and moisture, so it is stored in kerosene.",
+  "sourceHint": "NCERT Class 8 Science Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:28:20Z"
+ },
+ {
+  "id": "q_704f52d706e4a810",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which administrative official was appointed by the East India Company to reside in Indian states after the subsidiary alliance was imposed?",
+  "qHi": "सहायक संधि लागू होने के बाद भारतीय रियासतों में रहने के लिए ईस्ट इंडिया कंपनी द्वारा किस प्रशासनिक अधिकारी को नियुक्त किया गया था?",
+  "optsEn": [
+   "Viceroy",
+   "Resident",
+   "Governor-General",
+   "Collector"
+  ],
+  "optsHi": [
+   "वायसराय",
+   "रेजिडेंट",
+   "गवर्नर-जनरल",
+   "कलेक्टर"
+  ],
+  "correct": 1,
+  "explainEn": "Under the subsidiary alliance system, a British Resident was stationed in the court of the allied ruler.",
+  "sourceHint": "NCERT Class 8 History - Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:29:03Z"
+ },
+ {
+  "id": "q_045dab637505b843",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific mineral resource is primarily extracted through the method known as drilling?",
+  "qHi": "ड्रिलिंग नामक पद्धति के माध्यम से मुख्य रूप से किस विशिष्ट खनिज संसाधन को निकाला जाता है?",
+  "optsEn": [
+   "Iron ore",
+   "Coal",
+   "Petroleum",
+   "Mica"
+  ],
+  "optsHi": [
+   "लौह अयस्क",
+   "कोयला",
+   "पेट्रोलियम",
+   "अभ्रक"
+  ],
+  "correct": 2,
+  "explainEn": "Deep wells are bored to take out petroleum and natural gas, a process known as drilling.",
+  "sourceHint": "NCERT Class 8 Geography - Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:29:03Z"
+ },
+ {
+  "id": "q_60de9e098f71f362",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary objective of the Protection of Women from Domestic Violence Act that came into effect in India in 2006?",
+  "qHi": "भारत में 2006 में लागू हुए घरेलू हिंसा से महिलाओं के संरक्षण अधिनियम का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To ensure equal wages for female industrial workers",
+   "To protect women from physical and mental violence within the home",
+   "To provide mandatory free higher education for girls",
+   "To reserve seats for women in local municipal elections"
+  ],
+  "optsHi": [
+   "महिला औद्योगिक श्रमिकों के लिए समान वेतन सुनिश्चित करना",
+   "महिलाओं को घर के भीतर शारीरिक और मानसिक हिंसा से बचाना",
+   "बालिकाओं के लिए अनिवार्य मुफ्त उच्च शिक्षा प्रदान करना",
+   "स्थानीय नगर चुनावों में महिलाओं के लिए सीटें आरक्षित करना"
+  ],
+  "correct": 1,
+  "explainEn": "The 2006 Act extended the understanding of domestic violence to include physical, economic, sexual, verbal, and emotional abuse within a shared household.",
+  "sourceHint": "NCERT Class 8 Civics - Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:29:03Z"
+ },
+ {
+  "id": "q_c13c3769cbf0752c",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following describes the practice of shifting cultivation where trees are felled and cleared on patches of land for farming?",
+  "qHi": "निम्नलिखित में से कौन सी प्रथा स्थानान्तरण कृषि का वर्णन करती है जहाँ खेती के लिए भूमि के टुकड़ों पर पेड़ काटे और साफ किए जाते हैं?",
+  "optsEn": [
+   "Contour ploughing",
+   "Jhum cultivation",
+   "Terrace farming",
+   "Strip cropping"
+  ],
+  "optsHi": [
+   "समुच्चरेखीय जुताई",
+   "झूम खेती",
+   "सीढ़ीनुमा खेती",
+   "पट्टी फसल"
+  ],
+  "correct": 1,
+  "explainEn": "Jhum cultivation or shifting cultivation involves clearing forested land, burning the vegetation, and growing crops in the ashes.",
+  "sourceHint": "NCERT Class 8 History - Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:29:03Z"
+ },
+ {
+  "id": "q_24c5748b19365746",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which institutional mechanism ensures that the Parliament retains control over the financial administration of the government in India?",
+  "qHi": "कौन सा संस्थागत तंत्र यह सुनिश्चित करता है कि भारत में संसद का सरकार के वित्तीय प्रशासन पर नियंत्रण बना रहे?",
+  "optsEn": [
+   "Judicial review",
+   "Annual Budget approval",
+   "Ordinance-making power",
+   "Universal adult suffrage"
+  ],
+  "optsHi": [
+   "न्यायिक समीक्षा",
+   "वार्षिक बजट अनुमोदन",
+   "अध्यादेश जारी करने की शक्ति",
+   "सार्वभौमिक वयस्क मताधिकार"
+  ],
+  "correct": 1,
+  "explainEn": "Parliamentary approval of the budget and financial legislations is essential for the government to levy taxes and spend public money.",
+  "sourceHint": "NCERT Class 8 Civics - Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:29:03Z"
+ },
+ {
+  "id": "q_35adc3c7b920b812",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional Indian textile derived its name from a Portuguese port city where European traders first encountered it?",
+  "qHi": "किस पारंपरिक भारतीय वस्त्र का नाम एक पुर्तगाली बंदरगाह शहर के नाम पर रखा गया था जहाँ यूरोपीय व्यापारियों ने पहली बार इसका सामना किया था?",
+  "optsEn": [
+   "Calico",
+   "Muslin",
+   "Chintz",
+   "Jamdani"
+  ],
+  "optsHi": [
+   "कैलिको",
+   "मलमल",
+   "छिंट",
+   "जामदानी"
+  ],
+  "correct": 0,
+  "explainEn": "Calico, a type of cotton textile, took its name from Calicut in Kerala, through which Portuguese traders operated.",
+  "sourceHint": "NCERT Class 8 History - Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:29:03Z"
+ },
+ {
+  "id": "q_e64103c0fc424e1e",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which climatic phenomenon strongly influences the distribution of natural vegetation across India by causing seasonal heavy rainfall?",
+  "qHi": "मौसमी भारी वर्षा कराकर कौन सी जलवायु घटना भारत भर में प्राकृतिक वनस्पति के वितरण को दृढ़ता से प्रभावित करती है?",
+  "optsEn": [
+   "Western disturbances",
+   "Monsoon winds",
+   "Trade winds",
+   "El Nino currents"
+  ],
+  "optsHi": [
+   "पश्चिमी विक्षोभ",
+   "मानसून हवाएं",
+   "व्यापारिक हवाएं",
+   "अल नीनो धाराएं"
+  ],
+  "correct": 1,
+  "explainEn": "India has tropical evergreen and deciduous forests whose distribution heavily depends on the amount of rainfall brought by the monsoon winds.",
+  "sourceHint": "NCERT Class 8 Geography - Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:29:03Z"
+ },
+ {
+  "id": "q_f1ee90ed73c887f5",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What was the primary purpose of introducing the Permanent Settlement in 1793 by the British administration in Bengal?",
+  "qHi": "ब्रिटिश प्रशासन द्वारा बंगाल में 1793 में स्थायी बंदोबस्त शुरू करने का प्राथमिक उद्देश्य क्या था?",
+  "optsEn": [
+   "To protect the customary rights of Indian tenant farmers",
+   "To ensure a regular and fixed flow of revenue to the Company treasury",
+   "To abolish the caste system in rural agrarian societies",
+   "To promote cooperative farming among local zamindars"
+  ],
+  "optsHi": [
+   "भारतीय काश्तकार किसानों के पारंपरिक अधिकारों की रक्षा करना",
+   "कंपनी के राजकोष में राजस्व का नियमित और निश्चित प्रवाह सुनिश्चित करना",
+   "ग्रामीण कृषि समाजों में जाति व्यवस्था को समाप्त करना",
+   "स्थानीय जमींदारों के बीच सहकारी खेती को बढ़ावा देना"
+  ],
+  "correct": 1,
+  "explainEn": "The Permanent Settlement fixed the land revenue demand permanently to secure a stable and predictable income for the East India Company.",
+  "sourceHint": "NCERT Class 8 History - Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:29:03Z"
  }
 ]

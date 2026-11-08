@@ -21054,5 +21054,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-08T06:05:05Z"
+ },
+ {
+  "id": "q_fd2929c9e942b907",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which monument in India is one of the Seven Wonders of the World?",
+  "qHi": "भारत में कौन सा स्मारक दुनिया के सात अजूबे में से एक है?",
+  "optsEn": [
+   "Taj Mahal",
+   "Qutub Minar",
+   "Red Fort",
+   "Hawa Mahal"
+  ],
+  "optsHi": [
+   "ताजमहल",
+   "कुतुब मीनार",
+   "लाल किला",
+   "हवा महल"
+  ],
+  "correct": 0,
+  "explainEn": "The Taj Mahal in Agra was declared one of the New 7 Wonders of the World.",
+  "sourceHint": "UNESCO / New7Wonders Foundation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:26:53Z"
+ },
+ {
+  "id": "q_40aa12d22e944984",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian state has the coastline on the Arabian Sea rather than the Bay of Bengal?",
+  "qHi": "किस भारतीय राज्य की तटरेखा बंगाल की खाड़ी के बजाय अरब सागर पर है?",
+  "optsEn": [
+   "Odisha",
+   "West Bengal",
+   "Kerala",
+   "Andhra Pradesh"
+  ],
+  "optsHi": [
+   "ओडिशा",
+   "पश्चिम बंगाल",
+   "केरल",
+   "आंध्र प्रदेश"
+  ],
+  "correct": 2,
+  "explainEn": "Kerala is located on the southwestern coast of India along the Arabian Sea.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:28:10Z"
+ },
+ {
+  "id": "q_a9c7448b15dde763",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which constitutional amendment in India is known as the Mini Constitution, introducing significant changes during 1976?",
+  "qHi": "भारत में किस संवैधानिक संशोधन को मिनी संविधान के रूप में जाना जाता है, जिसने 1976 के दौरान महत्वपूर्ण बदलाव किए?",
+  "optsEn": [
+   "42nd Amendment",
+   "44th Amendment",
+   "73rd Amendment",
+   "86th Amendment"
+  ],
+  "optsHi": [
+   "42वां संशोधन",
+   "44वां संशोधन",
+   "73वां संशोधन",
+   "86वां संशोधन"
+  ],
+  "correct": 0,
+  "explainEn": "The 42nd Amendment Act of 1976 is known as the Mini Constitution due to the large number of amendments it brought.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:28:10Z"
+ },
+ {
+  "id": "q_be3d3711812e5361",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who wrote the ancient Sanskrit treatise on statecraft and political economy known as the Arthashastra?",
+  "qHi": "राज्यकला और राजनीतिक अर्थव्यवस्था पर प्राचीन संस्कृत ग्रंथ 'अर्थशास्त्र' किसने लिखा था?",
+  "optsEn": [
+   "Kalidasa",
+   "Kautilya",
+   "Banabhatta",
+   "Vishakhadatta"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "कौटिल्य",
+   "बाणभट्ट",
+   "विशाखदत्त"
+  ],
+  "correct": 1,
+  "explainEn": "The Arthashastra was authored by Kautilya, also known as Chanakya or Vishnugupta, during the Maurya Empire.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:28:53Z"
+ },
+ {
+  "id": "q_b121c8aeb9520ec7",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form of India originated from the Vaishnava monasteries known as Sattras in Assam?",
+  "qHi": "भारत का कौन सा शास्त्रीय नृत्य असम के 'सत्र' नामक वैष्णव मठों से उत्पन्न हुआ है?",
+  "optsEn": [
+   "Kathakali",
+   "Odissi",
+   "Sattriya",
+   "Manipuri"
+  ],
+  "optsHi": [
+   "कथकली",
+   "ओडिसी",
+   "सत्रिया",
+   "मणिपुरी"
+  ],
+  "correct": 2,
+  "explainEn": "Sattriya is a classical dance-drama performance art with origins in the 15th-century greater Assamese Vaishnava movement introduced by Srimanta Sankardeva.",
+  "sourceHint": "Sangeet Natak Akademi",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:28:53Z"
+ },
+ {
+  "id": "q_367a8cae015b7d90",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which chemical element has the highest melting point among all pure elements at standard pressure?",
+  "qHi": "मानक दबाव पर सभी शुद्ध तत्वों में से किस रासायनिक तत्व का गलनांक सबसे अधिक है?",
+  "optsEn": [
+   "Platinum",
+   "Tungsten",
+   "Iron",
+   "Titanium"
+  ],
+  "optsHi": [
+   "प्लेटिनम",
+   "टंगस्टन",
+   "लोहा",
+   "टाइटेनियम"
+  ],
+  "correct": 1,
+  "explainEn": "Tungsten has the highest melting point of all discovered chemical elements, melting at 3422 degrees Celsius.",
+  "sourceHint": "NCERT Class 11 Chemistry",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:28:53Z"
+ },
+ {
+  "id": "q_df43b7ced2b17516",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which astronomical body is the target of ISRO's Aditya-L1 mission?",
+  "qHi": "ISRO کے آدित्य-এল1 مشن کا ہدف کون سا فلکیاتی पिंड है?",
+  "optsEn": [
+   "Moon",
+   "Mars",
+   "Sun",
+   "Venus"
+  ],
+  "optsHi": [
+   "चाँद",
+   "मंगल",
+   "सूर्य",
+   "शुक्र"
+  ],
+  "correct": 2,
+  "explainEn": "Aditya-L1 is the first Indian space mission to observe the Sun and the solar corona, placed in a halo orbit around the Lagrange point 1 (L1).",
+  "sourceHint": "ISRO official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T13:28:53Z"
  }
 ]
