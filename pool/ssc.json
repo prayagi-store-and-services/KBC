@@ -20718,5 +20718,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-07T21:54:56Z"
+ },
+ {
+  "id": "q_cc80b4c87e6dacfb",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which historical monument is located in Agra and built by Shah Jahan?",
+  "qHi": "आगरा में स्थित कौन सा ऐतिहासिक स्मारक शाहजहाँ द्वारा बनवाया गया था?",
+  "optsEn": [
+   "Qutub Minar",
+   "Red Fort",
+   "Taj Mahal",
+   "Humaun Tomb"
+  ],
+  "optsHi": [
+   "कुतुब मीनार",
+   "लाल किला",
+   "ताज महल",
+   "हुमायूं का मकबरा"
+  ],
+  "correct": 2,
+  "explainEn": "The Taj Mahal was commissioned by the Mughal emperor Shah Jahan in Agra.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:02:43Z"
+ },
+ {
+  "id": "q_7def82119d084869",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Five-Year Plan in India was based on the Mahalanobis model?",
+  "qHi": "भारत की कौन सी पंचवर्षीय योजना महालनोबिस मॉडल पर आधारित थी?",
+  "optsEn": [
+   "First Five-Year Plan",
+   "Second Five-Year Plan",
+   "Third Five-Year Plan",
+   "Fourth Five-Year Plan"
+  ],
+  "optsHi": [
+   "प्रथम पंचवर्षीय योजना",
+   "द्वितीय पंचवर्षीय योजना",
+   "तृतीय पंचवर्षीय योजना",
+   "चतुर्थ पंचवर्षीय योजना"
+  ],
+  "correct": 1,
+  "explainEn": "The Second Five-Year Plan (1956-1961) focused on heavy industrialization and was based on the Mahalanobis economic model.",
+  "sourceHint": "NCERT Class 12 Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:03:15Z"
+ },
+ {
+  "id": "q_ff81948feaf035a0",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the reign of which Delhi Sultan was the Iqta system temporarily suspended and revenue collection brought under direct imperial control?",
+  "qHi": "किस दिल्ली सल्तनत के शासक के शासनकाल में इक्ता प्रणाली को थोड़े समय के लिए निलंबित कर दिया गया था और राजस्व संग्रह को सीधे शाही नियंत्रण में लाया गया था?",
+  "optsEn": [
+   "Iltutmish",
+   "Alauddin Khalji",
+   "Muhammad bin Tughluq",
+   "Firoz Shah Tughluq"
+  ],
+  "optsHi": [
+   "इल्तुतमिश",
+   "अलाउद्दीन खिलजी",
+   "मुहम्मद बिन तुगलक",
+   "फिरोज शाह तुगलक"
+  ],
+  "correct": 1,
+  "explainEn": "Alauddin Khalji abolished the autonomy of the Iqtadars, reduced their privileges, and brought vast areas of land directly under the crown as Khalisa land.",
+  "sourceHint": "NCERT Medieval India History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:04:54Z"
+ },
+ {
+  "id": "q_3bf416175eb9ffbd",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which among the following mountain passes connects the Kullu Valley with the Lahaul and Spiti valleys in Himachal Pradesh?",
+  "qHi": "निम्नलिखित में से कौन सा दर्रा हिमाचल प्रदेश में कुल्लू घाटी को लाहुल और स्पीति घाटियों से जोड़ता है?",
+  "optsEn": [
+   "Rohtang Pass",
+   "Shipki La",
+   "Bara-lacha La",
+   "Niti Pass"
+  ],
+  "optsHi": [
+   "रोहतांग दर्रा",
+   "शिपकी ला",
+   "बारलाचा ला",
+   "नीति दर्रा"
+  ],
+  "correct": 0,
+  "explainEn": "Rohtang Pass is a high mountain pass on the eastern end of the Pir Panjal Range of the Himalayas, connecting the Kullu Valley with the Lahaul and Spiti valleys of Himachal Pradesh.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:04:54Z"
+ },
+ {
+  "id": "q_e1870ac9540ae79d",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian monetary policy, which of the following instruments is classified as a direct instrument of monetary control?",
+  "qHi": "भारतीय मौद्रिक नीति के संदर्भ में, निम्नलिखित में से किस उपकरण को मौद्रिक नियंत्रण का प्रत्यक्ष उपकरण माना जाता है?",
+  "optsEn": [
+   "Repo Rate",
+   "Cash Reserve Ratio",
+   "Open Market Operations",
+   "Bank Rate"
+  ],
+  "optsHi": [
+   "रेपो रेट",
+   "नकद आरक्षित अनुपात",
+   "खुला बाजार संचालन",
+   "बैंक दर"
+  ],
+  "correct": 1,
+  "explainEn": "Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR) are direct instruments of monetary policy used by the RBI, whereas Repo Rate, Bank Rate, and OMOs are indirect instruments.",
+  "sourceHint": "Reserve Bank of India publications and NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:04:54Z"
+ },
+ {
+  "id": "q_e4ae442f46d6356d",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "The 103rd Constitutional Amendment Act, 2019 introduced reservation in admission and public employment for which category?",
+  "qHi": "103वें संविधान संशोधन अधिनियम, 2019 ने किस वर्ग के लिए प्रवेश और सार्वजनिक रोजगार में आरक्षण की शुरुआत की?",
+  "optsEn": [
+   "Economically Weaker Sections",
+   "Other Backward Classes",
+   "Transgender persons",
+   "Denotified Tribes"
+  ],
+  "optsHi": [
+   "आर्थिक रूप से कमजोर वर्ग",
+   "अन्य पिछड़ा वर्ग",
+   "ट्रांसजेंडर व्यक्ति",
+   "घुमंतू जनजातियाँ"
+  ],
+  "correct": 0,
+  "explainEn": "The 103rd Constitutional Amendment Act inserted Articles 15(6) and 16(6) to provide up to 10 percent reservation for Economically Weaker Sections (EWS) in educational institutions and public employment.",
+  "sourceHint": "Ministry of Law and Justice, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:04:54Z"
  }
 ]

@@ -20858,5 +20858,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-07T21:54:24Z"
+ },
+ {
+  "id": "q_4844bc5ebd620219",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these currency notes features the motif of the Mangalyaan spacecraft in India?",
+  "qHi": "भारत में इनमें से किस करेंसी नोट पर मंगलयान अंतरिक्ष यान का रूपांकन है?",
+  "optsEn": [
+   "Twenty rupees",
+   "Fifty rupees",
+   "Two thousand rupees",
+   "Five hundred rupees"
+  ],
+  "optsHi": [
+   "बीस रुपये",
+   "पचास रुपये",
+   "दो हजार रुपये",
+   "पाँच सौ रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "The reverse side of the Indian two thousand rupee currency note features a motif of India's Mars Orbiter Mission (Mangalyaan).",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:02:51Z"
+ },
+ {
+  "id": "q_1a9ff697b979d80a",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which monument in India was built by Muhammad Quli Qutb Shah in 1591?",
+  "qHi": "भारत में किस स्मारक का निर्माण 1591 में मुहम्मद कुली कुतुब शाह द्वारा करवाया गया था?",
+  "optsEn": [
+   "Qutub Minar",
+   "Charminar",
+   "Gateway of India",
+   "Victoria Memorial"
+  ],
+  "optsHi": [
+   "कुतुब मीनार",
+   "चारमीनार",
+   "गेटवे ऑफ इंडिया",
+   "विक्टोरिया मेमोरियल"
+  ],
+  "correct": 1,
+  "explainEn": "The Charminar in Hyderabad was built by Muhammad Quli Qutb Shah in 1591 to commemorate the eradication of a plague.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:04:25Z"
+ },
+ {
+  "id": "q_0c350c8beb83e78c",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which planet is the host of India's first interplanetary mission, Mangalyaan?",
+  "qHi": "भारत के पहले अंतरग्रहीय मिशन, मंगलयान का गंतव्य ग्रह कौन सा था?",
+  "optsEn": [
+   "Venus",
+   "Mars",
+   "Jupiter",
+   "Mercury"
+  ],
+  "optsHi": [
+   "शुक्र",
+   "मंगल",
+   "बृहस्पति",
+   "बुध"
+  ],
+  "correct": 1,
+  "explainEn": "The Mars Orbiter Mission (MOM), also called Mangalyaan, was a space probe orbiting Mars launched by ISRO.",
+  "sourceHint": "ISRO official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:05:05Z"
+ },
+ {
+  "id": "q_5bf64fdd523eb8b6",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of forest is predominantly found in the Nilgiri Biosphere Reserve's higher elevations?",
+  "qHi": "नीलगिरी बायोस्फीयर रिजर्व के ऊपरी इलाकों में मुख्य रूप से किस प्रकार के वन पाए जाते हैं?",
+  "optsEn": [
+   "Mangrove forests",
+   "Shola forests",
+   "Thorn forests",
+   "Deciduous forests"
+  ],
+  "optsHi": [
+   "मैंग्रोव वन",
+   "शोल वन",
+   "कंटीले वन",
+   "पाणपाती वन"
+  ],
+  "correct": 1,
+  "explainEn": "Shola forests are a patchily distributed tropical montane forest interspersed with grasslands found in the higher altitude regions of South India.",
+  "sourceHint": "NCERT Geography textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:05:05Z"
+ },
+ {
+  "id": "q_2778ecd50271c80a",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form originates from the state of Kerala and is traditionally performed by males?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप केरल राज्य से उत्पन्न हुआ है और पारंपरिक रूप से पुरुषों द्वारा किया जाता है?",
+  "optsEn": [
+   "Kathakali",
+   "Bharatanatyam",
+   "Odissi",
+   "Kuchipudi"
+  ],
+  "optsHi": [
+   "कथकली",
+   "भरतनाट्यम",
+   "ओडिसी",
+   "कुचिपुड़ी"
+  ],
+  "correct": 0,
+  "explainEn": "Kathakali is a major form of classical Indian dance native to Kerala, known for its elaborate makeup and storytelling.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:05:05Z"
+ },
+ {
+  "id": "q_daefc8f30b16b00d",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which chemical element has the atomic number 26 and is the most common element on Earth by mass?",
+  "qHi": "किस रासायनिक तत्व की परमाणु संख्या 26 है और यह द्रव्यमान के हिसाब से पृथ्वी पर सबसे आम तत्व है?",
+  "optsEn": [
+   "Nickel",
+   "Iron",
+   "Copper",
+   "Zinc"
+  ],
+  "optsHi": [
+   "निकेल",
+   "लोहा",
+   "तांबा",
+   "जस्ता"
+  ],
+  "correct": 1,
+  "explainEn": "Iron has the atomic symbol Fe and atomic number 26, making up a vast portion of Earth's outer and inner core.",
+  "sourceHint": "NCERT Science textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:05:05Z"
+ },
+ {
+  "id": "q_670478c59ff8626e",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian wildlife sanctuary was the first to be designated as a Ramsar Wetland Site?",
+  "qHi": "कौन सा भारतीय वन्यजीव अभयारण्य रामसर आर्द्रभूमि स्थल के रूप में नामित होने वाला पहला स्थल था?",
+  "optsEn": [
+   "Jim Corbett National Park",
+   "Kaziranga National Park",
+   "Chilika Lake",
+   "Periyar Wildlife Sanctuary"
+  ],
+  "optsHi": [
+   "जिम कॉर्बेट राष्ट्रीय उद्यान",
+   "काजीरंगा राष्ट्रीय उद्यान",
+   "चिल्का झील",
+   "पेरियार वन्यजीव अभयारण्य"
+  ],
+  "correct": 2,
+  "explainEn": "Chilika Lake in Odisha was designated as India's first Ramsar site in 1981 under the Ramsar Convention.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change, PIB",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:05:05Z"
  }
 ]

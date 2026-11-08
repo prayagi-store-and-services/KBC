@@ -36230,5 +36230,481 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-07T21:55:03Z"
+ },
+ {
+  "id": "q_d9ff96883b4207e6",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'C' stand for in the term 'CASA' account used in banking?",
+  "qHi": "बैंकिंग में प्रयुक्त शब्द 'CASA' खाते में 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Current",
+   "Capital",
+   "Credit",
+   "Commercial"
+  ],
+  "optsHi": [
+   "करेंट",
+   "कैपिटल",
+   "क्रेडिट",
+   "कमर्शियल"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account Savings Account, which represents low-cost deposits for banks.",
+  "sourceHint": "Indian Institute of Banking and Finance textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:02:48Z"
+ },
+ {
+  "id": "q_324e159c7d87577b",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which statutory body regulates the capital markets and stock exchanges in India?",
+  "qHi": "भारत में पूंजी बाजार और स्टॉक एक्सचेंजों को कौन सा वैधानिक निकाय विनियमित करता है?",
+  "optsEn": [
+   "RBI",
+   "SEBI",
+   "IRDAI",
+   "PFRDA"
+  ],
+  "optsHi": [
+   "RBI",
+   "SEBI",
+   "IRDAI",
+   "PFRDA"
+  ],
+  "correct": 1,
+  "explainEn": "The Securities and Exchange Board of India (SEBI) is the regulator for the securities and capital market in India.",
+  "sourceHint": "SEBI Act, 1992",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:02:48Z"
+ },
+ {
+  "id": "q_1a6cad8ba7a9e51d",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In the context of Indian currency, what is the color of the Mahatma Gandhi New Series 500 rupees banknote?",
+  "qHi": "भारतीय मुद्रा के संदर्भ में, महात्मा गांधी नई श्रृंखला के 500 रुपये के बैंकनोट का रंग क्या है?",
+  "optsEn": [
+   "Fluorescent Blue",
+   "Stone Grey",
+   "Lavender",
+   "Stone Grey and Ochre"
+  ],
+  "optsHi": [
+   "फ्लोरोसेंट नीला",
+   "स्टोन ग्रे",
+   "लवेंडर",
+   "स्टोन ग्रे और ओचेर"
+  ],
+  "correct": 3,
+  "explainEn": "The Rs 500 banknote in the Mahatma Gandhi New Series has Stone Grey as its base color and various design elements.",
+  "sourceHint": "Reserve Bank of India currency gallery",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:02:48Z"
+ },
+ {
+  "id": "q_140510154a764ca5",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization issues Sovereign Gold Bonds (SGB) on behalf of the Government of India?",
+  "qHi": "भारत सरकार की ओर से सॉवरेन गोल्ड बॉन्ड (SGB) कौन सा संगठन जारी करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "State Bank of India",
+   "Security Printing and Minting Corporation of India",
+   "Bombay Stock Exchange"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय स्टेट बैंक",
+   "सिक्योरिटी प्रिंटिंग एंड मिंटिंग कॉरपोरेशन ऑफ इंडिया",
+   "बॉम्बे स्टॉक एक्सचेंज"
+  ],
+  "correct": 0,
+  "explainEn": "Sovereign Gold Bonds are issued by the Reserve Bank on behalf of the Government of India.",
+  "sourceHint": "RBI Notifications on SGB",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:02:48Z"
+ },
+ {
+  "id": "q_3f5f7fe66fdfe16c",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum deposit insurance coverage provided by the Deposit Insurance and Credit Guarantee Corporation (DICGC) to an individual bank depositor per bank?",
+  "qHi": "डिपॉजिट इंश्योरेंस एंड क्रेडिट गारंटी कॉरपोरेशन (DICGC) द्वारा प्रति बैंक एक व्यक्तिगत बैंक जमाकर्ता को अधिकतम कितना जमा बीमा कवर प्रदान किया जाता है?",
+  "optsEn": [
+   "Rs 1 Lakh",
+   "Rs 2 Lakh",
+   "Rs 5 Lakh",
+   "Rs 10 Lakh"
+  ],
+  "optsHi": [
+   "1 लाख रुपये",
+   "2 लाख रुपये",
+   "5 लाख रुपये",
+   "10 लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "DICGC provides deposit insurance of up to Rs 5 Lakh per depositor per insured bank for both principal and interest amount.",
+  "sourceHint": "DICGC official guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:04:21Z"
+ },
+ {
+  "id": "q_9d6304b24bcaf6a7",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque that is not crossed and is paid across the counter of the bank is known as what type of cheque?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, एक चेक जो रेखांकित नहीं है और बैंक के काउंटर पर भुगतान किया जाता है, उसे किस प्रकार का चेक कहा जाता है?",
+  "optsEn": [
+   "Bearer Cheque",
+   "Crossed Cheque",
+   "Stale Cheque",
+   "Post-dated Cheque"
+  ],
+  "optsHi": [
+   "बियरर चेक",
+   "क्रॉस्ड चेक",
+   "स्टेल चेक",
+   "पोस्ट-डated चेक"
+  ],
+  "correct": 0,
+  "explainEn": "A bearer cheque is payable to the person specified or to the bearer, and can be encashed across the bank counter.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) study material",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:04:21Z"
+ },
+ {
+  "id": "q_f1ccf7a60fd6557e",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institution regulates the microfinance sector and non-banking financial companies (NBFCs) in India?",
+  "qHi": "भारत में सूक्ष्म वित्त क्षेत्र और गैर-बैंकिंग वित्तीय कंपनियों (NBFC) को कौन सी संस्था विनियमित करती है?",
+  "optsEn": [
+   "SEBI",
+   "RBI",
+   "NABARD",
+   "IRDAI"
+  ],
+  "optsHi": [
+   "सेबी",
+   "आरबीआई",
+   "नाबार्ड",
+   "इरडाई"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India (RBI) is the statutory regulator for NBFCs and microfinance institutions operating in India.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:04:21Z"
+ },
+ {
+  "id": "q_f7c0eee149eac28b",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'M' stand for in the context of the M-Pin used in mobile banking transactions?",
+  "qHi": "मोबाइल बैंकिंग लेनदेन में प्रयुक्त एम-पिन के संदर्भ में अक्षर 'M' का क्या अर्थ है?",
+  "optsEn": [
+   "Monetary",
+   "Mobile",
+   "Merchant",
+   "Mandatory"
+  ],
+  "optsHi": [
+   "मॉनेटरी",
+   "मोबाइल",
+   "मर्चेंट",
+   "मैंडेटरी"
+  ],
+  "correct": 1,
+  "explainEn": "M-PIN stands for Mobile Personal Identification Number, used as a secret numeric password for authenticating mobile banking transactions.",
+  "sourceHint": "National Payments Corporation of India (NPCI) guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:04:21Z"
+ },
+ {
+  "id": "q_30917bfcad6929cc",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following money market instruments is an unsecured, short-term debt instrument issued by highly rated corporate entities?",
+  "qHi": "निम्नलिखित में से कौन सा मुद्रा बाजार साधन उच्च रेटिंग वाली कॉर्पोरेट संस्थाओं द्वारा जारी किया जाने वाला एक असुरक्षित, अल्पकालिक ऋण साधन है?",
+  "optsEn": [
+   "Treasury Bill",
+   "Certificate of Deposit",
+   "Commercial Paper",
+   "Cash Management Bill"
+  ],
+  "optsHi": [
+   "Treasury Bill (राजकोषीय विपत्र)",
+   "Certificate of Deposit (जमा प्रमाणपत्र)",
+   "Commercial Paper (वाणिज्यिक पत्र)",
+   "Cash Management Bill (नकद प्रबंधन बिल)"
+  ],
+  "correct": 2,
+  "explainEn": "Commercial Paper (CP) is an unsecured money market instrument issued in the form of a promissory note by corporates.",
+  "sourceHint": "RBI guidelines on Money Market Instruments",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:04:21Z"
+ },
+ {
+  "id": "q_ee61d03f011c0c9b",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of Priority Sector Lending (PSL) as mandated by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा अनिवार्य प्राथमिकता क्षेत्र ऋण (PSL) का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To provide funds exclusively to large infrastructure corporations",
+   "To ensure adequate credit flow to vulnerable sectors of the economy like agriculture and micro enterprises",
+   "To maximize profit margins for foreign banks operating in India",
+   "To finance foreign trade deficits of the central government"
+  ],
+  "optsHi": [
+   "विशेष रूप से बड़ी बुनियादी ढांचा निगमों को धन प्रदान करना",
+   "अर्थव्यवस्था के कमजोर क्षेत्रों जैसे कृषि और सूक्ष्म उद्यमों को पर्याप्त ऋण प्रवाह सुनिश्चित करना",
+   "भारत में काम कर रहे विदेशी बैंकों के लिए लाभ मार्जिन को अधिकतम करना",
+   "केंद्र सरकार के विदेशी व्यापार घाटे का वित्तपोषण करना"
+  ],
+  "correct": 1,
+  "explainEn": "Priority Sector Lending directs bank funds to sectors of the economy that impact large segments of the population, such as agriculture, MSMEs, and weaker sections.",
+  "sourceHint": "RBI Master Directions on Priority Sector Lending",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:04:21Z"
+ },
+ {
+  "id": "q_f09a0d5e1df778b4",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of international trade finance, what does the letter 'L' stand for in the acronym 'LC'?",
+  "qHi": "अंतर्राष्ट्रीय व्यापार वित्त के संदर्भ में, संक्षिप्त नाम 'LC' में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Letter",
+   "Liquidity",
+   "Liability",
+   "Ledger"
+  ],
+  "optsHi": [
+   "लेटर",
+   "लिक्विडिटी",
+   "लायबिलिटी",
+   "लेजर"
+  ],
+  "correct": 0,
+  "explainEn": "LC stands for Letter of Credit, a document issued by a bank guaranteeing that a buyer's payment to a seller will be received on time and for the correct amount.",
+  "sourceHint": "Uniform Customs and Practice for Documentary Credits (UCP 600)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:04:21Z"
+ },
+ {
+  "id": "q_9dd18166dbd3367e",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary benchmark rate used by the Reserve Bank of India to absorb liquidity from the banking system under the Liquidity Adjustment Facility framework?",
+  "qHi": "तरलता समायोजन सुविधा (LAF) ढाँचे के तहत बैंकिंग प्रणाली से तरलता को अवशोषित करने के लिए भारतीय रिजर्व बैंक द्वारा उपयोग की जाने वाली प्राथमिक बेंचमार्क दर क्या है?",
+  "optsEn": [
+   "Repo Rate",
+   "Standing Deposit Facility Rate",
+   "Reverse Repo Rate",
+   "Bank Rate"
+  ],
+  "optsHi": [
+   "रेपो रेट",
+   "स्टैंडिंग डिपॉजिट फैसिलिटी रेट",
+   "रिवर्स रेपो रेट",
+   "बैंक रेट"
+  ],
+  "correct": 1,
+  "explainEn": "The Standing Deposit Facility (SDF) rate is the primary instrument now used by the RBI to absorb liquidity from the banking system without requiring collateral.",
+  "sourceHint": "RBI Monetary Policy Reports",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:05:00Z"
+ },
+ {
+  "id": "q_0fdd3c64d07d893e",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Basel III guidelines implemented in India, what minimum Common Equity Tier 1 (CET1) capital ratio must banks maintain as a percentage of Risk-Weighted Assets, excluding the Capital Conservation Buffer?",
+  "qHi": "भारत में लागू बेसल III दिशानिर्देशों के तहत, बैंकों को जोखिम-भारित संपत्तियों (RWA) के प्रतिशत के रूप में पूंजी संरक्षण बफर को छोड़कर न्यूनतम सामान्य इक्विटी टियर 1 (CET1) पूंजी अनुपात कितना बनाए रखना चाहिए?",
+  "optsEn": [
+   "5.5 percent",
+   "8.0 percent",
+   "9.0 percent",
+   "4.5 percent"
+  ],
+  "optsHi": [
+   "5.5 प्रतिशत",
+   "8.0 प्रतिशत",
+   "9.0 प्रतिशत",
+   "4.5 प्रतिशत"
+  ],
+  "correct": 3,
+  "explainEn": "As per RBI guidelines on Basel III capital regulations, banks are required to maintain a minimum CET1 capital ratio of 4.5 percent of Risk-Weighted Assets at all times.",
+  "sourceHint": "RBI Master Circular on Basel III Capital Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:05:00Z"
+ },
+ {
+  "id": "q_794e71625180c891",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specialized financial institution in India was established in 1990 by reconstituting the Small Industries Development Fund of IDBI to promote, finance, and develop micro, small, and medium enterprises?",
+  "qHi": "सूक्ष्म, लघु और मध्यम उद्यमों को बढ़ावा देने, वित्त पोषण करने और विकसित करने के लिए आईडीबीआई के लघु उद्योग विकास कोष के पुनर्गठन द्वारा 1990 में भारत में किस विशिष्ट वित्तीय संस्था की स्थापना की गई थी?",
+  "optsEn": [
+   "NABARD",
+   "SIDBI",
+   "EXIM Bank",
+   "IFCI"
+  ],
+  "optsHi": [
+   "नाबार्ड",
+   "सिडबी",
+   "एक्ज़िम बैंक",
+   "आईएफसीआई"
+  ],
+  "correct": 1,
+  "explainEn": "Small Industries Development Bank of India (SIDBI) was established on April 2, 1990 under an Act of Parliament as the principal financial institution for the promotion, financing and development of MSMEs.",
+  "sourceHint": "SIDBI Official Act and Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:05:00Z"
+ },
+ {
+  "id": "q_6fa7f3dd4b3e325c",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the maximum permissible limit for an individual transaction using the Immediate Payment Service (IMPS) routed through National Payments Corporation of India, as per general guidelines?",
+  "qHi": "सामान्य दिशानिर्देशों के अनुसार, भारतीय राष्ट्रीय भुगतान निगम के माध्यम से रूट किए जाने वाले तत्काल भुगतान सेवा (IMPS) का उपयोग करके व्यक्तिगत लेनदेन के लिए अधिकतम स्वीकार्य सीमा क्या है?",
+  "optsEn": [
+   "Rupees 1 Lakh",
+   "Rupees 2 Lakhs",
+   "Rupees 5 Lakhs",
+   "No upper limit"
+  ],
+  "optsHi": [
+   "1 लाख रुपये",
+   "2 लाख रुपये",
+   "5 लाख रुपये",
+   "कोई ऊपरी सीमा नहीं"
+  ],
+  "correct": 2,
+  "explainEn": "NPCI revised the per-transaction upper limit for IMPS to Rupees 5 Lakhs for channelizing funds safely through digital banking channels.",
+  "sourceHint": "NPCI Circulars",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:05:00Z"
+ },
+ {
+  "id": "q_0ca9dc76d29725ec",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which fund was established by the Government of India in 2015, managed by NITI Aayog, with a corpus of Rupees 10,000 crores to act as a fund of funds to supplement venture capital availability for startups?",
+  "qHi": "स्टार्टअप के लिए उद्यम पूंजी की उपलब्धता को पूरक बनाने के लिए फंड ऑफ फंड्स के रूप में कार्य करने के लिए 10,000 करोड़ रुपये के कोष के साथ नीति आयोग द्वारा प्रबंधित भारत सरकार द्वारा 2015 में कौन सा फंड स्थापित किया गया था?",
+  "optsEn": [
+   "National Investment and Infrastructure Fund",
+   "Pradhan Mantri Mudra Yojana Fund",
+   "India Aspiration Fund",
+   "Startup India Seed Fund"
+  ],
+  "optsHi": [
+   "राष्ट्रीय निवेश और बुनियादी ढांचा कोष",
+   "प्रधानमंत्री मुद्रा योजना कोष",
+   "इंडिया एस्पिरेशन फंड",
+   "स्टार्टअप इंडिया सीड फंड"
+  ],
+  "correct": 2,
+  "explainEn": "The India Aspiration Fund (IAF) was launched by SIDBI in collaboration with LIC with a corpus of Rupees 10,000 crores to act as a fund of funds for venture capital investments in startups.",
+  "sourceHint": "PIB Releases and SIDBI Reports",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:05:00Z"
+ },
+ {
+  "id": "q_8c6e0996d5a2495e",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What term is used to describe a bond issued by an Indian entity in foreign markets, denominated in Indian Rupees rather than the local currency of the country where it is being issued?",
+  "qHi": "उस बांड का वर्णन करने के लिए किस शब्द का उपयोग किया जाता है जिसे किसी भारतीय संस्था द्वारा विदेशी बाजारों में जारी किया जाता है, जो इसे जारी करने वाले देश की स्थानीय मुद्रा के बजाय भारतीय रुपयों में मूल्यांकित होता है?",
+  "optsEn": [
+   "Samurai Bond",
+   "Yankee Bond",
+   "Masala Bond",
+   "Eurobond"
+  ],
+  "optsHi": [
+   "सामurai बांड",
+   "यांकी बांड",
+   "मसाला बांड",
+   "यूरोबॉन्ड"
+  ],
+  "correct": 2,
+  "explainEn": "Masala Bonds are rupee-denominated borrowings issued by Indian entities in offshore capital markets to raise funds from foreign investors.",
+  "sourceHint": "RBI Financial Lexicon",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:05:00Z"
  }
 ]

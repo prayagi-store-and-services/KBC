@@ -29118,5 +29118,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-07T21:54:28Z"
+ },
+ {
+  "id": "q_6ac4c12281f7d274",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which part of the plant generally grows under the soil?",
+  "qHi": "पौधे का कौन सा भाग आमतौर पर मिट्टी के नीचे बढ़ता है?",
+  "optsEn": [
+   "Leaf",
+   "Flower",
+   "Root",
+   "Stem"
+  ],
+  "optsHi": [
+   "पत्ती",
+   "फूल",
+   "जड़",
+   "तनाव"
+  ],
+  "correct": 2,
+  "explainEn": "Roots grow underground to absorb water and minerals from the soil and to anchor the plant.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:02:55Z"
+ },
+ {
+  "id": "q_621180f514630fc6",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which season do we generally wear woolen clothes in India?",
+  "qHi": "भारत में हम आमतौर पर किस ऋतु में ऊनी कपड़े पहनते हैं?",
+  "optsEn": [
+   "Summer",
+   "Winter",
+   "Monsoon",
+   "Spring"
+  ],
+  "optsHi": [
+   "गर्मी",
+   "सर्दी",
+   "वर्षा",
+   "বসंत"
+  ],
+  "correct": 1,
+  "explainEn": "Woolen clothes trap body heat and keep us warm during the winter season.",
+  "sourceHint": "NCERT Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:02:55Z"
+ },
+ {
+  "id": "q_7556f4bed90adcf2",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian stepwell design is mainly used for storing rainwater?",
+  "qHi": "वर्षा जल के संचयन के लिए मुख्य रूप से किस पारंपरिक भारतीय बावड़ी (स्टेपवेल) डिजाइन का उपयोग किया जाता है?",
+  "optsEn": [
+   "Baoli",
+   "Igloo",
+   "Tent",
+   "Stilt house"
+  ],
+  "optsHi": [
+   "बावली",
+   "इgलू",
+   "तंबू",
+   "बांस का घर"
+  ],
+  "correct": 0,
+  "explainEn": "Stepwells, locally called baolis, were traditionally built in India to store rainwater for dry periods.",
+  "sourceHint": "NCERT Class 5 EVS Chapter - A Shelter so High!",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:04:29Z"
+ },
+ {
+  "id": "q_b2feabaef233571b",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these animals is primarily nocturnal in its habits?",
+  "qHi": "इनमें से कौन सा जानवर मुख्य रूप से अपनी आदतों में निशाचर (रात में सक्रिय) होता है?",
+  "optsEn": [
+   "Owl",
+   "Cow",
+   "Crow",
+   "Elephant"
+  ],
+  "optsHi": [
+   "उल्लू",
+   "गाय",
+   "कौवा",
+   "हाथी"
+  ],
+  "correct": 0,
+  "explainEn": "Owls are nocturnal birds, meaning they are active during the night and sleep during the day.",
+  "sourceHint": "NCERT Class 5 EVS Chapter - Super Senses",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:04:29Z"
+ },
+ {
+  "id": "q_d763ede55565c245",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which gas makes up the largest percentage of the Earth's atmosphere?",
+  "qHi": "पृथ्वी के वायुमंडल में किस गैस का प्रतिशत सबसे अधिक है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "आर्गन"
+  ],
+  "correct": 2,
+  "explainEn": "Nitrogen makes up about 78 percent of Earth's atmosphere by volume.",
+  "sourceHint": "NCERT Class 7 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:04:29Z"
+ },
+ {
+  "id": "q_3bac01ad0d745e0d",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organ system in the human body includes the trachea, bronchi, and lungs?",
+  "qHi": "मानव शरीर के किस अंग तंत्र में श्वासनली, ब्रोन्ची और फेफड़े शामिल हैं?",
+  "optsEn": [
+   "Respiratory system",
+   "Circulatory system",
+   "Digestive system",
+   "Nervous system"
+  ],
+  "optsHi": [
+   "श्वसन तंत्र",
+   "संचार प्रणाली",
+   "पाचन तंत्र",
+   "तंत्रिका तंत्र"
+  ],
+  "correct": 0,
+  "explainEn": "The trachea, bronchi, and lungs are the primary organs responsible for breathing in the human respiratory system.",
+  "sourceHint": "NCERT Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:05:10Z"
+ },
+ {
+  "id": "q_a91afe092fa3255d",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which bird is known for laying its eggs in the nest of a crow instead of building its own nest?",
+  "qHi": "किस पक्षी को अपना घोंसला खुद बनाने के बजाय कौवे के घोंسले में अंडे देने के लिए जाना जाता है?",
+  "optsEn": [
+   "Koel",
+   "Pigeon",
+   "Sparrow",
+   "Woodpecker"
+  ],
+  "optsHi": [
+   "कोयल",
+   "कबूतर",
+   "गोरैया",
+   "कठफोड़वा"
+  ],
+  "correct": 0,
+  "explainEn": "The Asian koel is a brood parasite that lays its eggs in crows' nests.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:05:10Z"
+ },
+ {
+  "id": "q_160c5dca329a3bbd",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of map symbol is commonly used to show physical features such as mountains and plateaus?",
+  "qHi": "पहाड़ों और पठारों जैसी भौतिक विशेषताओं को दिखाने के लिए आमतौर पर किस प्रकार के मानचित्र प्रतीक का उपयोग किया जाता है?",
+  "optsEn": [
+   "Relief map",
+   "Political map",
+   "Road map",
+   "Weather map"
+  ],
+  "optsHi": [
+   "राहत मानचित्र",
+   "राजनीतिक नक्शा",
+   "सड़क का नक्शा",
+   "मौसम का नक्शा"
+  ],
+  "correct": 0,
+  "explainEn": "Relief maps use shading and contour lines or colors to depict elevations and physical terrain features.",
+  "sourceHint": "NCERT Social Science guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:05:10Z"
+ },
+ {
+  "id": "q_ac3a53b2b4186159",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of seed dispersal, which plant has seeds equipped with hair-like structures that help them float in the wind?",
+  "qHi": "बीज प्रकीर्णन के संदर्भ में, किस पौधे के बीजों में बाल जैसी संरचनाएं होती हैं जो उन्हें हवा में तैरने में मदद करती हैं?",
+  "optsEn": [
+   "Madar",
+   "Pea",
+   "Tomato",
+   "Lemon"
+  ],
+  "optsHi": [
+   "मदार",
+   "मटर",
+   "टमाटर",
+   "नींबू"
+  ],
+  "correct": 0,
+  "explainEn": "Madar (Aak) seeds have silky hair that allows them to be easily carried away by the wind.",
+  "sourceHint": "NCERT Class 5 Environmental Studies, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:05:10Z"
+ },
+ {
+  "id": "q_c885280e71e6f7e2",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which celestial body is a natural satellite of planet Earth?",
+  "qHi": "पृथ्वी ग्रह का प्राकृतिक उपग्रह कौन सा खगोलीय पिंड है?",
+  "optsEn": [
+   "Moon",
+   "Sun",
+   "Mars",
+   "Titan"
+  ],
+  "optsHi": [
+   "चंद्रमा",
+   "सूरज",
+   "मंगल",
+   "टाइटन"
+  ],
+  "correct": 0,
+  "explainEn": "The Moon is Earth's only natural satellite.",
+  "sourceHint": "NCERT Class 6 Science / General Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:05:10Z"
+ },
+ {
+  "id": "q_d1b46d1a6b6568e7",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which historical fort in Maharashtra is famous for its intricate water cisterns and fortification built by the Yadava dynasty?",
+  "qHi": "महाराष्ट्र का कौन सा ऐतिहासिक किला यादव वंश द्वारा बनाई गई अपनी जटिल पानी की कुंडों और किलेबंदी के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Daulatabad Fort",
+   "Red Fort",
+   "Amber Fort",
+   "Gwalior Fort"
+  ],
+  "optsHi": [
+   "दलताबाद का किला",
+   "लाल किला",
+   "आमेर का किला",
+   "ग्वालियर का किला"
+  ],
+  "correct": 0,
+  "explainEn": "Daulatabad Fort (formerly Devagiri) in Maharashtra features strong defenses and water systems developed historically.",
+  "sourceHint": "NCERT Class 5 Environmental Studies, Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-08T06:05:10Z"
  }
 ]
