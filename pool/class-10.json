@@ -29986,5 +29986,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-09T06:34:08Z"
+ },
+ {
+  "id": "q_cf9c84a4953609b5",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organ of government in India is responsible for implementing laws?",
+  "qHi": "भारत में सरकार का कौन सा अंग कानूनों को लागू करने के लिए उत्तरदायी है?",
+  "optsEn": [
+   "Legislature",
+   "Executive",
+   "Judiciary",
+   "Election Commission"
+  ],
+  "optsHi": [
+   "विधायिका",
+   "कार्यपालिका",
+   "न्यायपालिका",
+   "निर्वाचन आयोग"
+  ],
+  "correct": 1,
+  "explainEn": "The executive is the branch of government responsible for day-to-day administration and law enforcement.",
+  "sourceHint": "NCERT Class 10 Democratic Politics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T22:23:46Z"
+ },
+ {
+  "id": "q_63f7a5c411004aec",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which form of power sharing is represented by the division of power between central and state governments?",
+  "qHi": "केंद्र और राज्य सरकारों के बीच सत्ता के विभाजन द्वारा सत्ता की साझेदारी का कौन सा रूप प्रस्तुत किया जाता है?",
+  "optsEn": [
+   "Horizontal distribution",
+   "Vertical distribution",
+   "Community government",
+   "Coalition government"
+  ],
+  "optsHi": [
+   "क्षैतिज वितरण",
+   "ऊर्ध्वाधर वितरण",
+   "सामुदायिक सरकार",
+   "गठबंधन सरकार"
+  ],
+  "correct": 1,
+  "explainEn": "Power sharing among governments at different levels (central, state, local) is called vertical distribution of power.",
+  "sourceHint": "NCERT Class 10 Democratic Politics Chapter 1 Power Sharing",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T22:23:46Z"
+ },
+ {
+  "id": "q_37d86a4c4d4ea526",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which sector is the largest employer in India according to economic classifications?",
+  "qHi": "आर्थिक वर्गीकरण के अनुसार भारत में कौन सा क्षेत्र सबसे बड़ा नियोक्ता है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Quaternary sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "तृतीयक क्षेत्र",
+   "चतुर्धातुक क्षेत्र"
+  ],
+  "correct": 0,
+  "explainEn": "Agriculture and allied activities in the primary sector employ the largest share of the workforce in India.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T22:24:44Z"
+ },
+ {
+  "id": "q_a1128c6f9478e991",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which ancient trade route connected India with various regions of Asia, Europe, and North Africa?",
+  "qHi": "किस प्राचीन व्यापार मार्ग ने भारत को एशिया, यूरोप और उत्तरी अफ्रीका के विभिन्न क्षेत्रों से जोड़ा था?",
+  "optsEn": [
+   "Amber Road",
+   "Silk Route",
+   "Spice Route",
+   "Tea Horse Road"
+  ],
+  "optsHi": [
+   "एम्बर रोड",
+   "सिल्क रूट (रेशम मार्ग)",
+   "स्पाइस रूट",
+   "टी हॉर्स रोड"
+  ],
+  "correct": 1,
+  "explainEn": "The Silk Route was a network of Eurasian trade routes active from the Han dynasty until the Ottoman boycott.",
+  "sourceHint": "NCERT Class 10 History, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T22:24:44Z"
+ },
+ {
+  "id": "q_45fe0b29a79b9854",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What term is used to describe a system of government where power is divided between a central authority and various constituent units of the country?",
+  "qHi": "सरकार की उस प्रणाली को क्या कहा जाता है जिसमें शक्ति एक केंद्रीय autoridad और देश की विभिन्न घटक इकाइयों के बीच विभाजित होती है?",
+  "optsEn": [
+   "Unitary system",
+   "Federal system",
+   "Dictatorship",
+   "Oligarchy"
+  ],
+  "optsHi": [
+   "एकात्मक प्रणाली",
+   "संघीय प्रणाली",
+   "तानाशाही",
+   "कुलीनतंत्र"
+  ],
+  "correct": 1,
+  "explainEn": "Federalism is a system of government in which power is divided between a central government and other sub-national units.",
+  "sourceHint": "NCERT Class 10 Civics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T22:24:44Z"
  }
 ]

@@ -30154,5 +30154,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-09T06:33:38Z"
+ },
+ {
+  "id": "q_ba01b5516768b37b",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which instrument is used to measure temperature?",
+  "qHi": "तापमान मापने के लिए किस यंत्र का उपयोग किया जाता है?",
+  "optsEn": [
+   "Barometer",
+   "Thermometer",
+   "Speedometer",
+   "Rain gauge"
+  ],
+  "optsHi": [
+   "बैरोमीटर",
+   "थर्मोमीटर",
+   "स्पीडोमीटर",
+   "वर्षा मापी"
+  ],
+  "correct": 1,
+  "explainEn": "A thermometer is the standard instrument used to measure temperature.",
+  "sourceHint": "NCERT General Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T22:23:39Z"
+ },
+ {
+  "id": "q_be8e332e817e2adc",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these seeds is commonly known to disperse by exploding or bursting open when ripe?",
+  "qHi": "इनमें से कौन सा बीज पकने पर फटने या चटकने से प्रकीर्णन के लिए जाना जाता है?",
+  "optsEn": [
+   "Pea",
+   "Mango",
+   "Coconut",
+   "Maple"
+  ],
+  "optsHi": [
+   "मटर",
+   "आम",
+   "नारियल",
+   "मेपल"
+  ],
+  "correct": 0,
+  "explainEn": "Pea pods dry up and burst open suddenly, scattering their seeds away from the parent plant.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T22:24:35Z"
+ },
+ {
+  "id": "q_22990a6c59791d2d",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian grain is a major kharif crop grown extensively during the monsoon season?",
+  "qHi": "कौन सा पारंपरिक भारतीय अनाज एक प्रमुख खरीफ फसल है जो मानसून के मौसम में बड़े पैमाने पर उगाई जाती है?",
+  "optsEn": [
+   "Rice",
+   "Wheat",
+   "Barley",
+   "Gram"
+  ],
+  "optsHi": [
+   "चावल",
+   "गेहूं",
+   "जौ",
+   "चना"
+  ],
+  "correct": 0,
+  "explainEn": "Rice is a principal kharif crop that requires high water availability during the rainy season.",
+  "sourceHint": "NCERT Class 5 Geography related chapters",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T22:24:35Z"
+ },
+ {
+  "id": "q_d0306f84d73d085a",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What force pulls objects downward toward the center of the Earth?",
+  "qHi": "कौन सा बल वस्तुओं को पृथ्वी के केंद्र की ओर नीचे खींचता है?",
+  "optsEn": [
+   "Gravitational force",
+   "Friction force",
+   "Magnetic force",
+   "Muscular force"
+  ],
+  "optsHi": [
+   "गुरुत्वाकर्षण बल",
+   "घर्षण बल",
+   "चुंबकीय बल",
+   "पेशीय बल"
+  ],
+  "correct": 0,
+  "explainEn": "Gravity is the natural force of attraction between any two objects with mass, pulling things toward the Earth.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T22:24:35Z"
+ },
+ {
+  "id": "q_4a19463c0319b197",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these historical monuments in India was built entirely using red sandstone and white marble as a grand mausoleum?",
+  "qHi": "भारत में इनमें से कौन सा ऐतिहासिक स्मारक एक भव्य मकबरे के रूप में पूरी तरह से लाल बलुआ पत्थर और सफेद संगमरमर का उपयोग करके बनाया गया था?",
+  "optsEn": [
+   "Taj Mahal",
+   "Qutub Minar",
+   "Sanchi Stupa",
+   "Gateway of India"
+  ],
+  "optsHi": [
+   "ताजमहल",
+   "कुतुब मीनार",
+   "सांची स्तूप",
+   "गेटवे ऑफ इंडिया"
+  ],
+  "correct": 0,
+  "explainEn": "The Taj Mahal is famous for its white marble architecture, while other structures incorporate red sandstone differently.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T22:24:35Z"
+ },
+ {
+  "id": "q_51a1428f05626b5d",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of the Indian parliament, what is the upper house officially called?",
+  "qHi": "भारतीय संसद के संदर्भ में, उच्च सदन को आधिकारिक तौर पर क्या कहा जाता है?",
+  "optsEn": [
+   "Rajya Sabha",
+   "Lok Sabha",
+   "Vidhan Sabha",
+   "Gram Panchayat"
+  ],
+  "optsHi": [
+   "राज्य सभा",
+   "लोक सभा",
+   "विधान सभा",
+   "ग्राम पंचायत"
+  ],
+  "correct": 0,
+  "explainEn": "Rajya Sabha is the Council of States, which serves as the upper house of the Parliament of India.",
+  "sourceHint": "Constitution of India Basics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T22:24:35Z"
+ },
+ {
+  "id": "q_9c6e12be97924f28",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which state in India is famous for the traditional dance form called Kathakali?",
+  "qHi": "भारत का कौन सा राज्य कथकली नामक पारंपरिक नृत्य शैली के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Kerala",
+   "Punjab",
+   "Assam",
+   "Gujarat"
+  ],
+  "optsHi": [
+   "केरल",
+   "पंजाब",
+   "असम",
+   "गुजरात"
+  ],
+  "correct": 0,
+  "explainEn": "Kathakali is a classical dance-drama originating from the southern state of Kerala.",
+  "sourceHint": "NCERT Art and Culture references",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T22:24:35Z"
  }
 ]

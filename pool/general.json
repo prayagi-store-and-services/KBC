@@ -21418,5 +21418,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-08T22:09:14Z"
+ },
+ {
+  "id": "q_b25a4b1486fea9d6",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which biogeographic zone of India is the endemic Nilgiri Tahr primarily found?",
+  "qHi": "भारत के किस जैव-भौगोलिक क्षेत्र में स्थानिक नीलगिरि तहर मुख्य रूप से पाया जाता है?",
+  "optsEn": [
+   "Western Ghats",
+   "Eastern Himalayas",
+   "Deccan Peninsula",
+   "North-East India"
+  ],
+  "optsHi": [
+   "पश्चिमी घाट",
+   "पूर्वी हिमालय",
+   "दक्कन प्रायद्वीप",
+   "उत्तर-पूर्व भारत"
+  ],
+  "correct": 0,
+  "explainEn": "The Nilgiri Tahr is an ungulate endemic to the Nilgiri Hills and the southern portion of the Western Ghats in the states of Tamil Nadu and Kerala.",
+  "sourceHint": "Wildlife Institute of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T22:25:36Z"
+ },
+ {
+  "id": "q_3e0c75f81812c1e3",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form of India traditionally utilizes a heavy brass vessel balanced on the dancer's head while performing on the rim of a brass plate?",
+  "qHi": "भारत की किस शास्त्रीय नृत्य शैली में पारंपरिक रूप से पीतल की थाली के किनारे पर नृत्य करते समय नर्तकी के सिर पर संतुलित भारी पीतल के बर्तन का उपयोग किया जाता है?",
+  "optsEn": [
+   "Kathakali",
+   "Kuchipudi",
+   "Mohiniyattam",
+   "Odissi"
+  ],
+  "optsHi": [
+   "कथकली",
+   "कुचिपुड़ी",
+   "मोहिनीअट्टम",
+   "ओडिसी"
+  ],
+  "correct": 1,
+  "explainEn": "The Tarangam item in Kuchipudi features the dancer balancing a pot on their head and standing on a brass plate.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T22:25:36Z"
+ },
+ {
+  "id": "q_7b62605e404b9a7b",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who authored the 19th-century socio-religious text 'Gulamgiri', which critiqued the caste system in western India?",
+  "qHi": "पश्चिमी भारत में जाति व्यवस्था की आलोचना करने वाले 19वीं सदी के सामाजिक-धार्मिक ग्रंथ 'गुलामगिरी' के लेखक कौन थे?",
+  "optsEn": [
+   "Jyotirao Phule",
+   "B. R. Ambedkar",
+   "Periyar E. V. Ramasamy",
+   "Mahadev Govind Ranade"
+  ],
+  "optsHi": [
+   "ज्योतिराव फुले",
+   "बी. आर. अंबेडकर",
+   "पेरियार ई. वी. रामासामी",
+   "महादेव गोविंद रानाडे"
+  ],
+  "correct": 0,
+  "explainEn": "Jyotirao Phule published 'Gulamgiri' in 1873, dedicating it to American abolitionists who fought against slavery.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T22:25:36Z"
+ },
+ {
+  "id": "q_90e9ce846cff2e54",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which element, vital for fertilizer production, is imported in large quantities by India with major reserves located in the Dead Sea region and Canada?",
+  "qHi": "उर्वरक उत्पादन के लिए महत्वपूर्ण किस तत्व का भारत द्वारा बड़े पैमाने पर आयात किया जाता है जिसके प्रमुख भंडार मृत सागर क्षेत्र और कनाडा में स्थित हैं?",
+  "optsEn": [
+   "Nitrogen",
+   "Phosphorus",
+   "Potash",
+   "Sulphur"
+  ],
+  "optsHi": [
+   "नाइट्रोजन",
+   "फास्फोरस",
+   "पोटाश",
+   "सल्फर"
+  ],
+  "correct": 2,
+  "explainEn": "India is entirely dependent on imports for potassic fertilizers (potash), as domestic reserves are negligible.",
+  "sourceHint": "Ministry of Chemicals and Fertilizers, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T22:25:36Z"
+ },
+ {
+  "id": "q_5b975979baf29286",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which archaeological site in the Indus Valley Civilization is uniquely characterized by a lower town that was also fortified?",
+  "qHi": "सिंधु घाटी सभ्यता का कौन सा पुरातात्विक स्थल अपनी निचले शहर के भी किलेबंद होने के लिए अनूठे रूप से जाना जाता है?",
+  "optsEn": [
+   "Harappa",
+   "Mohenjo-daro",
+   "Kalibangan",
+   "Dholavira"
+  ],
+  "optsHi": [
+   "हड़प्पा",
+   "मोहनजोदड़ो",
+   "कालीबंगा",
+   "धौलाविरा"
+  ],
+  "correct": 2,
+  "explainEn": "At Kalibangan, both the citadel and the lower town were separately fortified, setting it apart from several other IVC sites.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T22:25:36Z"
+ },
+ {
+  "id": "q_14129c90531a7e6e",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian classical music, what does the term 'Margi' refer to according to ancient treatises like the Natya Shastra?",
+  "qHi": "भारतीय शास्त्रीय संगीत के संदर्भ में, नाट्यशास्त्र जैसे प्राचीन ग्रंथों के अनुसार 'मार्गी' शब्द का क्या अर्थ है?",
+  "optsEn": [
+   "Folk music styles of regional rural communities",
+   "Spiritual music performed exclusively inside temples",
+   "Formalized classical art music intended for liberation",
+   "Improvisational instrumental solos without a percussion accompaniment"
+  ],
+  "optsHi": [
+   "क्षेत्रीय ग्रामीण समुदायों की लोक संगीत शैलियाँ",
+   "विशेष रूप से मंदिरों के अंदर निष्पादित आध्यात्मिक संगीत",
+   "मोक्ष प्राप्ति के लिए उद्दिष्ट औपचारिक शास्त्रीय कला संगीत",
+   "बिना किसी ताल वाद्य संगत के तात्कालिक वाद्य एकल वादन"
+  ],
+  "correct": 2,
+  "explainEn": "Ancient Indian music theory classifies music into 'Margi' (celestial/formal classical tradition leading to moksha) and 'Deshi' (regional/popular entertainment music).",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T22:25:36Z"
+ },
+ {
+  "id": "q_45be7b1474f83a46",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian observatory or astronomical instrument was constructed as part of a series of stone structures built by Sawai Jai Singh II?",
+  "qHi": "सवाई जय सिंह द्वितीय द्वारा निर्मित पत्थर की संरचनाओं की श्रृंखला के हिस्से के रूप में कौन सी भारतीय वेधशाला या खगोलीय यंत्र बनाया गया था?",
+  "optsEn": [
+   "Vainu Bappu Observatory",
+   "Jantar Mantar",
+   "Indian Astronomical Observatory",
+   "Nizamiah Observatory"
+  ],
+  "optsHi": [
+   "वेणु बाप्पु वेधशाला",
+   "जंतर मंतर",
+   "भारतीय खगोलीय वेधशाला",
+   "निजामिया वेधशाला"
+  ],
+  "correct": 1,
+  "explainEn": "Sawai Jai Singh II built five Jantar Mantar observatories in India, featuring massive architectural astronomical instruments, including the one in Jaipur.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T22:25:36Z"
  }
 ]

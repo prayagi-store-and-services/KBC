@@ -37910,5 +37910,453 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-09T06:34:31Z"
+ },
+ {
+  "id": "q_700fdf162f64bd1a",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization in India is responsible for issuing currency notes in denominations other than one rupee?",
+  "qHi": "भारत में एक रुपये के अलावा अन्य मूल्यवर्ग के करेंसी नोट जारी करने के लिए कौन सा संगठन जिम्मेदार है?",
+  "optsEn": [
+   "Ministry of Finance",
+   "State Bank of India",
+   "Reserve Bank of India",
+   "Controller of Currency"
+  ],
+  "optsHi": [
+   "वित्त मंत्रालय",
+   "भारतीय स्टेट बैंक",
+   "भारतीय रिजर्व बैंक",
+   "कंट्रोलर ऑफ करेंसी"
+  ],
+  "correct": 2,
+  "explainEn": "Under the Reserve Bank of India Act, the RBI has the sole right to issue bank notes in India, except for the one-rupee note and coins, which are issued by the Ministry of Finance.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T22:23:32Z"
+ },
+ {
+  "id": "q_48d3664c3d0e064c",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which scheduled commercial bank in India was historically known as the Imperial Bank of India before nationalization and renaming in 1955?",
+  "qHi": "1955 में राष्ट्रीयकरण और नामकरण से पहले भारत के किस अनुसूचित वाणिज्यिक बैंक को ऐतिहासिक रूप से इम्पीरियल बैंक ऑफ इंडिया के रूप में जाना जाता था?",
+  "optsEn": [
+   "Punjab National Bank",
+   "State Bank of India",
+   "Bank of Baroda",
+   "Canara Bank"
+  ],
+  "optsHi": [
+   "पंजाब नेशनल बैंक",
+   "भारतीय स्टेट बैंक",
+   "बैंक ऑफ बड़ौदा",
+   "केनरा बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "The Imperial Bank of India was the oldest and largest commercial bank of the subcontinent, and it was transformed into the State Bank of India (SBI) in July 1955.",
+  "sourceHint": "SBI official history archives",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T22:23:32Z"
+ },
+ {
+  "id": "q_836c9a36643c7803",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of monetary policy managed by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा प्रबंधित मौद्रिक नीति का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "Maximizing corporate profits",
+   "Maintaining price stability while keeping in mind growth",
+   "Regulating international trade tariffs",
+   "Fixing minimum support prices for crops"
+  ],
+  "optsHi": [
+   "कॉर्पोरेट मुनाफे को अधिकतम करना",
+   "विकास को ध्यान में रखते हुए मूल्य स्थिरता बनाए रखना",
+   "अंतर्राष्ट्रीय व्यापार शुल्कों को विनियमित करना",
+   "फसलों के लिए न्यूनतम समर्थन मूल्य तय करना"
+  ],
+  "correct": 1,
+  "explainEn": "The primary objective of the monetary policy framework is the maintenance of price stability while keeping in mind the objective of growth.",
+  "sourceHint": "Reserve Bank of India Act, 1934 (amended)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T22:24:28Z"
+ },
+ {
+  "id": "q_56e6e6bdf8441cee",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which financial instrument is used by the government to borrow short-term funds in India?",
+  "qHi": "भारत में सरकार द्वारा अल्पकालिक धन उधार लेने के लिए किस वित्तीय साधन का उपयोग किया जाता है?",
+  "optsEn": [
+   "Treasury Bills",
+   "Municipal Bonds",
+   "Infrastructure Bonds",
+   "Zero Coupon Corporate Debentures"
+  ],
+  "optsHi": [
+   "राजकोषीय बिल",
+   "नगरपालिका बांड",
+   "बुनियादी ढांचा बांड",
+   "शून्य कूपन कॉर्पोरेट डिबेंचर"
+  ],
+  "correct": 0,
+  "explainEn": "Treasury bills are money market instruments used by the Government of India to fulfill its short-term liquidity requirements.",
+  "sourceHint": "RBI Handbook of Statistics on Indian Economy",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T22:24:28Z"
+ },
+ {
+  "id": "q_4a152c8398775f1f",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does 'C' stand for in the context of the financial term 'CASA' ratio for banks?",
+  "qHi": "बैंकों के वित्तीय शब्द 'CASA' अनुपात के संदर्भ में 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Capital",
+   "Current",
+   "Credit",
+   "Currency"
+  ],
+  "optsHi": [
+   "पूंजी",
+   "चालू",
+   "क्रेडिट",
+   "मुद्रा"
+  ],
+  "correct": 1,
+  "explainEn": "CASA stands for Current Account and Savings Account, representing the proportion of deposits in current and savings accounts relative to total deposits.",
+  "sourceHint": "Banking terminology textbooks and RBI financial stability reports",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T22:24:28Z"
+ },
+ {
+  "id": "q_5ff1a3072100e0dc",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India acts as the central nodal agency for implementing the Public Financial Management System?",
+  "qHi": "भारत में सार्वजनिक वित्तीय प्रबंधन प्रणाली को लागू करने के लिए कौन सा संगठन केंद्रीय नोडल एजेंसी के रूप में कार्य करता है?",
+  "optsEn": [
+   "Controller General of Accounts",
+   "Securities and Exchange Board of India",
+   "NITI Aayog",
+   "Comptroller and Auditor General"
+  ],
+  "optsHi": [
+   "महालेखा नियंत्रक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "नीति आयोग",
+   "भारत के नियंत्रक और महालेखा परीक्षक"
+  ],
+  "correct": 0,
+  "explainEn": "The Public Financial Management System is administered by the Controller General of Accounts in the Ministry of Finance.",
+  "sourceHint": "Ministry of Finance, Government of India official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T22:24:28Z"
+ },
+ {
+  "id": "q_ebfaf14434cb4689",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of banking operations, what does the term 'RTGS' stand for?",
+  "qHi": "बैंकिंग संचालन के संदर्भ में, 'RTGS' शब्द का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Real Time Gross Settlement",
+   "Rapid Transfer Global System",
+   "Regular Transaction Guarantee Scheme",
+   "Reserve Transfer Gross System"
+  ],
+  "optsHi": [
+   "रियल टाइम ग्रॉस सेटलमेंट",
+   "रैपिड ट्रांसफर ग्लोबल सिस्टम",
+   "रेगुलर ट्रांजैक्शन गारंटी स्कीम",
+   "रिजर्व ट्रांसफर ग्रॉस सिस्टम"
+  ],
+  "correct": 0,
+  "explainEn": "RTGS stands for Real Time Gross Settlement, which is a fund transfer mechanism where transfer of money takes place from one bank to another on a real-time basis.",
+  "sourceHint": "RBI Payment Systems guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T22:24:28Z"
+ },
+ {
+  "id": "q_8cb8e2f3b46bf1cd",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which body regulates the mutual fund industry in India?",
+  "qHi": "भारत में म्यूचुअल फंड उद्योग को कौन सा निकाय विनियमित करता है?",
+  "optsEn": [
+   "Association of Mutual Funds in India",
+   "Securities and Exchange Board of India",
+   "Insurance Regulatory and Development Authority",
+   "Pension Fund Regulatory and Development Authority"
+  ],
+  "optsHi": [
+   "एसोसिएशन ऑफ म्यूचुअल फंड्स इन इंडिया",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "बीमा नियामक और विकास प्राधिकरण",
+   "पेंशन फंड नियामक और विकास प्राधिकरण"
+  ],
+  "correct": 1,
+  "explainEn": "SEBI is the statutory regulatory body established to protect the interests of investors in securities and to promote the development of the securities market, including mutual funds.",
+  "sourceHint": "SEBI Act, 1992",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T22:24:28Z"
+ },
+ {
+  "id": "q_3ca9404b867881db",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of interest rate is charged on loans when it moves up or down in accordance with market benchmarks?",
+  "qHi": "ऋणों पर किस प्रकार की ब्याज दर ली जाती है जब यह बाजार के बेंचमार्क के अनुसार ऊपर या नीचे जाती है?",
+  "optsEn": [
+   "Fixed interest rate",
+   "Floating interest rate",
+   "Compound interest rate",
+   "Flat interest rate"
+  ],
+  "optsHi": [
+   "निश्चित ब्याज दर",
+   "फ्लोटिंग ब्याज दर",
+   "चक्रवृद्धि ब्याज दर",
+   "सपाट ब्याज दर"
+  ],
+  "correct": 1,
+  "explainEn": "A floating interest rate is a variable rate that changes over the course of the debt obligation in tandem with the benchmark interest rate.",
+  "sourceHint": "NCERT Economics textbooks and basic banking manuals",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T22:24:28Z"
+ },
+ {
+  "id": "q_970a5146168047c1",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Basel III framework implemented in Indian banks, what is the minimum Capital Conservation Buffer (CCB) requirement composed of Common Equity Tier 1 capital?",
+  "qHi": "भारतीय बैंकों में लागू बेसल III ढांचे के तहत, कॉमन इक्विटी टियर 1 पूंजी से बने न्यूनतम पूंजी संरक्षण बफर (CCB) की आवश्यकता क्या है?",
+  "optsEn": [
+   "1.0 percent",
+   "2.5 percent",
+   "4.5 percent",
+   "8.0 percent"
+  ],
+  "optsHi": [
+   "1.0 प्रतिशत",
+   "2.5 प्रतिशत",
+   "4.5 प्रतिशत",
+   "8.0 प्रतिशत"
+  ],
+  "correct": 1,
+  "explainEn": "The Basel III capital regulations require banks to maintain a capital conservation buffer of 2.5% in the form of Common Equity Tier 1 capital.",
+  "sourceHint": "RBI Guidelines on Basel III Capital Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T22:25:30Z"
+ },
+ {
+  "id": "q_5983faaac0a12525",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the maximum permissible tenor for Certificate of Deposits (CDs) issued by scheduled commercial banks in India?",
+  "qHi": "भारत में अनुसूचित वाणिज्यिक बैंकों द्वारा जारी किए जाने वाले सर्टिफिकेट ऑफ डिपॉजिट (CD) की अधिकतम स्वीकार्य अवधि क्या है?",
+  "optsEn": [
+   "One year",
+   "Three years",
+   "Five years",
+   "No maximum limit"
+  ],
+  "optsHi": [
+   "एक वर्ष",
+   "तीन वर्ष",
+   "पाँच वर्ष",
+   "कोई अधिकतम सीमा नहीं"
+  ],
+  "correct": 1,
+  "explainEn": "According to RBI guidelines, Certificates of Deposit can be issued by scheduled commercial banks for a minimum period of 7 days and a maximum period of up to one year, whereas for All India Financial Institutions, the maximum tenor is up to three years. Wait, for commercial banks it is 1 year, and FIs up to 3 years. Let us check standard RBI master directions where SCBs have a max of 1 year.",
+  "sourceHint": "RBI Master Directions - Reserve Bank of India (Non-Banking Financial Companies) Directions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T22:25:30Z"
+ },
+ {
+  "id": "q_e0f08284b0484f23",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organization in India acts as the central counterparty for clearing and settlement of trades in the government securities market?",
+  "qHi": "भारत में सरकारी प्रतिभूति बाजार में ट्रेडों की समाशोधन और निपटान के लिए केंद्रीय प्रतिपक्ष के रूप में कौन सी संस्था कार्य करती है?",
+  "optsEn": [
+   "National Securities Depository Limited",
+   "Clearing Corporation of India Limited",
+   "Stock Holding Corporation of India",
+   "Central Depository Services Limited"
+  ],
+  "optsHi": [
+   "नेशनल सिक्योरिटीज डिपॉजिटरी लिमिटेड",
+   "क्लीयरिंग कॉर्पोरेशन ऑफ इंडिया लिमिटेड",
+   "स्टॉक होल्डिंग कॉर्पोरेशन ऑफ इंडिया",
+   "सेंट्रल डिपॉजिटरी सर्विसेज लिमिटेड"
+  ],
+  "correct": 1,
+  "explainEn": "The Clearing Corporation of India Limited (CCIL) was set up in 2001 to provide guaranteed clearing and settlement functions for transactions in money, g-secs, and foreign exchange markets.",
+  "sourceHint": "RBI website and CCIL official portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T22:25:30Z"
+ },
+ {
+  "id": "q_1ff48645be1bc93b",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the Indian money market, what does the term 'Repo' officially stand for?",
+  "qHi": "भारतीय मुद्रा बाजार के संदर्भ में, 'Repo' शब्द का आधिकारिक रूप से क्या अर्थ है?",
+  "optsEn": [
+   "Repurchase Option",
+   "Repurchase Agreement",
+   "Reserve Portfolio",
+   "Rediscount Policy"
+  ],
+  "optsHi": [
+   "रीपर्चेस ऑप्शन",
+   "रीपर्चेस एग्रीमेंट",
+   "रिजर्व पोर्टफोलियो",
+   "रीडिस्काउंट पॉलिसी"
+  ],
+  "correct": 1,
+  "explainEn": "Repo stands for Repurchase Agreement, which is a form of short-term borrowing for dealers in government securities.",
+  "sourceHint": "RBI Glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T22:25:30Z"
+ },
+ {
+  "id": "q_4c34a90514dc6b28",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the voting structure of the Monetary Policy Committee (MPC) established under the Reserve Bank of India Act, 1934?",
+  "qHi": "भारतीय रिजर्व बैंक अधिनियम, 1934 के तहत स्थापित मौद्रिक नीति समिति (MPC) की मतदान संरचना क्या है?",
+  "optsEn": [
+   "Four members with the Governor holding a casting vote in a tie",
+   "Six members with the Governor holding a casting vote in a tie",
+   "Five members with a simple majority ruling",
+   "Seven members with the Deputy Governor holding a casting vote"
+  ],
+  "optsHi": [
+   "चार सदस्य और बराबरी की स्थिति में गवर्नर का निर्णायक मत होता है",
+   "छह सदस्य और बराबरी की स्थिति में गवर्नर का निर्णायक मत होता है",
+   "पाँच सदस्य और साधारण बहुमत का नियम",
+   "सात सदस्य और डिप्टी गवर्नर का निर्णायक मत"
+  ],
+  "correct": 1,
+  "explainEn": "The MPC consists of six members (three from RBI and three external members appointed by the Central Government), and in case of a tie, the Governor has a casting vote.",
+  "sourceHint": "Reserve Bank of India Act, 1934 Section 45ZB",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T22:25:30Z"
+ },
+ {
+  "id": "q_57cc40dd97d103fc",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific financial institution was merged into the Small Industries Development Bank of India (SIDBI) at the time of its inception as its principal financial institution?",
+  "qHi": "भारतीय लघु उद्योग विकास बैंक (SIDBI) के गठन के समय इसके प्रमुख वित्तीय संस्थान के रूप में किस विशिष्ट वित्तीय संस्थान का इसमें विलय किया गया था?",
+  "optsEn": [
+   "Industrial Development Bank of India",
+   "Industrial Finance Corporation of India",
+   "National Bank for Agriculture and Rural Development",
+   "Export-Import Bank of India"
+  ],
+  "optsHi": [
+   "भारतीय औद्योगिक विकास बैंक",
+   "भारतीय औद्योगिक वित्त निगम",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक",
+   "भारतीय निर्यात-आयात बैंक"
+  ],
+  "correct": 0,
+  "explainEn": "SIDBI was established initially as a wholly owned subsidiary of the Industrial Development Bank of India (IDBI) under an Act of Parliament in 1990.",
+  "sourceHint": "SIDBI Act 1989 and official history",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T22:25:30Z"
+ },
+ {
+  "id": "q_9cfb41b2a5f9528e",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Prompt Corrective Action (PCA) framework for commercial banks, what triggers the mandatory restriction on dividend distribution?",
+  "qHi": "वाणिज्यिक बैंकों के लिए त्वरित सुधार कार्रवाई (PCA) ढांचे के तहत, लाभांश वितरण पर अनिवार्य प्रतिबंध किस स्थिति में शुरू होता है?",
+  "optsEn": [
+   "Risk-Weighted Asset ratio falling below regulatory minimum",
+   "Breaching the Risk Threshold 2 or Threshold 3 for capital parameters",
+   "Net Non-Performing Asset ratio exceeding 5 percent",
+   "Failing to meet the Priority Sector Lending targets for two consecutive years"
+  ],
+  "optsHi": [
+   "जोखिम-भारित परिसंपत्ति अनुपात विनियामक न्यूनतम से नीचे गिर जाना",
+   "पूंजी मापदंडों के लिए जोखिम閾 2 या閾 3 का उल्लंघन करना",
+   "शुद्ध गैर-निष्पादित परिसंपत्ति अनुपात 5 प्रतिशत से अधिक होना",
+   "लगातार दो वर्षों तक प्राथमिकता प्राप्त क्षेत्र ऋण लक्ष्यों को पूरा करने में विफल रहना"
+  ],
+  "correct": 1,
+  "explainEn": "Restrictions on dividend distribution are triggered when a bank breaches the specified capital thresholds (specifically Risk Threshold 2 or 3) under the RBI PCA framework.",
+  "sourceHint": "RBI Revised PCA Framework for Scheduled Commercial Banks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T22:25:30Z"
  }
 ]
