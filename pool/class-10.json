@@ -29650,5 +29650,341 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-08T22:10:29Z"
+ },
+ {
+  "id": "q_5d8d7dd99f141560",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which crop is known as a staple food crop of the kharif season in India?",
+  "qHi": "भारत में खरीफ के मौसम की मुख्य खाद्य फसल के रूप में किसे जाना जाता है?",
+  "optsEn": [
+   "Wheat",
+   "Barley",
+   "Paddy",
+   "Gram"
+  ],
+  "optsHi": [
+   "गेहूं",
+   "जौ",
+   "धान",
+   "चना"
+  ],
+  "correct": 2,
+  "explainEn": "Paddy (rice) requires high water and is a major kharif crop grown across India.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 4: Agriculture",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:32:15Z"
+ },
+ {
+  "id": "q_22e8430fadd1597d",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a renewable energy resource?",
+  "qHi": "निम्नलिखित में से कौन सा एक नवीकरणीय ऊर्जा संसाधन है?",
+  "optsEn": [
+   "Coal",
+   "Petroleum",
+   "Natural gas",
+   "Solar energy"
+  ],
+  "optsHi": [
+   "कोयला",
+   "पेट्रोलियम",
+   "प्राकृतिक गैस",
+   "सौर ऊर्जा"
+  ],
+  "correct": 3,
+  "explainEn": "Solar energy is inexhaustible and renewable, unlike fossil fuels.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 5: Minerals and Energy Resources",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:32:15Z"
+ },
+ {
+  "id": "q_46c58fb2e861f679",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which part of the human digestive tract is digested food primarily absorbed into the blood?",
+  "qHi": "मानव पाचन तंत्र के किस भाग में पचे हुए भोजन का मुख्य रूप سے रक्त में अवशोषण होता है?",
+  "optsEn": [
+   "Stomach",
+   "Small intestine",
+   "Large intestine",
+   "Esophagus"
+  ],
+  "optsHi": [
+   "आमाशय",
+   "छोटी आंत",
+   "बड़ी आंत",
+   "ग्रাসनली"
+  ],
+  "correct": 1,
+  "explainEn": "The inner lining of the small intestine has numerous finger-like projections called villi that absorb digested food.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:33:09Z"
+ },
+ {
+  "id": "q_d26279ffc5fe588b",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following describes the soil most suitable for the growth of cotton plants?",
+  "qHi": "निम्नलिखित में से कौन सी मिट्टी कपास के पौधों की वृद्धि के लिए सबसे उपयुक्त है?",
+  "optsEn": [
+   "Laterite soil",
+   "Black soil",
+   "Red soil",
+   "Arid soil"
+  ],
+  "optsHi": [
+   "लैटेराइट मिट्टी",
+   "काली मिट्टी",
+   "लाल मिट्टी",
+   "मरुस्थलीय मिट्टी"
+  ],
+  "correct": 1,
+  "explainEn": "Black soil, also known as regur soil, is ideal for growing cotton and is rich in soil nutrients like calcium carbonate and magnesium.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:33:09Z"
+ },
+ {
+  "id": "q_72c1b8eb1e509962",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of forest vegetation is predominantly found in regions receiving heavy rainfall of more than 200 cm?",
+  "qHi": "200 सेमी से अधिक भारी वर्षा वाले क्षेत्रों में मुख्य रूप से किस प्रकार की वनस्पति पाई जाती है?",
+  "optsEn": [
+   "Tropical evergreen forests",
+   "Tropical deciduous forests",
+   "Thorn forests",
+   "Mangrove forests"
+  ],
+  "optsHi": [
+   "उष्णकटिबंधीय सदाबहार वन",
+   "उष्णकटिबंधीय पर्णपाती वन",
+   "कंटीले वन",
+   "मैंग्रोव वन"
+  ],
+  "correct": 0,
+  "explainEn": "Tropical evergreen forests thrive in areas receiving annual rainfall of over 200 cm with a short dry season.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:33:09Z"
+ },
+ {
+  "id": "q_72f57e82e2adea0a",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What was the main purpose of launching the Non-Cooperation Movement in 1920 under Mahatma Gandhi?",
+  "qHi": "महात्मा गांधी के नेतृत्व में 1920 में असहयोग आंदोलन शुरू करने का मुख्य उद्देश्य क्या था?",
+  "optsEn": [
+   "To demand complete economic self-reliance immediately",
+   "To protest against the Rowlatt Act and Khilafat wrongs",
+   "To partition administrative provinces",
+   "To establish a military government"
+  ],
+  "optsHi": [
+   "तत्काल पूर्ण आर्थिक आत्मनिर्भरता की मांग करना",
+   "रॉलेट एक्ट और खिलाफत के अन्याय के खिलाफ विरोध करना",
+   "प्रशासनिक प्रांतों का विभाजन करना",
+   "सैन्य सरकार की स्थापना करना"
+  ],
+  "correct": 1,
+  "explainEn": "The Non-Cooperation movement was adopted to address the wrongs in Punjab, the Khilafat issue, and eventually achieve Swaraj.",
+  "sourceHint": "NCERT Class 10 History, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:33:09Z"
+ },
+ {
+  "id": "q_2cae36b9452e544a",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During which phase of India's freedom struggle was the 'Home Rule League' movement actively organized?",
+  "qHi": "भारत के स्वतंत्रता संग्राम के किस चरण के दौरान 'होम रूल लीग' आंदोलन सक्रिय रूप से आयोजित किया गया था?",
+  "optsEn": [
+   "First World War",
+   "Non-Cooperation Movement",
+   "Civil Disobedience Movement",
+   "Swadeshi Movement"
+  ],
+  "optsHi": [
+   "प्रथम विश्व युद्ध",
+   "असहयोग आंदोलन",
+   "सविनय अवज्ञा आंदोलन",
+   "स्वदेशी आंदोलन"
+  ],
+  "correct": 0,
+  "explainEn": "The Home Rule League movement was spearheaded by Bal Gangadhar Tilak and Annie Besant during the First World War (around 1916).",
+  "sourceHint": "NCERT Class 10 History - Nationalism in India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:34:08Z"
+ },
+ {
+  "id": "q_8525ca764f002761",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which type of soil is formed by the weathering of basaltic lava rocks and is well known for its moisture-retention capacity?",
+  "qHi": "बेसाल्टिक लावा चट्टानों के अपक्षय से किस प्रकार की मिट्टी बनती है और यह अपनी नमी बनाए रखने की क्षमता के लिए जानी जाती है?",
+  "optsEn": [
+   "Black soil",
+   "Laterite soil",
+   "Red soil",
+   "Alluvial soil"
+  ],
+  "optsHi": [
+   "काली मिट्टी",
+   "लैटेराइट मिट्टी",
+   "लाल मिट्टी",
+   "जलोढ़ मिट्टी"
+  ],
+  "correct": 0,
+  "explainEn": "Black soil, also known as regur soil, is formed from volcanic basaltic rocks and is famously suited for growing cotton due to high moisture retention.",
+  "sourceHint": "NCERT Class 10 Geography - Resources and Development",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:34:08Z"
+ },
+ {
+  "id": "q_8d0e0da6f7348f8e",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the banking sector in India, what does 'SLR' stand for?",
+  "qHi": "भारत में बैंकिंग क्षेत्र के संदर्भ में, 'SLR' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Statutory Liquidity Ratio",
+   "State Lending Rate",
+   "Standard Loan Reserve",
+   "Secured Liquidity Return"
+  ],
+  "optsHi": [
+   "वैधानिक तरलता अनुपात",
+   "राज्य ऋण दर",
+   "मानक ऋण आरक्षित",
+   "सुरक्षित तरलता वापसी"
+  ],
+  "correct": 0,
+  "explainEn": "Statutory Liquidity Ratio (SLR) is the minimum percentage of deposits that a commercial bank has to maintain in the form of liquid cash, gold, or approved securities before providing credit to customers.",
+  "sourceHint": "NCERT Class 10 Economics - Money and Credit",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:34:08Z"
+ },
+ {
+  "id": "q_d53e60b34666c841",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which chemical compound is commonly known as 'Blue Vitriol' and is widely used in agriculture as a fungicide?",
+  "qHi": "किस रासायनिक यौगिक को सामान्यतः 'नीला थोथा' (Blue Vitriol) कहा जाता है और कृषि में कवकनाशी के रूप में व्यापक रूप से उपयोग किया जाता है?",
+  "optsEn": [
+   "Copper sulphate",
+   "Ferrous sulphate",
+   "Zinc sulphate",
+   "Magnesium sulphate"
+  ],
+  "optsHi": [
+   "कॉपर सल्फेट",
+   "फेरस सल्फेट",
+   "जिंक सल्फेट",
+   "मैग्नीशियम सल्फेट"
+  ],
+  "correct": 0,
+  "explainEn": "Copper(II) sulphate pentahydrate is commonly known as Blue Vitriol and is used extensively in agriculture combined with lime as Bordeaux mixture.",
+  "sourceHint": "NCERT Class 10 Science - Acids, Bases and Salts",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:34:08Z"
+ },
+ {
+  "id": "q_828172e79964e6f8",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In human biology, which specific part of the nephron is primarily responsible for the reabsorption of essential nutrients such as glucose and amino acids?",
+  "qHi": "मानव जीव विज्ञान में, नेफ्रॉन का कौन सा विशिष्ट भाग मुख्य रूप से ग्लूकोज और अमीनो एसिड जैसे आवश्यक पोषक तत्वों के पुन: अवशोषण के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Proximal convoluted tubule",
+   "Bowman capsule",
+   "Distal convoluted tubule",
+   "Collecting duct"
+  ],
+  "optsHi": [
+   "समीपस्थ संवलित नलिका",
+   "बोमैन कैप्सूल",
+   "दूरस्थ संवलित नलिका",
+   "संग्राहक नली"
+  ],
+  "correct": 0,
+  "explainEn": "The proximal convoluted tubule (PCT) in the nephron reabsorbs most of the filtered water, glucose, amino acids, and essential ions back into the blood.",
+  "sourceHint": "NCERT Class 10 Science - Life Processes",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:34:08Z"
+ },
+ {
+  "id": "q_8443a49fc04f4909",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which mineral resource is primarily mined in the Balaghat mines of Madhya Pradesh and the Khetri mines of Rajasthan respectively?",
+  "qHi": "क्रमशः मध्य प्रदेश की बालाघाट खदानों और राजस्थान की खेतरी खदानों में मुख्य रूप से किस खनिज संसाधन का खनन किया जाता है?",
+  "optsEn": [
+   "Manganese and Copper",
+   "Iron ore and Bauxite",
+   "Coal and Mica",
+   "Bauxite and Limestone"
+  ],
+  "optsHi": [
+   "मैंगनीज और तांबा",
+   "लोह अयस्क और बॉक्साइट",
+   "कोयला और अभ्रक",
+   "बॉक्साइट और चूना पत्थर"
+  ],
+  "correct": 0,
+  "explainEn": "Balaghat in Madhya Pradesh is famous for producing a major share of India's manganese, while Khetri in Rajasthan is renowned for copper mining.",
+  "sourceHint": "NCERT Class 10 Geography - Minerals and Energy Resources",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:34:08Z"
  }
 ]

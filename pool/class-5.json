@@ -29930,5 +29930,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-08T22:09:19Z"
+ },
+ {
+  "id": "q_55ba90b092a4020c",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the main gas present in the air we breathe?",
+  "qHi": "हम जो हवा में सांस लेते हैं, उसमें मुख्य गैस कौन सी है?",
+  "optsEn": [
+   "Oxygen",
+   "Nitrogen",
+   "Carbon dioxide",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "कार्बन डाइऑक्साइड",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Nitrogen makes up about 78 percent of Earth's atmosphere.",
+  "sourceHint": "NCERT Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:32:40Z"
+ },
+ {
+  "id": "q_d7252b683553ff7b",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is a major component of the food that helps our body digest plant food and prevents constipation?",
+  "qHi": "निम्नलिखित में से कौन सा भोजन का एक प्रमुख घटक है जो हमारे शरीर को पौधे आधारित भोजन को पचाने में मदद करता है और कब्ज को रोकता है?",
+  "optsEn": [
+   "Proteins",
+   "Vitamins",
+   "Roughage",
+   "Fats"
+  ],
+  "optsHi": [
+   "प्रोटीन",
+   "विटामिन",
+   "रेशा (रफेज)",
+   "वसा"
+  ],
+  "correct": 2,
+  "explainEn": "Roughage, also known as dietary fiber, mainly provided by plant products in our foods, does not provide any nutrients to our body, but is an essential component of our food and adds to its bulk. This helps our body get rid of undigested food.",
+  "sourceHint": "NCERT Class 6 Science Chapter 2 (Components of Food)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:33:38Z"
+ },
+ {
+  "id": "q_3d1658f69abdabbb",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which atmospheric layer is closest to the surface of the Earth?",
+  "qHi": "पृथ्वी की सतह के सबसे पास कौन सी वायुमंडलीय परत है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 0,
+  "explainEn": "The troposphere is the lowest layer of Earth's atmosphere and is closest to the surface, containing most of our weather and air.",
+  "sourceHint": "NCERT Class 7 Geography Chapter 4 (Air)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:33:38Z"
+ },
+ {
+  "id": "q_a361af3dc4f468a3",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian stepwell is designed as a multi-storied stepwell with intricate carvings and was used to store water?",
+  "qHi": "कौन सा पारंपरिक भारतीय स्टेपवेल (बावड़ी) जटिल नक्काशी के साथ बहु-मंजिला बावड़ी के रूप में डिज़ाइन किया गया था और इसका उपयोग पानी स्टोर करने के लिए किया जाता था?",
+  "optsEn": [
+   "Bawadi",
+   "Dome",
+   "Minar",
+   "Stupa"
+  ],
+  "optsHi": [
+   "बावड़ी",
+   "गुंबद",
+   "मीनार",
+   "स्तूप"
+  ],
+  "correct": 0,
+  "explainEn": "Stepwells, locally known as Baolis or Baos, are wells or ponds in which the water is reached down by descending a set of steps.",
+  "sourceHint": "NCERT Class 5 Environmental Studies (EVS) Chapter 6 (A Drop by Drop)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:33:38Z"
+ },
+ {
+  "id": "q_713e5036ce134aff",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which bird is known for weaving a hanging nest using grass and thin strips of plant material?",
+  "qHi": "घास और पौधे की सामग्री की पतली पट्टियों का उपयोग करके लटकता हुआ घोंसला बुनने के लिए कौन सा पक्षी जाना जाता है?",
+  "optsEn": [
+   "Crow",
+   "Pigeon",
+   "Weaver bird",
+   "Vulture"
+  ],
+  "optsHi": [
+   "कौवा",
+   "कबूतर",
+   "बया पक्षी (वीवर बर्ड)",
+   "गिद्ध"
+  ],
+  "correct": 2,
+  "explainEn": "The weaver bird makes a clever hanging nest using grass and thin strips of plant material that sway gently on tree branches.",
+  "sourceHint": "NCERT Class 3 Environmental Studies Chapter 16 (Games We Play / Animal homes context)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:33:38Z"
+ },
+ {
+  "id": "q_1d9ba5bb15db06a6",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of map mainly shows natural features of the Earth such as mountains, plateaus, plains, and rivers?",
+  "qHi": "किस प्रकार का मानचित्र मुख्य रूप से पृथ्वी की प्राकृतिक विशेषताओं जैसे पहाड़, पठार, मैदान और नदियाँ को दर्शाता है?",
+  "optsEn": [
+   "Political map",
+   "Physical map",
+   "Thematic map",
+   "Road map"
+  ],
+  "optsHi": [
+   "राजनीतिक मानचित्र",
+   "भौतिक मानचित्र",
+   "थीम आधारित मानचित्र",
+   "सड़क मानचित्र"
+  ],
+  "correct": 1,
+  "explainEn": "Maps showing natural features of the earth such as mountains, plateaus, plains, rivers, oceans etc. are called physical or relief maps.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 4 (Maps)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:33:38Z"
+ },
+ {
+  "id": "q_23165c5ab95e31e2",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which internal organ in the human body pumps blood to all parts of the body?",
+  "qHi": "मानव शरीर में कौन सा आंतरिक अंग शरीर के सभी भागों में रक्त पंप करता है?",
+  "optsEn": [
+   "Lungs",
+   "Stomach",
+   "Heart",
+   "Kidney"
+  ],
+  "optsHi": [
+   "फेफड़े",
+   "पेट",
+   "दिल (हृदय)",
+   "गुर्दा"
+  ],
+  "correct": 2,
+  "explainEn": "The heart is a muscular organ that pumps blood through the blood vessels of the circulatory system.",
+  "sourceHint": "NCERT Class 4/5 Science curriculum on Human Body",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:33:38Z"
+ },
+ {
+  "id": "q_17a395cc82580966",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which direction does the needle of a magnetic compass always point towards when it settles?",
+  "qHi": "जब चुंबकीय कम्पास की सुई स्थिर होती है, तो यह हमेशा किस दिशा की ओर इशारा करती है?",
+  "optsEn": [
+   "East-West",
+   "North-South",
+   "Up-Down",
+   "North-East"
+  ],
+  "optsHi": [
+   "पूर्व-पश्चिम",
+   "उत्तर-दक्षिण",
+   "ऊपर-नीचे",
+   "उत्तर-पूर्व"
+  ],
+  "correct": 1,
+  "explainEn": "A magnetic compass has a magnetized needle that aligns with the Earth's magnetic field, always pointing toward the magnetic North and South poles.",
+  "sourceHint": "NCERT Class 6 Science Chapter 13 (Fun with Magnets)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:33:38Z"
  }
 ]

@@ -34494,5 +34494,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-08T22:08:53Z"
+ },
+ {
+  "id": "q_ea8e3b64e86aee6f",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the functional group of aldehydes?",
+  "qHi": "एल्डिहाइड का कार्यात्मक समूह क्या है?",
+  "optsEn": [
+   "-OH",
+   "-COOH",
+   "-CHO",
+   "-CO-"
+  ],
+  "optsHi": [
+   "-OH",
+   "-COOH",
+   "-CHO",
+   "-CO-"
+  ],
+  "correct": 2,
+  "explainEn": "The characteristic functional group of aldehydes is the formyl group, represented as -CHO.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:32:19Z"
+ },
+ {
+  "id": "q_886493b2f32d0dc5",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which trophic level do primary carnivores occupy in a food chain?",
+  "qHi": "खाद्य श्रृंखला में प्राथमिक मांसाहारी किस पोषण स्तर पर आते हैं?",
+  "optsEn": [
+   "First trophic level",
+   "Second trophic level",
+   "Third trophic level",
+   "Decomposer level"
+  ],
+  "optsHi": [
+   "पहला पोषण स्तर",
+   "दूसरा पोषण स्तर",
+   "तीसरा पोषण स्तर",
+   "अपघटक स्तर"
+  ],
+  "correct": 2,
+  "explainEn": "Primary producers occupy the first trophic level, herbivores (primary consumers) occupy the second, and primary carnivores (secondary consumers) occupy the third trophic level.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:32:19Z"
+ },
+ {
+  "id": "q_496d739e8645ca87",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following haloalkanes undergoes the fastest SN1 reaction?",
+  "qHi": "निम्नलिखित में से कौन सा हेलोएल्केन सबसे तेजी से SN1 प्रतिक्रिया से गुजरता है?",
+  "optsEn": [
+   "2-Bromopropane",
+   "1-Bromopropane",
+   "2-Bromo-2-methylpropane",
+   "1-Bromobutane"
+  ],
+  "optsHi": [
+   "2-ब्रोमोप्रोपेन",
+   "1-ब्रोमोप्रोपेन",
+   "2-ब्रोमो-2-मेथिलप्रोपेन",
+   "1-ब्रोमोब्यूटेन"
+  ],
+  "correct": 2,
+  "explainEn": "2-Bromo-2-methylpropane is a tertiary alkyl halide, which forms a stable tertiary carbocation, thus favoring the SN1 mechanism most rapidly.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:33:14Z"
+ },
+ {
+  "id": "q_bde707623e3b1789",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Mughal emperor introduced the 'du-aspa sih-aspa' system in the Mansabdari system?",
+  "qHi": "किस मुगल सम्राट ने मनसबदारी व्यवस्था में 'दु-अस्पा सिह-अस्पा' प्रणाली की शुरुआत की थी?",
+  "optsEn": [
+   "Akbar",
+   "Jahangir",
+   "Shah Jahan",
+   "Aurangzeb"
+  ],
+  "optsHi": [
+   "अकबर",
+   "जहाँगीर",
+   "शाहजहाँ",
+   "औरंगजेब"
+  ],
+  "correct": 1,
+  "explainEn": "Jahangir introduced the du-aspa (two horses) and sih-aspa (three horses) system, allowing nobles to maintain a larger troop quota without raising their zat rank.",
+  "sourceHint": "NCERT Class 12 History, Chapter 9",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:33:14Z"
+ },
+ {
+  "id": "q_7e68428b71b3ee85",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following Indian states was the first to implement Panchayati Raj institutions in 1959?",
+  "qHi": "निम्नलिखित में से किस भारतीय राज्य ने सबसे पहले 1959 में पंचायती राज संस्थाओं को लागू किया था?",
+  "optsEn": [
+   "Andhra Pradesh",
+   "Rajasthan",
+   "Gujarat",
+   "Tamil Nadu"
+  ],
+  "optsHi": [
+   "आंध्र प्रदेश",
+   "राजस्थान",
+   "गुजरात",
+   "तमिलनाडु"
+  ],
+  "correct": 1,
+  "explainEn": "Panchayati Raj was first inaugurated by the Prime Minister on October 2, 1959, in Nagaur district of Rajasthan.",
+  "sourceHint": "NCERT Class 11 Political Science (Indian Constitution at Work), Chapter 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:33:14Z"
+ },
+ {
+  "id": "q_722c17569a00150c",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of macroeconomic equilibria, what condition defines the IS curve?",
+  "qHi": "समष्टि आर्थिक संतुलन के संदर्भ में, कौन सी स्थिति IS वक्र को परिभाषित करती है?",
+  "optsEn": [
+   "Equality of money demand and money supply",
+   "Equilibrium in the goods and services market",
+   "Equilibrium in the foreign exchange market",
+   "Equality of aggregate exports and imports"
+  ],
+  "optsHi": [
+   "मुद्रा की मांग और मुद्रा की आपूर्ति की समानता",
+   "वस्तु और सेवा बाजार में संतुलन",
+   "विदेशी मुद्रा बाजार में संतुलन",
+   "कुल निर्यात और आयात की समानता"
+  ],
+  "correct": 1,
+  "explainEn": "The IS curve represents combinations of interest rates and output levels for which the goods and services market is in equilibrium (Investment equals Saving).",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:34:14Z"
+ },
+ {
+  "id": "q_aa0384f55bf8f464",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which constitutional amendment introduced the provisions relating to Panchayats in Part IX of the Constitution of India?",
+  "qHi": "भारत के संविधान के भाग IX में पंचायतों से संबंधित प्रावधान किस संवैधानिक संशोधन द्वारा जोड़े गए थे?",
+  "optsEn": [
+   "42nd Amendment Act",
+   "44th Amendment Act",
+   "73rd Amendment Act",
+   "74th Amendment Act"
+  ],
+  "optsHi": [
+   "42वां संशोधन अधिनियम",
+   "44वां संशोधन अधिनियम",
+   "73वां संशोधन अधिनियम",
+   "74वां संशोधन अधिनियम"
+  ],
+  "correct": 2,
+  "explainEn": "The 73rd Constitutional Amendment Act, 1992 added Part IX to the Constitution, institutionalizing Panchayati Raj institutions in India.",
+  "sourceHint": "NCERT Class 12 Political Science, Indian Constitution at Work",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:34:14Z"
+ },
+ {
+  "id": "q_ab53962505eb2961",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which functional group isomer pair is represented by the molecular formula C2H6O?",
+  "qHi": "आणविक सूत्र C2H6O द्वारा किस कार्यात्मक समूह समावयवी युग्म का प्रतिनिधित्व किया जाता है?",
+  "optsEn": [
+   "Aldehyde and Ketone",
+   "Alcohol and Ether",
+   "Carboxylic acid and Ester",
+   "Cyanide and Isocyanide"
+  ],
+  "optsHi": [
+   "एल्डिहाइड और कीटोन",
+   "शराब और ईथर",
+   "कार्बोक्जिलिक एसिड और एस्टर",
+   "साइनाइड और आइसोसाइनाइड"
+  ],
+  "correct": 1,
+  "explainEn": "The molecular formula C2H6O can represent ethanol (an alcohol) and methoxymethane (an ether), which are functional isomers of each other.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 11: Alcohols, Phenols and Ethers",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:34:14Z"
+ },
+ {
+  "id": "q_556c01de15f604db",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary mode of pollination in Vallisneria, an aquatic plant?",
+  "qHi": "एक जलीय पौधे वैलिसनेरिया में परागण की प्राथमिक विधि क्या है?",
+  "optsEn": [
+   "Anemophily (Wind pollination)",
+   "Entomophily (Insect pollination)",
+   "Epihydrophilously (Surface water pollination)",
+   "Hypohydrophilously (Submerged water pollination)"
+  ],
+  "optsHi": [
+   "एनेमोफिली (वायु परागण)",
+   "एंटोमोफिली (कीट परागण)",
+   "एपीड्रोफिली (सतह जल परागण)",
+   "हाइपोहाइड्रोफिली (जलमग्न जल परागण)"
+  ],
+  "correct": 2,
+  "explainEn": "In Vallisneria, female flowers reach the surface of the water by long stalks, and male flowers are released onto the water surface where pollination occurs by water currents.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 2: Sexual Reproduction in Flowering Plants",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:34:14Z"
+ },
+ {
+  "id": "q_35402a9c31976dec",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the British colonial period in India, the 'Drain of Wealth' theory was prominently propounded by whom?",
+  "qHi": "भारत में ब्रिटिश औपनिवेशिक काल के दौरान, 'धन की निकासी' सिद्धांत प्रमुखता से किसके द्वारा प्रतिपादित किया गया था?",
+  "optsEn": [
+   "Dadabhai Naoroji",
+   "Mahatma Gandhi",
+   "Bal Gangadhar Tilak",
+   "Gopal Krishna Gokhale"
+  ],
+  "optsHi": [
+   "दादाभाई नौरोजी",
+   "महात्मा गांधी",
+   "बाल गंगाधर तिलक",
+   "गोपाल कृष्ण गोखले"
+  ],
+  "correct": 0,
+  "explainEn": "Dadabhai Naoroji formulated the 'Drain of Wealth' theory in his book 'Poverty and Un-British Rule in India', explaining how wealth was being transferred from India to Britain.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:34:14Z"
+ },
+ {
+  "id": "q_3fdff03ebe899419",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What does a negative value of the coefficient of correlation (r) between two variables X and Y indicate?",
+  "qHi": "दो चर X और Y के बीच सहसंबंध गुणांक (r) का ऋणात्मक मान क्या दर्शाता है?",
+  "optsEn": [
+   "No linear relationship between X and Y",
+   "As X increases, Y tends to increase proportionally",
+   "As X increases, Y tends to decrease",
+   "The variables X and Y are independent"
+  ],
+  "optsHi": [
+   "X और Y के बीच कोई रैखिक संबंध नहीं है",
+   "जैसे-जैसे X बढ़ता है, Y आनुपातिक रूप से बढ़ता है",
+   "जैसे-जैसे X बढ़ता है, Y घटता जाता है",
+   "चर X और Y स्वतंत्र हैं"
+  ],
+  "correct": 2,
+  "explainEn": "A negative correlation coefficient implies an inverse relationship between the variables, meaning an increase in one variable is associated with a decrease in the other.",
+  "sourceHint": "NCERT Class 12 Mathematics, Chapter 13: Probability (or Statistics modules)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:34:14Z"
  }
 ]

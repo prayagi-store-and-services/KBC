@@ -37406,5 +37406,509 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-08T22:09:09Z"
+ },
+ {
+  "id": "q_ea39af2014e3842f",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the minimum paid-up capital requirement for setting up a Small Finance Bank in India as per RBI guidelines?",
+  "qHi": "RBI के दिशा-निर्देशों के अनुसार भारत में लघु वित्त बैंक (Small Finance Bank) की स्थापना के लिए न्यूनतम चुकता पूंजी आवश्यकता कितनी है?",
+  "optsEn": [
+   "100 Crore Rupees",
+   "200 Crore Rupees",
+   "500 Crore Rupees",
+   "1000 Crore Rupees"
+  ],
+  "optsHi": [
+   "100 करोड़ रुपये",
+   "200 करोड़ रुपये",
+   "500 करोड़ रुपये",
+   "1000 करोड़ रुपये"
+  ],
+  "correct": 1,
+  "explainEn": "As per RBI guidelines for Small Finance Banks, the minimum initial paid-up voting equity capital is set at Rupees 200 Crore.",
+  "sourceHint": "RBI Guidelines on Small Finance Banks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:32:33Z"
+ },
+ {
+  "id": "q_532c338701ae5d73",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which digital payment system in India operates on a 24x7 basis and is managed by the National Payments Corporation of India for instant fund transfers using a virtual payment address?",
+  "qHi": "भारत की कौन सी डिजिटल भुगतान प्रणाली 24x7 संचालित होती है और वर्चुअल भुगतान पते का उपयोग करके तुरंत फंड ट्रांसफर के लिए भारतीय राष्ट्रीय भुगतान निगम द्वारा प्रबंधित की जाती है?",
+  "optsEn": [
+   "NEFT",
+   "RTGS",
+   "IMPS",
+   "UPI"
+  ],
+  "optsHi": [
+   "NEFT",
+   "RTGS",
+   "IMPS",
+   "UPI"
+  ],
+  "correct": 3,
+  "explainEn": "Unified Payments Interface (UPI) is an instant real-time payment system developed by NPCI facilitating inter-bank transactions.",
+  "sourceHint": "NPCI official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:32:33Z"
+ },
+ {
+  "id": "q_d1af1cff438b314b",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'C' stand for in the financial term 'CASA' account used by commercial banks?",
+  "qHi": "वाणिज्यिक बैंकों द्वारा उपयोग किए जाने वाले वित्तीय शब्द 'CASA' खाते में 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Current",
+   "Credit",
+   "Capital",
+   "Collateral"
+  ],
+  "optsHi": [
+   "करंट (Current)",
+   "क्रेडिट (Credit)",
+   "कैपिटल (Capital)",
+   "कोलैटरल (Collateral)"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account Savings Account, which refers to bank accounts that combine current and savings account features.",
+  "sourceHint": "Banking terminology and NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:32:33Z"
+ },
+ {
+  "id": "q_2e18614130bd4dae",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In the context of Indian currency, how many digits are present in a standard Mahatma Gandhi Series banknote number?",
+  "qHi": "भारतीय मुद्रा के संदर्भ में, एक मानक महात्मा गांधी श्रृंखला के बैंकनोट नंबर में कितने अंक होते हैं?",
+  "optsEn": [
+   "6 digits",
+   "7 digits",
+   "8 digits",
+   "9 digits"
+  ],
+  "optsHi": [
+   "6 अंक",
+   "7 अंक",
+   "8 अंक",
+   "9 अंक"
+  ],
+  "correct": 1,
+  "explainEn": "Indian currency banknotes feature a numbering panel with a 7-digit serial number along with a prefix.",
+  "sourceHint": "Reserve Bank of India currency specifications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:32:33Z"
+ },
+ {
+  "id": "q_173fbedf4683def0",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum deposit amount per account insured by the Deposit Insurance and Credit Guarantee Corporation in India?",
+  "qHi": "भारत में जमा बीमा और ऋण गारंटी निगम द्वारा बीमाकृत प्रति खाता अधिकतम जमा राशि क्या है?",
+  "optsEn": [
+   "One Lakh Rupees",
+   "Two Lakh Rupees",
+   "Five Lakh Rupees",
+   "Ten Lakh Rupees"
+  ],
+  "optsHi": [
+   "एक लाख रुपये",
+   "दो लाख रुपये",
+   "पाँच लाख रुपये",
+   "दस लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "DICGC provides deposit insurance up to Rs. 5,00,000 per depositor per bank.",
+  "sourceHint": "DICGC Act and RBI Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:33:30Z"
+ },
+ {
+  "id": "q_1300a8921ff3bc65",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Basel III norms, what minimum Capital to Risk-Weighted Assets Ratio is mandated for scheduled commercial banks in India, excluding the capital conservation buffer?",
+  "qHi": "बेसल III मानदंडों के तहत, पूंजी संरक्षण बफर को छोड़कर, भारत में अनुसूचित वाणिज्यिक बैंकों के लिए न्यूनतम पूंजी से जोखिम-भारित संपत्ति अनुपात कितना अनिवार्य है?",
+  "optsEn": [
+   "9.0 percent",
+   "11.5 percent",
+   "8.0 percent",
+   "12.0 percent"
+  ],
+  "optsHi": [
+   "9.0 प्रतिशत",
+   "11.5 प्रतिशत",
+   "8.0 प्रतिशत",
+   "12.0 प्रतिशत"
+  ],
+  "correct": 0,
+  "explainEn": "RBI guidelines mandate a minimum CRAR of 9 percent under Basel III, excluding the Capital Conservation Buffer (CCB).",
+  "sourceHint": "RBI Master Circular on Basel III Capital Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:33:30Z"
+ },
+ {
+  "id": "q_82a66986c3e28de9",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which entity in India regulates mutual funds and collective investment schemes?",
+  "qHi": "भारत में म्यूचुअल फंड और सामूहिक निवेश योजनाओं को कौन सा निकाय विनियमित करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Insurance Regulatory and Development Authority",
+   "Securities and Exchange Board of India",
+   "Pension Fund Regulatory and Development Authority"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "बीमा विनियामक और विकास प्राधिकरण",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "पेंशन निधि विनियामक और विकास प्राधिकरण"
+  ],
+  "correct": 2,
+  "explainEn": "SEBI regulates mutual funds in India under the SEBI (Mutual Funds) Regulations.",
+  "sourceHint": "SEBI Act, 1992",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:33:30Z"
+ },
+ {
+  "id": "q_01b96f549a7fad35",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the financial term 'LAF' used in monetary policy operations?",
+  "qHi": "मौद्रिक नीति संचालन में प्रयुक्त वित्तीय शब्द 'LAF' में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liquidity",
+   "Liability",
+   "Leverage",
+   "Limit"
+  ],
+  "optsHi": [
+   "Liquidity",
+   "Liability",
+   "Leverage",
+   "Limit"
+  ],
+  "correct": 0,
+  "explainEn": "LAF stands for Liquidity Adjustment Facility, which is used by the RBI to aid in monetary policy control.",
+  "sourceHint": "RBI Glossary of Banking Terms",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:33:30Z"
+ },
+ {
+  "id": "q_3253ce63c59354ac",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of account is classified as a Demand Deposit in commercial banking terminology?",
+  "qHi": "वाणिज्यिक बैंकिंग शब्दावली में किस प्रकार के खाते को मांग जमा के रूप में वर्गीकृत किया जाता है?",
+  "optsEn": [
+   "Fixed Deposit Account",
+   "Savings Bank Account",
+   "Recurring Deposit Account",
+   "Certificate of Deposit"
+  ],
+  "optsHi": [
+   "सावधि जमा खाता",
+   "बचत बैंक खाता",
+   "आवर्ती जमा खाता",
+   "जमा प्रमाणपत्र"
+  ],
+  "correct": 1,
+  "explainEn": "Savings and current accounts are demand deposits because funds can be withdrawn on demand.",
+  "sourceHint": "NCERT Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:33:30Z"
+ },
+ {
+  "id": "q_48d56619252dd684",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of the Prompt Corrective Action framework administered by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा प्रशासित त्वरित सुधार कार्रवाई ढांचे का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To promote agricultural exports",
+   "To monitor financially weak and stressed banks",
+   "To regulate microfinance institutions exclusively",
+   "To manage foreign exchange reserves"
+  ],
+  "optsHi": [
+   "कृषि निर्यात को बढ़ावा देना",
+   "वित्तीय रूप से कमजोर और तनावग्रस्त बैंकों की निगरानी करना",
+   "विशेष रूप से सूक्ष्म वित्त संस्थानों को विनियमित करना",
+   "विदेशी मुद्रा भंडार का प्रबंधन करना"
+  ],
+  "correct": 1,
+  "explainEn": "PCA is a framework for the RBI to intervene and take corrective action against banks showing signs of weakness.",
+  "sourceHint": "RBI Supervisory Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:33:30Z"
+ },
+ {
+  "id": "q_425669d7af807cd9",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization allots the Indian Financial System Code (IFSC) to bank branches in India?",
+  "qHi": "भारत में बैंक शाखाओं को भारतीय वित्तीय प्रणाली कोड कौन सा संगठन आवंटित करता है?",
+  "optsEn": [
+   "State Bank of India",
+   "National Payments Corporation of India",
+   "Reserve Bank of India",
+   "Indian Banks Association"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "भारतीय राष्ट्रीय भुगतान निगम",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय बैंक संघ"
+  ],
+  "correct": 2,
+  "explainEn": "The RBI is the designated authority for assigning the IFSC to bank branches participating in electronic payment systems.",
+  "sourceHint": "RBI Payment Systems Documentation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:33:30Z"
+ },
+ {
+  "id": "q_6ccbc57a991be483",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following sections of the Reserve Bank of India Act, 1934 mandates the Central Government to consult the Bank before superseding the Central Board of Directors?",
+  "qHi": "भारतीय रिजर्व बैंक अधिनियम, 1934 की निम्नलिखित में से कौन सी धारा केंद्र सरकार को निदेशक केंद्रीय बोर्ड को अधिक्रमित करने से पहले बैंक से परामर्श करने का निर्देश देती है?",
+  "optsEn": [
+   "Section 30",
+   "Section 35",
+   "Section 7",
+   "Section 42"
+  ],
+  "optsHi": [
+   "धारा 30",
+   "धारा 35",
+   "धारा 7",
+   "धारा 42"
+  ],
+  "correct": 2,
+  "explainEn": "Section 7 of the RBI Act, 1934 empowers the Central Government to give directions to the Bank, after consultation with the Governor, as it considers necessary in the public interest.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:34:31Z"
+ },
+ {
+  "id": "q_6c42f6ba4321a306",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Basel III norms, what is the minimum Capital Conservation Buffer (CCB) requirement that banks in India must maintain as a percentage of Risk-Weighted Assets?",
+  "qHi": "बेसल III मानदंडों के तहत, भारत में बैंकों को जोखिम-भारित परिसंपत्तियों (Risk-Weighted Assets) के प्रतिशत के रूप में न्यूनतम पूंजी संरक्षण बफर (CCB) कितना बनाए रखना आवश्यक है?",
+  "optsEn": [
+   "1.00 percent",
+   "2.00 percent",
+   "2.50 percent",
+   "3.00 percent"
+  ],
+  "optsHi": [
+   "1.00 प्रतिशत",
+   "2.00 प्रतिशत",
+   "2.50 प्रतिशत",
+   "3.00 प्रतिशत"
+  ],
+  "correct": 2,
+  "explainEn": "As per RBI's implementation of Basel III standards, banks are required to maintain a Capital Conservation Buffer (CCB) of 2.50 percent of Risk-Weighted Assets.",
+  "sourceHint": "RBI Master Circular on Basel III Capital Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:34:31Z"
+ },
+ {
+  "id": "q_fa8d2e9008c45a33",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian financial markets, what does the letter 'T' stand for in the T+1 settlement cycle introduced for equities?",
+  "qHi": "भारतीय वित्तीय बाजारों के संदर्भ में, इक्विटी के लिए शुरू किए गए T+1 निपटान चक्र में अक्षर 'T' का क्या अर्थ है?",
+  "optsEn": [
+   "Transaction",
+   "Trade",
+   "Transfer",
+   "Time"
+  ],
+  "optsHi": [
+   "लेनदेन (Transaction)",
+   "व्यापार (Trade)",
+   "हस्तांतरण (Transfer)",
+   "समय (Time)"
+  ],
+  "correct": 1,
+  "explainEn": "In the T+1 settlement cycle, 'T' stands for Trade day, meaning trades are settled within one business day after the trade takes place.",
+  "sourceHint": "SEBI Circulars on Settlement Cycle",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:34:31Z"
+ },
+ {
+  "id": "q_b0ec78d2b2b70dcb",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which institutional body in India acts as the principal shareholder of the National Bank for Agriculture and Rural Development (NABARD) after the transfer of shares from RBI to the central government?",
+  "qHi": "RBI से केंद्र सरकार को शेयरों के हस्तांतरण के बाद, भारत में राष्ट्रीय कृषि और ग्रामीण विकास बैंक (NABARD) के प्रमुख शेयरधारक के रूप में कौन सा संस्थागत निकाय कार्य करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "State Bank of India",
+   "Government of India",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय स्टेट बैंक",
+   "भारत सरकार",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड"
+  ],
+  "correct": 2,
+  "explainEn": "Following amendments to the NABARD Act, the Government of India holds 100 percent stake in NABARD after buying out the remaining shares held by the RBI.",
+  "sourceHint": "NABARD Act and Ministry of Finance",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:34:31Z"
+ },
+ {
+  "id": "q_a24499ea30700f84",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the maximum permissible limit for a single borrower under the Large Exposures Framework (LEF) prescribed by the RBI for Indian scheduled commercial banks as a percentage of the bank's eligible capital base?",
+  "qHi": "भारतीय अनुसूचित वाणिज्यिक बैंकों के लिए RBI द्वारा निर्धारित बड़े एक्सपोजर फ्रेमवर्क (LEF) के तहत एक एकल उधारकर्ता के लिए अधिकतम स्वीकार्य सीमा बैंक के पात्र पूंजी आधार के प्रतिशत के रूप में क्या है?",
+  "optsEn": [
+   "15 percent",
+   "20 percent",
+   "25 percent",
+   "30 percent"
+  ],
+  "optsHi": [
+   "15 प्रतिशत",
+   "20 प्रतिशत",
+   "25 प्रतिशत",
+   "30 प्रतिशत"
+  ],
+  "correct": 2,
+  "explainEn": "Under the RBI Large Exposures Framework, a bank's exposure to a single counterparty must not exceed 25 percent of its eligible tier-1 capital.",
+  "sourceHint": "RBI Master Directions on Large Exposures Framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:34:31Z"
+ },
+ {
+  "id": "q_7cd93783855ac3e6",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following financial instruments is categorized as a negotiable instrument under the Negotiable Instruments Act, 1881?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 (Negotiable Instruments Act, 1881) के तहत निम्नलिखित में से किस वित्तीय साधन को परक्राम्य लिखत के रूप में वर्गीकृत किया गया है?",
+  "optsEn": [
+   "Bill of Lading",
+   "Hundi",
+   "Share Certificate",
+   "Letter of Credit"
+  ],
+  "optsHi": [
+   "लडिंग बिल",
+   "हुंडी",
+   "शेयर प्रमाण पत्र",
+   "साख पत्र"
+  ],
+  "correct": 1,
+  "explainEn": "Section 13 of the Negotiable Instruments Act, 1881 recognizes promissory notes, bills of exchange, and cheques, and traditional instruments like hundis are also governed under customary practices.",
+  "sourceHint": "Negotiable Instruments Act, 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:34:31Z"
+ },
+ {
+  "id": "q_279c7a2e5f83937e",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary objective of introducing the Prompt Corrective Action (PCA) framework by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा त्वरित सुधारात्मक कार्रवाई (PCA) फ्रेमवर्क शुरू करने का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To regulate foreign institutional investments",
+   "To monitor and intervene in weak banks based on financial health parameters",
+   "To fix interest rates for retail loans",
+   "To manage government borrowing programs"
+  ],
+  "optsHi": [
+   "विदेशी संस्थागत निवेश को विनियमित करना",
+   "वित्तीय स्वास्थ्य मापदंडों के आधार पर कमजोर बैंकों की निगरानी करना और हस्तक्षेप करना",
+   "खुदकुशी ऋणों के लिए ब्याज दरें तय करना",
+   "सरकारी उधार कार्यक्रमों का प्रबंधन करना"
+  ],
+  "correct": 1,
+  "explainEn": "The PCA framework is a supervisory tool used by the RBI to intervene and take corrective actions against banks that become weak due to poor asset quality, low capital, or poor profitability.",
+  "sourceHint": "RBI Guidelines on Prompt Corrective Action",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:34:31Z"
  }
 ]

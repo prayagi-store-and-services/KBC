@@ -21166,5 +21166,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-08T22:09:04Z"
+ },
+ {
+  "id": "q_b9779a437dcf16be",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "The Sunderbans delta is formed by the confluence of which rivers?",
+  "qHi": "सुंदरबन डेल्टा किन नदियों के संगम से बनता है?",
+  "optsEn": [
+   "Ganga and Brahmaputra",
+   "Narmada and Tapti",
+   "Godavari and Krishna",
+   "Mahanadi and Brahmani"
+  ],
+  "optsHi": [
+   "गंगा और ब्रह्मपुत्र",
+   "नर्मदा और ताप्ती",
+   "गोदावरी और कृष्णा",
+   "महानदी और ब्राह्मणी"
+  ],
+  "correct": 0,
+  "explainEn": "The Sunderbans delta is created by the depositional work of the Ganga and Brahmaputra rivers before they empty into the Bay of Bengal.",
+  "sourceHint": "NCERT Geography Class 9",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:32:28Z"
+ },
+ {
+  "id": "q_3616f891d2c0243a",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary function of the Reserve Bank of India's reverse repo rate?",
+  "qHi": "भारतीय रिजर्व बैंक की रिवर्स रेपो रेट का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "To lend short-term funds to commercial banks",
+   "To absorb liquidity from the banking system",
+   "To provide long-term loans for infrastructure",
+   "To fix the foreign exchange reserves directly"
+  ],
+  "optsHi": [
+   "वाणिज्यिक बैंकों को अल्पकालिक ऋण देना",
+   "बैंकिंग प्रणाली से नकदी (तरलता) को अवशोषित करना",
+   "बुनियादी ढांचे के लिए दीर्घकालिक ऋण प्रदान करना",
+   "विदेशी मुद्रा भंडार को सीधे तय करना"
+  ],
+  "correct": 1,
+  "explainEn": "The reverse repo rate is the rate at which the central bank of a country borrows money from commercial banks within the country, effectively absorbing liquidity.",
+  "sourceHint": "NCERT Class 12 Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:33:24Z"
+ },
+ {
+  "id": "q_2f2ad0141b61b62a",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "At which session of the Indian National Congress was the 'Purna Swaraj' resolution adopted?",
+  "qHi": "भारतीय राष्ट्रीय कांग्रेस के किस अधिवेशन में 'पूर्ण स्वराज' का प्रस्ताव पारित किया गया था?",
+  "optsEn": [
+   "Calcutta Session of 1928",
+   "Lahore Session of 1929",
+   "Karachi Session of 1931",
+   "Tripuri Session of 1939"
+  ],
+  "optsHi": [
+   "कलकत्ता अधिवेशन 1928",
+   "लाहौर अधिवेशन 1929",
+   "कराची अधिवेशन 1931",
+   "त्रिपुरी अधिवेशन 1939"
+  ],
+  "correct": 1,
+  "explainEn": "The 'Purna Swaraj' (complete independence) resolution was adopted at the Lahore session of the INC in December 1929, presided over by Jawaharlal Nehru.",
+  "sourceHint": "NCERT Class 10 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-09T06:33:24Z"
  }
 ]
