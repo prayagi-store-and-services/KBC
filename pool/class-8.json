@@ -25282,5 +25282,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-10T07:22:07Z"
+ },
+ {
+  "id": "q_63cec0ad4e9b2a44",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which micro-organism fixes nitrogen in the root nodules of leguminous plants?",
+  "qHi": "फलीदार पौधों की जड़ की गांठों में कौन सा सूक्ष्मजीव नाइट्रोजन का स्थिरीकरण करता है?",
+  "optsEn": [
+   "Amoeba",
+   "Lactobacillus",
+   "Rhizobium",
+   "Yeast"
+  ],
+  "optsHi": [
+   "अमीबा",
+   "लैक्टोबैसिलस",
+   "राइजोबियम",
+   "खमीर"
+  ],
+  "correct": 2,
+  "explainEn": "Rhizobium bacteria live in the root nodules of leguminous plants and fix atmospheric nitrogen into usable forms.",
+  "sourceHint": "NCERT Class 8 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-10T19:45:35Z"
+ },
+ {
+  "id": "q_594bc6b698467d99",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary source of electrical energy in a hydroelectric power plant?",
+  "qHi": "जलविद्युत संयंत्र में विद्युत ऊर्जा का प्राथमिक स्रोत क्या है?",
+  "optsEn": [
+   "Moving water",
+   "Coal",
+   "Natural gas",
+   "Petroleum"
+  ],
+  "optsHi": [
+   "बहता हुआ पानी",
+   "कोयला",
+   "प्राकृतिक गैस",
+   "पेट्रोलियम"
+  ],
+  "correct": 0,
+  "explainEn": "Hydroelectric power plants generate electricity using the kinetic energy of flowing or falling water.",
+  "sourceHint": "NCERT Class 8 Geography Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-10T19:45:35Z"
  }
 ]
