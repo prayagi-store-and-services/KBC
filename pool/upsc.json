@@ -35782,5 +35782,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-09T22:24:57Z"
+ },
+ {
+  "id": "q_ea31b5e2ba5ee033",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following oceans has the shape of the letter 'S'?",
+  "qHi": "निम्नलिखित में से किस महासागर का आकार अंग्रेजी के 'S' अक्षर जैसा है?",
+  "optsEn": [
+   "Pacific Ocean",
+   "Indian Ocean",
+   "Atlantic Ocean",
+   "Arctic Ocean"
+  ],
+  "optsHi": [
+   "प्रशांत महासागर",
+   "हिन्द महासागर",
+   "अटलांटिक महासागर",
+   "आर्कटिक महासागर"
+  ],
+  "correct": 2,
+  "explainEn": "The Atlantic Ocean is flanked by North and South America on the west, and Europe and Africa on the east. Its coastline is highly indented, and its overall shape resembles the letter 'S'.",
+  "sourceHint": "NCERT Class 6 Geography, The Earth our Habitat",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-10T07:23:52Z"
+ },
+ {
+  "id": "q_a78e638ec1bbd3a1",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is the highest layer of the Earth's atmosphere?",
+  "qHi": "पृथ्वी के वायुमंडल की सबसे ऊपरी परत निम्नलिखित में से कौन सी है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Exosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "बहिमंडल"
+  ],
+  "correct": 3,
+  "explainEn": "The exosphere is the uppermost layer of Earth's atmosphere, located directly above the thermosphere, where the atmosphere thins out and merges into outer space.",
+  "sourceHint": "NCERT Class 7 Geography, Our Environment",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-10T07:23:52Z"
  }
 ]

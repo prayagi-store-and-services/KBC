@@ -25226,5 +25226,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-09T22:24:39Z"
+ },
+ {
+  "id": "q_7fa68e7985de14f9",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which battle established the Company rule in Bengal in the year 1757?",
+  "qHi": "वर्ष 1757 में बंगाल में कंपनी शासन किस युद्ध के बाद स्थापित हुआ?",
+  "optsEn": [
+   "Battle of Buxar",
+   "Battle of Plassey",
+   "Third Battle of Panipat",
+   "Battle of Talikota"
+  ],
+  "optsHi": [
+   "बक्सर का युद्ध",
+   "प्लासी का युद्ध",
+   "पानीपत का तीसरा युद्ध",
+   "तालीकोट का युद्ध"
+  ],
+  "correct": 1,
+  "explainEn": "The Battle of Plassey in 1757 was a major victory of the English East India Company over Siraj-ud-Daulah.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-10T07:22:07Z"
+ },
+ {
+  "id": "q_31e567dc16b6a04b",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the term used for the clearing of forests and using that land for other purposes?",
+  "qHi": "वनों को साफ करने और उस भूमि का अन्य उपयोगों के लिए उपयोग करने की प्रक्रिया को क्या कहते हैं?",
+  "optsEn": [
+   "Afforestation",
+   "Deforestation",
+   "Reforestation",
+   "Conservation"
+  ],
+  "optsHi": [
+   "वनीकरण",
+   "वनों की कटाई",
+   "पुनर्वनरोपण",
+   "संरक्षण"
+  ],
+  "correct": 1,
+  "explainEn": "Deforestation means the permanent destruction of forests in order to make the land available for other uses.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-10T07:22:07Z"
  }
 ]

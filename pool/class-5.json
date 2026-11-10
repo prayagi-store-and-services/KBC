@@ -30350,5 +30350,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-09T22:24:35Z"
+ },
+ {
+  "id": "q_e23ae141f371d843",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which Indian monument is one of the Seven Wonders of the Modern World?",
+  "qHi": "कौन सा भारतीय स्मारक आधुनिक दुनिया के सात अजूबों में से एक है?",
+  "optsEn": [
+   "Qutub Minar",
+   "Taj Mahal",
+   "Red Fort",
+   "Hawa Mahal"
+  ],
+  "optsHi": [
+   "कुतुब मीनार",
+   "ताजमहल",
+   "लाल किला",
+   "हवा महल"
+  ],
+  "correct": 1,
+  "explainEn": "The Taj Mahal, located in Agra, is internationally recognized as one of the New Seven Wonders of the World.",
+  "sourceHint": "NCERT Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-10T07:21:33Z"
+ },
+ {
+  "id": "q_1c9c4d311dce42af",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of skeleton does an earthworm have?",
+  "qHi": "केंचुए का कंकाल किस प्रकार का होता है?",
+  "optsEn": [
+   "Bone skeleton",
+   "Cartilage skeleton",
+   "It has no bones or hard skeleton",
+   "Shell skeleton"
+  ],
+  "optsHi": [
+   "हड्डी का कंकाल",
+   "उपास्थि कंकाल",
+   "इसमें कोई हड्डी या कठोर कंकाल नहीं होता",
+   "खोल कंकाल"
+  ],
+  "correct": 2,
+  "explainEn": "Earthworms do not have bones; instead, they have muscles and a fluid-filled cavity that help them move.",
+  "sourceHint": "NCERT Class 6 Science (Body Movements)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-10T07:21:33Z"
  }
 ]

@@ -38358,5 +38358,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-09T22:25:30Z"
+ },
+ {
+  "id": "q_949aa6d69789df51",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization issues Treasury Bills (T-Bills) on behalf of the Government of India?",
+  "qHi": "भारत सरकार की ओर से ट्रेजरी बिल (T-Bills) कौन सी संस्था जारी करती है?",
+  "optsEn": [
+   "State Bank of India",
+   "Ministry of Finance",
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "वित्त मंत्रालय",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड"
+  ],
+  "correct": 2,
+  "explainEn": "The Reserve Bank of India issues Treasury Bills on behalf of the Central Government to meet short-term liquidity requirements.",
+  "sourceHint": "RBI public notifications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-10T07:20:12Z"
+ },
+ {
+  "id": "q_ca0bce31b5afc583",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which financial institution in India is the principal agency for financing agricultural and rural development?",
+  "qHi": "भारत में कौन सा वित्तीय संस्थान कृषि और ग्रामीण विकास के वित्तपोषण के लिए प्रमुख एजेंसी है?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "NHB"
+  ],
+  "optsHi": [
+   "सिडबी",
+   "नाबार्ड",
+   "एक्जिम बैंक",
+   "राष्ट्रीय आवास बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD was established in 1982 under an Act of Parliament for agriculture and rural development.",
+  "sourceHint": "NABARD Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-10T07:25:09Z"
+ },
+ {
+  "id": "q_4123812743c68295",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum limit of amount for instantaneous fund transfer using Immediate Payment Service (IMPS)?",
+  "qHi": "तत्काल भुगतान सेवा (IMPS) का उपयोग करके तत्काल फंड ट्रांसफर के लिए अधिकतम राशि सीमा क्या है?",
+  "optsEn": [
+   "1 Lakh Rupees",
+   "2 Lakh Rupees",
+   "5 Lakh Rupees",
+   "No upper limit set by RBI"
+  ],
+  "optsHi": [
+   "1 लाख रुपये",
+   "2 लाख रुपये",
+   "5 लाख रुपये",
+   "RBI द्वारा कोई ऊपरी सीमा तय नहीं की गई है"
+  ],
+  "correct": 2,
+  "explainEn": "The per-transaction upper limit for IMPS is 5 Lakh Rupees as revised by NPCI and RBI.",
+  "sourceHint": "NPCI Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-10T07:25:09Z"
+ },
+ {
+  "id": "q_86a8c58fdf1c0ade",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which market in financial economics deals with the borrowing and lending of short-term funds up to one year?",
+  "qHi": "वित्तीय अर्थशास्त्र में कौन सा बाजार एक वर्ष तक के अल्पकालिक धन के उधार और ऋण देने से संबंधित है?",
+  "optsEn": [
+   "Capital Market",
+   "Money Market",
+   "Foreign Exchange Market",
+   "Primary Market"
+  ],
+  "optsHi": [
+   "पूंजी बाजार",
+   "मुद्रा बाजार",
+   "विदेशी मुद्रा बाजार",
+   "प्राथमिक बाजार"
+  ],
+  "correct": 1,
+  "explainEn": "The money market is a segment of the financial market where financial instruments with high liquidity and short maturities are traded.",
+  "sourceHint": "RBI Bulletin",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-10T07:25:09Z"
+ },
+ {
+  "id": "q_836d8dbf237a2806",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which term is used to describe a situation where inflation is accompanied by stagnant economic growth and high unemployment?",
+  "qHi": "उस स्थिति का वर्णन करने के लिए किस शब्द का उपयोग किया जाता है जहाँ मुद्रास्फीति के साथ स्थिर आर्थिक विकास और उच्च बेरोजगारी होती है?",
+  "optsEn": [
+   "Deflation",
+   "Stagflation",
+   "Reflation",
+   "Disinflation"
+  ],
+  "optsHi": [
+   "अपस्फीति",
+   "स्टैगफ्लेशन",
+   "पुनरुत्थान",
+   "डिसइन्फ्लेशन"
+  ],
+  "correct": 1,
+  "explainEn": "Stagflation combines stagnant economic growth, high unemployment, and high inflation.",
+  "sourceHint": "NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-10T07:25:09Z"
+ },
+ {
+  "id": "q_dad5de593a62a3ed",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the 'L' stand for in the Liquidity Adjustment Facility (LAF) used by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा उपयोग किए जाने वाले तरलता समायोजन सुविधा (LAF) में 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liability",
+   "Liquidity",
+   "Leverage",
+   "Ledger"
+  ],
+  "optsHi": [
+   "लायबिलिटी",
+   "लिक्विडिटी",
+   "लेভারেज",
+   "लेजर"
+  ],
+  "correct": 1,
+  "explainEn": "LAF stands for Liquidity Adjustment Facility, which is a monetary policy tool used by the RBI.",
+  "sourceHint": "RBI Monetary Policy Documentation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-10T07:25:09Z"
  }
 ]

@@ -30126,5 +30126,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-09T22:24:44Z"
+ },
+ {
+  "id": "q_48589ac00d24ad2b",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary indicator used by the World Bank in its annual World Development Reports to compare countries?",
+  "qHi": "विश्व बैंक अपनी वार्षिक विश्व विकास रिपोर्ट में देशों की तुलना करने के लिए किस प्राथमिक सूचक का उपयोग करता है?",
+  "optsEn": [
+   "Per capita income",
+   "Literacy rate",
+   "Life expectancy",
+   "Net attendance ratio"
+  ],
+  "optsHi": [
+   "प्रति व्यक्ति आय",
+   "साक्षरता दर",
+   "जीवन प्रत्याशा",
+   "शुद्ध उपस्थिति अनुपात"
+  ],
+  "correct": 0,
+  "explainEn": "World Bank uses per capita income as the main criterion for comparing countries in its reports.",
+  "sourceHint": "NCERT Class 10 Economics Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-10T07:23:15Z"
+ },
+ {
+  "id": "q_4731c236bac786de",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which subject falls under the Union List in the Indian Constitution?",
+  "qHi": "भारतीय संविधान में कौन सा विषय संघ सूची के अंतर्गत आता है?",
+  "optsEn": [
+   "Police",
+   "Agriculture",
+   "Foreign Affairs",
+   "Education"
+  ],
+  "optsHi": [
+   "पुलिस",
+   "कृषि",
+   "विदेशी मामले",
+   "शिक्षा"
+  ],
+  "correct": 2,
+  "explainEn": "Foreign Affairs is a subject of national importance and is included in the Union List.",
+  "sourceHint": "NCERT Class 10 Democratic Politics Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-10T07:23:15Z"
  }
 ]

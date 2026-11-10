@@ -35054,5 +35054,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-09T22:24:50Z"
+ },
+ {
+  "id": "q_fbcb1b4e79ed20ea",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the famous medieval text 'Ain-i-Akbari'?",
+  "qHi": "प्रसिद्ध मध्यकालीन ग्रंथ 'आईना-ए-अकबरी' के लेखक कौन थे?",
+  "optsEn": [
+   "Abul Fazl",
+   "Birbal",
+   "Tansen",
+   "Badauni"
+  ],
+  "optsHi": [
+   "अुल फजल",
+   "बीरबल",
+   "तानसेन",
+   "बदायूं"
+  ],
+  "correct": 0,
+  "explainEn": "Ain-i-Akbari is a 16th-century detailed document recording the administration of the Mughal Empire under Emperor Akbar, written by his court historian Abul Fazl.",
+  "sourceHint": "NCERT Class 12 History, Theme 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-10T07:23:43Z"
+ },
+ {
+  "id": "q_fa837874bd914282",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of economy is characterized by the central government controlling all major economic activities?",
+  "qHi": "उस अर्थव्यवस्था को क्या कहते हैं जिसमें केंद्र सरकार सभी प्रमुख आर्थिक गतिविधियों को नियंत्रित करती है?",
+  "optsEn": [
+   "Market economy",
+   "Centrally planned economy",
+   "Mixed economy",
+   "Dual economy"
+  ],
+  "optsHi": [
+   "बाजार अर्थव्यवस्था",
+   "केंद्रीय नियोजित अर्थव्यवस्था",
+   "मिश्रित अर्थव्यवस्था",
+   "द्वैध अर्थव्यवस्था"
+  ],
+  "correct": 1,
+  "explainEn": "In a centrally planned economy, all important decisions regarding production, investment, and distribution are made by the government.",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Microeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-10T07:23:43Z"
  }
 ]

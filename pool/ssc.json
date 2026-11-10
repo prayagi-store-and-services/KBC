@@ -21530,5 +21530,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-09T22:25:23Z"
+ },
+ {
+  "id": "q_b3d379e28028e9a4",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "The headquarters of the Reserve Bank of India (RBI) is located in which city?",
+  "qHi": "भारतीय रिजर्व बैंक (RBI) का मुख्यालय किस शहर में स्थित है?",
+  "optsEn": [
+   "New Delhi",
+   "Kolkata",
+   "Mumbai",
+   "Chennai"
+  ],
+  "optsHi": [
+   "नई दिल्ली",
+   "कोलकाता",
+   "मुंबई",
+   "चेन्नई"
+  ],
+  "correct": 2,
+  "explainEn": "The Reserve Bank of India was established in 1935 and its central office is located in Mumbai, Maharashtra.",
+  "sourceHint": "RBI Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-10T07:20:05Z"
+ },
+ {
+  "id": "q_b8bdd83da4701a2d",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary function of heavy water used in nuclear reactors?",
+  "qHi": "परमाणु रिएक्टरों में प्रयुक्त भारी पानी का मुख्य कार्य क्या है?",
+  "optsEn": [
+   "To increase the speed of neutrons",
+   "To slow down the speed of neutrons",
+   "To cool the reactor core directly without absorption",
+   "To act as fuel alongside uranium"
+  ],
+  "optsHi": [
+   "न्यूट्रांस की गति बढ़ाना",
+   "न्यूट्रांस की गति को धीमा करना",
+   "बिना अवशोषण के सीधे रिएक्टर कोर को ठंडा करना",
+   "यूरेनियम के साथ ईंधन के रूप में कार्य करना"
+  ],
+  "correct": 1,
+  "explainEn": "Heavy water (deuterium oxide) is used as a moderator in nuclear reactors to slow down fast-moving neutrons so they can sustain the nuclear fission chain reaction.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-10T07:25:04Z"
+ },
+ {
+  "id": "q_cf8dd13c2b14564d",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Lakhimpur Kheri and Dudhwa National Park are located in which Indian state?",
+  "qHi": "खीरी और दुधवा राष्ट्रीय उद्यान किस भारतीय राज्य में स्थित हैं?",
+  "optsEn": [
+   "Uttarakhand",
+   "Uttar Pradesh",
+   "Bihar",
+   "Madhya Pradesh"
+  ],
+  "optsHi": [
+   "उत्तराखंड",
+   "उत्तर प्रदेश",
+   "बिहार",
+   "मध्य प्रदेश"
+  ],
+  "correct": 1,
+  "explainEn": "Dudhwa National Park is a protected area located in the Lakhimpur Kheri and Bahraich districts of Uttar Pradesh, bordering Nepal.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-10T07:25:04Z"
  }
 ]
