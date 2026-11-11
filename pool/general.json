@@ -21614,5 +21614,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-09T22:25:36Z"
+ },
+ {
+  "id": "q_a801931f46debd3a",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the standard monetary currency of Japan?",
+  "qHi": "जापान की मानक मौद्रिक मुद्रा क्या है?",
+  "optsEn": [
+   "Yuan",
+   "Won",
+   "Yen",
+   "Ringgit"
+  ],
+  "optsHi": [
+   "युआन",
+   "वोन",
+   "येन",
+   "रिंगित"
+  ],
+  "correct": 2,
+  "explainEn": "The yen is the official currency of Japan.",
+  "sourceHint": "International Monetary Fund",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-11T06:24:39Z"
+ },
+ {
+  "id": "q_fad58c377cb056f8",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following elements has the chemical symbol 'Fe'?",
+  "qHi": "निम्नलिखित में से किस तत्व का रासायनिक प्रतीक 'Fe' है?",
+  "optsEn": [
+   "Fluorine",
+   "Iron",
+   "Francium",
+   "Fermium"
+  ],
+  "optsHi": [
+   "फ्लोरिन",
+   "लोहा",
+   "फ्रांसियम",
+   "फर्मियम"
+  ],
+  "correct": 1,
+  "explainEn": "The chemical symbol 'Fe' stands for iron, derived from the Latin word 'ferrum'.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-11T06:27:02Z"
+ },
+ {
+  "id": "q_de1330c0ecf6f2f0",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the famous autobiographical book 'Wings of Fire'?",
+  "qHi": "प्रसिद्ध आत्मकथात्मक पुस्तक 'विंग्स ऑफ़ फ़ायर' किसने लिखी है?",
+  "optsEn": [
+   "Jawaharlal Nehru",
+   "Rabindranath Tagore",
+   "A. P. J. Abdul Kalam",
+   "Sarvepalli Radhakrishnan"
+  ],
+  "optsHi": [
+   "जवाहरलाल नेहरू",
+   "रवींद्रनाथ टैगोर",
+   "ए. पी. जे. अब्दुल कलाम",
+   "सर्वपल्ली राधाकृष्णन"
+  ],
+  "correct": 2,
+  "explainEn": "'Wings of Fire' is the autobiography of Dr. A. P. J. Abdul Kalam, co-written with Arun Tiwari.",
+  "sourceHint": "Universities Press",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-11T06:27:02Z"
+ },
+ {
+  "id": "q_4b832957b4c4f90d",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The headquarters of the Indian Space Research Organisation (ISRO) are located in which city?",
+  "qHi": "भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO) का मुख्यालय किस शहर में स्थित है?",
+  "optsEn": [
+   "Bengaluru",
+   "Mumbai",
+   "New Delhi",
+   "Hyderabad"
+  ],
+  "optsHi": [
+   "बेंगलुरु",
+   "मुंबई",
+   "नई दिल्ली",
+   "हैदराबाद"
+  ],
+  "correct": 0,
+  "explainEn": "ISRO's headquarters are situated in Bengaluru, Karnataka.",
+  "sourceHint": "ISRO Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-11T06:27:02Z"
  }
 ]

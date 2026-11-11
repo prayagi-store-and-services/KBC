@@ -30434,5 +30434,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-10T19:45:24Z"
+ },
+ {
+  "id": "q_4c82043ab93e5576",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of seed dispersal method is typically used by plants like pea and balsam, where the pods burst open?",
+  "qHi": "मटर और बालसम जैसे पौधों द्वारा किस प्रकार के बीज प्रकीर्णन का उपयोग किया जाता है, जहाँ फली फट जाती है?",
+  "optsEn": [
+   "Wind dispersal",
+   "Water dispersal",
+   "Explosion or bursting",
+   "Animal dispersal"
+  ],
+  "optsHi": [
+   "हवा द्वारा प्रकीर्णन",
+   "पानी द्वारा प्रकीर्णन",
+   "विस्फोट या फटना",
+   "جانवरों द्वारा प्रकीर्णन"
+  ],
+  "correct": 2,
+  "explainEn": "Plants like pea and balsam scatter their seeds when their seed pods dry up and burst open suddenly.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-11T06:27:11Z"
+ },
+ {
+  "id": "q_b419c3a177390de6",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which famous Indian monument was built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal?",
+  "qHi": "मुगल सम्राट शाहजहाँ ने अपनी पत्नी मुमताज महल की याद में कौन सा प्रसिद्ध भारतीय स्मारक बनवाया था?",
+  "optsEn": [
+   "Red Fort",
+   "Taj Mahal",
+   "Qutub Minar",
+   "Humaun's Tomb"
+  ],
+  "optsHi": [
+   "लाल किला",
+   "ताजमहल",
+   "कुतुब मीनार",
+   "हुमायूँ का मकबरा"
+  ],
+  "correct": 1,
+  "explainEn": "The Taj Mahal in Agra was commissioned by Shah Jahan in 1631 to house the tomb of his favorite wife, Mumtaz Mahal.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-11T06:27:11Z"
+ },
+ {
+  "id": "q_5fd5bbc778a9cef7",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What are lines of latitude that run horizontally on a globe also commonly called?",
+  "qHi": "ग्लोब पर क्षैतिज रूप से चलने वाली अक्षांश रेखाओं को आमतौर पर क्या कहा जाता है?",
+  "optsEn": [
+   "Meridians",
+   "Parallels",
+   "Longitudes",
+   "Equators"
+  ],
+  "optsHi": [
+   "मध्याह्न रेखाएं",
+   "समानांतर रेखाएं",
+   "देशांतर",
+   "भूमध्य रेखाएं"
+  ],
+  "correct": 1,
+  "explainEn": "Lines of latitude are circles that run in an east-west direction and are parallel to the equator, hence called parallels of latitude.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-11T06:27:11Z"
+ },
+ {
+  "id": "q_d8fcce1f921e695f",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian water harvesting system uses step-like structures to store rainwater underground?",
+  "qHi": "कौन सी पारंपरिक भारतीय जल संचयन प्रणाली वर्षा के जल को भूमिगत संग्रहित करने के लिए सीढ़ी जैसी संरचनाओं का उपयोग करती है?",
+  "optsEn": [
+   "Baolis",
+   "Tube wells",
+   "Dams",
+   "Canals"
+  ],
+  "optsHi": [
+   "बावड़ी",
+   "न्यूबेल",
+   "बांध",
+   "नहरें"
+  ],
+  "correct": 0,
+  "explainEn": "Baolis or stepwells are traditional water storage tanks with steps leading down to the water, common in arid regions of India.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-11T06:27:11Z"
+ },
+ {
+  "id": "q_fac256bcda15390d",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In agricultural terms, which season in India generally marks the harvesting of Rabi crops like wheat and barley?",
+  "qHi": "कृषि के संदर्भ में, भारत में कौन सा मौसम आमतौर पर गेहूँ और जौ जैसी रबी फसलों की कटाई का प्रतीक है?",
+  "optsEn": [
+   "Spring",
+   "Monsoon",
+   "Autumn",
+   "Winter"
+  ],
+  "optsHi": [
+   "वसंत",
+   "मानसून",
+   "शरद",
+   "सर्दी"
+  ],
+  "correct": 0,
+  "explainEn": "Rabi crops are sown in winter and harvested in the spring season (around March and April) in India.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-11T06:27:11Z"
  }
 ]

@@ -30182,5 +30182,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-10T07:23:15Z"
+ },
+ {
+  "id": "q_ffbf667fbee5fd8e",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which crop is known as a staple kharif crop in India?",
+  "qHi": "भारत में कौन सी फसल मुख्य खरीफ फसल के रूप में जानी जाती है?",
+  "optsEn": [
+   "Wheat",
+   "Paddy",
+   "Barley",
+   "Gram"
+  ],
+  "optsHi": [
+   "गेहूं",
+   "धान",
+   "जौ",
+   "चना"
+  ],
+  "correct": 1,
+  "explainEn": "Paddy (rice) is a major kharif crop grown with the onset of monsoon in India.",
+  "sourceHint": "NCERT Class 10 Social Science, Geography Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-11T06:23:48Z"
+ },
+ {
+  "id": "q_4f8ad06abbd56150",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which constitutional mechanism in India ensures that the judiciary can review and invalidate laws that violate the basic structure of the Constitution?",
+  "qHi": "भारत में कौन सा संवैधानिक तंत्र यह सुनिश्चित करता है कि न्यायपालिका उन कानूनों की समीक्षा और उन्हें अमान्य कर सकती है जो संविधान की मूल संरचना का उल्लंघन करते हैं?",
+  "optsEn": [
+   "Judicial Review",
+   "Public Interest Litigation",
+   "Advisory Jurisdiction",
+   "Writs of Mandamus"
+  ],
+  "optsHi": [
+   "न्यायिक समीक्षा",
+   "जनहित याचिका",
+   "सलाहकार क्षेत्राधिकार",
+   "परमादेश रिट"
+  ],
+  "correct": 0,
+  "explainEn": "Judicial review is the power of the judiciary to examine the constitutionality of legislative enactments and executive orders.",
+  "sourceHint": "NCERT Class 10 Political Science, Democratic Politics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-11T06:27:27Z"
+ },
+ {
+  "id": "q_e8d3ba8a6992fa02",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In a closed circular loop of wire placed in a uniform magnetic field, an electric current is induced if:",
+  "qHi": "एक समान चुंबकीय क्षेत्र में रखे गए तार के एक बंद वृत्ताकार लूप में, विद्युत धारा प्रेरित होती है यदि:",
+  "optsEn": [
+   "The magnetic field strength remains constant over time",
+   "The magnetic flux linked with the loop changes",
+   "The loop remains completely stationary and the field is steady",
+   "The resistance of the wire is infinite"
+  ],
+  "optsHi": [
+   "चुंबकीय क्षेत्र की ताकत समय के साथ स्थिर रहती है",
+   "लूप से जुड़ा चुंबकीय फ्लक्स बदलता है",
+   "लूप पूरी तरह से स्थिर रहता है और क्षेत्र स्थिर है",
+   "तार का प्रतिरोध अनंत है"
+  ],
+  "correct": 1,
+  "explainEn": "According to Faraday's law of electromagnetic induction, an electric current is induced whenever there is a change in the magnetic flux linked with the circuit.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 13: Magnetic Effects of Electric Current",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-11T06:27:27Z"
+ },
+ {
+  "id": "q_2dd6505eda94b16f",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which physical feature or landform in India is formed by the deposition of silt brought down by rivers over millions of years, creating highly fertile agricultural tracts?",
+  "qHi": "भारत की कौन सी भौतिक विशेषता या भू-आकृति लाखों वर्षों में नदियों द्वारा लाई गई गाद के जमाव से बनती है, जिससे अत्यधिक उपजाऊ कृषि क्षेत्र बनते हैं?",
+  "optsEn": [
+   "The Northern Plains",
+   "The Deccan Plateau",
+   "The Thar Desert",
+   "The Western Ghats"
+  ],
+  "optsHi": [
+   "उत्तरी मैदान",
+   "दक्कन का पठार",
+   "थार मरुस्थल",
+   "पश्चिमी घाट"
+  ],
+  "correct": 0,
+  "explainEn": "The Northern Plains of India have been formed by the interplay of the three major river systems (Indus, Ganga, and Brahmaputra) depositing alluvial soil over millions of years.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 1: Resources and Development",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-11T06:27:27Z"
+ },
+ {
+  "id": "q_396996a11fbd47d9",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What term is used in economics to describe the total value of all final goods and services produced within a country during a particular year?",
+  "qHi": "अर्थशास्त्र में उस शब्द का उपयोग क्या किया जाता है जो किसी विशेष वर्ष के दौरान देश के भीतर उत्पादित सभी अंतिम वस्तुओं और सेवाओं के कुल मूल्य का वर्णन करता है?",
+  "optsEn": [
+   "Gross Domestic Product",
+   "Gross National Product",
+   "Net National Product",
+   "Per Capita Income"
+  ],
+  "optsHi": [
+   " सकल घरेलू उत्पाद",
+   "सकल राष्ट्रीय उत्पाद",
+   "शुद्ध राष्ट्रीय उत्पाद",
+   "प्रति व्यक्ति आय"
+  ],
+  "correct": 0,
+  "explainEn": "Gross Domestic Product (GDP) is the standard macroeconomic measure of the market value of all final goods and services produced within a country in a given period.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 2: Sectors of the Indian Economy",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-11T06:27:27Z"
+ },
+ {
+  "id": "q_82c71143553107cf",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which type of chemical reaction is represented by the digestion of food in the human body?",
+  "qHi": "मानव शरीर में भोजन का पाचन किस प्रकार की रासायनिक प्रतिक्रिया का प्रतिनिधित्व करता है?",
+  "optsEn": [
+   "Endothermic reaction",
+   "Exothermic reaction",
+   "Double displacement reaction",
+   "Precipitation reaction"
+  ],
+  "optsHi": [
+   "ऊष्माक्षेपी अभिक्रिया (Endothermic - wait, correction in Hindi: ऊष्माशोषी अभिक्रिया)",
+   "ऊष्माक्षेपी अभिक्रिया",
+   "द्वि-विस्थापन अभिक्रिया",
+   "अवक्षेपण अभिक्रिया"
+  ],
+  "correct": 1,
+  "explainEn": "Digestion breaks down complex carbohydrates, proteins, and fats into simpler substances, releasing energy, which classifies it as an exothermic biochemical process.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 1: Chemical Reactions and Equations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-11T06:27:27Z"
  }
 ]

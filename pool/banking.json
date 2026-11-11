@@ -38526,5 +38526,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-10T07:25:09Z"
+ },
+ {
+  "id": "q_bca8acc1792736b6",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following institutions is the apex banking institution providing agricultural credit in India?",
+  "qHi": "भारत में कृषि ऋण प्रदान करने वाली शीर्ष बैंकिंग संस्था निम्नलिखित में से कौन सी है?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "NHB"
+  ],
+  "optsHi": [
+   "सिडबी",
+   "नाबार्ड",
+   "एजिम बैंक",
+   "एनएचबी"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) is the apex institution for agriculture and rural development financing in India.",
+  "sourceHint": "NABARD Act, 1981",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-11T06:24:32Z"
+ },
+ {
+  "id": "q_877e81cf99891e8b",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following cards is issued directly by banks as a debit card and operates on a domestic card payment network in India?",
+  "qHi": "निम्नलिखित में से कौन सा कार्ड बैंकों द्वारा डेबिट कार्ड के रूप में सीधे जारी किया जाता है और भारत में एक घरेलू कार्ड भुगतान नेटवर्क पर काम करता है?",
+  "optsEn": [
+   "Visa",
+   "Mastercard",
+   "RuPay",
+   "American Express"
+  ],
+  "optsHi": [
+   "वीज़ा",
+   "मास्टरकार्ड",
+   "रूपे",
+   "अमेरिकन एक्सप्रेस"
+  ],
+  "correct": 2,
+  "explainEn": "RuPay is an Indian domestic card scheme conceived and launched by the National Payments Corporation of India (NPCI).",
+  "sourceHint": "National Payments Corporation of India (NPCI)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-11T06:24:32Z"
+ },
+ {
+  "id": "q_1cca46358899e0e3",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'S' stand for in the financial term CASA account?",
+  "qHi": "वित्तीय शब्द CASA खाते में 'S' का क्या अर्थ है?",
+  "optsEn": [
+   "Savings",
+   "Secured",
+   "Special",
+   "Standard"
+  ],
+  "optsHi": [
+   "सेविंग्स (बचत)",
+   "सिक्योर्ड",
+   "स्पेशल",
+   "स्टैंडर्ड"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account Savings Account, referring to current and savings account deposits.",
+  "sourceHint": "RBI Glossary of Banking Terms",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-11T06:24:32Z"
+ },
+ {
+  "id": "q_e6fadc9261625b0f",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which instrument is issued as a promissory note and is a transferable commercial instrument used for raising short-term debt?",
+  "qHi": "कौन सा साधन एक वचन पत्र के रूप में जारी किया जाता है और अल्पकालिक ऋण जुटाने के लिए उपयोग किया जाने वाला एक हस्तांतरणीय वाणिज्यिक साधन है?",
+  "optsEn": [
+   "Treasury Bill",
+   "Commercial Paper",
+   "Certificate of Deposit",
+   "National Savings Certificate"
+  ],
+  "optsHi": [
+   "राजकोषीय बिल",
+   "वाणिज्यिक पत्र",
+   "जमा प्रमाण पत्र",
+   "राष्ट्रीय बचत प्रमाण पत्र"
+  ],
+  "correct": 1,
+  "explainEn": "Commercial Paper is an unsecured, short-term debt instrument issued by corporations, typically for financing accounts receivable and inventories.",
+  "sourceHint": "Reserve Bank of India guidelines on Money Market Instruments",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-11T06:26:57Z"
+ },
+ {
+  "id": "q_aa7a176ccb384e73",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which financial institution in India is the apex organization for financing the agricultural sector and rural development?",
+  "qHi": "भारत में कौन सा वित्तीय संस्थान कृषि क्षेत्र और ग्रामीण विकास को वित्त पोषित करने के लिए शीर्ष संगठन है?",
+  "optsEn": [
+   "SIDBI",
+   "EXIM Bank",
+   "NABARD",
+   "NHB"
+  ],
+  "optsHi": [
+   "सिडबी",
+   "एक्सिम बैंक",
+   "नाबार्ड",
+   "एनएचबी"
+  ],
+  "correct": 2,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) was established in 1982 under an Act of Parliament to promote sustainable agriculture and rural prosperity.",
+  "sourceHint": "NABARD Act, 1981",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-11T06:26:57Z"
+ },
+ {
+  "id": "q_abb4033f300680cb",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India assigns credit ratings to various debt instruments and companies?",
+  "qHi": "भारत में कौन सा संगठन विभिन्न ऋण साधनों और कंपनियों को क्रेडिट रेटिंग प्रदान करता है?",
+  "optsEn": [
+   "CRISIL",
+   "FICCI",
+   "ASSOCHAM",
+   "TRAI"
+  ],
+  "optsHi": [
+   "क्रिसिल",
+   "फिक्की",
+   "एसोचैम",
+   "ट्राई"
+  ],
+  "correct": 0,
+  "explainEn": "CRISIL (Credit Rating Information Services of India Limited) is a leading analytical company providing ratings, research, and risk and policy advisory services.",
+  "sourceHint": "SEBI registered Credit Rating Agencies framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-11T06:26:57Z"
  }
 ]
