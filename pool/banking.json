@@ -38694,5 +38694,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-11T06:26:57Z"
+ },
+ {
+  "id": "q_34680dae334b9564",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following institutions regulates the banking system in India?",
+  "qHi": "भारत में बैंकिंग प्रणाली को निम्नलिखित में से कौन सा संस्थान नियंत्रित करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "State Bank of India",
+   "Ministry of Finance",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय स्टेट बैंक",
+   "वित्त मंत्रालय",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड"
+  ],
+  "correct": 0,
+  "explainEn": "The Reserve Bank of India (RBI) is India's central bank and regulatory body responsible for the regulation of the Indian banking system.",
+  "sourceHint": "RBI official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-11T19:38:59Z"
+ },
+ {
+  "id": "q_9e3fd37c838ebe78",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'I' stand for in the acronym 'NEFT', a payment system used in Indian banking?",
+  "qHi": "भारतीय बैंकिंग में प्रयुक्त भुगतान प्रणाली 'NEFT' में अक्षर 'I' का क्या अर्थ है?",
+  "optsEn": [
+   "Interbank",
+   "India",
+   "Instant",
+   "International"
+  ],
+  "optsHi": [
+   "इंटरबैंक",
+   "इंडिया",
+   "इंस्टेंट",
+   "इंटरनेशनल"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer.",
+  "sourceHint": "RBI FAQ on NEFT",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-11T19:38:59Z"
+ },
+ {
+  "id": "q_281addb326b5aeb5",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following notes is issued by the Reserve Bank of India?",
+  "qHi": "निम्नलिखित में से कौन सा नोट भारतीय रिजर्व बैंक द्वारा जारी किया जाता है?",
+  "optsEn": [
+   "One hundred rupee note",
+   "One rupee note",
+   "One rupee coin",
+   "One rupee postal order"
+  ],
+  "optsHi": [
+   "एक सौ रुपये का नोट",
+   "एक रुपये का नोट",
+   "एक रुपये का सिक्का",
+   "एक रुपये का पोस्टल ऑर्डर"
+  ],
+  "correct": 0,
+  "explainEn": "One hundred rupee notes are issued by the RBI. One rupee notes and coins are issued by the Ministry of Finance.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-11T19:38:59Z"
+ },
+ {
+  "id": "q_343f1660388ef3c7",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the expanded form of 'PAN', a document often required for opening a bank account in India?",
+  "qHi": "भारत में बैंक खाता खोलने के लिए अक्सर आवश्यक दस्तावेज 'PAN' का विस्तारित रूप क्या है?",
+  "optsEn": [
+   "Permanent Account Number",
+   "Personal Authorised Number",
+   "Public Account Network",
+   "Primary Aadhaar Number"
+  ],
+  "optsHi": [
+   "परमानेंट अकाउंट नंबर",
+   "पर्सनल ऑथराइज्ड नंबर",
+   "पब्लिक अकाउंट नेटवर्क",
+   "प्राइमरी आधार नंबर"
+  ],
+  "correct": 0,
+  "explainEn": "PAN stands for Permanent Account Number, a ten-digit alphanumeric number issued by the Income Tax Department.",
+  "sourceHint": "Income Tax Department of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-11T19:38:59Z"
  }
 ]

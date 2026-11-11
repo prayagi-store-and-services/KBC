@@ -35418,5 +35418,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-11T06:27:41Z"
+ },
+ {
+  "id": "q_c412debe0ce538db",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What was the primary focus of India's First Five Year Plan?",
+  "qHi": "भारत की पहली पंचवर्षीय योजना का मुख्य फोकस क्या था?",
+  "optsEn": [
+   "Rapid industrialization",
+   "Agricultural development",
+   "Information technology",
+   "Space exploration"
+  ],
+  "optsHi": [
+   "तीव्र औद्योगिकीकरण",
+   "कृषि विकास",
+   "सूचना प्रौद्योगिकी",
+   "अंतरिक्ष अन्वेषण"
+  ],
+  "correct": 1,
+  "explainEn": "The First Five Year Plan (1951-1956) accorded top priority to agriculture, including irrigation and power projects.",
+  "sourceHint": "NCERT Politics in India Since Independence",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-11T19:37:20Z"
+ },
+ {
+  "id": "q_4ce3a557299f3136",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas is primarily responsible for the depletion of the ozone layer?",
+  "qHi": "ओजोन परत के क्षरण के लिए मुख्य रूप से कौन सी गैस जिम्मेदार है?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Chlorofluorocarbons",
+   "Methane",
+   "Nitrogen"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "क्लोरोफ्लोरोकार्बन",
+   "मीथेन",
+   "नाइट्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Chlorofluorocarbons (CFCs) release chlorine atoms upon ultraviolet exposure, which break down ozone molecules.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-11T19:37:20Z"
+ },
+ {
+  "id": "q_41bbd00dc3934af7",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organ of the United Nations is responsible for maintaining international peace and security?",
+  "qHi": "संयुक्त राष्ट्र का कौन सा अंग अंतर्राष्ट्रीय शांति और सुरक्षा बनाए रखने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "General Assembly",
+   "Security Council",
+   "International Court of Justice",
+   "Secretariat"
+  ],
+  "optsHi": [
+   "महासभा",
+   "सुरक्षा परिषद",
+   "अंतर्राष्ट्रीय न्यायालय",
+   "सचिवालय"
+  ],
+  "correct": 1,
+  "explainEn": "The UN Security Council has primary responsibility for the maintenance of international peace and security.",
+  "sourceHint": "NCERT Contemporary World Politics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-11T19:37:20Z"
+ },
+ {
+  "id": "q_0a4ceabd4320580a",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In a p-n junction diode, the depletion region is formed due to which of the following processes?",
+  "qHi": "p-n जंक्शन डायोड में, अवक्षय क्षेत्र (डिप्रीशन रीजन) निम्नलिखित में से किस प्रक्रिया के कारण बनता है?",
+  "optsEn": [
+   "Diffusion of charge carriers",
+   "Drift of charge carriers",
+   "Avalanche breakdown",
+   "Thermoionic emission"
+  ],
+  "optsHi": [
+   "आवेश वाहकों का विसरण",
+   "आवेश वाहकों का अपवहन",
+   "एवलांच भंजन",
+   "तापायनिक उत्सर्जन"
+  ],
+  "correct": 0,
+  "explainEn": "Diffusion of electrons from the n-side to the p-side and holes from the p-side to the n-side creates the depletion region near the junction.",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-11T19:40:53Z"
+ },
+ {
+  "id": "q_91e7ae81eefc6550",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following sites of the Indus Valley Civilization is known for the presence of a dockyard?",
+  "qHi": "सिंधु घाटी सभ्यता का निम्नलिखित में से कौन सा स्थल गोदीवाड़ा (डॉkyard) की उपस्थिति के लिए जाना जाता है?",
+  "optsEn": [
+   "Harappa",
+   "Mohenjo-daro",
+   "Lothal",
+   "Kalibangan"
+  ],
+  "optsHi": [
+   "हड़प्पा",
+   "मोहनजोदड़ो",
+   "लोथल",
+   "कालीबंगा"
+  ],
+  "correct": 2,
+  "explainEn": "Lothal in Gujarat is well-known for its massive brick structure identified as a dockyard, indicating maritime trade.",
+  "sourceHint": "NCERT Class 12 History, Theme 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-11T19:40:53Z"
+ },
+ {
+  "id": "q_b3334d7d10c1480c",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In human females, fertilization of the ovum typically occurs in which region of the fallopian tube?",
+  "qHi": "मानव मादाओं में, डिंब (अंडाणु) का निषेचन आमतौर पर फैलोपियन ट्यूब के किस भाग में होता है?",
+  "optsEn": [
+   "Ampullary-isthmic junction",
+   "Infundibulum",
+   "Uterine fundus",
+   "Cervical canal"
+  ],
+  "optsHi": [
+   "एम्पुलरी-इस्थमिक जंक्शन",
+   "इन्फंडिबुलम",
+   "गर्भाशय फंडस",
+   "ग्रीवा नहर"
+  ],
+  "correct": 0,
+  "explainEn": "Fertilization in humans takes place where the ampulla and isthmus of the fallopian tube meet, known as the ampullary-isthmic junction.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-11T19:40:53Z"
  }
 ]
