@@ -35586,5 +35586,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-11T19:40:53Z"
+ },
+ {
+  "id": "q_484af54617f5714e",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who discovered Penicillin, the world's first antibiotic?",
+  "qHi": "दुनिया के पहले एंटीबायोटिक पेनिसिलिन की खोज किसने की थी?",
+  "optsEn": [
+   "Alexander Fleming",
+   "Louis Pasteur",
+   "Robert Koch",
+   "Edward Jenner"
+  ],
+  "optsHi": [
+   "अलेक्जेंडर फ्लेमिंग",
+   "लुई पाश्चर",
+   "रॉबर्ट कोच",
+   "एडवर्ड जेनर"
+  ],
+  "correct": 0,
+  "explainEn": "Alexander Fleming discovered penicillin in 1928 from the fungus Penicillium notatum.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-12T07:14:51Z"
  }
 ]

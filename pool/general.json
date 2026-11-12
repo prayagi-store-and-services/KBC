@@ -21726,5 +21726,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-11T06:27:02Z"
+ },
+ {
+  "id": "q_0e6d2954b8656259",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which month is Republic Day celebrated in India?",
+  "qHi": "भारत में गणतंत्र दिवस किस महीने में मनाया जाता है?",
+  "optsEn": [
+   "January",
+   "August",
+   "October",
+   "November"
+  ],
+  "optsHi": [
+   "जनवरी",
+   "अगस्त",
+   "अक्टूबर",
+   "नवंबर"
+  ],
+  "correct": 0,
+  "explainEn": "Republic Day is celebrated every year on 26th January to honor the date on which the Constitution of India came into effect.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-12T07:12:53Z"
  }
 ]

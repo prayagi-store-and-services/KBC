@@ -38806,5 +38806,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-11T19:38:59Z"
+ },
+ {
+  "id": "q_0b4aecfd5c1979b7",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who has the sole authority to issue banknotes in India under the Reserve Bank of India Act, 1934?",
+  "qHi": "भारतीय रिजर्व बैंक अधिनियम, 1934 के तहत भारत में बैंक नोट जारी करने का एकमात्र अधिकार किसके पास है?",
+  "optsEn": [
+   "Ministry of Finance",
+   "State Bank of India",
+   "Reserve Bank of India",
+   "Controller of Currency"
+  ],
+  "optsHi": [
+   "वित्त मंत्रालय",
+   "भारतीय स्टेट बैंक",
+   "भारतीय रिजर्व बैंक",
+   "मुद्रा नियंत्रक"
+  ],
+  "correct": 2,
+  "explainEn": "Section 22 of the Reserve Bank of India Act, 1934 grants the RBI the sole right to issue bank notes in India.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-12T07:12:44Z"
+ },
+ {
+  "id": "q_d20ffe3091fb8b7a",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which term is used to describe the rate at which the Reserve Bank of India lends short-term money to commercial banks without collateral?",
+  "qHi": "उस दर को क्या कहा जाता है जिस पर भारतीय रिजर्व बैंक बिना किसी संपार्श्विक (collateral) के वाणिज्यिक बैंकों को अल्पकालिक ऋण देता है?",
+  "optsEn": [
+   "Repo Rate",
+   "Bank Rate",
+   "Reverse Repo Rate",
+   "Statutory Liquidity Ratio"
+  ],
+  "optsHi": [
+   "रेपो रेट (Repo Rate)",
+   "बैंक रेट (Bank Rate)",
+   "रिवर्स रेपो रेट (Reverse Repo Rate)",
+   "वैधानिक तरलता अनुपात (Statutory Liquidity Ratio)"
+  ],
+  "correct": 1,
+  "explainEn": "Bank rate is the standard rate at which the RBI is prepared to buy or re-discount bills of exchange or other commercial papers without collateral.",
+  "sourceHint": "RBI Monetary Policy terminology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-12T07:12:44Z"
  }
 ]
