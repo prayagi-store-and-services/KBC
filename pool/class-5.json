@@ -30574,5 +30574,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-11T06:27:11Z"
+ },
+ {
+  "id": "q_da5245fcbc6e895e",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these animals is known for making honey?",
+  "qHi": "इनमें से कौन सा जानवर शहद बनाने के लिए जाना जाता है?",
+  "optsEn": [
+   "Honeybee",
+   "Butterfly",
+   "Housefly",
+   "Mosquito"
+  ],
+  "optsHi": [
+   "मधुमक्खी",
+   "तितली",
+   "घरेलू मक्खी",
+   "मच्छर"
+  ],
+  "correct": 0,
+  "explainEn": "Honeybees collect nectar from flowers and convert it into honey inside their beehives.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-12T19:56:11Z"
+ },
+ {
+  "id": "q_7676299f11bdc333",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which is the largest continent on Earth by land area?",
+  "qHi": "क्षेत्रफल के हिसाब से पृथ्वी पर सबसे बड़ा महाद्वीप कौन सा है?",
+  "optsEn": [
+   "Africa",
+   "Asia",
+   "Europe",
+   "Australia"
+  ],
+  "optsHi": [
+   "अफ़्रीका",
+   "एशिया",
+   "यूरोप",
+   "ऑस्ट्रेलिया"
+  ],
+  "correct": 1,
+  "explainEn": "Asia is the largest and most populous continent on Earth.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-12T19:56:11Z"
  }
 ]
