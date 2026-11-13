@@ -38862,5 +38862,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-12T07:12:44Z"
+ },
+ {
+  "id": "q_3780da39b4240fd2",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum deposit amount per depositor per bank insured by DICGC in India?",
+  "qHi": "भारत में DICGC द्वारा प्रति बैंक प्रति जमाकर्ता अधिकतम कितनी बीमा राशि प्रदान की जाती है?",
+  "optsEn": [
+   "One Lakh Rupees",
+   "Two Lakhs Rupees",
+   "Five Lakhs Rupees",
+   "Ten Lakhs Rupees"
+  ],
+  "optsHi": [
+   "एक लाख रुपये",
+   "दो लाख रुपये",
+   "पाँच लाख रुपये",
+   "दस लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "Deposit Insurance and Credit Guarantee Corporation (DICGC) insures bank deposits up to Rs. 5,00,000 per depositor per bank.",
+  "sourceHint": "DICGC official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T06:49:57Z"
+ },
+ {
+  "id": "q_f45efc789e311dd0",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a development bank focused primarily on agriculture and rural development in India?",
+  "qHi": "निम्नलिखित में से कौन सा विकास बैंक मुख्य रूप से भारत में कृषि और ग्रामीण विकास पर केंद्रित है?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "NHB"
+  ],
+  "optsHi": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "NHB"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) is an apex regulatory body for overall regulation of regional rural banks and apex cooperative banks in India.",
+  "sourceHint": "NABARD official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T06:49:57Z"
+ },
+ {
+  "id": "q_f3a03a04832728ef",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which entity issues currency notes of one rupee in India?",
+  "qHi": "भारत में एक रुपये के करेंसी नोट कौन जारी करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Ministry of Finance",
+   "State Bank of India",
+   "NITI Aayog"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "वित्त मंत्रालय",
+   "भारतीय स्टेट बैंक",
+   "नीति आयोग"
+  ],
+  "correct": 1,
+  "explainEn": "One rupee notes and coins are issued by the Ministry of Finance, Government of India, while other denominations are issued by the RBI.",
+  "sourceHint": "Reserve Bank of India Act / Ministry of Finance",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T06:49:57Z"
+ },
+ {
+  "id": "q_4a5d0a881a86c7fa",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following terms refers to the interest rate at which the Reserve Bank of India lends short-term money to commercial banks?",
+  "qHi": "निम्नलिखित में से कौन सा शब्द उस ब्याज दर को संदर्भित करता है जिस पर भारतीय रिजर्व बैंक वाणिज्यिक बैंकों को अल्पकालिक धन उधार देता है?",
+  "optsEn": [
+   "Repo Rate",
+   "Reverse Repo Rate",
+   "CRR",
+   "SLR"
+  ],
+  "optsHi": [
+   "रेपो रेट (Repo Rate)",
+   "रिवर्स रेपो रेट (Reverse Repo Rate)",
+   "सीआरआर (CRR)",
+   "एसएसएलआर (SLR)"
+  ],
+  "correct": 0,
+  "explainEn": "Repo Rate (Repurchase Rate) is the rate at which the central bank of a country lends money to commercial banks in the event of any shortfall of funds.",
+  "sourceHint": "Reserve Bank of India monetary policy definitions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T06:49:57Z"
  }
 ]

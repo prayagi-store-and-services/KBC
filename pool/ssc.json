@@ -22006,5 +22006,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-12T07:15:30Z"
+ },
+ {
+  "id": "q_1c279179a8f17966",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following gases is most abundant in the Earth's atmosphere by volume?",
+  "qHi": "आयतन के अनुसार पृथ्वी के वायुमंडल में निम्नलिखित में से कौन सी गैस सबसे प्रचुर मात्रा में है?",
+  "optsEn": [
+   "Oxygen",
+   "Hydrogen",
+   "Nitrogen",
+   "Carbon dioxide"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "हाइड्रोजन",
+   "नाइट्रोजन",
+   "कार्बन डाइऑक्साइड"
+  ],
+  "correct": 2,
+  "explainEn": "Nitrogen makes up about 78 percent of the Earth's atmosphere by volume, followed by Oxygen at roughly 21 percent.",
+  "sourceHint": "NCERT Class 11 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T06:49:30Z"
  }
 ]

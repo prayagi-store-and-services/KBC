@@ -21754,5 +21754,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-12T07:12:53Z"
+ },
+ {
+  "id": "q_836090fb03332d6b",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the famous play 'Shakuntala' in ancient India?",
+  "qHi": "प्राचीन भारत में प्रसिद्ध नाटक 'शकुंतला' किसने लिखा था?",
+  "optsEn": [
+   "Kalidasa",
+   "Tulsidas",
+   "Kabir",
+   "Surdas"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "तुलसीदास",
+   "कबीर",
+   "सूरदास"
+  ],
+  "correct": 0,
+  "explainEn": "Abhijnanashakuntalam (The Recognition of Shakuntala) was written by the classical Sanskrit writer Kalidasa.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T06:50:02Z"
  }
 ]

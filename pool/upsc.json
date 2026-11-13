@@ -36426,5 +36426,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-12T07:14:56Z"
+ },
+ {
+  "id": "q_b0c5787cf9d798b8",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which vector-borne disease is primarily transmitted by the female Anopheles mosquito?",
+  "qHi": "कौन सा रोग मुख्य रूप से मादा एनोफिलीज मच्छर द्वारा प्रसारित होता है?",
+  "optsEn": [
+   "Malaria",
+   "Dengue",
+   "Chikungunya",
+   "Zika"
+  ],
+  "optsHi": [
+   "मलेरिया",
+   "डेंगु",
+   "चिकनगुनिया",
+   "जीका"
+  ],
+  "correct": 0,
+  "explainEn": "Malaria is caused by Plasmodium parasites, which are transmitted to people through the bites of infected female Anopheles mosquitoes.",
+  "sourceHint": "World Health Organization (WHO)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T06:48:57Z"
+ },
+ {
+  "id": "q_0676f4c6090402c0",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which strait separates Asia from North America?",
+  "qHi": "कौन सी जलडमरूमध्य एशिया को उत्तरी अमेरिका से अलग करती है?",
+  "optsEn": [
+   "Boring Strait",
+   "Bering Strait",
+   "Malacca Strait",
+   "Palk Strait"
+  ],
+  "optsHi": [
+   "बोरिंग जलडमरूमध्य",
+   "बेरिंग जलडमरूमध्य",
+   "मलक्का जलडमरूमध्य",
+   "पाल्क जलडमरूमध्य"
+  ],
+  "correct": 1,
+  "explainEn": "The Bering Strait connects the Pacific and Arctic oceans and separates the continents of Asia and North America.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T06:48:57Z"
  }
 ]

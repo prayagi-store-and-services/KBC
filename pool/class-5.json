@@ -30630,5 +30630,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-12T19:56:11Z"
+ },
+ {
+  "id": "q_dd41df2911cad1a0",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these animals is known to travel in a group called a herd?",
+  "qHi": "इनमें से किस जानवर को झुंड में रहने के लिए जाना जाता है?",
+  "optsEn": [
+   "Tiger",
+   "Elephant",
+   "Leopard",
+   "Python"
+  ],
+  "optsHi": [
+   "बाघ",
+   "हाथी",
+   "तेंदुआ",
+   "अजगर"
+  ],
+  "correct": 1,
+  "explainEn": "Elephants live and travel together in family herds led by the oldest female elephant.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T06:50:07Z"
+ },
+ {
+  "id": "q_929b2d0fa6705fcb",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the main source of water for the underground water table?",
+  "qHi": "भूजल स्तर के लिए पानी का मुख्य स्रोत क्या है?",
+  "optsEn": [
+   "Rainfall",
+   "Ocean waves",
+   "Volcanoes",
+   "Glaciers in deserts"
+  ],
+  "optsHi": [
+   "वर्षा",
+   "महासागर की लहरें",
+   "ज्वालामुखी",
+   "रे रेगिस्तान के ग्लेशियर"
+  ],
+  "correct": 0,
+  "explainEn": "Rainwater seeps into the ground and replenishes the groundwater table.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T06:50:07Z"
+ },
+ {
+  "id": "q_879608869ce74127",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following materials is biodegradable?",
+  "qHi": "निम्नलिखित में से कौन सी सामग्री जैव-निम्नीकरणीय (बायोडिग्रेडेबल) है?",
+  "optsEn": [
+   "Plastic bag",
+   "Glass bottle",
+   "Banana peel",
+   "Iron nail"
+  ],
+  "optsHi": [
+   "प्लास्टिक की थैली",
+   "कांच की बोतल",
+   "केले का छिलका",
+   "लोहे की कील"
+  ],
+  "correct": 2,
+  "explainEn": "Banana peels are organic matter that easily breaks down naturally in the soil.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T06:50:07Z"
+ },
+ {
+  "id": "q_1bef185ebd97cd7b",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "How many states are there in the Republic of India currently?",
+  "qHi": "वर्तमान में भारत गणराज्य में कितने राज्य हैं?",
+  "optsEn": [
+   "27",
+   "28",
+   "29",
+   "30"
+  ],
+  "optsHi": [
+   "27",
+   "28",
+   "29",
+   "30"
+  ],
+  "correct": 1,
+  "explainEn": "India has 28 states and 8 union territories.",
+  "sourceHint": "Government of India official portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T06:50:07Z"
  }
 ]
