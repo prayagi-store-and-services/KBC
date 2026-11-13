@@ -25898,5 +25898,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-13T06:50:13Z"
+ },
+ {
+  "id": "q_1e5c1e33c453cec3",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which microorganism causes the disease malaria?",
+  "qHi": "मलेरिया रोग किस सूक्ष्मजीव के कारण होता है?",
+  "optsEn": [
+   "Bacterium",
+   "Virus",
+   "Protozoan",
+   "Fungus"
+  ],
+  "optsHi": [
+   "बैक्टीरिया",
+   "वायरस",
+   "प्रोटोजोआ",
+   "कवक"
+  ],
+  "correct": 2,
+  "explainEn": "Malaria is caused by Plasmodium, which is a protozoan.",
+  "sourceHint": "NCERT Class 8 Science, Microorganisms: Friend and Foe",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:46:44Z"
+ },
+ {
+  "id": "q_3daf90cc64bd1572",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of court is at the apex of the judicial system in India?",
+  "qHi": "भारत में न्याय प्रणाली के शीर्ष पर किस प्रकार की अदालत है?",
+  "optsEn": [
+   "Supreme Court",
+   "High Court",
+   "District Court",
+   "Nyaya Panchayat"
+  ],
+  "optsHi": [
+   "सर्वोच्च न्यायालय",
+   "उच्च न्यायालय",
+   "जिला अदालत",
+   "न्याय पंचायत"
+  ],
+  "correct": 0,
+  "explainEn": "The Supreme Court of India is at the apex of the Indian judicial system.",
+  "sourceHint": "NCERT Class 8 Civics, Judiciary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:46:44Z"
+ },
+ {
+  "id": "q_b7a80b3959656823",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who led the anti-British movement in Mandla, Madhya Pradesh, during the 1857 revolt?",
+  "qHi": "1857 के विद्रोह के दौरान मंडला, मध्य प्रदेश में अंग्रेजों के खिलाफ आंदोलन का नेतृत्व किसने किया था?",
+  "optsEn": [
+   "Rani Laxmibai",
+   "Begum Hazrat Mahal",
+   "Rani Avantibai Lodhi",
+   "Tantia Tope"
+  ],
+  "optsHi": [
+   "रानी लक्ष्मीबाई",
+   "बेगम हजरत महल",
+   "रानी अवंतीबाई लोधी",
+   "टांटिया टोपे"
+  ],
+  "correct": 2,
+  "explainEn": "Rani Avantibai Lodhi of Ramgarh (Mandla) raised and led an army of four thousand against the British in 1857.",
+  "sourceHint": "NCERT Class 8 History, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:48:48Z"
  }
 ]

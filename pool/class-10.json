@@ -30518,5 +30518,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-13T06:48:27Z"
+ },
+ {
+  "id": "q_9d8d99dc0e56ca48",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas is evolved when a dilute acid reacts with a metal?",
+  "qHi": "जब कोई तनु अम्ल किसी धातु के साथ अभिक्रिया करता है, तो कौन सी गैस निकलती है?",
+  "optsEn": [
+   "Oxygen",
+   "Hydrogen",
+   "Nitrogen",
+   "Carbon dioxide"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "हाइड्रोजन",
+   "नाइट्रोजन",
+   "कार्बन डाइऑक्साइड"
+  ],
+  "correct": 1,
+  "explainEn": "Acids typically react with active metals to produce a salt and evolve hydrogen gas.",
+  "sourceHint": "NCERT Class 10 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:46:48Z"
+ },
+ {
+  "id": "q_c7229addc081d961",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which sector forms the base for all other sectors in economic activities?",
+  "qHi": "आर्थिक गतिविधियों में कौन सा क्षेत्र अन्य सभी क्षेत्रों का आधार बनाता है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Service sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "तृतीयक क्षेत्र",
+   "सेवा क्षेत्र"
+  ],
+  "correct": 0,
+  "explainEn": "Primary sector involves agriculture and extraction of natural goods, forming the base for secondary and tertiary sectors.",
+  "sourceHint": "NCERT Class 10 Economics Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:46:48Z"
+ },
+ {
+  "id": "q_3fc9a7dcb0902d0d",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which mirror is commonly used as a rear-view mirror in vehicles because it provides an erect and diminished image along with a wider field of view?",
+  "qHi": "वाሽनों में पीछे देखने के लिए सामान्यतः किस दर्पण का उपयोग किया जाता है क्योंकि यह सीधा और छोटा प्रतिबिंब तथा अधिक विस्तृत दृष्टि-क्षेत्र प्रदान करता है?",
+  "optsEn": [
+   "Concave mirror",
+   "Convex mirror",
+   "Plane mirror",
+   "Cylindrical mirror"
+  ],
+  "optsHi": [
+   "अवतल दर्पण",
+   "उत्तल दर्पण",
+   "समतल दर्पण",
+   "बेलनाकार दर्पण"
+  ],
+  "correct": 1,
+  "explainEn": "Convex mirrors are used as rear-view mirrors because they always give an erect, diminished image and have a wider field of view as they are curved outwards.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:48:53Z"
+ },
+ {
+  "id": "q_c043d986088fe771",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which plant hormone is primarily responsible for the cell elongation and bending of a plant shoot towards light during phototropism?",
+  "qHi": "प्रकाशीय अनुवर्तन (phototropism) के दौरान पादप के प्ररोह को प्रकाश की ओर मोड़ने और कोशिका दीर्घानीकरण के लिए मुख्य रूप से कौन सा पादप हॉर्मोन उत्तरदायी है?",
+  "optsEn": [
+   "Cytokinin",
+   "Gibberellin",
+   "Auxin",
+   "Abscisic acid"
+  ],
+  "optsHi": [
+   "साइटोकैविं",
+   "जिबरेलिन",
+   "ऑक्विं",
+   "एब्सिसिक अम्ल"
+  ],
+  "correct": 2,
+  "explainEn": "Auxin is synthesized at the tip of the shoot and helps the cells grow longer. When light comes from one side, auxin diffuses towards the shady side, causing plant cells to grow longer on that side, making the stem bend towards light.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:48:53Z"
+ },
+ {
+  "id": "q_99b82dde03a6b0e0",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the human digestive system, which enzyme is present in pancreatic juice to help digest proteins?",
+  "qHi": "मानव पाचन तंत्र में, प्रोटीनों को पचाने में सहायता के लिए अग्न्याशय रस में कौन सा एंजाइम उपस्थित होता है?",
+  "optsEn": [
+   "Pepsin",
+   "Trypsin",
+   "Amylase",
+   "Lipase"
+  ],
+  "optsHi": [
+   "पेप्सिन",
+   "ट्रिप्सिन",
+   "एमाइलेज",
+   "लाइपेज"
+  ],
+  "correct": 1,
+  "explainEn": "Trypsin is secreted by the pancreas in an inactive form and gets activated in the small intestine to digest proteins. Pepsin is in gastric juice, amylase breaks down starch, and lipase breaks down fats.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:48:53Z"
+ },
+ {
+  "id": "q_352bb202f36b234e",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "According to Mendeleev's Periodic Table, properties of elements are a periodic function of their:",
+  "qHi": "मेंडलीफ की आवर्त सारणी के अनुसार, तत्वों के गुणधर्म उनके किस कारक के आवर्ती फलन होते हैं?",
+  "optsEn": [
+   "Atomic number",
+   "Atomic mass",
+   "Valency",
+   "Density"
+  ],
+  "optsHi": [
+   "परमाणु संख्या",
+   "परमाणु द्रव्यमान",
+   "संयोजकता",
+   "घनत्व"
+  ],
+  "correct": 1,
+  "explainEn": "Mendeleev's Periodic Law states that the properties of elements are the periodic function of their atomic masses, whereas the modern periodic table is based on atomic numbers.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:48:53Z"
+ },
+ {
+  "id": "q_43ff34bedad0b03c",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which part of the female reproductive system does fertilization typically take place in human beings?",
+  "qHi": "मानव में आमतौर पर निषेचन की प्रक्रिया मादा जनन तंत्र के किस भाग में होती है?",
+  "optsEn": [
+   "Ovary",
+   "Uterus",
+   "Fallopian tube",
+   "Cervix"
+  ],
+  "optsHi": [
+   "अंडाशय",
+   "गर्भाशय",
+   "डिंबवाहिनी नली",
+   "ग्रीवा"
+  ],
+  "correct": 2,
+  "explainEn": "Fertilization, the fusion of the egg and sperm, usually takes place in the fallopian tube (oviduct) of the female reproductive system.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:48:53Z"
+ },
+ {
+  "id": "q_437b381fc0065719",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the commercial unit of electrical energy commonly known as a 'unit' in household electricity bills?",
+  "qHi": "विद्युत ऊर्जा की व्यावसायिक इकाई, जिसे सामान्यतः घरेलू बिजली बिल में 'यูนिट' कहा जाता है, क्या है?",
+  "optsEn": [
+   "Kilowatt-hour",
+   "Joule per second",
+   "Watt-second",
+   "Volt-ampere"
+  ],
+  "optsHi": [
+   "किलोवाट-घंटा",
+   "जूल प्रति सेकंड",
+   "वाट-सेकंड",
+   "वोल्ट-एम्पियर"
+  ],
+  "correct": 0,
+  "explainEn": "The commercial unit of electric energy is kilowatt-hour (kWh), which is commonly referred to as a 'unit' of electricity.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:48:53Z"
  }
 ]

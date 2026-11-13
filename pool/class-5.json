@@ -30742,5 +30742,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-13T06:50:07Z"
+ },
+ {
+  "id": "q_334a4c6c33b9c7cc",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which is our National Bird?",
+  "qHi": "हमारा राष्ट्रीय पक्षी कौन सा है?",
+  "optsEn": [
+   "Crow",
+   "Pigeon",
+   "Peacock",
+   "Parrot"
+  ],
+  "optsHi": [
+   "कौवा",
+   "कबूतर",
+   "मोर",
+   "तोता"
+  ],
+  "correct": 2,
+  "explainEn": "The Indian peacock is the national bird of India.",
+  "sourceHint": "NCERT Civic/Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:45:36Z"
+ },
+ {
+  "id": "q_1e79681162bf3538",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organ system in the human body is responsible for pumping blood?",
+  "qHi": "मानव शरीर में कौन सा अंग तंत्र रक्त पंप करने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Respiratory system",
+   "Circulatory system",
+   "Digestive system",
+   "Nervous system"
+  ],
+  "optsHi": [
+   "श्वसन तंत्र",
+   "संचरण तंत्र",
+   "पाचन तंत्र",
+   "तंत्रिका तंत्र"
+  ],
+  "correct": 1,
+  "explainEn": "The circulatory system, which includes the heart and blood vessels, pumps blood throughout the body.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:48:44Z"
+ },
+ {
+  "id": "q_7e712f32ff37322a",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which direction does the magnetic needle of a freely suspended compass point?",
+  "qHi": "स्वतंत्र रूप से लटकी हुई कम्पास की चुंबकीय सुई किस दिशा की ओर इशारा करती है?",
+  "optsEn": [
+   "East-West",
+   "North-South",
+   "Up-Down",
+   "Circular"
+  ],
+  "optsHi": [
+   "पूर्व-पश्चिम",
+   "उत्तर-दक्षिण",
+   "ऊपर-नीचे",
+   "गोलाकार"
+  ],
+  "correct": 1,
+  "explainEn": "A freely moving magnetic needle always aligns itself in the Earth's magnetic north-south direction.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:48:44Z"
+ },
+ {
+  "id": "q_f551859359ae8bee",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these seeds is known for having hook-like structures that help it stick to clothes and animal fur for dispersal?",
+  "qHi": "इनमें से किस बीज को हुक जैसी संरचना के लिए जाना जाता है जो इसे फैलाव के लिए कपड़ों और जानवरों के फर से चिपकने में मदद करती है?",
+  "optsEn": [
+   "Coconut",
+   "Xanthium",
+   "Pea",
+   "Maple"
+  ],
+  "optsHi": [
+   "नारियल",
+   "जैंथियम",
+   "मटर",
+   "मेपल"
+  ],
+  "correct": 1,
+  "explainEn": "Xanthium seeds have hooks by which they catch on clothes or animal fur and travel to new places.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:48:44Z"
+ },
+ {
+  "id": "q_d602e6b445197a13",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which part of the Earth's surface contains most of the liquid water?",
+  "qHi": "पृथ्वी की सतह के किस भाग में अधिकांश तरल पानी मौजूद है?",
+  "optsEn": [
+   "Deserts",
+   "Oceans",
+   "Mountains",
+   "Forests"
+  ],
+  "optsHi": [
+   "रेिस्तान",
+   "महासागर",
+   "पर्वत",
+   "वन"
+  ],
+  "correct": 1,
+  "explainEn": "Oceans cover about seventy-one percent of the Earth's surface and contain the vast majority of water.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:48:44Z"
+ },
+ {
+  "id": "q_037f867647ab0e45",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which animal is a nocturnal creature, meaning it is active at night?",
+  "qHi": "इनमें से कौन सा जानवर एक निशाचर प्राणी है, जिसका अर्थ है कि वह रात में सक्रिय होता है?",
+  "optsEn": [
+   "Owl",
+   "Crow",
+   "Elephant",
+   "Cow"
+  ],
+  "optsHi": [
+   "उल्लू",
+   "कौवा",
+   "हाथी",
+   "गाय"
+  ],
+  "correct": 0,
+  "explainEn": "Owls are nocturnal birds that hunt and stay active during the night.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:48:44Z"
  }
 ]

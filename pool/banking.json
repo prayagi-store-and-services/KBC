@@ -38974,5 +38974,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-13T06:49:57Z"
+ },
+ {
+  "id": "q_73911ae37a98d142",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'P' stand for in the term 'PAN' used for financial transactions?",
+  "qHi": "वित्तीय लेनदेन के लिए उपयोग किए जाने वाले शब्द 'PAN' में अक्षर 'P' का क्या अर्थ है?",
+  "optsEn": [
+   "Personal",
+   "Primary",
+   "Permanent",
+   "Public"
+  ],
+  "optsHi": [
+   "पर्सनल",
+   "प्राइमरी",
+   "परमानेंट",
+   "पब्लिक"
+  ],
+  "correct": 2,
+  "explainEn": "PAN stands for Permanent Account Number, a ten-digit alphanumeric number issued by the Income Tax Department.",
+  "sourceHint": "Income Tax Department of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:44:27Z"
+ },
+ {
+  "id": "q_5464ec2ceeb2eddf",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of account is generally opened by salaried individuals for regular banking operations and daily savings?",
+  "qHi": "वेतनभोगी व्यक्तियों द्वारा नियमित बैंकिंग कार्यों और दैनिक बचत के लिए आमतौर पर किस प्रकार का खाता खोला जाता है?",
+  "optsEn": [
+   "Current Account",
+   "Savings Account",
+   "Fixed Deposit Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "चालू खाता",
+   "बचत खाता",
+   "सावधि जमा खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 1,
+  "explainEn": "A savings account is a retail bank account that allows individuals to deposit and withdraw money while earning a modest interest.",
+  "sourceHint": "NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:44:27Z"
+ },
+ {
+  "id": "q_1fa0cdedb7cbd6a6",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'C' stand for in the abbreviation 'KYC' used by banks?",
+  "qHi": "बैंकों द्वारा उपयोग किए जाने والے संक्षेपण 'KYC' में 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Customer",
+   "Credit",
+   "Currency",
+   "Capital"
+  ],
+  "optsHi": [
+   "कस्टमर",
+   "क्रेडिट",
+   "करेंसी",
+   "कैपिटल"
+  ],
+  "correct": 0,
+  "explainEn": "KYC stands for Know Your Customer, a mandatory process by which banks verify the identity of their clients.",
+  "sourceHint": "Reserve Bank of India Master Directions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:44:27Z"
+ },
+ {
+  "id": "q_d39eb54dad6362cd",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the Liquidity Adjustment Facility terms used by central banks?",
+  "qHi": "केंद्रीय बैंकों द्वारा उपयोग किए जाने वाले तरलता समायोजन सुविधा (LAF) शब्दों में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liability",
+   "Liquidity",
+   "Leverage",
+   "Ledger"
+  ],
+  "optsHi": [
+   "दायित्व (Liability)",
+   "तरलता (Liquidity)",
+   "लिवरेज (Leverage)",
+   "बही खाता (Ledger)"
+  ],
+  "correct": 1,
+  "explainEn": "LAF stands for Liquidity Adjustment Facility, a monetary policy tool used by the RBI.",
+  "sourceHint": "RBI Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:48:34Z"
+ },
+ {
+  "id": "q_c9f0d23f9311318f",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of risk refers to the potential of loss resulting from inadequate or failed internal processes, people, and systems?",
+  "qHi": "किस प्रकार का जोखिम अपर्याप्त या विफल आंतरिक प्रक्रियाओं, लोगों और प्रणालियों के परिणामस्वरूप होने वाले नुकसान की संभावना को संदर्भित करता है?",
+  "optsEn": [
+   "Market risk",
+   "Credit risk",
+   "Operational risk",
+   "Liquidity risk"
+  ],
+  "optsHi": [
+   "बाजार जोखिम",
+   "ऋण जोखिम",
+   "परिचालन जोखिम",
+   "तरलता जोखिम"
+  ],
+  "correct": 2,
+  "explainEn": "Operational risk is defined as the risk of loss resulting from inadequate or failed internal processes, people and systems or from external events.",
+  "sourceHint": "Basel Committee on Banking Supervision",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:48:34Z"
+ },
+ {
+  "id": "q_d5378290196bf70c",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which market deals with the issuance of new securities for the first time to investors?",
+  "qHi": "कौन सा बाजार निवेशकों को पहली बार नई प्रतिभूतियों के निर्गम से संबंधित है?",
+  "optsEn": [
+   "Primary market",
+   "Secondary market",
+   "Money market",
+   "Derivatives market"
+  ],
+  "optsHi": [
+   "प्राथमिक बाजार",
+   "द्वितीयक बाजार",
+   "मुद्रा बाजार",
+   "डेरिवेटिव बाजार"
+  ],
+  "correct": 0,
+  "explainEn": "The primary market is where corporations and governments raise fresh capital by issuing new securities to investors.",
+  "sourceHint": "NCERT Business Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:48:34Z"
+ },
+ {
+  "id": "q_d9615a7d672e3c31",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does 'M' stand for in the financial acronym 'MSME' as defined by the Government of India?",
+  "qHi": "भारत सरकार द्वारा परिभाषित वित्तीय संक्षिप्त नाम 'MSME' में 'M' का क्या अर्थ है?",
+  "optsEn": [
+   "Maximum",
+   "Monetary",
+   "Micro",
+   "Mercantile"
+  ],
+  "optsHi": [
+   "मैक्सिमम (Maximum)",
+   "मॉनेटरी (Monetary)",
+   "सूक्ष्म (Micro)",
+   "मर्केंटाइल (Mercantile)"
+  ],
+  "correct": 2,
+  "explainEn": "MSME stands for Micro, Small and Medium Enterprises.",
+  "sourceHint": "Ministry of MSME, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:48:34Z"
+ },
+ {
+  "id": "q_23b77b5590537cd9",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the minimum aggregate paid-up capital required for setting up a Small Finance Bank in India under the RBI guidelines for 'on-tap' licensing?",
+  "qHi": "'ऑन-टैप' लाइसेंसिंग के लिए आरबीआई दिशानिर्देशों के तहत भारत में लघु वित्त बैंक (Small Finance Bank) स्थापित करने के लिए आवश्यक न्यूनतम कुल चुकता पूंजी कितनी है?",
+  "optsEn": [
+   "Rs. 100 crore",
+   "Rs. 200 crore",
+   "Rs. 500 crore",
+   "Rs. 1000 crore"
+  ],
+  "optsHi": [
+   "रु. 100 करोड़",
+   "रु. 200 करोड़",
+   "रु. 500 करोड़",
+   "रु. 1000 करोड़"
+  ],
+  "correct": 1,
+  "explainEn": "As per RBI guidelines for 'on-tap' licensing of Small Finance Banks, the minimum initial paid-up voting equity capital required is Rs. 200 crore.",
+  "sourceHint": "RBI Guidelines on On-tap Licensing of Small Finance Banks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:50:24Z"
+ },
+ {
+  "id": "q_33ce5d44b8f94228",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Basel III norms, what is the minimum Capital Conservation Buffer (CCB) requirement that banks in India must maintain as a percentage of Risk-Weighted Assets (RWAs)?",
+  "qHi": "बेसल III मानदंडों के तहत, न्यूनतम पूंजी संरक्षण बफर (CCB) आवश्यकता क्या है जिसे भारत में बैंकों को जोखिम-भारित संपत्तियों (RWAs) के प्रतिशत के रूप में बनाए रखना चाहिए?",
+  "optsEn": [
+   "1.00%",
+   "2.50%",
+   "4.50%",
+   "8.00%"
+  ],
+  "optsHi": [
+   "1.00%",
+   "2.50%",
+   "4.50%",
+   "8.00%"
+  ],
+  "correct": 1,
+  "explainEn": "Under Basel III capital regulations implemented in India, banks are required to maintain a Capital Conservation Buffer of 2.50% of Risk-Weighted Assets in the form of Common Equity Tier 1 capital.",
+  "sourceHint": "RBI Master Circular on Basel III Capital Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:50:24Z"
+ },
+ {
+  "id": "q_63999300873abd81",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific money market instrument in India has a maturity period ranging strictly from a minimum of 1 day to a maximum of 14 days?",
+  "qHi": "भारत में किस विशिष्ट मुद्रा बाजार साधन की परिपक्वता अवधि न्यूनतम 1 दिन से अधिकतम 14 दिन तक होती है?",
+  "optsEn": [
+   "Certificate of Deposit",
+   "Commercial Paper",
+   "Notice Money",
+   "Term Money"
+  ],
+  "optsHi": [
+   "प्रमाण पत्र (Certificate of Deposit)",
+   "वाणिज्यिक पत्र (Commercial Paper)",
+   "नोटिस मनी (Notice Money)",
+   "टर्म मनी (Term Money)"
+  ],
+  "correct": 2,
+  "explainEn": "Notice money is a call money market instrument where the borrowing and lending of funds is for a period ranging from 2 days to 14 days (1 day is call money).",
+  "sourceHint": "RBI Financial Markets Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:50:24Z"
+ },
+ {
+  "id": "q_3dbe2af490aded14",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the maximum permissible limit for an individual transaction through the Immediate Payment Service (IMPS) channel, as regulated by the National Payments Corporation of India?",
+  "qHi": "भारतीय राष्ट्रीय भुगतान निगम द्वारा विनियमित तत्काल भुगतान सेवा (IMPS) चैनल के माध्यम से व्यक्तिगत लेनदेन के लिए अधिकतम स्वीकार्य सीमा क्या है?",
+  "optsEn": [
+   "Rs. 2 lakh",
+   "Rs. 5 lakh",
+   "Rs. 10 lakh",
+   "No upper limit"
+  ],
+  "optsHi": [
+   "रु. 2 लाख",
+   "रु. 5 लाख",
+   "रु. 10 लाख",
+   "कोई ऊपरी सीमा नहीं"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India and NPCI enhanced the per-transaction limit for IMPS to Rs. 5 lakh for channels other than SMS and IVRS.",
+  "sourceHint": "NPCI and RBI Circulars on IMPS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:50:24Z"
+ },
+ {
+  "id": "q_e2104f77e9a3f3b7",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which international financial institution acts as the parent organization for the International Centre for Settlement of Investment Disputes (ICSID)?",
+  "qHi": "कौन सा अंतर्राष्ट्रीय वित्तीय संस्थान निवेश विवादों के निपटान के लिए अंतर्राष्ट्रीय केंद्र (ICSID) के लिए मूल संगठन के रूप में कार्य करता है?",
+  "optsEn": [
+   "Bank for International Settlements",
+   "World Bank Group",
+   "International Monetary Fund",
+   "Asian Development Bank"
+  ],
+  "optsHi": [
+   "बैंक फॉर इंटरनेशनल सेटलमेंट्स",
+   "विश्व बैंक समूह",
+   "अंतर्राष्ट्रीय मुद्रा कोष",
+   "एशियाई विकास बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "ICSID is an autonomous international institution established in 1966 by the Convention on the Settlement of Investment Disputes between States and Nationals of Other States, and is a member of the World Bank Group.",
+  "sourceHint": "World Bank Group Institutional Overview",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:50:24Z"
+ },
+ {
+  "id": "q_ffbd947989bbc869",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, which section specifically defines a 'Cheque' as a bill of exchange drawn on a specified banker and not expressed to be payable otherwise than on demand?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, कौन सी धारा विशेष रूप से 'चेक' को एक विशिष्ट बैंकर पर आहरित विनिमय पत्र के रूप में परिभाषित करती है और मांग पर भुगतान के अलावा किसी अन्य तरीके से देय नहीं होने के रूप में व्यक्त नहीं की जाती है?",
+  "optsEn": [
+   "Section 5",
+   "Section 6",
+   "Section 13",
+   "Section 15"
+  ],
+  "optsHi": [
+   "धारा 5",
+   "धारा 6",
+   "धारा 13",
+   "धारा 15"
+  ],
+  "correct": 1,
+  "explainEn": "Section 6 of the Negotiable Instruments Act, 1881 defines a cheque as a bill of exchange drawn on a specified banker and payable otherwise than on demand.",
+  "sourceHint": "Negotiable Instruments Act 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:50:24Z"
  }
 ]

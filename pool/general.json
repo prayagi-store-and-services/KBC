@@ -21782,5 +21782,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-13T06:50:02Z"
+ },
+ {
+  "id": "q_ae621d063d08dbee",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which classical dance form originates from the state of Kerala and is known for elaborate makeup and face masks?",
+  "qHi": "कौन सा शास्त्रीय नृत्य केरल राज्य से उत्पन्न हुआ है और अपने विस्तृत श्रृंगार तथा चेहरे के मुखौटों के लिए जाना जाता है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 1,
+  "explainEn": "Kathakali is a major form of classical Indian dance that is a story-play genre of art, distinguished by the colourful make-up, costumes and face masks worn by traditional male actor-dancers.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:48:39Z"
+ },
+ {
+  "id": "q_43db78c89362fe72",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who was the president of the Indian National Congress during its historic Lahore Session of 1929?",
+  "qHi": "1929 के ऐतिहासिक लाहौर अधिवेशन के दौरान भारतीय राष्ट्रीय कांग्रेस के अध्यक्ष कौन थे?",
+  "optsEn": [
+   "Mahatma Gandhi",
+   "Jawaharlal Nehru",
+   "Subhas Chandra Bose",
+   "Vallabhbhai Patel"
+  ],
+  "optsHi": [
+   "महात्मा गांधी",
+   "जवाहरलाल नेहरू",
+   "सुभाष चंद्र बोस",
+   "वल्लभभाई पटेल"
+  ],
+  "correct": 1,
+  "explainEn": "Jawaharlal Nehru was elected president of the Lahore session, where the Purna Swaraj resolution was passed.",
+  "sourceHint": "NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:50:30Z"
+ },
+ {
+  "id": "q_dbeec22e2c8547a5",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which chemical element is the primary component of the mineral bauxite, the chief ore of aluminium?",
+  "qHi": "बॉक्साइट खनिज, जो एल्युमिनियम का मुख्य अयस्क है, का प्राथमिक घटक कौन सा रासायनिक तत्व है?",
+  "optsEn": [
+   "Iron",
+   "Aluminium",
+   "Silicon",
+   "Magnesium"
+  ],
+  "optsHi": [
+   "लोहा",
+   "एल्युमिनियम",
+   "सिलिकॉन",
+   "मैग्नीशियम"
+  ],
+  "correct": 1,
+  "explainEn": "Bauxite is a sedimentary rock with a relatively high aluminum content and is the principal source of aluminum.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:50:30Z"
+ },
+ {
+  "id": "q_4922654f27cf0ec5",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary function of the Rabi crop season in India?",
+  "qHi": "भारत में रबी फसल के मौसम का मुख्य कार्य क्या है?",
+  "optsEn": [
+   "Crops sown in winter and harvested in summer",
+   "Crops sown in monsoon and harvested in winter",
+   "Crops grown only during the summer dry months",
+   "Crops cultivated exclusively in arid desert regions"
+  ],
+  "optsHi": [
+   "सर्दियों में बोई जाने वाली और गर्मियों में काटी जाने वाली फसलें",
+   "मानसून में बोई जाने वाली और सर्दियों में काटी जाने वाली फसलें",
+   "केवल ग्रीष्मकालीन शुष्क महीनों के दौरान उगाई जाने वाली फसलें",
+   "विशेष रूप से शुष्क रेगिस्तानी क्षेत्रों में उगाई जाने वाली फसलें"
+  ],
+  "correct": 0,
+  "explainEn": "Rabi crops are agricultural crops that are sown in the winter and harvested in the spring in India.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:50:30Z"
+ },
+ {
+  "id": "q_7c4ce24eddfbdcce",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which writ issued by the Supreme Court or High Courts in India literally translates to 'We Command'?",
+  "qHi": "भारत में उच्चतम न्यायालय या उच्च न्यायालयों द्वारा जारी किस रिट का शाब्दिक अर्थ 'हम आदेश देते हैं' होता है?",
+  "optsEn": [
+   "Habeas Corpus",
+   "Mandamus",
+   "Quo-Warranto",
+   "Certiorari"
+  ],
+  "optsHi": [
+   "बंदी प्रत्यक्षीकरण",
+   "परमादेश",
+   "अधिकार पृच्छा",
+   "उत्प्रेषण"
+  ],
+  "correct": 1,
+  "explainEn": "The writ of Mandamus translates from Latin as 'We Command' and is issued to a public official to perform a duty.",
+  "sourceHint": "Indian Polity by M. Laxmikanth",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:50:30Z"
+ },
+ {
+  "id": "q_18ae6835bb4b7487",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which wildlife sanctuary in India was designated as the country's first national park in 1936?",
+  "qHi": "भारत के किस वन्यजीव अभयारण्य को 1936 में देश का पहला राष्ट्रीय उद्यान नामित किया गया था?",
+  "optsEn": [
+   "Jim Corbett National Park",
+   "Kaziranga National Park",
+   "Gir National Park",
+   "Bandipur National Park"
+  ],
+  "optsHi": [
+   "जिम कॉर्बेट राष्ट्रीय उद्यान",
+   "काजीरंगा राष्ट्रीय उद्यान",
+   "गिर राष्ट्रीय उद्यान",
+   "बांदीपुर राष्ट्रीय उद्यान"
+  ],
+  "correct": 0,
+  "explainEn": "Jim Corbett National Park was established in 1936 as Hailey National Park, the first national park in India.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-13T19:50:30Z"
  }
 ]
