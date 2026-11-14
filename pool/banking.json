@@ -39646,5 +39646,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-14T06:28:32Z"
+ },
+ {
+  "id": "q_ed42b907bbe0d78d",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'P' stand for in the term 'PAN' used for financial transactions in India?",
+  "qHi": "भारत में वित्तीय लेनदेन के लिए उपयोग किए जाने वाले शब्द 'PAN' में अक्षर 'P' का क्या अर्थ है?",
+  "optsEn": [
+   "Permanent",
+   "Personal",
+   "Public",
+   "Primary"
+  ],
+  "optsHi": [
+   "Permanent",
+   "Personal",
+   "Public",
+   "Primary"
+  ],
+  "correct": 0,
+  "explainEn": "PAN stands for Permanent Account Number, issued by the Income Tax Department of India.",
+  "sourceHint": "Income Tax Department of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T18:05:29Z"
+ },
+ {
+  "id": "q_2ebffbccb8f8cd21",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which institution regulates the banking system in India?",
+  "qHi": "भारत में बैंकिंग प्रणाली को कौन सा संस्थान नियंत्रित करता है?",
+  "optsEn": [
+   "Ministry of Finance",
+   "Reserve Bank of India",
+   "State Bank of India",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "वित्त मंत्रालय",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय स्टेट बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India (RBI) is India's central bank and regulatory body for the banking sector.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T18:05:29Z"
+ },
+ {
+  "id": "q_724d7d8a7ed00733",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which coin or currency note denomination is issued by the Ministry of Finance in India?",
+  "qHi": "भारत में वित्त मंत्रालय द्वारा कौन सा सिक्का या करेंसी नोट जारी किया जाता है?",
+  "optsEn": [
+   "One rupee note",
+   "Ten rupees note",
+   "Hundred rupees note",
+   "Five hundred rupees note"
+  ],
+  "optsHi": [
+   "एक रुपये का नोट",
+   "दस रुपये का नोट",
+   "सौ रुपये का नोट",
+   "पाँच सौ रुपये का नोट"
+  ],
+  "correct": 0,
+  "explainEn": "One rupee notes and all coins are issued by the Ministry of Finance, while other currency notes are issued by RBI.",
+  "sourceHint": "Reserve Bank of India and Ministry of Finance",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T18:05:29Z"
+ },
+ {
+  "id": "q_b2fe6bcb72ed543e",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of 'NEFT' in banking?",
+  "qHi": "बैंकिंग में 'NEFT' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "National Economic Finance Terminal",
+   "New Electronic Foreign Transfer",
+   "Net Express Fund Transaction"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "नेशनल इकोनॉमिक फाइनेंस टर्मिनल",
+   "न्यू इलेक्ट्रॉनिक फॉरेन ट्रांसफर",
+   "नेट एक्सप्रेस फंड ट्रांजैक्शन"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, a nation-wide centralized payment system owned by RBI.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T18:05:29Z"
+ },
+ {
+  "id": "q_a2d887da5f13ee49",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which term is used to describe a bank account that has no transactions for a continuous period of two years?",
+  "qHi": "लगातार दो वर्षों तक कोई लेन-देन न होने वाले बैंक खाते को क्या कहा जाता है?",
+  "optsEn": [
+   "Current account",
+   "Dormant account",
+   "Joint account",
+   "Salary account"
+  ],
+  "optsHi": [
+   "चालू खाता",
+   "निष्क्रिय खाता",
+   "संयुक्त खाता",
+   "वेतन खाता"
+  ],
+  "correct": 1,
+  "explainEn": "A dormant or inoperative account is one that has not been operated for a specific long period, typically two years.",
+  "sourceHint": "RBI Guidelines on Inoperative Accounts",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T18:05:29Z"
+ },
+ {
+  "id": "q_df4e71c1ec64f006",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following institutions regulates the Micro Finance Institutions (MFIs) in India that are registered as Non-Banking Financial Companies (NBFCs)?",
+  "qHi": "निम्नलिखित में से कौन सी संस्था गैर-बैंकिंग वित्तीय कंपनियों (एनबीएफसी) के रूप में पंजीकृत भारत में सूक्ष्म वित्त संस्थानों (एमएफआई) को विनियमित करती है?",
+  "optsEn": [
+   "Securities and Exchange Board of India",
+   "Reserve Bank of India",
+   "National Bank for Agriculture and Rural Development",
+   "Small Industries Development Bank of India"
+  ],
+  "optsHi": [
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "भारतीय रिजर्व बैंक",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक",
+   "भारतीय लघु उद्योग विकास बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India regulates all NBFC-MFIs operating in India under the Reserve Bank of India Act, 1934.",
+  "sourceHint": "RBI Master Directions on Regulatory Framework for NBFC-MFIs",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T18:06:29Z"
+ },
+ {
+  "id": "q_56468b8ea11becf2",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of the monetary policy instrument known as the Cash Reserve Ratio (CRR)?",
+  "qHi": "नकद आरक्षित अनुपात (सीआरआर) के रूप में जानी जाने वाली मौद्रिक नीति उपकरण का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To ensure liquidity with banks and control money supply in the economy",
+   "To provide direct loans to the agricultural sector",
+   "To finance the fiscal deficit of the central government",
+   "To fix the interest rates on retail housing loans"
+  ],
+  "optsHi": [
+   "बैंकों के पास तरलता सुनिश्चित करना और अर्थव्यवस्था में मुद्रा आपूर्ति को नियंत्रित करना",
+   "कृषि क्षेत्र को प्रत्यक्ष ऋण प्रदान करना",
+   "केंद्र सरकार के राजकोषीय घाटे का वित्तपोषण करना",
+   "खुदरा आवास ऋण पर ब्याज दरों तय करना"
+  ],
+  "correct": 0,
+  "explainEn": "CRR requires commercial banks to hold a certain percentage of their total deposits with the RBI, which helps manage liquidity and control inflation.",
+  "sourceHint": "NCERT Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T18:06:29Z"
+ },
+ {
+  "id": "q_43bf71c98e7e9ee0",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Basel III norms, what does the Tier 1 capital primarily represent for a commercial bank?",
+  "qHi": "बेसल III मानदंडों के तहत, टीयर 1 पूंजी मुख्य रूप से एक वाणिज्यिक बैंक के लिए क्या दर्शाती है?",
+  "optsEn": [
+   "Subordinated debt with a fixed maturity period",
+   "Core capital including common equity and disclosed reserves",
+   "Total loan loss provisions made against non-performing assets",
+   "Short-term borrowings from the central bank"
+  ],
+  "optsHi": [
+   "एक निश्चित परिपक्वता अवधि के साथ अधीनस्थ ऋण",
+   "सामान्य इक्विटी और प्रकट भंडार सहित मूल पूंजी",
+   "गैर-निष्पादित परिसंपत्तियों के खिलाफ किए गए कुल ऋण हानि प्रावधान",
+   "केंद्रीय बैंक से अल्पकालिक उधार"
+  ],
+  "correct": 1,
+  "explainEn": "Tier 1 capital is a bank's core measure of financial strength from a regulatory perspective, consisting mostly of common stock and disclosed reserves.",
+  "sourceHint": "Bank for International Settlements (BIS) Basel III guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T18:06:29Z"
+ },
+ {
+  "id": "q_ec703579fcf708af",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the Liquidity Coverage Ratio (LCR) framework used in banking regulation?",
+  "qHi": "बैंकिंग विनियमन में प्रयुक्त तरलता कवरेज अनुपात (एलसीआर) ढांचे में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liability",
+   "Leverage",
+   "Liquidity",
+   "Ledger"
+  ],
+  "optsHi": [
+   "दायित्व (Liability)",
+   "उत्तोलन (Leverage)",
+   "तरलता (Liquidity)",
+   "खाता बही (Ledger)"
+  ],
+  "correct": 2,
+  "explainEn": "LCR stands for Liquidity Coverage Ratio, which ensures that banks have an adequate stock of unencumbered high-quality liquid assets to survive a significant stress scenario.",
+  "sourceHint": "RBI Guidelines on Liquidity Risk Management",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T18:06:29Z"
+ },
+ {
+  "id": "q_be9b5c82eb9957bd",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which entity in India acts as the central counterparty for clearing and settling trades in government securities?",
+  "qHi": "भारत में कौन सी संस्था सरकारी प्रतिभूतियों में ट्रेडों के निपटान और समाशोधन के लिए केंद्रीय प्रतिपक्ष के रूप में कार्य करती है?",
+  "optsEn": [
+   "Clearing Corporation of India Limited",
+   "National Stock Exchange of India",
+   "Central Depository Services Limited",
+   "National Payments Corporation of India"
+  ],
+  "optsHi": [
+   "क्लियरिंग कॉर्पोरेशन ऑफ इंडिया लिमिटेड",
+   "नेशनल स्टॉक एक्सचेंज ऑफ इंडिया",
+   "सेंट्रल डिपॉजिटरी सर्विसेज लिमिटेड",
+   "नेशनल पेमेंट्स कॉर्पोरेशन ऑफ इंडिया"
+  ],
+  "correct": 0,
+  "explainEn": "CCIL provides guaranteed clearing and settlement functions for transactions in money, G-secs, and foreign exchange markets in India.",
+  "sourceHint": "Reserve Bank of India official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T18:06:29Z"
+ },
+ {
+  "id": "q_e1415fd9cabdaa89",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of banking operations, what does the term 'CASA ratio' refer to?",
+  "qHi": "बैंकिंग संचालन के संदर्भ में, 'कासा अनुपात' (CASA ratio) शब्द से क्या तात्पर्य है?",
+  "optsEn": [
+   "Ratio of current account and savings account deposits to total deposits",
+   "Ratio of credit advances to statutory advances",
+   "Ratio of capital adequacy to stressed assets",
+   "Ratio of cash reserves to short-term assets"
+  ],
+  "optsHi": [
+   "कुल जमा में चालू खाता और बचत खाता जमा का अनुपात",
+   "वैधानिक अग्रिमों के लिए ऋण अग्रिमों का अनुपात",
+   "तनावग्रस्त परिसंपत्तियों के लिए पूंजी पर्याप्तता का अनुपात",
+   "अल्पकालिक परिसंपत्तियों के लिए नकद भंडार का अनुपात"
+  ],
+  "correct": 0,
+  "explainEn": "CASA ratio measures the proportion of a bank's total deposits that come from Current and Savings Accounts, which are low-cost funds for the bank.",
+  "sourceHint": "Banking and Financial Services Textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T18:06:29Z"
  }
 ]

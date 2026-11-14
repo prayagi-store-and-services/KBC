@@ -31078,5 +31078,397 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-14T06:27:38Z"
+ },
+ {
+  "id": "q_2b75c62b94410dfe",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary product obtained from silkworms?",
+  "qHi": "रेशम के कीड़े से मुख्य रूप से क्या प्राप्त होता है?",
+  "optsEn": [
+   "Cotton fiber",
+   "Wool",
+   "Silk fiber",
+   "Jute"
+  ],
+  "optsHi": [
+   "कपास का रेशा",
+   "ऊन",
+   "रेशम का रेशा",
+   "जूट"
+  ],
+  "correct": 2,
+  "explainEn": "Silkworms produce cocoons from which natural silk fiber is extracted.",
+  "sourceHint": "NCERT Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T18:03:39Z"
+ },
+ {
+  "id": "q_cdecdc109b4211fd",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which direction does the compass needle always point?",
+  "qHi": "कम्पास की सुई हमेशा किस दिशा की ओर इशारा करती है?",
+  "optsEn": [
+   "East and West",
+   "North and South",
+   "Up and Down",
+   "Only West"
+  ],
+  "optsHi": [
+   "पूर्व और पश्चिम",
+   "उत्तर और दक्षिण",
+   "ऊपर और नीचे",
+   "केवल पश्चिम"
+  ],
+  "correct": 1,
+  "explainEn": "A magnetic compass needle aligns with Earth's magnetic field, pointing towards the North and South magnetic poles.",
+  "sourceHint": "NCERT Class 5 EVS Chapter - Walls Tell Stories",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T18:03:39Z"
+ },
+ {
+  "id": "q_ddc59bb70a1f6c01",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these seeds is known for dispersing by sticking to the fur of animals or human clothes?",
+  "qHi": "इनमें से कौन सा बीज जानवरों के बालों या इंसान के कपड़ों से चिपककर फैलने के लिए जाना जाता है?",
+  "optsEn": [
+   "Maple",
+   "Xanthium",
+   "Dandelion",
+   "Pea"
+  ],
+  "optsHi": [
+   "मेपल",
+   "जैंथियम (गोखरू)",
+   "डैंडेलियन",
+   "मटर"
+  ],
+  "correct": 1,
+  "explainEn": "Xanthium seeds have tiny hooks that catch on animal fur and clothing for dispersal.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T18:05:39Z"
+ },
+ {
+  "id": "q_f2cd5bf84bb4e72f",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following describes the process of water changing into water vapour due to heat from the Sun?",
+  "qHi": "निम्नलिखित में से कौन सी प्रक्रिया सूर्य की गर्मी के कारण पानी के जल वाष्प में बदलने को दर्शाती है?",
+  "optsEn": [
+   "Condensation",
+   "Evaporation",
+   "Precipitation",
+   "Melting"
+  ],
+  "optsHi": [
+   "संघनन",
+   "वाष्पीकरण",
+   "वर्षा",
+   "पिघलना"
+  ],
+  "correct": 1,
+  "explainEn": "Evaporation is the process where liquid water turns into water vapour by absorbing heat.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T18:05:39Z"
+ },
+ {
+  "id": "q_f7a9664976bf1172",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary source of energy that drives the Earth's water cycle?",
+  "qHi": "पृथ्वी के जल चक्र को संचालित करने वाली ऊर्जा का मुख्य स्रोत क्या है?",
+  "optsEn": [
+   "The Sun",
+   "The Moon",
+   "Wind",
+   "Geothermal heat"
+  ],
+  "optsHi": [
+   "सूर्य",
+   "चंद्रमा",
+   "हवा",
+   "भूतापीय उष्मीय ऊर्जा"
+  ],
+  "correct": 0,
+  "explainEn": "Solar energy from the Sun heats up water bodies, causing evaporation, which is the starting point of the water cycle.",
+  "sourceHint": "NCERT Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T18:05:39Z"
+ },
+ {
+  "id": "q_8e329c6705983bc7",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these is a traditional method of harvesting rainwater in ancient India?",
+  "qHi": "इनमें से कौन सी प्राचीन भारत में वर्षा जल संचयन की एक पारंपरिक विधि है?",
+  "optsEn": [
+   "Tubewell",
+   "Bawri",
+   "Handpump",
+   "Dam"
+  ],
+  "optsHi": [
+   "ट्यूबवेल",
+   "बावड़ी",
+   "हैंडपंप",
+   "बाँध"
+  ],
+  "correct": 1,
+  "explainEn": "Bawris or stepwells were traditional step-wells used to store rainwater in many parts of India.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T18:05:39Z"
+ },
+ {
+  "id": "q_806273a6e9ac8dbc",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following physical features forms a natural boundary between the Indo-Gangetic plain and the Deccan plateau in central India?",
+  "qHi": "निम्नलिखित में से कौन सी भौतिक विशेषता भारत के मध्य में इंडो-गंगा के मैदान और दक्कन के पठार के बीच एक प्राकृतिक सीमा बनाती है?",
+  "optsEn": [
+   "Vindhya Range",
+   "Aravalli Range",
+   "Eastern Ghats",
+   "Shiwalik Hills"
+  ],
+  "optsHi": [
+   "विंध्य श्रेणी",
+   "अरावली श्रेणी",
+   "पूर्वी घाट",
+   "शिवालिक पहाड़ियाँ"
+  ],
+  "correct": 0,
+  "explainEn": "The Vindhya mountain range runs through central India and traditionally separates the northern Indo-Gangetic plain from the southern plateau region.",
+  "sourceHint": "NCERT Class 5 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T18:06:40Z"
+ },
+ {
+  "id": "q_2e66e6ac7fc21566",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional Indian water harvesting system involves deep underground stepwells found commonly in arid regions like Rajasthan and Gujarat?",
+  "qHi": "पारंपरिक भारतीय जल संचयन प्रणाली में राजस्थान और गुजरात जैसे शुष्क क्षेत्रों में आमतौर पर पाए जाने वाले गहरे भूमिगत सीढ़ीदार कुएँ (स्टेपवेल) शामिल हैं?",
+  "optsEn": [
+   "Baolis",
+   "Kuls",
+   "Zings",
+   "Eris"
+  ],
+  "optsHi": [
+   "बावड़ी",
+   "कुल",
+   "जिंग",
+   "एरी"
+  ],
+  "correct": 0,
+  "explainEn": "Baolis or stepwells are historical subterranean water structures built in dry regions to collect and store rainwater.",
+  "sourceHint": "NCERT Class 5 EVS Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T18:06:40Z"
+ },
+ {
+  "id": "q_071b8d253855c29b",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary function of chlorophyll in green plants during photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण के दौरान हरे पौधों में क्लोरोफिल का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "To absorb light energy from the Sun",
+   "To release oxygen directly from the roots",
+   "To absorb nitrogen gas from the atmosphere",
+   "To store excess water in the leaves"
+  ],
+  "optsHi": [
+   "सूर्य से प्रकाश ऊर्जा को अवशोषित करना",
+   "जड़ों से सीधे ऑक्सीजन छोड़ना",
+   "वायुमंडल से नाइट्रोजन गैस को अवशोषित करना",
+   "पत्तियों में अतिरिक्त पानी का भंडारण करना"
+  ],
+  "correct": 0,
+  "explainEn": "Chlorophyll is the green pigment in plants that absorbs solar energy required to convert carbon dioxide and water into glucose.",
+  "sourceHint": "NCERT Class 5 Science Curriculum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T18:06:40Z"
+ },
+ {
+  "id": "q_190891a22f3eae6f",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which constitutional body in India is responsible for conducting elections to the Lok Sabha and State Legislative Assemblies?",
+  "qHi": "भारत में कौन सा संवैधानिक निकाय लोकसभा और राज्य विधानसभाओं के चुनाव कराने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Election Commission of India",
+   "Supreme Court of India",
+   "Union Public Service Commission",
+   "NITI Aayog"
+  ],
+  "optsHi": [
+   "भारत का निर्वाचन आयोग",
+   "भारत का उच्चतम न्यायालय",
+   "संघ लोक सेवा आयोग",
+   "नीति आयोग"
+  ],
+  "correct": 0,
+  "explainEn": "The Election Commission of India is an autonomous constitutional authority responsible for administering election processes in India.",
+  "sourceHint": "Constitution of India Article 324",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T18:06:40Z"
+ },
+ {
+  "id": "q_434e2fc60d2780d8",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific atmospheric layer is closest to the Earth's surface and contains most of the weather phenomena?",
+  "qHi": "कौन सी विशिष्ट वायुमंडलीय परत पृथ्वी की सतह के सबसे करीब है और इसमें अधिकांश मौसम संबंधी घटनाएँ होती हैं?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 0,
+  "explainEn": "The troposphere is the lowest layer of Earth's atmosphere and contains approximately 75 percent of the atmosphere's mass and almost all weather.",
+  "sourceHint": "NCERT Class 5 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T18:06:40Z"
+ },
+ {
+  "id": "q_419303f8f414b5f0",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During which historical movement did Mahatma Gandhi undertake the famous Dandi March to protest against the salt tax?",
+  "qHi": "महात्मा गांधी ने किस ऐतिहासिक आंदोलन के दौरान नमक कर के विरोध में प्रसिद्ध दांडी मार्च निकाला था?",
+  "optsEn": [
+   "Civil Disobedience Movement",
+   "Non-Cooperation Movement",
+   "Quit India Movement",
+   "Swadeshi Movement"
+  ],
+  "optsHi": [
+   "सविनय अवज्ञा आंदोलन",
+   "असहयोग आंदोलन",
+   "भारत छोड़ो आंदोलन",
+   "स्वदेशी आंदोलन"
+  ],
+  "correct": 0,
+  "explainEn": "The Dandi March in 1930 was an act of nonviolent civil disobedience led by Mahatma Gandhi against the British salt monopoly.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T18:06:40Z"
+ },
+ {
+  "id": "q_9d67da3b29b30855",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the Earth's movements, what causes the cycle of seasons?",
+  "qHi": "पृथ्वी की गतियों के संदर्भ में, ऋतुओं का चक्र किसके कारण होता है?",
+  "optsEn": [
+   "Revolution of the Earth around the Sun on a tilted axis",
+   "Rotation of the Earth on its own vertical axis once a day",
+   "Changes in the distance between the Earth and the Moon",
+   "Variation in the total energy output of the Sun daily"
+  ],
+  "optsHi": [
+   "एक झुके हुए अक्ष पर सूर्य के चारों ओर पृथ्वी की परिक्रमा",
+   "दिन में एक बार अपने स्वयं के ऊर्ध्वाधर अक्ष पर पृथ्वी का घूमना",
+   "पृथ्वी और चंद्रमा के बीच की दूरी में परिवर्तन",
+   "दैनिक रूप से सूर्य के कुल ऊर्जा उत्पादन में भिन्नता"
+  ],
+  "correct": 0,
+  "explainEn": "Seasons are caused by the tilt of the Earth's axis combined with its orbital revolution around the Sun.",
+  "sourceHint": "NCERT Class 5 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T18:06:40Z"
+ },
+ {
+  "id": "q_0d682b3f46e792a4",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specialized white blood cells in the human body are primarily responsible for producing antibodies to fight infections?",
+  "qHi": "मानव शरीर में कौन सी विशिष्ट श्वेत रक्त कोशिकाएं संक्रमण से लड़ने के लिए एंटीबॉडी उत्पन्न करने के लिए मुख्य रूप से जिम्मेदार हैं?",
+  "optsEn": [
+   "B lymphocytes",
+   "Red blood cells",
+   "Platelets",
+   "Epithelial cells"
+  ],
+  "optsHi": [
+   "बी लिम्फोसाइट्स",
+   "लाल रक्त कोशिकाएं",
+   "प्लेटलेट्स",
+   "उपकला कोशिकाएं"
+  ],
+  "correct": 0,
+  "explainEn": "B lymphocytes (B cells) are a type of white blood cell that function in the humoral immunity component of the adaptive immune system by producing antibodies.",
+  "sourceHint": "NCERT Class 5 General Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T18:06:40Z"
  }
 ]
