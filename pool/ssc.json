@@ -22286,5 +22286,509 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-13T19:50:18Z"
+ },
+ {
+  "id": "q_57c30ab1cb1b2647",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "Children's Day (Jawaharlal Nehru)",
+  "qEn": "On which date is Children's Day celebrated in India?",
+  "qHi": "भारत में बाल दिवस किस तारीख को मनाया जाता है?",
+  "optsEn": [
+   "14 November",
+   "5 September",
+   "2 October",
+   "14 November is wrong, it is 14 August"
+  ],
+  "optsHi": [
+   "14 नवंबर",
+   "5 सितंबर",
+   "2 अक्टूबर",
+   "14 नवंबर गलत है, यह 14 अगस्त है"
+  ],
+  "correct": 0,
+  "explainEn": "Children's Day in India is celebrated annually on 14 November, the birth anniversary of Jawaharlal Nehru.",
+  "sourceHint": "NCERT textbooks and PIB",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:25:21Z"
+ },
+ {
+  "id": "q_15d23b04fdfccf4c",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "Children's Day (Jawaharlal Nehru)",
+  "qEn": "Whose birth anniversary is commemorated as Children's Day in India?",
+  "qHi": "भारत में किसकी जयंती को बाल दिवस के रूप में मनाया जाता है?",
+  "optsEn": [
+   "Mahatma Gandhi",
+   "Jawaharlal Nehru",
+   "Sardar Vallabhbhai Patel",
+   "Subhas Chandra Bose"
+  ],
+  "optsHi": [
+   "महात्मा गांधी",
+   "जवाहरलाल नेहरू",
+   "सरदार वल्लभभाई पटेल",
+   "सुभाष चंद्र बोस"
+  ],
+  "correct": 1,
+  "explainEn": "Children's Day marks the birth anniversary of India's first Prime Minister, Pandit Jawaharlal Nehru.",
+  "sourceHint": "NCERT and Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:25:21Z"
+ },
+ {
+  "id": "q_225bfbef4f2c0e56",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "Children's Day (Jawaharlal Nehru)",
+  "qEn": "What was the affectionate nickname given to Jawaharlal Nehru by children?",
+  "qHi": "बच्चों द्वारा जवाहरलाल नेहरू को दिया गया स्नेहपूर्ण उपनाम क्या था?",
+  "optsEn": [
+   "Bapu",
+   "Chacha Nehru",
+   "Netaji",
+   "Gurudev"
+  ],
+  "optsHi": [
+   "बापू",
+   "चाचा नेहरू",
+   "नेताजी",
+   "गुरुदेव"
+  ],
+  "correct": 1,
+  "explainEn": "Jawaharlal Nehru was immensely fond of children and was affectionately known as 'Chacha Nehru' among them.",
+  "sourceHint": "NCERT civics and history textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:25:21Z"
+ },
+ {
+  "id": "q_cd8ea19aff33093d",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "Children's Day (Jawaharlal Nehru)",
+  "qEn": "Jawaharlal Nehru was the first to hold which office in independent India?",
+  "qHi": "जवाहरलाल नेहरू स्वतंत्र भारत में किस पद पर आसीन होने वाले पहले व्यक्ति थे?",
+  "optsEn": [
+   "President",
+   "Prime Minister",
+   "Home Minister",
+   "Vice President"
+  ],
+  "optsHi": [
+   "राष्ट्रपति",
+   "प्रधान मंत्री",
+   "गृह मंत्री",
+   "उप राष्ट्रपति"
+  ],
+  "correct": 1,
+  "explainEn": "Jawaharlal Nehru served as the first Prime Minister of independent India from 1947 to 1964.",
+  "sourceHint": "Parliament of India official records",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:25:21Z"
+ },
+ {
+  "id": "q_88c655dac5821592",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "Children's Day (Jawaharlal Nehru)",
+  "qEn": "In which year was Jawaharlal Nehru born?",
+  "qHi": "जवाहरलाल नेहरू का जन्म किस वर्ष हुआ था?",
+  "optsEn": [
+   "1869",
+   "1889",
+   "1901",
+   "1911"
+  ],
+  "optsHi": [
+   "1869",
+   "1889",
+   "1901",
+   "1911"
+  ],
+  "correct": 1,
+  "explainEn": "Jawaharlal Nehru was born on 14 November 1889 in Allahabad.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:25:21Z"
+ },
+ {
+  "id": "q_a18191901acc11ce",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "Children's Day (Jawaharlal Nehru)",
+  "qEn": "Which city was the birthplace of Jawaharlal Nehru?",
+  "qHi": "जवाहरलाल नेहरू का जन्म किस शहर में हुआ था?",
+  "optsEn": [
+   "Allahabad",
+   "New Delhi",
+   "Mumbai",
+   "Kolkata"
+  ],
+  "optsHi": [
+   "इलाहाबाद",
+   "नई दिल्ली",
+   "मुंबई",
+   "कोलकाता"
+  ],
+  "correct": 0,
+  "explainEn": "Jawaharlal Nehru was born in Allahabad (now Prayagraj) in Uttar Pradesh.",
+  "sourceHint": "NCERT history books",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:25:21Z"
+ },
+ {
+  "id": "q_cb5d931406a8a13f",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "Children's Day (Jawaharlal Nehru)",
+  "qEn": "Before 1964, on which date was Children's Day observed in India along with the global community?",
+  "qHi": "1964 से पहले, भारत में वैश्विक समुदाय के साथ बाल दिवस किस तारीख को मनाया जाता था?",
+  "optsEn": [
+   "20 November",
+   "1 June",
+   "25 December",
+   "14 January"
+  ],
+  "optsHi": [
+   "20 नवंबर",
+   "1 जून",
+   "25 दिसंबर",
+   "14 जनवरी"
+  ],
+  "correct": 0,
+  "explainEn": "Prior to Jawaharlal Nehru's passing in 1964, India celebrated Children's Day on 20 November, aligning with the United Nations Universal Children's Day.",
+  "sourceHint": "PIB archives",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:25:21Z"
+ },
+ {
+  "id": "q_7defcacc6581e6e2",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "Children's Day (Jawaharlal Nehru)",
+  "qEn": "Which famous book containing letters to his daughter Indira was written by Jawaharlal Nehru?",
+  "qHi": "अपनी पुत्री इंदिरा को लिखे गए पत्रों वाला प्रसिद्ध ग्रंथ जवाहरलाल नेहरू द्वारा कौन सा लिखा गया था?",
+  "optsEn": [
+   "Discovery of India",
+   "Glimpses of World History",
+   "An Autobiography",
+   "My Experiments with Truth"
+  ],
+  "optsHi": [
+   "डिस्कवरी ऑफ़ इंडिया",
+   "ग्लिम्प्स ऑफ़ वर्ल्ड हिस्ट्री",
+   "एन ऑटोबायोग्राफी",
+   "माई एक्सपेरिमेंट्स विद ट्रुथ"
+  ],
+  "correct": 1,
+  "explainEn": "'Glimpses of World History' is a collection of letters written by Jawaharlal Nehru to his young daughter Indira Priyadarshini from various British prisons.",
+  "sourceHint": "NCERT literature and history references",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:25:21Z"
+ },
+ {
+  "id": "q_aec9a198386b3463",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "Children's Day (Jawaharlal Nehru)",
+  "qEn": "What was the specific date of birth of Jawaharlal Nehru, which is celebrated as Children's Day in India?",
+  "qHi": "जवाहरलाल नेहरू की जन्म तिथि क्या है, जिसे भारत में बाल दिवस के रूप में मनाया जाता है?",
+  "optsEn": [
+   "November 14",
+   "November 20",
+   "October 2",
+   "November 19"
+  ],
+  "optsHi": [
+   "14 नवंबर",
+   "20 नवंबर",
+   "2 अक्टूबर",
+   "19 नवंबर"
+  ],
+  "correct": 0,
+  "explainEn": "Children's Day is celebrated annually on November 14 to mark the birth anniversary of India's first Prime Minister.",
+  "sourceHint": "NCERT Civics textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:27:04Z"
+ },
+ {
+  "id": "q_a6e1da3913165efc",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "Children's Day (Jawaharlal Nehru)",
+  "qEn": "By what affectionate nickname by children was Jawaharlal Nehru commonly known during his lifetime?",
+  "qHi": "अपने जीवनकाल में जवाहरलाल नेहरू को बच्चों द्वारा किस स्नेहपूर्ण उपनाम से जाना जाता था?",
+  "optsEn": [
+   "Chacha Nehru",
+   "Panditji",
+   "Bapuji",
+   "Shikshak"
+  ],
+  "optsHi": [
+   "चाचा नेहरू",
+   "पंडितजी",
+   "बापूजी",
+   "शिक्षक"
+  ],
+  "correct": 0,
+  "explainEn": "Nehru had immense love for children, and they fondly called him 'Chacha Nehru'.",
+  "sourceHint": "NCERT History textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:27:04Z"
+ },
+ {
+  "id": "q_28f7658141455122",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "Children's Day (Jawaharlal Nehru)",
+  "qEn": "Which specific flower was Jawaharlal Nehru frequently seen wearing in the buttonhole of his jacket, often associated with his fondness for children and nature?",
+  "qHi": "जवाहरलाल नेहरू अपनी जैकेट के बटनहोल में कौन सा विशिष्ट फूल अक्सर पहने हुए दिखाई देते थे, जो बच्चों और प्रकृति के प्रति उनके प्रेम से जुड़ा था?",
+  "optsEn": [
+   "Red Rose",
+   "Lotus",
+   "Marigold",
+   "Jasmine"
+  ],
+  "optsHi": [
+   "लाल गुलाब",
+   "कमल",
+   "गेंदा",
+   "चमेली"
+  ],
+  "correct": 0,
+  "explainEn": "Nehru almost always wore a fresh red rose in his coat's buttonhole, becoming one of his signature visual traits.",
+  "sourceHint": "Cultural archives of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:27:04Z"
+ },
+ {
+  "id": "q_5e5a9ac41c3c5799",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "Children's Day (Jawaharlal Nehru)",
+  "qEn": "In which year did the Parliament of India pass a resolution to officially shift the celebration of Children's Day to Jawaharlal Nehru's birthday?",
+  "qHi": "भारतीय संसद ने बाल दिवस के उत्सव को आधिकारिक तौर पर जवाहरलाल नेहरू के जन्मदिन पर स्थानांतरित करने का प्रस्ताव किस वर्ष पारित किया?",
+  "optsEn": [
+   "1964",
+   "1947",
+   "1950",
+   "1972"
+  ],
+  "optsHi": [
+   "1964",
+   "1947",
+   "1950",
+   "1972"
+  ],
+  "correct": 0,
+  "explainEn": "Following Nehru's passing in May 1964, the Parliament passed a resolution to celebrate November 14 as Children's Day annually.",
+  "sourceHint": "Lok Sabha Secretariat records",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:27:04Z"
+ },
+ {
+  "id": "q_e7582eebcea25fc3",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": "Children's Day (Jawaharlal Nehru)",
+  "qEn": "According to Jawaharlal Nehru, children are like which of the following, needing careful nurturing for the future of the nation?",
+  "qHi": "जवाहरलाल नेहरू के अनुसार, बच्चे निम्नलिखित में से किसके समान हैं, जिन्हें राष्ट्र के भविष्य के लिए सावधानीपूर्वक पोषण की आवश्यकता है?",
+  "optsEn": [
+   "Buds in a garden",
+   "Sparks in a fire",
+   "Waves in an ocean",
+   "Stars in the sky"
+  ],
+  "optsHi": [
+   "बाग की कलियाँ",
+   "आग की चिंगारियाँ",
+   "महासागर की लहरें",
+   "आसमान के तारे"
+  ],
+  "correct": 0,
+  "explainEn": "Nehru famously stated that children are like buds in a garden and should be carefully and lovingly nurtured, as they are the future of the nation.",
+  "sourceHint": "Speeches of Jawaharlal Nehru, Publications Division",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:27:04Z"
+ },
+ {
+  "id": "q_52a3dd299ccd4bad",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "Children's Day (Jawaharlal Nehru)",
+  "qEn": "Jawaharlal Nehru's fondness for children led to him being affectionately called what name by the children of India?",
+  "qHi": "बच्चों के प्रति जवाहरलाल नेहरू के प्रेम के कारण भारत के बच्चों द्वारा उन्हें प्यार से क्या कहकर पुकारा जाता था?",
+  "optsEn": [
+   "Chacha Nehru",
+   "Bapu Nehru",
+   "Panditji",
+   "Lokneta Nehru"
+  ],
+  "optsHi": [
+   "चाचा नेहरू",
+   "बापू नेहरू",
+   "पंडितजी",
+   "लोकनेता नेहरू"
+  ],
+  "correct": 0,
+  "explainEn": "Jawaharlal Nehru was fondly called 'Chacha Nehru' by children due to his immense love and affection for them.",
+  "sourceHint": "NCERT Textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:28:25Z"
+ },
+ {
+  "id": "q_266b6c7d5b86038d",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "Children's Day (Jawaharlal Nehru)",
+  "qEn": "Which organization, established in 1955 under the patronage of Jawaharlal Nehru, works specifically for the welfare and development of children in India?",
+  "qHi": "जवाहरलाल नेहरू के संरक्षण में 1955 में स्थापित कौन सा संगठन विशेष रूप से भारत में बच्चों के कल्याण और विकास के लिए काम करता है?",
+  "optsEn": [
+   "Indian Council for Child Welfare",
+   "Children's Film Society India",
+   "National Bal Bhavan",
+   "Central Social Welfare Board"
+  ],
+  "optsHi": [
+   "भारतीय बाल कल्याण परिषद",
+   "चिल्ड्रन्स फिल्म सोसाइटी इंडिया",
+   "राष्ट्रीय बाल भवन",
+   "केंद्रीय समाज कल्याण बोर्ड"
+  ],
+  "correct": 1,
+  "explainEn": "The Children's Film Society India (CFSI) was founded in 1955 under the guidance of Jawaharlal Nehru to provide value-based entertainment for children.",
+  "sourceHint": "Ministry of Information and Broadcasting, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:28:25Z"
+ },
+ {
+  "id": "q_04fba7aa5c0e798e",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "Children's Day (Jawaharlal Nehru)",
+  "qEn": "Which institution for creative learning and arts for children was founded by Jawaharlal Nehru in New Delhi in 1956?",
+  "qHi": "बच्चों के लिए रचनात्मक शिक्षण और कला हेतु नई दिल्ली में 1956 में जवाहरलाल नेहरू द्वारा किस संस्थान की स्थापना की गई थी?",
+  "optsEn": [
+   "National Bal Bhavan",
+   "National School of Drama",
+   "Sangeet Natak Akademi",
+   "Children's Museum of India"
+  ],
+  "optsHi": [
+   "राष्ट्रीय बाल भवन",
+   "राष्ट्रीय नाट्य विद्यालय",
+   "संगीत नाटक अकादमी",
+   "चिल्ड्रन्स म्यूजियम ऑफ इंडिया"
+  ],
+  "correct": 0,
+  "explainEn": "National Bal Bhavan was established in New Delhi in 1956 by Jawaharlal Nehru to enhance children's creative abilities through various activities.",
+  "sourceHint": "Ministry of Education, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:28:25Z"
+ },
+ {
+  "id": "q_4e346b227213d537",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "Children's Day (Jawaharlal Nehru)",
+  "qEn": "What was the original name of the institution established in 1955 in New Delhi that later became the National Bal Bhavan?",
+  "qHi": "नई दिल्ली में 1955 में स्थापित उस संस्थान का मूल नाम क्या था जो बाद में राष्ट्रीय बाल भवन बना?",
+  "optsEn": [
+   "Bal Kendra",
+   "Bal Bhavan",
+   "Children's National Club",
+   "Nehru Bal Kendra"
+  ],
+  "optsHi": [
+   "बाल केंद्र",
+   "बाल भवन",
+   "चिल्ड्रन्स नेशनल क्लब",
+   "नेहरू बाल केंद्र"
+  ],
+  "correct": 1,
+  "explainEn": "Bal Bhavan was initiated in 1955 and later formally established as National Bal Bhavan in 1956 near the Kotla Feroz Shah ground.",
+  "sourceHint": "Bal Bhavan official records",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:28:25Z"
+ },
+ {
+  "id": "q_60c351bcd8a53d33",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": "Children's Day (Jawaharlal Nehru)",
+  "qEn": "Which specific flower did Jawaharlal Nehru often wear in his jacket pocket, which became a prominent symbol associated with him and children's interactions?",
+  "qHi": "जवाहरलाल नेहरू अपनी जैकेट की जेब में अक्सर कौन सा विशिष्ट फूल लगाते थे, जो बच्चों के साथ उनकी बातचीत से जुड़ा एक प्रमुख प्रतीक बन गया था?",
+  "optsEn": [
+   "Rose",
+   "Marigold",
+   "Lotus",
+   "Jasmine"
+  ],
+  "optsHi": [
+   "गुलाब",
+   "गेंदा",
+   "कमल",
+   "चमेली"
+  ],
+  "correct": 0,
+  "explainEn": "Jawaharlal Nehru was rarely seen without a fresh red rose in his buttonhole, a flower he famously cherished.",
+  "sourceHint": "NCERT Textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:28:25Z"
  }
 ]

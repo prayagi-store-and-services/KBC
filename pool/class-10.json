@@ -30742,5 +30742,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-13T19:48:53Z"
+ },
+ {
+  "id": "q_aa86abee6fea1fce",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which level of government in India is known as the third tier?",
+  "qHi": "भारत में सरकार के किस स्तर को तीसरे स्तर के रूप में जाना जाता है?",
+  "optsEn": [
+   "Central Government",
+   "State Government",
+   "Local Government",
+   "Judiciary"
+  ],
+  "optsHi": [
+   "केंद्र सरकार",
+   "राज्य सरकार",
+   "स्थानीय सरकार",
+   "न्यायपालिका"
+  ],
+  "correct": 2,
+  "explainEn": "Local government (Panchayats and Municipalities) constitutes the third tier of Indian democracy.",
+  "sourceHint": "NCERT Class 10 Civics Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:25:43Z"
+ },
+ {
+  "id": "q_a373c44866472ce7",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which plant hormone is primarily responsible for cell elongation and phototropism in growing shoots?",
+  "qHi": "बढ़ते हुए प्ररोह (शूटर) में कोशिकाओं की लंबाई बढ़ाने और प्रकाशानुवर्तन के लिए मुख्य रूप से कौन सा पादप हॉर्मोन उत्तरदायी है?",
+  "optsEn": [
+   "Cytokinin",
+   "Gibberellin",
+   "Auxin",
+   "Abscisic acid"
+  ],
+  "optsHi": [
+   "साइटोकाइनिन",
+   "जिबरेलिन",
+   "ऑक्सिन",
+   "एब्सिसिक अम्ल"
+  ],
+  "correct": 2,
+  "explainEn": "Auxin is synthesized at the shoot tip and helps the cells grow longer, playing a major role in phototropism.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:27:48Z"
+ },
+ {
+  "id": "q_c1692bd218b2c9d5",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which socio-religious movement, founded by Swami Dayanand Saraswati in 1875, aimed to reform Hinduism by returning to the Vedas?",
+  "qHi": "स्वामी दयानंद सरस्वती द्वारा 1875 में स्थापित किस सामाजिक-धार्मिक आंदोलन का उद्देश्य वेदों की ओर लौटकर हिंदू धर्म में सुधार करना था?",
+  "optsEn": [
+   "Brahmo Samaj",
+   "Arya Samaj",
+   "Prarthana Samaj",
+   "Ramakrishna Mission"
+  ],
+  "optsHi": [
+   "ब्रह्म समाज",
+   "आर्य समाज",
+   "प्रार्थना समाज",
+   "रामकृष्ण मिशन"
+  ],
+  "correct": 1,
+  "explainEn": "Arya Samaj was founded by Swami Dayanand Saraswati in 1875 with the motto 'Go back to the Vedas'.",
+  "sourceHint": "NCERT Class 10 History, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:27:48Z"
+ },
+ {
+  "id": "q_e621593b258b94db",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which mineral resource is mined at the famous Kolar Gold Fields in Karnataka?",
+  "qHi": "कर्नाटक के प्रसिद्ध कोलार स्वर्ण क्षेत्रों में किस खनिज संसाधन का खनन किया जाता है?",
+  "optsEn": [
+   "Iron ore",
+   "Mica",
+   "Gold",
+   "Bauxite"
+  ],
+  "optsHi": [
+   "लोह अयस्क",
+   "अभ्रक",
+   "स्वर्ण",
+   "बक्साइट"
+  ],
+  "correct": 2,
+  "explainEn": "Kolar Gold Fields in Karnataka are historically famous for deep underground gold mining.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:27:48Z"
  }
 ]

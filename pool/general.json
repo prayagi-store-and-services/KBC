@@ -21950,5 +21950,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-13T19:50:30Z"
+ },
+ {
+  "id": "q_2e3e61b000f2df54",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "How many players make up a standard playing team in a match of field hockey?",
+  "qHi": "फील्ड हॉकी के एक मैच में मानक टीम में कितने खिलाड़ी होते हैं?",
+  "optsEn": [
+   "9",
+   "10",
+   "11",
+   "12"
+  ],
+  "optsHi": [
+   "9",
+   "10",
+   "11",
+   "12"
+  ],
+  "correct": 2,
+  "explainEn": "A standard field hockey team consists of 11 players on the field at a time.",
+  "sourceHint": "International Hockey Federation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:25:30Z"
+ },
+ {
+  "id": "q_8c728398f6949c75",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the standard base currency of India?",
+  "qHi": "भारत की मानक आधार मुद्रा क्या है?",
+  "optsEn": [
+   "Rupee",
+   "Taka",
+   "Rupiah",
+   "Yen"
+  ],
+  "optsHi": [
+   "रुपया",
+   "टका",
+   "ुपिया",
+   "येन"
+  ],
+  "correct": 0,
+  "explainEn": "The official currency of the Republic of India is the Indian Rupee.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:25:30Z"
+ },
+ {
+  "id": "q_c17ed3c307def23f",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which Indian classical dance form is the Kuchipudi style traditionally rooted?",
+  "qHi": "कुचिपुड़ी शैली पारंपरिक रूप से किस भारतीय शास्त्रीय नृत्य रूप से जुड़ी है?",
+  "optsEn": [
+   "Andhra Pradesh",
+   "Kerala",
+   "Tamil Nadu",
+   "Uttar Pradesh"
+  ],
+  "optsHi": [
+   "आंध्र प्रदेश",
+   "केरल",
+   "तमिलनाडु",
+   "उत्तर प्रदेश"
+  ],
+  "correct": 0,
+  "explainEn": "Kuchipudi originated in the village of Kuchelapuram in the Indian state of Andhra Pradesh.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:27:13Z"
+ },
+ {
+  "id": "q_df729f4de8703d4a",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the standard unit of electrical resistance named after physicist Georg Simon Ohm?",
+  "qHi": "भौतिक विज्ञानी जॉर्ज साइमन ओम के नाम पर विद्युत प्रतिरोध की मानक इकाई क्या है?",
+  "optsEn": [
+   "Volt",
+   "Ampere",
+   "Ohm",
+   "Watt"
+  ],
+  "optsHi": [
+   "वोल्ट",
+   "एम्पियर",
+   "ओम",
+   "वाट"
+  ],
+  "correct": 2,
+  "explainEn": "The ohm is the SI derived unit of electrical resistance.",
+  "sourceHint": "NCERT Physics Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:27:13Z"
+ },
+ {
+  "id": "q_48381b6486f212c8",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under which Article of the Constitution of India is the Supreme Court established as a court of record?",
+  "qHi": "भारत के संविधान के किस अनुच्छेद के तहत उच्चतम न्यायालय को अभिलेख न्यायालय (कोर्ट ऑफ़ रिकॉर्ड) के रूप में स्थापित किया गया है?",
+  "optsEn": [
+   "Article 129",
+   "Article 131",
+   "Article 136",
+   "Article 142"
+  ],
+  "optsHi": [
+   "अनुच्छेद 129",
+   "अनुच्छेद 131",
+   "अनुच्छेद 136",
+   "अनुच्छेद 142"
+  ],
+  "correct": 0,
+  "explainEn": "Article 129 of the Constitution of India states that the Supreme Court shall be a court of record and have all the powers of such a court including the power to punish for contempt of itself.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:28:38Z"
+ },
+ {
+  "id": "q_42ec65fd25df5add",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form of India traditionally uses a heavy brass plate (taranga) for balancing during footwork in certain sequences?",
+  "qHi": "भारत की किस शास्त्रीय नृत्य शैली में कुछ चरणों के दौरान पाद-संचालन के संतुलन के लिए पारंपरिक रूप से एक भारी पीतल की थाली (तरंगम) का उपयोग किया जाता है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kuchipudi",
+   "Mohiniyattam",
+   "Odissi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कुचिपुड़ी",
+   "मोहिनीअट्टम",
+   "ओडिसी"
+  ],
+  "correct": 1,
+  "explainEn": "In Kuchipudi, the Tarangam is a popular item where the dancer balances on the rim of a brass plate while executing intricate rhythmic patterns.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:28:38Z"
+ },
+ {
+  "id": "q_f84dbe4c8d4cfedf",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Harappan site is uniquely characterized by a lower town that was also fortified with a stone wall?",
+  "qHi": "किस हड़प्पा स्थल की यह अनूठी विशेषता है कि उसका निचला शहर भी पत्थर की दीवार से किलेबंद किया गया था?",
+  "optsEn": [
+   "Harappa",
+   "Mohenjo-daro",
+   "Dholavira",
+   "Kalibangan"
+  ],
+  "optsHi": [
+   "हड़प्पा",
+   "मोहनजोदड़ो",
+   "धोलावीरा",
+   "कालीबंगा"
+  ],
+  "correct": 2,
+  "explainEn": "Dholavira is known for its unique tripartite division and the fortification of its middle and lower towns alongside the citadel.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:28:38Z"
+ },
+ {
+  "id": "q_6a0e7adf95b13d0a",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the name of the designated launch vehicle used by ISRO for Chandrayaan-3?",
+  "qHi": "चंद्रयान-3 के लिए इसरो द्वारा उपयोग किए गए निर्धारित प्रक्षेपण यान (लॉंच व्हीकल) का नाम क्या है?",
+  "optsEn": [
+   "PSLV-C56",
+   "GSLV-F12",
+   "LVM3-M4",
+   "SSLV-D2"
+  ],
+  "optsHi": [
+   "पीएसएलवी-सी56",
+   "जीएसएलवी-एफ12",
+   "एलवीएम3-एम4",
+   "एसएसएलवी-डी2"
+  ],
+  "correct": 2,
+  "explainEn": "Chandrayaan-3 was successfully launched on July 14, 2023, using the LVM3-M4 (formerly GSLV Mk III) launch vehicle from Satish Dhawan Space Centre.",
+  "sourceHint": "ISRO official records",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:28:38Z"
+ },
+ {
+  "id": "q_990efea34292aeef",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which tributary of the Brahmaputra River originates in Bhutan and joins it in Assam?",
+  "qHi": "ब्रह्मपुत्र नदी की कौन सी सहायक नदी भूटान से निकलती है और असम में इससे मिलती है?",
+  "optsEn": [
+   "Subansiri",
+   "Manas",
+   "Kameng",
+   "Teesta"
+  ],
+  "optsHi": [
+   "सुबनसिरी",
+   "मानस",
+   "कामंग",
+   "तीस्ता"
+  ],
+  "correct": 1,
+  "explainEn": "The Manas River originates in the Himalayas of Bhutan before flowing through Assam and joining the Brahmaputra River.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:28:38Z"
+ },
+ {
+  "id": "q_803ea2ddc73b2d8e",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Gupta Empire, what was the term commonly used to refer to a territorial administrative unit equivalent to a district?",
+  "qHi": "गुप्त साम्राज्य के तहत, जिले के बराबर क्षेत्रीय प्रशासनिक इकाई को संदर्भित करने के लिए आमतौर पर किस शब्द का उपयोग किया जाता था?",
+  "optsEn": [
+   "Bhukti",
+   "Vishaya",
+   "Mandala",
+   "Vithi"
+  ],
+  "optsHi": [
+   "भुक्ति",
+   "विषय",
+   "मंडल",
+   "वीथी"
+  ],
+  "correct": 1,
+  "explainEn": "In the administrative hierarchy of the Gupta period, provinces were known as Bhuktis (administered by Uparikas) and were subdivided into districts called Vishayas (administered by Vishayapatis).",
+  "sourceHint": "NCERT Ancient Indian History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:28:38Z"
+ },
+ {
+  "id": "q_f0a354b80ac2e9b6",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian physicist is credited with deriving the statistics for identical particles with half-integral spin, now known by his name alongside Einstein?",
+  "qHi": "किस भारतीय भौतिक विज्ञानी को आधे-पूर्णांक चक्रण (हाफ-इंटीग्रल स्पिन) वाले समरूप कणों के लिए सांख्यिकी प्राप्त करने का श्रेय दिया जाता है, जिसे अब आइंस्टीन के साथ उनके नाम पर जाना जाता है?",
+  "optsEn": [
+   "Meghnad Saha",
+   "Satyendra Nath Bose",
+   "C. V. Raman",
+   "Homi J. Bhabha"
+  ],
+  "optsHi": [
+   "मेघनाद साहा",
+   "सत्येन्द्र नाथ बोस",
+   "सी. वी. रमन",
+   "होमी जे. भाभा"
+  ],
+  "correct": 1,
+  "explainEn": "Satyendra Nath Bose formulated the quantum statistics for photons, which Albert Einstein generalized to particles with mass, leading to the designation of Bose-Einstein statistics.",
+  "sourceHint": "Biographical Memoirs of Fellows of the Royal Society",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:28:38Z"
  }
 ]

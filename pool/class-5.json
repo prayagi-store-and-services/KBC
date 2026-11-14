@@ -30910,5 +30910,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-13T19:48:44Z"
+ },
+ {
+  "id": "q_b72567559aea28ca",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary gas absorbed by plants from the atmosphere during photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण के दौरान पौधों द्वारा वायुमंडल से मुख्य रूप से कौन सी गैस अवशोषित की जाती है?",
+  "optsEn": [
+   "Oxygen",
+   "Nitrogen",
+   "Carbon dioxide",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "कार्बन डाइऑक्साइड",
+   "हाइड्रोजन"
+  ],
+  "correct": 2,
+  "explainEn": "Plants take in carbon dioxide from the air to make their food using sunlight.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:25:34Z"
+ },
+ {
+  "id": "q_7ceb97c272a29a4b",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the main source of water for the river Ganga?",
+  "qHi": "गंगा नदी के पानी का मुख्य स्रोत क्या है?",
+  "optsEn": [
+   "Rainfall only",
+   "Glaciers",
+   "Ocean tides",
+   "Underground geysers"
+  ],
+  "optsHi": [
+   "केवल वर्षा",
+   "हिमनद",
+   "समुद्री ज्वार",
+   "भूपृष्ठ के नीचे के झरने"
+  ],
+  "correct": 1,
+  "explainEn": "The Ganga originates from glaciers in the Himalayas, such as the Gangotri glacier.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:25:34Z"
+ },
+ {
+  "id": "q_d2beef645b0a4897",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is an example of an kharif crop grown during the rainy season in India?",
+  "qHi": "निम्नलिखित में से कौन सी भारत में वर्षा ऋतु के दौरान उगाई जाने वाली खरीफ फसल का एक उदाहरण है?",
+  "optsEn": [
+   "Wheat",
+   "Rice",
+   "Barley",
+   "Mustard"
+  ],
+  "optsHi": [
+   "गेहूं",
+   "चावल",
+   "जौ",
+   "सरसों"
+  ],
+  "correct": 1,
+  "explainEn": "Rice is a major kharif crop sown with the beginning of the rainy season in India.",
+  "sourceHint": "NCERT Class 5 Environmental Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:27:38Z"
+ },
+ {
+  "id": "q_c59d5d54fd653dfd",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which planet in our solar system is known as the Red Planet due to iron oxide on its surface?",
+  "qHi": "हमारे सौर मंडल में किस ग्रह को उसकी सतह पर आयरन ऑक्साइड के कारण लाल ग्रह के रूप में जाना जाता है?",
+  "optsEn": [
+   "Venus",
+   "Mars",
+   "Jupiter",
+   "Saturn"
+  ],
+  "optsHi": [
+   "शुक्र",
+   "मंगल",
+   "बृहस्पति",
+   "शनि"
+  ],
+  "correct": 1,
+  "explainEn": "Mars appears reddish because of iron oxide (rust) prevalent on its surface.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:27:38Z"
+ },
+ {
+  "id": "q_999549d4023851c6",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of natural resource is coal, which takes millions of years to form underground?",
+  "qHi": "कोयला किस प्रकार का प्राकृतिक संसाधन है, जिसे जमीन के नीचे बनने में लाखों वर्ष लगते हैं?",
+  "optsEn": [
+   "Renewable resource",
+   "Non-renewable resource",
+   "Inexhaustible resource",
+   "Biotic resource"
+  ],
+  "optsHi": [
+   "नवीकरणीय संसाधन",
+   "अनवीकरणीय संसाधन",
+   "अक्षय संसाधन",
+   "जैविक संसाधन"
+  ],
+  "correct": 1,
+  "explainEn": "Coal is a non-renewable fossil fuel because it cannot be replaced quickly once consumed.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:27:38Z"
+ },
+ {
+  "id": "q_fe05212eddf48b6c",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which Indian mountain range is the famous hill station Ooty located?",
+  "qHi": "प्रसिद्ध पर्वतीय स्थल ऊटी किस भारतीय पर्वत श्रृंखला में स्थित है?",
+  "optsEn": [
+   "Himalayas",
+   "Vindhya Range",
+   "Nilgiri Hills",
+   "Aravalli Range"
+  ],
+  "optsHi": [
+   "हिमालय",
+   "विंध्य श्रेणी",
+   "नीलगिरी की पहाड़ियाँ",
+   "अरावली श्रेणी"
+  ],
+  "correct": 2,
+  "explainEn": "Ooty is a hill station located in the Nilgiri Hills of Southern India.",
+  "sourceHint": "NCERT Class 5 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:27:38Z"
  }
 ]

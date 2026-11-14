@@ -39338,5 +39338,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-13T19:50:24Z"
+ },
+ {
+  "id": "q_cb38147bb7dfe13f",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In the context of banking, what does the letter 'C' stand for in 'CASA' account?",
+  "qHi": "बैंकिंग के संदर्भ में, 'CASA' खाते में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Current",
+   "Credit",
+   "Capital",
+   "Commercial"
+  ],
+  "optsHi": [
+   "करेंट",
+   "क्रेडिट",
+   "कैपिटल",
+   "कमर्शियल"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account Savings Account, referring to bank deposits that combine current and savings account features.",
+  "sourceHint": "NCERT Business Studies and Banking terminology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:25:25Z"
+ },
+ {
+  "id": "q_5e9f39ff73fbc908",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the expanded form of 'ATM' as used in the banking sector?",
+  "qHi": "बैंकिंग क्षेत्र में प्रयुक्त 'ATM' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Automated Teller Machine",
+   "Any Time Money",
+   "Automatic Transfer Machine",
+   "Automated Transaction Method"
+  ],
+  "optsHi": [
+   "ऑटोमेटेड टेलर मशीन",
+   "एनी टाइम मनी",
+   "ऑटोमैटिक ट्रांसफर मशीन",
+   "ऑटोमेटेड ट्रांजैक्शन मेथड"
+  ],
+  "correct": 0,
+  "explainEn": "ATM stands for Automated Teller Machine, an electronic telecommunication device that enables customers to perform financial transactions.",
+  "sourceHint": "Banking dictionary and RBI publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:25:25Z"
+ },
+ {
+  "id": "q_fdab2b184fca9a18",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which financial instrument is used by the Reserve Bank of India to absorb liquidity from the banking system?",
+  "qHi": "बैंकिंग प्रणाली से तरलता को अवशोषित करने के लिए भारतीय रिजर्व बैंक द्वारा किस वित्तीय साधन का उपयोग किया जाता है?",
+  "optsEn": [
+   "Reverse Repo Rate",
+   "Bank Rate",
+   "Cash Reserve Ratio",
+   "Statutory Liquidity Ratio"
+  ],
+  "optsHi": [
+   "रिवर्स रेपो रेट",
+   "बैंक दर",
+   "नकद आरक्षित अनुपात",
+   "सांविधिक तरलता अनुपात"
+  ],
+  "correct": 0,
+  "explainEn": "Reverse repo rate is the rate at which RBI borrows money from commercial banks, thereby absorbing liquidity from the system.",
+  "sourceHint": "RBI publications on liquidity management",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:27:09Z"
+ },
+ {
+  "id": "q_eef8efe1f3910181",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum deposit insurance cover provided by the Deposit Insurance and Credit Guarantee Corporation per depositor per bank?",
+  "qHi": "डिपॉजिट इंश्योरेंस एंड क्रेडिट गारंटी कॉरपोरेशन द्वारा प्रति जमाकर्ता प्रति बैंक प्रदान किया जाने वाला अधिकतम जमा बीमा कवर कितना है?",
+  "optsEn": [
+   "Rupees One Lakh",
+   "Rupees Two Lakhs",
+   "Rupees Five Lakhs",
+   "Rupees Ten Lakhs"
+  ],
+  "optsHi": [
+   "एक लाख रुपये",
+   "दो लाख रुपये",
+   "पाँच लाख रुपये",
+   "दस लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "DICGC provides deposit insurance of up to Rs. 5,00,000 per depositor per bank for both principal and interest.",
+  "sourceHint": "DICGC official guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:27:09Z"
+ },
+ {
+  "id": "q_1bbea8f9b9b016ff",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following terms refers to the minimum percentage of deposits that a commercial bank must maintain in the form of liquid assets with itself?",
+  "qHi": "निम्नलिखित में से कौन सा शब्द जमा के उस न्यूनतम प्रतिशत को संदर्भित करता है जिसे एक वाणिज्यिक बैंक को अपने पास तरल संपत्ति के रूप में बनाए रखना चाहिए?",
+  "optsEn": [
+   "Cash Reserve Ratio",
+   "Statutory Liquidity Ratio",
+   "Prime Lending Rate",
+   "Marginal Standing Facility"
+  ],
+  "optsHi": [
+   "नकद आरक्षित अनुपात",
+   "सांविधिक तरलता अनुपात",
+   "प्रधान ऋण दर",
+   "सीमांत स्थायी सुविधा"
+  ],
+  "correct": 1,
+  "explainEn": "SLR requires banks to maintain a specified percentage of their net demand and time liabilities in liquid assets.",
+  "sourceHint": "Banking Regulation Act, 1949",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:27:09Z"
+ },
+ {
+  "id": "q_5356fc9a2d6867b4",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary purpose of the 'Countercyclical Capital Buffer' (CCyB) introduced under Basel III norms?",
+  "qHi": "बेसल III मानदंडों के तहत शुरू किए गए 'काउंटरसाइक्लिकल कैपिटल बफर' (CCyB) का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To protect banks from sudden foreign exchange fluctuations",
+   "To ensure banks maintain adequate capital during periods of excess credit growth",
+   "To cover operational risks arising from technological failures",
+   "To provide liquidity support during overnight interbank borrowing"
+  ],
+  "optsHi": [
+   "अचानक विदेशी मुद्रा उतार-चढ़ाव से बैंकों की रक्षा करना",
+   "यह सुनिश्चित करना कि बैंक अत्यधिक ऋण वृद्धि की अवधि के दौरान पर्याप्त पूंजी बनाए रखें",
+   "तकनीकी विफलताओं से उत्पन्न होने वाले परिचालन जोखिमों को कवर करना",
+   "रात्रिकालीन अंतरबैंक उधार के दौरान तरलता सहायता प्रदान करना"
+  ],
+  "correct": 1,
+  "explainEn": "The CCyB aims to ensure that banking system capital requirements take account of the macro-financial environment in which banks operate, building up capital in good times to be drawn down in stress periods.",
+  "sourceHint": "Bank for International Settlements (BIS) Basel III framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:28:32Z"
+ },
+ {
+  "id": "q_8236ce0c5020cff1",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which institution in India acts as the primary settlement agency for government securities and money market instruments through the Negotiated Dealing System-Order Matching (NDS-OM) platform?",
+  "qHi": "भारत में कौन सी संस्था नेगोशिएटेड डीलिंग सिस्टम-ऑर्डर मैचिंग (NDS-OM) प्लेटफॉर्म के माध्यम से सरकारी प्रतिभूतियों और मुद्रा बाजार उपकरणों के लिए प्राथमिक निपटान एजेंसी के रूप में कार्य करती है?",
+  "optsEn": [
+   "Clearing Corporation of India Limited (CCIL)",
+   "National Stock Exchange (NSE)",
+   "National Payments Corporation of India (NPCI)",
+   "Securities and Exchange Board of India (SEBI)"
+  ],
+  "optsHi": [
+   "क्लियरिंग कॉर्पोरेशन ऑफ इंडिया लिमिटेड (CCIL)",
+   "नेशनल स्टॉक एक्सचेंज (NSE)",
+   "नेशनल पेमेंट्स कॉर्पोरेशन ऑफ इंडिया (NPCI)",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI)"
+  ],
+  "correct": 0,
+  "explainEn": "CCIL acts as the central counterparty and provides guaranteed clearing and settlement for transactions in government securities, money market instruments, and foreign exchange.",
+  "sourceHint": "Reserve Bank of India website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:28:32Z"
+ },
+ {
+  "id": "q_609b3d1f845262ff",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "According to the Negotiable Instruments Act, 1881, which section defines a 'Cheque' as a bill of exchange drawn on a specified banker and not expressed to be payable otherwise than on demand?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के अनुसार, कौन सी धारा 'चेक' को एक विशिष्ट बैंकर पर आरेखित विनिमय पत्र के रूप में परिभाषित करती है जो मांग के अलावा किसी अन्य तरीके से देय होने के लिए व्यक्त नहीं किया गया है?",
+  "optsEn": [
+   "Section 5",
+   "Section 6",
+   "Section 13",
+   "Section 25"
+  ],
+  "optsHi": [
+   "धारा 5",
+   "धारा 6",
+   "धारा 13",
+   "धारा 25"
+  ],
+  "correct": 1,
+  "explainEn": "Section 6 of the Negotiable Instruments Act, 1881 defines a cheque as a bill of exchange drawn on a specified banker and payable only on demand.",
+  "sourceHint": "Negotiable Instruments Act 1881 Text",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:28:32Z"
+ },
+ {
+  "id": "q_208e7f42cf87eda4",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of priority sector lending (PSL) in India, which category is designated for loans to individuals for educational purposes including vocational courses up to a specified limit?",
+  "qHi": "भारत में प्राथमिकता प्राप्त क्षेत्र को ऋण (PSL) के संदर्भ में, कौन सी श्रेणी एक निश्चित सीमा तक व्यावसायिक पाठ्यक्रमों सहित शैक्षणिक उद्देश्यों के लिए व्यक्तियों को ऋण के लिए निर्दिष्ट है?",
+  "optsEn": [
+   "Social Infrastructure",
+   "Export Credit",
+   "Education",
+   "Medium Enterprises"
+  ],
+  "optsHi": [
+   "सामाजिक बुनियादी ढांचा",
+   "निर्यात ऋण",
+   "शिक्षा",
+   "मध्यम उद्यम"
+  ],
+  "correct": 2,
+  "explainEn": "Loans to individuals for educational purposes, including vocational courses, up to ₹20 lakh are eligible for priority sector lending under the Education category.",
+  "sourceHint": "RBI Master Directions on Priority Sector Lending",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:28:32Z"
+ },
+ {
+  "id": "q_af043aba55942de7",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the maximum permissible limit for an individual transaction using the Immediate Payment Service (IMPS) channel, as prescribed by NPCI?",
+  "qHi": "NPCI द्वारा निर्धारित तत्काल भुगतान सेवा (IMPS) चैनल का उपयोग करके किसी व्यक्तिगत लेनदेन के लिए अधिकतम स्वीकार्य सीमा क्या है?",
+  "optsEn": [
+   "1 Lakh rupees",
+   "2 Lakh rupees",
+   "5 Lakh rupees",
+   "10 Lakh rupees"
+  ],
+  "optsHi": [
+   "1 लाख रुपये",
+   "2 लाख रुपये",
+   "5 लाख रुपये",
+   "10 लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "The Reserve Bank of India and NPCI increased the per-transaction limit for IMPS to ₹5 Lakhs for channels like internet banking, mobile banking apps, etc.",
+  "sourceHint": "NPCI Circulars",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:28:32Z"
+ },
+ {
+  "id": "q_b07f242527e4e9b0",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which monetary policy instrument involves the Reserve Bank of India purchasing or selling government securities in the open market to absorb or inject durable liquidity?",
+  "qHi": "किस मौद्रिक नीति उपकरण में टिकाऊ तरलता को अवशोषित करने या डालने के लिए खुले बाजार में सरकारी प्रतिभूतियों को खरीदना या बेचना भारतीय रिजर्व बैंक शामिल है?",
+  "optsEn": [
+   "Marginal Standing Facility",
+   "Open Market Operations",
+   "Bank Rate",
+   "Statutory Liquidity Ratio"
+  ],
+  "optsHi": [
+   "सीमांत स्थायी सुविधा",
+   "खुले बाजार की संचालन क्रियाएं (OMOs)",
+   "बैंक दर",
+   "सांविधिक तरलता अनुपात"
+  ],
+  "correct": 1,
+  "explainEn": "Open Market Operations (OMOs) are conducted by the RBI by way of sale or purchase of government securities to adjust the rupee liquidity conditions in the economy on a durable basis.",
+  "sourceHint": "RBI Report on Currency and Finance",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T06:28:32Z"
  }
 ]
