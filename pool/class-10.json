@@ -31106,5 +31106,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-14T18:06:51Z"
+ },
+ {
+  "id": "q_ffbcd0f683c20728",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which sector is the largest employing sector in India according to economic studies?",
+  "qHi": "आर्थिक अध्ययनों के अनुसार भारत में सबसे अधिक रोजगार देने वाला क्षेत्र कौन सा है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Public sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "तृतीयक क्षेत्र",
+   "सार्वजनिक क्षेत्र"
+  ],
+  "correct": 0,
+  "explainEn": "Agriculture, which falls under the primary sector, remains the largest employer in India.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 2: Sectors of the Indian Economy",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T22:25:48Z"
+ },
+ {
+  "id": "q_bcf6449eeb0efd26",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of power-sharing is represented by the division of power between the Union government and State governments in India?",
+  "qHi": "भारत में केंद्र सरकार और राज्य सरकार के बीच सत्ता के विभाजन द्वारा किस प्रकार की सत्ता की साझेदारी का प्रतिनिधित्व किया जाता है?",
+  "optsEn": [
+   "Horizontal distribution",
+   "Vertical distribution",
+   "Community government",
+   "Coalition government"
+  ],
+  "optsHi": [
+   "क्षैतिज वितरण",
+   "ऊर्ध्वाधर वितरण",
+   "सामुदायिक सरकार",
+   "गठबंधन सरकार"
+  ],
+  "correct": 1,
+  "explainEn": "Power sharing among governments at different levels (Union and States) is called vertical division of power.",
+  "sourceHint": "NCERT Class 10 Political Science, Chapter 1: Power Sharing",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T22:25:48Z"
  }
 ]

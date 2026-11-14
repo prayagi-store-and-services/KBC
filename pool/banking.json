@@ -39954,5 +39954,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-14T18:06:29Z"
+ },
+ {
+  "id": "q_a961475575ddbd72",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum deposit amount per account insured by DICGC in Indian scheduled banks?",
+  "qHi": "भारतीय अनुसूचित बैंकों में डीआईसीजीसी (DICGC) द्वारा प्रति खाता अधिकतम कितने तक की जमा राशि का बीमा किया जाता है?",
+  "optsEn": [
+   "One Lakh Rupees",
+   "Two Lakh Rupees",
+   "Four Lakh Rupees",
+   "Five Lakh Rupees"
+  ],
+  "optsHi": [
+   "एक लाख रुपये",
+   "दो लाख रुपये",
+   "चार लाख रुपये",
+   "पाँच लाख रुपये"
+  ],
+  "correct": 3,
+  "explainEn": "DICGC provides deposit insurance up to 5 lakh rupees per depositor per bank.",
+  "sourceHint": "Deposit Insurance and Credit Guarantee Corporation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T22:27:56Z"
+ },
+ {
+  "id": "q_429648d88493d4f4",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a specialized bank for providing refinance facilities for agriculture and rural development in India?",
+  "qHi": "निम्नलिखित में से कौन सा बैंक भारत में कृषि और ग्रामीण विकास के लिए पुनर्वित्त सुविधाएं प्रदान करने वाला एक विशिष्ट बैंक है?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "NHB"
+  ],
+  "optsHi": [
+   "सिडबी (SIDBI)",
+   "नाबार्ड (NABARD)",
+   "एक्जिम बैंक (EXIM Bank)",
+   "एनएचबी (NHB)"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) is the apex institution for agricultural and rural financing in India.",
+  "sourceHint": "NABARD Act, 1981",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T22:27:56Z"
+ },
+ {
+  "id": "q_1c4f616a6aa5b377",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of NEFT in the context of banking payment systems?",
+  "qHi": "बैंकिंग भुगतान प्रणाली के संदर्भ में NEFT का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "New Economy Finance Term",
+   "National Exchange Fund Transaction",
+   "Net Electronic Finance Transfer"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "न्यू इकोनॉमी फाइनेंस टर्म",
+   "नेशनल एक्सचेंज फंड ट्रांजैक्शन",
+   "नेट इलेक्ट्रॉनिक फाइनेंस ट्रांसफर"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, a nation-wide centralized payment system owned and operated by the RBI.",
+  "sourceHint": "RBI payment systems guide",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T22:27:56Z"
+ },
+ {
+  "id": "q_c8d39046e7e343b1",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following terms is used to describe a loan where the borrower does not make any principal or interest payments for a certain period?",
+  "qHi": "निम्नलिखित में से किस शब्द का उपयोग उस ऋण का वर्णन करने के लिए किया जाता है जहाँ उधारकर्ता एक निश्चित अवधि के लिए कोई मूलधन या ब्याज भुगतान नहीं करता है?",
+  "optsEn": [
+   "Mortgage",
+   "Moratorium",
+   "Overdraft",
+   "Depreciation"
+  ],
+  "optsHi": [
+   "बंधक (Mortgage)",
+   "मोरेटोरियम (Moratorium)",
+   "ओवरड्राफ्ट (Overdraft)",
+   "मूल्यह्रास (Depreciation)"
+  ],
+  "correct": 1,
+  "explainEn": "A moratorium period is a time during which a borrower is not required to make any repayment of the loan principal or interest.",
+  "sourceHint": "Banking glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T22:27:56Z"
  }
 ]

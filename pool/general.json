@@ -22734,5 +22734,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-14T18:06:35Z"
+ },
+ {
+  "id": "q_a75a4676b4ac7688",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "Children's Day (Jawaharlal Nehru)",
+  "qEn": "Which flower did Jawaharlal Nehru famously wear on his jacket, which became part of his signature look?",
+  "qHi": "जवाहरलाल नेहरू अपनी जैकेट पर कौन सा फूल लगाते थे जो उनकी पहचान बन गया था?",
+  "optsEn": [
+   "Lotus",
+   "Rose",
+   "Marigold",
+   "Jasmine"
+  ],
+  "optsHi": [
+   "कमल",
+   "गुलाब",
+   "गेंदा",
+   "चमेली"
+  ],
+  "correct": 1,
+  "explainEn": "Nehru frequently wore a fresh red or pink rose in the buttonhole of his coat jacket.",
+  "sourceHint": "NCERT history chapters",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T22:25:33Z"
+ },
+ {
+  "id": "q_7de9a2ddabe0a083",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "Children's Day (Jawaharlal Nehru)",
+  "qEn": "Before 1964, on which date was Children's Day officially observed in India in line with the international date?",
+  "qHi": "1964 से पहले, भारत में अंतरराष्ट्रीय तारीख के अनुसार बाल दिवस आधिकारिक तौर पर किस दिन मनाया जाता था?",
+  "optsEn": [
+   "20 November",
+   "1 June",
+   "20 October",
+   "15 August"
+  ],
+  "optsHi": [
+   "20 नवंबर",
+   "1 जून",
+   "20 अक्टूबर",
+   "15 अगस्त"
+  ],
+  "correct": 0,
+  "explainEn": "Prior to 1964, India observed Children's Day on November 20, coinciding with the Universal Children's Day declared by the United Nations.",
+  "sourceHint": "Government archives and PIB",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T22:25:33Z"
+ },
+ {
+  "id": "q_daa96031ad16b7f8",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": "Children's Day (Jawaharlal Nehru)",
+  "qEn": "Jawaharlal Nehru served as the independent nation's first holder of which political office?",
+  "qHi": "जवाहरलाल नेहरू स्वतंत्र भारत के पहले व्यक्ति थे जिन्होंने कौन सा राजनीतिक पद संभाला था?",
+  "optsEn": [
+   "President",
+   "Prime Minister",
+   "Home Minister",
+   "Vice President"
+  ],
+  "optsHi": [
+   "राष्ट्रपति",
+   "प्रधानमंत्री",
+   "गृह मंत्री",
+   "उपराष्ट्रपति"
+  ],
+  "correct": 1,
+  "explainEn": "Jawaharlal Nehru took oath as the first Prime Minister of independent India in 1947.",
+  "sourceHint": "Constitution of India records",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T22:25:33Z"
  }
 ]

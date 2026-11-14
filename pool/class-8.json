@@ -26710,5 +26710,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-14T18:06:46Z"
+ },
+ {
+  "id": "q_07178a972f2b3243",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who discovered the vaccine for smallpox?",
+  "qHi": "चेचक के टीके की खोज किसने की थी?",
+  "optsEn": [
+   "Alexander Fleming",
+   "Louis Pasteur",
+   "Edward Jenner",
+   "Robert Koch"
+  ],
+  "optsHi": [
+   "अलेक्जेंडर फ्लेमिंग",
+   "लुई पाश्चर",
+   "एडवर्ड जेनर",
+   "रॉबर्ट कोच"
+  ],
+  "correct": 2,
+  "explainEn": "Edward Jenner discovered the vaccine for smallpox in 1796.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T22:25:44Z"
+ },
+ {
+  "id": "q_f3ebcc52929b759a",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the unit of measurement for force?",
+  "qHi": "बल (फोर्स) को मापने की इकाई क्या है?",
+  "optsEn": [
+   "Joule",
+   "Pascal",
+   "Newton",
+   "Watt"
+  ],
+  "optsHi": [
+   "जूल",
+   "पास्कल",
+   "न्यूटन",
+   "वाट"
+  ],
+  "correct": 2,
+  "explainEn": "Force is measured in Newtons (N) in the International System of Units.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T22:25:44Z"
  }
 ]

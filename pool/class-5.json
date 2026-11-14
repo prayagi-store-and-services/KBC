@@ -31470,5 +31470,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-14T18:06:40Z"
+ },
+ {
+  "id": "q_1b86b0d622bf28b8",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which season in India is generally associated with the months of April, May, and June?",
+  "qHi": "भारत में आमतौर पर अप्रैल, मई और जून के महीनों से कौन सी ऋतु जुड़ी होती है?",
+  "optsEn": [
+   "Winter",
+   "Monsoon",
+   "Summer",
+   "Autumn"
+  ],
+  "optsHi": [
+   "सर्दी",
+   "मानसून",
+   "गर्मी",
+   "शरद"
+  ],
+  "correct": 2,
+  "explainEn": "April, May, and June are the hot weather months experiencing summer in India.",
+  "sourceHint": "NCERT Class 5 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T22:25:40Z"
+ },
+ {
+  "id": "q_3f524a7a2df7e455",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What do green plants use from sunlight to make their own food?",
+  "qHi": "हरे पौधे अपना भोजन बनाने के लिए सूर्य के प्रकाश से किसका उपयोग करते हैं?",
+  "optsEn": [
+   "Light energy",
+   "Sound energy",
+   "Magnetic energy",
+   "Wind energy"
+  ],
+  "optsHi": [
+   "प्रकाश ऊर्जा",
+   "ध्वनि ऊर्जा",
+   "चुंबकीय ऊर्जा",
+   "पवन ऊर्जा"
+  ],
+  "correct": 0,
+  "explainEn": "Plants capture light energy from the sun during photosynthesis to make food.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T22:25:40Z"
+ },
+ {
+  "id": "q_ae0c10fff40f0c79",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the main source of natural light on Earth during the daytime?",
+  "qHi": "दिन के समय पृथ्वी पर प्राकृतिक प्रकाश का मुख्य स्रोत क्या है?",
+  "optsEn": [
+   "Moon",
+   "Sun",
+   "Stars",
+   "Fire"
+  ],
+  "optsHi": [
+   "चंद्रमा",
+   "सूरज",
+   "तारे",
+   "आग"
+  ],
+  "correct": 1,
+  "explainEn": "The Sun is the closest star to Earth and provides light and heat during the day.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-14T22:25:40Z"
  }
 ]
