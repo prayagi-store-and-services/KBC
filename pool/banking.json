@@ -40486,5 +40486,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-15T06:36:24Z"
+ },
+ {
+  "id": "q_56db9160b5b52b89",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum character length of an IFSC (Indian Financial System Code) used in electronic fund transfers?",
+  "qHi": "इलेक्ट्रॉनिक फंड ट्रांसफर में उपयोग किए जाने वाले IFSC (इंडियन फाइनेंशियल सिस्टम कोड) की अधिकतम वर्ण लंबाई क्या है?",
+  "optsEn": [
+   "10 characters",
+   "11 characters",
+   "12 characters",
+   "9 characters"
+  ],
+  "optsHi": [
+   "10 वर्ण",
+   "11 वर्ण",
+   "12 वर्ण",
+   "9 वर्ण"
+  ],
+  "correct": 1,
+  "explainEn": "An IFSC is an 11-character alphanumeric code that uniquely identifies a bank branch participating in NEFT or RTGS.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T18:52:41Z"
+ },
+ {
+  "id": "q_466887dea171c7b4",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'C' stand for in the abbreviation 'KYC'?",
+  "qHi": "संक्षिप्त नाम 'KYC' में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Credit",
+   "Customer",
+   "Currency",
+   "Capital"
+  ],
+  "optsHi": [
+   "क्रेडिट",
+   "कस्टमर",
+   "करेंसी",
+   "कैपिटल"
+  ],
+  "correct": 1,
+  "explainEn": "KYC stands for Know Your Customer, a mandatory process by financial institutions to verify the identity of their clients.",
+  "sourceHint": "Reserve Bank of India Master Directions on KYC",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T18:52:41Z"
+ },
+ {
+  "id": "q_a3796ddf80f7c443",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization calculates the Gross Domestic Product (GDP) in India?",
+  "qHi": "भारत में सकल घरेलू उत्पाद (GDP) की गणना कौन सा संगठन करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Ministry of Finance",
+   "National Statistical Office",
+   "NITI Aayog"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "वित्त मंत्रालय",
+   "राष्ट्रीय सांख्यिकी कार्यालय",
+   "नीति आयोग"
+  ],
+  "correct": 2,
+  "explainEn": "The National Statistical Office (NSO), under the Ministry of Statistics and Programme Implementation, is responsible for macro-economic data collection and GDP estimation in India.",
+  "sourceHint": "Ministry of Statistics and Programme Implementation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T18:53:35Z"
+ },
+ {
+  "id": "q_48a00f3d1e3e6c68",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the Liquidity Adjustment Facility (LAF) used by the RBI?",
+  "qHi": "RBI द्वारा प्रयुक्त लिक्विडिटी एडजस्टमेंट फैसिलिटी (LAF) में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liability",
+   "Liquidity",
+   "Leverage",
+   "Loan"
+  ],
+  "optsHi": [
+   "दायित्व (Liability)",
+   "तरलता (Liquidity)",
+   "उत्तोलन (Leverage)",
+   "ऋण (Loan)"
+  ],
+  "correct": 1,
+  "explainEn": "LAF stands for Liquidity Adjustment Facility, which is a monetary policy tool used by the RBI to aid banks in adjusting their daily liquidity mismatches.",
+  "sourceHint": "RBI Monetary Policy Documentation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T18:53:35Z"
+ },
+ {
+  "id": "q_6ebf5a224d3002ba",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Priority Sector Lending (PSL) guidelines in India, what is the general overall target set for domestic commercial banks?",
+  "qHi": "भारत में प्राथमिकता प्राप्त क्षेत्र को ऋण (PSL) दिशानिर्देशों के तहत, घरेलू वाणिज्यिक बैंकों के लिए निर्धारित सामान्य समग्र लक्ष्य क्या है?",
+  "optsEn": [
+   "30 percent of Adjusted Net Bank Credit",
+   "40 percent of Adjusted Net Bank Credit",
+   "50 percent of Adjusted Net Bank Credit",
+   "60 percent of Adjusted Net Bank Credit"
+  ],
+  "optsHi": [
+   "समायोजित शुद्ध बैंक ऋण का 30 प्रतिशत",
+   "समायोजित शुद्ध बैंक ऋण का 40 प्रतिशत",
+   "समायोजित शुद्ध बैंक ऋण का 50 प्रतिशत",
+   "समायोजित शुद्ध बैंक ऋण का 60 प्रतिशत"
+  ],
+  "correct": 1,
+  "explainEn": "Domestic commercial banks and foreign banks with 20 branches and above are required to achieve a priority sector lending target of 40 percent of ANBC or Credit Equivalent Amount of Off-Balance Sheet Exposure, whichever is higher.",
+  "sourceHint": "RBI Master Directions on Priority Sector Lending",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T18:53:35Z"
  }
 ]

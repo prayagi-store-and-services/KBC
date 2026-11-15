@@ -31610,5 +31610,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-15T06:34:38Z"
+ },
+ {
+  "id": "q_ffabc1a759bb5885",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these is the national bird of India?",
+  "qHi": "इनमें से कौन सा भारत का राष्ट्रीय पक्षी है?",
+  "optsEn": [
+   "Crow",
+   "Peacock",
+   "Parrot",
+   "Pigeon"
+  ],
+  "optsHi": [
+   "कौवा",
+   "मोर",
+   "तोता",
+   "कबूतर"
+  ],
+  "correct": 1,
+  "explainEn": "The Indian peacock is the national bird of India.",
+  "sourceHint": "NCERT General Knowledge",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T18:52:49Z"
+ },
+ {
+  "id": "q_d70f45d658fdf0f7",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these plants spreads its seeds mainly through the explosion of its fruit pods?",
+  "qHi": "इनमें से कौन सा पौधा मुख्य रूप से अपने फलों के फटने से बीजों को फैलाता है?",
+  "optsEn": [
+   "Mango",
+   "Balsam",
+   "Coconut",
+   "Lotus"
+  ],
+  "optsHi": [
+   "आम",
+   "गुलमेहंदी (बाल्म)",
+   "नारियल",
+   "कमल"
+  ],
+  "correct": 1,
+  "explainEn": "Balsam and pea pods dry up and burst with a sudden jerk, scattering their seeds away from the parent plant.",
+  "sourceHint": "NCERT Class 5 Environmental Studies (EVS) - Looking Around, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T18:53:43Z"
+ },
+ {
+  "id": "q_6f9efdc3408881a5",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian stepwell is known for having rows of steps built into the sides of the water storage tank?",
+  "qHi": "किस पारंपरिक भारतीय बावड़ी (स्टेपवेल) को पानी के टैंक के किनारों पर सीढ़ियों की पंक्तियाँ होने के लिए जाना जाता है?",
+  "optsEn": [
+   "Baoli",
+   "Dam",
+   "Canal",
+   "Reservoir"
+  ],
+  "optsHi": [
+   "बावली",
+   "बांध",
+   "नहर",
+   "जलाशय"
+  ],
+  "correct": 0,
+  "explainEn": "Baolis or stepwells are traditional water harvesting structures in India featuring steps leading down to the water level.",
+  "sourceHint": "NCERT Class 5 EVS, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T18:53:43Z"
+ },
+ {
+  "id": "q_a4ac7ebc1570ac9a",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following animals has a very strong sense of smell and is often used by police to track suspects?",
+  "qHi": "निम्नलिखित में से किस जानवर में सूंघने की शक्ति बहुत तीव्र होती है और पुलिस द्वारा अक्सर संदिग्धों का पता लगाने के लिए उसका उपयोग किया जाता है?",
+  "optsEn": [
+   "Dog",
+   "Eagle",
+   "Sloth",
+   "Snake"
+  ],
+  "optsHi": [
+   "कुत्ता",
+   "चील",
+   "स्लॉथ",
+   "सांप"
+  ],
+  "correct": 0,
+  "explainEn": "Dogs have a highly developed sense of smell, making them useful for tracking scents in security and rescue work.",
+  "sourceHint": "NCERT Class 5 EVS, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T18:53:43Z"
+ },
+ {
+  "id": "q_e10e380fc539a49b",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which layer of the Earth is mostly made of hot, molten rocks and lies beneath the crust?",
+  "qHi": "पृथ्वी की कौन सी परत मुख्य रूप से गर्म, पिघली हुई चट्टानों से बनी है और पपड़ी (क्रस्ट) के नीचे स्थित है?",
+  "optsEn": [
+   "Core",
+   "Mantle",
+   "Atmosphere",
+   "Biosphere"
+  ],
+  "optsHi": [
+   "कोर (क्रोड)",
+   "मैंटल (प्रवार)",
+   "वायुमंडल",
+   "जीवमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The mantle is the layer between the Earth's crust and the core, consisting largely of silicate rocks in a hot, semi-fluid state.",
+  "sourceHint": "NCERT Class 5 Geography and Science curriculum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T18:53:43Z"
+ },
+ {
+  "id": "q_40b5eacee03255b0",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of map representation shows specific physical features like mountains, plateaus, and plains?",
+  "qHi": "किस प्रकार का मानचित्र पहाड़ों, पठार और मैदान जैसी विशिष्ट भौतिक विशेषताओं को दर्शाता है?",
+  "optsEn": [
+   "Political map",
+   "Physical map",
+   "Road map",
+   "Climate map"
+  ],
+  "optsHi": [
+   "राजनीतिक मानचित्र",
+   "भौतिक मानचित्र",
+   "सड़क मानचित्र",
+   "जलवायु मानचित्र"
+  ],
+  "correct": 1,
+  "explainEn": "Physical maps show natural relief features of the Earth such as mountains, plateaus, plains, rivers, and oceans.",
+  "sourceHint": "NCERT Class 5 Social Studies basics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T18:53:43Z"
+ },
+ {
+  "id": "q_1b16d9ad6446a6cc",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which insect lives in a large, highly organized colony with a queen, workers, and soldiers?",
+  "qHi": "कौन सा कीड़ा रानी, कामगारों और सैनिकों के साथ एक बड़ी, अत्यधिक संगठित कॉलोनी में रहता है?",
+  "optsEn": [
+   "Housefly",
+   "Ant",
+   "Mosquito",
+   "Butterfly"
+  ],
+  "optsHi": [
+   "घरेलू मक्खी",
+   "चींटी",
+   "मच्छर",
+   "तितली"
+  ],
+  "correct": 1,
+  "explainEn": "Ants are social insects that live in colonies with a clear division of labor among queens, workers, and drones.",
+  "sourceHint": "NCERT Class 5 EVS, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T18:53:43Z"
+ },
+ {
+  "id": "q_9f527a7df643ca92",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which instrument is commonly used by meteorologists to measure the amount of rainfall in a given area?",
+  "qHi": "मौसम विज्ञानियों द्वारा किसी दिए गए क्षेत्र में वर्षा की मात्रा मापने के लिए आमतौर पर किस उपकरण का उपयोग किया जाता है?",
+  "optsEn": [
+   "Thermometer",
+   "Barometer",
+   "Rain gauge",
+   "Anemometer"
+  ],
+  "optsHi": [
+   "थर्मामीटर",
+   "बैरोमीटर",
+   "वर्षा मापी (रेन गेज)",
+   "एनीमोमीटर"
+  ],
+  "correct": 2,
+  "explainEn": "A rain gauge is a meteorological instrument used to measure precipitation over a set period.",
+  "sourceHint": "NCERT Class 5 Science and Geography references",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T18:53:43Z"
  }
 ]

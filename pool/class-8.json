@@ -26794,5 +26794,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-15T06:33:47Z"
+ },
+ {
+  "id": "q_cee32f25a9732195",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What term is used to describe the clearing of forests over a large area?",
+  "qHi": "एक बड़े क्षेत्र में वनों को साफ करने की प्रक्रिया को क्या कहा जाता है?",
+  "optsEn": [
+   "Reforestation",
+   "Deforestation",
+   "Conservation",
+   "Afforestation"
+  ],
+  "optsHi": [
+   "पुनर्वनीकरण",
+   "वनों की कटाई",
+   "संरक्षण",
+   "वनरोपण"
+  ],
+  "correct": 1,
+  "explainEn": "Deforestation means clearing of forests and using that land for other purposes.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T18:52:52Z"
+ },
+ {
+  "id": "q_6626aa37787293e1",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who was chosen as the President of the Constituent Assembly of India before the adoption of the Constitution?",
+  "qHi": "संविधान को अपनाने से पहले भारत की संविधान सभा के अध्यक्ष के रूप में किसे चुना गया था?",
+  "optsEn": [
+   "Dr. B. R. Ambedkar",
+   "Jawaharlal Nehru",
+   "Dr. Rajendra Prasad",
+   "Sardar Vallabhbhai Patel"
+  ],
+  "optsHi": [
+   "डॉ. बी. आर. अंबेडकर",
+   "जवाहरलाल नेहरू",
+   "डॉ. राजेंद्र प्रसाद",
+   "सरदार वल्लभभाई पटेल"
+  ],
+  "correct": 2,
+  "explainEn": "Dr. Rajendra Prasad was elected as the permanent President of the Constituent Assembly in December 1946.",
+  "sourceHint": "NCERT Class 8 Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T18:53:48Z"
+ },
+ {
+  "id": "q_9ac99294bc65f7af",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the term used for the process of settling of heavier particles at the bottom of a liquid?",
+  "qHi": "किसी तरल के तल पर भारी कणों के नीचे बैठने की प्रक्रिया के लिए किस शब्द का उपयोग किया जाता है?",
+  "optsEn": [
+   "Decantation",
+   "Filtration",
+   "Sedimentation",
+   "Evaporation"
+  ],
+  "optsHi": [
+   "निस्तारण",
+   "निस्पंदन",
+   "अवसादन",
+   "वाष्पीकरण"
+  ],
+  "correct": 2,
+  "explainEn": "Sedimentation is the process where heavier insoluble particles in a liquid settle down at the bottom over time.",
+  "sourceHint": "NCERT Class 6 and 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T18:53:48Z"
  }
 ]

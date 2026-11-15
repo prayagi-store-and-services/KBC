@@ -22846,5 +22846,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-15T06:35:09Z"
+ },
+ {
+  "id": "q_637e30cd860613d4",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which national highway connects Delhi and Kolkata via Mathura and Varanasi?",
+  "qHi": "मथुरा और वाराणसी के रास्ते दिल्ली और कोलकाता को कौन सा राष्ट्रीय राजमार्ग जोड़ता है?",
+  "optsEn": [
+   "National Highway 8",
+   "National Highway 44",
+   "National Highway 19",
+   "National Highway 27"
+  ],
+  "optsHi": [
+   "राष्ट्रीय राजमार्ग 8",
+   "राष्ट्रीय राजमार्ग 44",
+   "राष्ट्रीय राजमार्ग 19",
+   "राष्ट्रीय राजमार्ग 27"
+  ],
+  "correct": 2,
+  "explainEn": "National Highway 19 (formerly part of historical NH 2) connects Delhi and Kolkata, passing through Agra, Mathura, Kanpur, Prayagraj, and Varanasi.",
+  "sourceHint": "Ministry of Road Transport and Highways",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T18:53:38Z"
  }
 ]
