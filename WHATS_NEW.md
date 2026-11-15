@@ -1,3 +1,7 @@
+## 1.1.44 - Narration no longer interrupts your media
+
+- When a video, song or any other media is playing, the quiz voice now stays silent instead of cutting in, and the game continues normally. Your media is never paused, ducked or taken over by the app.
+
 ## 1.1.43 - Cleaner update notices
 
 - Update checks now happen at most every 6 hours instead of once a day, so new versions are noticed sooner.
