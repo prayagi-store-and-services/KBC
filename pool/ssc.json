@@ -22902,5 +22902,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-14T22:27:26Z"
+ },
+ {
+  "id": "q_1f480f9c545f31a8",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which planet in the solar system has the maximum number of natural satellites (moons) as confirmed by recent astronomical data?",
+  "qHi": "हाल के खगोलीय डेटा के अनुसार सौर मंडल के किस ग्रह के पास प्राकृतिक उपग्रहों (चंद्रमाओं) की संख्या सबसे अधिक है?",
+  "optsEn": [
+   "Jupiter",
+   "Saturn",
+   "Uranus",
+   "Neptune"
+  ],
+  "optsHi": [
+   "बृहस्पति",
+   "शनि",
+   "यूरेनस",
+   "नेपच्यून"
+  ],
+  "correct": 1,
+  "explainEn": "Saturn has the highest number of confirmed natural satellites in our solar system.",
+  "sourceHint": "NASA Astronomy Data",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T06:35:00Z"
+ },
+ {
+  "id": "q_08c007ae317739e1",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organism is primarily responsible for biological nitrogen fixation in legume root nodules?",
+  "qHi": "दलहनी पौधों की जड़ों की गांठों में जैविक नाइट्रोजन स्थिरीकरण के लिए मुख्य रूप से कौन सा जीव जिम्मेदार है?",
+  "optsEn": [
+   "Azotobacter",
+   "Rhizobium",
+   "Clostridium",
+   "Anabaena"
+  ],
+  "optsHi": [
+   "एजोटोबैक्टर",
+   "राइजोबियम",
+   "क्लोस्ट्रिडियम",
+   "एनाबेना"
+  ],
+  "correct": 1,
+  "explainEn": "Rhizobium bacteria form a symbiotic relationship with the roots of legumes, fixing atmospheric nitrogen.",
+  "sourceHint": "NCERT Biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T06:35:00Z"
+ },
+ {
+  "id": "q_d509602dcc7e7877",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which river forms the famous Jog Falls, one of the significant waterfalls in India?",
+  "qHi": "कौन सी नदी प्रसिद्ध जोग जलप्रपात का निर्माण करती है, जो भारत के महत्वपूर्ण झरनों में से एक है?",
+  "optsEn": [
+   "Sharavathi",
+   "Kaveri",
+   "Narmada",
+   "Tapti"
+  ],
+  "optsHi": [
+   "शरावती",
+   "कावेरी",
+   "नर्मदा",
+   "ताप्ती"
+  ],
+  "correct": 0,
+  "explainEn": "The Jog Falls is created by the Sharavathi river located in Karnataka.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T06:35:00Z"
+ },
+ {
+  "id": "q_182163b121c26c76",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the chemical name of the compound commonly known as laughing gas?",
+  "qHi": "सामान्यतः लाफिंग गैस के नाम से जाने जाने वाले यौगिक का रासायनिक नाम क्या है?",
+  "optsEn": [
+   "Nitric oxide",
+   "Nitrous oxide",
+   "Nitrogen dioxide",
+   "Ammonium nitrate"
+  ],
+  "optsHi": [
+   "नाइट्रिक ऑक्साइड",
+   "नाइट्रस ऑक्साइड",
+   "नाइट्रोजन डाइऑक्साइड",
+   "अमोनियम नाइट्रेट"
+  ],
+  "correct": 1,
+  "explainEn": "Nitrous oxide (N2O) is a chemical compound commonly known as laughing gas due to its euphoric effects upon inhalation.",
+  "sourceHint": "NCERT Chemistry",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T06:35:00Z"
+ },
+ {
+  "id": "q_40b9730433b9b399",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which biogeographic zone in India contains the cold desert ecosystem of Ladakh and parts of the Himalayas?",
+  "qHi": "भारत के किस जैव-भौगोलिक क्षेत्र में लद्दाख और हिमालय के कुछ हिस्सों का शीत मरुस्थल पारिस्थितिकी तंत्र शामिल है?",
+  "optsEn": [
+   "The Trans-Himalayas",
+   "The Western Himalayas",
+   "The North-East India",
+   "The Semi-Arid Zone"
+  ],
+  "optsHi": [
+   "ट्रांस-हिमालय",
+   "पश्चिमी हिमालय",
+   "उत्तर-पूर्व भारत",
+   "अर्ध-शुष्क क्षेत्र"
+  ],
+  "correct": 0,
+  "explainEn": "The Trans-Himalayas biogeographic zone covers the high-altitude cold deserts of Ladakh and Lahul-Spiti.",
+  "sourceHint": "Wildlife Institute of India Biogeographic Classification / NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T06:36:14Z"
+ },
+ {
+  "id": "q_cc7dedd3e68a264f",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian monetary policy, the term 'MSF' stands for which of the following?",
+  "qHi": "भारतीय मौद्रिक नीति के संदर्भ में, 'MSF' शब्द का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Maximum Stability Fund",
+   "Marginal Standing Facility",
+   "Monetary Security Framework",
+   "Minimum Statutory Foundation"
+  ],
+  "optsHi": [
+   "मैक्सिमम स्टेबिलिटी फंड",
+   "मार्जिनल स्टैंडिंग फैसिलिटी",
+   "मॉनेटरी सिक्योरिटी फ्रेमवर्क",
+   "मिनिमम स्टेट्यूरी फाउंडेशन"
+  ],
+  "correct": 1,
+  "explainEn": "Marginal Standing Facility is a window for scheduled banks to borrow overnight from the RBI in emergency situations.",
+  "sourceHint": "Reserve Bank of India (RBI) Publications / NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T06:36:14Z"
+ },
+ {
+  "id": "q_feba6d315d1d8527",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Indian Constitution, the power to issue writs for the enforcement of Fundamental Rights is vested in:",
+  "qHi": "भारतीय संविधान के तहत, मौलिक अधिकारों के प्रवर्तन के लिए रिट जारी करने की शक्ति किसमें निहित है?",
+  "optsEn": [
+   "Supreme Court only",
+   "High Courts only",
+   "Both Supreme Court and High Courts",
+   "President of India"
+  ],
+  "optsHi": [
+   "केवल उच्चतम न्यायालय",
+   "केवल उच्च न्यायालय",
+   "उच्चतम न्यायालय और उच्च न्यायालय दोनों",
+   "भारत के राष्ट्रपति"
+  ],
+  "correct": 2,
+  "explainEn": "Under Article 32, the Supreme Court, and under Article 226, the High Courts have the power to issue writs.",
+  "sourceHint": "Constitution of India, Articles 32 and 226 / M. Laxmikanth Indian Polity",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T06:36:14Z"
+ },
+ {
+  "id": "q_a845777c03cf045c",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which soil type, formed under conditions of high temperature and heavy rainfall with alternate wet and dry periods, is rich in iron and aluminium oxides?",
+  "qHi": "उच्च तापमान और भारी वर्षा तथा वैकल्पिक गीली और सूखी अवधि की स्थिति में बनने वाली किस मिट्टी में आयरन और एल्युमिनियम ऑक्साइड प्रचुर मात्रा में होते हैं?",
+  "optsEn": [
+   "Alluvial soil",
+   "Black soil",
+   "Laterite soil",
+   "Arid soil"
+  ],
+  "optsHi": [
+   "जलोढ़ मिट्टी",
+   "काली मिट्टी",
+   "लैटेराइट मिट्टी",
+   "शुष्क मिट्टी"
+  ],
+  "correct": 2,
+  "explainEn": "Laterite soils develop in areas with high temperature and heavy rainfall, leading to intense leaching which leaves behind iron and aluminium oxides.",
+  "sourceHint": "NCERT Geography - Contemporary India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T06:36:14Z"
  }
 ]

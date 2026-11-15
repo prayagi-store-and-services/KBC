@@ -26766,5 +26766,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-14T22:25:44Z"
+ },
+ {
+  "id": "q_e5383bb6307ef590",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who drafted the Indian Constitution?",
+  "qHi": "भारतीय संविधान का मसौदा किसने तैयार किया था?",
+  "optsEn": [
+   "Drafting Committee headed by B. R. Ambedkar",
+   "Mahatma Gandhi",
+   "Jawaharlal Nehru",
+   "Sardar Vallabhbhai Patel"
+  ],
+  "optsHi": [
+   "बी. आर. अंबेडकर की अध्यक्षता वाली प्रारूप समिति",
+   "महात्मा गांधी",
+   "जवाहरलाल नेहरू",
+   "सरदार वल्लभभाई पटेल"
+  ],
+  "correct": 0,
+  "explainEn": "The Drafting Committee, chaired by Dr. B. R. Ambedkar, was tasked with preparing a draft of the new Constitution.",
+  "sourceHint": "NCERT Class 8 Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T06:33:47Z"
  }
 ]

@@ -31554,5 +31554,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-14T22:25:40Z"
+ },
+ {
+  "id": "q_163bdbe449a2dbaa",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which part of a plant is normally found under the soil and absorbs water?",
+  "qHi": "पौधे का कौन सा भाग आमतौर पर मिट्टी के नीचे पाया जाता है और पानी सोखता है?",
+  "optsEn": [
+   "Leaf",
+   "Root",
+   "Flower",
+   "Stem"
+  ],
+  "optsHi": [
+   "पत्ती",
+   "जड़",
+   "फूल",
+   "तना"
+  ],
+  "correct": 1,
+  "explainEn": "Roots grow underground to anchor the plant and absorb water and minerals.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T06:34:38Z"
+ },
+ {
+  "id": "q_bce74e5f2cb6350a",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these animals is known to migrate thousands of miles across countries?",
+  "qHi": "इनमें से कौन सा जानवर देशों भर में हजारों मील प्रवास करने के लिए जाना जाता है?",
+  "optsEn": [
+   "Earthworm",
+   "Housefly",
+   "Migratory Bird",
+   "Garden Snail"
+  ],
+  "optsHi": [
+   "केंचुआ",
+   "घरेलू मक्खी",
+   "प्रवासी पक्षी",
+   "बगीचे का घोंघा"
+  ],
+  "correct": 2,
+  "explainEn": "Birds like pelicans and flamingos fly long distances every year to escape extreme weather.",
+  "sourceHint": "NCERT Class 5 EVS Chapter on Animal Life",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T06:34:38Z"
  }
 ]

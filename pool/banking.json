@@ -40066,5 +40066,425 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-14T22:27:56Z"
+ },
+ {
+  "id": "q_208700f03eae272e",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'I' stand for in the term IFSC, used in electronic fund transfers in India?",
+  "qHi": "भारत में इलेक्ट्रॉनिक फंड ट्रांसफर में प्रयुक्त होने वाले शब्द IFSC में अक्षर 'I' का क्या अर्थ है?",
+  "optsEn": [
+   "Indian",
+   "International",
+   "Interbank",
+   "Institutional"
+  ],
+  "optsHi": [
+   "इंडियन",
+   "इंटरनेशनल",
+   "इंटरबैंक",
+   "इंस्टीट्यूशनल"
+  ],
+  "correct": 0,
+  "explainEn": "IFSC stands for Indian Financial System Code, which is an 11-character alphanumeric code used for NEFT, RTGS, and IMPS transactions.",
+  "sourceHint": "Reserve Bank of India website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T06:34:31Z"
+ },
+ {
+  "id": "q_723f604b4c2a179e",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a wholly owned subsidiary of the Reserve Bank of India?",
+  "qHi": "निम्नलिखित में से कौन भारतीय रिजर्व बैंक की पूर्ण स्वामित्व वाली सहायक कंपनी है?",
+  "optsEn": [
+   "SIDBI",
+   "NHB",
+   "RBIH",
+   "EXIM Bank"
+  ],
+  "optsHi": [
+   "सिडबी",
+   "एनएचबी",
+   "आरबीआईएच",
+   "एक्सिम बैंक"
+  ],
+  "correct": 2,
+  "explainEn": "Reserve Bank Innovation Hub (RBIH) is a wholly owned subsidiary of RBI set up to promote innovation in the financial sector.",
+  "sourceHint": "Reserve Bank of India annual report",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T06:34:31Z"
+ },
+ {
+  "id": "q_155fc3388e573347",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'S' stand for in the MSME classification of enterprises in India?",
+  "qHi": "भारत में उद्यमों के MSME वर्गीकरण में 'S' का क्या अर्थ है?",
+  "optsEn": [
+   "Small",
+   "Secure",
+   "State",
+   "Standard"
+  ],
+  "optsHi": [
+   "स्मॉल",
+   "सिक्योर",
+   "स्टेट",
+   "स्टैंडर्ड"
+  ],
+  "correct": 0,
+  "explainEn": "MSME stands for Micro, Small and Medium Enterprises.",
+  "sourceHint": "Ministry of Micro, Small and Medium Enterprises, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T06:34:31Z"
+ },
+ {
+  "id": "q_175e597bc9ae0f78",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization issues the Sovereign Gold Bonds on behalf of the Government of India?",
+  "qHi": "भारत सरकार की ओर से सॉवरेन गोल्ड बॉन्ड कौन सा संगठन जारी करता है?",
+  "optsEn": [
+   "State Bank of India",
+   "Reserve Bank of India",
+   "Ministry of Finance",
+   "Security Printing and Minting Corporation of India"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "भारतीय रिजर्व बैंक",
+   "वित्त मंत्रालय",
+   "सिक्योरिटी प्रिंटिंग एंड मिंटिंग कॉरपोरेशन ऑफ इंडिया"
+  ],
+  "correct": 1,
+  "explainEn": "Sovereign Gold Bonds are issued by the Reserve Bank of India on behalf of the Government of India.",
+  "sourceHint": "RBI Frequently Asked Questions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T06:34:31Z"
+ },
+ {
+  "id": "q_625b9a809e57993f",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which public sector bank in India was merged into Punjab National Bank along with Oriental Bank of Commerce?",
+  "qHi": "भारत के किस सार्वजनिक क्षेत्र के बैंक का ओरिएंटल बैंक ऑफ कॉमर्स के साथ पंजाब नेशनल बैंक में विलय कर दिया गया था?",
+  "optsEn": [
+   "Syndicate Bank",
+   "Corporation Bank",
+   "United Bank of India",
+   "Dena Bank"
+  ],
+  "optsHi": [
+   "सिंडिकेट बैंक",
+   "कॉर्पोरेशन बैंक",
+   "यूनाइटेड बैंक ऑफ इंडिया",
+   "देना बैंक"
+  ],
+  "correct": 2,
+  "explainEn": "Oriental Bank of Commerce and United Bank of India were amalgamated into Punjab National Bank effective April 1, 2020.",
+  "sourceHint": "Department of Financial Services, Ministry of Finance",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T06:34:31Z"
+ },
+ {
+  "id": "q_058f06c0406dd9ba",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'C' stand for in the abbreviation 'CASA' as used in banking terminology?",
+  "qHi": "बैंकिंग शब्दावली में प्रयुक्त संक्षिप्त नाम 'CASA' में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Current",
+   "Capital",
+   "Credit",
+   "Collateral"
+  ],
+  "optsHi": [
+   "करेंट",
+   "कैपिटल",
+   "क्रेडिट",
+   "कोललेटरल"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account Savings Account, which represents the bank's low-cost deposit base.",
+  "sourceHint": "RBI Glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T06:35:05Z"
+ },
+ {
+  "id": "q_8d6d80dc3a9f4be6",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of unemployment is typically caused by a mismatch between the skills possessed by workers and the skills demanded by employers?",
+  "qHi": "किस प्रकार की बेरोजगारी आमतौर पर श्रमिकों के पास मौजूद कौशल और नियोक्ताओं द्वारा मांगे जाने वाले कौशल के बीच बेमेल के कारण होती है?",
+  "optsEn": [
+   "Frictional unemployment",
+   "Cyclical unemployment",
+   "Structural unemployment",
+   "Seasonal unemployment"
+  ],
+  "optsHi": [
+   "घर्षण बेरोजगारी",
+   "चक्रीय बेरोजगारी",
+   "संरचनात्मक बेरोजगारी",
+   "मौसमी बेरोजगारी"
+  ],
+  "correct": 2,
+  "explainEn": "Structural unemployment occurs due to industrial reorganization, technological change, or a mismatch of skills.",
+  "sourceHint": "NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T06:35:05Z"
+ },
+ {
+  "id": "q_bd097a35e1e43dda",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque becomes invalid for payment after the expiry of how many months from the date of its issuance, as per RBI guidelines?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, आरबीआई के दिशानिर्देशों के अनुसार, जारी करने की तारीख से कितने महीने बीत जाने के बाद चेक भुगतान के लिए अमान्य हो जाता है?",
+  "optsEn": [
+   "1 month",
+   "3 months",
+   "6 months",
+   "12 months"
+  ],
+  "optsHi": [
+   "1 महीना",
+   "3 महीने",
+   "6 महीने",
+   "12 महीने"
+  ],
+  "correct": 1,
+  "explainEn": "RBI directed that the validity period of cheques, drafts, and pay orders be reduced from 6 months to 3 months.",
+  "sourceHint": "RBI Notifications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T06:35:05Z"
+ },
+ {
+  "id": "q_f39adeb8345500bf",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which article of the Indian Constitution deals with the Annual Financial Statement, commonly known as the Budget?",
+  "qHi": "भारतीय संविधान का कौन सा अनुच्छेद वार्षिक वित्तीय विवरण से संबंधित है, जिसे आमतौर पर बजट के रूप में जाना जाता है?",
+  "optsEn": [
+   "Article 110",
+   "Article 112",
+   "Article 114",
+   "Article 116"
+  ],
+  "optsHi": [
+   "अनुच्छेद 110",
+   "अनुच्छेद 112",
+   "अनुच्छेद 114",
+   "अनुच्छेद 116"
+  ],
+  "correct": 1,
+  "explainEn": "Article 112 of the Constitution of India requires the government to place an Annual Financial Statement before Parliament.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T06:35:05Z"
+ },
+ {
+  "id": "q_ff5699b34f64f867",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of international trade, what does 'FOB' stand for?",
+  "qHi": "अंतर्राष्ट्रीय व्यापार के संदर्भ में, 'FOB' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Free on Board",
+   "Freight on Board",
+   "Foreign outward Bill",
+   "Financing of Business"
+  ],
+  "optsHi": [
+   "फ्री ऑन बोर्ड",
+   "फ्रेट ऑन बोर्ड",
+   "फॉरेन आउटवर्ड बिल",
+   "फायनांसिंग ऑफ बिजनेस"
+  ],
+  "correct": 0,
+  "explainEn": "FOB stands for Free on Board, a trade term indicating when the liability of goods shifts from seller to buyer.",
+  "sourceHint": "International Chamber of Commerce Incoterms",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T06:35:05Z"
+ },
+ {
+  "id": "q_e1ec8481e304587d",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following sections of the Reserve Bank of India Act, 1934 empowers the Central Government to supersede the Central Board of Directors of the RBI after consulting the Governor?",
+  "qHi": "भारतीय रिजर्व बैंक अधिनियम, 1934 की निम्नलिखित में से कौन सी धारा केंद्र सरकार को गवर्नर के परामर्श के बाद आरबीआई के केंद्रीय निदेशक मंडल को अधිभावी (supersede) करने का अधिकार देती है?",
+  "optsEn": [
+   "Section 7",
+   "Section 17",
+   "Section 30",
+   "Section 45"
+  ],
+  "optsHi": [
+   "धारा 7",
+   "धारा 17",
+   "धारा 30",
+   "धारा 45"
+  ],
+  "correct": 0,
+  "explainEn": "Section 7 of the RBI Act, 1934 gives the Central Government the power to issue directions to the RBI and supersede its board if necessary.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T06:36:24Z"
+ },
+ {
+  "id": "q_5383cb04690b4221",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under Basel III norms, what is the minimum Capital Conservation Buffer (CCB) requirement that banks must maintain in the form of Common Equity Tier 1 capital, as mandated by the RBI?",
+  "qHi": "बेसल III मानदंडों के तहत, आरबीआई द्वारा अनिवार्य रूप से बैंकों को कॉमन इक्विटी टियर 1 पूंजी के रूप में न्यूनतम पूंजी संरक्षण बफर (CCB) आवश्यकता कितनी रखनी होगी?",
+  "optsEn": [
+   "1.50 percent",
+   "2.00 percent",
+   "2.50 percent",
+   "3.00 percent"
+  ],
+  "optsHi": [
+   "1.50 प्रतिशत",
+   "2.00 प्रतिशत",
+   "2.50 प्रतिशत",
+   "3.00 प्रतिशत"
+  ],
+  "correct": 2,
+  "explainEn": "RBI guidelines on Basel III capital regulations stipulate a Capital Conservation Buffer of 2.50% of risk-weighted assets.",
+  "sourceHint": "RBI Master Circular on Basel III Capital Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T06:36:24Z"
+ },
+ {
+  "id": "q_1e5bc163e8df3397",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which institutional body in India is statutorily mandated to calculate and release the National Accounts Statistics, including Gross Domestic Product (GDP) data?",
+  "qHi": "सकल घरेलू उत्पाद (GDP) डेटा सहित राष्ट्रीय लेखा आंकड़े (National Accounts Statistics) की गणना और जारी करने के लिए भारत में किस संस्थागत निकाय को वैधानिक रूप से अधिकृत किया गया है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "NITI Aayog",
+   "National Statistical Office",
+   "Controller General of Accounts"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "नीति आयोग",
+   "राष्ट्रीय सांख्यिकी कार्यालय",
+   "महालेखा नियंत्रक"
+  ],
+  "correct": 2,
+  "explainEn": "The National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation is responsible for compiling and publishing GDP data in India.",
+  "sourceHint": "Ministry of Statistics and Programme Implementation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T06:36:24Z"
+ },
+ {
+  "id": "q_2d4cb3c77b136d07",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organization in India acts as the central counterparty for clearing and settling trades in government securities, money market instruments, and foreign exchange derivatives?",
+  "qHi": "भारत में कौन सा संगठन सरकारी प्रतिभूतियों, मुद्रा बाजार उपकरणों और विदेशी मुद्रा डेरिवेटिव में ट्रेडों की निकासी और निपटान के लिए केंद्रीय प्रतिपक्ष (central counterparty) के रूप में कार्य करता है?",
+  "optsEn": [
+   "Clearing Corporation of India Limited",
+   "National Payments Corporation of India",
+   "Securities and Exchange Board of India",
+   "Deposit Insurance and Credit Guarantee Corporation"
+  ],
+  "optsHi": [
+   "क्लियरिंग कॉर्पोरेशन ऑफ़ इंडिया लिमिटेड",
+   "नेशनल पेमेंट्स कॉर्पोरेशन ऑफ़ इंडिया",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "डिपॉजिट इंश्योरेंस एंड क्रेडिट गारंटी कॉरपोरेशन"
+  ],
+  "correct": 0,
+  "explainEn": "The Clearing Corporation of India Limited (CCIL) provides clearing and settlement services for transactions in money, debt, and foreign exchange markets.",
+  "sourceHint": "RBI Annual Report and CCIL official portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T06:36:24Z"
+ },
+ {
+  "id": "q_e8ed11e6dadb6e52",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, what is the statutory definition of a 'Cheque' provided within the enactment?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, अधिनियम के भीतर दिए गए 'चेक' की कानूनी परिभाषा क्या है?",
+  "optsEn": [
+   "A bill of exchange drawn on a specified banker and payable on demand",
+   "Any unconditional order in writing addressed by one person to another",
+   "A promissory note payable to order or bearer at a fixed future date",
+   "An electronic document processed by an automated clearing house"
+  ],
+  "optsHi": [
+   "एक विशिष्ट बैंकर पर आरेखित और मांग पर देय विनिमय पत्र",
+   "एक व्यक्ति द्वारा दूसरे को संबोधित किसी भी लिखित बिना शर्त आदेश",
+   "एक निश्चित भविष्य की तारीख में आदेश या वाहक को देय वचन पत्र",
+   "एक स्वचालित समाशोधन गृह द्वारा संसाधित एक इलेक्ट्रॉनिक दस्तावेज"
+  ],
+  "correct": 0,
+  "explainEn": "Section 6 of the Negotiable Instruments Act, 1881 defines a cheque as a bill of exchange drawn on a specified banker and expressed to be payable otherwise than on demand.",
+  "sourceHint": "Negotiable Instruments Act, 1881, Section 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-15T06:36:24Z"
  }
 ]
