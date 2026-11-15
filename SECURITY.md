@@ -1,3 +1,7 @@
+## v1.1.44 - narration skips while media plays
+
+Behaviour change only. When any other media (video or audio) is playing, all quiz narration (questions, options, results, bilingual sequential reading, final result, voice test and the festival greeting) is skipped instead of interrupting: the app no longer pauses, ducks or requests audio focus over the user's media. Skipped narration still fires its completion callback, so game flow, timers and scoring are unchanged. Detection uses AudioManager.isMusicActive plus active playback configurations on API 26+, needs no new permission, and fails closed - when playback state cannot be read, narration is skipped. The check runs at admission and again right before every speak, including after asynchronous TTS initialisation and between the Hindi and English legs. Honest limits: silent or muted video, cast/remote playback and OEM-hidden playback sessions can be invisible to these signals, so narration may still play in those cases; no physical-device verification is claimed. No new permission, dependency, network call, storage or telemetry.
+
 ## v1.1.43 - update notice cadence
 
 Presentation/cadence change only. Update checks remain metadata-only (one small GitHub releases read; artifact fields are never read, nothing downloads). Cadence rises to at most every 6 hours with the same backoff; the settings card hides update status unless a newer version verifies. No new permission, dependency, endpoint or stored data. MainActivity and UI files are untouched (owned by the parallel KBC workstream).

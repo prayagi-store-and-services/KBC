@@ -6,6 +6,7 @@ import android.media.AudioManager
 import android.os.Build
 import android.speech.tts.TextToSpeech
 import android.util.Log
+import com.example.util.MediaPlaybackGuard
 import kotlinx.coroutines.CompletableDeferred
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
@@ -30,9 +31,15 @@ class SpeechNarrator(context: Context) : TextToSpeech.OnInitListener {
     private val appContext = context.applicationContext
     private val scope = CoroutineScope(Dispatchers.Main + Job())
 
-    // Ecosystem rule (19 Oct 2026): while the app speaks it holds transient audio focus, so
-    // other media pauses (not mutes) and resumes afterwards. A watchdog releases the focus
-    // even when no utterance callback ever arrives.
+    // Standing rule (Deepak, 15 Nov 2026): while any media (video/audio) plays, narration is
+    // SKIPPED - the app never interrupts, pauses, ducks or requests audio focus over the user's
+    // media. The detector fails closed (unsure means skip) and is consulted at admission and
+    // again right before every speak. Focus is requested only when no media is detected; a
+    // watchdog releases it even when no utterance callback ever arrives.
+    private fun isMediaPlaying(): Boolean = try {
+        MediaPlaybackGuard.isMediaPlaying(appContext)
+    } catch (_: Exception) { true }
+
     private val audioManager: AudioManager? = try {
         appContext.getSystemService(Context.AUDIO_SERVICE) as? AudioManager
     } catch (_: Exception) { null }
@@ -156,6 +163,11 @@ class SpeechNarrator(context: Context) : TextToSpeech.OnInitListener {
         hostGender: String = "FEMALE",
         onComplete: (() -> Unit)? = null
     ) {
+        if (isMediaPlaying()) {
+            Log.d("SpeechNarrator", "TTS_SKIPPED: media playing, question narration skipped")
+            onComplete?.invoke()
+            return
+        }
         stop()
 
         scope.launch {
@@ -233,11 +245,16 @@ class SpeechNarrator(context: Context) : TextToSpeech.OnInitListener {
                     }
                 })
 
-                acquireSpeechFocus()
-                val result = tts?.speak(text, TextToSpeech.QUEUE_FLUSH, null, utteranceId)
-                if (result == TextToSpeech.ERROR) {
-                    Log.e("SpeechNarrator", "TTS_FAILED: speak() returned ERROR for $utteranceId")
-                    notifyComplete("SPEAK_CALL_ERROR")
+                if (isMediaPlaying()) {
+                    Log.d("SpeechNarrator", "TTS_SKIPPED: media started before question utterance $utteranceId")
+                    notifyComplete("SKIPPED_MEDIA_PLAYING")
+                } else {
+                    acquireSpeechFocus()
+                    val result = tts?.speak(text, TextToSpeech.QUEUE_FLUSH, null, utteranceId)
+                    if (result == TextToSpeech.ERROR) {
+                        Log.e("SpeechNarrator", "TTS_FAILED: speak() returned ERROR for $utteranceId")
+                        notifyComplete("SPEAK_CALL_ERROR")
+                    }
                 }
             } catch (e: Exception) {
                 Log.e("SpeechNarrator", "TTS_FAILED: Exception during speakQuestionBounded", e)
@@ -248,6 +265,11 @@ class SpeechNarrator(context: Context) : TextToSpeech.OnInitListener {
     }
 
     fun speakSequential(hindiText: String, englishText: String, onComplete: (() -> Unit)? = null) {
+        if (isMediaPlaying()) {
+            Log.d("SpeechNarrator", "TTS_SKIPPED: media playing, sequential narration skipped")
+            onComplete?.invoke()
+            return
+        }
         val utteranceHi = "Tark_Hi_${System.currentTimeMillis()}"
         val utteranceEn = "Tark_En_${System.currentTimeMillis()}"
         val isCompleted = AtomicBoolean(false)
@@ -262,7 +284,9 @@ class SpeechNarrator(context: Context) : TextToSpeech.OnInitListener {
             override fun onStart(id: String?) {}
             override fun onDone(id: String?) {
                 if (id == utteranceHi) {
-                    try {
+                    if (isMediaPlaying()) {
+                        notifyComplete()
+                    } else try {
                         tts?.language = Locale.US
                         tts?.speak(englishText, TextToSpeech.QUEUE_FLUSH, null, utteranceEn)
                     } catch (_: Exception) {
@@ -274,7 +298,9 @@ class SpeechNarrator(context: Context) : TextToSpeech.OnInitListener {
             }
             override fun onError(id: String?) {
                 if (id == utteranceHi) {
-                    try {
+                    if (isMediaPlaying()) {
+                        notifyComplete()
+                    } else try {
                         tts?.language = Locale.US
                         tts?.speak(englishText, TextToSpeech.QUEUE_FLUSH, null, utteranceEn)
                     } catch (_: Exception) {
@@ -289,6 +315,10 @@ class SpeechNarrator(context: Context) : TextToSpeech.OnInitListener {
         try {
             tts?.language = Locale.forLanguageTag("hi-IN")
             tts?.setSpeechRate(1.0f)
+            if (isMediaPlaying()) {
+                notifyComplete()
+                return
+            }
             acquireSpeechFocus()
             val res = tts?.speak(hindiText, TextToSpeech.QUEUE_FLUSH, null, utteranceHi)
             if (res == TextToSpeech.ERROR) {
@@ -304,11 +334,13 @@ class SpeechNarrator(context: Context) : TextToSpeech.OnInitListener {
      */
     fun speakOptionInGameTimer(text: String, languageMode: String = "ENGLISH") {
         if (!isReady || tts == null) return
+        if (isMediaPlaying()) return
         try {
             val locale = getLocaleForMode(languageMode)
             tts?.language = locale
             tts?.setSpeechRate(1.25f)
             val utteranceId = "Tark_Opt_${System.currentTimeMillis()}"
+            if (isMediaPlaying()) return
             acquireSpeechFocus()
             releaseFocusAfterEstimate(text)
             tts?.speak(text, TextToSpeech.QUEUE_FLUSH, null, utteranceId)
@@ -321,6 +353,10 @@ class SpeechNarrator(context: Context) : TextToSpeech.OnInitListener {
      */
     fun speakResultAnnouncement(isCorrect: Boolean, languageMode: String = "ENGLISH", hostGender: String = "FEMALE", onComplete: (() -> Unit)? = null) {
         if (!isReady || tts == null) {
+            onComplete?.invoke()
+            return
+        }
+        if (isMediaPlaying()) {
             onComplete?.invoke()
             return
         }
@@ -353,6 +389,10 @@ class SpeechNarrator(context: Context) : TextToSpeech.OnInitListener {
                     if (id == utteranceId) notifyComplete()
                 }
             })
+            if (isMediaPlaying()) {
+                notifyComplete()
+                return
+            }
             acquireSpeechFocus()
             val result = tts?.speak(announcement, TextToSpeech.QUEUE_FLUSH, null, utteranceId)
             if (result == TextToSpeech.ERROR) {
@@ -370,6 +410,7 @@ class SpeechNarrator(context: Context) : TextToSpeech.OnInitListener {
      */
     fun speakSolutionNatural(text: String, languageMode: String = "ENGLISH") {
         if (!isReady || tts == null) return
+        if (isMediaPlaying()) return
         stop()
         try {
             val locale = getLocaleForMode(languageMode)
@@ -377,6 +418,7 @@ class SpeechNarrator(context: Context) : TextToSpeech.OnInitListener {
             tts?.setSpeechRate(0.96f)
             tts?.setPitch(1.02f)
             val utteranceId = "Tark_Solution_${System.currentTimeMillis()}"
+            if (isMediaPlaying()) return
             acquireSpeechFocus()
             releaseFocusAfterEstimate(text)
             tts?.speak(text, TextToSpeech.QUEUE_FLUSH, null, utteranceId)
@@ -391,6 +433,7 @@ class SpeechNarrator(context: Context) : TextToSpeech.OnInitListener {
         gender: String
     ) {
         if (!isReady || tts == null) return
+        if (isMediaPlaying()) return
         stop()
         try {
             val locale = getLocaleForMode(language)
@@ -404,6 +447,7 @@ class SpeechNarrator(context: Context) : TextToSpeech.OnInitListener {
                 "You answered $correct questions correctly, and $incorrect incorrectly. Your total points are $pointsWon."
             }
             val utteranceId = "Final_Result_${System.currentTimeMillis()}"
+            if (isMediaPlaying()) return
             acquireSpeechFocus()
             releaseFocusAfterEstimate(text)
             tts?.speak(text, TextToSpeech.QUEUE_FLUSH, null, utteranceId)
@@ -416,6 +460,10 @@ class SpeechNarrator(context: Context) : TextToSpeech.OnInitListener {
      */
     fun speakTest(languageMode: String = "ENGLISH", onComplete: (() -> Unit)? = null) {
         if (!isReady || tts == null) {
+            onComplete?.invoke()
+            return
+        }
+        if (isMediaPlaying()) {
             onComplete?.invoke()
             return
         }
@@ -447,6 +495,10 @@ class SpeechNarrator(context: Context) : TextToSpeech.OnInitListener {
                     if (id == utteranceId) notifyComplete()
                 }
             })
+            if (isMediaPlaying()) {
+                notifyComplete()
+                return
+            }
             acquireSpeechFocus()
             val result = tts?.speak(text, TextToSpeech.QUEUE_FLUSH, null, utteranceId)
             if (result == TextToSpeech.ERROR) {
