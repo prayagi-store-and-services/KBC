@@ -37126,5 +37126,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-16T06:37:17Z"
+ },
+ {
+  "id": "q_90c9a3d14530a861",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In human genetics, what is the normal sex chromosome combination for a human biological male?",
+  "qHi": "मानव आनुवंशिकी में, एक जैविक पुरुष के लिए सामान्य लिंग गुणसूत्र संयोजन क्या है?",
+  "optsEn": [
+   "XX",
+   "XY",
+   "YY",
+   "XO"
+  ],
+  "optsHi": [
+   "XX",
+   "XY",
+   "YY",
+   "XO"
+  ],
+  "correct": 1,
+  "explainEn": "Human biological males typically possess one X and one Y chromosome (XY), while biological females typically have two X chromosomes (XX).",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T22:06:00Z"
  }
 ]

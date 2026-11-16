@@ -31834,5 +31834,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-16T06:37:13Z"
+ },
+ {
+  "id": "q_4a3720727e3be03b",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which mineral is the primary ore of aluminum?",
+  "qHi": "कौन सा खनिज एल्युमीनियम का मुख्य अयस्क है?",
+  "optsEn": [
+   "Hematite",
+   "Bauxite",
+   "Galena",
+   "Magnetite"
+  ],
+  "optsHi": [
+   "हेमेटाइट",
+   "बॉauxite",
+   "गेलेना",
+   "मैग्नेटाइट"
+  ],
+  "correct": 1,
+  "explainEn": "Aluminum is obtained commercially from bauxite, which is a clay-like substance.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 5: Minerals and Energy Resources",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T22:05:53Z"
  }
 ]

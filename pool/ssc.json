@@ -23518,5 +23518,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-16T06:37:34Z"
+ },
+ {
+  "id": "q_2657a0484dcfd92d",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which historical monument was built by Shah Jahan in memory of his wife Mumtaz Mahal?",
+  "qHi": "शाहजहाँ ने अपनी पत्नी मुमताज महल की याद में कौन सा ऐतिहासिक स्मारक बनवाया था?",
+  "optsEn": [
+   "Qutub Minar",
+   "Red Fort",
+   "Taj Mahal",
+   "Humayun Tomb"
+  ],
+  "optsHi": [
+   "कुतुब मीनार",
+   "लाल किला",
+   "ताजमहल",
+   "हुमायूं का मकबरा"
+  ],
+  "correct": 2,
+  "explainEn": "The Taj Mahal is an ivory-white marble mausoleum on the south bank of the Yamuna river in Agra.",
+  "sourceHint": "NCERT History Class 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T22:07:19Z"
+ },
+ {
+  "id": "q_f8b482daa70172fd",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas is most abundant in Earth atmosphere by volume?",
+  "qHi": "आयतन के हिसाब से पृथ्वी के वायुमंडल में कौन सी गैस सबसे प्रचुर मात्रा में है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon Dioxide",
+   "Nitrogen",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "आर्गन"
+  ],
+  "correct": 2,
+  "explainEn": "Nitrogen makes up about 78 percent of Earth's atmosphere.",
+  "sourceHint": "NCERT Geography Class 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T22:07:19Z"
+ },
+ {
+  "id": "q_7309e9fdba37b7d8",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Kathakali is a classical dance form originating from which Indian state?",
+  "qHi": "कथकली किस भारतीय राज्य का शास्त्रीय नृत्य रूप है?",
+  "optsEn": [
+   "Kerala",
+   "Tamil Nadu",
+   "Uttar Pradesh",
+   "Andhra Pradesh"
+  ],
+  "optsHi": [
+   "केरल",
+   "तमिलनाडु",
+   "उत्तर प्रदेश",
+   "आंध्र प्रदेश"
+  ],
+  "correct": 0,
+  "explainEn": "Kathakali is a major form of classical Indian dance that originated in Kerala.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T22:07:19Z"
  }
 ]

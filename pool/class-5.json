@@ -32030,5 +32030,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-16T06:37:49Z"
+ },
+ {
+  "id": "q_bb459df9ca0ec6df",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following lines passes through the middle of India?",
+  "qHi": "निम्नलिखित में से कौन सी रेखा भारत के बीच से गुजरती है?",
+  "optsEn": [
+   "Equator",
+   "Tropic of Cancer",
+   "Tropic of Capricorn",
+   "Prime Meridian"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा",
+   "कर्क रेखा",
+   "मकर रेखा",
+   "प्रमुख मध्याह्न रेखा"
+  ],
+  "correct": 1,
+  "explainEn": "The Tropic of Cancer passes almost through the middle of the country.",
+  "sourceHint": "NCERT Class 5 Geography / Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T22:05:38Z"
  }
 ]
