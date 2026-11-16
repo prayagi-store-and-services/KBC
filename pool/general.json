@@ -22874,5 +22874,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-15T18:53:38Z"
+ },
+ {
+  "id": "q_b68e9aee6e2b3ecf",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "How many players are on the field for one team in a standard game of cricket?",
+  "qHi": "क्रिकेट के एक सामान्य खेल में एक टीम के लिए मैदान पर कितने खिलाड़ी होते हैं?",
+  "optsEn": [
+   "9",
+   "10",
+   "11",
+   "12"
+  ],
+  "optsHi": [
+   "9",
+   "10",
+   "11",
+   "12"
+  ],
+  "correct": 2,
+  "explainEn": "A standard cricket team consists of 11 players on the field.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:33:02Z"
+ },
+ {
+  "id": "q_b2b9afe8c8bb4800",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which national highway connects Delhi and Kolkata through Varanasi?",
+  "qHi": "वाराणसी के रास्ते दिल्ली और कोलकाता को कौन सा राष्ट्रीय राजमार्ग जोड़ता है?",
+  "optsEn": [
+   "National Highway 44",
+   "National Highway 19",
+   "National Highway 27",
+   "National Highway 66"
+  ],
+  "optsHi": [
+   "राष्ट्रीय राजमार्ग 44",
+   "राष्ट्रीय राजमार्ग 19",
+   "राष्ट्रीय राजमार्ग 27",
+   "राष्ट्रीय राजमार्ग 66"
+  ],
+  "correct": 1,
+  "explainEn": "National Highway 19 (formerly NH 2) forms a major portion of the historical Grand Trunk Road, connecting Delhi to Kolkata.",
+  "sourceHint": "Ministry of Road Transport and Highways, India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:35:59Z"
+ },
+ {
+  "id": "q_84309c6fb1d829c4",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian city houses the headquarters of the Tea Board of India?",
+  "qHi": "भारत के चाय बोर्ड का मुख्यालय किस भारतीय शहर में स्थित है?",
+  "optsEn": [
+   "Guwahati",
+   "Kolkata",
+   "Darjeeling",
+   "Bengaluru"
+  ],
+  "optsHi": [
+   "गुवाहाटी",
+   "कोलकाता",
+   "दार्जिलिंग",
+   "बेंगलुरु"
+  ],
+  "correct": 1,
+  "explainEn": "The headquarters of the Tea Board of India is located in Kolkata, West Bengal.",
+  "sourceHint": "Tea Board of India official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:37:45Z"
+ },
+ {
+  "id": "q_57cc808c0dab1eda",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who wrote the famous Sanskrit treatise on statecraft, the Arthashastra?",
+  "qHi": "राज्यकला पर प्रसिद्ध संस्कृत ग्रंथ 'अर्थशास्त्र' किसने लिखा था?",
+  "optsEn": [
+   "Kalidasa",
+   "Kautilya",
+   "Banabhatta",
+   "Visakhadatta"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "कौटिल्य",
+   "बाणभट्ट",
+   "विशाखदत्त"
+  ],
+  "correct": 1,
+  "explainEn": "The Arthashastra was authored by Kautilya, also known as Chanakya or Vishnugupta.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:37:45Z"
+ },
+ {
+  "id": "q_9669ad63e20cb702",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which planet is the target of India's space mission named Mangalyaan?",
+  "qHi": "भारत के मंगलयान नामक अंतरिक्ष मिशन का लक्ष्य कौन सा ग्रह है?",
+  "optsEn": [
+   "Venus",
+   "Mars",
+   "Mercury",
+   "Jupiter"
+  ],
+  "optsHi": [
+   "शुक्र",
+   "मंगल",
+   "बुध",
+   "बृहस्पति"
+  ],
+  "correct": 1,
+  "explainEn": "Mangalyaan, or the Mars Orbiter Mission, was ISRO's space probe orbiting Mars.",
+  "sourceHint": "ISRO official records",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:37:45Z"
+ },
+ {
+  "id": "q_402629e51e296710",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary mineral ore from which aluminum is extracted in India?",
+  "qHi": "भारत में एल्युमिनियम मुख्य रूप से किस खनिज अयस्क से निकाला जाता है?",
+  "optsEn": [
+   "Hematite",
+   "Bauxite",
+   "Galena",
+   "Chalcopyrite"
+  ],
+  "optsHi": [
+   "हेमेटाइट",
+   "बॉักसाइट",
+   "गैलेना",
+   "चाकोपाइराइट"
+  ],
+  "correct": 1,
+  "explainEn": "Bauxite is the primary ore of aluminum and is widely mined in states like Odisha and Jharkhand.",
+  "sourceHint": "NCERT Class 10 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:37:45Z"
+ },
+ {
+  "id": "q_3bfd1d049f4f7080",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Indian Constitution, who holds the power to promulgate ordinances when Parliament is not in session?",
+  "qHi": "भारतीय संविधान के तहत, जब संसद सत्र में न हो, तो अध्यादेश जारी करने की शक्ति किसके पास होती है?",
+  "optsEn": [
+   "Prime Minister",
+   "President",
+   "Chief Justice of India",
+   "Speaker of the Lok Sabha"
+  ],
+  "optsHi": [
+   "प्रधानमंत्री",
+   "राष्ट्रपति",
+   "भारत के मुख्य न्यायाधीश",
+   "लोकसभा अध्यक्ष"
+  ],
+  "correct": 1,
+  "explainEn": "Article 123 of the Constitution empowers the President to promulgate ordinances during the recess of Parliament.",
+  "sourceHint": "Constitution of India, Article 123",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:37:45Z"
  }
 ]

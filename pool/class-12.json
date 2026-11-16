@@ -37070,5 +37070,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-15T18:53:58Z"
+ },
+ {
+  "id": "q_913a1ab731095416",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of chemical reaction is the conversion of vegetable oil to vegetable ghee using hydrogen gas?",
+  "qHi": "हाइड्रोजन गैस का उपयोग करके वनस्पति तेल को वनस्पति घी में बदलना किस प्रकार की रासायनिक प्रतिक्रिया है?",
+  "optsEn": [
+   "Hydrogenation",
+   "Halogenation",
+   "Oxidation",
+   "Hydration"
+  ],
+  "optsHi": [
+   "हाइड्रोजनीकरण",
+   "हैलोजनीकरण",
+   "ऑक्सीकरण",
+   "जलयोजन"
+  ],
+  "correct": 0,
+  "explainEn": "Addition of hydrogen across the double bonds of unsaturated vegetable oils is called hydrogenation, typically using a nickel catalyst.",
+  "sourceHint": "NCERT Class 10/12 Chemistry curriculum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:37:17Z"
+ },
+ {
+  "id": "q_b6b9d576890f9fff",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is a non-coding sequence of RNA removed during the processing of eukaryotic mRNA?",
+  "qHi": "यूकेरियोटिक एमआरएनए के प्रसंस्करण के दौरान हटाए जाने वाला आरएनए का गैर-कोडिंग अनुक्रम निम्नलिखित में से कौन सा है?",
+  "optsEn": [
+   "Exon",
+   "Intron",
+   "Cistron",
+   "Codon"
+  ],
+  "optsHi": [
+   "एक्सॉन",
+   "इन्ट्राॅन",
+   "सिस्ट्रॉन",
+   "कोडॉन"
+  ],
+  "correct": 1,
+  "explainEn": "Introns are intervening sequences that do not appear in the mature mRNA, unlike exons which are expressed.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:37:17Z"
  }
 ]

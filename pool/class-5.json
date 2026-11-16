@@ -31834,5 +31834,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-15T18:53:43Z"
+ },
+ {
+  "id": "q_07e34131063a4858",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following materials is magnetic?",
+  "qHi": "निम्नलिखित में से कौन सी सामग्री चुंबकीय है?",
+  "optsEn": [
+   "Wood",
+   "Iron",
+   "Plastic",
+   "Rubber"
+  ],
+  "optsHi": [
+   "लकड़ी",
+   "लोहा",
+   "प्लास्टिक",
+   "रबर"
+  ],
+  "correct": 1,
+  "explainEn": "Iron is a magnetic material and is strongly attracted to magnets.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:33:18Z"
+ },
+ {
+  "id": "q_dd1fc64dc2a2adb3",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary gas that green plants release during photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण के दौरान हरे पौधे मुख्य रूप से कौन सी गैस छोड़ते हैं?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Nitrogen",
+   "Oxygen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "ऑक्सीजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 2,
+  "explainEn": "Plants produce oxygen as a byproduct during the process of photosynthesis.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:36:12Z"
+ },
+ {
+  "id": "q_5196a77180c11d22",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following vitamin deficiencies causes the disease known as scurvy?",
+  "qHi": "निम्नलिखित में से किस विटामिन की कमी से स्कर्वी नामक रोग होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 2,
+  "explainEn": "Scurvy is caused by a lack of Vitamin C in the daily diet.",
+  "sourceHint": "NCERT Class 6 Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:36:12Z"
+ },
+ {
+  "id": "q_67a622f35f27fe57",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which planet in our solar system has the highest surface temperature due to a thick atmosphere of carbon dioxide?",
+  "qHi": "हमारे सौर मंडल में किस ग्रह की सतह का तापमान कार्बन डाइऑक्साइड के घने वायुमंडल के कारण सबसे अधिक है?",
+  "optsEn": [
+   "Mercury",
+   "Venus",
+   "Mars",
+   "Jupiter"
+  ],
+  "optsHi": [
+   "बुध",
+   "शुक्र",
+   "मंगल",
+   "बृहस्पति"
+  ],
+  "correct": 1,
+  "explainEn": "Venus is the hottest planet because its thick carbon dioxide atmosphere traps heat in a runaway greenhouse effect.",
+  "sourceHint": "NCERT Class 6 Science Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:37:49Z"
+ },
+ {
+  "id": "q_68af69c3cdb55b64",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organ in the human body is primarily responsible for filtering waste products from the blood to form urine?",
+  "qHi": "मानव शरीर में कौन सा अंग मूत्र बनाने के लिए रक्त से अपशिष्ट पदार्थों को छानने के लिए मुख्य रूप से उत्तरदायी है?",
+  "optsEn": [
+   "Heart",
+   "Kidneys",
+   "Lungs",
+   "Liver"
+  ],
+  "optsHi": [
+   "हृदय",
+   "गुर्दे",
+   "फेफड़े",
+   "यकृत"
+  ],
+  "correct": 1,
+  "explainEn": "The kidneys filter blood to remove waste and excess water, producing urine.",
+  "sourceHint": "NCERT Class 5 Science curriculum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:37:49Z"
+ },
+ {
+  "id": "q_2754df5fccc18dd5",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of rock is formed by the cooling and solidification of molten magma or lava?",
+  "qHi": "पिघले हुए मैग्मा या लावा के ठंडा होकर जमने से किस प्रकार की चट्टान बनती है?",
+  "optsEn": [
+   "Igneous rock",
+   "Sedimentary rock",
+   "Metamorphic rock",
+   "Chalk rock"
+  ],
+  "optsHi": [
+   "आग्नेय चट्टान",
+   "अवसादी चट्टान",
+   "कायांतरित चट्टान",
+   "चॉक चट्टान"
+  ],
+  "correct": 0,
+  "explainEn": "Igneous rocks are formed when molten rock cools and solidifies.",
+  "sourceHint": "NCERT Class 7 Geography Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:37:49Z"
+ },
+ {
+  "id": "q_3295acbb0b6b9d2b",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional Indian harvest festival is celebrated in January and marks the transition of the sun into the zodiac sign of Capricorn?",
+  "qHi": "कौन सा पारंपरिक भारतीय फसल उत्सव जनवरी में मनाया जाता है और मकर राशि में सूर्य के प्रवेश का प्रतीक है?",
+  "optsEn": [
+   "Diwali",
+   "Holi",
+   "Makar Sankranti",
+   "Eid"
+  ],
+  "optsHi": [
+   "दीपावली",
+   "होली",
+   "मकर संक्रांति",
+   "ईद"
+  ],
+  "correct": 2,
+  "explainEn": "Makar Sankranti marks the sun's transition into Makara (Capricorn) and is celebrated as a harvest festival.",
+  "sourceHint": "NCERT Class 6 Social Science references",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:37:49Z"
  }
 ]

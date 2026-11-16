@@ -40626,5 +40626,425 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-15T18:53:35Z"
+ },
+ {
+  "id": "q_554d336791787d5c",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'R' stand for in the abbreviation 'RBI'?",
+  "qHi": "संक्षिप्त नाम 'RBI' में अक्षर 'R' का क्या अर्थ है?",
+  "optsEn": [
+   "Reserve",
+   "Regional",
+   "Rural",
+   "Revenue"
+  ],
+  "optsHi": [
+   "रिजर्व",
+   "क्षेत्रीय",
+   "ग्रामीण",
+   "राजस्व"
+  ],
+  "correct": 0,
+  "explainEn": "RBI stands for Reserve Bank of India, which is the central banking institution of the country.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:32:12Z"
+ },
+ {
+  "id": "q_4d2158bea414e8f1",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'NEFT' stand for in banking transactions?",
+  "qHi": "बैंकिंग लेनदेन में 'NEFT' का क्या अर्थ है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "National Equity Fund Trust",
+   "New Economic Financial Term",
+   "Net Electronic Finance Transfer"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "नेशनल इक्विटी फंड ट्रस्ट",
+   "न्यू इकोनॉमिक फाइनेंशियल टर्म",
+   "नेट इलेक्ट्रॉनिक फाइनेंस ट्रांसफर"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, an online system for transferring funds between banks.",
+  "sourceHint": "RBI Payment Systems",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:32:12Z"
+ },
+ {
+  "id": "q_658376fbed2bac2e",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum character length of an IFSC (Indian Financial System Code)?",
+  "qHi": "IFSC (इंडियन फाइनेंशियल सिस्टम कोड) की अधिकतम वर्ण लंबाई कितनी होती है?",
+  "optsEn": [
+   "11",
+   "10",
+   "12",
+   "9"
+  ],
+  "optsHi": [
+   "11",
+   "10",
+   "12",
+   "9"
+  ],
+  "correct": 0,
+  "explainEn": "An IFSC is an 11-character alpha-numeric code used for online fund transfers like NEFT and RTGS.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:32:12Z"
+ },
+ {
+  "id": "q_7acbb8cebfb80d1c",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which development bank in India focuses primarily on agriculture and rural development?",
+  "qHi": "भारत में कौन सा विकास बैंक मुख्य रूप से कृषि और ग्रामीण विकास पर ध्यान केंद्रित करता है?",
+  "optsEn": [
+   "NABARD",
+   "SIDBI",
+   "NHB",
+   "IDBI"
+  ],
+  "optsHi": [
+   "नाबार्ड (NABARD)",
+   "सिडबी (SIDBI)",
+   "एनएचबी (NHB)",
+   "आईडीबीआई (IDBI)"
+  ],
+  "correct": 0,
+  "explainEn": "NABARD stands for National Bank for Agriculture and Rural Development, established in 1982.",
+  "sourceHint": "NABARD Act, 1981",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:32:12Z"
+ },
+ {
+  "id": "q_76939ac3e329ebd0",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which instrument is used by the Reserve Bank of India to absorb liquidity from the banking system by selling government securities without transferring physical ownership?",
+  "qHi": "बैंकिंग प्रणाली से सरकारी प्रतिभूतियों को बेचकर तरलता को अवशोषित करने के लिए भारतीय रिजर्व बैंक द्वारा किस उपकरण का उपयोग किया जाता है?",
+  "optsEn": [
+   "Bank Rate",
+   "Cash Reserve Ratio",
+   "Market Stabilisation Scheme",
+   "Statutory Liquidity Ratio"
+  ],
+  "optsHi": [
+   "बैंक दर",
+   "नकद आरक्षित अनुपात",
+   "बाजार स्थिरीकरण योजना",
+   "वैधानिक तरलता अनुपात"
+  ],
+  "correct": 2,
+  "explainEn": "The Market Stabilisation Scheme (MSS) was introduced to absorb excess liquidity of a more enduring nature arising from large capital inflows through the sale of short-term government securities.",
+  "sourceHint": "RBI Handbook of Instructions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:35:54Z"
+ },
+ {
+  "id": "q_31d74023a00d1cd1",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institution in India regulates the housing finance companies (HFCs)?",
+  "qHi": "भारत में आवास वित्त कंपनियों (HFCs) को कौन सी संस्था विनियमित करती है?",
+  "optsEn": [
+   "National Housing Bank",
+   "Securities and Exchange Board of India",
+   "Reserve Bank of India",
+   "Insurance Regulatory and Development Authority"
+  ],
+  "optsHi": [
+   "राष्ट्रीय आवास बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "भारतीय रिजर्व बैंक",
+   "बीमा विनियामक और विकास प्राधिकरण"
+  ],
+  "correct": 2,
+  "explainEn": "Regulation and supervision of Housing Finance Companies (HFCs) was shifted from the National Housing Bank to the Reserve Bank of India under the Finance Act 2019.",
+  "sourceHint": "RBI Press Release",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:35:54Z"
+ },
+ {
+  "id": "q_0a0822a07afe95ca",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of banking technology in India, what does the letter 'C' stand for in the acronym 'NEFT'?",
+  "qHi": "भारत में बैंकिंग तकनीक के संदर्भ में, संक्षिप्त नाम 'NEFT' में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Credit",
+   "Currency",
+   "Clearing",
+   "Central"
+  ],
+  "optsHi": [
+   "क्रेडिट",
+   "करेंसी",
+   "क्लियरिंग",
+   "सेंट्रल"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, where funds are transferred electronically across banks.",
+  "sourceHint": "RBI Payment Systems",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:35:54Z"
+ },
+ {
+  "id": "q_2695a27dd2a48e74",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of inflation is characterized by a general increase in prices caused by an increase in the cost of wages and raw materials?",
+  "qHi": "किस प्रकार की मुद्रास्फीति को मजदूरी और कच्चे माल की लागत में वृद्धि के कारण कीमतों में सामान्य वृद्धि के रूप में विशेषता दी जाती है?",
+  "optsEn": [
+   "Demand-pull inflation",
+   "Cost-push inflation",
+   "Built-in inflation",
+   "Hyperinflation"
+  ],
+  "optsHi": [
+   "मांग-जनित मुद्रास्फीति",
+   "लागत-प्रेरित मुद्रास्फीति",
+   "अंतर्निहित मुद्रास्फीति",
+   "अतिमुद्रास्फीति"
+  ],
+  "correct": 1,
+  "explainEn": "Cost-push inflation occurs when overall prices increase (inflation) due to increases in the cost of wages and raw materials.",
+  "sourceHint": "Indian Economy by Ramesh Singh",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:35:54Z"
+ },
+ {
+  "id": "q_22f6e3203c690ee4",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the 'C' stand for in the CAMELS rating system used for supervising financial institutions?",
+  "qHi": "वित्तीय संस्थानों की निगरानी के लिए उपयोग की जाने वाली CAMELS रेटिंग प्रणाली में 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Capital adequacy",
+   "Collateral security",
+   "Credit creation",
+   "Currency reserves"
+  ],
+  "optsHi": [
+   "पूंजी पर्याप्तता",
+   "संपार्श्विक सुरक्षा",
+   "ऋण सृजन",
+   "मुद्रा भंडार"
+  ],
+  "correct": 0,
+  "explainEn": "CAMELS stands for Capital adequacy, Asset quality, Management capability, Earnings, Liquidity, and Sensitivity to market risk.",
+  "sourceHint": "RBI Supervisory Framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:35:54Z"
+ },
+ {
+  "id": "q_8d6bc9b4bb3de88c",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Prompt Corrective Action (PCA) framework for commercial banks, what is the mandatory action triggered when a bank's Common Equity Tier 1 (CET1) ratio falls into Risk Threshold 3?",
+  "qHi": "वाणिज्यिक बैंकों के लिए त्वरित सुधार कार्रवाई (पीसीए) ढांचे के तहत, जब किसी बैंक का कॉमन इक्विटी टीयर 1 (सीईटी1) अनुपात जोखिम閾ॉर्म 3 में आ जाता है, तो कौन सी अनिवार्य कार्रवाई शुरू की जाती है?",
+  "optsEn": [
+   "Restriction on branch expansion only",
+   "Mandatory restructuring or amalgamation",
+   "Prohibition on raising subordinate debt",
+   "Cap on hiring new administrative staff"
+  ],
+  "optsHi": [
+   "केवल शाखा विस्तार पर प्रतिबंध",
+   "अनिवार्य पुनर्गठन या समामेलन",
+   "अधीनस्थ ऋण जुटाने पर प्रतिबंध",
+   "नए प्रशासनिक कर्मचारियों की भर्ती पर रोक"
+  ],
+  "correct": 1,
+  "explainEn": "Threshold 3 of the PCA framework allows the RBI to mandate the amalgamation, reconstruction, or winding up of the bank if conditions do not improve.",
+  "sourceHint": "RBI Master Direction on PCA Framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:37:41Z"
+ },
+ {
+  "id": "q_4bf16e6642fea967",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the minimum initial capital requirement prescribed by the Reserve Bank of India for setting up a Small Finance Bank?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा लघु वित्त बैंक (स्मॉल फाइनेंस बैंक) की स्थापना के लिए निर्धारित न्यूनतम प्रारंभिक पूंजी आवश्यकता क्या है?",
+  "optsEn": [
+   "100 crore rupees",
+   "200 crore rupees",
+   "300 crore rupees",
+   "500 crore rupees"
+  ],
+  "optsHi": [
+   "100 करोड़ रुपये",
+   "200 करोड़ रुपये",
+   "300 करोड़ रुपये",
+   "500 करोड़ रुपये"
+  ],
+  "correct": 1,
+  "explainEn": "As per RBI guidelines for Small Finance Banks, the minimum paid-up voting equity capital required is 200 crore rupees.",
+  "sourceHint": "RBI Guidelines on Small Finance Banks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:37:41Z"
+ },
+ {
+  "id": "q_2a1f365caedda5fb",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which monetary policy instrument represents the rate at which the Reserve Bank of India absorbs liquidity from banks against the collateral of eligible government securities under the Liquidity Adjustment Facility?",
+  "qHi": "कौन सा मौद्रिक नीति उपकरण उस दर का प्रतिनिधित्व करता है जिस पर भारतीय रिजर्व बैंक तरलता समायोजन सुविधा के तहत पात्र सरकारी प्रतिभूतियों के संपार्श्विक के खिलाफ बैंकों से तरलता को अवशोषित करता है?",
+  "optsEn": [
+   "Repo Rate",
+   "Reverse Repo Rate",
+   "Bank Rate",
+   "Marginal Standing Facility Rate"
+  ],
+  "optsHi": [
+   "रेपो दर",
+   "रिवर्स रेपो दर",
+   "बैंक दर",
+   "सीमांत स्थायी सुविधा दर"
+  ],
+  "correct": 1,
+  "explainEn": "Reverse Repo Rate is the rate at which RBI absorbs liquidity from banks, whereas Repo Rate is the rate at which it injects liquidity.",
+  "sourceHint": "RBI Monetary Policy Documentation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:37:41Z"
+ },
+ {
+  "id": "q_f6b9688682d6c245",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Basel III norms implemented in Indian banking, what does the Capital Conservation Buffer (CCB) primarily consist of?",
+  "qHi": "भारतीय बैंकिंग में कार्यान्वित बेसल III मानदंडों के संदर्भ में, पूंजी संरक्षण बफर (CCB) में मुख्य रूप से क्या शामिल होता है?",
+  "optsEn": [
+   "Tier 2 subordinated debt",
+   "Common Equity Tier 1 capital",
+   "Additional Tier 1 capital",
+   "Short-term wholesale deposits"
+  ],
+  "optsHi": [
+   "टियर 2 अधीनस्थ ऋण",
+   "कॉमन इक्विटी टीयर 1 पूंजी",
+   "अतिरिक्त टीयर 1 पूंजी",
+   "अल्पकालिक थोक जमा"
+  ],
+  "correct": 1,
+  "explainEn": "The Capital Conservation Buffer is designed to ensure that banks build up capital buffers during normal times that can be drawn down in periods of stress, and it must be met with Common Equity Tier 1 capital.",
+  "sourceHint": "Basel III Guidelines by RBI",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:37:41Z"
+ },
+ {
+  "id": "q_f47f747a020e0ada",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the maximum permissible limit for an individual transaction using the Immediate Payment Service (IMPS) routed through the National Payments Corporation of India?",
+  "qHi": "भारतीय राष्ट्रीय भुगतान निगम के माध्यम से तत्काल भुगतान सेवा (आईएमपीएस) का उपयोग करके व्यक्तिगत लेनदेन के लिए अधिकतम स्वीकार्य सीमा क्या है?",
+  "optsEn": [
+   "2 lakh rupees",
+   "5 lakh rupees",
+   "10 lakh rupees",
+   "No upper limit set by NPCI"
+  ],
+  "optsHi": [
+   "2 लाख रुपये",
+   "5 लाख रुपये",
+   "10 लाख रुपये",
+   "एनपीसीआई द्वारा कोई ऊपरी सीमा तय नहीं की गई है"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India and NPCI revised the per-transaction limit for IMPS to 5 lakh rupees.",
+  "sourceHint": "NPCI Circulars / RBI Payment Systems",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:37:41Z"
+ },
+ {
+  "id": "q_f279235b6348107c",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific category of Non-Banking Financial Companies (NBFCs) is explicitly prohibited from accepting public deposits under RBI regulations?",
+  "qHi": "आरबीआई नियमों के तहत गैर-बैंकिंग वित्तीय कंपनियों (NBFCs) की किस विशिष्ट श्रेणी को सार्वजनिक जमा स्वीकार करने से स्पष्ट रूप से प्रतिबंधित किया गया है?",
+  "optsEn": [
+   "NBFC-Deposit taking (NBFC-D)",
+   "NBFC-Investment and Credit Company (NBFC-ICC)",
+   "NBFC-Factor",
+   "Core Investment Company (CIC)"
+  ],
+  "optsHi": [
+   "एनबीएफसी-जमा लेने वाली (NBFC-D)",
+   "एनबीएफसी-इक्विटी और क्रेडिट कंपनी (NBFC-ICC)",
+   "एनबीएफसी-फैक्टर",
+   "कोर इन्वेस्टमेंट कंपनी (CIC)"
+  ],
+  "correct": 3,
+  "explainEn": "Core Investment Companies (CICs) that meet certain asset size criteria are exempt from registration in some cases or restricted, but non-deposit taking systemically important NBFCs have specific rules; however, CICs specifically do not accept public deposits in the traditional sense and focus on acquisition of shares and securities.",
+  "sourceHint": "RBI Master Directions on NBFCs",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:37:41Z"
  }
 ]

@@ -31694,5 +31694,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-15T18:53:52Z"
+ },
+ {
+  "id": "q_a3051ef5575cc1d7",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which animal is considered the primary symbol of the Project Tiger in India?",
+  "qHi": "भारत में प्रोजेक्ट टाइगर का मुख्य प्रतीक कौन सा जानवर है?",
+  "optsEn": [
+   "Asian Elephant",
+   "Bengal Tiger",
+   "Indian Lion",
+   "One-horned Rhinoceros"
+  ],
+  "optsHi": [
+   "एशियाई हाथी",
+   "बंगाल टाइगर",
+   "भारतीय शेर",
+   "एक सींग वाला गैंडा"
+  ],
+  "correct": 1,
+  "explainEn": "Project Tiger was launched in India to protect the Bengal Tiger.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 2: Forest and Wildlife Resources",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:33:50Z"
+ },
+ {
+  "id": "q_25e433f2c38351c3",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which element has the lowest melting point among the given transition metals?",
+  "qHi": "दी गई संक्रमण धातुओं में से किस तत्व का गलनांक सबसे कम है?",
+  "optsEn": [
+   "Iron",
+   "Mercury",
+   "Zinc",
+   "Copper"
+  ],
+  "optsHi": [
+   "लोहा",
+   "पारा",
+   "जस्ता",
+   "तांबा"
+  ],
+  "correct": 1,
+  "explainEn": "Mercury is the only metallic element that is liquid at standard conditions for temperature and pressure, giving it a very low melting point relative to other transition metals.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:37:13Z"
+ },
+ {
+  "id": "q_16aba36975c80d68",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which state of India is known for having the Gir National Park, the natural habitat of the Asiatic lion?",
+  "qHi": "भारत के किस राज्य में गिर राष्ट्रीय उद्यान स्थित है, जो एशियाई शेर का प्राकृतिक वास स्थान है?",
+  "optsEn": [
+   "Madhya Pradesh",
+   "Gujarat",
+   "Rajasthan",
+   "Maharashtra"
+  ],
+  "optsHi": [
+   "मध्य प्रदेश",
+   "गुजरात",
+   "राजस्थान",
+   "महाराष्ट्र"
+  ],
+  "correct": 1,
+  "explainEn": "Gir National Park and Wildlife Sanctuary is located in the Saurashtra region of Gujarat and is the sole home of the Asiatic lion.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:37:13Z"
+ },
+ {
+  "id": "q_6d979034908a2c9d",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In a power-sharing arrangement, which tier of government generally deals with issues concerning the entire country in a federal setup?",
+  "qHi": "सत्ता की साझेदारी की व्यवस्था में, संघीय व्यवस्था के अंतर्गत सरकार का कौन सा स्तर आमतौर पर पूरे देश से संबंधित मामलों को संभालता है?",
+  "optsEn": [
+   "Local government",
+   "Municipal corporation",
+   "Central or Union government",
+   "Gram Panchayat"
+  ],
+  "optsHi": [
+   "स्थानीय सरकार",
+   "नगर निगम",
+   "केंद्रीय या संघ सरकार",
+   "ग्राम पंचायत"
+  ],
+  "correct": 2,
+  "explainEn": "In a federal system, the central or union government deals with subjects of national importance affecting the entire country.",
+  "sourceHint": "NCERT Class 10 Political Science, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:37:13Z"
+ },
+ {
+  "id": "q_2c0c98d96ea771fd",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary economic activity of the primary sector in India?",
+  "qHi": "भारत में प्राथमिक क्षेत्र की प्रमुख आर्थिक गतिविधि क्या है?",
+  "optsEn": [
+   "Manufacturing goods in factories",
+   "Banking and financial services",
+   "Agriculture and allied activities",
+   "Information technology services"
+  ],
+  "optsHi": [
+   "कारखानों में सामान का निर्माण करना",
+   "बैंकिंग और वित्तीय सेवाएं",
+   "कृषि और उससे जुड़ी गतिविधियां",
+   "सूचना प्रौद्योगिकी सेवाएं"
+  ],
+  "correct": 2,
+  "explainEn": "The primary sector forms the base for all other products and mainly includes agriculture, forestry, fishing, and mining.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-16T06:37:13Z"
  }
 ]
