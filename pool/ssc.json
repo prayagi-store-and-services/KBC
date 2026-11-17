@@ -23686,5 +23686,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-17T07:58:10Z"
+ },
+ {
+  "id": "q_8a5fbc5022773913",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which historical monument is located in Agra on the banks of the Yamuna River?",
+  "qHi": "कौन सा ऐतिहासिक स्मारक यमुना नदी के तट पर आगरा में स्थित है?",
+  "optsEn": [
+   "Taj Mahal",
+   "Qutub Minar",
+   "Hawa Mahal",
+   "Gateway of India"
+  ],
+  "optsHi": [
+   "ताजमहल",
+   "कुतुब मीनार",
+   "हवा महल",
+   "गेटवे ऑफ इंडिया"
+  ],
+  "correct": 0,
+  "explainEn": "The Taj Mahal is a white marble mausoleum located on the right bank of the Yamuna River in Agra.",
+  "sourceHint": "NCERT Class 7 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T20:56:54Z"
+ },
+ {
+  "id": "q_2b1569eff4ee68a3",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the minimum age requirement for a person to be eligible for election to the office of President of India?",
+  "qHi": "भारत के राष्ट्रपति पद के चुनाव के लिए पात्र होने के लिए न्यूनतम आयु क्या है?",
+  "optsEn": [
+   "25 years",
+   "30 years",
+   "35 years",
+   "40 years"
+  ],
+  "optsHi": [
+   "25 वर्ष",
+   "30 वर्ष",
+   "35 वर्ष",
+   "40 वर्ष"
+  ],
+  "correct": 2,
+  "explainEn": "According to Article 58 of the Constitution of India, a presidential candidate must have completed the age of 35 years.",
+  "sourceHint": "Constitution of India Article 58",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T20:56:54Z"
+ },
+ {
+  "id": "q_00286ebe3eda0001",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which historical site is associated with the convening of the Fourth Buddhist Council during the Kushana period?",
+  "qHi": "कुषाण काल के दौरान चतुर्थ बौद्ध संगीति के आयोजन से निम्नलिखित में से कौन सा ऐतिहासिक स्थल संबंधित है?",
+  "optsEn": [
+   "Rajagriha",
+   "Vaishali",
+   "Pataliputra",
+   "Kundalavana"
+  ],
+  "optsHi": [
+   "राजगृह",
+   "वैशाली",
+   "पाटलिपुत्र",
+   "कुंडलवन"
+  ],
+  "correct": 3,
+  "explainEn": "The Fourth Buddhist Council was held at Kundalavana in Kashmir during the reign of King Kanishka.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part I",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T20:58:47Z"
+ },
+ {
+  "id": "q_10ac54c825cf6e79",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following layers of the atmosphere is primarily responsible for the reflection of radio waves back to the Earth?",
+  "qHi": "वायुमंडल की निम्नलिखित में से कौन सी परत रेडियो तरंगों को वापस पृथ्वी पर परावर्तित करने के लिए मुख्य रूप से उत्तरदायी है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 3,
+  "explainEn": "The Thermosphere contains the ionosphere layer, which has electrically charged particles that reflect radio waves back to Earth.",
+  "sourceHint": "NCERT Class 7 Geography, Our Environment, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T20:58:47Z"
+ },
+ {
+  "id": "q_355dcf392837776a",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The Battle of Buxar, which firmly established British East India Company rule in Bengal, was fought in which year?",
+  "qHi": "बक्सर का युद्ध, जिसने बंगाल में ब्रिटिश ईस्ट इंडिया कंपनी के शासन को मजबूती से स्थापित किया, किस वर्ष लड़ा गया था?",
+  "optsEn": [
+   "1757",
+   "1764",
+   "1772",
+   "1781"
+  ],
+  "optsHi": [
+   "1757",
+   "1764",
+   "1772",
+   "1781"
+  ],
+  "correct": 1,
+  "explainEn": "The Battle of Buxar was fought on 22 October 1764 between the forces of the British East India Company and the combined army of Mir Kasim, Shuja-ud-Daula, and Shah Alam II.",
+  "sourceHint": "NCERT Class 8 History, Our Pasts-III, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T20:58:47Z"
+ },
+ {
+  "id": "q_1295e7da4ffb297f",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following hill ranges forms a watershed between the Narmada and Tapti rivers?",
+  "qHi": "निम्नलिखित में से कौन सी पहाड़ी श्रृंखला नर्मदा और तापी नदियों के बीच जल विभाज्य का काम करती है?",
+  "optsEn": [
+   "Vindhya Range",
+   "Satpura Range",
+   "Aravalli Range",
+   "Ajanta Range"
+  ],
+  "optsHi": [
+   "विंध्य श्रेणी",
+   "सतपुड़ा श्रेणी",
+   "अरावली श्रेणी",
+   "अजंता श्रेणी"
+  ],
+  "correct": 1,
+  "explainEn": "The Satpura Range is situated between the Narmada river valley in the north and the Tapti river valley in the south, acting as a major watershed.",
+  "sourceHint": "NCERT Class 9 Geography, Contemporary India-I, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T20:58:47Z"
  }
 ]

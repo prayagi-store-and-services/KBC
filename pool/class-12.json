@@ -37462,5 +37462,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-17T07:59:33Z"
+ },
+ {
+  "id": "q_da44eb9904b52909",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which battle fought in 1757 established British political supremacy in Bengal?",
+  "qHi": "1757 में लड़े गए किस युद्ध ने बंगाल में ब्रिटिश राजनीतिक वर्चस्व स्थापित किया?",
+  "optsEn": [
+   "Battle of Buxar",
+   "Battle of Plassey",
+   "Third Battle of Panipat",
+   "Battle of Haldighati"
+  ],
+  "optsHi": [
+   "बक्सर का युद्ध",
+   "प्लासी का युद्ध",
+   "पानीपत का तीसरा युद्ध",
+   "हल्दीघाटी का युद्ध"
+  ],
+  "correct": 1,
+  "explainEn": "The Battle of Plassey in 1757 was a major victory for the British East India Company over the Nawab of Bengal.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T20:56:24Z"
+ },
+ {
+  "id": "q_8d2b54b42bb0136c",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the standard SI unit of electric dipole moment?",
+  "qHi": "विद्युत द्विध्रुव आघूर्ण का मानक एसआई मात्रक क्या है?",
+  "optsEn": [
+   "Coulomb meter",
+   "Newton per coulomb",
+   "Coulomb per square meter",
+   "Joule second"
+  ],
+  "optsHi": [
+   "कूलॉम मीटर",
+   "न्यूटन प्रति कूलॉम",
+   "कूलॉम प्रति वर्ग मीटर",
+   "जूल सेकंड"
+  ],
+  "correct": 0,
+  "explainEn": "Electric dipole moment is the product of charge and the distance between charges, yielding the SI unit coulomb meter (C m).",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T20:58:14Z"
+ },
+ {
+  "id": "q_2da767e3f5c3773a",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which chemical process is primarily responsible for the conversion of alkyl halides into alcohols using aqueous potassium hydroxide?",
+  "qHi": "जलीय पोटेशियम हाइड्रॉक्साइड का उपयोग करके एल्किल हैलाइड्स को अल्कोहल में बदलने के लिए कौन सी रासायनिक प्रक्रिया मुख्य रूप से जिम्मेदार है?",
+  "optsEn": [
+   "Electrophilic addition",
+   "Nucleophilic substitution",
+   "Free radical halogenation",
+   "Elimination reaction"
+  ],
+  "optsHi": [
+   "इलेक्ट्रॉनरागी योग",
+   "नाभिकरागी प्रतिस्थापन",
+   "मुक्तांश हैलोजनीकरण",
+   "लोप अभिक्रिया"
+  ],
+  "correct": 1,
+  "explainEn": "Aqueous KOH releases hydroxide ions which act as nucleophiles to substitute the halide in alkyl halides, forming alcohols.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T20:58:14Z"
+ },
+ {
+  "id": "q_977c8c6ef3bf7a2d",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Article of the Indian Constitution guarantees equality before the law and equal protection of the laws?",
+  "qHi": "भारतीय संविधान का कौन सा अनुच्छेद कानून के समक्ष समानता और कानूनों के समान संरक्षण की गारंटी देता है?",
+  "optsEn": [
+   "Article 12",
+   "Article 14",
+   "Article 19",
+   "Article 21"
+  ],
+  "optsHi": [
+   "अनुच्छेद 12",
+   "अनुच्छेद 14",
+   "अनुच्छेद 19",
+   "अनुच्छेद 21"
+  ],
+  "correct": 1,
+  "explainEn": "Article 14 of the Constitution of India states that the State shall not deny to any person equality before the law or the equal protection of the laws.",
+  "sourceHint": "Constitution of India, Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T20:58:14Z"
+ },
+ {
+  "id": "q_d92653a31238c4b6",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of interaction describes a relationship between two species where one species benefits and the other is neither harmed nor benefited?",
+  "qHi": "किस प्रकार की अंतःक्रिया दो प्रजातियों के बीच के ऐसे संबंध का वर्णन करती है जहाँ एक प्रजाति को लाभ होता है और दूसरी को न तो हानि होती है और न ही लाभ?",
+  "optsEn": [
+   "Mutualism",
+   "Commensalism",
+   "Parasitism",
+   "Amensalism"
+  ],
+  "optsHi": [
+   "सहजीविता",
+   "सहभोजीता",
+   "परजीविता",
+   "अमित्रता"
+  ],
+  "correct": 1,
+  "explainEn": "Commensalism is an ecological interaction in which one organism benefits while the other is unaffected.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 13",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T20:58:14Z"
+ },
+ {
+  "id": "q_ca2a3d1fbb830b81",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the functional form of management that recommends having multiple specialists supervise a single worker based on functional areas?",
+  "qHi": "प्रबंध का कार्यात्मक रूप क्या है जो कार्यात्मक क्षेत्रों के आधार पर एक ही कार्यकर्ता की निगरानी करने वाले कई विशेषज्ञों की सिफारिश करता है?",
+  "optsEn": [
+   "Functional foremanship",
+   "Mental revolution",
+   "Scalar chain",
+   "Unity of command"
+  ],
+  "optsHi": [
+   "कार्यात्मक फोरमैनशिप",
+   "मानसिक क्रांति",
+   "अदिश श्रृंखला",
+   "आदेश की एकता"
+  ],
+  "correct": 0,
+  "explainEn": "Functional foremanship is a technique suggested by F.W. Taylor where planning and execution are separated and supervised by multiple specialists.",
+  "sourceHint": "NCERT Class 12 Business Studies, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T20:58:14Z"
+ },
+ {
+  "id": "q_daab0184be299066",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which literary text chronicles the accounts of the administrative system of the Mughal Empire under Emperor Akbar?",
+  "qHi": "कौन सा साहित्यिक पाठ सम्राट अकबर के अधीन मुगल साम्राज्य की प्रशासनिक प्रणाली का विवरण प्रस्तुत करता है?",
+  "optsEn": [
+   "Baburnama",
+   "Akbarnama",
+   "Humayunnama",
+   "Padshahnama"
+  ],
+  "optsHi": [
+   "बाबरनामा",
+   "अकबरनामा",
+   "हुमायूंनामा",
+   "पादशाहनामा"
+  ],
+  "correct": 1,
+  "explainEn": "Akbarnama, authored by Abu'l-Fazl, provides a detailed account of Akbar's reign and the administrative machinery of the Mughal Empire.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part II",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T20:58:14Z"
  }
 ]

@@ -32226,5 +32226,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-17T07:58:34Z"
+ },
+ {
+  "id": "q_b6bc630020e11054",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Plants make their food using sunlight through a process called what?",
+  "qHi": "पौधे सूर्य के प्रकाश का उपयोग करके जिस प्रक्रिया से अपना भोजन बनाते हैं, उसे क्या कहते हैं?",
+  "optsEn": [
+   "Respiration",
+   "Photosynthesis",
+   "Transpiration",
+   "Germination"
+  ],
+  "optsHi": [
+   "श्वसन",
+   "प्रकाश संश्लेषण",
+   "वाष्पोत्सर्जन",
+   "अंकुरण"
+  ],
+  "correct": 1,
+  "explainEn": "Photosynthesis is the process by which green plants use sunlight to make food.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T20:57:30Z"
+ },
+ {
+  "id": "q_007e190f6270d5f1",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian stepwell was built primarily to store water and help people during dry periods?",
+  "qHi": "सूखे के समय लोगों की मदद करने और पानी स्टोर करने के लिए कौन सी पारंपरिक भारतीय संरचना बनाई गई थी?",
+  "optsEn": [
+   "Baoli",
+   "Stupa",
+   "Minar",
+   "Gopuram"
+  ],
+  "optsHi": [
+   "बावली",
+   "स्तूप",
+   "मीनार",
+   "गोपुरम"
+  ],
+  "correct": 0,
+  "explainEn": "Baolis or stepwells are traditional water harvesting structures in India used to store rain and groundwater.",
+  "sourceHint": "NCERT Class 5 Environmental Studies Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T20:59:23Z"
+ },
+ {
+  "id": "q_91b4a8c7c54d2904",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What happens to the level of water in a measuring glass when a heavy stone is completely immersed in it?",
+  "qHi": "जब किसी भारी पत्थर को मापने वाले गिलास में पूरी तरह डुबोया जाता है, तो पानी के स्तर का क्या होता है?",
+  "optsEn": [
+   "It goes down",
+   "It stays the same",
+   "It rises",
+   "It vanishes"
+  ],
+  "optsHi": [
+   "यह नीचे जाता है",
+   "यह समान रहता है",
+   "यह ऊपर उठता है",
+   "यह गायब हो जाता है"
+  ],
+  "correct": 2,
+  "explainEn": "An object displaces water equal to its own volume, causing the water level to rise.",
+  "sourceHint": "NCERT Class 5 Science Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T20:59:23Z"
+ },
+ {
+  "id": "q_12cc6a93b879bd4f",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of map features are contour lines used to show?",
+  "qHi": "मानचित्र पर समोच्च रेखाएं (कॉन्टूर लाइन्स) क्या दिखाने के लिए उपयोग की जाती हैं?",
+  "optsEn": [
+   "State boundaries",
+   "Elevation and height above sea level",
+   "Rainfall distribution",
+   "Road networks"
+  ],
+  "optsHi": [
+   "राज्य की सीमाएँ",
+   "समुद्र तल से ऊंचाई",
+   "वर्षा का वितरण",
+   "सड़क नेटवर्क"
+  ],
+  "correct": 1,
+  "explainEn": "Contour lines on maps connect points of equal elevation, helping to show the height and shape of landforms.",
+  "sourceHint": "NCERT Geography basics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T20:59:23Z"
+ },
+ {
+  "id": "q_3c4d05945665f6c6",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which force pulls all objects down towards the center of the Earth?",
+  "qHi": "कौन सा बल सभी वस्तुओं को पृथ्वी के केंद्र की ओर खींचता है?",
+  "optsEn": [
+   "Friction",
+   "Magnetism",
+   "Gravity",
+   "Muscular force"
+  ],
+  "optsHi": [
+   "घर्षण",
+   "चुंबकत्व",
+   "गुरुत्वाकर्षण",
+   "पेशीय बल"
+  ],
+  "correct": 2,
+  "explainEn": "Gravity is the invisible pulling force exerted by the Earth that attracts objects toward it.",
+  "sourceHint": "NCERT Class 5 Science Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T20:59:23Z"
  }
 ]

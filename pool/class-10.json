@@ -31946,5 +31946,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-17T07:57:16Z"
+ },
+ {
+  "id": "q_72e3a0cac438ddf8",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of power is generated using nuclear fuel such as Uranium?",
+  "qHi": "यूरेनियम जैसे परमाणु ईंधन का उपयोग करके किस प्रकार की ऊर्जा उत्पन्न की जाती है?",
+  "optsEn": [
+   "Thermal power",
+   "Hydro power",
+   "Nuclear power",
+   "Geothermal power"
+  ],
+  "optsHi": [
+   "तापीय ऊर्जा",
+   "जल विद्युत",
+   "परमाणु ऊर्जा",
+   "भू-तापीय ऊर्जा"
+  ],
+  "correct": 2,
+  "explainEn": "Nuclear power is obtained by altering the structure of atoms, releasing energy used to generate electricity from radioactive elements like uranium.",
+  "sourceHint": "NCERT Class 10 Geography Chapter 5 Minerals and Energy Resources",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T20:58:08Z"
+ },
+ {
+  "id": "q_195308fcf9128554",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which body conducts elections to the Lok Sabha and Vidhan Sabha in India?",
+  "qHi": "भारत में लोकसभा और विधानसभा के चुनाव कौन सा निकाय कराता है?",
+  "optsEn": [
+   "Supreme Court",
+   "Election Commission of India",
+   "NITI Aayog",
+   "Union Public Service Commission"
+  ],
+  "optsHi": [
+   "उच्चतम न्यायालय",
+   "भारत का निर्वाचन आयोग",
+   "नीति आयोग",
+   "संघ लोक सेवा आयोग"
+  ],
+  "correct": 1,
+  "explainEn": "The Election Commission of India is an autonomous constitutional authority responsible for administering election processes in India.",
+  "sourceHint": "NCERT Class 10 Democratic Politics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T20:58:08Z"
+ },
+ {
+  "id": "q_3bfbe604d8478c0e",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which term describes the process of splitting of white light into its component colors when passing through a glass prism?",
+  "qHi": "कांच के प्रिज्म से गुजरने पर श्वेत प्रकाश का अपने अवयव रंगों में विभाजित होने की प्रक्रिया को क्या कहते हैं?",
+  "optsEn": [
+   "Refraction",
+   "Reflection",
+   "Dispersion",
+   "Scattering"
+  ],
+  "optsHi": [
+   "अपवर्तन",
+   "परार्तन",
+   "विक्षेपण (वर्ण विक्षेपण)",
+   "प्रकीर्णन"
+  ],
+  "correct": 2,
+  "explainEn": "The splitting of white light into its component colors is called dispersion.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T20:59:54Z"
+ },
+ {
+  "id": "q_d81dd3817bb177ca",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which form is excess carbohydrate stored in plants?",
+  "qHi": "पौधों में अतिरिक्त कार्बोहाइड्रेट किस रूप में संचित होता है?",
+  "optsEn": [
+   "Glycogen",
+   "Starch",
+   "Cellulose",
+   "Glucose"
+  ],
+  "optsHi": [
+   "ग्लाइकोजन",
+   "मंड (स्टार्च)",
+   "सेलूलोज़",
+   "ग्लूकोज"
+  ],
+  "correct": 1,
+  "explainEn": "Plants store excess carbohydrates in the form of starch, whereas animals store it as glycogen.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T20:59:54Z"
+ },
+ {
+  "id": "q_cda83272aea6362f",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which sector currently holds the largest share in India's Gross Domestic Product (GDP)?",
+  "qHi": "वर्तमान में भारत के सकल घरेलू उत्पाद (GDP) में सबसे बड़ा हिस्सा किस क्षेत्र का है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Agricultural sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "तृतीयक (सेवा) क्षेत्र",
+   "कृषि क्षेत्र"
+  ],
+  "correct": 2,
+  "explainEn": "The tertiary sector (service sector) has emerged as the largest producing sector in India, contributing the most to the GDP.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T20:59:54Z"
+ },
+ {
+  "id": "q_0368c6543f21276f",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institution in India issues currency notes on behalf of the Central Government?",
+  "qHi": "भारत में केंद्र सरकार की ओर से करेंसी नोट कौन सी संस्था जारी करती है?",
+  "optsEn": [
+   "State Bank of India",
+   "Ministry of Finance",
+   "Reserve Bank of India",
+   "NITI Aayog"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "वित्त मंत्रालय",
+   "भारतीय रिजर्व बैंक",
+   "नीति आयोग"
+  ],
+  "correct": 2,
+  "explainEn": "The Reserve Bank of India (RBI) issues currency notes on behalf of the Central Government in India.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T20:59:54Z"
+ },
+ {
+  "id": "q_ef5d3c9dafb8626a",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of resources are oceanic resources found beyond 200 nautical miles of the Exclusive Economic Zone?",
+  "qHi": "अनन्य आर्थिक क्षेत्र (Exclusive Economic Zone) के 200 समुद्री मील से दूर पाए जाने वाले महासागरीय संसाधन किस श्रेणी में आते हैं?",
+  "optsEn": [
+   "National resources",
+   "Individual resources",
+   "International resources",
+   "Community owned resources"
+  ],
+  "optsHi": [
+   "राष्ट्रीय संसाधन",
+   "व्यक्तिगत संसाधन",
+   "अंतर्राष्ट्रीय संसाधन",
+   "सामुदायिक स्वामित्व वाले संसाधन"
+  ],
+  "correct": 2,
+  "explainEn": "Oceanic resources beyond 200 nautical miles of the Exclusive Economic Zone belong to open ocean resources and are classified as international resources, regulated by international institutions.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T20:59:54Z"
  }
 ]

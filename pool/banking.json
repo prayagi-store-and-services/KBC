@@ -41298,5 +41298,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-17T07:58:16Z"
+ },
+ {
+  "id": "q_3b3a1135301403c9",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'C' stand for in 'CASA' account in banking terminology?",
+  "qHi": "बैंकिंग शब्दावली में 'CASA' खाते में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Current",
+   "Capital",
+   "Credit",
+   "Collateral"
+  ],
+  "optsHi": [
+   "Current",
+   "Capital",
+   "Credit",
+   "Collateral"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account Savings Account, referring to bank deposits in current and savings accounts.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) study material",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T20:57:02Z"
+ },
+ {
+  "id": "q_f5026f81895ccbbb",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following payment systems operates on a 24x7x365 basis in India for fund transfers?",
+  "qHi": "भारत में फंड ट्रांसफर के लिए निम्नलिखित में से कौन सी भुगतान प्रणाली 24x7x365 आधार पर काम करती है?",
+  "optsEn": [
+   "National Electronic Funds Transfer",
+   "Real Time Gross Settlement",
+   "Immediate Payment Service",
+   "Bharat Bill Payment System"
+  ],
+  "optsHi": [
+   "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+   "रियल टाइम ग्रॉस सेटलमेंट",
+   "इमीडिएट पेमेंट सर्विस",
+   "भारत बिल पेमेंट सिस्टम"
+  ],
+  "correct": 2,
+  "explainEn": "Immediate Payment Service (IMPS) provides robust and real-time fund transfer which is accessible 24x7 through various channels.",
+  "sourceHint": "NPCI official guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T20:57:02Z"
+ },
+ {
+  "id": "q_6d6dc50b779863da",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of the acronym 'KYC', a mandatory process for opening bank accounts in India?",
+  "qHi": "भारत में बैंक खाते खोलने के लिए अनिवार्य प्रक्रिया 'KYC' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Know Your Customer",
+   "Keep Your Capital",
+   "Key Yield Calculation",
+   "Knowledge Yield Center"
+  ],
+  "optsHi": [
+   "Know Your Customer",
+   "Keep Your Capital",
+   "Key Yield Calculation",
+   "Knowledge Yield Center"
+  ],
+  "correct": 0,
+  "explainEn": "KYC stands for Know Your Customer, a standard due diligence process used by financial institutions.",
+  "sourceHint": "RBI Master Directions on KYC",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T20:57:02Z"
+ },
+ {
+  "id": "q_e4048fe058601603",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum amount insured per depositor by the Deposit Insurance and Credit Guarantee Corporation (DICGC)?",
+  "qHi": "निक्षेप बीमा और प्रत्यय गारंटी निगम (DICGC) द्वारा प्रति जमाकर्ता अधिकतम कितनी राशि बीमित है?",
+  "optsEn": [
+   "1 Lakh Rupees",
+   "2 Lakh Rupees",
+   "5 Lakh Rupees",
+   "10 Lakh Rupees"
+  ],
+  "optsHi": [
+   "1 लाख रुपये",
+   "2 लाख रुपये",
+   "5 लाख रुपये",
+   "10 लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "DICGC insures all bank deposits up to a maximum of 5 lakh rupees per depositor per bank.",
+  "sourceHint": "DICGC Official Website / RBI Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T20:58:55Z"
+ },
+ {
+  "id": "q_9a0a53b0c569a403",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the tenure range of Commercial Paper (CP) as a money market instrument in India?",
+  "qHi": "भारत में मुद्रा बाजार साधन के रूप में कमर्शियल पेपर (CP) की अवधि सीमा क्या है?",
+  "optsEn": [
+   "7 days to 1 year",
+   "1 day to 14 days",
+   "91 days to 364 days",
+   "1 year to 3 years"
+  ],
+  "optsHi": [
+   "7 दिन से 1 वर्ष",
+   "1 दिन से 14 दिन",
+   "91 दिन से 364 दिन",
+   "1 वर्ष से 3 वर्ष"
+  ],
+  "correct": 0,
+  "explainEn": "Commercial Paper is an unsecured money market instrument issued in the form of a promissory note, with a maturity period ranging from a minimum of 7 days to a maximum of up to 1 year.",
+  "sourceHint": "RBI Guidelines on Commercial Paper",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T20:58:55Z"
+ },
+ {
+  "id": "q_adaf7d62fd60a93b",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which committee recommended the establishment of Regional Rural Banks (RRBs) in India?",
+  "qHi": "किस समिति ने भारत में क्षेत्रीय ग्रामीण बैंकों (RRB) की स्थापना की सिफारिश की थी?",
+  "optsEn": [
+   "Narasimham Committee",
+   "Kelkar Committee",
+   "Sivaraman Committee",
+   "Urjit Patel Committee"
+  ],
+  "optsHi": [
+   "न नरसिंहम समिति",
+   "केलकर समिति",
+   "शिवरामन समिति",
+   "उर्जित पटेल समिति"
+  ],
+  "correct": 0,
+  "explainEn": "The Regional Rural Banks were established on the recommendations of the Narasimham Working Group (1975) under the Regional Rural Banks Act, 1976.",
+  "sourceHint": "NABARD / RBI Historical Archives",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T20:58:55Z"
  }
 ]
