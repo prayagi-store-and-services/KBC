@@ -31862,5 +31862,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-16T22:05:53Z"
+ },
+ {
+  "id": "q_554ed09d771e98e7",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which part of a plant bears the roots?",
+  "qHi": "पौधे का कौन सा भाग जड़ें वहन करता है?",
+  "optsEn": [
+   "Radicle",
+   "Plumule",
+   "Cotyledon",
+   "Stamen"
+  ],
+  "optsHi": [
+   "मूलांकुर (रेडिकल)",
+   "प्रांकुर (प्लूमूल)",
+   "बीजपत्र",
+   "पुंकेसर"
+  ],
+  "correct": 0,
+  "explainEn": "During seed germination, the radicle develops into the root system.",
+  "sourceHint": "NCERT Science Textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:56:10Z"
+ },
+ {
+  "id": "q_626752cf4257f609",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the human digestive system, which enzyme is present in saliva that breaks down complex starch into sugar?",
+  "qHi": "मानव पाचन तंत्र में, लार में कौन सा एंजाइम होता है जो जटिल स्टार्च को शर्करा में तोड़ता है?",
+  "optsEn": [
+   "Pepsin",
+   "Trypsin",
+   "Salivary amylase",
+   "Lipase"
+  ],
+  "optsHi": [
+   "पेप्सिन",
+   "ट्रिप्सिन",
+   "लार एमाइलेज",
+   "लाइपेस"
+  ],
+  "correct": 2,
+  "explainEn": "Saliva contains an enzyme called salivary amylase that breaks down starch, which is a complex molecule, to give simple sugar.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:57:16Z"
+ },
+ {
+  "id": "q_2abcf8b89eecf165",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following organic compounds contains a carboxylic acid functional group?",
+  "qHi": "निम्नलिखित में से किस कार्बनिक यौगिक में कार्बोक्जिलिक अम्ल क्रियात्मक समूह होता है?",
+  "optsEn": [
+   "Ethanol",
+   "Ethanoic acid",
+   "Formaldehyde",
+   "Dimethyl ether"
+  ],
+  "optsHi": [
+   "एथेनॉल",
+   "एथेनोइक अम्ल",
+   "फॉर्मेल्डिहाइड",
+   "डाईमेथिल ईथर"
+  ],
+  "correct": 1,
+  "explainEn": "Ethanoic acid (commonly known as acetic acid) belongs to a group of acids called carboxylic acids.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:57:16Z"
  }
 ]

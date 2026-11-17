@@ -27046,5 +27046,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-16T06:36:45Z"
+ },
+ {
+  "id": "q_7bf2f73d92d9a3ad",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which term is used for the massive earthquake shaking that causes sudden movement of tectonic plates?",
+  "qHi": "टेक्टोनिक प्लेटों की अचानक हलचल के कारण होने वाले भारी भूकंपीय झटकों के लिए किस शब्द का उपयोग किया जाता है?",
+  "optsEn": [
+   "Cyclone",
+   "Tsunami",
+   "Earthquake",
+   "Drought"
+  ],
+  "optsHi": [
+   "चक्रवात",
+   "सुनामी",
+   "भूकंप",
+   "सूखा"
+  ],
+  "correct": 2,
+  "explainEn": "An earthquake is a sudden shaking of the Earth caused by the movement of crustal plates.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:56:05Z"
+ },
+ {
+  "id": "q_1b868f23d7650e2c",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the process of loosening and turning of the soil before sowing seeds called?",
+  "qHi": "बीज बोने से पहले मिट्टी को ढीला करने और उलटने-पुलटने की प्रक्रिया को क्या कहा जाता है?",
+  "optsEn": [
+   "Harvesting",
+   "Irrigation",
+   "Weeding",
+   "Ploughing"
+  ],
+  "optsHi": [
+   "कटाई",
+   "सिंचाई",
+   "निराई",
+   "जुताई"
+  ],
+  "correct": 3,
+  "explainEn": "Ploughing or tilling is the process of loosening and turning the soil, which helps roots breathe easily.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:57:10Z"
+ },
+ {
+  "id": "q_3e866c95268aa6a9",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the term used for the wholesale displacement of people from their home or country, often depicted in literature about the partition period?",
+  "qHi": "लोगों के अपने घर या देश से बड़े पैमाने पर विस्थापन के लिए किस शब्द का उपयोग किया जाता है, जिसे अक्सर विभाजन काल के साहित्य में दर्शाया गया है?",
+  "optsEn": [
+   "Colonisation",
+   "Urbanisation",
+   "Globalisation",
+   "Migration"
+  ],
+  "optsHi": [
+   "औपनिवेशिकरण",
+   "शहरीकरण",
+   "वैश्वीकरण",
+   "प्रवास"
+  ],
+  "correct": 3,
+  "explainEn": "Migration refers to the movement of people from one place to another, often on a large scale due to historical events.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:57:10Z"
+ },
+ {
+  "id": "q_5b6d8327cb10fcf8",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the British colonial period in India, the Permanent Settlement was introduced in 1793 primarily to secure a regular flow of revenue for the East India Company. Who was the Governor-General of Bengal at that time?",
+  "qHi": "भारत में ब्रिटिश औपनिवेशिक काल के दौरान, ईस्ट इंडिया कंपनी के लिए राजस्व का नियमित प्रवाह सुनिश्चित करने के लिए मुख्य रूप से 1793 में स्थायी बंदोबस्त शुरू किया गया था। उस समय बंगाल के गवर्नर-जनरल कौन थे?",
+  "optsEn": [
+   "Warren Hastings",
+   "Lord Cornwallis",
+   "Lord Wellesley",
+   "Lord Dalhousie"
+  ],
+  "optsHi": [
+   "वॉरेन हेस्टिंग्स",
+   "लॉर्ड कॉर्नवालिस",
+   "लॉर्ड वेलेडजी",
+   "लॉर्ड डलहौजी"
+  ],
+  "correct": 1,
+  "explainEn": "Lord Cornwallis introduced the Permanent Settlement in Bengal in 1793.",
+  "sourceHint": "NCERT Class 8 History Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:58:51Z"
+ },
+ {
+  "id": "q_a999ee9999557137",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of plant propagation, which of the following refers to a method where a scion of a desired plant variety is joined with the rootstock of another plant?",
+  "qHi": "पादप प्रवर्धन के संदर्भ में, निम्नलिखित में से किस विधि में किसी वांछित पौधे की किस्म के प्ररोह (स्चियन) को दूसरे पौधे के मूलवृंत (रूटस्टॉक) के साथ जोड़ा जाता है?",
+  "optsEn": [
+   "Layering",
+   "Grafting",
+   "Tissue culture",
+   "Spore formation"
+  ],
+  "optsHi": [
+   "दाब लगाना (लेयरिंग)",
+   "कलम लगाना (ग्राफ्टिंग)",
+   "ऊतक संवर्धन",
+   "बीजाणु निर्माण"
+  ],
+  "correct": 1,
+  "explainEn": "Grafting is a horticultural technique where tissues of plants are joined so as to continue their growth together.",
+  "sourceHint": "NCERT Class 8 Science Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:58:51Z"
+ },
+ {
+  "id": "q_d0a9e24c7fb56797",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which article of the Constitution of India guarantees the right to equality before the law and equal protection of the laws within the territory of India?",
+  "qHi": "भारत के संविधान का कौन सा अनुच्छेद भारत के राज्यक्षेत्र के भीतर विधि के समक्ष समता और विधियों के समान संरक्षण के अधिकार की गारंटी देता है?",
+  "optsEn": [
+   "Article 12",
+   "Article 14",
+   "Article 19",
+   "Article 21"
+  ],
+  "optsHi": [
+   "अनुच्छेद 12",
+   "अनुच्छेद 14",
+   "अनुच्छेद 19",
+   "अनुच्छेद 21"
+  ],
+  "correct": 1,
+  "explainEn": "Article 14 of the Indian Constitution states that the State shall not deny to any person equality before the law or the equal protection of the laws.",
+  "sourceHint": "Constitution of India / NCERT Class 8 Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:58:51Z"
+ },
+ {
+  "id": "q_3b5b0de7b430e532",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary chemical component of the hard protective shell found in the phylum Arthropoda, which is also a major structural polysaccharide?",
+  "qHi": "आर्थ्रोपोडा संघ में पाए जाने वाले कठोर सुरक्षात्मक आवरण का मुख्य रासायनिक घटक क्या है, जो एक प्रमुख संरचनात्मक पॉलीसैक्राइड भी है?",
+  "optsEn": [
+   "Cellulose",
+   "Chitin",
+   "Pectin",
+   "Glycogen"
+  ],
+  "optsHi": [
+   "सेलूलोज़",
+   "काइटिन",
+   "पेक्टिन",
+   "ग्लाइकोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Chitin is a fibrous substance consisting of polysaccharides, which forms the major constituent in the exoskeleton of arthropods.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:58:51Z"
+ },
+ {
+  "id": "q_4736222d041e7c5b",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In metallurgy, which process involves heating concentrated ore in the absence of air below its melting point to convert it into metal oxide?",
+  "qHi": "धातु कर्म में, किस प्रक्रिया में सांद्रित अयस्क को उसके गलनांक से नीचे वायु की अनुपस्थिति में गर्म करके धातु ऑक्साइड में परिवर्तित किया जाता है?",
+  "optsEn": [
+   "Roasting",
+   "Calcination",
+   "Smelting",
+   "Refining"
+  ],
+  "optsHi": [
+   "भर्जन (रोस्टिंग)",
+   "निस्तापन (कैल्सीनेशन)",
+   "प्रगलन (स्मेल्टिंग)",
+   "परिष्करण"
+  ],
+  "correct": 1,
+  "explainEn": "Calcination is the process of heating an ore in the absence of air to remove volatile impurities and convert carbonates to oxides.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:58:51Z"
+ },
+ {
+  "id": "q_f464e0359276889e",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which historical region of India was associated with the 'Ulgulan' or the Great Tumult led by Birsa Munda in the late 19th century?",
+  "qHi": "भारत का कौन सा ऐतिहासिक क्षेत्र 19वीं सदी के अंत में बिरसा मुंडा के नेतृत्व में हुए 'उलगुलान' या महान हलचल से जुड़ा था?",
+  "optsEn": [
+   "Chotanagpur",
+   "Awadh",
+   "Malabar",
+   "Bundelkhand"
+  ],
+  "optsHi": [
+   "छोटानागपुर",
+   "अवध",
+   "मालाबार",
+   "बुंदेलखंड"
+  ],
+  "correct": 0,
+  "explainEn": "Birsa Munda led the Ulgulan (rebellion) in the Chotanagpur region against British policies and local exploiters.",
+  "sourceHint": "NCERT Class 8 History Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:58:51Z"
+ },
+ {
+  "id": "q_889f4eb11115867a",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific type of coal has the highest carbon content and burns with the least smoke, making it the highest rank of coal?",
+  "qHi": "किस विशिष्ट प्रकार के कोयले में कार्बन की मात्रा सबसे अधिक होती है और यह सबसे कम धुएं के साथ जलता है, जिससे यह कोयले की सर्वोच्च श्रेणी बन जाता है?",
+  "optsEn": [
+   "Peat",
+   "Lignite",
+   "Bituminous",
+   "Anthracite"
+  ],
+  "optsHi": [
+   "पीट",
+   "लिग्नाइट",
+   "बिटुमिनस",
+   "एन्थरासाइट"
+  ],
+  "correct": 3,
+  "explainEn": "Anthracite is the highest grade of coal, containing 86–97% carbon, and burns cleanly with little smoke.",
+  "sourceHint": "NCERT Class 8 Science Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:58:51Z"
  }
 ]

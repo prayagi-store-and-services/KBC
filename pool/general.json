@@ -23070,5 +23070,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-16T06:37:45Z"
+ },
+ {
+  "id": "q_6847065d40db40af",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian state has the highest population density according to the 2011 Census?",
+  "qHi": "2011 की जनगणना के अनुसार किस भारतीय राज्य में जनसंख्या घनत्व सबसे अधिक है?",
+  "optsEn": [
+   "Uttar Pradesh",
+   "Bihar",
+   "West Bengal",
+   "Kerala"
+  ],
+  "optsHi": [
+   "उत्तर प्रदेश",
+   "बिहार",
+   "पश्चिम बंगाल",
+   "केरल"
+  ],
+  "correct": 1,
+  "explainEn": "According to the 2011 Census, Bihar is the most densely populated state with 1,106 persons per square kilometre.",
+  "sourceHint": "Census of India 2011",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:58:21Z"
+ },
+ {
+  "id": "q_6afff9c03b7325b9",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the famous novel 'Godan' in Hindi literature?",
+  "qHi": "हिंदी साहित्य में प्रसिद्ध उपन्यास 'गोदान' किसने लिखा है?",
+  "optsEn": [
+   "Munshi Premchand",
+   "Rabindranath Tagore",
+   "Harivansh Rai Bachchan",
+   "Ramdhari Singh Dinkar"
+  ],
+  "optsHi": [
+   "मुंशी प्रेमचंद",
+   "रविंद्रनाथ टैगोर",
+   "हरिवंश राय बच्चन",
+   "रामधारी सिंह दिनकर"
+  ],
+  "correct": 0,
+  "explainEn": "'Godan' is a Hindi novel by Munshi Premchand, widely regarded as one of the greatest Hindi novels of modern Indian literature.",
+  "sourceHint": "NCERT Hindi Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:58:21Z"
+ },
+ {
+  "id": "q_b867ebdbae7f843f",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which Indian state is the Kaziranga National Park located, famous for the one-horned rhinoceros?",
+  "qHi": "एक सींग वाले गैंडे के लिए प्रसिद्ध काजीरंगा राष्ट्रीय उद्यान किस भारतीय राज्य में स्थित है?",
+  "optsEn": [
+   "Uttarakhand",
+   "Assam",
+   "Madhya Pradesh",
+   "Gujarat"
+  ],
+  "optsHi": [
+   "उत्तराखंड",
+   "असम",
+   "मध्य प्रदेश",
+   "गुजरात"
+  ],
+  "correct": 1,
+  "explainEn": "Kaziranga National Park is a protected area in the northeast Indian state of Assam, hosting the world's largest population of great Indian one-horned rhinoceroses.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:58:21Z"
  }
 ]

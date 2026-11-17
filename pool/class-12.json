@@ -37154,5 +37154,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-16T22:06:00Z"
+ },
+ {
+  "id": "q_f08c8c1252ed6a09",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In a relation defined on a set, if every element is related to itself, the relation is called what?",
+  "qHi": "किसी समुच्चय पर परिभाषित संबंध में, यदि प्रत्येक अवयव स्वयं से संबंधित हो, तो उस संबंध को क्या कहा जाता है?",
+  "optsEn": [
+   "Symmetric",
+   "Transitive",
+   "Reflexive",
+   "Equivalence"
+  ],
+  "optsHi": [
+   "सममित",
+   "संक्रामक",
+   "स्वतुल्य",
+   "तुल्यता"
+  ],
+  "correct": 2,
+  "explainEn": "A relation R on a set A is reflexive if (a, a) belongs to R for every element a in A.",
+  "sourceHint": "NCERT Class 12 Mathematics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:56:15Z"
+ },
+ {
+  "id": "q_4cba106517326312",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following greenhouse gases has the highest atmospheric concentration?",
+  "qHi": "निम्नलिखित में से किस ग्रीनहाउस गैस की वायुमंडल में सांद्रता सबसे अधिक है?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Methane",
+   "Nitrous oxide",
+   "Ozone"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "मीथेन",
+   "नाइट्रस ऑक्साइड",
+   "ओजोन"
+  ],
+  "correct": 0,
+  "explainEn": "Carbon dioxide is the most abundant greenhouse gas emitted by human activities, having the highest concentration among them in the atmosphere.",
+  "sourceHint": "NCERT Class 12 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:56:15Z"
+ },
+ {
+  "id": "q_7e30cb43a560811f",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which functional group isomerism is exhibited by ethanol and methoxymethane?",
+  "qHi": "इथेनॉल और मेथोक्सीमीथेन द्वारा किस प्रकार की क्रियात्मक समूह समावयवता प्रदर्शित की जाती है?",
+  "optsEn": [
+   "Aldehyde and Ketone",
+   "Alcohol and Ether",
+   "Carboxylic acid and Ester",
+   "Amine and Amide"
+  ],
+  "optsHi": [
+   "ऐल्डिहाइड और कीटोन",
+   "ऐल्कोहॉल और ईथर",
+   "कार्बोक्सिलिक अम्ल और एस्टर",
+   "ऐमीन और एमाइड"
+  ],
+  "correct": 1,
+  "explainEn": "Ethanol is an alcohol (C2H5OH) and methoxymethane is an ether (CH3OCH3), having the same molecular formula C2H6O.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:57:33Z"
+ },
+ {
+  "id": "q_4c9eb967ab9d49c8",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of interaction is represented by the relationship between orchids growing on a mango tree branch?",
+  "qHi": "आम के पेड़ की शाखा पर उगने वाले ऑर्किड और पेड़ के बीच के संबंध को किस प्रकार की अन्योन्यक्रिया दर्शाया जाता है?",
+  "optsEn": [
+   "Mutualism",
+   "Commensalism",
+   "Parasitism",
+   "Competition"
+  ],
+  "optsHi": [
+   "सहोपकारिता (म्युचुअलिज्म)",
+   "सहभोजिता (कमेंसलिज्म)",
+   "परजीविता (पैरासिटिज़्म)",
+   "प्रतिस्पर्धा (कंपटीशन)"
+  ],
+  "correct": 1,
+  "explainEn": "Commensalism is an interaction where one species benefits (the orchid gets support and sunlight) and the other is neither harmed nor benefited (the mango tree).",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 13",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:57:33Z"
+ },
+ {
+  "id": "q_a27b43cd21baa8d6",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which process of map projection is best suited for representing areas in high latitudes such as polar regions?",
+  "qHi": "ध्रुवीय क्षेत्रों जैसे उच्च अक्षांशों में क्षेत्रों को दर्शाने के लिए कौन सी मानचित्र प्रक्षेप विधि सबसे उपयुक्त है?",
+  "optsEn": [
+   "Cylindrical projection",
+   "Conical projection",
+   "Zenithal (polar) projection",
+   "Mercator projection"
+  ],
+  "optsHi": [
+   "बेलनाकार प्रक्षेप",
+   "शंकु प्रक्षेप",
+   "खमध्य (ध्रुवीय) प्रक्षेप",
+   "मर्केटर प्रक्षेप"
+  ],
+  "correct": 2,
+  "explainEn": "Zenithal or planar projections are typically used for polar regions and high latitudes because distortion increases radially from the center point.",
+  "sourceHint": "NCERT Class 11 Geography (Practical Work in Geography Part I)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:57:33Z"
+ },
+ {
+  "id": "q_23fe6cdb8425e008",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Constitution of India, which article specifically bars the State from denying to any person equality before the law within the territory of India?",
+  "qHi": "भारत के संविधान के तहत, कौन सा अनुच्छेद विशेष रूप से राज्य को भारत के राज्यक्षेत्र के भीतर किसी भी व्यक्ति को विधि के समक्ष समता से वंचित करने से रोकता है?",
+  "optsEn": [
+   "Article 12",
+   "Article 14",
+   "Article 19",
+   "Article 21"
+  ],
+  "optsHi": [
+   "अनुच्छेद 12",
+   "अनुच्छेद 14",
+   "अनुच्छेद 19",
+   "अनुच्छेद 21"
+  ],
+  "correct": 1,
+  "explainEn": "Article 14 of the Constitution of India guarantees equality before the law and equal protection of the laws to all persons.",
+  "sourceHint": "Constitution of India, Part III - Fundamental Rights",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:59:33Z"
+ },
+ {
+  "id": "q_79e47437b50e53f0",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which macroeconomist is associated with the proposition that aggregate demand in an economy is the sum of consumption, investment, government expenditure, and net exports?",
+  "qHi": "किस अर्थशास्त्री को इस प्रस्ताव से जोड़ा जाता है कि अर्थव्यवस्था में समग्र मांग उपभोग, निवेश, सरकारी व्यय और शुद्ध निर्यात का योग है?",
+  "optsEn": [
+   "Adam Smith",
+   "John Maynard Keynes",
+   "Milton Friedman",
+   "David Ricardo"
+  ],
+  "optsHi": [
+   "एडम स्मिथ",
+   "जॉन मेनार्ड कीन्स",
+   "मिल्टन फ्रीडमैन",
+   "डेविड रिकारडो"
+  ],
+  "correct": 1,
+  "explainEn": "Keynesian macroeconomic framework defines aggregate demand through these specific expenditure components.",
+  "sourceHint": "NCERT Class 12 Macroeconomics, Chapter 2: National Income Accounting",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:59:33Z"
+ },
+ {
+  "id": "q_8cc7933aebcc31db",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In physics, what is the magnetic flux linked with a surface of area A placed in a uniform magnetic field B perpendicular to the surface?",
+  "qHi": "भौतिकी में, सतह के लंबवत एकसमान चुम्बकीय क्षेत्र B में रखी क्षेत्रफल A वाली सतह से जुड़ा चुम्बकीय फ्लक्स क्या है?",
+  "optsEn": [
+   "Zero",
+   "BA",
+   "BA / 2",
+   "B^2 A"
+  ],
+  "optsHi": [
+   "शून्य",
+   "BA",
+   "BA / 2",
+   "B^2 A"
+  ],
+  "correct": 1,
+  "explainEn": "Magnetic flux is given by the dot product of magnetic field and area vector, which evaluates to BA when the field is perpendicular to the surface (angle is zero between B and normal).",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 6: Electromagnetic Induction",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:59:33Z"
+ },
+ {
+  "id": "q_b609bbd876d1642d",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In human female gametogenesis, at what stage of embryonic development are primary oocytes formed and arrested in prophase I of meiotic division?",
+  "qHi": "मानव मादा युग्मकजनन में, भ्रूण के विकास के किस चरण में प्राथमिक डिंब बनते हैं और अर्धसूत्री विभाजन की प्रोफ़ेज़ I में रुक जाते हैं?",
+  "optsEn": [
+   "During embryonic development before birth",
+   "At the time of puberty",
+   "During each menstrual cycle",
+   "At the time of fertilization"
+  ],
+  "optsHi": [
+   "जन्म से पहले भ्रूण विकास के दौरान",
+   "यौवनारंभ के समय",
+   "प्रत्येक मासिक धर्म चक्र के दौरान",
+   "निषेचन के समय"
+  ],
+  "correct": 0,
+  "explainEn": "Oogenesis initiates during the embryonic development stage and millions of gamete mother cells (oogonia) are formed, getting arrested in prophase I.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 3: Human Reproduction",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:59:33Z"
+ },
+ {
+  "id": "q_af0915d8c7a4c03e",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which named organic reaction involves the conversion of a primary amine into an isocyanide by heating it with chloroform and alcoholic potassium hydroxide?",
+  "qHi": "किस नामित कार्बनिक अभिक्रिया में क्लोरोफॉर्म और एल्कोहॉलिक पोटेशियम हाइड्रॉक्साइड के साथ गर्म करके प्राथमिक एमीन को आइसोसाइनाइड में परिवर्तित किया जाता है?",
+  "optsEn": [
+   "Reimer-Tiemann reaction",
+   "Carbylamine reaction",
+   "Aldol condensation",
+   "Cannizzaro reaction"
+  ],
+  "optsHi": [
+   "राइमर-टीमैन अभिक्रिया",
+   "कार्बिलामीन अभिक्रिया",
+   "एल्डोल संघनन",
+   "कैनिज़ारो अभिक्रिया"
+  ],
+  "correct": 1,
+  "explainEn": "The carbylamine reaction is a test for primary amines, producing foul-smelling alkyl isocyanides.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 13: Amines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:59:33Z"
+ },
+ {
+  "id": "q_b5266ed4ff25aa72",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian polity and local government, which Constitutional Amendment Act conferred constitutional status on Urban Local Bodies (Municipalities)?",
+  "qHi": "भारतीय राजव्यवस्था और स्थानीय सरकार के संदर्भ में, किस संवैधानिक संशोधन अधिनियम ने शहरी स्थानीय निकायों (नगर पालिकाओं) को संवैधानिक दर्जा प्रदान किया?",
+  "optsEn": [
+   "42nd Amendment Act",
+   "44th Amendment Act",
+   "73rd Amendment Act",
+   "74th Amendment Act"
+  ],
+  "optsHi": [
+   "42वां संशोधन अधिनियम",
+   "44वां संशोधन अधिनियम",
+   "73वां संशोधन अधिनियम",
+   "74वां संशोधन अधिनियम"
+  ],
+  "correct": 3,
+  "explainEn": "The 74th Amendment Act, 1992 added Part IX-A to the Constitution, institutionalizing urban local government.",
+  "sourceHint": "NCERT Class 12 Political Science, Indian Constitution at Work - Local Governments",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:59:33Z"
  }
 ]

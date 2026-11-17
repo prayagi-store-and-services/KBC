@@ -32058,5 +32058,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-16T22:05:38Z"
+ },
+ {
+  "id": "q_125a1185448730f9",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these animals is a mammal that can fly?",
+  "qHi": "इनमें से कौन सा जानवर एक ऐसा स्तनधारी है जो उड़ सकता है?",
+  "optsEn": [
+   "Crow",
+   "Bat",
+   "Ostrich",
+   "Penguin"
+  ],
+  "optsHi": [
+   "कौवा",
+   "चमगादड़",
+   "शुतुरमुर्ग",
+   "पेंगुइन"
+  ],
+  "correct": 1,
+  "explainEn": "Bats are mammals possessing the ability of sustained flight.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:57:04Z"
+ },
+ {
+  "id": "q_28b937d9f5a740d7",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these plants spreads its seeds mainly through the explosion of its pods?",
+  "qHi": "इनमें से कौन सा पौधा मुख्य रूप से अपने फली के फटने से बीजों को फैलाता है?",
+  "optsEn": [
+   "Mango",
+   "Pea",
+   "Coconut",
+   "Lotus"
+  ],
+  "optsHi": [
+   "आम",
+   "मटर",
+   "नारियल",
+   "कमल"
+  ],
+  "correct": 1,
+  "explainEn": "Pea pods dry up and burst open suddenly, scattering the seeds away from the parent plant.",
+  "sourceHint": "NCERT Class 5 Environmental Studies (EVS) Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:58:34Z"
+ },
+ {
+  "id": "q_808d0037996b2b15",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian stepwell is known for having walls lined with steps in a geometric maze pattern?",
+  "qHi": "किस पारंपरिक भारतीय बावड़ी (स्टेपवेल) को ज्यामितीय भूलभुलैया पैटर्न में सीढ़ियों वाली दीवारों के लिए जाना जाता है?",
+  "optsEn": [
+   "Agrasen ki Baoli",
+   "Rani ki Vav",
+   "Chand Baori",
+   "Neemrana Baoli"
+  ],
+  "optsHi": [
+   "अग्रसेन की बावड़ी",
+   "रानी की वाव",
+   "चांद बावड़ी",
+   "नीमराना बावड़ी"
+  ],
+  "correct": 2,
+  "explainEn": "Chand Baori in Abhaneri, Rajasthan, is famous for its large-scale, symmetrical triangular steps descending to water.",
+  "sourceHint": "NCERT Class 5 EVS Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:58:34Z"
+ },
+ {
+  "id": "q_bbe4258cc61fce77",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of map representation uses contour lines to show the height of landforms?",
+  "qHi": "भूमि के रूपों की ऊंचाई दिखाने के लिए किस प्रकार के मानचित्र प्रतिनिधित्व में समोच्च रेखाओं का उपयोग किया जाता है?",
+  "optsEn": [
+   "Political map",
+   "Physical map",
+   "Road map",
+   "Climate map"
+  ],
+  "optsHi": [
+   "राजनीतिक मानचित्र",
+   "भौतिक मानचित्र",
+   "सड़क मानचित्र",
+   "जलवायु मानचित्र"
+  ],
+  "correct": 1,
+  "explainEn": "Physical maps show natural features like mountains and plateaus, often using contour lines or elevation coloring.",
+  "sourceHint": "NCERT Class 5 Social Studies curriculum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:58:34Z"
+ },
+ {
+  "id": "q_72f25ecaf257c7ee",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary organ of the human respiratory system responsible for exchanging gases?",
+  "qHi": "मानव श्वसन तंत्र का मुख्य अंग कौन सा है जो गैसों के आदान-प्रदान के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Heart",
+   "Lungs",
+   "Stomach",
+   "Kidney"
+  ],
+  "optsHi": [
+   "हृदय",
+   "फेफड़े",
+   "पेट",
+   "गुर्दा"
+  ],
+  "correct": 1,
+  "explainEn": "The lungs take in oxygen from inhaled air and release carbon dioxide.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:58:34Z"
+ },
+ {
+  "id": "q_2d4eef3f18cc93ac",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian monument was built entirely of red sandstone and white marble by Mughal Emperor Shah Jahan in Delhi?",
+  "qHi": "दिल्ली में मुगल सम्राट शाहजहाँ द्वारा पूरी तरह से लाल बलुआ पत्थर और सफेद संगमरमर से कौन सा भारतीय स्मारक बनवाया गया था?",
+  "optsEn": [
+   "Qutub Minar",
+   "Red Fort",
+   "Humayun Tomb",
+   "Gateway of India"
+  ],
+  "optsHi": [
+   "कुतुब मीनार",
+   "लाल किला",
+   "हुमायूं का मकबरा",
+   "गेटवे ऑफ इंडिया"
+  ],
+  "correct": 1,
+  "explainEn": "The Red Fort (Lal Qila) in Delhi was commissioned by Shah Jahan when he shifted his capital to Shahjahanabad.",
+  "sourceHint": "NCERT Class 5 EVS Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:58:34Z"
  }
 ]

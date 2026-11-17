@@ -41046,5 +41046,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-16T06:37:41Z"
+ },
+ {
+  "id": "q_e93b3ceb4f25cd95",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following institutions regulates the mutual funds market in India?",
+  "qHi": "निम्नलिखित में से कौन सी संस्था भारत में म्यूचुअल फंड बाजार को नियंत्रित करती है?",
+  "optsEn": [
+   "RBI",
+   "SEBI",
+   "IRDAI",
+   "NABARD"
+  ],
+  "optsHi": [
+   "RBI",
+   "SEBI",
+   "IRDAI",
+   "NABARD"
+  ],
+  "correct": 1,
+  "explainEn": "The Securities and Exchange Board of India (SEBI) is the regulatory body for securities and mutual fund markets in India.",
+  "sourceHint": "SEBI Act, 1992",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:56:50Z"
+ },
+ {
+  "id": "q_2481d1c7da159cd3",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization in India is responsible for issuing currency notes in denominations of one rupee and above (except one rupee note issued by the Ministry of Finance)?",
+  "qHi": "भारत में एक रुपये और उससे ऊपर मूल्यवर्ग के करेंसी नोट जारी करने के लिए कौन सा संगठन जिम्मेदार है?",
+  "optsEn": [
+   "State Bank of India",
+   "Ministry of Finance",
+   "Reserve Bank of India",
+   "Comptroller and Auditor General"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "वित्त मंत्रालय",
+   "भारतीय रिजर्व बैंक",
+   "नियंत्रक और महालेखा परीक्षक"
+  ],
+  "correct": 2,
+  "explainEn": "Under Section 22 of the RBI Act, the Reserve Bank has the sole right to issue bank notes in India, while one-rupee notes and coins are issued by the Ministry of Finance.",
+  "sourceHint": "RBI Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:56:50Z"
+ },
+ {
+  "id": "q_13c84893b43b31d8",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which sector does NABARD primarily cater to in India?",
+  "qHi": "नाबार्ड (NABARD) मुख्य रूप से भारत में किस क्षेत्र को पूरा करता है?",
+  "optsEn": [
+   "Large Scale Industries",
+   "Information Technology",
+   "Agriculture and Rural Development",
+   "Stock Broking"
+  ],
+  "optsHi": [
+   "बड़े पैमाने के उद्योग",
+   "सूचना प्रौद्योगिकी",
+   "कृषि और ग्रामीण विकास",
+   "स्टॉक ब्रोकिंग"
+  ],
+  "correct": 2,
+  "explainEn": "NABARD stands for National Bank for Agriculture and Rural Development, established for the development of agriculture and rural sectors in India.",
+  "sourceHint": "NABARD Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:56:50Z"
+ },
+ {
+  "id": "q_a9fbecb6cfb28330",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India regulates the credit rating agencies such as CRISIL and ICRA?",
+  "qHi": "भारत में CRISIL और ICRA जैसी क्रेडिट रेटिंग एजेंसियों को कौन सा संगठन विनियमित करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India",
+   "Insurance Regulatory and Development Authority",
+   "Pension Fund Regulatory and Development Authority"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "बीमा विनियामक और विकास प्राधिकरण",
+   "पेंशन निधि विनियामक और विकास प्राधिकरण"
+  ],
+  "correct": 1,
+  "explainEn": "SEBI regulates credit rating agencies in India under the SEBI (Credit Rating Agencies) Regulations, 1999.",
+  "sourceHint": "SEBI Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:58:16Z"
+ },
+ {
+  "id": "q_d96875b1423c460c",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the Liquidity Adjustment Facility (LAF) used by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा उपयोग किए जाने वाले तरलता समायोजन सुविधा (LAF) में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liability",
+   "Liquidity",
+   "Leverage",
+   "Ledger"
+  ],
+  "optsHi": [
+   "दायित्व",
+   "तरलता",
+   "लिवरेज",
+   "बहीखाता"
+  ],
+  "correct": 1,
+  "explainEn": "LAF stands for Liquidity Adjustment Facility, which is a monetary policy tool used by the RBI.",
+  "sourceHint": "RBI Glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:58:16Z"
+ },
+ {
+  "id": "q_86e5bc83f2161bd6",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque is a type of bill of exchange that is drawn on a specified:",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, चेक विनिमय पत्र का एक प्रकार है जो एक निर्दिष्ट पर लिखा जाता है:",
+  "optsEn": [
+   "Microfinance Institution",
+   "Non-Banking Financial Company",
+   "Banker",
+   "Cooperative Society"
+  ],
+  "optsHi": [
+   "सूक्ष्म वित्त संस्थान",
+   "गैर-बैंकिंग वित्तीय कंपनी",
+   "बैंकर",
+   "सहकारी समिति"
+  ],
+  "correct": 2,
+  "explainEn": "Section 6 of the Negotiable Instruments Act defines a cheque as a bill of exchange drawn on a specified banker.",
+  "sourceHint": "Negotiable Instruments Act, 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:58:16Z"
+ },
+ {
+  "id": "q_1060d77232148a6c",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following terms is used to describe the total value of all finished goods and services produced within a country's borders in a specific time period?",
+  "qHi": "निम्नलिखित में से किस शब्द का उपयोग एक निश्चित समय अवधि में देश की सीमाओं के भीतर उत्पादित सभी अंतिम वस्तुओं और सेवाओं के कुल मूल्य को वर्णन करने के लिए किया جاتا ہے?",
+  "optsEn": [
+   "Gross Domestic Product",
+   "Gross National Product",
+   "Net National Product",
+   "Disposable Personal Income"
+  ],
+  "optsHi": [
+   " सकल घरेलू उत्पाद",
+   "सकल राष्ट्रीय उत्पाद",
+   "शुद्ध राष्ट्रीय उत्पाद",
+   "प्रयोज्य व्यक्तिगत आय"
+  ],
+  "correct": 0,
+  "explainEn": "Gross Domestic Product (GDP) measures the monetary value of final goods and services produced within a country.",
+  "sourceHint": "NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:58:16Z"
+ },
+ {
+  "id": "q_aef5fc889a4964ae",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which financial market segment deals with the borrowing and lending of funds for short periods, typically up to one year?",
+  "qHi": "कौन सा वित्तीय बाजार खंड अल्प अवधि के लिए, आमतौर पर एक वर्ष तक के लिए धन के उधार और ऋण देने का सौदा करता है?",
+  "optsEn": [
+   "Capital Market",
+   "Money Market",
+   "Primary Market",
+   "Derivatives Market"
+  ],
+  "optsHi": [
+   "पूंजी बाजार",
+   "मुद्रा बाजार",
+   "प्राथमिक बाजार",
+   "डेरिवेटिव बाजार"
+  ],
+  "correct": 1,
+  "explainEn": "The money market is the segment of the financial market where financial instruments with high liquidity and short maturities are traded.",
+  "sourceHint": "NCERT Business Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:58:16Z"
+ },
+ {
+  "id": "q_db47e95116c9f70e",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of introducing the Priority Sector Lending (PSL) norms by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा प्राथमिकता प्राप्त क्षेत्र को ऋण (PSL) मानदंडों को शुरू करने का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To increase foreign direct investment",
+   "To ensure adequate credit flow to vulnerable and weaker sectors of the economy",
+   "To reduce the foreign exchange reserves",
+   "To manage the fiscal deficit of the central government"
+  ],
+  "optsHi": [
+   "प्रत्यक्ष विदेशी निवेश बढ़ाना",
+   "अर्थव्यवस्था के कमजोर और कमजोर क्षेत्रों को पर्याप्त ऋण प्रवाह सुनिश्चित करना",
+   "विदेशी मुद्रा भंडार को कम करना",
+   "केंद्र सरकार के राजकोषीय घाटे का प्रबंधन करना"
+  ],
+  "correct": 1,
+  "explainEn": "Priority Sector Lending ensures that banks provide a specified portion of their bank lending to sectors like agriculture, MSMEs, and weaker sections.",
+  "sourceHint": "RBI Master Directions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:58:16Z"
  }
 ]

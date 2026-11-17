@@ -23602,5 +23602,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-16T22:07:19Z"
+ },
+ {
+  "id": "q_524b86549fa0e702",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which vitamin is abundantly found in citrus fruits like oranges and lemons?",
+  "qHi": "संतरे और नींबू जैसे खट्टे फलों में प्रचुर मात्रा में कौन सा विटामिन पाया जाता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 2,
+  "explainEn": "Citrus fruits are rich sources of Vitamin C, also known as ascorbic acid.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:56:38Z"
+ },
+ {
+  "id": "q_a406b4cdb1582838",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which historical monument is famously known as a symbol of love and located on the banks of the Yamuna River?",
+  "qHi": "किस ऐतिहासिक स्मारक को प्रेम के प्रतीक के रूप में जाना जाता है और जो यमुना नदी के तट पर स्थित है?",
+  "optsEn": [
+   "Qutub Minar",
+   "Taj Mahal",
+   "Red Fort",
+   "Humauns Tomb"
+  ],
+  "optsHi": [
+   "कुतुब मीनार",
+   "ताज महल",
+   "लाल किला",
+   "हुमायूं का मकबरा"
+  ],
+  "correct": 1,
+  "explainEn": "The Taj Mahal is a white marble mausoleum built by Mughal Emperor Shah Jahan in Agra on the Yamuna riverbank.",
+  "sourceHint": "Archaeological Survey of India (ASI)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:56:38Z"
+ },
+ {
+  "id": "q_8cd3c4814ca65714",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The Ajanta Caves are primarily known for rock-cut architecture belonging to which religion?",
+  "qHi": "अजंता की गुफाएँ मुख्य रूप से किस धर्म से संबंधित शैल-कृत वास्तुकला के लिए जानी जाती हैं?",
+  "optsEn": [
+   "Hinduism",
+   "Buddhism",
+   "Jainism",
+   "Sikhism"
+  ],
+  "optsHi": [
+   "हिंदू धर्म",
+   "बौद्ध धर्म",
+   "जैन धर्म",
+   "सिख धर्म"
+  ],
+  "correct": 1,
+  "explainEn": "The Ajanta Caves in Maharashtra comprise rock-cut cave monuments dating from the 2nd century BCE to about 480 CE containing masterpieces of Buddhist religious art.",
+  "sourceHint": "NCERT Fine Arts Class 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-17T07:58:10Z"
  }
 ]
