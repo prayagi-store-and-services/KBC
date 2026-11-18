@@ -41466,5 +41466,397 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-17T20:58:55Z"
+ },
+ {
+  "id": "q_3b4797c4294571cc",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum limit of characters in a standard IFSC (Indian Financial System Code)?",
+  "qHi": "मानक IFSC (इंडियन फाइनेंशियल सिस्टम कोड) में वर्णों की अधिकतम सीमा क्या है?",
+  "optsEn": [
+   "9",
+   "10",
+   "11",
+   "12"
+  ],
+  "optsHi": [
+   "9",
+   "10",
+   "11",
+   "12"
+  ],
+  "correct": 2,
+  "explainEn": "An IFSC is an 11-character alphanumeric code used for electronic funds transfer in India.",
+  "sourceHint": "Reserve Bank of India guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:30:00Z"
+ },
+ {
+  "id": "q_77984a1d6538bf16",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which coin denomination is currently the lowest legal tender in active circulation issued by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा जारी वर्तमान में सक्रिय प्रचलन में सबसे कम कानूनी निविदा कौन सी सिक्का मूल्यवर्ग है?",
+  "optsEn": [
+   "1 Rupee",
+   "50 Paisa",
+   "25 Paisa",
+   "10 Paisa"
+  ],
+  "optsHi": [
+   "1 रुपया",
+   "50 पैसे",
+   "25 पैसे",
+   "10 पैसे"
+  ],
+  "correct": 0,
+  "explainEn": "Coins of denomination of 50 paise, 25 paise and below have been withdrawn from circulation, making the 1 Rupee coin the lowest active legal tender.",
+  "sourceHint": "Reserve Bank of India currency operations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:30:00Z"
+ },
+ {
+  "id": "q_eef8fdc5aaaca0de",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of 'UPI', a popular payment system in India?",
+  "qHi": "भारत में एक लोकप्रिय भुगतान प्रणाली 'UPI' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Unified Payments Interface",
+   "Universal Payment Integration",
+   "United Payment Institution",
+   "Unified Portal for Investment"
+  ],
+  "optsHi": [
+   "Unified Payments Interface",
+   "Universal Payment Integration",
+   "United Payment Institution",
+   "Unified Portal for Investment"
+  ],
+  "correct": 0,
+  "explainEn": "UPI stands for Unified Payments Interface, developed by the National Payments Corporation of India.",
+  "sourceHint": "National Payments Corporation of India (NPCI)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:30:00Z"
+ },
+ {
+  "id": "q_ecab0b3c2cb2404f",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization manages the issuance of currency notes in India under the guidance of the RBI?",
+  "qHi": "RBI के मार्गदर्शन में भारत में करेंसी नोटों के निर्गम का प्रबंधन कौन सा संगठन करता है?",
+  "optsEn": [
+   "Security Printing and Minting Corporation of India Limited",
+   "State Bank of India",
+   "NITI Aayog",
+   "BSE Limited"
+  ],
+  "optsHi": [
+   "Security Printing and Minting Corporation of India Limited",
+   "भारतीय स्टेट बैंक",
+   "नीति आयोग",
+   "बीएसई लिमिटेड"
+  ],
+  "correct": 0,
+  "explainEn": "SPMCIL and BRBNMPL print currency notes in India under the overall supervision of the Reserve Bank of India.",
+  "sourceHint": "Ministry of Finance, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:30:00Z"
+ },
+ {
+  "id": "q_f0ebe0a03c17b534",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of the Indian banking sector, what does the 'L' stand for in 'LAF'?",
+  "qHi": "भारतीय बैंकिंग क्षेत्र के संदर्भ में, 'LAF' में 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liquidity",
+   "Liability",
+   "Leverage",
+   "Ledger"
+  ],
+  "optsHi": [
+   "Liquidity",
+   "Liability",
+   "Leverage",
+   "Ledger"
+  ],
+  "correct": 0,
+  "explainEn": "LAF stands for Liquidity Adjustment Facility, which is a monetary policy tool used by the RBI.",
+  "sourceHint": "RBI Glossary of Banking Terms",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:32:12Z"
+ },
+ {
+  "id": "q_0e0d81c2e11a923e",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Priority Sector Lending (PSL) norms for domestic commercial banks in India, what is the overall target percentage of Adjusted Net Bank Credit (ANBC) assigned to priority sectors?",
+  "qHi": "भारत में घरेलू वाणिज्यिक बैंकों के लिए प्राथमिकता प्राप्त क्षेत्र ऋण (PSL) मानदंडों के तहत, प्राथमिकता क्षेत्रों को दिए जाने वाले समायोजित शुद्ध बैंक ऋण (ANBC) का कुल लक्ष्य प्रतिशत कितना है?",
+  "optsEn": [
+   "30 percent",
+   "40 percent",
+   "50 percent",
+   "75 percent"
+  ],
+  "optsHi": [
+   "30 प्रतिशत",
+   "40 प्रतिशत",
+   "50 प्रतिशत",
+   "75 प्रतिशत"
+  ],
+  "correct": 1,
+  "explainEn": "Domestic commercial banks and foreign banks with 20 branches and above are required to maintain a 40 percent target for Priority Sector Lending.",
+  "sourceHint": "RBI Master Directions on Priority Sector Lending",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:32:12Z"
+ },
+ {
+  "id": "q_5d9590b8d68b8d3a",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'C' stand for in the CAMELS rating framework used by regulators to evaluate the safety and soundness of banks?",
+  "qHi": "बैंकों की सुरक्षा और सुदृढ़ता का मूल्यांकन करने के लिए नियामकों द्वारा उपयोग किए जाने वाले CAMELS रेटिंग ढांचे में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Capital Adequacy",
+   "Credit Rating",
+   "Cash Reserve",
+   "Consumer Protection"
+  ],
+  "optsHi": [
+   "पूंजी पर्याप्तता",
+   "क्रेडिट रेटिंग",
+   "नकद आरक्षित",
+   "उपभोक्ता सुरक्षा"
+  ],
+  "correct": 0,
+  "explainEn": "In the CAMELS framework, C stands for Capital Adequacy, followed by Asset Quality, Management, Earnings, Liquidity, and Sensitivity.",
+  "sourceHint": "RBI Supervisory Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:32:12Z"
+ },
+ {
+  "id": "q_3a6b5cee082fc88b",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India assigns credit ratings to corporate entities and debt instruments, functioning as a credit rating agency?",
+  "qHi": "भारत में कौन सा संगठन कॉर्पोरेट संस्थाओं और ऋण उपकरणों को क्रेडिट रेटिंग प्रदान करता है, जो क्रेडिट रेटिंग एजेंसी के रूप में कार्य करता है?",
+  "optsEn": [
+   "NABARD",
+   "SIDBI",
+   "CRISIL",
+   "EXIM Bank"
+  ],
+  "optsHi": [
+   "नाबार्ड",
+   "सिडबी",
+   "क्रिसिल",
+   "एक्ज़िम बैंक"
+  ],
+  "correct": 2,
+  "explainEn": "CRISIL (Credit Rating Information Services of India Limited) is a prominent analytical company providing ratings, research, and risk and policy advisory services.",
+  "sourceHint": "SEBI Registered Credit Rating Agencies List",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:32:12Z"
+ },
+ {
+  "id": "q_315522bcfd0b9cd5",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the minimum net owned fund requirement mandated by the Reserve Bank of India for setting up a Non-Banking Financial Company (NBFC-ICC)?",
+  "qHi": "गैर-बैंकिंग वित्तीय कंपनी (NBFC-ICC) स्थापित करने के लिए भारतीय रिजर्व बैंक द्वारा अनिवार्य न्यूनतम शुद्ध स्वामित्व कोष (Net Owned Fund) की आवश्यकता क्या है?",
+  "optsEn": [
+   "2 crore rupees",
+   "5 crore rupees",
+   "10 crore rupees",
+   "20 crore rupees"
+  ],
+  "optsHi": [
+   "2 करोड़ रुपये",
+   "5 करोड़ रुपये",
+   "10 करोड़ रुपये",
+   "20 करोड़ रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "As per RBI regulations, the minimum Net Owned Fund (NOF) required for a Non-Banking Financial Company - Investment and Credit Company (NBFC-ICC) is 10 crore rupees.",
+  "sourceHint": "RBI Master Directions on NBFCs",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:35:16Z"
+ },
+ {
+  "id": "q_caec8288f1077f3d",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Basel III norms implemented in Indian banks, what constitutes Tier 1 Capital?",
+  "qHi": "भारतीय बैंकों में लागू बेसल III मानदंडों के तहत, टियर 1 पूंजी में क्या शामिल है?",
+  "optsEn": [
+   "Only Common Equity Tier 1 capital",
+   "Sum of Common Equity Tier 1 and Additional Tier 1 capital",
+   "Sum of Paid-up capital and general reserves",
+   "Sum of Tier 1 and Tier 2 capital minus revaluation reserves"
+  ],
+  "optsHi": [
+   "केवल सामान्य इक्विटी टियर 1 पूंजी",
+   "सामान्य इक्विटी टियर 1 और अतिरिक्त टियर 1 पूंजी का योग",
+   "चुक्ता पूंजी और सामान्य आरक्षित निधि का योग",
+   "मूल्यांकन भंडार को छोड़कर टियर 1 और टियर 2 पूंजी का योग"
+  ],
+  "correct": 1,
+  "explainEn": "Tier 1 capital under Basel III framework consists of Common Equity Tier 1 (CET1) capital and Additional Tier 1 (AT1) capital.",
+  "sourceHint": "RBI Master Circular - Basel III Capital Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:35:16Z"
+ },
+ {
+  "id": "q_3514836e2fe9781a",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organization in India calculates and releases the Index of Eight Core Industries?",
+  "qHi": "भारत में कौन सा संगठन आठ कोर उद्योगों का सूचकांक (Index of Eight Core Industries) गणना और जारी करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Office of the Economic Adviser, DPIIT",
+   "National Statistical Office",
+   "NITI Aayog"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "आर्थिक सलाहकार कार्यालय, डीपीआईआईटी",
+   "राष्ट्रीय सांख्यिकी कार्यालय",
+   "नीति आयोग"
+  ],
+  "correct": 1,
+  "explainEn": "The Index of Eight Core Industries (ICI) is compiled and released by the Office of the Economic Adviser (OEA) under the Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry.",
+  "sourceHint": "Ministry of Commerce and Industry, PIB",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:35:16Z"
+ },
+ {
+  "id": "q_117497e30e334090",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What does the 'L' stand for in the Liquidity Coverage Ratio (LCR) framework introduced under Basel III guidelines?",
+  "qHi": "बेसल III दिशानिर्देशों के तहत शुरू किए गए तरलता कवरेज अनुपात (LCR) ढांचे में 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liability",
+   "Leverage",
+   "Liquidity",
+   "Ledger"
+  ],
+  "optsHi": [
+   "दायित्व",
+   "उत्प्रेरक",
+   "तरलता",
+   "बहीखाता"
+  ],
+  "correct": 2,
+  "explainEn": "LCR stands for Liquidity Coverage Ratio, which is a Basel III metric designed to ensure that banks have an adequate stock of unencumbered high-quality liquid assets.",
+  "sourceHint": "Bank for International Settlements (BIS) / RBI Basel III Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:35:16Z"
+ },
+ {
+  "id": "q_318c430dae51bf87",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "According to the Negotiable Instruments Act, 1881, which section defines a 'Cheque' as a bill of exchange drawn on a specified banker?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के अनुसार, कौन सी धारा किसी निर्दिष्ट बैंकर पर लिखे गए विनिमय पत्र के रूप में 'चेक' को परिभाषित करती है?",
+  "optsEn": [
+   "Section 5",
+   "Section 6",
+   "Section 13",
+   "Section 25"
+  ],
+  "optsHi": [
+   "धारा 5",
+   "धारा 6",
+   "धारा 13",
+   "धारा 25"
+  ],
+  "correct": 1,
+  "explainEn": "Section 6 of the Negotiable Instruments Act, 1881 defines a 'cheque' as a bill of exchange drawn on a specified banker and not expressed to be payable otherwise than on demand.",
+  "sourceHint": "The Negotiable Instruments Act, 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:35:16Z"
+ },
+ {
+  "id": "q_17d9dc713dd13b71",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary objective of the Prompt Corrective Action (PCA) framework used by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा उपयोग किए जाने वाले त्वरित सुधार कार्रवाई (PCA) ढांचे का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To regulate foreign institutional investments",
+   "To monitor and intervene in financially weak banks early",
+   "To manage foreign exchange reserves",
+   "To set the repo rate and reverse repo rate"
+  ],
+  "optsHi": [
+   "विदेशी संस्थागत निवेश को विनियमित करना",
+   "वित्तीय रूप से कमजोर बैंकों पर जल्दी निगरानी रखना और हस्तक्षेप करना",
+   "विदेशी मुद्रा भंडार का प्रबंधन करना",
+   "रेपो दर और रिवर्स रेपो दर निर्धारित करना"
+  ],
+  "correct": 1,
+  "explainEn": "The PCA framework enables the RBI to intervene early and take supervisory actions on banks that show vulnerability in terms of capital, asset quality, and profitability.",
+  "sourceHint": "RBI Master Directions on PCA Framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:35:16Z"
  }
 ]

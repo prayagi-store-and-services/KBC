@@ -27382,5 +27382,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-17T20:59:49Z"
+ },
+ {
+  "id": "q_a7ea63c2e789fb03",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the name of the process by which a plant cell loses water in a hypertonic solution?",
+  "qHi": "उस प्रक्रिया का नाम क्या है जिसके द्वारा अतिपरासारी घोल में पादप कोशिका पानी खो देती है?",
+  "optsEn": [
+   "Plasmolysis",
+   "Osmosis",
+   "Diffusion",
+   "Transpiration"
+  ],
+  "optsHi": [
+   "जीवद्रव्यकुंचन",
+   "परासरण",
+   "विसरण",
+   "वाष्पोसर्जन"
+  ],
+  "correct": 0,
+  "explainEn": "Plasmolysis is the shrinking of the protoplasm away from the cell wall due to water loss.",
+  "sourceHint": "NCERT Class 8 Science Chapter 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:30:13Z"
+ },
+ {
+  "id": "q_758bccf34946b9eb",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is classified as a non-conventional source of energy?",
+  "qHi": "निम्नलिखित में से किसे ऊर्जा के गैर-पारंपरिक स्रोत के रूप में वर्गीकृत किया गया है?",
+  "optsEn": [
+   "Coal",
+   "Natural Gas",
+   "Solar Energy",
+   "Petroleum"
+  ],
+  "optsHi": [
+   "कोयला",
+   "प्राकृतिक गैस",
+   "सौर ऊर्जा",
+   "पेट्रोलियम"
+  ],
+  "correct": 2,
+  "explainEn": "Solar energy is renewable and non-conventional, whereas coal, petroleum, and natural gas are conventional fossil fuels.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:33:00Z"
+ },
+ {
+  "id": "q_84cf3d570dd60eff",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In a court of law in India, who does the Public Prosecutor represent?",
+  "qHi": "भारत की अदालत में, लोक अभियोजक (पब्लिक प्रोसिक्यूटर) किसका प्रतिनिधित्व करता है?",
+  "optsEn": [
+   "The accused person",
+   "The interests of the State",
+   "The defense lawyer",
+   "The private witness only"
+  ],
+  "optsHi": [
+   "आरोपी व्यक्ति का",
+   "राज्य के हितों का",
+   "बचाव पक्ष के वकील का",
+   "केवल निजी गवाह का"
+  ],
+  "correct": 1,
+  "explainEn": "A Public Prosecutor represents the interests of the State and conducts the prosecution on behalf of the government in criminal cases.",
+  "sourceHint": "NCERT Class 8 Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:33:00Z"
+ },
+ {
+  "id": "q_35ce7dc7a318f336",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the Indian Parliament, which body represents the interests of the States and Union Territories?",
+  "qHi": "भारतीय संसद के संदर्भ में, कौन सा निकाय राज्यों और केंद्र शासित प्रदेशों के हितों का प्रतिनिधित्व करता है?",
+  "optsEn": [
+   "Lok Sabha",
+   "Rajya Sabha",
+   "Vidhan Sabha",
+   "Gram Sabha"
+  ],
+  "optsHi": [
+   "लोकसभा",
+   "राज्यसभा",
+   "विधानसभा",
+   "ग्राम सभा"
+  ],
+  "correct": 1,
+  "explainEn": "Rajya Sabha is the Upper House of the Indian Parliament that specifically represents the states and union territories of India.",
+  "sourceHint": "NCERT Class 8 Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:35:55Z"
+ },
+ {
+  "id": "q_347536787b4bdbd3",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which microorganism converts atmospheric nitrogen into nitrogenous compounds that can be utilized by leguminous plants?",
+  "qHi": "कौन सा सूक्ष्मजीव वायुमंडलीय नाइट्रोजन को नाइट्रोजन युक्त यौगिकों में परिवर्तित करता है जिनका उपयोग फलीदार पौधों द्वारा किया जा सकता है?",
+  "optsEn": [
+   "Lactobacillus",
+   "Rhizobium",
+   "Yeast",
+   "Penicillium"
+  ],
+  "optsHi": [
+   "लैक्टोबैसिलस",
+   "राइजोबियम",
+   "खमीर",
+   "पेनिसिलियम"
+  ],
+  "correct": 1,
+  "explainEn": "Rhizobium bacteria live in the root nodules of leguminous plants and fix atmospheric nitrogen into usable forms.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:35:55Z"
+ },
+ {
+  "id": "q_90ae44913b809f62",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Indian Constitution, which fundamental right guarantees protection against arrest and detention in certain cases?",
+  "qHi": "भारतीय संविधान के तहत, कौन सा मौलिक अधिकार कुछ मामलों में गिरफ्तारी और हिरासत के खिलाफ संरक्षण की गारंटी देता है?",
+  "optsEn": [
+   "Right to Equality",
+   "Right to Freedom",
+   "Right to Constitutional Remedies",
+   "Right against Exploitation"
+  ],
+  "optsHi": [
+   "समानता का अधिकार",
+   "स्वतंत्रता का अधिकार",
+   "संवैधानिक उपचार का अधिकार",
+   "शोषण के विरुद्ध अधिकार"
+  ],
+  "correct": 1,
+  "explainEn": "Article 22 under the Right to Freedom grants protection against arrest and detention in certain cases.",
+  "sourceHint": "Indian Constitution / NCERT Class 8 Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:35:55Z"
+ },
+ {
+  "id": "q_32cbe2fca835e8c3",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In physics, what is the standard SI unit of pressure defined as one Newton per square meter?",
+  "qHi": "भौतिकी में, दाब की मानक SI इकाई क्या है जिसे प्रति वर्ग मीटर एक न्यूटन के रूप में परिभाषित किया गया है?",
+  "optsEn": [
+   "Joule",
+   "Pascal",
+   "Watt",
+   "Coulomb"
+  ],
+  "optsHi": [
+   "जूल",
+   "पास्कल",
+   "वाट",
+   "कूलम्ब"
+  ],
+  "correct": 1,
+  "explainEn": "The SI unit of pressure is the Pascal (Pa), which is equivalent to one Newton per square meter.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:35:55Z"
  }
 ]

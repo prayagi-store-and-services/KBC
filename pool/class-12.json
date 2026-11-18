@@ -37658,5 +37658,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-17T20:58:14Z"
+ },
+ {
+  "id": "q_6ae844069e2318fa",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which Indian state has the coastline along the Arabian Sea?",
+  "qHi": "किस भारतीय राज्य की तटरेखा अरब सागर के साथ लगती है?",
+  "optsEn": [
+   "West Bengal",
+   "Odisha",
+   "Kerala",
+   "Andhra Pradesh"
+  ],
+  "optsHi": [
+   "पश्चिम बंगाल",
+   "ओडिशा",
+   "केरल",
+   "आंध्र प्रदेश"
+  ],
+  "correct": 2,
+  "explainEn": "Kerala is situated on the southwestern coast of India and borders the Arabian Sea.",
+  "sourceHint": "NCERT Class 12 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:30:23Z"
  }
 ]

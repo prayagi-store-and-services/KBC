@@ -32366,5 +32366,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-17T20:59:23Z"
+ },
+ {
+  "id": "q_a85968a48bb25f5e",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which direction does the needle in a magnetic compass always point towards?",
+  "qHi": "चुंबकीय कम्पास की सुई हमेशा किस दिशा की ओर इशारा करती है?",
+  "optsEn": [
+   "East and West",
+   "North and South",
+   "Up and Down",
+   "Left and Right"
+  ],
+  "optsHi": [
+   "पूर्व और पश्चिम",
+   "उत्तर और दक्षिण",
+   "ऊपर और नीचे",
+   "बाएं और दाएं"
+  ],
+  "correct": 1,
+  "explainEn": "A magnetic compass needle aligns with Earth's magnetic field, pointing towards the North and South poles.",
+  "sourceHint": "NCERT Class 6 Science Chapter 13",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:30:08Z"
+ },
+ {
+  "id": "q_6e81cbbbb2a8d3cf",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "How many states are there in the Republic of India as of current official records?",
+  "qHi": "वर्तमान आधिकारिक रिकॉर्ड के अनुसार गणतंत्र भारत में कितने राज्य हैं?",
+  "optsEn": [
+   "27",
+   "28",
+   "29",
+   "30"
+  ],
+  "optsHi": [
+   "27",
+   "28",
+   "29",
+   "30"
+  ],
+  "correct": 1,
+  "explainEn": "India currently has 28 states and 8 Union Territories.",
+  "sourceHint": "Government of India official portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:32:54Z"
+ },
+ {
+  "id": "q_c15f907f37aad36e",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian stepwell is built to store rainwater and is known for its architectural steps?",
+  "qHi": "वर्षा जल के भंडारण के लिए कौन सी पारंपरिक भारतीय सीढ़ीनुमा बावड़ी बनाई जाती है और अपनी वास्तुशिल्प सीढ़ियों के लिए जानी जाती है?",
+  "optsEn": [
+   "Baoli",
+   "Igloo",
+   "Tent",
+   "Stilt house"
+  ],
+  "optsHi": [
+   "बावली",
+   "इग्लू",
+   "तंबू",
+   "बांस का घर"
+  ],
+  "correct": 0,
+  "explainEn": "A Baoli or stepwell is a traditional well or pond in which water is reached down by descending a set of steps.",
+  "sourceHint": "NCERT Class 5 EVS (A Shelter so High / When the Earth Shook context)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:32:54Z"
+ },
+ {
+  "id": "q_4f64df382f217ecb",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin is primarily obtained by the human body from early morning sunlight?",
+  "qHi": "मानव शरीर को सुबह की धूप से मुख्य रूप से कौन सा विटामिन प्राप्त होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Sunlight helps the human skin produce Vitamin D, which is essential for healthy bones.",
+  "sourceHint": "NCERT Science curriculum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:32:54Z"
+ },
+ {
+  "id": "q_67313a121f71948a",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of map focuses on specific details such as roads, rainfall, or national parks?",
+  "qHi": "किस प्रकार का मानचित्र सड़कों, वर्षा या राष्ट्रीय उद्यानों जैसे विशिष्ट विवरणों पर ध्यान केंद्रित करता है?",
+  "optsEn": [
+   "Thematic map",
+   "Political map",
+   "Physical map",
+   "World atlas"
+  ],
+  "optsHi": [
+   "विषयपरक (थीमैटिक) मानचित्र",
+   "राजनीतिक मानचित्र",
+   "भौतिक मानचित्र",
+   "विश्व एटलस"
+  ],
+  "correct": 0,
+  "explainEn": "Maps focusing on specific information like road maps, rainfall maps, or industry maps are called thematic maps.",
+  "sourceHint": "NCERT Class 6 Geography (Maps Chapter)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:32:54Z"
+ },
+ {
+  "id": "q_2f8a04617fe7e3bd",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which planet in our solar system is known for having a prominent system of rings made mostly of ice and rocky debris?",
+  "qHi": "हमारे सौरमंडल के किस ग्रह को मुख्य रूप से बर्फ और चट्टानी मलबे से बने छल्लों की प्रमुख प्रणाली के लिए जाना जाता है?",
+  "optsEn": [
+   "Mars",
+   "Venus",
+   "Saturn",
+   "Mercury"
+  ],
+  "optsHi": [
+   "मंगल",
+   "शुक्र",
+   "शनि",
+   "बुध"
+  ],
+  "correct": 2,
+  "explainEn": "Saturn is famous for its large and visible ring system composed of ice and rock particles.",
+  "sourceHint": "NCERT Class 6 Science / General Astronomy",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:35:48Z"
+ },
+ {
+  "id": "q_e38f6d7277b3b40f",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of map primarily shows physical features such as mountains, plateaus, plains, and rivers?",
+  "qHi": "किस प्रकार का मानचित्र मुख्य रूप से पर्वत, पठार, मैदान और नदियाँ जैसी भौतिक विशेषताओं को दर्शाता है?",
+  "optsEn": [
+   "Political map",
+   "Physical map",
+   "Thematic map",
+   "Road map"
+  ],
+  "optsHi": [
+   "राजनीतिक मानचित्र",
+   "भौतिक मानचित्र",
+   "थीम आधारित मानचित्र",
+   "सड़क मानचित्र"
+  ],
+  "correct": 1,
+  "explainEn": "Physical maps show natural features of the Earth such as mountains, plateaus, plains, rivers, and oceans.",
+  "sourceHint": "NCERT Class 6 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:35:48Z"
+ },
+ {
+  "id": "q_0d78909ab268df67",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which vitamin is synthesized in human skin when it is exposed to direct sunlight?",
+  "qHi": "मानव त्वचा में सीधी धूप के संपर्क में आने पर कौन सा विटामिन संश्लेषित होता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Vitamin D is produced in the skin when exposed to ultraviolet B rays from sunlight.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:35:48Z"
+ },
+ {
+  "id": "q_0924df37dc535c4f",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which layer of the atmosphere is closest to the Earth's surface and contains weather phenomena like rain and clouds?",
+  "qHi": "वायुमंडल की कौन सी परत पृथ्वी की सतह के सबसे करीब है और इसमें बारिश और बादलों जैसी मौसम संबंधी घटनाएं होती हैं?",
+  "optsEn": [
+   "Stratosphere",
+   "Mesosphere",
+   "Troposphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "समताप मंडल",
+   "मध्यमंडल",
+   "क्षोभमंडल",
+   "तापमंडल"
+  ],
+  "correct": 2,
+  "explainEn": "The troposphere is the lowest layer of Earth's atmosphere and where all weather changes take place.",
+  "sourceHint": "NCERT Class 7 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:35:48Z"
  }
 ]

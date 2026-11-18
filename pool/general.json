@@ -23210,5 +23210,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-17T20:59:00Z"
+ },
+ {
+  "id": "q_163d8aa7d3e063af",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which city is situated on the banks of the river Sabarmati?",
+  "qHi": "कौन सा शहर साबरमती नदी के तट पर स्थित है?",
+  "optsEn": [
+   "Ahmedabad",
+   "Surat",
+   "Vadodara",
+   "Rajkot"
+  ],
+  "optsHi": [
+   "अहमदाबाद",
+   "सूरत",
+   "वडोदरा",
+   "राजकोट"
+  ],
+  "correct": 0,
+  "explainEn": "Ahmedabad, the largest city in Gujarat, is situated on the banks of the Sabarmati River.",
+  "sourceHint": "Geography of India, NCERT",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:32:24Z"
+ },
+ {
+  "id": "q_4723916319a80cf2",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who discovered penicillin, the world's first effective antibiotic?",
+  "qHi": "दुनिया के पहले प्रभावी एंटीबायोटिक पेनिसिलिन की खोज किसने की थी?",
+  "optsEn": [
+   "Louis Pasteur",
+   "Alexander Fleming",
+   "Robert Koch",
+   "Edward Jenner"
+  ],
+  "optsHi": [
+   "लुई पाश्चर",
+   "अलेक्जेंडर फ्लेमिंग",
+   "रॉबर्ट कोच",
+   "एडवर्ड जेनर"
+  ],
+  "correct": 1,
+  "explainEn": "Alexander Fleming discovered penicillin in 1928 at St. Mary's Hospital in London.",
+  "sourceHint": "Encyclopædia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:35:22Z"
+ },
+ {
+  "id": "q_e9e7741d69de5607",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organ in the human body is primarily responsible for the detoxification of metabolic wastes?",
+  "qHi": "मानव शरीर में कौन सा अंग मुख्य रूप से चयापचय अपशिष्टों के विषहरण (detoxification) के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Kidney",
+   "Liver",
+   "Pancreas",
+   "Spleen"
+  ],
+  "optsHi": [
+   "गुर्दा",
+   "यकृत",
+   "अग्न्याशय",
+   "प्लीहा"
+  ],
+  "correct": 1,
+  "explainEn": "The liver plays the primary role in metabolizing and detoxifying chemicals and metabolic wastes in the body.",
+  "sourceHint": "NCERT Biology Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:35:22Z"
  }
 ]

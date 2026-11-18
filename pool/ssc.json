@@ -23854,5 +23854,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-17T20:58:47Z"
+ },
+ {
+  "id": "q_56ada46bd87647b6",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "During the Delhi Sultanate, which ruler introduced the token currency system made of copper and brass?",
+  "qHi": "दिल्ली सल्तनत के दौरान, किस शासक ने तांबे और पीतल से बनी सांकेतिक मुद्रा प्रणाली की शुरुआत की थी?",
+  "optsEn": [
+   "Qutb-ud-din Aibak",
+   "Alauddin Khilji",
+   "Muhammad bin Tughluq",
+   "Ibrahim Lodi"
+  ],
+  "optsHi": [
+   "कुतुबुद्दीन ऐबक",
+   "अलाउद्दीन खिलजी",
+   "मुहम्मद बिन तुगलक",
+   "इब्राहिम लोदी"
+  ],
+  "correct": 2,
+  "explainEn": "Muhammad bin Tughluq introduced token currency in 1329-1330 CE, replacing silver coins with copper and brass due to a shortage of silver.",
+  "sourceHint": "NCERT Class 7 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:31:41Z"
+ },
+ {
+  "id": "q_5dcec1b48ce01740",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of the Indian economy, what does 'Repo Rate' mean?",
+  "qHi": "भारतीय अर्थव्यवस्था के संदर्भ में 'रेपो रेट' का क्या अर्थ है?",
+  "optsEn": [
+   "Rate at which commercial banks lend to the Reserve Bank of India",
+   "Rate at which the Reserve Bank of India lends short-term money to commercial banks",
+   "Rate at which commercial banks lend to the general public",
+   "Rate of interest on long-term government bonds"
+  ],
+  "optsHi": [
+   "वह दर जिस पर वाणिज्यिक बैंक भारतीय रिजर्व बैंक को ऋण देते हैं",
+   "वह दर जिस पर भारतीय रिजर्व बैंक वाणिज्यिक बैंकों को अल्पकालिक ऋण देता है",
+   "वह दर जिस पर वाणिज्यिक बैंक आम जनता को ऋण देते हैं",
+   "दीर्घकालिक सरकारी बांड पर ब्याज दर"
+  ],
+  "correct": 1,
+  "explainEn": "Repo rate is the interest rate at which the central bank (RBI) lends money to commercial banks in the event of any shortfall of funds.",
+  "sourceHint": "RBI official publications and NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:31:41Z"
+ },
+ {
+  "id": "q_ae1a3c5aea86ef62",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The famous rock-cut Kailash Temple at Ellora was built by which ruling dynasty?",
+  "qHi": "एलोरा में प्रसिद्ध चट्टان को काटकर बनाया गया कैलाश मंदिर किस शासक वंश द्वारा बनवाया गया था?",
+  "optsEn": [
+   "Rashtrakutas",
+   "Cholas",
+   "Pallavas",
+   "Mauryas"
+  ],
+  "optsHi": [
+   "राष्ट्रकूट",
+   "चोल",
+   "पल्लव",
+   "मौर्य"
+  ],
+  "correct": 0,
+  "explainEn": "The monolithic Kailash Temple (Cave 16) at Ellora was built during the reign of the Rashtrakuta king Krishna I in the 8th century.",
+  "sourceHint": "NCERT Class 11 Fine Arts",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:31:41Z"
+ },
+ {
+  "id": "q_c2bd59548a25113c",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian monetary policy, which organization acts as the statutory regulator of asset reconstruction companies?",
+  "qHi": "भारतीय मौद्रिक नीति के संदर्भ में, कौन सा संगठन परिसंपत्ति पुनर्निर्माण कंपनियों (एआरसी) का वैधानिक नियामक के रूप में कार्य करता है?",
+  "optsEn": [
+   "Securities and Exchange Board of India",
+   "Reserve Bank of India",
+   "Insurance Regulatory and Development Authority",
+   "Ministry of Finance"
+  ],
+  "optsHi": [
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "भारतीय रिजर्व बैंक",
+   "बीमा विनियामक और विकास प्राधिकरण",
+   "वित्त मंत्रालय"
+  ],
+  "correct": 1,
+  "explainEn": "Asset Reconstruction Companies are regulated by the Reserve Bank of India under Section 3 of the SARFAESI Act, 2002.",
+  "sourceHint": "RBI Master Directions / SARFAESI Act",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T07:34:49Z"
  }
 ]
