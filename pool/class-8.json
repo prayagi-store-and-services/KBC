@@ -27578,5 +27578,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-18T07:35:55Z"
+ },
+ {
+  "id": "q_ffda3910a77a21f6",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the topmost layer of the soil called?",
+  "qHi": "मिट्टी की सबसे ऊपरी परत को क्या कहा जाता है?",
+  "optsEn": [
+   "Topsoil",
+   "Subsoil",
+   "Bedrock",
+   "Weathered rock"
+  ],
+  "optsHi": [
+   "ऊपरी मृदा",
+   "अधःमृदा",
+   "आधार शैल",
+   "अपक्षयित चट्टान"
+  ],
+  "correct": 0,
+  "explainEn": "Topsoil is the A-horizon, rich in humus and minerals, supporting plant growth.",
+  "sourceHint": "NCERT Class 7 and 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:32:56Z"
+ },
+ {
+  "id": "q_d9cbbbfede8a0c4f",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of resource is coal, which takes millions of years to form from dead vegetation?",
+  "qHi": "कोयला किस प्रकार का संसाधन है, जिसके निर्माण में मृत वनस्पतियों से लाखों वर्ष लगते हैं?",
+  "optsEn": [
+   "Renewable resource",
+   "Non-renewable resource",
+   "Biotic resource",
+   "Potential resource"
+  ],
+  "optsHi": [
+   "नवीकरणीय संसाधन",
+   "अनवीकरणीय संसाधन",
+   "जैविक संसाधन",
+   "संभाव्य संसाधन"
+  ],
+  "correct": 1,
+  "explainEn": "Coal is a non-renewable fossil fuel because its formation takes millions of years and supplies are limited.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:34:41Z"
+ },
+ {
+  "id": "q_62944ffa52a7872c",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which synthetic fibre is commonly known as artificial silk because it resembles silk in appearance?",
+  "qHi": "किस सिंथेटिक रेशे को आमतौर पर कृत्रिम रेशम कहा जाता है क्योंकि यह दिखने में रेशम जैसा होता है?",
+  "optsEn": [
+   "Nylon",
+   "Polyester",
+   "Rayon",
+   "Acrylic"
+  ],
+  "optsHi": [
+   "नायलॉन",
+   "पॉलिएस्टर",
+   "रयान",
+   "एक्रिलिक"
+  ],
+  "correct": 2,
+  "explainEn": "Rayon is obtained from wood pulp chemically, but since it can be woven like silk fibres, it is called artificial silk.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:34:41Z"
+ },
+ {
+  "id": "q_407c8bd6978c4cba",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Mughal Emperor issued a farman granting the Diwani rights of Bengal, Bihar, and Orissa to the British East India Company in 1765?",
+  "qHi": "किस मुगल सम्राट ने 1765 में ब्रिटिश ईस्ट इंडिया कंपनी को बंगाल, बिहार और उड़ीसा के दीवानी अधिकार प्रदान करने वाला फरमान जारी किया था?",
+  "optsEn": [
+   "Aurangzeb",
+   "Bahadur Shah Zafar",
+   "Shah Alam II",
+   "Akbar II"
+  ],
+  "optsHi": [
+   "औरंगजेब",
+   "बहादुर शाह जफर",
+   "शाह आलम द्वितीय",
+   "अकबर द्वितीय"
+  ],
+  "correct": 2,
+  "explainEn": "Following the Battle of Buxar, Mughal Emperor Shah Alam II granted the Diwani of Bengal to the East India Company in 1765.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:34:41Z"
+ },
+ {
+  "id": "q_77c3aa255bb38f13",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which administrative system was introduced by Lord Cornwallis in 1793 through the Permanent Settlement?",
+  "qHi": "लॉर्ड कॉर्नवॉलिस ने 1793 में स्थायी बंदोबस्त के माध्यम से कौन सी प्रशासनिक प्रणाली शुरू की थी?",
+  "optsEn": [
+   "Fixed revenue demand collected through zamindars",
+   "Revenue settlement made directly with the cultivators",
+   "Collective farming managed by village councils",
+   "Tax collection based on annual crop inspection"
+  ],
+  "optsHi": [
+   "ज़मींदार के माध्यम से एकत्र की गई निश्चित राजस्व मांग",
+   "सीधे किसानों के साथ किया गया राजस्व बंदोबस्त",
+   "ग्राम परिषदों द्वारा प्रबंधित सामूहिक खेती",
+   "वार्षिक फसल निरीक्षण के आधार पर कर संग्रह"
+  ],
+  "correct": 0,
+  "explainEn": "Under the Permanent Settlement of 1793, rajas and talukdars were recognized as zamindars, who were asked to collect rent from peasants and pay revenue to the Company.",
+  "sourceHint": "NCERT Class 8 History - Ruling the Countryside",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:37:04Z"
+ },
+ {
+  "id": "q_5b4ba0296bc77ee6",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which imaginary line divides India into almost two equal halves?",
+  "qHi": "कौन सी काल्पनिक रेखा भारत को लगभग दो बराबर भागों में विभाजित करती है?",
+  "optsEn": [
+   "Tropic of Capricorn",
+   "Equator",
+   "Tropic of Cancer",
+   "Prime Meridian"
+  ],
+  "optsHi": [
+   "मकर रेखा",
+   "भूमध्य रेखा",
+   "कर्क रेखा",
+   "प्रमुख मध्याह्न रेखा"
+  ],
+  "correct": 2,
+  "explainEn": "The Tropic of Cancer (23°30' N) passes almost halfway through the country.",
+  "sourceHint": "NCERT Class 8 Geography - Resources and Development",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:37:04Z"
+ },
+ {
+  "id": "q_69e8a7dd2d897baa",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of resource is solar energy categorized as?",
+  "qHi": "सौर ऊर्जा को किस प्रकार के संसाधन के रूप में वर्गीकृत किया गया है?",
+  "optsEn": [
+   "Non-renewable resource",
+   "Biotic resource",
+   "Renewable resource",
+   "Localized resource"
+  ],
+  "optsHi": [
+   "अनवीकरणीय संसाधन",
+   "जैविक संसाधन",
+   "नवीकरणीय संसाधन",
+   "स्थानिक संसाधन"
+  ],
+  "correct": 2,
+  "explainEn": "Solar energy is inexhaustible and gets renewed quickly, hence it is classified as a renewable resource.",
+  "sourceHint": "NCERT Class 8 Geography - Land, Soil, Water, Natural Vegetation and Wildlife Resources",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:37:04Z"
+ },
+ {
+  "id": "q_faf8468a74cc128a",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which term refers to the separation of religion from the state?",
+  "qHi": "राज्य से धर्म को अलग रखने के लिए किस शब्द का प्रयोग किया जाता है?",
+  "optsEn": [
+   "Democracy",
+   "Secularism",
+   "Socialism",
+   "Federalism"
+  ],
+  "optsHi": [
+   "लोकतंत्र",
+   "धर्मनिरपेक्षता",
+   "समाजवाद",
+   "संघवाद"
+  ],
+  "correct": 1,
+  "explainEn": "Secularism refers to the practice of keeping religion separate from state power and affairs.",
+  "sourceHint": "NCERT Class 8 Civics - Understanding Secularism",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:37:04Z"
+ },
+ {
+  "id": "q_bb7d4704150c4d6a",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which revolt was led by Birsa Munda against the British policies and local exploiters?",
+  "qHi": "ब्रिटिश नीतियों और स्थानीय शोषकों के खिलाफ बिरसा मुंडा ने किस विद्रोह का नेतृत्व किया था?",
+  "optsEn": [
+   "Santhal Rebellion",
+   "Indigo Rebellion",
+   "Munda Ulgulan",
+   "Deccan Riots"
+  ],
+  "optsHi": [
+   "संथाल विद्रोह",
+   "नील विद्रोह",
+   "मुंडा उलगुलान",
+   "दक्कन दंगे"
+  ],
+  "correct": 2,
+  "explainEn": "Birsa Munda led the movement known as Ulgulan (the Tumult) in the Chotanagpur region.",
+  "sourceHint": "NCERT Class 8 History - Tribals, Dikus and the Vision of a Golden Age",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:37:04Z"
+ },
+ {
+  "id": "q_ca913c9e8f1edbb5",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary objective of the Judicial Review power held by the Indian judiciary?",
+  "qHi": "भारतीय न्यायपालिका के पास मौजूद न्यायिक समीक्षा शक्ति का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To override any executive order without parliamentary consent",
+   "To strike down laws passed by Parliament if they violate the Constitution",
+   "To rewrite constitutional amendments proposed by the cabinet",
+   "To supervise the daily functioning of state police departments"
+  ],
+  "optsHi": [
+   "संसदीय सहमति के बिना किसी भी कार्यकारी आदेश को बदलना",
+   "संसद द्वारा पारित कानूनों को रद्द करना यदि वे संविधान का उल्लंघन करते हैं",
+   "मंत्रिमंडल द्वारा प्रस्तावित संवैधानिक संशोधनों को फिर से लिखना",
+   "राज्य पुलिस विभागों के दैनिक कामकाज की निगरानी करना"
+  ],
+  "correct": 1,
+  "explainEn": "Judicial review empowers the judiciary to invalidate laws passed by the legislature if they violate the basic structure or provisions of the Constitution.",
+  "sourceHint": "NCERT Class 8 Civics - Understanding the Judiciary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:37:04Z"
  }
 ]

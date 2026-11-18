@@ -41858,5 +41858,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-18T07:35:16Z"
+ },
+ {
+  "id": "q_1b29a1ee4ffad6d7",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'I' stand for in the term IFSC, used in electronic fund transfers in Indian banking?",
+  "qHi": "भारतीय बैंकिंग में इलेक्ट्रॉनिक फंड ट्रांसफर में प्रयुक्त होने वाले शब्द IFSC में अक्षर 'I' का क्या अर्थ है?",
+  "optsEn": [
+   "Indian",
+   "International",
+   "Interbank",
+   "Investment"
+  ],
+  "optsHi": [
+   "इंडियन (Indian)",
+   "इंटरनेशनल (International)",
+   "इंटरबैंक (Interbank)",
+   "इन्वेस्टमेंट (Investment)"
+  ],
+  "correct": 0,
+  "explainEn": "IFSC stands for Indian Financial System Code, which is an 11-character alphanumeric code used for NEFT, RTGS, and IMPS transactions.",
+  "sourceHint": "Reserve Bank of India website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:34:04Z"
+ },
+ {
+  "id": "q_25b4896b1fa598d9",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization provides refinancing facilities specifically for agriculture and rural development in India?",
+  "qHi": "भारत में विशेष रूप से कृषि और ग्रामीण विकास के लिए कौन सा संगठन पुनर्वित्त सुविधाएं प्रदान करता है?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "NHB"
+  ],
+  "optsHi": [
+   "सिडबी (SIDBI)",
+   "नाबार्ड (NABARD)",
+   "एक्जिम बैंक (EXIM Bank)",
+   "एनएचबी (NHB)"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) is the apex regulatory body for overall licensing and regulation of regional rural banks and apex cooperative banks in India.",
+  "sourceHint": "NABARD Act, 1981",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:34:04Z"
+ },
+ {
+  "id": "q_21949c8c8a2c289a",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of account is generally referred to as a 'Current Account' in commercial banks?",
+  "qHi": "व्यापारी बैंकों में आमतौर पर किस प्रकार के खाते को 'चालू खाता' (Current Account) कहा जाता है?",
+  "optsEn": [
+   "An account intended for daily business transactions with no limit on the number of transactions",
+   "An account meant exclusively for long-term savings by individuals",
+   "An account that offers high interest rates on daily balances",
+   "An account opened only for minors under parental guidance"
+  ],
+  "optsHi": [
+   "दैनिक व्यावसायिक लेनदेन के लिए अभिप्रेत खाता जिसमें लेनदेन की संख्या की कोई सीमा नहीं होती",
+   "व्यक्तियों द्वारा दीर्घकालिक बचत के लिए विशेष रूप से बनाया गया खाता",
+   "वह खाता जो दैनिक शेष राशि पर उच्च ब्याज दर प्रदान करता है",
+   "माता-पिता के मार्गदर्शन में केवल नाबालिगों के लिए खोला गया खाता"
+  ],
+  "correct": 0,
+  "explainEn": "Current accounts are meant for business entities to facilitate high volumes of daily financial transactions without earning interest.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:34:04Z"
+ },
+ {
+  "id": "q_589d324b48c7811c",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following institutions regulates housing finance companies in India?",
+  "qHi": "भारत में निम्नलिखित में से कौन सी संस्था आवास वित्त कंपनियों को विनियमित करती है?",
+  "optsEn": [
+   "Securities and Exchange Board of India",
+   "Reserve Bank of India",
+   "National Housing Bank",
+   "Small Industries Development Bank of India"
+  ],
+  "optsHi": [
+   "भारतीय प्रतिभूति and विनिमय बोर्ड",
+   "भारतीय रिजर्व बैंक",
+   "राष्ट्रीय आवास बैंक",
+   "भारतीय लघु उद्योग विकास बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "Regulation and supervision of housing finance companies (HFCs) was transferred from the National Housing Bank to the Reserve Bank of India in 2019.",
+  "sourceHint": "Reserve Bank of India Act / RBI Notifications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:36:01Z"
+ },
+ {
+  "id": "q_953c4bd7930a253e",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the Liquidity Coverage Ratio used in banking regulations?",
+  "qHi": "बैंकिंग नियमों में प्रयुक्त तरलता कवरेज अनुपात (Liquidity Coverage Ratio) में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liability",
+   "Leverage",
+   "Liquidity",
+   "Ledger"
+  ],
+  "optsHi": [
+   "दायित्व",
+   "उत्प्रेरण",
+   "तरलता",
+   "खाताबही"
+  ],
+  "correct": 2,
+  "explainEn": "LCR stands for Liquidity Coverage Ratio, a Basel III metric designed to ensure banks have an adequate stock of unencumbered high-quality liquid assets.",
+  "sourceHint": "Basel III Guidelines / RBI Prudential Norms",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:36:01Z"
+ },
+ {
+  "id": "q_487a619c9d60f63b",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which market instrument is primarily used by commercial banks to fulfill their short-term liquidity mismatches overnight?",
+  "qHi": "वाणिज्यिक बैंकों द्वारा रातोंरात अपनी अल्पकालिक तरलता बेमेल को पूरा करने के लिए मुख्य रूप से किस बाजार साधन का उपयोग किया जाता है?",
+  "optsEn": [
+   "Commercial Paper",
+   "Treasury Bill",
+   "Call Money",
+   "Certificate of Deposit"
+  ],
+  "optsHi": [
+   "वाणिज्यिक पत्र",
+   "राजकोषीय विपत्र",
+   "कॉल मनी",
+   "जमा प्रमाण पत्र"
+  ],
+  "correct": 2,
+  "explainEn": "Call money is an inter-bank market for short-term loans, typically running for one day (overnight), used to manage immediate liquidity.",
+  "sourceHint": "RBI Financial Markets Operations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:36:01Z"
+ },
+ {
+  "id": "q_f5be12bcd97dcb4e",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India calculates and releases the Index of Industrial Production data monthly?",
+  "qHi": "भारत में कौन सा संगठन मासिक रूप से औद्योगिक उत्पादन सूचकांक (IIP) डेटा की गणना और जारी करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "National Statistical Office",
+   "NITI Aayog",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "राष्ट्रीय सांख्यिकी कार्यालय",
+   "नीति आयोग",
+   "भारतीय प्रतिभूति and विनिमय बोर्ड"
+  ],
+  "correct": 1,
+  "explainEn": "The Index of Industrial Production (IIP) is compiled and published monthly by the National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation.",
+  "sourceHint": "Ministry of Statistics and Programme Implementation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:36:01Z"
+ },
+ {
+  "id": "q_3450c73e25f0449e",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum limit of deposit insurance provided by DICGC per depositor per bank in India?",
+  "qHi": "भारत में डीआईसीजीसी (DICGC) द्वारा प्रति जमाकर्ता प्रति बैंक प्रदान किए जाने वाले जमा बीमा की अधिकतम सीमा क्या है?",
+  "optsEn": [
+   "One lakh rupees",
+   "Two lakh rupees",
+   "Five lakh rupees",
+   "Ten lakh rupees"
+  ],
+  "optsHi": [
+   "एक लाख रुपये",
+   "दो लाख रुपये",
+   "पांच लाख रुपये",
+   "दस लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "Deposit Insurance and Credit Guarantee Corporation (DICGC) insures bank deposits up to a maximum of Rs. 5,00,000 per depositor per insured bank.",
+  "sourceHint": "DICGC Act / RBI Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:36:01Z"
+ },
+ {
+  "id": "q_d7f71032be7354a8",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is an example of a capital receipt in the government budget of India?",
+  "qHi": "भारत के सरकारी बजट में पूंजीगत प्राप्तियों (Capital Receipt) का उदाहरण निम्नलिखित में से कौन सा है?",
+  "optsEn": [
+   "Income tax collected by the government",
+   "Dividends received from public sector undertakings",
+   "Borrowings from the public and foreign governments",
+   "Fees and fines collected by ministries"
+  ],
+  "optsHi": [
+   "सरकार द्वारा एकत्र किया गया आयकर",
+   "सार्वजनिक क्षेत्र के उपक्रमों से प्राप्त लाभांश",
+   "जनता और विदेशी सरकारों से ऋण लेना",
+   "मंत्रालयों द्वारा एकत्र किए गए शुल्क और जुर्माने"
+  ],
+  "correct": 2,
+  "explainEn": "Capital receipts either create liabilities or reduce financial assets. Borrowings create a liability for the government, making them a capital receipt.",
+  "sourceHint": "Union Budget Documentation / NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:36:01Z"
  }
 ]

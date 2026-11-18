@@ -23294,5 +23294,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-18T07:35:22Z"
+ },
+ {
+  "id": "q_65be1489e4408b19",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the standard boiling point of pure water at sea level in degrees Celsius?",
+  "qHi": "समुद्र तल पर शुद्ध पानी का मानक क्वथनांक (बॉइलिंग पॉइंट) डिग्री सेल्सियस में कितना होता है?",
+  "optsEn": [
+   "0",
+   "50",
+   "100",
+   "212"
+  ],
+  "optsHi": [
+   "0",
+   "50",
+   "100",
+   "212"
+  ],
+  "correct": 2,
+  "explainEn": "Pure water boils at 100 degrees Celsius at standard atmospheric pressure.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:32:47Z"
+ },
+ {
+  "id": "q_6600c8b70cc2756b",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian state is the largest producer of tea?",
+  "qHi": "कौन सा भारतीय राज्य चाय का सबसे बड़ा उत्पादक है?",
+  "optsEn": [
+   "Kerala",
+   "Karnataka",
+   "Assam",
+   "Tamil Nadu"
+  ],
+  "optsHi": [
+   "केरल",
+   "कर्नाटक",
+   "असम",
+   "तमिलनाडु"
+  ],
+  "correct": 2,
+  "explainEn": "Assam accounts for a major share of India's total tea production.",
+  "sourceHint": "Tea Board of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:34:32Z"
+ },
+ {
+  "id": "q_e9aa071d62773549",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which year did India adopt its Constitution?",
+  "qHi": "भारत ने किस वर्ष अपना संविधान अपनाया था?",
+  "optsEn": [
+   "1947",
+   "1950",
+   "1952",
+   "1948"
+  ],
+  "optsHi": [
+   "1947",
+   "1950",
+   "1952",
+   "1948"
+  ],
+  "correct": 1,
+  "explainEn": "The Constitution of India was adopted on January 26, 1950.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:34:32Z"
+ },
+ {
+  "id": "q_d8cb7cd7ddaa2609",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian state is the sole producer of the famous Muga silk, which is known for its glossy texture and durability?",
+  "qHi": "कौन सा भारतीय राज्य प्रसिद्ध मूगा रेशम का एकमात्र उत्पादक है, जो अपनी चमकदार बनावट और स्थायित्व के लिए जाना जाता है?",
+  "optsEn": [
+   "Assam",
+   "Karnataka",
+   "West Bengal",
+   "Odisha"
+  ],
+  "optsHi": [
+   "असम",
+   "कर्नाटक",
+   "पश्चिम बंगाल",
+   "ओडिशा"
+  ],
+  "correct": 0,
+  "explainEn": "Assam holds a geographical indication (GI) for Muga silk and is the world's primary producer of this golden silk.",
+  "sourceHint": "Geographical Indications Registry of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:36:08Z"
+ },
+ {
+  "id": "q_b923134595fc6743",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the Indian Constitution, which schedule contains provisions regarding the administration of tribal areas in the states of Assam, Meghalaya, Tripura, and Mizoram?",
+  "qHi": "भारतीय संविधान के संदर्भ में, किस अनुसूची में असम, मेघालय, त्रिपुरा और मिजोरम राज्यों में जनजातीय क्षेत्रों के प्रशासन से संबंधित प्रावधान हैं?",
+  "optsEn": [
+   "Fifth Schedule",
+   "Sixth Schedule",
+   "Seventh Schedule",
+   "Eighth Schedule"
+  ],
+  "optsHi": [
+   "पाँचवीं अनुसूची",
+   "छठी अनुसूची",
+   "सातवीं अनुसूची",
+   "आठवीं अनुसूची"
+  ],
+  "correct": 1,
+  "explainEn": "The Sixth Schedule of the Indian Constitution deals with the administration of the tribal areas in the four northeastern states of Assam, Meghalaya, Tripura, and Mizoram.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:36:08Z"
+ },
+ {
+  "id": "q_17eba201eb2e62cd",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form of India traditionally uses a heavy brass plate (Thalam) to dance upon while balancing pots on the head?",
+  "qHi": "भारत का कौन सा शास्त्रीय नृत्य रूप पारंपरिक रूप से सिर पर घड़े को संतुलित करते हुए नृत्य करने के लिए एक भारी पीतल की थाली (थालम) का उपयोग करता है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kathakali",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कथकली",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 2,
+  "explainEn": "The Tarangam is a distinctive feature of Kuchipudi, where the dancer balances on the rim of a brass plate while performing intricate footwork.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:36:08Z"
+ },
+ {
+  "id": "q_f45461687b7f4871",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which wildlife sanctuary in India is globally renowned as the primary natural habitat of the endangered Sangai deer?",
+  "qHi": "भारत का कौन सा वन्यजीव अभयारण्य लुप्तप्राय संगाई हिरण के प्राथमिक प्राकृतिक आवास के रूप में विश्व स्तर पर प्रसिद्ध है?",
+  "optsEn": [
+   "Kaziranga National Park",
+   "Keibul Lamjao National Park",
+   "Periyar Wildlife Sanctuary",
+   "Jim Corbett National Park"
+  ],
+  "optsHi": [
+   "काजीरंगा राष्ट्रीय उद्यान",
+   "केबुल लामजाओ राष्ट्रीय उद्यान",
+   "पेरियार वन्यजीव अभयारण्य",
+   "जिम कॉर्बेट राष्ट्रीय उद्यान"
+  ],
+  "correct": 1,
+  "explainEn": "Keibul Lamjao National Park in Manipur is the only floating national park in the world and the natural home of the Sangai deer.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:36:08Z"
+ },
+ {
+  "id": "q_ae43dcd9a505cbe2",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian mathematician formulated the infinite series for pi that was later independently discovered in Europe and named after James Gregory and Gottfried Wilhelm Leibniz?",
+  "qHi": "किस भारतीय गणितज्ञ ने पाई के लिए अनंत श्रृंखला तैयार की जिसे बाद में यूरोप में स्वतंत्र रूप से खोजा गया और जेम्स ग्रेगरी तथा गॉट्фриड विल्हेम लाइबनिज के नाम पर रखा गया?",
+  "optsEn": [
+   "Bhaskara II",
+   "Aryabhata",
+   "Madhava of Sangamagrama",
+   "Brahmagupta"
+  ],
+  "optsHi": [
+   "भास्कराचार्य द्वितीय",
+   "आर्यभट्ट",
+   "संगमग्राम के माधव",
+   "ब्रह्मगुप्त"
+  ],
+  "correct": 2,
+  "explainEn": "Madhava of Sangamagrama, founder of the Kerala school of astronomy and mathematics, formulated the power series for pi in the 14th century.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:36:08Z"
+ },
+ {
+  "id": "q_8310dc310ba6df7e",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which historical monument would you find the extensive use of Pietra Dura, an inlay technique using cut and fitted polished colored stones?",
+  "qHi": "किस ऐतिहासिक स्मारक में आपको पिएत्रा दुरा (कटे और फिट किए गए पॉलिश किए गए रंगीन पत्थरों का उपयोग करने वाली एक जड़ित तकनीक) का व्यापक उपयोग मिलेगा?",
+  "optsEn": [
+   "Qutb Minar",
+   "Taj Mahal",
+   "Gol Gumbaz",
+   "Red Fort"
+  ],
+  "optsHi": [
+   "कुतुब मीनार",
+   "ताजमहल",
+   "गोल गुंबद",
+   "लाल किला"
+  ],
+  "correct": 1,
+  "explainEn": "The Taj Mahal in Agra famously features intricate Pietra Dura work, showcasing floral and geometric designs using semiprecious stones.",
+  "sourceHint": "Archaeological Survey of India (ASI)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:36:08Z"
+ },
+ {
+  "id": "q_25c93a020fea5f0c",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian city is traditionally associated with the manufacturing of Chanderi sarees, known for their lightweight fabric and sheer texture?",
+  "qHi": "कौन सा भारतीय शहर पारंपरिक रूप से चंदेरी साड़ियों के निर्माण से जुड़ा है, जो अपने हल्के कपड़े और पारदर्शी बनावट के लिए जानी जाती हैं?",
+  "optsEn": [
+   "Varanasi",
+   "Kanchipuram",
+   "Chanderi",
+   "Maheshwar"
+  ],
+  "optsHi": [
+   "वाराणसी",
+   "कांचीपुरम",
+   "चंदेरी",
+   "महेश्वर"
+  ],
+  "correct": 2,
+  "explainEn": "Chanderi, located in the Ashoknagar district of Madhya Pradesh, is internationally renowned for producing handloom Chanderi sarees.",
+  "sourceHint": "Textiles Committee, Ministry of Textiles, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:36:08Z"
  }
 ]

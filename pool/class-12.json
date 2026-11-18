@@ -37686,5 +37686,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-18T07:30:23Z"
+ },
+ {
+  "id": "q_044a920755ae18e7",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which element is widely used as a semiconductor in computer microchips?",
+  "qHi": "कंप्यूटर माइक्रोचिप्स में अर्धचालक के रूप में किस तत्व का व्यापक उपयोग किया जाता है?",
+  "optsEn": [
+   "Iron",
+   "Silicon",
+   "Copper",
+   "Aluminum"
+  ],
+  "optsHi": [
+   "लोहा",
+   "सिलिकॉन",
+   "तांबा",
+   "एल्युमीनियम"
+  ],
+  "correct": 1,
+  "explainEn": "Silicon is the primary semiconductor material used in manufacturing electronic microchips.",
+  "sourceHint": "NCERT Chemistry Class 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:33:27Z"
+ },
+ {
+  "id": "q_a0514b1a8b599603",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the famous historical novel 'Padmavat' in the Awadhi language?",
+  "qHi": "अवधि भाषा में प्रसिद्ध ऐतिहासिक महाकाव्य 'पद्मावत' की रचना किसने की थी?",
+  "optsEn": [
+   "Kabir",
+   "Tulsidas",
+   "Malik Muhammad Jayasi",
+   "Surdas"
+  ],
+  "optsHi": [
+   "कबीर",
+   "तुलसीदास",
+   "मलिक मुहम्मद जायसी",
+   "सूरदास"
+  ],
+  "correct": 2,
+  "explainEn": "Malik Muhammad Jayasi wrote the epic poem Padmavat in 1540 in the Awadhi language.",
+  "sourceHint": "NCERT History Themes in Indian History Part II",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:33:27Z"
+ },
+ {
+  "id": "q_9db3a397a9619e95",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In English grammar, which of the following is an example of a modal auxiliary verb?",
+  "qHi": "अंग्रेजी व्याकरण में, निम्नलिखित में से कौन सा एक मॉडल सहायक क्रिया (modal auxiliary verb) का उदाहरण है?",
+  "optsEn": [
+   "Run",
+   "Beautiful",
+   "Should",
+   "Quickly"
+  ],
+  "optsHi": [
+   "दौड़ना",
+   "सुंदर",
+   "चाहिए",
+   "जल्दी से"
+  ],
+  "correct": 2,
+  "explainEn": "'Should' is a modal auxiliary verb used to express obligation or recommendation.",
+  "sourceHint": "NCERT English Core Class 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:33:27Z"
+ },
+ {
+  "id": "q_ecb1c6a6eee26980",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organelle is responsible for modifying, sorting, and packaging proteins for secretion in eukaryotic cells?",
+  "qHi": "यूकैरियोटिक कोशिकाओं में प्रोटीन के रूपांतरण, छँटाई और संवेष्टन के लिए कौन सा अंगक जिम्मेदार है?",
+  "optsEn": [
+   "Ribosome",
+   "Golgi apparatus",
+   "Centrosome",
+   "Lysosome"
+  ],
+  "optsHi": [
+   "राइबोसोम",
+   "गाल्जी उपकरण",
+   "सेंट्रोसोम",
+   "लाइसोसोम"
+  ],
+  "correct": 1,
+  "explainEn": "The Golgi apparatus modifies, sorts, and packages proteins from the endoplasmic reticulum for transport.",
+  "sourceHint": "NCERT Class 11 Biology, Chapter 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:35:16Z"
+ },
+ {
+  "id": "q_7a0c23babb23c0e3",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the standard free energy change of a reaction at chemical equilibrium?",
+  "qHi": "रासायनिक संतुलन पर किसी अभिक्रिया का मानक मुक्त ऊर्जा परिवर्तन क्या होता है?",
+  "optsEn": [
+   "Zero",
+   "Positive",
+   "Negative",
+   "Infinite"
+  ],
+  "optsHi": [
+   "शून्य",
+   "धनात्मक",
+   "ऋणात्मक",
+   "अनंत"
+  ],
+  "correct": 0,
+  "explainEn": "At equilibrium, the standard Gibbs free energy change is related to the equilibrium constant by the equation delta G not equals minus RT ln K, and is zero when the system is at standard equilibrium conditions.",
+  "sourceHint": "NCERT Class 11 Chemistry, Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:35:16Z"
+ },
+ {
+  "id": "q_2d55240372a31c11",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which electric field is produced by a time-varying magnetic field according to Maxwell-Faraday equation?",
+  "qHi": "मैक्सवेल-फैराडे समीकरण के अनुसार समय के साथ परिवर्तित होने वाले चुंबकीय क्षेत्र द्वारा कौन सा विद्युत क्षेत्र उत्पन्न होता है?",
+  "optsEn": [
+   "Conservative electric field",
+   "Non-conservative electric field",
+   "Electrostatic field",
+   "Zero electric field"
+  ],
+  "optsHi": [
+   "संरक्षी विद्युत क्षेत्र",
+   "असंरक्षी विद्युत क्षेत्र",
+   "स्थिरवैद्युत क्षेत्र",
+   "शून्य विद्युत क्षेत्र"
+  ],
+  "correct": 1,
+  "explainEn": "A time-varying magnetic flux induces a non-conservative electric field whose line integral around a closed loop is non-zero.",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:35:16Z"
+ },
+ {
+  "id": "q_a728da7627c916f3",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which enzyme is primarily responsible for the initial fixation of carbon dioxide during the Calvin cycle in C3 plants?",
+  "qHi": "C3 पौधों में केल्विन चक्र के दौरान कार्बन डाइऑक्साइड के प्रारंभिक स्थिरीकरण के लिए मुख्य रूप से कौन सा एंजाइम जिम्मेदार है?",
+  "optsEn": [
+   "Hexokinase",
+   "PEP carboxylase",
+   "RuBisCO",
+   "Pyruvate kinase"
+  ],
+  "optsHi": [
+   "हेक्सोकाइनेज",
+   "पीईपी कार्बोक्सिलेज",
+   "रुबिस्को",
+   "पाइरुवेट काइनेज"
+  ],
+  "correct": 2,
+  "explainEn": "RuBisCO catalyzes the carboxylation of ribulose 1,5-bisphosphate, which is the primary step of the Calvin cycle.",
+  "sourceHint": "NCERT Class 11 Biology, Chapter 13",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:35:16Z"
+ },
+ {
+  "id": "q_be07f5345da936f7",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which molecular geometry is exhibited by the xenon tetrafluoride (XeF4) molecule?",
+  "qHi": "जीनॉन टेट्राफ्लुओराइड (XeF4) अणु की आणविक ज्यामिति क्या होती है?",
+  "optsEn": [
+   "Tetrahedral",
+   "Square planar",
+   "Trigonal bipyramidal",
+   "Octahedral"
+  ],
+  "optsHi": [
+   "चतुष्फलकीय",
+   "वर्ग समतलीय",
+   "त्रिकोणीय द्विपिरामिडिय",
+   "अष्टफलकीय"
+  ],
+  "correct": 1,
+  "explainEn": "XeF4 has six electron pairs around xenon (four bond pairs and two lone pairs), resulting in a square planar molecular geometry according to VSEPR theory.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:35:16Z"
+ },
+ {
+  "id": "q_08e2f8baf32f7a1c",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of crystal defect occurs when an equal number of cations and anions are missing from their lattice sites, lowering the crystal density?",
+  "qHi": "किस प्रकार का क्रिस्टल दोष तब उत्पन्न होता है जब जालक स्थलों से समान संख्या में धनायन और ऋणायन गायब होते हैं, जिससे क्रिस्टल का घनत्व कम हो जाता है?",
+  "optsEn": [
+   "Frenkel defect",
+   "Schottky defect",
+   "Metal excess defect",
+   "Impurity defect"
+  ],
+  "optsHi": [
+   "फ्रेंकल दोष",
+   "शॉट्की दोष",
+   "धातु आधिक्य दोष",
+   "अशुद्धि दोष"
+  ],
+  "correct": 1,
+  "explainEn": "Schottky defect is a vacancy defect shown by ionic solids where equal numbers of cations and anions are absent from the lattice, reducing density.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:35:16Z"
+ },
+ {
+  "id": "q_9f4788893e3255a7",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which article of the Indian Constitution prohibits discrimination on grounds of religion, race, caste, sex, or place of birth?",
+  "qHi": "भारतीय संविधान का कौन सा अनुच्छेद धर्म, मूलवंश, जाति, लिंग या जन्म स्थान के आधार पर भेदभाव को निषेध करता है?",
+  "optsEn": [
+   "Article 14",
+   "Article 15",
+   "Article 19",
+   "Article 21"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14",
+   "अनुच्छेद 15",
+   "अनुच्छेद 19",
+   "अनुच्छेद 21"
+  ],
+  "correct": 1,
+  "explainEn": "Article 15 of the Constitution of India explicitly prohibits the state from discriminating against any citizen on grounds only of religion, race, caste, sex, or place of birth.",
+  "sourceHint": "Constitution of India, Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:35:16Z"
+ },
+ {
+  "id": "q_9a227d316fb43ede",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In microeconomics, what does a downward sloping demand curve generally indicate regarding price and quantity demanded?",
+  "qHi": "व्यष्टि अर्थशास्त्र में, नीचे की ओर ढलान वाला मांग वक्र सामान्यतः कीमत और मांग की गई मात्रा के बीच क्या दर्शाता है?",
+  "optsEn": [
+   "Direct relationship",
+   "Inverse relationship",
+   "No relationship",
+   "Constant proportion"
+  ],
+  "optsHi": [
+   "प्रत्यक्ष संबंध",
+   "व्युत्क्रम संबंध",
+   "कोई संबंध नहीं",
+   "स्थिर अनुपात"
+  ],
+  "correct": 1,
+  "explainEn": "According to the law of demand, price and quantity demanded move in opposite directions, reflecting an inverse relationship shown by a downward slope.",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Microeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:35:16Z"
  }
 ]

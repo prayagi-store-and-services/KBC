@@ -32618,5 +32618,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-18T07:35:48Z"
+ },
+ {
+  "id": "q_efe413916985d1ac",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What gas do plants take in from the air for photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण के लिए पौधे हवा से कौन सी गैस लेते हैं?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Plants absorb carbon dioxide from the air to prepare their food.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:32:51Z"
+ },
+ {
+  "id": "q_6bac7cb295116593",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin is commonly known as the sunshine vitamin because the body produces it when exposed to sunlight?",
+  "qHi": "किस विटामिन को आमतौर पर सनशाइन विटामिन के रूप में जाना जाता है क्योंकि शरीर इसे धूप के संपर्क में आने पर उत्पन्न करता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Vitamin D is synthesized in the skin when exposed to sunlight.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:34:37Z"
+ },
+ {
+  "id": "q_f6e464a87241a5d0",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary gas found in the Earth's atmosphere by percentage?",
+  "qHi": "प्रतिशत के हिसाब से पृथ्वी के वायुमंडल में पाई जाने वाली प्राथमिक गैस कौन सी है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "आर्गन"
+  ],
+  "correct": 2,
+  "explainEn": "Nitrogen makes up about 78 percent of the Earth's atmosphere.",
+  "sourceHint": "NCERT Class 7 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:34:37Z"
+ },
+ {
+  "id": "q_c0ba942c8c15f257",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which planet in our solar system has the highest surface temperature due to a thick atmosphere of carbon dioxide trapping heat?",
+  "qHi": "हमारे सौरमंडल में किस ग्रह की सतह का तापमान सबसे अधिक है क्योंकि इसके वायुमंडल में कार्बन डाइऑक्साइड की घनी परत गर्मी को रोकती है?",
+  "optsEn": [
+   "Mercury",
+   "Venus",
+   "Mars",
+   "Jupiter"
+  ],
+  "optsHi": [
+   "बुध",
+   "शुक्र",
+   "मंगल",
+   "बृहस्पति"
+  ],
+  "correct": 1,
+  "explainEn": "Venus is the hottest planet in the solar system because its thick carbon dioxide atmosphere creates a runaway greenhouse effect.",
+  "sourceHint": "NCERT Class 6 Science Chapter 1 (The Earth in the Solar System)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:36:36Z"
+ },
+ {
+  "id": "q_2fcfa5a02808cffc",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following vitamins is primarily synthesized in human skin when exposed to sunlight?",
+  "qHi": "सूरज की रोशनी के संपर्क में आने पर मानव त्वचा में मुख्य रूप से निम्नलिखित में से कौन सा विटामिन बनता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B12",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी12",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Ultraviolet rays from the sun trigger the production of Vitamin D in human skin cells.",
+  "sourceHint": "NCERT Class 6 Science Chapter 2 (Components of Food)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:36:36Z"
+ },
+ {
+  "id": "q_ff022265d36a8031",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the term used for the movement of the Earth on its own axis from west to east?",
+  "qHi": "पश्चिम से पूर्व की ओर अपनी धुरी पर पृथ्वी की गति को क्या कहा जाता है?",
+  "optsEn": [
+   "Revolution",
+   "Rotation",
+   "Precession",
+   "Orbiting"
+  ],
+  "optsHi": [
+   "परिक्रमण (रेवोल्यूशन)",
+   "घूर्णन (रोटेशन)",
+   "अक्षीय झुकाव विचलन",
+   "कक्षा में घूमना"
+  ],
+  "correct": 1,
+  "explainEn": "Rotation is the spinning of the Earth on its own axis, which causes day and night.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:36:36Z"
+ },
+ {
+  "id": "q_24385a1f0d64171e",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian state is famously known as the 'Spice Garden of India' due to its rich production of spices like cardamom and black pepper?",
+  "qHi": "इलायची और काली मिर्च जैसे मसालों के प्रचुर उत्पादन के कारण किस भारतीय राज्य को 'भारत का मसाला उद्यान' कहा जाता है?",
+  "optsEn": [
+   "Punjab",
+   "Kerala",
+   "Rajasthan",
+   "Assam"
+  ],
+  "optsHi": [
+   "पंजाब",
+   "केरल",
+   "राजस्थान",
+   "असम"
+  ],
+  "correct": 1,
+  "explainEn": "Kerala has a tropical climate ideal for growing spices, earning it the title of the spice garden of India.",
+  "sourceHint": "NCERT Class 5 Environmental Studies (EVS)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:36:36Z"
+ },
+ {
+  "id": "q_cbf6dcf6e53fd422",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which gas makes up approximately 78 percent of Earth's atmosphere by volume?",
+  "qHi": "आयतन के हिसाब से पृथ्वी के वायुमंडल का लगभग 78 प्रतिशत हिस्सा कौन सी गैस बनाती है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "आर्गन"
+  ],
+  "correct": 2,
+  "explainEn": "Nitrogen is the most abundant gas in the Earth's atmosphere, accounting for about 78 percent.",
+  "sourceHint": "NCERT Class 7 Geography Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:36:36Z"
+ },
+ {
+  "id": "q_1190965fc8838aff",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which part of the pitcher plant is the modified leaf structure shaped like a pitcher used to trap insects?",
+  "qHi": "घटपर्णी (पिचर प्लांट) के पौधे में कीड़ों को फंसाने के लिए इस्तेमाल की जाने वाली घड़े जैसी संशोधित पत्ती की संरचना किस भाग में होती है?",
+  "optsEn": [
+   "Root",
+   "Leaf blade",
+   "Stem",
+   "Flower"
+  ],
+  "optsHi": [
+   "जड़",
+   "पत्ती का फलक (लीफ ब्लेड)",
+   "तना",
+   "फूल"
+  ],
+  "correct": 1,
+  "explainEn": "The pitcher-like structure in a pitcher plant is a modification of the leaf blade, which helps trap insects to fulfill nitrogen requirements.",
+  "sourceHint": "NCERT Class 7 Science Chapter 1 (Nutrition in Plants)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:36:36Z"
  }
 ]

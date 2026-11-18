@@ -23966,5 +23966,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-18T07:34:49Z"
+ },
+ {
+  "id": "q_d7cd9dd34e0f65aa",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following elements has the lowest atomic number among them?",
+  "qHi": "निम्नलिखित में से किस तत्व की परमाणु संख्या सबसे कम है?",
+  "optsEn": [
+   "Sodium",
+   "Magnesium",
+   "Aluminium",
+   "Silicon"
+  ],
+  "optsHi": [
+   "सोडियम",
+   "मैग्नीशियम",
+   "एल्यूमीनियम",
+   "सिलिकॉन"
+  ],
+  "correct": 0,
+  "explainEn": "The atomic numbers are: Sodium (11), Magnesium (12), Aluminium (13), and Silicon (14). Sodium has the lowest.",
+  "sourceHint": "NCERT Class 10 Science, Periodic Classification of Elements",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:35:28Z"
+ },
+ {
+  "id": "q_d8b4b28435662d4c",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "At which of the following Indus Valley Civilization sites was a dockyard discovered?",
+  "qHi": "सिंधु घाटी सभ्यता के निम्नलिखित में से किस स्थल पर गोदीवाड़ा (बंदरगाह) की खोज की गई थी?",
+  "optsEn": [
+   "Harappa",
+   "Mohenjo-daro",
+   "Lothal",
+   "Kalibangan"
+  ],
+  "optsHi": [
+   "हड़प्पा",
+   "मोहनजोदड़ो",
+   "लोथल",
+   "कालीबंगा"
+  ],
+  "correct": 2,
+  "explainEn": "Lothal in Gujarat features a massive dockyard, indicating that it was an important trading center of the Indus Valley Civilization.",
+  "sourceHint": "NCERT Class 12 History, Bricks, Beads and Bones",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:35:28Z"
  }
 ]

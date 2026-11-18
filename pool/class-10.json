@@ -32366,5 +32366,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-18T07:33:05Z"
+ },
+ {
+  "id": "q_b9960e1d7ecc6b4d",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which mineral is mined in the Kolar fields of Karnataka?",
+  "qHi": "कर्नाटक की कोलार खानों से कौन सा खनिज निकाला जाता है?",
+  "optsEn": [
+   "Coal",
+   "Iron ore",
+   "Gold",
+   "Mica"
+  ],
+  "optsHi": [
+   "कोयला",
+   "लोह अयस्क",
+   "सोना",
+   "अभ्रक"
+  ],
+  "correct": 2,
+  "explainEn": "Kolar Gold Fields are famous for the mining of gold in India.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 5: Minerals and Energy Resources",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:33:02Z"
+ },
+ {
+  "id": "q_a4d8c8463d987270",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which plant hormone category does abscisic acid belong?",
+  "qHi": "एब्सिसिक अम्ल किस पादप हार्मोन श्रेणी से संबंधित है?",
+  "optsEn": [
+   "Growth promoter",
+   "Growth inhibitor",
+   "Cell division stimulator",
+   "Fruit ripening agent"
+  ],
+  "optsHi": [
+   "वृद्धि प्रमोटर",
+   "वृद्धि अवरोधक",
+   "कोशिका विभाजन उत्तेજک",
+   "फल पकाने वाला एजेंट"
+  ],
+  "correct": 1,
+  "explainEn": "Abscisic acid is a plant hormone that inhibits growth, promotes wilting of leaves, and plays a major role in response to environmental stress.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:35:09Z"
+ },
+ {
+  "id": "q_d424e54c3faa9ddb",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is a non-flowering plant group that reproduces through spores?",
+  "qHi": "निम्नलिखित में से कौन सा बिना फूल वाला पादप समूह है जो बीजाणुओं के माध्यम से प्रजनन करता है?",
+  "optsEn": [
+   "Angiosperms",
+   "Gymnosperms",
+   "Ferns",
+   "Monocots"
+  ],
+  "optsHi": [
+   "आवृतबीजी",
+   "अनावृतबीजी",
+   "फर्न",
+   "एकबीजपत्री"
+  ],
+  "correct": 2,
+  "explainEn": "Ferns are pteridophytes, which are non-flowering plants that reproduce via spores rather than seeds.",
+  "sourceHint": "NCERT Science Textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:35:09Z"
+ },
+ {
+  "id": "q_5459e9b003f112cc",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which element has the electron configuration 2, 8, 7?",
+  "qHi": "किस तत्व का इलेक्ट्रॉनिक विन्यास 2, 8, 7 है?",
+  "optsEn": [
+   "Sodium",
+   "Fluorine",
+   "Chlorine",
+   "Argon"
+  ],
+  "optsHi": [
+   "सोडियम",
+   "फ्लोरिन",
+   "क्लोरिन",
+   "आर्गन"
+  ],
+  "correct": 2,
+  "explainEn": "Chlorine has an atomic number of 17, and its electron configuration is distributed as 2 electrons in the K shell, 8 in the L shell, and 7 in the M shell (2, 8, 7).",
+  "sourceHint": "NCERT Class 10 Science, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:35:09Z"
+ },
+ {
+  "id": "q_7ec576c151656dfe",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which hormone is primarily responsible for the cell elongation in plants and bending towards light?",
+  "qHi": "पौधों में कोशिकाओं की लंबाई बढ़ाने और प्रकाश की ओर मुड़ने के लिए मुख्य रूप से कौन सा हार्मोन उत्तरदायी है?",
+  "optsEn": [
+   "Gibberellin",
+   "Cytokinin",
+   "Auxin",
+   "Abscisic acid"
+  ],
+  "optsHi": [
+   "जिबरेलिन",
+   "साइटोकिनिन",
+   "ऑक्सीन",
+   "एब्सिसिक एसिड"
+  ],
+  "correct": 2,
+  "explainEn": "Auxin is synthesized at the shoot tip and helps the cells grow longer. When light comes from one side, auxin diffuses towards the shady side, causing plant cells to grow longer there, bending the stem towards light.",
+  "sourceHint": "NCERT Class 10 Science Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:37:36Z"
+ },
+ {
+  "id": "q_90fff349ae4295c7",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following bodies monitors the monetary policy and regulates commercial banks in India?",
+  "qHi": "निम्नलिखित में से कौन सा निकाय भारत में मौद्रिक नीति की निगरानी करता है और वाणिज्यिक बैंकों को विनियमित करता है?",
+  "optsEn": [
+   "Ministry of Finance",
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India",
+   "NITI Aayog"
+  ],
+  "optsHi": [
+   "वित्त मंत्रालय",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "नीति आयोग"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India (RBI) controls the monetary policy, issues currency, and regulates the banking operations in India.",
+  "sourceHint": "NCERT Class 10 Economics Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:37:36Z"
+ },
+ {
+  "id": "q_8a8a56e707da315b",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "According to Indian Standard Time (IST), the standard meridian of India passes through which of the following cities?",
+  "qHi": "भारतीय मानक समय (IST) के अनुसार, भारत की मानक याम्योत्तर निम्नलिखित में से किस शहर से होकर गुजरती है?",
+  "optsEn": [
+   "Mirzapur",
+   "Bhopal",
+   "Nagpur",
+   "Lucknow"
+  ],
+  "optsHi": [
+   "मिर्ज़ापुर",
+   "भोपाल",
+   "नागपुर",
+   "लखनऊ"
+  ],
+  "correct": 0,
+  "explainEn": "The 82°30' E meridian, passing through Mirzapur in Uttar Pradesh, is taken as the Standard Meridian for the whole country, which is 5.5 hours ahead of GMT.",
+  "sourceHint": "NCERT Class 9/10 Geography Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-18T20:37:36Z"
  }
 ]
