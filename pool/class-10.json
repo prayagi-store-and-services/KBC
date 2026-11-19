@@ -32562,5 +32562,341 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-18T20:37:36Z"
+ },
+ {
+  "id": "q_d9451d43e97e79b7",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the pH value of a neutral solution at standard temperature?",
+  "qHi": "मानक तापमान पर एक उदासीन विलयन का pH मान कितना होता है?",
+  "optsEn": [
+   "0",
+   "7",
+   "10",
+   "14"
+  ],
+  "optsHi": [
+   "0",
+   "7",
+   "10",
+   "14"
+  ],
+  "correct": 1,
+  "explainEn": "A pH of 7 represents a neutral solution, where hydrogen ion concentration equals hydroxide ion concentration.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:28:08Z"
+ },
+ {
+  "id": "q_3a7e7cd02c38e1d7",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which sector is also known as the service sector in economics?",
+  "qHi": "अर्थशास्त्र में किस क्षेत्रक को सेवा क्षेत्रक भी कहा जाता है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Agricultural sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्रक",
+   "द्वितीयक क्षेत्रक",
+   "तृतीयक क्षेत्रक",
+   "कृषि क्षेत्रक"
+  ],
+  "correct": 2,
+  "explainEn": "The tertiary sector provides services that support the primary and secondary sectors, hence it is called the service sector.",
+  "sourceHint": "NCERT Class 10 Social Science, Economics Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:28:08Z"
+ },
+ {
+  "id": "q_b399171ea920ed73",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which element exhibits the property of catenation to the maximum extent among group 14 elements?",
+  "qHi": "समूह 14 के तत्वों में से कौन सा तत्व श्रृंखलाधन (कैटिनेशन) का गुण अधिकतम सीमा तक प्रदर्शित करता है?",
+  "optsEn": [
+   "Silicon",
+   "Germanium",
+   "Carbon",
+   "Tin"
+  ],
+  "optsHi": [
+   "सिलिकॉन",
+   "जर्मेनियम",
+   "कार्बन",
+   "टिन"
+  ],
+  "correct": 2,
+  "explainEn": "Carbon has the maximum catenation property due to its small size and strong carbon-carbon covalent bonds.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:29:13Z"
+ },
+ {
+  "id": "q_0cec0b5492cde275",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the resistance of a conductor if a potential difference of 12 V is applied across its ends and a current of 2 A flows through it?",
+  "qHi": "यदि किसी चालक के सिरों के बीच 12 V का विभवांतर लागू करने पर उसमें 2 A की धारा प्रवाहित होती है, तो उस चालक का प्रतिरोध क्या है?",
+  "optsEn": [
+   "6 ohm",
+   "24 ohm",
+   "10 ohm",
+   "0.16 ohm"
+  ],
+  "optsHi": [
+   "6 ओम",
+   "24 ओम",
+   "10 ओम",
+   "0.16 ओम"
+  ],
+  "correct": 0,
+  "explainEn": "According to Ohm's law, Resistance R = V / I = 12 V / 2 A = 6 ohm.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:29:13Z"
+ },
+ {
+  "id": "q_3cc2163df15bb96a",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following plant hormones promotes cell division?",
+  "qHi": "निम्नलिखित में से कौन सा पादप हार्मोन कोशिका विभाजन को बढ़ावा देता है?",
+  "optsEn": [
+   "Auxin",
+   "Gibberellin",
+   "Cytokinin",
+   "Abscisic acid"
+  ],
+  "optsHi": [
+   "ऑक्सिन",
+   "जिबरेलिन",
+   "साइटोकैनीन",
+   "एब्सिसिक अम्ल"
+  ],
+  "correct": 2,
+  "explainEn": "Cytokinins are plant hormones that promote cell division, particularly in rapid cell growth areas like fruits and seeds.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:29:13Z"
+ },
+ {
+  "id": "q_e80c11e604b12ec4",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which layer of the atmosphere is associated with the phenomenon of weather changes?",
+  "qHi": "वायुमंडल की कौन सी परत मौसम संबंधी परिवर्तनों से जुड़ी है?",
+  "optsEn": [
+   "Stratosphere",
+   "Troposphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "समताप मंडल",
+   "क्षوب मंडल",
+   "मध्य मंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "All weather phenomena like rain, fog, and storms occur in the troposphere, which is the lowest layer of the atmosphere.",
+  "sourceHint": "NCERT Geography textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:29:13Z"
+ },
+ {
+  "id": "q_13f60e48098197e0",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organelle in plant cells contains green pigment chlorophyll responsible for photosynthesis?",
+  "qHi": "पादप कोशिकाओं में किस कोशिकांग में प्रकाश संश्लेषण के लिए उत्तरदायी हरा वर्णक क्लोरोफिल होता है?",
+  "optsEn": [
+   "Mitochondria",
+   "Ribosome",
+   "Chloroplast",
+   "Vacuole"
+  ],
+  "optsHi": [
+   "माइटोकॉन्ड्रिया",
+   "राइबोसोम",
+   "हरित लवक (क्लोरोप्लास्ट)",
+   "रिक्तिका"
+  ],
+  "correct": 2,
+  "explainEn": "Chloroplasts are plastids containing chlorophyll that capture light energy for photosynthesis.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:29:13Z"
+ },
+ {
+  "id": "q_a908e9ae8e9ecb19",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which region of India is the traditional bamboo drip irrigation system widely practiced?",
+  "qHi": "भारत के किस क्षेत्र में पारंपरिक बांस ड्रिप सिंचाई प्रणाली व्यापक रूप से प्रचलित है?",
+  "optsEn": [
+   "Meghalaya",
+   "Rajasthan",
+   "Punjab",
+   "Tamil Nadu"
+  ],
+  "optsHi": [
+   "मेघालय",
+   "राजस्थान",
+   "पंजाब",
+   "तमिलनाडु"
+  ],
+  "correct": 0,
+  "explainEn": "A 200-year-old system of tapping stream and spring water by using bamboo pipes is prevalent in Meghalaya.",
+  "sourceHint": "NCERT Class 10 Geography Chapter 3: Water Resources",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:30:13Z"
+ },
+ {
+  "id": "q_8463ca27c82a7cd1",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following soil types is formed due to intense leaching under tropical and subtropical climates with alternating wet and dry periods?",
+  "qHi": "निम्नलिखित में से किस प्रकार की मिट्टी का निर्माण उष्णकटिबंधीय और उपोष्णकटिबंधीय जलवायु में तीव्र निक्षालन (लीचिंग) के कारण होता है?",
+  "optsEn": [
+   "Laterite soil",
+   "Alluvial soil",
+   "Black soil",
+   "Arid soil"
+  ],
+  "optsHi": [
+   "लैटेराइट मिट्टी",
+   "जलोढ़ मिट्टी",
+   "काली मिट्टी",
+   "शुष्क मिट्टी"
+  ],
+  "correct": 0,
+  "explainEn": "Laterite soil develops in areas with high temperature and heavy rainfall, leading to severe leaching which washes away silica and leaves iron and aluminum oxides.",
+  "sourceHint": "NCERT Class 10 Geography Chapter 1: Resources and Development",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:30:13Z"
+ },
+ {
+  "id": "q_d15365180daee586",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which chemical compound is the primary active ingredient released by the stinging hair of nettle leaves causing a painful burning sensation?",
+  "qHi": "बिच्छू बूटी (नेटल) की पत्तियों के डंक मारने वाले रोमों द्वारा कौन सा रासायनिक यौगिक छोड़ा जाता है जिससे दर्दनाक जलन होती है?",
+  "optsEn": [
+   "Methanoic acid",
+   "Acetic acid",
+   "Citric acid",
+   "Oxalic acid"
+  ],
+  "optsHi": [
+   "मेथेनोइक अम्ल",
+   "एसिटिक अम्ल",
+   "साइट्रिक अम्ल",
+   "ऑक्जेलिक अम्ल"
+  ],
+  "correct": 0,
+  "explainEn": "Nettle leaves secrete methanoic acid (formic acid), which causes a burning pain when touched.",
+  "sourceHint": "NCERT Class 10 Science Chapter 2: Acids, Bases and Salts",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:30:13Z"
+ },
+ {
+  "id": "q_a42bda6c5ace74c5",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the human nephron, where does the selective reabsorption of useful substances such as glucose, amino acids, and major amounts of water primarily take place?",
+  "qHi": "मानव नेफ्रॉन में, ग्लूकोज, अमीनो एसिड और पानी की बड़ी मात्रा जैसे उपयोगी पदार्थों का चयनात्मक पुनअवशोषण मुख्य रूप से कहाँ होता है?",
+  "optsEn": [
+   "Proximal convoluted tubule",
+   "Bowman's capsule",
+   "Glomerulus",
+   "Collecting duct"
+  ],
+  "optsHi": [
+   "समीपस्थ कुंडलित नलिका",
+   "बोमैन संपुट",
+   "ग्लोमेरुलस",
+   "संग्राहक नलिका"
+  ],
+  "correct": 0,
+  "explainEn": "As the filtrate flows down the proximal convoluted tubule (PCT), substances useful to the body are selectively reabsorbed into the blood capillaries.",
+  "sourceHint": "NCERT Class 10 Science Chapter 6: Life Processes",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:30:13Z"
+ },
+ {
+  "id": "q_4017c37971c68d85",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which phenomenon is primarily responsible for the slightly flattened appearance of the Sun at sunrise and sunset?",
+  "qHi": "सूर्योदय और सूर्यास्त के समय सूर्य का थोड़ा चपटा दिखाई देना मुख्य रूप से किस घटना के कारण होता है?",
+  "optsEn": [
+   "Atmospheric refraction",
+   "Total internal reflection",
+   "Rayleigh scattering",
+   "Interference of light"
+  ],
+  "optsHi": [
+   "वायुमंडलीय अपवर्तन",
+   "पूर्ण आंतरिक परावर्तन",
+   "रैले प्रकीर्णन",
+   "प्रकाश का व्यतिकरण"
+  ],
+  "correct": 0,
+  "explainEn": "Atmospheric refraction bends light rays from the upper and lower edges of the Sun differently, making the sun appear oval or flattened at sunrise and sunset.",
+  "sourceHint": "NCERT Class 10 Science Chapter 11: The Human Eye and the Colorful World",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:30:13Z"
  }
 ]

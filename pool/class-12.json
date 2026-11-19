@@ -37994,5 +37994,341 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-18T20:35:16Z"
+ },
+ {
+  "id": "q_014edca0124796c6",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which article of the Indian Constitution provides the Right to Equality before Law?",
+  "qHi": "भारतीय संविधान का कौन सा अनुच्छेद कानून के समक्ष समानता का अधिकार प्रदान करता है?",
+  "optsEn": [
+   "Article 14",
+   "Article 19",
+   "Article 21",
+   "Article 32"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14",
+   "अनुच्छेद 19",
+   "अनुच्छेद 21",
+   "अनुच्छेद 32"
+  ],
+  "correct": 0,
+  "explainEn": "Article 14 of the Indian Constitution states that the State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:28:13Z"
+ },
+ {
+  "id": "q_0bdf222a1e2859a0",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which type of market structure has a single seller dominating the market?",
+  "qHi": "किस प्रकार की बाजार संरचना में बाजार पर एक ही विक्रेता का प्रभुत्व होता है?",
+  "optsEn": [
+   "Perfect competition",
+   "Oligopoly",
+   "Monopoly",
+   "Monopolistic competition"
+  ],
+  "optsHi": [
+   "पूर्ण प्रतिस्पर्धा",
+   "अल्पाधिकार",
+   "एकाधिकार",
+   "एकाधिकारात्मक प्रतिस्पर्धा"
+  ],
+  "correct": 2,
+  "explainEn": "A monopoly is characterized by a market structure with a single seller or producer supplying a particular commodity or service.",
+  "sourceHint": "NCERT Class 12 Economics Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:28:13Z"
+ },
+ {
+  "id": "q_6eea48ba85a75467",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which molecular diagnostic technique is used to detect the presence of HIV by amplifying its RNA?",
+  "qHi": "HIV की उपस्थिति का पता लगाने के लिए इसके RNA को प्रवर्धित करके कौन सी आणविक नैदानिक तकनीक का उपयोग किया जाता है?",
+  "optsEn": [
+   "ELISA",
+   "Western blotting",
+   "Polymerase Chain Reaction",
+   "Southern blotting"
+  ],
+  "optsHi": [
+   "ELISA",
+   "वेस्टर्न ब्लोटिंग",
+   "पॉलीमरेज़ चेन रिएक्शन",
+   "सर्दर्न ब्लोटिंग"
+  ],
+  "correct": 2,
+  "explainEn": "Polymerase Chain Reaction (PCR) can detect HIV at a very early stage by amplifying its viral RNA.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:29:20Z"
+ },
+ {
+  "id": "q_9957fd6af70a2ede",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of crystal defect decreases the density of an ionic solid due to the absence of equal numbers of cations and anions?",
+  "qHi": "समान संख्या में धनायनों और ऋणायनों की अनुपस्थिति के कारण किस प्रकार का क्रिस्टल दोष आयनिक ठोस के घनत्व को कम करता है?",
+  "optsEn": [
+   "Frenkel defect",
+   "Schottky defect",
+   "Metal excess defect",
+   "Impurity defect"
+  ],
+  "optsHi": [
+   "फ्रेंकल दोष",
+   "शॉट्की दोष",
+   "धातु अधिक्य दोष",
+   "अशुद्धता दोष"
+  ],
+  "correct": 1,
+  "explainEn": "Schottky defect is a vacancy defect created by equal numbers of missing cations and anions, leading to reduced density.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:29:20Z"
+ },
+ {
+  "id": "q_603d13acfb549f4b",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which micro-organism is commercially used for the production of acetic acid?",
+  "qHi": "एसिटिक एसिड के उत्पादन के लिए व्यावसायिक रूप से किस सूक्ष्म जीव का उपयोग किया जाता है?",
+  "optsEn": [
+   "Lactobacillus",
+   "Saccharomyces cerevisiae",
+   "Acetobacter aceti",
+   "Aspergillus niger"
+  ],
+  "optsHi": [
+   "लैक्टोबैसिलस",
+   "सैकरोमाइसेस सेरेविसी",
+   "एसिटोबैक्टर एसिटि",
+   "एस्परगिलस नाइजर"
+  ],
+  "correct": 2,
+  "explainEn": "Acetobacter aceti is a bacterium used to convert ethanol into acetic acid (vinegar).",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:29:20Z"
+ },
+ {
+  "id": "q_7261aa2605b7afbd",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In macroeconomics, what does GDP at factor cost plus net indirect taxes equal?",
+  "qHi": "समष्टि अर्थशास्त्र में, कारक लागत पर सकल घरेलू उत्पाद (GDP) और शुद्ध अप्रत्यक्ष कर किसके बराबर होते हैं?",
+  "optsEn": [
+   "GDP at market price",
+   "Gross National Product",
+   "Net Domestic Product",
+   "Personal Income"
+  ],
+  "optsHi": [
+   "बाजार मूल्य पर सकल घरेलू उत्पाद",
+   "सकल राष्ट्रीय उत्पाद",
+   "शुद्ध घरेलू उत्पाद",
+   "व्यक्तिगत आय"
+  ],
+  "correct": 0,
+  "explainEn": "GDP at market price is calculated by adding net indirect taxes (indirect taxes minus subsidies) to GDP at factor cost.",
+  "sourceHint": "NCERT Class 12 Economics (Macroeconomics), Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:29:20Z"
+ },
+ {
+  "id": "q_099a907b6585061b",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the net gain of ATP molecules produced directly by substrate-level phosphorylation during one complete turn of the citric acid cycle (Krebs cycle)?",
+  "qHi": "सिट्रिक अम्ल चक्र (क्रेब्स चक्र) के एक पूर्ण चक्कर के दौरान सब्सट्रेट-स्तरीय फॉस्फोरिलीकरण द्वारा सीधे उत्पादित एटीपी अणुओं का शुद्ध लाभ कितना है?",
+  "optsEn": [
+   "1",
+   "2",
+   "38",
+   "24"
+  ],
+  "optsHi": [
+   "1",
+   "2",
+   "38",
+   "24"
+  ],
+  "correct": 0,
+  "explainEn": "One GTP (which is equivalent to one ATP) is produced directly by substrate-level phosphorylation per turn of the Krebs cycle (conversion of succinyl-CoA to succinic acid).",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 14: Respiration in Plants",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:30:19Z"
+ },
+ {
+  "id": "q_31bb0dd19531b998",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "According to Coulomb's law, what is the SI unit of permittivity of free space (epsilon-zero)?",
+  "qHi": "कूलम्ब के नियम के अनुसार, मुक्त आकाश (निर्वात) की विद्युतशीलता (epsilon-zero) का एसआई मात्रक क्या है?",
+  "optsEn": [
+   "Newton meter squared per Coulomb squared",
+   "Coulomb squared per Newton meter squared",
+   "Farad per meter",
+   "Both Coulomb squared per Newton meter squared and Farad per meter"
+  ],
+  "optsHi": [
+   "न्यूटन मीटर वर्ग प्रति कूलम्ब वर्ग",
+   "कूलम्ब वर्ग प्रति न्यूटन मीटर वर्ग",
+   "फैरेड प्रति मीटर",
+   "कूलम्ब वर्ग प्रति न्यूटन मीटर वर्ग और फैरेड प्रति मीटर दोनों"
+  ],
+  "correct": 3,
+  "explainEn": "Permitted units include C^2 N^-1 m^-2 (derived from Coulomb's law) and F/m (used in capacitance), which are dimensionally identical.",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 1: Electric Charges and Fields",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:30:19Z"
+ },
+ {
+  "id": "q_51cf7cf2f0739a77",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In microeconomics, what condition defines the producer equilibrium under perfect competition using total revenue and total cost?",
+  "qHi": "व्यष्टि अर्थशास्त्र में, कुल आगम और कुल लागत का उपयोग करते हुए पूर्ण प्रतिस्पर्धा के अंतर्गत उत्पादक संतुलन को कौन सी शर्त परिभाषित करती है?",
+  "optsEn": [
+   "Maximum positive difference between total revenue and total cost",
+   "Total revenue equals total cost",
+   "Marginal revenue equals zero",
+   "Average revenue equals average cost"
+  ],
+  "optsHi": [
+   "कुल आगम और कुल लागत के बीच अधिकतम धनात्मक अंतर",
+   "कुल आगम कुल लागत के बराबर है",
+   "सीमांत आगम शून्य के बराबर है",
+   "औसत आगम औसत लागत के बराबर है"
+  ],
+  "correct": 0,
+  "explainEn": "Producer equilibrium is achieved where the vertical distance between the total revenue (TR) and total cost (TC) curves is maximum, yielding maximum profit.",
+  "sourceHint": "NCERT Class 12 Economics (Introductory Microeconomics), Producer Behaviour and Supply",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:30:19Z"
+ },
+ {
+  "id": "q_e6bca93093951e07",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Constitutional Amendment Act added the fundamental duty relating to providing opportunities for education to a child between the age of six and fourteen years?",
+  "qHi": "किस संवैधानिक संशोधन अधिनियम द्वारा छह से चौदह वर्ष की आयु के बच्चे को शिक्षा के अवसर प्रदान करने से संबंधित मौलिक कर्तव्य जोड़ा गया था?",
+  "optsEn": [
+   "42nd Amendment Act, 1976",
+   "44th Amendment Act, 1978",
+   "86th Amendment Act, 2002",
+   "103rd Amendment Act, 2019"
+  ],
+  "optsHi": [
+   "42वां संशोधन अधिनियम, 1976",
+   "44वां संशोधन अधिनियम, 1978",
+   "86वां संशोधन अधिनियम, 2002",
+   "103वां संशोधन अधिनियम, 2019"
+  ],
+  "correct": 2,
+  "explainEn": "The 86th Constitutional Amendment Act, 2002 inserted Article 21A and added the 11th Fundamental Duty under Article 51A(k).",
+  "sourceHint": "Indian Constitution / NCERT Class 12 Political Science, Indian Politics Since Independence",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:30:19Z"
+ },
+ {
+  "id": "q_b26ccfaaea247e73",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In a haloalkane undergoing an SN1 reaction, what is the spatial configuration of the chiral carbon product when starting from an optically pure reactant?",
+  "qHi": "SN1 अभिक्रिया से गुजरने वाले हैलोएल्केन में, एक प्रकाशिक रूप से शुद्ध अभिकारक से शुरू करने पर काइरल कार्बन उत्पाद का स्थानिक अभिविन्यास (spatial configuration) क्या होता है?",
+  "optsEn": [
+   "Complete inversion of configuration",
+   "Complete retention of configuration",
+   "Racemization leading to a racemic mixture",
+   "Formation of a meso compound exclusively"
+  ],
+  "optsHi": [
+   "विन्यास का पूर्ण व्युत्क्रमण",
+   "विन्यास का पूर्ण प्रतिधारण",
+   "रेसेमिक मिश्रण का निर्माण करने वाला रेसेमीकरण",
+   "विशेष रूप से एक मेसो यौगिक का निर्माण"
+  ],
+  "correct": 2,
+  "explainEn": "SN1 reactions proceed via a planar carbocation intermediate, which can be attacked from either side with equal probability, leading to racemization.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 6: Haloalkanes and Haloarenes",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:30:19Z"
+ },
+ {
+  "id": "q_7129f9158926e324",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which technique is used to separate DNA fragments based on their size by applying an electric field through a gel matrix?",
+  "qHi": "जेल मैट्रिक्स के माध्यम से विद्युत क्षेत्र लागू करके डीएनए टुकड़ों को उनके आकार के आधार पर अलग करने के लिए किस तकनीक का उपयोग किया जाता है?",
+  "optsEn": [
+   "Polymerase Chain Reaction",
+   "Gel Electrophoresis",
+   "Southern Blotting",
+   "Column Chromatography"
+  ],
+  "optsHi": [
+   "पोलीमरेज़ चेन रिएक्शन",
+   "जेल इलेक्ट्रोफोरेसिस",
+   "सर्दर्न ब्लॉटिंग",
+   "कॉलम क्रोमैटोग्राफी"
+  ],
+  "correct": 1,
+  "explainEn": "Gel electrophoresis forces negatively charged DNA fragments through a sieve-like agarose gel matrix under an electric field, separating them by size.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 11: Biotechnology - Principles and Processes",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:30:19Z"
  }
 ]

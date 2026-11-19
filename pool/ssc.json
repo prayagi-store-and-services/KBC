@@ -24022,5 +24022,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-18T20:35:28Z"
+ },
+ {
+  "id": "q_7d63c1e98491644d",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "The Tropic of Cancer passes through which of the following countries?",
+  "qHi": "कर्क रेखा निम्नलिखित में से किस देश से होकर गुजरती है?",
+  "optsEn": [
+   "Australia",
+   "India",
+   "Argentina",
+   "South Africa"
+  ],
+  "optsHi": [
+   "ऑस्टेलिया",
+   "भारत",
+   "अर्जेंटीना",
+   "दक्षिण अफ्रीका"
+  ],
+  "correct": 1,
+  "explainEn": "The Tropic of Cancer passes through the middle of India.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:28:26Z"
+ },
+ {
+  "id": "q_0694e5dbfae96810",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who among the following founded the Servants of India Society in 1905?",
+  "qHi": "निम्नलिखित में से किसने 1905 में सर्वेंट ऑफ इंडिया सोसाइटी की स्थापना की थी?",
+  "optsEn": [
+   "Gopal Krishna Gokhale",
+   "Bal Gangadhar Tilak",
+   "Mahadev Govind Ranade",
+   "Dadabhai Naoroji"
+  ],
+  "optsHi": [
+   "गोपाल कृष्ण गोखले",
+   "बाल गंगाधर तिलक",
+   "महादेव गोविंद रानाडे",
+   "दादाभाई नौरोजी"
+  ],
+  "correct": 0,
+  "explainEn": "Gopal Krishna Gokhale founded the Servants of India Society in Pune in 1905 to unite and train Indians of different ethnicities and religions in welfare work.",
+  "sourceHint": "Spectrum Modern India / NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:29:35Z"
  }
 ]

@@ -23574,5 +23574,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-18T20:36:08Z"
+ },
+ {
+  "id": "q_e5b189a9c92d327b",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Constitution of India, who appoints the Chief Justice of India?",
+  "qHi": "भारत के संविधान के तहत, भारत के मुख्य न्यायाधीश की नियुक्ति कौन करता है?",
+  "optsEn": [
+   "Prime Minister",
+   "President of India",
+   "Minister of Law and Justice",
+   "Lok Sabha Speaker"
+  ],
+  "optsHi": [
+   "प्रधानमंत्री",
+   "भारत के राष्ट्रपति",
+   "कानून और न्याय मंत्री",
+   "लोकसभा अध्यक्ष"
+  ],
+  "correct": 1,
+  "explainEn": "According to Article 124 of the Constitution of India, every Judge of the Supreme Court including the Chief Justice is appointed by the President.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:29:49Z"
+ },
+ {
+  "id": "q_dbd49a5809d31819",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The famous wildlife sanctuary known for being the last natural habitat of the Asiatic lion is located in which state?",
+  "qHi": "एशियाई शेर का अंतिम प्राकृतिक निवास होने के लिए जाना जाने वाला प्रसिद्ध वन्यजीव अभयारण्य किस राज्य में स्थित है?",
+  "optsEn": [
+   "Assam",
+   "Madhya Pradesh",
+   "Gujarat",
+   "Uttarakhand"
+  ],
+  "optsHi": [
+   "असम",
+   "मध्य प्रदेश",
+   "गुजरात",
+   "उत्तराखंड"
+  ],
+  "correct": 2,
+  "explainEn": "Gir National Park and Wildlife Sanctuary in Gujarat is the only place in the world where Asiatic lions roam free.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:29:49Z"
+ },
+ {
+  "id": "q_f5e2aa52433e6b6a",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which river originates from the Gangotri Glacier and is joined by the Alaknanda at Devprayag to form the Ganges?",
+  "qHi": "कौन सी नदी गंगोत्री हिमनद से निकलती है और गंगा बनाने के लिए देवप्रयाग में अलकनंदा से मिलती है?",
+  "optsEn": [
+   "Yamuna",
+   "Bhagirathi",
+   "Kosi",
+   "Gandak"
+  ],
+  "optsHi": [
+   "यमुना",
+   "भागीरथी",
+   "कोसी",
+   "गंडक"
+  ],
+  "correct": 1,
+  "explainEn": "The Bhagirathi river is the source stream of the Ganges. It meets the Alaknanda river at Devprayag, from where the combined stream is known as the Ganga.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:29:49Z"
  }
 ]

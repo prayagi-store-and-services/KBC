@@ -32870,5 +32870,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-18T20:36:36Z"
+ },
+ {
+  "id": "q_c9859edd0d87110f",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which is the national animal of India?",
+  "qHi": "भारत का राष्ट्रीय पशु कौन सा है?",
+  "optsEn": [
+   "Lion",
+   "Elephant",
+   "Tiger",
+   "Leopard"
+  ],
+  "optsHi": [
+   "शेर",
+   "हाथी",
+   "बाघ",
+   "तेंदुआ"
+  ],
+  "correct": 2,
+  "explainEn": "The Royal Bengal Tiger is designated as the national animal of India.",
+  "sourceHint": "Government of India National Portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:28:58Z"
+ },
+ {
+  "id": "q_0732088276639907",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a greenhouse gas found in Earth's atmosphere?",
+  "qHi": "पृथ्वी के वायुमंडल में पाई जाने वाली ग्रीनहाउस गैस निम्नलिखित में से कौन सी है?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Oxygen",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 0,
+  "explainEn": "Carbon dioxide is a well-known greenhouse gas that helps trap heat in the atmosphere.",
+  "sourceHint": "NCERT Geography Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:28:58Z"
+ },
+ {
+  "id": "q_72bc3aa4e61530a6",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the main function of the roots of a plant?",
+  "qHi": "पौधे की जड़ों का मुख्य कार्य क्या होता है?",
+  "optsEn": [
+   "Making food for the plant",
+   "Absorbing water and minerals from the soil",
+   "Producing flowers",
+   "Catching insects"
+  ],
+  "optsHi": [
+   "पौधे के लिए भोजन बनाना",
+   "मिट्टी से पानी और खनिज लवण अवशोषित करना",
+   "फूल उत्पन्न करना",
+   "कीड़े पकड़ना"
+  ],
+  "correct": 1,
+  "explainEn": "Roots anchor the plant firmly in the ground and absorb water and essential nutrients from the soil.",
+  "sourceHint": "NCERT Class 4 and 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:28:58Z"
+ },
+ {
+  "id": "q_d864e4cd37a864aa",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What happens to the level of water in a measuring cylinder when a heavy stone is dropped into it?",
+  "qHi": "जब किसी माप बेलन में एक भारी पत्थर डाला जाता है तो उसमें पानी के स्तर का क्या होता है?",
+  "optsEn": [
+   "It decreases",
+   "It increases",
+   "It remains the same",
+   "It evaporates completely"
+  ],
+  "optsHi": [
+   "यह घट जाता है",
+   "यह बढ़ जाता है",
+   "यह समान रहता है",
+   "यह पूरी तरह से वाष्पित हो जाता है"
+  ],
+  "correct": 1,
+  "explainEn": "An object takes up space (volume), so when a stone is dropped into water, it displaces the water, causing the level to rise.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:29:59Z"
+ },
+ {
+  "id": "q_0762b66f547ff94a",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In agriculture, which tool is traditionally used to loosen and turn the soil before planting seeds?",
+  "qHi": "कृषि में, बीज बोने से पहले मिट्टी को ढीला करने और पलटने के लिए पारंपरिक रूप से किस उपकरण का उपयोग किया जाता है?",
+  "optsEn": [
+   "Sickle",
+   "Plough",
+   "Winnowing basket",
+   "Sieve"
+  ],
+  "optsHi": [
+   "हिया (दराती)",
+   "हल",
+   "सूप (ओसावनी)",
+   "छलनी"
+  ],
+  "correct": 1,
+  "explainEn": "A plough is used to till, turn, and loosen the soil to prepare the field for sowing seeds.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:29:59Z"
  }
 ]

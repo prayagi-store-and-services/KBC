@@ -42110,5 +42110,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-18T20:36:01Z"
+ },
+ {
+  "id": "q_17076abf77322044",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a quantitative tool of monetary policy used by the Reserve Bank of India?",
+  "qHi": "निम्नलिखित में से कौन सा भारतीय रिजर्व बैंक द्वारा प्रयुक्त मौद्रिक नीति का एक मात्रात्मक उपकरण है?",
+  "optsEn": [
+   "Cash Reserve Ratio",
+   "Moral Suasion",
+   "Margin Requirements",
+   "Direct Action"
+  ],
+  "optsHi": [
+   "नकद आरक्षित अनुपात",
+   "नैतिक दबाव",
+   "मार्जिन आवश्यकताएँ",
+   "प्रत्यक्ष कार्रवाई"
+  ],
+  "correct": 0,
+  "explainEn": "Cash Reserve Ratio (CRR) is a quantitative credit control tool of the monetary policy, unlike moral suasion which is qualitative.",
+  "sourceHint": "NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:28:31Z"
+ },
+ {
+  "id": "q_e892e65a0a4b8e11",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which currency note in India features the motif of the Sun Temple at Konark on its reverse side?",
+  "qHi": "भारत में किस करेंसी नोट के पिछले हिस्से पर कोणार्क के सूर्य मंदिर का चित्र अंकित है?",
+  "optsEn": [
+   "Ten rupees note",
+   "Fifty rupees note",
+   "Hundred rupees note",
+   "Two thousand rupees note"
+  ],
+  "optsHi": [
+   "दस रुपये का नोट",
+   "पचास रुपये का नोट",
+   "एक सौ रुपये का नोट",
+   "दो हजार रुपये का नोट"
+  ],
+  "correct": 1,
+  "explainEn": "The lavender-colored fifty rupees denomination banknote bears the motif of the Sun Temple, Konark on the reverse.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:28:31Z"
+ },
+ {
+  "id": "q_6c47a952a35707ff",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In the context of the banking sector, what does the letter 'N' stand for in NEFT?",
+  "qHi": "बैंकिंग क्षेत्र के संदर्भ में, NEFT में अक्षर 'N' का क्या अर्थ है?",
+  "optsEn": [
+   "National",
+   "Negotiable",
+   "Net",
+   "Nominal"
+  ],
+  "optsHi": [
+   "नेशनल",
+   "नेगोशिएबल",
+   "नेट",
+   "ॉमिनल"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, a nation-wide centralized payment system owned and operated by the RBI.",
+  "sourceHint": "Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:28:31Z"
+ },
+ {
+  "id": "q_de78a0e0c1d988d5",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization in India regulates the capital market and mutual funds?",
+  "qHi": "भारत में पूंजी बाजार और म्यूचुअल फंड को कौन सी संस्था विनियमित करती है?",
+  "optsEn": [
+   "IRDAI",
+   "SEBI",
+   "PFRDA",
+   "RBI"
+  ],
+  "optsHi": [
+   "इrdai",
+   "सेबी",
+   "पीएफआरडीए",
+   "भारतीय रिजर्व बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "The Securities and Exchange Board of India (SEBI) is the regulator for the securities market and mutual funds in India.",
+  "sourceHint": "SEBI Act, 1992",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:28:31Z"
+ },
+ {
+  "id": "q_ddb47c173df321e8",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India regulates Mutual Funds and Portfolio Management Services?",
+  "qHi": "भारत में कौन सा संगठन म्यूचुअल फंड और पोर्टफोलियो प्रबंधन सेवाओं को नियंत्रित करता है?",
+  "optsEn": [
+   "RBI",
+   "SEBI",
+   "IRDAI",
+   "PFRDA"
+  ],
+  "optsHi": [
+   "आरबीआई",
+   "सेबी",
+   "इरडाई",
+   "पीएफआरडीए"
+  ],
+  "correct": 1,
+  "explainEn": "SEBI (Securities and Exchange Board of India) is the regulator for the securities market, including mutual funds.",
+  "sourceHint": "SEBI Act, 1992",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:29:43Z"
+ },
+ {
+  "id": "q_764e4e1f68084e78",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following terms refers to a market where long-term securities are bought and sold?",
+  "qHi": "निम्नलिखित में से कौन सा शब्द उस बाजार को संदर्भित करता है जहाँ दीर्घकालिक प्रतिभूतियाँ खरीदी और बेची जाती हैं?",
+  "optsEn": [
+   "Money Market",
+   "Capital Market",
+   "Call Money Market",
+   "Foreign Exchange Market"
+  ],
+  "optsHi": [
+   "मुद्रा बाजार",
+   "पूंजी बाजार",
+   "कॉल मनी मार्केट",
+   "विदेशी मुद्रा बाजार"
+  ],
+  "correct": 1,
+  "explainEn": "The capital market is a financial market where long-term debt or equity-backed securities are bought and sold.",
+  "sourceHint": "NCERT Economics textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:29:43Z"
+ },
+ {
+  "id": "q_0d8483f5ff4d58dc",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does 'C' stand for in the context of the banking identifier code 'MICR'?",
+  "qHi": "बैंकिंग पहचान कोड 'MICR' के संदर्भ में 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Credit",
+   "Character",
+   "Clearing",
+   "Currency"
+  ],
+  "optsHi": [
+   "क्रेडिट",
+   "कैरेक्टर",
+   "क्लियरिंग",
+   "करेंसी"
+  ],
+  "correct": 1,
+  "explainEn": "MICR stands for Magnetic Ink Character Recognition.",
+  "sourceHint": "RBI Banking Glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:29:43Z"
+ },
+ {
+  "id": "q_f6ba127cd397b40f",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institution acts as the principal financial institution for the promotion, financing, and development of micro, small, and medium enterprises in India?",
+  "qHi": "भारत में सूक्ष्म, लघु और मध्यम उद्यमों के संवर्धन, वित्तपोषण और विकास के लिए कौन सी संस्था प्रमुख वित्तीय संस्थान के रूप में कार्य करती है?",
+  "optsEn": [
+   "NABARD",
+   "SIDBI",
+   "EXIM Bank",
+   "NHB"
+  ],
+  "optsHi": [
+   "नाबार्ड",
+   "सिडबी",
+   "एक्जिम बैंक",
+   "एनएचबी"
+  ],
+  "correct": 1,
+  "explainEn": "Small Industries Development Bank of India (SIDBI) is the apex regulatory body for licensing and regulating micro, small, and medium enterprise finance in India.",
+  "sourceHint": "SIDBI official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T07:29:43Z"
  }
 ]
