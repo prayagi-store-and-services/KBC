@@ -33010,5 +33010,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-19T07:29:59Z"
+ },
+ {
+  "id": "q_7dbbd15f3fc4b30c",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which direction does the Sun rise every morning?",
+  "qHi": "सूरज हर सुबह किस दिशा से उगता है?",
+  "optsEn": [
+   "North",
+   "South",
+   "East",
+   "West"
+  ],
+  "optsHi": [
+   "उत्तर",
+   "दक्षिण",
+   "पूर्व",
+   "पश्चिम"
+  ],
+  "correct": 2,
+  "explainEn": "The Earth rotates from west to east, making the Sun appear to rise in the east.",
+  "sourceHint": "NCERT Class 3 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T20:38:55Z"
+ },
+ {
+  "id": "q_251aad05efb58df0",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which instrument is used by astronomers to observe distant stars and planets clearly?",
+  "qHi": "दूर के तारों और ग्रहों को स्पष्ट रूप से देखने के लिए खगोलविदों द्वारा किस यंत्र का उपयोग किया जाता है?",
+  "optsEn": [
+   "Microscope",
+   "Telescope",
+   "Barometer",
+   "Thermometer"
+  ],
+  "optsHi": [
+   "सूक्ष्मदर्शी",
+   "दूरबीन",
+   "बैरोमीटर",
+   "थर्मामीटर"
+  ],
+  "correct": 1,
+  "explainEn": "A telescope is an optical instrument designed to make distant objects appear nearer, containing an arrangement of lenses or curved mirrors.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T20:40:33Z"
+ },
+ {
+  "id": "q_7530e0d0c750123a",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of plant is a mango tree classified as?",
+  "qHi": "आम के पेड़ को किस प्रकार के पौधे के रूप में वर्गीकृत किया गया है?",
+  "optsEn": [
+   "Herb",
+   "Shrub",
+   "Tree",
+   "Climber"
+  ],
+  "optsHi": [
+   "शाक",
+   "झाड़ी",
+   "वृक्ष",
+   "आरोही"
+  ],
+  "correct": 2,
+  "explainEn": "A mango tree has a thick, hard, woody stem called a trunk, making it a tree.",
+  "sourceHint": "NCERT Class 3 and 5 Science basics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T20:40:33Z"
+ },
+ {
+  "id": "q_f6b738960cc26943",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which invisible layer of gases surrounds the Earth and is held in place by gravity?",
+  "qHi": "गैसों की कौन सी अदृश्य परत पृथ्वी को घेरती है और गुरुत्वाकर्षण द्वारा अपनी जगह पर रहती है?",
+  "optsEn": [
+   "Atmosphere",
+   "Hydrosphere",
+   "Lithosphere",
+   "Biosphere"
+  ],
+  "optsHi": [
+   "वायुमंडल",
+   "जलमंडल",
+   "स्थलमंडल",
+   "जीवमंडल"
+  ],
+  "correct": 0,
+  "explainEn": "The atmosphere is the envelope of gases surrounding the Earth, retained by Earth's gravity.",
+  "sourceHint": "NCERT Class 5 Geography / Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T20:40:33Z"
+ },
+ {
+  "id": "q_f18cc5d09b2641c2",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these animals is primarily nocturnal, meaning it is most active during the night?",
+  "qHi": "इनमें से कौन सा जानवर मुख्य रूप से निशाचर है, जिसका अर्थ है कि वह रात के दौरान सबसे अधिक सक्रिय होता है?",
+  "optsEn": [
+   "Owl",
+   "Elephant",
+   "Cow",
+   "Crow"
+  ],
+  "optsHi": [
+   "उल्लू",
+   "हाथी",
+   "गाय",
+   "कौवा"
+  ],
+  "correct": 0,
+  "explainEn": "Owls have special adaptations like acute night vision and sensitive hearing that make them active and hunting during the night.",
+  "sourceHint": "NCERT Class 5 Environmental Studies (EVS) Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T20:40:33Z"
  }
 ]

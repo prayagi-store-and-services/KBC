@@ -38330,5 +38330,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-19T07:30:19Z"
+ },
+ {
+  "id": "q_aa95aae43d9b93de",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which economic sector does forestry primarily fall under?",
+  "qHi": "वानिकी मुख्य रूप से किस आर्थिक क्षेत्र के अंतर्गत आती है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Quaternary sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "तृतीयक क्षेत्र",
+   "चतुर्थक क्षेत्र"
+  ],
+  "correct": 0,
+  "explainEn": "Activities related to extraction and harvesting of natural products, such as forestry and agriculture, belong to the primary sector.",
+  "sourceHint": "NCERT Class 10 Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T20:38:37Z"
+ },
+ {
+  "id": "q_2ae064aa53d1d21a",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the SI unit of electric flux?",
+  "qHi": "विद्युत फ्लक्स का एसआई मात्रक क्या है?",
+  "optsEn": [
+   "Newton meter per Coulomb",
+   "Newton meter squared per Coulomb",
+   "Coulomb per meter squared",
+   "Volt meter"
+  ],
+  "optsHi": [
+   "न्यूटन मीटर प्रति कूलॉम",
+   "न्यूटन मीटर वर्ग प्रति कूलॉम",
+   "कूलॉम प्रति मीटर वर्ग",
+   "वोल्ट मीटर"
+  ],
+  "correct": 1,
+  "explainEn": "Electric flux is the product of electric field and area, having units of (N/C) * m^2, which is Newton meter squared per Coulomb (or Volt meter).",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T20:39:49Z"
+ },
+ {
+  "id": "q_2da0b76b765d60d5",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which chemical test is commonly used to distinguish between aldehydes and ketones?",
+  "qHi": "एल्डिहाइड और कीटोन के बीच अंतर करने के लिए आमतौर पर किस रासायनिक परीक्षण का उपयोग किया जाता है?",
+  "optsEn": [
+   "Tollens' test",
+   "Biuret test",
+   "Iodoform test",
+   "Lucas test"
+  ],
+  "optsHi": [
+   "टोलेंस परीक्षण",
+   "बायूरेट परीक्षण",
+   "आयोडोफॉर्म परीक्षण",
+   "लुकास परीक्षण"
+  ],
+  "correct": 0,
+  "explainEn": "Tollens' reagent is oxidized by aldehydes to give a silver mirror, whereas ketones generally do not react under these conditions.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T20:39:49Z"
+ },
+ {
+  "id": "q_5a4d6e00195d4276",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which term describes the process of species adapting to a new environment by diversifying rapidly into multiple new forms?",
+  "qHi": "जातियों के नए रूपों में तेजी से विविधता लाकर नए वातावरण के अनुकूल होने की प्रक्रिया को कौन सा शब्द दर्शाता है?",
+  "optsEn": [
+   "Adaptive radiation",
+   "Convergent evolution",
+   "Genetic drift",
+   "Stabilizing selection"
+  ],
+  "optsHi": [
+   "अनुकूलनी विकिरणी",
+   "अभिसारी विकास",
+   "आनुवंशिक विचलन",
+   "स्थिरीकरण चयन"
+  ],
+  "correct": 0,
+  "explainEn": "Adaptive radiation is an evolutionary process where an ancestral species rapidly diversifies into various forms adapted to different ecological niches.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T20:39:49Z"
+ },
+ {
+  "id": "q_a2e4d76f4fa1f4a7",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of macroprudential policies in an economy?",
+  "qHi": "अर्थव्यवस्था में वृहद विवेकपूर्ण नीतियों (macroprudential policies) का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "Regulating a single commercial bank's daily operations",
+   "Controlling the systemic risk of the entire financial system",
+   "Managing individual corporate income taxes",
+   "Fixing minimum support prices for agricultural goods"
+  ],
+  "optsHi": [
+   "एक अकेले वाणिज्यिक बैंक के दैनिक संचालन को विनियमित करना",
+   "पूरे वित्तीय प्रणाली के प्रणालीगत जोखिम को नियंत्रित करना",
+   "व्यक्तिगत कॉर्पोरेट आयकर का प्रबंधन करना",
+   "कृषि वस्तुओं के लिए न्यूनतम समर्थन मूल्य तय करना"
+  ],
+  "correct": 1,
+  "explainEn": "Macroprudential policy aims to mitigate the risk of the financial system as a whole, unlike microprudential regulation which focuses on individual institutions.",
+  "sourceHint": "NCERT Class 12 Economics (Macroeconomics)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T20:39:49Z"
+ },
+ {
+  "id": "q_3938af4cc5503d43",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under Article 72 of the Constitution of India, the pardoning power of the President extends to which of the following?",
+  "qHi": "भारत के संविधान के अनुच्छेद 72 के तहत, राष्ट्रपति की क्षमादान शक्ति निम्नलिखित में से किस पर लागू होती है?",
+  "optsEn": [
+   "All cases where punishment or sentence is by a Court Martial",
+   "Only cases involving capital punishment",
+   "Sentences given by state legislative tribunals",
+   "Civil contempt of court cases"
+  ],
+  "optsHi": [
+   "वे सभी मामले जहां सजा या दंड कोर्ट मार्शल द्वारा दिया गया हो",
+   "केवल मृत्युदंड से जुड़े मामले",
+   "राज्य विधायी न्यायाधिकरणों द्वारा दी गई सजा",
+   "न्यायालय की सिविल अवमानना के मामले"
+  ],
+  "correct": 0,
+  "explainEn": "Article 72 empowers the President to grant pardons in all cases where the punishment is by a Court Martial, in offenses against Union laws, and sentences of death.",
+  "sourceHint": "Constitution of India, Article 72 / NCERT Class 12 Political Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T20:40:47Z"
+ },
+ {
+  "id": "q_98b80138450af64b",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of macroeconomics, which of the following correctly describes the condition for equilibrium output in a simple Keynesian model?",
+  "qHi": "समष्टि अर्थशास्त्र के संदर्भ में, निम्नलिखित में से कौन सा सरल कीनेज़ियन मॉडल में संतुलन उत्पादन की स्थिति का सही वर्णन करता है?",
+  "optsEn": [
+   "Aggregate Demand equals Total Investment",
+   "Aggregate Demand equals Aggregate Supply",
+   "Savings equals Government Expenditure",
+   "Consumption equals Total Income"
+  ],
+  "optsHi": [
+   "समग्र मांग कुल निवेश के बराबर है",
+   "समग्र मांग समग्र आपूर्ति के बराबर है",
+   "बचत सरकारी व्यय के बराबर है",
+   "उपभोग कुल आय के बराबर है"
+  ],
+  "correct": 1,
+  "explainEn": "In the simple Keynesian income determination model, equilibrium output is attained when Aggregate Demand (AD) equals Aggregate Supply (AS), or equivalently when planned saving equals planned investment.",
+  "sourceHint": "NCERT Class 12 Economics (Introductory Macroeconomics), Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T20:40:47Z"
+ },
+ {
+  "id": "q_9f04592ea853f92a",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which transition metal compound is commonly used as a catalyst in the industrial preparation of H2SO4 via the Contact Process?",
+  "qHi": "संपर्क प्रक्रिया (कॉन्टैक्ट प्रोसेस) के माध्यम से H2SO4 के औद्योगिक निर्माण में उत्प्रेरक के रूप में आमतौर पर किस संक्रमण धातु यौगिक का उपयोग किया जाता है?",
+  "optsEn": [
+   "Vanadium pentoxide",
+   "Manganese dioxide",
+   "Nickel powder",
+   "Iron(III) oxide"
+  ],
+  "optsHi": [
+   "वेनेडियम पेंटॉक्साइड",
+   "मैंगनीज डाइऑक्साइड",
+   "निकेल पाउडर",
+   "आयरन (III) ऑक्साइड"
+  ],
+  "correct": 0,
+  "explainEn": "Vanadium pentoxide (V2O5) is used as the catalyst for the oxidation of sulfur dioxide to sulfur trioxide in the Contact process.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 7 (p-Block Elements)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T20:40:47Z"
+ },
+ {
+  "id": "q_2616b628c7b40b48",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which revenue receipt category of the Government of India includes dividends and profits from public sector undertakings?",
+  "qHi": "भारत सरकार की किस राजस्व प्राप्त श्रेणी में सार्वजनिक क्षेत्र के उपक्रमों से प्राप्त लाभांश और लाभ शामिल हैं?",
+  "optsEn": [
+   "Tax revenue",
+   "Non-tax revenue",
+   "Capital debt receipts",
+   "Recovery of loans"
+  ],
+  "optsHi": [
+   "कर राजस्व",
+   "गैर-कर राजस्व",
+   "पूंजीगत ऋण प्राप्तियां",
+   "ऋणों की वसूली"
+  ],
+  "correct": 1,
+  "explainEn": "Interest receipts, dividends, and profits from investments made by the government are classified under non-tax revenue receipts.",
+  "sourceHint": "NCERT Class 12 Economics (Macroeconomics), Chapter 5: Government Budget and the Economy",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T20:40:47Z"
+ },
+ {
+  "id": "q_f3736e7820906e79",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In human embryonic development, at approximately which stage does implantation into the endometrium of the uterus occur?",
+  "qHi": "मानव भ्रूण के विकास में, गर्भाशय के एंडोमेट्रियम में आरोपण (इम्प्लांटेशन) लगभग किस चरण में होता है?",
+  "optsEn": [
+   "Zygote",
+   "Morula",
+   "Blastocyst",
+   "Gastrula"
+  ],
+  "optsHi": [
+   "युग्मज (जाइगोट)",
+   "मोरुला",
+   "ब्लास्टोसिस्र्ट (कोरकपुटी)",
+   "गैस्ट्रुला"
+  ],
+  "correct": 2,
+  "explainEn": "The blastocyst stage of the human embryo gets embedded in the endometrium of the uterus, a process known as implantation.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 3: Human Reproduction",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T20:40:47Z"
+ },
+ {
+  "id": "q_8eaf43c492e42337",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which British official introduced the Doctrine of Lapse policy, widely used to annex princely states in India during the 19th century?",
+  "qHi": "किस ब्रिटिश अधिकारी ने 19वीं शताब्दी के दौरान भारत में रियासतों का विलय करने के लिए व्यापक रूप से उपयोग की जाने वाली 'व्यपगत का सिद्धांत' (डॉक्ट्रिन ऑफ लैप्स) नीति शुरू की थी?",
+  "optsEn": [
+   "Lord Dalhousie",
+   "Lord Wellesley",
+   "Lord Cornwallis",
+   "Lord William Bentinck"
+  ],
+  "optsHi": [
+   "लॉर्ड डलहौजी",
+   "लॉर्ड वेलेजली",
+   "लॉर्ड कॉर्नवॉलिस",
+   "लॉर्ड विलियम बेंटिंक"
+  ],
+  "correct": 0,
+  "explainEn": "Lord Dalhousie, the Governor-General of India from 1848 to 1856, devised the Doctrine of Lapse policy.",
+  "sourceHint": "NCERT Class 12 History (Themes in Indian History Part III), Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T20:40:47Z"
  }
 ]

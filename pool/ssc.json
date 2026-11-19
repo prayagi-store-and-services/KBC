@@ -24078,5 +24078,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-19T07:29:35Z"
+ },
+ {
+  "id": "q_a2e4cd64232c864c",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary function of the ozone layer in the Earth's stratosphere?",
+  "qHi": "पृथ्वी समताप मंडल में ओजोन परत का मुख्य कार्य क्या है?",
+  "optsEn": [
+   "Absorbs harmful ultraviolet radiation",
+   "Regulates global carbon dioxide levels",
+   "Prevents global warming by trapping heat",
+   "Generates atmospheric oxygen"
+  ],
+  "optsHi": [
+   "हानिकारक पराबैंगनी विकिरण को अवशोषित करना",
+   "वैश्विक कार्बन डाइऑक्साइड के स्तर को विनियमित करना",
+   "गर्मी को फंसाकर ग्लोबल वार्मिंग को रोकना",
+   "वायुमंडलीय ऑक्सीजन उत्पन्न करना"
+  ],
+  "correct": 0,
+  "explainEn": "The stratospheric ozone layer absorbs most of the Sun's harmful ultraviolet (UV) radiation, protecting life on Earth.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T20:39:59Z"
+ },
+ {
+  "id": "q_ca96d957cea047a6",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which writ is issued by a higher court to a lower court or tribunal to prevent exceeding its jurisdiction?",
+  "qHi": "उच्च न्यायालय द्वारा किसी निचली अदालत या न्यायाधिकरण को उसकी अधिकार क्षेत्र से बाहर जाने से रोकने के لیے कौन सी रिट जारी की जाती है?",
+  "optsEn": [
+   "Habeas Corpus",
+   "Mandamus",
+   "Prohibition",
+   "Quo-Warranto"
+  ],
+  "optsHi": [
+   "बंदी प्रत्यक्षीकरण",
+   "परमादेश",
+   "प्रतिषेध",
+   "अधिकार पृच्छा"
+  ],
+  "correct": 2,
+  "explainEn": "The writ of Prohibition is issued by a higher court to a lower court or tribunal to prevent them from exceeding their jurisdiction.",
+  "sourceHint": "Indian Polity by M. Laxmikanth",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T20:39:59Z"
  }
 ]

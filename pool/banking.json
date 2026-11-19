@@ -42334,5 +42334,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-19T07:29:43Z"
+ },
+ {
+  "id": "q_11cb2200ac7b5e36",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which institution regulates the microfinance sector in India?",
+  "qHi": "भारत में सूक्ष्म वित्त क्षेत्र को कौन सी संस्था विनियमित करती है?",
+  "optsEn": [
+   "Securities and Exchange Board of India",
+   "Reserve Bank of India",
+   "Insurance Regulatory and Development Authority",
+   "Ministry of Finance"
+  ],
+  "optsHi": [
+   "Securities and Exchange Board of India",
+   "Reserve Bank of India",
+   "Insurance Regulatory and Development Authority",
+   "Ministry of Finance"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India (RBI) acts as the primary regulator for microfinance institutions (MFIs) in India.",
+  "sourceHint": "Reserve Bank of India official guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T20:38:49Z"
+ },
+ {
+  "id": "q_7f048c5f664bcd90",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization manages the Unified Payments Interface (UPI) platform in India?",
+  "qHi": "भारत में यूनिफाइड पेमेंट इंटरफेस (UPI) प्लेटफॉर्म का प्रबंधन कौन सा संगठन करता है?",
+  "optsEn": [
+   "National Payments Corporation of India",
+   "Reserve Bank of India",
+   "State Bank of India",
+   "Indian Banks Association"
+  ],
+  "optsHi": [
+   "National Payments Corporation of India",
+   "Reserve Bank of India",
+   "State Bank of India",
+   "Indian Banks Association"
+  ],
+  "correct": 0,
+  "explainEn": "NPCI (National Payments Corporation of India) operates retail payments and settlement systems in India, including UPI.",
+  "sourceHint": "NPCI official portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T20:38:49Z"
+ },
+ {
+  "id": "q_916d27eec6d96b0d",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'S' stand for in the financial sector acronym 'NEFT'?",
+  "qHi": "वित्तीय क्षेत्र के संक्षिप्त नाम 'NEFT' में 'S' का क्या अर्थ है?",
+  "optsEn": [
+   "Settlement",
+   "System",
+   "Security",
+   "Society"
+  ],
+  "optsHi": [
+   "Settlement",
+   "System",
+   "Security",
+   "Society"
+  ],
+  "correct": 1,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, where the 'S' stands for System.",
+  "sourceHint": "RBI payment systems overview",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T20:38:49Z"
+ },
+ {
+  "id": "q_55d24fc392bfa02b",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which bank is traditionally known as India's central banking institution?",
+  "qHi": "पारंपरिक रूप से भारत की केंद्रीय बैंकिंग संस्था के रूप में किस बैंक को जाना जाता है?",
+  "optsEn": [
+   "State Bank of India",
+   "Reserve Bank of India",
+   "Bank of Baroda",
+   "Punjab National Bank"
+  ],
+  "optsHi": [
+   "State Bank of India",
+   "Reserve Bank of India",
+   "Bank of Baroda",
+   "Punjab National Bank"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India (RBI) is India's central bank and regulatory body responsible for monetary policy.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T20:38:49Z"
+ },
+ {
+  "id": "q_8597f64f2a031151",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of the Pradhan Mantri Jan Dhan Yojana (PMJDY)?",
+  "qHi": "प्रधानमंत्री जन धन योजना (PMJDY) का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "Providing housing loans to rural citizens",
+   "Promoting financial inclusion by ensuring access to financial services",
+   "Offering subsidized agricultural fertilizers",
+   "Funding large scale infrastructure projects"
+  ],
+  "optsHi": [
+   "ग्रामीण नागरिकों को आवास ऋण प्रदान करना",
+   "वित्तीय सेवाओं तक पहुंच सुनिश्चित करके वित्तीय समावेशन को बढ़ावा देना",
+   "सब्सिडी वाले कृषि उर्वरक प्रदान करना",
+   "बड़े पैमाने पर बुनियादी ढांचा परियोजनाओं को वित्त पोषण देना"
+  ],
+  "correct": 1,
+  "explainEn": "PMJDY aims to ensure universal access to banking facilities with at least one basic banking account for every unbanked household.",
+  "sourceHint": "Government of India PIB releases",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T20:40:04Z"
+ },
+ {
+  "id": "q_e09ddf6b96ab0840",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the term 'CASA' stand for in banking terminology?",
+  "qHi": "बैंकिंग शब्दावली में 'CASA' शब्द का क्या अर्थ है?",
+  "optsEn": [
+   "Current Account Savings Account",
+   "Credit Asset Savings Agency",
+   "Capital Allocation and Security Agreement",
+   "Central Accounting and Settlement Authority"
+  ],
+  "optsHi": [
+   "करंट अकाउंट सेविंग्स अकाउंट",
+   "क्रेडिट एसेट सेविंग्स एजेंसी",
+   "कैपिटल एलोकेशन एंड सिक्योरिटी एग्रीमेंट",
+   "सेंट्रल अकाउंटिंग एंड सेटलमेंट अथॉरिटी"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account Savings Account, which represents the bank's low-cost deposit mobilization base.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) study material",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T20:40:04Z"
+ },
+ {
+  "id": "q_43ef4e4629c598d4",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization assigns credit ratings to corporate entities and financial instruments in India?",
+  "qHi": "भारत में कॉर्पोरेट संस्थाओं और वित्तीय साधनों को क्रेडिट रेटिंग कौन सा संगठन प्रदान करता है?",
+  "optsEn": [
+   "CRISIL",
+   "TRAI",
+   "IRDAI",
+   "FSSAI"
+  ],
+  "optsHi": [
+   "क्रिसिल",
+   "ट्रాయ్",
+   "इरडाई",
+   "एफएसएसएआई"
+  ],
+  "correct": 0,
+  "explainEn": "CRISIL (Credit Rating Information Services of India Limited) is a prominent credit rating agency in India.",
+  "sourceHint": "SEBI registered rating agencies directory",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-19T20:40:04Z"
  }
 ]
