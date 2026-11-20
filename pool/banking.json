@@ -42642,5 +42642,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-20T07:19:02Z"
+ },
+ {
+  "id": "q_a40a335c66c8fa52",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'I' stand for in the term IFSC, which is used in electronic fund transfers in Indian banking?",
+  "qHi": "भारतीय बैंकिंग में इलेक्ट्रॉनिक फंड ट्रांसफर के लिए उपयोग किए जाने वाले शब्द IFSC में अक्षर 'I' का क्या अर्थ है?",
+  "optsEn": [
+   "Indian",
+   "International",
+   "Interbank",
+   "Institutional"
+  ],
+  "optsHi": [
+   "इंडियन",
+   "इंटरनेशनल",
+   "इंटरबैंक",
+   "इंस्टिट्यूशनल"
+  ],
+  "correct": 0,
+  "explainEn": "IFSC stands for Indian Financial System Code, an alphanumeric code that uniquely identifies a bank branch participating in NEFT or RTGS.",
+  "sourceHint": "Reserve Bank of India official guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:23:37Z"
+ },
+ {
+  "id": "q_b25721a67c46cb4e",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'M' stand for in the financial acronym Micro ATM?",
+  "qHi": "वित्तीय संक्षिप्त नाम Micro ATM में 'M' का क्या अर्थ है?",
+  "optsEn": [
+   "Monetary",
+   "Machine",
+   "Management",
+   "Market"
+  ],
+  "optsHi": [
+   "मॉनेटरी",
+   "मशीन",
+   "मैनेजमेंट",
+   "मार्केट"
+  ],
+  "correct": 1,
+  "explainEn": "Micro ATM stands for Micro Automated Teller Machine, a handheld device used by business correspondents to deliver banking services.",
+  "sourceHint": "National Payments Corporation of India guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:23:37Z"
+ },
+ {
+  "id": "q_053a41019b95d7a8",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the validity period of a negotiable instrument like a cheque from the date of its issuance in India?",
+  "qHi": "भारत में चेक जैसे परक्राम्य साधन (नेगोशिएबल इंस्ट्रूमेंट) की उसके जारी होने की तारीख से वैधता अवधि क्या है?",
+  "optsEn": [
+   "1 month",
+   "3 months",
+   "6 months",
+   "12 months"
+  ],
+  "optsHi": [
+   "1 महीना",
+   "3 महीने",
+   "6 महीने",
+   "12 महीने"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India directed that the validity period of cheques, drafts, and pay orders be reduced from 6 months to 3 months from the date of issuance.",
+  "sourceHint": "RBI circulars on Cheque Truncation System",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:23:37Z"
+ },
+ {
+  "id": "q_6e5c364567f4ce95",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following bodies operates the Unified Payments Interface (UPI) network in India?",
+  "qHi": "निम्नलिखित में से कौन सा निकाय भारत में यूनिफाइड पेमेंट्स इंटरफेस (UPI) नेटवर्क का संचालन करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "National Payments Corporation of India",
+   "Indian Banks Association",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय राष्ट्रीय भुगतान निगम",
+   "भारतीय बैंक संघ",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड"
+  ],
+  "correct": 1,
+  "explainEn": "NPCI (National Payments Corporation of India) is an umbrella organization for operating retail payments and settlement systems in India, including UPI.",
+  "sourceHint": "NPCI official portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:23:37Z"
+ },
+ {
+  "id": "q_316980126560761d",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'M' stand for in the context of the Marginal Cost of Funds based Lending Rate (MCLR) system introduced in Indian banking?",
+  "qHi": "भारतीय बैंकिंग में शुरू की गई फंड आधारित ऋण दर (MCLR) प्रणाली के संदर्भ में अक्षर 'M' का क्या अर्थ है?",
+  "optsEn": [
+   "Monetary",
+   "Market",
+   "Marginal",
+   "Minimum"
+  ],
+  "optsHi": [
+   "मौद्रिक",
+   "बाज़ार",
+   "सीमांत",
+   "न्यूनतम"
+  ],
+  "correct": 2,
+  "explainEn": "MCLR stands for Marginal Cost of Funds based Lending Rate, which is the benchmark lending rate for commercial banks.",
+  "sourceHint": "RBI Master Directions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:24:55Z"
+ },
+ {
+  "id": "q_843d826a7af0c6a4",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is a direct tax levied by the Central Government in India?",
+  "qHi": "निम्नलिखित में से कौन सा भारत में केंद्र सरकार द्वारा लगाया जाने वाला प्रत्यक्ष कर है?",
+  "optsEn": [
+   "Goods and Services Tax",
+   "Customs Duty",
+   "Corporation Tax",
+   "Excise Duty on fuel"
+  ],
+  "optsHi": [
+   "वस्तु and सेवा कर",
+   "सीमा शुल्क",
+   "निगम कर",
+   "ईंधन पर उत्पाद शुल्क"
+  ],
+  "correct": 2,
+  "explainEn": "Corporation Tax is a direct tax levied on the net income or profit of corporations, whereas GST, Customs Duty, and Excise Duty are indirect taxes.",
+  "sourceHint": "Central Board of Direct Taxes (CBDT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:24:55Z"
+ },
+ {
+  "id": "q_22356bc332343883",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'S' represent in the financial acronym 'NEFT'?",
+  "qHi": "वित्तीय संक्षिप्त नाम 'NEFT' में अक्षर 'S' क्या दर्शाता है?",
+  "optsEn": [
+   "Settlement",
+   "System",
+   "Security",
+   "Society"
+  ],
+  "optsHi": [
+   "निपटान (सेटलमेंट)",
+   "सिस्टम (प्रणाली)",
+   "सुरक्षा",
+   "सोसाइटी"
+  ],
+  "correct": 1,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer.",
+  "sourceHint": "RBI Payment Systems",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:24:55Z"
+ },
+ {
+  "id": "q_748e298d71e5861e",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which financial institution in India is the principal apex body established for promoting rural development and agricultural credit?",
+  "qHi": "ग्रामीण विकास और कृषि ऋण को बढ़ावा देने के लिए स्थापित भारत में कौन सा प्रमुख शीर्ष वित्तीय संस्थान है?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "NHB"
+  ],
+  "optsHi": [
+   "सिडबी",
+   "नाबार्ड",
+   "एक्ज़िम बैंक",
+   "एनएचबी"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) is the apex regulatory body for overall policy, planning, and operations in rural credit and agriculture.",
+  "sourceHint": "NABARD Act, 1981",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:24:55Z"
  }
 ]

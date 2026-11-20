@@ -23882,5 +23882,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-20T07:20:05Z"
+ },
+ {
+  "id": "q_b1bfe960d078c33a",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which national holiday in India is celebrated on the 2nd of October?",
+  "qHi": "भारत में कौन सा राष्ट्रीय अवकाश 2 अक्टूबर को मनाया जाता है?",
+  "optsEn": [
+   "Republic Day",
+   "Independence Day",
+   "Gandhi Jayanti",
+   "Teacher's Day"
+  ],
+  "optsHi": [
+   "गणतंत्र दिवस",
+   "स्वतंत्रता दिवस",
+   "गांधी जयंती",
+   "शिक्षक दिवस"
+  ],
+  "correct": 2,
+  "explainEn": "Gandhi Jayanti marks the birth anniversary of Mahatma Gandhi and is a gazetted national holiday.",
+  "sourceHint": "NCERT Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:23:00Z"
+ },
+ {
+  "id": "q_82df0231f9ea1600",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The famous classical dance form Bharatanatyam originated in which Indian state?",
+  "qHi": "प्रसिद्ध शास्त्रीय नृत्य शैली भरतनाट्यम की उत्पत्ति किस भारतीय राज्य में हुई थी?",
+  "optsEn": [
+   "Kerala",
+   "Andhra Pradesh",
+   "Tamil Nadu",
+   "Odisha"
+  ],
+  "optsHi": [
+   "केरल",
+   "आंध्र प्रदेश",
+   "तमिलनाडु",
+   "ओडिशा"
+  ],
+  "correct": 2,
+  "explainEn": "Bharatanatyam is a major Indian classical dance form that originated in Tamil Nadu.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:23:41Z"
+ },
+ {
+  "id": "q_99be78401913911a",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which chemical element has the highest melting point among all pure metals?",
+  "qHi": "सभी शुद्ध धातुओं में से किस रासायनिक तत्व का गलनांक (melting point) सबसे अधिक है?",
+  "optsEn": [
+   "Iron",
+   "Tungsten",
+   "Platinum",
+   "Gold"
+  ],
+  "optsHi": [
+   "लोहा",
+   "टंगस्टन",
+   "प्लेटिनम",
+   "सोना"
+  ],
+  "correct": 1,
+  "explainEn": "Tungsten has the highest melting point of all metallic elements at 3422 degrees Celsius.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:23:41Z"
+ },
+ {
+  "id": "q_dc68b664397fd30d",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which chemical compound is commonly known as oil of vitriol?",
+  "qHi": "किस रासायनिक यौगिक को सामान्यतः ऑयल ऑफ विट्रियोल कहा जाता है?",
+  "optsEn": [
+   "Hydrochloric acid",
+   "Nitric acid",
+   "Sulfuric acid",
+   "Phosphoric acid"
+  ],
+  "optsHi": [
+   "हाइड्रोक्लोरिक एसिड",
+   "नाइट्रिक एसिड",
+   "सल्फ्यूरिक एसिड",
+   "फास्फोरस एसिड"
+  ],
+  "correct": 2,
+  "explainEn": "Sulfuric acid was historically known as oil of vitriol, having been first produced by alchemists by roasting green vitriol.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:25:00Z"
+ },
+ {
+  "id": "q_87c89313bf65d334",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who wrote the Sanskrit treatise 'Ashtadhyayi', a pioneering work on Sanskrit grammar?",
+  "qHi": "संस्कृत व्याकरण पर एक अग्रणी ग्रंथ 'अष्टाध्यायी' की रचना किसने की थी?",
+  "optsEn": [
+   "Kalidasa",
+   "Panini",
+   "Patanjali",
+   "Bhartrihari"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "पाणिनि",
+   "पतंजलि",
+   "भर्तृहरि"
+  ],
+  "correct": 1,
+  "explainEn": "Panini was an ancient Sanskrit philologist and grammarian who formulated the 3,900 rules of Sanskrit morphology in the Ashtadhyayi.",
+  "sourceHint": "NCERT History textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:25:00Z"
+ },
+ {
+  "id": "q_e3fb0dd545cd31c7",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian state shares its borders with the maximum number of other Indian states?",
+  "qHi": "भारत का कौन सा राज्य अन्य भारतीय राज्यों के साथ अधिकतम सीमा साझा करता है?",
+  "optsEn": [
+   "Madhya Pradesh",
+   "Chhattisgarh",
+   "Uttar Pradesh",
+   "Assam"
+  ],
+  "optsHi": [
+   "मध्य प्रदेश",
+   "छत्तीसगढ़",
+   "उत्तर प्रदेश",
+   "असम"
+  ],
+  "correct": 2,
+  "explainEn": "Uttar Pradesh shares its border with eight states and one union territory (Delhi), making it the state with the highest number of bordering states in India.",
+  "sourceHint": "Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:25:00Z"
+ },
+ {
+  "id": "q_5c555b9c7620ea52",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which planet in our solar system has the maximum number of confirmed natural satellites (moons) as of recent astronomical data?",
+  "qHi": "हाल के खगोलीय आंकड़ों के अनुसार हमारे सौरमंडल के किस ग्रह के पास प्राकृतिक उपग्रहों (चंद्रमाओं) की संख्या सबसे अधिक है?",
+  "optsEn": [
+   "Jupiter",
+   "Saturn",
+   "Uranus",
+   "Neptune"
+  ],
+  "optsHi": [
+   "बृहस्पति",
+   "शनि",
+   "अरुण",
+   "वरुण"
+  ],
+  "correct": 1,
+  "explainEn": "Saturn holds the record for the planet with the highest number of confirmed moons in the solar system, surpassing Jupiter.",
+  "sourceHint": "NASA Solar System Exploration",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:25:00Z"
+ },
+ {
+  "id": "q_8160aae480ee9611",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who founded the Brahmo Samaj in Kolkata in the year 1828?",
+  "qHi": "वर्ष 1828 में कोलकाता में ब्रह्म समाज की स्थापना किसने की थी?",
+  "optsEn": [
+   "Swami Vivekananda",
+   "Dayanand Saraswati",
+   "Raja Ram Mohan Roy",
+   "Ishwar Chandra Vidyasagar"
+  ],
+  "optsHi": [
+   "स्वामी विवेकानंद",
+   "दयानंद सरस्वती",
+   "राजा राम मोहन राय",
+   "ईश्वर चंद्र विद्यासागर"
+  ],
+  "correct": 2,
+  "explainEn": "Raja Ram Mohan Roy founded the Brahmo Samaj in 1828, which was a reformist movement within Hinduism aimed at fighting idolatry and social evils.",
+  "sourceHint": "NCERT History textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:25:00Z"
  }
 ]

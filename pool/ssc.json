@@ -24302,5 +24302,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-20T07:19:36Z"
+ },
+ {
+  "id": "q_8dc6d96d7fc7c4b4",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "The Tropic of Cancer passes through which of the following states of India?",
+  "qHi": "कर्क रेखा भारत के निम्नलिखित में से किस राज्य से होकर गुजरती है?",
+  "optsEn": [
+   "Maharashtra",
+   "Odisha",
+   "Jharkhand",
+   "Uttar Pradesh"
+  ],
+  "optsHi": [
+   "महाराष्ट्र",
+   "ओडिशा",
+   "झारखंड",
+   "उत्तर प्रदेश"
+  ],
+  "correct": 2,
+  "explainEn": "The Tropic of Cancer passes through eight Indian states, including Jharkhand.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:23:25Z"
+ },
+ {
+  "id": "q_07bd307bf6cba6b9",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "At which of the following sessions of the Indian National Congress was the famous Poorna Swaraj resolution adopted?",
+  "qHi": "भारतीय राष्ट्रीय कांग्रेस के निम्नलिखित में से किस अधिवेशन में प्रसिद्ध पूर्ण स्वराज प्रस्ताव पारित किया गया था?",
+  "optsEn": [
+   "Calcutta Session of 1928",
+   "Lahore Session of 1929",
+   "Karachi Session of 1931",
+   "Tripuri Session of 1939"
+  ],
+  "optsHi": [
+   "1928 का कलकत्ता अधिवेशन",
+   "1929 का लाहौर अधिवेशन",
+   "1931 का कराची अधिवेशन",
+   "1939 का त्रिपुरी अधिवेशन"
+  ],
+  "correct": 1,
+  "explainEn": "The Poorna Swaraj (complete independence) resolution was adopted at the Lahore session of the INC in December 1929, presided over by Jawaharlal Nehru.",
+  "sourceHint": "NCERT Class 10 History, India and the Contemporary World-II",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:24:50Z"
+ },
+ {
+  "id": "q_f86835397e8d0526",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who among the following Gupta rulers is known on his coins as playing the Veena?",
+  "qHi": "निम्नलिखित में से किस गुप्त शासक को उसके सिक्कों पर वीणा बजाते हुए दर्शाया गया है?",
+  "optsEn": [
+   "Chandragupta I",
+   "Samudragupta",
+   "Chandragupta II",
+   "Skandagupta"
+  ],
+  "optsHi": [
+   "चंद्रगुप्त प्रथम",
+   "समुद्रगुप्त",
+   "चंद्रगुप्त द्वितीय",
+   "स्कंदगुप्त"
+  ],
+  "correct": 1,
+  "explainEn": "Samudragupta is depicted playing the Veena (lute) on several of his gold coins, reflecting his deep interest in music and arts.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part I",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:24:50Z"
+ },
+ {
+  "id": "q_a1d3f640dfefbed4",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary chemical compound found in the shells of marine organisms and limestone?",
+  "qHi": "समुद्री जीवों के खोलों और चूना पत्थर में पाया जाने वाला मुख्य रासायनिक यौगिक कौन सा है?",
+  "optsEn": [
+   "Calcium sulfate",
+   "Calcium carbonate",
+   "Calcium hydroxide",
+   "Calcium chloride"
+  ],
+  "optsHi": [
+   "कैल्शियम सल्फेट",
+   "कैल्शियम कार्बोनेट",
+   "कैल्शियम हाइड्रॉक्साइड",
+   "कैल्शियम क्लोराइड"
+  ],
+  "correct": 1,
+  "explainEn": "Limestone, chalk, and marble, as well as the shells of many marine organisms, are composed primarily of calcium carbonate (CaCO3).",
+  "sourceHint": "NCERT Class 10 Science, Chemical Reactions and Equations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:24:50Z"
  }
 ]

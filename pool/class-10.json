@@ -33402,5 +33402,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-20T07:19:21Z"
+ },
+ {
+  "id": "q_5cb46a65b886531a",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which mirror is commonly used as a rear-view mirror in vehicles because it provides an erect and diminished image?",
+  "qHi": "वाहनों में पीछे का दृश्य देखने के लिए किस दर्पण का सामान्यतः उपयोग किया जाता है क्योंकि यह सीधा और छोटा प्रतिबिंब बनाता है?",
+  "optsEn": [
+   "Plane mirror",
+   "Concave mirror",
+   "Convex mirror",
+   "Cylindrical mirror"
+  ],
+  "optsHi": [
+   "समतल दर्पण",
+   "अवतल दर्पण",
+   "उत्तल दर्पण",
+   "बेलनाकार दर्पण"
+  ],
+  "correct": 2,
+  "explainEn": "Convex mirrors are used as rear-view mirrors in vehicles because they always give an erect, virtual, and diminished image, enabling a wider field of view.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:24:35Z"
+ },
+ {
+  "id": "q_53ff0db8ae6662b9",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian state is well-known for the traditional rainwater harvesting structure called 'Khadin'?",
+  "qHi": "कौन सा भारतीय राज्य 'खादीन' नामक पारंपरिक वर्षा जल संचयन संरचना के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Rajasthan",
+   "Kerala",
+   "Assam",
+   "Punjab"
+  ],
+  "optsHi": [
+   "राजस्थान",
+   "केरल",
+   "असम",
+   "पंजाब"
+  ],
+  "correct": 0,
+  "explainEn": "Khadin is a traditional rainwater harvesting system widely practiced in Rajasthan, designed to harvest surface runoff water for agriculture.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 16",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:24:35Z"
+ },
+ {
+  "id": "q_a7c74210f94861f8",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which element has the lowest atomic number among the halogen group in the modern periodic table?",
+  "qHi": "आधुनिक आवर्त सारणी में हैलोजन समूह में किस तत्व का परमाणु क्रमांक सबसे कम है?",
+  "optsEn": [
+   "Chlorine",
+   "Fluorine",
+   "Bromine",
+   "Iodine"
+  ],
+  "optsHi": [
+   "क्लोरिन",
+   "फ्लोरिन",
+   "ब्रोमिन",
+   "आयोडिन"
+  ],
+  "correct": 1,
+  "explainEn": "Fluorine is at the top of group 17 (halogens) in the modern periodic table and has the atomic number 9, which is the lowest among halogens.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:24:35Z"
+ },
+ {
+  "id": "q_cabd612b9cebe4d2",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which plant hormone is primarily responsible for the cell elongation in the presence of light coming from one direction?",
+  "qHi": "एक ही दिशा से आने वाले प्रकाश की उपस्थिति में कोशिका दीर्घीकरण के लिए मुख्य रूप से कौन सा पादप हॉर्मोन उत्तरदायी है?",
+  "optsEn": [
+   "Cytokinin",
+   "Gibberellin",
+   "Auxin",
+   "Abscisic acid"
+  ],
+  "optsHi": [
+   "साइटोकाइनिन",
+   "जिबरेलिन",
+   "ऑक्सिन",
+   "एब्सिसिक अम्ल"
+  ],
+  "correct": 2,
+  "explainEn": "Auxin synthesizes at the shoot tip and helps the cells grow longer; when light comes from one side, it diffuses to the shady side, causing the plant to bend towards light.",
+  "sourceHint": "NCERT Class 10 Science Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:25:16Z"
+ },
+ {
+  "id": "q_7e6fc317a28cee5d",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Consumer Protection Act of India, which right ensures that consumers are informed about the quality, quantity, purity, and standard of goods and services?",
+  "qHi": "भारत के उपभोक्ता संरक्षण अधिनियम के तहत, कौन सा अधिकार यह सुनिश्चित करता है कि उपभोक्ताओं को वस्तुओं और सेवाओं की गुणवत्ता, मात्रा, शुद्धता और मानक के बारे में सूचित किया जाए?",
+  "optsEn": [
+   "Right to Safety",
+   "Right to Choose",
+   "Right to be Informed",
+   "Right to Seek Redressal"
+  ],
+  "optsHi": [
+   "सुरक्षा का अधिकार",
+   "चुनने का अधिकार",
+   "सूच्य होने का अधिकार",
+   "निवारण पाने का अधिकार"
+  ],
+  "correct": 2,
+  "explainEn": "The Right to be Informed empowers consumers to have information about the particulars of goods and services purchased so they can protect themselves against unfair trade practices.",
+  "sourceHint": "NCERT Class 10 Economics Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:25:16Z"
+ },
+ {
+  "id": "q_e0aef7c47d2339c3",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which sector is credited with the highest share in the Gross Domestic Product (GDP) of India in recent decades according to national income statistics?",
+  "qHi": "राष्ट्रीय आय के आंकड़ों के अनुसार हाल के दशकों में भारत के सकल घरेलू उत्पाद (GDP) में किस क्षेत्र की हिस्सेदारी सबसे अधिक रही है?",
+  "optsEn": [
+   "Primary Sector",
+   "Secondary Sector",
+   "Tertiary Sector",
+   "Quaternary Sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "तृतीयक क्षेत्र",
+   "चतुर्थक क्षेत्र"
+  ],
+  "correct": 2,
+  "explainEn": "The tertiary sector (service sector) has emerged as the largest producing sector in India, contributing the maximum share to the total GDP.",
+  "sourceHint": "NCERT Class 10 Economics Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:25:16Z"
+ },
+ {
+  "id": "q_19ddcd3bf7367f0f",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In human biology, which blood vessel brings oxygenated blood from the lungs to the left atrium of the heart?",
+  "qHi": "मानव जीव विज्ञान में, कौन सी रक्त वाहिका फेफड़ों से ऑक्सीजन युक्त रक्त को हृदय के बाएं आलिंद में लाती है?",
+  "optsEn": [
+   "Vena cava",
+   "Pulmonary artery",
+   "Pulmonary vein",
+   "Aorta"
+  ],
+  "optsHi": [
+   "महाशिरा",
+   "फुफ्फुसीय धमनी",
+   "फुफ्फुसीय शिरा",
+   "महाधमनी"
+  ],
+  "correct": 2,
+  "explainEn": "The pulmonary vein is unique among veins as it carries oxygenated blood from the lungs back to the left atrium of the heart.",
+  "sourceHint": "NCERT Class 10 Science Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:25:16Z"
  }
 ]

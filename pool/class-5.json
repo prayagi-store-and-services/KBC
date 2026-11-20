@@ -33430,5 +33430,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-20T07:20:33Z"
+ },
+ {
+  "id": "q_8d84cb86b5da80f4",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a greenhouse gas found in the atmosphere?",
+  "qHi": "वायुमंडल में पाई जाने वाली ग्रीनहाउस गैस निम्नलिखित में से कौन सी है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Carbon dioxide is a well-known greenhouse gas that traps heat in the atmosphere.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:23:04Z"
+ },
+ {
+  "id": "q_26802195e952c9fd",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the standard boiling point of pure water at sea level in the Celsius scale?",
+  "qHi": "समुद्र तल पर शुद्ध पानी का मानक क्वथनांक सेल्सियस पैमाने पर क्या है?",
+  "optsEn": [
+   "0 degree Celsius",
+   "50 degree Celsius",
+   "100 degree Celsius",
+   "212 degree Celsius"
+  ],
+  "optsHi": [
+   "0 डिग्री सेल्सियस",
+   "50 डिग्री सेल्सियस",
+   "100 डिग्री सेल्सियस",
+   "212 डिग्री सेल्सियस"
+  ],
+  "correct": 2,
+  "explainEn": "Pure water boils at 100 degrees Celsius at standard atmospheric pressure.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:24:05Z"
+ },
+ {
+  "id": "q_58db7780a685d6f4",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these is a major rabi crop sown in India during winter?",
+  "qHi": "इनमें से कौन सी भारत में सर्दियों के दौरान बोई जाने वाली एक प्रमुख रबी फसल है?",
+  "optsEn": [
+   "Rice",
+   "Wheat",
+   "Cotton",
+   "Maize"
+  ],
+  "optsHi": [
+   "चावल",
+   "गेहूं",
+   "कपास",
+   "मक्का"
+  ],
+  "correct": 1,
+  "explainEn": "Wheat is a major rabi crop, sown in winter and harvested in spring in India.",
+  "sourceHint": "NCERT Class 6 Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:24:05Z"
+ },
+ {
+  "id": "q_bb906498d60b3975",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which planet in our solar system has the most prominent and easily visible system of rings made mostly of ice particles and rocky debris?",
+  "qHi": "हमारे सौर मंडल में किस ग्रह पर बर्फ के कणों और चट्टानी मलबे से बने छल्लों की प्रणाली सबसे प्रमुख और आसानी से दिखाई देती है?",
+  "optsEn": [
+   "Mars",
+   "Saturn",
+   "Venus",
+   "Mercury"
+  ],
+  "optsHi": [
+   "मंगल",
+   "शनि",
+   "शुक्र",
+   "बुध"
+  ],
+  "correct": 1,
+  "explainEn": "Saturn is famous for its extensive and bright ring system, which is easily observed through a telescope.",
+  "sourceHint": "NCERT Class 6 Science (The Earth in the Solar System)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:25:05Z"
+ },
+ {
+  "id": "q_127733af0fee24af",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary function of stomata, the tiny pores usually found on the underside of plant leaves?",
+  "qHi": "पौधों की पत्तियों के निचले भाग में पाए जाने वाले सूक्ष्म छिद्रों, जिन्हें रंध्र (स्टोमेटा) कहते हैं, का मुख्य कार्य क्या है?",
+  "optsEn": [
+   "Absorbing sunlight",
+   "Storing food nutrients",
+   "Exchanging gases",
+   "Anchoring the leaf"
+  ],
+  "optsHi": [
+   "सूर्य का प्रकाश अवशोषित करना",
+   "खाद्य पोषक तत्वों का भंडारण करना",
+   "गैसों का आदान-प्रदान करना",
+   "पत्ती को थामे रखना"
+  ],
+  "correct": 2,
+  "explainEn": "Stomata allow plants to take in carbon dioxide and release oxygen and water vapor during gas exchange.",
+  "sourceHint": "NCERT Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:25:05Z"
+ },
+ {
+  "id": "q_68f0e3322531ca3f",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During which phase of the Moon is the entire illuminated side facing away from Earth, making the Moon invisible in the night sky?",
+  "qHi": "चंद्रमा की किस अवस्था में उसका पूरा प्रकाशित भाग पृथ्वी से दूसरी दिशा में होता है, जिससे चंद्रमा रात के आकाश में दिखाई नहीं देता है?",
+  "optsEn": [
+   "Full Moon",
+   "First Quarter",
+   "New Moon",
+   "Waxing Gibbous"
+  ],
+  "optsHi": [
+   "पूर्ण चंद्रमा",
+   "प्रथम चतुर्थ",
+   "नया चंद्रमा (अमावस्या)",
+   "वर्धमान कुब्ज"
+  ],
+  "correct": 2,
+  "explainEn": "During a New Moon, the Moon is positioned between the Earth and the Sun, so the lit side faces away from us.",
+  "sourceHint": "NCERT Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:25:05Z"
+ },
+ {
+  "id": "q_7c52aa5089e59f90",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the Indian parliamentary system, what is the minimum age required for a citizen to become a member of the Lok Sabha?",
+  "qHi": "भारतीय संसदीय प्रणाली के संदर्भ में, किसी नागरिक के लिए लोकसभा का सदस्य बनने हेतु न्यूनतम आयु कितनी आवश्यक है?",
+  "optsEn": [
+   "18 years",
+   "21 years",
+   "25 years",
+   "35 years"
+  ],
+  "optsHi": [
+   "18 वर्ष",
+   "21 वर्ष",
+   "25 वर्ष",
+   "35 वर्ष"
+  ],
+  "correct": 2,
+  "explainEn": "Article 84 of the Constitution of India specifies 25 years as the minimum age for a Lok Sabha member.",
+  "sourceHint": "Constitution of India, Article 84",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:25:05Z"
+ },
+ {
+  "id": "q_d0b41655f92d59df",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional Indian grain is scientifically known as *Oryza sativa* and forms a staple diet for a major portion of the population?",
+  "qHi": "पारंपरिक भारतीय अनाज कौन सा है जिसे वैज्ञानिक रूप से *ओरिजा सातिवा* (Oryza sativa) कहा जाता है और जो आबादी के एक बड़े हिस्से का मुख्य आहार है?",
+  "optsEn": [
+   "Wheat",
+   "Rice",
+   "Maize",
+   "Barley"
+  ],
+  "optsHi": [
+   "गेहूं",
+   "चावल",
+   "मक्का",
+   "जौ"
+  ],
+  "correct": 1,
+  "explainEn": "Rice (*Oryza sativa*) is a major cereal grain widely cultivated and consumed across India.",
+  "sourceHint": "NCERT Environmental Studies (EVS)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:25:05Z"
+ },
+ {
+  "id": "q_bbeeffd1dd4112e9",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which instrument is traditionally used by meteorologists to measure the speed of wind?",
+  "qHi": "मौसम विज्ञानियों द्वारा हवा की गति को मापने के लिए पारंपरिक रूप से किस उपकरण का उपयोग किया जाता है?",
+  "optsEn": [
+   "Barometer",
+   "Rain gauge",
+   "Anemometer",
+   "Wind vane"
+  ],
+  "optsHi": [
+   "बैरोमीटर",
+   "वर्षा मापी",
+   "एनीमोमीटर",
+   "वायु दिशा सूचक"
+  ],
+  "correct": 2,
+  "explainEn": "An anemometer is specifically designed to measure wind speed and direction.",
+  "sourceHint": "NCERT Science textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:25:05Z"
+ },
+ {
+  "id": "q_cb14d0a5e6a72e8c",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of rock is formed when molten magma or lava cools and solidifies over time?",
+  "qHi": "पिघला हुआ मैग्मा या लावा समय के साथ ठंडा होकर ठोस बनने पर किस प्रकार की चट्टान का निर्माण करता है?",
+  "optsEn": [
+   "Igneous rock",
+   "Sedimentary rock",
+   "Metamorphic rock",
+   "Fossiliferous rock"
+  ],
+  "optsHi": [
+   "आग्नेय चट्टान",
+   "अवसादी चट्टान",
+   "कायांतरित चट्टान",
+   "जीवाश्म युक्त चट्टान"
+  ],
+  "correct": 0,
+  "explainEn": "Igneous rocks are formed through the cooling and solidification of magma or lava.",
+  "sourceHint": "NCERT Class 7 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T20:25:05Z"
  }
 ]
