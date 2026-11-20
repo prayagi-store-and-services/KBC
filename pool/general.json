@@ -23658,5 +23658,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-19T07:29:49Z"
+ },
+ {
+  "id": "q_d42fec19b8694558",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Ajanta and Ellora Caves are located in which Indian state?",
+  "qHi": "अजंता और एलोरा की गुफाएं किस भारतीय राज्य में स्थित हैं?",
+  "optsEn": [
+   "Madhya Pradesh",
+   "Maharashtra",
+   "Rajasthan",
+   "Gujarat"
+  ],
+  "optsHi": [
+   "मध्य प्रदेश",
+   "महाराष्ट्र",
+   "राजस्थान",
+   "गुजरात"
+  ],
+  "correct": 1,
+  "explainEn": "The Ajanta and Ellora Caves are rock-cut monuments located near Aurangabad in the Indian state of Maharashtra, both designated as UNESCO World Heritage Sites.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T07:19:06Z"
+ },
+ {
+  "id": "q_b3bc964114d0e081",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which constitutional body in India conducts elections to the offices of the President and the Vice-President?",
+  "qHi": "भारत में राष्ट्रपति और उपराष्ट्रपति के कार्यालयों के लिए चुनाव कौन सा संवैधानिक निकाय आयोजित करता है?",
+  "optsEn": [
+   "Supreme Court of India",
+   "Election Commission of India",
+   "Union Public Service Commission",
+   "Parliamentary Secretariat"
+  ],
+  "optsHi": [
+   "भारत का उच्चतम न्यायालय",
+   "भारत का निर्वाचन आयोग",
+   "संघ लोक सेवा आयोग",
+   "संसदीय सचिवालय"
+  ],
+  "correct": 1,
+  "explainEn": "Under Article 324 of the Constitution of India, the superintendence, direction, and control of the preparation of the electoral rolls for, and the conduct of, all elections to Parliament and to the Legislature of every State and of elections to the offices of President and Vice-President are vested in the Election Commission of India.",
+  "sourceHint": "Constitution of India, Article 324",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T07:20:05Z"
+ },
+ {
+  "id": "q_fac3b85ee2cc1255",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "The ancient port city of Muziris, known in classical antiquity for extensive spice trade, was located near the mouth of which present-day river in Kerala?",
+  "qHi": "प्राचीन बंदरगाह शहर मुज़िरिस, जो प्राचीन काल में व्यापक मसाला व्यापार के लिए जाना जाता था, केरल में किस वर्तमान नदी के मुहाने के पास स्थित था?",
+  "optsEn": [
+   "Periyar River",
+   "Bharathapuzha River",
+   "Pamba River",
+   "Chaliyar River"
+  ],
+  "optsHi": [
+   "पेरियार नदी",
+   "भारतपुझा नदी",
+   "पम्बा नदी",
+   "चालियार नदी"
+  ],
+  "correct": 0,
+  "explainEn": "Muziris was an ancient port and city of archaeological significance in the Indian state of Kerala, situated on the mouth of the Periyar River.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T07:20:05Z"
+ },
+ {
+  "id": "q_4d338ce8f535f3ca",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian classical music, which of the following is classified as a 'Vadi' note in a raga?",
+  "qHi": "भारतीय शास्त्रीय संगीत के संदर्भ में, निम्नलिखित में से किसे किसी राग में 'वादी' स्वर के रूप में वर्गीकृत किया गया है?",
+  "optsEn": [
+   "The least used note",
+   "The concluding note of a performance",
+   "The most prominent or frequently used note",
+   "The flat variant of the fundamental note"
+  ],
+  "optsHi": [
+   "सबसे कम इस्तेमाल किया जाने वाला स्वर",
+   "प्रस्तुति का समापन स्वर",
+   "सबसे प्रमुख या बार-बार उपयोग किया जाने वाला स्वर",
+   "मूल स्वर का कोमल संस्करण"
+  ],
+  "correct": 2,
+  "explainEn": "In Hindustani and Carnatic classical music, the Vadi is the most prominent, frequently used, or dominant note in a raga, often referred to as the king of the notes.",
+  "sourceHint": "NCERT Fine Arts Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T07:20:05Z"
+ },
+ {
+  "id": "q_7e9ddaed815a09b8",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following national parks in India is predominantly known as the natural habitat of the endangered Sangai deer?",
+  "qHi": "भारत का निम्नलिखित में से कौन सा राष्ट्रीय उद्यान मुख्य रूप से लुप्तप्राय संगाई हिरण के प्राकृतिक आवास के रूप में जाना जाता है?",
+  "optsEn": [
+   "Kaziranga National Park",
+   "Keibul Lamjao National Park",
+   "Jim Corbett National Park",
+   "Gir National Park"
+  ],
+  "optsHi": [
+   "काजीरंगा राष्ट्रीय उद्यान",
+   "केइबुल लामजाओ राष्ट्रीय उद्यान",
+   "जिम कॉर्बेट राष्ट्रीय उद्यान",
+   "गिर राष्ट्रीय उद्यान"
+  ],
+  "correct": 1,
+  "explainEn": "Keibul Lamjao National Park, situated in the Loktak Lake area of Manipur, is the world's only floating park and the natural habitat of the endangered Sangai (dancing deer).",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change, India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T07:20:05Z"
+ },
+ {
+  "id": "q_eff16c390b2462eb",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who among the following founded the Asiatic Society of Bengal in Kolkata in 1784?",
+  "qHi": "निम्नलिखित में से किसने 1784 में कोलकाता में एशियाटिक सोसाइटी ऑफ बंगाल की स्थापना की थी?",
+  "optsEn": [
+   "William Jones",
+   "Warren Hastings",
+   "Charles Wilkins",
+   "James Prinsep"
+  ],
+  "optsHi": [
+   "विलियम जोन्स",
+   "वॉरेन हेस्टिंग्स",
+   "चार्ल्स विल्किंस",
+   "जेम्स प्रिंसेप"
+  ],
+  "correct": 0,
+  "explainEn": "Sir William Jones, an Anglo-Welsh philologist and orientalist, founded the Asiatic Society of Bengal on January 15, 1784, to encourage Oriental studies.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T07:20:05Z"
+ },
+ {
+  "id": "q_6fa8c53d0eedc76b",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which chemical element gives the blue color characteristic of certain traditional Indian pottery glazes, such as those found in blue pottery originating from Jaipur?",
+  "qHi": "कौन सा रासायनिक तत्व कुछ पारंपरिक भारतीय मिट्टी के बर्तनों के ग्लाज़ की विशेषता वाले नीले रंग को प्रदान करता है, जैसे कि जयपुर से उत्पन्न होने वाली ब्लू पॉटरी?",
+  "optsEn": [
+   "Cobalt oxide",
+   "Copper sulfate",
+   "Iron oxide",
+   "Manganese dioxide"
+  ],
+  "optsHi": [
+   "कोबाल्ट ऑक्साइड",
+   "कॉपर सल्फेट",
+   "आयरन ऑक्साइड",
+   "मैंगनीज डाइऑक्साइड"
+  ],
+  "correct": 0,
+  "explainEn": "Jaipur blue pottery is uniquely made without clay; the dough is prepared using quartz stone powder, powdered glass, fuller's earth, gum, and water. The distinct blue color is primarily achieved using cobalt oxide.",
+  "sourceHint": "Geographical Indication Registry of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T07:20:05Z"
+ },
+ {
+  "id": "q_e69019c59f335af3",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What was the primary objective of the Cripps Mission sent to India by the British government in March 1942?",
+  "qHi": "मार्च 1942 में ब्रिटिश सरकार द्वारा भारत भेजे गए क्रिप्स मिशन का प्राथमिक उद्देश्य क्या था?",
+  "optsEn": [
+   "To transfer immediate power to an interim Indian government",
+   "To secure Indian cooperation and support for the British war effort during World War II",
+   "To establish a unified federal constitution before granting independence",
+   "To resolve the communal deadlock between the Indian National Congress and the Muslim League"
+  ],
+  "optsHi": [
+   "एक अंतरिम भारतीय सरकार को तत्काल सत्ता हस्तांतरित करना",
+   "द्वितीय विश्व युद्ध के दौरान ब्रिटिश युद्ध प्रयास के लिए भारतीय सहयोग और समर्थन सुरक्षित करना",
+   "स्वतंत्रता देने से पहले एक एकीकृत संघीय संविधान स्थापित करना",
+   "भारतीय राष्ट्रीय कांग्रेस और मुस्लिम लीग के बीच सांप्रदायिक गतिरोध को हल करना"
+  ],
+  "correct": 1,
+  "explainEn": "The Cripps Mission was sent by the British government in March 1942 with an attempt to secure full Indian cooperation and support for their efforts in World War II by promising dominion status after the war.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T07:20:05Z"
  }
 ]

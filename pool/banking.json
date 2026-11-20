@@ -42530,5 +42530,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-19T20:40:04Z"
+ },
+ {
+  "id": "q_4328f06c8a90e446",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'C' stand for in the acronym 'KYC' used in banking?",
+  "qHi": "बैंकिंग में प्रयुक्त संक्षिप्त नाम 'KYC' में 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Customer",
+   "Credit",
+   "Capital",
+   "Currency"
+  ],
+  "optsHi": [
+   "कस्टमर",
+   "क्रेडिट",
+   "कैपिटल",
+   "करेंसी"
+  ],
+  "correct": 0,
+  "explainEn": "KYC stands for Know Your Customer, which is a mandatory process by financial institutions to verify the identity of their clients.",
+  "sourceHint": "RBI Master Directions on KYC",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T07:18:09Z"
+ },
+ {
+  "id": "q_2d159d1cdee71f09",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is considered the primary source of revenue for commercial banks?",
+  "qHi": "निम्नलिखित में से किसे वाणिज्यिक बैंकों के लिए राजस्व का प्राथमिक स्रोत माना जाता है?",
+  "optsEn": [
+   "Interest spread on loans and advances",
+   "Safe deposit locker rentals",
+   "Foreign exchange transaction fees",
+   "Penalty charges on minimum balance shortfall"
+  ],
+  "optsHi": [
+   "ऋण और अग्रिमों पर ब्याज प्रसार",
+   "सुरक्षित जमा लॉकर का किराया",
+   "विदेशी मुद्रा लेनदेन शुल्क",
+   "न्यूनतम शेष राशि की कमी पर जुर्माना शुल्क"
+  ],
+  "correct": 0,
+  "explainEn": "The primary business model of a commercial bank relies on net interest income, which is the difference between interest earned on loans and interest paid on deposits.",
+  "sourceHint": "NCERT Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T07:19:02Z"
+ },
+ {
+  "id": "q_543a8e351ad17af1",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the financial acronym 'LAF' used by the RBI?",
+  "qHi": "आरबीआई द्वारा प्रयुक्त वित्तीय संक्षिप्त नाम 'LAF' में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liquidity",
+   "Liability",
+   "Leverage",
+   "Ledger"
+  ],
+  "optsHi": [
+   "लिक्विडिटी (तरलता)",
+   "लायबिलिटी (देयता)",
+   "लीवेज (उत्तोलन)",
+   "लेजर (खाता बही)"
+  ],
+  "correct": 0,
+  "explainEn": "LAF stands for Liquidity Adjustment Facility, which is a monetary policy tool used by the RBI.",
+  "sourceHint": "RBI Glossary of Banking Terms",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T07:19:02Z"
+ },
+ {
+  "id": "q_620550742f13abea",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which financial market segment deals with the issuance and trading of short-term debt instruments?",
+  "qHi": "वित्तीय बाजार का कौन सा खंड अल्पकालिक ऋण उपकरणों के निर्गमन और व्यापार से संबंधित है?",
+  "optsEn": [
+   "Capital market",
+   "Money market",
+   "Foreign exchange market",
+   "Derivatives market"
+  ],
+  "optsHi": [
+   "पूंजी बाजार",
+   "मुद्रा बाजार",
+   "विदेशी मुद्रा बाजार",
+   "व्युत्पन्न बाजार"
+  ],
+  "correct": 1,
+  "explainEn": "The money market is a segment of the financial market where financial instruments with high liquidity and short maturities (up to one year) are traded.",
+  "sourceHint": "NCERT Business Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T07:19:02Z"
  }
 ]

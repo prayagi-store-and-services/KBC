@@ -38638,5 +38638,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-19T20:40:47Z"
+ },
+ {
+  "id": "q_72aa002ab908e237",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of the greenhouse gas abbreviation CFC?",
+  "qHi": "ग्रीनहाउस गैस संक्षिप्त नाम सीएफसी (CFC) का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Chlorofluorocarbon",
+   "Carbonfluorochloride",
+   "Chlorofluorinecarbon",
+   "Carbonfluorocarbon"
+  ],
+  "optsHi": [
+   "क्लोरोफ्लोरोकार्बन",
+   "कार्बनफ्लोरोक्लोराइड",
+   "क्लोरोफ्लोरीनकार्बन",
+   "कार्बनफ्लोरोकार्बन"
+  ],
+  "correct": 0,
+  "explainEn": "CFC stands for Chlorofluorocarbon, which is known to cause ozone depletion.",
+  "sourceHint": "NCERT Class 12 Biology - Environmental Issues",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T07:18:29Z"
+ },
+ {
+  "id": "q_386fa551ce4aa342",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the famous socio-political book 'Discovery of India'?",
+  "qHi": "प्रसिद्ध सामाजिक-राजनीतिक पुस्तक 'डिस्कवरी ऑफ इंडिया' किसने लिखी?",
+  "optsEn": [
+   "Mahatma Gandhi",
+   "Jawaharlal Nehru",
+   "Rabindranath Tagore",
+   "Subhas Chandra Bose"
+  ],
+  "optsHi": [
+   "महात्मा गांधी",
+   "जवाहरलाल नेहरू",
+   "रवींद्रनाथ टैगोर",
+   "सुभाष चंद्र बोस"
+  ],
+  "correct": 1,
+  "explainEn": "Jawaharlal Nehru wrote 'Discovery of India' during his imprisonment in Ahmednagar fort.",
+  "sourceHint": "NCERT History Class 12 / Standard Literature",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T07:18:29Z"
+ },
+ {
+  "id": "q_bffaff7cd9950ac3",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which sector is primarily associated with agriculture, forestry, and fishing in economic classification?",
+  "qHi": "आर्थिक वर्गीकरण में कौन सा क्षेत्र मुख्य रूप से कृषि, वानिकी और मत्स्य पालन से जुड़ा है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Quaternary sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "तृतीयक क्षेत्र",
+   "चतुर्थक क्षेत्र"
+  ],
+  "correct": 0,
+  "explainEn": "Activities that are dependent on the extraction of natural resources, such as agriculture and fishing, form the primary sector.",
+  "sourceHint": "NCERT Class 12 Economics - Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T07:18:29Z"
+ },
+ {
+  "id": "q_30e60db7b77309b8",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following hormones is chemically a peptide and plays a crucial role in lowering blood glucose levels?",
+  "qHi": "निम्नलिखित में से कौन सा हार्मोन रासायनिक रूप से एक पेप्टाइड है और रक्त शर्करा के स्तर को कम करने में महत्वपूर्ण भूमिका निभाता है?",
+  "optsEn": [
+   "Cortisol",
+   "Epinephrine",
+   "Insulin",
+   "Thyroxine"
+  ],
+  "optsHi": [
+   "कॉर्टिसोल",
+   "एपिनेफ्रिन",
+   "इंसुलिन",
+   "थायरोक्सिन"
+  ],
+  "correct": 2,
+  "explainEn": "Insulin is a peptide hormone produced by the beta cells of the pancreas that decreases blood glucose concentration.",
+  "sourceHint": "NCERT Class 11 Biology, Chapter 22",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T07:19:26Z"
+ },
+ {
+  "id": "q_28635d4b8e1a7c4a",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "During the electrolysis of aqueous sodium chloride using inert electrodes, which gas is liberated at the anode?",
+  "qHi": "अक्रिय इलेक्ट्रोड का उपयोग करके जलीय सोडियम क्लोराइड के विद्युत अपघटन के दौरान, एनोड पर कौन सी गैस मुक्त होती है?",
+  "optsEn": [
+   "Hydrogen",
+   "Oxygen",
+   "Chlorine",
+   "Nitrogen"
+  ],
+  "optsHi": [
+   "हाइड्रोजन",
+   "ऑक्सीजन",
+   "क्लोरीन",
+   "नाइट्रोजन"
+  ],
+  "correct": 2,
+  "explainEn": "Due to overpotential and concentration effects, chloride ions are oxidized at the anode to release chlorine gas.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T07:19:26Z"
+ },
+ {
+  "id": "q_63c778b17a644224",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which coordination compound is commonly used in chemotherapy as an effective anti-cancer agent?",
+  "qHi": "किस उपसहसंयोजन यौगिक का उपयोग आमतौर पर कीमोथेरेपी में एक प्रभावी कैंसर विरोधी एजेंट के रूप में किया जाता है?",
+  "optsEn": [
+   "Cisplatin",
+   "EDTA complex",
+   "Potassium ferrocyanide",
+   "Zeise's salt"
+  ],
+  "optsHi": [
+   "सिस्प्लैटिन",
+   "EDTA कॉम्प्लेक्स",
+   "पोटेशियम फेरोसाइनाइड",
+   "ज़ीज़ नमक"
+  ],
+  "correct": 0,
+  "explainEn": "Cisplatin [PtCl2(NH3)2] binds to DNA and inhibits its replication, making it a standard anti-cancer medication.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 9",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T07:19:26Z"
+ },
+ {
+  "id": "q_45446f8162775b20",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In electrostatic shielding, the electric field inside a charged hollow metallic conductor is always equal to which of the following?",
+  "qHi": "स्थिरवैद्युत आवरण में, आवेशित खोखले धात्विक चालक के अंदर विद्युत क्षेत्र हमेशा निम्नलिखित में से किसके बराबर होता है?",
+  "optsEn": [
+   "Maximum",
+   "Zero",
+   "Infinity",
+   "Dependent on the surface area"
+  ],
+  "optsHi": [
+   "अधिकतम",
+   "शून्य",
+   "अनंत",
+   "पृष्ठ क्षेत्रफल पर निर्भर"
+  ],
+  "correct": 1,
+  "explainEn": "Charges reside only on the outer surface of a closed conductor, resulting in a zero electric field inside.",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T07:19:26Z"
+ },
+ {
+  "id": "q_c1a4d678962493ac",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which electromagnetic waves are commonly used in radar systems for aircraft navigation and remote sensing?",
+  "qHi": "विमान नेविगेशन और सुदूर संवेदन के लिए रडार प्रणालियों में आमतौर पर किन विद्युत चुम्बकीय तरंगों का उपयोग किया जाता है?",
+  "optsEn": [
+   "Microwaves",
+   "X-rays",
+   "Ultraviolet rays",
+   "Gamma rays"
+  ],
+  "optsHi": [
+   "सूक्ष्म तरंगें",
+   "एक्स-रे",
+   "पराबैंगनी किरणें",
+   "गामा किरणें"
+  ],
+  "correct": 0,
+  "explainEn": "Microwaves have suitable wavelengths for radar systems used in air traffic control and speed detection.",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T07:19:26Z"
+ },
+ {
+  "id": "q_df0334a19b1c3b12",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Article of the Constitution of India guarantees equality before the law and equal protection of the laws within the territory of India?",
+  "qHi": "भारत के संविधान का कौन सा अनुच्छेद भारत के राज्यक्षेत्र के भीतर विधि के समक्ष समता और विधियों के समान संरक्षण की गारंटी देता है?",
+  "optsEn": [
+   "Article 12",
+   "Article 14",
+   "Article 19",
+   "Article 21"
+  ],
+  "optsHi": [
+   "अनुच्छेद 12",
+   "अनुच्छेद 14",
+   "अनुच्छेद 19",
+   "अनुच्छेद 21"
+  ],
+  "correct": 1,
+  "explainEn": "Article 14 states that the State shall not deny to any person equality before the law or the equal protection of the laws.",
+  "sourceHint": "Constitution of India, Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T07:19:26Z"
+ },
+ {
+  "id": "q_6db73bcee2876e1d",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which sector is traditionally classified as a secondary activity in economic geography?",
+  "qHi": "आर्थिक भूगोल में पारंपरिक रूप से किस क्षेत्र को द्वितीयक गतिविधि के रूप में वर्गीकृत किया गया है?",
+  "optsEn": [
+   "Agriculture",
+   "Mining",
+   "Manufacturing",
+   "Information technology"
+  ],
+  "optsHi": [
+   "कृषि",
+   "खनन",
+   "विनिर्माण",
+   "सूचना प्रौद्योगिकी"
+  ],
+  "correct": 2,
+  "explainEn": "Secondary activities are concerned with manufacturing raw materials into finished goods, such as steel production or textile weaving.",
+  "sourceHint": "NCERT Class 12 Geography, Fundamentals of Human Geography, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-20T07:19:26Z"
  }
 ]
