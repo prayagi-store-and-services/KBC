@@ -24190,5 +24190,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-21T07:12:01Z"
+ },
+ {
+  "id": "q_8e1b613d8982b3f2",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which Indian state is the Sun Temple of Konark located?",
+  "qHi": "कोणार्क का सूर्य मंदिर किस भारतीय राज्य में स्थित है?",
+  "optsEn": [
+   "Odisha",
+   "Karnataka",
+   "Tamil Nadu",
+   "Gujarat"
+  ],
+  "optsHi": [
+   "ओडिशा",
+   "कर्नाटक",
+   "तमिलनाडु",
+   "गुजरात"
+  ],
+  "correct": 0,
+  "explainEn": "The 13th-century Konark Sun Temple is situated in Odisha and is a UNESCO World Heritage Site.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T19:18:00Z"
+ },
+ {
+  "id": "q_4ba5032ad5c3600c",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the famous classic play 'Meghaduta'?",
+  "qHi": "प्रसिद्ध क्लासिक नाटक 'मेघदूत' किसने लिखा था?",
+  "optsEn": [
+   "Tulsidas",
+   "Kalidasa",
+   "Premchand",
+   "Rabindranath Tagore"
+  ],
+  "optsHi": [
+   "तुलसीदास",
+   "कालिदास",
+   "प्रेमचंद",
+   "रवींद्रनाथ टैगोर"
+  ],
+  "correct": 1,
+  "explainEn": "Meghaduta is a lyric poem written by the classical Sanskrit writer Kalidasa.",
+  "sourceHint": "NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T19:18:00Z"
+ },
+ {
+  "id": "q_b60bae4c54926b97",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian state has the highest production of black pepper as of recent agricultural statistics?",
+  "qHi": "हाल के कृषि आंकड़ों के अनुसार किस भारतीय राज्य में काली मिर्च का उत्पादन सबसे अधिक है?",
+  "optsEn": [
+   "Kerala",
+   "Karnataka",
+   "Tamil Nadu",
+   "Andhra Pradesh"
+  ],
+  "optsHi": [
+   "केरल",
+   "कर्नाटक",
+   "तमिलनाडु",
+   "आंध्र प्रदेश"
+  ],
+  "correct": 1,
+  "explainEn": "Karnataka is currently the leading producer of black pepper in India, surpassing Kerala in recent years.",
+  "sourceHint": "Ministry of Agriculture and Farmers Welfare, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T19:20:44Z"
+ },
+ {
+  "id": "q_f2624eac57abd6e7",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form of India traditionally uses the 'Sattriya' music genre originating from Vaishnavite monasteries?",
+  "qHi": "भारत के किस शास्त्रीय नृत्य रूप में पारंपरिक रूप से वैष्णव मठों से उत्पन्न 'सत्रिया' संगीत शैली का उपयोग किया जाता है?",
+  "optsEn": [
+   "Kathakali",
+   "Odissi",
+   "Sattriya",
+   "Manipuri"
+  ],
+  "optsHi": [
+   "कथकली",
+   "ओडिसी",
+   "सत्रिया",
+   "मणिपुरी"
+  ],
+  "correct": 2,
+  "explainEn": "Sattriya dance, originating in Assam, is inextricably linked with Sattriya music, which was created by Srimanta Sankardev for Vaishnavite monasteries called Sattras.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T19:20:44Z"
+ },
+ {
+  "id": "q_dea83805c0f01750",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the chemical formula of hematite, one of the most important iron ores mined in India?",
+  "qHi": "भारत में उत्खनन किए जाने वाले सबसे महत्वपूर्ण लौह अयस्क में से एक, हेमेटाइट का रासायनिक सूत्र क्या है?",
+  "optsEn": [
+   "Fe3O4",
+   "Fe2O3",
+   "FeCO3",
+   "FeS2"
+  ],
+  "optsHi": [
+   "Fe3O4",
+   "Fe2O3",
+   "FeCO3",
+   "FeS2"
+  ],
+  "correct": 1,
+  "explainEn": "Hematite is an iron oxide with the chemical formula Fe2O3 and is a major source of iron ore in states like Odisha and Jharkhand.",
+  "sourceHint": "NCERT Chemistry Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T19:20:44Z"
+ },
+ {
+  "id": "q_ac2559901d1ac886",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian astronomer and mathematician of the 5th century correctly stated that the Earth rotates on its own axis?",
+  "qHi": "5वीं शताब्दी के किस भारतीय खगोलविद और गणितज्ञ ने सही ढंग से बताया था कि पृथ्वी अपनी धुरी पर घूमती है?",
+  "optsEn": [
+   "Aryabhata",
+   "Varahamihira",
+   "Brahmagupta",
+   "Bhaskara I"
+  ],
+  "optsHi": [
+   "आर्यभट्ट",
+   "वराहमिहिर",
+   "ब्रह्मगुप्त",
+   "भास्कर प्रथम"
+  ],
+  "correct": 0,
+  "explainEn": "Aryabhata propounded the theory in the Aryabhatiya that the Earth rotates on its own axis, creating the illusion of daily apparent movement of stars.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T19:20:44Z"
+ },
+ {
+  "id": "q_fb54480d121b1233",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which biogeographic zone of India is the endemic Nilgiri Tahr exclusively found?",
+  "qHi": "भारत के किस जीव-भौगोलिक क्षेत्र में स्थानिक नीलगिरि तहर विशेष रूप से पाया जाता है?",
+  "optsEn": [
+   "Himalayan Zone",
+   "Western Ghats",
+   "North-East Zone",
+   "Deccan Peninsula"
+  ],
+  "optsHi": [
+   "हिमालयी क्षेत्र",
+   "पश्चिमी घाट",
+   "उत्तर-पूर्व क्षेत्र",
+   "दक्कन प्रायद्वीप"
+  ],
+  "correct": 1,
+  "explainEn": "The Nilgiri Tahr is an ungulate endemic to the montane grassland habitats of the Western Ghats mountain range in South India.",
+  "sourceHint": "Wildlife Institute of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T19:20:44Z"
+ },
+ {
+  "id": "q_32c4cf7889b54fd1",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Upanishad contains the famous phrase 'Satyameva Jayate' which was later adopted as the national motto of India?",
+  "qHi": "किस उपनिषद में प्रसिद्ध वाक्यांश 'सत्यमेव जयते' निहित है जिसे बाद में भारत के राष्ट्रीय आदर्श वाक्य के रूप में अपनाया गया?",
+  "optsEn": [
+   "Kena Upanishad",
+   "Katha Upanishad",
+   "Mundaka Upanishad",
+   "Chandogya Upanishad"
+  ],
+  "optsHi": [
+   "केन उपनिषद",
+   "कठ उपनिषद",
+   "मुंडक उपनिषद",
+   "छांदोग्य उपनिषद"
+  ],
+  "correct": 2,
+  "explainEn": "The phrase 'Satyameva Jayate' (Truth alone triumphs) is a mantra from the Mundaka Upanishad.",
+  "sourceHint": "Embassy of India / National Portal of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T19:20:44Z"
+ },
+ {
+  "id": "q_afe3a9397e7721f8",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Harappan site is uniquely characterized by the presence of a lower town that was also entirely fortified?",
+  "qHi": "किस हड़प्पा स्थल की अनूठी विशेषता यह है कि इसका निचला शहर भी पूरी तरह से किलेबंद था?",
+  "optsEn": [
+   "Harappa",
+   "Mohenjo-daro",
+   "Kalibangan",
+   "Dholavira"
+  ],
+  "optsHi": [
+   "हड़प्पा",
+   "मोहनजोदड़ो",
+   "कालीबंगा",
+   "धोलावीरा"
+  ],
+  "correct": 2,
+  "explainEn": "At Kalibangan, both the citadel and the lower town were separately fortified, setting it apart from several other Harappan cities.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T19:20:44Z"
  }
 ]

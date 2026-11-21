@@ -43006,5 +43006,341 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-21T07:11:57Z"
+ },
+ {
+  "id": "q_dd498b29cd129485",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which currency note in India bears the signature of the Governor of the Reserve Bank of India?",
+  "qHi": "भारत में किस करेंसी नोट पर भारतीय रिजर्व बैंक के गवर्नर के हस्ताक्षर होते हैं?",
+  "optsEn": [
+   "One Rupee Note",
+   "All currency notes except One Rupee Note",
+   "All currency notes including One Rupee Note",
+   "Coins only"
+  ],
+  "optsHi": [
+   "एक रुपये का नोट",
+   "एक रुपये के नोट को छोड़कर सभी करेंसी नोट",
+   "एक रुपये के नोट सहित सभी करेंसी नोट",
+   "केवल सिक्के"
+  ],
+  "correct": 1,
+  "explainEn": "One Rupee notes are issued by the Ministry of Finance and bear the Finance Secretary's signature, while all other notes bear the RBI Governor's signature.",
+  "sourceHint": "Reserve Bank of India currency issuance rules",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T19:17:56Z"
+ },
+ {
+  "id": "q_d8a5f9a19aed39a0",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization in India acts as the principal refinancing agency for institutions engaged in financing rural development and agriculture?",
+  "qHi": "भारत में कौन सा संगठन ग्रामीण विकास और कृषि के वित्तपोषण में लगे संस्थानों के लिए मुख्य पुनर्वित्त एजेंसी के रूप में कार्य करता है?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "NHB"
+  ],
+  "optsHi": [
+   "सिडबी",
+   "नाबार्ड",
+   "एक्सिम बैंक",
+   "एनएचबी"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) was established in 1982 to provide and regulate credit for promotion and development of agriculture, small-scale industries, and rural crafts.",
+  "sourceHint": "NABARD Act, 1981 and Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T19:19:38Z"
+ },
+ {
+  "id": "q_6eae112abd256049",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'M' stand for in the widely used financial term 'MSME' in India?",
+  "qHi": "भारत में व्यापक रूप से प्रयुक्त वित्तीय शब्द 'MSME' में अक्षर 'M' का क्या अर्थ है?",
+  "optsEn": [
+   "Monetary",
+   "Micro",
+   "Mercantile",
+   "Municipal"
+  ],
+  "optsHi": [
+   "मौद्रिक",
+   "सूक्ष्म",
+   "वाणिज्यिक",
+   "नगर निगम"
+  ],
+  "correct": 1,
+  "explainEn": "MSME stands for Micro, Small and Medium Enterprises, classified based on investment in plant and machinery or equipment and annual turnover.",
+  "sourceHint": "Ministry of Micro, Small and Medium Enterprises, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T19:19:38Z"
+ },
+ {
+  "id": "q_841519b522ce0c0f",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which money market instrument is an unsecured promissory note issued by highly rated corporate entities to meet short-term funding requirements?",
+  "qHi": "कौन सा मुद्रा बाजार उपकरण अल्पकालिक वित्तपोषण आवश्यकताओं को पूरा करने के लिए उच्च रेटिंग वाली कॉर्पोरेट संस्थाओं द्वारा जारी किया गया एक असुरक्षित promissory note है?",
+  "optsEn": [
+   "Certificate of Deposit",
+   "Commercial Paper",
+   "Treasury Bill",
+   "Cash Management Bill"
+  ],
+  "optsHi": [
+   "साझा जमा प्रमाणपत्र",
+   "वाणिज्यिक पत्र",
+   "राजकोषीय विपत्र",
+   "नकद प्रबंधन विपत्र"
+  ],
+  "correct": 1,
+  "explainEn": "Commercial Paper (CP) is an unsecured money market instrument issued in the form of a promissory note introduced in India in 1990.",
+  "sourceHint": "Reserve Bank of India Guidelines on Money Market Instruments",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T19:19:38Z"
+ },
+ {
+  "id": "q_d12db4a9f515756f",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the maximum amount guaranteed by the Deposit Insurance and Credit Guarantee Corporation (DICGC) per depositor per bank in the event of a bank failure in India?",
+  "qHi": "भारत में बैंक के विफल होने की स्थिति में निक्षेप बीमा और प्रत्यय गारंटी निगम (DICGC) द्वारा प्रति बैंक प्रति जमाकर्ता को अधिकतम कितनी राशि की गारंटी दी जाती है?",
+  "optsEn": [
+   "One Lakh Rupees",
+   "Two Lakhs Rupees",
+   "Five Lakhs Rupees",
+   "Ten Lakhs Rupees"
+  ],
+  "optsHi": [
+   "एक लाख रुपये",
+   "दो लाख रुपये",
+   "पाँच लाख रुपये",
+   "दस लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "DICGC provides insurance coverage up to a limit of Rs. 5,00,000 (Five Lakhs Rupees) per depositor per bank for both principal and interest amounts held in the same right and capacity.",
+  "sourceHint": "DICGC Act and Reserve Bank of India notifications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T19:19:38Z"
+ },
+ {
+  "id": "q_7279bdedd43e2a29",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which section of the Banking Regulation Act, 1949 restricts a banking company from engaging in trading or undertaking any trading activities directly or indirectly?",
+  "qHi": "बैंकिंग विनियमन अधिनियम, 1949 की कौन सी धारा किसी बैंकिंग कंपनी को प्रत्यक्ष या अप्रत्यक्ष रूप से व्यापार करने या किसी भी व्यापारिक गतिविधियों को करने से प्रतिबंधित करती है?",
+  "optsEn": [
+   "Section 6",
+   "Section 8",
+   "Section 10",
+   "Section 12"
+  ],
+  "optsHi": [
+   "धारा 6",
+   "धारा 8",
+   "धारा 10",
+   "धारा 12"
+  ],
+  "correct": 1,
+  "explainEn": "Section 8 of the Banking Regulation Act, 1949 prohibits a banking company from directly or indirectly dealing in buying or selling or bartering of goods.",
+  "sourceHint": "Banking Regulation Act, 1949 text",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T19:20:39Z"
+ },
+ {
+  "id": "q_a7f3c483264d786a",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the minimum paid-up voting equity capital required for setting up a Small Finance Bank as per the guidelines issued by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा जारी दिशानिर्देशों के अनुसार स्मॉल फाइनेंस बैंक की स्थापना के लिए न्यूनतम चुकता मतदान इक्विटी पूंजी कितनी आवश्यक है?",
+  "optsEn": [
+   "100 crore rupees",
+   "200 crore rupees",
+   "300 crore rupees",
+   "500 crore rupees"
+  ],
+  "optsHi": [
+   "100 करोड़ रुपये",
+   "200 करोड़ रुपये",
+   "300 करोड़ रुपये",
+   "500 करोड़ रुपये"
+  ],
+  "correct": 1,
+  "explainEn": "As per RBI's guidelines for 'on-tap' licensing of Small Finance Banks, the minimum capital requirement is 200 crore rupees.",
+  "sourceHint": "RBI Guidelines on Small Finance Banks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T19:20:39Z"
+ },
+ {
+  "id": "q_820d8322d30cc595",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, which section defines a 'Promissory Note'?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, कौन सी धारा 'प्रोमिसरी नोट' (वचन पत्र) को परिभाषित करती है?",
+  "optsEn": [
+   "Section 4",
+   "Section 5",
+   "Section 6",
+   "Section 13"
+  ],
+  "optsHi": [
+   "धारा 4",
+   "धारा 5",
+   "धारा 6",
+   "धारा 13"
+  ],
+  "correct": 0,
+  "explainEn": "Section 4 of the Negotiable Instruments Act, 1881 defines a promissory note as an instrument in writing containing an unconditional undertaking.",
+  "sourceHint": "Negotiable Instruments Act, 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T19:20:39Z"
+ },
+ {
+  "id": "q_88a88ea0d7797d07",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the maximum tenor permitted for Commercial Papers (CPs) issued in India under the Reserve Bank of India guidelines?",
+  "qHi": "भारतीय रिजर्व बैंक के दिशानिर्देशों के तहत भारत में जारी कमर्शियल पेपर्स (सीपी) के लिए अधिकतम अवधि कितनी है?",
+  "optsEn": [
+   "90 days",
+   "180 days",
+   "364 days",
+   "1 year"
+  ],
+  "optsHi": [
+   "90 दिन",
+   "180 दिन",
+   "364 दिन",
+   "1 वर्ष"
+  ],
+  "correct": 2,
+  "explainEn": "Commercial Papers can be issued for maturities between a minimum of 7 days and a maximum of up to one year or 364 days.",
+  "sourceHint": "RBI Master Directions on Money Market Instruments",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T19:20:39Z"
+ },
+ {
+  "id": "q_059726de893fe032",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Basel III norms, what does the Capital Conservation Buffer (CCB) primarily aim to ensure?",
+  "qHi": "बेसल III मानदंडों के संदर्भ में, पूंजी संरक्षण बफर (सीसीबी) का मुख्य उद्देश्य क्या सुनिश्चित करना है?",
+  "optsEn": [
+   "Protection against foreign exchange fluctuations",
+   "Banks build up capital buffers during normal times that can be drawn down during stress",
+   "Elimination of all credit risk in loan portfolios",
+   "Maintenance of adequate liquidity for overnight lending"
+  ],
+  "optsHi": [
+   "विदेशी मुद्रा उतार-चढ़ाव से सुरक्षा",
+   "बैंक सामान्य समय में पूंजी बफर बनाते हैं जिन्हें तनाव के दौरान उपयोग किया जा सकता है",
+   "ऋण पोर्टफोलियो में सभी ऋण जोखिम का उन्मूलन",
+   "रात्रिकालीन ऋण के लिए पर्याप्त तरलता बनाए रखना"
+  ],
+  "correct": 1,
+  "explainEn": "The Capital Conservation Buffer is designed to ensure that banks build up capital buffers during non-stress periods which can be drawn down when losses are incurred.",
+  "sourceHint": "Bank for International Settlements (BIS) Basel III standards",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T19:20:39Z"
+ },
+ {
+  "id": "q_affdc3cd1b5fa2eb",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following entities is eligible to issue Electoral Bonds in India as per the scheme framework?",
+  "qHi": "योजना ढांचे के अनुसार भारत में चुनावी बांड जारी करने के लिए निम्नलिखित में से कौन सी संस्था पात्र है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "State Bank of India",
+   "Life Insurance Corporation",
+   "Election Commission of India"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय स्टेट बैंक",
+   "भारतीय जीवन बीमा निगम",
+   "भारत का निर्वाचन आयोग"
+  ],
+  "correct": 1,
+  "explainEn": "State Bank of India (SBI) was authorized to issue and encash Electoral Bonds through its specified branches.",
+  "sourceHint": "Ministry of Finance Gazette Notification on Electoral Bonds Scheme",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T19:20:39Z"
+ },
+ {
+  "id": "q_2ab41b54251c31cd",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What does the term 'Duration' measure in the context of fixed-income securities and bond portfolios?",
+  "qHi": "स्थिर-आय प्रतिभूतियों और बांड पोर्टफोलियो के संदर्भ में 'अवधि' (डूरेशन) शब्द क्या मापता है?",
+  "optsEn": [
+   "The exact time until the bond matures",
+   "The sensitivity of the bond price to changes in interest rates",
+   "The total interest earned over the life of the bond",
+   "The frequency of coupon payments made per year"
+  ],
+  "optsHi": [
+   "बांड की परिपक्वता तक का सटीक समय",
+   "ब्याज दरों में परिवर्तन के प्रति बांड मूल्य की संवेदनशीलता",
+   "बांड के जीवनकाल में अर्जित कुल ब्याज",
+   "प्रति वर्ष किए जाने वाले कूपन भुगतान की आवृत्ति"
+  ],
+  "correct": 1,
+  "explainEn": "Duration measures the price sensitivity of a fixed-income security or bond portfolio to changes in interest rates.",
+  "sourceHint": "NCERT Economics and Financial Markets textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T19:20:39Z"
  }
 ]

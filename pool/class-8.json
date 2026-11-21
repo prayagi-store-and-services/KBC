@@ -29034,5 +29034,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-21T07:12:11Z"
+ },
+ {
+  "id": "q_77841123dd98cf7e",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which natural phenomenon is caused by sudden movements of the Earth's crust?",
+  "qHi": "पृथ्वी की पपड़ी की अचानक हलचल के कारण कौन सी प्राकृतिक घटना होती है?",
+  "optsEn": [
+   "Flood",
+   "Drought",
+   "Earthquake",
+   "Cyclone"
+  ],
+  "optsHi": [
+   "बाढ़",
+   "सूखा",
+   "भूकंप",
+   "चक्रवात"
+  ],
+  "correct": 2,
+  "explainEn": "Earthquakes are caused by sudden vibrations or movements within the Earth's crust.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T19:18:28Z"
+ },
+ {
+  "id": "q_8b35c50730749c84",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the unit of measurement for the calorific value of a fuel?",
+  "qHi": "ईंधन के ऊष्मीय मान (कैलोरिफिक वैल्यू) को मापने की इकाई क्या है?",
+  "optsEn": [
+   "Kilojoule per kg",
+   "Newton per metre",
+   "Joule per second",
+   "Kilogram per cubic metre"
+  ],
+  "optsHi": [
+   "किलोजूल प्रति किलोग्राम",
+   "न्यूटन प्रति मीटर",
+   "जूल प्रति सेकंड",
+   "किलोग्राम प्रति घन मीटर"
+  ],
+  "correct": 0,
+  "explainEn": "The calorific value of a fuel is expressed in kilojoules per kg (kJ/kg).",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T19:20:11Z"
+ },
+ {
+  "id": "q_ea90dbd4aefa0f4d",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "During the British colonial period in India, what was the system of revenue collection introduced in the Bengal Presidency known as?",
+  "qHi": "भारत में ब्रिटिश औपनिवेशिक काल के दौरान, बंगाल प्रेसिडेंसी में शुरू की गई राजस्व संग्रहण प्रणाली को क्या कहा जाता था?",
+  "optsEn": [
+   "Ryotwari system",
+   "Mahalwari system",
+   "Permanent Settlement",
+   "Mansabdari system"
+  ],
+  "optsHi": [
+   "रैयतवाड़ी व्यवस्था",
+   "महलवाड़ी व्यवस्था",
+   "स्थाई बंदोबस्त (परमानेंटSettlement)",
+   "मनसबदारी प्रणाली"
+  ],
+  "correct": 2,
+  "explainEn": "The Permanent Settlement was introduced in 1793 by Lord Cornwallis in Bengal.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T19:20:11Z"
  }
 ]

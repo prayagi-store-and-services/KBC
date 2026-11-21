@@ -39422,5 +39422,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-21T07:12:44Z"
+ },
+ {
+  "id": "q_24a3818e4368dce3",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas is primarily responsible for the green appearance of planets like Uranus and Neptune?",
+  "qHi": "यूरेनस और नेपच्यून जैसे ग्रहों की हरी-भरी उपस्थिति के लिए मुख्य रूप से कौन सी गैस जिम्मेदार है?",
+  "optsEn": [
+   "Methane",
+   "Oxygen",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "मीथेन",
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 0,
+  "explainEn": "The atmospheres of Uranus and Neptune contain significant amounts of methane, which absorbs red light and gives them a cyan or greenish-blue appearance.",
+  "sourceHint": "Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T19:17:23Z"
+ },
+ {
+  "id": "q_9173e67bf7b29bcb",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which biome is characterized by low temperatures, short growing seasons, and the presence of permafrost?",
+  "qHi": "कम तापमान, छोटे बढ़ने के मौसम और पर्माफ्रॉस्ट की उपस्थिति किस बायोम की विशेषता है?",
+  "optsEn": [
+   "Tropical Rainforest",
+   "Tundra",
+   "Savanna",
+   "Deciduous Forest"
+  ],
+  "optsHi": [
+   "उष्णकटिबंधीय वर्षावन",
+   "टुंड्रा",
+   "सवाना",
+   "पर्णपाती वन"
+  ],
+  "correct": 1,
+  "explainEn": "The Tundra biome is treeless, cold, has a frozen subsoil known as permafrost, and a very short growing season.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 13",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T19:19:01Z"
+ },
+ {
+  "id": "q_982676c42eac5ac2",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of crystal lattice structure does Sodium Chloride (NaCl) exhibit at room temperature?",
+  "qHi": "कम तापमान पर सोडियम क्लोराइड (NaCl) किस प्रकार की क्रिस्टल जालक संरचना प्रदर्शित करता है?",
+  "optsEn": [
+   "Simple cubic",
+   "Body-centered cubic",
+   "Face-centered cubic",
+   "Hexagonal close-packed"
+  ],
+  "optsHi": [
+   "सरल घनीय",
+   "काय-केंद्रित घनीय",
+   "फलक-केंद्रित घनीय",
+   "षट्कोणीय संकुलित"
+  ],
+  "correct": 2,
+  "explainEn": "Sodium chloride exhibits a face-centered cubic (fcc) lattice structure where chloride ions form an fcc arrangement and sodium ions occupy all octahedral voids.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T19:19:01Z"
+ },
+ {
+  "id": "q_2a21f6758e526204",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following elements exhibits multiple oxidation states in its compounds and belongs to the d-block transition series?",
+  "qHi": "निम्नलिखित में से कौन सा तत्व अपने यौगिकों में कई ऑक्सीकरण अवस्थाएँ प्रदर्शित करता है और d-ब्लॉक संक्रमण श्रेणी से संबंधित है?",
+  "optsEn": [
+   "Scandium",
+   "Zinc",
+   "Manganese",
+   "Cadmium"
+  ],
+  "optsHi": [
+   "स्कैंडियम",
+   "जस्ता (जिंक)",
+   "मैंगनीज",
+   "कैडमियम"
+  ],
+  "correct": 2,
+  "explainEn": "Manganese exhibits the maximum number of oxidation states among the 3d series, ranging from +2 to +7, due to the availability of 3d and 4s electrons.",
+  "sourceHint": "NCERT Class 12 Chemistry - The d- and f-Block Elements",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T19:20:21Z"
+ },
+ {
+  "id": "q_cbf7d99fa7cf9ebd",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which microeconomic curve is known as the short-run supply curve of a perfectly competitive firm?",
+  "qHi": "पूर्ण रूप से प्रतिस्पर्धी फर्म के अल्पकालिक आपूर्ति वक्र के रूप में किस सूक्ष्म आर्थिक वक्र को जाना जाता है?",
+  "optsEn": [
+   "The rising portion of the marginal cost curve above the minimum of average variable cost",
+   "The entire marginal cost curve above the average fixed cost",
+   "The downward sloping portion of the average cost curve",
+   "The marginal revenue curve above the average total cost"
+  ],
+  "optsHi": [
+   "औसत परिवर्ती लागत के न्यूनतम बिंदु से ऊपर सीमांत लागत वक्र का बढ़ता हुआ भाग",
+   "औसत स्थिर लागत से ऊपर का संपूर्ण सीमांत लागत वक्र",
+   "औसत लागत वक्र का नीचे की ओर ढलान वाला भाग",
+   "औसत कुल लागत से ऊपर का सीमांत आगम वक्र"
+  ],
+  "correct": 0,
+  "explainEn": "A competitive firm will produce output in the short run only if price equals or exceeds the minimum average variable cost, making that portion of the MC curve its supply curve.",
+  "sourceHint": "NCERT Class 12 Economics - Introductory Microeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T19:20:21Z"
+ },
+ {
+  "id": "q_a10742a150e5b9b6",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In British colonial history, the Permanent Settlement of Bengal was introduced in which year by Lord Cornwallis?",
+  "qHi": "ब्रिटिश औपनिवेशिक इतिहास में, लॉर्ड कार्नवालिस द्वारा बंगाल का स्थायी बंदोबस्त किस वर्ष लागू किया गया था?",
+  "optsEn": [
+   "1773",
+   "1784",
+   "1793",
+   "1805"
+  ],
+  "optsHi": [
+   "1773",
+   "1784",
+   "1793",
+   "1805"
+  ],
+  "correct": 2,
+  "explainEn": "The Permanent Settlement was enacted by Lord Cornwallis in 1793, fixing the land revenue demand permanently for the zamindars of Bengal.",
+  "sourceHint": "NCERT Class 12 History - Themes in Indian History Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T19:20:21Z"
+ },
+ {
+  "id": "q_3cc4ad84bb5fc69e",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "If a square matrix A of order 3 has a determinant of 5, what is the value of the determinant of matrix 2A?",
+  "qHi": "यदि कोटि 3 के एक वर्ग आव्यूह A का सारणिक (determinant) 5 है, तो आव्यूह 2A के सारणिक का मान क्या होगा?",
+  "optsEn": [
+   "10",
+   "20",
+   "40",
+   "80"
+  ],
+  "optsHi": [
+   "10",
+   "20",
+   "40",
+   "80"
+  ],
+  "correct": 2,
+  "explainEn": "For an n-by-n matrix A, det(kA) = (k^n) * det(A). Here k=2 and n=3, so det(2A) = (2^3) * 5 = 8 * 5 = 40.",
+  "sourceHint": "NCERT Class 12 Mathematics - Determinants",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T19:20:21Z"
+ },
+ {
+  "id": "q_f4f8f95cc4dfd13e",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In an intrinsic semiconductor at absolute zero temperature, the valence band and the conduction band behave respectively as:",
+  "qHi": "परम शून्य तापमान पर एक नैज (intrinsic) अर्धचालक में, संयोजी बैंड (valence band) और चालन बैंड (conduction band) क्रमशः किस प्रकार व्यवहार करते हैं?",
+  "optsEn": [
+   "Completely filled and completely empty",
+   "Completely empty and completely filled",
+   "Partially filled and partially empty",
+   "Both completely filled"
+  ],
+  "optsHi": [
+   "पूर्णतः भरा हुआ और पूर्णतः खाली",
+   "पूर्णतः खाली और पूर्णतः भरा हुआ",
+   "आंशिक रूप से भरा हुआ और आंशिक रूप से खाली",
+   "दोनों पूर्णतः भरे हुए"
+  ],
+  "correct": 0,
+  "explainEn": "At absolute zero (0 K), thermal energy is zero, meaning electrons cannot jump across the forbidden gap; hence the valence band is completely filled and the conduction band is completely empty.",
+  "sourceHint": "NCERT Class 12 Physics - Semiconductor Electronics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T19:20:21Z"
  }
 ]

@@ -33850,5 +33850,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-21T07:12:06Z"
+ },
+ {
+  "id": "q_aada3ce225132c35",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which sense organ helps us to taste food?",
+  "qHi": "कौन सा ज्ञानेंद्रिय अंग हमें भोजन का स्वाद लेने में मदद کرتا है?",
+  "optsEn": [
+   "Eye",
+   "Ear",
+   "Tongue",
+   "Nose"
+  ],
+  "optsHi": [
+   "आँख",
+   "कान",
+   "जीभ",
+   "नाक"
+  ],
+  "correct": 2,
+  "explainEn": "The tongue has taste buds that help us identify different tastes.",
+  "sourceHint": "NCERT Class 3 and 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T19:18:24Z"
+ },
+ {
+  "id": "q_e679c38e914dbec5",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following animals is a mammal that can fly?",
+  "qHi": "निम्नलिखित में से कौन सा जानवर एक स्तनधारी है जो उड़ सकता है?",
+  "optsEn": [
+   "Crow",
+   "Bat",
+   "Pigeon",
+   "Eagle"
+  ],
+  "optsHi": [
+   "कौआ",
+   "चमगादड़",
+   "कबूतर",
+   "चील"
+  ],
+  "correct": 1,
+  "explainEn": "Bats are mammals capable of sustained flight.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T19:18:24Z"
  }
 ]
