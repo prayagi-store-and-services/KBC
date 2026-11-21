@@ -63,6 +63,7 @@ jobs:
             app/build/outputs/community-*.png
             app/build/ci-diagnostics/android-build.log
             app/build/outputs/ecosystem-version-header*.png
+            app/build/outputs/ecosystem-survival-header.png
           if-no-files-found: warn
 
       - name: Enable emulator acceleration
