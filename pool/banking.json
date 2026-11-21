@@ -42866,5 +42866,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-20T20:24:55Z"
+ },
+ {
+  "id": "q_f3f7ed91736efee2",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization acts as the lender of last resort for commercial banks in India?",
+  "qHi": "भारत में कौन सा संगठन वाणिज्यिक बैंकों के लिए अंतिम उपाय के ऋणदाता के रूप में कार्य करता है?",
+  "optsEn": [
+   "State Bank of India",
+   "Ministry of Finance",
+   "Reserve Bank of India",
+   "SIDBI"
+  ],
+  "optsHi": [
+   "भारतीय स्टेट बैंक",
+   "वित्त मंत्रालय",
+   "भारतीय रिजर्व बैंक",
+   "सिडबी (SIDBI)"
+  ],
+  "correct": 2,
+  "explainEn": "The Reserve Bank of India (RBI) acts as the lender of last resort, providing emergency credit to commercial banks facing liquidity crises.",
+  "sourceHint": "RBI official publication",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T07:11:03Z"
+ },
+ {
+  "id": "q_0ecd69caa7917f12",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which specialized financial institution in India is primarily responsible for the development of agriculture and rural areas?",
+  "qHi": "भारत में कौन सी विशिष्ट वित्तीय संस्था मुख्य रूप से कृषि और ग्रामीण क्षेत्रों के विकास के लिए जिम्मेदार है?",
+  "optsEn": [
+   "EXIM Bank",
+   "NABARD",
+   "NHB",
+   "SIDBI"
+  ],
+  "optsHi": [
+   "एक्जिम बैंक (EXIM Bank)",
+   "नाबार्ड (NABARD)",
+   "एनएचबी (NHB)",
+   "सिडबी (SIDBI)"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) is an apex regulatory body for overall regulation of regional rural banks and apex cooperative banks in India.",
+  "sourceHint": "NABARD official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T07:11:03Z"
+ },
+ {
+  "id": "q_139e3cea5aabe761",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which term is used to describe a market situation where there is only one buyer for a product or service?",
+  "qHi": "उस बाजार की स्थिति का वर्णन करने के लिए किस शब्द का उपयोग किया जाता है जहाँ किसी उत्पाद या सेवा के लिए केवल एक ही खरीदार होता है?",
+  "optsEn": [
+   "Monopoly",
+   "Oligopoly",
+   "Monopsony",
+   "Duopoly"
+  ],
+  "optsHi": [
+   "एकाधिकार",
+   "अल्पाधिकार",
+   "एकक्रीता (मोनोप्सनी)",
+   "द्विधिकार"
+  ],
+  "correct": 2,
+  "explainEn": "Monopsony is a market structure in which a single buyer substantially controls the market as the major purchaser of goods and services.",
+  "sourceHint": "NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T07:11:57Z"
+ },
+ {
+  "id": "q_f67809cd0e3d4f44",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is considered a qualitative tool of monetary policy used by the central bank?",
+  "qHi": "निम्नलिखित में से किसे केंद्रीय बैंक द्वारा उपयोग किया जाने वाला मौद्रिक नीति का गुणात्मक उपकरण माना जाता है?",
+  "optsEn": [
+   "Cash Reserve Ratio",
+   "Statutory Liquidity Ratio",
+   "Moral Suasion",
+   "Open Market Operations"
+  ],
+  "optsHi": [
+   "नकद आरक्षित अनुपात",
+   "वैधानिक तरलता अनुपात",
+   "नैतिक दबाव",
+   "खुले बाजार की संचालन क्रियाएं"
+  ],
+  "correct": 2,
+  "explainEn": "Moral suasion is a qualitative tool where the central bank persuades or urges commercial banks to align their lending policies with overall monetary policy.",
+  "sourceHint": "NCERT Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T07:11:57Z"
+ },
+ {
+  "id": "q_e69f02a40f207f66",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of international trade, what does a 'Letter of Credit' primarily provide?",
+  "qHi": "अंतरराष्ट्रीय व्यापार के संदर्भ में, 'साख पत्र' (लेटर ऑफ क्रेडिट) मुख्य रूप से क्या प्रदान करता है?",
+  "optsEn": [
+   "An unconditional guarantee of employment",
+   "A guarantee of payment by a bank to a seller",
+   "A shipping insurance policy against natural calamities",
+   "A certificate of origin for imported goods"
+  ],
+  "optsHi": [
+   "रोजगार की एक बेजोड़ गारंटी",
+   "एक विक्रेता को बैंक द्वारा भुगतान की गारंटी",
+   "प्राकृतिक आपदाओं के खिलाफ शिपिंग बीमा पॉलिसी",
+   "आयातित सामानों के लिए मूल प्रमाण पत्र"
+  ],
+  "correct": 1,
+  "explainEn": "A Letter of Credit is a financial document issued by a bank guaranteeing that a buyer's payment to a seller will be received on time and for the correct amount.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T07:11:57Z"
  }
 ]

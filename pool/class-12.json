@@ -39086,5 +39086,341 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-20T20:24:40Z"
+ },
+ {
+  "id": "q_8669f02d394c5498",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which macroeconomics term refers to the total value of all final goods and services produced within a country during a particular year?",
+  "qHi": "किस समष्टि अर्थशास्त्र शब्द का तात्पर्य किसी देश के भीतर एक विशेष वर्ष के दौरान उत्पादित सभी अंतिम वस्तुओं और सेवाओं के कुल मूल्य से है?",
+  "optsEn": [
+   "Inflation rate",
+   "Gross Domestic Product",
+   "Repo rate",
+   "Fiscal deficit"
+  ],
+  "optsHi": [
+   "मुद्रास्फीति दर",
+   " सकल घरेलू उत्पाद",
+   "रेपो रेट",
+   "राजकोषीय घाटा"
+  ],
+  "correct": 1,
+  "explainEn": "Gross Domestic Product (GDP) is the standard measure of the value added created through the production of goods and services in a country.",
+  "sourceHint": "NCERT Class 12 Introductory Macroeconomics Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T07:10:29Z"
+ },
+ {
+  "id": "q_b237230557e8f7fe",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the molecularity of an elementary chemical reaction whose rate is directly proportional to the square of the concentration of a reactant?",
+  "qHi": "उस प्राथमिक रासायनिक अभिक्रिया की आणविकता क्या है जिसकी दर एक अभिकारक की सांद्रता के वर्ग के सीधे आनुपातिक होती है?",
+  "optsEn": [
+   "Zero",
+   "One",
+   "Two",
+   "Three"
+  ],
+  "optsHi": [
+   "शून्य",
+   "एक",
+   "दो",
+   "तीन"
+  ],
+  "correct": 2,
+  "explainEn": "For an elementary reaction, the sum of stoichiometric coefficients of reactants in the rate expression defines its molecularity, which is two here.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T07:11:22Z"
+ },
+ {
+  "id": "q_68b45e2d79a6770e",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "During which historical movement in India was the 'No-Tax' campaign widely organized in Bardoli?",
+  "qHi": "भारत के किस ऐतिहासिक आंदोलन के दौरान बारदोली में बड़े पैमाने पर 'कर-नहीं' अभियान आयोजित किया गया था?",
+  "optsEn": [
+   "Non-Cooperation Movement",
+   "Civil Disobedience Movement",
+   "Bardoli Satyagraha",
+   "Quit India Movement"
+  ],
+  "optsHi": [
+   "असहयोग आंदोलन",
+   "सविनय अवज्ञा आंदोलन",
+   "बारदोली सत्याग्रह",
+   "भारत छोड़ो आंदोलन"
+  ],
+  "correct": 2,
+  "explainEn": "The Bardoli Satyagraha in 1928 was a major movement led by Vallabhbhai Patel against the unjust enhancement of land revenue.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part III",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T07:11:22Z"
+ },
+ {
+  "id": "q_ce9ea6e538b5e38b",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which programming concept in Python involves bundling data and methods that operate on that data within a single unit?",
+  "qHi": "पायथन में किस प्रोग्रामिंग अवधारणा में एक ही इकाई के भीतर डेटा और उस डेटा पर काम करने वाले तरीकों को एक साथ रखना शामिल है?",
+  "optsEn": [
+   "Inheritance",
+   "Encapsulation",
+   "Polymorphism",
+   "Recursion"
+  ],
+  "optsHi": [
+   "विरासत",
+   "एनकैप्सुलेशन",
+   "बहुआयामीता",
+   "पुनरावर्ती"
+  ],
+  "correct": 1,
+  "explainEn": "Encapsulation is the mechanism of wrapping the data (variables) and code acting on the data (methods) together as a single unit.",
+  "sourceHint": "NCERT Class 12 Computer Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T07:11:22Z"
+ },
+ {
+  "id": "q_70036f6013313c48",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which trophic level do primary carnivores occupy in a typical terrestrial food chain?",
+  "qHi": "एक विशिष्ट स्थलीय खाद्य श्रृंखला में प्राथमिक मांसाहारी किस पोषण स्तर पर आते हैं?",
+  "optsEn": [
+   "First trophic level",
+   "Second trophic level",
+   "Third trophic level",
+   "Fourth trophic level"
+  ],
+  "optsHi": [
+   "पहला पोषण स्तर",
+   "दूसरा पोषण स्तर",
+   "तीसरा पोषण स्तर",
+   "चौथा पोषण स्तर"
+  ],
+  "correct": 2,
+  "explainEn": "Producers are at the first trophic level, herbivores (primary consumers) at the second, and primary carnivores (secondary consumers) occupy the third trophic level.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T07:11:22Z"
+ },
+ {
+  "id": "q_ea5c8cd15c538c4c",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following organisms is characterized by the presence of a coenocytic mycelium?",
+  "qHi": "निम्नलिखित में से किस जीव की विशेषता कोएनोसाइटिक कवकजाल की उपस्थिति है?",
+  "optsEn": [
+   "Mucor",
+   "Alternaria",
+   "Agaricus",
+   "Trichoderma"
+  ],
+  "optsHi": [
+   "म्यूकर",
+   "अल्टरनेरिया",
+   "एगैरिकस",
+   "ट्राइकोडर्मा"
+  ],
+  "correct": 0,
+  "explainEn": "Mucor belongs to Phycomycetes, which have aseptate and multinucleate (coenocytic) mycelium.",
+  "sourceHint": "NCERT Biology Class 11/12 Biological Classification",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T07:12:44Z"
+ },
+ {
+  "id": "q_dc8004709d4cb453",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In an aqueous solution of a peptide at its isoelectric point, the net electrical charge carried by the molecule is:",
+  "qHi": "अपने समविभव बिंदु पर एक पेप्टाइड के जलीय घोल में, अणु द्वारा किया जाने वाला कुल विद्युत आवेश होता है:",
+  "optsEn": [
+   "Zero",
+   "Positive one",
+   "Negative one",
+   "Dependent on the molecular weight"
+  ],
+  "optsHi": [
+   "शून्य",
+   "धनात्मक एक",
+   "ऋणात्मक एक",
+   "आणविक भार पर निर्भर"
+  ],
+  "correct": 0,
+  "explainEn": "At the isoelectric point, amino acids and peptides exist as zwitterions with an equal number of positive and negative charges, resulting in a net charge of zero.",
+  "sourceHint": "NCERT Chemistry Class 12 Biomolecules",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T07:12:44Z"
+ },
+ {
+  "id": "q_b11a26779b138b9b",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which lanthanoid contraction-affected pair of elements exhibits nearly identical atomic radii?",
+  "qHi": "लैंथेनाइड संकुचन से प्रभावित तत्वों का कौन सा युग्म लगभग समान परमाणु त्रिज्या प्रदर्शित करता है?",
+  "optsEn": [
+   "Zirconium and Hafnium",
+   "Titanium and Zirconium",
+   "Niobium and Tantalum",
+   "Yttrium and Lanthanum"
+  ],
+  "optsHi": [
+   "जिरकोनियम और हाफ्नियम",
+   "टाइटेनियम और जिरकोनियम",
+   "नियोबियम और टैंटलम",
+   "इत्रियम और लैंथेनम"
+  ],
+  "correct": 0,
+  "explainEn": "Due to lanthanoid contraction, the atomic radii of second and third transition series elements like Zirconium (160 pm) and Hafnium (159 pm) are very close.",
+  "sourceHint": "NCERT Chemistry Class 12 d and f Block Elements",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T07:12:44Z"
+ },
+ {
+  "id": "q_8af32c4f59646d33",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary cellular function of the lac repressor protein in the lac operon model?",
+  "qHi": "लैक ओपेरॉन मॉडल में लैक रिप्रेशन प्रोटीन की प्राथमिक कोशिकीय कार्य क्या है?",
+  "optsEn": [
+   "To bind to the operator region and prevent transcription of structural genes",
+   "To bind to the promoter region and enhance RNA polymerase activity",
+   "To directly synthesize beta-galactosidase",
+   "To transport lactose across the cell membrane"
+  ],
+  "optsHi": [
+   "ऑपरेटर क्षेत्र से बंधना और संरचनात्मक जीनों के अनुलेखन को रोकना",
+   "प्रमोटर क्षेत्र से बंधना और आरएनए पोलीमरेज़ गतिविधि को बढ़ाना",
+   "प्रत्यक्ष रूप से बीटा-गैलेक्टोसिडेज़ का संश्लेषण करना",
+   "कोशिका झिल्ली के पार लैक्टोज का परिवहन करना"
+  ],
+  "correct": 0,
+  "explainEn": "The lac repressor binds to the operator region of the operon, preventing RNA polymerase from transcribing the structural genes in the absence of an inducer.",
+  "sourceHint": "NCERT Biology Class 12 Molecular Basis of Inheritance",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T07:12:44Z"
+ },
+ {
+  "id": "q_c8dcccc1b1800ed1",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which species acts as the central metal atom in the coordination compound Vitamin B12?",
+  "qHi": "समन्वय यौगिक विटामिन B12 में केंद्रीय धातु परमाणु के रूप में कौन सी प्रजाति कार्य करती है?",
+  "optsEn": [
+   "Cobalt",
+   "Iron",
+   "Magnesium",
+   "Zinc"
+  ],
+  "optsHi": [
+   "कोबाल्ट",
+   "लोहा",
+   "मैग्नीशियम",
+   "जस्ता"
+  ],
+  "correct": 0,
+  "explainEn": "Vitamin B12 (cyanocobalamin) is a coordination compound containing Cobalt as its central metal ion.",
+  "sourceHint": "NCERT Chemistry Class 12 Coordination Compounds",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T07:12:44Z"
+ },
+ {
+  "id": "q_b24fb385bc3317d1",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In ecological succession, which type of species is typically the pioneer species on bare rock?",
+  "qHi": "पारिस्थितिक अनुक्रमण में, नंगी चट्टान पर आमतौर पर किस प्रकार की प्रजाति पहली अग्रगामी प्रजाति होती है?",
+  "optsEn": [
+   "Lichens",
+   "Annual grasses",
+   "Shrubs",
+   "Bryophytes"
+  ],
+  "optsHi": [
+   "लाइकेन",
+   "वार्षिक घास",
+   "झाड़ियाँ",
+   "ब्रायोफाइट्स"
+  ],
+  "correct": 0,
+  "explainEn": "Lichens are pioneer species on bare rocks because they secrete acids to dissolve rock, helping in weathering and soil formation.",
+  "sourceHint": "NCERT Biology Class 12 Ecosystem",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T07:12:44Z"
+ },
+ {
+  "id": "q_21139974ca3613ea",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the hybridization of the central iodine atom in the interhalogen compound IF5?",
+  "qHi": "अंतरहलोजन यौगिक IF5 में केंद्रीय आयोडीन परमाणु का संकरण क्या है?",
+  "optsEn": [
+   "sp3d2",
+   "sp3d",
+   "sp3",
+   "sp3d3"
+  ],
+  "optsHi": [
+   "sp3d2",
+   "sp3d",
+   "sp3",
+   "sp3d3"
+  ],
+  "correct": 0,
+  "explainEn": "In IF5, iodine has 7 valence electrons, forms 5 single bonds with fluorine, and has 1 lone pair, leading to 6 electron pairs which corresponds to sp3d2 hybridization and square pyramidal geometry.",
+  "sourceHint": "NCERT Chemistry Class 12 p-Block Elements",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T07:12:44Z"
  }
 ]

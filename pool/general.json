@@ -24106,5 +24106,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-20T20:25:00Z"
+ },
+ {
+  "id": "q_0842dcbd6a2fb684",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the standard full form of ISRO?",
+  "qHi": "ISRO (इसरो) का मानक पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Indian Scientific Research Organization",
+   "Indian Space Research Organisation",
+   "International Space and Rocket Office",
+   "Indian Satellite Recovery Operation"
+  ],
+  "optsHi": [
+   "इंडियन साइंटिफिक रिसर्च ऑर्गेनाइजेशन",
+   "इंडियन स्पेस रिसर्च ऑर्गनाइजेशन",
+   "इंटरनेशनल स्पेस एंड रॉकेट ऑफिस",
+   "इंडियन सैटेलाइट रिकवरी ऑपरेशन"
+  ],
+  "correct": 1,
+  "explainEn": "ISRO stands for Indian Space Research Organisation, India's national space agency.",
+  "sourceHint": "ISRO Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T07:11:07Z"
+ },
+ {
+  "id": "q_3e6f856689c8a317",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas do plants absorb from the atmosphere during the process of photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण की प्रक्रिया के दौरान पौधे वायुमंडल से कौन सी गैस सोखते हैं?",
+  "optsEn": [
+   "Oxygen",
+   "Nitrogen",
+   "Carbon dioxide",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "कार्बन डाइऑक्साइड",
+   "हाइड्रोजन"
+  ],
+  "correct": 2,
+  "explainEn": "Plants absorb carbon dioxide from the air to synthesize food during photosynthesis.",
+  "sourceHint": "NCERT Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T07:11:07Z"
+ },
+ {
+  "id": "q_f9d17ccc079cd19e",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The classical dance form of Kathakali originated in which Indian state?",
+  "qHi": "शास्त्रीय नृत्य शैली कथकली की उत्पत्ति किस भारतीय राज्य में हुई थी?",
+  "optsEn": [
+   "Andhra Pradesh",
+   "Odisha",
+   "Kerala",
+   "Manipur"
+  ],
+  "optsHi": [
+   "आंध्र प्रदेश",
+   "ओडिशा",
+   "केरल",
+   "मणिपुर"
+  ],
+  "correct": 2,
+  "explainEn": "Kathakali is a major form of classical Indian dance that originated in the southern state of Kerala, known for its elaborate costumes and makeup.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-21T07:12:01Z"
  }
 ]
