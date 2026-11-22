@@ -24834,5 +24834,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-22T06:54:00Z"
+ },
+ {
+  "id": "q_94599a215b118210",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which historical monument is known as a symbol of love and located on the banks of the Yamuna River?",
+  "qHi": "किस ऐतिहासिक स्मारक को प्रेम के प्रतीक के रूप में जाना जाता है और जो यमुना नदी के तट पर स्थित है?",
+  "optsEn": [
+   "Red Fort",
+   "Qutub Minar",
+   "Taj Mahal",
+   "Hawa Mahal"
+  ],
+  "optsHi": [
+   "लाल किला",
+   "कुतुब मीनार",
+   "ताजमहल",
+   "हवा महल"
+  ],
+  "correct": 2,
+  "explainEn": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the Yamuna river in Agra.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-22T19:43:56Z"
  }
 ]

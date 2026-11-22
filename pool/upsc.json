@@ -40654,5 +40654,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-22T06:52:50Z"
+ },
+ {
+  "id": "q_b5b0bf8e2ec28ac4",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Article 1 of the Indian Constitution describes India as what?",
+  "qHi": "भारतीय संविधान का अनुच्छेद 1 भारत का वर्णन किस रूप में करता है?",
+  "optsEn": [
+   "A Federal State",
+   "A Confederation of States",
+   "A Union of States",
+   "A Unitary State"
+  ],
+  "optsHi": [
+   "एक संघीय राज्य",
+   "राज्यों का एक परिसंघ",
+   "राज्यों का संघ",
+   "एक एकात्मक राज्य"
+  ],
+  "correct": 2,
+  "explainEn": "Article 1(1) of the Constitution states that India, that is Bharat, shall be a Union of States.",
+  "sourceHint": "Constitution of India, Article 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-22T19:43:48Z"
+ },
+ {
+  "id": "q_ab03952d0a149545",
+  "group": "upsc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "The Ajanta Caves, known for ancient rock-cut cave paintings, are located in which state?",
+  "qHi": "प्राचीन शैल-कृत गुफा चित्रों के लिए प्रसिद्ध अजंता गुफाएँ किस राज्य में स्थित हैं?",
+  "optsEn": [
+   "Madhya Pradesh",
+   "Maharashtra",
+   "Karnataka",
+   "Odisha"
+  ],
+  "optsHi": [
+   "मध्य प्रदेश",
+   "महाराष्ट्र",
+   "कर्नाटक",
+   "ओडिशा"
+  ],
+  "correct": 1,
+  "explainEn": "The Ajanta Caves are located in the Aurangabad district of Maharashtra and are a UNESCO World Heritage Site.",
+  "sourceHint": "NCERT Class 11 Fine Arts",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-22T19:43:48Z"
  }
 ]

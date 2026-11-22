@@ -33990,5 +33990,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-22T06:50:38Z"
+ },
+ {
+  "id": "q_5dc5776dac3787b6",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a major kharif crop grown in India during the monsoon season?",
+  "qHi": "निम्नलिखित में से कौन सी भारत में मानसून के मौसम में उगाई जाने वाली एक प्रमुख खरीफ फसल है?",
+  "optsEn": [
+   "Wheat",
+   "Rice",
+   "Barley",
+   "Gram"
+  ],
+  "optsHi": [
+   "गेहूं",
+   "चावल",
+   "जौ",
+   "चना"
+  ],
+  "correct": 1,
+  "explainEn": "Rice is a principal kharif crop that requires a lot of water and is sown during the rainy season.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-22T19:42:18Z"
+ },
+ {
+  "id": "q_a9040ee696ed5fb8",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary source of energy for the Earth's ecosystem?",
+  "qHi": "पृथ्वी की पारिस्थितिकी तंत्र के लिए ऊर्जा का मुख्य स्रोत क्या है?",
+  "optsEn": [
+   "The Moon",
+   "The Sun",
+   "Wind",
+   "Water"
+  ],
+  "optsHi": [
+   "चंद्रमा",
+   "सूर्य",
+   " हवा",
+   "पानी"
+  ],
+  "correct": 1,
+  "explainEn": "The Sun provides light and heat energy which is essential for plants to make food through photosynthesis.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-22T19:42:18Z"
  }
 ]
