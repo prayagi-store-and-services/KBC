@@ -33906,5 +33906,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-21T19:18:24Z"
+ },
+ {
+  "id": "q_fed1526b1e14ec19",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which planet is known as the Blue Planet because of water?",
+  "qHi": "किस ग्रह को पानी के कारण नीला ग्रह कहा जाता है?",
+  "optsEn": [
+   "Mars",
+   "Venus",
+   "Earth",
+   "Mercury"
+  ],
+  "optsHi": [
+   "मंगल",
+   "शुक्र",
+   "पृथ्वी",
+   "बुध"
+  ],
+  "correct": 2,
+  "explainEn": "Earth has vast oceans covering most of its surface, making it look blue from space.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-22T06:50:38Z"
+ },
+ {
+  "id": "q_a5dcdf0f2c0bd864",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which natural satellite orbits around the Earth?",
+  "qHi": "पृथ्वी के चारों ओर कौन सा प्राकृतिक उपग्रह चक्कर लगाता है?",
+  "optsEn": [
+   "Sun",
+   "Moon",
+   "Titan",
+   "Europa"
+  ],
+  "optsHi": [
+   "सूर्य",
+   "चन्द्रमा",
+   "टाइटन",
+   "यूरोप"
+  ],
+  "correct": 1,
+  "explainEn": "The Moon is Earth's only natural satellite.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-22T06:50:38Z"
+ },
+ {
+  "id": "q_0e43fcc6e227f7f7",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which vitamin do we mainly get from sunlight?",
+  "qHi": "हमें धूप से मुख्य रूप से कौन सा विटामिन मिलता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "Exposure to sunlight helps the human body produce Vitamin D.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-22T06:50:38Z"
  }
 ]

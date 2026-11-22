@@ -43342,5 +43342,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-21T19:20:39Z"
+ },
+ {
+  "id": "q_0b916f3a10524eca",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which entity issues One Rupee currency notes in India?",
+  "qHi": "भारत में एक रुपये का करेंसी नोट कौन जारी करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "State Bank of India",
+   "Ministry of Finance, Government of India",
+   "NITI Aayog"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय स्टेट बैंक",
+   "वित्त मंत्रालय, भारत सरकार",
+   "नीति आयोग"
+  ],
+  "correct": 2,
+  "explainEn": "One Rupee notes and coins are issued by the Ministry of Finance, Government of India, while all other currency notes are issued by the RBI.",
+  "sourceHint": "Reserve Bank of India Act / Coinage Act",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-22T06:50:29Z"
+ },
+ {
+  "id": "q_2bd17b56f4c1cee9",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization acts as the central bank of India?",
+  "qHi": "कौन सा संगठन भारत के केंद्रीय बैंक के रूप में कार्य करता है?",
+  "optsEn": [
+   "Punjab National Bank",
+   "Reserve Bank of India",
+   "Ministry of Finance",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "पंजाब नेशनल बैंक",
+   "भारतीय रिजर्व बैंक",
+   "वित्त मंत्रालय",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India (RBI) is India's central banking institution, which controls the monetary policy of the Indian rupee.",
+  "sourceHint": "RBI Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-22T06:50:29Z"
+ },
+ {
+  "id": "q_c2fab4714bcc301c",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of account is generally opened by business entities that require frequent transactions?",
+  "qHi": "व्यवसायिक संस्थाओं द्वारा सामान्यतः किस प्रकार का खाता खोला जाता है जिसमें बार-बार लेनदेन की आवश्यकता होती है?",
+  "optsEn": [
+   "Savings Account",
+   "Current Account",
+   "Fixed Deposit Account",
+   "Recurring Deposit Account"
+  ],
+  "optsHi": [
+   "बचत खाता",
+   "चालू खाता",
+   "सावधि जमा खाता",
+   "आवर्ती जमा खाता"
+  ],
+  "correct": 1,
+  "explainEn": "Current accounts are designed for businesses to facilitate a high volume of regular transactions without restrictions on the number of withdrawals.",
+  "sourceHint": "NCERT Business Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-22T06:50:29Z"
+ },
+ {
+  "id": "q_d19e01528c8c2806",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In the context of banking loans, what does 'COLLATERAL' mean?",
+  "qHi": "बैंकिंग ऋण के संदर्भ में 'संपार्श्विक' (COLLATERAL) का क्या अर्थ है?",
+  "optsEn": [
+   "The interest rate charged by the bank",
+   "An asset pledged as security for a loan",
+   "The monthly installment amount",
+   "A penalty for late payment"
+  ],
+  "optsHi": [
+   "बैंक द्वारा लिया जाने वाला ब्याज दर",
+   "ऋण के लिए सुरक्षा के रूप में गिरवी रखी गई संपत्ति",
+   "मासिक किस्त की राशि",
+   "देरी से भुगतान के लिए जुर्माना"
+  ],
+  "correct": 1,
+  "explainEn": "Collateral is a property or other asset that a borrower offers as a way for a lender to secure the loan.",
+  "sourceHint": "NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-22T06:50:29Z"
  }
 ]

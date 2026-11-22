@@ -33878,5 +33878,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-21T19:20:15Z"
+ },
+ {
+  "id": "q_337efe3d2e749ca7",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which sector is the largest employer in India according to standard economic classifications?",
+  "qHi": "मानक आर्थिक वर्गीकरण के अनुसार भारत में सबसे बड़ा नियोक्ता कौन सा क्षेत्र है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Quaternary sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "तृतीयक क्षेत्र",
+   "चतुर्थक क्षेत्र"
+  ],
+  "correct": 0,
+  "explainEn": "Agriculture, which falls under the primary sector, remains the largest employer in India.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 2: Sectors of the Indian Economy",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-22T06:52:10Z"
  }
 ]

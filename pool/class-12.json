@@ -39646,5 +39646,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-21T19:20:21Z"
+ },
+ {
+  "id": "q_e2b7bc9bcd41f451",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a non-flowering plant that produces unprotected seeds?",
+  "qHi": "निम्नलिखित में से कौन सा एक ऐसा पौधा है जिसमें फूल नहीं आते और जो असुरक्षित बीज उत्पन्न करता है?",
+  "optsEn": [
+   "Angiosperm",
+   "Gymnosperm",
+   "Bryophyte",
+   "Pteridophyte"
+  ],
+  "optsHi": [
+   "एंजियोस्पर्म",
+   "जिम्नोस्पर्म",
+   "ब्रायोफाइटा",
+   "टेरिडोफाइटा"
+  ],
+  "correct": 1,
+  "explainEn": "Gymnosperms are plants with seeds not enclosed in an ovary or fruit, contrasting with angiosperms which are flowering plants.",
+  "sourceHint": "NCERT Class 11 Biology, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-22T06:52:43Z"
  }
 ]
