@@ -39702,5 +39702,397 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-22T19:43:39Z"
+ },
+ {
+  "id": "q_af33d715718b8882",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas is released predominantly during the process of photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण की प्रक्रिया के दौरान मुख्य रूप से कौन सी गैस निकलती है?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Oxygen",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "During photosynthesis, plants take in carbon dioxide and water, using solar energy to produce glucose and release oxygen as a byproduct.",
+  "sourceHint": "NCERT Class 11 Biology Chapter 13",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T07:41:01Z"
+ },
+ {
+  "id": "q_13017d45f84adc28",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which element is the primary constituent of diamond and graphite?",
+  "qHi": "कौन सा तत्व हीरा और ग्रेफाइट का मुख्य घटक है?",
+  "optsEn": [
+   "Silicon",
+   "Carbon",
+   "Iron",
+   "Sulfur"
+  ],
+  "optsHi": [
+   "सिलिकॉन",
+   "कार्बन",
+   "लोहा",
+   "सल्फर"
+  ],
+  "correct": 1,
+  "explainEn": "Both diamond and graphite are allotropes of the element carbon, differing only in the way their atoms are bonded together.",
+  "sourceHint": "NCERT Class 12 Chemistry",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T07:41:01Z"
+ },
+ {
+  "id": "q_abda4579be254127",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In a chemical reaction, what does the term 'molecularity' refer to?",
+  "qHi": "एक रासायनिक अभिक्रिया में, 'आणविकता' (molecularity) शब्द किसे संदर्भित करता है?",
+  "optsEn": [
+   "The number of moles of products formed",
+   "The order of the overall reaction",
+   "The number of reacting species colliding simultaneously in an elementary reaction",
+   "The total number of atoms in a reactant molecule"
+  ],
+  "optsHi": [
+   "निर्मित उत्पादों के मोलों की संख्या",
+   "संपूर्ण अभिक्रिया की कोटि",
+   "एक प्राथमिक अभिक्रिया में एक साथ टक्कर मारने वाली प्रतिक्रियाशील जातियों की संख्या",
+   "एक अभिकारक अणु में परमाणुओं की कुल संख्या"
+  ],
+  "correct": 2,
+  "explainEn": "Molecularity is defined as the number of reacting species taking part in an elementary reaction, which must collide simultaneously.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T07:42:07Z"
+ },
+ {
+  "id": "q_b24fa3db1c5cede5",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the phenomenon called when a ray of light bends around the corners of an obstacle whose size is comparable to the wavelength of light?",
+  "qHi": "उस घटना को क्या कहते हैं जब प्रकाश की किरण किसी ऐसे अवरोध के कोनों पर मुड़ जाती है जिसका आकार प्रकाश की तरंग दैर्ध्य के तुलनीय हो?",
+  "optsEn": [
+   "Reflection",
+   "Refraction",
+   "Diffraction",
+   "Polarization"
+  ],
+  "optsHi": [
+   "परावर्तन",
+   "अपवर्तन",
+   "विवर्तन",
+   "ध्रुवण"
+  ],
+  "correct": 2,
+  "explainEn": "Diffraction is the bending of waves around the corners of an obstacle or aperture into the region of geometrical shadow.",
+  "sourceHint": "NCERT Class 12 Physics, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T07:42:07Z"
+ },
+ {
+  "id": "q_7db63283f12bf584",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Indian state has the highest population as per the Census of India 2011?",
+  "qHi": "भारत की जनगणना 2011 के अनुसार किस भारतीय राज्य की जनसंख्या सबसे अधिक है?",
+  "optsEn": [
+   "Maharashtra",
+   "Bihar",
+   "Uttar Pradesh",
+   "West Bengal"
+  ],
+  "optsHi": [
+   "महाराष्ट्र",
+   "बिहार",
+   "उत्तर प्रदेश",
+   "पश्चिम बंगाल"
+  ],
+  "correct": 2,
+  "explainEn": "Uttar Pradesh is the most populous state in India, accounting for a major share of the country's total population according to the 2011 Census.",
+  "sourceHint": "NCERT Class 12 Geography, India People and Economy",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T07:42:07Z"
+ },
+ {
+  "id": "q_53314ad0ddca451a",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In macroeconomics, what does Net National Product at factor cost also commonly represent?",
+  "qHi": "समष्टि अर्थशास्त्र में, कारक लागत पर शुद्ध राष्ट्रीय उत्पाद (NNP) आमतौर पर किसे भी निरूपित करता है?",
+  "optsEn": [
+   "Gross Domestic Product",
+   "National Income",
+   "Disposable Personal Income",
+   "Private Income"
+  ],
+  "optsHi": [
+   "सकल घरेलू उत्पाद",
+   "राष्ट्रीय आय",
+   "प्रयोज्य व्यक्तिगत आय",
+   "निजी आय"
+  ],
+  "correct": 1,
+  "explainEn": "Net National Product at factor cost is formally known as National Income of a country.",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Macroeconomics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T07:42:07Z"
+ },
+ {
+  "id": "q_1f105c576b5f4807",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the famous book 'Ain-i-Akbari', which details the administration of Emperor Akbar?",
+  "qHi": "प्रसिद्ध पुस्तक 'आईन-ए-अकबरी' किसने लिखी, जिसमें सम्राट अकबर के प्रशासन का विवरण है?",
+  "optsEn": [
+   "Abul Fazl",
+   "Badauni",
+   "Faizi",
+   "Abdu'l-Qadir"
+  ],
+  "optsHi": [
+   "अुल फज़ल",
+   "बदायूंनी",
+   "फैज़ी",
+   "अब्दुल कादिर"
+  ],
+  "correct": 0,
+  "explainEn": "Ain-i-Akbari is the third volume of the Akbar Nama, written by Akbar's court historian Abul Fazl.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part II",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T07:42:07Z"
+ },
+ {
+  "id": "q_1e93685c74087d5d",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which evolutionary term describes the independent development of similar features in species of different lineages?",
+  "qHi": "कौन सा विकासवादी शब्द विभिन्न वंशों की जातियों में समान विशेषताओं के स्वतंत्र विकास का वर्णन करता है?",
+  "optsEn": [
+   "Divergent evolution",
+   "Convergent evolution",
+   "Adaptive radiation",
+   "Genetic drift"
+  ],
+  "optsHi": [
+   "अपसारी विकास",
+   "अभिसारी विकास",
+   "अनुकूलन विकिरण",
+   "आनुवंशिक विचलन"
+  ],
+  "correct": 1,
+  "explainEn": "Convergent evolution leads to analogous structures, where different species develop similar adaptations due to facing similar ecological niches.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T07:42:07Z"
+ },
+ {
+  "id": "q_320566896b30f48f",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following sites marks the northernmost extent of the Indus Valley Civilization?",
+  "qHi": "निम्नलिखित में से कौन सा स्थल सिंधु घाटी सभ्यता के सबसे उत्तरी विस्तार को दर्शाता है?",
+  "optsEn": [
+   "Manda",
+   "Alamgirpur",
+   "Daimabad",
+   "Sutkagendor"
+  ],
+  "optsHi": [
+   "मांडा",
+   "आलमगीरपुर",
+   "दैमाबाद",
+   "सुतकागेडोर"
+  ],
+  "correct": 0,
+  "explainEn": "Manda in Jammu and Kashmir is situated on the right bank of the Chenab River and is recognized as the northernmost site of the Harappan Civilization.",
+  "sourceHint": "NCERT Class 12 History - Bricks, Beads and Bones",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T07:43:56Z"
+ },
+ {
+  "id": "q_c7b41b884dec032f",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In macroeconomics, what does a value of the Marginal Propensity to Consume (MPC) equal to 1 imply about the value of the multiplier?",
+  "qHi": "समष्टि अर्थशास्त्र में, उपभोग की सीमांत प्रवृत्ति (MPC) का मान 1 होने का गुणक (multiplier) के मान पर क्या प्रभाव पड़ता है?",
+  "optsEn": [
+   "Zero",
+   "One",
+   "Infinity",
+   "Undefined"
+  ],
+  "optsHi": [
+   "शून्य",
+   "एक",
+   "अनंत",
+   "अपरिभाषित"
+  ],
+  "correct": 2,
+  "explainEn": "The investment multiplier k is given by 1 / (1 - MPC). When MPC = 1, the denominator becomes 0, making the multiplier tend to infinity.",
+  "sourceHint": "NCERT Class 12 Introductory Macroeconomics - National Income Accounting and Determination of Income",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T07:43:56Z"
+ },
+ {
+  "id": "q_49a07643377eb469",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which organelle is primarily responsible for the synthesis of lipids and steroidal hormones in eukaryotic cells?",
+  "qHi": "यूकैरियोटिक कोशिकाओं में कौन सा कोशिकांग मुख्य रूप से लिपिड और स्टेरॉयडल हार्मोन के संश्लेषण के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Rough Endoplasmic Reticulum",
+   "Smooth Endoplasmic Reticulum",
+   "Golgi apparatus",
+   "Lysosome"
+  ],
+  "optsHi": [
+   "खुरदरी अंतःप्रद्रव्यी जालिका",
+   "चिकनी अंतःप्रद्रव्यी जालिका",
+   "गॉल्जी उपकरण",
+   "लार्वाकोशिका"
+  ],
+  "correct": 1,
+  "explainEn": "The smooth endoplasmic reticulum (SER) lacks ribosomes on its surface and is the major site for lipid synthesis and steroid hormone production.",
+  "sourceHint": "NCERT Class 11 Biology - Cell: The Unit of Life",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T07:43:56Z"
+ },
+ {
+  "id": "q_02656733b4651701",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of international relations, which international agreement established a baseline for reducing greenhouse gas emissions through legally binding targets for developed nations?",
+  "qHi": "अंतरराष्ट्रीय संबंधों के संदर्भ में, किस अंतरराष्ट्रीय समझौते ने विकसित राष्ट्रों के लिए कानूनी रूप से बाध्यकारी लक्ष्यों के माध्यम से ग्रीनहाउस गैस उत्सर्जन को कम करने का आधार स्थापित किया?",
+  "optsEn": [
+   "Montreal Protocol",
+   "Kyoto Protocol",
+   "Paris Agreement",
+   "Ramsar Convention"
+  ],
+  "optsHi": [
+   "मॉन्ट्रियल प्रोटोकॉल",
+   "क्योटो प्रोटोकॉल",
+   "पेरिस समझौता",
+   "रामसर कन्वेंशन"
+  ],
+  "correct": 1,
+  "explainEn": "The Kyoto Protocol, adopted in 1997, operationalized the United Nations Framework Convention on Climate Change by committing industrialized countries to limit and reduce greenhouse gas emissions.",
+  "sourceHint": "NCERT Class 12 Political Science - Contemporary World Politics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T07:43:56Z"
+ },
+ {
+  "id": "q_840c795cd30a06e7",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which technique of scientific management proposed by Frederick Winslow Taylor involves determining a standard time taken by a worker to complete a well-defined job?",
+  "qHi": "फ्रेडरिक विंसलो टेलर द्वारा प्रस्तावित वैज्ञानिक प्रबंधन की किस तकनीक में एक अच्छी तरह से परिभाषित कार्य को पूरा करने के लिए एक श्रमिक द्वारा लिए गए मानक समय को निर्धारित करना शामिल है?",
+  "optsEn": [
+   "Motion study",
+   "Time study",
+   "Fatigue study",
+   "Differential piece wage system"
+  ],
+  "optsHi": [
+   "गति अध्ययन",
+   "समय अध्ययन",
+   "थकान अध्ययन",
+   "विभेदक टुकड़ा मजदूरी प्रणाली"
+  ],
+  "correct": 1,
+  "explainEn": "Time study determines the standard time taken to perform a well-defined job, which helps in fixing fair day's work and determining the number of workers needed.",
+  "sourceHint": "NCERT Class 12 Business Studies - Principles of Management",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T07:43:56Z"
+ },
+ {
+  "id": "q_f6590c48a6b4e4f5",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which geographical phenomenon is primarily responsible for creating rich fishing grounds in coastal upwelling regions?",
+  "qHi": "तटीय उत्सृवन क्षेत्रों में समृद्ध मछली पकड़ने के मैदान बनाने के लिए मुख्य रूप से कौन सी भौगोलिक घटना जिम्मेदार है?",
+  "optsEn": [
+   "Movement of warm surface currents away from the coast bringing deep nutrient-rich water upwards",
+   "Melting of polar ice caps increasing coastal salinity",
+   "Subduction of tectonic plates along active continental margins",
+   "High solar insolation leading to thermal stratification of water columns"
+  ],
+  "optsHi": [
+   "तट से दूर गर्म सतही धाराओं की गति जो गहरे पोषक तत्वों से भरपूर पानी को ऊपर लाती है",
+   "तटीय लवणता बढ़ाने वाले ध्रुवीय बर्फ के आवरण का पिघलना",
+   "सक्रिय महाद्वीपीय मार्जिन के साथ टेक्टोनिक प्लेटों का सबडक्शन",
+   "पानी के स्तंभों के थर्मल स्तरीकरण की ओर ले जाने वाली उच्च सौर आन्सोलेशन"
+  ],
+  "correct": 0,
+  "explainEn": "Coastal upwelling brings nutrient-rich deep water to the surface, fueling phytoplankton blooms that support large populations of fish.",
+  "sourceHint": "NCERT Class 11 Geography - Fundamentals of Physical Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T07:43:56Z"
  }
 ]

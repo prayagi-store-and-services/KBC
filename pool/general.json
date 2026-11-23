@@ -24442,5 +24442,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-21T19:20:44Z"
+ },
+ {
+  "id": "q_af0ac3948b7d5269",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which vitamin is primarily produced in the human body with exposure to sunlight?",
+  "qHi": "सूरज की रोशनी के संपर्क में आने से मानव शरीर में मुख्य रूप से कौन सा विटामिन बनता है?",
+  "optsEn": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन ए",
+   "विटामिन बी",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 3,
+  "explainEn": "The skin synthesizes Vitamin D when exposed to ultraviolet B (UVB) rays from the sun.",
+  "sourceHint": "NCERT Biology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T07:43:07Z"
+ },
+ {
+  "id": "q_81ba18434c6191d5",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the famous ancient Indian treatise on statecraft, economics, and military strategy called Arthashastra?",
+  "qHi": "राजनीति, अर्थशास्त्र और सैन्य रणनीति पर प्रसिद्ध प्राचीन भारतीय ग्रंथ अर्थशास्त्र किसने लिखा था?",
+  "optsEn": [
+   "Kalidasa",
+   "Kautilya",
+   "Banabhatta",
+   "Aryabhata"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "कौटिल्य",
+   "बाणभट्ट",
+   "आर्यभट्ट"
+  ],
+  "correct": 1,
+  "explainEn": "Arthashastra was authored by Kautilya, also known as Chanakya.",
+  "sourceHint": "NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T07:43:07Z"
  }
 ]

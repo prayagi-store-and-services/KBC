@@ -34046,5 +34046,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-22T19:42:18Z"
+ },
+ {
+  "id": "q_6d31e00a62525981",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these animals is mainly active at night?",
+  "qHi": "इनमें से कौन सा जानवर मुख्य रूप से रात में सक्रिय होता है?",
+  "optsEn": [
+   "Elephant",
+   "Owl",
+   "Cow",
+   "Crow"
+  ],
+  "optsHi": [
+   "हाथी",
+   "उल्लू",
+   "गाय",
+   "कौआ"
+  ],
+  "correct": 1,
+  "explainEn": "Owls are nocturnal birds, meaning they hunt and are active during the night.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T07:41:21Z"
+ },
+ {
+  "id": "q_b30d4feb208bc6cf",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which food group gives our body instant energy?",
+  "qHi": "कौन सा खाद्य समूह हमारे शरीर को तुरंत ऊर्जा देता है?",
+  "optsEn": [
+   "Proteins",
+   "Vitamins",
+   "Carbohydrates",
+   "Roughage"
+  ],
+  "optsHi": [
+   "प्रोटीन",
+   "विटामिन",
+   "कार्बोहाइड्रेट",
+   "रफेज"
+  ],
+  "correct": 2,
+  "explainEn": "Carbohydrates are energy-giving foods that provide quick fuel for the body.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T07:41:21Z"
+ },
+ {
+  "id": "q_953341e292abf9d7",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Seed dispersal in plants like dandelion and cotton is mainly done by:",
+  "qHi": "डेंडेलियन और कपास जैसे पौधों में बीजों का प्रकीर्णन मुख्य रूप से किसके द्वारा होता है?",
+  "optsEn": [
+   "Water",
+   "Wind",
+   "Animals",
+   "Explosion"
+  ],
+  "optsHi": [
+   "पानी",
+   "हवा",
+   "जानवर",
+   "विस्फोट"
+  ],
+  "correct": 1,
+  "explainEn": "Lightweight seeds with hair-like structures are easily carried away by the wind.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T07:41:21Z"
+ },
+ {
+  "id": "q_326badb901173358",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the process of changing water vapor back into liquid water called?",
+  "qHi": "जल वाष्प के वापस तरल पानी में बदलने की प्रक्रिया क्या कहलाती है?",
+  "optsEn": [
+   "Evaporation",
+   "Condensation",
+   "Melting",
+   "Freezing"
+  ],
+  "optsHi": [
+   "वाष्पीकरण",
+   "संघनन",
+   "पिघलना",
+   "जमना"
+  ],
+  "correct": 1,
+  "explainEn": "Condensation occurs when water vapor cools down and turns back into liquid drops.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T07:41:21Z"
+ },
+ {
+  "id": "q_ea88f93b1574eb25",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the name of the layer of gases surrounding the Earth?",
+  "qHi": "पृथ्वी को घेरने वाली गैसों की परत का क्या नाम है?",
+  "optsEn": [
+   "Lithosphere",
+   "Hydrosphere",
+   "Atmosphere",
+   "Biosphere"
+  ],
+  "optsHi": [
+   "स्थलमंडल",
+   "जलमंडल",
+   "वायुमंडल",
+   "जीवमंडल"
+  ],
+  "correct": 2,
+  "explainEn": "The atmosphere is the envelope of gases surrounding the Earth or another planet.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T07:43:38Z"
+ },
+ {
+  "id": "q_e3ad11c385b1ad7c",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of joint is present in our elbow that allows movement in only one direction?",
+  "qHi": "हमारी कोहनी में किस प्रकार का जोड़ होता है जो केवल एक दिशा में गति की अनुमति देता है?",
+  "optsEn": [
+   "Ball and socket joint",
+   "Hinge joint",
+   "Pivot joint",
+   "Fixed joint"
+  ],
+  "optsHi": [
+   "कंदुक खलिका संधि",
+   "कब्जा संधि",
+   "धुराग्र संधि",
+   "अचल संधि"
+  ],
+  "correct": 1,
+  "explainEn": "The elbow and knee have hinge joints, which work like the hinges on a door, allowing movement in one plane.",
+  "sourceHint": "NCERT Class 6 Science Chapter 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T07:43:38Z"
  }
 ]

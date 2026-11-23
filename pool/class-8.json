@@ -29202,5 +29202,341 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-22T19:43:05Z"
+ },
+ {
+  "id": "q_6a59d60256e20786",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which key feature of the Indian Constitution ensures that no one religious community dominates another?",
+  "qHi": "भारतीय संविधान की कौन सी मुख्य विशेषता यह सुनिश्चित करती है कि कोई एक धार्मिक समुदाय किसी अन्य पर हावी न हो?",
+  "optsEn": [
+   "Federalism",
+   "Secularism",
+   "Universal Adult Franchise",
+   "Parliamentary System"
+  ],
+  "optsHi": [
+   "संघवाद",
+   "धर्मनिरपेक्षता",
+   "सार्वभौमिक वयस्क मताधिकार",
+   "संसदीय प्रणाली"
+  ],
+  "correct": 1,
+  "explainEn": "Secularism in the Indian Constitution means that the state does not officially promote any one religion, preventing religious domination.",
+  "sourceHint": "NCERT Class 8 Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T07:41:27Z"
+ },
+ {
+  "id": "q_ae91414557b174b6",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of resource are petroleum and coal, which take millions of years to form?",
+  "qHi": "पेट्रोलियम और कोयला किस प्रकार के संसाधन हैं, जिन्हें बनने में लाखों वर्ष लगते हैं?",
+  "optsEn": [
+   "Renewable resources",
+   "Non-renewable resources",
+   "Biotic resources",
+   "Ubiquitous resources"
+  ],
+  "optsHi": [
+   "नवीकरणीय संसाधन",
+   "अनवीकरणीय संसाधन",
+   "जैविक संसाधन",
+   "सर्वव्यापक संसाधन"
+  ],
+  "correct": 1,
+  "explainEn": "Petroleum and coal are exhaustible fossil fuels formed over millions of years, classifying them as non-renewable resources.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T07:41:27Z"
+ },
+ {
+  "id": "q_1257d57f852a1c6e",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "During the British colonial period in India, what was the main crop grown under the Ryotwari system?",
+  "qHi": "भारत में ब्रिटिश औपनिवेशिक काल के दौरान, रयतवारी व्यवस्था के तहत मुख्य रूप से कौन सी फसल उगाई जाती थी?",
+  "optsEn": [
+   "Tea",
+   "Wheat",
+   "Indigo",
+   "Various regional crops cultivated by ryots"
+  ],
+  "optsHi": [
+   "चाय",
+   "गेहूं",
+   "नील",
+   "किसानों द्वारा उगाई जाने वाली विभिन्न क्षेत्रीय फसलें"
+  ],
+  "correct": 3,
+  "explainEn": "Unlike the Permanent Settlement which dealt with landlords, the Ryotwari system was a direct revenue settlement with the cultivators (ryots) for various regional crops they grew.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T07:41:27Z"
+ },
+ {
+  "id": "q_65114a7ad4158d77",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organelle is known as the powerhouse of the cell because it generates chemical energy?",
+  "qHi": "किस कोशिकांग को कोशिका का पावरहाउस कहा जाता है क्योंकि यह रासायनिक ऊर्जा उत्पन्न करता है?",
+  "optsEn": [
+   "Nucleus",
+   "Ribosome",
+   "Mitochondria",
+   "Chloroplast"
+  ],
+  "optsHi": [
+   "केंद्रक",
+   "राइबोसोम",
+   "माइटोकॉन्ड्रिया",
+   "क्लोरोप्लास्ट"
+  ],
+  "correct": 2,
+  "explainEn": "Mitochondria produce ATP, which provides energy for various cellular activities, earning them the title of powerhouse.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T07:41:27Z"
+ },
+ {
+  "id": "q_cc90cc88b459a653",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which process involves the shifting of agriculture where a plot of land is cleared by felling trees and burning ashes?",
+  "qHi": "किस कृषि पद्धति में पेड़ों को काटकर और राख जलाकर ज़मीन के एक टुकड़े को साफ़ किया जाता है?",
+  "optsEn": [
+   "Commercial grain farming",
+   "Plantation agriculture",
+   "Shifting cultivation",
+   "Mixed farming"
+  ],
+  "optsHi": [
+   "वाणिज्यिक अनाज की खेती",
+   "रोपण कृषि",
+   "स्थानांतरित कृषि",
+   "मिश्रित खेती"
+  ],
+  "correct": 2,
+  "explainEn": "Shifting cultivation (or slash-and-burn agriculture) involves clearing a plot of land by cutting and burning vegetation for temporary crop cultivation.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T07:41:27Z"
+ },
+ {
+  "id": "q_e93fda7504b5694a",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which zone of a candle flame does complete combustion of fuel primarily take place?",
+  "qHi": "मोमबत्ती की ज्वाला के किस क्षेत्र में ईंधन का पूर्ण दहन मुख्य रूप से होता है?",
+  "optsEn": [
+   "Dark zone",
+   "Luminous zone",
+   "Non-luminous zone",
+   "Innermost zone"
+  ],
+  "optsHi": [
+   "अंधेरा क्षेत्र",
+   "दीप्तिमान क्षेत्र",
+   "अदीप्त क्षेत्र",
+   "सबसे आंतरिक क्षेत्र"
+  ],
+  "correct": 2,
+  "explainEn": "The non-luminous zone is the outermost zone of a candle flame where complete combustion occurs due to a plentiful supply of oxygen, making it the hottest part.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T07:43:43Z"
+ },
+ {
+  "id": "q_0c57388f486dcdd5",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which cell organelle is responsible for containing specific pigments that impart different colors to fruits and flowers?",
+  "qHi": "कौन सा कोशिका अंगक विशिष्ट वर्णकों को रखने के लिए जिम्मेदार है जो फलों और फूलों को विभिन्न रंग प्रदान करते हैं?",
+  "optsEn": [
+   "Vacuole",
+   "Plastid",
+   "Ribosome",
+   "Lysosome"
+  ],
+  "optsHi": [
+   "रिक्तिका",
+   "प्लास्टिड",
+   "राइबोसोम",
+   "लाइसोसोम"
+  ],
+  "correct": 1,
+  "explainEn": "Plastids are plant cell organelles that include chromoplasts, which provide color to flowers and fruits, and chloroplasts, which contain chlorophyll.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T07:43:43Z"
+ },
+ {
+  "id": "q_8a7caed2dd185b5e",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What term is used to describe species of plants and animals that are found exclusively in a particular restricted geographical area?",
+  "qHi": "पौधों और जानवरों उन प्रजातियों का वर्णन करने के लिए किस शब्द का उपयोग किया जाता है जो विशेष रूप से एक विशिष्ट सीमित भौगोलिक क्षेत्र में पाए जाते हैं?",
+  "optsEn": [
+   "Migratory species",
+   "Endemic species",
+   "Extinct species",
+   "Exotic species"
+  ],
+  "optsHi": [
+   "प्रवासी प्रजातियां",
+   "स्थानिक प्रजातियां",
+   "विलुप्त प्रजातियां",
+   "विदेशी प्रजातियां"
+  ],
+  "correct": 1,
+  "explainEn": "Endemic species are plants and animals that are unique to a specific geographic zone and found nowhere else on Earth.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T07:43:43Z"
+ },
+ {
+  "id": "q_e958e253f8b9f324",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the British colonial period in India, the Mahalwari system of revenue settlement was primarily implemented in which of the following regions?",
+  "qHi": "भारत में ब्रिटिश औपनिवेशिक काल के दौरान, राजस्व बंदोबस्त की महालवारी प्रणाली मुख्य रूप से निम्नलिखित में से किस क्षेत्र में लागू की गई थी?",
+  "optsEn": [
+   "Bengal Presidency",
+   "North-Western Provinces",
+   "Madras Presidency",
+   "Malabar Coast"
+  ],
+  "optsHi": [
+   "बंगाल प्रेसीडेंसी",
+   "उत्तर-पश्चिमी प्रांत",
+   "मद्रास प्रेसीडेंसी",
+   "मालाबार तट"
+  ],
+  "correct": 1,
+  "explainEn": "The Mahalwari system was devised by Holt Mackenzie and implemented mainly in the North-Western Provinces of the Bengal Presidency (modern-day Uttar Pradesh, parts of Madhya Pradesh, and Punjab).",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T07:43:43Z"
+ },
+ {
+  "id": "q_35ddea51d5b0299d",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which socio-religious reformer founded the Satyashodhak Samaj in 1873 to propagate caste equality in western India?",
+  "qHi": "किस समाज सुधारक ने पश्चिमी भारत में जातिगत समानता का प्रसार करने के लिए 1873 में सत्यशोधक समाज की स्थापना की?",
+  "optsEn": [
+   "Dayanand Saraswati",
+   "Jyotirao Phule",
+   "Swami Vivekananda",
+   "Pandita Ramabai"
+  ],
+  "optsHi": [
+   "दयानंद सरस्वती",
+   "ज्योतिराव फुले",
+   "स्वामी विवेकानंद",
+   "पंडिता रमाबाई"
+  ],
+  "correct": 1,
+  "explainEn": "Jyotirao Phule founded the Satyashodhak Samaj in 1873 to campaign against idolatry and the caste system, advocating for the upliftment of lower castes.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T07:43:43Z"
+ },
+ {
+  "id": "q_6c27bfb105179702",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which type of agricultural farming involves growing crops and rearing livestock on the same piece of land simultaneously?",
+  "qHi": "किस प्रकार की कृषि खेती में एक ही भूमि के टुकड़े पर एक साथ फसल उगाना और पशुपालन करना शामिल है?",
+  "optsEn": [
+   "Shifting cultivation",
+   "Commercial grain farming",
+   "Mixed farming",
+   "Nomadic herding"
+  ],
+  "optsHi": [
+   "स्थानांतरित कृषि",
+   "वाणिज्यिक अनाज की खेती",
+   "मिश्रित कृषि",
+   "खानाबदोश पशुपालन"
+  ],
+  "correct": 2,
+  "explainEn": "In mixed farming, the land is used for growing food and fodder crops and rearing livestock concurrently.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T07:43:43Z"
+ },
+ {
+  "id": "q_9825073a1dd77932",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which article of the Indian Constitution guarantees the Right to Equality before the law and equal protection of the laws?",
+  "qHi": "भारतीय संविधान का कौन सा अनुच्छेद कानून के समक्ष समानता और कानूनों के समान संरक्षण के अधिकार की गारंटी देता है?",
+  "optsEn": [
+   "Article 14",
+   "Article 19",
+   "Article 21",
+   "Article 32"
+  ],
+  "optsHi": [
+   "अनुच्छेद 14",
+   "अनुच्छेद 19",
+   "अनुच्छेद 21",
+   "अनुच्छेद 32"
+  ],
+  "correct": 0,
+  "explainEn": "Article 14 of the Constitution of India states that the State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India.",
+  "sourceHint": "Constitution of India / NCERT Class 8 Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T07:43:43Z"
  }
 ]
