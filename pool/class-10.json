@@ -34494,5 +34494,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-23T23:59:23Z"
+ },
+ {
+  "id": "q_2fd70af23f17d001",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who elects the members of the Lok Sabha?",
+  "qHi": "लोकसभा के सदस्यों का चुनाव कौन करता है?",
+  "optsEn": [
+   "The President of India",
+   "Members of the Rajya Sabha",
+   "The citizens of India",
+   "State Governors"
+  ],
+  "optsHi": [
+   "भारत के राष्ट्रपति",
+   "राज्यसभा के सदस्य",
+   "भारत के नागरिक",
+   "राज्य के राज्यपाल"
+  ],
+  "correct": 2,
+  "explainEn": "Members of the Lok Sabha are directly elected by the eligible citizens of India through general elections.",
+  "sourceHint": "NCERT Class 9 Democratic Politics Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-24T22:27:49Z"
+ },
+ {
+  "id": "q_05872a84d983dd2c",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of chemical reaction involves the exchange of ions between reactants?",
+  "qHi": "किस प्रकार की रासायनिक अभिक्रिया में अभिकारकों के बीच आयनों का आदान-प्रदान होता है?",
+  "optsEn": [
+   "Combination reaction",
+   "Decomposition reaction",
+   "Double displacement reaction",
+   "Displacement reaction"
+  ],
+  "optsHi": [
+   "संयोजन अभिक्रिया",
+   "वियोजन अभिक्रिया",
+   "द्वि-विस्थापन अभिक्रिया",
+   "विस्थापन अभिक्रिया"
+  ],
+  "correct": 2,
+  "explainEn": "In a double displacement reaction, two different atoms or groups of atoms are exchanged between two reactants.",
+  "sourceHint": "NCERT Class 10 Science Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-24T22:27:49Z"
+ },
+ {
+  "id": "q_dc4efa943b33e845",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary source of energy for the flow of energy in an ecosystem?",
+  "qHi": "पारिस्थितिकी तंत्र में ऊर्जा के प्रवाह के लिए ऊर्जा का मुख्य स्रोत क्या है?",
+  "optsEn": [
+   "Green plants",
+   "Sunlight",
+   "Wind",
+   "Water"
+  ],
+  "optsHi": [
+   "हरे पौधे",
+   "सूर्य का प्रकाश",
+   "वायु",
+   "जल"
+  ],
+  "correct": 1,
+  "explainEn": "Sunlight is the primary source of energy for almost all ecosystems on Earth, captured by producers during photosynthesis.",
+  "sourceHint": "NCERT Class 10 Science Chapter 15",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-24T22:27:49Z"
+ },
+ {
+  "id": "q_d608012fd9406d12",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following metals does not react with oxygen even at high temperatures?",
+  "qHi": "निम्नलिखित में से कौन सी धातु उच्च तापमान पर भी ऑक्सीजन के साथ अभिक्रिया नहीं करती है?",
+  "optsEn": [
+   "Iron",
+   "Copper",
+   "Gold",
+   "Zinc"
+  ],
+  "optsHi": [
+   "लोहा",
+   "तांबा",
+   "सोना",
+   "जस्ता"
+  ],
+  "correct": 2,
+  "explainEn": "Gold and platinum are noble metals that do not react with oxygen even at high temperatures because they are very unreactive.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-24T22:30:23Z"
+ },
+ {
+  "id": "q_ea1392da305e649f",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which part of India is the Tehri Dam located?",
+  "qHi": "टिहरी बांध भारत के किस राज्य में स्थित है?",
+  "optsEn": [
+   "Uttarakhand",
+   "Himachal Pradesh",
+   "Punjab",
+   "Uttar Pradesh"
+  ],
+  "optsHi": [
+   "उत्तराखंड",
+   "हिमाचल प्रदेश",
+   "पंजाब",
+   "उत्तर प्रदेश"
+  ],
+  "correct": 0,
+  "explainEn": "The Tehri Dam is built on the Bhagirathi River in the state of Uttarakhand.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-24T22:30:23Z"
  }
 ]

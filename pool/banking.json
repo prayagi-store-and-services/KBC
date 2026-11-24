@@ -43958,5 +43958,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-24T09:55:58Z"
+ },
+ {
+  "id": "q_48b1db461218cfc2",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'C' stand for in the digital banking term 'KYC'?",
+  "qHi": "डिजिटल बैंकिंग शब्द 'KYC' में 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Customer",
+   "Credit",
+   "Currency",
+   "Capital"
+  ],
+  "optsHi": [
+   "कस्टमर",
+   "क्रेडिट",
+   "करेंसी",
+   "कैपिटल"
+  ],
+  "correct": 0,
+  "explainEn": "KYC stands for Know Your Customer, which is a mandatory process by financial institutions to verify the identity of their clients.",
+  "sourceHint": "RBI Master Direction on KYC",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-24T22:28:06Z"
  }
 ]

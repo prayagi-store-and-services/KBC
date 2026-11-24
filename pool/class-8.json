@@ -29650,5 +29650,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-23T23:59:17Z"
+ },
+ {
+  "id": "q_0b7fca4664fcc698",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the term used for the process of settling of solid particles at the bottom of a liquid?",
+  "qHi": "किसी तरल के नीचे ठोस कणों के बैठने की प्रक्रिया के लिए किस शब्द का उपयोग किया जाता है?",
+  "optsEn": [
+   "Evaporation",
+   "Decantation",
+   "Sedimentation",
+   "Filtration"
+  ],
+  "optsHi": [
+   "वाष्पीकरण",
+   "निस्तारण",
+   "अवसादन",
+   "निस्पंदन"
+  ],
+  "correct": 2,
+  "explainEn": "When the heavier component in a mixture settles after water is added, the process is called sedimentation.",
+  "sourceHint": "NCERT Class 6 Science Chapter 5 (Revised in Class 8 context)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-24T22:27:45Z"
+ },
+ {
+  "id": "q_e5b2aa8c60161307",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which agricultural system involves growing a single crop on a large area?",
+  "qHi": "किस कृषि प्रणाली में एक बड़े क्षेत्र में एक ही फसल उगाना शामिल है?",
+  "optsEn": [
+   "Shifting cultivation",
+   "Plantation agriculture",
+   "Organic farming",
+   "Subsistence farming"
+  ],
+  "optsHi": [
+   "स्थानांतरित कृषि",
+   "रोपण कृषि",
+   "जैविक खेती",
+   "निर्वाह कृषि"
+  ],
+  "correct": 1,
+  "explainEn": "Plantation agriculture is a type of commercial farming where a single crop of tea, coffee, rubber, or sugarcane is grown.",
+  "sourceHint": "NCERT Class 8 Geography Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-24T22:27:45Z"
  }
 ]

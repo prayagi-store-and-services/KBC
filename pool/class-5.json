@@ -34522,5 +34522,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-24T09:56:06Z"
+ },
+ {
+  "id": "q_b4953bcab6b9e5fb",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which direction does the magnetic needle of a freely suspended compass point towards?",
+  "qHi": "स्वतंत्र रूप से लटके हुए कंपास की चुंबकीय सुई किस दिशा की ओर इशारा करती है?",
+  "optsEn": [
+   "East and West",
+   "North and South",
+   "Up and Down",
+   "Left and Right"
+  ],
+  "optsHi": [
+   "पूर्व और पश्चिम",
+   "उत्तर और दक्षिण",
+   "ऊपर और नीचे",
+   "बाएं और दाएं"
+  ],
+  "correct": 1,
+  "explainEn": "A magnetic compass needle always aligns with the Earth's magnetic north-south poles.",
+  "sourceHint": "NCERT Science Curriculum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-24T22:27:41Z"
+ },
+ {
+  "id": "q_e5378ced6951a25e",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the uppermost layer of the Earth called?",
+  "qHi": "पृथ्वी की सबसे ऊपरी परत को क्या कहा जाता है?",
+  "optsEn": [
+   "Crust",
+   "Mantle",
+   "Core",
+   "Magma"
+  ],
+  "optsHi": [
+   "पर्पटी (क्रस्ट)",
+   "मैंटल",
+   "क्रोड (कोर)",
+   "मैग्मा"
+  ],
+  "correct": 0,
+  "explainEn": "The crust is the solid, outermost layer of the Earth.",
+  "sourceHint": "NCERT Geography Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-24T22:27:41Z"
+ },
+ {
+  "id": "q_4e9dcb6ac9d1c083",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these plant parts is primarily responsible for absorbing water and minerals from the soil?",
+  "qHi": "इनमें से कौन सा पादप भाग मुख्य रूप से मिट्टी से पानी और खनिजों को अवशोषित करने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Leaf",
+   "Root",
+   "Flower",
+   "Stem"
+  ],
+  "optsHi": [
+   "पत्ती",
+   "जड़",
+   "फूल",
+   "तना"
+  ],
+  "correct": 1,
+  "explainEn": "Roots anchor the plant and absorb water and minerals from the soil.",
+  "sourceHint": "NCERT Class 6 Science Chapter 7 (Getting to Know Plants)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-24T22:29:14Z"
+ },
+ {
+  "id": "q_5675162212eb077f",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian harvest festival is celebrated in Kerala with boat races?",
+  "qHi": "केरल में कौन सा पारंपरिक भारतीय फसल उत्सव नाव दौड़ के साथ मनाया जाता है?",
+  "optsEn": [
+   "Bihu",
+   "Pongal",
+   "Onam",
+   "Baisakhi"
+  ],
+  "optsHi": [
+   "बिहू",
+   "पोंगल",
+   "ओणम",
+   "बैसाखी"
+  ],
+  "correct": 2,
+  "explainEn": "Onam is the harvest festival of Kerala, famous for Vallam Kali (boat races).",
+  "sourceHint": "NCERT Class 6 Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-24T22:29:14Z"
+ },
+ {
+  "id": "q_b0a50e72de78b88c",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the standard unit used to measure temperature in daily weather forecasts in India?",
+  "qHi": "भारत में दैनिक मौसम पूर्वानुमान में तापमान मापने के लिए किस मानक इकाई का उपयोग किया जाता है?",
+  "optsEn": [
+   "Degree Celsius",
+   "Kilogram",
+   "Meter",
+   "Liter"
+  ],
+  "optsHi": [
+   "डिग्री सेल्सियस",
+   "किलोग्राम",
+   "मीटर",
+   "लीटर"
+  ],
+  "correct": 0,
+  "explainEn": "Temperature is measured in degrees Celsius in standard meteorological reports in India.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-24T22:29:14Z"
+ },
+ {
+  "id": "q_bd20af20ddb4d040",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which major mountain range borders India to the north?",
+  "qHi": "कौन सी प्रमुख पर्वत श्रृंखला भारत की उत्तर सीमा बनाती है?",
+  "optsEn": [
+   "The Alps",
+   "The Andes",
+   "The Himalayas",
+   "The Rocky Mountains"
+  ],
+  "optsHi": [
+   "आल्प्स पर्वत",
+   "एंडीज पर्वत",
+   "हिमालय पर्वत",
+   "रॉकी पर्वत"
+  ],
+  "correct": 2,
+  "explainEn": "The Himalayas form the northern mountain barrier of India.",
+  "sourceHint": "NCERT Class 6 Geography Chapter 7 (Our Country - India)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-24T22:29:14Z"
  }
 ]

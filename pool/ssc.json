@@ -25114,5 +25114,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-23T23:57:53Z"
+ },
+ {
+  "id": "q_10c719fd5ffe4b7d",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following layers of the Earth's atmosphere is closest to the Earth's surface?",
+  "qHi": "पृथ्वी के वायुमंडल की निम्नलिखित में से कौन सी परत पृथ्वी की सतह के सबसे निकट है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 0,
+  "explainEn": "The troposphere is the lowest layer of Earth's atmosphere and contains most of the weather and clouds.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-24T22:28:01Z"
  }
 ]
