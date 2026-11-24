@@ -43706,5 +43706,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-23T07:42:23Z"
+ },
+ {
+  "id": "q_45692a4cbfb090e9",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under which ministry does the Department of Financial Services operate in the Government of India?",
+  "qHi": "भारत सरकार में वित्तीय सेवा विभाग किस मंत्रालय के अंतर्गत कार्य करता है?",
+  "optsEn": [
+   "Ministry of Commerce and Industry",
+   "Ministry of Corporate Affairs",
+   "Ministry of Finance",
+   "Ministry of Home Affairs"
+  ],
+  "optsHi": [
+   "वाणिज्य और उद्योग मंत्रालय",
+   "कॉर्पोरेट मामलों का मंत्रालय",
+   "वित्त मंत्रालय",
+   "गृह मंत्रालय"
+  ],
+  "correct": 2,
+  "explainEn": "The Department of Financial Services is one of the departments under the Ministry of Finance, Government of India.",
+  "sourceHint": "Government of India allocation of business rules",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T23:59:03Z"
+ },
+ {
+  "id": "q_1960fc5475ba8d5b",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'P' stand for in the widely used banking acronym 'IMPS'?",
+  "qHi": "व्यापक रूप से उपयोग किए जाने वाले बैंकिंग संक्षिप्त नाम 'IMPS' में अक्षर 'P' का क्या अर्थ है?",
+  "optsEn": [
+   "Payment",
+   "Public",
+   "Primary",
+   "Postal"
+  ],
+  "optsHi": [
+   "भुगतान",
+   "सार्वजनिक",
+   "प्राथमिक",
+   "डाक"
+  ],
+  "correct": 0,
+  "explainEn": "IMPS stands for Immediate Payment Service, an instant interbank electronic funds transfer system in India.",
+  "sourceHint": "National Payments Corporation of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T23:59:03Z"
+ },
+ {
+  "id": "q_5acdc438b3e2fa5f",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which financial institution in India is the primary apex organization for financing micro, small, and medium enterprises?",
+  "qHi": "भारत में कौन सा वित्तीय संस्थान सूक्ष्म, लघु और मध्यम उद्यमों को वित्त पोषित करने वाला प्रमुख शीर्ष संगठन है?",
+  "optsEn": [
+   "SIDBI",
+   "NABARD",
+   "EXIM Bank",
+   "NHB"
+  ],
+  "optsHi": [
+   "सिडबी",
+   "नाबार्ड",
+   "एक्ज़िम बैंक",
+   "राष्ट्रीय आवास बैंक"
+  ],
+  "correct": 0,
+  "explainEn": "Small Industries Development Bank of India (SIDBI) is the principal financial institution for the promotion and financing of MSMEs.",
+  "sourceHint": "SIDBI Act and Annual Reports",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T23:59:03Z"
+ },
+ {
+  "id": "q_65be2eef3c9f2fff",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the alphabet 'L' represent in the economic term 'SLR' used in Indian banking?",
+  "qHi": "भारतीय बैंकिंग में प्रयुक्त आर्थिक शब्द 'SLR' में वर्ण 'L' क्या दर्शाता है?",
+  "optsEn": [
+   "Liability",
+   "Liquidity",
+   "Lending",
+   "Leverage"
+  ],
+  "optsHi": [
+   "देयता",
+   "तरलता",
+   "ऋण देना",
+   "उत्प्रेरक"
+  ],
+  "correct": 1,
+  "explainEn": "SLR stands for Statutory Liquidity Ratio, which banks must maintain in safe assets like government securities.",
+  "sourceHint": "Banking Regulation Act, 1949",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T23:59:03Z"
  }
 ]

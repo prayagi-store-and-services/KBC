@@ -40094,5 +40094,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-23T07:43:56Z"
+ },
+ {
+  "id": "q_f7611eb5881bc468",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of linear programming in operations research?",
+  "qHi": "संचालन अनुसंधान में रैखिक प्रोग्रामिंग का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To maximize or minimize a linear objective function subject to constraints",
+   "To solve differential equations of higher orders",
+   "To compute the exact roots of polynomial equations",
+   "To analyze probability distributions of random variables"
+  ],
+  "optsHi": [
+   "बाधाओं के अधीन एक रैखिक उद्देश्य फलन को अधिकतम या न्यूनतम करना",
+   "उच्च क्रम के अवकल समीकरणों को हल करना",
+   "बहुपद समीकरणों के सटीक मूलों की गणना करना",
+   "यादृच्छिक चर के प्रायिकता वितरण का विश्लेषण करना"
+  ],
+  "correct": 0,
+  "explainEn": "Linear programming deals with the optimization of a linear objective function subject to a set of linear inequalities called constraints.",
+  "sourceHint": "NCERT Class 12 Mathematics, Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T23:57:00Z"
+ },
+ {
+  "id": "q_66128a9906989dd0",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the electrolysis of aqueous sodium chloride using inert electrodes, which gas is liberated at the cathode?",
+  "qHi": "अक्रिय इलेक्ट्रोड का उपयोग करके जलीय सोडियम क्लोराइड के विद्युत अपघटन के दौरान, कैथोड पर कौन सी गैस मुक्त होती है?",
+  "optsEn": [
+   "Chlorine",
+   "Oxygen",
+   "Hydrogen",
+   "Sodium vapor"
+  ],
+  "optsHi": [
+   "क्लोरीन",
+   "ऑक्सीजन",
+   "हाइड्रोजन",
+   "सोडियम वाष्प"
+  ],
+  "correct": 2,
+  "explainEn": "At the cathode, reduction of water occurs more readily than the reduction of sodium ions due to higher standard reduction potential, liberating hydrogen gas.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 3: Electrochemistry",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T23:59:30Z"
+ },
+ {
+  "id": "q_44c008c91391fe25",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary structural difference between Amylose and Amylopectin, the two components of starch?",
+  "qHi": "स्टार्च के दो घटकों, एमाइलोस और एमाइलोपेक्टिन के बीच मुख्य संरचनात्मक अंतर क्या है?",
+  "optsEn": [
+   "Amylose is branched with alpha-1,6 linkages, while amylopectin is unbranched.",
+   "Amylose is a linear polymer with alpha-1,4 glycosidic linkages, while amylopectin has branching via alpha-1,6 linkages.",
+   "Amylose contains beta-glycosidic linkages, whereas amylopectin contains alpha-glycosidic linkages.",
+   "Amylose is made of D-galactose units, while amylopectin is made of D-glucose units."
+  ],
+  "optsHi": [
+   "एमाइलोस अल्फा-1,6 बंधों के साथ शाखित होता है, जबकि एमाइलोपेक्टिन अशाखित होता है।",
+   "एमाइलोस अल्फा-1,4 ग्लाइकोसिडिक बंधों के साथ एक रैखिक बहुलक है, जबकि एमाइलोपेक्टिन में अल्फा-1,6 बंधों के माध्यम से शाखण होता है।",
+   "एमाइलोस में बीटा-ग्लाइकोसिडिक बंध होते हैं, जबकि एमाइलोपेक्टिन में अल्फा-ग्लाइकोसिडिक बंध होते हैं।",
+   "एमाइलोस डी-गैलेक्टोज इकाइयों से बना है, जबकि एमाइलोपेक्टिन डी-ग्लोकोज इकाइयों से बना है।"
+  ],
+  "correct": 1,
+  "explainEn": "Amylose is a long unbranched chain of D-glucose units joined by C1-C4 glycosidic linkage. Amylopectin is branched-chain polymer with alpha-1,4-glycosidic linkage for the chain and alpha-1,6-glycosidic linkage for the branching points.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 14: Biomolecules",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T23:59:30Z"
+ },
+ {
+  "id": "q_4ca539f839ba5b3d",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which British official introduced the 'Permanent Settlement' of land revenue in Bengal in the year 1793?",
+  "qHi": "किस ब्रिटिश अधिकारी ने वर्ष 1793 में बंगाल में भू-राजस्व की 'स्थाई बंदोबस्त' (Permanent Settlement) प्रणाली शुरू की थी?",
+  "optsEn": [
+   "Lord Cornwallis",
+   "Lord Wellesley",
+   "Warren Hastings",
+   "Sir John Shore"
+  ],
+  "optsHi": [
+   "लॉर्ड कॉर्नवॉलिस",
+   "लॉर्ड वेलेडजी",
+   "वारेन हेस्टिंग्स",
+   "सर जॉन शोर"
+  ],
+  "correct": 0,
+  "explainEn": "Lord Cornwallis introduced the Permanent Settlement in Bengal in 1793, fixing the land revenue demand permanently through the Sunset Law.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part III, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T23:59:30Z"
+ },
+ {
+  "id": "q_2f2d9afab14ffd21",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In macroeconomics, if the marginal propensity to consume (MPC) is 0.8, what is the value of the investment multiplier?",
+  "qHi": "समष्टि अर्थशास्त्र (Macroeconomics) में, यदि सीमांत उपभोग प्रवृत्ति (MPC) 0.8 है, तो निवेश गुणक (Investment Multiplier) का मान क्या होगा?",
+  "optsEn": [
+   "1.25",
+   "4.0",
+   "5.0",
+   "8.0"
+  ],
+  "optsHi": [
+   "1.25",
+   "4.0",
+   "5.0",
+   "8.0"
+  ],
+  "correct": 2,
+  "explainEn": "The investment multiplier (k) is calculated as 1 / (1 - MPC). With MPC = 0.8, k = 1 / (1 - 0.8) = 1 / 0.2 = 5.",
+  "sourceHint": "NCERT Class 12 Introductory Macroeconomics, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T23:59:30Z"
+ },
+ {
+  "id": "q_7ea84adda636aa8a",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which type of ecological pyramid can be inverted in certain ecosystems, such as a single tree supporting numerous herbivores?",
+  "qHi": "पारिस्थितिकी तंत्र के कुछ विशिष्ट उदाहरणों में, जैसे कि एक अकेला वृक्ष जिस पर अनेक शाकाहारी निर्भर होते हैं, किस प्रकार का पारिस्थितिक पिरामिड उल्टा हो सकता है?",
+  "optsEn": [
+   "Pyramid of energy",
+   "Pyramid of biomass in an aquatic ecosystem",
+   "Pyramid of numbers in a tree ecosystem",
+   "Pyramid of net production"
+  ],
+  "optsHi": [
+   "ऊर्जा का पिरामिड",
+   "जलीय पारिस्थितिकी तंत्र में बायोमास का पिरामिड",
+   "वृक्ष पारिस्थितिकी तंत्र में संख्या का पिरामिड",
+   "शुद्ध उत्पादन का पिरामिड"
+  ],
+  "correct": 2,
+  "explainEn": "In a tree ecosystem, the pyramid of numbers is inverted because a single producer (tree) supports a large number of herbivores (birds, insects), which in turn support fewer parasites and hyperparasites.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 14: Ecosystem",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T23:59:30Z"
  }
 ]

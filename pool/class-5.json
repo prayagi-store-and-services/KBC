@@ -34214,5 +34214,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-23T07:43:38Z"
+ },
+ {
+  "id": "q_9f5d32726c8a4010",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who is the head of the Indian government holding executive power?",
+  "qHi": "कार्यकारी शक्ति रखने वाले भारतीय सरकार के प्रमुख कौन हैं?",
+  "optsEn": [
+   "Prime Minister",
+   "Chief Justice",
+   "Governor",
+   "Mayor"
+  ],
+  "optsHi": [
+   "प्रधान मंत्री",
+   "मुख्य न्यायाधीश",
+   "राज्यपाल",
+   "महापौर"
+  ],
+  "correct": 0,
+  "explainEn": "The Prime Minister is the head of the government in India.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T23:55:04Z"
+ },
+ {
+  "id": "q_a6feb9743dac1136",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which season in India is usually associated with the months of December and January?",
+  "qHi": "भारत में कौन सा मौसम आमतौर पर दिसंबर और जनवरी के महीनों से जुड़ा है?",
+  "optsEn": [
+   "Summer",
+   "Winter",
+   "Monsoon",
+   "Spring"
+  ],
+  "optsHi": [
+   "गर्मी",
+   "सर्दी",
+   "मानसून",
+   "बसंत"
+  ],
+  "correct": 1,
+  "explainEn": "Winter season in India generally occurs during the months of December and January.",
+  "sourceHint": "NCERT Class 5 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T23:55:04Z"
+ },
+ {
+  "id": "q_d15ab3f761cd0dfc",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these animals is primarily nocturnal, meaning it is active at night?",
+  "qHi": "इनमें से कौन सा जानवर मुख्य रूप से निशाचर है, जिसका अर्थ है कि यह रात में सक्रिय होता है?",
+  "optsEn": [
+   "Owl",
+   "Cow",
+   "Elephant",
+   "Crow"
+  ],
+  "optsHi": [
+   "उल्लू",
+   "गाय",
+   "हाथी",
+   "कौवा"
+  ],
+  "correct": 0,
+  "explainEn": "Owls are nocturnal birds that hunt and move around mainly at night.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T23:55:04Z"
+ },
+ {
+  "id": "q_bd47917f374a943d",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary gas used by green plants to make their food during photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण के दौरान हरे पौधों द्वारा अपना भोजन बनाने के लिए उपयोग की जाने वाली मुख्य गैस कौन सी है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Plants take in carbon dioxide from the air to prepare food using sunlight.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T23:55:04Z"
+ },
+ {
+  "id": "q_b685417897ad46e7",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Seed dispersal in many plants is naturally aided by which of the following?",
+  "qHi": "कई पौधों में बीज प्रकीर्णन में प्राकृतिक रूप से इनमें से किससे सहायता मिलती है?",
+  "optsEn": [
+   "Wind",
+   "Computers",
+   "Plastic bags",
+   "Glass bottles"
+  ],
+  "optsHi": [
+   "हवा",
+   "कंप्यूटर",
+   "प्लास्टिक की थैली",
+   "कांच की बोतलें"
+  ],
+  "correct": 0,
+  "explainEn": "Wind, water, and animals are natural agents that help scatter seeds to new locations.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T23:55:04Z"
+ },
+ {
+  "id": "q_b6519ef6515ae4de",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these seeds is known for dispersing mainly by water?",
+  "qHi": "इनमें से कौन सा बीज मुख्य रूप से पानी द्वारा प्रकीर्णन (फैलाव) के लिए जाना जाता है?",
+  "optsEn": [
+   "Maple seed",
+   "Coconut seed",
+   "Xanthium seed",
+   "Balsam seed"
+  ],
+  "optsHi": [
+   "मेपल का बीज",
+   "नारियल का बीज",
+   "जैंन्थियम का बीज",
+   "बालसम का बीज"
+  ],
+  "correct": 1,
+  "explainEn": "Coconuts have a fibrous outer covering that helps them float and travel long distances across water.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T23:59:13Z"
+ },
+ {
+  "id": "q_1df38136ee11d94c",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian stepwell is designed to store rainwater and was historically used as a water source during dry months?",
+  "qHi": "इनमें से कौन सी पारंपरिक भारतीय बावड़ी (स्टेपवेल) वर्षा जल को संग्रहित करने के लिए डिज़ाइन की गई थी और ऐतिहासिक रूप से सूखे महीनों के दौरान पानी के स्रोत के रूप में उपयोग की जाती थी?",
+  "optsEn": [
+   "Baoli",
+   "Igloo",
+   "Tent",
+   "Stilt house"
+  ],
+  "optsHi": [
+   "बावड़ी",
+   "इग्लू",
+   "तंबू",
+   "बांस का घर"
+  ],
+  "correct": 0,
+  "explainEn": "Stepwells, locally known as baolis, were constructed in arid regions of India to collect and store rainwater.",
+  "sourceHint": "NCERT Class 5 EVS Chapter - A Shelter so High / When the Earth Shook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T23:59:13Z"
+ },
+ {
+  "id": "q_1da7920944fbc0fd",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which part of a plant typically grows underground to absorb water and minerals from the soil?",
+  "qHi": "पौधे का कौन सा भाग आमतौर पर मिट्टी से पानी और खनिजों को अवशोषित करने के लिए जमीन के नीचे बढ़ता है?",
+  "optsEn": [
+   "Root system",
+   "Shoot system",
+   "Leaf canopy",
+   "Flower"
+  ],
+  "optsHi": [
+   "जड़ प्रणाली",
+   "तना प्रणाली",
+   "पत्तियों का आवरण",
+   "फूल"
+  ],
+  "correct": 0,
+  "explainEn": "Roots grow underground to anchor the plant and absorb essential water and nutrients from the soil.",
+  "sourceHint": "NCERT Class 3-5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T23:59:13Z"
+ },
+ {
+  "id": "q_0a3555dc45def648",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which direction does the needle of a magnetic compass always point when it settles?",
+  "qHi": "चुंबकीय कम्पास की सुई स्थिर होने पर हमेशा किस दिशा की ओर संकेत करती है?",
+  "optsEn": [
+   "East and West",
+   "North and South",
+   "Up and Down",
+   "Left and Right"
+  ],
+  "optsHi": [
+   "पूर्व और पश्चिम",
+   "उत्तर और दक्षिण",
+   "ऊपर और नीचे",
+   "बाएं और दाएं"
+  ],
+  "correct": 1,
+  "explainEn": "A magnetic compass aligns with Earth's magnetic field, pointing towards the magnetic North and South poles.",
+  "sourceHint": "NCERT Class 6 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T23:59:13Z"
  }
 ]

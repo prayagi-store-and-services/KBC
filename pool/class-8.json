@@ -29538,5 +29538,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-23T07:43:43Z"
+ },
+ {
+  "id": "q_6ce51d29c0965791",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which micro-organism is used in the baking industry to make bread rise?",
+  "qHi": "ब्रेड को फुलाने के लिए बेकिंग उद्योग में किस सूक्ष्म जीव का उपयोग किया जाता है?",
+  "optsEn": [
+   "Yeast",
+   "Lactobacillus",
+   "Amoeba",
+   "Penicillium"
+  ],
+  "optsHi": [
+   "खमीर (यीस्ट)",
+   "लैक्टोबैसेलस",
+   "अमीबा",
+   "पेनिसिलियम"
+  ],
+  "correct": 0,
+  "explainEn": "Yeast reproduces rapidly and produces carbon dioxide during respiration, which helps bread rise.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T23:55:28Z"
+ },
+ {
+  "id": "q_091cb2e8f2021c09",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "During which process do plants release water vapor into the atmosphere through tiny pores on their leaves?",
+  "qHi": "किस प्रक्रिया के दौरान पौधे अपनी पत्तियों के छोटे छिद्रों के माध्यम से जलवाष्प को वायुमंडल में छोड़ते हैं?",
+  "optsEn": [
+   "Photosynthesis",
+   "Transpiration",
+   "Respiration",
+   "Germination"
+  ],
+  "optsHi": [
+   "प्रकाश संश्लेषण",
+   "वाष्पोत्सर्जन",
+   "श्वसन",
+   "अंकुरण"
+  ],
+  "correct": 1,
+  "explainEn": "Transpiration is the process where plants release water vapor through stomata on their leaves.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T23:59:17Z"
+ },
+ {
+  "id": "q_8e3871597dad6d21",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which battle, fought in 1757, marked a major turning point in British history in India and was led by Robert Clive?",
+  "qHi": "1757 में लड़ी गई किस लड़ाई ने भारत में ब्रिटिश इतिहास में एक बड़ा मोड़ चिह्नित किया और जिसका नेतृत्व रॉबर्ट क्लाइव ने किया था?",
+  "optsEn": [
+   "Battle of Buxar",
+   "Battle of Plassey",
+   "Third Battle of Panipat",
+   "Battle of Wandiwash"
+  ],
+  "optsHi": [
+   "बक्सर का युद्ध",
+   "प्लासी का युद्ध",
+   "पानीपत का तीसरा युद्ध",
+   "वांडीवाश का युद्ध"
+  ],
+  "correct": 1,
+  "explainEn": "The Battle of Plassey was fought in 1757 between the British East India Company and the Nawab of Bengal.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T23:59:17Z"
+ },
+ {
+  "id": "q_208dfdb6c54f312d",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What term is used to describe the large-scale planting of trees to restore or create a forest?",
+  "qHi": "वन को पुनर्स्थापित करने या बनाने के लिए बड़े पैमाने पर पेड़ लगाने के लिए किस शब्द का उपयोग किया जाता है?",
+  "optsEn": [
+   "Deforestation",
+   "Afforestation",
+   "Desertification",
+   "Water harvesting"
+  ],
+  "optsHi": [
+   "वनों की कटाई",
+   "वनरोपण",
+   "मरुस्थलीकरण",
+   "जल संचयन"
+  ],
+  "correct": 1,
+  "explainEn": "Afforestation is the establishment of a forest in an area where there was no previous tree cover.",
+  "sourceHint": "NCERT Class 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-23T23:59:17Z"
  }
 ]
