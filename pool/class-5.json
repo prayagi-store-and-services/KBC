@@ -34466,5 +34466,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-23T23:59:13Z"
+ },
+ {
+  "id": "q_31e2ea422b9e9af5",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which part of the plant is responsible for taking in water and minerals from the soil?",
+  "qHi": "पौधे का कौन सा भाग मिट्टी से पानी और खनिज सोखने का काम करता है?",
+  "optsEn": [
+   "Leaf",
+   "Flower",
+   "Root",
+   "Stem"
+  ],
+  "optsHi": [
+   "पत्ती",
+   "फूल",
+   "जड़",
+   "तना"
+  ],
+  "correct": 2,
+  "explainEn": "Roots grow underground and absorb water and minerals required by the plant.",
+  "sourceHint": "NCERT Class 6 Science (Getting to Know Plants)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-24T09:56:06Z"
+ },
+ {
+  "id": "q_5df6a7d33ab0a8db",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of these is an example of an aquatic animal?",
+  "qHi": "इनमें से कौन सा जलीय जंतु का एक उदाहरण है?",
+  "optsEn": [
+   "Dog",
+   "Fish",
+   "Cow",
+   "Crow"
+  ],
+  "optsHi": [
+   "कुत्ता",
+   "मछली",
+   "गाय",
+   "कौआ"
+  ],
+  "correct": 1,
+  "explainEn": "Fish live in water and breathe through gills, making them aquatic animals.",
+  "sourceHint": "NCERT Class 3 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-24T09:56:06Z"
  }
 ]

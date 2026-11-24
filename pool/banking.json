@@ -43818,5 +43818,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-23T23:59:03Z"
+ },
+ {
+  "id": "q_662ab46f3da9b582",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'I' stand for in the abbreviation 'IMPS' used in Indian banking?",
+  "qHi": "भारतीय बैंकिंग में प्रयुक्त संक्षिप्त नाम 'IMPS' में अक्षर 'I' का क्या अर्थ है?",
+  "optsEn": [
+   "Immediate",
+   "Interbank",
+   "Indian",
+   "International"
+  ],
+  "optsHi": [
+   "Immediate",
+   "Interbank",
+   "Indian",
+   "International"
+  ],
+  "correct": 0,
+  "explainEn": "IMPS stands for Immediate Payment Service, an instant interbank electronic funds transfer system in India.",
+  "sourceHint": "NPCI official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-24T09:55:58Z"
+ },
+ {
+  "id": "q_9a1eb6586e649dcb",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum deposit amount insured by the DICGC per depositor per bank in India?",
+  "qHi": "भारत में DICGC द्वारा प्रति depositor प्रति bank अधिकतम कितनी जमा राशि का बीमा किया जाता है?",
+  "optsEn": [
+   "Rupees One Lakh",
+   "Rupees Two Lakhs",
+   "Rupees Five Lakhs",
+   "Rupees Ten Lakhs"
+  ],
+  "optsHi": [
+   "एक लाख रुपये",
+   "दो लाख रुपये",
+   "पाँच लाख रुपये",
+   "दस लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "Deposit Insurance and Credit Guarantee Corporation (DICGC) insures bank deposits up to Rupees Five Lakhs per depositor per bank.",
+  "sourceHint": "DICGC official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-24T09:55:58Z"
+ },
+ {
+  "id": "q_160348c75f122772",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following terms is related to the stock market in India?",
+  "qHi": "निम्नलिखित में से कौन सा शब्द भारत में शेयर बाजार से संबंधित है?",
+  "optsEn": [
+   "CRR",
+   "Repo Rate",
+   "Sensex",
+   "NEFT"
+  ],
+  "optsHi": [
+   "सीआरआर (CRR)",
+   "रेपो रेट (Repo Rate)",
+   "सेंसेक्स (Sensex)",
+   "एनईएफटी (NEFT)"
+  ],
+  "correct": 2,
+  "explainEn": "Sensex is the benchmark index of the Bombay Stock Exchange (BSE), representing the Indian stock market.",
+  "sourceHint": "BSE India official portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-24T09:55:58Z"
+ },
+ {
+  "id": "q_cc1b7b11d3c78ad6",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'C' stand for in the financial acronym 'KYC'?",
+  "qHi": "वित्तीय संक्षिप्त नाम 'KYC' में 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Capital",
+   "Customer",
+   "Credit",
+   "Currency"
+  ],
+  "optsHi": [
+   "Capital",
+   "Customer",
+   "Credit",
+   "Currency"
+  ],
+  "correct": 1,
+  "explainEn": "KYC stands for Know Your Customer, a mandatory process by financial institutions to verify the identity of their clients.",
+  "sourceHint": "RBI Master Directions on KYC",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-24T09:55:58Z"
+ },
+ {
+  "id": "q_fbfd6e939696e0cb",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a development bank established to promote rural and agricultural development in India?",
+  "qHi": "भारत में ग्रामीण और कृषि विकास को बढ़ावा देने के लिए स्थापित विकास बैंक निम्नलिखित में से कौन सा है?",
+  "optsEn": [
+   "NABARD",
+   "SIDBI",
+   "EXIM Bank",
+   "SEBI"
+  ],
+  "optsHi": [
+   "नाबार्ड (NABARD)",
+   "सिडबी (SIDBI)",
+   "एजिम बैंक (EXIM Bank)",
+   "सेबी (SEBI)"
+  ],
+  "correct": 0,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) is an apex regulatory body for overall regulation of regional rural banks and apex cooperative banks in India.",
+  "sourceHint": "NABARD official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-24T09:55:58Z"
  }
 ]
