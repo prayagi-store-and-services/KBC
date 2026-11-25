@@ -43986,5 +43986,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-24T22:28:06Z"
+ },
+ {
+  "id": "q_500c2bc336a56ac2",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In the context of Indian banking, what is the full form of ATM?",
+  "qHi": "भारतीय बैंकिंग के संदर्भ में, एटीएम (ATM) का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Automated Teller Machine",
+   "Any Time Money",
+   "Automated Transaction Method",
+   "Account Transfer Machine"
+  ],
+  "optsHi": [
+   "ऑटोमेटेड टेलर मशीन",
+   "एनी टाइम मनी",
+   "ऑटोमेटेड ट्रांजैक्शन मेथड",
+   "अकाउंट ट्रांसफर मशीन"
+  ],
+  "correct": 0,
+  "explainEn": "ATM stands for Automated Teller Machine, an electronic telecommunication device that enables customers to perform financial transactions.",
+  "sourceHint": "Banking terminology standard textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T08:38:53Z"
+ },
+ {
+  "id": "q_0b3d6d62c18b66ec",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum character length of an IFSC code used in Indian banking transactions?",
+  "qHi": "भारतीय बैंकिंग लेनदेन में उपयोग किए जाने वाले IFSC कोड की अधिकतम वर्ण लंबाई (character length) क्या है?",
+  "optsEn": [
+   "9 characters",
+   "10 characters",
+   "11 characters",
+   "12 characters"
+  ],
+  "optsHi": [
+   "9 वर्ण",
+   "10 वर्ण",
+   "11 वर्ण",
+   "12 वर्ण"
+  ],
+  "correct": 2,
+  "explainEn": "An IFSC code is an 11-character alphanumeric code where the first four characters represent the bank and the last six represent the branch.",
+  "sourceHint": "Reserve Bank of India guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T08:38:53Z"
+ },
+ {
+  "id": "q_24464c92c786b663",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organization issues currency notes of one rupee and coins of all denominations in India?",
+  "qHi": "भारत में एक रुपये के करेंसी नोट और सभी मूल्यवर्ग के सिक्के कौन जारी करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Ministry of Finance",
+   "State Bank of India",
+   "NITI Aayog"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "वित्त मंत्रालय",
+   "भारतीय स्टेट बैंक",
+   "नीति आयोग"
+  ],
+  "correct": 1,
+  "explainEn": "Under the Coinage Act, coins are minted by the Government of India, and the one-rupee note is also issued by the Ministry of Finance.",
+  "sourceHint": "Reserve Bank of India Act and Coinage Act",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T08:38:53Z"
+ },
+ {
+  "id": "q_3552d58f35c77d8a",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the banking term 'SLR'?",
+  "qHi": "बैंकिंग शब्द 'SLR' में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liquidity",
+   "Liability",
+   "Loan",
+   "Ledger"
+  ],
+  "optsHi": [
+   "लिक्विडिटी",
+   "लायबिलिटी",
+   "लोन",
+   "लेजर"
+  ],
+  "correct": 0,
+  "explainEn": "SLR stands for Statutory Liquidity Ratio, which is the minimum percentage of deposits that a commercial bank must maintain in liquid cash, gold, or approved securities.",
+  "sourceHint": "Banking Regulation Act, 1949",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T08:38:53Z"
+ },
+ {
+  "id": "q_297aaac572fb6444",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is considered the central banking institution of India?",
+  "qHi": "निम्नलिखित में से किसे भारत का केंद्रीय बैंकिंग संस्थान माना जाता है?",
+  "optsEn": [
+   "Punjab National Bank",
+   "Reserve Bank of India",
+   "Life Insurance Corporation",
+   "Securities and Exchange Board of India"
+  ],
+  "optsHi": [
+   "पंजाब नेशनल बैंक",
+   "भारतीय रिजर्व बैंक",
+   "भारतीय जीवन बीमा निगम",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India (RBI) is India's central bank and regulatory body responsible for regulation of the Indian banking system.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T08:38:53Z"
  }
 ]

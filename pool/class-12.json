@@ -40262,5 +40262,33 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-23T23:59:30Z"
+ },
+ {
+  "id": "q_e67d4b76ca67a13d",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which physical quantity is measured in Hertz (Hz)?",
+  "qHi": "किस भौतिक राशि को हर्ट्ज (Hz) में मापा जाता है?",
+  "optsEn": [
+   "Frequency",
+   "Resistance",
+   "Capacitance",
+   "Magnetic flux"
+  ],
+  "optsHi": [
+   "आवृत्ति",
+   "प्रतिरोध",
+   "धारिता",
+   "चुंबकीय फ्लक्स"
+  ],
+  "correct": 0,
+  "explainEn": "Frequency is the number of occurrences of a repeating event per unit of time, and its SI unit is the hertz.",
+  "sourceHint": "NCERT Class 11 Physics, Chapter 15",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T08:38:11Z"
  }
 ]

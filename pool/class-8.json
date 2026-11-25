@@ -29706,5 +29706,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-24T22:27:45Z"
+ },
+ {
+  "id": "q_a5a0e333d5513600",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the minimum age required for a person to cast a vote in Indian elections?",
+  "qHi": "भारतीय चुनावों में मतदान करने के लिए किसी व्यक्ति की न्यूनतम आयु कितनी होनी चाहिए?",
+  "optsEn": [
+   "16 years",
+   "18 years",
+   "21 years",
+   "25 years"
+  ],
+  "optsHi": [
+   "16 वर्ष",
+   "18 वर्ष",
+   "21 वर्ष",
+   "25 वर्ष"
+  ],
+  "correct": 1,
+  "explainEn": "According to the Indian Constitution, every citizen of 18 years of age and above has the right to vote.",
+  "sourceHint": "NCERT Class 8 Civics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T08:36:52Z"
+ },
+ {
+  "id": "q_238b9a4e81245122",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who was appointed as the Commander-in-Chief of the British forces during the Battle of Plassey?",
+  "qHi": "प्लासी के युद्ध के दौरान ब्रिटिश सेना का सेनापति किसे नियुक्त किया गया था?",
+  "optsEn": [
+   "Warren Hastings",
+   "Lord Dalhousie",
+   "Robert Clive",
+   "Lord Wellesley"
+  ],
+  "optsHi": [
+   "वारेन हेस्टिंग्स",
+   "लॉर्ड डलहौजी",
+   "रॉबर्ट क्लाइव",
+   "लॉर्ड वेलेजली"
+  ],
+  "correct": 2,
+  "explainEn": "Robert Clive led the British East India Company forces at the Battle of Plassey in 1757.",
+  "sourceHint": "NCERT Class 8 History, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T08:36:52Z"
+ },
+ {
+  "id": "q_c7e301415c688e7b",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which part of a plant does fertilization typically occur?",
+  "qHi": "पौधे के किस भाग में आमतौर पर निषेचन होता है?",
+  "optsEn": [
+   "Anther",
+   "Ovary",
+   "Stigma",
+   "Petal"
+  ],
+  "optsHi": [
+   "परागकोष",
+   "अंडाशय",
+   "वर्तिकाग्र",
+   "पंखुड़ी"
+  ],
+  "correct": 1,
+  "explainEn": "Fertilization occurs inside the ovule located within the ovary of a flower.",
+  "sourceHint": "NCERT Class 8 Science, Chapter 9",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T08:39:46Z"
+ },
+ {
+  "id": "q_4ca0e92aa270657b",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What was the name of the system introduced by the British in 1793 that fixed the revenue demand permanently with zamindars?",
+  "qHi": "1793 में अंग्रेजों द्वारा शुरू की गई उस व्यवस्था का नाम क्या था जिसने जमींदारों के साथ राजस्व की मांग को स्थायी रूप से तय किया था?",
+  "optsEn": [
+   "Permanent Settlement",
+   "Ryotwari System",
+   "Mahalwari System",
+   "Dual System"
+  ],
+  "optsHi": [
+   "स्थायी बंदोबस्त",
+   "रैयतवाड़ी व्यवस्था",
+   "महलवाड़ी व्यवस्था",
+   "द्वैध शासन प्रणाली"
+  ],
+  "correct": 0,
+  "explainEn": "The Permanent Settlement was introduced by Lord Cornwallis in 1793 in Bengal.",
+  "sourceHint": "NCERT Class 8 History, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T08:39:46Z"
  }
 ]
