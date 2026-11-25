@@ -34690,5 +34690,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-25T08:36:57Z"
+ },
+ {
+  "id": "q_3ac4a359b401c388",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organ of a plant is responsible for the transport of water?",
+  "qHi": "पौधे का कौन सा अंग पानी के परिवहन के लिए उत्तरदायी है?",
+  "optsEn": [
+   "Phloem",
+   "Xylem",
+   "Cortex",
+   "Pith"
+  ],
+  "optsHi": [
+   "फ्लोएम",
+   "जायांग",
+   "जाइलम",
+   "मज्जा"
+  ],
+  "correct": 1,
+  "explainEn": "Xylem tissue in plants is responsible for the transport of water and dissolved minerals from roots to stems and leaves.",
+  "sourceHint": "NCERT Class 10 Science Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:46:32Z"
+ },
+ {
+  "id": "q_7df09281b8b9ec0a",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which sector does manufacturing industry belong?",
+  "qHi": "विनिर्माण उद्योग किस क्षेत्रक के अंतर्गत आता है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Quaternary sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्रक",
+   "द्वितीयक क्षेत्रक",
+   "तृतीयक क्षेत्रक",
+   "चतुर्थक क्षेत्रक"
+  ],
+  "correct": 1,
+  "explainEn": "Manufacturing involves processing raw materials into finished goods, which falls under the secondary sector.",
+  "sourceHint": "NCERT Class 10 Economics Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:46:32Z"
+ },
+ {
+  "id": "q_81fccf7d1e9bb89e",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which constitutional body conducts elections to panchayats and municipalities in Indian states?",
+  "qHi": "भारतीय राज्यों में पंचायतों और नगर पालिकाडों के चुनाव कौन सा संवैधानिक निकाय कराता है?",
+  "optsEn": [
+   "Election Commission of India",
+   "State Election Commission",
+   "Union Public Service Commission",
+   "Supreme Court of India"
+  ],
+  "optsHi": [
+   "भारत का निर्वाचन आयोग",
+   "राज्य निर्वाचन आयोग",
+   "संघ लोक सेवा आयोग",
+   "भारत का उच्चतम न्यायालय"
+  ],
+  "correct": 1,
+  "explainEn": "State Election Commissions are empowered under the Indian Constitution to conduct local body elections.",
+  "sourceHint": "NCERT Class 10 Civics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:48:43Z"
+ },
+ {
+  "id": "q_eaa183b65faab7f2",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of vegetation belt is typically found in regions with heavy annual rainfall above 200 cm?",
+  "qHi": "200 सेमी से अधिक वार्षिक वर्षा वाले क्षेत्रों में आमतौर पर किस प्रकार की वनस्पति बेल्ट पाई जाती है?",
+  "optsEn": [
+   "Tropical Evergreen Forests",
+   "Thorny Bushes",
+   "Mangrove Forests",
+   "Montane Forests"
+  ],
+  "optsHi": [
+   "उष्णकटिबंधीय सदाबहार वन",
+   "कंटीली झाड़ियाँ",
+   "मैंग्रोव वन",
+   "पर्वतीय वन"
+  ],
+  "correct": 0,
+  "explainEn": "Tropical evergreen forests thrive in areas receiving more than 200 cm of rainfall with a short dry season.",
+  "sourceHint": "NCERT Class 9 and 10 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:48:43Z"
+ },
+ {
+  "id": "q_4e9b647e70ebddf5",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which sector is also known as the primary sector of an economy?",
+  "qHi": "किस क्षेत्रक को अर्थव्यवस्था का प्राथमिक क्षेत्रक भी कहा जाता है?",
+  "optsEn": [
+   "Manufacturing",
+   "Agriculture and allied activities",
+   "Information Technology",
+   "Banking and Finance"
+  ],
+  "optsHi": [
+   "विनिर्माण",
+   "कृषि और संबंधित गतिविधियाँ",
+   "सूचना प्रौद्योगिकी",
+   "बैंकिंग और वित्त"
+  ],
+  "correct": 1,
+  "explainEn": "Agriculture, forestry, fishing, and mining form the primary sector as they exploit natural resources directly.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:48:43Z"
  }
 ]

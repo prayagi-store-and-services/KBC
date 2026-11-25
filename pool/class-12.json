@@ -40290,5 +40290,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-25T08:38:11Z"
+ },
+ {
+  "id": "q_b1dab035c5f6417f",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Harappan site is known for its distinct dockyard structure?",
+  "qHi": "कौन सा हड़प्पा स्थल अपनी विशिष्ट गोदी (डॉकिंग यार्ड) संरचना के लिए जाना जाता है?",
+  "optsEn": [
+   "Harappa",
+   "Mohenjo-daro",
+   "Lothal",
+   "Kalibangan"
+  ],
+  "optsHi": [
+   "हड़प्पा",
+   "मोहनजोदड़ो",
+   "लोथल",
+   "कालीबंगा"
+  ],
+  "correct": 2,
+  "explainEn": "Lothal, situated in Gujarat, is well-known for its massive brick basin identified as a dockyard for maritime trade.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part I",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:46:37Z"
+ },
+ {
+  "id": "q_1416e0955d651127",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of vegetation is predominantly found in regions receiving annual rainfall of less than 75 cm?",
+  "qHi": "75 सेमी से कम वार्षिक वर्षा वाले क्षेत्रों में मुख्य रूप से किस प्रकार की वनस्पति पाई जाती है?",
+  "optsEn": [
+   "Tropical Evergreen forests",
+   "Mangrove forests",
+   "Tropical Thorn forests",
+   "Montane forests"
+  ],
+  "optsHi": [
+   "उष्णकटिबंधीय सदाबहार वन",
+   "मैंग्रोव वन",
+   "उष्णकटिबंधीय कंटीले वन",
+   "पर्वतीय वन"
+  ],
+  "correct": 2,
+  "explainEn": "Tropical thorn forests and scrubs grow in areas with less than 75 cm of rainfall, consisting of thorny trees and bushes.",
+  "sourceHint": "NCERT Class 11 Geography, India: Physical Environment",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:46:37Z"
+ },
+ {
+  "id": "q_4a31825479d81708",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the central dogma of molecular biology proposed by Francis Crick?",
+  "qHi": "फ्रांसिस्क क्रिक द्वारा प्रतिपादित आणविक जीव विज्ञान का केंद्रीय डोग्मा क्या है?",
+  "optsEn": [
+   "Protein -> RNA -> DNA",
+   "DNA -> RNA -> Protein",
+   "RNA -> DNA -> Protein",
+   "DNA -> Protein -> RNA"
+  ],
+  "optsHi": [
+   "प्रोटीन -> आरएनए -> डीएनए",
+   "डीएनए -> आरएनए -> प्रोटीन",
+   "आरएनए -> डीएनए -> प्रोटीन",
+   "डीएनए -> प्रोटीन -> आरएनए"
+  ],
+  "correct": 1,
+  "explainEn": "The central dogma states that genetic information flows in one direction, from DNA to RNA, and then to protein.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:46:37Z"
+ },
+ {
+  "id": "q_c412b622d5a147d0",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In macroeconomics, what does a value of marginal propensity to consume (MPC) equal to 1 imply about the value of the multiplier (k)?",
+  "qHi": "समष्टि अर्थशास्त्र में, उपभोग की सीमांत प्रवृत्ति (MPC) का मान 1 होने पर गुणक (k) के मान पर क्या प्रभाव पड़ता है?",
+  "optsEn": [
+   "Multiplier is zero",
+   "Multiplier is infinity",
+   "Multiplier is one",
+   "Multiplier is undefined"
+  ],
+  "optsHi": [
+   "गुणक शून्य है",
+   "गुणक अनंत है",
+   "गुणक एक है",
+   "गुणक अपरिभाषित है"
+  ],
+  "correct": 1,
+  "explainEn": "The investment multiplier k is calculated as 1 / (1 - MPC). If MPC = 1, the denominator becomes 1 - 1 = 0, making the multiplier tend to infinity.",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Macroeconomics, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:48:51Z"
+ },
+ {
+  "id": "q_c382b5eea7e18796",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which British official introduced the 'Permanent Settlement' system in Bengal in 1793?",
+  "qHi": "किस ब्रिटिश अधिकारी ने 1793 में बंगाल में 'स्थाई बंदोबस्त' (Permanent Settlement) प्रणाली शुरू की थी?",
+  "optsEn": [
+   "Lord Cornwallis",
+   "Lord Dalhousie",
+   "Warren Hastings",
+   "Lord Wellesley"
+  ],
+  "optsHi": [
+   "लॉर्ड कार्नवालिस",
+   "लॉर्ड डलहौजी",
+   "वारेन हेस्टिंग्स",
+   "लॉर्ड वेलेजली"
+  ],
+  "correct": 0,
+  "explainEn": "Lord Cornwallis introduced the Permanent Settlement in Bengal, Bihar, and Orissa in 1793, fixing the land revenue demand permanently with the zamindars.",
+  "sourceHint": "NCERT Class 12 History, Themes in Indian History Part III, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:48:51Z"
+ },
+ {
+  "id": "q_c181b9d3dbad350a",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the geometrical shape of the Xenon tetrafluoride (XeF4) molecule according to VSEPR theory?",
+  "qHi": "VSEPR सिद्धांत के अनुसार ज़ेनॉन टेट्राफ्लोराइड (XeF4) अणु की ज्यामितीय आकृति क्या है?",
+  "optsEn": [
+   "Tetrahedral",
+   "Square planar",
+   "Seesaw",
+   "Octahedral"
+  ],
+  "optsHi": [
+   "चतुष्फलकीय",
+   "वर्ग समतलीय",
+   "सीसा (seesaw)",
+   "अष्टफलकीय"
+  ],
+  "correct": 1,
+  "explainEn": "XeF4 has 4 bond pairs and 2 lone pairs around the central Xenon atom, resulting in a square planar molecular geometry.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 7: The p-Block Elements",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:48:51Z"
+ },
+ {
+  "id": "q_63151882e25bc921",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which tropical grassland is predominantly located in the Orinoco river basin of South America?",
+  "qHi": "दक्षिण अमेरिका के ओरिनोको नदी बेसिन में मुख्य रूप से कौन सा उष्णकटिबंधीय घास का मैदान स्थित है?",
+  "optsEn": [
+   "Llanos",
+   "Campos",
+   "Pampas",
+   "Veld"
+  ],
+  "optsHi": [
+   "लालनोस (Llanos)",
+   "कैम्पोस (Campos)",
+   "पम्पास (Pampas)",
+   "वेल्ड (Veld)"
+  ],
+  "correct": 0,
+  "explainEn": "Llanos are tropical grasslands found in the Orinoco river basin of Venezuela and Colombia in South America.",
+  "sourceHint": "NCERT Class 12 Geography, Fundamentals of Human Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:48:51Z"
+ },
+ {
+  "id": "q_6636a7d8407cc54d",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the Cold War, what was the primary objective of the North Atlantic Treaty Organization (NATO) established in April 1949?",
+  "qHi": "शीत युद्ध के संदर्भ में, अप्रैल 1949 में स्थापित उत्तर अटलांटिक संधि संगठन (NATO) का प्राथमिक उद्देश्य क्या था?",
+  "optsEn": [
+   "Collective defense against Soviet expansion in Europe",
+   "Economic integration of Western European nations",
+   "Promotion of communist ideology globally",
+   "Disarmament of all nuclear powers"
+  ],
+  "optsHi": [
+   "यूरोप में सोवियत विस्तार के खिलाफ सामूहिक रक्षा",
+   "पश्चिमी यूरोपीय देशों का आर्थिक एकीकरण",
+   "वैश्विक स्तर पर साम्यवादी विचारधारा का प्रचार",
+   "सभी परमाणु शक्तियों का निरस्त्रीकरण"
+  ],
+  "correct": 0,
+  "explainEn": "NATO was formed as a military alliance based on the principle of collective defense, meaning an armed attack against one or more of its members in Europe or North America was considered an attack against them all.",
+  "sourceHint": "NCERT Class 12 Political Science, Contemporary World Politics, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:48:51Z"
  }
 ]

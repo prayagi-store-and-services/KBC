@@ -44126,5 +44126,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-25T08:38:53Z"
+ },
+ {
+  "id": "q_9505d764d5f3771b",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which institutional rate is determined by the Monetary Policy Committee of the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक की मौद्रिक नीति समिति द्वारा कौन सी संस्थागत दर निर्धारित की जाती है?",
+  "optsEn": [
+   "Bank Rate",
+   "Policy Repo Rate",
+   "Prime Lending Rate",
+   "Base Rate"
+  ],
+  "optsHi": [
+   "बैंक दर",
+   "नीति रेपो दर",
+   "प्रधान ऋण दर",
+   "आधार दर"
+  ],
+  "correct": 1,
+  "explainEn": "The MPC determines the policy Repo Rate to achieve the inflation target while keeping in mind the objective of growth.",
+  "sourceHint": "RBI Monetary Policy Framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:47:59Z"
+ },
+ {
+  "id": "q_ef19815b118bd15e",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the term 'Gilt-edged market' refer to in the Indian financial system?",
+  "qHi": "भारतीय वित्तीय प्रणाली में 'गिल्ट-एज्ड मार्केट' शब्द का क्या संदर्भ है?",
+  "optsEn": [
+   "Market for corporate debentures",
+   "Market for government securities",
+   "Market for bullion and gold",
+   "Market for foreign exchange"
+  ],
+  "optsHi": [
+   "कॉर्पोरेट डिबेंचर का बाजार",
+   "सरकारी प्रतिभूतियों का बाजार",
+   "बुलियन और सोने का बाजार",
+   "विदेशी मुद्रा का बाजार"
+  ],
+  "correct": 1,
+  "explainEn": "A gilt-edged securities market is the market where debt instruments issued by the government are traded.",
+  "sourceHint": "Indian Financial System NCERT / Standard Textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:47:59Z"
+ },
+ {
+  "id": "q_76b8298a9f389c8c",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "How many digits are there in a standard Indian Financial System Code (IFSC)?",
+  "qHi": "एक मानक भारतीय वित्तीय प्रणाली कोड (IFSC) में कितने अंक होते हैं?",
+  "optsEn": [
+   "9 digits",
+   "10 digits",
+   "11 digits",
+   "12 digits"
+  ],
+  "optsHi": [
+   "9 अंक",
+   "10 अंक",
+   "11 अंक",
+   "12 अंक"
+  ],
+  "correct": 2,
+  "explainEn": "IFSC is an 11-character alphanumeric code used for electronic payment applications like NEFT and RTGS.",
+  "sourceHint": "RBI Payment Systems",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:47:59Z"
+ },
+ {
+  "id": "q_b87b4447c127726f",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Basel III framework, what is the minimum Capital Conservation Buffer (CCB) that banks must maintain in the form of Common Equity Tier 1 capital?",
+  "qHi": "बेसल III ढांचे के तहत, न्यूनतम पूंजी संरक्षण बफर (CCB) क्या है जिसे बैंकों को कॉमन इक्विटी टियर 1 पूंजी के रूप में बनाए रखना चाहिए?",
+  "optsEn": [
+   "1.0 percent",
+   "1.875 percent",
+   "2.5 percent",
+   "3.0 percent"
+  ],
+  "optsHi": [
+   "1.0 प्रतिशत",
+   "1.875 प्रतिशत",
+   "2.5 प्रतिशत",
+   "3.0 प्रतिशत"
+  ],
+  "correct": 2,
+  "explainEn": "Basel III standards require banks to maintain a Capital Conservation Buffer of 2.5 percent of risk-weighted assets in Common Equity Tier 1.",
+  "sourceHint": "RBI Basel III Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:51:21Z"
+ },
+ {
+  "id": "q_08bb81f125e7ccaf",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following instruments is issued by banks in India as an unsecured, short-term promissory note?",
+  "qHi": "भारत में बैंकों द्वारा असुरक्षित, अल्पकालिक वचन पत्र के रूप में निम्नलिखित में से कौन सा साधन जारी किया जाता है?",
+  "optsEn": [
+   "Certificate of Deposit",
+   "Treasury Bill",
+   "Commercial Paper",
+   "Participatory Note"
+  ],
+  "optsHi": [
+   "प्रमाण पत्र जमा (सर्टिफिकेट ऑफ डिपॉजिट)",
+   "राजकोषीय बिल (ट्रेजरी बिल)",
+   "वाणिज्यिक पत्र (कमर्शियल पेपर)",
+   "भाग लेने वाले नोट (पार्टिसिपेटरी नोट)"
+  ],
+  "correct": 0,
+  "explainEn": "Certificates of Deposit (CDs) are unsecured negotiable money market instruments issued by scheduled commercial banks in the form of a usance promissory note.",
+  "sourceHint": "RBI Master Directions on Money Market Instruments",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:51:21Z"
+ },
+ {
+  "id": "q_2e62d2530e4909da",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which institutional body in India is statutorily mandated to act as the central counterparty for clearing and settling repo trades in the corporate bond market?",
+  "qHi": "भारत में किस संस्थागत निकाय को कॉर्पोरेट बांड बाजार में रेपो ट्रेडों के लिए समाशोधन और निपटान हेतु केंद्रीय प्रतिपक्ष के रूप में कार्य करने का सांविधिक आदेश प्राप्त है?",
+  "optsEn": [
+   "National Securities Depository Limited",
+   "Clearing Corporation of India Limited",
+   "Central Depository Services Limited",
+   "National Payments Corporation of India"
+  ],
+  "optsHi": [
+   "नेशनल सिक्योरिटीज डिपॉजिटरी लिमिटेड",
+   "क्लियरिंग कॉर्पोरेशन ऑफ इंडिया लिमिटेड",
+   "सेंट्रल डिपॉजिटरी सर्विसेज लिमिटेड",
+   "नेशनल पेमेंट्स कॉर्पोरेशन ऑफ इंडिया"
+  ],
+  "correct": 1,
+  "explainEn": "The Clearing Corporation of India Limited (CCIL) acts as the central counterparty for money market, government securities, and foreign exchange markets in India.",
+  "sourceHint": "RBI Financial Stability Report",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:51:21Z"
+ },
+ {
+  "id": "q_fcf3f4d17417c5d4",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of priority sector lending (PSL) in India, what is the overall target for lending to the weaker sections for domestic scheduled commercial banks?",
+  "qHi": "भारत में प्राथमिकता प्राप्त क्षेत्र को ऋण (PSL) के संदर्भ में, घरेलू अनुसूचित वाणिज्यिक बैंकों के लिए कमजोर वर्गों को ऋण देने का समग्र लक्ष्य क्या है?",
+  "optsEn": [
+   "7.5 percent of ANBC",
+   "10.0 percent of ANBC",
+   "12.0 percent of ANBC",
+   "15.0 percent of ANBC"
+  ],
+  "optsHi": [
+   "एएनबीसी का 7.5 प्रतिशत",
+   "एएनबीसी का 10.0 प्रतिशत",
+   "एएनबीसी का 12.0 प्रतिशत",
+   "एएनबीसी का 15.0 प्रतिशत"
+  ],
+  "correct": 2,
+  "explainEn": "The RBI mandates a sub-target of 12 percent of Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure for weaker sections under PSL.",
+  "sourceHint": "RBI Master Directions on Priority Sector Lending",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:51:21Z"
+ },
+ {
+  "id": "q_430f68743c3bd4ec",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which entity regulates credit rating agencies operating within the Indian financial market?",
+  "qHi": "भारतीय वित्तीय बाजार में काम करने वाली क्रेडिट रेटिंग एजेंसियों को कौन सी संस्था विनियमित करती है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India",
+   "Insurance Regulatory and Development Authority",
+   "Ministry of Corporate Affairs"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "बीमा विनियामक और विकास प्राधिकरण",
+   "कॉर्पोरेट मामलों के मंत्रालय"
+  ],
+  "correct": 1,
+  "explainEn": "Credit Rating Agencies in India are regulated by SEBI under the SEBI (Credit Rating Agencies) Regulations, 1999.",
+  "sourceHint": "SEBI Act, 1992",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:51:21Z"
  }
 ]

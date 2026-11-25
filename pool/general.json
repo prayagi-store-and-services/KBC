@@ -24722,5 +24722,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-24T22:29:09Z"
+ },
+ {
+  "id": "q_2f6b05c2464fd15a",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The classical dance form Kathakali originated in which state?",
+  "qHi": "शास्त्रीय नृत्य शैली कथकली की उत्पत्ति किस राज्य में हुई थी?",
+  "optsEn": [
+   "Andhra Pradesh",
+   "Odisha",
+   "Kerala",
+   "Manipur"
+  ],
+  "optsHi": [
+   "आंध्र प्रदेश",
+   "ओडिशा",
+   "केरल",
+   "मणिपुर"
+  ],
+  "correct": 2,
+  "explainEn": "Kathakali is a major form of classical Indian dance that originated in the southern state of Kerala.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:48:03Z"
+ },
+ {
+  "id": "q_9776467d4bb8eec2",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian state has the coastline with the longest total length?",
+  "qHi": "किस भारतीय राज्य की तटरेखा की कुल लंबाई सबसे अधिक है?",
+  "optsEn": [
+   "Andhra Pradesh",
+   "Maharashtra",
+   "Gujarat",
+   "Tamil Nadu"
+  ],
+  "optsHi": [
+   "आंध्र प्रदेश",
+   "महाराष्ट्र",
+   "गुजरात",
+   "तमिलनाडु"
+  ],
+  "correct": 2,
+  "explainEn": "Gujarat has the longest coastline among all Indian states due to its highly indented shorelines and peninsulas like Kutch and Saurashtra.",
+  "sourceHint": "NCERT Geography textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:51:50Z"
+ },
+ {
+  "id": "q_3b856b9066161eca",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under which article of the Indian Constitution is the Supreme Court established as a court of record?",
+  "qHi": "भारतीय संविधान के किस अनुच्छेद के तहत उच्चतम न्यायालय को अभिलेख न्यायालय (कोर्ट ऑफ़ रिकॉर्ड) के रूप में स्थापित किया गया है?",
+  "optsEn": [
+   "Article 129",
+   "Article 131",
+   "Article 143",
+   "Article 124"
+  ],
+  "optsHi": [
+   "अनुच्छेद 129",
+   "अनुच्छेद 131",
+   "अनुच्छेद 143",
+   "अनुच्छेद 124"
+  ],
+  "correct": 0,
+  "explainEn": "Article 129 of the Constitution of India states that the Supreme Court shall be a court of record and have all the powers of such a court including the power to punish for contempt of itself.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:51:50Z"
+ },
+ {
+  "id": "q_093af6db7e98a597",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form of India originated in the Vaishnavite monasteries called Sattras?",
+  "qHi": "भारत की कौन सी शास्त्रीय नृत्य शैली 'सत्र' नामक वैष्णव मठों में उत्पन्न हुई थी?",
+  "optsEn": [
+   "Kathakali",
+   "Sattriya",
+   "Manipuri",
+   "Odissi"
+  ],
+  "optsHi": [
+   "कथकली",
+   "सत्रिया",
+   "मणिपुरी",
+   "ओडिसी"
+  ],
+  "correct": 1,
+  "explainEn": "Sattriya is a classical dance-drama performance art with origins in the Krishna-centered Vaishnavism monasteries of Assam, introduced by Srimanta Sankaradeva in the 15th century.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:51:50Z"
+ },
+ {
+  "id": "q_1e9ce0e9f379426b",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian monetary policy, what does the term 'Repo Rate' specifically signify?",
+  "qHi": "भारतीय मौद्रिक नीति के संदर्भ में, 'रेपो रेट' शब्द का विशेष रूप से क्या अर्थ है?",
+  "optsEn": [
+   "The rate at which commercial banks lend to the Reserve Bank of India",
+   "The rate at which the Reserve Bank of India lends short-term money to commercial banks",
+   "The interest rate charged by commercial banks to retail corporate borrowers",
+   "The rate of interest on long-term government bonds"
+  ],
+  "optsHi": [
+   "वह दर जिस पर वाणिज्यिक बैंक भारतीय रिजर्व बैंक को ऋण देते हैं",
+   "वह दर जिस पर भारतीय रिजर्व बैंक वाणिज्यिक बैंकों को अल्पकालिक ऋण देता है",
+   "वाणिज्यिक बैंकों द्वारा खुदरा कॉर्पोरेट उधारकर्ताओं से ली जाने वाली ब्याज दर",
+   "दीर्घकालिक सरकारी बांडों पर ब्याज दर"
+  ],
+  "correct": 1,
+  "explainEn": "Repo rate (Repurchase rate) is the rate at which the central bank of a country (RBI in India) lends money to commercial banks in the event of any shortfall of funds.",
+  "sourceHint": "Reserve Bank of India (RBI) publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:51:50Z"
+ },
+ {
+  "id": "q_5126f6384e46fd72",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian astronomer and mathematician of the 5th century correctly postulated that the Earth rotates on its axis?",
+  "qHi": "5वीं सदी के किस भारतीय खगोलविद और गणितज्ञ ने सही ढंग से यह प्रतिपादित किया था कि पृथ्वी अपनी धुरी पर घूमती है?",
+  "optsEn": [
+   "Varahamihira",
+   "Brahmagupta",
+   "Aryabhata",
+   "Bhaskara I"
+  ],
+  "optsHi": [
+   "वराहमिहिर",
+   "ब्रह्मगुप्त",
+   "आर्यभट्ट",
+   "भास्कर प्रथम"
+  ],
+  "correct": 2,
+  "explainEn": "Aryabhata stated in his treatise 'Aryabhatiya' that the starry sphere rotates because of the Earth's rotation on its own axis.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:51:50Z"
+ },
+ {
+  "id": "q_f727f921e69bbfa1",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Biosphere Reserve in India is famously known as the natural habitat of the endangered Lion-tailed Macaque?",
+  "qHi": "भारत का कौन सा बायोस्फीयर रिजर्व लुप्तप्राय शेर जैसी पूंछ वाले मकाक (लायन-टेल्ड मकाक) के प्राकृतिक आवास के रूप में प्रसिद्ध है?",
+  "optsEn": [
+   "Nilgiri Biosphere Reserve",
+   "Sundarbans Biosphere Reserve",
+   "Nokrek Biosphere Reserve",
+   "Similipal Biosphere Reserve"
+  ],
+  "optsHi": [
+   "नीलगिरी बायोस्फीयर रिजर्व",
+   "सुंदरबन बायोस्फीयर रिजर्व",
+   "नोकरेक बायोस्फीयर रिजर्व",
+   "सिमलीपाल बायोस्फीयर रिजर्व"
+  ],
+  "correct": 0,
+  "explainEn": "The Nilgiri Biosphere Reserve in the Western Ghats encompasses evergreen forests that serve as the primary habitat for the endemic Lion-tailed Macaque.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change (MoEFCC)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:51:50Z"
+ },
+ {
+  "id": "q_991bf90b074f7dab",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "The ancient port city of Lothal, associated with the Indus Valley Civilization, is located on the banks of which river?",
+  "qHi": "सिंधु घाटी सभ्यता से जुड़ा प्राचीन बंदरगाह शहर लोथल किस नदी के तट पर स्थित है?",
+  "optsEn": [
+   "Indus",
+   "Bhogavo",
+   "Luni",
+   "Sabarmati"
+  ],
+  "optsHi": [
+   "सिंधु",
+   "भोगवा",
+   "लूनी",
+   "साबरमती"
+  ],
+  "correct": 1,
+  "explainEn": "Lothal is situated near the Gulf of Khambhat in Gujarat, along the Bhogavo river, a tributary of the Sabarmati.",
+  "sourceHint": "Archaeological Survey of India (ASI)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:51:50Z"
+ },
+ {
+  "id": "q_df932ff30332ab52",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which amendment to the Constitution of India formally introduced the Goods and Services Tax (GST)?",
+  "qHi": "भारतीय संविधान के किस संशोधन द्वारा औपचारिक रूप से वस्तु एवं सेवा कर (जीएसटी) की शुरुआत की गई थी?",
+  "optsEn": [
+   "99th Amendment",
+   "101st Amendment",
+   "103rd Amendment",
+   "105th Amendment"
+  ],
+  "optsHi": [
+   "99वां संशोधन",
+   "101वां संशोधन",
+   "103वां संशोधन",
+   "105वां संशोधन"
+  ],
+  "correct": 1,
+  "explainEn": "The Constitution (One Hundred and First Amendment) Act, 2016 introduced the national Goods and Services Tax in India.",
+  "sourceHint": "Legislative Department, Ministry of Law and Justice, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:51:50Z"
  }
 ]

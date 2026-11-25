@@ -34690,5 +34690,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-24T22:29:14Z"
+ },
+ {
+  "id": "q_e7db3bde4c74efd6",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which Indian crop requires a lot of water and grows well in standing water fields?",
+  "qHi": "किस भारतीय फसल को बहुत अधिक पानी की आवश्यकता होती है और जो खड़े पानी के खेतों में अच्छी तरह उगती है?",
+  "optsEn": [
+   "Wheat",
+   "Rice",
+   "Barley",
+   "Millets"
+  ],
+  "optsHi": [
+   "गेहूं",
+   "चावल",
+   "जौ",
+   "बाजरा"
+  ],
+  "correct": 1,
+  "explainEn": "Rice is a Kharif crop that needs abundant water and is traditionally grown in flooded fields.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:44:56Z"
+ },
+ {
+  "id": "q_1638f787c3f46372",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the name of the imaginary line that divides the Earth into the Northern and Southern Hemispheres?",
+  "qHi": "उस काल्पनिक रेखा का नाम क्या है जो पृथ्वी को उत्तरी और दक्षिणी गोलार्্ধ में विभाजित करती है?",
+  "optsEn": [
+   "Equator",
+   "Tropic of Cancer",
+   "Prime Meridian",
+   "Tropic of Capricorn"
+  ],
+  "optsHi": [
+   "भूमध्य रेखा (इक्वेटर)",
+   "कर्क रेखा",
+   "प्रमुख मध्याह्न रेखा",
+   "मकर रेखा"
+  ],
+  "correct": 0,
+  "explainEn": "The Equator is the 0-degree latitude line that divides the Earth into the Northern and Southern Hemispheres.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:44:56Z"
+ },
+ {
+  "id": "q_240ec8c4a8c5954a",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which animal is known for building complex honeycomb structures?",
+  "qHi": "किस जानवर को जटिल मधुमक्खी के छत्ते जैसी संरचनाएं बनाने के लिए जाना जाता है?",
+  "optsEn": [
+   "Spider",
+   "Ant",
+   "Honeybee",
+   "Butterfly"
+  ],
+  "optsHi": [
+   "मकड़ी",
+   "चींटी",
+   "मधुमक्खी",
+   "तितली"
+  ],
+  "correct": 2,
+  "explainEn": "Honeybees live in colonies and build beeswax honeycombs to store honey and rear their young.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:44:56Z"
+ },
+ {
+  "id": "q_ee1d8c15a677349f",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which part of a plant is normally found underground and absorbs water and minerals?",
+  "qHi": "पौधे का कौन सा भाग आमतौर पर जमीन के नीचे पाया जाता है और पानी तथा खनिजों को अवशोषित करता है?",
+  "optsEn": [
+   "Leaf",
+   "Flower",
+   "Root",
+   "Stem"
+  ],
+  "optsHi": [
+   "पत्ती",
+   "फूल",
+   "जड़",
+   "तना"
+  ],
+  "correct": 2,
+  "explainEn": "Roots grow underground to anchor the plant and absorb essential water and nutrients from the soil.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:44:56Z"
+ },
+ {
+  "id": "q_74583e9a8181f0a6",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of natural resource is petroleum or coal considered to be?",
+  "qHi": "पेट्रोलियम या कोयले को किस प्रकार का प्राकृतिक संसाधन माना जाता है?",
+  "optsEn": [
+   "Renewable resource",
+   "Non-renewable resource",
+   "Inexhaustible resource",
+   "Infinitive resource"
+  ],
+  "optsHi": [
+   "नवीकरणीय संसाधन",
+   "अनवीकरणीय संसाधन",
+   "अक्षय संसाधन",
+   "असीमित संसाधन"
+  ],
+  "correct": 1,
+  "explainEn": "Fossil fuels like coal and petroleum take millions of years to form and are non-renewable resources.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:44:56Z"
+ },
+ {
+  "id": "q_df93ff254bc2de72",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary gas that makes up most of Earth's atmosphere?",
+  "qHi": "वह कौन सी मुख्य गैस है जो पृथ्वी के वायुमंडल का अधिकांश हिस्सा बनाती है?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "आर्गन"
+  ],
+  "correct": 2,
+  "explainEn": "Nitrogen makes up about 78 percent of Earth's atmosphere.",
+  "sourceHint": "NCERT Class 7 Geography Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:48:10Z"
+ },
+ {
+  "id": "q_c2559de1b4ca41d9",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which part of a plant is responsible for taking in water and minerals from the soil?",
+  "qHi": "पौधे का कौन सा भाग मिट्टी से पानी और खनिज लेने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Leaf",
+   "Stem",
+   "Root",
+   "Flower"
+  ],
+  "optsHi": [
+   "पत्ती",
+   "तना",
+   "जड़",
+   "फूल"
+  ],
+  "correct": 2,
+  "explainEn": "Roots absorb water and essential minerals from the soil to support the plant.",
+  "sourceHint": "NCERT Class 6 Science Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:48:10Z"
+ },
+ {
+  "id": "q_67b70b6e8f7b506f",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who was the first Indian citizen to travel into space?",
+  "qHi": "अंतरिक्ष की यात्रा करने वाले पहले भारतीय नागरिक कौन थे?",
+  "optsEn": [
+   "Rakesh Sharma",
+   "A. P. J. Abdul Kalam",
+   "Vikram Sarabhai",
+   "Kalpana Chawla"
+  ],
+  "optsHi": [
+   "राकेश शर्मा",
+   "ए. पी. जे. अब्दुल कलाम",
+   "विक्रम साराभाई",
+   "कल्पना चावला"
+  ],
+  "correct": 0,
+  "explainEn": "Rakesh Sharma traveled to space in 1984 aboard the Soyuz T-11 spacecraft.",
+  "sourceHint": "NCERT Class 8 History / ISRO archives",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-25T21:48:10Z"
  }
 ]
