@@ -25254,5 +25254,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-25T21:51:16Z"
+ },
+ {
+  "id": "q_155c18f390bf74d7",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which climatic phenomenon is primarily responsible for the winter rainfall in the northwestern part of India?",
+  "qHi": "भारत के उत्तर-पश्चिमी भाग में शीतकालीन वर्षा के लिए मुख्य रूप से कौन सी जलवायु घटना जिम्मेदार है?",
+  "optsEn": [
+   "South-West Monsoon",
+   "Retreating Monsoon",
+   "Western Disturbances",
+   "Local convection currents"
+  ],
+  "optsHi": [
+   "दक्षिण-पश्चिम मानसून",
+   "लौटता हुआ मानसून",
+   "पश्चिमी विक्षोभ",
+   "स्थानीय संवहन धाराएं"
+  ],
+  "correct": 2,
+  "explainEn": "Western Disturbances are temperate storms originating in the Mediterranean region that bring winter rain to northwestern India.",
+  "sourceHint": "NCERT Class 11 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:21:02Z"
+ },
+ {
+  "id": "q_72fba83041465ea0",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who founded the Satya Shodhak Samaj in 1873 to fight against caste oppression and social discrimination?",
+  "qHi": "जाति उत्पीड़न और सामाजिक भेदभाव के खिलाफ लड़ने के लिए 1873 में सत्यशोधक समाज की स्थापना किसने की थी?",
+  "optsEn": [
+   "Jyotirao Phule",
+   "B. R. Ambedkar",
+   "Swami Vivekananda",
+   "Dayanand Saraswati"
+  ],
+  "optsHi": [
+   "ज्योतिराव फुले",
+   "बी. आर. अंबेडकर",
+   "स्वामी विवेकानंद",
+   "दयानंद सरस्वती"
+  ],
+  "correct": 0,
+  "explainEn": "Jyotirao Phule founded the Satya Shodhak Samaj on September 24, 1873, with the aim of liberating lower castes from social discrimination.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:21:02Z"
+ },
+ {
+  "id": "q_444a0122886fce2d",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "At which session did the Indian National Congress pass the historic 'Purna Swaraj' resolution?",
+  "qHi": "भारतीय राष्ट्रीय कांग्रेस ने किस अधिवेशन में ऐतिहासिक 'पूर्ण स्वराज' प्रस्ताव पारित किया था?",
+  "optsEn": [
+   "Calcutta Session of 1928",
+   "Lahore Session of 1929",
+   "Karachi Session of 1931",
+   "Lucknow Session of 1916"
+  ],
+  "optsHi": [
+   "कलकत्ता अधिवेशन 1928",
+   "लाहौर अधिवेशन 1929",
+   "कराची अधिवेशन 1931",
+   "लखनऊ अधिवेशन 1916"
+  ],
+  "correct": 1,
+  "explainEn": "The Lahore session of the Indian National Congress in December 1929 passed the Purna Swaraj resolution under the presidency of Jawaharlal Nehru.",
+  "sourceHint": "NCERT Class 10 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:21:02Z"
+ },
+ {
+  "id": "q_6f7c195ec2acffd0",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which agency is responsible for the regulation and supervision of regional rural banks in India?",
+  "qHi": "भारत में क्षेत्रीय ग्रामीण बैंकों के विनियमन और पर्यवेक्षण के लिए कौन सी एजेंसी जिम्मेदार है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "NABARD",
+   "State Bank of India",
+   "SEBI"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "नाबार्ड",
+   "भारतीय स्टेट बैंक",
+   "सेबी"
+  ],
+  "correct": 1,
+  "explainEn": "NABARD (National Bank for Agriculture and Rural Development) provides refinancing and regulates Regional Rural Banks (RRBs) and cooperative banks in India.",
+  "sourceHint": "RBI and NABARD guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:21:02Z"
+ },
+ {
+  "id": "q_1f0d9eb6931cc23c",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the reign of which Delhi Sultanate ruler was the administrative revenue department known as 'Diwan-i-Kuhi' established?",
+  "qHi": "दिल्ली सल्तनत के किस शासक के शासनकाल में प्रशासनिक राजस्व विभाग 'दीवान-ए-कोही' की स्थापना की गई थी?",
+  "optsEn": [
+   "Muhammad bin Tughluq",
+   "Alauddin Khilji",
+   "Firoz Shah Tughluq",
+   "Ghiyasuddin Balban"
+  ],
+  "optsHi": [
+   "मुहम्मद बिन तुगलक",
+   "अलाउद्दीन खिलजी",
+   "फिरोज शाह तुगलक",
+   "غیاث الدین بلبن (ग गयासुद्दीन बलबन)"
+  ],
+  "correct": 0,
+  "explainEn": "Diwan-i-Kuhi was created by Muhammad bin Tughluq with the objective of increasing agricultural production by extending cultivation.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:22:21Z"
+ },
+ {
+  "id": "q_9cc679ba02bd383c",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian economic history, the 'Rangarajan Committee' of 1991 was appointed to examine and recommend reforms related to which of the following areas?",
+  "qHi": "भारतीय आर्थिक इतिहास के संदर्भ में, 1991 की 'रंगराजन समिति' को निम्नलिखित में से किस क्षेत्र से संबंधित सुधारों की जांच और सिफारिश करने के लिए नियुक्त किया गया था?",
+  "optsEn": [
+   "Disinvestment of Public Sector Undertakings",
+   "Taxation Reforms",
+   "Banking Sector Structural Changes",
+   "Poverty Estimation Methodology"
+  ],
+  "optsHi": [
+   "सार्वजनिक क्षेत्र के उपक्रमों का विनिवेश",
+   "कराधान सुधार",
+   "बैंकिंग क्षेत्र में संरचनात्मक बदलाव",
+   "गरीबी आकलन पद्धति"
+  ],
+  "correct": 0,
+  "explainEn": "The Committee on Disinvestment of Shares in Public Sector Enterprises, headed by C. Rangarajan, submitted its report in 1993.",
+  "sourceHint": "Government of India / Public Policy Reports",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:22:21Z"
+ },
+ {
+  "id": "q_76d22c43594cc76b",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under Article 72 of the Constitution of India, the power to grant pardons, reprieves, respites or remissions of punishment is vested in which authority?",
+  "qHi": "भारत के संविधान के अनुच्छेद 72 के तहत, क्षमादान, प्रावरोध, विराम या सज़ा की लघुकरण की शक्ति किस प्राधिकारी में निहित है?",
+  "optsEn": [
+   "President of India",
+   "Supreme Court of India",
+   "Prime Minister of India",
+   "Union Cabinet"
+  ],
+  "optsHi": [
+   "भारत के राष्ट्रपति",
+   "भारत का सर्वोच्च न्यायालय",
+   "भारत के प्रधानमंत्री",
+   "केंद्रीय मंत्रिमंडल"
+  ],
+  "correct": 0,
+  "explainEn": "Article 72 empowers the President of India to grant pardons in cases where the punishment or sentence is by a Court Martial, in all cases involving offenses against Union laws, and in death sentence cases.",
+  "sourceHint": "Constitution of India, Article 72",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:22:21Z"
+ },
+ {
+  "id": "q_5a0222827fc7cf87",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the phenomenon called where ocean surface temperatures in the central and eastern tropical Pacific Ocean become anomalously warm?",
+  "qHi": "उस घटना को क्या कहा जाता है जिसमें मध्य और पूर्वी उष्णकटिबंधीय प्रशांत महासागर में समुद्र की सतह का तापमान असामान्य रूप से गर्म हो जाता है?",
+  "optsEn": [
+   "El Nino",
+   "La Nina",
+   "Indian Ocean Dipole",
+   "Madden-Julian Oscillation"
+  ],
+  "optsHi": [
+   "अल नीनो",
+   "ला नीना",
+   "हिंद महासागर द्विध्रुव",
+   "मैडन-जूलियन दोलन"
+  ],
+  "correct": 0,
+  "explainEn": "El Nino is the warm phase of the El Nino-Southern Oscillation and is associated with a band of warm ocean water that develops in the central and east-central equatorial Pacific.",
+  "sourceHint": "Encyclopaedia Britannica / NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:22:21Z"
+ },
+ {
+  "id": "q_cbb72695e2c2cfcb",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian Nationalist leader founded the 'Atmiya Sabha' in Calcutta in the year 1814?",
+  "qHi": "किस भारतीय राष्ट्रवादी नेता ने वर्ष 1814 में कलकत्ता में 'आत्मीय सभा' की स्थापना की थी?",
+  "optsEn": [
+   "Raja Ram Mohan Roy",
+   "Debendranath Tagore",
+   "Keshab Chandra Sen",
+   "Swami Vivekananda"
+  ],
+  "optsHi": [
+   "राजा राम मोहन राय",
+   "देवेन्द्रनाथ टैगोर",
+   "केशव चंद्र सेन",
+   "स्वामी विवेकानंद"
+  ],
+  "correct": 0,
+  "explainEn": "Raja Ram Mohan Roy founded Atmiya Sabha in 1814 as a philosophical discussion circle in Calcutta to campaign against idol worship, caste rigidities, and meaningless religious rituals.",
+  "sourceHint": "NCERT Modern Indian History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:22:21Z"
  }
 ]

@@ -24974,5 +24974,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-25T21:51:50Z"
+ },
+ {
+  "id": "q_897308c580ca44ef",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following monuments is one of the Seven Wonders of the Modern World located in India?",
+  "qHi": "निम्नलिखित में से कौन सा स्मारक भारत में स्थित आधुनिक दुनिया के सात अजूबों में से एक है?",
+  "optsEn": [
+   "Qutub Minar",
+   "Red Fort",
+   "Taj Mahal",
+   "Hawa Mahal"
+  ],
+  "optsHi": [
+   "कुतुब मीनार",
+   "लाल किला",
+   "ताजमहल",
+   "हवा महल"
+  ],
+  "correct": 2,
+  "explainEn": "The Taj Mahal in Agra was declared one of the New Seven Wonders of the World in 2007.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:20:04Z"
+ },
+ {
+  "id": "q_9436c834aafab459",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which sport is associated with the prestigious tournament known as the Wimbledon Championships?",
+  "qHi": "विंबलडन चैंपियनशिप के रूप में जाने जाने वाले प्रतिष्ठित टूर्नामेंट से कौन सा खेल जुड़ा है?",
+  "optsEn": [
+   "Cricket",
+   "Tennis",
+   "Badminton",
+   "Golf"
+  ],
+  "optsHi": [
+   "क्रिकेट",
+   "टेनिस",
+   "बैडमिंटन",
+   "गोल्फ"
+  ],
+  "correct": 1,
+  "explainEn": "Wimbledon is the oldest and most prestigious tennis tournament in the world.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:20:04Z"
+ },
+ {
+  "id": "q_28b12c66d938ca8d",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which Indian state is the ancient port city of Muziris, a major center of the Indo-Roman spice trade, believed to be located?",
+  "qHi": "भारत के किस राज्य में प्राचीन बंदरगाह शहर मुज़िरिस स्थित माना जाता है, जो भारत-रोमन मसाला व्यापार का एक प्रमुख केंद्र था?",
+  "optsEn": [
+   "Gujarat",
+   "Kerala",
+   "Tamil Nadu",
+   "Odisha"
+  ],
+  "optsHi": [
+   "गुजरात",
+   "केरल",
+   "तमिलनाडु",
+   "ओडिशा"
+  ],
+  "correct": 1,
+  "explainEn": "Muziris was an ancient port and city in the Indian state of Kerala, near modern-day Kodungallur, famous in antiquity for spice trade.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:22:35Z"
+ },
+ {
+  "id": "q_6b1e6c285d3ed7c0",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which chemical element derives its symbol from the Latin word 'Cuprum'?",
+  "qHi": "किस रासायनिक तत्व का प्रतीक लैटिन शब्द 'क्यूप्रूम' से लिया गया है?",
+  "optsEn": [
+   "Iron",
+   "Copper",
+   "Gold",
+   "Silver"
+  ],
+  "optsHi": [
+   "लोहा",
+   "तांबा",
+   "सोना",
+   "चांदी"
+  ],
+  "correct": 1,
+  "explainEn": "Copper has the chemical symbol Cu, which comes from the Latin word 'cuprum', meaning 'metal of Cyprus'.",
+  "sourceHint": "NCERT Science Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:22:35Z"
+ },
+ {
+  "id": "q_688b945b4c19531d",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form of India traditionally uses a heavy brass plate for balancing during the performance of 'Tarangam'?",
+  "qHi": "भारत की किस शास्त्रीय नृत्य शैली में 'तरंगम' के प्रदर्शन के दौरान संतुलन के लिए पारंपरिक रूप से भारी पीतल की थाली का उपयोग किया जाता है?",
+  "optsEn": [
+   "Kathak",
+   "Bharatanatyam",
+   "Kuchipudi",
+   "Odissi"
+  ],
+  "optsHi": [
+   "कथक",
+   "भरतनाट्यम",
+   "कुचिपुड़ी",
+   "ओडिसी"
+  ],
+  "correct": 2,
+  "explainEn": "In Kuchipudi, dancers perform Tarangam where they dance on the rim of a brass plate while balancing a pot of water on their head.",
+  "sourceHint": "Centre for Cultural Resources and Training",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:22:35Z"
+ },
+ {
+  "id": "q_369a85107400447f",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "According to the Census of India 2011, which union territory recorded the highest literacy rate?",
+  "qHi": "भारत की 2011 की जनगणना के अनुसार, किस केंद्र शासित प्रदेश में सबसे अधिक साक्षरता दर दर्ज की गई थी?",
+  "optsEn": [
+   "Chandigarh",
+   "Delhi",
+   "Puducherry",
+   "Lakshadweep"
+  ],
+  "optsHi": [
+   "चंडीगढ़",
+   "दिल्ली",
+   "पुदुचेरी",
+   "लक्षद्वीप"
+  ],
+  "correct": 3,
+  "explainEn": "Lakshadweep recorded the highest literacy rate among all union territories in the 2011 Census at 91.85 percent.",
+  "sourceHint": "Office of the Registrar General and Census Commissioner, India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:22:35Z"
+ },
+ {
+  "id": "q_8c6479472a2ca471",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which vitamin deficiency causes the medical condition known as beriberi?",
+  "qHi": "किस विटामिन की कमी से बेरीबेरी नामक चिकित्सीय स्थिति होती है?",
+  "optsEn": [
+   "Vitamin B1",
+   "Vitamin B2",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन बी1",
+   "विटामिन बी2",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 0,
+  "explainEn": "Beriberi is caused by a deficiency of thiamine, also known as Vitamin B1.",
+  "sourceHint": "NCERT Biology Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:22:35Z"
  }
 ]

@@ -34914,5 +34914,425 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-25T21:48:10Z"
+ },
+ {
+  "id": "q_5f0fd6c98d3aadde",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a greenhouse gas that helps trap heat in the Earth's atmosphere?",
+  "qHi": "निम्नलिखित में से कौन सी एक ग्रीनहाउस गैस है जो पृथ्वी के वायुमंडल में गर्मी को फँसाने में मदद करती है?",
+  "optsEn": [
+   "Carbon dioxide",
+   "Nitrogen",
+   "Oxygen",
+   "Argon"
+  ],
+  "optsHi": [
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "ऑक्सीजन",
+   "आर्गन"
+  ],
+  "correct": 0,
+  "explainEn": "Carbon dioxide is a key greenhouse gas that absorbs and traps heat in the atmosphere.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:20:30Z"
+ },
+ {
+  "id": "q_8c5fa02131c26d08",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the process by which green plants make their own food using sunlight called?",
+  "qHi": "हरे पौधों द्वारा सूर्य के प्रकाश का उपयोग करके अपना भोजन बनाने की प्रक्रिया क्या कहलाती है?",
+  "optsEn": [
+   "Respiration",
+   "Photosynthesis",
+   "Digestion",
+   "Germination"
+  ],
+  "optsHi": [
+   "श्वसन",
+   "प्रकाश संश्लेषण",
+   "पाचन",
+   "अंकुरण"
+  ],
+  "correct": 1,
+  "explainEn": "Photosynthesis is the process by which plants use sunlight, water, and carbon dioxide to create food.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:20:30Z"
+ },
+ {
+  "id": "q_9d0606e7ef5c1d73",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which part of a plant primarily absorbs water and minerals from the soil?",
+  "qHi": "पौधे का कौन सा भाग मुख्य रूप से मिट्टी से पानी और खनिज अवशोषित करता है?",
+  "optsEn": [
+   "Leaf",
+   "Stem",
+   "Root",
+   "Flower"
+  ],
+  "optsHi": [
+   "पत्ती",
+   "तना",
+   "जड़",
+   "फूल"
+  ],
+  "correct": 2,
+  "explainEn": "Roots grow underground and absorb water and essential minerals for the plant.",
+  "sourceHint": "NCERT Class 6 Science Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:21:23Z"
+ },
+ {
+  "id": "q_2c66c76c35cec991",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of these animals is classified as a herbivore?",
+  "qHi": "इनमें से किस जानवर को शाकाहारी के रूप में वर्गीकृत किया गया है?",
+  "optsEn": [
+   "Lion",
+   "Cow",
+   "Wolf",
+   "Tiger"
+  ],
+  "optsHi": [
+   "शेर",
+   "गाय",
+   "भेड़िया",
+   "बाघ"
+  ],
+  "correct": 1,
+  "explainEn": "Cows eat plant materials such as grass and hay, making them herbivores.",
+  "sourceHint": "NCERT Class 6 Science Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:21:23Z"
+ },
+ {
+  "id": "q_6a69f67452a6475f",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the standard unit of length in the International System of Units (SI)?",
+  "qHi": "अंतर्राष्ट्रीय इकाई प्रणाली (SI) में लंबाई की मानक इकाई क्या है?",
+  "optsEn": [
+   "Gram",
+   "Liter",
+   "Meter",
+   "Second"
+  ],
+  "optsHi": [
+   "ग्राम",
+   "लीटर",
+   "मीटर",
+   "सेकंड"
+  ],
+  "correct": 2,
+  "explainEn": "The meter is the base unit of length in the SI system.",
+  "sourceHint": "NCERT Class 6 Science Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:21:23Z"
+ },
+ {
+  "id": "q_8cd922fbd06a6eeb",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which state in India is well known for the classical dance form called Bharatanatyam?",
+  "qHi": "भारत का कौन सा राज्य भरतनाट्यम नामक शास्त्रीय नृत्य शैली के लिए प्रसिद्ध है?",
+  "optsEn": [
+   "Kerala",
+   "Tamil Nadu",
+   "Punjab",
+   "Assam"
+  ],
+  "optsHi": [
+   "केरल",
+   "तमिलनाडु",
+   "पंजाब",
+   "असम"
+  ],
+  "correct": 1,
+  "explainEn": "Bharatanatyam originated in the temples of Tamil Nadu.",
+  "sourceHint": "NCERT Class 6 Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:21:23Z"
+ },
+ {
+  "id": "q_9ec55554b2fc3081",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What gas do green plants absorb from the atmosphere during photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण के दौरान हरे पौधे वायुमंडल से कौन सी गैस अवशोषित करते हैं?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Helium"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हीलियम"
+  ],
+  "correct": 1,
+  "explainEn": "Plants take in carbon dioxide from the air to make their food using sunlight.",
+  "sourceHint": "NCERT Class 6 Science Chapter 7",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:21:23Z"
+ },
+ {
+  "id": "q_0ee2fc2729b17fb8",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional water harvesting structure was commonly used in the arid region of Rajasthan to collect rainwater from rooftops?",
+  "qHi": "राजस्थान के शुष्क क्षेत्र में वर्षा के पानी को छतों से इकट्ठा करने के लिए किस पारंपरिक जल संचयन संरचना का सामान्यतः उपयोग किया जाता था?",
+  "optsEn": [
+   "Baoli",
+   "Tankha",
+   "Kuls",
+   "Eri"
+  ],
+  "optsHi": [
+   "बावली",
+   "टांका",
+   "कुल्ह",
+   "एरी"
+  ],
+  "correct": 1,
+  "explainEn": "In western Rajasthan, people traditionally built underground tanks called tankhas to store drinking water collected from rooftops.",
+  "sourceHint": "NCERT Class 5 Environmental Studies (EVS), Looking Around, Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:22:44Z"
+ },
+ {
+  "id": "q_1f29a47ba5535b65",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary natural habitat of the endangered animal known as the Greater One-horned Rhinoceros in India?",
+  "qHi": "भारत में संकटग्रस्त जानवर 'एक सींग वाले गैंडे' का मुख्य प्राकृतिक आवास कौन सा है?",
+  "optsEn": [
+   "Gir National Park",
+   "Kaziranga National Park",
+   "Jim Corbett National Park",
+   "Periyar National Park"
+  ],
+  "optsHi": [
+   "गीर राष्ट्रीय उद्यान",
+   "काजीरंगा राष्ट्रीय उद्यान",
+   "जिम कार्बेट राष्ट्रीय उद्यान",
+   "पेरियार राष्ट्रीय उद्यान"
+  ],
+  "correct": 1,
+  "explainEn": "Kaziranga National Park in Assam is globally famous for hosting a large population of the Great Indian One-horned Rhinoceros.",
+  "sourceHint": "NCERT Class 5 Environmental Studies (EVS), Looking Around, Chapter 20",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:22:44Z"
+ },
+ {
+  "id": "q_3328f794e467df46",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which part of the pitcher plant (Nepenthes) is modified into a trap to catch insects?",
+  "qHi": "घटपर्णी पौधे (पिचर प्लांट) का कौन सा भाग कीड़ों को पकड़ने के लिए एक जाल में रूपांतरित होता है?",
+  "optsEn": [
+   "Root",
+   "Stem",
+   "Leaf",
+   "Flower"
+  ],
+  "optsHi": [
+   "जड़",
+   "तना",
+   "पत्ती",
+   "फूल"
+  ],
+  "correct": 2,
+  "explainEn": "In the pitcher plant, the leaf is modified into a pitcher-like shape with a lid to trap and digest insects.",
+  "sourceHint": "NCERT Class 5 Environmental Studies (EVS), Looking Around, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:22:44Z"
+ },
+ {
+  "id": "q_88461d18606fe819",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "When seeds are scattered over a wide area by wind, water, or animals, what scientific term is used for this process?",
+  "qHi": "जब बीज हवा, पानी या जानवरों द्वारा एक बड़े क्षेत्र में फैल जाते हैं, तो इस प्रक्रिया के लिए किस वैज्ञानिक शब्द का उपयोग किया जाता है?",
+  "optsEn": [
+   "Germination",
+   "Pollination",
+   "Dispersal",
+   "Cultivation"
+  ],
+  "optsHi": [
+   "अंकुरण",
+   "परागण",
+   "प्रकीर्णन",
+   "खेती"
+  ],
+  "correct": 2,
+  "explainEn": "Seed dispersal is the transport of seeds away from the parent plant by agents like wind, water, and animals.",
+  "sourceHint": "NCERT Class 5 Environmental Studies (EVS), Looking Around, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:22:44Z"
+ },
+ {
+  "id": "q_38bfd28506246479",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specific crop was introduced to India by traders coming from South America centuries ago?",
+  "qHi": "सदियों पहले दक्षिण अमेरिका से आने वाले व्यापारियों द्वारा कौन सी विशेष फसल भारत लाई गई थी?",
+  "optsEn": [
+   "Black Pepper",
+   "Tomato",
+   "Mango",
+   "Wheat"
+  ],
+  "optsHi": [
+   "काली मिर्च",
+   "टमाटर",
+   "आम",
+   "गेहूं"
+  ],
+  "correct": 1,
+  "explainEn": "Vegetables like tomatoes, potatoes, and green chillies were brought to India by traders coming from South America.",
+  "sourceHint": "NCERT Class 5 Environmental Studies (EVS), Looking Around, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:22:44Z"
+ },
+ {
+  "id": "q_c186e73c88300d18",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which seasonal wind system brings the majority of rainfall to the Indian subcontinent?",
+  "qHi": "भारतीय उपमहाद्वीप में अधिकांश वर्षा कौन सी मौसमी पवन प्रणाली लाती है?",
+  "optsEn": [
+   "Trade Winds",
+   "Monsoon Winds",
+   "Western Disturbances",
+   "Local Breezes"
+  ],
+  "optsHi": [
+   "व्यापारिक पवनें",
+   "मानसून पवनें",
+   "पश्चिमी विक्षोभ",
+   "स्थानीय हवाएं"
+  ],
+  "correct": 1,
+  "explainEn": "India receives most of its rainfall through the southwest monsoon winds during the summer months.",
+  "sourceHint": "NCERT Class 5 Environmental Studies (EVS), Looking Around, Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:22:44Z"
+ },
+ {
+  "id": "q_1f7a3f4fba651483",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary role of red blood cells in the human body?",
+  "qHi": "मानव शरीर में लाल रक्त कोशिकाओं की प्राथमिक भूमिका क्या है?",
+  "optsEn": [
+   "To fight infections",
+   "To transport oxygen",
+   "To digest food",
+   "To clot blood"
+  ],
+  "optsHi": [
+   "संक्रमण से लड़ना",
+   "ऑक्सीजन का परिवहन करना",
+   "भोजन पचाना",
+   "खून का थक्का बनाना"
+  ],
+  "correct": 1,
+  "explainEn": "Red blood cells contain hemoglobin, which binds to oxygen and transports it from the lungs to all body tissues.",
+  "sourceHint": "NCERT Class 5 Science curriculum standards",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:22:44Z"
+ },
+ {
+  "id": "q_ee6374cb9aef5803",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which phenomenon causes a pencil to appear bent when it is partially immersed in a glass of water?",
+  "qHi": "पानी के गिलास में आंशिक रूप से डुबोए जाने पर पेंसिल के मुड़े हुए दिखने का क्या कारण है?",
+  "optsEn": [
+   "Reflection",
+   "Refraction",
+   "Dispersion",
+   "Absorption"
+  ],
+  "optsHi": [
+   "परावर्तन",
+   "अपवर्तन",
+   "विक्षेपण",
+   "अवशोषण"
+  ],
+  "correct": 1,
+  "explainEn": "Refraction is the bending of light as it passes from one transparent medium (water) into another (air).",
+  "sourceHint": "NCERT General Science curriculum standards",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:22:44Z"
  }
 ]

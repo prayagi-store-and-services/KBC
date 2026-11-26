@@ -44350,5 +44350,397 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-25T21:51:21Z"
+ },
+ {
+  "id": "q_12505c6f71ba0778",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the letter 'P' stand for in the term 'PAN' used in Indian banking and taxation?",
+  "qHi": "भारतीय बैंकिंग और कराधान में प्रयुक्त शब्द 'PAN' में अक्षर 'P' का क्या अर्थ है?",
+  "optsEn": [
+   "Permanent",
+   "Primary",
+   "Personal",
+   "Public"
+  ],
+  "optsHi": [
+   "Permanent",
+   "Primary",
+   "Personal",
+   "Public"
+  ],
+  "correct": 0,
+  "explainEn": "PAN stands for Permanent Account Number, which is a ten-digit alphanumeric identifier issued by the Income Tax Department.",
+  "sourceHint": "Income Tax Department of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:19:59Z"
+ },
+ {
+  "id": "q_8c6b315cdce3eb3a",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does the term 'NEFT' stand for in the context of electronic funds transfer in India?",
+  "qHi": "भारत में इलेक्ट्रॉनिक फंड ट्रांसफर के संदर्भ में 'NEFT' शब्द का क्या अर्थ है?",
+  "optsEn": [
+   "National Electronic Fund Transfer",
+   "New Economic Financial Terminal",
+   "National Exchange Foreign Trade",
+   "Net Electronic Finance Transfer"
+  ],
+  "optsHi": [
+   "National Electronic Fund Transfer",
+   "New Economic Financial Terminal",
+   "National Exchange Foreign Trade",
+   "Net Electronic Finance Transfer"
+  ],
+  "correct": 0,
+  "explainEn": "NEFT stands for National Electronic Funds Transfer, a nationwide centralized payment system owned and operated by the RBI.",
+  "sourceHint": "Reserve Bank of India payment systems",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:19:59Z"
+ },
+ {
+  "id": "q_896520b7eb925ee6",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following organizations issues Sovereign Gold Bonds on behalf of the Government of India?",
+  "qHi": "निम्नलिखित में से कौन सा संगठन भारत सरकार की ओर से सॉवरेन गोल्ड बॉन्ड जारी करता है?",
+  "optsEn": [
+   "State Bank of India",
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India",
+   "BSE Limited"
+  ],
+  "optsHi": [
+   "State Bank of India",
+   "Reserve Bank of India",
+   "Securities and Exchange Board of India",
+   "BSE Limited"
+  ],
+  "correct": 1,
+  "explainEn": "Sovereign Gold Bonds are issued by the Reserve Bank on behalf of the Government of India.",
+  "sourceHint": "Reserve Bank of India FAQ",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:19:59Z"
+ },
+ {
+  "id": "q_129f3d3cc5acff13",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of 'ATM' as a banking delivery channel?",
+  "qHi": "बैंकिंग डिलीवरी चैनल के रूप में 'ATM' का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Automated Transaction Machine",
+   "Any Time Money",
+   "Automated Teller Machine",
+   "Automatic Transfer Module"
+  ],
+  "optsHi": [
+   "Automated Transaction Machine",
+   "Any Time Money",
+   "Automated Teller Machine",
+   "Automatic Transfer Module"
+  ],
+  "correct": 2,
+  "explainEn": "ATM stands for Automated Teller Machine, an electronic telecommunication device that enables customers to perform financial transactions.",
+  "sourceHint": "Banking terminology standards",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:19:59Z"
+ },
+ {
+  "id": "q_226f26b888449ad8",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In the context of bank accounts in India, what does 'CASA' stand for?",
+  "qHi": "भारत में बैंक खातों के संदर्भ में 'CASA' का क्या अर्थ है?",
+  "optsEn": [
+   "Current Account Savings Account",
+   "Capital Asset Savings Assessment",
+   "Cash Advance Security Agreement",
+   "Core Accounting System Application"
+  ],
+  "optsHi": [
+   "Current Account Savings Account",
+   "Capital Asset Savings Assessment",
+   "Cash Advance Security Agreement",
+   "Core Accounting System Application"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account Savings Account, which refers to bank deposits that earn low or no interest.",
+  "sourceHint": "Indian Banking Association glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:19:59Z"
+ },
+ {
+  "id": "q_c91459575292fd6b",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organization calculates and releases the Index of Industrial Production (IIP) data in India?",
+  "qHi": "भारत में औद्योगिक उत्पादन सूचकांक (IIP) के आंकड़े कौन सा संगठन गणना और जारी करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "Ministry of Finance",
+   "National Statistical Office",
+   "NITI Aayog"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "वित्त मंत्रालय",
+   "राष्ट्रीय सांख्यिकी कार्यालय",
+   "नीति आयोग"
+  ],
+  "correct": 2,
+  "explainEn": "The Index of Industrial Production (IIP) is compiled and published monthly by the National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation.",
+  "sourceHint": "Ministry of Statistics and Programme Implementation (MOSPI)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:21:14Z"
+ },
+ {
+  "id": "q_45e1ba08a399a75b",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Negotiable Instruments Act, 1881, a cheque is invalid if it is not presented for payment within how many months from the date of its issuance?",
+  "qHi": "परिक्रामी लिखत अधिनियम, 1881 के तहत, यदि कोई चेक उसके जारी होने की तारीख से कितने महीनों के भीतर भुगतान के लिए प्रस्तुत नहीं किया जाता है, तो वह अमान्य हो जाता है?",
+  "optsEn": [
+   "1 month",
+   "3 months",
+   "6 months",
+   "12 months"
+  ],
+  "optsHi": [
+   "1 महीना",
+   "3 महीने",
+   "6 महीने",
+   "12 महीने"
+  ],
+  "correct": 1,
+  "explainEn": "Reserve Bank of India directed banks to accept cheques with a validity period of 3 months from the date of issuance, reduced from the earlier 6 months.",
+  "sourceHint": "RBI Circulars and Negotiable Instruments Act",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:21:14Z"
+ },
+ {
+  "id": "q_6bd59d9bbda1ba71",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which entity operates the Unified Payments Interface (UPI) platform in India?",
+  "qHi": "भारत में यूनिफाइड पेमेंट इंटरफेस (UPI) प्लेटफॉर्म का संचालन कौन सी संस्था करती है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "National Payments Corporation of India",
+   "State Bank of India",
+   "Telecom Regulatory Authority of India"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "भारतीय राष्ट्रीय भुगतान निगम",
+   "भारतीय स्टेट बैंक",
+   "भारतीय दूरसञ्चार विनियामक प्राधिकरण"
+  ],
+  "correct": 1,
+  "explainEn": "UPI is an initiative of the National Payments Corporation of India (NPCI), built to facilitate inter-bank transactions.",
+  "sourceHint": "NPCI Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:21:14Z"
+ },
+ {
+  "id": "q_ef7e11c354e3013e",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does 'S' stand for in the acronym 'SFGB', a specialized banking category in India?",
+  "qHi": "भारत में एक विशिष्ट बैंकिंग श्रेणी, संक्षिप्त नाम 'SFGB' में 'S' का क्या अर्थ है?",
+  "optsEn": [
+   "Scheduled",
+   "Small",
+   "Secured",
+   "Social"
+  ],
+  "optsHi": [
+   "अनुसूचित (Scheduled)",
+   "लघु (Small)",
+   "सुरक्षित (Secured)",
+   "सामाजिक (Social)"
+  ],
+  "correct": 1,
+  "explainEn": "SFGB stands for Small Finance Government Bank or Small Finance Bank, where SFB stands for Small Finance Bank. The correct term is Small Finance Bank.",
+  "sourceHint": "RBI Guidelines on Small Finance Banks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:21:14Z"
+ },
+ {
+  "id": "q_c5ecf27583412379",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Basel III capital ratio is designed specifically to act as a buffer to absorb losses during periods of systemic financial stress over and above the minimum regulatory requirements?",
+  "qHi": "कौन सा बे,सल III पूंजी अनुपात विशेष रूप से न्यूनतम नियामक आवश्यकताओं के अलावा प्रणालीगत वित्तीय तनाव की अवधि के दौरान नुकसान को अवशोषित करने के लिए एक बफर के रूप में कार्य करने के लिए डिज़ाइन किया गया है?",
+  "optsEn": [
+   "Capital Conservation Buffer",
+   "Leverage Ratio",
+   "Liquidity Coverage Ratio",
+   "Credit Valuation Adjustment"
+  ],
+  "optsHi": [
+   "पूंजी संरक्षण बफर",
+   "उत्तोलन अनुपात",
+   "तरलता कवरेज अनुपात",
+   "क्रेडिट वैल्यूएशन समायोजन"
+  ],
+  "correct": 0,
+  "explainEn": "The Capital Conservation Buffer (CCB) is designed to ensure that banks build up capital buffers during normal times that can be drawn down during periods of stress.",
+  "sourceHint": "Basel III: A global regulatory framework for more resilient banks and banking systems - BIS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:22:30Z"
+ },
+ {
+  "id": "q_922b98117274f66a",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian money markets, what is the maximum maturity period for a Certificate of Deposit (CD) that can be issued by scheduled commercial banks?",
+  "qHi": "भारतीय मुद्रा बाजार के संदर्भ में, अनुसूचित वाणिज्यिक बैंकों द्वारा जारी किए जाने वाले जमा प्रमाणपत्र (CD) की अधिकतम परिपक्वता अवधि क्या है?",
+  "optsEn": [
+   "1 year",
+   "3 years",
+   "5 years",
+   "No maximum maturity limit"
+  ],
+  "optsHi": [
+   "1 वर्ष",
+   "3 वर्ष",
+   "5 वर्ष",
+   "कोई अधिकतम परिपक्वता सीमा नहीं"
+  ],
+  "correct": 1,
+  "explainEn": "As per RBI guidelines, Certificates of Deposit can be issued by scheduled commercial banks with a maturity period of not less than 7 days and up to a maximum of one year, while for All India Financial Institutions, the maximum maturity is up to 3 years.",
+  "sourceHint": "RBI Master Directions - Reserve Bank of India (Instructions on Certificates of Deposit)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:22:30Z"
+ },
+ {
+  "id": "q_c1d188b4423f3272",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which institutional mechanism in India operates the Trade Receivables Discounting System (TReDS) platform to facilitate the financing of micro, small and medium enterprises (MSME) trade receivables?",
+  "qHi": "सूक्ष्म, लघु और मध्यम उद्यम (MSME) व्यापार प्राप्तियों के वित्तपोषण की सुविधा के लिए भारत में कौन सा संस्थागत तंत्र व्यापार प्राप्तियों छूट प्रणाली (TReDS) मंच संचालित करता है?",
+  "optsEn": [
+   "National Payments Corporation of India",
+   "Small Industries Development Bank of India",
+   "Authorized Electronic Platform Providers",
+   "Export Credit Guarantee Corporation of India"
+  ],
+  "optsHi": [
+   "भारतीय राष्ट्रीय भुगतान निगम",
+   "भारतीय लघु उद्योग विकास बैंक",
+   "अधिकृत इलेक्ट्रॉनिक मंच प्रदाता",
+   "भारतीय निर्यात ऋण गारंटी निगम"
+  ],
+  "correct": 2,
+  "explainEn": "TReDS is an electronic platform for facilitating the discounting of trade receivables of MSMEs through multiple financiers, operated by entities authorized by the RBI.",
+  "sourceHint": "RBI Guidelines on Trade Receivables Discounting System (TReDS)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:22:30Z"
+ },
+ {
+  "id": "q_b190cd0ad8b0de0e",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What does the 'L' stand for in the LAF corridor framework managed by the Reserve Bank of India for liquidity management?",
+  "qHi": "तरलता प्रबंधन के लिए भारतीय रिजर्व बैंक द्वारा प्रबंधित एलएएफ (LAF) कॉरिडोर फ्रेमवर्क में 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liability",
+   "Liquidity",
+   "Lending",
+   "Leverage"
+  ],
+  "optsHi": [
+   "देयता (Liability)",
+   "तरलता (Liquidity)",
+   "उधार (Lending)",
+   "उत्तोलन (Leverage)"
+  ],
+  "correct": 1,
+  "explainEn": "LAF stands for Liquidity Adjustment Facility, which is a monetary policy tool used by the RBI to absorb or inject liquidity into the financial system.",
+  "sourceHint": "RBI Monetary Policy Framework - Reserve Bank of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:22:30Z"
+ },
+ {
+  "id": "q_b7df34ec903e8b7a",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Credit Information Companies (Regulation) Act, 2005, what is the primary prerequisite for an entity to operate as a Credit Information Company in India?",
+  "qHi": "क्रेडिट सूचना कंपनियां (विनिमय) अधिनियम, 2005 के तहत, भारत में क्रेडिट सूचना कंपनी के रूप में संचालन करने वाली संस्था के लिए प्राथमिक पूर्वापेक्षा क्या है?",
+  "optsEn": [
+   "Certificate of Registration from SEBI",
+   "Certificate of Registration from RBI",
+   "License from the Ministry of Corporate Affairs",
+   "Approval from the Insolvency and Bankruptcy Board"
+  ],
+  "optsHi": [
+   "सेबी से पंजीकरण प्रमाण पत्र",
+   "आरबीआई से पंजीकरण प्रमाण पत्र",
+   "कॉर्पोरेट मामलों के मंत्रालय से लाइसेंस",
+   "दिवाला और दिवालियापन बोर्ड से अनुमोदन"
+  ],
+  "correct": 1,
+  "explainEn": "Credit Information Companies (CICs) such as CIBIL, Experian, etc., must obtain a Certificate of Registration from the Reserve Bank of India under the Credit Information Companies (Regulation) Act, 2005.",
+  "sourceHint": "Credit Information Companies (Regulation) Act, 2005 - RBI",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:22:30Z"
  }
 ]

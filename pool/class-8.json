@@ -29930,5 +29930,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-25T21:48:38Z"
+ },
+ {
+  "id": "q_1963d0a27fcd33e1",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "During the British colonial rule in India, what was the main crop cultivated under the Ryotwari system?",
+  "qHi": "भारत में ब्रिटिश औपनिवेशिक शासन के दौरान, रयतवारी व्यवस्था के तहत मुख्य रूप से कौन सी फसल उगाई जाती थी?",
+  "optsEn": [
+   "Tea",
+   "Opium",
+   "There was no single fixed crop imposed",
+   "Wheat exclusively"
+  ],
+  "optsHi": [
+   "चाय",
+   "अफीम",
+   "कोई एक निश्चित फसल अनिवार्य नहीं थी",
+   "विशेष रूप से गेहूं"
+  ],
+  "correct": 2,
+  "explainEn": "Unlike the indigo or opium systems which forced specific crops, the Ryotwari system was a direct land revenue settlement with cultivators based on the land they held, without mandating a single specific crop.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:21:31Z"
+ },
+ {
+  "id": "q_a8fc4c8c9d03fb14",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the British colonial period in India, the Permanent Settlement was introduced in 1793 primarily to ensure a fixed and regular revenue flow. Who was the Governor-General of Bengal at that time?",
+  "qHi": "भारत में ब्रिटिश औपनिवेशिक शासन के दौरान, राजस्व का एक निश्चित और नियमित प्रवाह सुनिश्चित करने के लिए मुख्य रूप से 1793 में स्थायी बंदोबस्त (Permanent Settlement) शुरू किया गया था। उस समय बंगाल के गवर्नर-जनरल कौन थे?",
+  "optsEn": [
+   "Lord Warren Hastings",
+   "Lord Cornwallis",
+   "Lord Wellesley",
+   "Lord Dalhousie"
+  ],
+  "optsHi": [
+   "लॉर्ड वॉरेन हेस्टिंग्स",
+   "लॉर्ड कॉर्नवॉलिस",
+   "लॉर्ड वेलेजली",
+   "लॉर्ड डलहौजी"
+  ],
+  "correct": 1,
+  "explainEn": "Lord Cornwallis introduced the Permanent Settlement in Bengal in 1793.",
+  "sourceHint": "NCERT Class 8 History - Ruling the Countryside",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:22:55Z"
+ },
+ {
+  "id": "q_ddb3a41b83ec9f57",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following cell organelles is responsible for the synthesis of lipids and detoxifies poisons and drugs in animal cells?",
+  "qHi": "निम्नलिखित में से कौन सा कोशिका अंगक जंतु कोशिकाओं में लिपिड के संश्लेषण और विषैले पदार्थों तथा औषधियों के निराविषीकरण के लिए उत्तरदायी है?",
+  "optsEn": [
+   "Rough Endoplasmic Reticulum",
+   "Smooth Endoplasmic Reticulum",
+   "Golgi Apparatus",
+   "Lysosome"
+  ],
+  "optsHi": [
+   "खुरदरा अंतःप्रद्रव्यी जालिका",
+   "चिकनी अंतःप्रद्रव्यी जालिका",
+   "गॉल्जी उपकरण",
+   "लाइसोसोम"
+  ],
+  "correct": 1,
+  "explainEn": "Smooth Endoplasmic Reticulum (SER) helps in the manufacture of lipids and plays a crucial role in detoxifying many poisons and drugs.",
+  "sourceHint": "NCERT Class 8 Science - Cell Structure and Functions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:22:55Z"
+ },
+ {
+  "id": "q_7e20f06e064f7dfa",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the Indian Parliament, what is the mandatory constitutional minimum fraction of the total members required to be present to constitute a quorum for transacting business?",
+  "qHi": "भारतीय संसद में, सदन की कार्यवाही संचालित करने के लिए गणपूर्ति (कोरम) गठित करने हेतु कुल सदस्यों की कितनी अनिवार्य संवैधानिक न्यूनतम भिन्न (अंश) उपस्थिति आवश्यक है?",
+  "optsEn": [
+   "One-tenth",
+   "One-fourth",
+   "One-third",
+   "One-half"
+  ],
+  "optsHi": [
+   "दसवां हिस्सा",
+   "चौथा हिस्सा",
+   "तिहाई हिस्सा",
+   "आधा हिस्सा"
+  ],
+  "correct": 0,
+  "explainEn": "Article 100(3) of the Constitution of India specifies that the quorum to constitute a meeting of either House of Parliament shall be one-tenth of the total number of members of the House.",
+  "sourceHint": "Constitution of India, Article 100",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:22:55Z"
+ },
+ {
+  "id": "q_94a887c55622b7ce",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which non-metal is liquid at room temperature and was discovered by the French chemist Antoine Jérôme Balard in 1826?",
+  "qHi": "कौन सा अधातु कमरे के तापमान पर तरल होता है और जिसकी खोज 1826 में फ्रांसीसी रसायनज्ञ एंटोनी जेरोम बार्ड द्वारा की गई थी?",
+  "optsEn": [
+   "Mercury",
+   "Bromine",
+   "Gallium",
+   "Chlorine"
+  ],
+  "optsHi": [
+   "पारा",
+   "ब्रोमीन",
+   "गैलियम",
+   "क्लोरीन"
+  ],
+  "correct": 1,
+  "explainEn": "Bromine is a halogen and is the only non-metallic element that is liquid under standard conditions.",
+  "sourceHint": "NCERT Class 8 Science - Materials: Metals and Non-Metals",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:22:55Z"
+ },
+ {
+  "id": "q_73f9b1ae3df5550b",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In agricultural practices, which specific method of irrigation involves the application of water to crops through a network of pipes and valves, allowing water to drip slowly directly to the roots of plants?",
+  "qHi": "कृषि पद्धतियों में, सिंचाई की किस विशिष्ट विधि में पाइपों और वाल्वों के एक नेटवर्क के माध्यम से फसलों को पानी दिया जाता है, जिससे पानी सीधे पौधों की जड़ों में धीरे-धीरे टपकता है?",
+  "optsEn": [
+   "Sprinkler system",
+   "Drip system",
+   "Rahat system",
+   "Chain pump"
+  ],
+  "optsHi": [
+   "छिड़काव तंत्र",
+   "ड्रिप तंत्र",
+   "रहट तंत्र",
+   "चेन पंप"
+  ],
+  "correct": 1,
+  "explainEn": "In the drip system, water falls drop by drop right near the roots, minimizing water wastage.",
+  "sourceHint": "NCERT Class 8 Science - Crop Production and Management",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:22:55Z"
+ },
+ {
+  "id": "q_3e304f371b293ae8",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Indian Constitution, the power to issue writs for the enforcement of Fundamental Rights is vested in which courts?",
+  "qHi": "भारतीय संविधान के तहत, मौलिक अधिकारों को लागू करने के लिए रिट (Writ) जारी करने की शक्ति किन न्यायालयों में निहित है?",
+  "optsEn": [
+   "Only the Supreme Court",
+   "Only the High Courts",
+   "Both the Supreme Court and the High Courts",
+   "All District and Sessions Courts"
+  ],
+  "optsHi": [
+   "केवल उच्चतम न्यायालय",
+   "केवल उच्च न्यायालय",
+   "उच्चतम न्यायालय और उच्च न्यायालय दोनों",
+   "सभी जिला और सत्र न्यायालय"
+  ],
+  "correct": 2,
+  "explainEn": "Article 32 gives power to the Supreme Court and Article 226 gives power to the High Courts to issue writs for enforcing Fundamental Rights.",
+  "sourceHint": "NCERT Class 8 Civics - Understanding Our Criminal Justice System / Constitution",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:22:55Z"
+ },
+ {
+  "id": "q_0286b3a4bbdadff3",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Coal is formed from the remains of dead vegetation over millions of years under high pressure and temperature. What is the slow process of conversion of dead vegetation into coal called?",
+  "qHi": "उच्च दबाव और तापमान के तहत लाखों वर्षों में मृत वनस्पति के अवशेषों से कोयला बनता है। मृत वनस्पति के कोयले में परिवर्तन की धीमी प्रक्रिया को क्या कहा जाता है?",
+  "optsEn": [
+   "Carbonisation",
+   "Catagenesis",
+   "Fermentation",
+   "Distillation"
+  ],
+  "optsHi": [
+   "कार्बोनीकरण",
+   "कैटाजेनेसिस",
+   "किण्वन",
+   "आसवन"
+  ],
+  "correct": 0,
+  "explainEn": "The slow process of conversion of dead vegetation into coal is called carbonisation.",
+  "sourceHint": "NCERT Class 8 Science - Coal and Petroleum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T08:22:55Z"
  }
 ]
