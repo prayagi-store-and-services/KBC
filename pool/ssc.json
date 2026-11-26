@@ -25506,5 +25506,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-26T08:22:21Z"
+ },
+ {
+  "id": "q_d8e2d67c94f1a35c",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which Indian state shares its maximum boundary with Myanmar?",
+  "qHi": "कौन सा भारतीय राज्य म्यांमार के साथ अपनी अधिकतम सीमा साझा करता है?",
+  "optsEn": [
+   "Arunachal Pradesh",
+   "Nagaland",
+   "Manipur",
+   "Mizoram"
+  ],
+  "optsHi": [
+   "अरुणाचल प्रदेश",
+   "नागालैंड",
+   "मणिपुर",
+   "मिजोरम"
+  ],
+  "correct": 0,
+  "explainEn": "Arunachal Pradesh shares the longest international border with Myanmar among the four Indian states sharing a border with it.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T21:33:47Z"
+ },
+ {
+  "id": "q_3de063d5ecb33ecb",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the chemical name of Vitamin C?",
+  "qHi": "विटामिन सी का रासायनिक नाम क्या है?",
+  "optsEn": [
+   "Ascorbic acid",
+   "Citric acid",
+   "Folic acid",
+   "Nitric acid"
+  ],
+  "optsHi": [
+   "एस्कॉर्बिक एसिड",
+   "साइट्रिक एसिड",
+   "फोलिक एसिड",
+   "नाइट्रिक एसिड"
+  ],
+  "correct": 0,
+  "explainEn": "Ascorbic acid is the scientific and chemical name for Vitamin C, which is found in citrus fruits.",
+  "sourceHint": "NCERT Class 7 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T21:33:47Z"
+ },
+ {
+  "id": "q_6236114e8387f9d8",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which amendment of the Constitution of India added the Fundamental Duties as recommended by the Swaran Singh Committee?",
+  "qHi": "स्वर्ण सिंह समिति की सिफारिश पर भारत के संविधान के किस संशोधन द्वारा मौलिक कर्तव्यों को जोड़ा गया था?",
+  "optsEn": [
+   "42nd Amendment",
+   "44th Amendment",
+   "73rd Amendment",
+   "86th Amendment"
+  ],
+  "optsHi": [
+   "42वां संशोधन",
+   "44वां संशोधन",
+   "73वां संशोधन",
+   "86वां संशोधन"
+  ],
+  "correct": 0,
+  "explainEn": "The 42nd Constitutional Amendment Act of 1976 added Part IV-A and Article 51A to the Constitution, introducing 10 Fundamental Duties.",
+  "sourceHint": "Constitution of India, Article 51A / NCERT",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T21:34:43Z"
+ },
+ {
+  "id": "q_88a274491f9561ff",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary commercial ore of aluminium?",
+  "qHi": "एल्युमिनियम का मुख्य व्यावसायिक अयस्क कौन सा है?",
+  "optsEn": [
+   "Haematite",
+   "Bauxite",
+   "Calamine",
+   "Cuprite"
+  ],
+  "optsHi": [
+   "हेमेटाइट",
+   "बॉักसाइट (बॉक्साइड)",
+   "कैलामाइन",
+   "क्यूप्राइट"
+  ],
+  "correct": 1,
+  "explainEn": "Bauxite is the principal ore of aluminium, consisting mainly of hydrated aluminium oxides.",
+  "sourceHint": "NCERT Class 10 Science, Minerals and Energy Resources",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T21:34:43Z"
+ },
+ {
+  "id": "q_0abaa50b9116c8ba",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which river basin is shared by the states of Karnataka, Kerala, and Tamil Nadu, and flows into the Bay of Bengal?",
+  "qHi": "कौन सा नदी बेसिन कर्नाटक, केरल और तमिलनाडु राज्यों द्वारा साझा किया जाता है और बंगाल की खाड़ी में गिरता है?",
+  "optsEn": [
+   "Narmada",
+   "Mahanadi",
+   "Kaveri",
+   "Tapti"
+  ],
+  "optsHi": [
+   "नर्मदा",
+   "महानदी",
+   "कावेरी",
+   "तापी"
+  ],
+  "correct": 2,
+  "explainEn": "The Kaveri (Cauvery) river basin drains parts of Karnataka, Kerala, and Tamil Nadu before emptying into the Bay of Bengal.",
+  "sourceHint": "NCERT Class 9 Geography, Drainage System",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T21:34:43Z"
  }
 ]

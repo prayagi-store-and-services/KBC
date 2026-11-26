@@ -25170,5 +25170,201 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-26T08:22:35Z"
+ },
+ {
+  "id": "q_e0db43972b3e3451",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which Indian state is the classical dance form Bharatanatyam originally from?",
+  "qHi": "शास्त्रीय नृत्य शैली भरतनाट्यम मूल रूप से किस भारतीय राज्य की है?",
+  "optsEn": [
+   "Kerala",
+   "Tamil Nadu",
+   "Andhra Pradesh",
+   "Karnataka"
+  ],
+  "optsHi": [
+   "केरल",
+   "तमिलनाडु",
+   "आंध्र प्रदेश",
+   "कर्नाटक"
+  ],
+  "correct": 1,
+  "explainEn": "Bharatanatyam originated in the Hindu temples of Tamil Nadu.",
+  "sourceHint": "Ministry of Culture, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T21:33:19Z"
+ },
+ {
+  "id": "q_20e1b610784202b6",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian state has the coastline with the maximum length?",
+  "qHi": "किस भारतीय राज्य की तटरेखा की लंबाई सबसे अधिक है?",
+  "optsEn": [
+   "Andhra Pradesh",
+   "Maharashtra",
+   "Gujarat",
+   "Tamil Nadu"
+  ],
+  "optsHi": [
+   "आंध्र प्रदेश",
+   "महाराष्ट्र",
+   "गुजरात",
+   "तमिलनाडु"
+  ],
+  "correct": 2,
+  "explainEn": "Gujarat has the longest coastline among all Indian states due to its numerous indentations and the Kathiawar peninsula.",
+  "sourceHint": "NCERT Geography Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T21:35:25Z"
+ },
+ {
+  "id": "q_1fc8d327c8bf5b45",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Schedule of the Constitution of India contains provisions regarding the disqualification of members on grounds of defection?",
+  "qHi": "भारत के संविधान की किस अनुसूची में दलबदल के आधार पर सदस्यों की अयोग्यता से संबंधित प्रावधान हैं?",
+  "optsEn": [
+   "Eighth Schedule",
+   "Tenth Schedule",
+   "Ninth Schedule",
+   "Twelfth Schedule"
+  ],
+  "optsHi": [
+   "आठवीं अनुसूची",
+   "दसवीं अनुसूची",
+   "नवीं अनुसूची",
+   "बारहवीं अनुसूची"
+  ],
+  "correct": 1,
+  "explainEn": "The Tenth Schedule, popularly known as the Anti-Defection Law, was added by the 52nd Constitutional Amendment Act of 1985.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T21:35:25Z"
+ },
+ {
+  "id": "q_afda5a63a393937f",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who wrote the Sanskrit play 'Malavikagnimitra'?",
+  "qHi": "संस्कृत नाटक 'मालविकाग्निमित्र' के लेखक कौन हैं?",
+  "optsEn": [
+   "Bhasa",
+   "Kalidasa",
+   "Shudraka",
+   "Bhavabhuti"
+  ],
+  "optsHi": [
+   "भास",
+   "कालिदास",
+   "शूद्रक",
+   "भवभूति"
+  ],
+  "correct": 1,
+  "explainEn": "Malavikagnimitra is a Sanskrit play by Kalidasa, based on the events of the reign of Pushyamitra Sunga.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T21:35:25Z"
+ },
+ {
+  "id": "q_251d47e9f45fa435",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian classical music, what is a 'That'?",
+  "qHi": "भारतीय शास्त्रीय संगीत के संदर्भ में, 'थाट' क्या है?",
+  "optsEn": [
+   "A rhythmic cycle",
+   "A type of string instrument",
+   "A parent scale of ragas",
+   "A vocal ornamentation"
+  ],
+  "optsHi": [
+   "एक ताल चक्र",
+   "एक प्रकार का तंतु वाद्य यंत्र",
+   "रागों का जनक पैमाना",
+   "एक स्वर अलंकृत शैली"
+  ],
+  "correct": 2,
+  "explainEn": "A 'That' in Hindustani classical music is a system of classification of ragas based on a parent scale containing seven notes.",
+  "sourceHint": "NCERT Fine Arts Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T21:35:25Z"
+ },
+ {
+  "id": "q_15255e9c8b90e300",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which plateau lies between the Aravalli and Vindhya ranges?",
+  "qHi": "अरावली और विंध्य श्रेणियों के बीच कौन सा पठार स्थित है?",
+  "optsEn": [
+   "Chota Nagpur Plateau",
+   "Malwa Plateau",
+   "Deccan Plateau",
+   "Shillong Plateau"
+  ],
+  "optsHi": [
+   "छोटा नागपुर पठार",
+   "मालवा पठार",
+   "दक्कन का पठार",
+   "शिलांग पठार"
+  ],
+  "correct": 1,
+  "explainEn": "The Malwa Plateau is bounded by the Aravalli range in the west and the Vindhyan range in the south.",
+  "sourceHint": "NCERT Geography Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T21:35:25Z"
+ },
+ {
+  "id": "q_f5a77dbccd8f885c",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Mughal Emperor abolished the pilgrim tax on Hindus in 1563?",
+  "qHi": "किस मुगल सम्राट ने 1563 में हिंदुओं पर लगने वाले तीर्थ कर को समाप्त कर दिया था?",
+  "optsEn": [
+   "Akbar",
+   "Aurangzeb",
+   "Humayun",
+   "Shah Jahan"
+  ],
+  "optsHi": [
+   "अकबर",
+   "औरंगजेब",
+   "हुमायूं",
+   "शाहजहाँ"
+  ],
+  "correct": 0,
+  "explainEn": "Akbar abolished the pilgrim tax in 1563 and jizya in 1564, reflecting his policy of religious tolerance.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T21:35:25Z"
  }
 ]

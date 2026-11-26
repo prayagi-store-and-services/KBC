@@ -35334,5 +35334,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-26T08:22:44Z"
+ },
+ {
+  "id": "q_a56e73eacefb9b18",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is a source of renewable energy?",
+  "qHi": "निम्नलिखित में से कौन सी ऊर्जा का नवीकरणीय स्रोत है?",
+  "optsEn": [
+   "Coal",
+   "Petrol",
+   "Solar energy",
+   "Diesel"
+  ],
+  "optsHi": [
+   "कोयला",
+   "पेट्रोल",
+   "सौर ऊर्जा",
+   "डीजल"
+  ],
+  "correct": 2,
+  "explainEn": "Solar energy comes from the sun and is renewable, unlike coal and petroleum.",
+  "sourceHint": "NCERT Science / EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T21:33:23Z"
+ },
+ {
+  "id": "q_28ed6c18f07b4ed8",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Seeds of which plant are known to disperse mainly by water?",
+  "qHi": "किस पौधे के बीज मुख्य रूप से पानी द्वारा प्रकीर्णित होते हैं?",
+  "optsEn": [
+   "Maple",
+   "Dandelion",
+   "Lotus",
+   "Xanthium"
+  ],
+  "optsHi": [
+   "मेपल",
+   "डंडेलियन",
+   "कमल",
+   "जैंथियम"
+  ],
+  "correct": 2,
+  "explainEn": "Lotus and coconut seeds have spongy or fibrous outer coats that help them float and disperse through water.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T21:33:59Z"
+ },
+ {
+  "id": "q_c8d8fac483359fab",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which part of a plant does gaseous exchange primarily take place during the night when photosynthesis is absent?",
+  "qHi": "रात के समय जब प्रकाश संश्लेषण नहीं होता है, तो पौधे के किस भाग में मुख्य रूप से गैसीय आदान-प्रदान होता है?",
+  "optsEn": [
+   "Stomata on leaves",
+   "Xylem vessels",
+   "Root hairs",
+   "Flower petals"
+  ],
+  "optsHi": [
+   "पत्तियों के रंध्र",
+   "जाइलम वाहिकाएं",
+   "मूल रोम",
+   "फूल की पंखुड़ियां"
+  ],
+  "correct": 0,
+  "explainEn": "Stomata are tiny pores present on the surface of leaves that facilitate the exchange of gases for respiration even at night.",
+  "sourceHint": "NCERT Class 7 Science Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T21:35:33Z"
+ },
+ {
+  "id": "q_5971c42aaa3b1243",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional Indian water harvesting system involves deep underground stepwells found commonly in arid regions like Rajasthan?",
+  "qHi": "राजस्थान जैसे शुष्क क्षेत्रों में पाई जाने वाली किस पारंपरिक भारतीय जल संचयन प्रणाली में गहरी भूमिगत सीढ़ीदार कुएं शामिल हैं?",
+  "optsEn": [
+   "Baolis",
+   "Kuls",
+   "Zings",
+   "Johads"
+  ],
+  "optsHi": [
+   "बावली",
+   "कुल",
+   "जिंग",
+   "जोहड़"
+  ],
+  "correct": 0,
+  "explainEn": "Baolis or stepwells were traditionally built in dry parts of India to collect and store rainwater for community use.",
+  "sourceHint": "NCERT Class 5 Environmental Studies Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T21:35:33Z"
+ },
+ {
+  "id": "q_1f00c2c801df8250",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary function of the red blood cells in the human circulatory system?",
+  "qHi": "मानव परिसंचरण तंत्र में लाल रक्त कोशिकाओं का प्राथमिक कार्य क्या है?",
+  "optsEn": [
+   "Carrying oxygen to various body tissues",
+   "Fighting against foreign germs and bacteria",
+   "Helping in blood clotting after an injury",
+   "Transporting digested food nutrients"
+  ],
+  "optsHi": [
+   "शरीर के विभिन्न ऊतकों तक ऑक्सीजन ले जाना",
+   "विदेशी रोगाणुओं और बैक्टीरिया से लड़ना",
+   "चोट लगने के बाद रक्त का थक्का जमाने में मदद करना",
+   "पचे हुए भोजन के पोषक तत्वों का परिवहन करना"
+  ],
+  "correct": 0,
+  "explainEn": "Red blood cells contain hemoglobin, a protein that binds to oxygen and transports it from the lungs to all parts of the body.",
+  "sourceHint": "NCERT Class 7 Science Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T21:35:33Z"
+ },
+ {
+  "id": "q_dd32ddd60a97cdcd",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which mountain range separates the northern plains of India from the Tibetan Plateau?",
+  "qHi": "कौन सी पर्वत श्रृंखला भारत के उत्तरी मैदानों को तिब्बती पठार से अलग करती है?",
+  "optsEn": [
+   "The Himalayas",
+   "The Western Ghats",
+   "The Aravalli Range",
+   "The Vindhya Range"
+  ],
+  "optsHi": [
+   "हिमालय",
+   "पश्चिमी घाट",
+   "अरावली श्रेणी",
+   "विंध्य श्रेणी"
+  ],
+  "correct": 0,
+  "explainEn": "The Himalayas form a massive natural barrier along the northern border of India, separating it from the Tibetan Plateau.",
+  "sourceHint": "NCERT Class 6 Social Science Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T21:35:33Z"
+ },
+ {
+  "id": "q_7cf77e93e1153946",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which layer of the atmosphere is closest to the Earth surface and contains the air we breathe?",
+  "qHi": "वायुमंडल की कौन सी परत पृथ्वी की सतह के सबसे करीब है और इसमें वह हवा है जिसे हम सांस लेते हैं?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षोभमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 0,
+  "explainEn": "The troposphere is the lowest layer of Earth's atmosphere and contains roughly 75 percent of the atmosphere's mass.",
+  "sourceHint": "NCERT Class 7 Geography Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T21:35:33Z"
+ },
+ {
+  "id": "q_b729ab3685198b01",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of simple machine is a seesaw found in a children playground?",
+  "qHi": "बच्चों के खेल के मैदान में पाया जाने वाला सीसा (झूला) किस प्रकार की सरल मशीन है?",
+  "optsEn": [
+   "Lever",
+   "Pulley",
+   "Inclined plane",
+   "Screw"
+  ],
+  "optsHi": [
+   "उत्पूलक",
+   "घिरनी",
+   "नत समतल",
+   "पेंच"
+  ],
+  "correct": 0,
+  "explainEn": "A seesaw is a classic example of a first-class lever, operating around a central fixed pivot point called a fulcrum.",
+  "sourceHint": "NCERT Science Curriculum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T21:35:33Z"
  }
 ]

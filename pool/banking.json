@@ -44742,5 +44742,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-26T08:22:30Z"
+ },
+ {
+  "id": "q_6e29534b3b2e9583",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which public sector bank in India was merged into Punjab National Bank along with Oriental Bank of Commerce in 2020?",
+  "qHi": "2020 में ओरिएंटल बैंक ऑफ कॉमर्स के साथ भारत के किस सार्वजनिक क्षेत्र के बैंक का पंजाब नेशनल बैंक में विलय कर दिया गया था?",
+  "optsEn": [
+   "Syndicate Bank",
+   "United Bank of India",
+   "Corporation Bank",
+   "Dena Bank"
+  ],
+  "optsHi": [
+   "Syndicate Bank",
+   "United Bank of India",
+   "Corporation Bank",
+   "Dena Bank"
+  ],
+  "correct": 1,
+  "explainEn": "United Bank of India and Oriental Bank of Commerce were amalgamated into Punjab National Bank effective April 1, 2020.",
+  "sourceHint": "Ministry of Finance, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T21:33:52Z"
+ },
+ {
+  "id": "q_b097c05963f811d3",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Under the Priority Sector Lending (PSL) norms in India, what does the term 'MSME' stand for?",
+  "qHi": "भारत में प्राथमिकता प्राप्त क्षेत्र को ऋण (PSL) मानदंडों के तहत, 'MSME' शब्द का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Medium and Small Manufacturing Enterprises",
+   "Micro, Small and Medium Enterprises",
+   "Macro, Small and Micro Enterprises",
+   "Micro and Small Market Enterprises"
+  ],
+  "optsHi": [
+   "Medium and Small Manufacturing Enterprises",
+   "Micro, Small and Medium Enterprises",
+   "Macro, Small and Micro Enterprises",
+   "Micro and Small Market Enterprises"
+  ],
+  "correct": 1,
+  "explainEn": "MSME stands for Micro, Small and Medium Enterprises, which form a crucial part of the priority sector lending targets for commercial banks.",
+  "sourceHint": "Ministry of MSME, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T21:33:52Z"
+ },
+ {
+  "id": "q_bb6959eb822320a5",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which card payment network is a domestic payment system developed by the National Payments Corporation of India (NPCI)?",
+  "qHi": "भारतीय राष्ट्रीय भुगतान निगम (NPCI) द्वारा विकसित घरेलू कार्ड भुगतान नेटवर्क कौन सा है?",
+  "optsEn": [
+   "Visa",
+   "Mastercard",
+   "RuPay",
+   "Maestro"
+  ],
+  "optsHi": [
+   "Visa",
+   "Mastercard",
+   "RuPay",
+   "Maestro"
+  ],
+  "correct": 2,
+  "explainEn": "RuPay is India's domestic card scheme conceived and launched by NPCI to facilitate electronic payments at all Indian banks and ATMs.",
+  "sourceHint": "NPCI official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T21:33:52Z"
+ },
+ {
+  "id": "q_327ade0ed5dd8765",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the primary objective of monetary policy committee (MPC) in India headed by the RBI Governor?",
+  "qHi": "RBI गवर्नर की अध्यक्षता वाली भारत की मौद्रिक नीति समिति (MPC) का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "Inflation targeting",
+   "Fixing income tax slabs",
+   "Managing railway tariffs",
+   "Regulating stock market trading"
+  ],
+  "optsHi": [
+   "मुस्फीति लक्ष्यीकरण (Inflation targeting)",
+   "आयकर स्लैब तय करना",
+   "रेलवे टैरिफ का प्रबंधन करना",
+   "स्टॉक मार्केट ट्रेडिंग को विनियमित करना"
+  ],
+  "correct": 0,
+  "explainEn": "The primary objective of the MPC is maintaining price stability while keeping in mind the objective of growth, implemented through inflation targeting.",
+  "sourceHint": "Reserve Bank of India Act, 1934",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T21:33:52Z"
+ },
+ {
+  "id": "q_377670765f1e380b",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which term is used to describe a bank account held by an Indian commercial bank in a foreign currency with a correspondent bank abroad?",
+  "qHi": "विदेशी बैंक के साथ विदेशी मुद्रा में भारतीय वाणिज्यिक बैंक द्वारा रखे गए बैंक खाते का वर्णन करने के लिए किस शब्द का उपयोग किया जाता है?",
+  "optsEn": [
+   "Nostro Account",
+   "Vostro Account",
+   "Loro Account",
+   "Current Account"
+  ],
+  "optsHi": [
+   "Nostro Account",
+   "Vostro Account",
+   "Loro Account",
+   "Current Account"
+  ],
+  "correct": 0,
+  "explainEn": "A Nostro account is an account held by a domestic bank in a foreign currency in a foreign bank, meaning 'our money on deposit with you'.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T21:33:52Z"
+ },
+ {
+  "id": "q_0608e0fc3c36a845",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does 'M' stand for in the financial term 'MSME'?",
+  "qHi": "वित्तीय शब्द 'MSME' में 'M' का क्या अर्थ है?",
+  "optsEn": [
+   "Macro",
+   "Micro",
+   "Monetary",
+   "Mercantile"
+  ],
+  "optsHi": [
+   "मैक्रो",
+   "सूक्ष्म (माइक्रो)",
+   "मौद्रिक",
+   "मर्केंटाइल"
+  ],
+  "correct": 1,
+  "explainEn": "MSME stands for Micro, Small and Medium Enterprises.",
+  "sourceHint": "Ministry of Micro, Small and Medium Enterprises, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T21:34:47Z"
+ },
+ {
+  "id": "q_e6c2143fc0513830",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which market deals with the trading of short-term monetary assets and instruments with maturities up to one year?",
+  "qHi": "कौन सा बाजार एक वर्ष तक की परिपक्वता वाले अल्पकालिक मौद्रिक परिसंपत्तियों और उपकरणों के व्यापार से संबंधित है?",
+  "optsEn": [
+   "Capital market",
+   "Money market",
+   "Primary market",
+   "Commodity market"
+  ],
+  "optsHi": [
+   "पूंजी बाजार",
+   "मुद्रा बाजार (मनी मार्केट)",
+   "प्राथमिक बाजार",
+   "कमोडिटी बाजार"
+  ],
+  "correct": 1,
+  "explainEn": "The money market is a segment of the financial market where financial instruments with high liquidity and short maturities (up to one year) are traded.",
+  "sourceHint": "NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T21:34:47Z"
+ },
+ {
+  "id": "q_fbb6a8b51ea13201",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following is an asset-backed security created by pooling various loans and selling them to investors?",
+  "qHi": "विभिन्न ऋणों को एकत्रित करके और उन्हें निवेशकों को बेचकर बनाई गई परिसंपत्ति-समर्थित प्रतिभूति निम्नलिखित में से कौन सी है?",
+  "optsEn": [
+   "Securitisation",
+   "Underwriting",
+   "Arbitrage",
+   "Hedging"
+  ],
+  "optsHi": [
+   "प्रतिभूतीकरण (सिक्युरिटाइजेशन)",
+   "अंडरराइटिंग",
+   "आर्बिट्रेज",
+   "हेजिंग"
+  ],
+  "correct": 0,
+  "explainEn": "Securitisation is the process of pooling and repackaging homogeneous illiquid financial assets into marketable securities.",
+  "sourceHint": "RBI Master Directions on Securitisation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-26T21:34:47Z"
  }
 ]
