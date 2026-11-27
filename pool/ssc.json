@@ -25674,5 +25674,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-27T08:37:29Z"
+ },
+ {
+  "id": "q_ad9372d5e129fd1e",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who is the custodian of the Contingency Fund of India?",
+  "qHi": "भारत की आकस्मिकता निधि का संरक्षक कौन है?",
+  "optsEn": [
+   "Prime Minister of India",
+   "President of India",
+   "Finance Minister",
+   "Comptroller and Auditor General"
+  ],
+  "optsHi": [
+   "भारत के प्रधानमंत्री",
+   "भारत के राष्ट्रपति",
+   "वित्त मंत्री",
+   "नियंत्रक एवं महालेखा परीक्षक"
+  ],
+  "correct": 1,
+  "explainEn": "The Contingency Fund of India is placed at the disposal of the President of India to enable him to make advances for meeting urgent unforeseen expenditure.",
+  "sourceHint": "Indian Constitution, Article 267",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:18:43Z"
+ },
+ {
+  "id": "q_00937e9fd377e10f",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which Mauryan ruler is known for spreading Dhamma through rock and pillar edicts?",
+  "qHi": "किस मौर्य शासक को शिलालेखों और स्तंभ शिलालेखों के माध्यम से धम्म का प्रचार करने के लिए जाना जाता है?",
+  "optsEn": [
+   "Chandragupta Maurya",
+   "Bindusara",
+   "Ashoka",
+   "Dasharatha"
+  ],
+  "optsHi": [
+   "चंद्रगुप्त मौर्य",
+   "बिंदुसार",
+   "अशोक",
+   "दशरथ"
+  ],
+  "correct": 2,
+  "explainEn": "Emperor Ashoka extensively used rock and pillar edicts across his empire to propagate his policy of Dhamma.",
+  "sourceHint": "NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:18:43Z"
+ },
+ {
+  "id": "q_029856ec02d9c639",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which hill station is known as the Queen of the Satpuras?",
+  "qHi": "किस हिल स्टेशन को सतपुड़ा की रानी के रूप में जाना जाता है?",
+  "optsEn": [
+   "Pachmarhi",
+   "Matheran",
+   "Saputara",
+   "Kodaikanal"
+  ],
+  "optsHi": [
+   "पचमढ़ी",
+   "माथेरान",
+   "सापुतारा",
+   "कोडाईकनाल"
+  ],
+  "correct": 0,
+  "explainEn": "Pachmarhi is a hill station in Madhya Pradesh, widely known as Satpura ki Rani (Queen of Satpura).",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:18:43Z"
+ },
+ {
+  "id": "q_e71c7b6148b8a653",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which national highway is known as the Grank Trunk Road, combining National Highway 1 and National Highway 2 in India?",
+  "qHi": "भारत में राष्ट्रीय राजमार्ग 1 और राष्ट्रीय राजमार्ग 2 को मिलाकर किस राष्ट्रीय राजमार्ग को ग्रांड ट्रंक रोड के रूप में जाना जाता है?",
+  "optsEn": [
+   "National Highway 8",
+   "National Highway 44",
+   "National Highway 19",
+   "National Highway 48"
+  ],
+  "optsHi": [
+   "राष्ट्रीय राजमार्ग 8",
+   "राष्ट्रीय राजमार्ग 44",
+   "राष्ट्रीय राजमार्ग 19",
+   "राष्ट्रीय राजमार्ग 48"
+  ],
+  "correct": 2,
+  "explainEn": "National Highway 19, along with NH 44, forms the historic Grand Trunk Road stretching from Delhi to Kolkata.",
+  "sourceHint": "Ministry of Road Transport and Highways",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:19:33Z"
+ },
+ {
+  "id": "q_91523054be18ab44",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "The Battle of Wandiwash (1760) was fought between the British and which of the following European powers?",
+  "qHi": "वांडीवाश का युद्ध (1760) अंग्रेजों और निम्नलिखित में से किस यूरोपीय शक्ति के बीच लड़ा गया था?",
+  "optsEn": [
+   "The Portuguese",
+   "The Dutch",
+   "The French",
+   "The Danes"
+  ],
+  "optsHi": [
+   "पुर्तगाली",
+   "डच",
+   "फ्रांसीसी",
+   "डैनिश"
+  ],
+  "correct": 2,
+  "explainEn": "The Battle of Wandiwash was a decisive battle in India during the Seven Years' War, fought between the British forces led by Sir Eyre Coote and the French forces led by Comte de Lally.",
+  "sourceHint": "Spectrum's A Brief History of Modern India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:20:29Z"
+ },
+ {
+  "id": "q_e1c8e7d62e6e04ae",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary mechanism of heat transfer in the Earth's stratosphere?",
+  "qHi": "पृथ्वी के समताप मंडल (स्ट्रेटोस्फेयर) में ऊष्मा स्थानांतरण की प्राथमिक प्रणाली क्या है?",
+  "optsEn": [
+   "Conduction",
+   "Convection",
+   "Radiation",
+   "Advection"
+  ],
+  "optsHi": [
+   "चालन",
+   "संवहन",
+   "विकिरण",
+   "अभिवहन"
+  ],
+  "correct": 2,
+  "explainEn": "Radiation is the primary mechanism of heat transfer in the stratosphere, where temperature increases with altitude due to absorption of ultraviolet radiation by ozone.",
+  "sourceHint": "NCERT Class 11 Geography - Fundamentals of Physical Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:20:29Z"
+ },
+ {
+  "id": "q_108d17289565de54",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian monetary policy, which organization computes and publishes the Consumer Price Index (CPI) combined data?",
+  "qHi": "भारतीय मौद्रिक नीति के संदर्भ में, कौन सा संगठन उपभोक्ता मूल्य सूचकांक (CPI) संयुक्त डेटा की गणना और प्रकाशन करता है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "National Statistical Office",
+   "NITI Aayog",
+   "Ministry of Finance"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "राष्ट्रीय सांख्यिकी कार्यालय",
+   "नीति आयोग",
+   "वित्त मंत्रालय"
+  ],
+  "correct": 1,
+  "explainEn": "The National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation compiles and releases the CPI data in India.",
+  "sourceHint": "Ministry of Statistics and Programme Implementation (MOSPI) guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:20:29Z"
+ },
+ {
+  "id": "q_8fa0567bad0b95cf",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who among the following founded the 'Atmiya Sabha' in Kolkata in the year 1815?",
+  "qHi": "निम्नलिखित में से किसने वर्ष 1815 में कोलकाता में 'आत्मीय सभा' की स्थापना की थी?",
+  "optsEn": [
+   "Raja Ram Mohan Roy",
+   "Keshab Chandra Sen",
+   "Debendranath Tagore",
+   "Swami Vivekananda"
+  ],
+  "optsHi": [
+   "राजा राम मोहन राय",
+   "केशव चंद्र सेन",
+   "देवेन्द्रनाथ टैगोर",
+   "स्वामी विवेकानंद"
+  ],
+  "correct": 0,
+  "explainEn": "Raja Ram Mohan Roy founded Atmiya Sabha in 1815 as a philosophical discussion circle in Kolkata to campaign against idolatry, caste rigidities, and meaningless religious rituals.",
+  "sourceHint": "NCERT Class 8 and 12 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:20:29Z"
  }
 ]

@@ -45134,5 +45134,481 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-27T08:37:34Z"
+ },
+ {
+  "id": "q_acaa8f19dc2f2bd0",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In the context of Indian banking, what does the letter 'C' stand for in the acronym 'CASA' account?",
+  "qHi": "भारतीय बैंकिंग के संदर्भ में, 'CASA' खाते के संक्षिप्त रूप में अक्षर 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Current",
+   "Capital",
+   "Credit",
+   "Commercial"
+  ],
+  "optsHi": [
+   "Current",
+   "Capital",
+   "Credit",
+   "Commercial"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account Savings Account, referring to the current and savings bank accounts of depositors.",
+  "sourceHint": "Banking terminology textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:18:47Z"
+ },
+ {
+  "id": "q_85ff04f5220ae4c6",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum character length of an IFSC (Indian Financial System Code) used for electronic fund transfers in India?",
+  "qHi": "भारत में इलेक्ट्रॉनिक फंड ट्रांसफर के लिए उपयोग किए जाने वाले IFSC (इंडियन फाइनेंशियल सिस्टम कोड) की अधिकतम वर्ण लंबाई कितनी है?",
+  "optsEn": [
+   "10 characters",
+   "11 characters",
+   "12 characters",
+   "9 characters"
+  ],
+  "optsHi": [
+   "10 अक्षर",
+   "11 अक्षर",
+   "12 अक्षर",
+   "9 अक्षर"
+  ],
+  "correct": 1,
+  "explainEn": "An IFSC is an 11-character alpha-numeric code that uniquely identifies a bank branch participating in NEFT/RTGS.",
+  "sourceHint": "RBI payment systems documentation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:18:47Z"
+ },
+ {
+  "id": "q_2f2bfa6d8f21b58d",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following terms refers to the interest rate at which the Reserve Bank of India lends short-term funds to commercial banks?",
+  "qHi": "निम्नलिखित में से कौन सा शब्द उस ब्याज दर को संदर्भित करता है जिस पर भारतीय रिजर्व बैंक वाणिज्यिक बैंकों को अल्पकालिक धन उधार देता है?",
+  "optsEn": [
+   "Repo Rate",
+   "Bank Rate",
+   "Cash Reserve Ratio",
+   "Statutory Liquidity Ratio"
+  ],
+  "optsHi": [
+   "रेपो रेट",
+   "बैंक रेट",
+   "नकद आरक्षित अनुपात",
+   "वैधानिक तरलता अनुपात"
+  ],
+  "correct": 0,
+  "explainEn": "Repo Rate is the rate at which the central bank lends money to commercial banks in the event of any shortfall of funds.",
+  "sourceHint": "RBI Monetary Policy terminology",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:18:47Z"
+ },
+ {
+  "id": "q_ef6532ce8db724bd",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the term 'Repo Rate' stand for in the context of Indian monetary policy?",
+  "qHi": "भारतीय मौद्रिक नीति के संदर्भ में 'रेपो रेट' शब्द का क्या अर्थ है?",
+  "optsEn": [
+   "Rate at which commercial banks lend to the central bank",
+   "Rate at which the central bank lends short-term funds to commercial banks",
+   "Rate at which long-term infrastructure bonds are issued",
+   "Rate of interest charged on microfinance loans"
+  ],
+  "optsHi": [
+   "वह दर जिस पर वाणिज्यिक बैंक केंद्रीय बैंक को ऋण देते हैं",
+   "वह दर जिस पर केंद्रीय बैंक वाणिज्यिक बैंकों को अल्पावधि ऋण देता है",
+   "वह दर जिस पर दीर्घकालिक बुनियादी ढांचा बॉन्ड जारी किए जाते हैं",
+   "सूक्ष्म वित्त ऋणों पर ली जाने वाली ब्याज दर"
+  ],
+  "correct": 1,
+  "explainEn": "Repo rate is the rate at which the Reserve Bank of India lends short-term money to commercial banks against securities.",
+  "sourceHint": "RBI monetary policy definitions",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:19:38Z"
+ },
+ {
+  "id": "q_3529a805feac9615",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under which article of the Indian Constitution is the Annual Financial Statement (Union Budget) presented?",
+  "qHi": "भारतीय संविधान के किस अनुच्छेद के तहत वार्षिक वित्तीय विवरण (केंद्रीय बजट) प्रस्तुत किया जाता है?",
+  "optsEn": [
+   "Article 110",
+   "Article 112",
+   "Article 280",
+   "Article 360"
+  ],
+  "optsHi": [
+   "अनुच्छेद 110",
+   "अनुच्छेद 112",
+   "अनुच्छेद 280",
+   "अनुच्छेद 360"
+  ],
+  "correct": 1,
+  "explainEn": "Article 112 of the Constitution of India requires the government to present an annual financial statement detailing estimated receipts and expenditures.",
+  "sourceHint": "Constitution of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:19:38Z"
+ },
+ {
+  "id": "q_3d51ab6cde095cdf",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following entities is responsible for the calculation of the Index of Industrial Production (IIP) in India?",
+  "qHi": "भारत में औद्योगिक उत्पादन सूचकांक (IIP) की गणना के लिए निम्नलिखित में से कौन सी संस्था जिम्मेदार है?",
+  "optsEn": [
+   "Reserve Bank of India",
+   "NITI Aayog",
+   "National Statistical Office",
+   "Controller General of Accounts"
+  ],
+  "optsHi": [
+   "भारतीय रिजर्व बैंक",
+   "नीति आयोग",
+   "राष्ट्रीय सांख्यिकी कार्यालय",
+   "लेखा महानियंत्रक"
+  ],
+  "correct": 2,
+  "explainEn": "The National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation compiles and publishes the IIP.",
+  "sourceHint": "Ministry of Statistics and Programme Implementation",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:19:38Z"
+ },
+ {
+  "id": "q_f81b2d041337d8ad",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which money market instrument is also known as a zero-coupon bond issued by the Government of India?",
+  "qHi": "भारत सरकार द्वारा जारी किस मुद्रा बाजार साधन को ज़ीरो-कूपन बॉन्ड के रूप में भी जाना जाता है?",
+  "optsEn": [
+   "Treasury Bill",
+   "Commercial Paper",
+   "Certificate of Deposit",
+   "Promissory Note"
+  ],
+  "optsHi": [
+   "राजकोषीय बिल",
+   "वाणिज्यिक पत्र",
+   "जमा प्रमाणपत्र",
+   " promissory note"
+  ],
+  "correct": 0,
+  "explainEn": "Treasury bills are short-term zero-coupon instruments issued by the Government of India at a discount and redeemed at face value.",
+  "sourceHint": "RBI FAQ on Money Market Instruments",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:19:38Z"
+ },
+ {
+  "id": "q_90cd60db8e1c380b",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What does the letter 'L' stand for in the Liquidity Adjustment Facility (LAF) framework of the RBI?",
+  "qHi": "RBI के तरलता समायोजन सुविधा (LAF) ढांचे में 'L' अक्षर का क्या अर्थ है?",
+  "optsEn": [
+   "Liability",
+   "Liquidity",
+   "Leverage",
+   "Ledger"
+  ],
+  "optsHi": [
+   "लायबिलिटी",
+   "लिक्विडिटी",
+   "लीverage",
+   "लेजर"
+  ],
+  "correct": 1,
+  "explainEn": "LAF stands for Liquidity Adjustment Facility, which is a monetary policy tool used by the RBI.",
+  "sourceHint": "RBI Glossary",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:19:38Z"
+ },
+ {
+  "id": "q_ea9461f4eec49278",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In the context of banking operations in India, what does 'CASA' stand for?",
+  "qHi": "भारत में बैंकिंग संचालन के संदर्भ में 'CASA' का क्या अर्थ है?",
+  "optsEn": [
+   "Current Account Savings Account",
+   "Credit Asset Security Agreement",
+   "Capital Allocation and Statutory Audit",
+   "Cash Assets and Statutory Advances"
+  ],
+  "optsHi": [
+   "करेंट अकाउंट सेविंग्स अकाउंट",
+   "क्रेडिट एसेट सिक्योरिटी एग्रीमेंट",
+   "कैपिटल एलोकेशन एंड स्टैच्युरी ऑडिट",
+   "कैश एसेट्स एंड स्टैच्युरी एडवांसेज"
+  ],
+  "correct": 0,
+  "explainEn": "CASA stands for Current Account Savings Account, representing low-cost deposits for commercial banks.",
+  "sourceHint": "Indian Institute of Banking and Finance (IIBF) study material",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:19:38Z"
+ },
+ {
+  "id": "q_2fffcc02cd62b1f0",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which financial institution in India is statutorily mandated to maintain the Depositor Education and Awareness (DEA) Fund under the Banking Regulation Act, 1949?",
+  "qHi": "बैंकिंग विनियमन अधिनियम, 1949 के तहत भारत में कौन सा वित्तीय संस्थान जमाकर्ता शिक्षा और जागरूकता (DEA) कोष को बनाए रखने के लिए वैधानिक रूप से अनिवार्य है?",
+  "optsEn": [
+   "Securities and Exchange Board of India",
+   "Reserve Bank of India",
+   "Deposit Insurance and Credit Guarantee Corporation",
+   "National Bank for Agriculture and Rural Development"
+  ],
+  "optsHi": [
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "भारतीय रिजर्व बैंक",
+   "निक्षेप बीमा और प्रत्यय गारंटी निगम",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "Section 26A of the Banking Regulation Act, 1949 empowers the Reserve Bank of India to establish the Depositor Education and Awareness Fund, comprising unclaimed deposits.",
+  "sourceHint": "Banking Regulation Act, 1949 / RBI Master Circular",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:20:35Z"
+ },
+ {
+  "id": "q_2a63a2dd24484cee",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Basel III norms implemented in Indian banking, what is the minimum Capital Conservation Buffer (CCB) requirement that banks must maintain in the form of Common Equity Tier 1 capital?",
+  "qHi": "भारतीय बैंकिंग में लागू बेसल III मानदंडों के तहत, बैंकों को कॉमन इक्विटी टियर 1 पूंजी के रूप में न्यूनतम पूंजी संरक्षण बफर (CCB) आवश्यकता क्या रखनी होगी?",
+  "optsEn": [
+   "1.0 percent",
+   "2.5 percent",
+   "4.5 percent",
+   "8.0 percent"
+  ],
+  "optsHi": [
+   "1.0 प्रतिशत",
+   "2.5 प्रतिशत",
+   "4.5 प्रतिशत",
+   "8.0 प्रतिशत"
+  ],
+  "correct": 1,
+  "explainEn": "As per RBI guidelines on Basel III capital regulations, banks are required to maintain a Capital Conservation Buffer of 2.5% in the form of Common Equity Tier 1 capital.",
+  "sourceHint": "RBI Guidelines on Basel III Capital Regulations",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:20:35Z"
+ },
+ {
+  "id": "q_7bd1c4249d775323",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the maximum permissible loan amount under the Shishu category of the Pradhan Mantri Mudra Yojana (PMMY)?",
+  "qHi": "प्रधान मंत्री मुद्रा योजना (PMMY) की शिशु श्रेणी के तहत अधिकतम स्वीकार्य ऋण राशि क्या है?",
+  "optsEn": [
+   "50,000 Rupees",
+   "1,00,000 Rupees",
+   "5,00,000 Rupees",
+   "10,00,000 Rupees"
+  ],
+  "optsHi": [
+   "50,000 रुपये",
+   "1,00,000 रुपये",
+   "5,00,000 रुपये",
+   "10,00,000 रुपये"
+  ],
+  "correct": 0,
+  "explainEn": "PMMY covers three categories of loans: Shishu (up to 50,000 Rupees), Kishore (from 50,001 to 5,00,000 Rupees), and Tarun (from 5,00,000 to 10,00,000 Rupees).",
+  "sourceHint": "Ministry of Finance, Government of India / PMMY Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:20:35Z"
+ },
+ {
+  "id": "q_470c897737cc60e0",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which monetary policy instrument involves the direct purchase or sale of government securities by the central bank to absorb or inject liquidity in the economy?",
+  "qHi": " अर्थव्यवस्था में तरलता को सोखने या注入 करने के लिए केंद्रीय बैंक द्वारा सरकारी प्रतिभूतियों की प्रत्यक्ष खरीद या बिक्री में कौन सा मौद्रिक नीति उपकरण शामिल है?",
+  "optsEn": [
+   "Bank Rate",
+   "Cash Reserve Ratio",
+   "Open Market Operations",
+   "Statutory Liquidity Ratio"
+  ],
+  "optsHi": [
+   "बैंक दर",
+   "नकद आरक्षित अनुपात",
+   "खुले बाजार की संचालन क्रियाएं",
+   "वैधानिक तरलता अनुपात"
+  ],
+  "correct": 2,
+  "explainEn": "Open Market Operations (OMOs) are conducted by the RBI via the sale or purchase of government securities to regulate rupee liquidity in the system.",
+  "sourceHint": "RBI Publications / NCERT Economics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:20:35Z"
+ },
+ {
+  "id": "q_9b0867bd3339118c",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which specialized financial institution in India is empowered to act as the primary agency for the financing, promotion, and development of micro, small, and medium enterprises?",
+  "qHi": "भारत में कौन सा विशिष्ट वित्तीय संस्थान सूक्ष्म, लघु और मध्यम उद्यमों के वित्तपोषण, संवर्धन और विकास के लिए प्राथमिक एजेंसी के रूप में कार्य करने के लिए अधिकृत है?",
+  "optsEn": [
+   "SIDBI",
+   "EXIM Bank",
+   "NABARD",
+   "IFCI"
+  ],
+  "optsHi": [
+   "सिडबी",
+   "एक्सिम बैंक",
+   "नाबार्ड",
+   "आईएफसीआई"
+  ],
+  "correct": 0,
+  "explainEn": "Small Industries Development Bank of India (SIDBI) was established under an Act of Parliament in 1990 as the principal financial institution for MSMEs.",
+  "sourceHint": "SIDBI Act, 1990 / Ministry of MSME",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:20:35Z"
+ },
+ {
+  "id": "q_6506f22834a687a5",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the Indian banking system, what does the letter 'L' stand for in the Liquidity Coverage Ratio (LCR) framework?",
+  "qHi": "भारतीय बैंकिंग प्रणाली के संदर्भ में, तरलता कवरेज अनुपात (LCR) ढांचे में अक्षर 'L' का क्या अर्थ है?",
+  "optsEn": [
+   "Liability",
+   "Liquidity",
+   "Leverage",
+   "Ledger"
+  ],
+  "optsHi": [
+   "दायित्व",
+   "तरलता",
+   "उत्तोलन",
+   "खाता बही"
+  ],
+  "correct": 1,
+  "explainEn": "LCR stands for Liquidity Coverage Ratio, which ensures that financial institutions have an adequate stock of unencumbered high-quality liquid assets.",
+  "sourceHint": "Basel III Standards / RBI Prudential Norms",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:20:35Z"
+ },
+ {
+  "id": "q_730225f828ae9f1b",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "As per the Negotiable Instruments Act, 1881, which section defines a 'Cheque'?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के अनुसार, कौन सी धारा 'चेक' को परिभाषित करती है?",
+  "optsEn": [
+   "Section 4",
+   "Section 5",
+   "Section 6",
+   "Section 13"
+  ],
+  "optsHi": [
+   "धारा 4",
+   "धारा 5",
+   "धारा 6",
+   "धारा 13"
+  ],
+  "correct": 2,
+  "explainEn": "Section 6 of the Negotiable Instruments Act, 1881 defines a cheque as a bill of exchange drawn on a specified banker and not expressed to be payable otherwise than on demand.",
+  "sourceHint": "Negotiable Instruments Act, 1881",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:20:35Z"
+ },
+ {
+  "id": "q_8ecc662530c567f8",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary objective of introducing the Prompt Corrective Action (PCA) framework by the Reserve Bank of India for commercial banks?",
+  "qHi": "वाणिज्यिक बैंकों के लिए भारतीय रिजर्व बैंक द्वारा त्वरित सुधार कार्रवाई (PCA) फ्रेमवर्क शुरू करने का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To privatize weak public sector banks",
+   "To monitor financial health and intervene early for weak banks",
+   "To merge rural cooperative banks with commercial banks",
+   "To set the domestic lending interest rates"
+  ],
+  "optsHi": [
+   "कमजोर सार्वजनिक क्षेत्र के बैंकों का निजीकरण करना",
+   "कमजोर बैंकों के वित्तीय स्वास्थ्य की निगरानी करना और जल्दी हस्तक्षेप करना",
+   "ग्रामीण सहकारी बैंकों को वाणिज्यिक बैंकों के साथ मिलाना",
+   "घरेलू ऋण ब्याज दरों निर्धारित करना"
+  ],
+  "correct": 1,
+  "explainEn": "The PCA framework enables the RBI to monitor financial parameters such as capital, asset quality, and profitability of banks to intervene and take corrective actions at an early stage.",
+  "sourceHint": "RBI Supervisory Framework / PCA Guidelines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:20:35Z"
  }
 ]

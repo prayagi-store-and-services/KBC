@@ -25422,5 +25422,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-27T08:37:58Z"
+ },
+ {
+  "id": "q_1b9fb834c798318b",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which historical site were the famous rock-cut Rathas, often called the Pancha Rathas, carved during the Pallava dynasty?",
+  "qHi": "पल्लव वंश के दौरान किस ऐतिहासिक स्थल पर प्रसिद्ध चट्टानों को काटकर बनाए गए रथों (पंच रथ) को उकेरा गया था?",
+  "optsEn": [
+   "Mahabalipuram",
+   "Kanchipuram",
+   "Badami",
+   "Ellora"
+  ],
+  "optsHi": [
+   "महाबलीपुरम",
+   "कांचीपुरम",
+   "बादामी",
+   "एलोरा"
+  ],
+  "correct": 0,
+  "explainEn": "The Pancha Rathas are monolithic rock-cut temples located in Mahabalipuram, built during the reign of the Pallava dynasty.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:20:40Z"
+ },
+ {
+  "id": "q_a5aae4e6f6a38eab",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which chemical element was discovered by the British chemist Sir William Ramsay and Swedish chemist Per Teodor Cleve simultaneously while studying cleveite?",
+  "qHi": "क्लीवाइट का अध्ययन करते समय ब्रिटिश रसायनज्ञ सर विलियम रामसे और स्वीडिश रसायनज्ञ पर टियोडोर क्लीव द्वारा संयुक्त रूप से किस रासायनिक तत्व की खोज की गई थी?",
+  "optsEn": [
+   "Helium",
+   "Neon",
+   "Argon",
+   "Krypton"
+  ],
+  "optsHi": [
+   "हीलीयम",
+   "नियन",
+   "आर्गन",
+   "क्रिप्टन"
+  ],
+  "correct": 0,
+  "explainEn": "Sir William Ramsay discovered terrestrial helium in 1895 by treating the uranium mineral cleveite with mineral acids.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:20:40Z"
+ },
+ {
+  "id": "q_96fc63bbd3ecf916",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian state has the statutory authority of the Tungabhadra Dam located within its geographical boundaries?",
+  "qHi": "तुंगभद्र बांध का सांविधिक अधिकार किस भारतीय राज्य के भौगोलिक सीमाओं के भीतर स्थित है?",
+  "optsEn": [
+   "Karnataka",
+   "Andhra Pradesh",
+   "Telangana",
+   "Maharashtra"
+  ],
+  "optsHi": [
+   "कर्नाटक",
+   "आंध्र प्रदेश",
+   "तेलंगाना",
+   "महाराष्ट्र"
+  ],
+  "correct": 0,
+  "explainEn": "The Tungabhadra Dam is constructed across the Tungabhadra River, a tributary of the Krishna River, located in Hosapete, Karnataka.",
+  "sourceHint": "Central Water Commission India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:20:40Z"
+ },
+ {
+  "id": "q_7f87b684936f6c98",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which atmospheric layer contains the ozone layer that absorbs the majority of the Sun's ultraviolet radiation?",
+  "qHi": "किस वायुमंडलीय परत में ओजोन परत होती है जो सूर्य की अधिकांश पराबैंगनी विकिरण को अवशोषित करती है?",
+  "optsEn": [
+   "Stratosphere",
+   "Troposphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "समताप मंडल",
+   "क्षोभ मंडल",
+   "मध्य मंडल",
+   "तापमंडल"
+  ],
+  "correct": 0,
+  "explainEn": "The stratosphere houses the ozone layer, spanning roughly from 10 to 50 kilometers above Earth's surface.",
+  "sourceHint": "NCERT Geography Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:20:40Z"
+ },
+ {
+  "id": "q_ce59bbff1ba1d2db",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who authored the famous 17th-century Sanskrit treatise on statecraft and polity titled 'Mitakshara' commentary on the Yajnavalkya Smriti?",
+  "qHi": "याज्ञवल्क्य स्मृति पर 'मिताक्षरा' नामक राज्यकला और राजनीति पर प्रसिद्ध 17वीं शताब्दी के संस्कृत ग्रंथ के लेखक कौन थे?",
+  "optsEn": [
+   "Vijnaneshwara",
+   "Jimutavahana",
+   "Kautilya",
+   "Kalidasa"
+  ],
+  "optsHi": [
+   "विज्ञानेश्वर",
+   "जीमूतवाहन",
+   "कौटिल्य",
+   "कालिदास"
+  ],
+  "correct": 0,
+  "explainEn": "Vijnaneshwara authored the Mitakshara, a crucial legal commentary on Hindu inheritance law based on the Yajnavalkya Smriti.",
+  "sourceHint": "Historical Survey of Indian Law",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:20:40Z"
+ },
+ {
+  "id": "q_cb5874f6cb5c8bcf",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which vitamin deficiency is primarily responsible for the medical condition known as peripheral neuropathy and beriberi?",
+  "qHi": "परिधीय न्यूरोपैथी और बेरीबेरी नामक चिकित्सा स्थिति के लिए मुख्य रूप से किस विटामिन की कमी जिम्मेदार है?",
+  "optsEn": [
+   "Vitamin B1",
+   "Vitamin B12",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "optsHi": [
+   "विटामिन बी1",
+   "विटामिन बी12",
+   "विटामिन सी",
+   "विटामिन डी"
+  ],
+  "correct": 0,
+  "explainEn": "Beriberi is caused by a deficiency of thiamine, commonly known as Vitamin B1.",
+  "sourceHint": "World Health Organization",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:20:40Z"
  }
 ]

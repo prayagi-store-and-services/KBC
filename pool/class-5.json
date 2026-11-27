@@ -35642,5 +35642,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-27T08:38:02Z"
+ },
+ {
+  "id": "q_99215ab232a25eea",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which part of a plant is normally under the soil and absorbs water and minerals?",
+  "qHi": "पौधे का कौन सा भाग आमतौर पर मिट्टी के नीचे होता है और पानी तथा खनिज सोखता है?",
+  "optsEn": [
+   "Root",
+   "Leaf",
+   "Flower",
+   "Stem"
+  ],
+  "optsHi": [
+   "जड़",
+   "पत्ती",
+   "फूल",
+   "तना"
+  ],
+  "correct": 0,
+  "explainEn": "Roots grow underground to anchor the plant and absorb water and nutrients from the soil.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:18:54Z"
+ },
+ {
+  "id": "q_e220ae104315422c",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "How many main colors are there in a rainbow?",
+  "qHi": "इंद्रधनुष में मुख्य रूप से कितने रंग होते हैं?",
+  "optsEn": [
+   "5",
+   "6",
+   "7",
+   "8"
+  ],
+  "optsHi": [
+   "5",
+   "6",
+   "7",
+   "8"
+  ],
+  "correct": 2,
+  "explainEn": "A rainbow consists of seven colors represented by the acronym VIBGYOR.",
+  "sourceHint": "NCERT Science basics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:18:54Z"
+ },
+ {
+  "id": "q_8a3a3303803934c4",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which animal is the National Animal of India?",
+  "qHi": "भारत का राष्ट्रीय पशु कौन सा जानवर है?",
+  "optsEn": [
+   "Elephant",
+   "Tiger",
+   "Lion",
+   "Leopard"
+  ],
+  "optsHi": [
+   "हाथी",
+   "बाघ",
+   "शेर",
+   "तेंदुआ"
+  ],
+  "correct": 1,
+  "explainEn": "The Royal Bengal Tiger is recognized as the National Animal of India.",
+  "sourceHint": "Government of India National Symbols",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:18:54Z"
+ },
+ {
+  "id": "q_cf0aab5b8b8f6dcf",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of seeds are disseminated mainly by the wind because they are light and have hair-like structures?",
+  "qHi": "किस प्रकार के बीजों का प्रसार मुख्य रूप से हवा द्वारा होता है क्योंकि वे हल्के होते हैं और उनमें बाल जैसी संरचनाएं होती हैं?",
+  "optsEn": [
+   "Mango seeds",
+   "Cotton seeds",
+   "Pea seeds",
+   "Apple seeds"
+  ],
+  "optsHi": [
+   "आम के बीज",
+   "कपास के बीज",
+   "मटर के बीज",
+   "सेब के बीज"
+  ],
+  "correct": 1,
+  "explainEn": "Cotton seeds have hair-like structures that make them light enough to be carried away by the wind.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:19:45Z"
  }
 ]

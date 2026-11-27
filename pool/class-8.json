@@ -30854,5 +30854,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-27T08:38:08Z"
+ },
+ {
+  "id": "q_e4e5834cb7116b0f",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which part of a plant cell is responsible for giving it a rigid outer boundary and definite shape?",
+  "qHi": "पादप कोशिका का कौन सा भाग इसे एक कठोर बाहरी सीमा और निश्चित आकार प्रदान करने के लिए जिम्मेदार है?",
+  "optsEn": [
+   "Cell membrane",
+   "Cell wall",
+   "Nucleus",
+   "Cytoplasm"
+  ],
+  "optsHi": [
+   "कोशिका झिल्ली",
+   "कोशिका भित्ति",
+   "केंद्रक",
+   "कोशिकाद्रव्य"
+  ],
+  "correct": 1,
+  "explainEn": "Plant cells have an additional rigid outer covering called the cell wall surrounding the cell membrane.",
+  "sourceHint": "NCERT Class 8 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:19:49Z"
+ },
+ {
+  "id": "q_9a9e5007261b96a3",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "During the British colonial period in India, the Ryotwari system of revenue collection was mainly introduced in which region?",
+  "qHi": "भारत में ब्रिटिश औपनिवेशिक काल के दौरान, राजस्व संग्रह की रयतवाड़ी व्यवस्था मुख्य रूप से किस क्षेत्र में शुरू की गई थी?",
+  "optsEn": [
+   "Bengal presidency",
+   "Southern and Southwestern India",
+   "Punjab region",
+   "Northern plains"
+  ],
+  "optsHi": [
+   "बंगाल प्रेसीडेंसी",
+   "दक्षिण और दक्षिण-पश्चिम भारत",
+   "पंजाब क्षेत्र",
+   "उत्तरी मैदान"
+  ],
+  "correct": 1,
+  "explainEn": "The Ryotwari system was devised by Captain Alexander Read and Thomas Munro, and introduced mainly in southern India.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:19:49Z"
  }
 ]

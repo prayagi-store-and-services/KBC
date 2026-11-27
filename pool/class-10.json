@@ -35726,5 +35726,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-27T08:38:13Z"
+ },
+ {
+  "id": "q_c98e3e88dc276e0d",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organelle is known as the powerhouse of the cell due to the release of energy in the form of ATP during respiration?",
+  "qHi": "श्वसन के दौरान एटीपी के रूप में ऊर्जा मुक्त होने के कारण किस कोशिकांग को कोशिका का बिजली घर कहा जाता है?",
+  "optsEn": [
+   "Ribosome",
+   "Chloroplast",
+   "Mitochondria",
+   "Lysosome"
+  ],
+  "optsHi": [
+   "राइबोसोम",
+   "हरितकवक",
+   "माइटोकॉन्ड्रिया",
+   "लाइसोसोम"
+  ],
+  "correct": 2,
+  "explainEn": "Mitochondria generate chemical energy needed for biochemical reactions, producing ATP.",
+  "sourceHint": "NCERT Class 9/10 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:19:54Z"
+ },
+ {
+  "id": "q_60f2332653a48bab",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which organ of the Indian Parliament consists of the President, the Lok Sabha, and the Rajya Sabha?",
+  "qHi": "भारतीय संसद के किस अंग में राष्ट्रपति, लोकसभा और राज्यसभा शामिल हैं?",
+  "optsEn": [
+   "The Parliament",
+   "The Supreme Court",
+   "The Cabinet",
+   "The NITI Aayog"
+  ],
+  "optsHi": [
+   "संसद",
+   "उच्चतम न्यायालय",
+   "मंत्रिमंडल",
+   "नीति आयोग"
+  ],
+  "correct": 0,
+  "explainEn": "Article 79 of the Constitution of India states that the Parliament consists of the President and two Houses known as the Council of States and the House of the People.",
+  "sourceHint": "Constitution of India, Article 79",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:19:54Z"
+ },
+ {
+  "id": "q_0039aa5a610f813d",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of chemical reaction is represented by the conversion of vegetable matter into compost?",
+  "qHi": "वनस्पति पदार्थों का खाद में परिवर्तन किस प्रकार की रासायनिक अभिक्रिया का उदाहरण है?",
+  "optsEn": [
+   "Endothermic reaction",
+   "Exothermic reaction",
+   "Double displacement reaction",
+   "Reduction reaction"
+  ],
+  "optsHi": [
+   "ऊष्माशोषी अभिक्रिया",
+   "ऊष्माक्षेपी अभिक्रिया",
+   "द्वि-विस्थापन अभिक्रिया",
+   "अपचयन अभिक्रिया"
+  ],
+  "correct": 1,
+  "explainEn": "The decomposition of vegetable matter into compost involves microbial action that releases heat, making it an exothermic process.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:19:54Z"
+ },
+ {
+  "id": "q_ac1da78baa68ac92",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which major soil type covers most of the northern plains of India and is formed by the deposition of silt brought by rivers?",
+  "qHi": "भारत के अधिकांश उत्तरी मैदानों को कौन सी प्रमुख मिट्टी आच्छादित करती है और यह नदियों द्वारा लाए गए गाद के निक्षेपण से बनती है?",
+  "optsEn": [
+   "Laterite soil",
+   "Black soil",
+   "Alluvial soil",
+   "Red soil"
+  ],
+  "optsHi": [
+   "लैटेराइट मिट्टी",
+   "काली मिट्टी",
+   "जलोढ़ मिट्टी",
+   "लाल मिट्टी"
+  ],
+  "correct": 2,
+  "explainEn": "Alluvial soil is deposited by river systems and forms the entire northern plains of India.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:19:54Z"
+ },
+ {
+  "id": "q_d7b4ed6c228cc060",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which sector does the economic activity of dairy farming primarily fall?",
+  "qHi": "डेरी फार्मिंग की आर्थिक गतिविधि मुख्य रूप से किस क्षेत्रक के अंतर्गत आती है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Quaternary sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्रक",
+   "द्वितीयक क्षेत्रक",
+   "तृतीयक क्षेत्रक",
+   "चतुर्थक क्षेत्रक"
+  ],
+  "correct": 0,
+  "explainEn": "Activities undertaken by directly using natural resources, such as agriculture, dairy, and fishing, belong to the primary sector.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:19:54Z"
+ },
+ {
+  "id": "q_1efb36f5abf5fafc",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the phenomenon called when light splits into its constituent spectrum of colors through a glass prism?",
+  "qHi": "कांच के प्रिज्म से गुजरने पर प्रकाश का अपने घटक रंगों के स्पेक्ट्रम में विभाजित होने की परिघटना क्या कहलाती है?",
+  "optsEn": [
+   "Reflection",
+   "Refraction",
+   "Dispersion",
+   "Scattering"
+  ],
+  "optsHi": [
+   "परावर्तन",
+   "अपवर्तन",
+   "विक्षेपण",
+   "प्रकीर्णन"
+  ],
+  "correct": 2,
+  "explainEn": "Dispersion is the splitting of white light into its component colors when passing through a prism due to different speeds of light rays.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T21:19:54Z"
  }
 ]
