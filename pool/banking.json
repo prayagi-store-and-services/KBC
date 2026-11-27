@@ -44966,5 +44966,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-26T21:34:47Z"
+ },
+ {
+  "id": "q_f13f537198eac7b7",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which public sector bank in India was originally known as the Imperial Bank of India?",
+  "qHi": "भारत में किस सार्वजनिक क्षेत्र के बैंक को मूल रूप से इम्पीरियल बैंक ऑफ इंडिया के नाम से जाना जाता था?",
+  "optsEn": [
+   "Punjab National Bank",
+   "State Bank of India",
+   "Bank of Baroda",
+   "Canara Bank"
+  ],
+  "optsHi": [
+   "पंजाब नेशनल बैंक",
+   "स्टेट बैंक ऑफ इंडिया",
+   "बैंक ऑफ बड़ौदा",
+   "केनरा बैंक"
+  ],
+  "correct": 1,
+  "explainEn": "The Imperial Bank of India was nationalized in 1955 and renamed as the State Bank of India (SBI).",
+  "sourceHint": "State Bank of India official history",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:36:20Z"
+ },
+ {
+  "id": "q_72ebdfc1493e8008",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the maximum limit for a single transaction under the Immediate Payment Service (IMPS) as per standard NPCI guidelines?",
+  "qHi": "मानक एनपीसीआई दिशानिर्देशों के अनुसार तत्काल भुगतान सेवा (IMPS) के तहत एक ही लेनदेन के लिए अधिकतम सीमा क्या है?",
+  "optsEn": [
+   "1 Lakh Rupees",
+   "2 Lakh Rupees",
+   "5 Lakh Rupees",
+   "10 Lakh Rupees"
+  ],
+  "optsHi": [
+   "1 लाख रुपये",
+   "2 लाख रुपये",
+   "5 लाख रुपये",
+   "10 लाख रुपये"
+  ],
+  "correct": 2,
+  "explainEn": "NPCI revised the per-transaction limit for IMPS to 5 Lakh Rupees for online channels.",
+  "sourceHint": "National Payments Corporation of India (NPCI) circulars",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:36:20Z"
+ },
+ {
+  "id": "q_8ce2d31432a6e1e0",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What does 'C' stand for in the credit scoring term 'CIBIL'?",
+  "qHi": "क्रेडिट स्कोरिंग शब्द 'CIBIL' में 'C' का क्या अर्थ है?",
+  "optsEn": [
+   "Central",
+   "Credit",
+   "Commercial",
+   "Consumer"
+  ],
+  "optsHi": [
+   "सेंट्रल",
+   "क्रेडिट",
+   "कमर्शियल",
+   "कंज्यूमर"
+  ],
+  "correct": 1,
+  "explainEn": "CIBIL stands for Credit Information Bureau (India) Limited, which is a credit information company.",
+  "sourceHint": "TransUnion CIBIL official portal",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:36:20Z"
+ },
+ {
+  "id": "q_66a956d3acd10ad4",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Under the Priority Sector Lending (PSL) norms in India, what is the overall target for domestic commercial banks as a percentage of Adjusted Net Bank Credit (ANBC)?",
+  "qHi": "भारत में प्राथमिकता प्राप्त क्षेत्र को ऋण (PSL) मानदंडों के तहत, घरेलू वाणिज्यिक बैंकों के लिए समायोजित शुद्ध बैंक ऋण (ANBC) के प्रतिशत के रूप में कुल लक्ष्य क्या है?",
+  "optsEn": [
+   "40 percent",
+   "50 percent",
+   "75 percent",
+   "18 percent"
+  ],
+  "optsHi": [
+   "40 प्रतिशत",
+   "50 प्रतिशत",
+   "75 प्रतिशत",
+   "18 प्रतिशत"
+  ],
+  "correct": 0,
+  "explainEn": "Domestic commercial banks are required to allocate 40 percent of their ANBC to priority sectors like agriculture, MSMEs, and housing.",
+  "sourceHint": "Reserve Bank of India Master Directions on PSL",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:36:20Z"
+ },
+ {
+  "id": "q_0f35074afa618514",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the full form of ATM as used in banking terminology?",
+  "qHi": "बैंकिंग शब्दावली में प्रयुक्त ATM का पूर्ण रूप क्या है?",
+  "optsEn": [
+   "Any Time Money",
+   "Automated Teller Machine",
+   "Automated Transaction Mode",
+   "Any Transaction Machine"
+  ],
+  "optsHi": [
+   "एनी टाइम मनी",
+   "ऑटोमेटेड टेलर मशीन",
+   "ऑटोमेटेड ट्रांजैक्शन मोड",
+   "एनी ट्रांजैक्शन मशीन"
+  ],
+  "correct": 1,
+  "explainEn": "ATM stands for Automated Teller Machine, an electronic telecommunication device that enables customers to perform financial transactions.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:36:20Z"
+ },
+ {
+  "id": "q_39432d92615ff7bd",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which financial ratio indicates the proportion of total assets financed by a company's creditors rather than its shareholders?",
+  "qHi": "कौन सा वित्तीय अनुपात शेयरधारकों के बजाय कंपनी के लेनदारों द्वारा वित्तपोषण की कुल संपत्ति के अनुपात को इंगित करता है?",
+  "optsEn": [
+   "Debt-to-Equity Ratio",
+   "Current Ratio",
+   "Quick Ratio",
+   "Debt-to-Asset Ratio"
+  ],
+  "optsHi": [
+   "ऋण-से-इक्विटी अनुपात",
+   "चालू अनुपात",
+   "त्वरित अनुपात",
+   "ऋण-से-परिसंपत्ति अनुपात"
+  ],
+  "correct": 3,
+  "explainEn": "The debt-to-asset ratio measures the total amount of debt relative to assets, showing what percentage of assets are funded by creditors.",
+  "sourceHint": "NCERT Accountancy Textbooks",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:37:34Z"
  }
 ]

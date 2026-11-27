@@ -25366,5 +25366,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-26T21:35:25Z"
+ },
+ {
+  "id": "q_98ff78e5dda30302",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary chemical element responsible for the characteristic aroma of wet soil after rain, known as petrichor?",
+  "qHi": "बारिश के बाद गीली मिट्टी की विशेषता वाली खुशबू, जिसे पेट्रोर कहा जाता है, के लिए कौन सा प्राथमिक रासायनिक तत्व जिम्मेदार है?",
+  "optsEn": [
+   "Geosmin",
+   "Chlorophyll",
+   "Methane",
+   "Ethanol"
+  ],
+  "optsHi": [
+   "जियोस्मीन",
+   "क्लोरोफिल",
+   "मीथेन",
+   "एथेनॉल"
+  ],
+  "correct": 0,
+  "explainEn": "Geosmin is an organic compound with a distinct earthy flavor and aroma produced by certain actinobacteria, which is released into the air when rain hits dry soil.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:37:58Z"
+ },
+ {
+  "id": "q_e6d05998e911a751",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which wildlife sanctuary in India was the first to be established?",
+  "qHi": "भारत का कौन सा वन्यजीव अभयारण्य स्थापित होने वाला पहला था?",
+  "optsEn": [
+   "Jim Corbett National Park",
+   "Periyar Wildlife Sanctuary",
+   "Kaziranga National Park",
+   "Gir National Park"
+  ],
+  "optsHi": [
+   "जिम कॉर्बेट राष्ट्रीय उद्यान",
+   "पेरियार वन्यजीव अभयारण्य",
+   "काजीरंगा राष्ट्रीय उद्यान",
+   "गीर राष्ट्रीय उद्यान"
+  ],
+  "correct": 0,
+  "explainEn": "Established in 1936 as Hailey National Park (later renamed Jim Corbett National Park), it is India's oldest national park.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:37:58Z"
  }
 ]

@@ -35418,5 +35418,313 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-26T21:35:50Z"
+ },
+ {
+  "id": "q_7a815fdbd042a063",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "The SI unit of electric current is:",
+  "qHi": "विद्युत धारा की SI इकाई क्या है?",
+  "optsEn": [
+   "Volt",
+   "Ohm",
+   "Ampere",
+   "Watt"
+  ],
+  "optsHi": [
+   "वोल्ट",
+   "ओम",
+   "एम्पियर",
+   "वाट"
+  ],
+  "correct": 2,
+  "explainEn": "The SI unit of electric current is the ampere.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 12: Electricity",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:36:05Z"
+ },
+ {
+  "id": "q_43beb3cb064ef334",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which part of the human digestive system is the food completely digested and nutrients absorbed?",
+  "qHi": "मानव पाचन तंत्र के किस भाग में भोजन का पूर्ण पाचन और पोषक तत्वों का अवशोषण होता है?",
+  "optsEn": [
+   "Stomach",
+   "Large intestine",
+   "Small intestine",
+   "Oesophagus"
+  ],
+  "optsHi": [
+   "आमाशय",
+   "बड़ी आंत",
+   "छوٹی आंत",
+   "ग्रसिका"
+  ],
+  "correct": 2,
+  "explainEn": "The small intestine is the site of complete digestion of carbohydrates, proteins, and fats, and absorption of nutrients.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 6",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:37:15Z"
+ },
+ {
+  "id": "q_d38c95c27217efe2",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which soil type, formed by the deposition of rivers, is most widespread and fertile in northern India?",
+  "qHi": "नदियों के निक्षेपण से बनी कौन सी मिट्टी उत्तर भारत में सबसे व्यापक और उपजाऊ है?",
+  "optsEn": [
+   "Black soil",
+   "Laterite soil",
+   "Alluvial soil",
+   "Red soil"
+  ],
+  "optsHi": [
+   "काली मिट्टी",
+   "लैटेराइट मिट्टी",
+   "जलोढ़ मिट्टी",
+   "लाल मिट्टी"
+  ],
+  "correct": 2,
+  "explainEn": "Alluvial soil is deposited by rivers and covers the northern plains, making it extremely fertile.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:37:15Z"
+ },
+ {
+  "id": "q_b3d5fb27749673c0",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following sectors has the highest share in the Gross Domestic Product (GDP) of India in recent decades?",
+  "qHi": "हाल के दशकों में भारत के सकल घरेलू उत्पाद (GDP) में निम्नलिखित में से किस क्षेत्र की हिस्सेदारी सबसे अधिक है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Agricultural sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "तृतीयक क्षेत्र",
+   "कृषि क्षेत्र"
+  ],
+  "correct": 2,
+  "explainEn": "The tertiary (service) sector contributes the largest share to India's GDP among the three main sectors.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:37:15Z"
+ },
+ {
+  "id": "q_fd25bf6d859ac237",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of carbon compounds, which of the following functional groups contains both a carbonyl carbon and a hydroxyl group?",
+  "qHi": "कार्बन यौगिकों के संदर्भ में, निम्नलिखित में से किस प्रकार के प्रकार्यक समूह (functional group) में कार्बोनिलीकरण और हाइड्रॉक्सिल समूह दोनों होते हैं?",
+  "optsEn": [
+   "Carboxylic acid",
+   "Aldehyde",
+   "Ketone",
+   "Ether"
+  ],
+  "optsHi": [
+   "कार्बोक्जिलिक अम्ल",
+   "एल्डिहाइड",
+   "कीटोन",
+   "ईथर"
+  ],
+  "correct": 0,
+  "explainEn": "A carboxylic acid functional group (-COOH) consists of a carbonyl group (C=O) attached to a hydroxyl group (-OH).",
+  "sourceHint": "NCERT Class 10 Science, Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:38:13Z"
+ },
+ {
+  "id": "q_75beb3c2823df942",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the process of double fertilization in angiosperms, the fusion of the second male gamete with the secondary nucleus results in the formation of what structure?",
+  "qHi": "आवृतबीजी पौधों में द्वিনিषेचन की प्रक्रिया के दौरान, दूसरे नर युग्मक का द्वितीयक केंद्रक के साथ संलयन किस संरचना के निर्माण का परिणाम है?",
+  "optsEn": [
+   "Triploid primary endosperm nucleus",
+   "Diploid zygote",
+   "Haploid synergid",
+   "Tetraploid seed coat"
+  ],
+  "optsHi": [
+   "त्रिगुणित प्राथमिक भ्रूणपोष केंद्रक",
+   "द्विगुणित युग्मज",
+   "अगुणित सहाय कोशिका",
+   "चतुर्गुणित बीज आवरण"
+  ],
+  "correct": 0,
+  "explainEn": "Syngamy forms the diploid zygote, while triple fusion involving the second male gamete and the diploid secondary nucleus forms the triploid primary endosperm nucleus.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 8",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:38:13Z"
+ },
+ {
+  "id": "q_f0f3d37f6c1de979",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which treaty or convention recognized the independence of Greece from the Ottoman Empire in 1832?",
+  "qHi": "किस संधि या समझौते ने 1832 में ओटोमन साम्राज्य से ग्रीस की स्वतंत्रता को मान्यता दी थी?",
+  "optsEn": [
+   "Treaty of Constantinople",
+   "Treaty of Vienna",
+   "Treaty of Versailles",
+   "Treaty of Paris"
+  ],
+  "optsHi": [
+   "कॉन्स्टेंटिनोपल की संधि",
+   "वियना की संधि",
+   "वर्साय की संधि",
+   "पेरिस की संधि"
+  ],
+  "correct": 0,
+  "explainEn": "The Treaty of Constantinople of 1832 recognized Greece as an independent nation, concluding the Greek War of Independence.",
+  "sourceHint": "NCERT Class 10 History, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:38:13Z"
+ },
+ {
+  "id": "q_2a5eca5e93b3c440",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In a human eye, which part is primarily responsible for refracting light rays entering the eye to form an image on the retina?",
+  "qHi": "मानव नेत्र में, कौन सा भाग रेटिना पर एक छवि बनाने के लिए नेत्र में प्रवेश करने वाली प्रकाश किरणों को अपवर्तित करने के लिए मुख्य रूप से जिम्मेदार है?",
+  "optsEn": [
+   "Cornea",
+   "Pupil",
+   "Iris",
+   "Vitreous humor"
+  ],
+  "optsHi": [
+   "कॉर्निया (स्वच्छमंडल)",
+   "पुतली",
+   "परितारिका (आइरिस)",
+   "काभाभ द्रव"
+  ],
+  "correct": 0,
+  "explainEn": "Most of the refraction for the light rays entering the eye occurs at the outer surface of the cornea.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:38:13Z"
+ },
+ {
+  "id": "q_aa1fc059bafa06ff",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which soil type, widely distributed in the Deccan trap region, is well-known for its high moisture-retention capacity and is formed from basalt parent rock?",
+  "qHi": "दक्कन ट्रैप क्षेत्र में व्यापक रूप से फैली हुई कौन सी मिट्टी अपनी उच्च नमी बनाए रखने की क्षमता के लिए जानी जाती है और बेसल्ट मूल चट्टान से बनती है?",
+  "optsEn": [
+   "Black soil",
+   "Laterite soil",
+   "Red soil",
+   "Alluvial soil"
+  ],
+  "optsHi": [
+   "काली मिट्टी",
+   "लेटराइट मिट्टी",
+   "लाल मिट्टी",
+   "जलोढ़ मिट्टी"
+  ],
+  "correct": 0,
+  "explainEn": "Black soil, also known as regur soil, is ideal for growing cotton and is formed from volcanic basalt rocks found in the Deccan trap.",
+  "sourceHint": "NCERT Class 10 Geography, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:38:13Z"
+ },
+ {
+  "id": "q_20a5d139bdb8a9b1",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which socio-religious organization was founded by Jyotirao Phule in 1873 to work for the rights and upliftment of lower castes and non-Brahmans in Maharashtra?",
+  "qHi": "महाराष्ट्र में निचली जातियों और गैर-ब्राह्मणों के अधिकारों और उत्थान के लिए काम करने के लिए 1873 में ज्योतिराव फुले द्वारा किस सामाजिक-धार्मिक संगठन की स्थापना की गई थी?",
+  "optsEn": [
+   "Satyashodhak Samaj",
+   "Brahmo Samaj",
+   "Arya Samaj",
+   "Prarthana Samaj"
+  ],
+  "optsHi": [
+   "सत्यशोधक समाज",
+   "ब्रह्म समाज",
+   "आर्य समाज",
+   "प्रार्थना समाज"
+  ],
+  "correct": 0,
+  "explainEn": "Jyotirao Phule founded Satyashodhak Samaj (Society of Seekers of Truth) on 24 September 1873 in Pune, Maharashtra.",
+  "sourceHint": "NCERT Class 10 History, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:38:13Z"
+ },
+ {
+  "id": "q_5a19dabc7e5d0aae",
+  "group": "class-10",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In an electric circuit, if the resistance of a conductor is halved while keeping the potential difference across its ends constant, what happens to the electric current flowing through it?",
+  "qHi": "एक विद्युत परिपथ में, यदि किसी चालक का प्रतिरोध उसके सिरों पर विभवांतर को स्थिर रखते हुए आधा कर दिया जाए, तो उसमें प्रवाहित होने वाली विद्युत धारा का क्या होगा?",
+  "optsEn": [
+   "It gets doubled",
+   "It gets halved",
+   "It remains unchanged",
+   "It becomes four times"
+  ],
+  "optsHi": [
+   "यह दोगुनी हो जाती है",
+   "यह आधी हो जाती है",
+   "यह अपरिवर्तित रहती है",
+   "यह चार गुना हो जाती है"
+  ],
+  "correct": 0,
+  "explainEn": "According to Ohm's law, V = IR, meaning current I is inversely proportional to resistance R. If R is halved, I becomes double.",
+  "sourceHint": "NCERT Class 10 Science, Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:38:13Z"
  }
 ]

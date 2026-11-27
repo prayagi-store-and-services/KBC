@@ -40934,5 +40934,341 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-26T21:34:33Z"
+ },
+ {
+  "id": "q_4917921d2d80f371",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What is the molecular formula of glucose?",
+  "qHi": "ग्लूकोज का आणविक सूत्र क्या है?",
+  "optsEn": [
+   "C6H12O6",
+   "C12H22O11",
+   "CH3COOH",
+   "C2H5OH"
+  ],
+  "optsHi": [
+   "C6H12O6",
+   "C12H22O11",
+   "CH3COOH",
+   "C2H5OH"
+  ],
+  "correct": 0,
+  "explainEn": "Glucose is a simple sugar with the chemical formula C6H12O6.",
+  "sourceHint": "NCERT Chemistry Class 12, Chapter 14",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:36:09Z"
+ },
+ {
+  "id": "q_ba581d00f4cd858e",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which Harappan site is known for its dockyard?",
+  "qHi": "कौन सा हड़प्पा स्थल अपने गोदीबाड़ा (डॉकयार्ड) के लिए जाना जाता है?",
+  "optsEn": [
+   "Harappa",
+   "Mohenjo-daro",
+   "Lothal",
+   "Kalibangan"
+  ],
+  "optsHi": [
+   "हड़प्पा",
+   "मोहनजोदड़ो",
+   "लोथल",
+   "कालीबंगा"
+  ],
+  "correct": 2,
+  "explainEn": "Lothal features a massive brick basin identified as a tidal dockyard.",
+  "sourceHint": "NCERT History Class 12, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:36:09Z"
+ },
+ {
+  "id": "q_a1f2ab64268ec961",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In an aqueous solution, which of the following haloalkanes undergoes hydrolysis most readily via the SN1 mechanism?",
+  "qHi": "जलीय विलयन में, निम्नलिखित में से कौन सा हेलोएल्केन SN1 तंत्र के माध्यम से सबसे आसानी से जलअपघटन से गुजरता है?",
+  "optsEn": [
+   "2-Bromopropane",
+   "1-Bromopropane",
+   "2-Bromo-2-methylpropane",
+   "1-Bromobutane"
+  ],
+  "optsHi": [
+   "2-ब्रोमोप्रोपेन",
+   "1-ब्रोमोप्रोपेन",
+   "2-ब्रोमो-2-मिथाइलप्रोपेन",
+   "1-ब्रोमोब्यूटेन"
+  ],
+  "correct": 2,
+  "explainEn": "Tertiary haloalkanes like 2-bromo-2-methylpropane form stable tertiary carbocation intermediates, favoring the SN1 mechanism.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:37:20Z"
+ },
+ {
+  "id": "q_6142aa585fc221c6",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which micro-organism is commercially used for the production of cyclosporin A, an immunosuppressive agent?",
+  "qHi": "प्रतिरक्षीरोधी एजेंट, साइक्लोस्पोरिन A के व्यावसायिक उत्पादन के लिए किस सूक्ष्म जीव का उपयोग किया जाता है?",
+  "optsEn": [
+   "Monascus purpureus",
+   "Trichoderma polysporum",
+   "Aspergillus niger",
+   "Acetobacter aceti"
+  ],
+  "optsHi": [
+   "मोनascus परप्यूरियस",
+   "ट्राइकोडर्मा पॉलिसपोरम",
+   "एस्परगिलस नाइजर",
+   "एसिटोबacter एसिटी"
+  ],
+  "correct": 1,
+  "explainEn": "Cyclosporin A is produced by the fungus Trichoderma polysporum and is used as an immunosuppressive agent in organ transplant patients.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:37:20Z"
+ },
+ {
+  "id": "q_533430ef5d769f5e",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who wrote the book 'Annihilation of Caste', which is a famous critique of the caste system in India?",
+  "qHi": "'एनिहिलेशन ऑफ कास्ट' पुस्तक किसने लिखी, जो भारत में जाति व्यवस्था की एक प्रसिद्ध आलोचना है?",
+  "optsEn": [
+   "Mahatma Gandhi",
+   "B. R. Ambedkar",
+   "Jawaharlal Nehru",
+   "Rabindranath Tagore"
+  ],
+  "optsHi": [
+   "महात्मा गांधी",
+   "बी. आर. अंबेडकर",
+   "जवाहरलाल नेहरू",
+   "रबीन्द्रनाथ टैगोर"
+  ],
+  "correct": 1,
+  "explainEn": "B. R. Ambedkar wrote 'Annihilation of Caste' in 1936 as a prepared speech for an annual conference of a Hindu reformist group.",
+  "sourceHint": "NCERT Class 12 History / Political Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:37:20Z"
+ },
+ {
+  "id": "q_9e19c5556701f043",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which coordination compound exhibits optical isomerism among the following?",
+  "qHi": "निम्नलिखित में से कौन सा उपसहसंयोजन यौगिक प्रकाशीय समावयवता प्रदर्शित करता है?",
+  "optsEn": [
+   "[Co(en)3]3+",
+   "[PtCl4]2-",
+   "[Co(NH3)4Cl2]+",
+   "[Ni(CO)4]"
+  ],
+  "optsHi": [
+   "[Co(en)3]3+",
+   "[PtCl4]2-",
+   "[Co(NH3)4Cl2]+",
+   "[Ni(CO)4]"
+  ],
+  "correct": 0,
+  "explainEn": "Complexes containing symmetrical bidentate ligands like ethylenediamine (en), such as [Co(en)3]3+, lack a plane of symmetry and show optical isomerism.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 9",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:37:20Z"
+ },
+ {
+  "id": "q_23064f291b9a4450",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What type of enzyme catalyzes the joining of two DNA molecules by forming phosphodiester bonds?",
+  "qHi": "किस प्रकार का एंजाइम फॉस्फोडिएस्टर बांड बनाकर दो डीएनए अणुओं के जुड़ने को उत्प्रेरित करता है?",
+  "optsEn": [
+   "DNA polymerase",
+   "Restriction endonuclease",
+   "DNA ligase",
+   "Reverse transcriptase"
+  ],
+  "optsHi": [
+   "डीएनए पोलीमरेज़",
+   "प्रतिबंध एंडोन्यूक्लीज",
+   "डीएनए लाइगेस",
+   "रिवर्स ट्रांसक्रिप्शन"
+  ],
+  "correct": 2,
+  "explainEn": "DNA ligase enzymes seal breaks in the sugar-phosphate backbone by catalyzing phosphodiester bond formation.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 11 - Biotechnology: Principles and Processes",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:38:19Z"
+ },
+ {
+  "id": "q_02f17d3f155b2a41",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In macroeconomics, what is the term used for the total value of final goods and services produced within the domestic territory of a country in a year, measured at current prices?",
+  "qHi": "मैक्रोइकोनॉमिक्स में, एक वर्ष में किसी देश के घरेलू क्षेत्र के भीतर उत्पादित अंतिम वस्तुओं और सेवाओं के कुल मूल्य को, चालू कीमतों पर मापा जाता है, क्या कहा जाता है?",
+  "optsEn": [
+   "Gross National Product at factor cost",
+   "Gross Domestic Product at market prices",
+   "Net National Product at factor cost",
+   "Gross Domestic Product at factor cost"
+  ],
+  "optsHi": [
+   "कारक लागत पर सकल राष्ट्रीय उत्पाद",
+   "बाजार कीमतों पर सकल घरेलू उत्पाद",
+   "कारक लागत पर शुद्ध राष्ट्रीय उत्पाद",
+   "कारक लागत पर सकल घरेलू उत्पाद"
+  ],
+  "correct": 1,
+  "explainEn": "GDP at market price measures the total monetary value of all final goods and services produced within domestic boundaries at current market prices.",
+  "sourceHint": "NCERT Class 12 Economics - Introductory Macroeconomics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:38:19Z"
+ },
+ {
+  "id": "q_a7b7deffaadaa7ae",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the Quit India Movement in 1942, in which district of present-day Uttar Pradesh was a parallel government known as 'Jatiya Sarkar' or parallel administration established briefly?",
+  "qHi": "1942 के भारत छोड़ो आंदोलन के दौरान, वर्तमान उत्तर प्रदेश के किस जिले में 'जातीय सरकार' के रूप में जानी जाने वाली समानांतर सरकार संक्षेप में स्थापित की गई थी?",
+  "optsEn": [
+   "Ballia",
+   "Gorakhpur",
+   "Jhansi",
+   "Meerut"
+  ],
+  "optsHi": [
+   "बलिया",
+   "गोरखपुर",
+   "झांसी",
+   "मेरठ"
+  ],
+  "correct": 0,
+  "explainEn": "In August 1942, a parallel government was established under Chittu Pandey in Ballia district.",
+  "sourceHint": "NCERT Class 12 History - Themes in Indian History Part III, Chapter 13",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:38:19Z"
+ },
+ {
+  "id": "q_cd4109df8683be66",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which coordination compound isomerism arises when the counter ion can also act as a potential ligand and can displace a ligand within the coordination sphere?",
+  "qHi": "कौन सी उपसहसंयोजन यौगिक समावयवता तब उत्पन्न होती है जब प्रतिआयन एक संभावित लिंड के रूप में भी कार्य कर सकता है और उपसहसंयोजन क्षेत्र के भीतर एक लिगैंड को विस्थापित कर सकता है?",
+  "optsEn": [
+   "Linkage isomerism",
+   "Ionisation isomerism",
+   "Coordination isomerism",
+   "Solvate isomerism"
+  ],
+  "optsHi": [
+   "बंधनी समावयवता",
+   "आयनन समावयवता",
+   "उपसहसंयोजन समावयवता",
+   "विलायक योजन समावयवता"
+  ],
+  "correct": 1,
+  "explainEn": "Ionisation isomerism occurs when the counter ion in a complex salt exchanges places with an anionic ligand inside the coordination sphere.",
+  "sourceHint": "NCERT Class 12 Chemistry Part I, Chapter 5 - Coordination Compounds",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:38:19Z"
+ },
+ {
+  "id": "q_ca04955bbe225048",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which geographic phenomenon describes the temperature decrease with increasing altitude in the Earth's troposphere?",
+  "qHi": "कौन सी भौगोलिक घटना पृथ्वी के क्षोभमंडल में बढ़ती ऊंचाई के साथ तापमान में कमी का वर्णन करती है?",
+  "optsEn": [
+   "Inversion of temperature",
+   "Normal lapse rate",
+   "Adiabatic warming",
+   "Albedo effect"
+  ],
+  "optsHi": [
+   "तापमान का व्युत्क्रमण",
+   "सामान्य ह्रास दर",
+   "रुद्धोष्म तापन",
+   "अल्बेडो प्रभाव"
+  ],
+  "correct": 1,
+  "explainEn": "The normal lapse rate is the rate at which atmospheric temperature decreases with an increase in altitude, averaging roughly 6.5 degree Celsius per 1,000 meters in the troposphere.",
+  "sourceHint": "NCERT Class 11/12 Geography - Fundamentals of Physical Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:38:19Z"
+ },
+ {
+  "id": "q_bcd298712a1a75e7",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which kinetic property of a zero-order reaction implies that the rate of the reaction is independent of the concentration of reactants?",
+  "qHi": "शून्य-कोटि की अभिक्रिया का कौन सा गतिज गुण यह दर्शाता है कि अभिक्रिया की दर अभिकारकों की सांद्रता से स्वतंत्र है?",
+  "optsEn": [
+   "Half-life is directly proportional to initial concentration",
+   "Rate constant has units of inverse seconds only",
+   "Concentration decreases exponentially with time",
+   "Rate of reaction depends on catalyst surface area exclusively"
+  ],
+  "optsHi": [
+   "अर्ध-आयु प्रारंभिक सांद्रता के सीधे समानुपाती होती है",
+   "दर स्थिरांक में केवल व्युत्क्रम सेकंड की इकाइयाँ होती हैं",
+   "समय के साथ सांद्रता घातीय रूप से घटती है",
+   "अभिक्रिया की दर विशेष रूप से उत्प्रेरक सतह क्षेत्र पर निर्भर करती है"
+  ],
+  "correct": 0,
+  "explainEn": "For a zero-order reaction, the half-life period is directly proportional to the initial concentration of the reactants.",
+  "sourceHint": "NCERT Class 12 Chemistry Part I, Chapter 3 - Chemical Kinetics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:38:19Z"
  }
 ]

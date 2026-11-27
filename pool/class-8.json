@@ -30462,5 +30462,397 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-26T21:35:43Z"
+ },
+ {
+  "id": "q_e01bb8685ca880c8",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who was the President of the Drafting Committee of the Indian Constitution?",
+  "qHi": "भारतीय संविधान की प्रारूप समिति के अध्यक्ष कौन थे?",
+  "optsEn": [
+   "Dr. B. R. Ambedkar",
+   "Dr. Rajendra Prasad",
+   "Jawaharlal Nehru",
+   "Sardar Vallabhbhai Patel"
+  ],
+  "optsHi": [
+   "डॉ. बी. आर. अंबेडकर",
+   "डॉ. राजेंद्र प्रसाद",
+   "जवाहरलाल नेहरू",
+   "सरदार वल्लभभाई पटेल"
+  ],
+  "correct": 0,
+  "explainEn": "Dr. B. R. Ambedkar chaired the Drafting Committee tasked with preparing the Constitution.",
+  "sourceHint": "NCERT Class 8 Civics Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:36:02Z"
+ },
+ {
+  "id": "q_cadf67ff22a56d67",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which celestial body is the nearest star to Earth?",
+  "qHi": "पृथ्वी के सबसे निकट का तारा कौन सा खगोलीय पिंड है?",
+  "optsEn": [
+   "Proxima Centauri",
+   "Alpha Centauri",
+   "The Sun",
+   "Sirius"
+  ],
+  "optsHi": [
+   "प्रॉक्सिमा सेंटॉरी",
+   "अल्फा सेंटॉरी",
+   "सूर्य",
+   "सीरियस"
+  ],
+  "correct": 2,
+  "explainEn": "The Sun is the star closest to Earth.",
+  "sourceHint": "NCERT Class 8 Science Chapter 17",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:37:11Z"
+ },
+ {
+  "id": "q_4edbfd4220d93f3d",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "During which battle did the East India Company secure the Diwani rights of Bengal, Bihar, and Orissa?",
+  "qHi": "किस युद्ध के दौरान ईस्ट इंडिया कंपनी ने बंगाल, बिहार और उड़ीसा के दीवानी अधिकार प्राप्त किए?",
+  "optsEn": [
+   "Battle of Plassey",
+   "Battle of Buxar",
+   "Third Battle of Panipat",
+   "Battle of Wandiwash"
+  ],
+  "optsHi": [
+   "प्लासी का युद्ध",
+   "बक्सर का युद्ध",
+   "पानीपत का तीसरा युद्ध",
+   "वांडीवाश का युद्ध"
+  ],
+  "correct": 1,
+  "explainEn": "Following the Battle of Buxar in 1764, the Mughal Emperor granted the Diwani of Bengal to the East India Company in 1765.",
+  "sourceHint": "NCERT Class 8 History Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:37:11Z"
+ },
+ {
+  "id": "q_5c92b3fb5d17c1a7",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who led the Santhal rebellion that broke out in 1855?",
+  "qHi": "1855 में भड़के संथाल विद्रोह का नेतृत्व किसने किया था?",
+  "optsEn": [
+   "Birsa Munda",
+   "Sidhu and Kanhu",
+   "Alluri Sitarama Raju",
+   "Tantia Tope"
+  ],
+  "optsHi": [
+   "बिरसा मुंडा",
+   "सिद्धू और कान्हू",
+   "अल्लूरी सीताराम राजू",
+   "तांत्या टोपे"
+  ],
+  "correct": 1,
+  "explainEn": "The Santhal rebellion against British and zamindari oppression was led by brothers Sidhu and Kanhu Murmu.",
+  "sourceHint": "NCERT Class 8 History Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:37:11Z"
+ },
+ {
+  "id": "q_b7e478ddbf7e7ca8",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which type of resource is petroleum, which is formed from the remains of ancient organisms over millions of years?",
+  "qHi": "पेट्रोलियम किस प्रकार का संसाधन है, जो लाखों वर्षों में प्राचीन जीवों के अवशेषों से बनता है?",
+  "optsEn": [
+   "Renewable resource",
+   "Biotic resource",
+   "Non-renewable resource",
+   "Ubiquitous resource"
+  ],
+  "optsHi": [
+   "नवीकरणीय संसाधन",
+   "जैविक संसाधन",
+   "अनवीकरणीय संसाधन",
+   "सर्वव्यापी संसाधन"
+  ],
+  "correct": 2,
+  "explainEn": "Petroleum is a fossil fuel and a non-renewable resource because it takes millions of years to form.",
+  "sourceHint": "NCERT Class 8 Geography Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:37:11Z"
+ },
+ {
+  "id": "q_c5db8b2fb95a84f7",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary law-making body of the Indian Union government?",
+  "qHi": "भारतीय संघ सरकार की प्राथमिक कानून बनाने वाली संस्था कौन सी है?",
+  "optsEn": [
+   "The Supreme Court",
+   "The Parliament",
+   "The Cabinet Secretariat",
+   "The Election Commission"
+  ],
+  "optsHi": [
+   "उच्चतम न्यायालय",
+   "संसद",
+   "मंत्रिमंडल सचिवालय",
+   "चुनाव आयोग"
+  ],
+  "correct": 1,
+  "explainEn": "The Parliament, consisting of the President, Lok Sabha, and Rajya Sabha, is the supreme legislative body of India.",
+  "sourceHint": "NCERT Class 8 Civics Chapter 3",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:37:11Z"
+ },
+ {
+  "id": "q_8c5d342cc7fc6c43",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which administrative division was established by the British in India to maintain records of land revenue and agricultural statistics at the village level?",
+  "qHi": "ब्रिटिश काल में भारत में गाँव के स्तर पर भू-राजस्व और कृषि सांख्यिकी के रिकॉर्ड रखने के लिए कौन सी प्रशासनिक इकाई स्थापित की गई थी?",
+  "optsEn": [
+   "Collectorate",
+   "Tehsil",
+   "Patwari circle",
+   "Diwani"
+  ],
+  "optsHi": [
+   "कलेक्टर कार्यालय",
+   "तहसील",
+   "पटवारी हल्का",
+   "दीवानी"
+  ],
+  "correct": 2,
+  "explainEn": "The Patwari maintains village land records and crop inspection registers, a system institutionalized during the colonial revenue settlements.",
+  "sourceHint": "NCERT Class 8 Social and Political Life, Chapter on Rural Administration",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:38:08Z"
+ },
+ {
+  "id": "q_bcc643063436a37e",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of the Indian textile industry during the colonial era, what was the primary characteristic of 'Calico' cloth?",
+  "qHi": "औपनिवेशिक काल के दौरान भारतीय कपड़ा उद्योग के संदर्भ में 'कैलिको' कपड़े की मुख्य विशेषता क्या थी?",
+  "optsEn": [
+   "It was a heavy woolen blanket woven in Punjab.",
+   "It was a plain-woven cotton textile exported from Calicut.",
+   "It was a synthetic fabric introduced by the British.",
+   "It was a silk fabric reserved exclusively for royalty."
+  ],
+  "optsHi": [
+   "यह पंजाब में बुनी गई भारी ऊनी कंबल थी।",
+   "यह कालीकट से निर्यात किया जाने वाला सादे बुनाई का सूती कपड़ा था।",
+   "यह अंग्रेजों द्वारा पेश किया गया एक सिंथेटिक कपड़ा था।",
+   "यह विशेष रूप से राजघराने के लिए आरक्षित रेशमी कपड़ा था।"
+  ],
+  "correct": 1,
+  "explainEn": "European traders first encountered cotton textiles at Calicut in Kerala, calling all cotton pieces 'calico'.",
+  "sourceHint": "NCERT Class 8 History, Chapter: Weavers, Iron Smelters and Factory Owners",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:38:08Z"
+ },
+ {
+  "id": "q_daded6d94df68722",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian ecosystem is primarily characterized by the dominance of 'Shorea robusta' trees?",
+  "qHi": "किस भारतीय पारिस्थितिकी तंत्र में मुख्य रूप से 'शोरिया रोबस्टा' (साल) के पेड़ों की प्रधानता होती है?",
+  "optsEn": [
+   "Mangrove forests",
+   "Tropical deciduous forests",
+   "Alpine tundra",
+   "Thorny scrub forests"
+  ],
+  "optsHi": [
+   "मंग्रोव वन",
+   "उष्णकटिबंधीय पर्णपाती वन",
+   "अल्पीय टुंड्रा",
+   "कंटीले झाड़ीदार वन"
+  ],
+  "correct": 1,
+  "explainEn": "Shorea robusta is the scientific name for the Sal tree, which is a major component of moist and dry tropical deciduous forests in India.",
+  "sourceHint": "NCERT Class 8 Geography, Chapter: Natural Vegetation and Wildlife",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:38:08Z"
+ },
+ {
+  "id": "q_64514de7ca7ed56d",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What was the immediate consequence of the abolition of the Dual System of Administration in Bengal?",
+  "qHi": "बंगाल में द्वैध शासन प्रणाली की समाप्ति का तत्काल परिणाम क्या था?",
+  "optsEn": [
+   "The Marathas gained control of Bengal's revenues.",
+   "The British East India Company assumed direct responsibility for administration and revenue collection.",
+   "The Mughal Emperor regained absolute political power.",
+   "Trade monopolies were completely abolished for all merchants."
+  ],
+  "optsHi": [
+   "मराठों ने बंगाल के राजस्व पर नियंत्रण प्राप्त कर लिया।",
+   "ब्रिटिश ईस्ट इंडिया कंपनी ने प्रशासन और राजस्व संग्रह की प्रत्यक्ष जिम्मेदारी अपने हाथ में ले ली।",
+   "मुगल सम्राट ने अपनी पूर्ण राजनीतिक शक्ति वापस पा ली।",
+   "सभी व्यापारियों के लिए व्यापार एकाधिकार पूरी तरह से समाप्त कर दिया गया।"
+  ],
+  "correct": 1,
+  "explainEn": "Warren Hastings ended the Dual System in 1772, and the Company directly undertook the administration of Bengal.",
+  "sourceHint": "NCERT Class 8 History, Chapter: Ruling the Countryside",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:38:08Z"
+ },
+ {
+  "id": "q_22b9caa21452528f",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which mineral resource is primarily formed in the cracks, crevices, faults, or joints of igneous and metamorphic rocks as veins and lodes?",
+  "qHi": "कौन सा खनिज संसाधन मुख्य रूप से आग्नेय और कायांतरित चट्टानों की दरारों, भ्रंशों या जोड़ों में शिराओं और लोट्स के रूप में बनता है?",
+  "optsEn": [
+   "Coal",
+   "Limestone",
+   "Metallic minerals like copper",
+   "Petroleum"
+  ],
+  "optsHi": [
+   "कोयला",
+   "चूना पत्थर",
+   "तांबा जैसे धातु खनिज",
+   "पेट्रोलियम"
+  ],
+  "correct": 2,
+  "explainEn": "Metallic minerals such as tin, copper, zinc and lead are generally found in veins and lodes within igneous and metamorphic rocks.",
+  "sourceHint": "NCERT Class 8 Geography, Chapter: Minerals and Power Resources",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:38:08Z"
+ },
+ {
+  "id": "q_5ba68b14404e7a3d",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Under the Indian Constitution, which fundamental right explicitly prohibits human trafficking and forced labour?",
+  "qHi": "भारतीय संविधान के तहत, कौन सा मौलिक अधिकार स्पष्ट रूप से मानव तस्करी और जबरन श्रम पर प्रतिबंध लगाता है?",
+  "optsEn": [
+   "Right to Equality",
+   "Right to Freedom",
+   "Right against Exploitation",
+   "Right to Freedom of Religion"
+  ],
+  "optsHi": [
+   "समानता का अधिकार",
+   "स्वतंत्रता का अधिकार",
+   "शोषण के खिलाफ अधिकार",
+   "धर्म की स्वतंत्रता का अधिकार"
+  ],
+  "correct": 2,
+  "explainEn": "Articles 23 and 24 of the Indian Constitution enshrine the Right against Exploitation, prohibiting traffic in human beings and begar.",
+  "sourceHint": "NCERT Class 8 Social and Political Life, Chapter: Understanding Our Criminal Justice System",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:38:08Z"
+ },
+ {
+  "id": "q_8da41c5305ab2367",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In agricultural geography, what term describes the commercial rearing of silkworms for the production of raw silk?",
+  "qHi": "कृषि भूगोल में, कच्चे रेशम के उत्पादन के लिए रेशम के कीड़ों के व्यावसायिक पालन को क्या कहा जाता है?",
+  "optsEn": [
+   "Sericulture",
+   "Pisciculture",
+   "Horticulture",
+   "Viticulture"
+  ],
+  "optsHi": [
+   "सेरीकल्चर (रेशम कीट पालन)",
+   "पिस्किकल्चर (मत्स्य पालन)",
+   "हॉर्टिकल्चर (बागवानी)",
+   "विटिकल्चर (अंगूर की खेती)"
+  ],
+  "correct": 0,
+  "explainEn": "Sericulture is the specific term used for the breeding and management of silkworms to produce silk.",
+  "sourceHint": "NCERT Class 8 Geography, Chapter: Agriculture",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:38:08Z"
+ },
+ {
+  "id": "q_42b42faa0010f8e5",
+  "group": "class-8",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which legislative measure introduced in British India created separate electorates based on religion?",
+  "qHi": "ब्रिटिश भारत में शुरू किए गए किस विधายक उपाय ने धर्म के आधार पर पृथक निर्वाचिकाएं बनाईं?",
+  "optsEn": [
+   "Charter Act of 1833",
+   "Government of India Act of 1909",
+   "Pitt's India Act of 1784",
+   "Regulating Act of 1773"
+  ],
+  "optsHi": [
+   "1833 का चार्टर अधिनियम",
+   "भारत सरकार अधिनियम 1909",
+   "पिट्स इंडिया एक्ट 1784",
+   "विनियमन अधिनियम 1773"
+  ],
+  "correct": 1,
+  "explainEn": "The Morley-Minto Reforms (Government of India Act 1909) introduced the system of communal representation through separate electorates for Muslims.",
+  "sourceHint": "NCERT Class 8 History, Chapter: The Making of the National Movement",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:38:08Z"
  }
 ]

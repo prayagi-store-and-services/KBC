@@ -35558,5 +35558,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-26T21:35:33Z"
+ },
+ {
+  "id": "q_36a48b002a2f41a7",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What do plants absorb from the air to perform photosynthesis?",
+  "qHi": "प्रकाश संश्लेषण करने के लिए पौधे हवा से क्या अवशोषित करते हैं?",
+  "optsEn": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "कार्बन डाइऑक्साइड",
+   "नाइट्रोजन",
+   "हाइड्रोजन"
+  ],
+  "correct": 1,
+  "explainEn": "Plants take in carbon dioxide from the air, along with water and sunlight, to make their food during photosynthesis.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:36:46Z"
+ },
+ {
+  "id": "q_330e8bc39b0d7397",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which season in India generally experiences the festival of Diwali?",
+  "qHi": "भारत में आमतौर पर किस ऋतु में दीपावली का त्यौहार मनाया जाता है?",
+  "optsEn": [
+   "Summer",
+   "Monsoon",
+   "Autumn",
+   "Spring"
+  ],
+  "optsHi": [
+   "ग्रीष्म ऋतु",
+   "वर्षा ऋतु",
+   "शरद ऋतु",
+   "वसन्त ऋतु"
+  ],
+  "correct": 2,
+  "explainEn": "Diwali typically falls in the autumn season (October or November) in India.",
+  "sourceHint": "NCERT Class 5 Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:36:46Z"
+ },
+ {
+  "id": "q_f7c8cf37e14d6c0c",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the process by which plants make their food using sunlight, water, and carbon dioxide called?",
+  "qHi": "उस प्रक्रिया को क्या कहते हैं जिसके द्वारा पौधे सूर्य के प्रकाश, पानी और कार्बन डाइऑक्साइड का उपयोग करके अपना भोजन बनाते हैं?",
+  "optsEn": [
+   "Respiration",
+   "Transpiration",
+   "Photosynthesis",
+   "Germination"
+  ],
+  "optsHi": [
+   "श्वसन",
+   "वाष्पोत्सर्जन",
+   "प्रकाश संश्लेषण",
+   "अंकुरण"
+  ],
+  "correct": 2,
+  "explainEn": "Photosynthesis is the process used by plants to convert light energy into chemical energy.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-27T08:38:02Z"
  }
 ]
