@@ -25758,5 +25758,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-28T07:52:58Z"
+ },
+ {
+  "id": "q_1a07104f125ad9b7",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which monument in Agra was built by Shah Jahan in memory of his wife Mumtaz Mahal?",
+  "qHi": "आगरा में किस स्मारक का निर्माण शाहजहाँ ने अपनी पत्नी मुमताज महल की याद में करवाया था?",
+  "optsEn": [
+   "Red Fort",
+   "Taj Mahal",
+   "Qutub Minar",
+   "Humayun's Tomb"
+  ],
+  "optsHi": [
+   "लाल किला",
+   "ताज महल",
+   "कुतुब मीनार",
+   "हुमायूं का मकबरा"
+  ],
+  "correct": 1,
+  "explainEn": "The Taj Mahal is an ivory-white marble mausoleum commissioned in 1632.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T20:05:08Z"
+ },
+ {
+  "id": "q_1361d0817f65e15c",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which planet in our solar system is known for having the most prominent ring system visible from Earth?",
+  "qHi": "हमारे सौर मंडल में किस ग्रह को पृथ्वी से दिखाई देने वाली सबसे प्रमुख वलय प्रणाली (रिंग्स) के लिए जाना जाता है?",
+  "optsEn": [
+   "Jupiter",
+   "Saturn",
+   "Uranus",
+   "Neptune"
+  ],
+  "optsHi": [
+   "बृहस्पति",
+   "शनि",
+   "अरुण",
+   "वरुण"
+  ],
+  "correct": 1,
+  "explainEn": "Saturn is famous for its extensive and bright ring system composed mostly of ice particles and rocky debris.",
+  "sourceHint": "Encyclopaedia Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T20:06:17Z"
+ },
+ {
+  "id": "q_3ab628c254a92ba5",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Who was the president of the Indian National Congress at the time of India's independence in 1947?",
+  "qHi": "1947 में भारत की स्वतंत्रता के समय भारतीय राष्ट्रीय कांग्रेस के अध्यक्ष कौन थे?",
+  "optsEn": [
+   "Jawaharlal Nehru",
+   "Maulana Abul Kalam Azad",
+   "J. B. Kripalani",
+   "Sardar Vallabhbhai Patel"
+  ],
+  "optsHi": [
+   "जawaharlal Nehru",
+   "Maulana Abul Kalam Azad",
+   "जे. बी. कृपलानी",
+   "Sardar Vallabhbhai Patel"
+  ],
+  "correct": 2,
+  "explainEn": "J. B. Kripalani was the president of the INC when India gained independence in August 1947.",
+  "sourceHint": "NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T20:07:11Z"
+ },
+ {
+  "id": "q_0229699bea372c93",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which chemical element is the primary component of the mineral bauxite, the chief ore of aluminum?",
+  "qHi": "बॉक्साइट खनिज का प्राथमिक घटक कौन सा रासायनिक तत्व है, जो एल्यूमीनियम का मुख्य अयस्क है?",
+  "optsEn": [
+   "Iron",
+   "Aluminum",
+   "Copper",
+   "Manganese"
+  ],
+  "optsHi": [
+   "लोहा",
+   "एल्यूमीनियम",
+   "तांबा",
+   "मैंगनीज"
+  ],
+  "correct": 1,
+  "explainEn": "Bauxite is a sedimentary rock with a relatively high aluminum content, serving as the principal ore of aluminum.",
+  "sourceHint": "Britannica",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T20:07:11Z"
+ },
+ {
+  "id": "q_d4e380342a859309",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the term for the monetary policy stance where the central bank aims to increase the money supply and lower interest rates?",
+  "qHi": "उस मौद्रिक नीति रुख को क्या कहा जाता है जिसका उद्देश्य केंद्रीय बैंक द्वारा धन की आपूर्ति बढ़ाना और ब्याज दरें कम करना है?",
+  "optsEn": [
+   "Hawkish stance",
+   "Dovish stance",
+   "Neutral stance",
+   "Restrictive stance"
+  ],
+  "optsHi": [
+   "हॉकिश रुख",
+   "डोविश रुख",
+   "तटस्थ रुख",
+   "प्रतिबंधात्मक रुख"
+  ],
+  "correct": 1,
+  "explainEn": "A dovish monetary policy stance focuses on expanding the money supply and lowering interest rates to stimulate economic growth.",
+  "sourceHint": "Reserve Bank of India publications",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T20:07:11Z"
  }
 ]

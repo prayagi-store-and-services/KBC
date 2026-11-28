@@ -26150,5 +26150,89 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-28T07:52:47Z"
+ },
+ {
+  "id": "q_9a4c8d3a47d0afb8",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following layers of the atmosphere is characterized by the presence of the ozone layer that absorbs harmful ultraviolet rays?",
+  "qHi": "वायुमंडल की निम्नलिखित में से किस परत में ओजोन परत की उपस्थिति होती है जो हानिकारक पराबैंगनी किरणों को अवशोषित करती है?",
+  "optsEn": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "क्षوبमंडल",
+   "समताप मंडल",
+   "मध्यमंडल",
+   "तापमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The stratosphere contains the ozone layer, which absorbs ultraviolet radiation from the Sun.",
+  "sourceHint": "NCERT Class 7 Geography Our Environment",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T20:06:43Z"
+ },
+ {
+  "id": "q_88506a9b734da507",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following financial bodies regulates the insurance sector in India?",
+  "qHi": "निम्नलिखित में से कौन सा वित्तीय निकाय भारत में बीमा क्षेत्र को नियंत्रित करता है?",
+  "optsEn": [
+   "SEBI",
+   "RBI",
+   "IRDAI",
+   "NABARD"
+  ],
+  "optsHi": [
+   "सेबी",
+   "आरबीआई",
+   "इरडा",
+   "नाबार्ड"
+  ],
+  "correct": 2,
+  "explainEn": "The Insurance Regulatory and Development Authority of India (IRDAI) is the statutory body tasked with regulating and promoting the insurance industry in India.",
+  "sourceHint": "Indian Economy by Ramesh Singh / PIB",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T20:06:43Z"
+ },
+ {
+  "id": "q_f68501b0f90122ac",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "The famous battle of Talikota, which led to the decline of the Vijayanagara Empire, was fought in which year?",
+  "qHi": "तालीकोट का प्रसिद्ध युद्ध, जिसके कारण विजयन किस वर्ष लड़ा गया था?",
+  "optsEn": [
+   "1526",
+   "1565",
+   "1576",
+   "1605"
+  ],
+  "optsHi": [
+   "1526",
+   "1565",
+   "1576",
+   "1605"
+  ],
+  "correct": 1,
+  "explainEn": "The Battle of Talikota was fought in 1565 between the Vijayanagara Empire and the combined forces of the Deccan sultanates.",
+  "sourceHint": "NCERT Class 12 History Themes in Indian History Part II",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T20:06:43Z"
  }
 ]

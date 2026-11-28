@@ -30966,5 +30966,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-28T07:52:08Z"
+ },
+ {
+  "id": "q_9ce7f91b00b6edfa",
+  "group": "class-8",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following layers of the Earth is the innermost layer?",
+  "qHi": "पृथ्वी की निम्नलिखित परतों में से सबसे आंतरिक परत कौन सी है?",
+  "optsEn": [
+   "Crust",
+   "Mantle",
+   "Core",
+   "Lithosphere"
+  ],
+  "optsHi": [
+   "पर्पटी (क्रस्ट)",
+   "मैंटल",
+   "क्रोड (कोर)",
+   "स्थलमंडल"
+  ],
+  "correct": 2,
+  "explainEn": "The innermost layer of the Earth is the core, with a radius of about 3500 km.",
+  "sourceHint": "NCERT Class 8 Geography, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T20:05:14Z"
+ },
+ {
+  "id": "q_187dd7deeb532011",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary gas responsible for global warming by trapping heat in the Earth's atmosphere?",
+  "qHi": "पृथ्वी के वायुमंडल में गर्मी फँसाकर ग्लोबल वार्मिंग के लिए उत्तरदायी मुख्य गैस कौन सी है?",
+  "optsEn": [
+   "Oxygen",
+   "Nitrogen",
+   "Carbon dioxide",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "कार्बन डाइऑक्साइड",
+   "आर्गन"
+  ],
+  "correct": 2,
+  "explainEn": "Carbon dioxide is a greenhouse gas that traps heat in the atmosphere, contributing to global warming.",
+  "sourceHint": "NCERT Class 8 Science Chapter 18",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T20:06:25Z"
+ },
+ {
+  "id": "q_c8c60def16e3b430",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which crop is classified as a kharif crop, typically sown in the rainy season in India?",
+  "qHi": "किस फसल को खरीफ फसल के रूप में वर्गीकृत किया जाता है, जिसे आमतौर पर भारत में वर्षा ऋतु में बोया जाता है?",
+  "optsEn": [
+   "Wheat",
+   "Gram",
+   "Paddy",
+   "Pea"
+  ],
+  "optsHi": [
+   "गेहूं",
+   "चना",
+   "धान",
+   "मटर"
+  ],
+  "correct": 2,
+  "explainEn": "Paddy (rice) requires a lot of water and is sown during the rainy season, making it a kharif crop.",
+  "sourceHint": "NCERT Class 8 Science Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T20:06:25Z"
+ },
+ {
+  "id": "q_f283474158fa79a8",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which part of a plant does fertilization usually take place during sexual reproduction?",
+  "qHi": "लैंगिक जनन के दौरान पौधे के किस भाग में आमतौर पर निषेचन होता है?",
+  "optsEn": [
+   "Anther",
+   "Ovary",
+   "Stigma",
+   "Filament"
+  ],
+  "optsHi": [
+   "परागकोश",
+   "अंडाशय",
+   "वर्तिकाग्र",
+   "पुतंतु"
+  ],
+  "correct": 1,
+  "explainEn": "Fertilization occurs when the male gamete fuses with the female gamete inside the ovary of a flower.",
+  "sourceHint": "NCERT Class 8 Science Chapter 9",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T20:06:25Z"
+ },
+ {
+  "id": "q_b3728caa8a538cb6",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of force is friction, which always acts opposite to the direction of motion?",
+  "qHi": "घर्षण किस प्रकार का बल है, जो हमेशा गति की दिशा के विपरीत कार्य करता है?",
+  "optsEn": [
+   "Contact force",
+   "Magnetic force",
+   "Electrostatic force",
+   "Gravitational force"
+  ],
+  "optsHi": [
+   "संपर्क बल",
+   "चुंबकीय बल",
+   "स्थिरवैद्युत बल",
+   "गुरुत्वाकर्षण बल"
+  ],
+  "correct": 0,
+  "explainEn": "Friction is a contact force that arises when two surfaces are in physical contact and opposes relative motion.",
+  "sourceHint": "NCERT Class 8 Science Chapter 12",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T20:06:25Z"
+ },
+ {
+  "id": "q_ade22b23d4f74297",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which British official introduced the doctrine of lapse to annex Indian princely states?",
+  "qHi": "किस ब्रिटिश अधिकारी ने भारतीय रियासतों का विलय करने के लिए हड़प नीति (व्यपगत का सिद्धांत) शुरू की थी?",
+  "optsEn": [
+   "Lord Dalhousie",
+   "Lord Wellesley",
+   "Lord Curzon",
+   "Warren Hastings"
+  ],
+  "optsHi": [
+   "लॉर्ड डलहौजी",
+   "लॉर्ड वेलेजली",
+   "लॉर्ड कर्ज़न",
+   "वारेन हेस्टिंग्स"
+  ],
+  "correct": 0,
+  "explainEn": "Lord Dalhousie introduced the doctrine of lapse, stating that a princely state would be annexed if the ruler died without a natural male heir.",
+  "sourceHint": "NCERT Class 8 History Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T20:06:25Z"
  }
 ]

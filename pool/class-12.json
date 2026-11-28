@@ -41774,5 +41774,369 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-28T07:52:17Z"
+ },
+ {
+  "id": "q_a351cb3054799abc",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Who wrote the famous ancient Indian treatise on statecraft, economics, and military strategy titled 'Arthashastra'?",
+  "qHi": "'अर्थशास्त्र' नामक राज्यकला, अर्थशास्त्र और सैन्य रणनीति पर प्रसिद्ध प्राचीन भारतीय ग्रंथ किसने लिखा था?",
+  "optsEn": [
+   "Kalidasa",
+   "Kautilya",
+   "Banabhatta",
+   "Aryabhata"
+  ],
+  "optsHi": [
+   "कालिदास",
+   "कौटिल्य",
+   "बाणभट्ट",
+   "आर्यभट्ट"
+  ],
+  "correct": 1,
+  "explainEn": "Arthashastra was authored by Kautilya, also known as Chanakya.",
+  "sourceHint": "NCERT Class 12 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T20:05:43Z"
+ },
+ {
+  "id": "q_155bb9222fce811a",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which gas is primarily responsible for the greenhouse effect on Earth, acting as a baseline reference for global warming potentials?",
+  "qHi": "पृथ्वी पर ग्रीनहाउस प्रभाव के लिए मुख्य रूप से कौन सी गैस जिम्मेदार है, जो ग्लोबल वार्मिंग क्षमता के लिए आधारभूत संदर्भ के रूप में कार्य करती है?",
+  "optsEn": [
+   "Oxygen",
+   "Nitrogen",
+   "Carbon dioxide",
+   "Argon"
+  ],
+  "optsHi": [
+   "ऑक्सीजन",
+   "नाइट्रोजन",
+   "कार्बन डाइऑक्साइड",
+   "आर्गन"
+  ],
+  "correct": 2,
+  "explainEn": "Carbon dioxide is a major greenhouse gas contributing significantly to the warming of Earth's atmosphere.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 16",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T20:05:43Z"
+ },
+ {
+  "id": "q_7f252d473802d6ad",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In human geography, what term describes the total number of inhabitants living within a specific unit of area?",
+  "qHi": "मानव भूगोल में, कौन सा शब्द क्षेत्र की एक विशिष्ट इकाई के भीतर रहने वाले निवासियों की कुल संख्या का वर्णन करता है?",
+  "optsEn": [
+   "Population distribution",
+   "Population density",
+   "Population growth",
+   "Demographic transition"
+  ],
+  "optsHi": [
+   "जनसंख्या वितरण",
+   "जनसंख्या घनत्व",
+   "जनसंख्या वृद्धि",
+   "जनसांख्यिकी संक्रमण"
+  ],
+  "correct": 1,
+  "explainEn": "Population density is expressed as the number of people per unit area, usually per square kilometre.",
+  "sourceHint": "NCERT Class 12 Geography, Fundamentals of Human Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T20:05:43Z"
+ },
+ {
+  "id": "q_87fa4a06fab7c497",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which economic sector does the activity of forestry primarily fall?",
+  "qHi": "वानिकी की गतिविधि मुख्य रूप से किस आर्थिक क्षेत्र के अंतर्गत आती है?",
+  "optsEn": [
+   "Primary sector",
+   "Secondary sector",
+   "Tertiary sector",
+   "Quaternary sector"
+  ],
+  "optsHi": [
+   "प्राथमिक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "तृतीयक क्षेत्र",
+   "चतुर्थक क्षेत्र"
+  ],
+  "correct": 0,
+  "explainEn": "Activities that involve the direct extraction of natural resources, such as agriculture, forestry, and fishing, belong to the primary sector.",
+  "sourceHint": "NCERT Class 12 Geography, Chapter 5",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T20:06:33Z"
+ },
+ {
+  "id": "q_61be64bc0ac73077",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which coordination compound is commonly known as Cisplatin and is used as an anti-cancer drug?",
+  "qHi": "किस उपसहसंयोजन यौगिक को आमतौर पर सिस्प्लैटिन के रूप में जाना जाता है और इसका उपयोग कैंसर विरोधी दवा के रूप में किया जाता है?",
+  "optsEn": [
+   "[PtCl2(NH3)2]",
+   "[Co(NH3)6]Cl3",
+   "[Fe(CN)6]3-",
+   "[Ni(CO)4]"
+  ],
+  "optsHi": [
+   "[PtCl2(NH3)2]",
+   "[Co(NH3)6]Cl3",
+   "[Fe(CN)6]3-",
+   "[Ni(CO)4]"
+  ],
+  "correct": 0,
+  "explainEn": "Cis-diamminedichloroplatinum(II), commonly called cisplatin, is widely used in chemotherapy to treat various cancers.",
+  "sourceHint": "NCERT Class 12 Chemistry, Chapter 9",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T20:06:33Z"
+ },
+ {
+  "id": "q_c6b9f02f72cdb189",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which macroeconomics aggregate represents the total monetary value of all final goods and services produced within a domestic territory of a country in a year?",
+  "qHi": "कौन सा समष्टि अर्थशास्त्र समुच्चय एक वर्ष में किसी देश के घरेलू क्षेत्र के भीतर उत्पादित सभी अंतिम वस्तुओं और सेवाओं के कुल मौद्रिक मूल्य का प्रतिनिधित्व करता है?",
+  "optsEn": [
+   "Gross Domestic Product",
+   "Gross National Product",
+   "Net National Product",
+   "National Disposable Income"
+  ],
+  "optsHi": [
+   " सकल घरेलू उत्पाद",
+   "सकल राष्ट्रीय उत्पाद",
+   "शुद्ध राष्ट्रीय उत्पाद",
+   "राष्ट्रीय प्रयोज्य आय"
+  ],
+  "correct": 0,
+  "explainEn": "Gross Domestic Product (GDP) measures the value of economic activity produced within a country's domestic boundaries.",
+  "sourceHint": "NCERT Class 12 Economics, Introductory Macroeconomics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T20:06:33Z"
+ },
+ {
+  "id": "q_a6d519bcc92ffe98",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which literary genre features the character Mr. Oliver in Ruskin Bond's famous story 'A Face in the Dark'?",
+  "qHi": "रस्किन बॉन्ड की प्रसिद्ध कहानी 'ए फेस इन द डार्क' में मिस्टर ओलिवर चरित्र किस साहित्यिक विधा से संबंधित है?",
+  "optsEn": [
+   "Ghost story / Suspense narrative",
+   "Science fiction",
+   "Historical fiction",
+   "Romantic comedy"
+  ],
+  "optsHi": [
+   "भूतिया कहानी / सस्पेंस कथा",
+   "विज्ञान कथा",
+   "ऐतिहासिक कथा",
+   "रोमांटिक कॉमेडी"
+  ],
+  "correct": 0,
+  "explainEn": "A Face in the Dark is a suspenseful story involving supernatural elements set in the pine forests near Shimla.",
+  "sourceHint": "CBSE English Core Curriculum",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T20:06:33Z"
+ },
+ {
+  "id": "q_85b8b44faad61b3b",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of macroeconomic equilibria, what does an upward shift in the aggregate demand curve at a constant price level typically indicate?",
+  "qHi": "मैक्रोइकॉनॉमिक संतुलन के संदर्भ में, स्थिर मूल्य स्तर पर कुल मांग वक्र में ऊपर की ओर बदलाव आमतौर पर क्या दर्शाता है?",
+  "optsEn": [
+   "An increase in autonomous consumption or investment",
+   "A decrease in government expenditure",
+   "An increase in the marginal propensity to save",
+   "A reduction in the money supply by the central bank"
+  ],
+  "optsHi": [
+   "स्वायत्त उपभोग या निवेश में वृद्धि",
+   "सरकारी खर्च में कमी",
+   "बचाव की सीमांत प्रवृत्ति में वृद्धि",
+   "केंद्रीय बैंक द्वारा मुद्रा आपूर्ति में कमी"
+  ],
+  "correct": 0,
+  "explainEn": "An increase in autonomous components of aggregate demand like consumption or investment shifts the AD curve upward.",
+  "sourceHint": "NCERT Class 12 Economics (Introductory Macroeconomics), Chapter 4",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T20:07:30Z"
+ },
+ {
+  "id": "q_c05e9ad77b14ff49",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Article of the Constitution of India provides the procedure for the impeachment of the President of India?",
+  "qHi": "भारत के संविधान का कौन सा अनुच्छेद भारत के राष्ट्रपति पर महाभियोग की प्रक्रिया प्रदान करता है?",
+  "optsEn": [
+   "Article 54",
+   "Article 61",
+   "Article 72",
+   "Article 75"
+  ],
+  "optsHi": [
+   "अनुच्छेद 54",
+   "अनुच्छेद 61",
+   "अनुच्छेद 72",
+   "अनुच्छेद 75"
+  ],
+  "correct": 1,
+  "explainEn": "Article 61 of the Indian Constitution lays down the procedure for the impeachment of the President.",
+  "sourceHint": "Constitution of India, Part V",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T20:07:30Z"
+ },
+ {
+  "id": "q_6bf653ea43308374",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In a p-n junction diode under reverse bias, the magnitude of the reverse saturation current is primarily determined by which of the following?",
+  "qHi": "रिवर्स बायस के तहत पी-एन जंक्शन डायोड में, रिवर्स सैचुरेशन करंट की परिमाण मुख्य रूप से किसके द्वारा निर्धारित होती है?",
+  "optsEn": [
+   "The concentration of majority charge carriers",
+   "The magnitude of the reverse voltage applied",
+   "The rate of thermal generation of electron-hole pairs",
+   "The width of the depletion region"
+  ],
+  "optsHi": [
+   "बहुसंख्यक आवेश वाहकों की सांद्रता",
+   "लागू किए गए रिवर्स वोल्टेज की परिमाण",
+   "इलेक्ट्रॉन-होल युग्मों की थर्मल पीढ़ी की दर",
+   "अवक्षय क्षेत्र की चौड़ाई"
+  ],
+  "correct": 2,
+  "explainEn": "Reverse current is essentially due to the drift of minority carriers thermally generated across the junction, making it nearly independent of the applied reverse voltage.",
+  "sourceHint": "NCERT Class 12 Physics Part 2, Chapter 14: Semiconductor Electronics",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T20:07:30Z"
+ },
+ {
+  "id": "q_da163ddaae16029f",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which of the following British officials introduced the Permanent Settlement system in Bengal in 1793?",
+  "qHi": "निम्नलिखित में से किस ब्रिटिश अधिकारी ने 1793 में बंगाल में स्थायी बंदोबस्त प्रणाली शुरू की थी?",
+  "optsEn": [
+   "Lord Wellesley",
+   "Lord Cornwallis",
+   "Lord Dalhousie",
+   "Warren Hastings"
+  ],
+  "optsHi": [
+   "लॉर्ड वेलेडजी",
+   "लॉर्ड कॉर्नवालिस",
+   "लॉर्ड डलहौजी",
+   "वारेन हेस्टिंग्स"
+  ],
+  "correct": 1,
+  "explainEn": "Lord Cornwallis introduced the Permanent Settlement in Bengal, Bihar, and Orissa in 1793.",
+  "sourceHint": "NCERT Class 12 History (Themes in Indian History Part III), Chapter 10",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T20:07:30Z"
+ },
+ {
+  "id": "q_927285c6856fb702",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary product formed when primary aliphatic amines react with nitrous acid (NaNO2 + HCl) at low temperatures (0-5 °C)?",
+  "qHi": "कम तापमान (0-5 डिग्री सेल्सियस) पर नाइट्रस अम्ल (NaNO2 + HCl) के साथ प्राथमिक एलिफेटिक एमाइन की प्रतिक्रिया पर कौन सा प्राथमिक उत्पाद बनता है?",
+  "optsEn": [
+   "A stable diazonium salt",
+   "An aliphatic diazo compound",
+   "An unstable aliphatic diazonium salt leading to alcohol and nitrogen gas",
+   "A secondary amine"
+  ],
+  "optsHi": [
+   "एक स्थिर डायोजोनियम लवण",
+   "एक एलिफेटिक डायजो यौगिक",
+   "एक अस्थिर एलिफेटिक डायोजोनियम लवण जो अल्कोहल और नाइट्रोजन गैस की ओर ले जाता है",
+   "एक द्वितीयक एमाइन"
+  ],
+  "correct": 2,
+  "explainEn": "Aliphatic primary amines react with HNO2 to form aliphatic diazonium salts which are highly unstable and decompose immediately to yield alcohols and nitrogen gas.",
+  "sourceHint": "NCERT Class 12 Chemistry Part 2, Chapter 13: Amines",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T20:07:30Z"
+ },
+ {
+  "id": "q_3016a9d813b2fb31",
+  "group": "class-12",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In linear programming problems, which mathematical feature ensures that the optimal value of the objective function occurs at a vertex of the feasible region?",
+  "qHi": "रैखिक प्रोग्रामिंग समस्याओं में, कौन सी गणितीय विशेषता यह सुनिश्चित करती है कि उद्देश्य फलन का इष्टतम मूल्य व्यवहार्य क्षेत्र के एक शीर्ष पर होता है?",
+  "optsEn": [
+   "Non-negativity constraints",
+   "Linearity of the objective function and constraints",
+   "Discontinuity of the feasible region",
+   "Presence of multiple optimal solutions"
+  ],
+  "optsHi": [
+   "गैर-नकारात्मकता बाधाएं",
+   "उद्देश्य फलन और बाधाओं की रेखीयता",
+   "व्यवहार्य क्षेत्र की निरंतरता",
+   "कई इष्टतम समाधानों की उपस्थिति"
+  ],
+  "correct": 1,
+  "explainEn": "Convexity and linearity ensure that the maximum or minimum of a linear objective function over a convex polygon (feasible region) always occurs at its extreme points (vertices).",
+  "sourceHint": "NCERT Class 12 Mathematics Part 2, Chapter 12: Linear Programming",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T20:07:30Z"
  }
 ]

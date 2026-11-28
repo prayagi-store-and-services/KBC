@@ -35922,5 +35922,229 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-28T07:52:04Z"
+ },
+ {
+  "id": "q_6bee14b5f0b7ff84",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary function of stomata found on the leaves of plants?",
+  "qHi": "पौधों की पत्तियों पर पाए जाने वाले रंध्रों (स्टोमेटा) का मुख्य कार्य क्या है?",
+  "optsEn": [
+   "Absorbing water from soil",
+   "Exchange of gases",
+   "Producing seeds",
+   "Anchoring the plant"
+  ],
+  "optsHi": [
+   "मिट्टी से पानी सोखना",
+   "गैसों का आदान-प्रदान",
+   "बीज पैदा करना",
+   "पौधे को सहारा देना"
+  ],
+  "correct": 1,
+  "explainEn": "Stomata are tiny pores on leaves that allow plants to take in carbon dioxide and release oxygen.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T20:06:21Z"
+ },
+ {
+  "id": "q_b4acc8b581a4a859",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Who is the constitutional head of the executive branch of the Indian Union?",
+  "qHi": "भारतीय संघ की कार्यकारी शाखा का संवैधानिक प्रमुख कौन होता है?",
+  "optsEn": [
+   "Prime Minister",
+   "Chief Justice of India",
+   "President of India",
+   "Speaker of Lok Sabha"
+  ],
+  "optsHi": [
+   "प्रधान मंत्री",
+   "भारत के मुख्य न्यायाधीश",
+   "भारत के राष्ट्रपति",
+   "लोकसभा अध्यक्ष"
+  ],
+  "correct": 2,
+  "explainEn": "The President of India is the head of the state and the formal constitutional head of the executive.",
+  "sourceHint": "Constitution of India Article 53",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T20:06:21Z"
+ },
+ {
+  "id": "q_0ec1f66787a677cc",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which planet in our solar system has the most prominent and complex ring system composed mostly of ice particles and rocky debris?",
+  "qHi": "हमारे सौरमंडल में किस ग्रह पर मुख्य रूप से बर्फ के कणों और चट्टानी मलबे से बनी सबसे प्रमुख और जटिल वलय प्रणाली है?",
+  "optsEn": [
+   "Mars",
+   "Jupiter",
+   "Saturn",
+   "Venus"
+  ],
+  "optsHi": [
+   "मंगल",
+   "बृहस्पति",
+   "शनि",
+   "शुक्र"
+  ],
+  "correct": 2,
+  "explainEn": "Saturn is well-known for its massive and bright ring system, easily visible even through small telescopes.",
+  "sourceHint": "NCERT Class 6 Science Chapter 1 (The Earth in the Solar System)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T20:07:16Z"
+ },
+ {
+  "id": "q_44d20050f1f4aa94",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In which part of a plant does photosynthesis primarily take place to produce food using sunlight, water, and carbon dioxide?",
+  "qHi": "पौधे के किस भाग में मुख्य रूप से सूर्य के प्रकाश, पानी और कार्बन डाइऑक्साइड का उपयोग करके भोजन बनाने के लिए प्रकाश संश्लेषण होता है?",
+  "optsEn": [
+   "Roots",
+   "Leaves",
+   "Flowers",
+   "Stem"
+  ],
+  "optsHi": [
+   "जड़",
+   "पत्तियां",
+   "फूल",
+   "तना"
+  ],
+  "correct": 1,
+  "explainEn": "Leaves contain chlorophyll which absorbs sunlight, making them the primary site for photosynthesis in plants.",
+  "sourceHint": "NCERT Class 5 Science Curriculum / General Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T20:07:16Z"
+ },
+ {
+  "id": "q_38d17cd882ad1e4b",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which traditional Indian harvest festival marks the transition of the sun into the zodiac sign of Capricorn (Makara), celebrated in January?",
+  "qHi": "कौन सा पारंपरिक भारतीय फसल उत्सव जनवरी में सूर्य के मकर राशि में प्रवेश का प्रतीक है?",
+  "optsEn": [
+   "Diwali",
+   "Holi",
+   "Makar Sankranti",
+   "Eid al-Fitr"
+  ],
+  "optsHi": [
+   "दीपावली",
+   "होली",
+   "मकर संक्रांति",
+   "ईद-उल-फितर"
+  ],
+  "correct": 2,
+  "explainEn": "Makar Sankranti marks the auspicious day when the sun begins its northward journey, known as Uttarayan.",
+  "sourceHint": "NCERT Class 5 Social Studies / Cultural Heritage",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T20:07:16Z"
+ },
+ {
+  "id": "q_5b922f2af1c03308",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian state is famously known as the 'Spice Garden of India' due to its rich production of spices like cardamom, pepper, and cinnamon?",
+  "qHi": "इलायची, काली मिर्च और दालचीनी जैसे मसालों के समृद्ध उत्पादन के कारण किस भारतीय राज्य को 'भारत का मसाला उद्यान' कहा जाता है?",
+  "optsEn": [
+   "Kerala",
+   "Punjab",
+   "Rajasthan",
+   "Assam"
+  ],
+  "optsHi": [
+   "केरल",
+   "पंजाब",
+   "राजस्थान",
+   "असम"
+  ],
+  "correct": 0,
+  "explainEn": "Kerala has historically been a major global hub for the spice trade and production.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T20:07:16Z"
+ },
+ {
+  "id": "q_05a58323bed3936a",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the process called when a liquid changes directly into a gas without first becoming a liquid? Wait, correction: when a solid changes directly into a gas without passing through the liquid state?",
+  "qHi": "उस प्रक्रिया को क्या कहते हैं जिसमें कोई ठोस पदार्थ बिना द्रव अवस्था में बदले सीधे गैस में बदल जाता है?",
+  "optsEn": [
+   "Evaporation",
+   "Condensation",
+   "Sublimation",
+   "Melting"
+  ],
+  "optsHi": [
+   "वाष्पीकरण",
+   "संघनन",
+   "ऊर्ध्वपातन",
+   "पिघलना"
+  ],
+  "correct": 2,
+  "explainEn": "Sublimation is the transition of a substance directly from the solid to the gas state, such as dry ice or camphor.",
+  "sourceHint": "NCERT Class 9 Science Chapter 1 (Matter in Our Surroundings)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T20:07:16Z"
+ },
+ {
+  "id": "q_18d48342a8e59071",
+  "group": "class-5",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which historical monument, built by Emperor Shah Jahan in Agra, is made entirely of white marble and situated on the right bank of the Yamuna River?",
+  "qHi": "आगरा में सम्राट शाहजहाँ द्वारा निर्मित कौन सा ऐतिहासिक स्मारक पूरी तरह से सफेद संगमरमर से बना है और यमुना नदी के दाहिने तट पर स्थित है?",
+  "optsEn": [
+   "Red Fort",
+   "Qutub Minar",
+   "Taj Mahal",
+   "Humaun's Tomb"
+  ],
+  "optsHi": [
+   "लाल किला",
+   "कुतुब मीनार",
+   "ताजमहल",
+   "हुमायूं का मकबरा"
+  ],
+  "correct": 2,
+  "explainEn": "The Taj Mahal is a mausoleum commissioned in 1631 by Shah Jahan to house the tomb of his favorite wife, Mumtaz Mahal.",
+  "sourceHint": "NCERT Class 7 History Chapter 5 (Rulers and Buildings)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T20:07:16Z"
  }
 ]
