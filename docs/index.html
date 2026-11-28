@@ -65,6 +65,16 @@ ul.clean{padding-left:18px;margin:6px 0}ul.clean li{margin:3px 0}
 .rm{margin:0;padding:0;list-style:none}.rm li{padding:8px 0;border-top:1px solid var(--line)}
 .rv{display:flex;justify-content:space-between;border-top:1px solid var(--line);padding:6px 0;font-size:.85rem}
 footer{text-align:center;color:var(--mute);padding:24px 16px;font-size:.85rem;border-top:1px solid var(--line)}
+
+/* 28 Nov 2026 design layer: Netra editorial typography + touch rhythm (owner's frontend-quality direction).
+   Colour stays on the CSS variables so theme scripts keep working. One bold move: Rozha One display type
+   (self-hosted, OFL, Devanagari + Latin) for the hero headline and section titles; everything else stays quiet. */
+@font-face{font-family:'Rozha One';font-style:normal;font-weight:400;font-display:swap;src:url(assets/fonts/rozha-one-devanagari.woff2) format('woff2');unicode-range:U+0900-097F,U+1CD0-1CF4,U+1CF7-1CF9,U+200C-200D,U+20A8,U+20B9,U+20F0,U+25CC,U+A830-A839,U+A8E0-A8FF,U+11B00-11B0A}
+@font-face{font-family:'Rozha One';font-style:normal;font-weight:400;font-display:swap;src:url(assets/fonts/rozha-one-latin.woff2) format('woff2');unicode-range:U+0000-00FF,U+2000-206F,U+20AC}
+h1,h2.sec{font-family:'Rozha One',Georgia,'Times New Roman',serif;font-weight:400}
+h1{line-height:1.12}
+.top nav a{display:inline-flex;align-items:center;min-height:44px}
+section,[id]{scroll-margin-top:96px}
 </style>
 </head>
 <body>
