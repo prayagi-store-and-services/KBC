@@ -35754,5 +35754,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-27T21:19:45Z"
+ },
+ {
+  "id": "q_2cbcf266a6e36ff3",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which is the national flower of India?",
+  "qHi": "भारत का राष्ट्रीय फूल कौन सा है?",
+  "optsEn": [
+   "Rose",
+   "Lotus",
+   "Sunflower",
+   "Marigold"
+  ],
+  "optsHi": [
+   "गुलाब",
+   "कमल",
+   "सूरजमुखी",
+   "गेंदा"
+  ],
+  "correct": 1,
+  "explainEn": "The lotus is the national flower of India, symbolizing purity and spirituality.",
+  "sourceHint": "NCERT Class 5 Social Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:50:51Z"
+ },
+ {
+  "id": "q_a9e8ff16d068d673",
+  "group": "class-5",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "How many players are in a standard playing team on the field for a game of hockey?",
+  "qHi": "हॉकी के खेल में मैदान पर एक मानक टीम में कितने खिलाड़ी होते हैं?",
+  "optsEn": [
+   "9",
+   "10",
+   "11",
+   "12"
+  ],
+  "optsHi": [
+   "9",
+   "10",
+   "11",
+   "12"
+  ],
+  "correct": 2,
+  "explainEn": "A standard field hockey team consists of eleven players on the field.",
+  "sourceHint": "NCERT Class 5 Physical Education",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:50:51Z"
+ },
+ {
+  "id": "q_5ac7f604bcfc5883",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which traditional Indian stepwell was built primarily to store rainwater and help people during water scarcity?",
+  "qHi": "वर्षा के पानी को संग्रहित करने और जल संकट के दौरान लोगों की मदद करने के लिए कौन सी पारंपरिक भारतीय बावड़ी बनाई गई थी?",
+  "optsEn": [
+   "Gol Gumbaz",
+   "Alai Darwaza",
+   "Baoli",
+   "Stupa"
+  ],
+  "optsHi": [
+   "गोल गुंबद",
+   "अलाई दरवाजा",
+   "बावली",
+   "स्तूप"
+  ],
+  "correct": 2,
+  "explainEn": "Stepwells, locally known as baolis, were constructed in arid regions of India for water storage.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:52:04Z"
+ },
+ {
+  "id": "q_839ece476f91a2f4",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which component of soil allows it to hold the maximum amount of water?",
+  "qHi": "मिट्टी के किस घटक के कारण वह सबसे अधिक मात्रा में पानी रोक सकती है?",
+  "optsEn": [
+   "Sand particles",
+   "Clay particles",
+   "Large pebbles",
+   "Dry leaves"
+  ],
+  "optsHi": [
+   "रेत के कण",
+   "चिकनी मिट्टी (क्ले) के कण",
+   "बड़े कंकड़",
+   "सूखी पत्तियां"
+  ],
+  "correct": 1,
+  "explainEn": "Clay soil has very fine particles packed closely together, giving it high water-retention capacity.",
+  "sourceHint": "NCERT Class 5 Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:52:04Z"
+ },
+ {
+  "id": "q_90b7685c19a6ef7c",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which Indian state is the Jim Corbett National Park located?",
+  "qHi": "जिम कॉर्बेट राष्ट्रीय उद्यान किस भारतीय राज्य में स्थित है?",
+  "optsEn": [
+   "Uttarakhand",
+   "Rajasthan",
+   "Kerala",
+   "Assam"
+  ],
+  "optsHi": [
+   "उत्तराखंड",
+   "राजस्थान",
+   "केरल",
+   "असम"
+  ],
+  "correct": 0,
+  "explainEn": "Jim Corbett National Park, India's oldest national park, is located in the Nainital district of Uttarakhand.",
+  "sourceHint": "NCERT Class 5 EVS",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:52:04Z"
+ },
+ {
+  "id": "q_89fca23d38450171",
+  "group": "class-5",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What type of map representation shows physical features such as mountains, plateaus, and plains?",
+  "qHi": "किस प्रकार का मानचित्र पर्वतों, पठारों और मैदानों जैसी भौतिक विशेषताओं को दर्शाता है?",
+  "optsEn": [
+   "Political map",
+   "Physical map",
+   "Thematic map",
+   "Road map"
+  ],
+  "optsHi": [
+   "राजनीतिक मानचित्र",
+   "भौतिक मानचित्र",
+   "विषयगत मानचित्र",
+   "सड़क मानचित्र"
+  ],
+  "correct": 1,
+  "explainEn": "Physical maps show natural features of the Earth like mountains, plateaus, plains, rivers, and oceans.",
+  "sourceHint": "NCERT Class 5 Social Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:52:04Z"
  }
 ]

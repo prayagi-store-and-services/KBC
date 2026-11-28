@@ -41662,5 +41662,117 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-27T21:19:59Z"
+ },
+ {
+  "id": "q_b6b739d826a64ff8",
+  "group": "class-12",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "What type of lens is used to correct myopia (nearsightedness)?",
+  "qHi": "निकट दृष्टि दोष (मायोपिया) को ठीक करने के लिए किस प्रकार के लेंस का उपयोग किया जाता है?",
+  "optsEn": [
+   "Convex lens",
+   "Concave lens",
+   "Bifocal lens",
+   "Cylindrical lens"
+  ],
+  "optsHi": [
+   "उत्तल लेंस",
+   "अवतल लेंस",
+   "द्वि-फोकसी लेंस",
+   "बेलनाकार लेंस"
+  ],
+  "correct": 1,
+  "explainEn": "Myopia is corrected by using a concave lens of suitable power, which diverges the incoming light rays before they enter the eye.",
+  "sourceHint": "NCERT Class 10 Physics Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:51:22Z"
+ },
+ {
+  "id": "q_a11bd4dddcad094f",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which British official introduced the Doctrine of Lapse in the nineteenth century?",
+  "qHi": "उन्नीसवीं शताब्दी में किस ब्रिटिश अधिकारी ने हड़प नीति (डॉक्ट्रिन ऑफ लैप्स) की शुरुआत की थी?",
+  "optsEn": [
+   "Lord Cornwallis",
+   "Lord Dalhousie",
+   "Lord Wellesley",
+   "Lord Curzon"
+  ],
+  "optsHi": [
+   "लॉर्ड कॉर्नवॉलिस",
+   "लॉर्ड डलहौजी",
+   "लॉर्ड वेलेजली",
+   "लॉर्ड कर्जन"
+  ],
+  "correct": 1,
+  "explainEn": "Lord Dalhousie, Governor-General of India, extensively applied the Doctrine of Lapse to annex several princely states.",
+  "sourceHint": "NCERT Class 12 History, Chapter 11",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:52:17Z"
+ },
+ {
+  "id": "q_571a0dfe4ea3abef",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which process is responsible for the direct conversion of ammonium salts into free nitrogen gas in the nitrogen cycle?",
+  "qHi": "नाइट्रोजन चक्र में अमोनियम लवणों को सीधे मुक्त नाइट्रोजन गैस में बदलने के लिए कौन सी प्रक्रिया जिम्मेदार है?",
+  "optsEn": [
+   "Nitrification",
+   "Ammonification",
+   "Denitrification",
+   "Nitrogen fixation"
+  ],
+  "optsHi": [
+   "नाइट्रीकरण",
+   "अमोनीकरण",
+   "विनाइट्रीकरण",
+   "नाइट्रोजन स्थिरीकरण"
+  ],
+  "correct": 2,
+  "explainEn": "Denitrification is the microbial process where nitrates and ammonium are reduced back into nitrogen gas, returning it to the atmosphere.",
+  "sourceHint": "NCERT Class 12 Biology, Chapter 13",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:52:17Z"
+ },
+ {
+  "id": "q_6b99284f0c966671",
+  "group": "class-12",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which literary figure wrote the famous play 'Neel Darpan', which depicted the plight of indigo cultivators in Bengal?",
+  "qHi": "किस साहित्यिक हस्ती ने प्रसिद्ध नाटक 'नील दर्पण' लिखा, जिसमें बंगाल में नील की खेती करने वालों की दुर्दशा का चित्रण किया गया था?",
+  "optsEn": [
+   "Bankim Chandra Chattopadhyay",
+   "Dinabandhu Mitra",
+   "Michael Madhusudan Dutt",
+   "Rabindranath Tagore"
+  ],
+  "optsHi": [
+   "बंकिम चंद्र चट्टोपाध्याय",
+   "दीनबंधु मित्र",
+   "माइकल मधुसूदन दत्त",
+   "रवींद्रनाथ टैगोर"
+  ],
+  "correct": 1,
+  "explainEn": "Dinabandhu Mitra authored 'Neel Darpan' in 1860, bringing widespread attention to the oppression of indigo farmers.",
+  "sourceHint": "NCERT Class 12 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:52:17Z"
  }
 ]

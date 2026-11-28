@@ -25898,5 +25898,257 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-27T21:20:29Z"
+ },
+ {
+  "id": "q_a9d2e96b9b7e2b47",
+  "group": "ssc",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which historical monument is located in the city of Agra?",
+  "qHi": "आगरा शहर में कौन सा ऐतिहासिक स्मारक स्थित है?",
+  "optsEn": [
+   "Taj Mahal",
+   "Gateway of India",
+   "Charminar",
+   "Hawa Mahal"
+  ],
+  "optsHi": [
+   "ताजमहल",
+   "गेटवे ऑफ इंडिया",
+   "चारमीनार",
+   "हवा महल"
+  ],
+  "correct": 0,
+  "explainEn": "The Taj Mahal is a mausoleum built by Mughal Emperor Shah Jahan in Agra.",
+  "sourceHint": "NCERT History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:50:39Z"
+ },
+ {
+  "id": "q_56d15669554ad623",
+  "group": "ssc",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which session of the Indian National Congress was the historic Purna Swaraj resolution adopted?",
+  "qHi": "भारतीय राष्ट्रीय कांग्रेस के किस अधिवेशन में ऐतिहासिक पूर्ण स्वराज का प्रस्ताव पारित किया गया था?",
+  "optsEn": [
+   "Calcutta Session of 1928",
+   "Lahore Session of 1929",
+   "Karachi Session of 1931",
+   "Tripuri Session of 1939"
+  ],
+  "optsHi": [
+   "1928 का कलकत्ता अधिवेशन",
+   "1929 का लाहौर अधिवेशन",
+   "1931 का कराची अधिवेशन",
+   "1939 का त्रिपुरी अधिवेशन"
+  ],
+  "correct": 1,
+  "explainEn": "The 1929 Lahore session of the INC, presided over by Jawaharlal Nehru, passed the Poorna Swaraj (complete independence) resolution.",
+  "sourceHint": "NCERT Modern Indian History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:51:50Z"
+ },
+ {
+  "id": "q_fe978775cf71be39",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the Gupta Empire, the officer responsible for maintaining the royal treasury and archives was known by which term?",
+  "qHi": "गुप्त साम्राज्य के दौरान शाही राजkos और अभिलेखागार के रखरखाव के लिए जिम्मेदार अधिकारी को किस नाम से जाना जाता था?",
+  "optsEn": [
+   "Mahabaladhikritya",
+   "Sandhivigrahika",
+   "Akshapataladhikrita",
+   "Dandapasika"
+  ],
+  "optsHi": [
+   "महाबलाधिकृत",
+   "संधिविग्रहिक",
+   "अक्षपटलाधिकृत",
+   "दंडपाशिक"
+  ],
+  "correct": 2,
+  "explainEn": "In the administrative system of the Gupta Empire, the Akshapataladhikrita was the official in charge of the royal records, archives, and treasury accounts.",
+  "sourceHint": "NCERT History Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:52:47Z"
+ },
+ {
+  "id": "q_fb5c91dd4c9d5750",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which biogeographic zone of India contains the region known as Ladakh and the high-altitude cold desert?",
+  "qHi": "भारत के किस जैव-भौगोलिक क्षेत्र में लद्दाख और उच्च तुंगता वाला शीत मरुस्थल क्षेत्र शामिल है?",
+  "optsEn": [
+   "Trans-Himalaya",
+   "Himalayan Zone",
+   "North-East Zone",
+   "Semi-Arid Zone"
+  ],
+  "optsHi": [
+   "ट्रांस-हिमालय",
+   "हिमालयी क्षेत्र",
+   "उत्तर-पूर्व क्षेत्र",
+   "अर्ध-शुष्क क्षेत्र"
+  ],
+  "correct": 0,
+  "explainEn": "India is divided into 10 biogeographic zones, among which the Trans-Himalaya zone covers the high-altitude cold desert regions of Ladakh and parts of Himachal Pradesh.",
+  "sourceHint": "Wildlife Institute of India, Biogeographic Classification",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:52:47Z"
+ },
+ {
+  "id": "q_e8cf79482a42bd4c",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "What is the primary commercial use of the mineral chalcopyrite found in crustal rocks?",
+  "qHi": "पर्पटीय चट्टानों में पाए जाने वाले खनिज चालकोपाइराइट का प्राथमिक व्यावसायिक उपयोग क्या है?",
+  "optsEn": [
+   "Iron extraction",
+   "Copper extraction",
+   "Aluminium extraction",
+   "Manganese extraction"
+  ],
+  "optsHi": [
+   "लोहा निष्कर्षण",
+   "तांबा निष्कर्षण",
+   "एल्यूमीनियम निष्कर्षण",
+   "मैंगनीज निष्कर्षण"
+  ],
+  "correct": 1,
+  "explainEn": "Chalcopyrite is a copper iron sulfide mineral and is the most important ore of copper commercially.",
+  "sourceHint": "NCERT Geography Textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:52:47Z"
+ },
+ {
+  "id": "q_4e722b668339e189",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which historical site is associated with the discovery of the largest Harappan inscription board, known as the Dholavira Signboard?",
+  "qHi": "धोलावीरा साइनबोर्ड के रूप में जाने जाने वाले सबसे बड़े हड़प्पा शिलालेख बोर्ड की खोज से कौन सा ऐतिहासिक स्थल जुड़ा है?",
+  "optsEn": [
+   "Harappa",
+   "Mohenjo-daro",
+   "Dholavira",
+   "Rakhigarhi"
+  ],
+  "optsHi": [
+   "हड़प्पा",
+   "मोहनजोदड़ो",
+   "धोलावीरा",
+   "राखीगढ़ी"
+  ],
+  "correct": 2,
+  "explainEn": "The Dholavira Signboard, featuring ten large signs from the Indus script, was found at the archaeological site of Dholavira in Gujarat.",
+  "sourceHint": "ASI Excavation Reports",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:52:47Z"
+ },
+ {
+  "id": "q_bf9dc723bc258d5e",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of Indian monetary policy, the term 'Marginal Standing Facility' was introduced in which year?",
+  "qHi": "भारतीय मौद्रिक नीति के संदर्भ में, 'सीमांत स्थायी सुविधा' (MSF) शब्द किस वर्ष शुरू किया गया था?",
+  "optsEn": [
+   "2008-09",
+   "2011-12",
+   "2014-15",
+   "2016-17"
+  ],
+  "optsHi": [
+   "2008-09",
+   "2011-12",
+   "2014-15",
+   "2016-17"
+  ],
+  "correct": 1,
+  "explainEn": "The Marginal Standing Facility (MSF) was introduced by the Reserve Bank of India in the monetary policy statement for the year 2011-12.",
+  "sourceHint": "RBI Annual Report",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:52:47Z"
+ },
+ {
+  "id": "q_ec2b7b7624a1cfc4",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian state has the statutory authority of the Western Ghats Ecology Expert Panel (Gadgil Commission) recommendations primarily focused upon?",
+  "qHi": "पश्चिमी घाट पारिस्थितिकी विशेषज्ञ पैनल (गाडगिल आयोग) की सिफारिशों का वैधानिक अधिकार मुख्य रूप से किस भारतीय राज्य से संबंधित है?",
+  "optsEn": [
+   "Goa",
+   "Kerala",
+   "All Western Ghats States",
+   "Maharashtra only"
+  ],
+  "optsHi": [
+   "गोवा",
+   "केरल",
+   "सभी पश्चिमी घाट राज्य",
+   "केवल महाराष्ट्र"
+  ],
+  "correct": 2,
+  "explainEn": "The Western Ghats Ecology Expert Panel, headed by Madhav Gadgil, covered the entire range of the Western Ghats spreading across six states: Gujarat, Maharashtra, Goa, Karnataka, Kerala, and Tamil Nadu.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change, Govt of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:52:47Z"
+ },
+ {
+  "id": "q_c6e00334524df2e9",
+  "group": "ssc",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "During the British colonial rule in India, the Vernacular Press Act was enacted during the viceroyalty of whom?",
+  "qHi": "भारत में ब्रिटिश औपनिवेशिक शासन के दौरान, वर्नाकुलर प्रेस एक्ट किस वायसराय के कार्यकाल में अधिनियमित किया गया था?",
+  "optsEn": [
+   "Lord Lytton",
+   "Lord Ripon",
+   "Lord Curzon",
+   "Lord Dufferin"
+  ],
+  "optsHi": [
+   "लॉर्ड लिटन",
+   "लॉर्ड रिपन",
+   "लॉर्ड कर्जन",
+   "लॉर्ड डफरिन"
+  ],
+  "correct": 0,
+  "explainEn": "The Vernacular Press Act was passed in 1878 during the viceroyalty of Lord Lytton to curtail the freedom of the Indian-language press.",
+  "sourceHint": "NCERT Modern Indian History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:52:47Z"
  }
 ]

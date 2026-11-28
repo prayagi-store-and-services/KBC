@@ -35894,5 +35894,145 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-27T21:19:54Z"
+ },
+ {
+  "id": "q_fe86d328d8cef18f",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which organ of the Indian government is responsible for implementing laws?",
+  "qHi": "भारत सरकार का कौन सा अंग कानूनों को लागू करने के लिए उत्तरदायी है?",
+  "optsEn": [
+   "Legislature",
+   "Executive",
+   "Judiciary",
+   "Election Commission"
+  ],
+  "optsHi": [
+   "विधायिका",
+   "कार्यपालिका",
+   "न्यायपालिका",
+   "निर्वाचन आयोग"
+  ],
+  "correct": 1,
+  "explainEn": "The Executive is the branch of government responsible for the daily administration and implementation of laws.",
+  "sourceHint": "NCERT Class 10 Political Science",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:50:58Z"
+ },
+ {
+  "id": "q_e2994535f4c8454d",
+  "group": "class-10",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which language was added to the Eighth Schedule of the Indian Constitution by the 21st Amendment Act?",
+  "qHi": "किस संविधान संशोधन अधिनियम द्वारा भारतीय संविधान की आठवीं अनुसूची में सिंधी भाषा को जोड़ा गया था?",
+  "optsEn": [
+   "Sindhi",
+   "Konkani",
+   "Nepali",
+   "Manipuri"
+  ],
+  "optsHi": [
+   "सिंधी",
+   "कोंकणी",
+   "नेपाली",
+   "मणिपुरी"
+  ],
+  "correct": 0,
+  "explainEn": "Sindhi was added to the Eighth Schedule by the 21st Constitutional Amendment Act of 1967.",
+  "sourceHint": "NCERT Class 10 Political Science Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:50:58Z"
+ },
+ {
+  "id": "q_3976e2c2a0940c37",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which level of the government in India has the power to legislate on 'Residuary Subjects'?",
+  "qHi": "भारत में किस स्तर की सरकार को 'अवशिष्ट विषयों' पर कानून बनाने की शक्ति प्राप्त है?",
+  "optsEn": [
+   "Gram Panchayat",
+   "State Government",
+   "Union Government",
+   "District Administration"
+  ],
+  "optsHi": [
+   "ग्राम पंचायत",
+   "राज्य सरकार",
+   "केंद्र सरकार",
+   "जिला प्रशासन"
+  ],
+  "correct": 2,
+  "explainEn": "According to the Indian Constitution, subjects that do not fall in any of the three lists (Union, State, Concurrent) are called residuary subjects, and the Union Parliament has the power to legislate on them.",
+  "sourceHint": "NCERT Class 10 Civics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:52:12Z"
+ },
+ {
+  "id": "q_c1dc8d584919098d",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which sector is traditionally known as the primary sector in economic activities?",
+  "qHi": "आर्थिक गतिविधियों में पारंपरिक रूप से किस क्षेत्र को प्राथमिक क्षेत्रक के रूप में जाना जाता है?",
+  "optsEn": [
+   "Manufacturing",
+   "Agriculture and allied activities",
+   "Information Technology",
+   "Banking and Commerce"
+  ],
+  "optsHi": [
+   "विनिर्माण",
+   "कृषि और संबंधित गतिविधियाँ",
+   "सूचना प्रौद्योगिकी",
+   "बैंकिंग और वाणिज्य"
+  ],
+  "correct": 1,
+  "explainEn": "Agriculture, forestry, fishing, and mining form the primary sector as they involve the extraction and production of natural products.",
+  "sourceHint": "NCERT Class 10 Economics, Chapter 2",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:52:12Z"
+ },
+ {
+  "id": "q_8a86b8425439cd38",
+  "group": "class-10",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "In which year was the Treaty of Constantinople signed, recognizing Greece as an independent nation?",
+  "qHi": "किस वर्ष कॉन्स्टेंटिनोपल (कुस्तुनतुनिया) की संधि पर हस्ताक्षर किए गए थे, जिसने यूनान को एक स्वतंत्र राष्ट्र के रूप में मान्यता दी?",
+  "optsEn": [
+   "1789",
+   "1815",
+   "1832",
+   "1848"
+  ],
+  "optsHi": [
+   "1789",
+   "1815",
+   "1832",
+   "1848"
+  ],
+  "correct": 2,
+  "explainEn": "The Treaty of Constantinople of 1832 recognized Greece as an independent nation, concluding the Greek War of Independence.",
+  "sourceHint": "NCERT Class 10 History, Chapter 1",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:52:12Z"
  }
 ]

@@ -25590,5 +25590,173 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-27T21:20:40Z"
+ },
+ {
+  "id": "q_874bfc92a31ffbe6",
+  "group": "general",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In which state is the Gir National Park located, famous for Asiatic lions?",
+  "qHi": "गिर राष्ट्रीय उद्यान, जो एशियाई शेरों के लिए प्रसिद्ध है, किस राज्य में स्थित है?",
+  "optsEn": [
+   "Gujarat",
+   "Madhya Pradesh",
+   "Rajasthan",
+   "Maharashtra"
+  ],
+  "optsHi": [
+   "गुजरात",
+   "मध्य प्रदेश",
+   "राजस्थान",
+   "महाराष्ट्र"
+  ],
+  "correct": 0,
+  "explainEn": "Gir National Park and Wildlife Sanctuary is located in the state of Gujarat.",
+  "sourceHint": "Ministry of Environment, Forest and Climate Change",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:50:48Z"
+ },
+ {
+  "id": "q_1319931baba0502a",
+  "group": "general",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which classical dance form originated in the state of Kerala and is traditionally performed with elaborate facial makeup and costumes?",
+  "qHi": "कौन सा शास्त्रीय नृत्य रूप केरल राज्य में उत्पन्न हुआ है और पारंपरिक रूप से विस्तृत चेहरे के मेकअप और वेशभूषा के साथ किया जाता है?",
+  "optsEn": [
+   "Bharatanatyam",
+   "Kuchipudi",
+   "Kathakali",
+   "Odissi"
+  ],
+  "optsHi": [
+   "भरतनाट्यम",
+   "कुचिपुड़ी",
+   "कथकली",
+   "ओडिसी"
+  ],
+  "correct": 2,
+  "explainEn": "Kathakali is a major classical Indian dance form known for its attractive make-up of characters, elaborate costumes, and detailed gestures.",
+  "sourceHint": "Centre for Cultural Resources and Training",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:52:00Z"
+ },
+ {
+  "id": "q_0fd85627e5a963d3",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which classical dance form of India traditionally uses the 'Sattriya' repertoire, originating from the 15th-century monastery traditions of Assam?",
+  "qHi": "भारत की किस शास्त्रीय नृत्य शैली में पारंपरिक रूप से 'सत्रिया' प्रदर्शनों का उपयोग किया जाता है, जिसकी उत्पत्ति असम की 15वीं शताब्दी की मठ परंपराओं से हुई है?",
+  "optsEn": [
+   "Sattriya",
+   "Kathakali",
+   "Manipuri",
+   "Odissi"
+  ],
+  "optsHi": [
+   "सत्रिया",
+   "कथकली",
+   "मणिपुरी",
+   "ओडिसी"
+  ],
+  "correct": 0,
+  "explainEn": "Sattriya is a major Indian classical dance form introduced by the 15th-century Bhakti movement saint Srimanta Sankaradeva in Assam.",
+  "sourceHint": "Centre for Cultural Resources and Training (CCRT)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:52:58Z"
+ },
+ {
+  "id": "q_dc03fb8f51579738",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian city houses the headquarters of the Geological Survey of India?",
+  "qHi": "भारतीय भूवैज्ञानिक सर्वेक्षण का मुख्यालय भारत के किस शहर में स्थित है?",
+  "optsEn": [
+   "Kolkata",
+   "New Delhi",
+   "Bengaluru",
+   "Hyderabad"
+  ],
+  "optsHi": [
+   "कोलकाता",
+   "नई दिल्ली",
+   "बेंगलुरु",
+   "हैदराबाद"
+  ],
+  "correct": 0,
+  "explainEn": "The Geological Survey of India, founded in 1851, has its headquarters in Kolkata, West Bengal.",
+  "sourceHint": "Geological Survey of India Official Website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:52:58Z"
+ },
+ {
+  "id": "q_a83e3c4855d82277",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which historical monument in India was built by Qutb-ud-din Aibak as a victory tower in the early 13th century?",
+  "qHi": "भारत में किस ऐतिहासिक स्मारक का निर्माण कुतुब-द्दीन ऐबक ने 13वीं शताब्दी की शुरुआत में विजय मीनार के रूप में करवाया था?",
+  "optsEn": [
+   "Qutb Minar",
+   "Charminar",
+   "Buland Darwaza",
+   "Fateh Burj"
+  ],
+  "optsHi": [
+   "कुतुब मीनार",
+   "चारमीनार",
+   "बुलंद दरवाजा",
+   "फतेह बुर्ज"
+  ],
+  "correct": 0,
+  "explainEn": "Construction of the Qutb Minar was initiated by Qutb-ud-din Aibak around 1199 AD and completed by his successor Iltutmish.",
+  "sourceHint": "Archaeological Survey of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:52:58Z"
+ },
+ {
+  "id": "q_41a69d37138d70d5",
+  "group": "general",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which Indian state is drained significantly by the river Brahmaputra and shares an international boundary with Bhutan, China, and Myanmar?",
+  "qHi": "ब्रह्मपुत्र नदी द्वारा किस भारतीय राज्य का एक बड़ा हिस्सा सिंचित होता है और यह भूटान, चीन तथा म्यांमार के साथ अंतरराष्ट्रीय सीमा साझा करता है?",
+  "optsEn": [
+   "Arunachal Pradesh",
+   "Sikkim",
+   "Meghalaya",
+   "Tripura"
+  ],
+  "optsHi": [
+   "अरुणाचल प्रदेश",
+   "सिक्किम",
+   "मेघालय",
+   "त्रिपुरा"
+  ],
+  "correct": 0,
+  "explainEn": "Arunachal Pradesh is traversed by the Brahmaputra (known locally as the Siang or Dihang) and shares borders with Bhutan, China, and Myanmar.",
+  "sourceHint": "NCERT Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:52:58Z"
  }
 ]

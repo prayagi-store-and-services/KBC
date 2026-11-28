@@ -45610,5 +45610,285 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-27T21:20:35Z"
+ },
+ {
+  "id": "q_f45e3a0bd8226d4e",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which term is used to describe a loan where the borrower pledges physical assets as collateral to the lender?",
+  "qHi": "उस ऋण का वर्णन करने के लिए किस शब्द का उपयोग किया जाता है जहाँ उधारकर्ता ऋणदाता के पास संपार्श्विक के रूप में भौतिक संपत्ति गिरवी रखता है?",
+  "optsEn": [
+   "Secured loan",
+   "Unsecured loan",
+   "Subprime loan",
+   "Peer-to-peer loan"
+  ],
+  "optsHi": [
+   "सुरक्षित ऋण",
+   "असुरक्षित ऋण",
+   "सबप्राइम ऋण",
+   "पीयर-टू-पीयर ऋण"
+  ],
+  "correct": 0,
+  "explainEn": "A secured loan is backed by collateral, which the lender can seize if the borrower defaults.",
+  "sourceHint": "NCERT Economics textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:50:44Z"
+ },
+ {
+  "id": "q_912519c60c37fbd6",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "In the context of Indian currency, what does the letter 'R' stand for in the acronym 'RTGS'?",
+  "qHi": "भारतीय मुद्रा के संदर्भ में, संक्षिप्त नाम 'RTGS' में अक्षर 'R' का क्या अर्थ है?",
+  "optsEn": [
+   "Rapid",
+   "Reserve",
+   "Real",
+   "Regular"
+  ],
+  "optsHi": [
+   "Rapid",
+   "Reserve",
+   "Real",
+   "Regular"
+  ],
+  "correct": 2,
+  "explainEn": "RTGS stands for Real Time Gross Settlement, a funds transfer system where transfer of money takes place from one bank to another on a real-time basis.",
+  "sourceHint": "RBI official website",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:50:44Z"
+ },
+ {
+  "id": "q_9f64b060a5c0bec8",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which of the following is NOT a function of a central bank like the Reserve Bank of India?",
+  "qHi": "निम्नलिखित में से कौन सा भारतीय रिजर्व बैंक जैसे केंद्रीय बैंक का कार्य नहीं है?",
+  "optsEn": [
+   "Issuing currency notes",
+   "Acting as banker to the government",
+   "Accepting deposits from the general public",
+   "Regulating commercial banks"
+  ],
+  "optsHi": [
+   "करेंसी नोट जारी करना",
+   "सरकार के बैंकर के रूप में कार्य करना",
+   "आम जनता से जमा स्वीकार करना",
+   "वाणिज्यिक बैंकों को विनियमित करना"
+  ],
+  "correct": 2,
+  "explainEn": "Central banks do not deal with the general public for accepting deposits or granting loans; those are functions of commercial banks.",
+  "sourceHint": "NCERT Economics textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:50:44Z"
+ },
+ {
+  "id": "q_b33edabd0b576f2a",
+  "group": "banking",
+  "band": "easy",
+  "tierFrom": 1,
+  "tierTo": 5,
+  "special": null,
+  "qEn": "Which financial instrument represents ownership in a company and claims on part of its assets and earnings?",
+  "qHi": "कौन सा वित्तीय साधन किसी कंपनी में स्वामित्व और उसकी संपत्ति तथा आय के एक हिस्से पर दावे का प्रतिनिधित्व करता है?",
+  "optsEn": [
+   "Bonds",
+   "Treasury bills",
+   "Equity shares",
+   "Certificates of deposit"
+  ],
+  "optsHi": [
+   "बॉन्ड",
+   "राजकोषीय बिल",
+   "इक्विटी शेयर",
+   "जमा प्रमाणपत्र"
+  ],
+  "correct": 2,
+  "explainEn": "Equity shares represent ownership in a corporation and entitle the holder to a portion of the company's assets and profits.",
+  "sourceHint": "NCERT Business Studies",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:50:44Z"
+ },
+ {
+  "id": "q_5ad5eae3c9bb1781",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Under the Indian Negotiable Instruments Act, 1881, what is the maximum validity period for the presentation of a cheque from the date of its issuance?",
+  "qHi": "परक्राम्य लिखत अधिनियम, 1881 के तहत, चेक जारी होने की तारीख से उसकी प्रस्तुति के लिए अधिकतम वैधता अवधि क्या है?",
+  "optsEn": [
+   "1 month",
+   "3 months",
+   "6 months",
+   "12 months"
+  ],
+  "optsHi": [
+   "1 महीना",
+   "3 महीने",
+   "6 महीने",
+   "12 महीने"
+  ],
+  "correct": 1,
+  "explainEn": "The Reserve Bank of India directed that the validity period of cheques, drafts, and pay orders be reduced from 6 months to 3 months from the date of issue.",
+  "sourceHint": "RBI Circular / Negotiable Instruments Act",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:51:56Z"
+ },
+ {
+  "id": "q_e72eb5df36711872",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "What is the primary objective of the 'Prompt Corrective Action' (PCA) framework implemented by the Reserve Bank of India?",
+  "qHi": "भारतीय रिजर्व बैंक द्वारा कार्यान्वित 'तत्काल सुधारात्मक कार्रवाई' (PCA) फ्रेमवर्क का प्राथमिक उद्देश्य क्या है?",
+  "optsEn": [
+   "To monitor and intervene early in weak and financially stressed banks",
+   "To manage foreign exchange reserves",
+   "To fix the minimum lending rates for retail loans",
+   "To audit rural cooperative societies"
+  ],
+  "optsHi": [
+   "कमजोर और वित्तीय रूप से तनावग्रस्त बैंकों की निगरानी करना और उनमें शीघ्र हस्तक्षेप करना",
+   "विदेशी मुद्रा भंडार का प्रबंधन करना",
+   "खुदरा ऋणों के लिए न्यूनतम ऋण दरें तय करना",
+   "ग्रामीण सहकारी समितियों का लेखा परीक्षण करना"
+  ],
+  "correct": 0,
+  "explainEn": "The PCA framework allows the RBI to step in and take corrective measures against commercial banks that breach certain thresholds for capital, asset quality, and profitability.",
+  "sourceHint": "RBI guidelines on PCA framework",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:51:56Z"
+ },
+ {
+  "id": "q_acb609185875cab8",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which term describes a situation where the general price level in an economy falls continuously over a period, often associated with economic contraction?",
+  "qHi": "उस स्थिति को क्या कहते हैं जिसमें किसी अर्थव्यवस्था में सामान्य मूल्य स्तर एक अवधि में लगातार गिरता है, जो अक्सर आर्थिक संकुचन से जुड़ा होता है?",
+  "optsEn": [
+   "Stagflation",
+   "Deflation",
+   "Reflation",
+   "Hyperinflation"
+  ],
+  "optsHi": [
+   "स्टैगफ्लेशन",
+   "अपस्फीति (डिफ्लेशन)",
+   "रिफ्लेशन",
+   "अतिस्फीति"
+  ],
+  "correct": 1,
+  "explainEn": "Deflation is a general decline in prices for goods and services, typically associated with a contraction in the supply of money and credit in the economy.",
+  "sourceHint": "NCERT Economics textbook",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:51:56Z"
+ },
+ {
+  "id": "q_3747d7905aea54ff",
+  "group": "banking",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which of the following entities acts as the central nodal agency in India for the implementation of the Public Financial Management System (PFMS)?",
+  "qHi": "सार्वजनिक वित्तीय प्रबंधन प्रणाली (PFMS) के कार्यान्वयन के लिए भारत में निम्नलिखित में से कौन सी संस्था केंद्रीय नोडल एजेंसी के रूप में कार्य करती है?",
+  "optsEn": [
+   "Controller General of Accounts",
+   "Securities and Exchange Board of India",
+   "National Bank for Agriculture and Rural Development",
+   "Export-Import Bank of India"
+  ],
+  "optsHi": [
+   "लेखा महानियंत्रक (CGA)",
+   "भारतीय प्रतिभूति और विनिमय बोर्ड",
+   "राष्ट्रीय कृषि और ग्रामीण विकास बैंक",
+   "भारतीय निर्यात-आयात बैंक"
+  ],
+  "correct": 0,
+  "explainEn": "The Public Financial Management System (PFMS) is administered by the Controller General of Accounts in the Ministry of Finance.",
+  "sourceHint": "Ministry of Finance, Government of India",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:51:56Z"
+ },
+ {
+  "id": "q_968550946e7d92ea",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "In the context of priority sector lending (PSL) in India, what is the overall PSL target for domestic scheduled commercial banks as a percentage of Adjusted Net Bank Credit (ANBC)?",
+  "qHi": "भारत में प्राथमिकता प्राप्त क्षेत्र को ऋण (PSL) के संदर्भ में, घरेलू अनुसूचित वाणिज्यिक बैंकों के लिए समायोजित शुद्ध बैंक ऋण (ANBC) के प्रतिशत के रूप में कुल PSL लक्ष्य क्या है?",
+  "optsEn": [
+   "40 percent",
+   "75 percent",
+   "18 percent",
+   "10 percent"
+  ],
+  "optsHi": [
+   "40 प्रतिशत",
+   "75 प्रतिशत",
+   "18 प्रतिशत",
+   "10 प्रतिशत"
+  ],
+  "correct": 0,
+  "explainEn": "Domestic scheduled commercial banks and foreign banks with 20 branches and above must meet a 40 percent PSL target of ANBC.",
+  "sourceHint": "RBI Master Directions on Priority Sector Lending",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:52:53Z"
+ },
+ {
+  "id": "q_11fe7186a3bf17dc",
+  "group": "banking",
+  "band": "hard",
+  "tierFrom": 12,
+  "tierTo": 17,
+  "special": null,
+  "qEn": "Which type of risk refers to the potential loss resulting from inadequate or failed internal processes, people, and systems or from external events under Basel norms?",
+  "qHi": "बेसल मानदंडों के तहत किस प्रकार का जोखिम अपर्याप्त या विफल आंतरिक प्रक्रियाओं, लोगों और प्रणालियों या बाहरी घटनाओं से होने वाले संभावित नुकसान को संदर्भित करता है?",
+  "optsEn": [
+   "Credit risk",
+   "Market risk",
+   "Operational risk",
+   "Liquidity risk"
+  ],
+  "optsHi": [
+   "क्रेडिट जोखिम",
+   "बाजार जोखिम",
+   "परिचालन जोखिम",
+   "तरलता जोखिम"
+  ],
+  "correct": 2,
+  "explainEn": "Operational risk is defined as the risk of loss resulting from inadequate or failed internal processes, people, and systems or from external events.",
+  "sourceHint": "Basel Committee on Banking Supervision (BCBS)",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:52:53Z"
  }
 ]

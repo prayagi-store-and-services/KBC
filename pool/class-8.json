@@ -30910,5 +30910,61 @@
   "verifiedBy": "AI second pass agreed (high confidence)",
   "model": "gemini-3.5-flash-lite",
   "createdAt": "2026-11-27T21:19:49Z"
+ },
+ {
+  "id": "q_f83fc636d333d869",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which Mughal Emperor defeated Rana Sanga of Mewar at the Battle of Khanwa in 1527?",
+  "qHi": "किस मुगल सम्राट ने 1527 में खानवा के युद्ध में मेवाड़ के राणा सांगा को हराया था?",
+  "optsEn": [
+   "Babur",
+   "Akbar",
+   "Humayun",
+   "Aurangzeb"
+  ],
+  "optsHi": [
+   "बाबर",
+   "अकबर",
+   "हुमायूं",
+   "औरंगजेब"
+  ],
+  "correct": 0,
+  "explainEn": "Babur defeated Rana Sanga at the Battle of Khanwa in 1527, strengthening Mughal rule in northern India.",
+  "sourceHint": "NCERT Class 8 History",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:52:08Z"
+ },
+ {
+  "id": "q_a2402ac763c5ed1f",
+  "group": "class-8",
+  "band": "medium",
+  "tierFrom": 6,
+  "tierTo": 11,
+  "special": null,
+  "qEn": "Which layer of the atmosphere experiences weather phenomena such as rain, fog, and hailstorm?",
+  "qHi": "वायुमंडल की किस परत में वर्षा, कोहरा और ओलावृष्टि जैसी मौसमी घटनाएं होती हैं?",
+  "optsEn": [
+   "Stratosphere",
+   "Troposphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "optsHi": [
+   "समताप मंडल",
+   "क्षोभ मंडल",
+   "मध्यमंडल",
+   "बाह्य वायुमंडल"
+  ],
+  "correct": 1,
+  "explainEn": "The troposphere is the lowest layer of Earth's atmosphere where almost all weather phenomena take place.",
+  "sourceHint": "NCERT Class 7 and 8 Geography",
+  "verifiedBy": "AI second pass agreed (high confidence)",
+  "model": "gemini-3.5-flash-lite",
+  "createdAt": "2026-11-28T07:52:08Z"
  }
 ]
